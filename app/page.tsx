@@ -1,36 +1,19 @@
-import Link from "next/link";
+﻿import Link from "next/link";
 
 const WHATSAPP =
-  "https://wa.me/90XXXXXXXXXX?text=Merhaba%2C%20DTF%20bask%C4%B1%20i%C3%A7in%20fiyat%20almak%20istiyorum.";
+  "https://wa.me/90XXXXXXXXXX?text=Merhaba%2C%20DTF%20bask%C4%B1%20ve%20promosyon%20%C3%BCr%C3%BCnleri%20i%C3%A7in%20teklif%20almak%20istiyorum.";
 
 export default function Home() {
   return (
     <main className="min-h-screen bg-white">
-      <header className="mx-auto flex max-w-6xl items-center justify-between px-5 py-6">
-        <div className="text-lg font-bold">FirmaPromosyon</div>
-
-        <nav className="hidden gap-5 text-sm text-gray-700 md:flex">
-          <a className="hover:text-black" href="#hizmetler">Hizmetler</a>
-          <a className="hover:text-black" href="#urunler">Ürünler</a>
-          <a className="hover:text-black" href="#surec">Süreç</a>
-          <a className="hover:text-black" href="#sss">SSS</a>
-          <Link className="hover:text-black" href="/iletisim">İletişim</Link>
-        </nav>
-
-        <a
-          href={WHATSAPP}
-          target="_blank"
-          className="rounded-xl bg-black px-4 py-2 text-sm font-semibold text-white hover:opacity-90"
-        >
-          WhatsApp
-        </a>
-      </header>
-
+      {/* HERO */}
       <section className="mx-auto grid max-w-6xl gap-10 px-5 py-12 md:grid-cols-2 md:items-center">
         <div>
           <h1 className="text-4xl font-extrabold leading-tight md:text-5xl">
             DTF Baskı & Promosyon Ürün
-            <span className="block text-gray-600">Hızlı üretim • Kurumsal toplu sipariş</span>
+            <span className="block text-gray-600">
+              Hızlı üretim • Kurumsal toplu sipariş
+            </span>
           </h1>
 
           <p className="mt-4 text-gray-700">
@@ -39,19 +22,27 @@ export default function Home() {
           </p>
 
           <div className="mt-6 flex flex-wrap gap-3">
+            <Link
+              href="/kurumsal-teklif-al"
+              className="rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white hover:opacity-90"
+            >
+              Kurumsal Teklif Al
+            </Link>
+
             <a
               href={WHATSAPP}
               target="_blank"
-              className="rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white hover:opacity-90"
+              className="rounded-xl border border-gray-300 px-5 py-3 text-sm font-semibold hover:border-gray-500"
+              rel="noreferrer"
             >
-              Hızlı Teklif Al
+              WhatsApp’tan Yaz
             </a>
 
             <Link
               href="/iletisim"
               className="rounded-xl border border-gray-300 px-5 py-3 text-sm font-semibold hover:border-gray-500"
             >
-              İletişim Formu
+              İletişim
             </Link>
           </div>
 
@@ -72,6 +63,7 @@ export default function Home() {
         </div>
       </section>
 
+      {/* SECTIONS */}
       <section id="hizmetler" className="mx-auto max-w-6xl px-5 py-12">
         <h2 className="text-2xl font-bold">Hizmetler</h2>
         <div className="mt-6 grid gap-4 md:grid-cols-3">
@@ -155,3 +147,4 @@ function Faq({ q, a }: { q: string; a: string }) {
     </details>
   );
 }
+
