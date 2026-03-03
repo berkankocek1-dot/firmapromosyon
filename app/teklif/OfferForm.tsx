@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import type { Product } from "@/data/products";
 
-const WHATSAPP_PHONE = "90XXXXXXXXXX"; // kendi numaran
+const WHATSAPP_PHONE = "90XXXXXXXXXX"; // kendi numaran (başında + yok)
 const wa = (text: string) =>
   `https://wa.me/${WHATSAPP_PHONE}?text=${encodeURIComponent(text)}`;
 
@@ -47,14 +47,13 @@ Merhaba, hızlı teklif almak istiyorum.
 
 Ürün: ${selectedProduct?.title || "-"}
 Kategori: ${selectedProduct?.category || "-"}
-Minimum Sipariş: ${selectedProduct?.minOrder || "-"}
-Adet: ${qty}
-Firma: ${company}
-Not: ${note}
+Adet: ${qty || "-"}
+Firma: ${company || "-"}
+Not: ${note || "-"}
 
-Ad Soyad: ${fullName}
-Telefon: ${phone}
-E-posta: ${email}
+Ad Soyad: ${fullName || "-"}
+Telefon: ${phone || "-"}
+E-posta: ${email || "-"}
 `.trim();
 
     window.open(wa(msg), "_blank", "noopener,noreferrer");
@@ -69,9 +68,7 @@ E-posta: ${email}
   return (
     <form onSubmit={handleSubmit} className="space-y-4 text-gray-900">
       <div>
-        <label className="block text-sm font-semibold text-gray-900">
-          Ürün
-        </label>
+        <label className="block text-sm font-semibold text-gray-900">Ürün</label>
 
         <select
           className={selectClass}
@@ -134,13 +131,13 @@ E-posta: ${email}
       <div className="grid gap-3 md:grid-cols-2">
         <input
           className={fieldClass}
-          placeholder="Adet"
+          placeholder="Adet (opsiyonel)"
           value={qty}
           onChange={(e) => setQty(e.target.value)}
         />
         <input
           className={fieldClass}
-          placeholder="Not"
+          placeholder="Not (baskı, renk, teslimat vs.)"
           value={note}
           onChange={(e) => setNote(e.target.value)}
         />
@@ -152,6 +149,10 @@ E-posta: ${email}
       >
         WhatsApp’tan Hızlı Teklif Al
       </button>
+
+      <p className="text-xs text-gray-600">
+        Gönderince WhatsApp’ta mesaj otomatik hazırlanır.
+      </p>
     </form>
   );
 }

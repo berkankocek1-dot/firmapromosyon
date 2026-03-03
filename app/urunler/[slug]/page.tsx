@@ -29,13 +29,14 @@ export default function ProductsPage() {
             </div>
 
             <div className="mt-4">
-              <div className="text-sm text-gray-500">{p.category}</div>
-              <h2 className="mt-1 text-lg font-semibold">{p.title}</h2>
-              <p className="mt-2 text-sm text-gray-600">{p.shortDesc}</p>
+              <div className="text-sm text-gray-600 font-medium">{p.category}</div>
+              <h2 className="mt-1 text-lg font-semibold text-gray-900">{p.title}</h2>
+              <p className="mt-2 text-sm text-gray-700">{p.shortDesc}</p>
 
-              <div className="mt-4 inline-block rounded-full bg-black px-4 py-1 text-xs font-medium text-white">
-  Min. {p.minOrder} adet
-</div>
+              {/* Min adet kaldırıldı */}
+              <div className="mt-4 inline-block rounded-full bg-black px-4 py-1 text-xs font-semibold text-white">
+                Aynı gün dönüş
+              </div>
             </div>
           </Link>
         ))}

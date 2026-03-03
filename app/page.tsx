@@ -60,7 +60,7 @@ export default function Home() {
           <div className="mt-4 grid gap-3">
             <Feature title="Hızlı üretim" text="Yoğunluğa göre en kısa sürede üretim." />
             <Feature title="Kaliteli DTF transfer" text="Canlı renk, esnek yapı, uzun ömür." />
-            <Feature title="Toplu sipariş" text="Kurumsal siparişler için özel fiyat." />
+            <Feature title="Kurumsal teklif" text="Toplu işler için özel fiyat çalışması." />
             <Feature title="Türkiye geneli gönderim" text="Kargo ile teslimat opsiyonu." />
           </div>
         </div>
@@ -116,8 +116,9 @@ export default function Home() {
 
               {/* CTA kısmı */}
               <div className="mt-4 flex items-center justify-between gap-2">
+                {/* Min adet kaldırıldı */}
                 <div className="inline-block rounded-full bg-black px-4 py-1 text-xs font-semibold text-white">
-                  Min. {p.minOrder} adet
+                  Aynı gün dönüş
                 </div>
 
                 <Link
@@ -144,7 +145,10 @@ export default function Home() {
       <section id="sss" className="mx-auto max-w-6xl px-5 py-12">
         <h2 className="text-2xl font-extrabold text-gray-900">Sık Sorulanlar</h2>
         <div className="mt-6 space-y-3">
-          <Faq q="Minimum adet var mı?" a="Ürüne göre değişir. Hızlı teklif için WhatsApp’tan yaz." />
+          <Faq
+            q="Minimum adet var mı?"
+            a="Genel olarak esnek üretim yapıyoruz. En doğru fiyat için ürün ve tasarım bilgisini iletmeniz yeterli."
+          />
           <Faq q="Teslim süresi kaç gün?" a="Yoğunluk ve adet durumuna göre değişir; genelde hızlı üretim." />
           <Faq q="DTF baskı dayanıklı mı?" a="Uygun yıkama koşullarında uzun ömürlüdür." />
         </div>
