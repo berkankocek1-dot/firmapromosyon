@@ -1,0 +1,39 @@
+import Image from "next/image";
+import Link from "next/link";
+import { products } from "@/data/products";
+
+export default function ProductsPage() {
+  return (
+    <main className="mx-auto max-w-6xl px-4 py-10">
+      <h1 className="mb-8 text-3xl font-semibold">Ürünler</h1>
+
+      <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {products.map((p) => (
+          <Link
+            key={p.id}
+            href={`/urunler/${p.slug}`}
+            className="rounded-2xl border bg-white p-4 shadow-sm transition hover:shadow-md"
+          >
+            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-100">
+              <Image
+                src={p.image}
+                alt={p.title}
+                fill
+                className="object-cover"
+              />
+            </div>
+
+            <div className="mt-4">
+              <div className="text-sm text-gray-500">{p.category}</div>
+              <h2 className="mt-1 text-lg font-semibold">{p.title}</h2>
+              <p className="mt-2 text-sm text-gray-600">{p.shortDesc}</p>
+              <div className="mt-4 text-sm font-medium">
+                Min. {p.minOrder} adet
+              </div>
+            </div>
+          </Link>
+        ))}
+      </div>
+    </main>
+  );
+}
