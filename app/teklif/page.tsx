@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import { products } from "@/data/products";
 import OfferForm from "./OfferForm";
 
@@ -14,7 +15,15 @@ export default function TeklifPage() {
         </p>
 
         <div className="mt-6 rounded-2xl border border-gray-200 bg-white p-5 shadow-sm">
-          <OfferForm products={products} />
+          <Suspense
+            fallback={
+              <div className="text-sm text-gray-600">
+                Form yükleniyor...
+              </div>
+            }
+          >
+            <OfferForm products={products} />
+          </Suspense>
         </div>
       </div>
     </main>
