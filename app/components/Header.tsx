@@ -21,7 +21,7 @@ export default function Header() {
 
         <nav className="hidden items-center gap-6 text-sm font-semibold text-zinc-700 md:flex">
           <a className="hover:text-zinc-950" href="/#hizmetler">Hizmetler</a>
-          <a className="hover:text-zinc-950" <Link href="/urunler">Ürünler</Link>
+          <a className="hover:text-zinc-950" href="/urunler">Ürünler</a>
           <a className="hover:text-zinc-950" href="/#surec">Süreç</a>
           <a className="hover:text-zinc-950" href="/#sss">SSS</a>
           <Link className="hover:text-zinc-950" href="/iletisim">İletişim</Link>
