@@ -1,4 +1,6 @@
-﻿import Image from "next/image";
+﻿export const runtime = "nodejs";
+
+import Image from "next/image";
 import { redirect } from "next/navigation";
 import { submitLead } from "../actions/lead";
 
@@ -207,3 +209,4 @@ function Step({ n, title, text }: { n: string; title: string; text: string }) {
     </div>
   );
 }
+
