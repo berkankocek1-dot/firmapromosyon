@@ -1,4 +1,5 @@
 ﻿import Image from "next/image";
+import { redirect } from "next/navigation";
 import { submitLead } from "../actions/lead";
 
 export const metadata = {
@@ -58,7 +59,13 @@ export default function KurumsalTeklifAlPage() {
                 </p>
               </div>
               <div className="rounded-2xl border border-black/10 bg-zinc-50 p-2">
-                <Image src="/logo.png" alt="FirmaPromosyon" width={120} height={30} className="h-8 w-auto object-contain" />
+                <Image
+                  src="/logo.png"
+                  alt="FirmaPromosyon"
+                  width={120}
+                  height={30}
+                  className="h-8 w-auto object-contain"
+                />
               </div>
             </div>
 
@@ -148,6 +155,7 @@ async function submitLeadAction(formData: FormData) {
   };
 
   await submitLead(payload);
+  redirect("/kurumsal-teklif-al/basarili");
 }
 
 function Field({
