@@ -114,7 +114,7 @@ export default function Home() {
                 </div>
               </Link>
 
-              {/* CTA kısmı (Link içinde Link yok) */}
+              {/* CTA kısmı */}
               <div className="mt-4 flex items-center justify-between gap-2">
                 <div className="inline-block rounded-full bg-black px-4 py-1 text-xs font-semibold text-white">
                   Min. {p.minOrder} adet
