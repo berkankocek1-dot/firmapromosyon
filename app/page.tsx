@@ -1,19 +1,24 @@
-﻿import Link from "next/link";
+﻿"use client";
+
+import Link from "next/link";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import { products } from "@/data/products";
 
 const WHATSAPP =
   "https://wa.me/90XXXXXXXXXX?text=Merhaba%2C%20DTF%20bask%C4%B1%20ve%20promosyon%20%C3%BCr%C3%BCnleri%20i%C3%A7in%20teklif%20almak%20istiyorum.";
 
 export default function Home() {
+  const router = useRouter();
+
   return (
-    <main className="min-h-screen bg-white">
+    <main className="min-h-screen bg-white text-gray-900">
       {/* HERO */}
       <section className="mx-auto grid max-w-6xl gap-10 px-5 py-12 md:grid-cols-2 md:items-center">
         <div>
-          <h1 className="text-4xl font-extrabold leading-tight md:text-5xl">
+          <h1 className="text-4xl font-extrabold leading-tight text-gray-900 md:text-5xl">
             DTF Baskı & Promosyon Ürün
-            <span className="block text-gray-600">
+            <span className="block text-gray-700">
               Hızlı üretim • Kurumsal toplu sipariş
             </span>
           </h1>
@@ -25,7 +30,7 @@ export default function Home() {
 
           <div className="mt-6 flex flex-wrap gap-3">
             <Link
-              href="/kurumsal-teklif-al"
+              href="/teklif"
               className="rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white hover:opacity-90"
             >
               Kurumsal Teklif Al
@@ -34,7 +39,7 @@ export default function Home() {
             <a
               href={WHATSAPP}
               target="_blank"
-              className="rounded-xl border border-gray-300 px-5 py-3 text-sm font-semibold hover:border-gray-500"
+              className="rounded-xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 hover:border-gray-500"
               rel="noreferrer"
             >
               WhatsApp’tan Yaz
@@ -42,22 +47,20 @@ export default function Home() {
 
             <Link
               href="/iletisim"
-              className="rounded-xl border border-gray-300 px-5 py-3 text-sm font-semibold hover:border-gray-500"
+              className="rounded-xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 hover:border-gray-500"
             >
               İletişim
             </Link>
           </div>
 
-          <div className="mt-5 text-xs text-gray-500">
+          <div className="mt-5 text-xs text-gray-600">
             ⚠️ Yasal not: Bu site bilgilendirme amaçlıdır. Fiyatlar siparişe göre
             değişir.
           </div>
         </div>
 
         <div className="rounded-3xl border border-gray-200 bg-gray-50 p-6">
-          <div className="text-sm font-semibold text-gray-700">
-            Öne Çıkanlar
-          </div>
+          <div className="text-sm font-semibold text-gray-900">Öne Çıkanlar</div>
 
           <div className="mt-4 grid gap-3">
             <Feature
@@ -82,7 +85,7 @@ export default function Home() {
 
       {/* SECTIONS */}
       <section id="hizmetler" className="mx-auto max-w-6xl px-5 py-12">
-        <h2 className="text-2xl font-bold">Hizmetler</h2>
+        <h2 className="text-2xl font-extrabold text-gray-900">Hizmetler</h2>
         <div className="mt-6 grid gap-4 md:grid-cols-3">
           <Card
             title="DTF Transfer Baskı"
@@ -99,11 +102,13 @@ export default function Home() {
       {/* URUNLER (GERCEK VERI ILE) */}
       <section id="urunler" className="mx-auto max-w-6xl px-5 py-12">
         <div className="flex items-center justify-between">
-          <h2 className="text-2xl font-bold">Popüler Ürünler</h2>
+          <h2 className="text-2xl font-extrabold text-gray-900">
+            Popüler Ürünler
+          </h2>
 
           <Link
             href="/urunler"
-            className="text-sm font-semibold text-gray-700 hover:text-black"
+            className="text-sm font-semibold text-gray-800 hover:text-black"
           >
             Tümünü Gör →
           </Link>
@@ -126,16 +131,30 @@ export default function Home() {
               </div>
 
               <div className="mt-4">
-                <div className="text-xs font-semibold text-gray-500">
+                <div className="text-xs font-semibold text-gray-700">
                   {p.category}
                 </div>
                 <div className="mt-1 text-lg font-bold text-gray-900">
                   {p.title}
                 </div>
-                <div className="mt-2 text-sm text-gray-600">{p.shortDesc}</div>
+                <div className="mt-2 text-sm text-gray-700">{p.shortDesc}</div>
 
-                <div className="mt-4 inline-block rounded-full bg-black px-4 py-1 text-xs font-semibold text-white">
-                  Min. {p.minOrder} adet
+                <div className="mt-4 flex items-center justify-between gap-2">
+                  <div className="inline-block rounded-full bg-black px-4 py-1 text-xs font-semibold text-white">
+                    Min. {p.minOrder} adet
+                  </div>
+
+                  {/* ✅ HIZLI TEKLIF BUTONU */}
+                  <button
+                    type="button"
+                    onClick={(e) => {
+                      e.preventDefault();
+                      router.push(`/teklif?urun=${p.slug}`);
+                    }}
+                    className="rounded-full border border-gray-300 bg-white px-3 py-1 text-xs font-semibold text-gray-900 hover:border-gray-500"
+                  >
+                    Hızlı Teklif
+                  </button>
                 </div>
               </div>
             </Link>
@@ -144,7 +163,7 @@ export default function Home() {
       </section>
 
       <section id="surec" className="mx-auto max-w-6xl px-5 py-12">
-        <h2 className="text-2xl font-bold">Sipariş Süreci</h2>
+        <h2 className="text-2xl font-extrabold text-gray-900">Sipariş Süreci</h2>
         <div className="mt-6 grid gap-4 md:grid-cols-3">
           <Step n="1" title="Tasarım Gönder" text="WhatsApp veya form ile dosyanı ilet." />
           <Step n="2" title="Onay & Fiyat" text="Ölçü/adet/baskıya göre fiyatı netleştirelim." />
@@ -153,7 +172,7 @@ export default function Home() {
       </section>
 
       <section id="sss" className="mx-auto max-w-6xl px-5 py-12">
-        <h2 className="text-2xl font-bold">Sık Sorulanlar</h2>
+        <h2 className="text-2xl font-extrabold text-gray-900">Sık Sorulanlar</h2>
         <div className="mt-6 space-y-3">
           <Faq
             q="Minimum adet var mı?"
@@ -171,7 +190,7 @@ export default function Home() {
       </section>
 
       <footer className="border-t border-gray-200">
-        <div className="mx-auto max-w-6xl px-5 py-8 text-sm text-gray-600">
+        <div className="mx-auto max-w-6xl px-5 py-8 text-sm text-gray-700">
           © {new Date().getFullYear()} FirmaPromosyon • firmapromosyon.com
         </div>
       </footer>
@@ -182,8 +201,8 @@ export default function Home() {
 function Feature({ title, text }: { title: string; text: string }) {
   return (
     <div className="rounded-2xl border border-gray-200 bg-white p-4">
-      <div className="font-semibold">{title}</div>
-      <div className="mt-1 text-sm text-gray-600">{text}</div>
+      <div className="font-semibold text-gray-900">{title}</div>
+      <div className="mt-1 text-sm text-gray-700">{text}</div>
     </div>
   );
 }
@@ -191,8 +210,8 @@ function Feature({ title, text }: { title: string; text: string }) {
 function Card({ title, text }: { title: string; text: string }) {
   return (
     <div className="rounded-2xl border border-gray-200 bg-white p-5">
-      <div className="font-semibold">{title}</div>
-      <div className="mt-2 text-sm text-gray-600">{text}</div>
+      <div className="font-semibold text-gray-900">{title}</div>
+      <div className="mt-2 text-sm text-gray-700">{text}</div>
     </div>
   );
 }
@@ -203,8 +222,8 @@ function Step({ n, title, text }: { n: string; title: string; text: string }) {
       <div className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-black text-sm font-bold text-white">
         {n}
       </div>
-      <div className="mt-3 font-semibold">{title}</div>
-      <div className="mt-2 text-sm text-gray-600">{text}</div>
+      <div className="mt-3 font-semibold text-gray-900">{title}</div>
+      <div className="mt-2 text-sm text-gray-700">{text}</div>
     </div>
   );
 }
@@ -212,9 +231,10 @@ function Step({ n, title, text }: { n: string; title: string; text: string }) {
 function Faq({ q, a }: { q: string; a: string }) {
   return (
     <details className="rounded-2xl border border-gray-200 bg-white p-4">
-      <summary className="cursor-pointer font-semibold">{q}</summary>
-      <div className="mt-2 text-sm text-gray-600">{a}</div>
+      <summary className="cursor-pointer font-semibold text-gray-900">
+        {q}
+      </summary>
+      <div className="mt-2 text-sm text-gray-700">{a}</div>
     </details>
   );
 }
-
