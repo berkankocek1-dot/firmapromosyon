@@ -27,6 +27,32 @@ function absUrl(pathOrUrl: string) {
   return `${SITE_URL}${pathOrUrl.startsWith("/") ? "" : "/"}${pathOrUrl}`;
 }
 
+function getWaNumber() {
+  // env varsa onu kullan, yoksa fallback boş bırak
+  const raw = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "";
+  const digits = raw.replace(/\D/g, "");
+  return digits || "";
+}
+
+function getDefaultWaTextEncoded() {
+  // env içine URL-encoded text koyuyorsan direkt kullan
+  // koymadıysan düz metin koyabilirsin -> burada encode ederiz
+  const t = process.env.NEXT_PUBLIC_WHATSAPP_DEFAULT_TEXT || "";
+  // Eğer zaten % içeriyorsa (encoded olma ihtimali), dokunmayalım:
+  if (t.includes("%")) return t;
+  return encodeURIComponent(t);
+}
+
+function makeWaHref(customText?: string) {
+  const num = getWaNumber();
+  const base = num ? `https://wa.me/${num}` : `https://wa.me/`;
+  const textEncoded = customText
+    ? encodeURIComponent(customText)
+    : getDefaultWaTextEncoded();
+
+  return textEncoded ? `${base}?text=${textEncoded}` : base;
+}
+
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
 
@@ -82,6 +108,9 @@ export default async function ProductDetailPage({ params }: PageProps) {
   const canonicalPath = `/urunler/${product.slug}`;
   const productUrl = absUrl(canonicalPath);
   const imageAbs = absUrl(product.image ?? "/og.jpg");
+
+  // Ürün bazlı WhatsApp metni
+  const waHref = makeWaHref(`Merhaba, ${product.title} için teklif almak istiyorum.`);
 
   const productJsonLd = {
     "@context": "https://schema.org",
@@ -152,12 +181,12 @@ export default async function ProductDetailPage({ params }: PageProps) {
             </Link>
 
             <a
-              href="https://wa.me/90XXXXXXXXXX?text=Merhaba%2C%20kurumsal%20promosyon%20%C3%BCr%C3%BCnleri%20i%C3%A7in%20teklif%20almak%20istiyorum."
+              href={waHref}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               className="rounded-2xl border border-white/30 px-6 py-3 text-center text-sm font-semibold text-white hover:bg-white/10"
             >
-              WhatsApp
+              WhatsApp’tan Yaz
             </a>
           </div>
 
