@@ -37,6 +37,34 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
+  // REHBER SAYFALARI
+  const guideRoutes: MetadataRoute.Sitemap = [
+    {
+      url: `${baseUrl}/rehber`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/rehber/dtf-baski-nedir`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/rehber/promosyon-kupa-baski`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/rehber/promosyon-kalem-toptan`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.7,
+    },
+  ];
+
   const productRoutes: MetadataRoute.Sitemap = products.map((p) => ({
     url: `${baseUrl}/urunler/${p.slug}`,
     lastModified: new Date(),
@@ -44,5 +72,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  return [...routes, ...productRoutes];
+  return [...routes, ...guideRoutes, ...productRoutes];
 }
