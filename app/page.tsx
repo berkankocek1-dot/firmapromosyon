@@ -1,13 +1,47 @@
 ﻿import Link from "next/link";
 import Image from "next/image";
 import { products } from "@/data/products";
+import type { Metadata } from "next";
+
+const SITE_URL = "https://www.firmapromosyon.com";
+
+export const metadata: Metadata = {
+  title: "FirmaPromosyon | Kurumsal DTF Baskı & Promosyon",
+  description: "Kurumsal DTF baskı ve promosyon ürünleri için hızlı teklif alın.",
+  alternates: { canonical: "/" },
+  openGraph: {
+    title: "FirmaPromosyon | Kurumsal DTF Baskı & Promosyon",
+    description: "Kurumsal DTF baskı ve promosyon ürünleri için hızlı teklif alın.",
+    url: SITE_URL,
+    type: "website",
+    images: [{ url: "/og.jpg", width: 1200, height: 630, alt: "FirmaPromosyon" }],
+  },
+};
 
 const WHATSAPP =
   "https://wa.me/90XXXXXXXXXX?text=Merhaba%2C%20DTF%20bask%C4%B1%20ve%20promosyon%20%C3%BCr%C3%BCnleri%20i%C3%A7in%20teklif%20almak%20istiyorum.";
 
 export default function Home() {
+  const webPageSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: "FirmaPromosyon | Kurumsal DTF Baskı & Promosyon",
+    url: SITE_URL,
+    description: "Kurumsal DTF baskı ve promosyon ürünleri için hızlı teklif alın.",
+    inLanguage: "tr-TR",
+    primaryImageOfPage: {
+      "@type": "ImageObject",
+      url: `${SITE_URL}/og.jpg`,
+    },
+  };
+
   return (
     <main className="min-h-screen bg-white text-gray-900">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
+      />
+
       {/* HERO */}
       <section className="mx-auto grid max-w-6xl gap-10 px-5 py-12 md:grid-cols-2 md:items-center">
         <div>
@@ -95,7 +129,6 @@ export default function Home() {
               key={p.id}
               className="group rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
             >
-              {/* Ürün detaya giden kısım */}
               <Link href={`/urunler/${p.slug}`} className="block">
                 <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-100">
                   <Image
@@ -114,9 +147,7 @@ export default function Home() {
                 </div>
               </Link>
 
-              {/* CTA kısmı */}
               <div className="mt-4 flex items-center justify-between gap-2">
-                {/* Min adet kaldırıldı */}
                 <div className="inline-block rounded-full bg-black px-4 py-1 text-xs font-semibold text-white">
                   Aynı gün dönüş
                 </div>
@@ -149,7 +180,10 @@ export default function Home() {
             q="Minimum adet var mı?"
             a="Genel olarak esnek üretim yapıyoruz. En doğru fiyat için ürün ve tasarım bilgisini iletmeniz yeterli."
           />
-          <Faq q="Teslim süresi kaç gün?" a="Yoğunluk ve adet durumuna göre değişir; genelde hızlı üretim." />
+          <Faq
+            q="Teslim süresi kaç gün?"
+            a="Yoğunluk ve adet durumuna göre değişir; genelde hızlı üretim."
+          />
           <Faq q="DTF baskı dayanıklı mı?" a="Uygun yıkama koşullarında uzun ömürlüdür." />
         </div>
       </section>
