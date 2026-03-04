@@ -137,7 +137,7 @@ export default function Home() {
                           alt={title}
                           fill
                           sizes="170px"
-                          className="object-contain p-3 transition duration-500 hover:scale-105"
+                          className="object-cover transition duration-500 hover:scale-105"
                         />
                       </div>
                       <div className="mt-2 line-clamp-2 text-sm font-semibold text-gray-900">
@@ -181,8 +181,10 @@ export default function Home() {
                   Rehber
                 </Link>
               </div>
+
+              {/* ✅ Not kaldırıldı, yerine profesyonel metin */}
               <div className="mt-3 text-xs text-gray-500">
-                Not: Rehber sayfan yoksa bu link 404 verir. İstersen /rehber’i birlikte ekleriz.
+                Kurumsal siparişlerde ürün, baskı ve adet bilgisine göre özel teklif hazırlanır.
               </div>
             </div>
           </div>
@@ -224,7 +226,7 @@ export default function Home() {
                       alt={title}
                       fill
                       sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                      className="object-contain p-5 transition duration-500 group-hover:scale-105"
+                      className="object-cover transition duration-500 group-hover:scale-105"
                     />
                   </div>
 
