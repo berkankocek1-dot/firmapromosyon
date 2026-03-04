@@ -43,24 +43,22 @@ export default function Home() {
       />
 
       {/* HERO */}
-      <section className="mx-auto grid max-w-6xl gap-10 px-5 py-12 md:grid-cols-2 md:items-center">
+      <section className="mx-auto grid max-w-6xl gap-10 px-5 py-10 md:grid-cols-2 md:items-center">
         <div>
           <h1 className="text-4xl font-extrabold leading-tight text-gray-900 md:text-5xl">
             DTF Baskı & Promosyon Ürün
-            <span className="block text-gray-700">
-              Hızlı üretim • Kurumsal toplu sipariş
-            </span>
+            <span className="block text-gray-700">Hızlı üretim • Kurumsal toplu sipariş</span>
           </h1>
 
           <p className="mt-4 text-gray-700">
-            Tişört, sweatshirt, şapka ve promosyon ürünlerde kaliteli baskı
-            çözümleri. Tasarımını gönder, aynı gün dönüş yapalım.
+            Tişört, sweatshirt, şapka ve promosyon ürünlerde kaliteli baskı çözümleri.
+            Tasarımını gönder, aynı gün dönüş yapalım.
           </p>
 
           <div className="mt-6 flex flex-wrap gap-3">
             <Link
               href="/teklif"
-              className="rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white hover:opacity-90"
+              className="rounded-2xl bg-black px-5 py-3 text-sm font-semibold text-white hover:bg-gray-900"
             >
               Kurumsal Teklif Al
             </Link>
@@ -68,7 +66,7 @@ export default function Home() {
             <a
               href={WHATSAPP}
               target="_blank"
-              className="rounded-xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 hover:border-gray-500"
+              className="rounded-2xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 hover:border-gray-500"
               rel="noreferrer"
             >
               WhatsApp’tan Yaz
@@ -76,19 +74,52 @@ export default function Home() {
 
             <Link
               href="/iletisim"
-              className="rounded-xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 hover:border-gray-500"
+              className="rounded-2xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 hover:border-gray-500"
             >
               İletişim
             </Link>
           </div>
 
           <div className="mt-5 text-xs text-gray-600">
-            ⚠️ Yasal not: Bu site bilgilendirme amaçlıdır. Fiyatlar siparişe göre
-            değişir.
+            ⚠️ Yasal not: Bu site bilgilendirme amaçlıdır. Fiyatlar siparişe göre değişir.
+          </div>
+
+          {/* POPÜLER ÜRÜNLER ŞERİDİ (fold içinde) */}
+          <div className="mt-8">
+            <div className="flex items-center justify-between">
+              <div className="text-sm font-semibold text-gray-900">Popüler Ürünler</div>
+              <Link href="/urunler" className="text-sm font-semibold text-gray-900 hover:underline">
+                Tümünü Gör →
+              </Link>
+            </div>
+
+            <div className="mt-3 flex gap-3 overflow-x-auto pb-2 [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+              {products.slice(0, 6).map((p: any) => (
+                <Link
+                  key={p.slug}
+                  href={`/urunler/${p.slug}`}
+                  className="min-w-[160px] rounded-2xl border border-gray-200 bg-white p-3 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
+                >
+                  <div className="relative aspect-square overflow-hidden rounded-xl bg-gray-100">
+                    <Image
+                      src={p.image ?? "/og.jpg"}
+                      alt={p.title ?? "Ürün"}
+                      fill
+                      sizes="160px"
+                      className="object-cover transition duration-500 hover:scale-110"
+                    />
+                  </div>
+                  <div className="mt-2 line-clamp-2 text-sm font-semibold text-gray-900">
+                    {p.title ?? "Ürün"}
+                  </div>
+                  <div className="mt-1 text-xs text-gray-600">Detay →</div>
+                </Link>
+              ))}
+            </div>
           </div>
         </div>
 
-        <div className="rounded-3xl border border-gray-200 bg-gray-50 p-6">
+        <div className="rounded-3xl border border-gray-200 bg-gray-50 p-6 shadow-sm">
           <div className="text-sm font-semibold text-gray-900">Öne Çıkanlar</div>
 
           <div className="mt-4 grid gap-3">
@@ -100,7 +131,65 @@ export default function Home() {
         </div>
       </section>
 
-      {/* SECTIONS */}
+      {/* ÜRÜNLER (YUKARI ALINDI) */}
+      <section id="urunler" className="mx-auto max-w-6xl px-5 py-10">
+        <div className="flex items-end justify-between gap-4">
+          <div>
+            <h2 className="text-2xl font-extrabold text-gray-900">Popüler Ürünler</h2>
+            <p className="mt-2 text-sm text-gray-600">
+              Ürünler temsili olabilir. En doğru bilgi için teklif isteyin.
+            </p>
+          </div>
+
+          <Link href="/urunler" className="text-sm font-semibold text-gray-800 hover:text-black">
+            Tümünü Gör →
+          </Link>
+        </div>
+
+        <div className="mt-6 grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+          {products.slice(0, 6).map((p: any) => (
+            <div
+              key={p.slug}
+              className="group rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
+            >
+              <Link href={`/urunler/${p.slug}`} className="block">
+                <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-100">
+                  <Image
+                    src={p.image ?? "/og.jpg"}
+                    alt={p.title ?? "Ürün"}
+                    fill
+                    sizes="(max-width: 768px) 100vw, 33vw"
+                    className="object-cover transition duration-500 group-hover:scale-110"
+                  />
+                </div>
+
+                <div className="mt-4">
+                  <div className="text-xs font-semibold text-gray-700">{p.category ?? "Ürün"}</div>
+                  <div className="mt-1 text-lg font-bold text-gray-900">{p.title ?? "Ürün"}</div>
+                  <div className="mt-2 text-sm text-gray-700">
+                    {p.shortDesc ?? "Kurumsal promosyon için hızlı teklif alın."}
+                  </div>
+                </div>
+              </Link>
+
+              <div className="mt-4 flex items-center justify-between gap-2">
+                <div className="inline-block rounded-full bg-black px-4 py-1 text-xs font-semibold text-white">
+                  Hızlı dönüş
+                </div>
+
+                <Link
+                  href={`/teklif?urun=${p.slug}`}
+                  className="rounded-full border border-gray-300 bg-white px-3 py-1 text-xs font-semibold text-gray-900 hover:border-gray-500"
+                >
+                  Teklif İste
+                </Link>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* HİZMETLER (ÜRÜNLERDEN SONRA) */}
       <section id="hizmetler" className="mx-auto max-w-6xl px-5 py-12">
         <h2 className="text-2xl font-extrabold text-gray-900">Hizmetler</h2>
         <div className="mt-6 grid gap-4 md:grid-cols-3">
@@ -110,65 +199,11 @@ export default function Home() {
         </div>
       </section>
 
-      {/* URUNLER */}
-      <section id="urunler" className="mx-auto max-w-6xl px-5 py-12">
-        <div className="flex items-center justify-between">
-          <h2 className="text-2xl font-extrabold text-gray-900">Popüler Ürünler</h2>
-
-          <Link
-            href="/urunler"
-            className="text-sm font-semibold text-gray-800 hover:text-black"
-          >
-            Tümünü Gör →
-          </Link>
-        </div>
-
-        <div className="mt-6 grid gap-4 sm:grid-cols-2 md:grid-cols-3">
-          {products.slice(0, 6).map((p) => (
-            <div
-              key={p.id}
-              className="group rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
-            >
-              <Link href={`/urunler/${p.slug}`} className="block">
-                <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-100">
-                  <Image
-                    src={p.image}
-                    alt={p.title}
-                    fill
-                    sizes="(max-width: 768px) 100vw, 33vw"
-                    className="object-cover transition duration-500 group-hover:scale-110"
-                  />
-                </div>
-
-                <div className="mt-4">
-                  <div className="text-xs font-semibold text-gray-700">{p.category}</div>
-                  <div className="mt-1 text-lg font-bold text-gray-900">{p.title}</div>
-                  <div className="mt-2 text-sm text-gray-700">{p.shortDesc}</div>
-                </div>
-              </Link>
-
-              <div className="mt-4 flex items-center justify-between gap-2">
-                <div className="inline-block rounded-full bg-black px-4 py-1 text-xs font-semibold text-white">
-                  Aynı gün dönüş
-                </div>
-
-                <Link
-                  href={`/teklif?urun=${p.slug}`}
-                  className="rounded-full border border-gray-300 bg-white px-3 py-1 text-xs font-semibold text-gray-900 hover:border-gray-500"
-                >
-                  Hızlı Teklif
-                </Link>
-              </div>
-            </div>
-          ))}
-        </div>
-      </section>
-
       <section id="surec" className="mx-auto max-w-6xl px-5 py-12">
         <h2 className="text-2xl font-extrabold text-gray-900">Sipariş Süreci</h2>
         <div className="mt-6 grid gap-4 md:grid-cols-3">
           <Step n="1" title="Tasarım Gönder" text="WhatsApp veya form ile dosyanı ilet." />
-          <Step n="2" title="Onay & Fiyat" text="Ölçü/adet/baskıya göre fiyatı netleştirelim." />
+          <Step n="2" title="Onay & Bilgi" text="Ölçü/adet/baskıya göre detayları netleştirelim." />
           <Step n="3" title="Üretim & Teslim" text="Üretelim, kargo/elden teslim edelim." />
         </div>
       </section>
@@ -178,7 +213,7 @@ export default function Home() {
         <div className="mt-6 space-y-3">
           <Faq
             q="Minimum adet var mı?"
-            a="Genel olarak esnek üretim yapıyoruz. En doğru fiyat için ürün ve tasarım bilgisini iletmeniz yeterli."
+            a="Esnek üretim yapıyoruz. En doğru bilgi için ürün ve tasarım bilgisini iletmeniz yeterli."
           />
           <Faq
             q="Teslim süresi kaç gün?"
