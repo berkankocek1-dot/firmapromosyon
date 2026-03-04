@@ -49,7 +49,7 @@ export default function Home() {
   const topGrid = products.slice(0, 6);
 
   return (
-    <main className="min-h-screen bg-white text-gray-900">
+    <main className="min-h-screen bg-white text-gray-900 overflow-x-hidden">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
@@ -62,14 +62,15 @@ export default function Home() {
 
         <div className="mx-auto grid max-w-6xl gap-10 px-5 py-8 md:grid-cols-2 md:items-center">
           {/* LEFT */}
-          <div>
+          <div className="min-w-0">
             <div className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-white px-3 py-1 text-xs font-semibold text-gray-700 shadow-sm">
               <span className="inline-block h-2 w-2 rounded-full bg-green-500" />
               Hızlı dönüş • Kurumsal işler
             </div>
 
-            <h1 className="mt-4 text-4xl font-extrabold leading-tight text-gray-900 md:text-5xl">
-              DTF Baskı & Promosyon
+            {/* ✅ Mobil kesilme fix: clamp + break-words + max-w + min-w-0 */}
+            <h1 className="mt-4 font-extrabold leading-tight tracking-tight text-gray-900 break-words max-w-[22ch] md:max-w-none text-[clamp(30px,7.2vw,56px)]">
+              DTF Baskı &amp; Promosyon
               <span className="block text-gray-600">Kurumsal toplu sipariş</span>
             </h1>
 
@@ -78,10 +79,10 @@ export default function Home() {
               Tasarımını gönder, detayları netleştirip hızlıca teklif oluşturalım.
             </p>
 
-            <div className="mt-6 flex flex-wrap gap-3">
+            <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
               <Link
                 href="/teklif"
-                className="rounded-2xl bg-black px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-gray-900"
+                className="inline-flex items-center justify-center rounded-2xl bg-black px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-gray-900"
               >
                 Teklif iste
               </Link>
@@ -90,14 +91,14 @@ export default function Home() {
                 href={WHATSAPP}
                 target="_blank"
                 rel="noreferrer"
-                className="rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 shadow-sm hover:border-gray-500"
+                className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 shadow-sm hover:border-gray-500"
               >
                 WhatsApp’tan Yaz
               </a>
 
               <Link
                 href="/urunler"
-                className="rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 shadow-sm hover:border-gray-500"
+                className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 shadow-sm hover:border-gray-500"
               >
                 Ürünleri İncele
               </Link>
@@ -112,7 +113,7 @@ export default function Home() {
 
             {/* ✅ ÜRÜN ŞERİDİ — ilk ekranda görünsün */}
             <div className="mt-6">
-              <div className="flex items-center justify-between">
+              <div className="flex items-center justify-between gap-3">
                 <div className="text-sm font-extrabold text-gray-900">Popüler Ürünler</div>
                 <Link href="/urunler" className="text-sm font-semibold text-gray-900 hover:underline">
                   Tümünü gör →
@@ -123,18 +124,19 @@ export default function Home() {
                 {topStrip.map((p: any) => {
                   const title = pickTitle(p);
                   const img = pickImg(p);
+
                   return (
                     <Link
                       key={p.slug}
                       href={`/urunler/${p.slug}`}
-                      className="min-w-[165px] rounded-2xl border border-gray-200 bg-white p-3 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
+                      className="shrink-0 w-[170px] rounded-2xl border border-gray-200 bg-white p-3 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
                     >
                       <div className="relative aspect-square overflow-hidden rounded-xl bg-gray-100">
                         <Image
                           src={img}
                           alt={title}
                           fill
-                          sizes="165px"
+                          sizes="170px"
                           className="object-contain p-3 transition duration-500 hover:scale-105"
                         />
                       </div>
@@ -154,7 +156,7 @@ export default function Home() {
           </div>
 
           {/* RIGHT — daha derli toplu panel */}
-          <div className="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm">
+          <div className="min-w-0 rounded-3xl border border-gray-200 bg-white p-6 shadow-sm">
             <div className="text-sm font-extrabold text-gray-900">Öne Çıkanlar</div>
 
             <div className="mt-4 grid gap-3">
@@ -179,6 +181,9 @@ export default function Home() {
                   Rehber
                 </Link>
               </div>
+              <div className="mt-3 text-xs text-gray-500">
+                Not: Rehber sayfan yoksa bu link 404 verir. İstersen /rehber’i birlikte ekleriz.
+              </div>
             </div>
           </div>
         </div>
@@ -187,19 +192,20 @@ export default function Home() {
       {/* ✅ ÜRÜNLER GRID (hero sonrası) */}
       <section id="urunler" className="mx-auto max-w-6xl px-5 py-10">
         <div className="flex items-end justify-between gap-4">
-          <div>
+          <div className="min-w-0">
             <h2 className="text-2xl font-extrabold text-gray-900">Popüler Ürünler</h2>
             <p className="mt-2 text-sm text-gray-600">
               Ürün görselleri temsili olabilir. En doğru bilgi için teklif isteyin.
             </p>
           </div>
 
-          <Link href="/urunler" className="text-sm font-semibold text-gray-900 hover:underline">
+          <Link href="/urunler" className="shrink-0 text-sm font-semibold text-gray-900 hover:underline">
             Tümünü Gör →
           </Link>
         </div>
 
-        <div className="mt-6 grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+        {/* ✅ Grid responsive optimize: mobil 1, sm 2, lg 3 */}
+        <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {topGrid.map((p: any) => {
             const title = pickTitle(p);
             const desc = pickDesc(p);
@@ -217,15 +223,17 @@ export default function Home() {
                       src={img}
                       alt={title}
                       fill
-                      sizes="(max-width: 768px) 100vw, 33vw"
+                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                       className="object-contain p-5 transition duration-500 group-hover:scale-105"
                     />
                   </div>
 
-                  <div className="mt-4">
+                  <div className="mt-4 min-w-0">
                     <div className="text-xs font-semibold text-gray-600">{cat}</div>
-                    <h3 className="mt-1 text-lg font-extrabold text-gray-900">{title}</h3>
-                    <p className="mt-2 text-sm text-gray-700">{desc}</p>
+                    <h3 className="mt-1 text-lg font-extrabold text-gray-900 break-words">
+                      {title}
+                    </h3>
+                    <p className="mt-2 text-sm text-gray-700 line-clamp-3">{desc}</p>
                   </div>
                 </Link>
 
