@@ -139,6 +139,39 @@ export default async function ProductDetailPage({ params }: PageProps) {
     ],
   };
 
+  // FAQ (UI + Schema)
+  const faqItems = [
+    {
+      q: "Minimum sipariş adedi var mı?",
+      a: "Ürüne göre değişir. Adet, baskı türü ve termin bilgisine göre kurumsal teklif oluşturuyoruz.",
+    },
+    {
+      q: "Baskı türleri neler?",
+      a: "Ürüne göre DTF, UV veya serigrafi seçenekleri sunulabilir. En uygun yöntemi teklif aşamasında belirliyoruz.",
+    },
+    {
+      q: "Teslim süresi kaç gün?",
+      a: "Adet, stok ve baskı yoğunluğuna göre değişir. Net teslim tarihi teklifte belirtilir.",
+    },
+    {
+      q: "Fiyat nasıl belirleniyor?",
+      a: "Ürün tipi, adet, baskı alanı ve tasarım detayına göre hesaplanır. Hızlı teklif alarak fiyatı hemen öğrenebilirsiniz.",
+    },
+  ];
+
+  const faqJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqItems.map((x) => ({
+      "@type": "Question",
+      name: x.q,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: x.a,
+      },
+    })),
+  };
+
   return (
     <main className="relative mx-auto max-w-6xl px-4 py-10 text-white">
       <div className="absolute inset-0 -z-10 bg-gradient-to-b from-neutral-950 via-neutral-900 to-black" />
@@ -152,6 +185,11 @@ export default async function ProductDetailPage({ params }: PageProps) {
         id="breadcrumb-jsonld"
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
+      <Script
+        id="faq-jsonld"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
       />
 
       <div className="mb-6">
@@ -197,6 +235,24 @@ export default async function ProductDetailPage({ params }: PageProps) {
               <li>Toplu alım – kurumsal teklif</li>
               <li>Termin & adet bilgisi teklifte netleşir</li>
             </ul>
+          </div>
+
+          <div className="mt-6 rounded-2xl border border-white/15 bg-white/5 p-6">
+            <h2 className="text-lg font-semibold text-white">Sık Sorulan Sorular</h2>
+
+            <div className="mt-4 space-y-3">
+              {faqItems.map((item) => (
+                <details
+                  key={item.q}
+                  className="rounded-xl border border-white/15 bg-black/20 px-4 py-3"
+                >
+                  <summary className="cursor-pointer list-none text-sm font-semibold text-white">
+                    {item.q}
+                  </summary>
+                  <p className="mt-2 text-sm text-white/80">{item.a}</p>
+                </details>
+              ))}
+            </div>
           </div>
         </div>
       </div>
