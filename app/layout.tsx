@@ -13,7 +13,8 @@ const SITE_NAME = "FirmaPromosyon";
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "FirmaPromosyon | Kurumsal DTF Baskı & Promosyon",
+    // ✅ Default title sade: template zaten "| FirmaPromosyon" ekleyecek
+    default: "Kurumsal DTF Baskı & Promosyon",
     template: `%s | ${SITE_NAME}`,
   },
   description: "Kurumsal DTF baskı ve promosyon ürünleri için hızlı teklif alın.",
@@ -35,7 +36,8 @@ export const metadata: Metadata = {
     type: "website",
     url: SITE_URL,
     siteName: SITE_NAME,
-    title: "FirmaPromosyon | Kurumsal DTF Baskı & Promosyon",
+    // ✅ OG title da sade
+    title: "Kurumsal DTF Baskı & Promosyon",
     description: "Kurumsal DTF baskı ve promosyon ürünleri için hızlı teklif alın.",
     locale: "tr_TR",
     images: [
@@ -49,7 +51,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "FirmaPromosyon | Kurumsal DTF Baskı & Promosyon",
+    // ✅ Twitter title da sade
+    title: "Kurumsal DTF Baskı & Promosyon",
     description: "Kurumsal DTF baskı ve promosyon ürünleri için hızlı teklif alın.",
     images: ["/og.jpg"],
   },
@@ -73,7 +76,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     "@type": "Organization",
     name: SITE_NAME,
     url: SITE_URL,
-    logo: `${SITE_URL}/logo.png`, // varsa public/logo.png
+    logo: `${SITE_URL}/logo.png`, // public/logo.png varsa
     sameAs: [],
   };
 
