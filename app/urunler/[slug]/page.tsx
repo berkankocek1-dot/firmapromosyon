@@ -102,10 +102,28 @@ export default async function ProductPage({ params }: PageProps) {
     category: product.category,
   };
 
+  // ✅ FAQPage JSON-LD (Rich Results için)
+  const faqJsonLd =
+    product.faq && product.faq.length
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: product.faq.map((item) => ({
+            "@type": "Question",
+            name: item.q,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: item.a,
+            },
+          })),
+        }
+      : null;
+
   return (
     <main className="mx-auto max-w-6xl px-5 py-10 bg-white text-gray-900">
       <JsonLd data={breadcrumbJsonLd} />
       <JsonLd data={productJsonLd} />
+      {faqJsonLd && <JsonLd data={faqJsonLd} />}
 
       {/* Breadcrumb */}
       <nav className="mb-6 text-sm text-gray-800">
@@ -139,9 +157,7 @@ export default async function ProductPage({ params }: PageProps) {
             {product.title}
           </h1>
 
-          <p className="mt-3 text-gray-900">
-            {product.shortDesc}
-          </p>
+          <p className="mt-3 text-gray-900">{product.shortDesc}</p>
 
           <div className="mt-5 flex flex-wrap gap-2">
             <span className="rounded-full bg-gray-200 px-3 py-1 text-xs font-medium text-gray-900">
@@ -152,9 +168,7 @@ export default async function ProductPage({ params }: PageProps) {
           {/* Ürün açıklaması */}
           {longDescLines.length > 0 && (
             <div className="mt-8">
-              <h2 className="text-lg font-bold text-gray-900">
-                Ürün Açıklaması
-              </h2>
+              <h2 className="text-lg font-bold text-gray-900">Ürün Açıklaması</h2>
 
               <div className="mt-3 space-y-3 text-gray-900 leading-relaxed">
                 {longDescLines.map((line, idx) => (
