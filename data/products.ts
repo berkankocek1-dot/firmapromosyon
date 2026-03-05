@@ -295,6 +295,59 @@ Kurumsal promosyon anahtarlık siparişleri için teklif alabilirsiniz.
       },
     ],
   },
+{
+  id: "p6",
+  slug: "promosyon-tarihsiz-defter-15x21-td-100",
+  title: "Promosyon Tarihsiz Defter (15 x 21 cm) TD-100",
+  shortDesc:
+    "Promosyon tarihsiz defter TD-100 (15×21 cm). Termo deri kapak, 224 sayfa (70 gr ivory krem). Baskısız minimum 30 adet; logo baskılı minimum adet değişebilir. Renk seçenekleri stok durumuna göre kontrol edilir.",
+  longDesc: `
+Promosyon Tarihsiz Defter TD-100 (15 × 21 cm), kurumsal promosyon ve hediye çalışmalarında sık tercih edilen premium görünümlü bir tarihsiz ajanda/defter modelidir. Termo deri kapak yapısı, şık tasarımı ve günlük kullanım avantajı sayesinde fuar, etkinlik, müşteri ziyareti ve şirket içi hediye dağıtımlarında markanızın görünürlüğünü artırır.
+
+PROMOSYON TARİHSİZ DEFTER TD-100 TEKNİK ÖZELLİKLERİ
+• Ebat: 15 × 21 cm
+• Kapak: Termo Deri
+• Kağıt: 70 gr Ivory Krem
+• Sayfa Sayısı: 224
+• Baskı Seçenekleri: Gofre, Dijital
+• Koli Adeti: 36
+
+RENK SEÇENEKLERİ (STOK KONTROLLÜ)
+Turkuaz Yeşil, Kırmızı, Füme, Gri, Lacivert, Taba, Turkuaz Mavi.
+Not: Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde seçilen renk(ler) için stok kontrolü yapılır ve teyit edilir.
+
+MİNİMUM SİPARİŞ / BASKI BİLGİSİ
+• Baskısız minimum sipariş: 30 adet
+• Logo baskılı siparişlerde minimum adet; baskı türü (gofre/dijital), renk seçimi ve üretim planına göre değişebilir. Kesin minimum adet ve fiyat teklifte netleştirilir.
+
+Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
+`.trim(),
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-100.jpg", // ✅ dosya adına göre güncelle
+  gallery: ["/products/promosyon-tarihsiz-defter-td-100.jpg"], // ✅ istersen 2. görsel de ekleriz
+  faq: [
+    {
+      q: "Tarihsiz defter TD-100 minimum sipariş adedi nedir?",
+      a: "Baskısız siparişlerde minimum adet 30’dur. Logo baskılı siparişlerde minimum adet; baskı türü, renk seçimi ve üretim planına göre değişebilir. Net minimum adet teklif aşamasında belirlenir.",
+    },
+    {
+      q: "Kapak ve kağıt özellikleri nedir?",
+      a: "Kapak termo deridir. İç sayfalar 70 gr ivory krem kağıttır ve toplam 224 sayfadır.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Gofre ve dijital baskı uygulanabilir. En uygun yöntem, logo ve adet bilgisine göre teklif aşamasında netleştirilir.",
+    },
+    {
+      q: "Renk seçenekleri stokta her zaman bulunur mu?",
+      a: "Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde seçilen renkler için stok kontrolü yapılır ve teyit edilir.",
+    },
+    {
+      q: "Koli adedi kaçtır?",
+      a: "Koli adedi 36’dır.",
+    },
+  ],
+},
 ];
 
 export default products;
