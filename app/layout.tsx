@@ -89,12 +89,75 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
   return (
     <html lang="tr">
-      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased flex min-h-screen flex-col`}>
         <JsonLd data={orgSchema} />
         <JsonLd data={websiteSchema} />
 
         <Header />
-        {children}
+
+        <main className="flex-1">
+          {children}
+        </main>
+
+        <footer className="mt-20 bg-neutral-950 text-white">
+          <div className="mx-auto max-w-6xl px-4 py-10">
+            <div className="grid gap-6 md:grid-cols-3">
+              <div>
+                <h3 className="mb-3 text-lg font-semibold">{SITE_NAME}</h3>
+                <p className="text-sm text-white/70">
+                  Kurumsal promosyon ürünleri ve DTF baskı çözümleri için hızlı teklif alın.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="mb-3 text-lg font-semibold">Kurumsal</h3>
+                <ul className="space-y-2 text-sm text-white/80">
+                  <li>
+                    <a href="/hakkimizda" className="hover:text-white">
+                      Hakkımızda
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/gizlilik-politikasi" className="hover:text-white">
+                      Gizlilik Politikası
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/kvkk" className="hover:text-white">
+                      KVKK
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/cerez-politikasi" className="hover:text-white">
+                      Çerez Politikası
+                    </a>
+                  </li>
+                </ul>
+              </div>
+
+              <div>
+                <h3 className="mb-3 text-lg font-semibold">İletişim</h3>
+                <ul className="space-y-2 text-sm text-white/80">
+                  <li>
+                    <a href="/iletisim" className="hover:text-white">
+                      İletişim
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/kurumsal-teklif-al" className="hover:text-white">
+                      Kurumsal Teklif Al
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div className="mt-10 border-t border-white/10 pt-6 text-center text-sm text-white/60">
+              © {new Date().getFullYear()} {SITE_NAME} — Tüm hakları saklıdır.
+            </div>
+          </div>
+        </footer>
+
         <StickyWhatsApp />
       </body>
     </html>
