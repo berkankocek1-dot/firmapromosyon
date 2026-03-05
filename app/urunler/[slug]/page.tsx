@@ -1,108 +1,51 @@
-﻿import type { Metadata } from "next";
-import Image from "next/image";
+﻿import Image from "next/image";
 import Link from "next/link";
-import Script from "next/script";
 import { notFound } from "next/navigation";
-
-import { products, type Product } from "@/data/products";
+import type { Metadata } from "next";
+import { products } from "@/data/products";
 
 const SITE_URL = "https://www.firmapromosyon.com";
-const SITE_NAME = "FirmaPromosyon";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
 };
 
-function absUrl(pathOrUrl?: string) {
-  const fallback = `${SITE_URL}/og.jpg`;
-  if (!pathOrUrl) return fallback;
-  if (pathOrUrl.startsWith("http")) return pathOrUrl;
-  return `${SITE_URL}${pathOrUrl.startsWith("/") ? "" : "/"}${pathOrUrl}`;
+function JsonLd({ data }: { data: Record<string, unknown> }) {
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+    />
+  );
 }
 
-function stripToText(input?: string) {
-  if (!input) return "";
-  return input.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
+function getProductBySlug(slug: string) {
+  return products.find((p) => p.slug === slug);
 }
 
-function normalizeSlug(s?: string) {
-  if (!s) return "";
-  try {
-    return decodeURIComponent(s).trim().toLowerCase();
-  } catch {
-    return String(s).trim().toLowerCase();
-  }
-}
-
-function getWaNumber() {
-  const raw = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "";
-  return raw.replace(/\D/g, "");
-}
-
-function getDefaultWaTextEncoded() {
-  const t = process.env.NEXT_PUBLIC_WHATSAPP_DEFAULT_TEXT || "";
-  if (!t) return "";
-  if (t.includes("%")) return t;
-  return encodeURIComponent(t);
-}
-
-function makeWaHref(customText?: string) {
-  const num = getWaNumber();
-  if (!num) return "/iletisim";
-  const base = `https://wa.me/${num}`;
-  const textEncoded = customText ? encodeURIComponent(customText) : getDefaultWaTextEncoded();
-  return textEncoded ? `${base}?text=${textEncoded}` : base;
-}
-
-function findProductBySlug(slug: string): Product | undefined {
-  const want = normalizeSlug(slug);
-  return products.find((p) => normalizeSlug(p.slug) === want);
-}
-
-/** Google index + build stabilitesi */
-export function generateStaticParams() {
-  return products.map((p) => ({ slug: p.slug }));
-}
-
-export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+export async function generateMetadata({
+  params,
+}: PageProps): Promise<Metadata> {
   const { slug } = await params;
-  const product = findProductBySlug(slug);
+  const product = getProductBySlug(slug);
 
   if (!product) {
     return {
-      title: "Ürün Bulunamadı | FirmaPromosyon",
+      title: "Ürün bulunamadı",
       robots: { index: false, follow: false },
     };
   }
 
-  const title = `${product.title} | ${SITE_NAME}`;
-  const description =
-    (product.shortDesc ||
-      stripToText(product.longDesc).slice(0, 160) ||
-      "Kurumsal promosyon ürünleri için hızlı teklif alın.").slice(0, 160);
-
-  const canonicalAbs = `${SITE_URL}/urunler/${product.slug}`;
-  const ogImage = absUrl(product.image ?? "/og.jpg");
+  const canonical = `${SITE_URL}/urunler/${product.slug}`;
+  const imgUrl = product.image.startsWith("http")
+    ? product.image
+    : `${SITE_URL}${product.image}`;
 
   return {
-    title,
-    description,
-    alternates: { canonical: canonicalAbs },
-    openGraph: {
-      type: "website",
-      url: canonicalAbs,
-      siteName: SITE_NAME,
-      title,
-      description,
-      images: [{ url: ogImage, width: 1200, height: 630, alt: product.title }],
-      locale: "tr_TR",
-    },
-    twitter: {
-      card: "summary_large_image",
-      title,
-      description,
-      images: [ogImage],
-    },
+    // ✅ Title tekrarını engeller (layout template varsa sadece 1 kez eklenir)
+    title: product.title,
+    description: product.shortDesc,
+    alternates: { canonical },
     robots: {
       index: true,
       follow: true,
@@ -114,164 +57,143 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
         "max-video-preview": -1,
       },
     },
+    openGraph: {
+      title: product.title,
+      description: product.shortDesc,
+      url: canonical,
+      type: "article",
+      images: [{ url: imgUrl }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: product.title,
+      description: product.shortDesc,
+      images: [imgUrl],
+    },
   };
 }
 
-export default async function ProductDetailPage({ params }: PageProps) {
+export default async function ProductPage({ params }: PageProps) {
   const { slug } = await params;
-
-  const product = findProductBySlug(slug);
+  const product = getProductBySlug(slug);
   if (!product) return notFound();
 
-  const productUrl = absUrl(`/urunler/${product.slug}`);
-  const imageAbs = absUrl(product.image ?? "/og.jpg");
+  const productUrl = `${SITE_URL}/urunler/${product.slug}`;
 
-  const waHref = makeWaHref(`Merhaba, ${product.title} için teklif almak istiyorum.`);
-  const mailOfferHref = `/kurumsal-teklif-al?product=${encodeURIComponent(product.title)}`;
+  // ✅ longDesc tam gösterim (satır/paragraf korur)
+  const longDescText = (product.longDesc ?? "").trim();
+  const longDescLines = longDescText
+    .split(/\n+/)
+    .map((s) => s.trim())
+    .filter(Boolean);
 
-  const productJsonLd: any = {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    name: product.title,
-    description: stripToText(product.longDesc || product.shortDesc),
-    url: productUrl,
-    image: [imageAbs],
-    brand: { "@type": "Brand", name: SITE_NAME },
-    sku: product.slug,
-    category: product.category,
-    offers: {
-      "@type": "Offer",
-      priceCurrency: "TRY",
-      url: absUrl(`/teklif?urun=${product.slug}`),
-      availability: "https://schema.org/InStock",
-      itemCondition: "https://schema.org/NewCondition",
-      seller: { "@type": "Organization", name: SITE_NAME },
-    },
-  };
-
-  const faqItems =
-    product.faq && product.faq.length
-      ? product.faq
-      : [
-          {
-            q: "Minimum sipariş adedi nedir?",
-            a: "Minimum sipariş adedi baskı durumuna göre değişir. Baskısız siparişlerde genelde 50 adet ile başlanır. Logo baskılı siparişlerde minimum adet, baskı tekniğine ve üretim planına göre değişebilir.",
-          },
-          {
-            q: "Logo baskı seçenekleri nelerdir?",
-            a: "Ürüne göre UV, tampon veya lazer gibi logo baskı seçenekleri sunulabilir. En uygun baskı yöntemi teklif aşamasında netleştirilir.",
-          },
-          {
-            q: "Teslim süresi kaç gün?",
-            a: "Adet, baskı türü ve üretim yoğunluğuna göre değişir. Termin bilgisi teklif aşamasında paylaşılır.",
-          },
-        ];
+  const imgUrl = product.image.startsWith("http")
+    ? product.image
+    : `${SITE_URL}${product.image}`;
 
   const breadcrumbJsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Ana Sayfa", item: `${SITE_URL}/` },
-      { "@type": "ListItem", position: 2, name: "Ürünler", item: `${SITE_URL}/urunler` },
+      { "@type": "ListItem", position: 1, name: "Ana Sayfa", item: SITE_URL },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Ürünler",
+        item: `${SITE_URL}/urunler`,
+      },
       { "@type": "ListItem", position: 3, name: product.title, item: productUrl },
     ],
   };
 
-  const faqJsonLd = {
+  const productJsonLd = {
     "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: faqItems.map((x) => ({
-      "@type": "Question",
-      name: x.q,
-      acceptedAnswer: { "@type": "Answer", text: x.a },
-    })),
+    "@type": "Product",
+    name: product.title,
+    description: product.shortDesc,
+    image: [imgUrl],
+    url: productUrl,
+    brand: { "@type": "Brand", name: "FirmaPromosyon" },
+    category: product.category,
   };
 
   return (
-    <main className="relative mx-auto max-w-6xl px-4 py-10 text-white">
-      <div className="absolute inset-0 -z-10 bg-gradient-to-b from-neutral-950 via-neutral-900 to-black" />
+    <main className="mx-auto max-w-6xl px-5 py-10">
+      <JsonLd data={breadcrumbJsonLd} />
+      <JsonLd data={productJsonLd} />
 
-      <Script id="breadcrumb-jsonld" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
-      <Script id="product-jsonld"
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(productJsonLd) }}
-       />
-      <Script
-        id="faq-jsonld"
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
-      />
-
-      <div className="mb-6">
-        <Link href="/urunler" className="text-sm font-medium text-white/70 hover:text-white">
-          ← Ürünlere dön
+      {/* Breadcrumb (✅ Kalıcı bağlantı yok) */}
+      <nav className="mb-6 text-sm text-gray-600">
+        <Link className="hover:underline" href="/">
+          Ana Sayfa
         </Link>
-      </div>
+        <span className="px-2">/</span>
+        <Link className="hover:underline" href="/urunler">
+          Ürünler
+        </Link>
+        <span className="px-2">/</span>
+        <span className="text-gray-900">{product.title}</span>
+      </nav>
 
-      <div className="grid gap-10 md:grid-cols-2 md:items-start">
-        <div className="relative aspect-square w-full overflow-hidden rounded-2xl bg-neutral-800">
-          <Image src={product.image ?? "/og.jpg"} alt={product.title} fill className="object-cover" priority />
+      <section className="grid gap-10 md:grid-cols-2 md:items-start">
+        {/* Görsel */}
+        <div className="relative aspect-square w-full overflow-hidden rounded-2xl border bg-white">
+          <Image
+            src={product.image}
+            alt={product.title}
+            fill
+            className="object-contain p-6"
+            sizes="(max-width: 768px) 100vw, 50vw"
+            priority
+          />
         </div>
 
+        {/* İçerik */}
         <div>
-          <div className="text-sm font-medium text-white/70">{product.category ?? "Ürün"}</div>
+          <h1 className="text-3xl font-extrabold leading-tight text-gray-900">
+            {product.title}
+          </h1>
 
-          <h1 className="mt-2 text-3xl font-semibold text-white">{product.title}</h1>
+          <p className="mt-3 text-gray-700">{product.shortDesc}</p>
 
-          <p className="mt-4 text-white/80">
-            {product.shortDesc ?? "Kurumsal promosyon ürünleri için hızlı teklif alın."}
-          </p>
+          <div className="mt-5 flex flex-wrap gap-2">
+            <span className="rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-700">
+              Kategori: {product.category}
+            </span>
+          </div>
 
-          <div className="mt-6 flex flex-col gap-3 sm:flex-row">
+          {/* ✅ Ürün açıklaması TAM */}
+          {longDescLines.length > 0 && (
+            <div className="mt-8">
+              <h2 className="text-lg font-bold text-gray-900">Ürün Açıklaması</h2>
+              <div className="mt-3 space-y-3 text-gray-800 leading-relaxed">
+                {longDescLines.map((line, idx) => (
+                  <p key={idx}>{line}</p>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* CTA */}
+          <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <Link
-              href={`/teklif?urun=${product.slug}`}
-              className="rounded-2xl bg-white px-6 py-3 text-center text-sm font-semibold text-black shadow-lg hover:bg-gray-200"
+              href={`/teklif?product=${encodeURIComponent(product.slug)}`}
+              className="inline-flex items-center justify-center rounded-xl bg-black px-5 py-3 text-white font-semibold hover:opacity-90"
             >
               Hızlı Teklif Al
             </Link>
 
             <Link
-              href={mailOfferHref}
-              className="rounded-2xl border border-white/30 px-6 py-3 text-center text-sm font-semibold text-white hover:bg-white/10"
+              href="/iletisim"
+              className="inline-flex items-center justify-center rounded-xl border px-5 py-3 font-semibold text-gray-900 hover:bg-gray-50"
             >
-              Mail ile Teklif Al
+              İletişim
             </Link>
-
-            <a
-              href={waHref}
-              target={waHref.startsWith("http") ? "_blank" : undefined}
-              rel={waHref.startsWith("http") ? "noopener noreferrer" : undefined}
-              className="rounded-2xl border border-white/30 px-6 py-3 text-center text-sm font-semibold text-white hover:bg-white/10"
-            >
-              WhatsApp’tan Yaz
-            </a>
           </div>
 
-          {product.longDesc && (
-            <section className="mt-10 rounded-2xl border border-white/15 bg-white/5 p-6">
-              <h2 className="text-lg font-semibold text-white">Ürün Açıklaması</h2>
-              <div className="mt-4 whitespace-pre-line text-sm leading-relaxed text-white/80">{product.longDesc}</div>
-            </section>
-          )}
-
-          <div className="mt-6 rounded-2xl border border-white/15 bg-white/5 p-6">
-            <h2 className="text-lg font-semibold text-white">Sık Sorulan Sorular</h2>
-            <div className="mt-4 space-y-3">
-              {faqItems.map((item) => (
-                <details key={item.q} className="rounded-xl border border-white/15 bg-black/20 px-4 py-3">
-                  <summary className="cursor-pointer list-none text-sm font-semibold text-white">{item.q}</summary>
-                  <p className="mt-2 text-sm text-white/80">{item.a}</p>
-                </details>
-              ))}
-            </div>
-          </div>
-
-         
+          {/* ❌ “Kalıcı bağlantı” tamamen kaldırıldı */}
         </div>
-      </div>
+      </section>
     </main>
   );
 }
-
-
-
