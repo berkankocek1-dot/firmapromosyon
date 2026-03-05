@@ -1,7 +1,7 @@
 "use client";
 
 export default function StickyWhatsApp() {
-  const number = "905XXXXXXXXX"; // kendi numaran (başında + yok)
+  const number = "905350509128"; // kendi numaran (başında + yok)
   const text = "Merhaba, promosyon ürünleri için teklif almak istiyorum.";
   const href = `https://wa.me/${number}?text=${encodeURIComponent(text)}`;
 

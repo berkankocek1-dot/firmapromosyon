@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import type { Product } from "@/data/products";
 
-const WHATSAPP_PHONE = "90XXXXXXXXXX"; // kendi numaran (başında + yok)
+const WHATSAPP_PHONE = "905350509128"; // kendi numaran (başında + yok)
 const wa = (text: string) =>
   `https://wa.me/${WHATSAPP_PHONE}?text=${encodeURIComponent(text)}`;
 

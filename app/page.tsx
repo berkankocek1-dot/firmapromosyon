@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 };
 
 const WHATSAPP =
-  "https://wa.me/90XXXXXXXXXX?text=Merhaba%2C%20DTF%20bask%C4%B1%20ve%20promosyon%20%C3%BCr%C3%BCnleri%20i%C3%A7in%20teklif%20almak%20istiyorum.";
+  "https://wa.me/905350509128?text=Merhaba%2C%20DTF%20bask%C4%B1%20ve%20promosyon%20%C3%BCr%C3%BCnleri%20i%C3%A7in%20teklif%20almak%20istiyorum.";
 
 function pickTitle(p: any) {
   return p?.title ?? p?.name ?? "Ürün";

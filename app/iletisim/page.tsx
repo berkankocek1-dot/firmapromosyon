@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-const WHATSAPP_PHONE = "90XXXXXXXXXX";
+const WHATSAPP_PHONE = "905350509128";
 
 const wa = (text: string) =>
   `https://wa.me/${WHATSAPP_PHONE}?text=${encodeURIComponent(text)}`;
