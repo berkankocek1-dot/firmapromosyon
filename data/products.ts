@@ -4,7 +4,7 @@
   title: string;
   shortDesc: string;
   longDesc?: string;
-  category: "Kupa" | "Ajanda" | "Kalem" | "Tişört" | "Anahtarlık";
+  category: "Kupa" | "Ajanda" | "Kalem" | "Tişört" | "Anahtarlık" | "Çakmak";
   image: string;
   gallery?: string[];
   faq?: { q: string; a: string }[];
@@ -37,7 +37,6 @@ MİNİMUM SİPARİŞ / BASKI BİLGİSİ
 Kurumsal toplu alım ve logo baskı için teklif isteyebilirsiniz.
 `.trim(),
     category: "Kalem",
-    // ✅ SENDEKİ GERÇEK DOSYA ADINA GERİ DÖNDÜK
     image: "/products/dokunmatik-kalem-dk-500.jpg",
     gallery: ["/products/dokunmatik-kalem-dk-500.jpg"],
     faq: [
@@ -87,7 +86,7 @@ Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
 `.trim(),
     category: "Kalem",
     image: "/products/promosyon-dokunmatik-kalem-dk600-logo-baski.jpg",
-gallery: ["/products/promosyon-dokunmatik-kalem-dk600-logo-baski.jpg"],
+    gallery: ["/products/promosyon-dokunmatik-kalem-dk600-logo-baski.jpg"],
     faq: [
       {
         q: "Minimum sipariş adedi nedir?",
@@ -104,6 +103,57 @@ gallery: ["/products/promosyon-dokunmatik-kalem-dk600-logo-baski.jpg"],
       {
         q: "Teslim süresi kaç gün?",
         a: "Adet, baskı türü ve üretim yoğunluğuna göre değişir. Termin ve üretim süresi teklif aşamasında paylaşılır.",
+      },
+    ],
+  },
+
+  {
+    id: "p3",
+    slug: "promosyon-tasli-cakmak-cricket-cm-100",
+    title: "Promosyon Taşlı Çakmak (Cricket 7.8 x 2.2) ÇM-100",
+    shortDesc:
+      "Promosyon taşlı çakmak ÇM-100 (Cricket 7.8×2.2 cm) logo baskıya uygundur. Kurumsal promosyon, fuar ve etkinlikler için idealdir. Baskısız minimum 100 adet; baskılı minimum adet değişebilir. Renkler stok durumuna göre kontrol edilir.",
+    longDesc: `
+Promosyon Taşlı Çakmak ÇM-100 (Cricket 7.8 × 2.2 cm), kurumsal promosyon çalışmalarında en sık tercih edilen promosyon çakmak modellerinden biridir. Kompakt tasarımı ve pratik kullanımı sayesinde fuar, etkinlik, müşteri ziyareti ve promosyon kampanyalarında dağıtım için ideal bir reklam ürünüdür.
+
+PROMOSYON TAŞLI ÇAKMAK ÇM-100 TEKNİK ÖZELLİKLERİ
+• Model: ÇM-100
+• Ebat: 7.8 × 2.2 cm
+• Baskı Alanı: 5.5 × 1.4 cm
+• Mekanizma: Taşlı çakmak
+• Kullanım: Doldurulamaz
+• Baskı Türü: Tampon Baskı + UV Dijital Baskı
+
+RENK SEÇENEKLERİ (STOK KONTROLLÜ)
+Beyaz, Kırmızı, Mavi, Sarı, Siyah.
+Not: Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde renk/stok kontrolü yapılır ve teyit edilir.
+
+MİNİMUM SİPARİŞ / BASKI BİLGİSİ
+• Baskısız minimum sipariş: 100 adet
+• Logo baskılı siparişlerde minimum adet; baskı tekniği, renk seçimi ve üretim planına göre değişebilir. Kesin minimum adet ve fiyat teklifte netleştirilir.
+
+Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
+`.trim(),
+    category: "Çakmak",
+    // Görseli public/products içine koyduğun dosya adına göre düzelt:
+    image: "/products/promosyon-tasli-cakmak-cm-100.jpg",
+    gallery: ["/products/promosyon-tasli-cakmak-cm-100.jpg"],
+    faq: [
+      {
+        q: "Promosyon taşlı çakmak minimum sipariş adedi nedir?",
+        a: "Baskısız siparişlerde minimum adet 100’dür. Logo baskılı siparişlerde minimum adet üretim planına göre değişebilir.",
+      },
+      {
+        q: "Baskı alanı ve baskı türü nedir?",
+        a: "Baskı alanı 5.5 × 1.4 cm’dir. Tampon baskı ve UV dijital baskı uygulanabilir.",
+      },
+      {
+        q: "Renk seçenekleri stokta var mı?",
+        a: "Beyaz, Kırmızı, Mavi, Sarı ve Siyah renk seçenekleri bulunur. Renkler stok durumuna göre değişebilir ve sipariş öncesinde stok kontrolü yapılır.",
+      },
+      {
+        q: "ÇM-100 çakmak doldurulabilir mi?",
+        a: "Hayır. ÇM-100 modeli doldurulamaz taşlı çakmaktır.",
       },
     ],
   },
