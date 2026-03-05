@@ -157,6 +157,57 @@ Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
       },
     ],
   },
+{
+  id: "p4",
+  slug: "promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150",
+  title: "Promosyon Cricket Manyetolu Sibopsuz Çakmak (7.8 x 2.2) ÇM-150",
+  shortDesc:
+    "Promosyon Cricket manyetolu sibopsuz çakmak ÇM-150 (78×22 mm) logo baskıya uygundur. Kurumsal promosyon, fuar ve etkinlikler için idealdir. Baskısız minimum sipariş 100 adet; baskılı minimum adet değişebilir. Renkler stok durumuna göre kontrol edilir.",
+  longDesc: `
+Promosyon Cricket Manyetolu Sibopsuz Çakmak ÇM-150, kurumsal promosyon çalışmalarında sık tercih edilen promosyon çakmak modellerinden biridir. Manyetolu mekanizması ve pratik kullanımı sayesinde fuar, etkinlik, müşteri ziyareti ve promosyon kampanyalarında dağıtım için idealdir.
+
+Logo baskıya uygun yüzeyi ile markanızın görünürlüğünü artırır. Kurumsal firmalar için promosyon dağıtımlarında uygun maliyetli ve etkili bir reklam ürünüdür.
+
+PROMOSYON ÇAKMAK ÇM-150 TEKNİK ÖZELLİKLERİ
+• Model: ÇM-150
+• Tip: Manyetolu, sibopsuz
+• Ölçü / Ebat: 78 × 22 mm (7.8 × 2.2 cm)
+• Baskı Alanı: 55 × 14 mm (5.5 × 1.4 cm)
+• Baskı Türleri: Tampon Baskı – UV Baskı
+
+RENK SEÇENEKLERİ (STOK KONTROLLÜ)
+Beyaz, Kırmızı, Mavi, Sarı, Siyah.
+Not: Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde renk/stok kontrolü yapılır ve teyit edilir.
+
+MİNİMUM SİPARİŞ / BASKI BİLGİSİ
+• Baskısız minimum sipariş: 100 adet
+• Logo baskılı siparişlerde minimum adet; baskı tekniği (tampon/UV), renk seçimi ve üretim planına göre değişebilir. Kesin minimum adet ve fiyat teklifte netleştirilir.
+
+Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
+`.trim(),
+  category: "Çakmak",
+  // Görseli public/products içine koyduğun dosya adına göre burayı düzelt:
+  image: "/products/promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150.jpg",
+  gallery: ["/products/promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150.jpg"],
+  faq: [
+    {
+      q: "ÇM-150 promosyon çakmak minimum sipariş adedi nedir?",
+      a: "Baskısız siparişlerde minimum adet 100’dür. Logo baskılı siparişlerde minimum adet üretim planına göre değişebilir.",
+    },
+    {
+      q: "ÇM-150 çakmakta baskı alanı ve baskı türleri nedir?",
+      a: "Baskı alanı 55 × 14 mm’dir. Tampon baskı ve UV baskı uygulanabilir.",
+    },
+    {
+      q: "Renk seçenekleri stokta var mı?",
+      a: "Beyaz, Kırmızı, Mavi, Sarı ve Siyah renk seçenekleri bulunur. Renkler stok durumuna göre değişebilir; sipariş öncesinde stok kontrolü yapılır.",
+    },
+    {
+      q: "ÇM-150 çakmak hangi kullanım alanları için uygundur?",
+      a: "Fuar, etkinlik, müşteri ziyareti ve kurumsal promosyon dağıtımlarında logo baskılı reklam ürünü olarak uygundur.",
+    },
+  ],
+},
 ];
 
 export default products;
