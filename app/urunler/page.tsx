@@ -93,45 +93,26 @@ export default async function ProductsPage({ searchParams }: PageProps) {
 
   return (
     <main className="mx-auto max-w-6xl px-4 py-10">
-      {/* Breadcrumb JSON-LD */}
+      {/* JSON-LD */}
       <JsonLd
         data={{
           "@context": "https://schema.org",
           "@type": "BreadcrumbList",
           itemListElement: [
-            {
-              "@type": "ListItem",
-              position: 1,
-              name: "Ana Sayfa",
-              item: `${SITE_URL}/`,
-            },
-            {
-              "@type": "ListItem",
-              position: 2,
-              name: "Ürünler",
-              item: `${SITE_URL}/urunler`,
-            },
+            { "@type": "ListItem", position: 1, name: "Ana Sayfa", item: `${SITE_URL}/` },
+            { "@type": "ListItem", position: 2, name: "Ürünler", item: `${SITE_URL}/urunler` },
             ...(selected !== "Tümü"
-              ? [
-                  {
-                    "@type": "ListItem",
-                    position: 3,
-                    name: selected,
-                    item: pageUrl,
-                  },
-                ]
+              ? [{ "@type": "ListItem", position: 3, name: selected, item: pageUrl }]
               : []),
           ],
         }}
       />
 
-      {/* CollectionPage JSON-LD */}
       <JsonLd
         data={{
           "@context": "https://schema.org",
           "@type": "CollectionPage",
-          name:
-            selected === "Tümü" ? "Ürünler" : `Ürünler - ${selected} Kategorisi`,
+          name: selected === "Tümü" ? "Ürünler" : `Ürünler - ${selected} Kategorisi`,
           url: pageUrl,
           description:
             "Kurumsal promosyon ürünleri: kalem, çakmak, kupa, ajanda, tişört ve daha fazlası.",
@@ -143,22 +124,22 @@ export default async function ProductsPage({ searchParams }: PageProps) {
         }}
       />
 
-      {/* Başlık */}
+      {/* ✅ Başlık alanı (koyu zeminde okunur) */}
       <div className="mb-6">
-        <h1 className="text-3xl font-extrabold text-gray-900">Ürünler</h1>
-        <p className="mt-2 text-gray-700">
+        <h1 className="text-3xl font-extrabold text-white">Ürünler</h1>
+        <p className="mt-2 text-white/80">
           Kategorilere göre filtreleyin ve hızlı teklif alın.
         </p>
       </div>
 
-      {/* ✅ Kategoriler */}
+      {/* ✅ Kategoriler (koyu zeminde okunur) */}
       <div className="mb-8 flex flex-wrap gap-2">
         <Link
           href="/urunler"
           className={`rounded-full border px-4 py-2 text-sm font-semibold transition ${
             selected === "Tümü"
-              ? "bg-black text-white border-black"
-              : "bg-white text-gray-900 border-gray-200 hover:bg-gray-50"
+              ? "bg-white text-black border-white"
+              : "bg-white/10 text-white border-white/20 hover:bg-white/15"
           }`}
         >
           Tümü
@@ -172,8 +153,8 @@ export default async function ProductsPage({ searchParams }: PageProps) {
               href={`/urunler?kategori=${encodeURIComponent(cat)}`}
               className={`rounded-full border px-4 py-2 text-sm font-semibold transition ${
                 active
-                  ? "bg-black text-white border-black"
-                  : "bg-white text-gray-900 border-gray-200 hover:bg-gray-50"
+                  ? "bg-white text-black border-white"
+                  : "bg-white/10 text-white border-white/20 hover:bg-white/15"
               }`}
             >
               {cat}
@@ -182,7 +163,7 @@ export default async function ProductsPage({ searchParams }: PageProps) {
         })}
       </div>
 
-      {/* Ürün grid */}
+      {/* ✅ Ürün kartları (beyaz kart → içerik koyu, okunur) */}
       <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {filtered.map((p) => (
           <Link
@@ -201,13 +182,9 @@ export default async function ProductsPage({ searchParams }: PageProps) {
             </div>
 
             <div className="mt-4">
-              <div className="text-xs font-semibold text-gray-600">
-                {p.category}
-              </div>
+              <div className="text-xs font-semibold text-gray-600">{p.category}</div>
 
-              <h2 className="mt-1 text-lg font-bold text-gray-900">
-                {p.title}
-              </h2>
+              <h2 className="mt-1 text-lg font-bold text-gray-900">{p.title}</h2>
 
               <p className="mt-2 line-clamp-3 text-sm text-gray-700">
                 {p.shortDesc}
@@ -222,7 +199,7 @@ export default async function ProductsPage({ searchParams }: PageProps) {
       </div>
 
       {filtered.length === 0 && (
-        <p className="mt-10 text-center text-gray-700">
+        <p className="mt-10 text-center text-white/80">
           Bu kategoride henüz ürün yok.
         </p>
       )}
