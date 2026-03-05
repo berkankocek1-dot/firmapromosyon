@@ -182,6 +182,35 @@ export default async function ProductPage({ params }: PageProps) {
           </div>
         </div>
       </section>
+
+      {/* YENİ EKLENEN KURUMSAL TEKLİF BÖLÜMÜ */}
+      <section className="mt-16 rounded-2xl bg-gray-100 p-10 text-center">
+        <h2 className="text-2xl font-bold text-gray-900">
+          Kurumsal Toplu Sipariş İçin Teklif Alın
+        </h2>
+
+        <p className="mt-4 text-gray-700 max-w-2xl mx-auto">
+          Promosyon dokunmatik kalem DK-500 ve diğer promosyon ürünleri için
+          kurumsal toplu sipariş verebilirsiniz. Logo baskı, renk seçenekleri,
+          stok durumu ve fiyat bilgisi için hemen teklif alın.
+        </p>
+
+        <div className="mt-6 flex justify-center gap-4 flex-wrap">
+          <Link
+            href={`/kurumsal-teklif-al?product=${encodeURIComponent(product.slug)}`}
+            className="rounded-xl bg-black px-6 py-3 text-white font-semibold hover:opacity-90"
+          >
+            Kurumsal Teklif Al
+          </Link>
+
+          <Link
+            href="/iletisim"
+            className="rounded-xl border border-gray-300 px-6 py-3 font-semibold text-gray-900 hover:bg-gray-200"
+          >
+            İletişime Geç
+          </Link>
+        </div>
+      </section>
     </main>
   );
 }
