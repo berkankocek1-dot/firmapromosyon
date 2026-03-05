@@ -16,95 +16,99 @@ export const products: Product[] = [
     slug: "promosyon-dokunmatik-kalem-dk-500",
     title: "Promosyon Dokunmatik Kalem DK-500",
     shortDesc:
-      "Promosyon dokunmatik kalem DK-500 (logo baskıya uygun). Kurumsal promosyon, fuar ve etkinlikler için toplu alım. Baskısız minimum 50 adet; baskılı minimum adet değişebilir. Renkler stok durumuna göre kontrol edilir.",
+      "Logo baskıya uygun promosyon dokunmatik kalem DK-500. Kurumsal promosyon, fuar ve etkinlikler için toplu siparişe uygundur. Baskısız minimum 50 adet; baskılı minimum adet değişebilir.",
     longDesc: `
-Promosyon Dokunmatik Kalem DK-500; kurumsal promosyon ürünleri arasında hem şık görünümü hem de günlük kullanım avantajı sayesinde en çok tercih edilen modellerden biridir. Dokunmatik ucu sayesinde telefon ve tablet kullanımında pratiklik sunar. Logo baskılı promosyon kalem arayan firmalar için fuar, etkinlik, müşteri ziyareti ve kurumsal hediye dağıtımlarında güçlü bir çözümdür.
+Promosyon Dokunmatik Kalem DK-500; kurumsal promosyon ürünleri arasında hem şık görünümü hem de günlük kullanım avantajı sayesinde en çok tercih edilen modellerden biridir. Dokunmatik ucu sayesinde telefon ve tablet kullanımında pratiklik sunar.
+
+Logo baskılı promosyon kalem arayan firmalar için fuar, etkinlik, müşteri ziyareti ve kurumsal hediye dağıtımlarında güçlü bir çözümdür.
 
 PROMOSYON DOKUNMATİK KALEM DK-500 ÖZELLİKLERİ
 • Dokunmatik uç: Telefon ve tablet ekranlarında kolay kullanım
 • Ergonomik gövde: Uzun süre elde konforlu tutuş
 • Kurumsal baskıya uygun yüzey: Logo baskı / marka baskısı için ideal
-• Şık ve profesyonel görünüm: Kurumsal hediye ve promosyon dağıtımı için uygun
+• Şık ve profesyonel görünüm: Kurumsal promosyon dağıtımı için uygun
 
 RENK SEÇENEKLERİ (STOK KONTROLLÜ)
 Fıstık Yeşili, Lacivert, Kırmızı, Füme, Mat Turuncu, Beyaz, Siyah, Pembe, Yeşil, Gümüş, Turuncu, Sarı, Turkuaz.
-Not: Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde renk/stok bilgisi mutlaka kontrol edilir ve netleştirilir.
 
-MİNİMUM SİPARİŞ / BASKI BİLGİSİ
+Not: Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde stok kontrolü yapılır.
+
+MİNİMUM SİPARİŞ
 • Baskısız minimum sipariş: 50 adet
-• Logo baskılı siparişlerde minimum adet; baskı tekniği (UV/tampon/lazer), renk seçimi ve üretim planına göre değişebilir. Kesin minimum adet ve fiyat, teklif aşamasında netleştirilir.
+• Logo baskılı siparişlerde minimum adet üretim planına göre değişebilir.
 
-Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
+Kurumsal toplu alım ve logo baskı için teklif alabilirsiniz.
 `.trim(),
     category: "Kalem",
-    image: "/products/dokunmatik-kalem-dk-500.jpg",
-    gallery: ["/products/dokunmatik-kalem-dk-500.jpg"],
+    image: "/products/promosyon-dokunmatik-kalem-dk500.jpg",
+    gallery: ["/products/promosyon-dokunmatik-kalem-dk500.jpg"],
     faq: [
       {
         q: "Minimum sipariş adedi nedir?",
-        a: "Baskısız siparişlerde minimum adet 50’dir. Logo baskılı siparişlerde minimum adet; baskı tekniği, renk seçimi ve üretim planına göre değişebilir. Net minimum adet teklif aşamasında belirlenir.",
+        a: "Baskısız siparişlerde minimum adet 50’dir. Logo baskılı siparişlerde minimum adet üretim planına göre değişebilir.",
       },
       {
-        q: "Renk seçenekleri kesin mi, stok var mı?",
-        a: "Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesi seçtiğiniz renk(ler) için stok kontrolü yapılır ve teyit edilir.",
+        q: "Renk seçenekleri stokta var mı?",
+        a: "Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde stok kontrolü yapılır.",
       },
       {
-        q: "Logo baskı seçenekleri nelerdir?",
-        a: "Ürüne göre UV, tampon veya lazer gibi baskı yöntemleri uygulanabilir. En uygun yöntem ve baskı alanı, teklif aşamasında netleştirilir.",
+        q: "Logo baskı yapılabiliyor mu?",
+        a: "Evet. Ürüne UV, tampon veya lazer baskı uygulanabilir.",
       },
       {
-        q: "Teslim süresi kaç gün?",
-        a: "Adet, baskı türü ve üretim yoğunluğuna göre değişir. Termin ve üretim süresi teklif aşamasında paylaşılır.",
+        q: "Teslim süresi ne kadar?",
+        a: "Sipariş adedi ve baskı türüne göre değişir. Termin bilgisi teklif aşamasında paylaşılır.",
       },
     ],
   },
 
-  // ✅ YENİ ÜRÜN: DK-600
   {
     id: "p2",
-    slug: "promosyon-dokunmatik-kalem-dk600",
+    slug: "promosyon-dokunmatik-kalem-dk-600",
     title: "Promosyon Dokunmatik Kalem DK-600",
     shortDesc:
-      "Promosyon dokunmatik kalem DK-600 (logo baskıya uygun rubber gövde). Kurumsal promosyon, fuar ve etkinlikler için toplu alım. Baskısız minimum 50 adet; baskılı minimum adet değişebilir. Renkler: Standart, Kırmızı, Turkuaz, Siyah, Yeşil, Füme, Turuncu (stok kontrolü yapılır).",
+      "Logo baskıya uygun rubber gövdeli promosyon dokunmatik kalem DK-600. Kurumsal promosyon, fuar ve etkinlikler için idealdir. Baskısız minimum sipariş 50 adet olup renkler stok durumuna göre kontrol edilir.",
     longDesc: `
-Promosyon Dokunmatik Kalem DK-600; rubber (kauçuk) gövde yapısı, şık tasarımı ve dokunmatik ucu sayesinde kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir. Telefon ve tablet ekranlarında rahat kullanım sunar; aynı zamanda günlük kullanım için dayanıklı ve konforlu bir tutuş sağlar.
+Promosyon Dokunmatik Kalem DK-600; rubber gövde yapısı ve dokunmatik ucu sayesinde modern ve kullanışlı bir promosyon kalem modelidir.
+
+Telefon ve tablet ekranlarında rahat kullanım sağlayan dokunmatik uç sayesinde hem günlük kullanım hem de kurumsal promosyon dağıtımı için tercih edilir.
 
 PROMOSYON DOKUNMATİK KALEM DK-600 ÖZELLİKLERİ
-• Dokunmatik uç: Telefon ve tablet ekranlarında kolay kullanım
-• Rubber gövde: Kaymaz yüzey, konforlu tutuş ve premium görünüm
-• Logo baskıya uygun: Kurumsal logo / marka baskısı için ideal yüzey
-• Kullanım alanı: Fuar, etkinlik, müşteri ziyareti, kurumsal hediye ve promosyon dağıtımı
+• Dokunmatik uç: Telefon ve tablet kullanımına uygun
+• Rubber gövde: Kaymaz yüzey ve konforlu tutuş
+• Logo baskıya uygun yüzey
+• Kurumsal promosyon ve fuar dağıtımları için ideal
 
-RENK SEÇENEKLERİ (STOK KONTROLLÜ)
+RENK SEÇENEKLERİ
 Standart, Kırmızı, Turkuaz, Siyah, Yeşil, Füme, Turuncu.
-Not: Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde renk/stok kontrolü yapılır ve teyit edilir.
 
-MİNİMUM SİPARİŞ / BASKI BİLGİSİ
+Not: Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde stok kontrolü yapılır.
+
+MİNİMUM SİPARİŞ
 • Baskısız minimum sipariş: 50 adet
-• Logo baskılı siparişlerde minimum adet; baskı tekniği (UV / tampon / lazer), renk seçimi ve üretim planına göre değişebilir. Kesin minimum adet ve fiyat teklifte netleştirilir.
+• Logo baskılı siparişlerde minimum adet üretim planına göre değişebilir.
 
-Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
+Kurumsal promosyon siparişleri ve logo baskı için teklif alabilirsiniz.
 `.trim(),
     category: "Kalem",
-    // Görseli public/products içine koyduysan bu doğru:
     image: "/products/promosyon-dokunmatik-kalem-dk600.jpg",
     gallery: ["/products/promosyon-dokunmatik-kalem-dk600.jpg"],
     faq: [
       {
-        q: "Minimum sipariş adedi nedir?",
-        a: "Baskısız siparişlerde minimum adet 50’dir. Logo baskılı siparişlerde minimum adet; baskı tekniği, renk seçimi ve üretim planına göre değişebilir. Net minimum adet teklif aşamasında belirlenir.",
+        q: "Promosyon dokunmatik kalem DK-600 minimum sipariş adedi nedir?",
+        a: "Baskısız siparişlerde minimum adet 50’dir. Logo baskılı siparişlerde minimum adet üretim planına göre değişebilir.",
       },
       {
-        q: "Renk seçenekleri kesin mi, stok kontrolü yapılıyor mu?",
-        a: "Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde Standart / Kırmızı / Turkuaz / Siyah / Yeşil / Füme / Turuncu seçenekleri için stok kontrolü yapılır ve teyit edilir.",
+        q: "Renk seçenekleri nelerdir?",
+        a: "Standart, Kırmızı, Turkuaz, Siyah, Yeşil, Füme ve Turuncu renk seçenekleri bulunmaktadır. Renkler stok durumuna göre değişebilir.",
       },
       {
-        q: "Logo baskı seçenekleri nelerdir?",
-        a: "Ürüne göre UV, tampon veya lazer gibi baskı yöntemleri uygulanabilir. En uygun yöntem ve baskı alanı, teklif aşamasında netleştirilir.",
+        q: "Logo baskı yapılabiliyor mu?",
+        a: "Evet. Kurumsal logo baskısı UV, tampon veya lazer teknikleri ile uygulanabilir.",
       },
       {
-        q: "Teslim süresi kaç gün?",
-        a: "Adet, baskı türü ve üretim yoğunluğuna göre değişir. Termin ve üretim süresi teklif aşamasında paylaşılır.",
+        q: "Promosyon kalem teslim süresi ne kadar?",
+        a: "Teslim süresi sipariş adedi ve baskı türüne göre değişir. Termin bilgisi teklif aşamasında paylaşılır.",
       },
     ],
   },
