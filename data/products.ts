@@ -4,7 +4,44 @@
   title: string;
   shortDesc: string;
   longDesc?: string;
-  category: "Kupa" | "Ajanda" | "Kalem" | "Tişört" | "Anahtarlık" | "Çakmak";
+
+  // ✅ Yeni kategori listesi eklendi (hepsi burada)
+  category:
+    | "Kalem"
+    | "USB Bellek"
+    | "Powerbank"
+    | "Tarihsiz Defter"
+    | "Ajanda"
+    | "Duvar Saatleri"
+    | "Kalem Setleri"
+    | "Termos"
+    | "Geri Dönüşümlü Ürünler"
+    | "Yapışkanlı Notluklar"
+    | "Matbaa Ürünleri"
+    | "Karton Çantalar"
+    | "Promosyon Şapka"
+    | "Ahşap ve Deri Masaüstü Ürünler"
+    | "Promosyon Tişört"
+    | "Organizerler"
+    | "Sekreterlikler ve Evrak Çantaları"
+    | "Kırtasiye Ürünleri"
+    | "VIP Ürünler"
+    | "Masa Sümeni"
+    | "Hesap Makineleri"
+    | "Seramik ve Porselen Kupalar"
+    | "Ham Bez & Tela Çanta"
+    | "Bayraklar"
+    | "Teknolojik Ürünler"
+    | "Kartvizitlik"
+    | "Ayna ve Deri Kartlıklar"
+    | "Çakı, Fener ve Tornavida Seti"
+    | "İmalat Ürünler"
+    // ✅ Eski kategoriler de kalsın
+    | "Kupa"
+    | "Tişört"
+    | "Anahtarlık"
+    | "Çakmak";
+
   image: string;
   gallery?: string[];
   faq?: { q: string; a: string }[];
@@ -135,7 +172,6 @@ MİNİMUM SİPARİŞ / BASKI BİLGİSİ
 Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
 `.trim(),
     category: "Çakmak",
-    // Görseli public/products içine koyduğun dosya adına göre düzelt:
     image: "/products/promosyon-tasli-cakmak-cm-100.jpg",
     gallery: ["/products/promosyon-tasli-cakmak-cm-100.jpg"],
     faq: [
@@ -157,13 +193,14 @@ Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
       },
     ],
   },
-{
-  id: "p4",
-  slug: "promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150",
-  title: "Promosyon Cricket Manyetolu Sibopsuz Çakmak (7.8 x 2.2) ÇM-150",
-  shortDesc:
-    "Promosyon Cricket manyetolu sibopsuz çakmak ÇM-150 (78×22 mm) logo baskıya uygundur. Kurumsal promosyon, fuar ve etkinlikler için idealdir. Baskısız minimum sipariş 100 adet; baskılı minimum adet değişebilir. Renkler stok durumuna göre kontrol edilir.",
-  longDesc: `
+
+  {
+    id: "p4",
+    slug: "promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150",
+    title: "Promosyon Cricket Manyetolu Sibopsuz Çakmak (7.8 x 2.2) ÇM-150",
+    shortDesc:
+      "Promosyon Cricket manyetolu sibopsuz çakmak ÇM-150 (78×22 mm) logo baskıya uygundur. Kurumsal promosyon, fuar ve etkinlikler için idealdir. Baskısız minimum sipariş 100 adet; baskılı minimum adet değişebilir. Renkler stok durumuna göre kontrol edilir.",
+    longDesc: `
 Promosyon Cricket Manyetolu Sibopsuz Çakmak ÇM-150, kurumsal promosyon çalışmalarında sık tercih edilen promosyon çakmak modellerinden biridir. Manyetolu mekanizması ve pratik kullanımı sayesinde fuar, etkinlik, müşteri ziyareti ve promosyon kampanyalarında dağıtım için idealdir.
 
 Logo baskıya uygun yüzeyi ile markanızın görünürlüğünü artırır. Kurumsal firmalar için promosyon dağıtımlarında uygun maliyetli ve etkili bir reklam ürünüdür.
@@ -185,79 +222,79 @@ MİNİMUM SİPARİŞ / BASKI BİLGİSİ
 
 Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
 `.trim(),
-  category: "Çakmak",
-  // Görseli public/products içine koyduğun dosya adına göre burayı düzelt:
-  image: "/products/promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150.jpg",
-  gallery: ["/products/promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150.jpg"],
-  faq: [
-    {
-      q: "ÇM-150 promosyon çakmak minimum sipariş adedi nedir?",
-      a: "Baskısız siparişlerde minimum adet 100’dür. Logo baskılı siparişlerde minimum adet üretim planına göre değişebilir.",
-    },
-    {
-      q: "ÇM-150 çakmakta baskı alanı ve baskı türleri nedir?",
-      a: "Baskı alanı 55 × 14 mm’dir. Tampon baskı ve UV baskı uygulanabilir.",
-    },
-    {
-      q: "Renk seçenekleri stokta var mı?",
-      a: "Beyaz, Kırmızı, Mavi, Sarı ve Siyah renk seçenekleri bulunur. Renkler stok durumuna göre değişebilir; sipariş öncesinde stok kontrolü yapılır.",
-    },
-    {
-      q: "ÇM-150 çakmak hangi kullanım alanları için uygundur?",
-      a: "Fuar, etkinlik, müşteri ziyareti ve kurumsal promosyon dağıtımlarında logo baskılı reklam ürünü olarak uygundur.",
-    },
-  ],
-},
-{
-  id: "p5",
-  slug: "promosyon-anahtarlik-an-110",
-  title: "Promosyon Anahtarlık AN-110",
-  shortDesc:
-    "Promosyon anahtarlık AN-110, lazer baskıya uygun şık tasarımı ile kurumsal promosyon çalışmalarında sık tercih edilen bir üründür. Minimum sipariş baskısız 100 adet olup renkler stok durumuna göre kontrol edilir.",
-  longDesc: `
+    category: "Çakmak",
+    image: "/products/promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150.jpg",
+    gallery: ["/products/promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150.jpg"],
+    faq: [
+      {
+        q: "ÇM-150 promosyon çakmak minimum sipariş adedi nedir?",
+        a: "Baskısız siparişlerde minimum adet 100’dür. Logo baskılı siparişlerde minimum adet üretim planına göre değişebilir.",
+      },
+      {
+        q: "ÇM-150 çakmakta baskı alanı ve baskı türleri nedir?",
+        a: "Baskı alanı 55 × 14 mm’dir. Tampon baskı ve UV baskı uygulanabilir.",
+      },
+      {
+        q: "Renk seçenekleri stokta var mı?",
+        a: "Beyaz, Kırmızı, Mavi, Sarı ve Siyah renk seçenekleri bulunur. Renkler stok durumuna göre değişebilir; sipariş öncesinde stok kontrolü yapılır.",
+      },
+      {
+        q: "ÇM-150 çakmak hangi kullanım alanları için uygundur?",
+        a: "Fuar, etkinlik, müşteri ziyareti ve kurumsal promosyon dağıtımlarında logo baskılı reklam ürünü olarak uygundur.",
+      },
+    ],
+  },
+
+  {
+    id: "p5",
+    slug: "promosyon-anahtarlik-an-110",
+    title: "Promosyon Anahtarlık AN-110",
+    shortDesc:
+      "Promosyon anahtarlık AN-110, lazer baskıya uygun şık tasarımı ile kurumsal promosyon çalışmalarında sık tercih edilen bir üründür. Minimum sipariş baskısız 100 adet olup renkler stok durumuna göre kontrol edilir.",
+    longDesc: `
 Promosyon Anahtarlık AN-110, kurumsal firmaların marka tanıtımı için tercih ettiği pratik ve kullanışlı promosyon ürünlerinden biridir. Şık tasarımı ve lazer baskıya uygun yüzeyi sayesinde firmanızın logosunu uzun süre görünür hale getirir.
 
 Fuar, etkinlik, müşteri ziyareti ve promosyon dağıtımlarında etkili bir reklam ürünü olarak kullanılabilir. Günlük kullanımda anahtar taşıma amacıyla kullanılan anahtarlıklar, markanızın sürekli görünür olmasını sağlar.
 
 PROMOSYON ANAHTARLIK AN-110 TEKNİK ÖZELLİKLERİ
-• Model: AN-110  
-• Ebat: 13 × 2 cm  
-• Baskı Türü: Lazer Baskı  
-• Baskı: Çift Yön Baskı Uygulanabilir  
-• Paketleme: Şeffaf Poşet  
+• Model: AN-110
+• Ebat: 13 × 2 cm
+• Baskı Türü: Lazer Baskı
+• Baskı: Çift Yön Baskı Uygulanabilir
+• Paketleme: Şeffaf Poşet
 
 RENK SEÇENEKLERİ (STOK KONTROLLÜ)
-Kırmızı, Lacivert, Siyah, Taba, Turkuaz.  
+Kırmızı, Lacivert, Siyah, Taba, Turkuaz.
 Not: Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde renk ve stok kontrolü yapılır.
 
 MİNİMUM SİPARİŞ
-• Baskısız minimum sipariş: 100 adet  
+• Baskısız minimum sipariş: 100 adet
 • Logo baskılı siparişlerde minimum adet, üretim planına göre değişebilir.
 
 Kurumsal promosyon anahtarlık siparişleri için teklif alabilirsiniz.
 `.trim(),
-  category: "Anahtarlık",
-  image: "/products/promosyon-anahtarlik-an-110.jpg",
-  gallery: ["/products/promosyon-anahtarlik-an-110.jpg"],
-  faq: [
-    {
-      q: "Promosyon anahtarlık AN-110 minimum sipariş adedi nedir?",
-      a: "Baskısız siparişlerde minimum sipariş 100 adettir. Baskılı siparişlerde minimum adet üretim planına göre değişebilir."
-    },
-    {
-      q: "Anahtarlığa hangi baskı uygulanabilir?",
-      a: "Ürüne lazer baskı uygulanabilir. Lazer baskı uzun ömürlü ve kalıcıdır."
-    },
-    {
-      q: "Anahtarlık çift taraflı baskıya uygun mu?",
-      a: "Evet. Ürün çift yön baskıya uygundur."
-    },
-    {
-      q: "Renk seçenekleri stokta var mı?",
-      a: "Kırmızı, Lacivert, Siyah, Taba ve Turkuaz renk seçenekleri bulunmaktadır. Renkler stok durumuna göre değişebilir."
-    }
-  ]
-},
+    category: "Anahtarlık",
+    image: "/products/promosyon-anahtarlik-an-110.jpg",
+    gallery: ["/products/promosyon-anahtarlik-an-110.jpg"],
+    faq: [
+      {
+        q: "Promosyon anahtarlık AN-110 minimum sipariş adedi nedir?",
+        a: "Baskısız siparişlerde minimum sipariş 100 adettir. Baskılı siparişlerde minimum adet üretim planına göre değişebilir.",
+      },
+      {
+        q: "Anahtarlığa hangi baskı uygulanabilir?",
+        a: "Ürüne lazer baskı uygulanabilir. Lazer baskı uzun ömürlü ve kalıcıdır.",
+      },
+      {
+        q: "Anahtarlık çift taraflı baskıya uygun mu?",
+        a: "Evet. Ürün çift yön baskıya uygundur.",
+      },
+      {
+        q: "Renk seçenekleri stokta var mı?",
+        a: "Kırmızı, Lacivert, Siyah, Taba ve Turkuaz renk seçenekleri bulunmaktadır. Renkler stok durumuna göre değişebilir.",
+      },
+    ],
+  },
 ];
 
 export default products;
