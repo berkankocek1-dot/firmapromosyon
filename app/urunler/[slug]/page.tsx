@@ -23,9 +23,7 @@ function getProductBySlug(slug: string) {
   return products.find((p) => p.slug === slug);
 }
 
-export async function generateMetadata({
-  params,
-}: PageProps): Promise<Metadata> {
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params;
   const product = getProductBySlug(slug);
 
@@ -42,21 +40,9 @@ export async function generateMetadata({
     : `${SITE_URL}${product.image}`;
 
   return {
-    // ✅ Title tekrarını engeller (layout template varsa sadece 1 kez eklenir)
     title: product.title,
     description: product.shortDesc,
     alternates: { canonical },
-    robots: {
-      index: true,
-      follow: true,
-      googleBot: {
-        index: true,
-        follow: true,
-        "max-image-preview": "large",
-        "max-snippet": -1,
-        "max-video-preview": -1,
-      },
-    },
     openGraph: {
       title: product.title,
       description: product.shortDesc,
@@ -80,7 +66,6 @@ export default async function ProductPage({ params }: PageProps) {
 
   const productUrl = `${SITE_URL}/urunler/${product.slug}`;
 
-  // ✅ longDesc tam gösterim (satır/paragraf korur)
   const longDescText = (product.longDesc ?? "").trim();
   const longDescLines = longDescText
     .split(/\n+/)
@@ -118,12 +103,12 @@ export default async function ProductPage({ params }: PageProps) {
   };
 
   return (
-    <main className="mx-auto max-w-6xl px-5 py-10">
+    <main className="mx-auto max-w-6xl px-5 py-10 bg-white text-gray-900">
       <JsonLd data={breadcrumbJsonLd} />
       <JsonLd data={productJsonLd} />
 
-      {/* Breadcrumb (✅ Kalıcı bağlantı yok) */}
-      <nav className="mb-6 text-sm text-gray-600">
+      {/* Breadcrumb */}
+      <nav className="mb-6 text-sm text-gray-800">
         <Link className="hover:underline" href="/">
           Ana Sayfa
         </Link>
@@ -132,7 +117,7 @@ export default async function ProductPage({ params }: PageProps) {
           Ürünler
         </Link>
         <span className="px-2">/</span>
-        <span className="text-gray-900">{product.title}</span>
+        <span className="font-semibold text-gray-900">{product.title}</span>
       </nav>
 
       <section className="grid gap-10 md:grid-cols-2 md:items-start">
@@ -154,19 +139,24 @@ export default async function ProductPage({ params }: PageProps) {
             {product.title}
           </h1>
 
-          <p className="mt-3 text-gray-700">{product.shortDesc}</p>
+          <p className="mt-3 text-gray-900">
+            {product.shortDesc}
+          </p>
 
           <div className="mt-5 flex flex-wrap gap-2">
-            <span className="rounded-full bg-gray-100 px-3 py-1 text-xs font-medium text-gray-700">
+            <span className="rounded-full bg-gray-200 px-3 py-1 text-xs font-medium text-gray-900">
               Kategori: {product.category}
             </span>
           </div>
 
-          {/* ✅ Ürün açıklaması TAM */}
+          {/* Ürün açıklaması */}
           {longDescLines.length > 0 && (
             <div className="mt-8">
-              <h2 className="text-lg font-bold text-gray-900">Ürün Açıklaması</h2>
-              <div className="mt-3 space-y-3 text-gray-800 leading-relaxed">
+              <h2 className="text-lg font-bold text-gray-900">
+                Ürün Açıklaması
+              </h2>
+
+              <div className="mt-3 space-y-3 text-gray-900 leading-relaxed">
                 {longDescLines.map((line, idx) => (
                   <p key={idx}>{line}</p>
                 ))}
@@ -185,13 +175,11 @@ export default async function ProductPage({ params }: PageProps) {
 
             <Link
               href="/iletisim"
-              className="inline-flex items-center justify-center rounded-xl border px-5 py-3 font-semibold text-gray-900 hover:bg-gray-50"
+              className="inline-flex items-center justify-center rounded-xl border border-gray-300 px-5 py-3 font-semibold text-gray-900 hover:bg-gray-100"
             >
               İletişim
             </Link>
           </div>
-
-          {/* ❌ “Kalıcı bağlantı” tamamen kaldırıldı */}
         </div>
       </section>
     </main>
