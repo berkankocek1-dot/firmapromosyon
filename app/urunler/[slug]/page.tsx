@@ -16,7 +16,8 @@ type PageProps = {
 type Product = {
   slug: string;
   title: string;
-  description?: string;
+  shortDesc?: string;
+  longDesc?: string;
   category?: string;
   image?: string;
 };
@@ -28,17 +29,13 @@ function absUrl(pathOrUrl: string) {
 }
 
 function getWaNumber() {
-  // env varsa onu kullan, yoksa fallback boş bırak
   const raw = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "";
   const digits = raw.replace(/\D/g, "");
   return digits || "";
 }
 
 function getDefaultWaTextEncoded() {
-  // env içine URL-encoded text koyuyorsan direkt kullan
-  // koymadıysan düz metin koyabilirsin -> burada encode ederiz
   const t = process.env.NEXT_PUBLIC_WHATSAPP_DEFAULT_TEXT || "";
-  // Eğer zaten % içeriyorsa (encoded olma ihtimali), dokunmayalım:
   if (t.includes("%")) return t;
   return encodeURIComponent(t);
 }
@@ -66,12 +63,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const title = product.title;
-  const description = product.description ?? "Kurumsal promosyon ürünleri için hızlı teklif alın.";
+  const description =
+    product.shortDesc ?? "Kurumsal promosyon ürünleri için hızlı teklif alın.";
   const canonical = `/urunler/${product.slug}`;
   const ogImage = absUrl(product.image ?? "/og.jpg");
 
   return {
-    title, // layout template otomatik ekler
+    title,
     description,
     alternates: { canonical },
     openGraph: {
@@ -109,17 +107,15 @@ export default async function ProductDetailPage({ params }: PageProps) {
   const productUrl = absUrl(canonicalPath);
   const imageAbs = absUrl(product.image ?? "/og.jpg");
 
-  // Ürün bazlı WhatsApp metni
   const waHref = makeWaHref(`Merhaba, ${product.title} için teklif almak istiyorum.`);
-
-  // Ürün sayfasından kurumsal teklif formuna ürün adıyla git (mail ile teklif)
   const mailOfferHref = `/kurumsal-teklif-al?product=${encodeURIComponent(product.title)}`;
 
   const productJsonLd = {
     "@context": "https://schema.org",
     "@type": "Product",
     name: product.title,
-    description: product.description ?? "Kurumsal promosyon ürünleri için hızlı teklif alın.",
+    description:
+      product.shortDesc ?? "Kurumsal promosyon ürünleri için hızlı teklif alın.",
     url: productUrl,
     image: [imageAbs],
     brand: { "@type": "Brand", name: SITE_NAME },
@@ -132,17 +128,6 @@ export default async function ProductDetailPage({ params }: PageProps) {
     },
   };
 
-  const breadcrumbJsonLd = {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Anasayfa", item: SITE_URL },
-      { "@type": "ListItem", position: 2, name: "Ürünler", item: absUrl("/urunler") },
-      { "@type": "ListItem", position: 3, name: product.title, item: productUrl },
-    ],
-  };
-
-  // FAQ (UI + Schema)
   const faqItems = [
     {
       q: "Minimum sipariş adedi var mı?",
@@ -150,15 +135,11 @@ export default async function ProductDetailPage({ params }: PageProps) {
     },
     {
       q: "Baskı türleri neler?",
-      a: "Ürüne göre DTF, UV veya serigrafi seçenekleri sunulabilir. En uygun yöntemi teklif aşamasında belirliyoruz.",
+      a: "Ürüne göre DTF, UV veya serigrafi seçenekleri sunulabilir.",
     },
     {
       q: "Teslim süresi kaç gün?",
-      a: "Adet, stok ve baskı yoğunluğuna göre değişir. Net teslim tarihi teklifte belirtilir.",
-    },
-    {
-      q: "Fiyat nasıl belirleniyor?",
-      a: "Ürün tipi, adet, baskı alanı ve tasarım detayına göre hesaplanır. Hızlı teklif alarak fiyatı hemen öğrenebilirsiniz.",
+      a: "Adet ve üretim yoğunluğuna göre değişir.",
     },
   ];
 
@@ -184,11 +165,7 @@ export default async function ProductDetailPage({ params }: PageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(productJsonLd) }}
       />
-      <Script
-        id="breadcrumb-jsonld"
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
-      />
+
       <Script
         id="faq-jsonld"
         type="application/ld+json"
@@ -208,9 +185,14 @@ export default async function ProductDetailPage({ params }: PageProps) {
 
         <div>
           <div className="text-sm font-medium text-white/70">{product.category ?? "Ürün"}</div>
-          <h1 className="mt-2 text-3xl font-semibold text-white">{product.title}</h1>
+
+          <h1 className="mt-2 text-3xl font-semibold text-white">
+            {product.title}
+          </h1>
+
           <p className="mt-4 text-white/80">
-            {product.description ?? "Kurumsal promosyon ürünleri için hızlı teklif alın."}
+            {product.shortDesc ??
+              "Kurumsal promosyon ürünleri için hızlı teklif alın."}
           </p>
 
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">
@@ -238,17 +220,29 @@ export default async function ProductDetailPage({ params }: PageProps) {
             </a>
           </div>
 
-          <div className="mt-8 rounded-2xl bg-white p-6 text-gray-900 shadow-lg">
-            <h2 className="text-lg font-semibold">Kurumsal üretim & hızlı dönüş</h2>
-            <ul className="mt-3 list-disc space-y-2 pl-5 text-sm">
-              <li>Logo baskı (DTF / UV / serigrafi) opsiyonları</li>
-              <li>Toplu alım – kurumsal teklif</li>
-              <li>Termin & adet bilgisi teklifte netleşir</li>
-            </ul>
-          </div>
+          {/* SEO Ürün Açıklaması */}
+          {product.longDesc && (
+            <section className="mt-10 rounded-2xl border border-white/15 bg-white/5 p-6">
+              <h2 className="text-lg font-semibold text-white">
+                Ürün Açıklaması
+              </h2>
+
+              <div className="mt-4 space-y-4 text-white/80 leading-relaxed text-sm">
+                {product.longDesc
+                  .split("\n")
+                  .map((line) => line.trim())
+                  .filter(Boolean)
+                  .map((line, i) => (
+                    <p key={i}>{line}</p>
+                  ))}
+              </div>
+            </section>
+          )}
 
           <div className="mt-6 rounded-2xl border border-white/15 bg-white/5 p-6">
-            <h2 className="text-lg font-semibold text-white">Sık Sorulan Sorular</h2>
+            <h2 className="text-lg font-semibold text-white">
+              Sık Sorulan Sorular
+            </h2>
 
             <div className="mt-4 space-y-3">
               {faqItems.map((item) => (
