@@ -56,35 +56,28 @@ export const metadata: Metadata = {
   },
 };
 
-function normalizeCategory(v: string) {
-  return v.trim().toLocaleLowerCase("tr-TR");
+function slugifyCategoryTR(category: string) {
+  return category
+    .trim()
+    .toLocaleLowerCase("tr-TR")
+    .replaceAll("ı", "i")
+    .replaceAll("ğ", "g")
+    .replaceAll("ü", "u")
+    .replaceAll("ş", "s")
+    .replaceAll("ö", "o")
+    .replaceAll("ç", "c")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
 }
 
-type PageProps = {
-  searchParams?: Promise<{ kategori?: string }>;
-};
-
-export default async function ProductsPage({ searchParams }: PageProps) {
-  const sp = (await searchParams) ?? {};
-  const selected = sp.kategori ? sp.kategori : "Tümü";
-
+export default function ProductsPage() {
   const categories = Array.from(new Set(products.map((p) => p.category))).sort(
     (a, b) => a.localeCompare(b, "tr")
   );
 
-  const filtered =
-    selected === "Tümü"
-      ? products
-      : products.filter(
-          (p) => normalizeCategory(p.category) === normalizeCategory(selected)
-        );
+  const pageUrl = `${SITE_URL}/urunler`;
 
-  const pageUrl =
-    selected === "Tümü"
-      ? `${SITE_URL}/urunler`
-      : `${SITE_URL}/urunler?kategori=${encodeURIComponent(selected)}`;
-
-  const itemListElement = filtered.map((p, idx) => ({
+  const itemListElement = products.map((p, idx) => ({
     "@type": "ListItem",
     position: idx + 1,
     url: `${SITE_URL}/urunler/${p.slug}`,
@@ -101,9 +94,6 @@ export default async function ProductsPage({ searchParams }: PageProps) {
           itemListElement: [
             { "@type": "ListItem", position: 1, name: "Ana Sayfa", item: `${SITE_URL}/` },
             { "@type": "ListItem", position: 2, name: "Ürünler", item: `${SITE_URL}/urunler` },
-            ...(selected !== "Tümü"
-              ? [{ "@type": "ListItem", position: 3, name: selected, item: pageUrl }]
-              : []),
           ],
         }}
       />
@@ -112,19 +102,19 @@ export default async function ProductsPage({ searchParams }: PageProps) {
         data={{
           "@context": "https://schema.org",
           "@type": "CollectionPage",
-          name: selected === "Tümü" ? "Ürünler" : `Ürünler - ${selected} Kategorisi`,
+          name: "Ürünler",
           url: pageUrl,
           description:
             "Kurumsal promosyon ürünleri: kalem, çakmak, kupa, ajanda, tişört ve daha fazlası.",
           mainEntity: {
             "@type": "ItemList",
-            numberOfItems: filtered.length,
+            numberOfItems: products.length,
             itemListElement,
           },
         }}
       />
 
-      {/* ✅ Başlık alanı (koyu zeminde okunur) */}
+      {/* Başlık alanı (koyu zeminde okunur) */}
       <div className="mb-6">
         <h1 className="text-3xl font-extrabold text-white">Ürünler</h1>
         <p className="mt-2 text-white/80">
@@ -132,40 +122,29 @@ export default async function ProductsPage({ searchParams }: PageProps) {
         </p>
       </div>
 
-      {/* ✅ Kategoriler (koyu zeminde okunur) */}
+      {/* Kategoriler (artık kategori sayfalarına gider) */}
       <div className="mb-8 flex flex-wrap gap-2">
         <Link
           href="/urunler"
-          className={`rounded-full border px-4 py-2 text-sm font-semibold transition ${
-            selected === "Tümü"
-              ? "bg-white text-black border-white"
-              : "bg-white/10 text-white border-white/20 hover:bg-white/15"
-          }`}
+          className="rounded-full border px-4 py-2 text-sm font-semibold transition bg-white text-black border-white"
         >
           Tümü
         </Link>
 
-        {categories.map((cat) => {
-          const active = normalizeCategory(cat) === normalizeCategory(selected);
-          return (
-            <Link
-              key={cat}
-              href={`/urunler?kategori=${encodeURIComponent(cat)}`}
-              className={`rounded-full border px-4 py-2 text-sm font-semibold transition ${
-                active
-                  ? "bg-white text-black border-white"
-                  : "bg-white/10 text-white border-white/20 hover:bg-white/15"
-              }`}
-            >
-              {cat}
-            </Link>
-          );
-        })}
+        {categories.map((cat) => (
+          <Link
+            key={cat}
+            href={`/kategori/${slugifyCategoryTR(cat)}`}
+            className="rounded-full border px-4 py-2 text-sm font-semibold transition bg-white/10 text-white border-white/20 hover:bg-white/15"
+          >
+            {cat}
+          </Link>
+        ))}
       </div>
 
-      {/* ✅ Ürün kartları (beyaz kart → içerik koyu, okunur) */}
+      {/* Ürün kartları */}
       <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {filtered.map((p) => (
+        {products.map((p) => (
           <Link
             key={p.id}
             href={`/urunler/${p.slug}`}
@@ -197,12 +176,6 @@ export default async function ProductsPage({ searchParams }: PageProps) {
           </Link>
         ))}
       </div>
-
-      {filtered.length === 0 && (
-        <p className="mt-10 text-center text-white/80">
-          Bu kategoride henüz ürün yok.
-        </p>
-      )}
     </main>
   );
 }
