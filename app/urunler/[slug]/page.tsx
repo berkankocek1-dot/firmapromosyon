@@ -112,6 +112,9 @@ export default async function ProductDetailPage({ params }: PageProps) {
   // Ürün bazlı WhatsApp metni
   const waHref = makeWaHref(`Merhaba, ${product.title} için teklif almak istiyorum.`);
 
+  // Ürün sayfasından kurumsal teklif formuna ürün adıyla git (mail ile teklif)
+  const mailOfferHref = `/kurumsal-teklif-al?product=${encodeURIComponent(product.title)}`;
+
   const productJsonLd = {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -216,6 +219,13 @@ export default async function ProductDetailPage({ params }: PageProps) {
               className="rounded-2xl bg-white px-6 py-3 text-center text-sm font-semibold text-black shadow-lg hover:bg-gray-200"
             >
               Hızlı Teklif Al
+            </Link>
+
+            <Link
+              href={mailOfferHref}
+              className="rounded-2xl border border-white/30 px-6 py-3 text-center text-sm font-semibold text-white hover:bg-white/10"
+            >
+              Mail ile Teklif Al
             </Link>
 
             <a
