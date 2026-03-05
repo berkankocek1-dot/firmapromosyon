@@ -208,6 +208,56 @@ Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
     },
   ],
 },
+{
+  id: "p5",
+  slug: "promosyon-anahtarlik-an-110",
+  title: "Promosyon Anahtarlık AN-110",
+  shortDesc:
+    "Promosyon anahtarlık AN-110, lazer baskıya uygun şık tasarımı ile kurumsal promosyon çalışmalarında sık tercih edilen bir üründür. Minimum sipariş baskısız 100 adet olup renkler stok durumuna göre kontrol edilir.",
+  longDesc: `
+Promosyon Anahtarlık AN-110, kurumsal firmaların marka tanıtımı için tercih ettiği pratik ve kullanışlı promosyon ürünlerinden biridir. Şık tasarımı ve lazer baskıya uygun yüzeyi sayesinde firmanızın logosunu uzun süre görünür hale getirir.
+
+Fuar, etkinlik, müşteri ziyareti ve promosyon dağıtımlarında etkili bir reklam ürünü olarak kullanılabilir. Günlük kullanımda anahtar taşıma amacıyla kullanılan anahtarlıklar, markanızın sürekli görünür olmasını sağlar.
+
+PROMOSYON ANAHTARLIK AN-110 TEKNİK ÖZELLİKLERİ
+• Model: AN-110  
+• Ebat: 13 × 2 cm  
+• Baskı Türü: Lazer Baskı  
+• Baskı: Çift Yön Baskı Uygulanabilir  
+• Paketleme: Şeffaf Poşet  
+
+RENK SEÇENEKLERİ (STOK KONTROLLÜ)
+Kırmızı, Lacivert, Siyah, Taba, Turkuaz.  
+Not: Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde renk ve stok kontrolü yapılır.
+
+MİNİMUM SİPARİŞ
+• Baskısız minimum sipariş: 100 adet  
+• Logo baskılı siparişlerde minimum adet, üretim planına göre değişebilir.
+
+Kurumsal promosyon anahtarlık siparişleri için teklif alabilirsiniz.
+`.trim(),
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-110.jpg",
+  gallery: ["/products/promosyon-anahtarlik-an-110.jpg"],
+  faq: [
+    {
+      q: "Promosyon anahtarlık AN-110 minimum sipariş adedi nedir?",
+      a: "Baskısız siparişlerde minimum sipariş 100 adettir. Baskılı siparişlerde minimum adet üretim planına göre değişebilir."
+    },
+    {
+      q: "Anahtarlığa hangi baskı uygulanabilir?",
+      a: "Ürüne lazer baskı uygulanabilir. Lazer baskı uzun ömürlü ve kalıcıdır."
+    },
+    {
+      q: "Anahtarlık çift taraflı baskıya uygun mu?",
+      a: "Evet. Ürün çift yön baskıya uygundur."
+    },
+    {
+      q: "Renk seçenekleri stokta var mı?",
+      a: "Kırmızı, Lacivert, Siyah, Taba ve Turkuaz renk seçenekleri bulunmaktadır. Renkler stok durumuna göre değişebilir."
+    }
+  ]
+},
 ];
 
 export default products;
