@@ -266,12 +266,7 @@ export default async function ProductDetailPage({ params }: PageProps) {
             </div>
           </div>
 
-          <p className="mt-6 text-xs text-white/40">
-            Kalıcı bağlantı:{" "}
-            <a className="underline hover:text-white/70" href={productUrl}>
-              {productUrl}
-            </a>
-          </p>
+         
         </div>
       </div>
     </main>

@@ -15,7 +15,6 @@ function JsonLd({ data }: { data: Record<string, any> }) {
 }
 
 export const metadata: Metadata = {
-  // ✅ Burada SADECE sayfa adı: layout template ekliyorsa duplikasyon olmaz
   title: "Ürünler",
   description:
     "Kurumsal promosyon ürünleri: kupa, ajanda, kalem, tişört ve daha fazlası. Hızlı teklif için ürünleri inceleyin.",
