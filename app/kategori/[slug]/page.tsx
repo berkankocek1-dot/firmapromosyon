@@ -24,12 +24,10 @@ function normalizeCategory(v: string) {
   return v.trim().toLocaleLowerCase("tr-TR");
 }
 
-/** ✅ SSG için kategori slug’larını üret */
 export async function generateStaticParams() {
   return categories.map((c) => ({ slug: c.slug }));
 }
 
-/** ✅ SEO metadata (kategori sayfası) */
 export async function generateMetadata({
   params,
 }: PageProps): Promise<Metadata> {
@@ -94,25 +92,27 @@ export default async function CategoryPage({ params }: PageProps) {
   const cat = getCategoryBySlug(slug);
   if (!cat) return notFound();
 
-  // ✅ Ürünleri kategoriye göre filtrele
   const filtered = products.filter(
     (p) => normalizeCategory(p.category) === normalizeCategory(cat.name)
   );
 
   const pageUrl = `${SITE_URL}/kategori/${cat.slug}`;
 
-  // ✅ JSON-LD: Breadcrumb
   const breadcrumbJsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "Ana Sayfa", item: SITE_URL },
-      { "@type": "ListItem", position: 2, name: "Ürünler", item: `${SITE_URL}/urunler` },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Ürünler",
+        item: `${SITE_URL}/urunler`,
+      },
       { "@type": "ListItem", position: 3, name: cat.name, item: pageUrl },
     ],
   };
 
-  // ✅ JSON-LD: CollectionPage + ItemList
   const itemListElement = filtered.map((p, idx) => ({
     "@type": "ListItem",
     position: idx + 1,
@@ -136,113 +136,120 @@ export default async function CategoryPage({ params }: PageProps) {
   };
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
-      <JsonLd data={breadcrumbJsonLd} />
-      <JsonLd data={collectionJsonLd} />
+    <main className="min-h-screen bg-black text-white">
+      <div className="mx-auto max-w-6xl px-4 py-10">
+        <JsonLd data={breadcrumbJsonLd} />
+        <JsonLd data={collectionJsonLd} />
 
-      {/* Breadcrumb */}
-      <nav className="mb-6 text-sm text-gray-200">
-        <Link className="hover:underline" href="/">
-          Ana Sayfa
-        </Link>
-        <span className="px-2">/</span>
-        <Link className="hover:underline" href="/urunler">
-          Ürünler
-        </Link>
-        <span className="px-2">/</span>
-        <span className="font-semibold text-white">{cat.name}</span>
-      </nav>
+        {/* Breadcrumb */}
+        <nav className="mb-6 text-sm text-white/70">
+          <Link className="hover:text-white hover:underline" href="/">
+            Ana Sayfa
+          </Link>
+          <span className="px-2">/</span>
+          <Link className="hover:text-white hover:underline" href="/urunler">
+            Ürünler
+          </Link>
+          <span className="px-2">/</span>
+          <span className="font-semibold text-white">{cat.name}</span>
+        </nav>
 
-      {/* Başlık */}
-      <div className="mb-8">
-        <h1 className="text-3xl font-extrabold text-white">{cat.name}</h1>
-        <p className="mt-2 text-white/80">
-          {cat.seoDescription ||
-            `${cat.name} kategorisindeki ürünleri inceleyin ve hızlı teklif alın.`}
-        </p>
-      </div>
-
-      {/* Kategori hızlı linkler */}
-      <div className="mb-10 flex flex-wrap gap-2">
-        <Link
-          href="/urunler"
-          className="rounded-full border border-white/20 bg-white/10 px-4 py-2 text-sm font-semibold text-white hover:bg-white/15"
-        >
-          Tüm Ürünler
-        </Link>
-
-        {categories.map((c) => {
-          const active = c.slug === cat.slug;
-          return (
-            <Link
-              key={c.slug}
-              href={`/kategori/${c.slug}`}
-              className={`rounded-full border px-4 py-2 text-sm font-semibold transition ${
-                active
-                  ? "bg-white text-black border-white"
-                  : "bg-white/10 text-white border-white/20 hover:bg-white/15"
-              }`}
-            >
-              {c.name}
-            </Link>
-          );
-        })}
-      </div>
-
-      {/* Ürünler */}
-      {filtered.length === 0 ? (
-        <div className="rounded-2xl border border-white/10 bg-white/5 p-8 text-center">
-          <p className="text-white/80">
-            Bu kategoride henüz ürün yok. Yakında eklenecek.
+        {/* Başlık */}
+        <div className="mb-8">
+          <h1 className="text-3xl font-extrabold text-white md:text-5xl">
+            {cat.name}
+          </h1>
+          <p className="mt-2 text-white/80">
+            {cat.seoDescription ||
+              `${cat.name} kategorisindeki ürünleri inceleyin ve hızlı teklif alın.`}
           </p>
-          <div className="mt-4">
+        </div>
+
+        {/* Kategori hızlı linkler */}
+        <div className="mb-10 overflow-x-auto">
+          <div className="flex min-w-max gap-3 pb-1">
             <Link
               href="/urunler"
-              className="inline-flex rounded-xl bg-white px-5 py-3 font-semibold text-black hover:opacity-90"
+              className="whitespace-nowrap rounded-full border border-white/20 bg-white/10 px-4 py-2 text-sm font-semibold text-white transition hover:bg-white/15"
             >
-              Tüm ürünleri gör
+              Tüm Ürünler
             </Link>
+
+            {categories.map((c) => {
+              const active = c.slug === cat.slug;
+
+              return (
+                <Link
+                  key={c.slug}
+                  href={`/kategori/${c.slug}`}
+                  className={`whitespace-nowrap rounded-full border px-4 py-2 text-sm font-semibold transition ${
+                    active
+                      ? "border-white bg-white text-black"
+                      : "border-white/20 bg-white/10 text-white hover:bg-white/15"
+                  }`}
+                >
+                  {c.name}
+                </Link>
+              );
+            })}
           </div>
         </div>
-      ) : (
-        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {filtered.map((p) => (
-            <Link
-              key={p.id}
-              href={`/urunler/${p.slug}`}
-              className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:shadow-md"
-            >
-              <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
-                <Image
-                  src={p.image}
-                  alt={p.title}
-                  fill
-                  className="object-contain p-4"
-                  sizes="(max-width: 768px) 100vw, 33vw"
-                />
-              </div>
 
-              <div className="mt-4">
-                <div className="text-xs font-semibold text-gray-600">
-                  {p.category}
+        {/* Ürünler */}
+        {filtered.length === 0 ? (
+          <div className="rounded-2xl border border-white/10 bg-white/5 p-8 text-center">
+            <p className="text-white/80">
+              Bu kategoride henüz ürün yok. Yakında eklenecek.
+            </p>
+            <div className="mt-4">
+              <Link
+                href="/urunler"
+                className="inline-flex rounded-xl bg-white px-5 py-3 font-semibold text-black hover:opacity-90"
+              >
+                Tüm ürünleri gör
+              </Link>
+            </div>
+          </div>
+        ) : (
+          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {filtered.map((p) => (
+              <Link
+                key={p.id}
+                href={`/urunler/${p.slug}`}
+                className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:shadow-md"
+              >
+                <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
+                  <Image
+                    src={p.image}
+                    alt={p.title}
+                    fill
+                    className="object-contain p-4"
+                    sizes="(max-width: 768px) 100vw, 33vw"
+                  />
                 </div>
 
-                <h2 className="mt-1 text-lg font-bold text-gray-900">
-                  {p.title}
-                </h2>
+                <div className="mt-4">
+                  <div className="text-xs font-semibold text-gray-600">
+                    {p.category}
+                  </div>
 
-                <p className="mt-2 line-clamp-3 text-sm text-gray-700">
-                  {p.shortDesc}
-                </p>
+                  <h2 className="mt-1 text-lg font-bold text-gray-900">
+                    {p.title}
+                  </h2>
 
-                <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
-                  Hızlı Teklif
+                  <p className="mt-2 line-clamp-3 text-sm text-gray-700">
+                    {p.shortDesc}
+                  </p>
+
+                  <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
+                    Hızlı Teklif
+                  </div>
                 </div>
-              </div>
-            </Link>
-          ))}
-        </div>
-      )}
+              </Link>
+            ))}
+          </div>
+        )}
+      </div>
     </main>
   );
 }
