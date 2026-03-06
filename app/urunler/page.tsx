@@ -85,96 +85,115 @@ export default function ProductsPage() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
-      {/* JSON-LD */}
-      <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "BreadcrumbList",
-          itemListElement: [
-            { "@type": "ListItem", position: 1, name: "Ana Sayfa", item: `${SITE_URL}/` },
-            { "@type": "ListItem", position: 2, name: "Ürünler", item: `${SITE_URL}/urunler` },
-          ],
-        }}
-      />
+    <main className="min-h-screen bg-black">
+      <div className="mx-auto max-w-6xl px-4 py-10">
+        <JsonLd
+          data={{
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              {
+                "@type": "ListItem",
+                position: 1,
+                name: "Ana Sayfa",
+                item: `${SITE_URL}/`,
+              },
+              {
+                "@type": "ListItem",
+                position: 2,
+                name: "Ürünler",
+                item: `${SITE_URL}/urunler`,
+              },
+            ],
+          }}
+        />
 
-      <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "CollectionPage",
-          name: "Ürünler",
-          url: pageUrl,
-          description:
-            "Kurumsal promosyon ürünleri: kalem, çakmak, kupa, ajanda, tişört ve daha fazlası.",
-          mainEntity: {
-            "@type": "ItemList",
-            numberOfItems: products.length,
-            itemListElement,
-          },
-        }}
-      />
+        <JsonLd
+          data={{
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            name: "Ürünler",
+            url: pageUrl,
+            description:
+              "Kurumsal promosyon ürünleri: kalem, çakmak, kupa, ajanda, tişört ve daha fazlası.",
+            mainEntity: {
+              "@type": "ItemList",
+              numberOfItems: products.length,
+              itemListElement,
+            },
+          }}
+        />
 
-      {/* Başlık alanı (koyu zeminde okunur) */}
-      <div className="mb-6">
-        <h1 className="text-3xl font-extrabold text-white">Ürünler</h1>
-        <p className="mt-2 text-white/80">
-          Kategorilere göre filtreleyin ve hızlı teklif alın.
-        </p>
-      </div>
+        {/* Başlık alanı */}
+        <div className="mb-6">
+          <h1 className="text-3xl font-extrabold text-white md:text-5xl">
+            Ürünler
+          </h1>
+          <p className="mt-2 text-base text-white/80 md:text-lg">
+            Kategorilere göre filtreleyin ve hızlı teklif alın.
+          </p>
+        </div>
 
-      {/* Kategoriler (artık kategori sayfalarına gider) */}
-      <div className="mb-8 flex flex-wrap gap-2">
-        <Link
-          href="/urunler"
-          className="rounded-full border px-4 py-2 text-sm font-semibold transition bg-white text-black border-white"
-        >
-          Tümü
-        </Link>
+        {/* Kategori butonları */}
+        <div className="mb-8 overflow-x-auto">
+          <div className="flex min-w-max gap-3 pb-1">
+            <Link
+              href="/urunler"
+              className="whitespace-nowrap rounded-full border border-white bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+            >
+              Tümü
+            </Link>
 
-        {categories.map((cat) => (
-          <Link
-            key={cat}
-            href={`/kategori/${slugifyCategoryTR(cat)}`}
-            className="rounded-full border px-4 py-2 text-sm font-semibold transition bg-white/10 text-white border-white/20 hover:bg-white/15"
-          >
-            {cat}
-          </Link>
-        ))}
-      </div>
+            {categories.map((cat) => (
+              <Link
+                key={cat}
+                href={`/kategori/${slugifyCategoryTR(cat)}`}
+                className="whitespace-nowrap rounded-full border border-white/20 bg-white/10 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/15"
+              >
+                {cat}
+              </Link>
+            ))}
+          </div>
+        </div>
 
-      {/* Ürün kartları */}
-      <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {products.map((p) => (
-          <Link
-            key={p.id}
-            href={`/urunler/${p.slug}`}
-            className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:shadow-md"
-          >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
-              <Image
-                src={p.image}
-                alt={p.title}
-                fill
-                className="object-contain p-4"
-                sizes="(max-width: 768px) 100vw, 33vw"
-              />
-            </div>
-
-            <div className="mt-4">
-              <div className="text-xs font-semibold text-gray-600">{p.category}</div>
-
-              <h2 className="mt-1 text-lg font-bold text-gray-900">{p.title}</h2>
-
-              <p className="mt-2 line-clamp-3 text-sm text-gray-700">
-                {p.shortDesc}
-              </p>
-
-              <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
-                Hızlı Teklif
+        {/* Ürün kartları */}
+        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          {products.map((p) => (
+            <Link
+              key={p.id}
+              href={`/urunler/${p.slug}`}
+              className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:shadow-md"
+            >
+              <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
+                <Image
+                  src={p.image}
+                  alt={p.title}
+                  fill
+                  className="object-contain p-4"
+                  sizes="(max-width: 768px) 100vw, 33vw"
+                />
               </div>
-            </div>
-          </Link>
-        ))}
+
+              <div className="mt-4">
+                <div className="text-xs font-semibold text-gray-600">
+                  {p.category}
+                </div>
+
+                <h2 className="mt-1 text-lg font-bold text-gray-900">
+                  {p.title}
+                </h2>
+
+                <p className="mt-2 line-clamp-3 text-sm text-gray-700">
+                  {p.shortDesc}
+                </p>
+
+                <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
+                  Hızlı Teklif
+                </div>
+              </div>
+            </Link>
+          ))}
+        </div>
       </div>
     </main>
   );
