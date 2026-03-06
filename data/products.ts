@@ -601,6 +601,221 @@ Baskısız siparişlerde minimum adet 100 olup baskılı siparişlerde minimum s
 Promosyon geri dönüşümlü tohumlu kalem GDK-120 ile firmanızın çevre dostu yaklaşımını müşterilerinize gösterebilir ve sürdürülebilir promosyon ürünleri ile markanızı öne çıkarabilirsiniz. Kurumsal promosyon kalem siparişleri için hızlı teklif alabilirsiniz.
 `,
 },
+{
+  id: "p15",
+  slug: "promosyon-tasli-siboplu-cakmak-cm-200",
+  title: "Promosyon Taşlı Siboplu Çakmak CM-200",
+  category: "Çakmak",
+  image: "/products/promosyon-tasli-siboplu-cakmak-cm-200.jpg",
+
+  shortDesc:
+    "Promosyon taşlı siboplu çakmak CM-200, logo baskıya uygun yüzeyi ile kurumsal promosyon çalışmalarında sık tercih edilen ekonomik bir çakmak modelidir. Baskısız minimum sipariş 100 adettir, baskılı siparişlerde minimum adet değişebilir.",
+
+  longDesc: `
+Promosyon taşlı siboplu çakmak CM-200, kurumsal promosyon ürünleri arasında en çok tercih edilen ekonomik ve kullanışlı çakmak modellerinden biridir. Dayanıklı yapısı ve logo baskıya uygun yüzeyi sayesinde markanızın reklamını uzun süre taşıyabilecek etkili bir promosyon ürünüdür.
+
+Kasai ölçülerinde tasarlanan bu çakmak modeli 7.6 x 2.2 cm ölçülerine sahiptir. Ergonomik yapısı sayesinde günlük kullanım için oldukça pratiktir ve geniş baskı yüzeyi sayesinde firmanızın logosu çakmak üzerine net şekilde uygulanabilir.
+
+Promosyon çakmaklar, özellikle yüksek adetli promosyon dağıtımları için en ekonomik ve etkili reklam ürünlerinden biridir. Fuarlar, organizasyonlar, kampanyalar ve kurumsal etkinliklerde geniş kitlelere ulaşmak için tercih edilir.
+
+Taşlı siboplu mekanizması sayesinde güvenli ve pratik kullanım sunan CM-200 modeli dayanıklı yapısıyla uzun süreli kullanım sağlar.
+
+Baskısız siparişlerde minimum adet 100 olup baskılı siparişlerde minimum sipariş miktarı üretim planına göre değişebilir. Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir.
+
+Ürün Özellikleri
+
+• Model: CM-200  
+• Tür: Taşlı siboplu çakmak  
+• Ölçü: 7.6 x 2.2 cm  
+• Mekanizma: Taşlı siboplu sistem  
+• Baskı: Logo baskıya uygun yüzey  
+• Baskısız Minimum Sipariş: 100 adet  
+• Baskılı siparişlerde minimum adet üretim durumuna göre değişebilir  
+• Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir
+
+Promosyon taşlı siboplu çakmak CM-200 ile firmanızın logosunu ekonomik ve etkili bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon çakmak siparişleri için hızlı teklif alabilirsiniz.
+`,
+},
+{
+  id: "p16",
+  slug: "promosyon-manyetolu-siboplu-cakmak-cm-250",
+  title: "Promosyon Manyetolu Siboplu Çakmak CM-250",
+  category: "Çakmak",
+  image: "/products/promosyon-manyetolu-siboplu-cakmak-cm-250.jpg",
+
+  shortDesc:
+    "Promosyon manyetolu siboplu çakmak CM-250, logo baskıya uygun yüzeyi ve mini boy tasarımıyla kurumsal promosyon çalışmaları için ideal bir çakmak modelidir. Baskısız minimum sipariş 100 adet olup baskılı siparişlerde minimum adet değişebilir.",
+
+  longDesc: `
+Promosyon manyetolu siboplu çakmak CM-250, ekonomik ve kullanışlı yapısı sayesinde kurumsal promosyon ürünleri arasında sık tercih edilen çakmak modellerinden biridir. Mini boy tasarımı ve dayanıklı mekanizması sayesinde günlük kullanım için oldukça pratiktir.
+
+Manyetolu siboplu mekanizması ile kolay ateşleme sağlayan bu model, geniş baskı yüzeyi sayesinde firmanızın logosunun net şekilde uygulanmasına olanak sağlar. Tampon baskı veya UV baskı teknikleri ile marka logosu çakmak üzerine profesyonel şekilde uygulanabilir.
+
+Promosyon çakmaklar özellikle fuarlar, kampanyalar, organizasyonlar ve kurumsal etkinliklerde geniş kitlelere ulaşmak için kullanılan ekonomik promosyon ürünlerinden biridir. Günlük kullanımda sık kullanılan bir ürün olması sayesinde markanızın görünürlüğünü uzun süre artırır.
+
+CM-250 modeli doldurulabilir yapısı sayesinde uzun süre kullanılabilir ve bu da promosyon ürününün reklam etkisini artırır.
+
+Baskısız siparişlerde minimum adet 100 olup baskılı siparişlerde minimum sipariş miktarı üretim planına göre değişebilir. Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir.
+
+Ürün Özellikleri
+
+• Model: CM-250  
+• Tür: Manyetolu siboplu çakmak  
+• Ölçü: 6.2 x 2.1 cm  
+• Mekanizma: Manyetolu siboplu sistem  
+• Baskı Türü: Tampon baskı / UV baskı  
+• Özellik: Doldurulabilir  
+• Baskısız Minimum Sipariş: 100 adet  
+• Baskılı siparişlerde minimum adet üretim durumuna göre değişebilir  
+• Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir
+
+Promosyon manyetolu siboplu çakmak CM-250 ile firmanızın logosunu ekonomik ve etkili bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon çakmak siparişleri için hızlı teklif alabilirsiniz.
+`,
+},
+{
+  id: "p17",
+  slug: "promosyon-manyetolu-siboplu-cakmak-cm-300",
+  title: "Promosyon Manyetolu Siboplu Çakmak CM-300",
+  category: "Çakmak",
+  image: "/products/promosyon-manyetolu-siboplu-cakmak-cm-300.jpg",
+
+  shortDesc:
+    "Promosyon manyetolu siboplu çakmak CM-300, logo baskıya uygun yüzeyi ve dayanıklı yapısıyla kurumsal promosyon çalışmalarında tercih edilen ekonomik bir çakmak modelidir. Baskısız minimum sipariş 100 adet olup baskılı siparişlerde minimum adet değişebilir.",
+
+  longDesc: `
+Promosyon manyetolu siboplu çakmak CM-300, kurumsal promosyon ürünleri arasında en çok tercih edilen çakmak modellerinden biridir. Dayanıklı gövde yapısı ve geniş baskı alanı sayesinde firmanızın logosu çakmak üzerine net ve profesyonel şekilde uygulanabilir.
+
+Manyetolu mekanizması sayesinde kolay ateşleme sağlayan bu model günlük kullanım için oldukça pratiktir. Doldurulabilir yapısı sayesinde uzun süre kullanılabilir ve bu da promosyon ürününün reklam etkisini artırır.
+
+Promosyon çakmaklar fuarlar, kampanyalar, organizasyonlar ve kurumsal etkinliklerde geniş kitlelere ulaşmak için kullanılan ekonomik promosyon ürünlerinden biridir. Günlük kullanımda sık kullanılan bir ürün olması sayesinde markanızın görünürlüğünü uzun süre artırır.
+
+CM-300 modeli özellikle uygun fiyatlı promosyon dağıtımları için ideal bir seçenek sunar.
+
+Baskısız siparişlerde minimum adet 100 olup baskılı siparişlerde minimum sipariş miktarı üretim planına göre değişebilir.
+
+Ürün Özellikleri
+
+• Model: CM-300  
+• Tür: Manyetolu siboplu çakmak  
+• Ölçü: 8.1 x 2.3 cm  
+• Mekanizma: Manyetolu sistem  
+• Baskı Türü: Tampon baskı / UV baskı  
+• Özellik: Doldurulabilir  
+• Baskısız Minimum Sipariş: 100 adet  
+• Baskılı siparişlerde minimum adet üretim durumuna göre değişebilir  
+
+Promosyon manyetolu siboplu çakmak CM-300 ile firmanızın logosunu ekonomik ve etkili bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon çakmak siparişleri için hızlı teklif alabilirsiniz.
+`,
+},
+{
+  id: "p18",
+  slug: "promosyon-manyetolu-turbo-ruzgar-cakmak-cm-350",
+  title: "Promosyon Manyetolu Turbo Rüzgar Çakmak CM-350",
+  category: "Çakmak",
+  image: "/products/promosyon-manyetolu-turbo-ruzgar-cakmak-cm-350.jpg",
+
+  shortDesc:
+    "Promosyon manyetolu turbo rüzgar çakmak CM-350, güçlü alev sistemi ve logo baskıya uygun yüzeyi ile kurumsal promosyon çalışmaları için ideal bir çakmak modelidir. Baskısız minimum sipariş 100 adet olup baskılı siparişlerde minimum adet değişebilir.",
+
+  longDesc: `
+Promosyon manyetolu turbo rüzgar çakmak CM-350, güçlü turbo alev sistemi sayesinde rüzgarlı ortamlarda bile kolay kullanım sağlayan dayanıklı bir promosyon çakmak modelidir. Kurumsal promosyon ürünleri arasında hem kullanışlı hem de dikkat çekici olması nedeniyle sıklıkla tercih edilir.
+
+Turbo rüzgar mekanizması sayesinde standart çakmaklara göre daha güçlü bir ateşleme sunar. Manyetolu sistemi sayesinde pratik kullanım sağlar ve doldurulabilir yapısı ile uzun süre kullanılabilir.
+
+Promosyon çakmaklar, özellikle fuarlar, organizasyonlar, kampanyalar ve kurumsal etkinliklerde geniş kitlelere ulaşmak için tercih edilen ekonomik promosyon ürünlerinden biridir. Günlük kullanımda sık kullanılan bir ürün olması markanızın görünürlüğünü artırır.
+
+CM-350 modeli yerli üretim olması sayesinde kaliteli malzeme yapısı ile uzun ömürlü kullanım sunar. Geniş baskı yüzeyi sayesinde firmanızın logosu çakmak üzerine tampon baskı veya UV baskı yöntemi ile uygulanabilir.
+
+Baskısız siparişlerde minimum adet 100 olup baskılı siparişlerde minimum sipariş miktarı üretim planına göre değişebilir. Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir.
+
+Ürün Özellikleri
+
+• Model: CM-350  
+• Tür: Manyetolu turbo rüzgar çakmak  
+• Ölçü: 7.8 x 2.4 cm  
+• Mekanizma: Turbo rüzgar sistemi  
+• Baskı Türü: Tampon baskı / UV baskı  
+• Özellik: Doldurulabilir  
+• Üretim: Yerli üretim  
+• Baskısız Minimum Sipariş: 100 adet  
+• Baskılı siparişlerde minimum adet üretim durumuna göre değişebilir  
+• Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir
+
+Promosyon manyetolu turbo rüzgar çakmak CM-350 ile firmanızın logosunu ekonomik ve etkili bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon çakmak siparişleri için hızlı teklif alabilirsiniz.
+`,
+},
+{
+  id: "p19",
+  slug: "promosyon-anahtarlik-an-100",
+  title: "Promosyon Anahtarlık AN-100",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-100.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-100, lazer baskıya uygun metal yüzeyi ve şık tasarımı ile kurumsal promosyon çalışmalarında sık tercih edilen bir anahtarlık modelidir. Baskısız minimum sipariş 100 adet olup baskılı siparişlerde minimum adet değişebilir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-100, şık tasarımı ve dayanıklı yapısı sayesinde kurumsal promosyon ürünleri arasında sık tercih edilen anahtarlık modellerinden biridir. Metal yüzeyi ve kaliteli malzemesi sayesinde firmanızın logosu lazer baskı yöntemi ile anahtarlık üzerine net ve kalıcı şekilde uygulanabilir.
+
+Promosyon anahtarlıklar, günlük hayatta sürekli kullanılan ürünler arasında yer aldığı için markanızın uzun süre görünür olmasını sağlar. Araç anahtarı, ev anahtarı veya ofis anahtarlarında kullanılan bu ürünler, markanızın reklamını sürekli olarak taşır.
+
+AN-100 modeli çift yön baskıya uygun yapısı sayesinde logo veya marka mesajının daha dikkat çekici şekilde sunulmasına olanak sağlar. Şık tasarımı sayesinde kurumsal etkinlikler, fuarlar, müşteri ziyaretleri ve promosyon kampanyalarında etkili bir tanıtım ürünü olarak tercih edilir.
+
+Ürünler genellikle şeffaf poşet ambalaj ile gönderilmektedir. Renk seçenekleri sipariş sırasında stok durumuna göre kontrol edilmelidir.
+
+Baskısız siparişlerde minimum adet 100 olup baskılı siparişlerde minimum sipariş miktarı üretim planına göre değişebilir.
+
+Ürün Özellikleri
+
+• Model: AN-100  
+• Tür: Promosyon anahtarlık  
+• Baskı Türü: Lazer baskı  
+• Baskı: Çift yön baskıya uygun  
+• Ölçü: 11.6 x 1.8 cm  
+• Ambalaj: Şeffaf poşet  
+• Baskısız Minimum Sipariş: 100 adet  
+• Baskılı siparişlerde minimum adet üretim durumuna göre değişebilir  
+• Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir  
+
+Promosyon anahtarlık AN-100 ile firmanızın logosunu şık ve profesyonel bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon anahtarlık siparişleri için hızlı teklif alabilirsiniz.
+`,
+},
+{
+  id: "p20",
+  slug: "promosyon-tarihsiz-defter-td-101",
+  title: "Promosyon Tarihsiz Defter TD-101",
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-101.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-101, şık kapak tasarımı ve kurumsal logo baskıya uygun yapısı ile promosyon ürünleri arasında sık tercih edilen bir defter modelidir. Baskısız minimum sipariş 30 adet olup baskılı siparişlerde minimum adet değişebilir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-101, kurumsal promosyon ürünleri arasında hem kullanışlı hem de prestijli bir seçenek sunan defter modellerinden biridir. Şık kapak tasarımı ve kaliteli malzeme yapısı sayesinde günlük kullanım için oldukça idealdir.
+
+Tarihsiz yapısı sayesinde kullanıcılar defteri istedikleri zaman kullanmaya başlayabilir. Bu özellik özellikle ofis çalışanları, öğrenciler ve iş dünyasında not alma amacıyla kullanılan promosyon ürünleri için büyük avantaj sağlar.
+
+Promosyon defterler, marka bilinirliğini artırmak ve müşterilerle kalıcı iletişim kurmak için en etkili promosyon ürünlerinden biridir. Günlük hayatta sürekli kullanılan defterler sayesinde firmanızın logosu uzun süre görünür kalır.
+
+TD-101 modeli kurumsal etkinliklerde, fuarlarda, seminerlerde ve müşteri ziyaretlerinde dağıtılabilecek şık bir promosyon ürünüdür. Kapak yüzeyi logo baskıya uygun olup firmanızın markası defter üzerine profesyonel şekilde uygulanabilir.
+
+Baskısız siparişlerde minimum adet 30 olup baskılı siparişlerde minimum sipariş miktarı üretim planına göre değişebilir. Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir.
+
+Ürün Özellikleri
+
+• Model: TD-101  
+• Tür: Promosyon tarihsiz defter  
+• Ölçü: 14.5 x 21 cm  
+• Kapak: Şık ve dayanıklı kapak tasarımı  
+• Kullanım: Ofis, eğitim ve günlük not alma  
+• Baskısız Minimum Sipariş: 30 adet  
+• Baskılı siparişlerde minimum adet üretim durumuna göre değişebilir  
+• Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir
+
+Promosyon tarihsiz defter TD-101 ile firmanızın logosunu prestijli ve profesyonel bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon defter siparişleri için hızlı teklif alabilirsiniz.
+`,
+},
+
 ];
 
 export default products;
