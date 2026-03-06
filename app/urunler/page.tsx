@@ -85,7 +85,7 @@ export default function ProductsPage() {
   }));
 
   return (
-    <main className="min-h-screen bg-black">
+    <main className="min-h-screen bg-black text-white">
       <div className="mx-auto max-w-6xl px-4 py-10">
         <JsonLd
           data={{
@@ -124,7 +124,6 @@ export default function ProductsPage() {
           }}
         />
 
-        {/* Başlık alanı */}
         <div className="mb-6">
           <h1 className="text-3xl font-extrabold text-white md:text-5xl">
             Ürünler
@@ -134,7 +133,6 @@ export default function ProductsPage() {
           </p>
         </div>
 
-        {/* Kategori butonları */}
         <div className="mb-8 overflow-x-auto">
           <div className="flex min-w-max gap-3 pb-1">
             <Link
@@ -156,7 +154,6 @@ export default function ProductsPage() {
           </div>
         </div>
 
-        {/* Ürün kartları */}
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {products.map((p) => (
             <Link
