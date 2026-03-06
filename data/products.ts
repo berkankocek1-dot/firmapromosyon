@@ -348,6 +348,53 @@ Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
     },
   ],
 },
+{
+  id: "p7",
+  slug: "promosyon-dokunmatik-kalem-dk-650",
+  title: "Promosyon Dokunmatik Kalem DK-650",
+  shortDesc:
+    "Promosyon dokunmatik kalem DK-650; logo baskılı kurumsal kalem. Fuar, etkinlik ve müşteri ziyaretleri için toplu alım + hızlı teklif. Renk seçenekleri stok kontrolüyle netleşir.",
+  longDesc: `
+Promosyon Dokunmatik Kalem DK-650, dokunmatik ucu sayesinde telefon/tablet kullanımına uygun, günlük kullanım değeri yüksek bir kurumsal promosyon ürünüdür. 
+Fuar, etkinlik, saha ekipleri ve müşteri ziyaretlerinde markanızı sürekli görünür kılar.
+
+✅ Stok Kodu: DK-650
+✅ Minimum Sipariş (Baskısız): 50 adet
+✅ Minimum Sipariş (Baskılı): Baskı türüne ve modele göre değişir
+✅ Renk Seçenekleri: Beyaz, Kırmızı, Turuncu, Lacivert, Pembe, Gümüş, Sarı
+✅ Stok Bilgisi: Renkler için sipariş öncesi stok kontrolü yapılır
+
+Teklif almak için: adet + baskı bilgisi + renk tercihi + teslim tarihi + logo dosyası (PDF/AI/SVG) paylaşmanız yeterlidir.
+`,
+  category: "Kalem",
+  image: "/products/promosyon-dokunmatik-kalem-dk-650.jpg",
+gallery: ["/products/promosyon-dokunmatik-kalem-dk-650.jpg"],
+},
+{
+  id: "p8",
+  slug: "promosyon-dokunmatik-kalem-dk-750",
+  title: "Promosyon Dokunmatik Kalem DK-750",
+  shortDesc:
+    "Promosyon dokunmatik kalem DK-750; logo baskılı kurumsal kalem modeli. Fuar, etkinlik ve kurumsal dağıtımlar için ideal promosyon ürünü.",
+  longDesc: `
+Promosyon Dokunmatik Kalem DK-750, telefon ve tablet ekranlarında kullanılabilen dokunmatik ucu sayesinde modern ve kullanışlı bir promosyon kalem modelidir. 
+Kurumsal firmalar tarafından fuar, etkinlik, müşteri ziyareti ve promosyon kampanyalarında sık tercih edilir.
+
+✅ Stok Kodu: DK-750  
+✅ Minimum Sipariş (Baskısız): 50 adet  
+✅ Minimum Sipariş (Baskılı): Baskı türüne göre değişebilir  
+✅ Renk Seçenekleri: Kırmızı, Siyah, Lacivert  
+✅ Stok Bilgisi: Renkler için sipariş öncesi stok kontrolü yapılır  
+
+Dokunmatik kalem modelleri özellikle teknoloji ile uyumlu promosyon ürünleri arasında yer alır ve markanızın modern görünmesini sağlar.
+
+Teklif almak için:  
+adet + baskı bilgisi + renk tercihi + teslim tarihi + logo dosyanızı (PDF / AI / SVG) paylaşmanız yeterlidir.
+`,
+  category: "Kalem",
+  image: "/products/promosyon-dokunmatik-kalem-dk-750.jpg",
+gallery: ["/products/promosyon-dokunmatik-kalem-dk-750.jpg"],
+},
 ];
 
 export default products;
