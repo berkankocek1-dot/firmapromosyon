@@ -20,24 +20,38 @@ export default function OfferForm({ products }: { products: Product[] }) {
   const [qty, setQty] = useState("");
   const [note, setNote] = useState("");
 
-  // Query'den urun slug al
-  const urunFromQuery = (searchParams.get("urun") || "")
+  // ✅ Query'den ürün slug al (hem urun hem product destekle)
+  const urunFromQuery = (
+    searchParams.get("urun") ||
+    searchParams.get("product") ||
+    ""
+  )
     .toString()
     .trim()
     .toLowerCase();
 
+  // ✅ Query varsa otomatik seç
   useEffect(() => {
     if (!urunFromQuery) return;
     const exists = products.some((p) => p.slug === urunFromQuery);
     if (exists) setProductSlug(urunFromQuery);
   }, [urunFromQuery, products]);
 
+  // ✅ Query yoksa, ilk ürünü default seç (UX için)
+  useEffect(() => {
+    if (!urunFromQuery && !productSlug && products.length) {
+      setProductSlug(products[0].slug);
+    }
+  }, [urunFromQuery, productSlug, products]);
+
   const selectedProduct = useMemo(
     () => products.find((p) => p.slug === productSlug),
     [products, productSlug]
   );
 
-  const lockProduct = Boolean(urunFromQuery) && productSlug === urunFromQuery;
+  // ✅ Query ile geldiyse ürünü kilitle (değiştirilmesin)
+  const lockProduct =
+    Boolean(urunFromQuery) && productSlug === urunFromQuery;
 
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
@@ -68,7 +82,9 @@ E-posta: ${email || "-"}
   return (
     <form onSubmit={handleSubmit} className="space-y-4 text-gray-900">
       <div>
-        <label className="block text-sm font-semibold text-gray-900">Ürün</label>
+        <label className="block text-sm font-semibold text-gray-900">
+          Ürün
+        </label>
 
         <select
           className={selectClass}
