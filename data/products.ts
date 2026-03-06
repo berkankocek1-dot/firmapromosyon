@@ -395,6 +395,109 @@ adet + baskı bilgisi + renk tercihi + teslim tarihi + logo dosyanızı (PDF / A
   image: "/products/promosyon-dokunmatik-kalem-dk-750.jpg",
 gallery: ["/products/promosyon-dokunmatik-kalem-dk-750.jpg"],
 },
+{
+  id: "p9",
+  slug: "promosyon-dokunmatik-kalem-dk-800",
+  title: "Promosyon Dokunmatik Kalem DK-800",
+  category: "Kalem",
+  image: "/products/promosyon-dokunmatik-kalem-dk800.jpg",
+  shortDesc:
+    "Promosyon dokunmatik kalem DK-800, lazer baskıya uygun şık tasarımıyla kurumsal promosyonlar için ideal bir üründür. Minimum 50 adet sipariş ile logo baskılı üretim yapılabilir.",
+
+  longDesc: `
+Promosyon dokunmatik kalem DK-800, kurumsal promosyon ürünleri arasında en çok tercih edilen kalem modellerinden biridir. Hem klasik tükenmez kalem olarak kullanılabilir hem de dokunmatik ekran kalemi özelliği sayesinde telefon ve tabletlerde rahat kullanım sağlar.
+
+Şık metal detayları ve modern tasarımı sayesinde fuar, etkinlik, müşteri ziyaretleri ve kurumsal promosyon dağıtımları için ideal bir üründür. Lazer baskı yöntemi ile firmanızın logosu kalem üzerine net ve kalıcı şekilde uygulanabilir.
+
+Promosyon kalemler, marka bilinirliğini artırmak ve müşterilerle kalıcı iletişim kurmak için en etkili promosyon ürünlerinden biridir. Günlük kullanımda sürekli elde bulunan kalemler, markanızın görünürlüğünü uzun süre sağlar.
+
+Promosyon dokunmatik kalem DK-800 modeli özellikle teknoloji uyumlu yapısı sayesinde modern promosyon ürünleri arasında öne çıkar. Dokunmatik uç sayesinde akıllı telefon ve tabletlerde kolay kullanım sunar.
+
+Minimum sipariş adedi genellikle 50 adet olup baskılı siparişlerde adet miktarı üretim koşullarına göre değişebilir.
+
+Ürün Özellikleri
+
+• Model: DK-800  
+• Tür: Dokunmatik promosyon kalem  
+• Baskı Türü: Lazer baskı  
+• Kullanım: Telefon ve tablet uyumlu dokunmatik uç  
+• Minimum Sipariş: 50 adet  
+• Renk Seçenekleri: Kırmızı, Lacivert, Turkuaz, Siyah, Yeşil, Füme, Beyaz, Turuncu  
+
+Promosyon dokunmatik kalem DK-800 ile firmanızın logosunu şık ve profesyonel bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon kalem siparişleri için hızlı teklif alabilirsiniz.
+`,
+},
+{
+  id: "p10",
+  slug: "promosyon-dokunmatik-kalem-dk-900",
+  title: "Promosyon Dokunmatik Kalem DK-900",
+  category: "Kalem",
+  image: "/products/promosyon-dokunmatik-kalem-dk-900.jpg",
+  shortDesc:
+    "Promosyon dokunmatik kalem DK-900 lazer baskıya uygun, modern tasarımı ile kurumsal promosyon çalışmaları için tercih edilen bir kalem modelidir. Baskısız minimum 50 adet sipariş verilebilir.",
+
+  longDesc: `
+Promosyon dokunmatik kalem DK-900, modern tasarımı ve dokunmatik ekran uyumlu yapısı sayesinde kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir. Hem tükenmez kalem olarak kullanılabilir hem de dokunmatik uç sayesinde akıllı telefon ve tabletlerde rahat kullanım sağlar.
+
+Şık gövde tasarımı ve lazer baskıya uygun yüzeyi sayesinde firmanızın logosu kalem üzerine kalıcı ve net şekilde uygulanabilir. Fuar, etkinlik, müşteri ziyaretleri ve kurumsal promosyon dağıtımlarında etkili bir reklam ürünü olarak kullanılabilir.
+
+Promosyon kalemler, marka bilinirliğini artırmak ve müşterilerle sürekli iletişim kurmak için en etkili promosyon ürünlerinden biridir. Günlük kullanımda sık kullanılan kalemler markanızın görünürlüğünü uzun süre sağlar.
+
+Promosyon dokunmatik kalem DK-900 modeli özellikle teknoloji uyumlu yapısı sayesinde modern promosyon ürünleri arasında öne çıkar. Dokunmatik uç sayesinde akıllı telefon ve tablet ekranlarında kolay kullanım sunar.
+
+Minimum sipariş adedi baskısız siparişlerde genellikle 50 adet olup baskılı siparişlerde minimum adet üretim planına göre değişebilir. Renk seçenekleri için sipariş öncesinde stok kontrolü yapılması önerilir.
+
+Ürün Özellikleri
+
+• Model: DK-900  
+• Ölçü: 140 x Ø10 mm  
+• Refil: Mavi refil  
+• Baskı Türü: Lazer baskı  
+• Baskı Alanı: 55 x 5,5 mm  
+• Koli / Kutu Adedi: 500 / 50  
+• Minimum Sipariş: 50 adet  
+• Renk Seçenekleri: Gold, Kırmızı, Lacivert, Silver, Turkuaz, Turuncu  
+
+Promosyon dokunmatik kalem DK-900 ile firmanızın logosunu müşterilerinize şık ve profesyonel bir şekilde ulaştırabilirsiniz. Kurumsal promosyon kalem siparişleri için hızlı teklif alabilirsiniz.
+`,
+},
+{
+  id: "p11",
+  slug: "promosyon-dokunmatik-kalem-dk-950",
+  title: "Promosyon Dokunmatik Kalem DK-950",
+  category: "Kalem",
+  image: "/products/promosyon-dokunmatik-kalem-dk-950.jpg",
+
+  shortDesc:
+    "Promosyon dokunmatik kalem DK-950 çok fonksiyonlu tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan bir modeldir. Baskısız minimum 50 adet sipariş verilebilir, baskılı siparişlerde minimum adet değişebilir.",
+
+  longDesc: `
+Promosyon dokunmatik kalem DK-950, çok fonksiyonlu tasarımı sayesinde kurumsal promosyon ürünleri arasında dikkat çeken kalem modellerinden biridir. Hem tükenmez kalem hem dokunmatik ekran kalemi hem de küçük el aletleri özelliklerini bir arada sunar.
+
+Dokunmatik uç sayesinde telefon ve tablet ekranlarında rahat kullanım sağlar. Ayrıca gövdesinde bulunan su terazisi, yıldız ve düz tornavida uçları sayesinde pratik bir kullanım sunar. Bu özellikleri sayesinde DK-950 modeli özellikle teknik sektörlerde ve mühendislik firmalarında sık tercih edilen promosyon ürünlerinden biridir.
+
+Modern tasarımı ve lazer baskıya uygun yüzeyi sayesinde firmanızın logosu kalem üzerine net ve kalıcı şekilde uygulanabilir. Fuar, etkinlik, müşteri ziyaretleri ve kurumsal promosyon dağıtımları için etkili bir reklam ürünüdür.
+
+Promosyon kalemler, marka bilinirliğini artırmak ve müşterilerle kalıcı iletişim kurmak için en etkili promosyon ürünlerinden biridir. Günlük kullanımda sürekli elde bulunan kalemler markanızın görünürlüğünü uzun süre sağlar.
+
+Minimum sipariş baskısız siparişlerde genellikle 50 adet olup baskılı siparişlerde minimum adet üretim planına göre değişebilir. Renk seçenekleri için sipariş öncesinde stok kontrolü yapılması önerilir.
+
+Ürün Özellikleri
+
+• Model: DK-950  
+• Ölçü: 160 x Ø 10 mm  
+• Refil: Mavi refil  
+• Baskı Türü: Lazer baskı  
+• Baskı Alanı: 55 x 4,0 mm  
+• Koli / Kutu Adedi: 500 / 50  
+• Fonksiyonlar: Dokunmatik ekran kalem ucu, su terazisi, yıldız tornavida, düz tornavida  
+• Minimum Sipariş: 50 adet  
+• Renk Seçenekleri: Kırmızı, Mavi, Silver, Siyah  
+• Renkler için stok kontrolü yapılması önerilir
+
+Promosyon dokunmatik kalem DK-950 ile firmanızın logosunu şık ve profesyonel bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon kalem siparişleri için hızlı teklif alabilirsiniz.
+`,
+}
 ];
 
 export default products;
