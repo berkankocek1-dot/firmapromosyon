@@ -69,7 +69,6 @@ const guides: Guide[] = [
           "İstenen model, adet ve teslim tarihi paylaşıldığında hızlı şekilde teklif hazırlanır. Termin ve baskı detayları teklifte netleşir.",
       },
     ],
-    ctaProductSlug: "promosyon-kupa",
   },
   {
     slug: "promosyon-kalem-toptan",
@@ -95,7 +94,6 @@ const guides: Guide[] = [
           "Adet ve hedef kullanım amacına göre model seçmek maliyeti optimize eder. Termin ve teslimat bilgisi teklifte netleşir.",
       },
     ],
-    ctaProductSlug: "promosyon-kalem",
   },
 ];
 
@@ -271,21 +269,23 @@ export default async function GuidePage({ params }: PageProps) {
         </div>
       </section>
 
-      <section className="mt-12">
-        <h2 className="text-xl font-bold text-gray-900">Diğer rehberler</h2>
-        <div className="mt-5 grid gap-4 md:grid-cols-3">
-          {relatedGuides.map((g) => (
-            <Link
-              key={g.slug}
-              href={`/rehber/${g.slug}`}
-              className="rounded-2xl border border-gray-200 bg-white p-5 shadow-sm hover:shadow-md"
-            >
-              <h3 className="text-base font-semibold text-gray-900">{g.title}</h3>
-              <p className="mt-2 text-sm text-gray-600">{g.description}</p>
-            </Link>
-          ))}
-        </div>
-      </section>
+      {relatedGuides.length > 0 && (
+        <section className="mt-12">
+          <h2 className="text-xl font-bold text-gray-900">Diğer rehberler</h2>
+          <div className="mt-5 grid gap-4 md:grid-cols-3">
+            {relatedGuides.map((g) => (
+              <Link
+                key={g.slug}
+                href={`/rehber/${g.slug}`}
+                className="rounded-2xl border border-gray-200 bg-white p-5 shadow-sm hover:shadow-md"
+              >
+                <h3 className="text-base font-semibold text-gray-900">{g.title}</h3>
+                <p className="mt-2 text-sm text-gray-600">{g.description}</p>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       <section className="mt-12 rounded-2xl border border-gray-200 bg-white p-6">
         <h2 className="text-xl font-bold text-gray-900">İlgili kategoriler</h2>
@@ -308,7 +308,6 @@ export default async function GuidePage({ params }: PageProps) {
           >
             Promosyon Anahtarlık
           </Link>
-          
         </div>
       </section>
     </main>
