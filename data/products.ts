@@ -497,7 +497,110 @@ Minimum sipariş baskısız siparişlerde genellikle 50 adet olup baskılı sipa
 
 Promosyon dokunmatik kalem DK-950 ile firmanızın logosunu şık ve profesyonel bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon kalem siparişleri için hızlı teklif alabilirsiniz.
 `,
-}
+},
+{
+  id: "p12",
+  slug: "promosyon-kraft-govde-tukenmez-kalem-gdk-100",
+  title: "Promosyon Kraft Gövde Tükenmez Kalem GDK-100",
+  category: "Kalem",
+  image: "/products/promosyon-kraft-govde-tukenmez-kalem-gdk-100.jpg",
+
+  shortDesc:
+    "Promosyon kraft gövde tükenmez kalem GDK-100, çevreci görünümlü tasarımıyla kurumsal promosyon çalışmaları için uygun bir kalem modelidir. Baskısız minimum 100 adet sipariş verilebilir, baskılı siparişlerde minimum adet değişebilir.",
+
+  longDesc: `
+Promosyon kraft gövde tükenmez kalem GDK-100, doğal görünümlü kraft gövdesi ve renkli detayları ile öne çıkan promosyon kalem modellerinden biridir. Çevre dostu algısı oluşturan tasarımı sayesinde kurumsal etkinlikler, fuarlar, eğitim organizasyonları ve promosyon dağıtımları için sık tercih edilir.
+
+Kraft gövdeli promosyon kalemler, markasını daha doğal ve modern bir sunumla öne çıkarmak isteyen firmalar için etkili bir seçenektir. Günlük kullanımda pratikliği sayesinde müşterilerinizin ve hedef kitlenizin elinde uzun süre kalır. Bu da marka görünürlüğünü artıran önemli bir avantaj sağlar.
+
+Promosyon kraft gövde tükenmez kalem GDK-100 modeli, uygun maliyetli olması sayesinde yüksek adetli promosyon dağıtımları için de idealdir. Logo baskı uygulamalarında baskı tekniğine göre minimum sipariş adetleri değişebilir. Bu nedenle baskılı siparişlerde adet ve üretim detayları teklif aşamasında netleştirilir.
+
+Renk seçenekleri sipariş öncesinde stok durumuna göre kontrol edilir. Kurumsal promosyon siparişlerinde seçilen renklerin ve baskı planının üretim öncesinde teyit edilmesi önerilir.
+
+Ürün Özellikleri
+
+• Model: GDK-100  
+• Tür: Kraft gövde tükenmez kalem  
+• Gövde: Kraft / doğal karton görünümlü gövde  
+• Kullanım: Günlük yazım için uygun  
+• Baskısız Minimum Sipariş: 100 adet  
+• Baskılı siparişlerde minimum adet üretim durumuna göre değişebilir  
+• Renk Seçenekleri: Mavi, Beyaz, Kırmızı, Lacivert, Sarı, Siyah, Turuncu, Yeşil  
+• Renkler için stok kontrolü yapılması önerilir
+
+Promosyon kraft gövde tükenmez kalem GDK-100 ile firmanızın logosunu ekonomik ve dikkat çekici bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon kalem siparişleri için hızlı teklif alabilirsiniz.
+`,
+},
+{
+  id: "p13",
+  slug: "promosyon-geri-donusumlu-tohumlu-kalem-gdk-110",
+  title: "Promosyon Geri Dönüşümlü Tohumlu Tükenmez Kalem GDK-110",
+  category: "Kalem",
+  image: "/products/promosyon-geri-donusumlu-tohumlu-kalem-gdk-110.jpg",
+
+  shortDesc:
+    "Promosyon geri dönüşümlü tohumlu kalem GDK-110 çevre dostu tasarımıyla dikkat çeken kurumsal promosyon kalem modelidir. Baskısız minimum 100 adet sipariş verilebilir, baskılı siparişlerde minimum adet değişebilir.",
+
+  longDesc: `
+Promosyon geri dönüşümlü tohumlu tükenmez kalem GDK-110, çevre dostu promosyon ürünleri arasında öne çıkan özel bir kalem modelidir. Doğaya duyarlı tasarımı sayesinde kurumsal etkinlikler, fuarlar, sürdürülebilirlik temalı organizasyonlar ve çevreci markalar tarafından sık tercih edilmektedir.
+
+Kalemin gövdesi geri dönüştürülebilir kraft malzemeden üretilmiştir ve üst kısmında bulunan özel tohum kapsülü sayesinde kullanım sonrası doğaya bırakılarak bitki yetiştirilmesine olanak sağlar. Bu özellik, markanızın çevre bilincini vurgulayan güçlü bir promosyon etkisi oluşturur.
+
+Promosyon kalemler, marka bilinirliğini artırmak için en etkili promosyon ürünlerinden biridir. Günlük kullanımda sürekli elde bulunan kalemler, firmanızın reklamını uzun süre taşır ve hedef kitlenizle kalıcı bir iletişim kurmanıza yardımcı olur.
+
+Promosyon geri dönüşümlü tohumlu kalem GDK-110 modeli özellikle sürdürülebilir promosyon ürünleri arayan firmalar için ideal bir seçenektir. Kurumsal promosyon dağıtımlarında hem dikkat çekici hem de çevreci bir alternatif sunar.
+
+Baskısız siparişlerde minimum adet 100 olup baskılı siparişlerde minimum adet üretim koşullarına göre değişebilir. Sipariş öncesinde stok kontrolü yapılması önerilir.
+
+Ürün Özellikleri
+
+• Model: GDK-110  
+• Tür: Geri dönüşümlü tohumlu tükenmez kalem  
+• Gövde: Kraft / geri dönüştürülebilir malzeme  
+• Tohum özelliği: Kullanım sonrası doğaya ekilebilir  
+• Baskısız Minimum Sipariş: 100 adet  
+• Baskılı siparişlerde minimum adet üretim durumuna göre değişebilir  
+• Renk: Yeşil  
+• Stok durumu sipariş öncesinde kontrol edilmelidir
+
+Promosyon geri dönüşümlü tohumlu kalem GDK-110 ile firmanızın çevre dostu yaklaşımını müşterilerinize yansıtabilir ve markanızı sürdürülebilir promosyon ürünleri ile öne çıkarabilirsiniz. Kurumsal promosyon kalem siparişleri için hemen teklif alabilirsiniz.
+`,
+},
+{
+  id: "p14",
+  slug: "promosyon-geri-donusumlu-tohumlu-kalem-gdk-120",
+  title: "Promosyon Geri Dönüşümlü Tohumlu Tükenmez Kalem GDK-120",
+  category: "Kalem",
+  image: "/products/promosyon-geri-donusumlu-tohumlu-kalem-gdk-120.jpg",
+
+  shortDesc:
+    "Promosyon geri dönüşümlü tohumlu kalem GDK-120, çevre dostu tasarımıyla dikkat çeken kurumsal promosyon kalem modelidir. Baskısız minimum 100 adet sipariş verilebilir, baskılı siparişlerde minimum adet değişebilir.",
+
+  longDesc: `
+Promosyon geri dönüşümlü tohumlu tükenmez kalem GDK-120, doğa dostu tasarımı ile öne çıkan çevreci promosyon kalem modellerinden biridir. Kraft gövdesi ve tohum kapsülü sayesinde hem kullanışlı hem de sürdürülebilir bir promosyon ürünü sunar.
+
+Kalemin üst kısmında bulunan özel tohum kapsülü sayesinde ürün kullanıldıktan sonra doğaya ekilebilir ve bitki yetişmesine katkı sağlar. Bu özellik özellikle çevre bilinci yüksek markalar, eğitim kurumları ve sürdürülebilirlik temalı etkinlikler için oldukça dikkat çekici bir promosyon ürünüdür.
+
+Promosyon kalemler, marka bilinirliğini artırmak ve müşterilerle kalıcı iletişim kurmak için en çok tercih edilen promosyon ürünlerinden biridir. Günlük kullanımda sürekli elde bulunan kalemler markanızın görünürlüğünü uzun süre sağlar.
+
+Promosyon geri dönüşümlü tohumlu kalem GDK-120 modeli farklı renk seçenekleri ile sunulmaktadır. Sipariş sırasında tercih edilen renklerin stok durumuna göre kontrol edilmesi önerilir.
+
+Baskısız siparişlerde minimum adet 100 olup baskılı siparişlerde minimum sipariş miktarı üretim koşullarına göre değişebilir.
+
+Ürün Özellikleri
+
+• Model: GDK-120  
+• Tür: Geri dönüşümlü tohumlu tükenmez kalem  
+• Gövde: Kraft / geri dönüştürülebilir malzeme  
+• Özellik: Tohum kapsülü sayesinde doğaya ekilebilir  
+• Baskısız Minimum Sipariş: 100 adet  
+• Baskılı siparişlerde minimum adet üretim durumuna göre değişebilir  
+• Renk Seçenekleri: Beyaz, Turuncu, Yeşil, Sarı, Kırmızı, Lacivert, Siyah  
+• Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir
+
+Promosyon geri dönüşümlü tohumlu kalem GDK-120 ile firmanızın çevre dostu yaklaşımını müşterilerinize gösterebilir ve sürdürülebilir promosyon ürünleri ile markanızı öne çıkarabilirsiniz. Kurumsal promosyon kalem siparişleri için hızlı teklif alabilirsiniz.
+`,
+},
 ];
 
 export default products;
