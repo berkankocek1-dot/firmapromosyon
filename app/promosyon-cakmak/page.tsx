@@ -71,7 +71,7 @@ export default function Page() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10 text-white">
+    <main className="mx-auto max-w-6xl px-4 py-10">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -115,57 +115,59 @@ export default function Page() {
         }}
       />
 
-      <nav className="mb-6 text-sm text-gray-300">
-        <Link href="/" className="hover:text-white hover:underline">
-          Ana Sayfa
-        </Link>
-        <span className="px-2">/</span>
-        <Link href="/urunler" className="hover:text-white hover:underline">
-          Ürünler
-        </Link>
-        <span className="px-2">/</span>
-        <span className="font-semibold text-white">Promosyon Çakmak</span>
-      </nav>
-
-      <header className="mb-10">
-        <h1 className="text-3xl font-extrabold text-white md:text-4xl">
-          Promosyon Çakmak
-        </h1>
-
-        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-          Promosyon çakmak modelleri, markanızı günlük kullanım alanlarında öne
-          çıkaran ekonomik ve etkili promosyon ürünleri arasında yer alır. Logo
-          baskılı promosyon çakmak ürünleri; fuar, etkinlik, restoran, kafe,
-          otel, bayi toplantısı ve saha dağıtımları için sık tercih edilen
-          kurumsal tanıtım çözümlerindendir.
-        </p>
-
-        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-          FirmaPromosyon’da yer alan promosyon çakmak çeşitleri; farklı gövde
-          yapıları, renk seçenekleri ve baskı uygulamaları ile kurumsal
-          ihtiyaçlara uygun olarak sunulmaktadır. Firmanızın logosuna uygun
-          baskılı veya baskısız sipariş seçenekleri için ürünleri inceleyebilir,
-          toplu alım ve hızlı teklif avantajlarından yararlanabilirsiniz.
-        </p>
-
-        <div className="mt-5 flex flex-wrap gap-3">
-          <Link
-            href="/kurumsal-teklif-al"
-            className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
-          >
-            Kurumsal Teklif Al
+      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
+        <nav className="mb-6 text-sm text-gray-300">
+          <Link href="/" className="hover:text-white hover:underline">
+            Ana Sayfa
           </Link>
-
-          <Link
-            href="/urunler"
-            className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-          >
-            Tüm Ürünleri Gör
+          <span className="px-2">/</span>
+          <Link href="/urunler" className="hover:text-white hover:underline">
+            Ürünler
           </Link>
-        </div>
-      </header>
+          <span className="px-2">/</span>
+          <span className="font-semibold text-white">Promosyon Çakmak</span>
+        </nav>
 
-      <section className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <header>
+          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+            Promosyon Çakmak
+          </h1>
+
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+            Promosyon çakmak modelleri, markanızı günlük kullanım alanlarında öne
+            çıkaran ekonomik ve etkili promosyon ürünleri arasında yer alır. Logo
+            baskılı promosyon çakmak ürünleri; fuar, etkinlik, restoran, kafe,
+            otel, bayi toplantısı ve saha dağıtımları için sık tercih edilen
+            kurumsal tanıtım çözümlerindendir.
+          </p>
+
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+            FirmaPromosyon’da yer alan promosyon çakmak çeşitleri; farklı gövde
+            yapıları, renk seçenekleri ve baskı uygulamaları ile kurumsal
+            ihtiyaçlara uygun olarak sunulmaktadır. Firmanızın logosuna uygun
+            baskılı veya baskısız sipariş seçenekleri için ürünleri inceleyebilir,
+            toplu alım ve hızlı teklif avantajlarından yararlanabilirsiniz.
+          </p>
+
+          <div className="mt-5 flex flex-wrap gap-3">
+            <Link
+              href="/kurumsal-teklif-al"
+              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+            >
+              Kurumsal Teklif Al
+            </Link>
+
+            <Link
+              href="/urunler"
+              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
+            >
+              Tüm Ürünleri Gör
+            </Link>
+          </div>
+        </header>
+      </section>
+
+      <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((p) => (
           <Link
             key={p.id}
@@ -204,14 +206,16 @@ export default function Page() {
       </section>
 
       {list.length === 0 && (
-        <p className="mt-10 text-center text-gray-300">
-          Bu kategoride henüz ürün yok.
-        </p>
+        <div className="mt-8 rounded-2xl border border-gray-200 bg-white p-8 text-center shadow-sm">
+          <p className="text-gray-700">
+            Bu kategoride henüz ürün yok.
+          </p>
+        </div>
       )}
 
       {list.length > 0 && (
-        <>
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
+          <section className="max-w-4xl space-y-5 text-gray-200">
             <h2 className="text-2xl font-bold text-white">
               Logo Baskılı Promosyon Çakmak Modelleri
             </h2>
@@ -325,7 +329,7 @@ export default function Page() {
               ))}
             </div>
           </section>
-        </>
+        </div>
       )}
     </main>
   );

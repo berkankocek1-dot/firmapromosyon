@@ -77,7 +77,7 @@ export default function PromosyonDefterPage() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10 text-white">
+    <main className="mx-auto max-w-6xl px-4 py-10">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -121,58 +121,60 @@ export default function PromosyonDefterPage() {
         }}
       />
 
-      <nav className="mb-6 text-sm text-gray-300">
-        <Link href="/" className="hover:text-white hover:underline">
-          Ana Sayfa
-        </Link>
-        <span className="px-2">/</span>
-        <Link href="/urunler" className="hover:text-white hover:underline">
-          Ürünler
-        </Link>
-        <span className="px-2">/</span>
-        <span className="font-semibold text-white">Promosyon Defter</span>
-      </nav>
-
-      <header className="mb-10">
-        <h1 className="text-3xl font-extrabold text-white md:text-4xl">
-          Promosyon Defter Modelleri
-        </h1>
-
-        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-          Promosyon defter modelleri, kurumsal tanıtım ve marka görünürlüğü için
-          en sık tercih edilen promosyon ürünleri arasında yer alır. Özellikle
-          tarihsiz defter seçenekleri; fuar, seminer, bayi toplantısı, ofis
-          kullanımı, müşteri hediyesi ve kurumsal etkinliklerde hem kullanışlı
-          hem de uzun ömürlü bir promosyon çözümü sunar.
-        </p>
-
-        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-          FirmaPromosyon’da yer alan promosyon defter çeşitleri, logo baskılı
-          veya baskısız sipariş seçenekleriyle kurumsal ihtiyaçlara uygun şekilde
-          sunulmaktadır. Minimum sipariş adetleri, baskı detayları, kapak
-          seçenekleri ve renk alternatifleri ürün bazında değişebilir. Sipariş
-          öncesinde güncel stok, baskı alanı ve teslim süresi bilgisi alınması
-          önerilir.
-        </p>
-
-        <div className="mt-5 flex flex-wrap gap-3">
-          <Link
-            href="/teklif"
-            className="inline-flex items-center justify-center rounded-xl bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
-          >
-            Hızlı Teklif Al
+      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
+        <nav className="mb-6 text-sm text-gray-300">
+          <Link href="/" className="hover:text-white hover:underline">
+            Ana Sayfa
           </Link>
-
-          <Link
-            href="/urunler?kategori=Tarihsiz%20Defter"
-            className="inline-flex items-center justify-center rounded-xl border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-          >
-            Ürünlerde Filtrele
+          <span className="px-2">/</span>
+          <Link href="/urunler" className="hover:text-white hover:underline">
+            Ürünler
           </Link>
-        </div>
-      </header>
+          <span className="px-2">/</span>
+          <span className="font-semibold text-white">Promosyon Defter</span>
+        </nav>
 
-      <section className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <header>
+          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+            Promosyon Defter Modelleri
+          </h1>
+
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+            Promosyon defter modelleri, kurumsal tanıtım ve marka görünürlüğü için
+            en sık tercih edilen promosyon ürünleri arasında yer alır. Özellikle
+            tarihsiz defter seçenekleri; fuar, seminer, bayi toplantısı, ofis
+            kullanımı, müşteri hediyesi ve kurumsal etkinliklerde hem kullanışlı
+            hem de uzun ömürlü bir promosyon çözümü sunar.
+          </p>
+
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+            FirmaPromosyon’da yer alan promosyon defter çeşitleri, logo baskılı
+            veya baskısız sipariş seçenekleriyle kurumsal ihtiyaçlara uygun şekilde
+            sunulmaktadır. Minimum sipariş adetleri, baskı detayları, kapak
+            seçenekleri ve renk alternatifleri ürün bazında değişebilir. Sipariş
+            öncesinde güncel stok, baskı alanı ve teslim süresi bilgisi alınması
+            önerilir.
+          </p>
+
+          <div className="mt-5 flex flex-wrap gap-3">
+            <Link
+              href="/teklif"
+              className="inline-flex items-center justify-center rounded-xl bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+            >
+              Hızlı Teklif Al
+            </Link>
+
+            <Link
+              href="/urunler?kategori=Tarihsiz%20Defter"
+              className="inline-flex items-center justify-center rounded-xl border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
+            >
+              Ürünlerde Filtrele
+            </Link>
+          </div>
+        </header>
+      </section>
+
+      <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {filtered.map((p) => (
           <Link
             key={p.id}
@@ -211,14 +213,16 @@ export default function PromosyonDefterPage() {
       </section>
 
       {filtered.length === 0 && (
-        <p className="mt-10 text-center text-gray-300">
-          Bu kategoride henüz ürün yok.
-        </p>
+        <div className="mt-8 rounded-2xl border border-gray-200 bg-white p-8 text-center shadow-sm">
+          <p className="text-gray-700">
+            Bu kategoride henüz ürün yok.
+          </p>
+        </div>
       )}
 
       {filtered.length > 0 && (
-        <>
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
+          <section className="max-w-4xl space-y-5 text-gray-200">
             <h2 className="text-2xl font-bold text-white">
               Logo Baskılı Promosyon Defter Modelleri
             </h2>
@@ -332,7 +336,7 @@ export default function PromosyonDefterPage() {
               ))}
             </div>
           </section>
-        </>
+        </div>
       )}
     </main>
   );
