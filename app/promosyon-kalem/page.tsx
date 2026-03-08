@@ -71,7 +71,7 @@ export default function Page() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10 text-white">
+    <main className="mx-auto max-w-6xl px-4 py-10">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -115,57 +115,59 @@ export default function Page() {
         }}
       />
 
-      <nav className="mb-6 text-sm text-gray-300">
-        <Link href="/" className="hover:text-white hover:underline">
-          Ana Sayfa
-        </Link>
-        <span className="px-2">/</span>
-        <Link href="/urunler" className="hover:text-white hover:underline">
-          Ürünler
-        </Link>
-        <span className="px-2">/</span>
-        <span className="font-semibold text-white">Promosyon Kalem</span>
-      </nav>
-
-      <header className="mb-10">
-        <h1 className="text-3xl font-extrabold text-white md:text-4xl">
-          Promosyon Kalem
-        </h1>
-
-        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-          Promosyon kalem modelleri, kurumsal tanıtım çalışmalarında en çok tercih
-          edilen promosyon ürünleri arasında yer alır. Logo baskılı promosyon
-          kalem ürünleri; fuar, bayi toplantısı, seminer, lansman, ofis kullanımı
-          ve müşteri dağıtımları için hem ekonomik hem de etkili bir tanıtım
-          çözümü sunar.
-        </p>
-
-        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-          FirmaPromosyon’da yer alan promosyon kalem çeşitleri; farklı renk,
-          tasarım ve kullanım özellikleri ile kurumsal ihtiyaçlara uygun şekilde
-          sunulmaktadır. Firmanızın logosuna uygun baskılı veya baskısız sipariş
-          seçenekleri için ürünleri inceleyebilir, toplu alım ve hızlı teklif
-          avantajlarından yararlanabilirsiniz.
-        </p>
-
-        <div className="mt-5 flex flex-wrap gap-3">
-          <Link
-            href="/kurumsal-teklif-al"
-            className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
-          >
-            Kurumsal Teklif Al
+      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
+        <nav className="mb-6 text-sm text-gray-300">
+          <Link href="/" className="hover:text-white hover:underline">
+            Ana Sayfa
           </Link>
-
-          <Link
-            href="/urunler"
-            className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-          >
-            Tüm Ürünleri Gör
+          <span className="px-2">/</span>
+          <Link href="/urunler" className="hover:text-white hover:underline">
+            Ürünler
           </Link>
-        </div>
-      </header>
+          <span className="px-2">/</span>
+          <span className="font-semibold text-white">Promosyon Kalem</span>
+        </nav>
 
-      <section className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <header>
+          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+            Promosyon Kalem
+          </h1>
+
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+            Promosyon kalem modelleri, kurumsal tanıtım çalışmalarında en çok tercih
+            edilen promosyon ürünleri arasında yer alır. Logo baskılı promosyon
+            kalem ürünleri; fuar, bayi toplantısı, seminer, lansman, ofis kullanımı
+            ve müşteri dağıtımları için hem ekonomik hem de etkili bir tanıtım
+            çözümü sunar.
+          </p>
+
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+            FirmaPromosyon’da yer alan promosyon kalem çeşitleri; farklı renk,
+            tasarım ve kullanım özellikleri ile kurumsal ihtiyaçlara uygun şekilde
+            sunulmaktadır. Firmanızın logosuna uygun baskılı veya baskısız sipariş
+            seçenekleri için ürünleri inceleyebilir, toplu alım ve hızlı teklif
+            avantajlarından yararlanabilirsiniz.
+          </p>
+
+          <div className="mt-5 flex flex-wrap gap-3">
+            <Link
+              href="/kurumsal-teklif-al"
+              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+            >
+              Kurumsal Teklif Al
+            </Link>
+
+            <Link
+              href="/urunler"
+              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
+            >
+              Tüm Ürünleri Gör
+            </Link>
+          </div>
+        </header>
+      </section>
+
+      <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((p) => (
           <Link
             key={p.id}
@@ -204,14 +206,14 @@ export default function Page() {
       </section>
 
       {list.length === 0 && (
-        <p className="mt-10 text-center text-gray-300">
+        <p className="mt-10 text-center text-gray-600">
           Bu kategoride henüz ürün yok.
         </p>
       )}
 
       {list.length > 0 && (
-        <>
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
+          <section className="max-w-4xl space-y-5 text-gray-200">
             <h2 className="text-2xl font-bold text-white">
               Logo Baskılı Promosyon Kalem Modelleri
             </h2>
@@ -228,26 +230,19 @@ export default function Page() {
               Kurumsal firmalar tarafından en çok tercih edilen promosyon
               ürünlerinden biri olan kalemler; fuar organizasyonlarında, seminer
               ve eğitimlerde, müşteri ziyaretlerinde, bayi toplantılarında ve
-              personel dağıtımlarında yoğun şekilde kullanılır. Düşük maliyetli
-              ve yüksek adetli siparişe uygun olması, promosyon kalem ürünlerini
-              pazarlama açısından güçlü hale getirir.
+              personel dağıtımlarında yoğun şekilde kullanılır.
             </p>
 
             <p>
               Promosyon kalem çeşitleri; plastik kalem, metal kalem, dokunmatik
               kalem, roller kalem ve özel tasarımlı kurumsal kalem modelleri gibi
               farklı alternatiflerle sunulabilir. Baskılı ve baskısız seçenekler,
-              modelin yapısına göre değişebilir. Sipariş öncesinde baskı alanı,
-              minimum adet, renk seçeneği ve teslim süresi hakkında bilgi alınması
-              önerilir.
+              modelin yapısına göre değişebilir.
             </p>
 
             <p>
               Promosyon kalem fiyatları; ürün modeli, malzeme kalitesi, baskı
-              tercihi ve sipariş miktarına göre değişiklik gösterebilir. Firmanız
-              için en uygun promosyon kalem modelini seçerek hızlı teklif
-              alabilir, kurumsal tanıtımınızı daha profesyonel şekilde
-              güçlendirebilirsiniz.
+              tercihi ve sipariş miktarına göre değişiklik gösterebilir.
             </p>
           </section>
 
@@ -302,33 +297,7 @@ export default function Page() {
               </div>
             </div>
           </section>
-
-          <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
-              Sık Aranan Promosyon Kalem Terimleri
-            </h2>
-
-            <div className="mt-4 flex flex-wrap gap-2">
-              {[
-                "promosyon kalem",
-                "logo baskılı kalem",
-                "kurumsal kalem",
-                "toptan promosyon kalem",
-                "firma logolu kalem",
-                "baskılı kalem",
-                "promosyon ürünleri",
-                "hediyelik kalem",
-              ].map((item) => (
-                <span
-                  key={item}
-                  className="rounded-full border border-white/10 bg-white/5 px-3 py-2 text-sm text-gray-100"
-                >
-                  {item}
-                </span>
-              ))}
-            </div>
-          </section>
-        </>
+        </div>
       )}
     </main>
   );
