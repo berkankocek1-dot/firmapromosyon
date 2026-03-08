@@ -815,6 +815,132 @@ Baskısız siparişlerde minimum adet 30 olup baskılı siparişlerde minimum si
 Promosyon tarihsiz defter TD-101 ile firmanızın logosunu prestijli ve profesyonel bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon defter siparişleri için hızlı teklif alabilirsiniz.
 `,
 },
+{
+  id: "p21",
+  slug: "promosyon-usb-bellek-ub-100",
+  title: "Promosyon USB Bellek UB-100",
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-100.jpg",
+  shortDesc:
+    "Promosyon USB bellek UB-100, farklı kapasite ve renk seçenekleriyle kurumsal kullanıma uygun şık bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş için idealdir.",
+  longDesc: `
+Promosyon USB Bellek UB-100, kurumsal firmaların marka görünürlüğünü artırmak için tercih ettiği kullanışlı ve şık promosyon ürünleri arasında yer alır. Günlük kullanımda pratik olması, uzun süre saklanabilen bir tanıtım ürünü olması ve farklı kapasite seçenekleri sunması sayesinde fuar, seminer, bayi toplantısı, lansman ve kurumsal hediye organizasyonlarında etkili bir çözüm sunar.
+
+UB-100 model promosyon USB bellek; 8GB, 16GB, 32GB, 64GB ve 128GB kapasite alternatifleriyle farklı ihtiyaçlara hitap eder. Ürün; beyaz, siyah, lacivert, kırmızı, turkuaz, yeşil, sarı, turuncu, füme, gümüş ve altın gibi farklı renk seçenekleriyle kurumsal kimliğe uygun sipariş oluşturma imkanı sağlar. Renk ve kapasite seçenekleri stok durumuna göre değişebildiği için sipariş öncesinde güncel uygunluk bilgisi talep edilmesi önerilir.
+
+Bu promosyon USB bellek modeli baskılı ve baskısız olarak tercih edilebilir. Logo baskılı promosyon USB bellek siparişlerinde marka adı, firma logosu veya kampanya mesajı ürün üzerine uygulanarak daha profesyonel ve kurumsal bir görünüm elde edilir. Baskısız siparişlerde ise sade ve şık yapısıyla şirket içi kullanım, personel dağıtımı veya genel promosyon amaçlı değerlendirme yapılabilir. Baskılı ve baskısız minimum sipariş adetleri farklılık gösterebildiğinden, sipariş sırasında adet bilgisi için teklif alınması gerekir.
+
+Promosyon USB bellek UB-100, döner kapaklı pratik tasarımı sayesinde kapağın kaybolma riskini azaltır ve kullanım kolaylığı sağlar. Hem günlük ofis kullanımına hem de müşterilere verilecek tanıtım ürünlerine uygun olması, bu ürünü toptan promosyon ürünleri arasında öne çıkarır. Bilgisayar, sunum dosyaları, kataloglar, fiyat listeleri, tanıtım içerikleri ve kurumsal evrakların paylaşımında sık tercih edilen bir modeldir.
+
+Kurumsal promosyon ürünleri arasında USB belleklerin öne çıkmasının en büyük nedeni, doğrudan işlevsel olmasıdır. Kullanıcı tarafından aktif şekilde kullanılan bir ürün olması, markanızın daha uzun süre görünür kalmasına katkı sağlar. Bu nedenle logo baskılı promosyon USB bellek ürünleri, reklam ve tanıtım bütçesini daha verimli kullanmak isteyen firmalar için güçlü bir tercihtir.
+
+Promosyon USB bellek fiyatları; tercih edilen kapasiteye, baskı seçeneğine, sipariş adedine ve üretim detaylarına göre değişebilir. Toplu alım, kurumsal sipariş ve özel baskı talepleriniz için teklif alarak firmanıza en uygun seçeneği belirleyebilirsiniz. Renk seçenekleri ve kapasite uygunluğu sipariş aşamasında teyit edilmelidir.
+
+Eğer firmanız için hem kullanışlı hem de profesyonel bir tanıtım ürünü arıyorsanız, Promosyon USB Bellek UB-100 modeli etkili bir tercih olacaktır. Logo baskılı promosyon USB bellek, kurumsal hediye ürünleri ve toptan promosyon çözümleri için hemen teklif alabilirsiniz.
+`
+},
+{
+  id: "p22",
+  slug: "promosyon-usb-bellek-ub-101",
+  title: "Promosyon USB Bellek UB-101",
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-101.jpg",
+  shortDesc:
+    "Promosyon USB bellek UB-101 modeli, farklı kapasite ve renk seçenekleriyle kurumsal tanıtım için ideal bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş imkanı sunar.",
+  longDesc: `
+Promosyon USB Bellek UB-101, kurumsal tanıtım ve marka bilinirliği için en çok tercih edilen promosyon ürünleri arasında yer alan kullanışlı bir depolama çözümüdür. Günlük kullanımda pratik olması ve uzun süre saklanabilen bir ürün olması sayesinde firmaların reklam ve tanıtım çalışmalarında etkili bir rol oynar.
+
+UB-101 model USB bellek; 8GB, 16GB, 32GB, 64GB ve 128GB kapasite seçenekleriyle farklı ihtiyaçlara hitap eder. Ayrıca bazı modellerde USB 3.0 desteği bulunarak daha hızlı veri aktarımı sağlanabilir. Bu sayede sunum dosyaları, kataloglar, tanıtım videoları, fiyat listeleri ve çeşitli dijital içerikler kolayca paylaşılabilir.
+
+Ürün tasarımı döner kapaklı metal gövde yapısına sahiptir. Bu yapı hem şık bir görünüm sunar hem de USB girişinin korunmasına yardımcı olur. Sağlam ve dayanıklı yapısı sayesinde uzun süre kullanılabilir ve marka görünürlüğünü artıran etkili bir promosyon ürünü haline gelir.
+
+Promosyon USB bellek UB-101 modeli farklı renk seçenekleriyle üretilebilmektedir. Kurumsal renklerinize uygun seçenekler ile sipariş oluşturabilirsiniz. Renk seçenekleri ve kapasite alternatifleri stok durumuna göre değişebileceği için sipariş sırasında uygunluk bilgisi talep edilmesi önerilir.
+
+Ürün baskılı ve baskısız olarak sipariş verilebilir. Logo baskılı promosyon USB bellek tercih edildiğinde firmanızın logosu veya marka ismi ürün üzerine uygulanarak daha profesyonel bir kurumsal tanıtım yapılabilir. Fuarlar, seminerler, lansmanlar, bayi toplantıları ve kurumsal etkinliklerde dağıtılabilecek etkili bir promosyon ürünüdür.
+
+Baskılı ve baskısız siparişlerde minimum sipariş adetleri farklılık gösterebilir. Kurumsal toplu siparişler için adet bilgisi, baskı yöntemi ve teslim süresi gibi detaylar sipariş sırasında netleştirilir.
+
+Promosyon USB bellek fiyatları kapasite seçeneğine, sipariş adedine ve baskı tercihine göre değişiklik gösterebilir. Kurumsal firmalar için toplu alım ve özel baskı seçenekleriyle ekonomik promosyon çözümleri sunulmaktadır.
+
+Eğer firmanız için hem kullanışlı hem de uzun süre hatırlanacak bir promosyon ürünü arıyorsanız, Promosyon USB Bellek UB-101 modeli güçlü bir tercihtir. Logo baskılı promosyon USB bellek siparişi için teklif alabilir ve markanızı müşterilerinize profesyonel bir şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p23",
+  slug: "promosyon-usb-bellek-ub-110",
+  title: "Promosyon USB Bellek UB-110",
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-110.jpg",
+  shortDesc:
+    "Promosyon USB bellek UB-110 anahtarlık tasarımı ile hem kullanışlı hem de şık bir kurumsal promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş için uygundur.",
+  longDesc: `
+Promosyon USB Bellek UB-110 modeli, anahtarlık tasarımı sayesinde günlük kullanımda oldukça pratik olan ve kurumsal tanıtım çalışmalarında sık tercih edilen promosyon ürünleri arasında yer alır. Hem taşınabilir hem de dayanıklı yapısı sayesinde kullanıcıların sürekli yanında taşıyabileceği bir ürün olması, marka görünürlüğünü uzun süre artırır.
+
+UB-110 model promosyon USB bellek; 16GB, 32GB ve 128GB kapasite seçenekleriyle sunulmaktadır. Bu kapasite seçenekleri sayesinde sunum dosyaları, kataloglar, tanıtım videoları, fiyat listeleri ve çeşitli dijital içerikler kolaylıkla saklanabilir ve paylaşılabilir.
+
+Metal gövdeli tasarımı sayesinde hem şık hem de dayanıklı bir yapı sunar. Döner kapak mekanizması USB girişini korurken aynı zamanda ürünün kapağının kaybolmasını engeller. Anahtarlık halkası ile birlikte kullanılabilmesi sayesinde anahtar, çanta veya kartlık gibi eşyalarla birlikte taşınabilir.
+
+Promosyon USB bellek UB-110 modeli baskılı veya baskısız olarak sipariş verilebilir. Logo baskılı promosyon USB bellek tercih edildiğinde firmanızın logosu veya marka adı ürün üzerine uygulanarak kurumsal tanıtım etkisi artırılabilir. Bu özellik sayesinde fuar, seminer, lansman, bayi toplantıları ve kurumsal etkinliklerde dağıtılabilecek güçlü bir reklam ürünü haline gelir.
+
+Kurumsal promosyon ürünleri arasında USB belleklerin en büyük avantajı doğrudan kullanılabilir bir ürün olmasıdır. Kullanıcı tarafından aktif şekilde kullanılan bu ürünler, firmanızın markasının daha uzun süre hatırlanmasını sağlar.
+
+Promosyon USB bellek UB-110 modeli için baskılı ve baskısız siparişlerde minimum sipariş adetleri değişiklik gösterebilir. Ayrıca kapasite seçenekleri ve stok durumu sipariş sırasında teyit edilmelidir. Kurumsal toplu siparişlerde detaylı bilgi ve teklif almak için iletişime geçebilirsiniz.
+
+Eğer firmanız için hem şık hem de işlevsel bir promosyon ürünü arıyorsanız, Promosyon USB Bellek UB-110 modeli etkili bir tercih olacaktır. Logo baskılı promosyon USB bellek siparişi vererek markanızı müşterilerinize profesyonel bir şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p24",
+  slug: "promosyon-usb-bellek-ub-120",
+  title: "Promosyon USB Bellek UB-120",
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-120.jpg",
+  shortDesc:
+    "Promosyon USB bellek UB-120 metal gövdeli şık tasarımıyla kurumsal promosyon ürünleri arasında öne çıkar. Logo baskılı veya baskısız toplu sipariş için uygundur.",
+  longDesc: `
+Promosyon USB Bellek UB-120 modeli, metal gövde tasarımı ve modern görünümü ile kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir. Hem şık hem de dayanıklı yapısı sayesinde firmaların uzun süre kullanılabilen bir tanıtım ürünü sunmasına yardımcı olur.
+
+UB-120 promosyon USB bellek modeli farklı kapasite seçenekleri ile sunulmaktadır. Ürün 8GB, 16GB, 32GB, 64GB ve 128GB kapasite alternatifleriyle sipariş edilebilir. Ayrıca bazı modellerde USB 3.0 desteği bulunarak daha hızlı veri aktarımı sağlanabilir. Bu sayede kataloglar, tanıtım dosyaları, sunumlar, video içerikleri ve kurumsal dokümanlar kolayca paylaşılabilir.
+
+Metal gövdeli ve anahtarlık halkalı tasarımı sayesinde ürün hem estetik hem de kullanışlıdır. Anahtarlık tasarımı USB belleğin kolay taşınmasını sağlar ve günlük kullanımda sürekli yanınızda bulunabilecek bir promosyon ürünü haline getirir. Bu özellik sayesinde marka görünürlüğü uzun süre devam eder.
+
+Promosyon USB bellek UB-120 modeli farklı renk seçenekleri ile üretilebilmektedir. Kurumsal kimliğinize uygun renk seçenekleri tercih edilebilir. Renk ve kapasite seçenekleri stok durumuna göre değişebileceğinden sipariş öncesinde uygunluk bilgisinin teyit edilmesi önerilir.
+
+Ürün baskılı veya baskısız olarak sipariş verilebilir. Logo baskılı promosyon USB bellek siparişlerinde firma logosu veya marka adı ürün üzerine uygulanarak kurumsal tanıtım gücü artırılır. Bu ürün özellikle fuarlar, seminerler, lansmanlar, bayi toplantıları ve kurumsal etkinliklerde dağıtılabilecek etkili bir promosyon ürünüdür.
+
+Promosyon USB bellek siparişlerinde minimum sipariş adetleri baskılı veya baskısız tercihe göre değişiklik gösterebilir. Kurumsal toplu siparişlerde adet, baskı türü ve teslim süresi gibi detaylar sipariş sırasında belirlenmektedir.
+
+Promosyon USB bellek fiyatları kapasite seçeneğine, sipariş miktarına ve baskı tercihine göre değişebilir. Kurumsal firmalar için toplu sipariş ve logo baskılı üretim seçenekleri ile uygun maliyetli promosyon çözümleri sunulmaktadır.
+
+Eğer firmanız için hem şık hem de uzun süre kullanılabilecek bir tanıtım ürünü arıyorsanız Promosyon USB Bellek UB-120 modeli güçlü bir tercih olacaktır. Logo baskılı promosyon USB bellek siparişi için teklif alarak markanızı müşterilerinize profesyonel şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p25",
+  slug: "promosyon-metal-usb-bellek-ub-130",
+  title: "Promosyon Metal USB Bellek UB-130",
+  category: "USB Bellek",
+  image: "/products/promosyon-metal-usb-bellek-ub-130.jpg",
+  shortDesc:
+    "Promosyon metal USB bellek UB-130, şık metal gövdesi ve anahtarlık tasarımı ile kurumsal tanıtım için ideal bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş seçenekleri sunar.",
+  longDesc: `
+Promosyon Metal USB Bellek UB-130 modeli, dayanıklı metal gövdesi ve şık tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan modellerden biridir. Modern ve profesyonel görünümü sayesinde firmaların marka tanıtımında etkili bir reklam ürünü olarak tercih edilir.
+
+UB-130 promosyon USB bellek modeli farklı kapasite seçenekleri ile üretilebilmektedir. Ürün; 8GB, 16GB, 32GB, 64GB ve 128GB kapasite alternatifleri ile sunulabilir. Ayrıca bazı modellerde USB 3.0 desteği bulunarak daha hızlı veri aktarımı sağlanabilir. Bu sayede sunum dosyaları, kataloglar, fiyat listeleri, tanıtım videoları ve kurumsal dokümanlar kolayca paylaşılabilir.
+
+Metal gövde yapısı sayesinde ürün hem sağlam hem de uzun ömürlüdür. Üzerinde bulunan taşıma askısı sayesinde anahtarlık veya çanta ile birlikte rahatlıkla taşınabilir. Bu özellik USB belleğin günlük kullanımda sürekli kullanıcıyla birlikte olmasını sağlar ve markanızın görünürlüğünü artırır.
+
+Promosyon USB bellek UB-130 modeli farklı renk detaylarına sahip seçeneklerle üretilebilir. Kurumsal renklerinize uygun seçenekler tercih edilebilir. Renk seçenekleri ve kapasite alternatifleri stok durumuna göre değişebileceğinden sipariş sırasında güncel bilgi alınması önerilir.
+
+Ürün baskılı veya baskısız olarak sipariş verilebilir. Logo baskılı promosyon USB bellek siparişlerinde firmanızın logosu veya marka adı ürün üzerine uygulanarak kurumsal kimliğinizi yansıtan etkili bir tanıtım ürünü elde edebilirsiniz. Bu ürün özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek güçlü bir promosyon ürünüdür.
+
+Promosyon USB bellek siparişlerinde minimum sipariş adetleri baskı tercihine göre değişiklik gösterebilir. Kurumsal toplu siparişlerde adet, baskı yöntemi ve teslim süresi gibi detaylar sipariş sırasında belirlenmektedir.
+
+Promosyon USB bellek fiyatları kapasite seçeneğine, sipariş miktarına ve baskı tercihine göre değişebilir. Kurumsal firmalar için toplu sipariş ve logo baskılı üretim seçenekleri ile ekonomik promosyon çözümleri sunulmaktadır.
+
+Eğer firmanız için hem dayanıklı hem de prestijli bir promosyon ürünü arıyorsanız, Promosyon Metal USB Bellek UB-130 modeli etkili bir tercih olacaktır. Logo baskılı promosyon USB bellek siparişi vererek markanızı müşterilerinize profesyonel bir şekilde ulaştırabilirsiniz.
+`
+},
 
 ];
 
