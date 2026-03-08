@@ -77,7 +77,7 @@ export default function PromosyonAjandaPage() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
+    <main className="mx-auto max-w-6xl px-4 py-10 text-white">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -121,24 +121,24 @@ export default function PromosyonAjandaPage() {
         }}
       />
 
-      <nav className="mb-6 text-sm text-gray-500">
-        <Link href="/" className="hover:underline">
+      <nav className="mb-6 text-sm text-gray-300">
+        <Link href="/" className="hover:text-white hover:underline">
           Ana Sayfa
         </Link>
         <span className="px-2">/</span>
-        <Link href="/urunler" className="hover:underline">
+        <Link href="/urunler" className="hover:text-white hover:underline">
           Ürünler
         </Link>
         <span className="px-2">/</span>
-        <span className="font-semibold text-gray-900">Promosyon Ajanda</span>
+        <span className="font-semibold text-white">Promosyon Ajanda</span>
       </nav>
 
       <header className="mb-10">
-        <h1 className="text-3xl font-extrabold text-gray-900 md:text-4xl">
+        <h1 className="text-3xl font-extrabold text-white md:text-4xl">
           Promosyon Ajanda Modelleri
         </h1>
 
-        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-700">
+        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
           Promosyon ajanda modelleri, markanızı yıl boyunca görünür kılan en güçlü
           kurumsal promosyon ürünleri arasında yer alır. Logo baskılı ajanda
           çeşitleri; ofis kullanımı, müşteri hediyesi, bayi dağıtımı, fuar,
@@ -146,7 +146,7 @@ export default function PromosyonAjandaPage() {
           tanıtım çözümü sunar.
         </p>
 
-        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-700">
+        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
           FirmaPromosyon’da yer alan promosyon ajanda ürünleri, farklı kapak
           yapıları, iç tasarımlar ve baskı seçenekleri ile kurumsal ihtiyaçlara
           uygun şekilde sunulmaktadır. Minimum sipariş adetleri, stok uygunluğu,
@@ -157,14 +157,14 @@ export default function PromosyonAjandaPage() {
         <div className="mt-5 flex flex-wrap gap-3">
           <Link
             href="/teklif"
-            className="inline-flex items-center justify-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition hover:opacity-90"
+            className="inline-flex items-center justify-center rounded-xl bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
           >
             Hızlı Teklif Al
           </Link>
 
           <Link
             href="/urunler?kategori=Ajanda"
-            className="inline-flex items-center justify-center rounded-xl border border-gray-300 px-5 py-3 text-sm font-semibold text-gray-900 transition hover:bg-gray-50"
+            className="inline-flex items-center justify-center rounded-xl border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
           >
             Ürünlerde Filtrele
           </Link>
@@ -208,8 +208,8 @@ export default function PromosyonAjandaPage() {
       </section>
 
       {filtered.length === 0 && (
-        <div className="rounded-2xl border border-gray-200 bg-white p-8 text-center shadow-sm">
-          <p className="text-gray-700">
+        <div className="rounded-2xl border border-white/10 bg-white/5 p-8 text-center shadow-sm">
+          <p className="text-gray-200">
             Bu kategoride henüz ürün yok. Yakında eklenecek.
           </p>
         </div>
@@ -217,8 +217,8 @@ export default function PromosyonAjandaPage() {
 
       {filtered.length > 0 && (
         <>
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-700">
-            <h2 className="text-2xl font-bold text-gray-900">
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
               Logo Baskılı Promosyon Ajanda Modelleri
             </h2>
 
@@ -256,47 +256,47 @@ export default function PromosyonAjandaPage() {
           </section>
 
           <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-gray-900">
+            <h2 className="text-2xl font-bold text-white">
               Promosyon Ajanda Nerelerde Kullanılır?
             </h2>
 
             <div className="mt-5 grid gap-4 sm:grid-cols-2">
-              <div className="rounded-2xl border border-gray-200 bg-white p-5">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">
                   Kurumsal Müşteri Hediyeleri
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-700">
+                <p className="mt-2 text-sm leading-6 text-gray-200">
                   Logo baskılı ajandalar, müşterilere verilebilecek prestijli ve
                   yıl boyunca kullanılan kurumsal hediye ürünleri arasında yer alır.
                 </p>
               </div>
 
-              <div className="rounded-2xl border border-gray-200 bg-white p-5">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">
                   Ofis ve Personel Kullanımı
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-700">
+                <p className="mt-2 text-sm leading-6 text-gray-200">
                   Şirket içinde çalışanlara dağıtılan promosyon ajandalar,
                   kurumsal bütünlüğü güçlendirirken günlük planlama için de
                   pratik bir kullanım sağlar.
                 </p>
               </div>
 
-              <div className="rounded-2xl border border-gray-200 bg-white p-5">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">
                   Bayi ve İş Ortaklığı Dağıtımları
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-700">
+                <p className="mt-2 text-sm leading-6 text-gray-200">
                   Promosyon ajanda modelleri, bayi ağına ve iş ortaklarına
                   dağıtılabilecek kaliteli ve kurumsal görünümü güçlü ürünlerdir.
                 </p>
               </div>
 
-              <div className="rounded-2xl border border-gray-200 bg-white p-5">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">
                   Yeni Yıl ve Özel Dönem Kampanyaları
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-700">
+                <p className="mt-2 text-sm leading-6 text-gray-200">
                   Özellikle yıl sonu ve yeni yıl kampanyalarında promosyon ajanda
                   ürünleri, firmaların en çok tercih ettiği klasik kurumsal
                   promosyon seçeneklerinden biridir.
@@ -306,7 +306,7 @@ export default function PromosyonAjandaPage() {
           </section>
 
           <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-gray-900">
+            <h2 className="text-2xl font-bold text-white">
               Sık Aranan Promosyon Ajanda Terimleri
             </h2>
 
@@ -323,7 +323,7 @@ export default function PromosyonAjandaPage() {
               ].map((item) => (
                 <span
                   key={item}
-                  className="rounded-full border border-gray-200 bg-gray-50 px-3 py-2 text-sm text-gray-700"
+                  className="rounded-full border border-white/10 bg-white/5 px-3 py-2 text-sm text-gray-100"
                 >
                   {item}
                 </span>

@@ -71,7 +71,7 @@ export default function Page() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
+    <main className="mx-auto max-w-6xl px-4 py-10 text-white">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -115,24 +115,24 @@ export default function Page() {
         }}
       />
 
-      <nav className="mb-6 text-sm text-gray-500">
-        <Link href="/" className="hover:underline">
+      <nav className="mb-6 text-sm text-gray-300">
+        <Link href="/" className="hover:text-white hover:underline">
           Ana Sayfa
         </Link>
         <span className="px-2">/</span>
-        <Link href="/urunler" className="hover:underline">
+        <Link href="/urunler" className="hover:text-white hover:underline">
           Ürünler
         </Link>
         <span className="px-2">/</span>
-        <span className="font-semibold text-gray-900">Promosyon Anahtarlık</span>
+        <span className="font-semibold text-white">Promosyon Anahtarlık</span>
       </nav>
 
       <header className="mb-10">
-        <h1 className="text-3xl font-extrabold text-gray-900 md:text-4xl">
+        <h1 className="text-3xl font-extrabold text-white md:text-4xl">
           Promosyon Anahtarlık
         </h1>
 
-        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-700">
+        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
           Promosyon anahtarlık modelleri, markanızı günlük yaşamda görünür kılan
           en etkili kurumsal promosyon ürünleri arasında yer alır. Logo baskılı
           promosyon anahtarlık çeşitleri; fuar, etkinlik, bayi toplantısı,
@@ -140,7 +140,7 @@ export default function Page() {
           ekonomik hem de kullanışlı bir çözümdür.
         </p>
 
-        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-700">
+        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
           FirmaPromosyon’da yer alan promosyon anahtarlık ürünleri, farklı model
           ve tasarım seçenekleri ile kurumsal ihtiyaçlara uygun olarak
           sunulmaktadır. Firmanızın logosuna uygun baskılı veya baskısız sipariş
@@ -151,14 +151,14 @@ export default function Page() {
         <div className="mt-5 flex flex-wrap gap-3">
           <Link
             href="/kurumsal-teklif-al"
-            className="rounded-full bg-black px-5 py-3 text-sm font-semibold text-white transition hover:opacity-90"
+            className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
           >
             Kurumsal Teklif Al
           </Link>
 
           <Link
             href="/urunler"
-            className="rounded-full border border-gray-300 px-5 py-3 text-sm font-semibold text-gray-900 transition hover:bg-gray-50"
+            className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
           >
             Tüm Ürünleri Gör
           </Link>
@@ -204,15 +204,15 @@ export default function Page() {
       </section>
 
       {list.length === 0 && (
-        <p className="mt-10 text-center text-gray-600">
+        <p className="mt-10 text-center text-gray-300">
           Bu kategoride henüz ürün yok.
         </p>
       )}
 
       {list.length > 0 && (
         <>
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-700">
-            <h2 className="text-2xl font-bold text-gray-900">
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
               Logo Baskılı Promosyon Anahtarlık Modelleri
             </h2>
 
@@ -249,49 +249,49 @@ export default function Page() {
           </section>
 
           <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-gray-900">
+            <h2 className="text-2xl font-bold text-white">
               Promosyon Anahtarlık Nerelerde Kullanılır?
             </h2>
 
             <div className="mt-5 grid gap-4 sm:grid-cols-2">
-              <div className="rounded-2xl border border-gray-200 bg-white p-5">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">
                   Fuar ve Etkinlik Dağıtımları
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-700">
+                <p className="mt-2 text-sm leading-6 text-gray-200">
                   Fuar standlarında ve kurumsal etkinliklerde dağıtılan logo
                   baskılı anahtarlıklar, ziyaretçilerin markanızı uzun süre
                   hatırlamasına yardımcı olur.
                 </p>
               </div>
 
-              <div className="rounded-2xl border border-gray-200 bg-white p-5">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">
                   Bayi ve Müşteri Hediyeleri
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-700">
+                <p className="mt-2 text-sm leading-6 text-gray-200">
                   Promosyon anahtarlık modelleri, bayi ağına veya mevcut
                   müşterilere verilebilecek ekonomik ve sürekli kullanılan
                   kurumsal hediye ürünleri arasında yer alır.
                 </p>
               </div>
 
-              <div className="rounded-2xl border border-gray-200 bg-white p-5">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">
                   Firma Tanıtım Kampanyaları
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-700">
+                <p className="mt-2 text-sm leading-6 text-gray-200">
                   Yeni müşteri kazanımı veya marka bilinirliği kampanyalarında
                   promosyon anahtarlık kullanmak, düşük maliyetle geniş kitlelere
                   ulaşmak açısından avantaj sağlar.
                 </p>
               </div>
 
-              <div className="rounded-2xl border border-gray-200 bg-white p-5">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">
                   Toplu Kurumsal Siparişler
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-700">
+                <p className="mt-2 text-sm leading-6 text-gray-200">
                   Yüksek adetli siparişlerde promosyon anahtarlık ürünleri hem
                   ekonomik hem de etkili bir kurumsal promosyon çözümü sunar.
                 </p>
@@ -300,7 +300,7 @@ export default function Page() {
           </section>
 
           <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-gray-900">
+            <h2 className="text-2xl font-bold text-white">
               Sık Aranan Promosyon Anahtarlık Terimleri
             </h2>
 
@@ -317,7 +317,7 @@ export default function Page() {
               ].map((item) => (
                 <span
                   key={item}
-                  className="rounded-full border border-gray-200 bg-gray-50 px-3 py-2 text-sm text-gray-700"
+                  className="rounded-full border border-white/10 bg-white/5 px-3 py-2 text-sm text-gray-100"
                 >
                   {item}
                 </span>

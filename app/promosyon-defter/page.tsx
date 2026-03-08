@@ -77,7 +77,7 @@ export default function PromosyonDefterPage() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
+    <main className="mx-auto max-w-6xl px-4 py-10 text-white">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -121,24 +121,24 @@ export default function PromosyonDefterPage() {
         }}
       />
 
-      <nav className="mb-6 text-sm text-gray-500">
-        <Link href="/" className="hover:underline">
+      <nav className="mb-6 text-sm text-gray-300">
+        <Link href="/" className="hover:text-white hover:underline">
           Ana Sayfa
         </Link>
         <span className="px-2">/</span>
-        <Link href="/urunler" className="hover:underline">
+        <Link href="/urunler" className="hover:text-white hover:underline">
           Ürünler
         </Link>
         <span className="px-2">/</span>
-        <span className="font-semibold text-gray-900">Promosyon Defter</span>
+        <span className="font-semibold text-white">Promosyon Defter</span>
       </nav>
 
       <header className="mb-10">
-        <h1 className="text-3xl font-extrabold text-gray-900 md:text-4xl">
+        <h1 className="text-3xl font-extrabold text-white md:text-4xl">
           Promosyon Defter Modelleri
         </h1>
 
-        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-700">
+        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
           Promosyon defter modelleri, kurumsal tanıtım ve marka görünürlüğü için
           en sık tercih edilen promosyon ürünleri arasında yer alır. Özellikle
           tarihsiz defter seçenekleri; fuar, seminer, bayi toplantısı, ofis
@@ -146,7 +146,7 @@ export default function PromosyonDefterPage() {
           hem de uzun ömürlü bir promosyon çözümü sunar.
         </p>
 
-        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-700">
+        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
           FirmaPromosyon’da yer alan promosyon defter çeşitleri, logo baskılı
           veya baskısız sipariş seçenekleriyle kurumsal ihtiyaçlara uygun şekilde
           sunulmaktadır. Minimum sipariş adetleri, baskı detayları, kapak
@@ -158,14 +158,14 @@ export default function PromosyonDefterPage() {
         <div className="mt-5 flex flex-wrap gap-3">
           <Link
             href="/teklif"
-            className="inline-flex items-center justify-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition hover:opacity-90"
+            className="inline-flex items-center justify-center rounded-xl bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
           >
             Hızlı Teklif Al
           </Link>
 
           <Link
             href="/urunler?kategori=Tarihsiz%20Defter"
-            className="inline-flex items-center justify-center rounded-xl border border-gray-300 px-5 py-3 text-sm font-semibold text-gray-900 transition hover:bg-gray-50"
+            className="inline-flex items-center justify-center rounded-xl border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
           >
             Ürünlerde Filtrele
           </Link>
@@ -211,15 +211,15 @@ export default function PromosyonDefterPage() {
       </section>
 
       {filtered.length === 0 && (
-        <p className="mt-10 text-center text-gray-600">
+        <p className="mt-10 text-center text-gray-300">
           Bu kategoride henüz ürün yok.
         </p>
       )}
 
       {filtered.length > 0 && (
         <>
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-700">
-            <h2 className="text-2xl font-bold text-gray-900">
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
               Logo Baskılı Promosyon Defter Modelleri
             </h2>
 
@@ -256,49 +256,49 @@ export default function PromosyonDefterPage() {
           </section>
 
           <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-gray-900">
+            <h2 className="text-2xl font-bold text-white">
               Promosyon Defter Nerelerde Kullanılır?
             </h2>
 
             <div className="mt-5 grid gap-4 sm:grid-cols-2">
-              <div className="rounded-2xl border border-gray-200 bg-white p-5">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">
                   Fuar ve Etkinlik Dağıtımları
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-700">
+                <p className="mt-2 text-sm leading-6 text-gray-200">
                   Fuar standlarında ve kurumsal organizasyonlarda dağıtılan
                   logo baskılı defterler, ziyaretçilerin markanızı uzun süre
                   hatırlamasına yardımcı olur.
                 </p>
               </div>
 
-              <div className="rounded-2xl border border-gray-200 bg-white p-5">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">
                   Ofis ve Kurumsal Kullanım
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-700">
+                <p className="mt-2 text-sm leading-6 text-gray-200">
                   Şirket içi personel kullanımı, toplantılar ve müşteri
                   görüşmeleri için promosyon defter kullanmak, kurumsal
                   bütünlüğü güçlendiren pratik bir çözümdür.
                 </p>
               </div>
 
-              <div className="rounded-2xl border border-gray-200 bg-white p-5">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">
                   Bayi ve Müşteri Hediyeleri
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-700">
+                <p className="mt-2 text-sm leading-6 text-gray-200">
                   Promosyon defter modelleri, mevcut müşterilere ve bayi ağına
                   verilebilecek kullanışlı, prestijli ve uzun ömürlü kurumsal
                   hediye ürünleri arasında yer alır.
                 </p>
               </div>
 
-              <div className="rounded-2xl border border-gray-200 bg-white p-5">
-                <h3 className="text-lg font-semibold text-gray-900">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">
                   Toplu Firma Tanıtım Çalışmaları
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-700">
+                <p className="mt-2 text-sm leading-6 text-gray-200">
                   Yüksek adetli promosyon defter siparişleri, marka bilinirliği
                   oluşturmak isteyen firmalar için etkili ve profesyonel bir
                   tanıtım çözümü sunar.
@@ -308,7 +308,7 @@ export default function PromosyonDefterPage() {
           </section>
 
           <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-gray-900">
+            <h2 className="text-2xl font-bold text-white">
               Sık Aranan Promosyon Defter Terimleri
             </h2>
 
@@ -325,7 +325,7 @@ export default function PromosyonDefterPage() {
               ].map((item) => (
                 <span
                   key={item}
-                  className="rounded-full border border-gray-200 bg-gray-50 px-3 py-2 text-sm text-gray-700"
+                  className="rounded-full border border-white/10 bg-white/5 px-3 py-2 text-sm text-gray-100"
                 >
                   {item}
                 </span>
