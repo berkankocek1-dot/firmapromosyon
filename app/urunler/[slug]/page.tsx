@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { products } from "@/data/products";
+import { categories } from "@/data/categories";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
@@ -21,6 +22,32 @@ function JsonLd({ data }: { data: Record<string, unknown> }) {
 
 function getProductBySlug(slug: string) {
   return products.find((p) => p.slug === slug);
+}
+
+function normalizeText(value: string) {
+  return value
+    .toLocaleLowerCase("tr-TR")
+    .replace(/ı/g, "i")
+    .replace(/İ/g, "i")
+    .replace(/ğ/g, "g")
+    .replace(/Ğ/g, "g")
+    .replace(/ü/g, "u")
+    .replace(/Ü/g, "u")
+    .replace(/ş/g, "s")
+    .replace(/Ş/g, "s")
+    .replace(/ö/g, "o")
+    .replace(/Ö/g, "o")
+    .replace(/ç/g, "c")
+    .replace(/Ç/g, "c")
+    .trim();
+}
+
+function getCategoryHref(categoryName: string) {
+  const matched = categories.find(
+    (c) => normalizeText(c.name) === normalizeText(categoryName)
+  );
+
+  return matched ? `/kategori/${matched.slug}` : "/urunler";
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
@@ -65,6 +92,7 @@ export default async function ProductPage({ params }: PageProps) {
   if (!product) return notFound();
 
   const productUrl = `${SITE_URL}/urunler/${product.slug}`;
+  const categoryHref = getCategoryHref(product.category);
 
   const longDescText = (product.longDesc ?? "").trim();
   const longDescLines = longDescText
@@ -87,7 +115,13 @@ export default async function ProductPage({ params }: PageProps) {
         name: "Ürünler",
         item: `${SITE_URL}/urunler`,
       },
-      { "@type": "ListItem", position: 3, name: product.title, item: productUrl },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: product.category,
+        item: `${SITE_URL}${categoryHref}`,
+      },
+      { "@type": "ListItem", position: 4, name: product.title, item: productUrl },
     ],
   };
 
@@ -102,7 +136,6 @@ export default async function ProductPage({ params }: PageProps) {
     category: product.category,
   };
 
-  // ✅ FAQPage JSON-LD (Rich Results için)
   const faqJsonLd =
     product.faq && product.faq.length
       ? {
@@ -120,7 +153,7 @@ export default async function ProductPage({ params }: PageProps) {
       : null;
 
   return (
-    <main className="mx-auto max-w-6xl px-5 py-10 bg-white text-gray-900">
+    <main className="mx-auto max-w-6xl bg-white px-5 py-10 text-gray-900">
       <JsonLd data={breadcrumbJsonLd} />
       <JsonLd data={productJsonLd} />
       {faqJsonLd && <JsonLd data={faqJsonLd} />}
@@ -133,6 +166,10 @@ export default async function ProductPage({ params }: PageProps) {
         <span className="px-2">/</span>
         <Link className="hover:underline" href="/urunler">
           Ürünler
+        </Link>
+        <span className="px-2">/</span>
+        <Link className="hover:underline" href={categoryHref}>
+          {product.category}
         </Link>
         <span className="px-2">/</span>
         <span className="font-semibold text-gray-900">{product.title}</span>
@@ -160,9 +197,12 @@ export default async function ProductPage({ params }: PageProps) {
           <p className="mt-3 text-gray-900">{product.shortDesc}</p>
 
           <div className="mt-5 flex flex-wrap gap-2">
-            <span className="rounded-full bg-gray-200 px-3 py-1 text-xs font-medium text-gray-900">
+            <Link
+              href={categoryHref}
+              className="rounded-full bg-gray-200 px-3 py-1 text-xs font-medium text-gray-900 transition hover:bg-gray-300"
+            >
               Kategori: {product.category}
-            </span>
+            </Link>
           </div>
 
           {/* Ürün açıklaması */}
@@ -170,7 +210,7 @@ export default async function ProductPage({ params }: PageProps) {
             <div className="mt-8">
               <h2 className="text-lg font-bold text-gray-900">Ürün Açıklaması</h2>
 
-              <div className="mt-3 space-y-3 text-gray-900 leading-relaxed">
+              <div className="mt-3 space-y-3 leading-relaxed text-gray-900">
                 {longDescLines.map((line, idx) => (
                   <p key={idx}>{line}</p>
                 ))}
@@ -182,7 +222,7 @@ export default async function ProductPage({ params }: PageProps) {
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <Link
               href={`/teklif?product=${encodeURIComponent(product.slug)}`}
-              className="inline-flex items-center justify-center rounded-xl bg-black px-5 py-3 text-white font-semibold hover:opacity-90"
+              className="inline-flex items-center justify-center rounded-xl bg-black px-5 py-3 font-semibold text-white hover:opacity-90"
             >
               Hızlı Teklif Al
             </Link>
@@ -203,16 +243,16 @@ export default async function ProductPage({ params }: PageProps) {
           Kurumsal Toplu Sipariş İçin Teklif Alın
         </h2>
 
-        <p className="mt-4 text-gray-700 max-w-2xl mx-auto">
-          Promosyon dokunmatik kalem DK-500 ve diğer promosyon ürünleri için
-          kurumsal toplu sipariş verebilirsiniz. Logo baskı, renk seçenekleri,
-          stok durumu ve fiyat bilgisi için hemen teklif alın.
+        <p className="mx-auto mt-4 max-w-2xl text-gray-700">
+          {product.title} ve diğer promosyon ürünleri için kurumsal toplu sipariş
+          verebilirsiniz. Logo baskı, renk seçenekleri, stok durumu ve fiyat bilgisi
+          için hemen teklif alın.
         </p>
 
-        <div className="mt-6 flex justify-center gap-4 flex-wrap">
+        <div className="mt-6 flex flex-wrap justify-center gap-4">
           <Link
             href={`/kurumsal-teklif-al?product=${encodeURIComponent(product.slug)}`}
-            className="rounded-xl bg-black px-6 py-3 text-white font-semibold hover:opacity-90"
+            className="rounded-xl bg-black px-6 py-3 font-semibold text-white hover:opacity-90"
           >
             Kurumsal Teklif Al
           </Link>
