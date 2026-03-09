@@ -942,6 +942,740 @@ Eğer firmanız için hem dayanıklı hem de prestijli bir promosyon ürünü ar
 `
 },
 
+{
+  id: "p26",
+  slug: "promosyon-anahtarlik-an-111",
+  title: "Promosyon Anahtarlık AN-111 | Logo Baskılı Kurumsal Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-111.jpg",
+  shortDesc:
+    "Promosyon anahtarlık AN-111, metal ve deri tasarımı ile kurumsal firmalar için şık bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş seçenekleri ile marka tanıtımı için ideal bir anahtarlık modelidir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-111 modeli, modern tasarımı ve kaliteli malzeme yapısı sayesinde kurumsal promosyon ürünleri arasında sık tercih edilen modellerden biridir. Metal ve deri detaylı tasarımı sayesinde hem şık hem de dayanıklı bir kullanım sunar.
+
+Logo baskılı promosyon anahtarlık modelleri, firmaların marka bilinirliğini artırmak için en etkili promosyon ürünleri arasında yer almaktadır. Günlük hayatta sürekli kullanılan anahtarlıklar, markanızın kullanıcı ile uzun süre temas halinde olmasını sağlar.
+
+Promosyon anahtarlık AN-111 modeli üzerine firmanıza ait logo, marka adı veya kurumsal slogan baskısı uygulanabilir. Böylece ürün hem kullanışlı hem de etkili bir reklam ürünü haline gelir. Özellikle fuarlar, seminerler, lansmanlar, bayi toplantıları ve kurumsal etkinliklerde dağıtılabilecek ideal bir promosyon ürünüdür.
+
+Metal gövde ve deri detaylı tasarımı sayesinde ürün oldukça dayanıklıdır ve uzun süre kullanılabilir. Anahtar halkası sayesinde anahtarlar ile birlikte kolayca taşınabilir. Bu sayede promosyon anahtarlık sürekli kullanımda olur ve markanızın görünürlüğünü artırır.
+
+Promosyon anahtarlık siparişleri baskılı veya baskısız olarak verilebilir. Logo baskılı üretimlerde firmanızın kurumsal kimliği ürün üzerine uygulanarak profesyonel bir tanıtım ürünü elde edilir.
+
+Minimum sipariş miktarı baskılı veya baskısız tercihe göre değişiklik gösterebilir. Sipariş vermeden önce güncel stok bilgisi ve üretim detayları için firmamızdan bilgi alınması önerilir.
+
+Promosyon anahtarlık fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Kurumsal firmalar için toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem şık hem de kullanışlı bir promosyon ürünü arıyorsanız Promosyon Anahtarlık AN-111 modeli etkili bir tercih olacaktır. Logo baskılı promosyon anahtarlık siparişi vererek markanızı müşterilerinize ve iş ortaklarınıza profesyonel şekilde tanıtabilirsiniz.
+`
+},
+{
+  id: "p27",
+  slug: "promosyon-anahtarlik-an-112",
+  title: "Promosyon Anahtarlık AN-112 | Logo Baskılı Metal Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-112.jpg",
+  shortDesc:
+    "Promosyon anahtarlık AN-112, metal gövde ve şık tasarımı ile kurumsal firmalar için ideal bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş seçenekleri ile marka tanıtımı için tercih edilmektedir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-112 modeli, modern metal tasarımı ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen anahtarlık modellerinden biridir. Şık ve sade görünümü sayesinde hem günlük kullanım için uygundur hem de firmaların marka tanıtımında etkili bir reklam ürünü olarak kullanılabilir.
+
+Logo baskılı promosyon anahtarlık modelleri, firmaların kurumsal kimliğini müşterilerine ve iş ortaklarına ulaştırmanın en pratik yollarından biridir. Günlük hayatta sürekli kullanılan anahtarlıklar sayesinde markanız kullanıcıların yanında sürekli görünür olur.
+
+Promosyon anahtarlık AN-112 modeli üzerine firmanıza ait logo, marka adı veya kurumsal slogan uygulanabilir. Böylece ürün hem kullanışlı hem de profesyonel bir tanıtım ürünü haline gelir. Özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek etkili bir promosyon ürünüdür.
+
+Metal gövde yapısı sayesinde ürün oldukça dayanıklıdır ve uzun süre kullanılabilir. Anahtar halkası ile birlikte kolayca taşınabilir ve günlük kullanımda rahatlık sağlar. Bu özellik promosyon ürünün uzun süre kullanılmasına ve markanızın daha fazla görünür olmasına yardımcı olur.
+
+Promosyon anahtarlık siparişleri baskılı veya baskısız olarak verilebilir. Logo baskılı üretimlerde firmanızın logosu ürün üzerine uygulanarak kurumsal kimliğinizi yansıtan etkili bir promosyon ürünü elde edebilirsiniz.
+
+Minimum sipariş miktarı baskı tercihine göre değişiklik gösterebilir. Sipariş vermeden önce stok durumu ve üretim detayları hakkında bilgi alınması önerilir.
+
+Promosyon anahtarlık fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişebilir. Kurumsal firmalar için toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem şık hem de kullanışlı bir promosyon ürünü arıyorsanız Promosyon Anahtarlık AN-112 modeli etkili bir tercih olacaktır. Logo baskılı promosyon anahtarlık siparişi vererek markanızı müşterilerinize ve iş ortaklarınıza profesyonel şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p28",
+  slug: "promosyon-anahtarlik-an-113",
+  title: "Promosyon Anahtarlık AN-113 | Logo Baskılı Kurumsal Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-113.jpg",
+  shortDesc:
+    "Promosyon anahtarlık AN-113, metal ve deri detaylı şık tasarımı ile kurumsal firmalar için ideal bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş seçenekleri ile marka tanıtımında etkili bir çözümdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-113 modeli, şık metal gövde detayı ve deri görünümlü tasarımı ile kurumsal promosyon ürünleri arasında dikkat çeken modellerden biridir. Hem estetik hem de kullanışlı yapısı sayesinde firmaların marka tanıtımında tercih ettiği promosyon anahtarlık seçenekleri arasında yer alır.
+
+Logo baskılı promosyon anahtarlık ürünleri, markaların müşterileri ve iş ortakları üzerinde kalıcı bir görünürlük sağlamasına yardımcı olur. Günlük yaşamda sürekli kullanılan anahtarlıklar, reklam etkisi uzun süre devam eden promosyon ürünleri arasında öne çıkar.
+
+Promosyon anahtarlık AN-113 modeli üzerine firmanıza ait logo, marka adı veya kurumsal slogan uygulanabilir. Böylece ürün, sadece kullanışlı bir aksesuar değil aynı zamanda etkili bir reklam ve tanıtım aracı haline gelir. Özellikle fuarlar, bayi toplantıları, seminerler, kurumsal etkinlikler ve promosyon dağıtımlarında tercih edilebilecek uygun bir modeldir.
+
+Metal ve deri detaylı yapısı sayesinde ürün hem dayanıklı hem de prestijli bir görünüm sunar. Anahtar halkası ile kolay taşınabilir ve günlük kullanımda rahatlık sağlar. Bu da markanızın kullanıcıyla sürekli temas etmesine katkı sunar.
+
+Promosyon anahtarlık siparişleri baskılı veya baskısız olarak verilebilir. Minimum sipariş adedi baskılı ve baskısız tercihe göre değişiklik gösterebilir. Sipariş öncesinde güncel stok bilgisi alınması tavsiye edilir.
+
+Promosyon anahtarlık fiyatları sipariş miktarına, baskı tercihine ve üretim detaylarına göre değişebilir. Kurumsal firmalara özel toplu sipariş seçenekleri ile avantajlı fiyat çözümleri sunulmaktadır.
+
+Eğer firmanız için hem şık hem de kullanışlı bir promosyon ürünü arıyorsanız, Promosyon Anahtarlık AN-113 modeli iyi bir tercih olacaktır. Logo baskılı promosyon anahtarlık siparişi ile markanızı müşterilerinize profesyonel ve kalıcı şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p29",
+  slug: "promosyon-anahtarlik-an-114",
+  title: "Promosyon Anahtarlık AN-114 | Logo Baskılı Metal Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-114.jpg",
+  shortDesc:
+    "Promosyon anahtarlık AN-114, metal ve deri detaylı tasarımı ile kurumsal firmalar için şık ve dayanıklı bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş seçenekleri ile marka tanıtımında etkili bir çözümdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-114 modeli, modern metal tasarımı ve deri detayları ile kurumsal promosyon ürünleri arasında dikkat çeken anahtarlık modellerinden biridir. Şık ve prestijli görünümü sayesinde firmaların marka tanıtımı için tercih ettiği promosyon ürünleri arasında yer alır.
+
+Logo baskılı promosyon anahtarlık ürünleri, firmaların marka bilinirliğini artırmak için en çok kullanılan promosyon ürünlerinden biridir. Günlük hayatta sürekli kullanılan anahtarlıklar, markanızın müşteriler ve iş ortakları tarafından sürekli görülmesini sağlar.
+
+Promosyon anahtarlık AN-114 modeli üzerine firmanıza ait logo, marka adı veya kurumsal slogan uygulanabilir. Böylece ürün hem kullanışlı bir aksesuar hem de etkili bir reklam ürünü haline gelir. Özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek ideal bir promosyon ürünüdür.
+
+Metal gövde ve deri detaylı tasarımı sayesinde ürün hem dayanıklı hem de uzun ömürlüdür. Anahtar halkası ile birlikte kolayca taşınabilir ve günlük kullanımda rahatlık sağlar. Bu da promosyon ürünün sürekli kullanımda olmasını ve markanızın daha fazla görünür olmasını sağlar.
+
+Promosyon anahtarlık siparişleri baskılı veya baskısız olarak verilebilir. Logo baskılı üretimlerde firmanızın logosu ürün üzerine uygulanarak kurumsal kimliğinizi yansıtan etkili bir tanıtım ürünü elde edilir.
+
+Minimum sipariş adedi baskılı veya baskısız tercihe göre değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu hakkında bilgi alınması tavsiye edilir.
+
+Promosyon anahtarlık fiyatları sipariş miktarına, baskı tercihine ve üretim detaylarına göre değişebilir. Kurumsal firmalar için toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem şık hem de kullanışlı bir promosyon ürünü arıyorsanız Promosyon Anahtarlık AN-114 modeli etkili bir tercih olacaktır. Logo baskılı promosyon anahtarlık siparişi vererek markanızı müşterilerinize ve iş ortaklarınıza profesyonel bir şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p30",
+  slug: "promosyon-anahtarlik-an-115",
+  title: "Promosyon Anahtarlık AN-115 | Logo Baskılı Metal Deri Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-115.jpg",
+  shortDesc:
+    "Promosyon anahtarlık AN-115, metal ve deri detaylı şık tasarımı ile kurumsal firmalar için ideal bir promosyon ürünüdür. Siyah, lacivert ve kırmızı renk seçenekleri ile logo baskılı veya baskısız toplu sipariş verilebilir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-115 modeli, modern metal gövdesi ve deri detaylı tasarımı ile kurumsal promosyon ürünleri arasında dikkat çeken modellerden biridir. Şık görünümü ve dayanıklı yapısı sayesinde firmaların marka tanıtımında sıkça tercih edilen promosyon ürünleri arasında yer alır.
+
+Logo baskılı promosyon anahtarlık ürünleri, markaların müşterileri ve iş ortakları üzerinde kalıcı bir etki bırakmasını sağlar. Günlük hayatta sürekli kullanılan anahtarlıklar, reklam etkisi uzun süre devam eden promosyon ürünlerinden biridir.
+
+Promosyon anahtarlık AN-115 modeli üzerine firmanıza ait logo, marka adı veya kurumsal slogan uygulanabilir. Bu sayede ürün hem kullanışlı bir aksesuar hem de etkili bir reklam aracı haline gelir. Özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek ideal bir promosyon ürünüdür.
+
+Metal ve deri detaylı yapısı sayesinde ürün hem dayanıklı hem de uzun ömürlüdür. Anahtar halkası sayesinde kolay taşınabilir ve günlük kullanımda rahatlık sağlar. Bu özellik ürünün sürekli kullanımda olmasını ve markanızın daha fazla görünür olmasını sağlar.
+
+Promosyon anahtarlık AN-115 modeli siyah, lacivert ve kırmızı renk seçenekleri ile üretilebilmektedir. Kurumsal renklerinize uygun seçenekleri tercih ederek marka bütünlüğünü koruyabilirsiniz.
+
+Promosyon anahtarlık siparişleri baskılı veya baskısız olarak verilebilir. Minimum sipariş miktarı baskı tercihine göre değişiklik gösterebilir. Sipariş öncesinde güncel stok bilgisi alınması tavsiye edilir.
+
+Promosyon anahtarlık fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişebilir. Kurumsal firmalar için toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem şık hem de kullanışlı bir promosyon ürünü arıyorsanız Promosyon Anahtarlık AN-115 modeli iyi bir tercih olacaktır. Logo baskılı promosyon anahtarlık siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı bir şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p31",
+  slug: "promosyon-anahtarlik-an-116",
+  title: "Promosyon Anahtarlık AN-116 | Logo Baskılı Metal Deri Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-116.jpg",
+  shortDesc:
+    "Promosyon anahtarlık AN-116, metal ve deri detaylı şık tasarımı ile kurumsal firmalar için ideal bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş seçenekleri ile marka tanıtımında etkili bir çözümdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-116 modeli, modern metal gövde tasarımı ve deri detaylı yapısı ile kurumsal promosyon ürünleri arasında dikkat çeken anahtarlık modellerinden biridir. Şık ve sade tasarımı sayesinde hem günlük kullanım için uygundur hem de firmaların marka tanıtımında etkili bir reklam ürünü olarak kullanılabilir.
+
+Logo baskılı promosyon anahtarlık ürünleri, markaların müşterileri ve iş ortakları üzerinde kalıcı bir görünürlük oluşturmasına yardımcı olur. Günlük yaşamda sürekli kullanılan anahtarlıklar sayesinde markanız kullanıcıların yanında uzun süre yer alır.
+
+Promosyon anahtarlık AN-116 modeli üzerine firmanıza ait logo, marka adı veya kurumsal slogan uygulanabilir. Böylece ürün hem kullanışlı bir aksesuar hem de etkili bir reklam aracı haline gelir. Özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek ideal bir promosyon ürünüdür.
+
+Metal gövde ve deri detaylı tasarım ürünün hem dayanıklı hem de uzun ömürlü olmasını sağlar. Anahtar halkası sayesinde kolay taşınabilir ve günlük kullanımda rahatlık sağlar. Bu da promosyon ürünün sürekli kullanımda olmasını ve markanızın daha fazla görünür olmasını sağlar.
+
+Promosyon anahtarlık siparişleri baskılı veya baskısız olarak verilebilir. Logo baskılı üretimlerde firmanızın logosu ürün üzerine uygulanarak kurumsal kimliğinizi yansıtan etkili bir promosyon ürünü elde edebilirsiniz.
+
+Minimum sipariş adedi baskılı veya baskısız tercihe göre değişiklik gösterebilir. Sipariş öncesinde güncel stok bilgisi alınması tavsiye edilir.
+
+Promosyon anahtarlık fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Kurumsal firmalar için toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem şık hem de kullanışlı bir promosyon ürünü arıyorsanız Promosyon Anahtarlık AN-116 modeli iyi bir tercih olacaktır. Logo baskılı promosyon anahtarlık siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p32",
+  slug: "promosyon-usb-bellek-ub-140",
+  title: "Promosyon USB Bellek UB-140 | Logo Baskılı Kurumsal USB Bellek",
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-140.jpg",
+  shortDesc:
+    "Promosyon USB bellek UB-140, modern tasarımı ve şık metal kapağı ile kurumsal firmalar için ideal bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş seçenekleri ile marka tanıtımında etkili bir çözümdür.",
+
+  longDesc: `
+Promosyon USB bellek UB-140 modeli, modern tasarımı ve kullanışlı yapısı sayesinde kurumsal promosyon ürünleri arasında en çok tercih edilen ürünlerden biridir. Hem pratik kullanım sağlaması hem de marka tanıtımına katkı sunması nedeniyle birçok firma tarafından promosyon ürünü olarak tercih edilmektedir.
+
+Logo baskılı promosyon USB bellek ürünleri, firmaların kurumsal kimliğini müşterilerine ve iş ortaklarına ulaştırmak için oldukça etkili bir reklam aracıdır. Özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek ideal bir promosyon ürünüdür.
+
+Promosyon USB bellek UB-140 modeli farklı kapasite seçenekleri ile üretilebilmektedir. Ürün; 16GB, 32GB ve 64GB kapasite seçenekleri ile tercih edilebilir. Bu sayede sunum dosyaları, kataloglar, tanıtım videoları, fiyat listeleri ve kurumsal dokümanlar kolayca taşınabilir ve paylaşılabilir.
+
+Şık metal kapak ve şeffaf gövde tasarımı sayesinde ürün hem estetik hem de dayanıklı bir yapıya sahiptir. Modern görünümü sayesinde kurumsal promosyon ürünleri arasında dikkat çekici bir seçenek oluşturur.
+
+Promosyon USB bellek UB-140 modeli farklı renk seçenekleri ile üretilebilmektedir. Renk ve kapasite seçenekleri stok durumuna göre değişiklik gösterebilir. Sipariş vermeden önce tercih edilen renk ve kapasite seçenekleri hakkında bilgi alınması önerilir.
+
+Promosyon USB bellek siparişleri baskılı veya baskısız olarak verilebilir. Logo baskılı üretimlerde firmanızın logosu ürün üzerine uygulanarak kurumsal kimliğinizi yansıtan etkili bir promosyon ürünü elde edilir.
+
+Minimum sipariş adedi baskılı veya baskısız tercihe göre değişiklik gösterebilir. Renk ve kapasite seçenekleri hakkında detaylı bilgi almak için sipariş öncesinde iletişime geçilmesi önerilir.
+
+Promosyon USB bellek fiyatları kapasite seçeneğine, sipariş miktarına ve baskı tercihine göre değişiklik gösterebilir. Kurumsal firmalar için toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem kullanışlı hem de prestijli bir promosyon ürünü arıyorsanız Promosyon USB Bellek UB-140 modeli ideal bir tercih olacaktır. Logo baskılı promosyon USB bellek siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı bir şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p33",
+  slug: "promosyon-usb-bellek-ub-150",
+  title: "Promosyon USB Bellek UB-150 | Logo Baskılı Deri USB Bellek",
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-150.jpg",
+  shortDesc:
+    "Promosyon USB bellek UB-150, deri kapaklı şık tasarımı ile kurumsal firmalar için ideal bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş seçenekleri ile marka tanıtımında etkili bir çözümdür.",
+
+  longDesc: `
+Promosyon USB bellek UB-150 modeli, deri kapaklı şık tasarımı ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında dikkat çeken modellerden biridir. Hem estetik görünümü hem de pratik kullanımı sayesinde firmaların marka tanıtımında sık tercih edilen promosyon ürünlerinden biridir.
+
+Logo baskılı promosyon USB bellek ürünleri, firmaların kurumsal kimliğini müşterilerine ve iş ortaklarına ulaştırmak için oldukça etkili bir reklam aracıdır. Günlük kullanımda tercih edilen USB bellekler, markanızın uzun süre kullanıcı ile birlikte olmasını sağlar.
+
+Promosyon USB bellek UB-150 modeli farklı kapasite seçenekleri ile üretilebilmektedir. Ürün; 8GB, 16GB ve 32GB kapasite seçenekleri ile tercih edilebilir. Bu sayede sunum dosyaları, kataloglar, tanıtım videoları, fiyat listeleri ve kurumsal dokümanlar kolayca taşınabilir ve paylaşılabilir.
+
+Deri kapaklı tasarım sayesinde ürün hem şık hem de koruyucu bir yapıya sahiptir. USB bağlantı noktası kapak ile korunur ve böylece ürün daha uzun ömürlü kullanım sunar.
+
+Promosyon USB bellek UB-150 modeli logo baskılı veya baskısız olarak sipariş verilebilir. Logo baskılı üretimlerde firmanızın logosu ürün üzerine uygulanarak kurumsal kimliğinizi yansıtan etkili bir promosyon ürünü elde edilir.
+
+Minimum sipariş adedi baskı tercihine göre değişiklik gösterebilir. Kapasite seçenekleri ve stok durumu hakkında sipariş öncesinde bilgi alınması tavsiye edilir.
+
+Promosyon USB bellek fiyatları kapasite seçeneğine, sipariş miktarına ve baskı tercihine göre değişiklik gösterebilir. Kurumsal firmalar için toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem şık hem de kullanışlı bir promosyon ürünü arıyorsanız Promosyon USB Bellek UB-150 modeli iyi bir tercih olacaktır. Logo baskılı promosyon USB bellek siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p34",
+  slug: "promosyon-metal-usb-bellek-ub-160",
+  title: "Promosyon Metal USB Bellek UB-160 | Logo Baskılı Kurumsal Flash Bellek",
+  category: "USB Bellek",
+  image: "/products/promosyon-metal-usb-bellek-ub-160.jpg",
+  shortDesc:
+    "Promosyon metal USB bellek UB-160, şık metal tasarımı ve farklı renk seçenekleri ile kurumsal firmalar için ideal bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş seçenekleri ile marka tanıtımında kullanılabilir.",
+
+  longDesc: `
+Promosyon metal USB bellek UB-160 modeli, dayanıklı metal gövdesi ve modern tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan USB bellek modellerinden biridir. Şık görünümü ve uzun ömürlü yapısı sayesinde firmaların marka tanıtımında sık tercih edilen promosyon ürünlerinden biridir.
+
+Logo baskılı promosyon USB bellek ürünleri, firmaların marka bilinirliğini artırmak için oldukça etkili bir reklam aracıdır. Özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek güçlü bir promosyon ürünüdür.
+
+Promosyon USB bellek UB-160 modeli farklı kapasite seçenekleri ile üretilebilmektedir. Ürün; 8GB, 16GB, 32GB, 64GB ve 128GB kapasite seçenekleri ile tercih edilebilir. Ayrıca bazı modellerde yüksek hızlı veri aktarımı sağlayan USB 3.0 teknolojisi de bulunmaktadır.
+
+Metal gövde yapısı sayesinde ürün hem dayanıklı hem de şık bir tasarıma sahiptir. Kompakt yapısı sayesinde kolay taşınabilir ve günlük kullanımda rahatlık sağlar. Bu sayede promosyon USB bellek uzun süre kullanılabilir ve markanızın görünürlüğünü artırır.
+
+Promosyon metal USB bellek UB-160 modeli farklı renk seçenekleri ile üretilebilmektedir. Mat ve parlak yüzey seçenekleri ile birlikte farklı renk detayları bulunabilir. Renk ve kapasite seçenekleri stok durumuna göre değişiklik gösterebilir.
+
+Promosyon USB bellek siparişleri logo baskılı veya baskısız olarak verilebilir. Logo baskılı üretimlerde firmanızın logosu ürün üzerine uygulanarak kurumsal kimliğinizi yansıtan etkili bir tanıtım ürünü elde edilir.
+
+Minimum sipariş miktarı baskı tercihine göre değişiklik gösterebilir. Kapasite, renk ve stok durumu hakkında sipariş öncesinde bilgi alınması önerilir.
+
+Promosyon USB bellek fiyatları kapasite seçeneğine, sipariş miktarına ve baskı tercihine göre değişiklik gösterebilir. Kurumsal firmalar için toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem dayanıklı hem de prestijli bir promosyon ürünü arıyorsanız Promosyon Metal USB Bellek UB-160 modeli ideal bir tercih olacaktır. Logo baskılı promosyon USB bellek siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p35",
+  slug: "promosyon-usb-bellek-ub-170",
+  title: "Promosyon USB Bellek UB-170 | Logo Baskılı Kurumsal Flash Bellek",
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-170.jpg",
+  shortDesc:
+    "Promosyon USB bellek UB-170, modern tasarımı ve farklı renk seçenekleri ile kurumsal firmalar için ideal bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş seçenekleri ile marka tanıtımında kullanılabilir.",
+
+  longDesc: `
+Promosyon USB bellek UB-170 modeli, modern tasarımı ve kullanışlı yapısı ile kurumsal promosyon ürünleri arasında dikkat çeken modellerden biridir. Günlük kullanım için pratik bir ürün olması sayesinde firmaların marka tanıtımında sık tercih edilen promosyon ürünlerinden biridir.
+
+Logo baskılı promosyon USB bellek ürünleri, firmaların kurumsal kimliğini müşterilerine ve iş ortaklarına ulaştırmak için oldukça etkili bir reklam aracıdır. Özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek ideal bir promosyon ürünüdür.
+
+Promosyon USB bellek UB-170 modeli farklı kapasite seçenekleri ile üretilebilmektedir. Ürün farklı depolama kapasitesi alternatifleri ile tercih edilebilir. Kapasite seçenekleri stok durumuna göre değişiklik gösterebilir.
+
+Şık ve kompakt tasarımı sayesinde USB bellek kolay taşınabilir ve günlük kullanımda rahatlık sağlar. Bu özellik sayesinde promosyon USB bellek kullanıcıların yanında sürekli bulunur ve markanızın görünürlüğünü artırır.
+
+Promosyon USB bellek UB-170 modeli farklı renk seçenekleri ile üretilebilmektedir. Renk ve kapasite seçenekleri stok durumuna göre değişiklik gösterebilir. Sipariş öncesinde tercih edilen renk ve kapasite seçenekleri hakkında bilgi alınması önerilir.
+
+Promosyon USB bellek siparişleri logo baskılı veya baskısız olarak verilebilir. Logo baskılı üretimlerde firmanızın logosu ürün üzerine uygulanarak kurumsal kimliğinizi yansıtan etkili bir promosyon ürünü elde edilir.
+
+Minimum sipariş adedi baskı tercihine göre değişiklik gösterebilir. Kapasite ve stok durumu hakkında sipariş öncesinde bilgi alınması tavsiye edilir.
+
+Promosyon USB bellek fiyatları kapasite seçeneğine, sipariş miktarına ve baskı tercihine göre değişiklik gösterebilir. Kurumsal firmalar için toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem kullanışlı hem de etkili bir promosyon ürünü arıyorsanız Promosyon USB Bellek UB-170 modeli iyi bir tercih olacaktır. Logo baskılı promosyon USB bellek siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p36",
+  slug: "promosyon-usb-bellek-ub-180",
+  title: "Promosyon USB Bellek UB-180 | Logo Baskılı Metal Flash Bellek",
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-180.jpg",
+  shortDesc:
+    "Promosyon USB bellek UB-180, metal gövde tasarımı ve farklı kapasite seçenekleri ile kurumsal firmalar için ideal bir promosyon ürünüdür. Logo baskılı veya baskısız toplu sipariş seçenekleri ile marka tanıtımında kullanılabilir.",
+
+  longDesc: `
+Promosyon USB bellek UB-180 modeli, dayanıklı metal gövdesi ve modern tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan USB bellek modellerinden biridir. Şık görünümü ve uzun ömürlü yapısı sayesinde firmaların marka tanıtımında sık tercih edilen promosyon ürünlerinden biridir.
+
+Logo baskılı promosyon USB bellek ürünleri, firmaların kurumsal kimliğini müşterilerine ve iş ortaklarına ulaştırmak için oldukça etkili bir reklam aracıdır. Özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek güçlü bir promosyon ürünüdür.
+
+Promosyon USB bellek UB-180 modeli farklı kapasite seçenekleri ile üretilebilmektedir. Ürün; 8GB, 16GB, 32GB, 64GB ve 128GB kapasite seçenekleri ile tercih edilebilir. Ayrıca farklı veri aktarım hızlarına sahip USB 2.0 ve USB 3.0 seçenekleri de bulunmaktadır.
+
+Metal gövde tasarımı sayesinde ürün hem şık hem de dayanıklı bir yapıya sahiptir. Kompakt tasarımı sayesinde kolay taşınabilir ve günlük kullanımda rahatlık sağlar. Bu sayede promosyon USB bellek kullanıcıların yanında sürekli bulunur ve markanızın görünürlüğünü artırır.
+
+Promosyon USB bellek UB-180 modeli farklı renk ve yüzey seçenekleri ile üretilebilmektedir. Mat veya parlak yüzey seçenekleri ile birlikte farklı renk alternatifleri bulunabilir. Renk ve kapasite seçenekleri stok durumuna göre değişiklik gösterebilir.
+
+Promosyon USB bellek siparişleri logo baskılı veya baskısız olarak verilebilir. Logo baskılı üretimlerde firmanızın logosu ürün üzerine uygulanarak kurumsal kimliğinizi yansıtan etkili bir tanıtım ürünü elde edilir.
+
+Minimum sipariş miktarı baskı tercihine göre değişiklik gösterebilir. Kapasite, renk ve stok durumu hakkında sipariş öncesinde bilgi alınması önerilir.
+
+Promosyon USB bellek fiyatları kapasite seçeneğine, sipariş miktarına ve baskı tercihine göre değişiklik gösterebilir. Kurumsal firmalar için toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem kullanışlı hem de prestijli bir promosyon ürünü arıyorsanız Promosyon USB Bellek UB-180 modeli ideal bir tercih olacaktır. Logo baskılı promosyon USB bellek siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p37",
+  slug: "promosyon-dokunmatik-kalem-dk-700",
+  title: "Promosyon Dokunmatik Kalem DK-700 | Logo Baskılı Kurumsal Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-dokunmatik-kalem-dk-700.jpg",
+  shortDesc:
+    "Promosyon dokunmatik kalem DK-700, modern tasarımı ve ekran uyumlu dokunmatik ucu ile kurumsal firmalar için ideal bir promosyon kalem modelidir. Logo baskılı veya baskısız toplu sipariş seçenekleri ile marka tanıtımında kullanılabilir.",
+
+  longDesc: `
+Promosyon dokunmatik kalem DK-700 modeli, modern tasarımı ve çok yönlü kullanımı ile kurumsal promosyon ürünleri arasında öne çıkan kalem modellerinden biridir. Hem klasik yazı kalemi hem de dokunmatik ekran kalemi olarak kullanılabilmesi sayesinde oldukça pratik bir promosyon ürünüdür.
+
+Logo baskılı promosyon kalem ürünleri, firmaların marka bilinirliğini artırmak için en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük hayatta sürekli kullanılan kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın yanında sürekli görünür olur.
+
+Promosyon dokunmatik kalem DK-700 modeli, akıllı telefon, tablet ve dokunmatik ekranlı cihazlarla uyumlu özel dokunmatik uca sahiptir. Bu sayede kullanıcılar hem yazı yazabilir hem de mobil cihazlarda rahatlıkla dokunmatik kullanım sağlayabilir.
+
+Şık ve ergonomik tasarımı sayesinde kalem hem rahat kullanım sağlar hem de estetik bir görünüm sunar. Metal ve plastik detayların bir arada kullanıldığı modern tasarımı ile kurumsal promosyon ürünleri arasında dikkat çeken bir modeldir.
+
+Promosyon kalem DK-700 modeli logo baskılı veya baskısız olarak sipariş verilebilir. Logo baskılı üretimlerde firmanızın logosu veya marka adı kalem üzerine uygulanarak etkili bir reklam ürünü elde edilir.
+
+Bu tür promosyon kalemler özellikle fuarlar, seminerler, eğitim organizasyonları, bayi toplantıları ve kurumsal etkinliklerde dağıtılabilecek en kullanışlı promosyon ürünlerinden biridir.
+
+Minimum sipariş miktarı baskı tercihine göre değişiklik gösterebilir. Renk seçenekleri ve stok durumu hakkında sipariş öncesinde bilgi alınması önerilir.
+
+Promosyon kalem fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Kurumsal firmalar için toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem kullanışlı hem de etkili bir promosyon ürünü arıyorsanız Promosyon Dokunmatik Kalem DK-700 modeli ideal bir tercih olacaktır. Logo baskılı promosyon kalem siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p38",
+  slug: "promosyon-naturel-koseli-kursun-kalem-kk-360",
+  title: "Promosyon Naturel Köşeli Kurşun Kalem KK-360 | Logo Baskılı Kurumsal Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-naturel-koseli-kursun-kalem-kk-360.jpg",
+  shortDesc:
+    "Promosyon naturel köşeli kurşun kalem KK-360, doğal ahşap gövdesi ve sade tasarımı ile kurumsal tanıtım için ideal bir promosyon kalem modelidir. Logo baskılı veya baskısız toplu sipariş seçenekleri ile kullanılabilir.",
+
+  longDesc: `
+Promosyon naturel köşeli kurşun kalem KK-360 modeli, doğal ahşap gövdesi ve sade tasarımı ile kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir. Doğal görünümü ve çevre dostu yapısı sayesinde firmaların marka tanıtımında tercih ettiği promosyon kalem seçeneklerinden biridir.
+
+Logo baskılı promosyon kalem ürünleri, markaların müşterileri ve iş ortakları üzerinde kalıcı bir görünürlük oluşturmasına yardımcı olur. Günlük hayatta sık kullanılan kalemler, markanızın sürekli görünür olmasını sağlayan etkili bir reklam ürünüdür.
+
+Promosyon kurşun kalem KK-360 modeli doğal ahşap gövdeye sahiptir. Köşeli tasarımı sayesinde ergonomik bir kullanım sunar ve yazı yazarken rahat bir tutuş sağlar. Minimal tasarımı ile hem klasik hem de modern bir görünüm sunar.
+
+Promosyon kalem KK-360 modeli üzerine firmanıza ait logo, marka adı veya kurumsal slogan baskısı uygulanabilir. Böylece kalem hem kullanışlı bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
+
+Bu tür promosyon kalemler özellikle eğitim kurumları, fuarlar, seminerler, etkinlikler, promosyon dağıtımları ve kurumsal tanıtım faaliyetlerinde sıklıkla tercih edilmektedir.
+
+Promosyon kurşun kalem siparişleri logo baskılı veya baskısız olarak verilebilir. Minimum sipariş miktarı baskı tercihine göre değişiklik gösterebilir.
+
+Renk seçenekleri ve stok durumu hakkında sipariş öncesinde bilgi alınması önerilir. Kurumsal toplu siparişlerde firmalara özel üretim ve baskı seçenekleri sunulmaktadır.
+
+Promosyon kalem fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem doğal görünümlü hem de kullanışlı bir promosyon ürünü arıyorsanız Promosyon Naturel Köşeli Kurşun Kalem KK-360 modeli iyi bir tercih olacaktır. Logo baskılı promosyon kalem siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p39",
+  slug: "promosyon-naturel-yuvarlak-kursun-kalem-kk-380",
+  title: "Promosyon Naturel Yuvarlak Kurşun Kalem KK-380 | Logo Baskılı Kurumsal Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-naturel-yuvarlak-kursun-kalem-kk-380.jpg",
+  shortDesc:
+    "Promosyon naturel yuvarlak kurşun kalem KK-380, doğal ahşap gövdesi ve sade tasarımı ile kurumsal tanıtım için ideal bir promosyon kalem modelidir. Logo baskılı veya baskısız toplu sipariş seçenekleri ile tercih edilmektedir.",
+
+  longDesc: `
+Promosyon naturel yuvarlak kurşun kalem KK-380 modeli, doğal ahşap gövdesi ve sade tasarımı ile kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir. Doğal görünümü ve çevre dostu yapısı sayesinde firmaların marka tanıtımında tercih ettiği promosyon kalem seçeneklerinden biridir.
+
+Logo baskılı promosyon kalem ürünleri, markaların müşterileri ve iş ortakları üzerinde kalıcı bir görünürlük oluşturmasına yardımcı olur. Günlük hayatta sık kullanılan kalemler, markanızın sürekli görünür olmasını sağlayan etkili bir reklam ürünüdür.
+
+Promosyon kurşun kalem KK-380 modeli yuvarlak gövde tasarımına sahiptir. Ergonomik yapısı sayesinde yazı yazarken rahat bir tutuş sağlar. Minimal tasarımı ile hem klasik hem de modern bir görünüm sunar.
+
+Promosyon kalem KK-380 modeli üzerine firmanıza ait logo, marka adı veya kurumsal slogan baskısı uygulanabilir. Böylece kalem hem kullanışlı bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
+
+Bu tür promosyon kalemler özellikle eğitim kurumları, fuarlar, seminerler, etkinlikler, promosyon dağıtımları ve kurumsal tanıtım faaliyetlerinde sıklıkla tercih edilmektedir.
+
+Promosyon kurşun kalem siparişleri logo baskılı veya baskısız olarak verilebilir. Minimum sipariş miktarı baskı tercihine göre değişiklik gösterebilir.
+
+Renk seçenekleri ve stok durumu hakkında sipariş öncesinde bilgi alınması önerilir. Kurumsal toplu siparişlerde firmalara özel üretim ve baskı seçenekleri sunulmaktadır.
+
+Promosyon kalem fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem doğal görünümlü hem de kullanışlı bir promosyon ürünü arıyorsanız Promosyon Naturel Yuvarlak Kurşun Kalem KK-380 modeli iyi bir tercih olacaktır. Logo baskılı promosyon kalem siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p40",
+  slug: "promosyon-naturel-koseli-silgili-kursun-kalem-kk-390",
+  title: "Promosyon Naturel Köşeli Silgili Kurşun Kalem KK-390 | Logo Baskılı Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-naturel-koseli-silgili-kursun-kalem-kk-390.jpg",
+  shortDesc:
+    "Promosyon naturel köşeli silgili kurşun kalem KK-390, doğal ahşap gövdesi ve üst kısmındaki silgi detayı ile kullanışlı bir promosyon kalem modelidir. Logo baskılı veya baskısız toplu sipariş seçenekleri ile kurumsal tanıtım için tercih edilmektedir.",
+
+  longDesc: `
+Promosyon naturel köşeli silgili kurşun kalem KK-390 modeli, doğal ahşap gövdesi ve pratik kullanım sağlayan silgili yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir. Doğal tasarımı ve ergonomik yapısı sayesinde hem estetik hem de kullanışlı bir promosyon ürünü sunar.
+
+Logo baskılı promosyon kalem ürünleri, firmaların marka bilinirliğini artırmak için en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edilen kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın yanında sürekli görünür olur.
+
+Promosyon kurşun kalem KK-390 modeli köşeli ahşap gövde tasarımına sahiptir. Bu yapı kalemin elde daha rahat tutulmasını sağlar ve yazı yazarken ergonomik bir kullanım sunar. Üst kısmında bulunan silgi sayesinde kullanıcılar yazım hatalarını kolayca düzeltebilir.
+
+Promosyon kalem KK-390 modeli üzerine firmanıza ait logo, marka adı veya kurumsal slogan baskısı uygulanabilir. Böylece kalem hem kullanışlı bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
+
+Bu tür promosyon kalemler özellikle okullar, eğitim kurumları, fuarlar, seminerler, kurumsal etkinlikler ve promosyon dağıtımlarında sıklıkla tercih edilmektedir.
+
+Promosyon kurşun kalem siparişleri logo baskılı veya baskısız olarak verilebilir. Minimum sipariş miktarı baskı tercihine göre değişiklik gösterebilir.
+
+Renk seçenekleri ve stok durumu hakkında sipariş öncesinde bilgi alınması önerilir. Kurumsal toplu siparişlerde firmalara özel üretim ve baskı seçenekleri sunulmaktadır.
+
+Promosyon kalem fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem doğal görünümlü hem de kullanışlı bir promosyon ürünü arıyorsanız Promosyon Naturel Köşeli Silgili Kurşun Kalem KK-390 modeli ideal bir tercih olacaktır. Logo baskılı promosyon kalem siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p41",
+  slug: "promosyon-yuvarlak-silgili-naturel-kursun-kalem-kk-400",
+  title: "Promosyon Yuvarlak Silgili Naturel Kurşun Kalem KK-400 | Logo Baskılı Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-yuvarlak-silgili-naturel-kursun-kalem-kk-400.jpg",
+  shortDesc:
+    "Promosyon yuvarlak silgili naturel kurşun kalem KK-400, doğal ahşap gövdesi ve üst kısmındaki silgi detayı ile kullanışlı bir promosyon kalem modelidir. Logo baskılı veya baskısız toplu sipariş seçenekleri ile kurumsal tanıtım için tercih edilmektedir.",
+
+  longDesc: `
+Promosyon yuvarlak silgili naturel kurşun kalem KK-400 modeli, doğal ahşap gövdesi ve pratik kullanım sağlayan silgili yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir. Sade tasarımı ve kullanışlı yapısı sayesinde hem eğitim kurumları hem de kurumsal firmalar için ideal bir promosyon ürünüdür.
+
+Logo baskılı promosyon kalem ürünleri, firmaların marka bilinirliğini artırmak için en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edilen kalemler sayesinde markanız müşterilerinizin, öğrencilerin ve iş ortaklarınızın yanında sürekli görünür olur.
+
+Promosyon kurşun kalem KK-400 modeli yuvarlak ahşap gövde tasarımına sahiptir. Bu yapı kalemin elde rahat tutulmasını sağlar ve yazı yazarken konforlu bir kullanım sunar. Üst kısmında bulunan silgi sayesinde kullanıcılar yazım hatalarını kolayca düzeltebilir.
+
+Promosyon kalem KK-400 modeli üzerine firmanıza ait logo, marka adı veya kurumsal slogan baskısı uygulanabilir. Böylece kalem hem kullanışlı bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
+
+Bu tür promosyon kalemler özellikle okullar, eğitim kurumları, fuarlar, seminerler, kurumsal etkinlikler ve promosyon dağıtımlarında sıklıkla tercih edilmektedir.
+
+Promosyon kurşun kalem siparişleri logo baskılı veya baskısız olarak verilebilir. Minimum sipariş miktarı baskı tercihine göre değişiklik gösterebilir.
+
+Renk seçenekleri ve stok durumu hakkında sipariş öncesinde bilgi alınması önerilir. Kurumsal toplu siparişlerde firmalara özel üretim ve baskı seçenekleri sunulmaktadır.
+
+Promosyon kalem fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem doğal görünümlü hem de kullanışlı bir promosyon ürünü arıyorsanız Promosyon Yuvarlak Silgili Naturel Kurşun Kalem KK-400 modeli ideal bir tercih olacaktır. Logo baskılı promosyon kalem siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p42",
+  slug: "promosyon-yuvarlak-naturel-kirmizi-uclu-kursun-kalem-kk-410",
+  title: "Promosyon Yuvarlak Naturel Kırmızı Uçlu Kurşun Kalem KK-410 | Logo Baskılı Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-yuvarlak-naturel-kirmizi-uclu-kursun-kalem-kk-410.jpg",
+  shortDesc:
+    "Promosyon yuvarlak naturel kırmızı uçlu kurşun kalem KK-410, doğal ahşap gövdesi ve kırmızı uç detayı ile dikkat çeken bir promosyon kalem modelidir. Logo baskılı veya baskısız toplu sipariş seçenekleri ile kurumsal tanıtım için tercih edilmektedir.",
+
+  longDesc: `
+Promosyon yuvarlak naturel kırmızı uçlu kurşun kalem KK-410 modeli, doğal ahşap gövdesi ve kırmızı uç detayı ile kurumsal promosyon ürünleri arasında farklı bir tasarıma sahip kalem modellerinden biridir. Minimal ve doğal görünümü sayesinde hem eğitim kurumları hem de kurumsal firmalar için tercih edilen promosyon kalem seçeneklerinden biridir.
+
+Logo baskılı promosyon kalem ürünleri, firmaların marka bilinirliğini artırmak için en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edilen kalemler sayesinde markanız müşterilerinizin, öğrencilerin ve iş ortaklarınızın yanında sürekli görünür olur.
+
+Promosyon kurşun kalem KK-410 modeli yuvarlak ahşap gövde tasarımına sahiptir. Ergonomik yapısı sayesinde elde rahat bir tutuş sağlar ve uzun süreli kullanımda konfor sunar. Kırmızı uç detayı sayesinde özellikle öğretmenler, ofis kullanımı ve eğitim kurumları için oldukça kullanışlıdır.
+
+Promosyon kalem KK-410 modeli üzerine firmanıza ait logo, marka adı veya kurumsal slogan baskısı uygulanabilir. Böylece kalem hem kullanışlı bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
+
+Bu tür promosyon kalemler özellikle okullar, eğitim kurumları, fuarlar, seminerler, kurumsal etkinlikler ve promosyon dağıtımlarında sıklıkla tercih edilmektedir.
+
+Promosyon kurşun kalem siparişleri logo baskılı veya baskısız olarak verilebilir. Minimum sipariş miktarı baskı tercihine göre değişiklik gösterebilir.
+
+Renk seçenekleri ve stok durumu hakkında sipariş öncesinde bilgi alınması önerilir. Kurumsal toplu siparişlerde firmalara özel üretim ve baskı seçenekleri sunulmaktadır.
+
+Promosyon kalem fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için hem doğal görünümlü hem de kullanışlı bir promosyon ürünü arıyorsanız Promosyon Yuvarlak Naturel Kırmızı Uçlu Kurşun Kalem KK-410 modeli iyi bir tercih olacaktır. Logo baskılı promosyon kalem siparişi vererek markanızı müşterilerinize profesyonel ve kalıcı şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p43",
+  slug: "promosyon-latali-yuvarlak-kursun-kalem-kk-440",
+  title: "Promosyon Latalı Yuvarlak Kurşun Kalem KK-440 | Logo Baskılı Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-latali-yuvarlak-kursun-kalem-kk-440.jpg",
+
+  shortDesc:
+    "Promosyon latalı yuvarlak kurşun kalem KK-440, sade tasarımı ve dayanıklı yapısı ile kurumsal promosyon kalem ürünleri arasında yer alır. Logo baskılı veya baskısız toplu sipariş seçenekleri ile tercih edilmektedir.",
+
+  longDesc: `
+Promosyon latalı yuvarlak kurşun kalem KK-440 modeli, sade ve şık tasarımı ile kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir. Dayanıklı yapısı ve ergonomik tasarımı sayesinde hem günlük kullanım hem de kurumsal dağıtımlar için uygun bir promosyon kalem seçeneği sunar.
+
+Promosyon kalem ürünleri, firmaların marka bilinirliğini artırmak için en çok tercih edilen reklam ürünleri arasında yer almaktadır. Günlük kullanımda sıkça kullanılan kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın yanında sürekli görünür olur.
+
+Promosyon kurşun kalem KK-440 modeli yuvarlak gövde tasarımına sahiptir ve rahat bir tutuş sunar. Hafif yapısı sayesinde uzun süreli kullanımda konfor sağlar. Eğitim kurumları, ofisler, fuarlar, seminerler ve tanıtım organizasyonlarında dağıtılabilecek ideal promosyon ürünlerinden biridir.
+
+Ürün üzerine firmanıza ait logo, marka adı veya kurumsal mesaj baskı olarak uygulanabilir. Böylece kalem hem kullanışlı bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
+
+Promosyon kalem siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim detayları değişiklik gösterebilir.
+
+Kurumsal promosyon ürünleri arasında ekonomik ve etkili bir reklam aracı olan promosyon kurşun kalem modelleri, özellikle toplu dağıtımlar için tercih edilmektedir.
+
+Promosyon kalem fiyatları sipariş adedi, baskı yöntemi ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat seçenekleri sunulmaktadır.
+
+Eğer firmanız için ekonomik ve kullanışlı bir promosyon ürünü arıyorsanız Promosyon Latalı Yuvarlak Kurşun Kalem KK-440 modeli ideal seçeneklerden biridir. Logo baskılı promosyon kalem siparişi vererek markanızı geniş kitlelere ulaştırabilirsiniz.
+`
+},
+{
+  id: "p44",
+  slug: "promosyon-yuvarlak-silgili-latali-kursun-kalem-kk-450",
+  title: "Promosyon Yuvarlak Silgili Latalı Kurşun Kalem KK-450 | Logo Baskılı Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-yuvarlak-silgili-latali-kursun-kalem-kk-450.jpg",
+
+  shortDesc:
+    "Promosyon yuvarlak silgili latalı kurşun kalem KK-450, silgili yapısı ve sade tasarımı ile kurumsal promosyon kalem ürünleri arasında tercih edilen modellerden biridir. Logo baskılı veya baskısız toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon yuvarlak silgili latalı kurşun kalem KK-450 modeli, sade ve kullanışlı tasarımı sayesinde kurumsal promosyon ürünleri arasında sıklıkla tercih edilen kalem modellerinden biridir. Üst kısmında bulunan silgi özelliği sayesinde pratik kullanım sunar ve özellikle eğitim kurumları, ofisler ve promosyon dağıtımları için uygun bir üründür.
+
+Promosyon kalem ürünleri firmaların marka bilinirliğini artırmak için en çok kullanılan reklam ürünleri arasında yer almaktadır. Günlük hayatta sürekli kullanılan kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın yanında uzun süre görünür olur.
+
+Promosyon kurşun kalem KK-450 modeli yuvarlak gövde yapısına sahiptir ve ergonomik tasarımı sayesinde rahat bir tutuş sağlar. Silgili yapısı sayesinde özellikle öğrenciler ve eğitim kurumları tarafından tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Kalem üzerine firmanıza ait logo, marka adı veya kurumsal slogan baskı olarak uygulanabilir. Bu sayede ürün hem kullanışlı bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
+
+Promosyon kalem siparişleri baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon kalem modelleri özellikle fuarlar, seminerler, eğitim kurumları, şirket etkinlikleri ve promosyon dağıtımları için tercih edilmektedir.
+
+Promosyon kalem fiyatları sipariş adedine, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için hem kullanışlı hem de ekonomik bir promosyon ürünü arıyorsanız Promosyon Yuvarlak Silgili Latalı Kurşun Kalem KK-450 modeli iyi bir tercih olacaktır. Logo baskılı promosyon kalem siparişi vererek markanızı geniş kitlelere ulaştırabilirsiniz.
+`
+},
+{
+  id: "p45",
+  slug: "promosyon-metal-kalem-mk-100",
+  title: "Promosyon Metal Kalem MK-100 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-100.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-100, şık tasarımı ve dayanıklı metal gövdesi ile kurumsal promosyon kalem ürünleri arasında öne çıkan modellerden biridir. Logo baskılı toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon metal kalem MK-100 modeli, modern ve şık tasarımı ile kurumsal promosyon ürünleri arasında en çok tercih edilen kalem modellerinden biridir. Metal gövdesi sayesinde hem dayanıklı hem de prestijli bir görünüm sunar.
+
+Promosyon kalem ürünleri firmaların marka bilinirliğini artırmak için en etkili reklam araçlarından biridir. Günlük kullanımda sık tercih edilen kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın yanında sürekli görünür olur.
+
+Promosyon metal kalem MK-100 modeli özellikle kurumsal firmalar, bankalar, fuarlar, seminerler ve şirket etkinlikleri için tercih edilen promosyon ürünleri arasında yer almaktadır. Metal gövde yapısı sayesinde standart plastik kalemlere göre daha prestijli bir promosyon ürünü sunar.
+
+Ürün üzerine firmanıza ait logo, marka adı veya kurumsal mesaj lazer baskı yöntemi ile uygulanabilir. Böylece kalem hem kullanışlı bir yazı aracı hem de uzun süreli bir reklam ürünü haline gelir.
+
+Metal kalem modeli farklı renk seçenekleri ile üretilebilmektedir. Renk seçeneklerinin stok durumu dönemsel olarak değişebileceği için sipariş öncesinde stok bilgisi alınması önerilir.
+
+TEKNİK ÖZELLİKLER
+Ürün Ölçüsü: 140 x Ø10 mm  
+Refil: Mavi Refil  
+Koli / Kutu Adedi: 500 / 50  
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 55 x 5,5 mm
+
+Promosyon kalem siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon kalem fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için şık ve prestijli bir promosyon ürünü arıyorsanız Promosyon Metal Kalem MK-100 modeli ideal bir tercihtir. Logo baskılı promosyon kalem siparişi vererek markanızı profesyonel bir şekilde müşterilerinize ulaştırabilirsiniz.
+`
+},
+{
+  id: "p46",
+  slug: "promosyon-metal-kalem-mk-110",
+  title: "Promosyon Metal Kalem MK-110 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-110.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-110, rubber gövde yapısı ve modern tasarımı ile dikkat çeken kurumsal promosyon kalem modellerinden biridir. Logo baskılı veya baskısız toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon metal kalem MK-110 modeli, rubber (kauçuk) kaplamalı gövde yapısı sayesinde hem şık bir görünüm hem de rahat bir kullanım sunan promosyon kalem modellerinden biridir. Modern tasarımı ve dayanıklı metal gövdesi sayesinde kurumsal promosyon ürünleri arasında oldukça tercih edilmektedir.
+
+Promosyon kalem ürünleri firmaların marka bilinirliğini artırmak için en çok kullanılan reklam araçlarından biridir. Günlük kullanımda sürekli kullanılan kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın yanında uzun süre görünür olur.
+
+Promosyon metal kalem MK-110 modeli özellikle fuarlar, seminerler, şirket etkinlikleri, müşteri ziyaretleri ve kurumsal promosyon dağıtımları için tercih edilen bir üründür. Rubber gövde kaplaması sayesinde elde kaymaz ve konforlu bir yazım deneyimi sunar.
+
+Kalem üzerine firmanıza ait logo, marka adı veya kurumsal mesaj lazer baskı yöntemi ile uygulanabilir. Böylece ürün hem kullanışlı bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
+
+Promosyon metal kalem MK-110 modeli farklı renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin stok durumu dönemsel olarak değişebileceği için sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+Promosyon kalem siparişleri baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon kalem fiyatları sipariş adedine, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için şık, dayanıklı ve prestijli bir promosyon ürünü arıyorsanız Promosyon Metal Kalem MK-110 modeli ideal bir tercihtir. Logo baskılı promosyon kalem siparişi vererek markanızı profesyonel bir şekilde müşterilerinize ulaştırabilirsiniz.
+`
+},
+{
+  id: "p47",
+  slug: "promosyon-metal-kalem-07-uc-jel-kalem-mk-120",
+  title: "Promosyon Metal Kalem (0.7 Uç Jel Kalem) MK-120 | Logo Baskılı İmza Kalemi",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-120.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-120, 0.7 uç jel refil yapısı ve modern metal gövdesi ile kurumsal promosyon kalem ürünleri arasında öne çıkan modellerden biridir. Logo baskılı toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon metal kalem MK-120 modeli, 0.7 uç jel refil yapısı sayesinde akıcı yazım sağlayan şık bir promosyon kalem modelidir. Metal gövde tasarımı sayesinde hem dayanıklı hem de prestijli bir görünüm sunar. Bu özellikleri ile özellikle kurumsal firmalar tarafından tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Promosyon kalem ürünleri firmaların marka bilinirliğini artırmak için en çok tercih edilen reklam araçlarından biridir. Günlük kullanımda sıkça kullanılan kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın yanında uzun süre görünür olur.
+
+Promosyon metal kalem MK-120 modeli aynı zamanda imza kalemi olarak da tercih edilmektedir. Kurumsal toplantılar, müşteri görüşmeleri, seminerler ve fuar organizasyonlarında dağıtılabilecek prestijli promosyon ürünlerinden biridir.
+
+Ürün üzerine firmanıza ait logo, marka adı veya kurumsal mesaj lazer baskı yöntemi ile uygulanabilir. Böylece kalem hem kullanışlı bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
+
+Promosyon metal kalem MK-120 modeli farklı renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin stok durumu dönemsel olarak değişebileceği için sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 140 x Ø10 mm  
+Refil: Mavi Jel Refil (0.7 Uç)  
+Koli / Kutu Adedi: 500 / 50  
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 55 x 5,5 mm  
+Kullanım: İmza Kalemi
+
+Promosyon kalem siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon kalem fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için hem şık hem de prestijli bir promosyon ürünü arıyorsanız Promosyon Metal Kalem MK-120 modeli ideal bir tercihtir. Logo baskılı promosyon kalem siparişi vererek markanızı müşterilerinize profesyonel bir şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p48",
+  slug: "promosyon-metal-kalem-mk-130",
+  title: "Promosyon Metal Kalem MK-130 | Logo Baskılı Rubber Gövdeli Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-130.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-130, rubber gövde kaplaması ve modern tasarımı ile kurumsal promosyon kalem modelleri arasında öne çıkan ürünlerden biridir. Logo baskılı veya baskısız toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon metal kalem MK-130 modeli rubber (kauçuk) kaplamalı gövde tasarımı sayesinde hem şık bir görünüm hem de konforlu bir kullanım sunan promosyon kalem modellerinden biridir. Metal gövdesi ve modern tasarımı ile kurumsal promosyon ürünleri arasında sıklıkla tercih edilmektedir.
+
+Promosyon kalem ürünleri firmaların marka bilinirliğini artırmak için en etkili reklam araçlarından biridir. Günlük kullanımda sıkça tercih edilen kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın yanında sürekli görünür olur.
+
+Promosyon metal kalem MK-130 modeli özellikle kurumsal firmalar, fuarlar, seminerler, müşteri ziyaretleri ve tanıtım organizasyonları için ideal bir promosyon ürünüdür. Rubber gövde kaplaması sayesinde elde kayma yapmaz ve uzun süreli kullanımda konfor sağlar.
+
+Ürün üzerine firmanıza ait logo, marka adı veya kurumsal slogan lazer baskı yöntemi ile uygulanabilir. Böylece kalem hem kullanışlı bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
+
+Promosyon metal kalem MK-130 modeli farklı renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin stok durumu dönemsel olarak değişebileceği için sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 140 x Ø10 mm  
+Refil: Mavi Refil  
+Koli / Kutu Adedi: 500 / 50  
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 40 x 5,5 mm  
+Gövde Tipi: Rubber Gövde
+
+Promosyon kalem siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon kalem fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için şık, dayanıklı ve modern bir promosyon ürünü arıyorsanız Promosyon Metal Kalem MK-130 modeli ideal bir tercihtir. Logo baskılı promosyon kalem siparişi vererek markanızı müşterilerinize profesyonel şekilde ulaştırabilirsiniz.
+`
+},
+{
+  id: "p49",
+  slug: "promosyon-metal-kalemler-mk-140",
+  title: "Promosyon Metal Kalem MK-140 | Logo Baskılı Rubber Gövdeli Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalemler-mk-140.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-140, rubber gövde tasarımı ve modern görünümü ile kurumsal promosyon kalem modelleri arasında yer alan şık bir üründür. Logo baskılı veya baskısız toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon metal kalem MK-140 modeli rubber gövde kaplaması sayesinde hem modern hem de ergonomik bir kullanım sunan promosyon kalem modellerinden biridir. Metal gövde yapısı sayesinde dayanıklı ve prestijli bir görünüm sağlar.
+
+Promosyon kalem ürünleri firmaların marka bilinirliğini artırmak için en çok tercih edilen reklam araçlarından biridir. Günlük kullanımda sürekli kullanılan kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın yanında uzun süre görünür olur.
+
+Promosyon metal kalem MK-140 modeli özellikle kurumsal firmalar, fuarlar, seminerler, eğitim kurumları ve müşteri ziyaretleri için tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Rubber gövde kaplaması sayesinde elde kayma yapmaz ve konforlu bir kullanım sağlar. Ürün üzerine firmanıza ait logo, marka adı veya kurumsal slogan lazer baskı yöntemi ile uygulanabilir.
+
+Promosyon metal kalem MK-140 modeli farklı renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin stok durumu dönemsel olarak değişiklik gösterebileceği için sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 140 x Ø10 mm  
+Refil: Mavi Refil  
+Koli / Kutu Adedi: 1000 / 50  
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 55 x 5,5 mm  
+Gövde Tipi: Rubber Gövde
+
+Promosyon kalem siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon kalem fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için şık, dayanıklı ve modern bir promosyon ürünü arıyorsanız Promosyon Metal Kalem MK-140 modeli ideal bir tercihtir. Logo baskılı promosyon kalem siparişi vererek markanızı profesyonel şekilde müşterilerinize ulaştırabilirsiniz.
+`
+},
+{
+  id: "p50",
+  slug: "promosyon-metal-kalem-mk-150",
+  title: "Promosyon Metal Kalem MK-150 | Logo Baskılı Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-150.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-150, modern tasarımı ve farklı renk seçenekleri ile kurumsal promosyon kalem modelleri arasında tercih edilen ürünlerden biridir. Logo baskılı toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon metal kalem MK-150 modeli modern tasarımı ve farklı renk seçenekleri ile dikkat çeken promosyon kalem modellerinden biridir. Metal gövde yapısı sayesinde hem dayanıklı hem de şık bir görünüm sunar.
+
+Promosyon kalem ürünleri firmaların marka bilinirliğini artırmak için en çok tercih edilen reklam ürünleri arasında yer almaktadır. Günlük kullanımda sürekli kullanılan kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın yanında uzun süre görünür olur.
+
+Promosyon metal kalem MK-150 modeli özellikle fuarlar, seminerler, müşteri ziyaretleri, kurumsal organizasyonlar ve tanıtım etkinliklerinde dağıtılabilecek ideal promosyon ürünlerinden biridir.
+
+Kalem üzerine firmanıza ait logo, marka adı veya kurumsal slogan lazer baskı yöntemi ile uygulanabilir. Böylece kalem hem kullanışlı bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
+
+Bu model mavi renk mürekkep ile kullanılmaktadır ve günlük kullanım için akıcı bir yazım deneyimi sunar.
+
+Promosyon metal kalem MK-150 modeli farklı renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin stok durumu dönemsel olarak değişiklik gösterebileceği için sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+Promosyon kalem siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon kalem fiyatları sipariş miktarına, baskı yöntemine ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için modern ve kullanışlı bir promosyon ürünü arıyorsanız Promosyon Metal Kalem MK-150 modeli iyi bir tercih olacaktır. Logo baskılı promosyon kalem siparişi vererek markanızı müşterilerinize profesyonel şekilde ulaştırabilirsiniz.
+`
+},
 ];
 
 export default products;
