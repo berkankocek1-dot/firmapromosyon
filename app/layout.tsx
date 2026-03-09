@@ -29,7 +29,6 @@ function JsonLd({ data }: { data: Record<string, any> }) {
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
 
-  // ✅ Title tekrarını bitiren ayar:
   title: {
     default: "FirmaPromosyon | Kurumsal DTF Baskı & Promosyon",
     template: "%s | FirmaPromosyon",
@@ -87,7 +86,6 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased flex min-h-screen flex-col`}
       >
-        {/* Global JSON-LD */}
         <JsonLd
           data={{
             "@context": "https://schema.org",
@@ -113,7 +111,7 @@ export default function RootLayout({
 
         <footer className="mt-20 bg-neutral-950 text-white">
           <div className="mx-auto max-w-6xl px-4 py-10">
-            <div className="grid gap-6 md:grid-cols-3">
+            <div className="grid gap-6 md:grid-cols-4">
               <div>
                 <h3 className="mb-3 text-lg font-semibold">FirmaPromosyon</h3>
                 <p className="text-sm text-white/70">
@@ -143,6 +141,27 @@ export default function RootLayout({
                   <li>
                     <a href="/cerez-politikasi" className="hover:text-white">
                       Çerez Politikası
+                    </a>
+                  </li>
+                </ul>
+              </div>
+
+              <div>
+                <h3 className="mb-3 text-lg font-semibold">Yasal</h3>
+                <ul className="space-y-2 text-sm text-white/80">
+                  <li>
+                    <a href="/mesafeli-satis-sozlesmesi" className="hover:text-white">
+                      Mesafeli Satış Sözleşmesi
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/iptal-ve-iade-kosullari" className="hover:text-white">
+                      İptal ve İade Koşulları
+                    </a>
+                  </li>
+                  <li>
+                    <a href="/teslimat-kosullari" className="hover:text-white">
+                      Teslimat Koşulları
                     </a>
                   </li>
                 </ul>
