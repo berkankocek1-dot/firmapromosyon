@@ -2406,6 +2406,444 @@ Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi n
 Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fuarlar ve müşteri ziyaretleri için oldukça ideal promosyon ürünleridir. Logo baskılı promosyon ajanda siparişi vererek markanızı müşterilerinizin masasında yıl boyunca görünür hale getirebilirsiniz.
 `
 },
+{
+  id: "p71",
+  slug: "promosyon-duvar-saati-35cm-metal-kasa-ds-110",
+  title: "Promosyon Duvar Saati 35 cm Metal Kasa DS-110 | Logo Baskılı Duvar Saati",
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-ds-110.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-110 modeli 35 cm metal kasa yapısı, mineral cam koruması ve akar saniye mekanizması ile kurumsal promosyon duvar saatleri arasında tercih edilen modellerden biridir.",
+
+  longDesc: `
+Promosyon duvar saati DS-110 modeli 35 cm çapı ve metal kasa tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan duvar saati modellerinden biridir. Geniş kadranı sayesinde ofisler, işyerleri, fabrikalar ve mağazalar için oldukça kullanışlıdır.
+
+Promosyon duvar saatleri firmalar için uzun süre kullanılan en etkili reklam ürünlerinden biridir. Ofis duvarlarında veya çalışma alanlarında sürekli görünür olması sayesinde markanızın uzun süre akılda kalmasını sağlar.
+
+Promosyon duvar saati DS-110 modeli üzerine firmanıza ait logo, marka adı veya reklam tasarımı uygulanabilir. Böylece ürün hem dekoratif hem de etkili bir reklam aracına dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Ürün Tipi: Promosyon Duvar Saati  
+Çap: 35 cm  
+Kasa: Alüminyum Metal Kasa  
+Cam: Mineral Cam  
+Kadran: Bristol Kadran  
+Saniye: Akar Saniye Mekanizması  
+
+Promosyon duvar saatleri ofisler, mağazalar, fabrikalar ve kurumsal alanlar için oldukça ideal promosyon ürünleri arasında yer almaktadır.
+
+Ürün renk ve kadran seçeneklerinin stok durumu dönemsel olarak değişiklik gösterebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon duvar saati siparişleri firmalara özel üretim olarak hazırlanabilir ve toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p72",
+  slug: "promosyon-duvar-saati-37cm-aluminyum-kasa-ds-115",
+  title: "Promosyon Duvar Saati 37 cm Alüminyum Kasa DS-115 | Logo Baskılı Duvar Saati",
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-ds-115.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-115 modeli 37 cm çapı, mineral cam koruması ve akar saniyeli mekanizması ile kurumsal promosyon duvar saatleri arasında tercih edilen modellerden biridir.",
+
+  longDesc: `
+Promosyon duvar saati DS-115 modeli 37 cm çapı ve modern tasarımı ile ofisler, işyerleri ve kurumsal alanlar için ideal promosyon ürünlerinden biridir. Geniş kadranı sayesinde uzaktan rahat okunabilir ve dekoratif bir görünüm sunar.
+
+Promosyon duvar saatleri firmalar için uzun süre kullanılan en etkili reklam ürünlerinden biridir. Ofis duvarlarında veya çalışma alanlarında sürekli görünür olması sayesinde markanızın uzun süre akılda kalmasına yardımcı olur.
+
+Promosyon duvar saati DS-115 modeli üzerine firmanıza ait logo, marka adı veya reklam tasarımı uygulanabilir. Böylece ürün hem dekoratif hem de etkili bir reklam aracına dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Kasa Çapı: Ø 370 mm  
+Kadran Çapı: Ø 308 mm  
+Mekanizma: Akar Saniyeli Mekanizma  
+Cam: Mineral Cam  
+Kadran: Bristol Kadran  
+Kasa: ABS Kasa  
+Ambalaj: Shrink İç Ambalaj + Mikro Kutu  
+
+Promosyon duvar saatleri özellikle ofisler, fabrikalar, mağazalar ve kurumsal alanlarda en çok tercih edilen promosyon ürünlerinden biridir.
+
+Ürün renk ve kadran seçeneklerinin stok durumu dönemsel olarak değişiklik gösterebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon duvar saati siparişleri firmalara özel üretim olarak hazırlanabilir ve toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p73",
+  slug: "promosyon-duvar-saati-37cm-metal-kasa-ds-120",
+  title: "Promosyon Duvar Saati 37 cm Metal Kasa DS-120 | Logo Baskılı Kurumsal Duvar Saati",
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-ds-120.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-120 modeli 37 cm metal kasa, mineral cam ve akar saniyeli mekanizması ile ofis ve kurumsal alanlar için ideal promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon duvar saati DS-120 modeli şık metal kasası ve geniş kadranı ile kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir. 37 cm çapındaki büyük yapısı sayesinde ofislerde, iş yerlerinde ve kurumsal alanlarda rahatlıkla kullanılabilir.
+
+Promosyon duvar saatleri firmaların marka görünürlüğünü artıran uzun ömürlü reklam ürünlerinden biridir. Ofis duvarlarında sürekli görünür olması sayesinde firmanızın logosu uzun süre müşterilerinizin göz önünde olur.
+
+Bu model üzerine firmanıza ait logo, marka veya reklam baskısı uygulanabilir. Böylece ürün hem dekoratif hem de etkili bir promosyon ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER
+
+Kasa Çapı: Ø 370 mm  
+Kadran Çapı: Ø 308 mm  
+Mekanizma: Akar Saniyeli Mekanizma  
+Cam: Mineral Cam  
+Kadran: Bristol Kadran  
+Kasa: Akrilik Boyalı ABS Kasa  
+Ambalaj: Shrink İç Ambalaj + Mikro Kutu  
+
+Promosyon duvar saatleri özellikle ofisler, fabrikalar, mağazalar, okullar ve kurumsal işletmeler tarafından sıklıkla tercih edilen reklam ürünleri arasındadır.
+
+Ürün renk ve stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon duvar saati siparişleri için toplu üretim yapılmakta olup firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p74",
+  slug: "promosyon-duvar-saati-38cm-metal-kasa-ds-130",
+  title: "Promosyon Duvar Saati 38 cm Metal Kasa DS-130 | Pirinç Kaplama Logo Baskılı Duvar Saati",
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-ds-130.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-130 modeli 38 cm pirinç kaplama metal kasa, mineral cam ve akar saniyeli mekanizması ile şık tasarıma sahip kurumsal promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon duvar saati DS-130 modeli pirinç kaplama kasası ve yaldız kabartmalı kadranı ile klasik ve şık tasarıma sahip kurumsal promosyon ürünlerinden biridir. 38 cm çapındaki geniş yapısı sayesinde ofislerde, toplantı salonlarında ve kurumsal alanlarda rahatlıkla kullanılabilir.
+
+Promosyon duvar saatleri uzun süre kullanılan reklam ürünleri arasında yer alır. Ofislerde ve iş yerlerinde sürekli görünür olması sayesinde markanızın bilinirliğini artırır ve etkili bir tanıtım sağlar.
+
+Bu model üzerine firmanıza ait logo, marka veya reklam baskısı uygulanabilir. Böylece ürün hem dekoratif hem de güçlü bir reklam aracına dönüşür.
+
+TEKNİK ÖZELLİKLER
+
+Kasa Çapı: Ø 380 mm  
+Kadran Çapı: Ø 288 mm  
+Kasa: Pirinç Kaplama ABS Kasa  
+Kadran: Yaldız Kabartma Kadran  
+Cam: Mineral Cam  
+Mekanizma: Akar Saniyeli Mekanizma  
+Ambalaj: Shrink İç Ambalaj + Mikro Kutu  
+
+Promosyon duvar saatleri özellikle ofisler, mağazalar, fabrikalar ve kurumsal işletmeler tarafından en çok tercih edilen promosyon ürünlerinden biridir.
+
+Ürün stok ve model seçenekleri dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon duvar saati siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p75",
+  slug: "promosyon-duvar-saati-35cm-plastik-kasa-ds-135",
+  title: "Promosyon Duvar Saati 35 cm Plastik Kasa DS-135 | Logo Baskılı Kurumsal Duvar Saati",
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-ds-135.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-135 modeli 35 cm plastik kasa, mineral cam ve akar saniyeli mekanizması ile ofis ve kurumsal kullanım için ideal promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon duvar saati DS-135 modeli modern tasarımı ve renk seçenekleri ile kurumsal promosyon ürünleri arasında sık tercih edilen modellerden biridir. 35 cm çapındaki geniş yapısı sayesinde ofislerde, mağazalarda ve iş yerlerinde rahatlıkla kullanılabilir.
+
+Promosyon duvar saatleri firmaların marka bilinirliğini artıran en etkili reklam ürünlerinden biridir. Ofis duvarlarında uzun süre kullanıldığı için firmanızın logosu sürekli görünür olur ve marka hatırlanabilirliğini artırır.
+
+Bu model üzerine firmanıza ait logo, marka veya reklam baskısı uygulanabilir. Böylece ürün hem dekoratif hem de etkili bir promosyon ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER
+
+Kasa Çapı: Ø 350 mm  
+Kadran Çapı: Ø 308 mm  
+Mekanizma: Akar Saniyeli Mekanizma  
+Cam: Mineral Cam  
+Kadran: Bristol Kadran  
+Kasa: Akrilik Boyalı ABS Kasa  
+Ambalaj: Shrink İç Ambalaj + Mikro Kutu  
+
+Promosyon duvar saatleri özellikle ofisler, fabrikalar, mağazalar ve kurumsal işletmeler tarafından en çok tercih edilen promosyon ürünlerinden biridir.
+
+Ürün renk seçeneklerinin stok durumu dönemsel olarak değişiklik gösterebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon duvar saati siparişleri toplu üretim olarak hazırlanmakta olup firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p76",
+  slug: "promosyon-duvar-saati-38cm-krom-kasa-ds-136",
+  title: "Promosyon Duvar Saati 38 cm Krom Kasa DS-136 | Logo Baskılı Kurumsal Duvar Saati",
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-ds-136.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-136 modeli 38 cm krom kasa, mineral cam ve akar saniyeli mekanizması ile ofis ve kurumsal kullanım için ideal promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon duvar saati DS-136 modeli krom kaplama kasası ve modern tasarımı ile kurumsal promosyon ürünleri arasında dikkat çeken modellerden biridir. 38 cm çapındaki geniş yapısı sayesinde ofislerde, iş yerlerinde ve kurumsal alanlarda rahatlıkla kullanılabilir.
+
+Promosyon duvar saatleri uzun süre kullanılan ve markanızın görünürlüğünü artıran en etkili reklam ürünlerinden biridir. Ofis duvarlarında sürekli görünür olması sayesinde firmanızın logosu müşterilerinizin ve çalışanların gözünün önünde olur.
+
+Bu model üzerine firmanıza ait logo, marka veya reklam baskısı uygulanabilir. Böylece ürün hem dekoratif hem de güçlü bir tanıtım ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER
+
+Kasa Çapı: Ø 380 mm  
+Kadran Çapı: Ø 288 mm  
+Kasa: Krom Kaplama ABS Kasa  
+Kadran: Bristol Kadran  
+Cam: Mineral Cam  
+Mekanizma: Akar Saniyeli Mekanizma  
+Ambalaj: Shrink İç Ambalaj + Mikro Kutu  
+
+Promosyon duvar saatleri özellikle ofisler, mağazalar, fabrikalar ve kurumsal işletmeler tarafından sıklıkla tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Ürün stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon duvar saati siparişleri toplu üretim olarak hazırlanmakta olup firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p77",
+  slug: "promosyon-duvar-saati-25cm-metal-kasa-ds-140",
+  title: "Promosyon Duvar Saati 25 cm Metal Kasa DS-140 | Logo Baskılı Kurumsal Duvar Saati",
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-ds-140.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-140 modeli 25 cm metal kasa, mineral cam ve akar saniyeli mekanizması ile ofis ve kurumsal kullanım için ideal promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon duvar saati DS-140 modeli kompakt boyutu ve şık metal kasası ile kurumsal promosyon ürünleri arasında tercih edilen modellerden biridir. 25 cm çapındaki yapısı sayesinde küçük ofislerde, mağazalarda ve çalışma alanlarında rahatlıkla kullanılabilir.
+
+Promosyon duvar saatleri firmalar için uzun süre kullanılan ve marka görünürlüğünü artıran etkili reklam ürünlerinden biridir. Ofislerde veya çalışma alanlarında sürekli görünür olması sayesinde firmanızın logosu uzun süre müşterilerinizin ve çalışanların dikkatini çeker.
+
+Bu model üzerine firmanıza ait logo, marka veya reklam baskısı uygulanabilir. Böylece ürün hem dekoratif hem de güçlü bir promosyon ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER
+
+Kasa: Metal Kasa  
+Cam: Mineral Cam  
+Mekanizma: Akar Saniyeli Mekanizma  
+Kadran: Bristol Kadran  
+
+Promosyon duvar saatleri özellikle ofisler, mağazalar, fabrikalar ve kurumsal işletmeler tarafından sıklıkla tercih edilen promosyon ürünlerinden biridir.
+
+Ürün stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon duvar saati siparişleri toplu üretim olarak hazırlanmakta olup firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p78",
+  slug: "promosyon-duvar-saati-35cm-plastik-kasa-ds-150",
+  title: "Promosyon Duvar Saati 35 cm Plastik Kasa DS-150 | Logo Baskılı Kurumsal Duvar Saati",
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-ds-150.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-150 modeli 35 cm plastik kasa, mineral cam ve akar saniyeli mekanizması ile ofis ve kurumsal alanlar için ideal promosyon duvar saati modellerinden biridir.",
+
+  longDesc: `
+Promosyon duvar saati DS-150 modeli modern tasarımı ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen modellerden biridir. 35 cm çapındaki geniş yapısı sayesinde ofislerde, mağazalarda ve kurumsal çalışma alanlarında rahatlıkla kullanılabilir.
+
+Promosyon duvar saatleri firmaların marka görünürlüğünü artıran uzun ömürlü reklam ürünlerinden biridir. Ofis duvarlarında sürekli görünür olması sayesinde firmanızın logosu müşterilerinizin ve çalışanların dikkatini çeker.
+
+Bu model üzerine firmanıza ait logo, marka veya reklam baskısı uygulanabilir. Böylece ürün hem dekoratif hem de güçlü bir reklam ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER
+
+Kasa Çapı: Ø 350 mm  
+Kadran Çapı: Ø 308 mm  
+Mekanizma: Akar Saniyeli Mekanizma  
+Cam: Mineral Cam  
+Kadran: Alüminyum Kabartma Kadran  
+Kasa: Akrilik Boyalı ABS Kasa  
+Ambalaj: Shrink İç Ambalaj + Mikro Kutu  
+
+Promosyon duvar saatleri özellikle ofisler, mağazalar, fabrikalar, okullar ve kurumsal işletmeler tarafından en çok tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Ürün renk ve model stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon duvar saati siparişleri toplu üretim olarak hazırlanmakta olup firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p79",
+  slug: "promosyon-duvar-saati-35cm-plastik-kasa-ds-160",
+  title: "Promosyon Duvar Saati 35 cm Plastik Kasa DS-160 | Logo Baskılı Kurumsal Duvar Saati",
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-ds-160.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-160 modeli 35 cm plastik kasa, mineral cam ve akar saniyeli mekanizması ile kurumsal kullanım için ideal promosyon duvar saati modellerinden biridir.",
+
+  longDesc: `
+Promosyon duvar saati DS-160 modeli sade ve modern tasarımı ile kurumsal promosyon ürünleri arasında sık tercih edilen modellerden biridir. 35 cm çapındaki yapısı sayesinde ofisler, mağazalar ve kurumsal çalışma alanlarında rahatlıkla kullanılabilir.
+
+Promosyon duvar saatleri firmalar için uzun süre kullanılan ve marka görünürlüğünü artıran etkili reklam ürünlerinden biridir. Ofis duvarlarında sürekli görünür olması sayesinde firmanızın logosu müşterilerinizin ve çalışanların dikkatini çeker.
+
+Bu model üzerine firmanıza ait logo, marka veya reklam baskısı uygulanabilir. Böylece ürün hem dekoratif hem de güçlü bir tanıtım ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER
+
+Kasa: Plastik Kasa  
+Cam: Mineral Cam  
+Mekanizma: Akar Saniyeli Mekanizma  
+Kadran: Bristol Kadran  
+
+Promosyon duvar saatleri özellikle ofisler, mağazalar, fabrikalar, okullar ve kurumsal işletmeler tarafından sıklıkla tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Ürün renk ve stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon duvar saati siparişleri toplu üretim olarak hazırlanmakta olup firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p80",
+  slug: "promosyon-powerbank-10000mah-pb-111",
+  title: "Promosyon Powerbank 10.000 mAh PB-111 | Logo Baskılı Kurumsal Powerbank",
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-pb-111.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-111 modeli 10.000 mAh kapasitesi ile telefon ve mobil cihazlar için güçlü bir taşınabilir şarj çözümü sunar. Logo baskılı kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir.",
+
+  longDesc: `
+Promosyon powerbank PB-111 modeli 10.000 mAh yüksek kapasitesi ile mobil cihazlar için güçlü ve pratik bir taşınabilir şarj çözümü sunar. Günlük kullanımda telefon, tablet ve diğer elektronik cihazların hızlı şekilde şarj edilmesini sağlar.
+
+Promosyon powerbank ürünleri özellikle teknoloji promosyon ürünleri arasında en çok tercih edilen modellerden biridir. Firmalar için etkili bir reklam ürünü olup, uzun süre kullanılan bir promosyon ürünüdür.
+
+Ürün üzerine firmanıza ait logo, marka veya reklam baskısı uygulanabilir. Böylece powerbank ürünleri hem kullanışlı hem de güçlü bir tanıtım aracı haline gelir.
+
+Promosyon powerbank modelleri fuarlar, kurumsal etkinlikler, müşteri hediyeleri ve kampanyalar için en çok tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Kapasite: 10.000 mAh  
+Taşınabilir Şarj Cihazı  
+Kurumsal Logo Baskı Uygulanabilir  
+Dayanıklı ve Şık Tasarım  
+
+Ürün renk ve stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p81",
+  slug: "promosyon-powerbank-10000mah-22-5w-hizli-sarj-pb-112",
+  title: "Promosyon Powerbank 10.000 mAh 22.5W Hızlı Şarj PB-112 | Logo Baskılı Powerbank",
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-pb-112.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-112 modeli 10.000 mAh kapasitesi ve 22.5W hızlı şarj özelliği ile mobil cihazlar için güçlü bir taşınabilir şarj çözümü sunar. Kurumsal promosyon ürünleri arasında en çok tercih edilen teknolojik hediyelerden biridir.",
+
+  longDesc: `
+Promosyon powerbank PB-112 modeli 10.000 mAh kapasitesi ve 22.5W hızlı şarj desteği ile mobil cihazlar için güçlü ve pratik bir taşınabilir şarj çözümü sunar. Günlük kullanımda telefon, tablet ve diğer elektronik cihazların hızlı şekilde şarj edilmesini sağlar.
+
+Promosyon powerbank ürünleri teknoloji promosyonları arasında en çok tercih edilen kurumsal reklam ürünlerinden biridir. Uzun süre kullanılan bir ürün olması sayesinde firmanızın marka görünürlüğünü artırır.
+
+Bu model üzerine firmanıza ait logo, marka veya reklam baskısı uygulanabilir. Böylece ürün hem kullanışlı hem de güçlü bir tanıtım ürünü haline gelir.
+
+Promosyon powerbank ürünleri özellikle fuarlar, kurumsal etkinlikler, müşteri hediyeleri ve promosyon kampanyalarında en çok tercih edilen ürünler arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Kapasite: 10.000 mAh  
+Hızlı Şarj: 22.5W Fast Charge  
+Taşınabilir Şarj Cihazı  
+Logo Baskı Uygulanabilir  
+Dayanıklı ve Şık Tasarım  
+
+Ürün renk ve stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p82",
+  slug: "promosyon-powerbank-10000mah-wireless-pb-113",
+  title: "Promosyon Powerbank 10.000 mAh Wireless PB-113 | Logo Baskılı Kablosuz Powerbank",
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-pb-113.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-113 modeli 10.000 mAh kapasitesi, kablosuz şarj özelliği ve LCD ekran göstergesi ile kurumsal promosyon ürünleri arasında en çok tercih edilen teknolojik hediyelerden biridir.",
+
+  longDesc: `
+Promosyon powerbank PB-113 modeli 10.000 mAh kapasitesi ve kablosuz şarj (wireless) özelliği ile mobil cihazlar için güçlü bir taşınabilir şarj çözümü sunar. Günlük kullanımda telefon ve diğer elektronik cihazların hızlı ve pratik şekilde şarj edilmesini sağlar.
+
+Üzerinde bulunan 3. nesil LCD ekran göstergesi sayesinde powerbank'in kalan batarya seviyesi kolayca takip edilebilir. Kablosuz şarj özelliği sayesinde uyumlu cihazlar kablo kullanmadan doğrudan şarj edilebilir.
+
+Promosyon powerbank ürünleri teknoloji promosyonları arasında en çok tercih edilen kurumsal reklam ürünlerinden biridir. Uzun süre kullanılan bir ürün olması sayesinde firmanızın marka görünürlüğünü artırır.
+
+Ürün üzerine firmanıza ait logo, marka veya reklam baskısı UV renkli baskı yöntemi ile uygulanabilir. Böylece ürün hem kullanışlı hem de etkili bir promosyon ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER
+
+Kapasite: 10.000 mAh  
+Gösterge: 3. Nesil LCD Ekran  
+Giriş: Type-C DC 5V / 2A  
+Çıkış: Wireless 5W / USB DC 5V / 2A  
+Kasa Malzemesi: ABS  
+Baskı Türü: UV Renkli Baskı  
+Kutu: Var  
+
+Promosyon powerbank ürünleri özellikle fuarlar, kurumsal etkinlikler, müşteri hediyeleri ve promosyon kampanyaları için oldukça ideal teknolojik promosyon ürünleri arasında yer almaktadır.
+
+Ürün renk ve stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p83",
+  slug: "promosyon-powerbank-10000mah-wireless-led-fenerli-pb-115",
+  title: "Promosyon Powerbank 10.000 mAh Wireless LED Fenerli PB-115 | Logo Baskılı Powerbank",
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-pb-115.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-115 modeli 10.000 mAh kapasitesi, kablosuz şarj özelliği, LED ekran göstergesi ve dahili LED feneri ile kurumsal promosyon ürünleri arasında dikkat çeken teknolojik hediyelerden biridir.",
+
+  longDesc: `
+Promosyon powerbank PB-115 modeli 10.000 mAh kapasitesi ile mobil cihazlar için güçlü bir taşınabilir şarj çözümü sunar. Kablosuz şarj (wireless) özelliği sayesinde uyumlu cihazlar kablo kullanmadan kolayca şarj edilebilir.
+
+Üzerinde bulunan LED ekran göstergesi sayesinde powerbank'in kalan batarya seviyesi kolayca takip edilebilir. Ayrıca ürün üzerinde bulunan LED fener özelliği sayesinde karanlık ortamlarda pratik bir kullanım sağlar.
+
+Promosyon powerbank ürünleri teknoloji promosyonları arasında en çok tercih edilen kurumsal reklam ürünlerinden biridir. Uzun süre kullanılan bir ürün olması sayesinde firmanızın marka görünürlüğünü artırır.
+
+Ürün üzerine firmanıza ait logo veya marka baskısı UV baskı yöntemi ile uygulanabilir. Böylece ürün hem kullanışlı hem de güçlü bir tanıtım ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER
+
+Kapasite: 10.000 mAh  
+Gösterge: LED Ekran  
+Renk: Siyah  
+Giriş 1: 5V / 2A  
+Giriş 2: Type-C 5V / 2A  
+Çıkış 1: 5V / 2A  
+Çıkış 2: USB 5V / 2A  
+Çıkış 3: Dahili 5V / 2A  
+Çıkış 4: Wireless 5W / 1A  
+Materyal: Plastik  
+Baskı Türü: UV Baskı  
+Ek Özellik: LED Fener  
+Kutu: Lüks Siyah Kutu  
+
+Promosyon powerbank ürünleri özellikle fuarlar, kurumsal etkinlikler, müşteri hediyeleri ve promosyon kampanyaları için oldukça ideal teknolojik promosyon ürünleri arasında yer almaktadır.
+
+Ürün stok ve renk durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
 
 ];
 
