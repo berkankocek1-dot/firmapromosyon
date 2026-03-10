@@ -1676,6 +1676,356 @@ Promosyon kalem fiyatları sipariş miktarına, baskı yöntemine ve üretim det
 Eğer firmanız için modern ve kullanışlı bir promosyon ürünü arıyorsanız Promosyon Metal Kalem MK-150 modeli iyi bir tercih olacaktır. Logo baskılı promosyon kalem siparişi vererek markanızı müşterilerinize profesyonel şekilde ulaştırabilirsiniz.
 `
 },
+{
+  id: "p51",
+  slug: "promosyon-manyetolu-turbo-siboplu-ruzgar-cakmak-cm-360",
+  title: "Promosyon Manyetolu Turbo Siboplu Rüzgar Çakmak CM-360 | Logo Baskılı Promosyon Çakmak",
+  category: "Çakmak",
+  image: "/products/promosyon-manyetolu-turbo-siboplu-cakmak-cm-360.jpg",
+
+  shortDesc:
+    "Promosyon manyetolu turbo siboplu rüzgar çakmak CM-360, güçlü alev yapısı ve dayanıklı gövdesi ile promosyon ürünleri arasında sık tercih edilen çakmak modellerinden biridir. Logo baskılı toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon manyetolu turbo siboplu rüzgar çakmak CM-360 modeli güçlü alev yapısı ve pratik kullanımı ile promosyon çakmak ürünleri arasında tercih edilen modellerden biridir. Manyetolu ateşleme sistemi sayesinde kolay kullanım sağlar ve rüzgara dayanıklı turbo alev özelliği ile dikkat çeker.
+
+Promosyon çakmak ürünleri özellikle restoranlar, kafeler, barlar, organizasyonlar ve kurumsal promosyon dağıtımlarında sık tercih edilen reklam ürünleri arasında yer almaktadır. Günlük kullanımda sıkça kullanılan bu ürünler sayesinde markanız müşterilerinizin yanında sürekli görünür olur.
+
+Promosyon çakmak CM-360 modeli üzerine firmanıza ait logo, marka adı veya reklam mesajı tampon baskı veya UV baskı yöntemi ile uygulanabilir. Böylece ürün hem kullanışlı bir çakmak hem de etkili bir reklam ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER  
+Çakmak Boyutu: 80 x 24 mm  
+Baskı Alanı: 50 x 14 mm  
+Koli / Kutu Adedi: 1000 / 50  
+Baskı Türü: Tampon Baskı – UV Baskı  
+Ateşleme Sistemi: Manyetolu  
+Alev Tipi: Turbo Alev
+
+Promosyon çakmak CM-360 modeli beyaz ve siyah renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin ve sipariş adetlerinin stok durumu dönemsel olarak değişiklik gösterebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon çakmak siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon çakmak fiyatları sipariş miktarına ve baskı yöntemine göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için ekonomik ve etkili bir promosyon ürünü arıyorsanız Promosyon Manyetolu Turbo Siboplu Rüzgar Çakmak CM-360 modeli iyi bir tercih olacaktır. Logo baskılı promosyon çakmak siparişi vererek markanızı geniş kitlelere ulaştırabilirsiniz.
+`
+},
+{
+  id: "p52",
+  slug: "promosyon-tasli-siboplu-cakmak-mini-boy-cm-400",
+  title: "Promosyon Taşlı Siboplu Çakmak CM-400 | Mini Boy Logo Baskılı Promosyon Çakmak",
+  category: "Çakmak",
+  image: "/products/promosyon-tasli-siboplu-cakmak-cm-400.jpg",
+
+  shortDesc:
+    "Promosyon taşlı siboplu çakmak CM-400 mini boy tasarımı ile promosyon ürünleri arasında sık tercih edilen ekonomik çakmak modellerinden biridir. Logo baskılı toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon taşlı siboplu çakmak CM-400 modeli mini boy tasarımı ve pratik kullanımı ile promosyon çakmak ürünleri arasında tercih edilen modellerden biridir. Taşlı ateşleme sistemi sayesinde kolay kullanım sağlar ve günlük kullanım için ideal bir promosyon ürünüdür.
+
+Promosyon çakmak ürünleri özellikle restoranlar, kafeler, organizasyonlar ve tanıtım kampanyalarında sık tercih edilen reklam ürünleri arasında yer almaktadır. Günlük kullanımda sıkça kullanılan çakmaklar sayesinde markanız müşterilerinizin yanında sürekli görünür olur.
+
+Promosyon çakmak CM-400 modeli üzerine firmanıza ait logo, marka adı veya reklam mesajı tampon baskı veya UV dijital baskı yöntemi ile uygulanabilir. Böylece ürün hem kullanışlı bir çakmak hem de etkili bir reklam ürünü haline gelir.
+
+Bu model mini boy tasarımı sayesinde cepte taşımaya uygun ve ekonomik bir promosyon ürünüdür. Özellikle promosyon dağıtımları ve kampanyalar için tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER  
+Çakmak Tipi: Taşlı Siboplu Çakmak  
+Ürün Boyutu: 70 x 22 mm  
+Baskı Alanı: 45 x 14 mm  
+Baskı Türü: Tampon Baskı + UV Dijital Baskı  
+Model: Mini Boy
+
+Promosyon çakmak CM-400 modeli beyaz ve siyah renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin ve sipariş adetlerinin stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon çakmak siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon çakmak fiyatları sipariş miktarına ve baskı yöntemine göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için ekonomik ve etkili bir promosyon ürünü arıyorsanız Promosyon Taşlı Siboplu Çakmak CM-400 modeli iyi bir tercih olacaktır. Logo baskılı promosyon çakmak siparişi vererek markanızı geniş kitlelere ulaştırabilirsiniz.
+`
+},
+{
+  id: "p53",
+  slug: "promosyon-tasli-siboplu-cakmak-cm-450",
+  title: "Promosyon Taşlı Siboplu Çakmak CM-450 | Logo Baskılı Promosyon Çakmak",
+  category: "Çakmak",
+  image: "/products/promosyon-tasli-siboplu-cakmak-cm-450.jpg",
+
+  shortDesc:
+    "Promosyon taşlı siboplu çakmak CM-450, klasik tasarımı ve pratik kullanımı ile promosyon ürünleri arasında sık tercih edilen ekonomik çakmak modellerinden biridir. Logo baskılı toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon taşlı siboplu çakmak CM-450 modeli klasik tasarımı ve kolay kullanımı sayesinde promosyon çakmak ürünleri arasında tercih edilen modellerden biridir. Taşlı ateşleme sistemi sayesinde pratik kullanım sağlar ve günlük kullanım için ideal bir promosyon ürünüdür.
+
+Promosyon çakmak ürünleri özellikle restoranlar, kafeler, organizasyonlar, tanıtım kampanyaları ve kurumsal promosyon dağıtımları için sık tercih edilen reklam ürünleri arasında yer almaktadır. Günlük kullanımda sıkça kullanılan çakmaklar sayesinde markanız müşterilerinizin yanında sürekli görünür olur.
+
+Promosyon çakmak CM-450 modeli üzerine firmanıza ait logo, marka adı veya reklam mesajı baskı olarak uygulanabilir. Böylece ürün hem kullanışlı bir çakmak hem de etkili bir reklam ürünü haline gelir.
+
+Bu model özellikle promosyon dağıtımları, kampanyalar, organizasyonlar ve tanıtım etkinlikleri için tercih edilen ekonomik promosyon ürünlerinden biridir.
+
+TEKNİK ÖZELLİKLER  
+Çakmak Tipi: Taşlı Siboplu Çakmak  
+Çakmak Ölçüsü: 78 x 22 mm  
+Baskı Alanı: 53 x 14 mm  
+
+Promosyon çakmak CM-450 modeli siyah ve beyaz renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin ve sipariş adetlerinin stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon çakmak siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon çakmak fiyatları sipariş miktarına ve baskı yöntemine göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için ekonomik ve kullanışlı bir promosyon ürünü arıyorsanız Promosyon Taşlı Siboplu Çakmak CM-450 modeli iyi bir tercih olacaktır. Logo baskılı promosyon çakmak siparişi vererek markanızı geniş kitlelere ulaştırabilirsiniz.
+`
+},
+{
+  id: "p54",
+  slug: "promosyon-telefon-tutuculu-standli-tasli-cakmak-cm-500",
+  title: "Promosyon Standlı Telefon Tutuculu Taşlı Çakmak CM-500 | Logo Baskılı Promosyon Çakmak",
+  category: "Çakmak",
+  image: "/products/promosyon-standli-tasli-cakmak-cm-500.jpg",
+
+  shortDesc:
+    "Promosyon standlı telefon tutuculu taşlı çakmak CM-500, pratik kullanımı ve telefon standı özelliği ile dikkat çeken promosyon çakmak modellerinden biridir. Logo baskılı toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon standlı taşlı çakmak CM-500 modeli hem çakmak hem de telefon tutucu olarak kullanılabilen pratik bir promosyon ürünüdür. Standlı yapısı sayesinde telefon tutucu olarak kullanılabilir ve günlük kullanımda oldukça pratik bir çözüm sunar.
+
+Promosyon çakmak ürünleri restoranlar, kafeler, organizasyonlar ve tanıtım kampanyalarında sık tercih edilen reklam ürünleri arasında yer almaktadır. Günlük kullanımda sıkça kullanılan çakmaklar sayesinde markanız müşterilerinizin yanında sürekli görünür olur.
+
+Promosyon çakmak CM-500 modeli üzerine firmanıza ait logo, marka adı veya reklam mesajı tampon baskı veya UV dijital baskı yöntemi ile uygulanabilir. Böylece ürün hem kullanışlı bir çakmak hem de etkili bir reklam ürünü haline gelir.
+
+Telefon tutuculu stand özelliği sayesinde masa üzerinde telefon standı olarak da kullanılabilir. Bu özellik ürünü klasik promosyon çakmaklardan ayıran önemli bir avantajdır.
+
+TEKNİK ÖZELLİKLER  
+Çakmak Tipi: Taşlı Çakmak  
+Özellik: Telefon Tutuculu Standlı Çakmak  
+Ürün Ebatı: 7.6 x 2.2 cm  
+Baskı Alanı 1: 5.3 x 1.4 cm  
+Baskı Alanı 2: 3.5 x 1.4 cm  
+Baskı Türü: Tampon Baskı + UV Dijital Baskı  
+Dolum: Doldurulamaz
+
+Promosyon çakmak CM-500 modeli beyaz, kırmızı, mavi, sarı ve siyah renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin ve sipariş adetlerinin stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon çakmak siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon çakmak fiyatları sipariş miktarına ve baskı yöntemine göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için farklı ve kullanışlı bir promosyon ürünü arıyorsanız Promosyon Standlı Telefon Tutuculu Taşlı Çakmak CM-500 modeli iyi bir tercih olacaktır. Logo baskılı promosyon çakmak siparişi vererek markanızı geniş kitlelere ulaştırabilirsiniz.
+`
+},
+{
+  id: "p55",
+  slug: "promosyon-manyetolu-mini-turbo-ruzgar-cakmak-cm-550",
+  title: "Promosyon Manyetolu Mini Turbo Rüzgar Çakmak CM-550 | Logo Baskılı Promosyon Çakmak",
+  category: "Çakmak",
+  image: "/products/promosyon-manyetolu-mini-turbo-cakmak-cm-550.jpg",
+
+  shortDesc:
+    "Promosyon manyetolu mini turbo rüzgar çakmak CM-550, güçlü turbo alevi ve kompakt mini boy tasarımı ile promosyon çakmak modelleri arasında tercih edilen ürünlerden biridir. Logo baskılı toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon manyetolu mini turbo rüzgar çakmak CM-550 modeli güçlü turbo alev yapısı sayesinde rüzgara dayanıklı kullanım sunan promosyon çakmak modellerinden biridir. Manyetolu ateşleme sistemi sayesinde pratik ve güvenli bir kullanım sağlar.
+
+Mini boy tasarımı sayesinde kolay taşınabilir ve günlük kullanım için oldukça uygundur. Bu özellikleri ile promosyon dağıtımlarında sık tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Promosyon çakmak ürünleri özellikle restoranlar, kafeler, organizasyonlar, etkinlikler ve tanıtım kampanyalarında tercih edilen etkili reklam ürünleridir. Günlük kullanımda sıkça kullanılan çakmaklar sayesinde markanız müşterilerinizin yanında sürekli görünür olur.
+
+Promosyon çakmak CM-550 modeli üzerine firmanıza ait logo, marka adı veya reklam mesajı baskı olarak uygulanabilir. Böylece ürün hem kullanışlı bir çakmak hem de etkili bir reklam ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER  
+Çakmak Tipi: Turbo Siboplu Çakmak  
+Ateşleme: Manyetolu  
+Ürün Ölçüsü: 68 x 24 mm  
+Baskı Alanı: 40 x 14 mm  
+Model: Mini Boy
+
+Promosyon çakmak CM-550 modeli beyaz ve siyah renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin ve minimum sipariş adetlerinin stok durumu dönemsel olarak değişiklik gösterebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon çakmak siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon çakmak fiyatları sipariş miktarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için küçük boyutlu, kullanışlı ve güçlü alevli bir promosyon ürünü arıyorsanız Promosyon Manyetolu Mini Turbo Rüzgar Çakmak CM-550 modeli iyi bir tercih olacaktır.
+`
+},
+{
+  id: "p56",
+  slug: "promosyon-manyetolu-cakmak-clipper-brio-cm-600",
+  title: "Promosyon Manyetolu Çakmak Clipper Brio CM-600 | Logo Baskılı Promosyon Çakmak",
+  category: "Çakmak",
+  image: "/products/promosyon-manyetolu-cakmak-cm-600.jpg",
+
+  shortDesc:
+    "Promosyon manyetolu çakmak CM-600, yerli üretim ve doldurulabilir yapısı ile uzun süre kullanılabilen promosyon çakmak modellerinden biridir. Logo baskılı toplu sipariş seçenekleri ile firmalar için ideal bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon manyetolu çakmak CM-600 modeli, Clipper / Brio tarzı tasarımı ve dayanıklı yapısı ile promosyon çakmak ürünleri arasında sık tercih edilen modellerden biridir. Manyetolu ateşleme sistemi sayesinde pratik kullanım sağlar ve günlük kullanım için oldukça uygundur.
+
+Doldurulabilir yapısı sayesinde uzun süre kullanılabilir. Bu özellik promosyon çakmakların kullanım süresini uzatarak markanızın daha uzun süre görünür olmasına yardımcı olur.
+
+Promosyon çakmak ürünleri restoranlar, kafeler, etkinlikler, fuarlar ve tanıtım kampanyalarında sıklıkla tercih edilen reklam ürünleri arasında yer almaktadır. Günlük kullanımda sürekli kullanılan bir ürün olduğu için marka bilinirliğini artırmak açısından oldukça etkilidir.
+
+Promosyon çakmak CM-600 modeli üzerine firmanıza ait logo, marka adı veya reklam mesajı tampon baskı veya UV baskı yöntemi ile uygulanabilir. Böylece ürün hem kullanışlı hem de etkili bir reklam ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER  
+Çakmak Tipi: Manyetolu Çakmak  
+Model: Clipper / Brio Tip  
+Ürün Ölçüsü: 75 x 23 mm  
+Dolum: Doldurulabilir  
+Baskı Türü: Tampon Baskı + UV Baskı  
+Üretim: Yerli Üretim  
+Minimum Sipariş: 250 Adet
+
+Promosyon çakmak CM-600 modeli beyaz, kırmızı, mavi, sarı ve siyah renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin ve sipariş adetlerinin stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon çakmak siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süreci değişiklik gösterebilir.
+
+Promosyon çakmak fiyatları sipariş miktarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için ekonomik ve kullanışlı bir promosyon ürünü arıyorsanız Promosyon Manyetolu Çakmak CM-600 modeli iyi bir tercih olacaktır.
+`
+},
+{
+  id: "p57",
+  slug: "promosyon-powerbank-8000mah-pb-100",
+  title: "Promosyon Powerbank 8000 mAh PB-100 | Logo Baskılı Powerbank",
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-8000mah-pb-100.jpg",
+
+  shortDesc:
+    "Promosyon powerbank 8000 mAh PB-100 modeli yüksek kapasiteli bataryası ve LCD ekran göstergesi ile firmalar için ideal bir promosyon powerbank ürünüdür. Logo baskılı toplu sipariş seçenekleri ile sunulmaktadır.",
+
+  longDesc: `
+Promosyon powerbank 8000 mAh PB-100 modeli yüksek kapasiteli bataryası ve modern tasarımı ile promosyon teknoloji ürünleri arasında en çok tercih edilen ürünlerden biridir. Günümüzde mobil cihazların yoğun kullanımı nedeniyle powerbank ürünleri günlük yaşamın vazgeçilmez aksesuarları arasında yer almaktadır.
+
+Promosyon powerbank ürünleri fuarlar, kurumsal etkinlikler, promosyon kampanyaları ve müşteri hediyeleri için oldukça etkili bir reklam ürünüdür. Günlük kullanımda sürekli kullanılan bir ürün olduğu için markanızın görünürlüğünü artırır.
+
+Promosyon powerbank PB-100 modeli üzerine firmanıza ait logo, marka adı veya reklam mesajı uygulanabilir. Böylece ürün hem kullanışlı bir teknoloji ürünü hem de etkili bir reklam aracına dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Batarya: A+ Lithium Polymer  
+Kapasite: 8000 mAh  
+Gösterge: LCD Ekran  
+Giriş: Type-C  
+Çıkış: 1 USB  
+Ağırlık: 180 Gram  
+Materyal: Rubber  
+Ürün Ölçüsü: 135 x 60 x 20 mm  
+
+Bataryalarımız test edilmiş olup 2 yıl garantilidir. En iyi performans için telefonunuzu kendi orijinal kablosu ile kullanmanız önerilmektedir.
+
+Promosyon powerbank PB-100 modeli promosyon kampanyaları, kurumsal hediyeler ve marka tanıtımı için ideal bir üründür. Sipariş miktarına ve baskı seçeneklerine göre fiyatlandırma değişiklik gösterebilir.
+
+Renk ve stok durumları dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır. Logo baskılı promosyon powerbank siparişi vererek markanızı müşterilerinizin yanında sürekli görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p58",
+  slug: "promosyon-powerbank-13000mah-pb-110",
+  title: "Promosyon Powerbank 13000 mAh PB-110 | Logo Baskılı Powerbank",
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-13000mah-pb-110.jpg",
+
+  shortDesc:
+    "Promosyon powerbank 13000 mAh PB-110 modeli yüksek kapasiteli bataryası, LCD ekran göstergesi ve çift USB çıkışı ile kurumsal promosyon teknoloji ürünleri arasında en çok tercih edilen powerbank modellerinden biridir.",
+
+  longDesc: `
+Promosyon powerbank 13000 mAh PB-110 modeli yüksek kapasitesi ve güçlü bataryası ile mobil cihazlar için güvenilir bir taşınabilir şarj çözümü sunar. Günümüzde akıllı telefon, tablet ve diğer mobil cihazların yoğun kullanımı nedeniyle powerbank ürünleri promosyon teknoloji ürünleri arasında en çok tercih edilen ürünlerden biri haline gelmiştir.
+
+Promosyon powerbank ürünleri fuarlar, etkinlikler, kurumsal kampanyalar ve müşteri hediyeleri için oldukça etkili bir reklam ürünüdür. Günlük kullanımda sürekli kullanılan bir ürün olduğu için markanızın görünürlüğünü artırır.
+
+Promosyon powerbank PB-110 modeli üzerine firmanıza ait logo, marka adı veya reklam mesajı uygulanabilir. Böylece ürün hem kullanışlı bir teknoloji ürünü hem de etkili bir reklam aracına dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Batarya: A+ Lithium ION  
+Kapasite: 13000 mAh  
+Gösterge: İkinci Nesil LCD  
+Giriş: DC5V 1A (MAX) / Micro  
+Çıkış: DC5V 2A (MAX) / 2 USB  
+Ağırlık: 275 Gram  
+Materyal: Rubber  
+Ürün Ölçüsü: 140 x 65 x 23 mm  
+
+Bataryalarımız test edilmiş olup 2 yıl garantilidir. En iyi performans için telefonunuzu kendi orijinal kablosu ile kullanmanız önerilmektedir.
+
+Promosyon powerbank PB-110 modeli lacivert ve siyah renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon powerbank siparişleri logo baskılı veya baskısız olarak verilebilir. Sipariş miktarına göre fiyatlandırma değişiklik gösterebilir ve toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Kurumsal promosyon ürünleri arasında yer alan powerbank modelleri marka tanıtımı için oldukça etkili ürünlerdir. Logo baskılı promosyon powerbank siparişi vererek markanızı müşterilerinizin yanında sürekli görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p59",
+  slug: "promosyon-ajanda-17x23-termo-deri-aj-100",
+  title: "Promosyon Ajanda 17,5 x 23,5 cm AJ-100 | Logo Baskılı Kurumsal Ajanda",
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-100.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-100 modeli termo deri kapak yapısı, 336 sayfalık iç tasarımı ve kurumsal logo baskı seçenekleri ile firmalar için ideal promosyon ajanda modellerinden biridir.",
+
+  longDesc: `
+Promosyon ajanda AJ-100 modeli şık termo deri kapak tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında en çok tercih edilen ajanda modellerinden biridir. Özellikle yılbaşı promosyonları, kurumsal hediyeler ve müşteri ziyaretleri için oldukça tercih edilen bir üründür.
+
+Promosyon ajandalar firmaların marka bilinirliğini artırmak için kullanılan en etkili kurumsal promosyon ürünleri arasında yer almaktadır. Günlük planlama, not alma ve iş takibi için kullanılan ajandalar sayesinde markanız yıl boyunca müşterilerinizin yanında olur.
+
+Promosyon ajanda AJ-100 modeli üzerine firmanıza ait logo, marka adı veya özel tasarım gofre baskı veya dijital baskı yöntemi ile uygulanabilir. Böylece ürün hem kullanışlı hem de prestijli bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 17,5 x 23,5 cm  
+Kağıt: 70 gr Ivory Krem  
+Sayfa Sayısı: 336  
+Kapak: Termo Deri  
+Baskı Türü: Gofre Baskı + Dijital Baskı  
+Koli Adedi: 40
+
+Promosyon ajanda AJ-100 modeli gri, taba, kırmızı, lacivert, turkuaz, turuncu, yeşil, siyah ve füme gibi farklı renk seçenekleri ile sunulmaktadır. Renk seçeneklerinin stok durumu dönemsel olarak değişiklik gösterebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon ajanda siparişleri logo baskılı veya baskısız olarak verilebilir. Baskı yöntemi ve sipariş miktarına göre üretim süresi değişiklik gösterebilir.
+
+Kurumsal promosyon ürünleri arasında yer alan ajanda modelleri özellikle yılbaşı dönemlerinde en çok tercih edilen promosyon ürünlerinden biridir. Logo baskılı promosyon ajanda siparişi vererek markanızı müşterilerinizin masasında yıl boyunca görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p60",
+  slug: "promosyon-duvar-saati-40cm-metal-kasa-ds-100",
+  title: "Promosyon Duvar Saati 40 cm Metal Kasa DS-100 | Logo Baskılı Duvar Saati",
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-ds-100.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati 40 cm metal kasa DS-100 modeli geniş kadranı ve kaliteli yapısı ile kurumsal promosyon duvar saatleri arasında en çok tercih edilen modellerden biridir.",
+
+  longDesc: `
+Promosyon duvar saati DS-100 modeli 40 cm geniş çapı ve metal kasa yapısı ile dikkat çeken kurumsal promosyon ürünleri arasında yer almaktadır. Geniş kadranı sayesinde uzaktan rahat okunabilir ve ofis, işyeri, fabrika, mağaza ve kurumsal alanlarda kullanım için oldukça uygundur.
+
+Promosyon duvar saatleri firmalar için uzun süre kullanılan en etkili reklam ürünlerinden biridir. Duvar saatleri sürekli görünür bir alanda bulunduğu için markanızın uzun süre müşterilerinizin gözünün önünde kalmasını sağlar.
+
+Promosyon duvar saati DS-100 modeli üzerine firmanıza ait logo, marka adı veya reklam tasarımı uygulanabilir. Böylece ürün hem kullanışlı hem de etkili bir reklam aracına dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Ürün Tipi: Promosyon Duvar Saati  
+Çap: 40 cm  
+Kasa: Metal Kasa  
+Cam: Mineral Cam  
+Kadran: Bristol Kadran  
+Saniye: Akar Saniye Mekanizması  
+
+Promosyon duvar saatleri ofisler, işyerleri, fabrikalar ve kurumsal alanlar için oldukça kullanışlı promosyon ürünleridir. Logo baskılı duvar saatleri marka tanıtımı için uzun süre etkili bir reklam aracıdır.
+
+Promosyon duvar saati DS-100 modeli farklı kadran ve kasa seçenekleri ile üretilebilmektedir. Renk seçeneklerinin ve stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında renk ve stok bilgisi alınması önerilmektedir.
+
+Promosyon duvar saati siparişleri logo baskılı veya baskısız olarak verilebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Eğer firmanız için hem dekoratif hem de etkili bir reklam ürünü arıyorsanız Promosyon Duvar Saati DS-100 modeli oldukça iyi bir tercihtir.
+`
+},
+
 ];
 
 export default products;
