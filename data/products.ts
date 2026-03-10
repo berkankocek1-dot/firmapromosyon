@@ -2025,6 +2025,387 @@ Promosyon duvar saati siparişleri logo baskılı veya baskısız olarak verileb
 Eğer firmanız için hem dekoratif hem de etkili bir reklam ürünü arıyorsanız Promosyon Duvar Saati DS-100 modeli oldukça iyi bir tercihtir.
 `
 },
+{
+  id: "p61",
+  slug: "promosyon-tarihsiz-defter-15x21-td-102",
+  title: "Promosyon Tarihsiz Defter 15 x 21 cm TD-102 | Logo Baskılı Kurumsal Defter",
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-102.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-102 modeli 15 x 21 cm ölçüsü ve şık tasarımı ile kurumsal promosyon ürünleri arasında en çok tercih edilen promosyon defter modellerinden biridir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-102 modeli 15 x 21 cm ölçüsü ile günlük kullanım için oldukça ideal bir promosyon defter ürünüdür. Kurumsal firmalar tarafından müşteri hediyesi, etkinlik promosyonu ve çalışan hediyesi olarak sık tercih edilmektedir.
+
+Promosyon defterler hem kullanışlı hem de uzun süre kullanılan promosyon ürünleri arasında yer alır. Günlük not alma, toplantı notları ve planlama için kullanılan bu ürünler markanızın sürekli görünür olmasını sağlar.
+
+Promosyon tarihsiz defter TD-102 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım baskı uygulanabilir. Böylece ürün hem kullanışlı hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 15 x 21 cm  
+Ürün Tipi: Tarihsiz Defter  
+Kullanım: Günlük Not Defteri  
+Baskı: Logo Baskılı / Baskısız  
+
+Promosyon tarihsiz defterler özellikle fuarlar, kurumsal etkinlikler, müşteri ziyaretleri ve promosyon kampanyaları için oldukça ideal ürünlerdir.
+
+Ürün renk ve stok durumları dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır. Logo baskılı promosyon defter siparişi vererek markanızı müşterilerinizin masasında sürekli görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p62",
+  slug: "promosyon-tarihsiz-defter-14x21-td-103",
+  title: "Promosyon Tarihsiz Defter 14,5 x 21 cm TD-103 | Logo Baskılı Kurumsal Defter",
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-103.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-103 modeli 14,5 x 21 cm ölçüsü ve şık kapak tasarımı ile kurumsal promosyon ürünleri arasında sık tercih edilen promosyon defter modellerinden biridir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-103 modeli kompakt ölçüsü ve şık tasarımı ile günlük kullanım için ideal bir promosyon defter ürünüdür. Kurumsal firmalar tarafından müşteri hediyesi, etkinlik promosyonu ve çalışan hediyesi olarak sıklıkla tercih edilmektedir.
+
+Promosyon defterler hem kullanışlı hem de uzun süre kullanılan promosyon ürünleri arasında yer almaktadır. Günlük not alma, toplantı notları ve planlama için kullanılan bu ürünler markanızın sürekli görünür olmasını sağlar.
+
+Promosyon tarihsiz defter TD-103 modeli üzerine firmanıza ait logo, marka adı veya özel tasarım baskı uygulanabilir. Böylece ürün hem kullanışlı hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 14,5 x 21 cm  
+Ürün Tipi: Tarihsiz Defter  
+Baskı: Logo Baskılı / Baskısız  
+
+RENK SEÇENEKLERİ  
+Siyah  
+Füme  
+Lacivert  
+Kırmızı  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişiklik gösterebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon defter siparişleri logo baskılı veya baskısız olarak verilebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Promosyon tarihsiz defterler fuarlar, etkinlikler, kurumsal kampanyalar ve müşteri hediyeleri için oldukça ideal promosyon ürünleri arasında yer almaktadır. Logo baskılı promosyon defter siparişi vererek markanızı müşterilerinizin masasında sürekli görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p63",
+  slug: "promosyon-tarihsiz-defter-14x21-td-104",
+  title: "Promosyon Tarihsiz Defter 14,5 x 21 cm TD-104 | Logo Baskılı Kurumsal Defter",
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-104.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-104 modeli 14,5 x 21 cm ölçüsü ve şık kapak tasarımı ile kurumsal promosyon ürünleri arasında en çok tercih edilen promosyon defter modellerinden biridir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-104 modeli modern tasarımı ve kullanışlı ölçüsü ile günlük kullanım için oldukça ideal bir promosyon defter ürünüdür. Kurumsal firmalar tarafından müşteri hediyesi, çalışan hediyesi ve promosyon kampanyaları için sıklıkla tercih edilmektedir.
+
+Promosyon defterler uzun süre kullanılan ve markanızın sürekli görünmesini sağlayan promosyon ürünleri arasında yer almaktadır. Günlük not alma, toplantı notları ve iş planlaması için kullanılan bu ürünler markanızın müşterilerinizin masasında sürekli görünür olmasını sağlar.
+
+Promosyon tarihsiz defter TD-104 modeli üzerine firmanıza ait logo, marka adı veya özel tasarım baskı uygulanabilir. Böylece ürün hem kullanışlı hem de etkili bir reklam ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 14,5 x 21 cm  
+Ürün Tipi: Tarihsiz Defter  
+Baskı: Logo Baskılı / Baskısız  
+
+RENK SEÇENEKLERİ  
+Lacivert  
+Taba  
+Siyah  
+Kırmızı  
+Füme  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişiklik gösterebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon defter siparişleri logo baskılı veya baskısız olarak verilebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Promosyon tarihsiz defterler fuarlar, kurumsal etkinlikler ve müşteri ziyaretleri için oldukça ideal promosyon ürünleri arasında yer almaktadır. Logo baskılı promosyon defter siparişi vererek markanızı müşterilerinizin masasında sürekli görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p64",
+  slug: "promosyon-tarihsiz-defter-14x21-termo-deri-td-110",
+  title: "Promosyon Tarihsiz Defter 14,5 x 21 cm TD-110 | Logo Baskılı Termo Deri Defter",
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-110.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-110 modeli termo deri kapak tasarımı, 80 gr ivory krem kağıdı ve çizgili sayfa yapısı ile kurumsal promosyon defter modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-110 modeli şık termo deri kapak tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında en çok tercih edilen defter modellerinden biridir. Günlük kullanım için ideal ölçüsü sayesinde hem ofis ortamında hem de kişisel kullanımda oldukça pratik bir üründür.
+
+Promosyon defterler markaların tanıtımında kullanılan en etkili promosyon ürünlerinden biridir. Günlük not alma, toplantı notları ve planlama için kullanılan bu ürünler markanızın uzun süre görünür olmasını sağlar.
+
+Promosyon tarihsiz defter TD-110 modeli üzerine firmanıza ait logo, marka adı veya özel tasarım gofre baskı veya dijital baskı yöntemi ile uygulanabilir. Böylece ürün hem kullanışlı hem de prestijli bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 14,5 x 21 cm  
+Kağıt: 80 gr Ivory Krem  
+Sayfa Sayısı: 224  
+Kapak: Termo Deri  
+Sayfa Tipi: Çizgili  
+Baskı Türü: Gofre Baskı + Dijital Baskı  
+Koli Adedi: 40  
+Özellik: Kenarları Boyalı
+
+RENK SEÇENEKLERİ  
+Kırmızı  
+Lacivert  
+Açık Mavi  
+Siyah  
+Taba  
+Füme  
+Mor  
+Turkuaz  
+Yeşil  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon tarihsiz defter siparişleri logo baskılı veya baskısız olarak verilebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Promosyon defterler özellikle fuarlar, kurumsal etkinlikler, müşteri ziyaretleri ve promosyon kampanyaları için oldukça ideal promosyon ürünleri arasında yer almaktadır. Logo baskılı promosyon defter siparişi vererek markanızı müşterilerinizin masasında yıl boyunca görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p65",
+  slug: "promosyon-tarihsiz-defter-14x21-termo-pu-td-115",
+  title: "Promosyon Tarihsiz Defter 14,5 x 21 cm TD-115 | Logo Baskılı Termo PU Defter",
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-115.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-115 modeli termo PU sert kapak tasarımı, çizgili sayfaları ve kalem tutucu özelliği ile kurumsal promosyon defter modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-115 modeli şık termo PU sert kapak yapısı ve kullanışlı iç sayfa tasarımı ile kurumsal promosyon ürünleri arasında tercih edilen defter modellerinden biridir. Günlük kullanım için ideal ölçüsü sayesinde hem ofis hem de kişisel kullanım için oldukça uygundur.
+
+Promosyon defterler firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Günlük not alma, toplantı planlama ve iş takibi için kullanılan defterler sayesinde markanız müşterilerinizin masasında uzun süre görünür olur.
+
+Promosyon tarihsiz defter TD-115 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım gofre baskı veya dijital baskı yöntemi ile uygulanabilir. Böylece ürün hem kullanışlı hem de prestijli bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 14,5 x 21 cm  
+Kağıt: 70 gr Krem  
+Sayfa Sayısı: 160 (Çizgili)  
+Kapak: Termo PU Sert Kapak  
+Baskı Türü: Gofre Baskı + Dijital Baskı  
+Koli Adedi: 40  
+Özellik: Renkli Kenarlar  
+Ek Özellik: Kalem Tutucu
+
+RENK SEÇENEKLERİ  
+Kırmızı  
+Lacivert  
+Turkuaz  
+Siyah  
+Yeşil  
+Gri  
+Turuncu  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon tarihsiz defter siparişleri logo baskılı veya baskısız olarak verilebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+Promosyon defterler özellikle fuarlar, kurumsal etkinlikler ve müşteri ziyaretleri için oldukça ideal promosyon ürünleri arasında yer almaktadır. Logo baskılı promosyon defter siparişi vererek markanızı müşterilerinizin masasında uzun süre görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p66",
+  slug: "promosyon-ajanda-17x24-termo-aj-110",
+  title: "Promosyon Ajanda 17 x 24 cm AJ-110 | Logo Baskılı Kurumsal Ajanda",
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-110.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-110 modeli 17 x 24 cm ölçüsü, termo deri kapak yapısı ve kalem tutucu özelliği ile kurumsal promosyon ajanda modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon ajanda AJ-110 modeli termo deri kapak tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında en çok tercih edilen ajanda modellerinden biridir. Günlük planlama, toplantı notları ve iş takibi için oldukça kullanışlı bir ajandadır.
+
+Promosyon ajandalar firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Ofis ortamında sürekli kullanılan ajandalar sayesinde markanız müşterilerinizin ve iş ortaklarınızın masasında yıl boyunca görünür olur.
+
+Promosyon ajanda AJ-110 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım gofre baskı, serigrafi baskı veya UV baskı yöntemleri ile uygulanabilir. Böylece ajanda hem prestijli hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 17 x 24 cm  
+Kapak: Termo Deri  
+Kalem Tutucu: Var  
+Sayfa Sayısı: 336  
+Kağıt: 70 gram Ivory Krem  
+Baskı Türü: Gofre Baskı, Serigrafi Baskı, UV Baskı  
+Koli Adedi: 30  
+
+RENK SEÇENEKLERİ  
+Kırmızı  
+Lacivert  
+Siyah  
+Taba  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fuarlar ve müşteri ziyaretleri için oldukça ideal promosyon ürünleridir. Logo baskılı promosyon ajanda siparişi vererek markanızı müşterilerinizin masasında yıl boyunca görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p67",
+  slug: "promosyon-ajanda-17x24-termo-deri-aj-120",
+  title: "Promosyon Ajanda 17 x 24 cm AJ-120 | Logo Baskılı Kurumsal Ajanda",
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-120.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-120 modeli 17 x 24 cm ölçüsü, termo deri kapak tasarımı ve 336 sayfalık kaliteli iç yapısı ile kurumsal promosyon ajanda modelleri arasında en çok tercih edilen ürünlerden biridir.",
+
+  longDesc: `
+Promosyon ajanda AJ-120 modeli termo deri kapak tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında öne çıkan ajanda modellerinden biridir. Günlük planlama, toplantı notları ve iş organizasyonu için oldukça kullanışlı bir ajandadır.
+
+Promosyon ajandalar firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Ofis ortamında sürekli kullanılan ajandalar sayesinde markanız müşterilerinizin ve iş ortaklarınızın masasında yıl boyunca görünür olur.
+
+Promosyon ajanda AJ-120 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım gofre baskı veya dijital baskı yöntemi ile uygulanabilir. Böylece ajanda hem prestijli hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 17 x 24 cm  
+Kapak: Termo Deri  
+Kağıt: 70 gr Ivory Krem  
+Sayfa Sayısı: 336  
+Baskı Türü: Gofre Baskı + Dijital Baskı  
+Koli Adedi: 40  
+
+RENK SEÇENEKLERİ  
+Turkuaz Mavi  
+Yeşil  
+Taba  
+Kırmızı  
+Gri  
+Turuncu  
+Lacivert  
+Siyah  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fuarlar ve müşteri ziyaretleri için oldukça ideal promosyon ürünleri arasında yer almaktadır. Logo baskılı promosyon ajanda siparişi vererek markanızı müşterilerinizin masasında yıl boyunca görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p68",
+  slug: "promosyon-ajanda-17x24-termo-deri-aj-130",
+  title: "Promosyon Ajanda 17 x 24 cm AJ-130 | Logo Baskılı Termo Deri Ajanda",
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-130.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-130 modeli 17 x 24 cm ölçüsü, termo deri kapak yapısı ve 336 sayfalık kaliteli iç tasarımı ile kurumsal promosyon ajanda modelleri arasında tercih edilen ürünlerden biridir.",
+
+  longDesc: `
+Promosyon ajanda AJ-130 modeli şık termo deri kapak tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında öne çıkan ajanda modellerinden biridir. Günlük planlama, toplantı notları ve iş takibi için oldukça kullanışlı bir ajandadır.
+
+Promosyon ajandalar firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Ofis ortamında sürekli kullanılan ajandalar sayesinde markanız müşterilerinizin ve iş ortaklarınızın masasında yıl boyunca görünür olur.
+
+Promosyon ajanda AJ-130 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım gofre baskı yöntemi ile uygulanabilir. Böylece ajanda hem prestijli hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 17 x 24 cm  
+Kapak: Termo Deri  
+Kağıt: 70 gr Ivory Krem  
+Sayfa Sayısı: 336  
+Baskı Türü: Gofre Baskı  
+Koli Adedi: 40  
+
+RENK SEÇENEKLERİ  
+Lacivert  
+Turkuaz  
+Kırmızı  
+Taba  
+Turkuaz Mavi  
+Turkuaz Yeşil  
+Füme  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fuarlar ve müşteri ziyaretleri için oldukça ideal promosyon ürünleridir. Logo baskılı promosyon ajanda siparişi vererek markanızı müşterilerinizin masasında yıl boyunca görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p69",
+  slug: "promosyon-ajanda-17x24-termo-deri-aj-140",
+  title: "Promosyon Ajanda 17 x 24 cm AJ-140 | Logo Baskılı Kurumsal Ajanda",
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-140.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-140 modeli 17 x 24 cm ölçüsü, termo deri kapak tasarımı ve 336 sayfalık kaliteli iç yapısı ile kurumsal promosyon ajanda modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon ajanda AJ-140 modeli şık termo deri kapak yapısı ve kaliteli iç sayfa tasarımı ile kurumsal promosyon ürünleri arasında tercih edilen ajanda modellerinden biridir. Günlük planlama, toplantı notları ve iş organizasyonu için oldukça kullanışlı bir ajandadır.
+
+Promosyon ajandalar firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Ofis ortamında sürekli kullanılan ajandalar sayesinde markanız müşterilerinizin ve iş ortaklarınızın masasında yıl boyunca görünür olur.
+
+Promosyon ajanda AJ-140 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım gofre baskı veya dijital baskı yöntemleri ile uygulanabilir. Böylece ajanda hem prestijli hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 17 x 24 cm  
+Kapak: Termo Deri  
+Kağıt: 70 gr Ivory Krem  
+Sayfa Sayısı: 336  
+Baskı Türü: Gofre Baskı + Dijital Baskı  
+Koli Adedi: 40  
+
+RENK SEÇENEKLERİ  
+Kırmızı  
+Lacivert  
+Taba  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fuarlar ve müşteri ziyaretleri için oldukça ideal promosyon ürünleridir. Logo baskılı promosyon ajanda siparişi vererek markanızı müşterilerinizin masasında yıl boyunca görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p70",
+  slug: "promosyon-ajanda-16x24-termo-deri-aj-150",
+  title: "Promosyon Ajanda 16 x 24 cm AJ-150 | Logo Baskılı Termo Deri Ajanda",
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-150.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-150 modeli 16 x 24 cm ölçüsü, termo deri kapak yapısı ve 320 sayfalık tarihli iç tasarımı ile kurumsal promosyon ajanda modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon ajanda AJ-150 modeli şık termo deri kapak tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında tercih edilen ajanda modellerinden biridir. Günlük planlama, toplantı notları ve iş takibi için oldukça kullanışlı bir ajandadır.
+
+Promosyon ajandalar firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Ofis ortamında sürekli kullanılan ajandalar sayesinde markanız müşterilerinizin ve iş ortaklarınızın masasında yıl boyunca görünür olur.
+
+Promosyon ajanda AJ-150 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım gofre baskı, dijital baskı veya UV baskı yöntemleri ile uygulanabilir. Böylece ajanda hem prestijli hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER  
+Ürün Ölçüsü: 16 x 24 cm  
+Kapak: Termo Deri  
+Kağıt: Krem Kağıt  
+Sayfa Sayısı: 320 Sayfa (Tarihli)  
+Baskı Türü: Gofre Baskı, Dijital Baskı, UV Baskı  
+
+RENK SEÇENEKLERİ  
+Taba  
+Füme  
+Kırmızı  
+Turkuaz  
+Turuncu  
+Yeşil  
+Lacivert  
+Gri  
+Krem  
+Mor  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fuarlar ve müşteri ziyaretleri için oldukça ideal promosyon ürünleridir. Logo baskılı promosyon ajanda siparişi vererek markanızı müşterilerinizin masasında yıl boyunca görünür hale getirebilirsiniz.
+`
+},
 
 ];
 
