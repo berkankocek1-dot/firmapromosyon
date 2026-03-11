@@ -6,6 +6,19 @@ import type { Metadata } from "next";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
+const CATEGORY_ORDER = [
+  "Kalem",
+  "Çakmak",
+  "Anahtarlık",
+  "Ajanda",
+  "Duvar Saatleri",
+  "Geri Dönüşümlü Ürünler",
+  "Powerbank",
+  "Tarihsiz Defter",
+  "Termos",
+  "USB Bellek",
+] as const;
+
 export const metadata: Metadata = {
   title: "FirmaPromosyon | Logo Baskılı Kurumsal Promosyon Ürünleri",
   description:
@@ -129,10 +142,45 @@ function getCategoryImage(category: any) {
   return matchedProduct ? pickImg(matchedProduct) : "/og.jpg";
 }
 
+function sortCategoriesByOrder(categoryList: any[]) {
+  return [...categoryList].sort((a, b) => {
+    const aIndex = CATEGORY_ORDER.findIndex(
+      (name) => normalizeText(name) === normalizeText(a.name)
+    );
+    const bIndex = CATEGORY_ORDER.findIndex(
+      (name) => normalizeText(name) === normalizeText(b.name)
+    );
+
+    const safeA = aIndex === -1 ? 999 : aIndex;
+    const safeB = bIndex === -1 ? 999 : bIndex;
+
+    return safeA - safeB;
+  });
+}
+
+function buildOrderedCategoryProducts(allProducts: any[]) {
+  const result: any[] = [];
+
+  CATEGORY_ORDER.forEach((categoryName) => {
+    const firstMatch = allProducts.find(
+      (p: any) => normalizeText(p.category) === normalizeText(categoryName)
+    );
+
+    if (firstMatch) {
+      result.push(firstMatch);
+    }
+  });
+
+  return result;
+}
+
 export default function Home() {
-  const featuredProducts = products.slice(0, 8);
-  const topStrip = products.slice(0, 10);
-  const heroShowcase = products.slice(0, 4);
+  const orderedCategories = sortCategoriesByOrder(categories).slice(0, 10);
+  const orderedCategoryProducts = buildOrderedCategoryProducts(products);
+
+  const featuredProducts = orderedCategoryProducts;
+  const topStrip = orderedCategoryProducts;
+  const heroShowcase = orderedCategoryProducts.slice(0, 4);
 
   const kalemProducts = products
     .filter((p: any) => normalizeText(p.category) === normalizeText("Kalem"))
@@ -158,7 +206,7 @@ export default function Home() {
     )
     .slice(0, 4);
 
-  const categoryCards = categories.slice(0, 10);
+  const categoryCards = orderedCategories;
 
   const webPageSchema = {
     "@context": "https://schema.org",
@@ -458,9 +506,9 @@ export default function Home() {
             En Çok Tercih Edilen Promosyon Kategorileri
           </h2>
           <p className="mt-3 text-sm text-gray-600 md:text-base">
-            Ajanda, anahtarlık, çakmak, duvar saatleri, geri dönüşümlü ürünler,
-            kalem, powerbank, tarihsiz defter, termos ve USB bellek gibi
-            kurumsal tanıtıma uygun promosyon kategorilerini inceleyin.
+            Kalem, çakmak, anahtarlık, ajanda, duvar saatleri, geri dönüşümlü ürünler,
+            powerbank, tarihsiz defter, termos ve USB bellek gibi kurumsal tanıtıma
+            uygun promosyon kategorilerini inceleyin.
           </p>
         </div>
 
@@ -505,7 +553,7 @@ export default function Home() {
               Öne Çıkan Promosyon Ürünleri
             </h2>
             <p className="mt-2 text-sm text-gray-600">
-              Ürün görselleri temsili olabilir. Model, baskı ve adet bilgisine göre özel teklif hazırlanır.
+              Her kategoriden öne çıkan bir ürün listelenmiştir. Ürün görselleri temsili olabilir.
             </p>
           </div>
 
@@ -517,7 +565,7 @@ export default function Home() {
           </Link>
         </div>
 
-        <div className="mt-8 grid grid-cols-1 gap-5 sm:grid-cols-2 xl:grid-cols-4">
+        <div className="mt-8 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
           {featuredProducts.map((p: any) => {
             const title = pickTitle(p);
             const desc = pickDesc(p);
@@ -538,7 +586,7 @@ export default function Home() {
                       src={img}
                       alt={title}
                       fill
-                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 20vw"
                       className="object-contain p-4 transition duration-500 group-hover:scale-105"
                     />
                   </div>
@@ -744,7 +792,7 @@ export default function Home() {
           </p>
 
           <div className="mt-6 flex flex-wrap gap-3">
-            {categories.map((category: any) => (
+            {orderedCategories.map((category: any) => (
               <Link
                 key={category.slug}
                 href={`/kategori/${category.slug}`}
