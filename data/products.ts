@@ -4220,7 +4220,7 @@ Promosyon spiralli not defteri siparişleri toplu üretim olarak hazırlanmakta 
   id: "p117",
   slug: "promosyon-renkli-yapiskanli-notluk-gd-150",
   title: "Promosyon Renkli Yapışkanlı Notluk GD-150 | Logo Baskılı Yapışkanlı Not Defteri",
-  category: "Geri Dönüşümlü Ürünler",
+  category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-renkli-yapiskanli-notluk-gd-150.jpg",
 
   shortDesc:
@@ -4409,6 +4409,56 @@ RENK VE STOK BİLGİSİ
 Kalem ürün görsellerinde aksesuar olarak yer alabilir ve ürüne dahil olmayabilir.
 
 Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir. Kurumsal siparişler için hızlı teklif alabilirsiniz.
+`
+},
+{
+  id: "p121",
+  slug: "promosyon-kalem-seti-ks-100",
+  title: "Promosyon Kalem Seti KS-100 | Logo Baskılı Kurumsal Kalem Seti",
+
+  category: "Kalem Setleri",
+
+  image: "/products/promosyon-kalem-seti-ks-100.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-100 modeli şık kutu tasarımı, logo baskıya uygun yüzeyi ve mavi refil kalem yapısı ile kurumsal promosyon kalem setleri arasında tercih edilen prestijli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon kalem seti KS-100 modeli şık kutu tasarımı ve kaliteli kalem yapısı ile kurumsal promosyon ürünleri arasında öne çıkan kalem seti modellerinden biridir. Kurumsal firmalar tarafından müşteri hediyesi, çalışan hediyesi veya fuar promosyon ürünü olarak tercih edilmektedir.
+
+Promosyon kalem setleri markaların prestijli kurumsal promosyon ürünleri arasında yer alır. Şık kutu tasarımı sayesinde hem masaüstü kullanımı için uygundur hem de kurumsal hediye olarak sunulabilecek profesyonel bir görünüm sağlar.
+
+Promosyon kalem seti KS-100 modeli üzerine firmanıza ait logo veya marka baskısı lazer baskı veya serigraf baskı yöntemleri ile uygulanabilir. Bu sayede ürün hem kullanışlı bir ofis ürünü hem de güçlü bir reklam aracı haline gelir.
+
+Kalem setleri özellikle kurumsal etkinliklerde, toplantılarda, bayi toplantılarında, özel gün hediyelerinde ve müşteri promosyonlarında sık tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kalem Seti  
+Kategori: Kalem Setleri  
+Kalem Ölçüsü: 140 x Ø13 mm  
+Kutu Ölçüsü: 192 x 97 mm  
+Refil: Mavi Refil  
+Kolideki Adet: 50 Adet  
+
+BASKI BİLGİLERİ
+
+Lazer Baskı Alanı: 50 x 5,5 mm  
+Serigraf Baskı Alanı: 150 x 65 mm  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Firma tanıtım hediyeleri  
+Fuar ve etkinlik promosyonları  
+Müşteri ve bayi hediyeleri  
+Ofis promosyon ürünleri  
+
+RENK VE STOK BİLGİSİ
+
+Ürün renkleri ve stok durumu dönemsel olarak değişebileceği için sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+Promosyon kalem seti siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
 `
 },
 
