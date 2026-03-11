@@ -3512,6 +3512,430 @@ Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebileceği
 Promosyon metal kalem siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
 `
 },
+{
+  id: "p101",
+  slug: "promosyon-cam-matara-500ml-cm-390",
+  title: "Promosyon Cam Matara 500 ml CM-390 | Logo Baskılı Cam Termos Matara",
+  category: "Termos",
+  image: "/products/promosyon-cam-matara-500ml-cm-390.jpg",
+
+  shortDesc:
+    "Promosyon cam matara 500 ml CM-390 modeli şık tasarımı, taşınabilir yapısı ve logo baskı uygulanabilir yüzeyi ile kurumsal promosyon termos ve matara modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon cam matara 500 ml CM-390 modeli modern tasarımı ve kullanışlı yapısı ile kurumsal promosyon ürünleri arasında dikkat çeken matara ve termos modellerinden biridir. Günlük kullanım için ideal olan bu ürün özellikle spor yapanlar, ofis çalışanları ve seyahat eden kişiler için oldukça pratik bir kullanım sunar.
+
+Promosyon mataralar markaların reklam gücünü artıran etkili promosyon ürünleri arasında yer almaktadır. Gün içerisinde sürekli kullanılan bu ürünler sayesinde firmanızın logosu kullanıcıların günlük hayatında sürekli görünür olur ve marka bilinirliğini artırır.
+
+Promosyon cam matara CM-390 modeli üzerine firmanıza ait logo veya marka baskısı uygulanabilir. Bu sayede ürün hem kullanışlı hem de güçlü bir tanıtım aracı haline gelir. Kurumsal etkinlikler, fuarlar, müşteri hediyeleri ve promosyon kampanyalarında sıkça tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Promosyon cam mataralar özellikle çevre dostu kullanım sağlayan ve tekrar kullanılabilir yapısı sayesinde son yıllarda en çok tercih edilen kurumsal promosyon ürünlerinden biri haline gelmiştir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Cam Matara  
+Kategori: Promosyon Termos / Matara  
+Kapasite: 500 ml  
+Ürün Ölçüsü: 6,5 x 22,5 cm  
+
+KULLANIM ALANLARI
+
+Fuar ve etkinlik promosyonları  
+Kurumsal firma hediyeleri  
+Çalışan motivasyon ürünleri  
+Spor ve günlük kullanım  
+
+RENK SEÇENEKLERİ
+
+Ürün renk seçenekleri ve stok durumu dönemsel olarak değişebileceği için sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+Promosyon cam matara siparişleri genellikle toplu üretim şeklinde hazırlanmakta olup minimum sipariş adedi ve baskı detayları teklif aşamasında belirlenmektedir. Kurumsal siparişler için hızlı teklif alabilirsiniz.
+`
+},
+{
+  id: "p102",
+  slug: "promosyon-cam-matara-750ml-cm-400",
+  title: "Promosyon Cam Matara 750 ml CM-400 | Logo Baskılı Cam Termos Matara",
+  category: "Termos",
+  image: "/products/promosyon-cam-matara-750ml-cm-400.jpg",
+
+  shortDesc:
+    "Promosyon cam matara 750 ml CM-400 modeli geniş kapasitesi, şık tasarımı ve logo baskı uygulanabilir yüzeyi ile kurumsal promosyon termos ve matara ürünleri arasında öne çıkan modellerden biridir.",
+
+  longDesc: `
+Promosyon cam matara 750 ml CM-400 modeli modern tasarımı ve geniş hacmi ile kurumsal promosyon ürünleri arasında dikkat çeken matara ve termos modellerinden biridir. Günlük kullanım için oldukça uygun olan bu ürün spor, ofis ve seyahat gibi farklı alanlarda rahatlıkla kullanılabilir.
+
+Promosyon mataralar firmaların marka bilinirliğini artırmak için tercih ettiği etkili promosyon ürünleri arasında yer almaktadır. Gün içerisinde sürekli kullanılan bu ürünler sayesinde firmanızın logosu uzun süre kullanıcıların gözünün önünde olur ve marka görünürlüğü artar.
+
+Promosyon cam matara CM-400 modeli üzerine firmanıza ait logo veya marka baskısı uygulanabilir. Bu sayede ürün yalnızca kullanışlı bir içecek taşıma ürünü değil aynı zamanda güçlü bir reklam aracı haline gelir.
+
+Promosyon cam mataralar çevre dostu ve tekrar kullanılabilir yapıları sayesinde son yıllarda en çok tercih edilen kurumsal promosyon ürünleri arasında yer almaktadır. Özellikle fuarlar, etkinlikler, müşteri hediyeleri ve çalışan motivasyon paketlerinde sıkça tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Cam Matara  
+Kategori: Promosyon Termos / Matara  
+Kapasite: 750 ml  
+Ürün Ölçüsü: 7 x 25 cm  
+
+KULLANIM ALANLARI
+
+Fuar ve etkinlik promosyonları  
+Kurumsal firma hediyeleri  
+Çalışan motivasyon ürünleri  
+Spor ve günlük kullanım  
+
+RENK SEÇENEKLERİ
+
+Ürün renk seçenekleri ve stok durumu dönemsel olarak değişebileceği için sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+Promosyon cam matara siparişleri toplu üretim şeklinde hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir. Kurumsal siparişler için hızlı teklif alabilirsiniz.
+`
+},
+{
+  id: "p103",
+  slug: "promosyon-termos-500ml-tk-100",
+  title: "Promosyon Termos 500 ml TK-100 | Lazer Baskılı Logo Termos",
+  category: "Termos",
+  image: "/products/promosyon-termos-500ml-tk-100.jpg",
+
+  shortDesc:
+    "Promosyon termos 500 ml TK-100 modeli şık metal tasarımı, lazer baskı uygulanabilir yüzeyi ve günlük kullanıma uygun yapısı ile en çok tercih edilen promosyon termos modelleri arasında yer alır.",
+
+  longDesc: `
+Promosyon termos 500 ml TK-100 modeli modern tasarımı ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında en çok tercih edilen termos modellerinden biridir. Günlük kullanım için oldukça pratik olan bu ürün ofis, seyahat, spor ve açık hava etkinliklerinde rahatlıkla kullanılabilir.
+
+Promosyon termoslar markaların görünürlüğünü artıran etkili reklam ürünleri arasında yer almaktadır. Gün içerisinde sürekli kullanılan termoslar sayesinde firmanızın logosu kullanıcıların günlük hayatında sıkça görünür ve marka bilinirliği artar.
+
+Promosyon termos TK-100 modeli üzerine firmanıza ait logo veya marka baskısı lazer baskı yöntemi ile uygulanabilir. Lazer baskı yöntemi sayesinde baskı kalıcı ve uzun ömürlü olur. Bu özellik termosu hem prestijli hem de güçlü bir kurumsal promosyon ürünü haline getirir.
+
+Promosyon termos ürünleri özellikle fuarlar, seminerler, bayi toplantıları, müşteri hediyeleri ve çalışan motivasyon paketlerinde sıkça tercih edilmektedir. Kullanışlı ve kaliteli bir promosyon ürünü olması sayesinde markanızın profesyonel bir şekilde temsil edilmesine katkı sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kapasite: 500 ml  
+Ürün Ölçüsü: 7 x 19 cm  
+Baskı Türü: Lazer Baskı  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Günlük kullanım ve seyahat  
+
+RENK SEÇENEKLERİ
+
+Beyaz  
+Gümüş  
+Kırmızı  
+Lacivert  
+Siyah  
+Altın  
+
+Ürün renk seçenekleri ve stok durumları dönemsel olarak değişebileceği için sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+Promosyon termos siparişleri genellikle toplu üretim şeklinde hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir. Kurumsal siparişler için hızlı teklif alabilirsiniz.
+`
+},
+{
+  id: "p104",
+  slug: "promosyon-termos-500ml-tk-110",
+  title: "Promosyon Termos 500 ml TK-110 | UV ve Lazer Baskılı Logo Termos",
+  category: "Termos",
+  image: "/products/promosyon-termos-500ml-tk-110.jpg",
+
+  shortDesc:
+    "Promosyon termos 500 ml TK-110 modeli modern tasarımı, UV ve lazer baskı uygulanabilir yüzeyi ve dayanıklı yapısı ile kurumsal promosyon termos modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon termos 500 ml TK-110 modeli şık tasarımı ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında sıkça tercih edilen termos modellerinden biridir. Günlük kullanım için ideal olan bu ürün ofis, seyahat, spor ve açık hava etkinliklerinde rahatlıkla kullanılabilir.
+
+Promosyon termos ürünleri firmaların marka bilinirliğini artırmak için tercih ettiği etkili reklam araçları arasında yer almaktadır. Gün içerisinde sık kullanılan bir ürün olması sayesinde firmanızın logosu kullanıcıların günlük hayatında sürekli görünür hale gelir.
+
+Promosyon termos TK-110 modeli üzerine firmanıza ait logo veya marka baskısı UV baskı veya lazer baskı yöntemi ile uygulanabilir. Bu sayede ürün hem estetik hem de uzun ömürlü bir kurumsal promosyon ürünü haline gelir.
+
+Promosyon termoslar özellikle fuarlar, seminerler, müşteri ziyaretleri, bayi toplantıları ve kurumsal etkinliklerde dağıtılabilecek en kullanışlı promosyon ürünleri arasında yer almaktadır. Kullanışlı yapısı sayesinde markanızın profesyonel şekilde temsil edilmesine katkı sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kapasite: 500 ml  
+Ürün Ölçüsü: 8,5 x 23,5 cm  
+Baskı Türü: UV Baskı / Lazer Baskı  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Günlük kullanım ve seyahat  
+
+RENK SEÇENEKLERİ
+
+Gümüş  
+Kırmızı  
+Lacivert  
+Siyah  
+Beyaz  
+
+Ürün renk seçenekleri ve stok durumları dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon termos siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir. Kurumsal siparişler için hızlı teklif alabilirsiniz.
+`
+},
+{
+  id: "p105",
+  slug: "promosyon-termos-900ml-tk-120",
+  title: "Promosyon Termos 900 ml TK-120 | Lazer Baskılı Logo Termos",
+  category: "Termos",
+  image: "/products/promosyon-termos-900ml-tk-120.jpg",
+
+  shortDesc:
+    "Promosyon termos 900 ml TK-120 modeli geniş kapasitesi, lazer baskıya uygun yüzeyi ve günlük kullanıma uygun şık tasarımı ile kurumsal promosyon termos modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon termos 900 ml TK-120 modeli geniş hacmi ve kullanışlı yapısı ile kurumsal promosyon ürünleri arasında dikkat çeken termos modellerinden biridir. Günlük kullanım, ofis, seyahat, spor ve açık hava aktiviteleri için uygun olan bu ürün yüksek kapasitesi sayesinde uzun süreli kullanım avantajı sunar.
+
+Promosyon termos ürünleri, firmaların marka görünürlüğünü artırmak için tercih ettiği en etkili promosyon seçenekleri arasında yer almaktadır. Gün içinde sık kullanılan bir ürün olması sayesinde firmanızın logosu kullanıcıların günlük hayatında sürekli görünür hale gelir ve marka bilinirliğine katkı sağlar.
+
+Promosyon termos TK-120 modeli üzerine firmanıza ait logo veya marka baskısı lazer baskı yöntemi ile uygulanabilir. Lazer baskı sayesinde baskı daha kalıcı ve profesyonel bir görünüm sunar. Bu özellik ürünü hem prestijli hem de uzun ömürlü bir kurumsal promosyon ürünü haline getirir.
+
+Promosyon termoslar özellikle fuarlar, bayi toplantıları, müşteri hediyeleri, çalışan motivasyon paketleri ve kurumsal etkinliklerde sıkça tercih edilmektedir. Yüksek hacimli termos modelleri günlük kullanım değeri yüksek olduğu için marka tanıtımında oldukça etkili sonuç verir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kapasite: 900 ml  
+Ürün Ölçüsü: 25 x Ø 9 cm  
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 23 x 80 mm  
+Kolideki Adet: 25  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Günlük kullanım, seyahat ve spor  
+
+RENK SEÇENEKLERİ
+
+Kırmızı  
+Mavi  
+Pembe  
+Siyah  
+
+Ürün renk seçenekleri ve stok durumları dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon termos siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı, teslim süresi ve baskı detayları teklif aşamasında netleşmektedir. Kurumsal siparişler için hızlı teklif alabilirsiniz.
+`
+},
+{
+  id: "p106",
+  slug: "promosyon-termos-900ml-tk-125",
+  title: "Promosyon Termos 900 ml TK-125 | Lazer Baskılı Logo Termos",
+  category: "Termos",
+  image: "/products/promosyon-termos-900ml-tk-125.jpg",
+
+  shortDesc:
+    "Promosyon termos 900 ml TK-125 modeli geniş kapasitesi, lazer baskı uygulanabilir yüzeyi ve şık tasarımı ile kurumsal promosyon termos modelleri arasında öne çıkan kullanışlı ürünlerden biridir.",
+
+  longDesc: `
+Promosyon termos 900 ml TK-125 modeli geniş kapasitesi ve modern tasarımı ile kurumsal promosyon ürünleri arasında en çok tercih edilen termos modellerinden biridir. Günlük kullanım, ofis, seyahat ve açık hava aktiviteleri için oldukça kullanışlı bir yapıya sahiptir.
+
+Promosyon termoslar markaların reklam gücünü artıran etkili promosyon ürünleri arasında yer almaktadır. Gün içerisinde sık kullanılan bu ürünler sayesinde firmanızın logosu kullanıcıların günlük hayatında sürekli görünür olur ve marka bilinirliği artar.
+
+Promosyon termos TK-125 modeli üzerine firmanıza ait logo veya marka baskısı lazer baskı yöntemi ile uygulanabilir. Lazer baskı yöntemi sayesinde baskı uzun ömürlü ve kalıcı bir görünüm sağlar. Bu özellik termosu hem prestijli hem de güçlü bir kurumsal promosyon ürünü haline getirir.
+
+Promosyon termos ürünleri özellikle fuarlar, seminerler, bayi toplantıları, müşteri hediyeleri ve çalışan motivasyon paketlerinde sıkça tercih edilmektedir. Yüksek kapasiteli termos modelleri günlük kullanım değeri yüksek olduğu için marka tanıtımı açısından oldukça etkili sonuçlar sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kapasite: 900 ml  
+Ürün Ölçüsü: 23 x Ø 9 cm  
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 23 x 80 mm  
+Kolideki Adet: 25  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Günlük kullanım ve seyahat  
+
+RENK SEÇENEKLERİ
+
+Renk seçenekleri ve stok durumları dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon termos siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir. Kurumsal siparişler için hızlı teklif alabilirsiniz.
+`
+},
+{
+  id: "p107",
+  slug: "promosyon-termos-400ml-tk-130",
+  title: "Promosyon Termos 400 ml TK-130 | Lazer Baskılı Logo Termos",
+  category: "Termos",
+  image: "/products/promosyon-termos-400ml-tk-130.jpg",
+
+  shortDesc:
+    "Promosyon termos 400 ml TK-130 modeli kompakt tasarımı, lazer baskı uygulanabilir yüzeyi ve günlük kullanıma uygun yapısı ile kurumsal promosyon termos modelleri arasında tercih edilen ürünlerden biridir.",
+
+  longDesc: `
+Promosyon termos 400 ml TK-130 modeli kompakt ve kullanışlı tasarımı ile kurumsal promosyon ürünleri arasında sıkça tercih edilen termos modellerinden biridir. Taşınabilir boyutu sayesinde çanta içinde rahatlıkla taşınabilir ve günlük kullanım için oldukça pratiktir.
+
+Promosyon termoslar firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Gün içerisinde sürekli kullanılan bir ürün olması sayesinde firmanızın logosu kullanıcıların günlük hayatında sıkça görünür hale gelir.
+
+Promosyon termos TK-130 modeli üzerine firmanıza ait logo veya marka baskısı lazer baskı yöntemi ile uygulanabilir. Lazer baskı yöntemi sayesinde baskı daha kalıcı ve uzun ömürlü olur. Bu özellik termosu hem prestijli hem de güçlü bir kurumsal promosyon ürünü haline getirir.
+
+Promosyon termos ürünleri özellikle fuarlar, etkinlikler, müşteri hediyeleri, bayi toplantıları ve çalışan motivasyon paketlerinde tercih edilen kullanışlı promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kapasite: 400 ml  
+Ürün Ölçüsü: 23 x Ø 7 cm  
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 23 x 80 mm  
+Kolideki Adet: 30  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Günlük kullanım ve seyahat  
+
+RENK SEÇENEKLERİ
+
+Ürün renk seçenekleri ve stok durumları dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon termos siparişleri toplu üretim şeklinde hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir. Kurumsal siparişler için hızlı teklif alabilirsiniz.
+`
+},
+{
+  id: "p108",
+  slug: "promosyon-termos-1300ml-tk-140",
+  title: "Promosyon Termos 1300 ml TK-140 | Kilitli Kapak Logo Baskılı Termos",
+  category: "Termos",
+  image: "/products/promosyon-termos-1300ml-tk-140.jpg",
+
+  shortDesc:
+    "Promosyon termos 1300 ml TK-140 modeli büyük kapasitesi, kilitli kapak sistemi ve logo baskı uygulanabilir yüzeyi ile kurumsal promosyon termos modelleri arasında dikkat çeken ürünlerden biridir.",
+
+  longDesc: `
+Promosyon termos 1300 ml TK-140 modeli yüksek kapasitesi ve kullanışlı tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan termos modellerinden biridir. Geniş hacmi sayesinde gün boyu sıcak veya soğuk içeceklerin taşınmasına imkan sağlar.
+
+Promosyon termoslar firmaların marka bilinirliğini artırmak için tercih ettiği en etkili promosyon ürünleri arasında yer almaktadır. Günlük hayatta sık kullanılan termoslar sayesinde firmanızın logosu kullanıcıların günlük yaşamında sürekli görünür hale gelir.
+
+Promosyon termos TK-140 modeli kilitli kapak sistemi sayesinde güvenli kullanım sunar ve taşıma sırasında dökülme riskini azaltır. Bu özellik özellikle seyahat, spor ve açık hava aktivitelerinde ürünü oldukça pratik hale getirir.
+
+Promosyon termos üzerine firmanıza ait logo veya marka baskısı uygulanabilir. Bu sayede ürün hem kullanışlı hem de etkili bir reklam aracı haline gelir. Kurumsal etkinlikler, fuarlar, müşteri hediyeleri ve çalışan motivasyon paketleri için tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kapasite: 1300 ml  
+Ürün Ölçüsü: 9,5 x 30 cm  
+Kapak Tipi: Kilitli Kapak  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Günlük kullanım, seyahat ve spor  
+
+RENK SEÇENEKLERİ
+
+Ürün renk seçenekleri ve stok durumları dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon termos siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir. Kurumsal siparişler için hızlı teklif alabilirsiniz.
+`
+},
+{
+  id: "p109",
+  slug: "promosyon-termos-1000ml-tk-150",
+  title: "Promosyon Termos 1000 ml TK-150 | Kilitli Kapak Logo Baskılı Termos",
+  category: "Termos",
+  image: "/products/promosyon-termos-1000ml-tk-150.jpg",
+
+  shortDesc:
+    "Promosyon termos 1000 ml TK-150 modeli kilitli kapak sistemi, geniş kapasitesi ve logo baskı uygulanabilir yüzeyi ile kurumsal promosyon termos modelleri arasında tercih edilen kullanışlı ürünlerden biridir.",
+
+  longDesc: `
+Promosyon termos 1000 ml TK-150 modeli geniş hacmi ve ergonomik tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan termos modellerinden biridir. Günlük kullanım, seyahat, spor aktiviteleri ve ofis ortamında sıcak veya soğuk içeceklerin taşınması için oldukça pratik bir kullanım sunar.
+
+Promosyon termos ürünleri firmaların marka bilinirliğini artırmak için tercih ettiği en etkili promosyon ürünleri arasında yer almaktadır. Gün içerisinde sık kullanılan bir ürün olması sayesinde firmanızın logosu kullanıcıların günlük hayatında sürekli görünür hale gelir.
+
+Promosyon termos TK-150 modeli kilitli kapak sistemi sayesinde güvenli kullanım sağlar ve taşıma sırasında dökülme riskini azaltır. Bu özellik özellikle seyahat eden kullanıcılar için önemli bir avantaj sunar.
+
+Promosyon termos üzerine firmanıza ait logo veya marka baskısı uygulanabilir. Bu sayede termos hem kullanışlı bir ürün hem de güçlü bir kurumsal reklam aracı haline gelir. Kurumsal etkinlikler, fuarlar, müşteri hediyeleri ve çalışan motivasyon paketlerinde sıkça tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kapasite: 1000 ml  
+Ürün Ölçüsü: 8,5 x 25 cm  
+Kapak Tipi: Kilitli Kapak  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Günlük kullanım, seyahat ve spor  
+
+RENK SEÇENEKLERİ
+
+Ürün renk seçenekleri ve stok durumları dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon termos siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir. Kurumsal siparişler için hızlı teklif alabilirsiniz.
+`
+},
+{
+  id: "p110",
+  slug: "promosyon-termos-900ml-tk-155",
+  title: "Promosyon Termos 900 ml TK-155 | Kilitli Kapak Logo Baskılı Termos",
+  category: "Termos",
+  image: "/products/promosyon-termos-900ml-tk-155.jpg",
+
+  shortDesc:
+    "Promosyon termos 900 ml TK-155 modeli kilitli kapak sistemi, geniş kapasitesi ve logo baskı uygulanabilir yüzeyi ile kurumsal promosyon termos modelleri arasında öne çıkan kullanışlı ürünlerden biridir.",
+
+  longDesc: `
+Promosyon termos 900 ml TK-155 modeli ergonomik tasarımı ve kullanışlı yapısı ile kurumsal promosyon ürünleri arasında tercih edilen termos modellerinden biridir. Geniş kapasitesi sayesinde gün boyu sıcak veya soğuk içeceklerin taşınmasına imkan sağlar.
+
+Promosyon termos ürünleri firmaların marka bilinirliğini artırmak için tercih ettiği etkili promosyon ürünleri arasında yer almaktadır. Gün içerisinde sık kullanılan bir ürün olması sayesinde firmanızın logosu kullanıcıların günlük hayatında sürekli görünür hale gelir.
+
+Promosyon termos TK-155 modeli kilitli kapak sistemi sayesinde güvenli kullanım sunar ve taşıma sırasında dökülme riskini azaltır. Bu özellik özellikle seyahat, spor ve açık hava aktivitelerinde ürünü oldukça pratik hale getirir.
+
+Promosyon termos üzerine firmanıza ait logo veya marka baskısı uygulanabilir. Bu sayede termos hem kullanışlı bir ürün hem de güçlü bir kurumsal tanıtım aracı haline gelir. Kurumsal etkinlikler, fuarlar, müşteri hediyeleri ve çalışan motivasyon paketlerinde sıkça tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kapasite: 900 ml  
+Ürün Ölçüsü: 9,5 x 22 cm  
+Kapak Tipi: Kilitli Kapak  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Günlük kullanım, seyahat ve spor  
+
+RENK SEÇENEKLERİ
+
+Ürün renk seçenekleri ve stok durumları dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon termos siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir. Kurumsal siparişler için hızlı teklif alabilirsiniz.
+`
+},
 
 ];
 
