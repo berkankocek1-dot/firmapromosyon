@@ -2844,6 +2844,674 @@ Promosyon powerbank ürünleri özellikle fuarlar, kurumsal etkinlikler, müşte
 Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
 `
 },
+{
+  id: "p84",
+  slug: "promosyon-powerbank-10000mah-wireless-ayakli-standli-pb-120",
+  title: "Promosyon Powerbank 10.000 mAh Wireless Ayaklı Standlı PB-120 | Logo Baskılı Powerbank",
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-pb-120.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-120 modeli 10.000 mAh kapasitesi, kablosuz şarj özelliği, ayaklı telefon standı ve LED logo gövdesi ile kurumsal promosyon ürünleri arasında öne çıkan teknolojik hediyelerden biridir.",
+
+  longDesc: `
+Promosyon powerbank PB-120 modeli 10.000 mAh kapasitesi ile mobil cihazlar için güçlü ve pratik bir taşınabilir şarj çözümü sunar. Wireless kablosuz şarj özelliği sayesinde uyumlu cihazlar kablo kullanmadan kolayca şarj edilebilir.
+
+Vakumlu rubber gövde tasarımı sayesinde ürün hem şık hem de modern bir görünüm sunar. Üzerindeki LED logo gövdesi sayesinde firmanıza ait logo veya marka baskısı daha dikkat çekici hale gelir. Bu özellik, ürünü sadece kullanışlı bir teknoloji aksesuarı değil aynı zamanda etkili bir reklam ürünü haline getirir.
+
+Promosyon powerbank PB-120 modeli ayaklı telefon standı özelliği ile de öne çıkar. Masa üzerinde telefon standı olarak kullanılabilmesi sayesinde hem ofis ortamında hem de günlük kullanımda ekstra konfor sağlar.
+
+Ürün üzerinde 1 adet USB çıkışı, 1 adet Micro giriş ve 1 adet Type-C giriş bulunmaktadır. Ayrıca dahili iPhone, Micro ve Type-C kablo seçenekleri sayesinde farklı cihazlarla uyumlu pratik bir kullanım sunar.
+
+TEKNİK ÖZELLİKLER
+
+Kapasite: 10.000 mAh  
+Şarj Özelliği: Wireless Kablosuz Şarj  
+Gövde: Vakumlu Rubber Gövde  
+Logo: LED Logo Gövde  
+Stand: Ayaklı Telefon Standı  
+Çıkış: 1 Adet USB  
+Giriş 1: Micro  
+Giriş 2: Type-C  
+Dahili Kablolar: iPhone - Micro - Type-C  
+Kutu: Taslama Kutu  
+
+Promosyon powerbank ürünleri özellikle fuarlar, kurumsal etkinlikler, müşteri hediyeleri ve promosyon kampanyaları için oldukça ideal teknolojik promosyon ürünleri arasında yer almaktadır.
+
+Ürün renk ve stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p85",
+  slug: "promosyon-powerbank-10000mah-wireless-lightup-logo-pb-130",
+  title: "Promosyon Powerbank 10.000 mAh Wireless Light-Up Logo PB-130 | Logo Baskılı Powerbank",
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-pb-130.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-130 modeli 10.000 mAh kapasitesi, kablosuz şarj özelliği ve Light-Up lazer kazıma logo teknolojisi ile kurumsal promosyon ürünleri arasında dikkat çeken teknolojik hediyelerden biridir.",
+
+  longDesc: `
+Promosyon powerbank PB-130 modeli 10.000 mAh kapasitesi ile mobil cihazlar için güçlü bir taşınabilir şarj çözümü sunar. Günlük kullanımda telefon, tablet ve diğer elektronik cihazların hızlı şekilde şarj edilmesini sağlar.
+
+Wireless kablosuz şarj özelliği sayesinde uyumlu cihazlar kablo kullanmadan doğrudan şarj edilebilir. Bu özellik özellikle modern akıllı telefon kullanıcıları için pratik bir kullanım sunar.
+
+Rubber yüzey kaplaması sayesinde ürün hem şık hem de dayanıklı bir tasarıma sahiptir. Üzerinde uygulanan lazer kazıma Light-Up logo teknolojisi sayesinde firmanızın logosu ışıklı şekilde görünür hale gelir ve dikkat çekici bir reklam ürünü oluşturur.
+
+Promosyon powerbank ürünleri teknoloji promosyonları arasında en çok tercih edilen kurumsal reklam ürünlerinden biridir. Uzun süre kullanılan bir ürün olması sayesinde markanızın görünürlüğünü artırır.
+
+TEKNİK ÖZELLİKLER
+
+Kapasite: 10.000 mAh  
+Gösterge: 5 Kademeli LED Gösterge  
+Renk: Siyah  
+Giriş: USB  
+Çıkış 1: 2A USB-A  
+Çıkış 2: 2A USB-A  
+Çıkış 3: 5W Wireless  
+Materyal: Rubber  
+Baskı Türü: Lazer Kazıma Light-Up Logo  
+Kutu: Siyah Hediye Kutusu  
+
+Ürün dahilinde Micro USB şarj kablosu bulunmaktadır.
+
+Promosyon powerbank ürünleri özellikle fuarlar, kurumsal etkinlikler, müşteri hediyeleri ve promosyon kampanyalarında en çok tercih edilen teknolojik promosyon ürünleri arasında yer almaktadır.
+
+Ürün stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p86",
+  slug: "promosyon-powerbank-20000mah-led-fenerli-pb-140",
+  title: "Promosyon Powerbank 20.000 mAh LED Fenerli PB-140 | Logo Baskılı Powerbank",
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-pb-140.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-140 modeli 20.000 mAh yüksek kapasitesi, dahili kabloları ve LED fener özelliği ile kurumsal promosyon ürünleri arasında dikkat çeken güçlü bir taşınabilir şarj cihazıdır.",
+
+  longDesc: `
+Promosyon powerbank PB-140 modeli 20.000 mAh yüksek kapasitesi sayesinde mobil cihazlar için güçlü ve uzun süreli bir taşınabilir şarj çözümü sunar. Günlük kullanımda telefon, tablet ve diğer elektronik cihazların güvenli şekilde şarj edilmesini sağlar.
+
+Ürün üzerinde bulunan kademeli LED gösterge sayesinde powerbank'in kalan batarya seviyesi kolayca takip edilebilir. Ayrıca LED fener özelliği sayesinde karanlık ortamlarda pratik kullanım sağlar.
+
+PB-140 modeli dahili iOS, USB-C ve Micro USB kabloları sayesinde farklı cihazlarla uyumlu kullanım sunar. Böylece ek kablo taşıma ihtiyacını ortadan kaldırarak kullanıcıya büyük kolaylık sağlar.
+
+ABS ve cam görünümlü modern tasarımı sayesinde ürün hem şık hem de dayanıklı bir yapıya sahiptir. Üzerine firmanıza ait logo veya marka baskısı UV renkli baskı yöntemi ile uygulanabilir.
+
+Promosyon powerbank ürünleri teknoloji promosyonları arasında en çok tercih edilen kurumsal reklam ürünlerinden biridir. Fuarlar, kurumsal etkinlikler ve müşteri hediyeleri için oldukça etkili bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Kapasite: 20.000 mAh  
+Gösterge: Kademeli LED Işık  
+Renk: Siyah  
+Giriş: Micro USB / Dahili USB-A  
+Çıkış 1: 2A USB-A  
+Çıkış 2: Dahili iOS Kablo  
+Çıkış 3: Dahili USB-C Kablo  
+Çıkış 4: Dahili Micro USB Kablo  
+Materyal: ABS ve Cam Görünüm  
+Baskı Türü: UV Renkli Baskı  
+Ek Özellik: LED Fener  
+Kutu: Siyah Hediye Kutusu  
+
+Ürün dahilinde Micro USB şarj kablosu bulunmaktadır.
+
+Promosyon powerbank siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+
+Ürün stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+`
+},
+{
+  id: "p87",
+  slug: "promosyon-powerbank-20000mah-pb-150",
+  title: "Promosyon Powerbank 20.000 mAh PB-150 | Logo Baskılı Kurumsal Powerbank",
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-pb-150.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-150 modeli 20.000 mAh yüksek kapasitesi, LED gösterge sistemi ve çift giriş desteği ile kurumsal promosyon ürünleri arasında en çok tercih edilen taşınabilir şarj cihazlarından biridir.",
+
+  longDesc: `
+Promosyon powerbank PB-150 modeli 20.000 mAh yüksek kapasitesi sayesinde mobil cihazlar için güçlü ve uzun süreli bir taşınabilir şarj çözümü sunar. Günlük kullanımda telefon, tablet ve diğer elektronik cihazların güvenli şekilde şarj edilmesini sağlar.
+
+Kademeli LED gösterge sistemi sayesinde powerbank'in kalan batarya seviyesi kolayca takip edilebilir. Bu özellik kullanıcıya pratik bir kullanım deneyimi sunar.
+
+Micro ve Type-C giriş desteği sayesinde farklı kablo seçenekleri ile kolay şarj edilebilir. 2A USB-A çıkışı sayesinde cihazlar hızlı ve güvenli şekilde şarj edilebilir.
+
+ABS gövde yapısı sayesinde ürün dayanıklı ve uzun ömürlü bir tasarıma sahiptir. Üzerine firmanıza ait logo veya marka baskısı lazer baskı veya UV renkli baskı yöntemleri ile uygulanabilir.
+
+Promosyon powerbank ürünleri teknoloji promosyonları arasında en çok tercih edilen kurumsal reklam ürünlerinden biridir. Fuarlar, kurumsal etkinlikler, müşteri hediyeleri ve promosyon kampanyalarında oldukça etkili bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Kapasite: 20.000 mAh  
+Gösterge: Kademeli LED Işık  
+Renk: Siyah, Beyaz  
+Giriş: Micro ve Type-C  
+Çıkış: 2A USB-A  
+Materyal: ABS  
+Baskı Türü: Lazer Baskı / UV Renkli Baskı  
+Kutu: Siyah Hediye Kutusu  
+
+Ürün dahilinde Micro USB şarj kablosu bulunmaktadır.
+
+Promosyon powerbank siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+
+Ürün renk ve stok durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+`
+},
+{
+  id: "p88",
+  slug: "promosyon-ajanda-16x24-termo-deri-aj-160",
+  title: "Promosyon Ajanda 16 x 24 cm AJ-160 | Logo Baskılı Termo Deri Kurumsal Ajanda",
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-160.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-160 modeli 16 x 24 cm ölçüsü, termo deri kapak yapısı ve 336 sayfalık kaliteli iç tasarımı ile kurumsal promosyon ajanda modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon ajanda AJ-160 modeli şık termo deri kapak tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen ajanda modellerinden biridir. Günlük planlama, toplantı notları ve iş takibi için oldukça kullanışlıdır.
+
+Promosyon ajandalar firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Ofis ortamında sürekli kullanılan ajandalar sayesinde markanız müşterilerinizin ve iş ortaklarınızın masasında yıl boyunca görünür olur.
+
+Promosyon ajanda AJ-160 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım gofre veya dijital baskı yöntemleri ile uygulanabilir. Böylece ürün hem prestijli hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER
+
+Ebat: 16 x 24 cm  
+Kapak: Termo Deri  
+Kağıt: 70 gr Ivory Krem  
+Sayfa Sayısı: 336  
+Baskı Türü: Gofre, Dijital  
+Koli Adedi: 40  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Taba  
+Lacivert  
+Turuncu  
+Turkuaz  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fuarlar ve müşteri ziyaretleri için oldukça ideal promosyon ürünleri arasında yer almaktadır. Logo baskılı promosyon ajanda siparişi vererek markanızı müşterilerinizin masasında yıl boyunca görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p89",
+  slug: "promosyon-ajanda-16x24-termo-deri-aj-170",
+  title: "Promosyon Ajanda 16 x 24 cm AJ-170 | Logo Baskılı Termo Deri Kurumsal Ajanda",
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-170.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-170 modeli 16 x 24 cm ölçüsü, termo deri kapak yapısı ve 320 sayfalık krem kağıt iç tasarımı ile kurumsal promosyon ajanda modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon ajanda AJ-170 modeli şık termo deri kapak tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen ajanda modellerinden biridir. Günlük planlama, toplantı notları ve iş takibi için oldukça kullanışlıdır.
+
+Promosyon ajandalar firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Ofis ortamında sürekli kullanılan ajandalar sayesinde markanız müşterilerinizin ve iş ortaklarınızın masasında yıl boyunca görünür olur.
+
+Promosyon ajanda AJ-170 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım gofre veya UV baskı yöntemleri ile uygulanabilir. Böylece ürün hem prestijli hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER
+
+Ebat: 16 x 24 cm  
+Kapak: Termo Deri  
+Kağıt: Krem Kağıt  
+Sayfa Sayısı: 320  
+Baskı Türü: Gofre, UV Baskı  
+Koli Adedi: 40  
+
+RENK SEÇENEKLERİ
+
+Turkuaz  
+Turuncu  
+Taba  
+Gri  
+Kırmızı  
+Lacivert  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fuarlar ve müşteri ziyaretleri için oldukça ideal promosyon ürünleri arasında yer almaktadır. Logo baskılı promosyon ajanda siparişi vererek markanızı müşterilerinizin masasında yıl boyunca görünür hale getirebilirsiniz.
+`
+},
+{
+  id: "p90",
+  slug: "promosyon-ajanda-17x24-termo-pu-aj-180",
+  title: "Promosyon Ajanda 17 x 24 cm AJ-180 | Logo Baskılı Termo PU Kurumsal Ajanda",
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-180.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-180 modeli 17 x 24 cm ölçüsü, termo PU sert kapak yapısı ve 336 sayfalık ivory krem kağıt iç tasarımı ile kurumsal promosyon ajanda modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon ajanda AJ-180 modeli şık termo PU sert kapak tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen ajanda modellerinden biridir. Günlük planlama, toplantı notları ve iş takibi için oldukça kullanışlıdır.
+
+Ajanda üzerinde bulunan telefon bölmesi sayesinde kullanıcılar telefonlarını veya küçük notlarını pratik şekilde saklayabilir. Bu özellik ajandayı hem fonksiyonel hem de kullanışlı bir promosyon ürünü haline getirir.
+
+Promosyon ajandalar firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Ofis ortamında sürekli kullanılan ajandalar sayesinde markanız müşterilerinizin ve iş ortaklarınızın masasında yıl boyunca görünür olur.
+
+Promosyon ajanda AJ-180 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım gofre veya dijital baskı yöntemleri ile uygulanabilir. Böylece ürün hem prestijli hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER
+
+Ebat: 17 x 24 cm  
+Kapak: Termo PU Sert Kapak  
+Kağıt: 70 gr Ivory Krem  
+Sayfa Sayısı: 336  
+Baskı Türü: Gofre, Dijital  
+Ek Özellik: Telefon Bölmesi  
+Koli Adedi: 40  
+
+RENK SEÇENEKLERİ
+
+Gri  
+Kırmızı  
+Taba  
+Füme  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fuarlar ve müşteri ziyaretleri için oldukça ideal promosyon ürünleri arasında yer almaktadır.
+`
+},
+{
+  id: "p91",
+  slug: "promosyon-ajanda-17x24-termo-deri-aj-190",
+  title: "Promosyon Ajanda 17 x 24 cm AJ-190 | Logo Baskılı Termo Deri Kurumsal Ajanda",
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-190.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-190 modeli 17 x 24 cm ölçüsü, termo deri kapak yapısı ve 336 sayfalık ivory krem kağıt iç tasarımı ile kurumsal promosyon ajanda modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon ajanda AJ-190 modeli şık termo deri kapak tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen ajanda modellerinden biridir. Günlük planlama, toplantı notları ve iş takibi için oldukça kullanışlıdır.
+
+Promosyon ajandalar firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Ofis ortamında sürekli kullanılan ajandalar sayesinde markanız müşterilerinizin ve iş ortaklarınızın masasında yıl boyunca görünür olur.
+
+Promosyon ajanda AJ-190 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım gofre veya dijital baskı yöntemleri ile uygulanabilir. Böylece ürün hem prestijli hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER
+
+Ebat: 17 x 24 cm  
+Kapak: Termo Deri  
+Kağıt: 70 gr Ivory Krem  
+Sayfa Sayısı: 336  
+Baskı Türü: Gofre, Dijital  
+Koli Adedi: 35  
+
+RENK SEÇENEKLERİ
+
+Lacivert  
+Kırmızı  
+Taba  
+Siyah  
+Gri  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fuarlar ve müşteri ziyaretleri için oldukça ideal promosyon ürünleri arasında yer almaktadır.
+`
+},
+{
+  id: "p92",
+  slug: "promosyon-anahtarlik-an-117",
+  title: "Promosyon Anahtarlık AN-117 | Logo Baskılı Kurumsal Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-117.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-117 modeli dayanıklı yapısı ve logo baskı uygulanabilir yüzeyi ile kurumsal promosyon ürünleri arasında en çok tercih edilen reklam ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-117 modeli pratik kullanımı ve şık tasarımı ile kurumsal promosyon ürünleri arasında sık tercih edilen modellerden biridir. Günlük hayatta sürekli kullanılan anahtarlıklar markanızın uzun süre görünür olmasını sağlar.
+
+Promosyon anahtarlık ürünleri firmalar için düşük maliyetli ancak etkili reklam araçlarıdır. Özellikle fuarlar, kampanyalar, müşteri ziyaretleri ve kurumsal etkinliklerde dağıtılabilecek ideal promosyon ürünleri arasında yer alır.
+
+Promosyon anahtarlık AN-117 modeli üzerine firmanıza ait logo, marka adı veya reklam tasarımı uygulanabilir. Böylece ürün hem kullanışlı hem de güçlü bir reklam ürünü haline gelir.
+
+Promosyon anahtarlıklar özellikle otomotiv sektörü, mağazalar, emlak ofisleri, bankalar ve birçok kurumsal firma tarafından tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Model: AN-117  
+Logo Baskı: Uygulanabilir  
+Kullanım: Kurumsal Promosyon Ürünü  
+
+Promosyon anahtarlık siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+
+Ürün stok ve model durumu dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+`
+},
+{
+  id: "p93",
+  slug: "promosyon-anahtarlik-an-120",
+  title: "Promosyon Anahtarlık AN-120 | Lazer Baskılı Kurumsal Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-120.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-120 modeli lazer baskı uygulanabilir yüzeyi ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında en çok tercih edilen reklam ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-120 modeli şık tasarımı ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen modellerden biridir. Günlük hayatta sürekli kullanılan anahtarlıklar markanızın uzun süre görünür olmasını sağlar.
+
+Promosyon anahtarlık ürünleri firmalar için düşük maliyetli ancak etkili reklam araçlarıdır. Özellikle fuarlar, kampanyalar, müşteri ziyaretleri ve kurumsal etkinliklerde dağıtılabilecek ideal promosyon ürünleri arasında yer alır.
+
+Promosyon anahtarlık AN-120 modeli üzerine firmanıza ait logo, marka adı veya reklam tasarımı lazer baskı yöntemi ile uygulanabilir. Bu sayede logo uzun süre kalıcı şekilde ürün üzerinde yer alır.
+
+TEKNİK ÖZELLİKLER
+
+Model: AN-120  
+Baskı Türü: Lazer Baskı  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Kırmızı  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon anahtarlık siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+
+Promosyon anahtarlıklar özellikle otomotiv sektörü, emlak firmaları, mağazalar ve kurumsal işletmeler tarafından sıklıkla tercih edilen promosyon ürünleri arasında yer almaktadır.
+`
+},
+{
+  id: "p94",
+  slug: "promosyon-tarihsiz-defter-14-5x21-td-116",
+  title: "Promosyon Tarihsiz Defter 14,5 x 21 cm TD-116 | Logo Baskılı Kurumsal Defter",
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-116.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-116 modeli 14,5 x 21 cm ölçüsü, termo deri kapak yapısı ve 224 sayfalık ivory krem kağıt iç tasarımı ile kurumsal promosyon defter modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-116 modeli şık termo deri kapak tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen defter modellerinden biridir. Günlük notlar, toplantı notları ve iş planlamaları için oldukça kullanışlıdır.
+
+Promosyon defterler firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Ofis ortamında sürekli kullanılan defterler sayesinde markanız müşterilerinizin ve iş ortaklarınızın masasında uzun süre görünür olur.
+
+Promosyon tarihsiz defter TD-116 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım gofre veya UV baskı yöntemleri ile uygulanabilir. Böylece ürün hem prestijli hem de etkili bir reklam ürününe dönüşür.
+
+Defter üzerinde bulunan kalem tutucu özelliği kullanıcıya ekstra pratiklik sağlar. Ayrıca renkli kenar tasarımı sayesinde ürün estetik ve modern bir görünüm sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ebat: 14.5 x 21 cm  
+Kapak: Termo Deri  
+Sayfa Sayısı: 224  
+Sayfa Stili: Çizgili  
+Kağıt: 80 gr Ivory Krem  
+Baskı Türü: Gofre, UV  
+Kalem Tutucu: Var  
+Kenarlar: Renkli  
+Koli Adedi: 40  
+
+RENK SEÇENEKLERİ
+
+Taba  
+Lacivert  
+Yeşil  
+Füme  
+Siyah  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon tarihsiz defterler özellikle fuarlar, kurumsal etkinlikler, müşteri ziyaretleri ve yılbaşı promosyonları için oldukça ideal promosyon ürünleri arasında yer almaktadır.
+`
+},
+{
+  id: "p95",
+  slug: "promosyon-tarihsiz-defter-15x21-td-120",
+  title: "Promosyon Tarihsiz Defter 15 x 21 cm TD-120 | Logo Baskılı Termo Deri Defter",
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-120.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-120 modeli 15 x 21 cm ölçüsü, termo deri kapak tasarımı ve 224 sayfalık ivory krem kağıt iç yapısı ile kurumsal promosyon defter modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-120 modeli şık termo deri kapak tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen defter modellerinden biridir. Günlük notlar, toplantı notları ve iş planlamaları için oldukça kullanışlıdır.
+
+Promosyon defterler firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Ofis ortamında sürekli kullanılan defterler sayesinde markanız müşterilerinizin ve iş ortaklarınızın masasında uzun süre görünür olur.
+
+Promosyon tarihsiz defter TD-120 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım gofre veya dijital baskı yöntemleri ile uygulanabilir. Böylece ürün hem prestijli hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER
+
+Ebat: 15 x 21 cm  
+Kapak: Termo Deri  
+Kağıt: 70 gr Ivory Krem  
+Sayfa Sayısı: 224  
+Sayfa Stili: Çizgili  
+Baskı Türü: Gofre, Dijital  
+Koli Adedi: 40  
+Not: Kalem aksesuardır  
+
+RENK SEÇENEKLERİ
+
+Füme  
+Kırmızı  
+Lacivert  
+Turkuaz  
+Gri  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon tarihsiz defterler özellikle fuarlar, kurumsal etkinlikler, müşteri ziyaretleri ve yılbaşı promosyonları için oldukça ideal promosyon ürünleri arasında yer almaktadır.
+`
+},
+{
+  id: "p96",
+  slug: "promosyon-tarihsiz-defter-15x21-td-125",
+  title: "Promosyon Tarihsiz Defter 15 x 21 cm TD-125 | Logo Baskılı Kurumsal Defter",
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-125.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-125 modeli 15 x 21 cm ölçüsü, 80 gr ivory kağıt yapısı ve 224 sayfalık çizgili iç tasarımı ile kurumsal promosyon defter modelleri arasında tercih edilen ürünlerden biridir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-125 modeli modern tasarımı ve kaliteli iç sayfa yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen defter modellerinden biridir. Günlük notlar, toplantı notları ve iş planlamaları için oldukça kullanışlıdır.
+
+Promosyon defterler firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Ofis ortamında sürekli kullanılan defterler sayesinde markanız müşterilerinizin ve iş ortaklarınızın masasında uzun süre görünür olur.
+
+Promosyon tarihsiz defter TD-125 modeli üzerine firmanıza ait logo, marka adı veya kurumsal tasarım sıcak baskı, serigraf baskı veya UV baskı yöntemleri ile uygulanabilir. Böylece ürün hem prestijli hem de etkili bir reklam ürününe dönüşür.
+
+TEKNİK ÖZELLİKLER
+
+Ebat: 15 x 21 cm  
+Kağıt: 80 gr Ivory  
+Sayfa Sayısı: 224 (112 Yaprak)  
+Sayfa Stili: Çizgili  
+Baskı Alanı: 80 x 50 mm  
+Baskı Türleri: Sıcak Baskı, Serigraf Baskı, UV Baskı  
+Koli Adedi: 40  
+
+RENK SEÇENEKLERİ
+
+Füme  
+Gri  
+Kırmızı  
+Lacivert  
+Siyah  
+Taba  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebilmesi nedeniyle sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon tarihsiz defterler özellikle fuarlar, kurumsal etkinlikler, müşteri ziyaretleri ve yılbaşı promosyonları için oldukça ideal promosyon ürünleri arasında yer almaktadır.
+`
+},
+{
+  id: "p97",
+  slug: "promosyon-metal-kalem-mk-160",
+  title: "Promosyon Metal Kalem MK-160 | Logo Baskılı Kurumsal Metal Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-160.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-160 modeli şık metal gövdesi ve logo baskı uygulanabilir yüzeyi ile kurumsal promosyon ürünleri arasında en çok tercih edilen kalem modellerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-160 modeli modern tasarımı ve dayanıklı metal gövdesi ile kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir. Günlük kullanımda hem ofis ortamında hem de kurumsal etkinliklerde rahatlıkla kullanılabilir.
+
+Promosyon kalemler firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Sürekli kullanılan bir ürün olması sayesinde markanız müşterilerinizin ve iş ortaklarınızın elinde uzun süre görünür olur.
+
+Promosyon metal kalem MK-160 modeli üzerine firmanıza ait logo veya marka baskısı uygulanabilir. Bu sayede kalem hem kullanışlı hem de etkili bir reklam ürünü haline gelir.
+
+Metal kalemler özellikle fuarlar, müşteri ziyaretleri, kurumsal toplantılar ve promosyon kampanyalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Metal Kalem  
+Mürekkep Rengi: Siyah  
+Gövde: Metal  
+Logo Baskı: Uygulanabilir  
+
+RENK SEÇENEKLERİ
+
+Koyu Kırmızı  
+Lacivert  
+Turkuaz  
+Mat Turkuaz  
+Beyaz  
+Turuncu  
+Siyah  
+Açık Kırmızı  
+Yeşil  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon metal kalem siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
+{
+  id: "p98",
+  slug: "promosyon-metal-kalem-mk-170",
+  title: "Promosyon Metal Kalem MK-170 | Lazer Baskılı İmza Kalemi",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-170.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-170 modeli şık metal gövdesi, lazer baskı uygulanabilir yüzeyi ve imza kalemi tasarımı ile kurumsal promosyon kalem modelleri arasında öne çıkan ürünlerden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-170 modeli zarif tasarımı ve dayanıklı metal gövdesi ile kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir. Özellikle imza kalemi olarak kullanıma uygun şık yapısı sayesinde kurumsal ortamlarda prestijli bir promosyon ürünü olarak tercih edilir.
+
+Promosyon kalemler firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sürekli kullanılan kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın elinde uzun süre görünür olur.
+
+Promosyon metal kalem MK-170 modeli üzerine firmanıza ait logo veya marka baskısı lazer baskı yöntemi ile uygulanabilir. Bu sayede logo kalem üzerinde kalıcı ve şık bir görünüm sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Metal Kalem  
+Kalem Türü: İmza Kalemi  
+Refil: Mavi Refil  
+Ölçü: 140 x Ø10 mm  
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 55 x 5,5 mm  
+Koli / Kutu Adedi: 500 / 50  
+
+RENK SEÇENEKLERİ
+
+Beyaz  
+Füme  
+Kırmızı  
+Mavi  
+Siyah  
+Turkuaz  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon metal kalemler özellikle fuarlar, müşteri ziyaretleri, kurumsal etkinlikler ve promosyon kampanyaları için oldukça ideal reklam ürünleri arasında yer almaktadır.
+`
+},
+{
+  id: "p99",
+  slug: "promosyon-metal-kalem-mk-180",
+  title: "Promosyon Metal Kalem MK-180 | Logo Baskılı Rubber Gövdeli Metal Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-180.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-180 modeli rubber kaplama gövdesi ve şık metal tasarımı ile kurumsal promosyon kalem modelleri arasında sık tercih edilen ürünlerden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-180 modeli rubber kaplama gövdesi ve modern tasarımı ile kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir. Metal gövdesi sayesinde dayanıklı ve uzun ömürlü bir kullanım sunar.
+
+Promosyon kalemler firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Günlük hayatta sürekli kullanılan kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın elinde uzun süre görünür olur.
+
+Promosyon metal kalem MK-180 modeli üzerine firmanıza ait logo veya marka baskısı uygulanabilir. Bu sayede kalem hem kullanışlı hem de etkili bir reklam ürünü haline gelir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Metal Tükenmez Kalem  
+Gövde: Rubber Kaplama Metal Gövde  
+Mürekkep Rengi: Mavi  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Mavi  
+Lacivert  
+Füme  
+Kırmızı  
+Turuncu  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon metal kalemler özellikle fuarlar, müşteri ziyaretleri, kurumsal toplantılar ve promosyon kampanyalarında en çok tercih edilen reklam ürünleri arasında yer almaktadır.
+`
+},
+{
+  id: "p100",
+  slug: "promosyon-metal-kalem-mk-190",
+  title: "Promosyon Metal Kalem MK-190 | Logo Baskılı Premium Metal Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-190.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-190 modeli şık metal tasarımı ve logo baskı uygulanabilir yüzeyi ile kurumsal promosyon kalem modelleri arasında öne çıkan premium kalemlerden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-190 modeli modern ve şık tasarımı ile kurumsal promosyon ürünleri arasında dikkat çeken kalem modellerinden biridir. Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü bir kullanım sunar.
+
+Promosyon kalemler firmaların marka bilinirliğini artırmak için kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Günlük hayatta sürekli kullanılan kalemler sayesinde markanız müşterilerinizin ve iş ortaklarınızın elinde uzun süre görünür olur.
+
+Promosyon metal kalem MK-190 modeli üzerine firmanıza ait logo veya marka baskısı uygulanabilir. Bu sayede kalem hem kullanışlı hem de güçlü bir reklam ürünü haline gelir.
+
+Metal kalemler özellikle fuarlar, müşteri ziyaretleri, kurumsal toplantılar ve promosyon kampanyalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Metal Tükenmez Kalem  
+Gövde: Metal  
+
+RENK SEÇENEKLERİ
+
+Gümüş  
+Bakır  
+Altın  
+
+Renk seçeneklerinin ve ürün stok durumunun dönemsel olarak değişebileceği için sipariş sırasında stok bilgisi alınması önerilmektedir.
+
+Promosyon metal kalem siparişleri toplu üretim olarak hazırlanmakta olup kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+`
+},
 
 ];
 
