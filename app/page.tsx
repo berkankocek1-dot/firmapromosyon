@@ -352,77 +352,61 @@ export default function Home() {
 
       {/* HERO */}
       <section className="relative overflow-hidden border-b border-gray-100 bg-gradient-to-b from-gray-50 via-white to-white">
-        <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,rgba(0,0,0,0.06),transparent_45%)]" />
-        <div className="absolute left-1/2 top-0 -z-10 h-[320px] w-[800px] -translate-x-1/2 rounded-full bg-black/5 blur-3xl" />
+        <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,rgba(0,0,0,0.05),transparent_45%)]" />
+        <div className="absolute left-1/2 top-0 -z-10 h-[220px] w-[700px] -translate-x-1/2 rounded-full bg-black/5 blur-3xl" />
 
-        <div className="mx-auto max-w-7xl px-5 py-8 md:py-10">
-          <div className="rounded-[32px] border border-gray-200 bg-white/90 p-5 shadow-sm backdrop-blur md:p-7 lg:p-8 xl:p-10">
-            <div className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-xs font-semibold text-gray-700">
+        <div className="mx-auto max-w-7xl px-5 py-5 md:py-6">
+          <div className="rounded-[30px] border border-gray-200 bg-white/95 p-5 shadow-sm backdrop-blur md:p-7 lg:p-8">
+            <div className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-[11px] font-semibold text-gray-700">
               <span className="inline-block h-2 w-2 rounded-full bg-green-500" />
               Kurumsal promosyon • Hızlı teklif • Türkiye geneli
             </div>
 
-            <h1 className="mt-4 max-w-5xl text-[clamp(30px,5vw,58px)] font-extrabold leading-[1.04] tracking-tight text-gray-900">
-              Kurumsal Promosyon Ürünleri
-              <span className="mt-2 block text-gray-600">
-                Logo Baskılı Toplu Sipariş ve Baskı Çözümleri
-              </span>
-            </h1>
+            <div className="mt-4 max-w-5xl">
+              <h1 className="text-[clamp(28px,4.6vw,52px)] font-extrabold leading-[1.05] tracking-tight text-gray-900">
+                Kurumsal Promosyon Ürünleri
+                <span className="mt-2 block text-gray-600">
+                  Logo Baskılı Toplu Sipariş ve Baskı Çözümleri
+                </span>
+              </h1>
 
-            <p className="mt-5 max-w-3xl text-sm leading-7 text-gray-700 md:text-base">
-              Kurumsal tanıtım, fuar, etkinlik ve toplu firma siparişleri için
-              logo baskılı promosyon ürünleri sunuyoruz. DTF, UV ve lazer baskı
-              seçenekleriyle ürün, adet ve uygulama detaylarına göre hızlı teklif alın.
-            </p>
+              <p className="mt-4 max-w-3xl text-sm leading-6 text-gray-700 md:text-[15px]">
+                Kurumsal tanıtım, fuar, etkinlik ve toplu firma siparişleri için
+                logo baskılı promosyon ürünleri sunuyoruz. Ürün, adet ve baskı
+                detaylarına göre hızlı teklif alın.
+              </p>
 
-            <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
-              <Link
-                href="/kurumsal-teklif-al"
-                className="inline-flex items-center justify-center rounded-2xl bg-black px-6 py-3 text-sm font-semibold text-white shadow-sm transition hover:bg-gray-900"
-              >
-                Hızlı Teklif Al
-              </Link>
+              <div className="mt-5 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
+                <Link
+                  href="/kurumsal-teklif-al"
+                  className="inline-flex items-center justify-center rounded-2xl bg-black px-5 py-3 text-sm font-semibold text-white shadow-sm transition hover:bg-gray-900"
+                >
+                  Hızlı Teklif Al
+                </Link>
 
-              <a
-                href={WHATSAPP}
-                target="_blank"
-                rel="noreferrer"
-                className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 shadow-sm transition hover:border-gray-500"
-              >
-                WhatsApp’tan Yaz
-              </a>
+                <a
+                  href={WHATSAPP}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 shadow-sm transition hover:border-gray-500"
+                >
+                  WhatsApp’tan Yaz
+                </a>
 
-              <Link
-                href="/urunler"
-                className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 shadow-sm transition hover:border-gray-500"
-              >
-                Tüm Ürünleri İncele
-              </Link>
-            </div>
-
-            <div className="mt-6 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
-              <HeroStat title="Promosyon Ürünleri" text="Kurumsal toplu sipariş" />
-              <HeroStat title="DTF / UV / Lazer" text="Farklı baskı çözümleri" />
-              <HeroStat title="Türkiye Geneli" text="Gönderim ve süreç desteği" />
-              <HeroStat title="Hızlı Dönüş" text="Teklif ve bilgi akışı" />
+                <Link
+                  href="/urunler"
+                  className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 shadow-sm transition hover:border-gray-500"
+                >
+                  Tüm Ürünleri İncele
+                </Link>
+              </div>
             </div>
           </div>
         </div>
       </section>
 
-      {/* GÜVEN BANDI */}
-      <section className="border-b border-t border-gray-200 bg-gray-50">
-        <div className="mx-auto grid max-w-7xl gap-4 px-5 py-4 text-sm font-semibold text-gray-700 sm:grid-cols-2 lg:grid-cols-5">
-          <div>✔ Logo baskı seçenekleri</div>
-          <div>✔ Kurumsal toplu sipariş</div>
-          <div>✔ Türkiye geneli gönderim</div>
-          <div>✔ Adede özel teklif</div>
-          <div>✔ WhatsApp hızlı dönüş</div>
-        </div>
-      </section>
-
       {/* KATEGORİLER */}
-      <section className="mx-auto max-w-7xl px-5 py-14">
+      <section className="mx-auto max-w-7xl px-5 py-10">
         <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
           <div className="max-w-3xl">
             <div className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-xs font-semibold text-gray-700">
@@ -447,7 +431,7 @@ export default function Home() {
           {categoryCards.map((category: any) => (
             <Link
               key={category.slug}
-              href={`/kategori/${category.slug}`}
+              href={getCategoryHref(category.name)}
               className="group relative overflow-hidden rounded-[28px] border border-gray-200 bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-xl"
             >
               <div className="absolute inset-0 bg-gradient-to-br from-white via-white to-gray-50" />
@@ -478,6 +462,62 @@ export default function Home() {
               </div>
             </Link>
           ))}
+        </div>
+      </section>
+
+      {/* ÖNE ÇIKAN KATEGORİLER - HERO'DAN ÇIKARILDI */}
+      <section className="mx-auto max-w-7xl px-5 pb-6">
+        <div className="rounded-[28px] border border-gray-200 bg-white p-5 shadow-sm md:p-6">
+          <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <h2 className="text-xl font-extrabold text-gray-900 md:text-2xl">
+                Öne Çıkan Kategoriler
+              </h2>
+              <p className="mt-2 text-sm text-gray-600">
+                En çok talep gören promosyon kategorilerine hızlıca geçin.
+              </p>
+            </div>
+
+            <Link
+              href="/urunler"
+              className="text-sm font-semibold text-gray-900 hover:underline"
+            >
+              Tüm kategoriler →
+            </Link>
+          </div>
+
+          <div className="mt-5 flex flex-wrap gap-3">
+            {heroCategoryChips.map((category: any) => (
+              <Link
+                key={category.slug}
+                href={getCategoryHref(category.name)}
+                className="rounded-full border border-gray-300 bg-white px-4 py-2 text-sm font-semibold text-gray-900 transition hover:border-black hover:bg-gray-50"
+              >
+                {category.name}
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* HERO STATLARI */}
+      <section className="mx-auto max-w-7xl px-5 pb-6">
+        <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+          <HeroStat title="Promosyon Ürünleri" text="Kurumsal toplu sipariş" />
+          <HeroStat title="DTF / UV / Lazer" text="Farklı baskı çözümleri" />
+          <HeroStat title="Türkiye Geneli" text="Gönderim ve süreç desteği" />
+          <HeroStat title="Hızlı Dönüş" text="Teklif ve bilgi akışı" />
+        </div>
+      </section>
+
+      {/* GÜVEN BANDI */}
+      <section className="border-b border-t border-gray-200 bg-gray-50">
+        <div className="mx-auto grid max-w-7xl gap-4 px-5 py-4 text-sm font-semibold text-gray-700 sm:grid-cols-2 lg:grid-cols-5">
+          <div>✔ Logo baskı seçenekleri</div>
+          <div>✔ Kurumsal toplu sipariş</div>
+          <div>✔ Türkiye geneli gönderim</div>
+          <div>✔ Adede özel teklif</div>
+          <div>✔ WhatsApp hızlı dönüş</div>
         </div>
       </section>
 
@@ -539,7 +579,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* KATEGORİ BAZLI ÜRÜNLER */}
       {kalemProducts.length > 0 && (
         <section className="mx-auto max-w-7xl px-5 py-12">
           <SectionHeader
@@ -604,7 +643,6 @@ export default function Home() {
         </section>
       )}
 
-      {/* HİZMETLER */}
       <section id="hizmetler" className="mx-auto max-w-7xl px-5 py-14">
         <div className="max-w-3xl">
           <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">Hizmetler</h2>
@@ -629,7 +667,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* KULLANIM ALANLARI */}
       <section className="mx-auto max-w-7xl px-5 py-12">
         <div className="rounded-3xl border border-gray-200 bg-gray-50 p-6 md:p-10">
           <div className="max-w-3xl">
@@ -651,7 +688,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* SÜREÇ */}
       <section id="surec" className="mx-auto max-w-7xl px-5 py-14">
         <div className="max-w-3xl">
           <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">Sipariş Süreci</h2>
@@ -679,7 +715,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* SEO METNİ */}
       <section className="mx-auto max-w-7xl px-5 py-12">
         <div className="grid gap-6 rounded-3xl border border-gray-200 bg-gray-50 p-6 md:grid-cols-2 md:p-10">
           <div>
@@ -726,42 +761,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ÖNE ÇIKAN KATEGORİLER - ALTA TAŞINDI */}
-      <section className="mx-auto max-w-7xl px-5 py-12">
-        <div className="rounded-[28px] border border-gray-200 bg-white p-5 shadow-sm md:p-6">
-          <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
-            <div>
-              <h2 className="text-xl font-extrabold text-gray-900 md:text-2xl">
-                Öne Çıkan Kategoriler
-              </h2>
-              <p className="mt-2 text-sm text-gray-600">
-                En çok talep gören promosyon kategorilerine hızlıca geçin.
-              </p>
-            </div>
-
-            <Link
-              href="/urunler"
-              className="text-sm font-semibold text-gray-900 hover:underline"
-            >
-              Tüm kategoriler →
-            </Link>
-          </div>
-
-          <div className="mt-5 flex flex-wrap gap-3">
-            {heroCategoryChips.map((category: any) => (
-              <Link
-                key={category.slug}
-                href={`/kategori/${category.slug}`}
-                className="rounded-full border border-gray-300 bg-white px-4 py-2 text-sm font-semibold text-gray-900 transition hover:border-black hover:bg-gray-50"
-              >
-                {category.name}
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* FAQ */}
       <section id="sss" className="mx-auto max-w-7xl px-5 py-12">
         <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
           Sık Sorulan Sorular
@@ -782,7 +781,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* CTA */}
       <section className="mx-auto max-w-7xl px-5 py-12">
         <div className="rounded-3xl bg-black px-6 py-10 text-white md:px-10">
           <h2 className="text-2xl font-extrabold md:text-3xl">
@@ -847,6 +845,7 @@ function MiniProductCard({ product }: { product: any }) {
   const img = pickImg(product);
   const slug = pickSlug(product);
   const cat = pickCat(product);
+  const minOrder = getMinOrderText(product);
 
   return (
     <Link
@@ -864,8 +863,14 @@ function MiniProductCard({ product }: { product: any }) {
       </div>
 
       <div className="mt-4">
-        <div className="text-xs font-semibold text-gray-600">{cat}</div>
-        <div className="mt-1 line-clamp-2 text-sm font-extrabold text-gray-900">
+        <div className="flex items-center justify-between gap-2">
+          <div className="text-xs font-semibold text-gray-600">{cat}</div>
+          <div className="rounded-full bg-gray-100 px-2.5 py-1 text-[11px] font-semibold text-gray-700">
+            {minOrder}
+          </div>
+        </div>
+
+        <div className="mt-2 line-clamp-2 text-sm font-extrabold text-gray-900">
           {title}
         </div>
         <div className="mt-3 text-xs font-semibold text-gray-900">Detay →</div>
@@ -876,7 +881,7 @@ function MiniProductCard({ product }: { product: any }) {
 
 function HeroStat({ title, text }: { title: string; text: string }) {
   return (
-    <div className="rounded-2xl border border-gray-200 bg-gray-50 p-4">
+    <div className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm">
       <div className="text-sm font-extrabold text-gray-900">{title}</div>
       <div className="mt-1 text-xs text-gray-600">{text}</div>
     </div>
