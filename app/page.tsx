@@ -211,7 +211,6 @@ export default function Home() {
 
   const heroCategoryChips = orderedCategories.slice(0, 12);
   const topStrip = orderedCategoryProducts.slice(0, 10);
-  const heroShowcase = orderedCategoryProducts.slice(0, 5);
 
   const kalemProducts = products
     .filter((p: any) => normalizeText(p.category) === normalizeText("Kalem"))
@@ -355,129 +354,83 @@ export default function Home() {
       <section className="relative overflow-hidden border-b border-gray-100 bg-gradient-to-b from-gray-50 via-white to-white">
         <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,rgba(0,0,0,0.06),transparent_45%)]" />
         <div className="absolute left-1/2 top-0 -z-10 h-[420px] w-[900px] -translate-x-1/2 rounded-full bg-black/5 blur-3xl" />
+
         <div className="mx-auto max-w-7xl px-5 py-10 md:py-16">
-          <div className="grid gap-8 xl:grid-cols-[1.15fr_0.85fr] xl:items-stretch">
-            <div className="rounded-[32px] border border-gray-200 bg-white/90 p-6 shadow-sm backdrop-blur md:p-8 lg:p-10">
-              <div className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-xs font-semibold text-gray-700">
-                <span className="inline-block h-2 w-2 rounded-full bg-green-500" />
-                Kurumsal promosyon • Hızlı teklif • Türkiye geneli
+          <div className="rounded-[32px] border border-gray-200 bg-white/90 p-6 shadow-sm backdrop-blur md:p-8 lg:p-10 xl:p-12">
+            <div className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-xs font-semibold text-gray-700">
+              <span className="inline-block h-2 w-2 rounded-full bg-green-500" />
+              Kurumsal promosyon • Hızlı teklif • Türkiye geneli
+            </div>
+
+            <h1 className="mt-5 max-w-5xl text-[clamp(34px,6vw,72px)] font-extrabold leading-[1.03] tracking-tight text-gray-900">
+              Kurumsal Promosyon Ürünleri
+              <span className="mt-2 block text-gray-600">
+                Logo Baskılı Toplu Sipariş ve Baskı Çözümleri
+              </span>
+            </h1>
+
+            <p className="mt-6 max-w-4xl text-base leading-7 text-gray-700 md:text-lg">
+              Kurumsal tanıtım, fuar, etkinlik ve toplu firma siparişleri için
+              logo baskılı promosyon ürünleri sunuyoruz. DTF, UV ve lazer baskı
+              seçenekleriyle ürün, adet ve uygulama detaylarına göre hızlı teklif alın.
+            </p>
+
+            <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
+              <Link
+                href="/kurumsal-teklif-al"
+                className="inline-flex items-center justify-center rounded-2xl bg-black px-6 py-3 text-sm font-semibold text-white shadow-sm transition hover:bg-gray-900"
+              >
+                Hızlı Teklif Al
+              </Link>
+
+              <a
+                href={WHATSAPP}
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 shadow-sm transition hover:border-gray-500"
+              >
+                WhatsApp’tan Yaz
+              </a>
+
+              <Link
+                href="/urunler"
+                className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 shadow-sm transition hover:border-gray-500"
+              >
+                Tüm Ürünleri İncele
+              </Link>
+            </div>
+
+            <div className="mt-8 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+              <HeroStat title="Promosyon Ürünleri" text="Kurumsal toplu sipariş" />
+              <HeroStat title="DTF / UV / Lazer" text="Farklı baskı çözümleri" />
+              <HeroStat title="Türkiye Geneli" text="Gönderim ve süreç desteği" />
+              <HeroStat title="Hızlı Dönüş" text="Teklif ve bilgi akışı" />
+            </div>
+
+            <div className="mt-8 border-t border-gray-200 pt-6">
+              <div className="mb-3 text-sm font-extrabold text-gray-900">
+                Öne Çıkan Kategoriler
               </div>
 
-              <h1 className="mt-5 text-[clamp(34px,6vw,64px)] font-extrabold leading-[1.05] tracking-tight text-gray-900">
-                Kurumsal Promosyon Ürünleri
-                <span className="mt-2 block text-gray-600">
-                  Logo Baskılı Toplu Sipariş ve Baskı Çözümleri
-                </span>
-              </h1>
-
-              <p className="mt-5 max-w-3xl text-base leading-7 text-gray-700 md:text-lg">
-                Kurumsal tanıtım, fuar, etkinlik ve toplu firma siparişleri için
-                logo baskılı promosyon ürünleri sunuyoruz. DTF, UV ve lazer baskı
-                seçenekleriyle ürün, adet ve uygulama detaylarına göre hızlı teklif alın.
-              </p>
-
-              <div className="mt-7 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
-                <Link
-                  href="/kurumsal-teklif-al"
-                  className="inline-flex items-center justify-center rounded-2xl bg-black px-6 py-3 text-sm font-semibold text-white shadow-sm transition hover:bg-gray-900"
-                >
-                  Hızlı Teklif Al
-                </Link>
-
-                <a
-                  href={WHATSAPP}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 shadow-sm transition hover:border-gray-500"
-                >
-                  WhatsApp’tan Yaz
-                </a>
+              <div className="flex flex-wrap gap-3">
+                {heroCategoryChips.map((category: any) => (
+                  <Link
+                    key={category.slug}
+                    href={`/kategori/${category.slug}`}
+                    className="rounded-full border border-gray-300 bg-white px-4 py-2 text-sm font-semibold text-gray-900 transition hover:border-black hover:bg-gray-50"
+                  >
+                    {category.name}
+                  </Link>
+                ))}
 
                 <Link
                   href="/urunler"
-                  className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 shadow-sm transition hover:border-gray-500"
+                  className="rounded-full bg-black px-4 py-2 text-sm font-semibold text-white transition hover:bg-gray-900"
                 >
-                  Tüm Ürünleri İncele
+                  Tümünü Gör →
                 </Link>
               </div>
-
-              <div className="mt-8 grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
-                <HeroStat title="Promosyon Ürünleri" text="Kurumsal toplu sipariş" />
-                <HeroStat title="DTF / UV / Lazer" text="Farklı baskı çözümleri" />
-                <HeroStat title="Türkiye Geneli" text="Gönderim ve süreç desteği" />
-                <HeroStat title="Hızlı Dönüş" text="Teklif ve bilgi akışı" />
-              </div>
-
-              <div className="mt-8 border-t border-gray-200 pt-6">
-                <div className="mb-3 text-sm font-extrabold text-gray-900">
-                  Öne Çıkan Kategoriler
-                </div>
-
-                <div className="flex flex-wrap gap-3">
-                  {heroCategoryChips.map((category: any) => (
-                    <Link
-                      key={category.slug}
-                      href={`/kategori/${category.slug}`}
-                      className="rounded-full border border-gray-300 bg-white px-4 py-2 text-sm font-semibold text-gray-900 transition hover:border-black hover:bg-gray-50"
-                    >
-                      {category.name}
-                    </Link>
-                  ))}
-
-                  <Link
-                    href="/urunler"
-                    className="rounded-full bg-black px-4 py-2 text-sm font-semibold text-white transition hover:bg-gray-900"
-                  >
-                    Tümünü Gör →
-                  </Link>
-                </div>
-              </div>
             </div>
-
-            <aside className="grid gap-4 sm:grid-cols-2">
-              {heroShowcase.map((p: any, i: number) => {
-                const title = pickTitle(p);
-                const img = pickImg(p);
-                const slug = pickSlug(p);
-                const cat = pickCat(p);
-
-                return (
-                  <Link
-                    key={slug}
-                    href={`/urunler/${slug}`}
-                    className={`group overflow-hidden rounded-[28px] border border-gray-200 bg-white shadow-sm transition hover:-translate-y-1 hover:shadow-md ${
-                      i === 0 ? "sm:col-span-2" : ""
-                    }`}
-                  >
-                    <div
-                      className={`relative bg-gray-100 ${
-                        i === 0 ? "aspect-[16/9]" : "aspect-[4/4]"
-                      }`}
-                    >
-                      <Image
-                        src={img}
-                        alt={title}
-                        fill
-                        sizes="(max-width: 640px) 100vw, (max-width: 1280px) 50vw, 33vw"
-                        className="object-contain p-5 transition duration-500 group-hover:scale-105"
-                      />
-                      <div className="absolute left-4 top-4 rounded-full bg-white/90 px-3 py-1 text-xs font-semibold text-gray-800 shadow-sm backdrop-blur">
-                        {cat}
-                      </div>
-                    </div>
-
-                    <div className="p-4">
-                      <div className="line-clamp-2 text-sm font-extrabold text-gray-900 md:text-base">
-                        {title}
-                      </div>
-                      <div className="mt-2 text-xs font-semibold text-gray-600">
-                        Ürünü incele →
-                      </div>
-                    </div>
-                  </Link>
-                );
-              })}
-            </aside>
           </div>
         </div>
       </section>
