@@ -44,12 +44,13 @@ const CATEGORY_ORDER = [
 export const metadata: Metadata = {
   title: "FirmaPromosyon | Logo Baskılı Kurumsal Promosyon Ürünleri",
   description:
-    "Logo baskılı kurumsal promosyon ürünleri, promosyon kalem, termos, ajanda, anahtarlık, USB bellek ve powerbank çözümleri için FirmaPromosyon’dan hızlı teklif alın.",
+    "Logo baskılı kurumsal promosyon ürünleri, promosyon kalem, termos, ajanda, anahtarlık, USB bellek, kupa, karton çanta ve powerbank çözümleri için FirmaPromosyon’dan hızlı teklif alın.",
   alternates: { canonical: "/" },
   keywords: [
     "promosyon ürünleri",
     "kurumsal promosyon ürünleri",
     "logo baskılı promosyon ürünleri",
+    "toptan promosyon ürünleri",
     "promosyon kalem",
     "promosyon ajanda",
     "promosyon anahtarlık",
@@ -57,9 +58,20 @@ export const metadata: Metadata = {
     "promosyon termos",
     "promosyon powerbank",
     "promosyon usb bellek",
+    "promosyon kupa",
+    "karton çanta",
+    "kalem setleri",
+    "promosyon şapka",
+    "promosyon tişört",
+    "geri dönüşümlü promosyon ürünleri",
+    "yapışkanlı notluk",
+    "duvar saati promosyon",
+    "kartvizitlik",
+    "bayrak promosyon",
+    "teknolojik promosyon ürünleri",
     "dtf baskı",
     "uv baskı",
-    "toptan promosyon ürünleri",
+    "lazer baskı",
   ],
   openGraph: {
     title: "FirmaPromosyon | Logo Baskılı Kurumsal Promosyon Ürünleri",
@@ -87,6 +99,24 @@ export const metadata: Metadata = {
 
 const WHATSAPP =
   "https://wa.me/905350509128?text=Merhaba%2C%20promosyon%20%C3%BCr%C3%BCnleri%20ve%20kurumsal%20sipari%C5%9F%20i%C3%A7in%20teklif%20almak%20istiyorum.";
+
+const GUIDES = [
+  {
+    title: "Promosyon Ürünleri Seçim Rehberi",
+    href: "/rehber/promosyon-urunleri-secim-rehberi",
+    desc: "Kurumsal kullanım, fuar, etkinlik ve toplu dağıtım için doğru promosyon ürününü nasıl seçebileceğinizi inceleyin.",
+  },
+  {
+    title: "Promosyon Kalem Toptan Satın Alma Rehberi",
+    href: "/rehber/promosyon-kalem-toptan",
+    desc: "Logo baskılı promosyon kalem siparişi verirken dikkat edilmesi gereken detayları öğrenin.",
+  },
+  {
+    title: "DTF Baskı Nedir? Nasıl Yapılır?",
+    href: "/rehber/dtf-baski-nedir",
+    desc: "DTF baskı teknolojisinin ne olduğunu, hangi yüzeylerde kullanıldığını ve avantajlarını keşfedin.",
+  },
+];
 
 function pickTitle(p: any) {
   return p?.title ?? p?.name ?? "Ürün";
@@ -178,15 +208,19 @@ function buildOrderedCategories() {
 
     if (matched) return matched;
 
+    const matchedProduct = products.find(
+      (p: any) => normalizeText(p.category) === normalizeText(categoryName)
+    );
+
+    if (!matchedProduct) return null;
+
     return {
       name: categoryName,
       slug: slugify(categoryName),
       seoDescription: `${categoryName} ürünlerini inceleyin.`,
-      image: products.find(
-        (p: any) => normalizeText(p.category) === normalizeText(categoryName)
-      )?.image,
+      image: matchedProduct?.image,
     };
-  });
+  }).filter(Boolean);
 }
 
 function buildOrderedCategoryProducts(allProducts: any[]) {
@@ -252,6 +286,19 @@ export default function Home() {
     },
   };
 
+  const websiteSchema = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "FirmaPromosyon",
+    url: SITE_URL,
+    inLanguage: "tr-TR",
+    potentialAction: {
+      "@type": "SearchAction",
+      target: `${SITE_URL}/urunler?search={search_term_string}`,
+      "query-input": "required name=search_term_string",
+    },
+  };
+
   const breadcrumbSchema = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -285,7 +332,7 @@ export default function Home() {
   const itemListSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: "Popüler Ürünler",
+    name: "Öne Çıkan Promosyon Ürünleri",
     itemListElement: topStrip
       .filter((p: any) => pickSlug(p))
       .map((p: any, index: number) => ({
@@ -294,6 +341,18 @@ export default function Home() {
         url: `${SITE_URL}/urunler/${pickSlug(p)}`,
         name: pickTitle(p),
       })),
+  };
+
+  const guideListSchema = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "Promosyon Rehberleri",
+    itemListElement: GUIDES.map((guide, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      url: `${SITE_URL}${guide.href}`,
+      name: guide.title,
+    })),
   };
 
   const faqSchema = {
@@ -335,6 +394,10 @@ export default function Home() {
       />
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       <script
@@ -344,6 +407,10 @@ export default function Home() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(guideListSchema) }}
       />
       <script
         type="application/ld+json"
@@ -372,8 +439,9 @@ export default function Home() {
 
               <p className="mt-4 max-w-3xl text-sm leading-6 text-gray-700 md:text-[15px]">
                 Kurumsal tanıtım, fuar, etkinlik ve toplu firma siparişleri için
-                logo baskılı promosyon ürünleri sunuyoruz. Ürün, adet ve baskı
-                detaylarına göre hızlı teklif alın.
+                logo baskılı promosyon ürünleri sunuyoruz. Promosyon kalem, promosyon
+                ajanda, promosyon termos, promosyon anahtarlık, promosyon USB bellek,
+                promosyon kupa ve powerbank gibi birçok kategoride hızlı teklif alın.
               </p>
 
               <div className="mt-5 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
@@ -414,7 +482,7 @@ export default function Home() {
             </div>
 
             <h2 className="mt-4 text-2xl font-extrabold text-gray-900 md:text-3xl">
-              Tüm Promosyon Kategorileri
+              Logo Baskılı Promosyon Ürün Kategorileri
             </h2>
             <p className="mt-3 text-sm text-gray-600 md:text-base">
               Kurumsal tanıtım, etkinlik, fuar ve marka görünürlüğü için uygun ürün
@@ -465,13 +533,13 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ÖNE ÇIKAN KATEGORİLER - HERO'DAN ÇIKARILDI */}
+      {/* ÖNE ÇIKAN KATEGORİLER */}
       <section className="mx-auto max-w-7xl px-5 pb-6">
         <div className="rounded-[28px] border border-gray-200 bg-white p-5 shadow-sm md:p-6">
           <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
             <div>
               <h2 className="text-xl font-extrabold text-gray-900 md:text-2xl">
-                Öne Çıkan Kategoriler
+                Öne Çıkan Promosyon Kategorileri
               </h2>
               <p className="mt-2 text-sm text-gray-600">
                 En çok talep gören promosyon kategorilerine hızlıca geçin.
@@ -527,7 +595,7 @@ export default function Home() {
           <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
             <div>
               <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
-                Popüler Ürünler
+                En Çok Tercih Edilen Promosyon Ürünleri
               </h2>
               <p className="mt-2 text-sm text-gray-600 md:text-base">
                 En çok ilgi gören promosyon ürünlerini hızlıca inceleyin.
@@ -643,6 +711,43 @@ export default function Home() {
         </section>
       )}
 
+      {/* REHBERLER */}
+      <section className="mx-auto max-w-7xl px-5 py-12">
+        <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+          <div className="max-w-3xl">
+            <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
+              Promosyon Ürünleri Rehberleri
+            </h2>
+            <p className="mt-3 text-sm text-gray-600 md:text-base">
+              Promosyon ürün seçimi, baskı yöntemleri ve toplu sipariş süreci hakkında rehber içerikleri inceleyin.
+            </p>
+          </div>
+
+          <Link href="/rehber" className="text-sm font-semibold text-gray-900 hover:underline">
+            Tüm rehberler →
+          </Link>
+        </div>
+
+        <div className="mt-8 grid gap-5 md:grid-cols-3">
+          {GUIDES.map((guide) => (
+            <Link
+              key={guide.href}
+              href={guide.href}
+              className="group rounded-3xl border border-gray-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
+            >
+              <div className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
+                Rehber
+              </div>
+              <div className="mt-4 text-lg font-extrabold text-gray-900">
+                {guide.title}
+              </div>
+              <p className="mt-3 text-sm leading-6 text-gray-700">{guide.desc}</p>
+              <div className="mt-4 text-sm font-semibold text-gray-900">İncele →</div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
       <section id="hizmetler" className="mx-auto max-w-7xl px-5 py-14">
         <div className="max-w-3xl">
           <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">Hizmetler</h2>
@@ -715,27 +820,33 @@ export default function Home() {
         </div>
       </section>
 
+      {/* GÜÇLENDİRİLMİŞ SEO METNİ */}
       <section className="mx-auto max-w-7xl px-5 py-12">
         <div className="grid gap-6 rounded-3xl border border-gray-200 bg-gray-50 p-6 md:grid-cols-2 md:p-10">
           <div>
             <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
-              Kurumsal Promosyon ve Baskı Çözümleri
+              Logo Baskılı Kurumsal Promosyon Ürünleri
             </h2>
 
             <div className="mt-5 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
               <p>
-                Promosyon ürünleri, markanızı müşterilerinizin ve iş ortaklarınızın
-                günlük hayatında görünür kılmanın etkili yollarından biridir.
+                Kurumsal promosyon ürünleri, markaların müşterileri, iş ortakları ve çalışanlarıyla daha güçlü bir bağ kurmasına yardımcı olan etkili tanıtım araçları arasında yer alır. Logo baskılı promosyon ürünleri; fuar, etkinlik, bayi toplantısı, kurumsal hediye ve günlük ofis kullanımı gibi birçok alanda tercih edilir.
               </p>
 
               <p>
-                FirmaPromosyon olarak ürün seçimi, baskı tekniği, adet planlaması
-                ve teklif sürecinde kurumsal ihtiyaçlara uygun çözümler sunuyoruz.
+                FirmaPromosyon olarak promosyon kalem, promosyon ajanda, promosyon termos, promosyon anahtarlık, promosyon USB bellek, promosyon kupa, promosyon powerbank, karton çanta ve geri dönüşümlü promosyon ürünleri gibi geniş bir ürün yelpazesi sunuyoruz. Her ürün grubu için kurumsal kimliğe uygun baskı çözümleri planlanabilir.
               </p>
 
               <p>
-                Uygun ürün ve doğru baskı yöntemiyle fuar, etkinlik, bayi ağı ve
-                kurumsal dağıtım süreçlerinizi daha güçlü hale getirebilirsiniz.
+                DTF baskı, UV baskı, lazer baskı ve ürüne uygun farklı markalama yöntemleri sayesinde logo baskılı promosyon ürünleri, markanızın görünürlüğünü artırmak için güçlü bir destek sağlar. Ürün modeli, baskı alanı, sipariş adedi ve kullanım amacına göre en uygun promosyon çözümü belirlenebilir.
+              </p>
+
+              <p>
+                Toptan promosyon ürünleri siparişlerinde doğru ürün seçimi kadar baskı yöntemi, teslim süresi ve hedef kitle uyumu da önemlidir. Bu nedenle promosyon kalem, promosyon termos, promosyon ajanda veya teknolojik promosyon ürünleri gibi kategorilerde ihtiyaç odaklı planlama yapılması daha verimli sonuç verir.
+              </p>
+
+              <p>
+                Kurumsal promosyon ürünleri ile marka bilinirliğinizi desteklemek, müşterilerinize kullanışlı hediyeler sunmak ve fuar ya da etkinliklerde daha profesyonel bir görünüm elde etmek için ürün kategorilerini inceleyebilir, teklif formu üzerinden hızlıca bizimle iletişime geçebilirsiniz.
               </p>
             </div>
           </div>
@@ -743,19 +854,19 @@ export default function Home() {
           <div className="grid gap-3">
             <SimpleInfoCard
               title="Kurumsal siparişe uygun ürün seçimi"
-              text="Kullanım amacına ve hedef kitlenize göre doğru ürün gruplarını inceleyin."
+              text="Kullanım amacına ve hedef kitlenize göre doğru promosyon ürün gruplarını inceleyin."
             />
             <SimpleInfoCard
               title="DTF, UV ve lazer baskı alternatifleri"
-              text="Ürüne ve kullanım senaryosuna göre farklı baskı çözümleri."
+              text="Ürüne ve kullanım senaryosuna göre farklı logo baskı çözümleri."
             />
             <SimpleInfoCard
-              title="Fuar, etkinlik ve dağıtım odaklı kullanım"
-              text="Marka görünürlüğünü destekleyen pratik promosyon seçenekleri."
+              title="Promosyon kalem, termos, ajanda ve kupa"
+              text="En çok tercih edilen logo baskılı promosyon ürünlerini tek sayfada inceleyin."
             />
             <SimpleInfoCard
               title="Hızlı teklif ve süreç desteği"
-              text="Ürün, adet ve baskı detaylarına göre daha net sipariş planlaması."
+              text="Ürün, adet ve baskı detaylarına göre daha net sipariş planlaması yapın."
             />
           </div>
         </div>
