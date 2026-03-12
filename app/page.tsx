@@ -8,21 +8,43 @@ const SITE_URL = "https://www.firmapromosyon.com";
 
 const CATEGORY_ORDER = [
   "Kalem",
-  "Çakmak",
   "Anahtarlık",
-  "Ajanda",
-  "Duvar Saatleri",
-  "Geri Dönüşümlü Ürünler",
-  "Powerbank",
-  "Tarihsiz Defter",
-  "Termos",
+  "Çakmak",
+  "Kupa",
   "USB Bellek",
+  "Termos",
+  "Ajanda",
+  "Tarihsiz Defter",
+  "Powerbank",
+  "Karton Çantalar",
+  "Duvar Saatleri",
+  "Kalem Setleri",
+  "Geri Dönüşümlü Ürünler",
+  "Yapışkanlı Notluklar",
+  "Matbaa Ürünleri",
+  "Promosyon Şapka",
+  "Ahşap ve Deri Masaüstü Ürünler",
+  "Promosyon Tişört",
+  "Organizerler",
+  "Sekreterlikler ve Evrak Çantaları",
+  "Kırtasiye Ürünleri",
+  "VIP Ürünler",
+  "Masa Sümeni",
+  "Hesap Makineleri",
+  "Seramik ve Porselen Kupalar",
+  "Ham Bez & Tela Çanta",
+  "Bayraklar",
+  "Teknolojik Ürünler",
+  "Kartvizitlik",
+  "Ayna ve Deri Kartlıklar",
+  "Çakı, Fener ve Tornavida Seti",
+  "İmalat Ürünler",
 ] as const;
 
 export const metadata: Metadata = {
   title: "FirmaPromosyon | Logo Baskılı Kurumsal Promosyon Ürünleri",
   description:
-    "Logo baskılı kurumsal promosyon ürünleri, promosyon kalem, termos, ajanda, anahtarlık, USB bellek, powerbank, geri dönüşümlü ürünler, DTF baskı ve UV baskı çözümleri için FirmaPromosyon’dan hızlı teklif alın.",
+    "Logo baskılı kurumsal promosyon ürünleri, promosyon kalem, termos, ajanda, anahtarlık, USB bellek ve powerbank çözümleri için FirmaPromosyon’dan hızlı teklif alın.",
   alternates: { canonical: "/" },
   keywords: [
     "promosyon ürünleri",
@@ -30,14 +52,11 @@ export const metadata: Metadata = {
     "logo baskılı promosyon ürünleri",
     "promosyon kalem",
     "promosyon ajanda",
-    "promosyon tarihsiz defter",
     "promosyon anahtarlık",
     "promosyon çakmak",
     "promosyon termos",
     "promosyon powerbank",
     "promosyon usb bellek",
-    "geri dönüşümlü promosyon ürünleri",
-    "duvar saati promosyon",
     "dtf baskı",
     "uv baskı",
     "toptan promosyon ürünleri",
@@ -106,12 +125,21 @@ function normalizeText(value: string) {
     .trim();
 }
 
+function slugify(value: string) {
+  return normalizeText(value)
+    .replace(/&/g, "ve")
+    .replace(/[^a-z0-9\s-]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/-+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
 function getCategoryHref(categoryName: string) {
   const matched = categories.find(
     (c: any) => normalizeText(c.name) === normalizeText(categoryName)
   );
 
-  return matched ? `/kategori/${matched.slug}` : "/urunler";
+  return matched ? `/kategori/${matched.slug}` : `/kategori/${slugify(categoryName)}`;
 }
 
 function getMinOrderText(product: any) {
@@ -142,19 +170,22 @@ function getCategoryImage(category: any) {
   return matchedProduct ? pickImg(matchedProduct) : "/og.jpg";
 }
 
-function sortCategoriesByOrder(categoryList: any[]) {
-  return [...categoryList].sort((a, b) => {
-    const aIndex = CATEGORY_ORDER.findIndex(
-      (name) => normalizeText(name) === normalizeText(a.name)
-    );
-    const bIndex = CATEGORY_ORDER.findIndex(
-      (name) => normalizeText(name) === normalizeText(b.name)
+function buildOrderedCategories() {
+  return CATEGORY_ORDER.map((categoryName) => {
+    const matched = categories.find(
+      (c: any) => normalizeText(c.name) === normalizeText(categoryName)
     );
 
-    const safeA = aIndex === -1 ? 999 : aIndex;
-    const safeB = bIndex === -1 ? 999 : bIndex;
+    if (matched) return matched;
 
-    return safeA - safeB;
+    return {
+      name: categoryName,
+      slug: slugify(categoryName),
+      seoDescription: `${categoryName} ürünlerini inceleyin.`,
+      image: products.find(
+        (p: any) => normalizeText(p.category) === normalizeText(categoryName)
+      )?.image,
+    };
   });
 }
 
@@ -175,11 +206,11 @@ function buildOrderedCategoryProducts(allProducts: any[]) {
 }
 
 export default function Home() {
-  const orderedCategories = sortCategoriesByOrder(categories).slice(0, 10);
+  const orderedCategories = buildOrderedCategories();
   const orderedCategoryProducts = buildOrderedCategoryProducts(products);
 
-  const featuredProducts = orderedCategoryProducts;
-  const topStrip = orderedCategoryProducts;
+  const heroCategoryChips = orderedCategories.slice(0, 12);
+  const topStrip = orderedCategoryProducts.slice(0, 10);
   const heroShowcase = orderedCategoryProducts.slice(0, 5);
 
   const kalemProducts = products
@@ -214,7 +245,7 @@ export default function Home() {
     name: "FirmaPromosyon | Logo Baskılı Kurumsal Promosyon Ürünleri",
     url: SITE_URL,
     description:
-      "Kurumsal promosyon ürünleri, logo baskı çözümleri, DTF baskı, UV baskı ve toplu siparişler için hızlı teklif alın.",
+      "Kurumsal promosyon ürünleri, logo baskı çözümleri ve toplu siparişler için hızlı teklif alın.",
     inLanguage: "tr-TR",
     primaryImageOfPage: {
       "@type": "ImageObject",
@@ -255,13 +286,15 @@ export default function Home() {
   const itemListSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: "Öne Çıkan Promosyon Ürünleri",
-    itemListElement: featuredProducts.map((p: any, index: number) => ({
-      "@type": "ListItem",
-      position: index + 1,
-      url: `${SITE_URL}/urunler/${pickSlug(p)}`,
-      name: pickTitle(p),
-    })),
+    name: "Popüler Ürünler",
+    itemListElement: topStrip
+      .filter((p: any) => pickSlug(p))
+      .map((p: any, index: number) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        url: `${SITE_URL}/urunler/${pickSlug(p)}`,
+        name: pickTitle(p),
+      })),
   };
 
   const faqSchema = {
@@ -338,11 +371,9 @@ export default function Home() {
               </h1>
 
               <p className="mt-5 max-w-3xl text-base leading-7 text-gray-700 md:text-lg">
-                Promosyon kalem, termos, ajanda, tarihsiz defter, anahtarlık,
-                çakmak, duvar saati, powerbank, USB bellek ve geri dönüşümlü
-                promosyon ürünlerinde kurumsal toplu sipariş çözümleri sunuyoruz.
-                DTF baskı, UV baskı, lazer baskı ve farklı logo uygulamaları için
-                hızlı teklif alın.
+                Kurumsal tanıtım, fuar, etkinlik ve toplu firma siparişleri için
+                logo baskılı promosyon ürünleri sunuyoruz. DTF, UV ve lazer baskı
+                seçenekleriyle ürün, adet ve uygulama detaylarına göre hızlı teklif alın.
               </p>
 
               <div className="mt-7 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
@@ -377,14 +408,13 @@ export default function Home() {
                 <HeroStat title="Hızlı Dönüş" text="Teklif ve bilgi akışı" />
               </div>
 
-              {/* HERO ALT KATEGORİ CHIPS */}
               <div className="mt-8 border-t border-gray-200 pt-6">
                 <div className="mb-3 text-sm font-extrabold text-gray-900">
-                  Popüler Kategoriler
+                  Öne Çıkan Kategoriler
                 </div>
 
                 <div className="flex flex-wrap gap-3">
-                  {orderedCategories.map((category: any) => (
+                  {heroCategoryChips.map((category: any) => (
                     <Link
                       key={category.slug}
                       href={`/kategori/${category.slug}`}
@@ -393,6 +423,13 @@ export default function Home() {
                       {category.name}
                     </Link>
                   ))}
+
+                  <Link
+                    href="/urunler"
+                    className="rounded-full bg-black px-4 py-2 text-sm font-semibold text-white transition hover:bg-gray-900"
+                  >
+                    Tümünü Gör →
+                  </Link>
                 </div>
               </div>
             </div>
@@ -445,8 +482,79 @@ export default function Home() {
         </div>
       </section>
 
+      {/* GÜVEN BANDI */}
+      <section className="border-b border-t border-gray-200 bg-gray-50">
+        <div className="mx-auto grid max-w-7xl gap-4 px-5 py-4 text-sm font-semibold text-gray-700 sm:grid-cols-2 lg:grid-cols-5">
+          <div>✔ Logo baskı seçenekleri</div>
+          <div>✔ Kurumsal toplu sipariş</div>
+          <div>✔ Türkiye geneli gönderim</div>
+          <div>✔ Adede özel teklif</div>
+          <div>✔ WhatsApp hızlı dönüş</div>
+        </div>
+      </section>
+
+      {/* KATEGORİLER */}
+      <section className="mx-auto max-w-7xl px-5 py-14">
+        <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+          <div className="max-w-3xl">
+            <div className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-xs font-semibold text-gray-700">
+              Premium kategori görünümü
+            </div>
+
+            <h2 className="mt-4 text-2xl font-extrabold text-gray-900 md:text-3xl">
+              Tüm Promosyon Kategorileri
+            </h2>
+            <p className="mt-3 text-sm text-gray-600 md:text-base">
+              Kurumsal tanıtım, etkinlik, fuar ve marka görünürlüğü için uygun ürün
+              gruplarını kategori bazında inceleyin.
+            </p>
+          </div>
+
+          <Link href="/urunler" className="text-sm font-semibold text-gray-900 hover:underline">
+            Tüm ürünler →
+          </Link>
+        </div>
+
+        <div className="mt-8 grid grid-cols-2 gap-4 md:grid-cols-3 xl:grid-cols-4">
+          {categoryCards.map((category: any) => (
+            <Link
+              key={category.slug}
+              href={`/kategori/${category.slug}`}
+              className="group relative overflow-hidden rounded-[28px] border border-gray-200 bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-xl"
+            >
+              <div className="absolute inset-0 bg-gradient-to-br from-white via-white to-gray-50" />
+              <div className="relative">
+                <div className="relative aspect-[4/3] overflow-hidden border-b border-gray-100 bg-gray-100">
+                  <Image
+                    src={getCategoryImage(category)}
+                    alt={category.name}
+                    fill
+                    sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
+                    className="object-contain p-4 transition duration-500 group-hover:scale-105"
+                  />
+                </div>
+
+                <div className="p-4 md:p-5">
+                  <div className="line-clamp-2 min-h-[48px] text-sm font-extrabold text-gray-900 md:text-base">
+                    {category.name}
+                  </div>
+
+                  <p className="mt-2 line-clamp-2 text-xs leading-5 text-gray-600 md:text-sm">
+                    {category.seoDescription || `${category.name} ürünlerini inceleyin.`}
+                  </p>
+
+                  <div className="mt-4 inline-flex items-center rounded-full bg-black px-3 py-1.5 text-[11px] font-semibold text-white md:text-xs">
+                    Kategoriye git →
+                  </div>
+                </div>
+              </div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
       {/* POPÜLER ÜRÜNLER */}
-      <section className="border-b border-gray-100 bg-white">
+      <section className="border-b border-t border-gray-100 bg-white">
         <div className="mx-auto max-w-7xl px-5 py-10">
           <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
             <div>
@@ -500,162 +608,6 @@ export default function Home() {
               );
             })}
           </div>
-        </div>
-      </section>
-
-      {/* GÜVEN BANDI */}
-      <section className="border-b border-t border-gray-200 bg-gray-50">
-        <div className="mx-auto grid max-w-7xl gap-4 px-5 py-4 text-sm font-semibold text-gray-700 sm:grid-cols-2 lg:grid-cols-5">
-          <div>✔ Logo baskı seçenekleri</div>
-          <div>✔ Kurumsal toplu sipariş</div>
-          <div>✔ Türkiye geneli gönderim</div>
-          <div>✔ Adede özel teklif</div>
-          <div>✔ WhatsApp hızlı dönüş</div>
-        </div>
-      </section>
-
-      {/* KATEGORİLER */}
-      <section className="mx-auto max-w-7xl px-5 py-14">
-        <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
-          <div className="max-w-3xl">
-            <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
-              En Çok Tercih Edilen Promosyon Kategorileri
-            </h2>
-            <p className="mt-3 text-sm text-gray-600 md:text-base">
-              Kalem, çakmak, anahtarlık, ajanda, duvar saatleri, geri dönüşümlü ürünler,
-              powerbank, tarihsiz defter, termos ve USB bellek gibi kurumsal tanıtıma
-              uygun promosyon kategorilerini inceleyin.
-            </p>
-          </div>
-
-          <Link href="/urunler" className="text-sm font-semibold text-gray-900 hover:underline">
-            Tüm ürünler →
-          </Link>
-        </div>
-
-        <div className="mt-8 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-4 xl:grid-cols-5">
-          {categoryCards.map((category: any) => (
-            <Link
-              key={category.slug}
-              href={`/kategori/${category.slug}`}
-              className="group overflow-hidden rounded-3xl border border-gray-200 bg-white shadow-sm transition hover:-translate-y-1 hover:shadow-md"
-            >
-              <div className="relative aspect-[4/3] bg-gray-100">
-                <Image
-                  src={getCategoryImage(category)}
-                  alt={category.name}
-                  fill
-                  sizes="(max-width: 640px) 100vw, (max-width: 1280px) 25vw, 20vw"
-                  className="object-contain p-5 transition duration-500 group-hover:scale-105"
-                />
-              </div>
-
-              <div className="p-5">
-                <div className="text-base font-extrabold text-gray-900">
-                  {category.name}
-                </div>
-                <p className="mt-2 line-clamp-3 text-sm text-gray-600">
-                  {category.seoDescription || `${category.name} ürünlerini inceleyin.`}
-                </p>
-                <div className="mt-4 text-sm font-semibold text-gray-900">
-                  Kategoriye git →
-                </div>
-              </div>
-            </Link>
-          ))}
-        </div>
-      </section>
-
-      {/* ÜRÜNLER */}
-      <section id="urunler" className="mx-auto max-w-7xl px-5 py-14">
-        <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
-          <div className="min-w-0">
-            <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
-              Öne Çıkan Promosyon Ürünleri
-            </h2>
-            <p className="mt-2 text-sm text-gray-600">
-              Her kategoriden öne çıkan ürünleri inceleyin.
-            </p>
-          </div>
-
-          <Link
-            href="/urunler"
-            className="text-sm font-semibold text-gray-900 hover:underline"
-          >
-            Tümünü Gör →
-          </Link>
-        </div>
-
-        <div className="mt-8 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
-          {featuredProducts.map((p: any) => {
-            const title = pickTitle(p);
-            const desc = pickDesc(p);
-            const cat = pickCat(p);
-            const img = pickImg(p);
-            const slug = pickSlug(p);
-            const categoryHref = getCategoryHref(cat);
-            const minOrder = getMinOrderText(p);
-
-            return (
-              <article
-                key={slug}
-                className="group rounded-3xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
-              >
-                <Link href={`/urunler/${slug}`} className="block">
-                  <div className="relative aspect-[4/3] overflow-hidden rounded-2xl bg-gray-100">
-                    <Image
-                      src={img}
-                      alt={title}
-                      fill
-                      sizes="(max-width: 640px) 100vw, (max-width: 1280px) 33vw, 20vw"
-                      className="object-contain p-4 transition duration-500 group-hover:scale-105"
-                    />
-                  </div>
-                </Link>
-
-                <div className="mt-4 min-w-0">
-                  <Link
-                    href={categoryHref}
-                    className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700 transition hover:bg-gray-200"
-                  >
-                    {cat}
-                  </Link>
-
-                  <Link href={`/urunler/${slug}`} className="block">
-                    <h3 className="mt-3 line-clamp-2 break-words text-lg font-extrabold text-gray-900">
-                      {title}
-                    </h3>
-                  </Link>
-
-                  <p className="mt-2 line-clamp-3 text-sm text-gray-700">{desc}</p>
-
-                  <div className="mt-4 flex flex-wrap gap-2">
-                    <span className="inline-flex items-center rounded-full bg-black px-3 py-1 text-xs font-semibold text-white">
-                      Hızlı teklif
-                    </span>
-                    <span className="inline-flex items-center rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
-                      {minOrder}
-                    </span>
-                  </div>
-                </div>
-
-                <div className="mt-5 flex flex-wrap items-center justify-between gap-2">
-                  <Link
-                    href={`/urunler/${slug}`}
-                    className="rounded-full border border-gray-300 bg-white px-4 py-2 text-xs font-semibold text-gray-900 transition hover:border-gray-500"
-                  >
-                    Ürün Detayı
-                  </Link>
-                  <Link
-                    href={`/kurumsal-teklif-al?product=${encodeURIComponent(slug)}`}
-                    className="rounded-full bg-black px-4 py-2 text-xs font-semibold text-white transition hover:bg-gray-900"
-                  >
-                    Teklif Al
-                  </Link>
-                </div>
-              </article>
-            );
-          })}
         </div>
       </section>
 
@@ -799,79 +751,48 @@ export default function Home() {
         </div>
       </section>
 
-      {/* KATEGORİ CLUSTER */}
-      <section className="mx-auto max-w-7xl px-5 py-12">
-        <div className="rounded-3xl border border-gray-200 bg-white p-6 md:p-10">
-          <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
-            Promosyon Ürün Kategorileri
-          </h2>
-          <p className="mt-3 max-w-3xl text-sm leading-7 text-gray-700 md:text-base">
-            Kurumsal promosyon ihtiyaçları için en çok tercih edilen ürün gruplarını inceleyin.
-            Logo baskılı promosyon kalem, ajanda, anahtarlık, çakmak, duvar saatleri,
-            geri dönüşümlü ürünler, powerbank, tarihsiz defter, termos ve USB bellek
-            kategorileri ile markanıza uygun çözümler sunuyoruz.
-          </p>
-
-          <div className="mt-6 flex flex-wrap gap-3">
-            {orderedCategories.map((category: any) => (
-              <Link
-                key={category.slug}
-                href={`/kategori/${category.slug}`}
-                className="rounded-full border border-gray-300 bg-gray-50 px-4 py-2 text-sm font-semibold text-gray-900 transition hover:border-gray-500 hover:bg-white"
-              >
-                {category.name}
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* SEO METNİ */}
       <section className="mx-auto max-w-7xl px-5 py-12">
         <div className="grid gap-6 rounded-3xl border border-gray-200 bg-gray-50 p-6 md:grid-cols-2 md:p-10">
           <div>
             <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
-              Kurumsal Promosyon Ürünleri ve Logo Baskı Çözümleri
+              Kurumsal Promosyon ve Baskı Çözümleri
             </h2>
 
             <div className="mt-5 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
               <p>
-                Promosyon ürünleri, markaların müşterileri, iş ortakları ve
-                çalışanlarıyla daha güçlü bir bağ kurmasına yardımcı olan etkili
-                kurumsal tanıtım araçları arasında yer alır.
+                Promosyon ürünleri, markanızı müşterilerinizin ve iş ortaklarınızın
+                günlük hayatında görünür kılmanın etkili yollarından biridir.
               </p>
 
               <p>
-                FirmaPromosyon olarak kurumsal firmalara yönelik logo baskılı
-                promosyon ürünleri, DTF baskı, UV baskı, lazer baskı ve farklı
-                markalama çözümleri sunuyoruz. Ürün modeli, baskı türü, sipariş
-                adedi ve teslim süresi gibi detaylara göre teklif süreci planlanır.
+                FirmaPromosyon olarak ürün seçimi, baskı tekniği, adet planlaması
+                ve teklif sürecinde kurumsal ihtiyaçlara uygun çözümler sunuyoruz.
               </p>
 
               <p>
-                Promosyon kalem, termos, ajanda, defter, anahtarlık,
-                USB bellek, powerbank ve çevre dostu promosyon ürünleri gibi birçok
-                kategoride kurumsal siparişe uygun seçenekler sunmaktayız.
+                Uygun ürün ve doğru baskı yöntemiyle fuar, etkinlik, bayi ağı ve
+                kurumsal dağıtım süreçlerinizi daha güçlü hale getirebilirsiniz.
               </p>
             </div>
           </div>
 
           <div className="grid gap-3">
             <SimpleInfoCard
-              title="Promosyon kalem, termos, ajanda ve defter"
-              text="Markanıza uygun farklı ürün gruplarını tek yerde inceleyin."
+              title="Kurumsal siparişe uygun ürün seçimi"
+              text="Kullanım amacına ve hedef kitlenize göre doğru ürün gruplarını inceleyin."
             />
             <SimpleInfoCard
               title="DTF, UV ve lazer baskı alternatifleri"
-              text="Ürüne ve kullanım amacına göre farklı baskı çözümleri."
+              text="Ürüne ve kullanım senaryosuna göre farklı baskı çözümleri."
             />
             <SimpleInfoCard
-              title="Fuar, etkinlik ve kurumsal dağıtım için uygun"
-              text="Toplu sipariş ve tanıtım süreçlerine uygun ürün seçenekleri."
+              title="Fuar, etkinlik ve dağıtım odaklı kullanım"
+              text="Marka görünürlüğünü destekleyen pratik promosyon seçenekleri."
             />
             <SimpleInfoCard
-              title="Türkiye geneli teklif ve gönderim desteği"
-              text="Ürün, adet ve baskı detaylarına göre hızlı dönüş imkanı."
+              title="Hızlı teklif ve süreç desteği"
+              text="Ürün, adet ve baskı detaylarına göre daha net sipariş planlaması."
             />
           </div>
         </div>
