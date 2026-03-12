@@ -4125,7 +4125,7 @@ Promosyon spiralli notluk siparişleri toplu üretim olarak hazırlanmakta olup 
   id: "p115",
   slug: "promosyon-renkli-yapiskanli-notluk-gd-130",
   title: "Promosyon Renkli Yapışkanlı Notluk GD-130 | Logo Baskılı Yapışkanlı Not Defteri",
-  category: "Geri Dönüşümlü Ürünler",
+  category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-renkli-yapiskanli-notluk-gd-130.jpg",
 
   shortDesc:
@@ -4269,7 +4269,7 @@ Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta 
   id: "p118",
   slug: "promosyon-spiralli-not-defteri-gd-160",
   title: "Promosyon Spiralli Not Defteri GD-160 | Kraft Kapak Logo Baskılı Not Defteri",
-  category: "Geri Dönüşümlü Ürünler",
+  category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-spiralli-not-defteri-gd-160.jpg",
 
   shortDesc:
@@ -4318,7 +4318,7 @@ Promosyon spiralli not defteri siparişleri toplu üretim olarak hazırlanmakta 
   id: "p119",
   slug: "promosyon-spiralli-defter-yapiskanli-notluk-gd-170",
   title: "Promosyon Spiralli Defter Yapışkanlı Notluk GD-170 | Logo Baskılı Geri Dönüşümlü Defter",
-  category: "Geri Dönüşümlü Ürünler",
+  category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-spiralli-defter-yapiskanli-notluk-gd-170.jpg",
 
   shortDesc:
@@ -4366,7 +4366,7 @@ Promosyon spiralli defter siparişleri toplu üretim olarak hazırlanmakta olup 
   id: "p120",
   slug: "promosyon-renkli-yapiskanli-notluk-gd-180",
   title: "Promosyon Renkli Yapışkanlı Notluk GD-180 | Kraft Kapak Logo Baskılı Not Defteri",
-  category: "Geri Dönüşümlü Ürünler",
+  category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-renkli-yapiskanli-notluk-gd-180.jpg",
 
   shortDesc:
@@ -5063,7 +5063,7 @@ Promosyon hesap makinesi siparişleri toplu üretim olarak hazırlanmakta olup m
   slug: "promosyon-porselen-kupa-330ml-pk-100",
   title: "Promosyon Porselen Kupa PK-100 | Logo Baskılı 330 ml Promosyon Kupa",
 
-  category: "Seramik ve Porselen Kupalar",
+  category: "Kupa",
 
   image: "/products/promosyon-porselen-kupa-pk-100.jpg",
 
@@ -5554,6 +5554,703 @@ RENK VE STOK BİLGİSİ
 Promosyon kupalar farklı baskı tasarımları ile üretilebilmektedir. Sipariş öncesinde stok ve üretim detaylarının teyit edilmesi önerilmektedir.
 
 Promosyon kupa siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı tasarımı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p142",
+  slug: "promosyon-kalem-seti-ks-110",
+  title: "Promosyon Kalem Seti KS-110 | Logo Baskılı Kurumsal Kalem Seti",
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-110.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-110 modeli şık kutu tasarımı, lazer baskıya uygun metal kalemi ve kurumsal kullanıma uygun yapısı ile firma promosyonlarında tercih edilen kalem seti modellerinden biridir.",
+
+  longDesc: `
+Promosyon kalem seti KS-110 modeli kurumsal firmalar, etkinlikler ve marka tanıtım kampanyaları için tercih edilen şık tasarımlı promosyon kalem setleri arasında yer almaktadır.
+
+Metal gövdeli kalemi ve zarif kutu tasarımı sayesinde hem kullanışlı hem de prestijli bir promosyon ürünü olarak kullanılabilir. Özellikle kurumsal hediye, fuar promosyonu, şirket tanıtımı ve özel etkinliklerde marka imajını güçlendiren promosyon ürünleri arasında yer almaktadır.
+
+Kalem gövdesi lazer baskıya uygundur ve firmanıza ait logo veya marka bilgisi kalem üzerine kalıcı şekilde uygulanabilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kalem Seti  
+Kategori: Kalem Setleri  
+Kalem Ölçüsü: 137 x Ø11 mm  
+Kutu Ölçüsü: 193 x 85 mm  
+Refil Rengi: Mavi  
+Kolideki Adet: 50  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 50 x 5,5 mm  
+Kutu Baskısı: Uygun Değildir  
+
+RENK SEÇENEKLERİ
+
+Füme  
+Siyah (Siyah Klips)
+
+Not: Renk seçenekleri ve stok durumu dönemsel olarak değişebilmektedir. Sipariş öncesinde güncel stok ve üretim bilgileri için teklif talebinde bulunabilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Firma tanıtım kampanyaları  
+Fuar ve etkinlik promosyonları  
+Kurumsal hediye ürünleri  
+Ofis ve çalışan hediyeleri  
+
+Promosyon kalem seti siparişleri toplu üretim şeklinde hazırlanmakta olup baskı tasarımı, renk seçimi ve teslim süresi gibi detaylar teklif aşamasında netleştirilmektedir.
+`
+},
+{
+  id: "p143",
+  slug: "promosyon-kalem-seti-ks-120",
+  title: "Promosyon Kalem Seti KS-120 | Logo Baskılı Kurumsal Kalem Seti",
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-120.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-120 modeli şık kutu tasarımı, lazer baskıya uygun metal kalemi ve kurumsal hediye olarak tercih edilen prestijli promosyon kalem setlerinden biridir.",
+
+  longDesc: `
+Promosyon kalem seti KS-120 modeli kurumsal firmalar, fuarlar, toplantılar ve özel etkinliklerde kullanılmak üzere tasarlanmış şık ve kullanışlı promosyon ürünleri arasında yer almaktadır.
+
+Metal gövdeli kalemi ve özel tasarımlı kutusu sayesinde hem prestijli bir kurumsal hediye hem de etkili bir marka tanıtım ürünü olarak tercih edilmektedir. Günlük kullanımda sık kullanılan kalem ürünleri marka görünürlüğünü artıran en etkili promosyon ürünleri arasında yer almaktadır.
+
+Kalem gövdesi lazer baskıya uygundur ve firmanıza ait logo veya marka bilgisi kalem üzerine kalıcı şekilde uygulanabilmektedir. Kutu kısmı ise serigraf baskı için uygundur ve kurumsal tasarımlar uygulanabilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kalem Seti  
+Kategori: Kalem Setleri  
+Kalem Ölçüsü: 138 x Ø13 mm  
+Kutu Ölçüsü: 192 x 97 mm  
+Refil Rengi: Mavi  
+Kolideki Adet: 50  
+
+BASKI BİLGİLERİ
+
+Kalem Baskı Türü: Lazer Baskı  
+Kalem Baskı Alanı: 50 x 5,5 mm  
+
+Kutu Baskı Türü: Serigraf Baskı  
+Kutu Baskı Alanı: 150 x 65 mm  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Firma tanıtım kampanyaları  
+Fuar ve etkinlik promosyonları  
+Kurumsal hediye ürünleri  
+Ofis ve çalışan hediyeleri  
+
+Promosyon kalem seti siparişleri toplu üretim olarak hazırlanmaktadır. Baskı tasarımı, renk seçenekleri ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p144",
+  slug: "promosyon-renkli-yapiskanli-notluk-9x14-gd-190",
+  title: "Promosyon Renkli Yapışkanlı Notluk GD-190 | 9x14 cm Logo Baskılı Notluk",
+  category: "Yapışkanlı Notluklar",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-190.jpg",
+
+  shortDesc:
+    "Promosyon renkli yapışkanlı notluk GD-190 modeli 9 x 14 cm ölçüsü, geri dönüşümlü kapak yapısı ve renkli yapışkanlı not kağıtları ile ofis ve kurumsal promosyon ürünleri arasında tercih edilen kullanışlı notluk modellerinden biridir.",
+
+  longDesc: `
+Promosyon renkli yapışkanlı notluk GD-190 modeli günlük ofis kullanımına uygun yapısı ve pratik not alma özelliği ile kurumsal promosyon ürünleri arasında sık tercih edilen ürünlerden biridir.
+
+9 x 14 cm ölçülerine sahip olan bu model, geri dönüşümlü kapak yapısı ve içerisinde bulunan renkli yapışkanlı not kağıtları sayesinde hem çevre dostu hem de kullanışlı bir promosyon ürünüdür.
+
+Promosyon notluklar özellikle ofislerde, toplantılarda, fuarlarda ve tanıtım etkinliklerinde markaların en çok tercih ettiği promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edildiği için marka görünürlüğünü uzun süre artırmaya yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Yapışkanlı Notluk  
+Kategori: Yapışkanlı Notluklar  
+Ürün Ölçüsü: 9 x 14 cm  
+Kapak: Geri Dönüşümlü Karton  
+İçerik: Renkli Yapışkanlı Not Kağıtları  
+
+RENK SEÇENEKLERİ
+
+Yeşil  
+Kraft  
+Kırmızı  
+Mavi  
+
+Not: Renk seçenekleri ve stok durumu dönemsel olarak değişebilmektedir. Sipariş öncesinde güncel stok ve üretim bilgileri için teklif talebinde bulunabilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve masaüstü kullanım ürünleri  
+Fuar ve etkinlik promosyonları  
+Firma tanıtım kampanyaları  
+Çalışan ve müşteri hediyeleri  
+
+Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmaktadır. Baskı tasarımı, renk seçimi ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p145",
+  slug: "promosyon-renkli-yapiskanli-notluk-14x10-gd-200",
+  title: "Promosyon Renkli Yapışkanlı Notluk GD-200 | 14 x 10,7 cm Logo Baskılı Notluk",
+  category: "Yapışkanlı Notluklar",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-200.jpg",
+
+  shortDesc:
+    "Promosyon renkli yapışkanlı notluk GD-200 modeli 14 x 10,7 cm ölçüsü, geri dönüşümlü kağıt yapısı ve kalem tutucu özelliği ile ofis ve kurumsal promosyon ürünleri arasında tercih edilen kullanışlı notluk modellerinden biridir.",
+
+  longDesc: `
+Promosyon renkli yapışkanlı notluk GD-200 modeli pratik kullanım sunan yapısı ve çevre dostu tasarımı ile kurumsal promosyon ürünleri arasında yer almaktadır. 14 x 10,7 cm ölçülerine sahip olan bu model günlük not alma, hatırlatma ve ofis kullanımı için oldukça kullanışlıdır.
+
+Ürün geri dönüşümlü kağıt malzemeden üretilmiştir ve çevre dostu promosyon ürünleri kategorisinde değerlendirilmektedir. İçerisinde bulunan yapışkanlı not kağıtları sayesinde hızlı not alma ve iş planlaması için ideal bir kullanım sunar.
+
+Model üzerinde bulunan kalem tutucu bölmesi kullanım kolaylığı sağlar. Üründe bulunan kalem aksesuar olarak sunulmaktadır.
+
+Promosyon yapışkanlı notluklar; ofislerde, toplantılarda, fuarlarda ve kurumsal etkinliklerde en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edildiği için marka görünürlüğünü uzun süre artırmaya yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Yapışkanlı Notluk  
+Kategori: Yapışkanlı Notluklar  
+Ürün Ölçüsü: 14 x 10,7 cm  
+Malzeme: Geri Dönüşümlü Kağıt  
+Ek Özellik: Kalem Tutucu  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Serigraf Baskı, Dijital Baskı  
+
+Not: Ürün üzerindeki kalem aksesuar olarak sunulmaktadır. Baskı tasarımı, renk seçenekleri ve üretim detayları sipariş öncesinde teklif aşamasında belirlenmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis masaüstü ürünleri  
+Fuar ve etkinlik promosyonları  
+Firma tanıtım kampanyaları  
+Çalışan ve müşteri hediyeleri  
+
+Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar teklif aşamasında netleştirilmektedir.
+`
+},
+{
+  id: "p146",
+  slug: "promosyon-renkli-yapiskanli-notluk-7x8-gd-220",
+  title: "Promosyon Renkli Yapışkanlı Notluk GD-220 | Kraft Kapak Logo Baskılı Notluk",
+  category: "Yapışkanlı Notluklar",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-220.jpg",
+
+  shortDesc:
+    "Promosyon renkli yapışkanlı notluk GD-220 modeli sert kraft kapak yapısı, 80 gr yapışkanlı not kağıtları ve kompakt ölçüsü ile kurumsal promosyon ürünleri arasında tercih edilen pratik masaüstü notluk modellerinden biridir.",
+
+  longDesc: `
+Promosyon renkli yapışkanlı notluk GD-220 modeli kompakt tasarımı ve kullanışlı yapısı sayesinde ofislerde ve günlük kullanımda sık tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Sert kraft kapak yapısı ürüne dayanıklılık kazandırırken çevre dostu bir görünüm de sunmaktadır. İçerisinde bulunan yapışkanlı not kağıtları hızlı not alma, hatırlatma ve planlama için pratik bir kullanım sağlar.
+
+Promosyon yapışkanlı notluklar; fuarlar, şirket etkinlikleri, kurumsal tanıtımlar ve ofis kullanımı için tercih edilen en etkili promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık kullanılan ürünler olması nedeniyle marka görünürlüğünü uzun süre artırmaya yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Yapışkanlı Notluk  
+Kategori: Yapışkanlı Notluklar  
+Ürün Ölçüsü: 7,8 x 8 x 2,5 cm  
+Kağıt Gramajı: 80 gr  
+Kağıt Adedi: 250 Yaprak  
+Kapak: Sert Kraft  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Serigraf Baskı, Dijital Baskı  
+
+Not: Baskı tasarımı, renk seçenekleri ve üretim detayları sipariş öncesinde teklif aşamasında belirlenmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis masaüstü ürünleri  
+Fuar ve etkinlik promosyonları  
+Firma tanıtım kampanyaları  
+Çalışan ve müşteri hediyeleri  
+
+Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar teklif aşamasında netleştirilmektedir.
+`
+},
+{
+  id: "p147",
+  slug: "promosyon-renkli-yapiskanli-notluk-5x21-gd-240",
+  title: "Promosyon Renkli Yapışkanlı Notluk GD-240 | 5,6 x 21 cm Logo Baskılı Notluk",
+  category: "Yapışkanlı Notluklar",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-240.jpg",
+
+  shortDesc:
+    "Promosyon renkli yapışkanlı notluk GD-240 modeli 5,6 x 21 cm ölçüsü, kraft kapak tasarımı ve yapışkanlı not kağıtları ile kurumsal promosyon ürünleri arasında tercih edilen pratik masaüstü notluk modellerinden biridir.",
+
+  longDesc: `
+Promosyon renkli yapışkanlı notluk GD-240 modeli kompakt ve kullanışlı tasarımı ile ofislerde, toplantılarda ve günlük kullanımda tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+5,6 x 21 cm ölçülerine sahip olan bu model masaüstünde veya ajanda içinde kolay taşınabilir bir yapıya sahiptir. Ürün içerisinde bulunan yapışkanlı not kağıtları hızlı not alma ve hatırlatma amaçlı kullanım için idealdir.
+
+Kraft kapak tasarımı ürüne doğal ve çevre dostu bir görünüm kazandırmaktadır. Kurumsal promosyon ürünleri arasında yer alan yapışkanlı notluklar marka tanıtımı için oldukça etkili ve uzun süre kullanılan promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Yapışkanlı Notluk  
+Kategori: Yapışkanlı Notluklar  
+Ürün Ölçüsü: 5,6 x 21 cm  
+Kağıt Gramajı: 80 gr  
+Kağıt Adedi: 25 Yaprak  
+Kapak: Kraft  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Serigraf Baskı, Dijital Baskı  
+
+RENK SEÇENEKLERİ
+
+Lacivert  
+Siyah  
+
+Not: Renk seçenekleri ve stok durumu dönemsel olarak değişebilmektedir. Sipariş öncesinde güncel stok ve üretim bilgileri için teklif talebinde bulunabilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis masaüstü kullanım ürünleri  
+Fuar ve etkinlik promosyonları  
+Firma tanıtım kampanyaları  
+Çalışan ve müşteri hediyeleri  
+
+Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p148",
+  slug: "promosyon-renkli-yapiskanli-notluk-13x6-gd-250",
+  title: "Promosyon Renkli Yapışkanlı Notluk GD-250 | 13 x 6,5 cm Logo Baskılı Notluk",
+  category: "Yapışkanlı Notluklar",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-250.jpg",
+
+  shortDesc:
+    "Promosyon renkli yapışkanlı notluk GD-250 modeli 13 x 6,5 cm ölçüsü ve geri dönüşümlü kapak tasarımı ile kurumsal promosyon ürünleri arasında tercih edilen pratik masaüstü notluk modellerinden biridir.",
+
+  longDesc: `
+Promosyon renkli yapışkanlı notluk GD-250 modeli kompakt yapısı ve çevre dostu tasarımı ile günlük kullanım için ideal promosyon ürünleri arasında yer almaktadır.
+
+13 x 6,5 cm ölçülerine sahip olan bu model masaüstünde, ofislerde ve toplantılarda pratik not alma ihtiyacı için tercih edilmektedir. Geri dönüşümlü kapak yapısı sayesinde çevre dostu promosyon ürünleri kategorisinde değerlendirilmektedir.
+
+Promosyon yapışkanlı notluklar; fuarlar, kurumsal etkinlikler, firma tanıtım kampanyaları ve ofis kullanımı için tercih edilen en etkili promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edilen ürünler olması nedeniyle marka görünürlüğünü uzun süre artırmaya yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Yapışkanlı Notluk  
+Kategori: Yapışkanlı Notluklar  
+Ürün Ölçüsü: 13 x 6,5 cm  
+Kapak: Geri Dönüşümlü Karton  
+
+RENK SEÇENEKLERİ
+
+Kraft  
+Yeşil  
+
+Not: Renk seçenekleri ve stok durumu dönemsel olarak değişebilmektedir. Sipariş öncesinde güncel stok ve üretim detayları için teklif talebinde bulunabilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis masaüstü kullanım ürünleri  
+Fuar ve etkinlik promosyonları  
+Firma tanıtım kampanyaları  
+Çalışan ve müşteri hediyeleri  
+
+Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p149",
+  slug: "promosyon-spiralli-notluk-gd-210",
+  title: "Promosyon Spiralli Notluk GD-210 | Kraft Kapak Logo Baskılı Not Defteri",
+  category: "Geri Dönüşümlü Ürünler",
+  image: "/products/promosyon-spiralli-notluk-gd-210.jpg",
+
+  shortDesc:
+    "Promosyon spiralli notluk GD-210 modeli kraft kapak tasarımı, 150 sayfa çizgili iç yapısı ve kalem tutucu özelliği ile kurumsal promosyon ürünleri arasında tercih edilen kullanışlı notluk modellerinden biridir.",
+
+  longDesc: `
+Promosyon spiralli notluk GD-210 modeli hem kullanışlı tasarımı hem de çevre dostu kraft kapak yapısı ile kurumsal promosyon ürünleri arasında yer almaktadır. Günlük kullanım için uygun yapısı sayesinde ofislerde, toplantılarda ve eğitim alanlarında tercih edilen pratik bir notluk modelidir.
+
+150 sayfa çizgili iç yapısı sayesinde not alma, planlama ve günlük kullanım için oldukça idealdir. Ürün üzerinde bulunan kalem tutucu bölmesi kullanım kolaylığı sağlar ve masaüstü düzenini destekler.
+
+Promosyon notluklar; fuarlar, etkinlikler, kurumsal toplantılar ve marka tanıtım kampanyalarında en sık tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık kullanılan bir ürün olması sayesinde marka görünürlüğünü uzun süre artırır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Spiralli Notluk  
+Kategori: Geri Dönüşümlü Ürünler  
+Ürün Ölçüsü: 11,5 x 15 cm  
+Sayfa Sayısı: 150  
+Kağıt Gramajı: 70 gr krem kağıt  
+İç Yapı: Çizgili  
+Cilt: Spiralli  
+Kapak: Kraft  
+Kalem Tutucu: Var  
+Ek Özellik: Yapışkanlı Notluk Bölmesi  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: UV Baskı, Serigraf Baskı  
+
+Not: Renk seçenekleri ve stok durumu dönemsel olarak değişebilmektedir. Sipariş öncesinde güncel stok ve üretim detayları için teklif talebinde bulunabilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve masaüstü kullanım ürünleri  
+Fuar ve etkinlik promosyonları  
+Firma tanıtım kampanyaları  
+Çalışan ve müşteri hediyeleri  
+
+Promosyon spiralli notluk siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p150",
+  slug: "promosyon-porselen-kupa-280ml-pk-120",
+  title: "Promosyon Porselen Kupa PK-120 | 280 ml Logo Baskılı Kupa",
+  category: "Kupa",
+  image: "/products/promosyon-porselen-kupa-pk-120.jpg",
+
+  shortDesc:
+    "Promosyon porselen kupa PK-120 modeli 280 ml hacmi, dayanıklı porselen yapısı ve logo baskıya uygun geniş yüzeyi ile kurumsal promosyon ürünleri arasında tercih edilen klasik kupa modellerinden biridir.",
+
+  longDesc: `
+Promosyon porselen kupa PK-120 modeli günlük kullanım için tasarlanmış kurumsal promosyon ürünleri arasında yer almaktadır. 280 ml hacmi sayesinde çay, kahve ve diğer sıcak içeceklerin tüketimi için ideal bir kullanım sunar.
+
+Promosyon kupalar; ofislerde, şirketlerde, fuarlarda ve marka tanıtım kampanyalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edilen bir ürün olduğu için marka görünürlüğünü uzun süre artırmaya yardımcı olur.
+
+PK-120 modeli kaliteli porselen malzemeden üretilmiştir. Kupa yüzeyi logo baskı uygulamaları için uygundur ve firmanıza ait tasarım kupa üzerine yüksek kaliteli şekilde uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Porselen Kupa  
+Kategori: Kupa  
+Malzeme: Porselen  
+Yükseklik: 92 mm  
+Çap: 78 mm  
+Hacim: 280 ml  
+Ağırlık: 300 gr  
+Kupa Baskı Alanı: 250 x 92 mm  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve çalışan hediyeleri  
+Fuar ve etkinlik promosyonları  
+Kafe ve restoran promosyonları  
+Marka tanıtım kampanyaları  
+
+KULLANIM NOTU
+
+Kupalar bulaşık makinesinde yıkamaya uygundur. Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle kullanım sıklığına bağlı olarak zamanla yüzeyde çizilme veya baskıda solma gibi deformasyonlar oluşabilir. Bu durum tüm baskılı kupa ürünlerinde görülebilen doğal bir kullanım sonucudur.
+
+Promosyon kupa siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p151",
+  slug: "promosyon-seramik-kupa-330ml-sk-100",
+  title: "Promosyon Seramik Kupa SK-100 | 330 ml Logo Baskılı Kupa",
+  category: "Kupa",
+  image: "/products/promosyon-seramik-kupa-sk-100.jpg",
+
+  shortDesc:
+    "Promosyon seramik kupa SK-100 modeli 330 ml hacmi, süblimasyon baskıya uygun yüzeyi ve dayanıklı seramik yapısı ile kurumsal promosyon kupa modelleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon seramik kupa SK-100 modeli günlük kullanım için tasarlanmış klasik kupa modelleri arasında yer almaktadır. 330 ml hacmi sayesinde çay, kahve ve diğer sıcak içeceklerin tüketimi için oldukça ideal bir kullanım sunar.
+
+Promosyon kupalar; ofislerde, şirketlerde, fuarlarda ve tanıtım etkinliklerinde en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edilen bir ürün olması sayesinde marka görünürlüğünü uzun süre artırmaya yardımcı olur.
+
+SK-100 modeli kaliteli seramik malzemeden üretilmiştir. Kupa yüzeyi süblimasyon (dijital) baskı için uygundur ve firmanıza ait logo veya tasarım kupa üzerine yüksek kaliteli şekilde uygulanabilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Seramik Kupa  
+Kategori: Kupa  
+Malzeme: Seramik  
+Yükseklik: 9,3 cm  
+Çap: 8,1 cm  
+Hacim: 330 ml  
+Ağırlık: 260 gr  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Süblimasyon (Dijital Baskı)  
+Minimum Sipariş: 45 Adet  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve çalışan hediyeleri  
+Fuar ve etkinlik promosyonları  
+Kafe ve restoran promosyonları  
+Marka tanıtım kampanyaları  
+
+KULLANIM NOTU
+
+Kupalar bulaşık makinesinde yıkamaya uygundur. Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle kullanım sıklığına bağlı olarak zamanla yüzeyde çizilme veya baskıda solma gibi deformasyonlar oluşabilir. Bu durum baskılı kupa ürünlerinde doğal kullanım sonucu görülebilir.
+
+Promosyon kupa siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p152",
+  slug: "promosyon-6li-kahve-fincani-65ml-kvf-100",
+  title: "Promosyon 6'lı Kahve Fincanı KVF-100 | 65 ml Logo Baskılı Fincan Seti",
+  category: "Seramik ve Porselen Kupalar",
+  image: "/products/promosyon-6li-kahve-fincani-kvf-100.jpg",
+
+  shortDesc:
+    "Promosyon 6'lı kahve fincanı KVF-100 modeli 65 ml hacmi, porselen yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon ürünleri arasında tercih edilen şık fincan seti modellerinden biridir.",
+
+  longDesc: `
+Promosyon 6'lı kahve fincanı KVF-100 modeli kurumsal firmalar, kafeler ve marka tanıtım kampanyaları için tercih edilen şık promosyon ürünleri arasında yer almaktadır.
+
+Set içerisinde toplam 6 adet kahve fincanı bulunmaktadır. 65 ml hacme sahip olan bu model Türk kahvesi ve espresso gibi içecekler için ideal bir kullanım sunmaktadır.
+
+Promosyon fincan setleri özellikle kafe, restoran, otel ve kurumsal tanıtım çalışmalarında sık tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edilen ürünler olması nedeniyle marka görünürlüğünü uzun süre artırmaya yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kahve Fincanı Seti  
+Kategori: Seramik ve Porselen Kupalar  
+Set İçeriği: 6 Adet Fincan  
+Minimum Sipariş: 1 Kutu  
+
+Fincan Yükseklik: 57 mm  
+Fincan Çap: 55 mm  
+Hacim: 65 ml  
+Ağırlık: 115 gr  
+
+Baskı Alanı: 180 x 57 mm  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Kafe ve restoran promosyonları  
+Otel ve turizm sektöründe kullanım  
+Fuar ve etkinlik promosyonları  
+Firma tanıtım kampanyaları  
+
+KULLANIM NOTU
+
+Fincanlar bulaşık makinesinde yıkamaya uygundur. Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle kullanım sıklığına bağlı olarak zamanla yüzeyde çizilme veya baskıda solma gibi deformasyonlar oluşabilir. Bu durum baskılı porselen ürünlerde doğal kullanım sonucu görülebilir.
+
+Promosyon kahve fincanı siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p153",
+  slug: "promosyon-6li-kahve-fincani-65ml-kvf-110",
+  title: "Promosyon 6'lı Kahve Fincanı KVF-110 | 65 ml Logo Baskılı Fincan Seti",
+  category: "Seramik ve Porselen Kupalar",
+  image: "/products/promosyon-6li-kahve-fincani-kvf-110.jpg",
+
+  shortDesc:
+    "Promosyon 6'lı kahve fincanı KVF-110 modeli 65 ml hacmi, porselen yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon ürünleri arasında tercih edilen şık kahve fincanı setlerinden biridir.",
+
+  longDesc: `
+Promosyon 6'lı kahve fincanı KVF-110 modeli kurumsal firmalar, kafe ve restoranlar ile marka tanıtım kampanyaları için tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Set içerisinde toplam 6 adet kahve fincanı bulunmaktadır. 65 ml hacme sahip olan bu model Türk kahvesi ve espresso gibi içecekler için ideal kullanım sunmaktadır.
+
+Promosyon fincan setleri özellikle kafe, restoran, otel ve kurumsal etkinliklerde sık tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda tercih edilen ürünler olması nedeniyle marka görünürlüğünü uzun süre artırmaya yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kahve Fincanı Seti  
+Kategori: Seramik ve Porselen Kupalar  
+Set İçeriği: 6 Adet Fincan  
+Minimum Sipariş: 1 Kutu  
+
+Fincan Yükseklik: 57 mm  
+Fincan Çap: 55 mm  
+Hacim: 65 ml  
+Ağırlık: 115 gr  
+
+Baskı Alanı: 180 x 57 mm  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Kafe ve restoran promosyonları  
+Otel ve turizm sektöründe kullanım  
+Fuar ve etkinlik promosyonları  
+Firma tanıtım kampanyaları  
+
+KULLANIM NOTU
+
+Fincanlar bulaşık makinesinde yıkamaya uygundur. Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle kullanım sıklığına bağlı olarak zamanla yüzeyde çizilme veya baskıda solma gibi deformasyonlar oluşabilir. Bu durum baskılı porselen ürünlerde doğal kullanım sonucu görülebilir.
+
+Promosyon kahve fincanı siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p154",
+  slug: "promosyon-porselen-fincan-240ml-pk-130",
+  title: "Promosyon Porselen Fincan PK-130 | 240 ml Logo Baskılı Mini Kupa",
+  category: "Kupa",
+  image: "/products/promosyon-porselen-fincan-pk-130.jpg",
+
+  shortDesc:
+    "Promosyon porselen fincan PK-130 modeli 240 ml hacmi, süblimasyon baskıya uygun yüzeyi ve dayanıklı porselen yapısı ile kurumsal promosyon ürünleri arasında tercih edilen kullanışlı fincan modellerinden biridir.",
+
+  longDesc: `
+Promosyon porselen fincan PK-130 modeli günlük kullanım için tasarlanmış şık ve kullanışlı promosyon ürünleri arasında yer almaktadır. 240 ml hacmi sayesinde kahve, nescafe ve diğer sıcak içeceklerin tüketimi için ideal bir kullanım sunar.
+
+Promosyon fincan ve kupa modelleri; ofislerde, şirketlerde, fuarlarda ve marka tanıtım kampanyalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edilen ürünler olması nedeniyle marka görünürlüğünü uzun süre artırmaya yardımcı olur.
+
+PK-130 modeli kaliteli porselen malzemeden üretilmiştir. Kupa yüzeyi süblimasyon (dijital) baskı için uygundur ve firmanıza ait logo veya tasarım kupa üzerine yüksek kaliteli şekilde uygulanabilmektedir. Bu modelde çift yön renkli baskı yapılabilmektedir ve belirtilen fiyata baskı dahildir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Porselen Fincan  
+Kategori: Kupa  
+Malzeme: Porselen  
+Yükseklik: 7,3 cm  
+Çap: 8 cm  
+Hacim: 240 ml  
+Ağırlık: 230 gr  
+Kupa Baskı Alanı: 250 x 73 mm  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Süblimasyon (Dijital Baskı)  
+Baskı Özelliği: Çift yön renkli baskı  
+Minimum Sipariş: 45 Adet  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve çalışan hediyeleri  
+Fuar ve etkinlik promosyonları  
+Kafe ve restoran promosyonları  
+Marka tanıtım kampanyaları  
+
+KULLANIM NOTU
+
+Kupalar bulaşık makinesinde yıkamaya uygundur. Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle kullanım sıklığına bağlı olarak zamanla yüzeyde çizilme veya baskıda solma gibi deformasyonlar oluşabilir. Bu durum baskılı kupa ürünlerinde doğal kullanım sonucu görülebilir.
+
+Promosyon fincan siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p155",
+  slug: "promosyon-porselen-fincan-220ml-pk-140",
+  title: "Promosyon Porselen Fincan PK-140 | 220 ml Logo Baskılı Kahve Fincanı",
+  category: "Seramik ve Porselen Kupalar",
+  image: "/products/promosyon-porselen-fincan-pk-140.jpg",
+
+  shortDesc:
+    "Promosyon porselen fincan PK-140 modeli 220 ml hacmi, süblimasyon baskıya uygun yüzeyi ve dayanıklı porselen yapısı ile kurumsal promosyon ürünleri arasında tercih edilen şık kahve fincanı modellerinden biridir.",
+
+  longDesc: `
+Promosyon porselen fincan PK-140 modeli günlük kullanım için tasarlanmış kullanışlı ve şık promosyon ürünleri arasında yer almaktadır. 220 ml hacmi sayesinde kahve, nescafe ve diğer sıcak içeceklerin tüketimi için ideal bir kullanım sunar.
+
+Promosyon fincan ve kupa modelleri; ofislerde, şirketlerde, fuarlarda ve marka tanıtım kampanyalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edilen ürünler olması sayesinde marka görünürlüğünü uzun süre artırmaya yardımcı olur.
+
+PK-140 modeli kaliteli porselen malzemeden üretilmiştir. Fincan yüzeyi süblimasyon (dijital) baskı için uygundur ve firmanıza ait logo veya tasarım fincan üzerine yüksek kaliteli şekilde uygulanabilmektedir. Bu modelde çift yön renkli baskı yapılabilmektedir ve belirtilen fiyata baskı dahildir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Porselen Fincan  
+Kategori: Seramik ve Porselen Kupalar  
+Malzeme: Porselen  
+Yükseklik: 7,2 cm  
+Çap: 8 cm  
+Hacim: 220 ml  
+Ağırlık: 250 gr  
+Kupa Baskı Alanı: 250 x 72 mm  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Süblimasyon (Dijital Baskı)  
+Baskı Özelliği: Çift yön renkli baskı  
+Minimum Sipariş: 45 Adet  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve çalışan hediyeleri  
+Fuar ve etkinlik promosyonları  
+Kafe ve restoran promosyonları  
+Marka tanıtım kampanyaları  
+
+KULLANIM NOTU
+
+Fincanlar bulaşık makinesinde yıkamaya uygundur. Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle kullanım sıklığına bağlı olarak zamanla yüzeyde çizilme veya baskıda solma gibi deformasyonlar oluşabilir. Bu durum baskılı porselen ürünlerde doğal kullanım sonucu görülebilir.
+
+Promosyon porselen fincan siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p156",
+  slug: "promosyon-2li-porselen-nescafe-fincani-260ml-pk-150",
+  title: "Promosyon 2'li Porselen Nescafe Fincanı PK-150 | 260 ml Logo Baskılı Fincan Seti",
+  category: "Seramik ve Porselen Kupalar",
+  image: "/products/promosyon-2li-porselen-nescafe-fincani-pk-150.jpg",
+
+  shortDesc:
+    "Promosyon 2'li porselen nescafe fincanı PK-150 modeli 260 ml hacmi, süblimasyon baskıya uygun yüzeyi ve dayanıklı porselen yapısı ile kurumsal promosyon ürünleri arasında tercih edilen şık fincan seti modellerinden biridir.",
+
+  longDesc: `
+Promosyon 2'li porselen nescafe fincanı PK-150 modeli kurumsal firmalar, kafe ve restoranlar ile marka tanıtım kampanyaları için tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Set içerisinde toplam 2 adet porselen fincan bulunmaktadır. 260 ml hacme sahip olan bu model nescafe, latte, cappuccino ve diğer sıcak içeceklerin tüketimi için ideal kullanım sunmaktadır.
+
+Promosyon fincan setleri; ofislerde, kurumsal etkinliklerde, fuarlarda ve marka tanıtım çalışmalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edilen ürünler olması nedeniyle marka görünürlüğünü uzun süre artırmaya yardımcı olur.
+
+PK-150 modeli kaliteli porselen malzemeden üretilmiştir. Fincan yüzeyi süblimasyon (dijital) baskı için uygundur ve firmanıza ait logo veya tasarım fincan üzerine yüksek kaliteli şekilde uygulanabilmektedir. Bu modelde çift yön renkli baskı yapılabilmektedir ve belirtilen fiyata baskı dahildir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Porselen Nescafe Fincanı  
+Kategori: Seramik ve Porselen Kupalar  
+Set İçeriği: 2 Adet Fincan  
+
+Yükseklik: 7,5 cm  
+Çap: 8 cm  
+Hacim: 260 ml  
+Ağırlık: 260 gr  
+Baskı Alanı: 255 x 75 mm  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Süblimasyon (Dijital Baskı)  
+Baskı Özelliği: Çift yön renkli baskı  
+Minimum Sipariş: 24 Kutu  
+Not: Tekli satış yapılmamaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve çalışan hediyeleri  
+Kafe ve restoran promosyonları  
+Fuar ve etkinlik promosyonları  
+Marka tanıtım kampanyaları  
+
+KULLANIM NOTU
+
+Fincanlar bulaşık makinesinde yıkamaya uygundur. Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle kullanım sıklığına bağlı olarak zamanla yüzeyde çizilme veya baskıda solma gibi deformasyonlar oluşabilir. Bu durum baskılı porselen ürünlerde doğal kullanım sonucu görülebilir.
+
+Promosyon fincan siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
 `
 },
 
