@@ -4461,6 +4461,1101 @@ RENK VE STOK BİLGİSİ
 Promosyon kalem seti siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
 `
 },
+{
+  id: "p122",
+  slug: "promosyon-karton-canta-kc-100",
+  title: "Promosyon Karton Çanta KÇ-100 | Logo Baskılı Karton Çanta",
+
+  category: "Karton Çantalar",
+
+  image: "/products/promosyon-karton-canta-kc-100.jpg",
+
+  shortDesc:
+    "Promosyon karton çanta KÇ-100 modeli 230 gr Amerikan Bristol kağıt, mat veya parlak selefon kaplama ve 35 cm PP kordon ip yapısı ile kurumsal promosyon ve mağaza kullanımı için tercih edilen dayanıklı karton çanta modellerinden biridir.",
+
+  longDesc: `
+Promosyon karton çanta KÇ-100 modeli kurumsal firmalar, mağazalar ve markalar için üretilen kaliteli promosyon karton çanta modellerinden biridir. 230 gr Amerikan Bristol kağıt kullanılarak üretilen bu karton çanta modeli hem dayanıklı hem de estetik bir kullanım sunar.
+
+Promosyon karton çantalar özellikle mağazalarda ürün tesliminde, fuar ve etkinliklerde promosyon dağıtımlarında ve kurumsal marka tanıtımında sıklıkla tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Karton çanta yüzeyi mat veya parlak selefon kaplama seçenekleri ile hazırlanabilir. Bu kaplama sayesinde ürün hem daha dayanıklı olur hem de baskı kalitesi daha profesyonel bir görünüm kazanır.
+
+Promosyon karton çanta KÇ-100 modeli üzerine firmanıza ait logo veya marka tasarımı ofset baskı yöntemi ile uygulanabilir. Böylece ürün sadece bir taşıma çantası değil aynı zamanda güçlü bir reklam ve tanıtım aracı haline gelir.
+
+Dayanıklı yapısı ve şık tasarımı sayesinde karton çantalar mağazalar, butik işletmeler, kozmetik firmaları, tekstil mağazaları, kurumsal firmalar ve fuar organizasyonları tarafından yoğun şekilde tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Karton Çanta  
+Kategori: Matbaa Ürünleri  
+Kağıt Türü: 230 gr Amerikan Bristol  
+Kaplama: Mat Selefon / Parlak Selefon  
+Kordon: 35 cm Standart PP Kordon  
+
+EBAT SEÇENEKLERİ
+
+25 x 35 x 8 cm  
+21.5 x 33 x 12 cm  
+23 x 31 x 8 cm  
+23.5 x 27.5 x 10.5 cm  
+24 x 26 x 8 cm  
+24 x 34 x 9 cm  
+24.5 x 35 x 9 cm  
+25 x 29 x 8 cm  
+25 x 32 x 8 cm  
+25 x 39 x 8 cm  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Mağaza ve butik çantaları  
+Fuar ve etkinlik promosyonları  
+Kurumsal marka tanıtımı  
+Tekstil ve kozmetik mağazaları  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon karton çantalar kurumsal tasarıma göre özel üretim yapılmaktadır. Baskı tasarımı, renk seçenekleri ve üretim süresi sipariş detaylarına göre değişiklik gösterebilir.
+
+Promosyon karton çanta siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p123",
+  slug: "promosyon-250-yaprakli-kup-bloknot-mtb-100",
+  title: "Promosyon 250 Yapraklı Küp Bloknot MTB-100 | Logo Baskılı Küp Bloknot",
+
+  category: "Matbaa Ürünleri",
+
+  image: "/products/promosyon-250-yaprakli-kup-bloknot-mtb-100.jpg",
+
+  shortDesc:
+    "Promosyon 250 yapraklı küp bloknot MTB-100 modeli 8 x 8 x 3 cm ölçüsü, 250 yaprak not kağıdı ve logo baskıya uygun dış kutu tasarımı ile ofis ve masaüstü kullanımında tercih edilen kurumsal promosyon bloknot ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon 250 yapraklı küp bloknot MTB-100 modeli ofis kullanımı için oldukça pratik ve kullanışlı promosyon ürünleri arasında yer almaktadır. Masaüstü kullanımına uygun yapısı sayesinde not alma, hatırlatma ve günlük planlama için sıkça tercih edilmektedir.
+
+Promosyon küp bloknot ürünleri özellikle kurumsal firmalar tarafından müşterilere dağıtılan promosyon ürünleri arasında yer alır. Ofis ortamında sürekli kullanıldığı için marka görünürlüğünü artıran etkili reklam ürünlerinden biridir.
+
+MTB-100 modeli 250 yaprak iç kağıt kapasitesi sayesinde uzun süre kullanılabilir. Ürünün dış kutu kısmı 350 gr Amerikan Bristol kağıttan üretilmekte olup mat veya parlak selefon kaplama seçenekleri ile hazırlanabilmektedir.
+
+Promosyon küp bloknot üzerine firmanıza ait logo, marka veya reklam tasarımı baskı uygulanarak ürün güçlü bir tanıtım aracı haline getirilebilir.
+
+Promosyon küp bloknot ürünleri özellikle ofisler, bankalar, danışmanlık firmaları, eğitim kurumları ve kurumsal işletmeler tarafından yoğun şekilde tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Küp Bloknot  
+Kategori: Matbaa Ürünleri  
+Ürün Ölçüsü: 8 x 8 x 3 cm  
+Yaprak Sayısı: 250 Yaprak  
+
+KAĞIT BİLGİLERİ
+
+Dış Kutu: 350 gr Amerikan Bristol  
+Kaplama: Mat Selefon / Parlak Selefon  
+İç Yaprak: 1. Hamur Kağıt  
+Kağıt Gramajı: 80 gr  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis masaüstü promosyonları  
+Fuar ve etkinlik promosyonları  
+Müşteri promosyon ürünleri  
+Kurumsal marka tanıtımı  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon küp bloknot ürünleri kurumsal tasarım ve baskıya göre özel üretim yapılmaktadır. Baskı tasarımı ve üretim süresi sipariş detaylarına göre değişiklik gösterebilir.
+
+Promosyon küp bloknot siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p124",
+  slug: "promosyon-yerli-uretim-polyester-sapka-sp-500",
+  title: "Promosyon Yerli Üretim Polyester Şapka ŞP-500 | Logo Baskılı Promosyon Şapka",
+
+  category: "Promosyon Şapka",
+
+  image: "/products/promosyon-yerli-uretim-polyester-sapka-sp-500.jpg",
+
+  shortDesc:
+    "Promosyon yerli üretim polyester şapka ŞP-500 modeli 140 gr polyester kumaşı, 5 panel tasarımı, cırt bantlı ayarlanabilir yapısı ve DTF transfer baskıya uygun yüzeyi ile kurumsal promosyon şapka modelleri arasında tercih edilen ürünlerden biridir.",
+
+  longDesc: `
+Promosyon yerli üretim polyester şapka ŞP-500 modeli kurumsal tanıtım faaliyetlerinde sık tercih edilen promosyon tekstil ürünleri arasında yer almaktadır. Dayanıklı polyester kumaş yapısı ve rahat kullanım sağlayan tasarımı sayesinde hem günlük kullanım hem de tanıtım amaçlı promosyon ürün olarak kullanılabilir.
+
+Promosyon şapka ürünleri özellikle fuarlar, açık hava etkinlikleri, spor organizasyonları, şirket tanıtımları ve kampanyalarda markaların görünürlüğünü artıran etkili promosyon ürünlerinden biridir.
+
+ŞP-500 modeli 140 gr polyester kumaştan üretilmiştir ve 5 panel tasarımına sahiptir. Şapkanın üzerinde bulunan kuş gözü detayları hava sirkülasyonu sağlayarak daha rahat bir kullanım sunar.
+
+Promosyon şapka üzerine firmanıza ait logo veya marka tasarımı DTF transfer baskı yöntemi ile uygulanabilir. Bu sayede ürün hem kullanışlı bir tekstil ürünü hem de güçlü bir reklam ve marka tanıtım aracı haline gelir.
+
+Ayarlanabilir cırt bantlı arka kısmı sayesinde farklı kullanıcılar için kolayca uyum sağlayabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Şapka  
+Kategori: Promosyon Şapka  
+Kumaş: 140 gr Polyester  
+Üretim: Yerli Üretim  
+Panel: 5 Panel Tasarım  
+Siper: 4 Siper Dikiş  
+Kuş Gözü: 2 Adet  
+Arka Kapama: Cırt Bantlı Ayarlanabilir  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: DTF Transfer Baskı  
+Logo Baskı: Kurumsal logo baskıya uygundur  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Açık hava reklam ürünleri  
+Şirket tanıtım kampanyaları  
+Spor ve organizasyon etkinlikleri  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon şapka renkleri ve stok durumu üretim dönemine göre değişiklik gösterebilir. Sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+Promosyon şapka siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p125",
+  slug: "promosyon-ahsap-masa-seti-ah-100",
+  title: "Promosyon Ahşap Masa Seti AH-100 | Logo Baskılı Masaüstü Ofis Seti",
+
+  category: "Ahşap ve Deri Masaüstü Ürünler",
+
+  image: "/products/promosyon-ahsap-masa-seti-ah-100.jpg",
+
+  shortDesc:
+    "Promosyon ahşap masa seti AH-100 modeli kalemlik ve telefon standı bölmeleri bulunan şık tasarımı ile ofis masaları için tercih edilen prestijli kurumsal promosyon masaüstü ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon ahşap masa seti AH-100 modeli kurumsal firmalar tarafından tercih edilen şık ve kullanışlı masaüstü promosyon ürünleri arasında yer almaktadır. Ofis masalarında düzen sağlayan tasarımı sayesinde hem dekoratif hem de işlevsel bir kullanım sunar.
+
+Ahşap masa setleri özellikle yönetici masaları, ofis çalışanları ve kurumsal hediye ürünleri arasında sık tercih edilen promosyon ürünlerinden biridir. Kalemlik ve telefon standı bölmeleri sayesinde masa üzerinde düzenli bir kullanım sağlar.
+
+Promosyon masa seti üzerine firmanıza ait logo veya marka baskısı uygulanarak ürün güçlü bir reklam ve kurumsal tanıtım aracı haline getirilebilir. Bu sayede marka görünürlüğü uzun süreli olarak sağlanabilir.
+
+Ahşap masaüstü promosyon ürünleri özellikle bankalar, danışmanlık firmaları, holdingler, ofisler ve kurumsal işletmeler tarafından tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ahşap Masa Seti  
+Kategori: Ahşap ve Deri Masaüstü Ürünler  
+Malzeme: Ahşap  
+Bölmeler: Kalemlik ve Telefon Standı  
+Kullanım: Masaüstü Ofis Organizer  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis masaüstü düzenleyiciler  
+Yönetici masa setleri  
+Firma tanıtım hediyeleri  
+Kurumsal ofis promosyonları  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon masa seti ürünleri farklı renk ve üretim seçenekleri ile hazırlanabilmektedir. Logo baskı ve üretim detayları sipariş aşamasında belirlenmektedir.
+
+Promosyon masa seti siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p126",
+  slug: "promosyon-penye-bisiklet-yaka-tshirt-pn-100",
+  title: "Promosyon Penye Bisiklet Yaka T-shirt PN-100 | Logo Baskılı Promosyon Tişört",
+
+  category: "Promosyon Tişört",
+
+  image: "/products/promosyon-penye-bisiklet-yaka-tshirt-pn-100.jpg",
+
+  shortDesc:
+    "Promosyon penye bisiklet yaka t-shirt PN-100 modeli %100 pamuk 160 gr penye kumaşı, rahat kalıbı ve DTF transfer baskıya uygun yapısı ile kurumsal promosyon tişört modelleri arasında tercih edilen ürünlerden biridir.",
+
+  longDesc: `
+Promosyon penye bisiklet yaka t-shirt PN-100 modeli %100 pamuk penye kumaşı ve rahat kalıbı ile promosyon tekstil ürünleri arasında sık tercih edilen modellerden biridir. Günlük kullanıma uygun yapısı sayesinde hem çalışan kıyafeti hem de marka tanıtım ürünü olarak kullanılabilir.
+
+Promosyon tişört ürünleri özellikle fuarlar, etkinlikler, organizasyonlar, şirket kampanyaları ve tanıtım faaliyetlerinde markaların görünürlüğünü artıran güçlü promosyon ürünleri arasında yer almaktadır.
+
+PN-100 modeli 160 gr (Suprem) penye kumaştan üretilmektedir. Yumuşak dokusu sayesinde kullanıcıya rahat bir kullanım sunar. Bisiklet yaka tasarımı ve tüp model üretim yapısı ile modern ve konforlu bir kullanım sağlar.
+
+Promosyon tişört üzerine firmanıza ait logo veya tasarım DTF transfer baskı yöntemi ile uygulanabilir. Bu sayede ürün hem kullanışlı bir tekstil ürünü hem de etkili bir reklam aracı haline gelir.
+
+Promosyon tişörtler özellikle kurumsal firmalar, etkinlik organizasyonları, spor etkinlikleri, promosyon kampanyaları ve fuar organizasyonlarında yoğun şekilde tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Tişört  
+Kategori: Promosyon Tişört  
+Kumaş: %100 Pamuk Penye  
+Kumaş Gramajı: 160 gr (Suprem)  
+Model: Tüp Model  
+Yaka Tipi: Bisiklet Yaka  
+
+BEDEN SEÇENEKLERİ
+
+S  
+M  
+L  
+XL  
+
+RENK SEÇENEKLERİ
+
+Beyaz  
+Siyah  
+Kırmızı  
+Lacivert  
+Gri  
+Saks Mavi  
+Turkuaz  
+Turuncu  
+Sarı  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: DTF Transfer Baskı  
+Logo Baskı: Kurumsal logo baskıya uygundur  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Şirket tanıtım kampanyaları  
+Organizasyon ve etkinlik tişörtleri  
+Marka tanıtım ürünleri  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon tişört ürünlerinde renk ve beden seçenekleri stok durumuna göre değişiklik gösterebilir. Sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+Promosyon tişört siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p127",
+  slug: "promosyon-organizer-19x265-org-100",
+  title: "Promosyon Organizer ORG-100 | Logo Baskılı Termo Deri Organizer",
+
+  category: "Organizerler",
+
+  image: "/products/promosyon-organizer-org-100.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-100 modeli termo deri kapak tasarımı, 336 sayfa çizgili iç yapısı ve 8 haneli hesap makinesi özelliği ile kurumsal promosyon organizer ürünleri arasında tercih edilen şık masaüstü ve ajanda organizer modellerinden biridir.",
+
+  longDesc: `
+Promosyon organizer ORG-100 modeli termo deri kapak tasarımı ve geniş iç hacmi sayesinde kurumsal promosyon ürünleri arasında prestijli bir seçenek olarak öne çıkmaktadır. Günlük not alma, toplantı planlama ve ofis kullanımı için oldukça kullanışlı bir organizer modelidir.
+
+Promosyon organizer ürünleri özellikle yöneticiler, ofis çalışanları ve kurumsal firmalar tarafından tercih edilen promosyon ofis ürünleri arasında yer almaktadır. Şık tasarımı sayesinde hem kişisel kullanım hem de kurumsal hediye olarak kullanılabilir.
+
+ORG-100 modeli 336 sayfa çizgili iç blok yapısına sahiptir. İç sayfalar 70 gr krem kağıttan üretilmiştir ve uzun süreli kullanım sağlar.
+
+Organizer üzerinde bulunan 8 haneli hesap makinesi özelliği sayesinde günlük hesaplama işlemleri kolayca yapılabilir. Bu özellik ürünü daha fonksiyonel bir ofis ürünü haline getirir.
+
+Promosyon organizer üzerine firmanıza ait logo veya marka baskısı gofre baskı, lazer baskı veya dijital baskı yöntemleri ile uygulanabilir. Bu sayede ürün güçlü bir marka tanıtım aracı haline gelir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Organizer  
+Kategori: Organizerler  
+Kapak Malzemesi: Termo Deri  
+Ürün Ölçüsü: 19 x 26,5 cm  
+İç Blok Ölçüsü: 16,5 x 23,5 cm  
+Sayfa Sayısı: 336 Sayfa  
+Sayfa Tipi: Çizgili  
+Kağıt Türü: 70 gr Krem Kağıt  
+
+EK ÖZELLİKLER
+
+Hesap Makinesi: 8 Haneli  
+
+BASKI BİLGİLERİ
+
+Baskı Türleri: Gofre Baskı / Lazer Baskı / Dijital Baskı  
+Logo Baskı: Kurumsal logo baskıya uygundur  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Yönetici ve ofis organizer ürünleri  
+Toplantı ve not alma organizerleri  
+Kurumsal hediye ürünleri  
+Ofis promosyon ürünleri  
+
+RENK VE STOK BİLGİSİ
+
+Organizer ürünlerinde kapak renkleri ve üretim seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+Promosyon organizer siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p128",
+  slug: "promosyon-sekreterlik-23x31-sb-100",
+  title: "Promosyon Sekreterlik SB-100 | Logo Baskılı Termo Deri Evrak Sekreterliği",
+
+  category: "Sekreterlikler ve Evrak Çantaları",
+
+  image: "/products/promosyon-sekreterlik-sb-100.jpg",
+
+  shortDesc:
+    "Promosyon sekreterlik SB-100 modeli termo deri kapak tasarımı, bloknot bölmesi ve hesap makinesi özelliği ile kurumsal toplantılar ve ofis kullanımı için tercih edilen promosyon sekreterlik ve evrak organizer ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon sekreterlik SB-100 modeli kurumsal firmalar tarafından tercih edilen kullanışlı ofis promosyon ürünleri arasında yer almaktadır. Termo deri kapak tasarımı sayesinde hem şık bir görünüm sunar hem de uzun süreli kullanım sağlar.
+
+Promosyon sekreterlik ürünleri özellikle toplantılarda, sunumlarda ve ofis çalışmalarında evrak düzeni sağlamak için kullanılan pratik promosyon ürünleridir. İç kısmında bulunan bloknot bölmesi sayesinde not almak kolaylaşır.
+
+SB-100 modeli içerisinde hesap makinesi bölmesi bulunur. Bu özellik özellikle ofis ve iş dünyasında çalışan kişiler için ürünü daha fonksiyonel hale getirir.
+
+Promosyon sekreterlik üzerine firmanıza ait logo veya marka baskısı gofre baskı veya dijital baskı yöntemleri ile uygulanabilir. Bu sayede ürün hem kullanışlı bir ofis ürünü hem de güçlü bir kurumsal tanıtım aracı haline gelir.
+
+Sekreterlik ve evrak çantası ürünleri özellikle bankalar, finans kurumları, danışmanlık firmaları, holdingler ve kurumsal işletmeler tarafından sık tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Sekreterlik  
+Kategori: Sekreterlikler ve Evrak Çantaları  
+Ürün Ölçüsü: 23 x 31 cm  
+Kapak Malzemesi: Termo Deri  
+
+ÜRÜN İÇERİĞİ
+
+Bloknot  
+Hesap Makinesi  
+Kalem Bölmesi (Kalem aksesuardır)  
+
+BASKI BİLGİLERİ
+
+Baskı Türleri: Gofre Baskı / Dijital Baskı  
+Logo Baskı: Kurumsal logo baskıya uygundur  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Toplantı ve sunum sekreterlikleri  
+Ofis evrak düzenleyicileri  
+Kurumsal hediye ürünleri  
+Yönetici ve ofis promosyonları  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon sekreterlik ürünleri farklı kapak renkleri ve üretim seçenekleri ile hazırlanabilmektedir. Sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+Promosyon sekreterlik siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p129",
+  slug: "promosyon-cetvel-cesitleri-ct-200",
+  title: "Promosyon Cetvel Çeşitleri CT-200 | Logo Baskılı Promosyon Cetvel",
+
+  category: "Kırtasiye Ürünleri",
+
+  image: "/products/promosyon-cetvel-cesitleri-ct-200.jpg",
+
+  shortDesc:
+    "Promosyon cetvel çeşitleri CT-200 modeli okul, ofis ve kurumsal promosyon kullanımı için tercih edilen dayanıklı plastik cetvel modellerinden biridir. Logo baskıya uygun yapısı sayesinde marka tanıtımı için etkili bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon cetvel çeşitleri CT-200 modeli hem eğitim kurumları hem de kurumsal firmalar tarafından tercih edilen kullanışlı kırtasiye promosyon ürünleri arasında yer almaktadır. Okullarda, ofislerde ve günlük kullanımda pratik ölçüm aracı olarak kullanılabilir.
+
+Promosyon cetvel ürünleri özellikle eğitim kurumları, kırtasiye kampanyaları, öğrenci promosyonları ve kurumsal marka tanıtım faaliyetlerinde tercih edilmektedir. Günlük kullanımda sürekli kullanılan bir ürün olduğu için marka görünürlüğünü artıran etkili promosyon ürünlerinden biridir.
+
+CT-200 modeli dayanıklı plastik malzemeden üretilmiş olup uzun süreli kullanım sağlar. Ürün üzerine firmanıza ait logo veya marka tasarımı baskı uygulanarak cetvel güçlü bir reklam ve tanıtım aracı haline getirilebilir.
+
+Promosyon cetveller özellikle okullar, kurs merkezleri, eğitim kurumları, ofisler ve kurumsal etkinliklerde sık tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Cetvel  
+Kategori: Kırtasiye Ürünleri  
+Malzeme: Plastik  
+Ölçü: 15 cm  
+
+BASKI BİLGİLERİ
+
+Logo Baskı: Kurumsal logo baskıya uygundur  
+Baskı Türü: Serigraf veya UV baskı uygulanabilir  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Okul ve eğitim promosyonları  
+Kırtasiye promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis promosyon ürünleri  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon cetvel ürünleri farklı renk seçenekleri ile üretilebilmektedir. Stok durumu ve üretim detayları sipariş öncesinde teyit edilmelidir.
+
+Promosyon cetvel siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p130",
+  slug: "promosyon-vip-set-vip-100",
+  title: "Promosyon VIP Set VIP-100 | Logo Baskılı Kurumsal VIP Hediye Seti",
+
+  category: "VIP Ürünler",
+
+  image: "/products/promosyon-vip-set-vip-100.jpg",
+
+  shortDesc:
+    "Promosyon VIP set VIP-100 modeli termo deri defter, 13.000 mAh powerbank, kartvizitlik, anahtarlık, 16 GB USB bellek ve metal kalem seti içeriği ile kurumsal firmalar için hazırlanan prestijli promosyon hediye setlerinden biridir.",
+
+  longDesc: `
+Promosyon VIP set VIP-100 modeli kurumsal firmalar için hazırlanan prestijli promosyon hediye setleri arasında yer almaktadır. Şık kutu tasarımı ve zengin içeriği sayesinde özellikle yönetici hediyeleri, kurumsal etkinlikler ve özel gün promosyonları için tercih edilmektedir.
+
+VIP promosyon setleri markaların prestijini yansıtan özel kurumsal hediye ürünleri arasında yer alır. İçeriğinde bulunan termo deri defter, powerbank, USB bellek, kartvizitlik ve kalem seti gibi ürünler hem kullanışlı hem de profesyonel bir görünüm sunar.
+
+VIP-100 modeli içerisinde bulunan 13.000 mAh powerbank sayesinde mobil cihazlar kolayca şarj edilebilir. 16 GB USB bellek ise veri taşıma için pratik bir kullanım sağlar.
+
+Promosyon VIP set üzerine firmanıza ait logo veya marka baskısı uygulanarak ürün güçlü bir reklam ve kurumsal tanıtım aracı haline getirilebilir. Bu sayede marka görünürlüğü uzun süreli olarak sağlanabilir.
+
+VIP promosyon setleri özellikle bankalar, holdingler, kurumsal firmalar, finans kuruluşları ve yönetici hediyeleri için tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon VIP Set  
+Kategori: VIP Ürünler  
+Kutu Ölçüsü: 38 x 28 x 5,5 cm  
+
+SET İÇERİĞİ
+
+13 x 21 cm Termo Deri Defter  
+13.000 mAh Powerbank  
+Kartvizitlik  
+Anahtarlık  
+16 GB USB Bellek  
+Metal Roller Kalem  
+Metal Tükenmez Kalem  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Yönetici hediyeleri  
+Kurumsal etkinlik promosyonları  
+Prestij promosyon ürünleri  
+
+RENK VE STOK BİLGİSİ
+
+VIP promosyon setleri farklı içerik ve tasarım seçenekleri ile hazırlanabilmektedir. Logo baskı ve üretim detayları sipariş aşamasında belirlenmektedir.
+
+Promosyon VIP set siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p131",
+  slug: "promosyon-kristal-masa-seti-kms-130",
+  title: "Promosyon Kristal Masa Seti KMS-130 | Logo Baskılı Kristal Masa Sümeni",
+
+  category: "Masa Sümeni",
+
+  image: "/products/promosyon-kristal-masa-seti-kms-130.jpg",
+
+  shortDesc:
+    "Promosyon kristal masa seti KMS-130 modeli 15 x 40 cm ölçüsü ve logo baskıya uygun kristal yüzeyi ile yönetici masaları ve kurumsal ofisler için tercih edilen prestijli promosyon masa sümeni ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon kristal masa seti KMS-130 modeli şık ve modern tasarımı ile kurumsal masaüstü promosyon ürünleri arasında yer almaktadır. Kristal görünümlü yapısı sayesinde ofis masalarında hem dekoratif hem de işlevsel bir kullanım sunar.
+
+Promosyon masa sümeni ve masa setleri özellikle yönetici masaları, kurumsal ofisler ve prestijli şirket hediyeleri arasında tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+KMS-130 modeli 15 x 40 cm ölçüsünde tasarlanmıştır ve masa üzerinde düzenli bir kullanım sağlar. Ürün üzerine firmanıza ait logo veya marka baskısı uygulanarak güçlü bir marka tanıtım aracı haline getirilebilir.
+
+Promosyon masa setleri özellikle bankalar, finans kuruluşları, holdingler ve kurumsal şirketler tarafından yönetici masa hediyesi veya kurumsal promosyon ürünü olarak tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kristal Masa Seti  
+Kategori: Masa Sümeni  
+Ürün Ölçüsü: 15 x 40 cm  
+
+BASKI BİLGİLERİ
+
+Baskı Alanı: 60 x 150 mm  
+Logo Baskı: Kurumsal logo baskıya uygundur  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Yönetici masaüstü ürünleri  
+Ofis masa sümeni  
+Kurumsal hediye ürünleri  
+Prestij promosyon ürünleri  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon kristal masa setleri farklı üretim seçenekleri ve baskı uygulamaları ile hazırlanabilmektedir. Sipariş öncesinde stok ve üretim detaylarının teyit edilmesi önerilmektedir.
+
+Promosyon masa seti siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p132",
+  slug: "promosyon-12li-hesap-makinesi-hm-100",
+  title: "Promosyon 12'li Hesap Makinesi HM-100 | Logo Baskılı Promosyon Hesap Makinesi",
+
+  category: "Hesap Makineleri",
+
+  image: "/products/promosyon-12li-hesap-makinesi-hm-100.jpg",
+
+  shortDesc:
+    "Promosyon 12'li hesap makinesi HM-100 modeli geniş ekranı ve logo baskıya uygun yüzeyi ile ofis, muhasebe ve kurumsal promosyon kullanımı için tercih edilen pratik hesap makinesi modellerinden biridir.",
+
+  longDesc: `
+Promosyon 12'li hesap makinesi HM-100 modeli ofis ve muhasebe kullanımı için tasarlanmış pratik promosyon ürünleri arasında yer almaktadır. Günlük hesaplama işlemlerini kolaylaştıran yapısı sayesinde ofis ortamlarında sık kullanılan promosyon ürünlerinden biridir.
+
+Promosyon hesap makineleri özellikle finans kuruluşları, muhasebe firmaları, bankalar ve kurumsal şirketler tarafından tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+HM-100 modeli 12 haneli hesaplama kapasitesine sahip olup geniş tuş yapısı sayesinde rahat bir kullanım sunar. Masaüstü kullanım için uygun tasarımı sayesinde ofislerde uzun süre kullanılabilir.
+
+Promosyon hesap makinesi üzerine firmanıza ait logo veya marka baskısı uygulanarak ürün güçlü bir reklam ve marka tanıtım aracı haline getirilebilir. Bu sayede marka görünürlüğü uzun süreli olarak sağlanabilir.
+
+Promosyon hesap makineleri özellikle muhasebe ofisleri, finans şirketleri, bankalar ve kurumsal işletmeler tarafından tercih edilen etkili promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Hesap Makinesi  
+Kategori: Hesap Makineleri  
+Hane Sayısı: 12 Hane  
+Ürün Ölçüsü: 23 x 10 x 12 cm  
+
+BASKI BİLGİLERİ
+
+Baskı Alanı: 30 x 14 mm  
+Baskı Türü: Serigrafi / Tampon Baskı  
+
+KOLİ BİLGİSİ
+
+Kolideki Adet: 80  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve muhasebe promosyonları  
+Finans ve banka promosyonları  
+Fuar ve etkinlik promosyonları  
+Kurumsal marka tanıtımı  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon hesap makinesi ürünlerinde renk ve üretim seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+Promosyon hesap makinesi siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p133",
+  slug: "promosyon-porselen-kupa-330ml-pk-100",
+  title: "Promosyon Porselen Kupa PK-100 | Logo Baskılı 330 ml Promosyon Kupa",
+
+  category: "Seramik ve Porselen Kupalar",
+
+  image: "/products/promosyon-porselen-kupa-pk-100.jpg",
+
+  shortDesc:
+    "Promosyon porselen kupa PK-100 modeli 330 ml kapasitesi, süblimasyon baskıya uygun yüzeyi ve dayanıklı porselen yapısı ile kurumsal promosyon kupa modelleri arasında en çok tercih edilen ürünlerden biridir.",
+
+  longDesc: `
+Promosyon porselen kupa PK-100 modeli günlük kullanım için tasarlanmış ve kurumsal promosyon ürünleri arasında en çok tercih edilen kupa modellerinden biridir. 330 ml hacmi sayesinde çay, kahve ve diğer sıcak içeceklerin tüketimi için ideal bir kullanım sunar.
+
+Promosyon kupa ürünleri özellikle ofislerde, şirketlerde, fuarlarda ve marka tanıtım kampanyalarında kullanılan etkili promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sürekli kullanılan bir ürün olması nedeniyle marka görünürlüğünü uzun süre artıran promosyon ürünlerinden biridir.
+
+PK-100 modeli kaliteli porselen malzemeden üretilmiştir. Kupa yüzeyi süblimasyon (dijital) baskı için uygundur ve firmanıza ait logo veya tasarım kupa üzerine yüksek kaliteli şekilde uygulanabilir.
+
+Promosyon porselen kupalar özellikle kurumsal firmalar, kafeler, restoranlar, eğitim kurumları ve marka tanıtımı yapan şirketler tarafından tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Porselen Kupa  
+Kategori: Seramik ve Porselen Kupalar  
+Malzeme: Porselen  
+Yükseklik: 95 mm  
+Çap: 80 mm  
+Hacim: 330 ml  
+Ağırlık: 340 gr  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Süblimasyon (Dijital Baskı)  
+Baskı Alanı: 260 x 95 mm  
+Minimum Sipariş: 45 Adet  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve çalışan hediyeleri  
+Fuar ve etkinlik promosyonları  
+Kafe ve restoran promosyonları  
+Marka tanıtım ürünleri  
+
+KULLANIM NOTU
+
+Kupalar bulaşık makinesinde yıkamaya uygundur. Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle kullanım sıklığına bağlı olarak zamanla yüzeyde çizilme veya baskıda solma gibi deformasyonlar oluşabilir. Bu durum tüm baskılı kupa ürünlerinde görülebilen doğal bir kullanım sonucudur.
+
+RENK VE STOK BİLGİSİ
+
+Promosyon porselen kupalar farklı baskı tasarımları ile hazırlanabilmektedir. Sipariş öncesinde stok ve üretim detaylarının teyit edilmesi önerilmektedir.
+
+Promosyon kupa siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı tasarımı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p134",
+  slug: "promosyon-ham-bez-canta-hbc-150",
+  title: "Promosyon Ham Bez Çanta HBÇ-150 | Logo Baskılı Ham Bez Çanta",
+
+  category: "Ham Bez & Tela Çanta",
+
+  image: "/products/promosyon-ham-bez-canta-hbc-150.jpg",
+
+  shortDesc:
+    "Promosyon ham bez çanta HBÇ-150 modeli 35 x 40 cm ölçüsü, 140 gr ham bez kumaşı ve logo baskıya uygun yüzeyi ile fuar, etkinlik ve kurumsal promosyon kullanımı için tercih edilen çevre dostu promosyon çanta modellerinden biridir.",
+
+  longDesc: `
+Promosyon ham bez çanta HBÇ-150 modeli çevre dostu yapısı ve dayanıklı kumaşı ile kurumsal promosyon ürünleri arasında en çok tercih edilen çanta modellerinden biridir. Günlük kullanım için uygun yapısı sayesinde fuarlar, etkinlikler ve alışveriş çantası olarak kullanılabilir.
+
+Promosyon ham bez çantalar özellikle markaların çevre dostu promosyon ürünleri arasında yer almaktadır. Tekrar kullanılabilir yapısı sayesinde hem çevreye katkı sağlar hem de marka görünürlüğünü uzun süre artırır.
+
+HBÇ-150 modeli 42 tel ham bez kumaştan üretilmiş olup 140 gr kumaş gramajına sahiptir. Dayanıklı yapısı sayesinde uzun süreli kullanım sunar.
+
+Promosyon bez çanta üzerine firmanıza ait logo veya tasarım ofset baskı, dijital baskı veya DTF transfer baskı yöntemleri ile uygulanabilir. Bu sayede ürün hem kullanışlı bir çanta hem de güçlü bir marka tanıtım aracı haline gelir.
+
+Promosyon bez çantalar özellikle fuarlar, organizasyonlar, mağazalar, kurumsal etkinlikler ve reklam kampanyalarında tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ham Bez Çanta  
+Kategori: Ham Bez & Tela Çanta  
+Ürün Ölçüsü: 35 x 40 cm  
+Kulp Askı Boyu: 70 cm  
+Kumaş Türü: 42 Tel Ham Bez  
+Kumaş Gramajı: 140 gr  
+
+BASKI BİLGİLERİ
+
+Baskı Türleri: Ofset Dijital Baskı / DTF Transfer Baskı  
+Logo Baskı: Kurumsal logo baskıya uygundur  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Çevre dostu promosyon ürünleri  
+Mağaza ve alışveriş çantaları  
+Marka tanıtım kampanyaları  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon bez çanta ürünlerinde kumaş rengi ve üretim seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde stok bilgisi alınması önerilmektedir.
+
+Promosyon ham bez çanta siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p135",
+  slug: "promosyon-makam-bayragi-byk-100",
+  title: "Promosyon Makam Bayrağı BYK-100 | Logo Baskılı Makam Bayrağı",
+
+  category: "Bayraklar",
+
+  image: "/products/promosyon-makam-bayragi-byk-100.jpg",
+
+  shortDesc:
+    "Promosyon makam bayrağı BYK-100 modeli kurumsal ofisler, resmi kurumlar ve şirketler için üretilen logo baskılı makam bayrağı çeşitleri arasında tercih edilen prestijli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon makam bayrağı BYK-100 modeli kurumsal firmalar, resmi kurumlar ve organizasyonlar için üretilen prestijli promosyon ürünleri arasında yer almaktadır. Şirket ofislerinde, makam odalarında ve resmi toplantı alanlarında kullanılan makam bayrakları kurumsal kimliği temsil eden önemli ürünlerden biridir.
+
+Promosyon makam bayrakları özellikle şirket merkezlerinde, yönetici odalarında, resmi kurumlarda ve kurumsal etkinliklerde kullanılmaktadır. Firmanıza ait logo veya kurum amblemi bayrak üzerine uygulanarak marka kimliğini güçlendiren profesyonel bir görünüm sağlar.
+
+Makam bayrağı ürünleri hem dekoratif hem de kurumsal temsil açısından önemli bir yere sahiptir. Kaliteli kumaş ve dayanıklı üretim yapısı sayesinde uzun süreli kullanım sunar.
+
+Promosyon makam bayrakları özellikle şirketler, holdingler, kamu kurumları, eğitim kurumları ve resmi organizasyonlar tarafından tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Makam Bayrağı  
+Kategori: Bayraklar  
+Kullanım: Makam Odaları / Kurumsal Ofisler  
+Malzeme: Bayrak Kumaşı  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Dijital veya Serigraf Baskı  
+Logo Baskı: Kurumsal logo baskıya uygundur  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Makam odası bayrakları  
+Şirket ofisleri  
+Resmi kurumlar  
+Kurumsal etkinlik alanları  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon makam bayrakları kurum logosu ve tasarımına göre özel üretim yapılabilmektedir. Baskı tasarımı ve üretim süresi sipariş aşamasında belirlenmektedir.
+
+Promosyon makam bayrağı siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p136",
+  slug: "promosyon-kutulu-sarj-kablo-seti-kbl-350",
+  title: "Promosyon Kutulu Şarj Kablo Seti KBL-350 | Logo Baskılı Şarj Kablosu Seti",
+
+  category: "Teknolojik Ürünler",
+
+  image: "/products/promosyon-kutulu-sarj-kablo-seti-kbl-350.jpg",
+
+  shortDesc:
+    "Promosyon kutulu şarj kablo seti KBL-350 modeli pratik taşıma kutusu, çoklu bağlantı kablo yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon teknolojik ürünler arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon kutulu şarj kablo seti KBL-350 modeli mobil cihaz kullanıcıları için tasarlanmış pratik ve kullanışlı teknolojik promosyon ürünleri arasında yer almaktadır. Kompakt kutu tasarımı sayesinde kolay taşınabilir ve günlük kullanım için idealdir.
+
+Promosyon teknolojik ürünler özellikle kurumsal firmalar tarafından marka tanıtımı için tercih edilen modern promosyon ürünleri arasında yer almaktadır. Günlük hayatta sık kullanılan teknolojik aksesuarlar marka görünürlüğünü uzun süre artıran etkili promosyon ürünleri sunar.
+
+KBL-350 modeli şık ve koruyucu kutu tasarımına sahiptir. Şarj kablo seti farklı mobil cihazlarla uyumlu bağlantı seçenekleri sunarak pratik bir kullanım sağlar.
+
+Promosyon şarj kablo seti üzerine firmanıza ait logo veya marka baskısı uygulanarak ürün güçlü bir reklam ve kurumsal tanıtım aracı haline getirilebilir.
+
+Promosyon teknolojik ürünler özellikle fuarlar, kurumsal etkinlikler, şirket kampanyaları ve müşteri promosyonları için tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Şarj Kablo Seti  
+Kategori: Teknolojik Ürünler  
+Ürün Modeli: KBL-350  
+Kutu Tipi: Taşıma Kutulu  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Beyaz  
+
+BASKI BİLGİLERİ
+
+Logo Baskı: Kurumsal logo baskıya uygundur  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknolojik promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Müşteri promosyon hediyeleri  
+Marka tanıtım ürünleri  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon şarj kablo setleri farklı renk seçenekleri ile üretilebilmektedir. Sipariş öncesinde stok durumunun teyit edilmesi önerilmektedir.
+
+Promosyon teknolojik ürün siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p137",
+  slug: "promosyon-kartvizitlik-kv-100",
+  title: "Promosyon Kartvizitlik KV-100 | Logo Baskılı Termo Deri Kartvizitlik",
+
+  category: "Kartvizitlik",
+
+  image: "/products/promosyon-kartvizitlik-kv-100.jpg",
+
+  shortDesc:
+    "Promosyon kartvizitlik KV-100 modeli termo deri kapak tasarımı ve logo baskıya uygun yüzeyi ile kurumsal promosyon kartvizitlik ürünleri arasında tercih edilen şık ve kullanışlı ofis aksesuarlarından biridir.",
+
+  longDesc: `
+Promosyon kartvizitlik KV-100 modeli iş dünyasında sık kullanılan kurumsal promosyon ürünleri arasında yer almaktadır. Termo deri kapak tasarımı sayesinde hem şık bir görünüm sunar hem de kartvizitlerin düzenli şekilde saklanmasını sağlar.
+
+Promosyon kartvizitlik ürünleri özellikle şirket yöneticileri, satış ekipleri ve kurumsal çalışanlar tarafından tercih edilen ofis aksesuarları arasında yer almaktadır. Kartvizitlerin düzenli şekilde taşınmasını ve sunulmasını kolaylaştırır.
+
+KV-100 modeli termo deri malzemeden üretilmiştir. Dayanıklı yapısı sayesinde uzun süreli kullanım sağlar ve profesyonel bir görünüm sunar.
+
+Promosyon kartvizitlik üzerine firmanıza ait logo veya marka baskısı uygulanarak ürün güçlü bir reklam ve kurumsal tanıtım aracı haline getirilebilir.
+
+Promosyon kartvizitlik ürünleri özellikle fuarlar, iş toplantıları, kurumsal etkinlikler ve müşteri görüşmelerinde tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kartvizitlik  
+Kategori: Kartvizitlik  
+Malzeme: Termo Deri  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Lazer / Gofre / Dijital Baskı  
+Logo Baskı: Kurumsal logo baskıya uygundur  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis masaüstü aksesuarları  
+İş toplantıları ve fuarlar  
+Kurumsal marka tanıtımı  
+Yönetici ve çalışan promosyonları  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon kartvizitlik ürünlerinde renk ve üretim seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde stok durumunun teyit edilmesi önerilmektedir.
+
+Promosyon kartvizitlik siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p138",
+  slug: "promosyon-katlanir-ayna-ay-100",
+  title: "Promosyon Katlanır Ayna AY-100 | Logo Baskılı Promosyon Ayna",
+
+  category: "Ayna ve Deri Kartlıklar",
+
+  image: "/products/promosyon-katlanir-ayna-ay-100.jpg",
+
+  shortDesc:
+    "Promosyon katlanır ayna AY-100 modeli kompakt tasarımı ve logo baskıya uygun yüzeyi ile kozmetik ve kurumsal promosyon ürünleri arasında tercih edilen pratik promosyon ayna modellerinden biridir.",
+
+  longDesc: `
+Promosyon katlanır ayna AY-100 modeli günlük kullanım için tasarlanmış pratik promosyon ürünleri arasında yer almaktadır. Katlanabilir yapısı sayesinde çantada kolay taşınabilir ve ihtiyaç duyulduğunda hızlı şekilde kullanılabilir.
+
+Promosyon ayna ürünleri özellikle kozmetik firmaları, güzellik merkezleri, kuaförler ve kurumsal promosyon kampanyalarında tercih edilen etkili promosyon ürünleri arasında yer almaktadır.
+
+AY-100 modeli kompakt ve dayanıklı yapıya sahiptir. Katlanır tasarımı sayesinde hem aynayı korur hem de kullanım sırasında rahat bir deneyim sunar.
+
+Promosyon katlanır ayna üzerine firmanıza ait logo veya marka baskısı uygulanarak ürün güçlü bir reklam ve marka tanıtım aracı haline getirilebilir. Günlük kullanımda sık kullanılan bir ürün olduğu için marka görünürlüğünü uzun süre artırabilir.
+
+Promosyon aynalar özellikle kozmetik promosyonları, kadınlara yönelik promosyon ürünleri, fuar etkinlikleri ve marka tanıtım kampanyalarında tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Katlanır Ayna  
+Kategori: Ayna ve Deri Kartlıklar  
+Model: AY-100  
+Tasarım: Katlanabilir  
+
+BASKI BİLGİLERİ
+
+Logo Baskı: Kurumsal logo baskıya uygundur  
+Baskı Türü: Serigraf / Dijital Baskı uygulanabilir  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Kozmetik promosyonları  
+Fuar ve etkinlik promosyonları  
+Güzellik merkezi promosyonları  
+Marka tanıtım ürünleri  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon katlanır ayna ürünlerinde renk ve üretim seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde stok durumunun teyit edilmesi önerilmektedir.
+
+Promosyon katlanır ayna siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p139",
+  slug: "promosyon-cok-amacli-caki-seti-7-fonksiyonlu-ck-100",
+  title: "Promosyon Çok Amaçlı Çakı Seti 7 Fonksiyonlu ÇK-100 | Logo Baskılı Çakı",
+
+  category: "Çakı, Fener ve Tornavida Seti",
+
+  image: "/products/promosyon-cok-amacli-caki-seti-ck-100.jpg",
+
+  shortDesc:
+    "Promosyon çok amaçlı çakı seti ÇK-100 modeli 7 fonksiyonlu yapısı, kompakt tasarımı ve lazer baskıya uygun yüzeyi ile kurumsal promosyon kampanyalarında tercih edilen pratik çok amaçlı araç setlerinden biridir.",
+
+  longDesc: `
+Promosyon çok amaçlı çakı seti ÇK-100 modeli günlük kullanım ve outdoor aktiviteleri için tasarlanmış pratik promosyon ürünleri arasında yer almaktadır. Kompakt yapısı sayesinde kolay taşınabilir ve farklı kullanım alanları sunar.
+
+Promosyon çok amaçlı çakı ürünleri özellikle kamp aktiviteleri, outdoor etkinlikler, promosyon kampanyaları ve kurumsal tanıtım faaliyetlerinde tercih edilen fonksiyonel promosyon ürünleri arasında yer almaktadır.
+
+ÇK-100 modeli 7 farklı fonksiyona sahip çok amaçlı bir araçtır. Günlük kullanımda küçük tamirat işlemleri ve pratik ihtiyaçlar için kullanılabilir.
+
+Promosyon çakı seti üzerine firmanıza ait logo veya marka baskısı lazer baskı yöntemi ile uygulanabilir. Bu sayede ürün hem kullanışlı bir araç hem de etkili bir marka tanıtım ürünü haline gelir.
+
+Promosyon çok amaçlı çakı ürünleri özellikle outdoor etkinlikler, fuarlar, promosyon kampanyaları ve marka tanıtım organizasyonlarında tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Çok Amaçlı Çakı  
+Kategori: Çakı, Fener ve Tornavida Seti  
+Fonksiyon Sayısı: 7 Fonksiyon  
+Ürün Ölçüsü: 88 x 25 mm  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 30 x 10 mm  
+
+KOLİ BİLGİSİ
+
+Koli / Kutu Adedi: 1000 / 100  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Outdoor ve kamp promosyonları  
+Fuar ve etkinlik promosyonları  
+Marka tanıtım kampanyaları  
+Pratik çok amaçlı araç ürünleri  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon çakı ürünlerinde renk ve üretim seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde stok durumunun teyit edilmesi önerilmektedir.
+
+Promosyon çakı seti siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p140",
+  slug: "promosyon-oto-kokusu-ok-750",
+  title: "Promosyon Oto Kokusu OK-750 | Logo Baskılı Oto Kokusu",
+
+  category: "İmalat Ürünler",
+
+  image: "/products/promosyon-oto-kokusu-ok-750.jpg",
+
+  shortDesc:
+    "Promosyon oto kokusu OK-750 modeli özel kesim tasarımı, ofset baskı imkanı ve farklı koku seçenekleri ile araç içi kullanım için tercih edilen etkili promosyon reklam ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon oto kokusu OK-750 modeli araç içi kullanım için tasarlanmış etkili promosyon ürünleri arasında yer almaktadır. Araç içinde uzun süre kullanılan bir ürün olması sayesinde marka görünürlüğünü artıran güçlü reklam araçlarından biridir.
+
+Promosyon oto kokuları özellikle otomotiv firmaları, servisler, sigorta şirketleri, oto galeriler ve kurumsal tanıtım kampanyalarında tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+OK-750 modeli özel kesim tasarımına sahiptir ve firmanıza ait logo veya reklam tasarımı ürün üzerine ofset baskı yöntemi ile uygulanabilir. Bu sayede ürün hem kullanışlı bir araç aksesuarı hem de etkili bir reklam aracı haline gelir.
+
+Promosyon oto kokuları araç aynasına kolayca asılabilen yapısı sayesinde pratik kullanım sunar. Farklı koku seçenekleri ile kullanıcıya hoş bir araç içi deneyim sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Oto Kokusu  
+Kategori: İmalat Ürünler  
+Ürün Ölçüsü: 14 cm  
+Baskı Türü: Ofset Baskı  
+Kesim: Özel Kesim  
+
+SİPARİŞ BİLGİSİ
+
+Minimum Sipariş: 1000 Adet  
+Fiyata Ofset Baskı Dahildir  
+
+KOKU SEÇENEKLERİ
+
+FRESH KOKULAR  
+Okyanus  
+Yeni Araba  
+Lavanta  
+Bahar  
+
+MEYVELİ KOKULAR  
+Sakız  
+Kavun  
+Elma  
+Karışık Meyve  
+Egzotik Meyve  
+Limon  
+Çilek  
+Vanilya  
+
+PARFÜM KOKULARI  
+Odunsu  
+Cool Water  
+Yaz Güneşi  
+Wogo  
+Thor  
+Lucy  
+
+NOT
+
+Beyaz zeminli baskı tasarımlarında Lavanta, Portakal, Çam, Çilek, Kavun ve Limon kokuları önerilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Otomotiv promosyon ürünleri  
+Oto servis ve galeriler  
+Fuar ve etkinlik promosyonları  
+Marka tanıtım kampanyaları  
+
+RENK VE STOK BİLGİSİ
+
+Promosyon oto kokusu ürünleri özel tasarım ve baskı seçenekleri ile üretilebilmektedir. Sipariş öncesinde üretim ve stok detaylarının teyit edilmesi önerilmektedir.
+
+Promosyon oto kokusu siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı tasarımı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
+{
+  id: "p141",
+  slug: "promosyon-porselen-kupa-280ml-pk-110",
+  title: "Promosyon Porselen Kupa PK-110 | 280 ml Logo Baskılı Kupa",
+
+  category: "Kupa",
+
+  image: "/products/promosyon-porselen-kupa-pk-110.jpg",
+
+  shortDesc:
+    "Promosyon porselen kupa PK-110 modeli 280 ml hacmi, çift yön renkli süblimasyon baskı imkanı ve dayanıklı porselen yapısı ile kurumsal promosyon kupa modelleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon porselen kupa PK-110 modeli günlük kullanım için tasarlanmış kurumsal promosyon ürünleri arasında yer almaktadır. 280 ml hacmi sayesinde çay, kahve ve diğer sıcak içeceklerin tüketimi için ideal bir kullanım sunar.
+
+Promosyon kupalar özellikle ofislerde, şirketlerde, fuarlarda ve marka tanıtım kampanyalarında kullanılan en etkili promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edilen bir ürün olduğu için marka görünürlüğünü uzun süre artırır.
+
+PK-110 modeli kaliteli porselen malzemeden üretilmiştir. Kupa yüzeyi süblimasyon (dijital) baskı için uygundur ve firmanıza ait logo veya tasarım kupa üzerine yüksek kaliteli şekilde uygulanabilir.
+
+Bu modelde çift yön renkli baskı uygulanabilmektedir ve belirtilen fiyata baskı dahildir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Porselen Kupa  
+Kategori: Kupa  
+Malzeme: Porselen  
+Yükseklik: 9,3 cm  
+Çap: 8 cm  
+Hacim: 280 ml  
+Ağırlık: 290 gr  
+
+BASKI BİLGİLERİ
+
+Baskı Türü: Süblimasyon (Dijital Baskı)  
+Baskı Özelliği: Çift yön renkli baskı  
+Minimum Sipariş: 45 Adet  
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve çalışan hediyeleri  
+Fuar ve etkinlik promosyonları  
+Kafe ve restoran promosyonları  
+Marka tanıtım kampanyaları  
+
+KULLANIM NOTU
+
+Kupalar bulaşık makinesinde yıkamaya uygundur. Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle kullanım sıklığına bağlı olarak zamanla yüzeyde çizilme veya baskıda solma gibi deformasyonlar oluşabilir. Bu durum tüm baskılı kupa ürünlerinde görülebilen doğal bir kullanım sonucudur.
+
+RENK VE STOK BİLGİSİ
+
+Promosyon kupalar farklı baskı tasarımları ile üretilebilmektedir. Sipariş öncesinde stok ve üretim detaylarının teyit edilmesi önerilmektedir.
+
+Promosyon kupa siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı tasarımı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
+`
+},
 
 ];
 
