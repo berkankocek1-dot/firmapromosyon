@@ -6253,6 +6253,499 @@ Fincanlar bulaşık makinesinde yıkamaya uygundur. Ancak bulaşık makinelerind
 Promosyon fincan siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
 `
 },
+{
+  id: "p157",
+  slug: "promosyon-metal-versatil-kalem-07-mk-200",
+  title: "Promosyon Metal Versatil Kalem 0.7 Uç MK-200 | Logo Baskılı Kurumsal Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-versatil-kalem-mk-200.jpg",
+
+  shortDesc:
+    "Promosyon metal versatil kalem MK-200 modeli 0.7 uç mekanizması, şık metal gövdesi ve lazer baskıya uygun yüzeyi ile kurumsal promosyon kalem modelleri arasında sık tercih edilen dayanıklı ve kaliteli bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon metal versatil kalem MK-200 modeli şık tasarımı, dayanıklı metal gövdesi ve 0.7 uç mekanizması ile kurumsal promosyon ürünleri arasında en çok tercih edilen kalem modellerinden biridir.
+
+Metal gövde yapısı sayesinde uzun süreli kullanım sunan bu model; ofislerde, kurumsal etkinliklerde, fuarlarda ve marka tanıtım çalışmalarında sık kullanılan promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler günlük hayatta en çok kullanılan promosyon ürünleri arasında yer aldığı için marka bilinirliğini artırmak ve firmanızın sürekli görünür olmasını sağlamak açısından oldukça etkili bir tanıtım ürünüdür.
+
+MK-200 modeli lazer baskıya uygundur ve firmanıza ait logo veya marka bilgileri kalem üzerine yüksek kaliteli şekilde uygulanabilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Versatil Kalem  
+Kategori: Promosyon Kalem  
+Kalem Tipi: 0.7 Uçlu Versatil Kalem  
+
+Uzunluk: 140 mm  
+Çap: Ø10 mm  
+
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 55 x 5,5 mm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişlerinde renk seçimi sipariş sırasında belirlenmektedir. Ürün toplu üretim olarak hazırlanmakta olup logo baskı tasarımı, renk tercihi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis ve çalışan hediyeleri  
+Marka tanıtım kampanyaları  
+Reklam ve promosyon çalışmaları
+`
+},
+{
+  id: "p158",
+  slug: "promosyon-metal-kalem-mk-205",
+  title: "Promosyon Metal Kalem MK-205 | Logo Baskılı Kurumsal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-205.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-205 modeli rose gold aksam detayları, şık metal gövdesi ve lazer baskıya uygun yüzeyi ile kurumsal promosyon kalem modelleri arasında dikkat çeken kaliteli bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon metal kalem MK-205 modeli şık tasarımı, rose gold metal aksam detayları ve dayanıklı gövde yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir.
+
+Metal gövde yapısı sayesinde uzun süreli kullanım sunan bu model; ofislerde, kurumsal etkinliklerde, fuarlarda ve marka tanıtım çalışmalarında kullanılan promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler günlük hayatta en sık kullanılan promosyon ürünleri arasında yer aldığı için marka bilinirliğini artırmak ve firmanızın uzun süre görünür olmasını sağlamak açısından oldukça etkili bir tanıtım ürünüdür.
+
+MK-205 modeli lazer baskıya uygundur ve firmanıza ait logo veya marka bilgileri kalem üzerine yüksek kaliteli şekilde uygulanabilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Uzunluk: 140 mm  
+Mürekkep Rengi: Mavi  
+
+Baskı Türü: Lazer Baskı  
+
+Tasarım Özelliği: Rose Gold Aksamlar  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Gri  
+Kırmızı  
+Lacivert  
+
+Not: Renk tercihi sipariş sırasında belirlenmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim olarak hazırlanmaktadır. Logo baskı tasarımı, renk tercihi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis ve çalışan hediyeleri  
+Marka tanıtım kampanyaları  
+Reklam ve promosyon çalışmaları
+`
+},
+{
+  id: "p159",
+  slug: "promosyon-metal-kalem-mk-210",
+  title: "Promosyon Metal Kalem MK-210 | Rubber Gövdeli Logo Baskılı Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-210.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-210 modeli rubber kaplama gövdesi, mavi mürekkep yapısı ve lazer baskıya uygun yüzeyi ile kurumsal promosyon kalem modelleri arasında tercih edilen modern ve kullanışlı bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon metal kalem MK-210 modeli rubber kaplama gövde tasarımı ve şık görünümü ile kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir.
+
+Rubber kaplama gövde yapısı kalemin elde kaymasını önler ve daha konforlu bir kullanım sağlar. Bu özellik sayesinde günlük kullanımda oldukça rahat bir yazım deneyimi sunmaktadır.
+
+Promosyon kalemler; ofislerde, kurumsal etkinliklerde, fuarlarda ve marka tanıtım çalışmalarında en çok kullanılan promosyon ürünleri arasında yer almaktadır. Günlük hayatta sık kullanılan ürünler olması nedeniyle marka bilinirliğini artırmak açısından oldukça etkili bir tanıtım ürünüdür.
+
+MK-210 modeli metal tükenmez kalem yapısına sahiptir ve firmanıza ait logo veya marka bilgileri lazer baskı yöntemi ile kalem üzerine uygulanabilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Kalem Tipi: Metal Tükenmez Kalem  
+Gövde Yapısı: Rubber Kaplama  
+
+Mürekkep Rengi: Mavi  
+
+Baskı Türü: Lazer Baskı  
+
+RENK SEÇENEKLERİ
+
+Sarı  
+Siyah  
+Kırmızı  
+Mor  
+Pembe  
+
+Not: Renk tercihi sipariş sırasında belirlenmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim olarak hazırlanmaktadır. Logo baskı tasarımı, renk tercihi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis ve çalışan hediyeleri  
+Marka tanıtım kampanyaları  
+Reklam ve promosyon çalışmaları
+`
+},
+{
+  id: "p160",
+  slug: "promosyon-metal-kalem-mk-220",
+  title: "Promosyon Metal Kalem MK-220 | Logo Baskılı Kurumsal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-220.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-220 modeli dayanıklı metal gövdesi, mavi mürekkep yapısı ve lazer baskıya uygun yüzeyi ile kurumsal promosyon kalem modelleri arasında sık tercih edilen kaliteli bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon metal kalem MK-220 modeli şık tasarımı ve dayanıklı metal gövde yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir.
+
+Metal tükenmez kalem yapısı sayesinde uzun süreli kullanım sunan bu model; ofislerde, fuarlarda, kurumsal etkinliklerde ve marka tanıtım çalışmalarında kullanılan promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler günlük hayatta en çok kullanılan promosyon ürünleri arasında yer aldığı için marka bilinirliğini artırmak ve firmanızın sürekli görünür olmasını sağlamak açısından oldukça etkili bir tanıtım ürünüdür.
+
+MK-220 modeli lazer baskıya uygundur ve firmanıza ait logo veya marka bilgileri kalem üzerine yüksek kaliteli şekilde uygulanabilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Kalem Tipi: Metal Tükenmez Kalem  
+Mürekkep Rengi: Mavi  
+
+Baskı Türü: Lazer Baskı  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Kırmızı  
+Lacivert  
+Beyaz  
+
+Not: Renk tercihi sipariş sırasında belirlenmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim olarak hazırlanmaktadır. Logo baskı tasarımı, renk tercihi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis ve çalışan hediyeleri  
+Marka tanıtım kampanyaları  
+Reklam ve promosyon çalışmaları
+`
+},
+{
+  id: "p161",
+  slug: "promosyon-metal-kalem-mk-230",
+  title: "Promosyon Metal Kalem MK-230 | Logo Baskılı Kurumsal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-230.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-230 modeli dayanıklı metal gövdesi, mavi mürekkep yapısı ve lazer baskıya uygun yüzeyi ile kurumsal promosyon kalem modelleri arasında tercih edilen şık ve kullanışlı bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon metal kalem MK-230 modeli dayanıklı metal gövde yapısı ve şık tasarımı ile kurumsal promosyon ürünleri arasında sık tercih edilen kalem modellerinden biridir.
+
+Metal tükenmez kalem yapısı sayesinde uzun süreli kullanım sunan bu model; ofislerde, fuarlarda, kurumsal etkinliklerde ve marka tanıtım çalışmalarında kullanılan promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler günlük hayatta en sık kullanılan promosyon ürünleri arasında yer aldığı için marka bilinirliğini artırmak ve firmanızın sürekli görünür olmasını sağlamak açısından oldukça etkili bir tanıtım ürünüdür.
+
+MK-230 modeli lazer baskıya uygundur ve firmanıza ait logo veya marka bilgileri kalem üzerine yüksek kaliteli şekilde uygulanabilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Kalem Tipi: Metal Tükenmez Kalem  
+Mürekkep Rengi: Mavi  
+
+Baskı Türü: Lazer Baskı  
+
+RENK SEÇENEKLERİ
+
+Yeşil  
+Gümüş  
+Kırmızı  
+
+Not: Renk tercihi sipariş sırasında belirlenmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim olarak hazırlanmaktadır. Logo baskı tasarımı, renk tercihi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis ve çalışan hediyeleri  
+Marka tanıtım kampanyaları  
+Reklam ve promosyon çalışmaları
+`
+},
+{
+  id: "p162",
+  slug: "promosyon-anahtarlik-an-125",
+  title: "Promosyon Anahtarlık AN-125 | Lazer Baskılı Kurumsal Promosyon Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-125.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-125 modeli şık tasarımı, lazer baskıya uygun yüzeyi ve çift yön baskı imkanı ile kurumsal promosyon anahtarlık modelleri arasında sık tercih edilen kullanışlı bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-125 modeli şık ve kullanışlı tasarımı ile kurumsal promosyon ürünleri arasında en çok tercih edilen anahtarlık modellerinden biridir.
+
+Günlük hayatta sık kullanılan ürünlerden biri olan anahtarlıklar; fuarlar, kurumsal etkinlikler, marka tanıtım kampanyaları ve promosyon çalışmalarında en etkili tanıtım ürünleri arasında yer almaktadır.
+
+Promosyon anahtarlıklar küçük boyutlarına rağmen marka görünürlüğünü uzun süre artıran etkili bir reklam ürünüdür. Bu nedenle birçok firma tarafından kurumsal promosyon ürünü olarak tercih edilmektedir.
+
+AN-125 modeli lazer baskıya uygundur ve firmanıza ait logo veya marka bilgileri anahtarlık üzerine yüksek kaliteli şekilde uygulanabilmektedir. Çift yönlü baskı yapılabilmesi sayesinde marka tanıtımı daha etkili hale gelmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Promosyon Anahtarlık  
+
+Ürün Ebatı: 3.2 x 10.5 cm  
+
+Baskı Türü: Lazer Baskı  
+Baskı Yönü: Çift Yönlü Baskı  
+
+Kutu: Var  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim olarak hazırlanmaktadır. Logo baskı tasarımı, renk tercihi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Marka tanıtım kampanyaları  
+Ofis ve çalışan hediyeleri  
+Reklam ve promosyon çalışmaları
+`
+},
+{
+  id: "p163",
+  slug: "promosyon-anahtarlik-an-130",
+  title: "Promosyon Anahtarlık AN-130 | Lazer Baskılı Kurumsal Promosyon Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-130.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-130 modeli lazer baskıya uygun yüzeyi ve şık tasarımı ile kurumsal promosyon anahtarlık modelleri arasında tercih edilen kullanışlı ve etkili bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-130 modeli şık tasarımı ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen anahtarlık modellerinden biridir.
+
+Anahtarlıklar günlük hayatta sürekli kullanılan ürünler arasında yer aldığı için marka tanıtımında oldukça etkili promosyon ürünleri arasında bulunmaktadır. Bu nedenle fuarlar, kurumsal etkinlikler ve reklam kampanyalarında sıklıkla tercih edilmektedir.
+
+Promosyon anahtarlık modelleri küçük boyutlarına rağmen markanızın uzun süre görünür olmasını sağlayan etkili reklam ürünleri arasında yer almaktadır.
+
+AN-130 modeli lazer baskıya uygundur ve firmanıza ait logo veya marka bilgileri anahtarlık üzerine yüksek kaliteli şekilde uygulanabilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Promosyon Anahtarlık  
+
+Baskı Türü: Lazer Baskı  
+
+RENK SEÇENEKLERİ
+
+Lacivert  
+Siyah  
+
+Not: Renk tercihi sipariş sırasında belirlenmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim olarak hazırlanmaktadır. Logo baskı tasarımı, renk tercihi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Marka tanıtım kampanyaları  
+Ofis ve çalışan hediyeleri  
+Reklam ve promosyon çalışmaları
+`
+},
+{
+  id: "p164",
+  slug: "promosyon-anahtarlik-an-140",
+  title: "Promosyon Anahtarlık AN-140 | Lazer ve Gofre Baskılı Promosyon Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-140.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-140 modeli çift yön baskı özelliği, lazer ve gofre baskıya uygun yüzeyi ile kurumsal promosyon anahtarlık modelleri arasında tercih edilen kullanışlı bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-140 modeli şık tasarımı ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen anahtarlık modellerinden biridir.
+
+Anahtarlıklar günlük hayatta sürekli kullanılan ürünler arasında yer aldığı için marka tanıtımı açısından oldukça etkili promosyon ürünleri arasında bulunmaktadır. Bu nedenle fuarlar, kurumsal etkinlikler, reklam kampanyaları ve promosyon çalışmalarında sıklıkla tercih edilmektedir.
+
+Promosyon anahtarlık modelleri küçük boyutlarına rağmen marka görünürlüğünü uzun süre artıran etkili reklam ürünleri arasında yer almaktadır.
+
+AN-140 modeli lazer ve gofre baskıya uygundur ve firmanıza ait logo veya marka bilgileri anahtarlık üzerine yüksek kaliteli şekilde uygulanabilmektedir. Çift yön baskı yapılabilmesi sayesinde marka tanıtımı daha etkili hale gelmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Promosyon Anahtarlık  
+
+Baskı Türü: Lazer Baskı / Gofre Baskı  
+Baskı Yönü: Çift Yön  
+
+Ambalaj: Şeffaf Poşet  
+
+RENK SEÇENEKLERİ
+
+Kırmızı  
+Turkuaz  
+
+Not: Renk tercihi sipariş sırasında belirlenmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim olarak hazırlanmaktadır. Logo baskı tasarımı, renk tercihi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Marka tanıtım kampanyaları  
+Ofis ve çalışan hediyeleri  
+Reklam ve promosyon çalışmaları
+`
+},
+{
+  id: "p165",
+  slug: "promosyon-anahtarlik-an-150",
+  title: "Promosyon Anahtarlık AN-150 | Lazer ve Gofre Baskılı Promosyon Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-150.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-150 modeli çift yön baskı özelliği, lazer ve gofre baskıya uygun yüzeyi ile kurumsal promosyon anahtarlık modelleri arasında tercih edilen kullanışlı ve şık bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-150 modeli şık tasarımı ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında sık tercih edilen anahtarlık modellerinden biridir.
+
+Anahtarlıklar günlük hayatta sürekli kullanılan ürünler arasında yer aldığı için marka tanıtımı açısından oldukça etkili promosyon ürünleri arasında bulunmaktadır. Bu nedenle fuarlar, kurumsal etkinlikler ve reklam kampanyalarında sıklıkla tercih edilmektedir.
+
+Promosyon anahtarlık modelleri küçük boyutlarına rağmen marka görünürlüğünü uzun süre artıran etkili reklam ürünleri arasında yer almaktadır.
+
+AN-150 modeli lazer ve gofre baskıya uygundur ve firmanıza ait logo veya marka bilgileri anahtarlık üzerine yüksek kaliteli şekilde uygulanabilmektedir. Çift yön baskı yapılabilmesi sayesinde marka tanıtımı daha etkili hale gelmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Promosyon Anahtarlık  
+
+Baskı Türü: Lazer Baskı / Gofre Baskı  
+Baskı Yönü: Çift Yön  
+
+Ambalaj: Şeffaf Poşet  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Turkuaz  
+Turuncu  
+Kırmızı  
+
+Not: Renk tercihi sipariş sırasında belirlenmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim olarak hazırlanmaktadır. Logo baskı tasarımı, renk tercihi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Marka tanıtım kampanyaları  
+Ofis ve çalışan hediyeleri  
+Reklam ve promosyon çalışmaları
+`
+},
+{
+  id: "p166",
+  slug: "promosyon-anahtarlik-an-160",
+  title: "Promosyon Anahtarlık AN-160 | Lazer Baskılı Promosyon Anahtarlık",
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-160.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-160 modeli çift yön baskı özelliği, lazer baskıya uygun yüzeyi ve kullanışlı tasarımı ile kurumsal promosyon anahtarlık modelleri arasında tercih edilen etkili bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-160 modeli şık ve kullanışlı tasarımı ile kurumsal promosyon ürünleri arasında sık tercih edilen anahtarlık modellerinden biridir.
+
+Anahtarlıklar günlük hayatta sürekli kullanılan ürünler arasında yer aldığı için marka tanıtımı açısından oldukça etkili promosyon ürünleri arasında bulunmaktadır. Bu nedenle fuarlar, kurumsal etkinlikler ve reklam kampanyalarında sıklıkla tercih edilmektedir.
+
+Promosyon anahtarlık modelleri küçük boyutlarına rağmen marka görünürlüğünü uzun süre artıran etkili reklam ürünleri arasında yer almaktadır.
+
+AN-160 modeli lazer baskıya uygundur ve firmanıza ait logo veya marka bilgileri anahtarlık üzerine yüksek kaliteli şekilde uygulanabilmektedir. Çift yön baskı yapılabilmesi sayesinde marka tanıtımı daha etkili hale gelmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Promosyon Anahtarlık  
+
+Ürün Ebatı: 8.5 x 1.8 cm  
+
+Baskı Türü: Lazer Baskı  
+Baskı Yönü: Çift Yön  
+
+Ambalaj: Şeffaf Poşet  
+
+RENK SEÇENEKLERİ
+
+Taba  
+Kırmızı  
+
+Not: Renk tercihi sipariş sırasında belirlenmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim olarak hazırlanmaktadır. Logo baskı tasarımı, renk tercihi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Marka tanıtım kampanyaları  
+Ofis ve çalışan hediyeleri  
+Reklam ve promosyon çalışmaları
+`
+},
 
 ];
 
