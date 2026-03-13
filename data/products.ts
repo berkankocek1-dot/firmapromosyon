@@ -5964,53 +5964,6 @@ Promosyon kupa siparişleri toplu üretim olarak hazırlanmakta olup baskı tasa
 `
 },
 {
-  id: "p151",
-  slug: "promosyon-seramik-kupa-330ml-sk-100",
-  title: "Promosyon Seramik Kupa SK-100 | 330 ml Logo Baskılı Kupa",
-  category: "Kupa",
-  image: "/products/promosyon-seramik-kupa-sk-100.jpg",
-
-  shortDesc:
-    "Promosyon seramik kupa SK-100 modeli 330 ml hacmi, süblimasyon baskıya uygun yüzeyi ve dayanıklı seramik yapısı ile kurumsal promosyon kupa modelleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon seramik kupa SK-100 modeli günlük kullanım için tasarlanmış klasik kupa modelleri arasında yer almaktadır. 330 ml hacmi sayesinde çay, kahve ve diğer sıcak içeceklerin tüketimi için oldukça ideal bir kullanım sunar.
-
-Promosyon kupalar; ofislerde, şirketlerde, fuarlarda ve tanıtım etkinliklerinde en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımda sık tercih edilen bir ürün olması sayesinde marka görünürlüğünü uzun süre artırmaya yardımcı olur.
-
-SK-100 modeli kaliteli seramik malzemeden üretilmiştir. Kupa yüzeyi süblimasyon (dijital) baskı için uygundur ve firmanıza ait logo veya tasarım kupa üzerine yüksek kaliteli şekilde uygulanabilmektedir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Seramik Kupa  
-Kategori: Kupa  
-Malzeme: Seramik  
-Yükseklik: 9,3 cm  
-Çap: 8,1 cm  
-Hacim: 330 ml  
-Ağırlık: 260 gr  
-
-BASKI BİLGİLERİ
-
-Baskı Türü: Süblimasyon (Dijital Baskı)  
-Minimum Sipariş: 45 Adet  
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Ofis ve çalışan hediyeleri  
-Fuar ve etkinlik promosyonları  
-Kafe ve restoran promosyonları  
-Marka tanıtım kampanyaları  
-
-KULLANIM NOTU
-
-Kupalar bulaşık makinesinde yıkamaya uygundur. Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle kullanım sıklığına bağlı olarak zamanla yüzeyde çizilme veya baskıda solma gibi deformasyonlar oluşabilir. Bu durum baskılı kupa ürünlerinde doğal kullanım sonucu görülebilir.
-
-Promosyon kupa siparişleri toplu üretim olarak hazırlanmakta olup baskı tasarımı ve teslim süresi gibi detaylar sipariş öncesinde teklif aşamasında belirlenmektedir.
-`
-},
-{
   id: "p152",
   slug: "promosyon-6li-kahve-fincani-65ml-kvf-100",
   title: "Promosyon 6'lı Kahve Fincanı KVF-100 | 65 ml Logo Baskılı Fincan Seti",
