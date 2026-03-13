@@ -28,7 +28,7 @@
     | "VIP Ürünler"
     | "Masa Sümeni"
     | "Hesap Makineleri"
-    | "Seramik ve Porselen Kupalar"
+    | ""
     | "Ham Bez & Tela Çanta"
     | "Bayraklar"
     | "Teknolojik Ürünler"
@@ -5082,7 +5082,7 @@ Promosyon porselen kupalar özellikle kurumsal firmalar, kafeler, restoranlar, e
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Porselen Kupa  
-Kategori: Seramik ve Porselen Kupalar  
+Kategori: Kupa  
 Malzeme: Porselen  
 Yükseklik: 95 mm  
 Çap: 80 mm  
@@ -6014,7 +6014,7 @@ Promosyon kupa siparişleri toplu üretim olarak hazırlanmakta olup baskı tasa
   id: "p152",
   slug: "promosyon-6li-kahve-fincani-65ml-kvf-100",
   title: "Promosyon 6'lı Kahve Fincanı KVF-100 | 65 ml Logo Baskılı Fincan Seti",
-  category: "Seramik ve Porselen Kupalar",
+  category: "Kupa",
   image: "/products/promosyon-6li-kahve-fincani-kvf-100.jpg",
 
   shortDesc:
@@ -6030,7 +6030,7 @@ Promosyon fincan setleri özellikle kafe, restoran, otel ve kurumsal tanıtım �
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Kahve Fincanı Seti  
-Kategori: Seramik ve Porselen Kupalar  
+Kategori: Kupa  
 Set İçeriği: 6 Adet Fincan  
 Minimum Sipariş: 1 Kutu  
 
@@ -6060,7 +6060,7 @@ Promosyon kahve fincanı siparişleri toplu üretim olarak hazırlanmakta olup b
   id: "p153",
   slug: "promosyon-6li-kahve-fincani-65ml-kvf-110",
   title: "Promosyon 6'lı Kahve Fincanı KVF-110 | 65 ml Logo Baskılı Fincan Seti",
-  category: "Seramik ve Porselen Kupalar",
+  category: "Kupa",
   image: "/products/promosyon-6li-kahve-fincani-kvf-110.jpg",
 
   shortDesc:
@@ -6076,7 +6076,7 @@ Promosyon fincan setleri özellikle kafe, restoran, otel ve kurumsal etkinlikler
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Kahve Fincanı Seti  
-Kategori: Seramik ve Porselen Kupalar  
+Kategori: Kupa  
 Set İçeriği: 6 Adet Fincan  
 Minimum Sipariş: 1 Kutu  
 
@@ -6155,7 +6155,7 @@ Promosyon fincan siparişleri toplu üretim olarak hazırlanmakta olup baskı ta
   id: "p155",
   slug: "promosyon-porselen-fincan-220ml-pk-140",
   title: "Promosyon Porselen Fincan PK-140 | 220 ml Logo Baskılı Kahve Fincanı",
-  category: "Seramik ve Porselen Kupalar",
+  category: "Kupa",
   image: "/products/promosyon-porselen-fincan-pk-140.jpg",
 
   shortDesc:
@@ -6171,7 +6171,7 @@ PK-140 modeli kaliteli porselen malzemeden üretilmiştir. Fincan yüzeyi sübli
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Porselen Fincan  
-Kategori: Seramik ve Porselen Kupalar  
+Kategori: Kupa  
 Malzeme: Porselen  
 Yükseklik: 7,2 cm  
 Çap: 8 cm  
@@ -6204,7 +6204,7 @@ Promosyon porselen fincan siparişleri toplu üretim olarak hazırlanmakta olup 
   id: "p156",
   slug: "promosyon-2li-porselen-nescafe-fincani-260ml-pk-150",
   title: "Promosyon 2'li Porselen Nescafe Fincanı PK-150 | 260 ml Logo Baskılı Fincan Seti",
-  category: "Seramik ve Porselen Kupalar",
+  category: "Kupa",
   image: "/products/promosyon-2li-porselen-nescafe-fincani-pk-150.jpg",
 
   shortDesc:
@@ -6222,7 +6222,7 @@ PK-150 modeli kaliteli porselen malzemeden üretilmiştir. Fincan yüzeyi sübli
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Porselen Nescafe Fincanı  
-Kategori: Seramik ve Porselen Kupalar  
+Kategori: Kupa  
 Set İçeriği: 2 Adet Fincan  
 
 Yükseklik: 7,5 cm  

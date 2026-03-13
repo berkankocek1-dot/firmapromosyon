@@ -42,7 +42,7 @@ const categoryNames = [
   "VIP Ürünler",
   "Masa Sümeni",
   "Hesap Makineleri",
-  "Seramik ve Porselen Kupalar",
+  
   "Ham Bez & Tela Çanta",
   "Bayraklar",
   "Teknolojik Ürünler",
