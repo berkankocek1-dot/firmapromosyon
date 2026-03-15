@@ -34,9 +34,8 @@ export default function KurumsalTeklifAlPage() {
               Logonu yükle, adet/ürün detayını yaz — aynı gün fiyat çalışalım.
             </p>
 
-            <div className="mt-6 grid gap-3 sm:grid-cols-3">
+            <div className="mt-6 grid gap-3 sm:grid-cols-2">
               <Badge title="Hızlı Üretim" desc="Yoğunluğa göre planlama" />
-              <Badge title="Toplu Fiyat" desc="Kurumsala özel iskonto" />
               <Badge title="Türkiye Geneli" desc="Kargo / elden teslim" />
             </div>
 
@@ -51,7 +50,7 @@ export default function KurumsalTeklifAlPage() {
             </div>
           </div>
 
-          {/* RIGHT: FORM CARD */}
+          {/* FORM */}
           <div className="rounded-3xl border border-black/10 bg-white p-6 shadow-[0_10px_30px_rgba(0,0,0,0.06)]">
             <div className="flex items-start justify-between gap-4">
               <div>
@@ -60,6 +59,7 @@ export default function KurumsalTeklifAlPage() {
                   Bilgileri doldur, ekibimiz sana mail ile dönüş yapsın.
                 </p>
               </div>
+
               <div className="rounded-2xl border border-black/10 bg-zinc-50 p-2">
                 <Image
                   src="/logo.png"
@@ -88,13 +88,17 @@ export default function KurumsalTeklifAlPage() {
               </div>
 
               <div>
-                <label className="mb-1 block text-sm font-semibold text-zinc-800">Not / Detay</label>
+                <label className="mb-1 block text-sm font-semibold text-zinc-800">
+                  Not / Detay
+                </label>
+
                 <textarea
                   name="message"
                   rows={4}
                   className="w-full rounded-2xl border border-black/10 bg-white px-4 py-3 text-sm outline-none focus:border-black/30"
                   placeholder="Dosya linki, ölçü, baskı alanı, model, renk vb."
                 />
+
                 <p className="mt-2 text-xs text-zinc-500">
                   ⚠️ Yasal not: Bu form bilgilendirme/teklif amaçlıdır. Fiyatlar sipariş detayına göre değişir.
                 </p>
@@ -118,12 +122,14 @@ export default function KurumsalTeklifAlPage() {
       {/* PROCESS */}
       <section className="mx-auto max-w-6xl px-5 py-12">
         <h2 className="text-2xl font-extrabold text-zinc-950">Süreç</h2>
-        <p className="mt-2 text-zinc-600">Tekliften teslimata kadar şeffaf ve hızlı ilerliyoruz.</p>
+        <p className="mt-2 text-zinc-600">
+          Tekliften teslimata kadar şeffaf ve hızlı ilerliyoruz.
+        </p>
 
         <div className="mt-6 grid gap-4 md:grid-cols-3">
-          <Step n="1" title="Bilgiyi Alalım" text="Ürün, adet, baskı detayını ve logonu alırız." />
-          <Step n="2" title="Fiyat Çalışalım" text="Alternatifli fiyat + termin sunarız." />
-          <Step n="3" title="Üretim & Teslim" text="Onay sonrası üretim, kargo/elden teslim." />
+          <Step n="1" title="Bilgiyi Alalım" text="Ürün, adet ve detayları alırız." />
+          <Step n="2" title="Fiyat Çalışalım" text="Alternatifli fiyat sunarız." />
+          <Step n="3" title="Üretim & Teslim" text="Onay sonrası üretim başlar." />
         </div>
       </section>
     </main>
@@ -144,6 +150,7 @@ async function submitLeadAction(formData: FormData) {
   };
 
   await submitLead(payload);
+
   redirect("/kurumsal-teklif-al/basarili");
 }
 
@@ -165,6 +172,7 @@ function Field({
       <label className="mb-1 block text-sm font-semibold text-zinc-800">
         {label} {required ? <span className="text-red-500">*</span> : null}
       </label>
+
       <input
         name={name}
         type={type}
