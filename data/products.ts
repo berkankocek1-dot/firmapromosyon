@@ -7765,6 +7765,932 @@ Ofis ve çalışan hediyeleri
 Reklam ve promosyon çalışmaları
 `
 },
+{
+  id: "p188",
+  slug: "promosyon-karton-canta-kc-110",
+  title: "Promosyon Karton Çanta KÇ-110 | Logo Baskılı Kurumsal Karton Çanta",
+  category: "Karton Çantalar",
+  image: "/products/promosyon-karton-canta-kc-110.jpg",
+
+  shortDesc:
+    "Promosyon karton çanta KÇ-110 modeli dayanıklı Amerikan Bristol kağıdı, selefon kaplama ve PP kordon sapı ile fuar, mağaza ve kurumsal promosyon dağıtımlarında kullanılan şık karton çanta modellerinden biridir.",
+
+  longDesc: `
+Promosyon karton çanta KÇ-110 modeli kurumsal firmalar, mağazalar ve etkinlik organizasyonları tarafından en çok tercih edilen promosyon karton çanta modelleri arasında yer almaktadır.
+
+Karton çantalar özellikle marka tanıtımı ve kurumsal sunum açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın reklamını taşıyan şık ve kullanışlı promosyon ürünleri haline gelir.
+
+230 gr Amerikan Bristol kağıt kullanılarak üretilen promosyon karton çanta modeli dayanıklı yapısı ve kaliteli baskı yüzeyi sayesinde uzun süreli kullanım sunmaktadır. Mat veya parlak selefon kaplama seçenekleri ile ürün daha premium bir görünüm kazanmaktadır.
+
+Sap kısmında kullanılan 35 cm PP kordon taşıma kolaylığı sağlarken, ürünün estetik görünümünü de güçlendirmektedir. Bu nedenle promosyon karton çantalar mağaza paketleme, etkinlik dağıtımları ve promosyon kampanyalarında sık tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Karton Çanta  
+Kategori: Karton Çantalar  
+
+Kağıt Türü: 230 gr Amerikan Bristol  
+Kaplama: Mat Selefon / Parlak Selefon  
+Sap Tipi: 35 cm PP Kordon  
+
+EBAT SEÇENEKLERİ
+
+18 x 26 x 10 cm  
+19 x 25 x 7 cm  
+25 x 15 x 8 cm  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon karton çanta KÇ-110 modeli farklı ebat seçenekleri ile üretilebilmektedir. Güncel stok durumu ve üretim planlaması dönemsel olarak değişebilmektedir.
+
+Bu nedenle promosyon karton çanta sipariş vermeden önce **güncel stok bilgisi ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, adet bilgisi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Mağaza paketleme çantaları  
+Fuar ve etkinlik promosyonları  
+Kurumsal promosyon dağıtımları  
+Marka tanıtım kampanyaları  
+Mağaza ve butik alışveriş çantaları
+`
+},
+{
+  id: "p189",
+  slug: "promosyon-karton-canta-kc-120",
+  title: "Promosyon Karton Çanta KÇ-120 | Logo Baskılı Kurumsal Karton Çanta Modelleri",
+  category: "Karton Çantalar",
+  image: "/products/promosyon-karton-canta-kc-120.jpg",
+
+  shortDesc:
+    "Promosyon karton çanta KÇ-120 modeli 230 gr Amerikan Bristol kağıdı, selefon kaplama ve PP kordon sapı ile üretilen dayanıklı ve şık promosyon karton çanta modellerinden biridir.",
+
+  longDesc: `
+Promosyon karton çanta KÇ-120 modeli mağazalar, kurumsal firmalar ve etkinlik organizasyonları tarafından sıklıkla tercih edilen promosyon karton çanta modelleri arasında yer almaktadır.
+
+Promosyon karton çantalar marka tanıtımı için en etkili reklam ürünlerinden biridir. Üzerine uygulanan logo baskı sayesinde firmanızın reklamını taşıyan kurumsal bir promosyon ürünü haline gelir.
+
+230 gr Amerikan Bristol kağıt kullanılarak üretilen bu promosyon karton çanta modeli hem dayanıklı yapısı hem de kaliteli baskı yüzeyi sayesinde uzun süreli kullanım sunmaktadır. Mat veya parlak selefon kaplama seçenekleri sayesinde ürün daha premium ve estetik bir görünüm kazanır.
+
+35 cm standart PP kordon sap yapısı taşıma kolaylığı sağlarken, çantanın dayanıklılığını da artırmaktadır. Bu nedenle promosyon karton çantalar mağaza satışlarında, fuarlarda ve kurumsal promosyon dağıtımlarında sık tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Karton Çanta  
+Kategori: Karton Çantalar  
+
+Kağıt Türü: 230 gr Amerikan Bristol  
+Kaplama: Mat Selefon / Parlak Selefon  
+Sap Tipi: 35 cm Standart PP Kordon  
+
+EBAT SEÇENEKLERİ
+
+35 x 24 x 12 cm  
+35 x 25.5 x 8 cm  
+36 x 24 x 12 cm  
+28 x 17 x 9 cm  
+31 x 23 x 5.5 cm  
+32 x 24 x 6 cm  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon karton çanta KÇ-120 modeli farklı ebat seçenekleri ile üretilebilmektedir. Güncel stok durumu ve üretim planlaması dönemsel olarak değişebilmektedir.
+
+Sipariş vermeden önce **güncel stok durumu, üretim süresi ve minimum sipariş adedi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Mağaza paketleme çantaları  
+Fuar ve etkinlik promosyonları  
+Kurumsal promosyon dağıtımları  
+Marka tanıtım kampanyaları  
+Butik ve mağaza alışveriş çantaları
+`
+},
+{
+  id: "p190",
+  slug: "promosyon-375-yaprakli-kup-bloknot-mtb-110",
+  title: "Promosyon 375 Yapraklı Küp Bloknot MTB-110 | Logo Baskılı Küp Notluk",
+  category: "Matbaa Ürünleri",
+  image: "/products/promosyon-375-yaprakli-kup-bloknot-mtb-110.jpg",
+
+  shortDesc:
+    "Promosyon 375 yapraklı küp bloknot MTB-110 modeli masaüstü kullanım için ideal, logo baskılı promosyon notluk ürünlerinden biridir. Kurumsal firmalar için etkili bir reklam ve promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon 375 yapraklı küp bloknot MTB-110 modeli ofislerde, fuarlarda ve kurumsal etkinliklerde sıklıkla tercih edilen promosyon notluk ürünleri arasında yer almaktadır.
+
+Küp bloknotlar masaüstünde sürekli kullanılan promosyon ürünleri olduğu için marka tanıtımı açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın reklamını sürekli görünür hale getirir.
+
+375 yaprak kapasitesine sahip olan promosyon küp bloknot modeli uzun süreli kullanım sunar. İç sayfalarda kullanılan 80 gr 1. hamur kağıt sayesinde yazım kalitesi oldukça iyidir.
+
+Dış kutu kısmında kullanılan 300 gr Amerikan Bristol kağıt ürüne dayanıklılık ve şık bir görünüm kazandırmaktadır. Mat veya parlak selefon kaplama seçenekleri ile daha premium bir kurumsal görünüm elde edilebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Küp Bloknot  
+Kategori: Matbaa Ürünleri  
+
+Yaprak Sayısı: 375 Yaprak  
+Ebat: 8 x 8 x 4 cm  
+
+Dış Kutu: 300 gr Amerikan Bristol  
+Kaplama: Mat Selefon / Parlak Selefon  
+
+İç Yaprak: 1. Hamur Kağıt  
+Kağıt Gramajı: 80 gr  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon küp bloknot siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, baskı seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Ofis masaüstü notlukları  
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Şirket içi kullanım ürünleri  
+Reklam ve marka tanıtım çalışmaları
+`
+},
+{
+  id: "p191",
+  slug: "promosyon-500-yaprakli-kup-bloknot-mtb-120",
+  title: "Promosyon 500 Yapraklı Küp Bloknot MTB-120 | Logo Baskılı Küp Notluk",
+  category: "Matbaa Ürünleri",
+  image: "/products/promosyon-500-yaprakli-kup-bloknot-mtb-120.jpg",
+
+  shortDesc:
+    "Promosyon 500 yapraklı küp bloknot MTB-120 modeli masaüstü kullanım için ideal, logo baskılı promosyon notluk ürünlerinden biridir. Kurumsal firmalar için etkili bir reklam ve promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon 500 yapraklı küp bloknot MTB-120 modeli ofislerde ve kurumsal çalışma ortamlarında sık kullanılan promosyon notluk ürünleri arasında yer almaktadır.
+
+Küp bloknotlar masaüstünde sürekli kullanılan promosyon ürünleri olduğu için marka tanıtımı açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın reklamını sürekli görünür hale getirir.
+
+500 yaprak kapasitesine sahip olan promosyon küp bloknot modeli uzun süreli kullanım sunar. İç sayfalarda kullanılan 80 gr 1. hamur kağıt sayesinde yazım kalitesi oldukça yüksektir ve günlük not alma işlemleri için idealdir.
+
+Dış kutu kısmında kullanılan 350 gr Amerikan Bristol kağıt ürüne dayanıklılık kazandırırken mat veya parlak selefon kaplama seçenekleri ile daha estetik ve kurumsal bir görünüm elde edilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Küp Bloknot  
+Kategori: Matbaa Ürünleri  
+
+Yaprak Sayısı: 500 Yaprak  
+Ebat: 8 x 8 x 5 cm  
+
+Dış Kutu: 350 gr Amerikan Bristol  
+Kaplama: Mat Selefon / Parlak Selefon  
+
+İç Yaprak: 1. Hamur Kağıt  
+Kağıt Gramajı: 80 gr  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon küp bloknot siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, üretim süresi ve minimum sipariş adedi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Ofis masaüstü notlukları  
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Marka tanıtım kampanyaları  
+Şirket içi kullanım ürünleri
+`
+},
+{
+  id: "p192",
+  slug: "promosyon-750-yaprakli-kup-bloknot-mtb-130",
+  title: "Promosyon 750 Yapraklı Küp Bloknot MTB-130 | Logo Baskılı Küp Notluk",
+  category: "Matbaa Ürünleri",
+  image: "/products/promosyon-750-yaprakli-kup-bloknot-mtb-130.jpg",
+
+  shortDesc:
+    "Promosyon 750 yapraklı küp bloknot MTB-130 modeli masaüstü kullanım için ideal, logo baskılı promosyon notluk ürünlerinden biridir. Kurumsal firmalar için uzun süreli kullanım sunan etkili bir reklam ürünüdür.",
+
+  longDesc: `
+Promosyon 750 yapraklı küp bloknot MTB-130 modeli ofisler, kurumsal firmalar ve etkinlik organizasyonları tarafından sık tercih edilen promosyon notluk ürünleri arasında yer almaktadır.
+
+Küp bloknotlar masaüstünde sürekli kullanılan promosyon ürünleri olduğu için marka tanıtımı açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın reklamı uzun süre görünür şekilde masaüstünde yer alır.
+
+750 yaprak kapasitesine sahip olan promosyon küp bloknot modeli yüksek yaprak sayısı sayesinde uzun süreli kullanım sunmaktadır. İç sayfalarda kullanılan 80 gr 1. hamur kağıt yazım kalitesi açısından oldukça uygundur ve günlük ofis kullanımında rahatlık sağlar.
+
+Dış kutu kısmında kullanılan 350 gr Amerikan Bristol kağıt dayanıklı bir yapı sunarken, mat veya parlak selefon kaplama seçenekleri ürüne daha şık ve kurumsal bir görünüm kazandırmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Küp Bloknot  
+Kategori: Matbaa Ürünleri  
+
+Yaprak Sayısı: 750 Yaprak  
+Ebat: 8 x 8 x 8 cm  
+
+Dış Kutu: 350 gr Amerikan Bristol  
+Kaplama: Mat Selefon / Parlak Selefon  
+
+İç Yaprak: 1. Hamur Kağıt  
+Kağıt Gramajı: 80 gr  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon küp bloknot siparişleri toplu üretim şeklinde hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, üretim süresi ve minimum sipariş adedi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Ofis masaüstü notlukları  
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Marka tanıtım kampanyaları  
+Şirket içi kullanım ürünleri
+`
+},
+{
+  id: "p193",
+  slug: "promosyon-100-yaprakli-dik-bloknot-mtb-140",
+  title: "Promosyon 100 Yapraklı Dik Bloknot MTB-140 | Logo Baskılı Promosyon Bloknot",
+  category: "Matbaa Ürünleri",
+  image: "/products/promosyon-100-yaprakli-dik-bloknot-mtb-140.jpg",
+
+  shortDesc:
+    "Promosyon 100 yapraklı dik bloknot MTB-140 modeli kurumsal firmalar için logo baskılı promosyon notluk olarak kullanılan pratik ve şık promosyon bloknot ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon 100 yapraklı dik bloknot MTB-140 modeli fuarlar, etkinlikler ve kurumsal tanıtım çalışmaları için sık tercih edilen promosyon bloknot ürünleri arasında yer almaktadır.
+
+Promosyon bloknotlar günlük not alma işlemlerinde sürekli kullanılan promosyon ürünleri olduğu için marka tanıtımı açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın reklamı kullanıcıların masaüstünde ve çalışma ortamlarında sürekli görünür hale gelir.
+
+100 yaprak kapasitesine sahip olan bu promosyon bloknot modeli kompakt yapısı sayesinde taşınması kolay ve kullanımı pratiktir. İç sayfalarda kullanılan 120 gr 1. hamur kağıt yazım kalitesi açısından oldukça iyi bir kullanım sunmaktadır.
+
+Dış kutu kısmında kullanılan 350 gr Amerikan Bristol kağıt ürüne dayanıklılık kazandırırken mat veya parlak selefon kaplama seçenekleri sayesinde daha şık ve kurumsal bir görünüm elde edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Dik Bloknot  
+Kategori: Matbaa Ürünleri  
+
+Yaprak Sayısı: 100 Yaprak  
+
+Dış Kutu: 350 gr Amerikan Bristol  
+Kaplama: Mat Selefon / Parlak Selefon  
+
+Dış Kutu Ebatı: 9 x 13 cm  
+
+İç Kağıt: 1. Hamur Kağıt  
+Kağıt Gramajı: 120 gr  
+İç Sayfa Ebatı: 8.8 x 14 cm  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon bloknot siparişleri genellikle toplu üretim şeklinde hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, baskı seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis masaüstü notlukları  
+Reklam ve marka tanıtım kampanyaları  
+Şirket içi kullanım ürünleri
+`
+},
+{
+  id: "p194",
+  slug: "promosyon-50-yaprak-ustten-tutkalli-bloknot-a5-mtb-150",
+  title: "Promosyon 50 Yaprak Üstten Tutkallı Bloknot A5 MTB-150 | Logo Baskılı Promosyon Bloknot",
+  category: "Matbaa Ürünleri",
+  image: "/products/promosyon-50-yaprak-ustten-tutkalli-bloknot-a5-mtb-150.jpg",
+
+  shortDesc:
+    "Promosyon 50 yaprak üstten tutkallı bloknot A5 MTB-150 modeli kurumsal firmalar için logo baskılı promosyon notluk olarak kullanılan pratik ve ekonomik promosyon bloknot ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon 50 yaprak üstten tutkallı bloknot A5 MTB-150 modeli kurumsal tanıtım çalışmaları, fuarlar ve reklam kampanyaları için sık tercih edilen promosyon bloknot ürünleri arasında yer almaktadır.
+
+Promosyon bloknotlar günlük not alma işlemlerinde kullanılan en pratik promosyon ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın marka tanıtımı sürekli görünür hale gelir.
+
+A5 ebatında üretilen bu promosyon bloknot modeli hem ofis kullanımı hem de fuar dağıtımları için oldukça uygun bir promosyon ürünüdür. 50 yaprak kapasitesi sayesinde pratik kullanım sunarken, üstten tutkallı yapısı sayesinde sayfalar kolay şekilde koparılabilir.
+
+İç sayfalarda kullanılan 80 gr 1. hamur kağıt yazım kalitesi açısından oldukça iyi bir kullanım sunar. Alt destek kartonu ise bloknotun daha sağlam ve dayanıklı olmasını sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Bloknot  
+Kategori: Matbaa Ürünleri  
+
+Bloknot Türü: Üstten Tutkallı Bloknot  
+Yaprak Sayısı: 50 Yaprak  
+
+Ebat: A5 (14 x 21 cm)
+
+Kağıt Türü: 1. Hamur Kağıt  
+Kağıt Gramajı: 80 gr  
+
+Baskı: Tek Yön Baskılı  
+Alt Destek: Karton Alt Destek  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon bloknot siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, baskı seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis notlukları  
+Reklam ve marka tanıtım kampanyaları  
+Şirket içi kullanım ürünleri
+`
+},
+{
+  id: "p195",
+  slug: "promosyon-50-yaprak-tac-kapak-bloknot-14x21-mtb-160",
+  title: "Promosyon 50 Yaprak Taç Kapak Bloknot 14 x 21 cm MTB-160 | Logo Baskılı Promosyon Bloknot",
+  category: "Matbaa Ürünleri",
+  image: "/products/promosyon-50-yaprak-tac-kapak-bloknot-mtb-160.jpg",
+
+  shortDesc:
+    "Promosyon 50 yaprak taç kapak bloknot MTB-160 modeli A5 boyutunda, logo baskılı promosyon bloknot olarak kurumsal firmalar tarafından tercih edilen kullanışlı promosyon notluk ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon 50 yaprak taç kapak bloknot MTB-160 modeli kurumsal tanıtım çalışmalarında ve fuar dağıtımlarında sıklıkla kullanılan promosyon bloknot ürünleri arasında yer almaktadır.
+
+Promosyon bloknotlar günlük not alma işlemlerinde kullanılan en pratik promosyon ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın marka tanıtımı kullanıcıların masaüstünde ve çalışma ortamlarında sürekli görünür hale gelir.
+
+Taç kapak tasarımına sahip olan bu promosyon bloknot modeli hem şık bir görünüm sunar hem de sayfaların korunmasını sağlar. Üstten perforajlı cilt yapısı sayesinde sayfalar kolay ve düzgün şekilde koparılabilir.
+
+Kapak kısmında kullanılan 350 gr mat kuşe kağıt ürünün daha dayanıklı ve premium görünmesini sağlar. Kapak yüzeyinde mat veya parlak selefon kaplama uygulanarak ürün daha estetik bir kurumsal promosyon ürünü haline getirilebilir.
+
+İç sayfalarda kullanılan 80 gr 1. hamur kağıt yazım kalitesi açısından oldukça iyi bir kullanım sunmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Taç Kapak Bloknot  
+Kategori: Matbaa Ürünleri  
+
+Yaprak Sayısı: 50 Yaprak  
+Ebat: 14 x 21 cm (A5)
+
+Kapak: 350 gr Mat Kuşe  
+Kaplama: Mat Selefon / Parlak Selefon  
+
+İç Kağıt: 1. Hamur Kağıt  
+Kağıt Gramajı: 80 gr  
+
+Baskı: Tek Yön Baskılı  
+Cilt: Üstten Perforajlı Taç Kapak
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon bloknot siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, baskı seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis notlukları  
+Reklam ve marka tanıtım kampanyaları  
+Şirket içi kullanım ürünleri
+`
+},
+{
+  id: "p196",
+  slug: "promosyon-50-yaprak-tac-kapak-bloknot-14x21-mtb-170",
+  title: "Promosyon 50 Yaprak Taç Kapak Bloknot 14 x 21 cm MTB-170 | Logo Baskılı Promosyon Bloknot",
+  category: "Matbaa Ürünleri",
+  image: "/products/promosyon-50-yaprak-tac-kapak-bloknot-mtb-170.jpg",
+
+  shortDesc:
+    "Promosyon 50 yaprak taç kapak bloknot MTB-170 modeli A5 boyutunda, taç kapak ve yandan kapak tasarımı ile kurumsal firmalar için tercih edilen logo baskılı promosyon bloknot ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon 50 yaprak taç kapak bloknot MTB-170 modeli kurumsal firmalar tarafından fuar, etkinlik ve marka tanıtım çalışmalarında sıklıkla tercih edilen promosyon bloknot ürünleri arasında yer almaktadır.
+
+Promosyon bloknotlar günlük not alma işlemlerinde kullanılan pratik promosyon ürünleri olduğu için marka tanıtımı açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın reklamı kullanıcıların masaüstünde ve çalışma ortamlarında sürekli görünür hale gelir.
+
+Taç kapak ve yandan kapak tasarımına sahip olan bu promosyon bloknot modeli sayfaların korunmasını sağlarken aynı zamanda ürüne daha kurumsal ve şık bir görünüm kazandırmaktadır. Üstten perforajlı cilt yapısı sayesinde sayfalar kolay ve düzgün şekilde koparılabilir.
+
+Kapak kısmında kullanılan 350 gr mat kuşe kağıt dayanıklı bir yapı sunarken, dış yüzeyinde uygulanan mat veya parlak selefon kaplama sayesinde ürün daha estetik ve premium bir görünüm kazanır.
+
+İç sayfalarda kullanılan 80 gr 1. hamur kağıt yazım kalitesi açısından oldukça iyi bir kullanım sunmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Taç Kapak Bloknot  
+Kategori: Matbaa Ürünleri  
+
+Yaprak Sayısı: 50 Yaprak  
+Ebat: 14 x 21 cm (A5)
+
+Kapak: 350 gr Mat Kuşe  
+Kaplama: Mat Selefon / Parlak Selefon  
+
+İç Kağıt: 1. Hamur Kağıt  
+Kağıt Gramajı: 80 gr  
+
+Baskı: Tek Yön Baskılı  
+Cilt: Üstten Perforajlı  
+Kapak Tipi: Taç Kapak + Yandan Kapak
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon bloknot siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, baskı seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis notlukları  
+Reklam ve marka tanıtım kampanyaları  
+Şirket içi kullanım ürünleri
+`
+},
+{
+  id: "p197",
+  slug: "promosyon-50-yaprak-ustten-spiralli-bloknot-14x21-mtb-180",
+  title: "Promosyon 50 Yaprak Üstten Spiralli Bloknot 14 x 21 cm MTB-180 | Logo Baskılı Promosyon Bloknot",
+  category: "Matbaa Ürünleri",
+  image: "/products/promosyon-50-yaprak-ustten-spiralli-bloknot-mtb-180.jpg",
+
+  shortDesc:
+    "Promosyon 50 yaprak üstten spiralli bloknot MTB-180 modeli A5 boyutunda, logo baskılı promosyon bloknot olarak kurumsal firmalar tarafından tercih edilen kullanışlı promosyon notluk ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon 50 yaprak üstten spiralli bloknot MTB-180 modeli kurumsal firmalar tarafından fuar, etkinlik ve reklam kampanyalarında sıklıkla tercih edilen promosyon bloknot ürünleri arasında yer almaktadır.
+
+Promosyon bloknotlar günlük not alma işlemlerinde kullanılan pratik promosyon ürünleri olduğu için marka tanıtımı açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın marka tanıtımı kullanıcıların masaüstünde ve çalışma ortamlarında sürekli görünür hale gelir.
+
+Üstten spiralli tasarıma sahip olan bu promosyon bloknot modeli sayfaların rahat çevrilmesini sağlar ve kullanım kolaylığı sunar. Spiralli cilt yapısı sayesinde sayfalar kolay şekilde çevrilebilir ve not alma işlemleri pratik hale gelir.
+
+Kapak kısmında kullanılan 350 gr Amerikan Bristol kağıt ürünün daha dayanıklı olmasını sağlar. Kapak yüzeyinde uygulanan mat veya parlak selefon kaplama sayesinde ürün daha estetik ve kurumsal bir görünüm kazanır.
+
+İç sayfalarda kullanılan 80 gr 1. hamur kağıt yazım kalitesi açısından oldukça iyi bir kullanım sunmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Spiralli Bloknot  
+Kategori: Matbaa Ürünleri  
+
+Yaprak Sayısı: 50 Yaprak  
+Ebat: 14 x 21 cm (A5)
+
+Kapak: 350 gr Amerikan Bristol  
+Kaplama: Mat Selefon / Parlak Selefon  
+
+İç Kağıt: 1. Hamur Kağıt  
+Kağıt Gramajı: 80 gr  
+
+Baskı: Tek Yön Baskılı  
+Cilt: Üstten Spiralli
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon bloknot siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, baskı seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis notlukları  
+Reklam ve marka tanıtım kampanyaları  
+Şirket içi kullanım ürünleri
+`
+},
+{
+  id: "p198",
+  slug: "promosyon-100-yaprak-taslama-kapak-defter-15x21-mtb-190",
+  title: "Promosyon 100 Yaprak Taslama Kapak Defter 15 x 21 cm MTB-190 | Logo Baskılı Promosyon Defter",
+  category: "Matbaa Ürünleri",
+  image: "/products/promosyon-100-yaprak-taslama-kapak-defter-mtb-190.jpg",
+
+  shortDesc:
+    "Promosyon 100 yaprak taslama kapak defter MTB-190 modeli dayanıklı mukavva kapak yapısı ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon defter ürünleri arasında tercih edilen şık promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon 100 yaprak taslama kapak defter MTB-190 modeli kurumsal firmalar tarafından marka tanıtımı, fuar organizasyonları ve reklam kampanyalarında sık tercih edilen promosyon defter ürünleri arasında yer almaktadır.
+
+Promosyon defterler günlük not alma ve ofis kullanımı açısından en çok kullanılan promosyon ürünleri arasında bulunmaktadır. Bu nedenle üzerine uygulanan logo baskı sayesinde firmanızın marka tanıtımı uzun süre kullanıcıların masaüstünde ve çalışma ortamlarında görünür hale gelir.
+
+Taslama kapak yapısına sahip olan bu promosyon defter modeli dayanıklı yapısı ve şık tasarımı ile kurumsal firmalar için prestijli bir promosyon ürünü olarak tercih edilmektedir.
+
+Kapak kısmında kullanılan 2 mm mukavva ve kuşe kaplama sayesinde ürün daha sağlam bir yapı sunar. Mat veya parlak selefon kaplama seçenekleri ile ürün daha estetik ve premium bir görünüm kazanır.
+
+İç sayfalarda kullanılan 80 gr 1. hamur kağıt yazım kalitesi açısından oldukça iyi bir kullanım sunmaktadır. Çift yön baskı özelliği sayesinde sayfalar verimli şekilde kullanılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Defter  
+Kategori: Matbaa Ürünleri  
+
+Yaprak Sayısı: 100 Yaprak  
+Ebat: 15 x 21 cm  
+
+Kapak: 2 mm Mukavva + Kuşe Kaplama  
+Kaplama: Mat Selefon / Parlak Selefon  
+
+İç Kağıt: 1. Hamur Kağıt  
+Kağıt Gramajı: 80 gr  
+Baskı: Çift Yön Baskılı  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon defter siparişleri genellikle toplu üretim şeklinde hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, baskı seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis kullanım defterleri  
+Reklam ve marka tanıtım kampanyaları  
+Şirket içi kullanım ürünleri
+`
+},
+{
+  id: "p199",
+  slug: "promosyon-80-yaprak-karton-kapak-defter-15x21-mtb-200",
+  title: "Promosyon 80 Yaprak Karton Kapak Defter 15 x 21 cm MTB-200 | Logo Baskılı Promosyon Defter",
+  category: "Matbaa Ürünleri",
+  image: "/products/promosyon-80-yaprak-karton-kapak-defter-mtb-200.jpg",
+
+  shortDesc:
+    "Promosyon 80 yaprak karton kapak defter MTB-200 modeli dayanıklı Amerikan Bristol kapak yapısı ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon defter ürünleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon 80 yaprak karton kapak defter MTB-200 modeli kurumsal firmalar tarafından marka tanıtımı, fuar organizasyonları ve reklam kampanyalarında sık tercih edilen promosyon defter ürünleri arasında yer almaktadır.
+
+Promosyon defterler günlük not alma ve ofis kullanımı açısından en çok kullanılan promosyon ürünleri arasında bulunmaktadır. Bu nedenle üzerine uygulanan logo baskı sayesinde firmanızın marka tanıtımı uzun süre kullanıcıların masaüstünde ve çalışma ortamlarında görünür hale gelir.
+
+Karton kapak yapısına sahip olan bu promosyon defter modeli hem ekonomik hem de kullanışlı bir promosyon ürünü olarak tercih edilmektedir. Dayanıklı kapak yapısı sayesinde günlük kullanımda uzun süre kullanılabilir.
+
+Kapak kısmında kullanılan 300 gr Amerikan Bristol kağıt sağlam bir yapı sunarken, mat veya parlak selefon kaplama seçenekleri ürüne daha estetik ve kurumsal bir görünüm kazandırmaktadır.
+
+İç sayfalarda kullanılan 80 gr 1. hamur kağıt yazım kalitesi açısından oldukça iyi bir kullanım sunar. Çift yön baskı özelliği sayesinde sayfalar verimli şekilde kullanılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Defter  
+Kategori: Matbaa Ürünleri  
+
+Yaprak Sayısı: 80 Yaprak  
+Ebat: 15 x 21 cm  
+
+Kapak: 300 gr Amerikan Bristol  
+Kaplama: Mat Selefon / Parlak Selefon  
+
+İç Kağıt: 1. Hamur Kağıt  
+Kağıt Gramajı: 80 gr  
+Baskı: Çift Yön Baskılı  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon defter siparişleri genellikle toplu üretim şeklinde hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, baskı seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Ofis kullanım defterleri  
+Reklam ve marka tanıtım kampanyaları  
+Şirket içi kullanım ürünleri
+`
+},
+{
+  id: "p200",
+  slug: "promosyon-cepli-dosya-mtb-210",
+  title: "Promosyon Cepli Dosya MTB-210 | Logo Baskılı Kurumsal Cepli Dosya",
+  category: "Matbaa Ürünleri",
+  image: "/products/promosyon-cepli-dosya-mtb-210.jpg",
+
+  shortDesc:
+    "Promosyon cepli dosya MTB-210 modeli kurumsal firmalar için logo baskılı olarak üretilen, fuar ve toplantılarda kullanılan şık promosyon dosya ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon cepli dosya MTB-210 modeli kurumsal firmalar tarafından fuarlar, toplantılar, sunumlar ve müşteri görüşmelerinde sıklıkla kullanılan promosyon matbaa ürünleri arasında yer almaktadır.
+
+Promosyon cepli dosyalar şirket tanıtımı ve kurumsal sunumlar için oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın kurumsal kimliği profesyonel şekilde müşterilere sunulabilir.
+
+Dayanıklı karton yapısı sayesinde promosyon cepli dosyalar katalog, teklif dosyası, sunum belgeleri ve kurumsal evrakların düzenli şekilde taşınmasını sağlar.
+
+350 gr mat kuşe veya 300 – 350 gr Amerikan Bristol kağıt seçenekleri ile üretilebilen bu promosyon dosya modeli hem sağlam hem de estetik bir görünüm sunmaktadır.
+
+Mat veya parlak selefon kaplama seçenekleri ile ürün daha premium ve kurumsal bir görünüm kazanır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Cepli Dosya  
+Kategori: Matbaa Ürünleri  
+
+Kağıt Türü:  
+350 gr Mat Kuşe  
+300 – 350 gr Amerikan Bristol  
+
+Kaplama: Mat Selefon / Parlak Selefon  
+
+Baskı: Kurumsal Logo Baskı  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon cepli dosya siparişleri genellikle toplu üretim şeklinde hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, baskı seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal sunum dosyaları  
+Fuar ve etkinlik promosyonları  
+Toplantı ve seminer dosyaları  
+Şirket tanıtım dosyaları  
+Reklam ve marka tanıtım çalışmaları
+`
+},
+{
+  id: "p201",
+  slug: "promosyon-polyester-sapka-sp-600",
+  title: "Promosyon Yerli Üretim Polyester Şapka ŞP-600 | Logo Baskılı Promosyon Şapka",
+  category: "Promosyon Şapka",
+  image: "/products/promosyon-polyester-sapka-sp-600.jpg",
+
+  shortDesc:
+    "Promosyon yerli üretim polyester şapka ŞP-600 modeli dayanıklı kumaş yapısı ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon şapka modelleri arasında tercih edilen promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon yerli üretim polyester şapka ŞP-600 modeli fuarlar, etkinlikler ve reklam kampanyaları için sık tercih edilen promosyon şapka ürünleri arasında yer almaktadır.
+
+Promosyon şapkalar marka tanıtımı için oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın markası etkinliklerde, organizasyonlarda ve günlük kullanımda geniş kitleler tarafından görülebilir.
+
+140 gr polyester kumaş kullanılarak üretilen bu promosyon şapka modeli hafif ve dayanıklı yapısı sayesinde uzun süreli kullanım sunmaktadır. Yerli üretim olması sayesinde hızlı üretim ve tedarik avantajı sağlar.
+
+5 panel tasarıma sahip olan promosyon şapka modeli ön yüzeyinde logo baskı uygulaması için geniş bir alan sunmaktadır. Şapka üzerinde kullanılan DTF transfer baskı yöntemi sayesinde logolar net ve kaliteli şekilde uygulanabilmektedir.
+
+Ayarlanabilir cırt bantlı arka yapısı sayesinde farklı baş ölçülerine uyum sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Şapka  
+Kategori: Promosyon Şapka  
+
+Kumaş: 140 gr Polyester Kumaş  
+Panel: 5 Panel  
+
+Havalandırma: 2 Kuş Gözü  
+Siper: 4 Dikişli Siper  
+
+Ayarlama: Cırt Bantlı  
+
+Baskı Türü: DTF Transfer Baskı  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon şapka siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, baskı seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Reklam ve marka tanıtım kampanyaları  
+Outdoor etkinlikleri  
+Şirket organizasyonları
+`
+},
+{
+  id: "p202",
+  slug: "promosyon-pamuklu-sapka-sp-650",
+  title: "Promosyon Yerli Üretim Pamuklu Şapka ŞP-650 | Logo Baskılı Promosyon Şapka",
+  category: "Promosyon Şapka",
+  image: "/products/promosyon-pamuklu-sapka-sp-650.jpg",
+
+  shortDesc:
+    "Promosyon yerli üretim pamuklu şapka ŞP-650 modeli gabardin kumaş yapısı ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon şapka modelleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon yerli üretim pamuklu şapka ŞP-650 modeli fuarlar, etkinlikler ve reklam kampanyalarında sık tercih edilen promosyon şapka ürünleri arasında yer almaktadır.
+
+Promosyon şapkalar marka tanıtımı açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı veya nakış sayesinde firmanızın markası geniş kitleler tarafından görünür hale gelir.
+
+16 x 12 pamuklu gabardin kumaş kullanılarak üretilen bu promosyon şapka modeli hem dayanıklı hem de konforlu bir kullanım sunmaktadır. Pamuklu kumaş yapısı sayesinde terletmeyen ve rahat bir kullanım sağlar.
+
+5 panel tasarıma sahip olan promosyon şapka modeli ön yüzeyinde logo uygulaması için geniş bir baskı alanı sunmaktadır. Logo uygulaması nakış veya DTF transfer baskı yöntemi ile yapılabilmektedir.
+
+Ayarlanabilir cırt bantlı arka yapısı sayesinde farklı baş ölçülerine kolayca uyum sağlar. Yerli üretim olması sayesinde hızlı üretim ve tedarik avantajı sunmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Şapka  
+Kategori: Promosyon Şapka  
+
+Kumaş: Pamuklu Gabardin Kumaş  
+Kumaş Ölçüsü: 16 x 12  
+
+Panel: 5 Panel  
+
+Havalandırma: 2 Kuş Gözü  
+
+Ayarlama: Cırt Bantlı  
+
+Baskı Türü: Nakış / DTF Transfer Baskı  
+
+Üretim: Yerli Üretim  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon şapka siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Ürünler isteğe özel üretim yapılabilmektedir ve güncel stok durumu üretim planına göre değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, üretim süresi ve baskı seçenekleri için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Reklam ve marka tanıtım kampanyaları  
+Outdoor etkinlikleri  
+Şirket organizasyonları
+`
+},
+{
+  id: "p203",
+  slug: "promosyon-pamuklu-sandvic-siper-sapka-sp-700",
+  title: "Promosyon Yerli Üretim Pamuklu Sandviç Siper Şapka ŞP-700 | Logo Baskılı Promosyon Şapka",
+  category: "Promosyon Şapka",
+  image: "/products/promosyon-pamuklu-sandvic-siper-sapka-sp-700.jpg",
+
+  shortDesc:
+    "Promosyon yerli üretim pamuklu sandviç siper şapka ŞP-700 modeli gabardin kumaş yapısı, sandviç siper tasarımı ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon şapka modelleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon yerli üretim pamuklu sandviç siper şapka ŞP-700 modeli fuarlar, etkinlikler ve reklam kampanyalarında sık tercih edilen promosyon şapka ürünleri arasında yer almaktadır.
+
+Promosyon şapkalar marka tanıtımı açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı veya nakış sayesinde firmanızın markası etkinliklerde, organizasyonlarda ve günlük kullanımda geniş kitleler tarafından görülebilir.
+
+16 x 12 pamuklu gabardin kumaş kullanılarak üretilen bu promosyon şapka modeli hem dayanıklı hem de konforlu bir kullanım sunmaktadır. Pamuklu kumaş yapısı sayesinde terletmeyen ve rahat bir kullanım sağlar.
+
+Sandviç siper tasarımı şapkaya daha sportif ve modern bir görünüm kazandırmaktadır. Bu tasarım özellikle kurumsal promosyon ürünlerinde dikkat çekici bir görünüm sunar.
+
+5 panel tasarıma sahip olan promosyon şapka modeli ön yüzeyinde logo uygulaması için geniş bir baskı alanı sunmaktadır. Logo uygulaması nakış veya DTF transfer baskı yöntemi ile yapılabilmektedir.
+
+Ayarlanabilir cırt bantlı arka yapısı sayesinde farklı baş ölçülerine kolayca uyum sağlar. Yerli üretim olması sayesinde hızlı üretim ve tedarik avantajı sunmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Şapka  
+Kategori: Promosyon Şapka  
+
+Kumaş: Pamuklu Gabardin Kumaş  
+Kumaş Ölçüsü: 16 x 12  
+
+Panel: 5 Panel  
+
+Siper: Sandviç Siper  
+
+Havalandırma: 2 Kuş Gözü  
+
+Ayarlama: Cırt Bantlı  
+
+Baskı Türü: Nakış / DTF Transfer Baskı  
+
+Üretim: Yerli Üretim  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon şapka siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Ürünler isteğe özel üretim yapılabilmektedir ve güncel stok durumu üretim planına göre değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, üretim süresi ve baskı seçenekleri için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik promosyonları  
+Reklam ve marka tanıtım kampanyaları  
+Outdoor etkinlikleri  
+Şirket organizasyonları
+`
+},
+{
+  id: "p204",
+  slug: "promosyon-polo-yaka-tshirt-py-110",
+  title: "Promosyon Polo Yaka T-Shirt PY-110 | Logo Baskılı Promosyon Tişört",
+  category: "Promosyon Tişört",
+  image: "/products/promosyon-polo-yaka-tshirt-py-110.jpg",
+
+  shortDesc:
+    "Promosyon polo yaka t-shirt PY-110 modeli %100 pamuk kumaş yapısı ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon tişört modelleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon polo yaka t-shirt PY-110 modeli fuarlar, etkinlikler, reklam kampanyaları ve kurumsal organizasyonlar için sık tercih edilen promosyon tekstil ürünleri arasında yer almaktadır.
+
+Promosyon tişörtler marka tanıtımı açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın markası çalışanlar, müşteriler ve etkinlik katılımcıları tarafından geniş kitlelere ulaşabilir.
+
+200 gr open-end kumaş kullanılarak üretilen bu promosyon polo yaka t-shirt modeli %100 pamuk yapısı sayesinde rahat ve konforlu bir kullanım sunmaktadır. Polo yaka tasarımı ise ürüne daha kurumsal ve şık bir görünüm kazandırmaktadır.
+
+Ürün üzerinde logo uygulaması DTF transfer baskı yöntemi ile yapılabilmektedir. Bu baskı yöntemi sayesinde logolar canlı ve net bir şekilde uygulanabilmektedir.
+
+Cepli ve cepsiz model seçenekleri ile üretilebilen promosyon polo yaka tişört farklı kurumsal ihtiyaçlara uygun olarak tercih edilebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Polo Yaka Tişört  
+Kategori: Promosyon Tişört  
+
+Kumaş: %100 Pamuk  
+Kumaş Gramajı: 200 gr Open-end  
+
+Yaka Tipi: Polo Yaka  
+
+Baskı Türü: DTF Transfer Baskı  
+
+Bedenler:  
+S – M – L – XL – XXL  
+
+CEPLİ MODEL RENKLERİ
+
+Kırmızı  
+Bordo  
+Siyah  
+Lacivert  
+Turkuaz  
+Saks Mavi  
+Gri  
+Füme  
+Turuncu  
+Sarı  
+Yeşil  
+Koyu Yeşil  
+
+CEPSİZ MODEL RENKLERİ
+
+Beyaz  
+Lacivert  
+Siyah  
+Gri  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon polo yaka tişört siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+
+Sipariş vermeden önce **güncel stok durumu, beden seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Şirket çalışan kıyafetleri  
+Reklam ve marka tanıtım kampanyaları  
+Outdoor etkinlikleri
+`
+},
 
 ];
 
