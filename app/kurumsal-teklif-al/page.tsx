@@ -87,11 +87,6 @@ export default function KurumsalTeklifAlPage() {
                 <Field label="Adet" name="qty" placeholder="Örn: 100" required />
               </div>
 
-              <div className="grid gap-3 sm:grid-cols-2">
-                <Field label="Baskı Rengi" name="colors" placeholder="Tek renk / 4 renk" />
-                <Field label="Teslim Süresi" name="deadline" placeholder="Örn: 5 gün" />
-              </div>
-
               <div>
                 <label className="mb-1 block text-sm font-semibold text-zinc-800">Not / Detay</label>
                 <textarea
@@ -131,12 +126,6 @@ export default function KurumsalTeklifAlPage() {
           <Step n="3" title="Üretim & Teslim" text="Onay sonrası üretim, kargo/elden teslim." />
         </div>
       </section>
-
-      <footer className="border-t border-black/5">
-        <div className="mx-auto max-w-6xl px-5 py-10 text-sm text-zinc-600">
-          © {new Date().getFullYear()} FirmaPromosyon • Kurumsal DTF Baskı & Promosyon
-        </div>
-      </footer>
     </main>
   );
 }
@@ -151,8 +140,6 @@ async function submitLeadAction(formData: FormData) {
     email: String(formData.get("email") || ""),
     product: String(formData.get("product") || ""),
     qty: String(formData.get("qty") || ""),
-    colors: String(formData.get("colors") || ""),
-    deadline: String(formData.get("deadline") || ""),
     message: String(formData.get("message") || ""),
   };
 
@@ -209,4 +196,3 @@ function Step({ n, title, text }: { n: string; title: string; text: string }) {
     </div>
   );
 }
-
