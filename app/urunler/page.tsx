@@ -1,4 +1,5 @@
-﻿import Link from "next/link";
+﻿import { Suspense } from "react";
+import Link from "next/link";
 import type { Metadata } from "next";
 import { products } from "@/data/products";
 import ProductsClient from "./ProductsClient";
@@ -154,8 +155,33 @@ export default function ProductsPage() {
           </div>
         </div>
 
-        <ProductsClient products={products} />
+        <Suspense fallback={<ProductsLoadingFallback />}>
+          <ProductsClient products={products} />
+        </Suspense>
       </div>
     </main>
+  );
+}
+
+function ProductsLoadingFallback() {
+  return (
+    <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {Array.from({ length: 6 }).map((_, i) => (
+        <div
+          key={i}
+          className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm"
+        >
+          <div className="aspect-square w-full rounded-xl bg-gray-100" />
+
+          <div className="mt-4">
+            <div className="h-3 w-24 rounded bg-gray-200" />
+            <div className="mt-3 h-5 w-full rounded bg-gray-200" />
+            <div className="mt-2 h-4 w-5/6 rounded bg-gray-100" />
+            <div className="mt-2 h-4 w-4/6 rounded bg-gray-100" />
+            <div className="mt-4 h-8 w-28 rounded-full bg-gray-900" />
+          </div>
+        </div>
+      ))}
+    </div>
   );
 }
