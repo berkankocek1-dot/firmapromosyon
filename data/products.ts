@@ -8691,6 +8691,899 @@ Reklam ve marka tanıtım kampanyaları
 Outdoor etkinlikleri
 `
 },
+{
+  id: "p205",
+  slug: "promosyon-metal-kalem-mk-360",
+  title: "Promosyon Metal Kalem MK-360 | Logo Baskılı Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-360.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-360 modeli şık metal gövdesi ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon kalem modelleri arasında sık tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-360 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler fuarlar, etkinlikler, toplantılar ve müşteri ziyaretleri gibi birçok alanda markanızı tanıtmak için kullanılan en etkili promosyon ürünleri arasında bulunmaktadır.
+
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli kurumsal promosyon ürünleri arasında prestijli bir seçenek olarak öne çıkmaktadır.
+
+Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası geniş kitlelere ulaşabilir ve kurumsal kimliğinizi güçlendirebilirsiniz.
+
+Promosyon metal kalem MK-360 modeli hem çalışanlar hem de müşteriler için kullanışlı ve kaliteli bir promosyon ürünü olarak tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Metal  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Kırmızı  
+Lacivert  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p206",
+  slug: "promosyon-metal-kalem-mk-370",
+  title: "Promosyon Metal Kalem MK-370 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-370.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-370 modeli şık tasarımı, metal gövdesi ve lazer baskıya uygun yüzeyi ile kurumsal promosyon kalem modelleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-370 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler marka tanıtımı açısından en etkili ve en çok kullanılan promosyon ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın markası geniş kitlelere ulaşabilir ve uzun süreli reklam avantajı sağlar.
+
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli kurumsal promosyon ürünleri arasında şık ve prestijli bir seçenek olarak öne çıkmaktadır.
+
+Kalem üzerine uygulanabilen lazer baskı yöntemi sayesinde logolar net ve kalıcı bir şekilde uygulanabilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Kalem Ölçüsü: 140 x Ø12 mm  
+
+Refil: Mavi Refil  
+
+Baskı Türü: Lazer Baskı  
+
+Baskı Alanı: 40 x 5,5 mm  
+
+RENK SEÇENEKLERİ
+
+Siyah – Füme  
+Siyah – Gold  
+Siyah – Silver  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p207",
+  slug: "promosyon-metal-kalem-mk-380",
+  title: "Promosyon Metal Kalem MK-380 | Logo Baskılı Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-380.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-380 modeli dayanıklı metal gövdesi ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon kalem çeşitleri arasında sık tercih edilen şık promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-380 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler markanızı müşterilere ulaştırmanın en etkili yollarından biridir. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın reklamı uzun süre görünür hale gelir ve marka bilinirliğiniz artar.
+
+Metal gövde tasarımı sayesinde hem dayanıklı hem de prestijli bir görünüm sunan bu promosyon kalem modeli kurumsal promosyon ürünleri arasında oldukça tercih edilen bir üründür.
+
+Promosyon metal kalem MK-380 modeli fuar, etkinlik, seminer ve kurumsal organizasyonlarda dağıtılabilecek kaliteli promosyon kalem seçeneklerinden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Metal  
+
+Mürekkep Rengi: Mavi  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+RENK SEÇENEKLERİ
+
+Lacivert  
+Kırmızı  
+Gri  
+Siyah  
+Beyaz  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p208",
+  slug: "promosyon-metal-kalem-mk-390",
+  title: "Promosyon Metal Kalem MK-390 | Logo Baskılı Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-390.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-390 modeli dayanıklı metal gövdesi, şık tasarımı ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem modelleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-390 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler, markanızı müşterilere ulaştırmanın en etkili ve ekonomik yollarından biridir. Üzerine uygulanabilen logo baskı sayesinde firmanızın markası uzun süre kullanılabilir bir ürün üzerinde görünür hale gelir.
+
+Metal gövde tasarımı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli kurumsal promosyon ürünleri arasında şık ve prestijli bir seçenek olarak öne çıkmaktadır.
+
+Promosyon metal kalem MK-390 modeli fuar, etkinlik, seminer ve kurumsal organizasyonlarda dağıtılabilecek kullanışlı ve kaliteli promosyon ürünleri arasında bulunmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Metal  
+
+Mürekkep Rengi: Mavi  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Lacivert  
+Kırmızı  
+Gri  
+Füme  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p209",
+  slug: "promosyon-metal-kalem-mk-400",
+  title: "Promosyon Metal Kalem MK-400 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-400.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-400 modeli bakır detaylı şık tasarımı ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon kalem çeşitleri arasında dikkat çeken kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-400 modeli şık tasarımı ve metal gövde yapısı ile firmaların reklam ve tanıtım çalışmalarında tercih ettiği promosyon kalem modelleri arasında yer almaktadır.
+
+Promosyon kalemler kurumsal tanıtım çalışmalarında en çok kullanılan promosyon ürünleri arasında bulunmaktadır. Ürün üzerine uygulanan logo baskı sayesinde firmanızın markası müşterileriniz tarafından uzun süre görülebilir ve marka bilinirliğiniz artabilir.
+
+Bakır detaylı tasarımı sayesinde klasik promosyon kalemlere göre daha şık ve dikkat çekici bir görünüm sunan bu model özellikle kurumsal promosyon ürünleri arasında prestijli bir seçenek olarak tercih edilmektedir.
+
+Promosyon metal kalem MK-400 modeli fuarlar, etkinlikler, şirket toplantıları ve reklam kampanyalarında dağıtılabilecek kullanışlı promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Metal  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+RENK SEÇENEKLERİ
+
+Bakır – Füme  
+Bakır – Siyah  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p210",
+  slug: "promosyon-metal-kalem-mk-410",
+  title: "Promosyon Metal Kalem MK-410 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-410.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-410 modeli şık metal gövdesi ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-410 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler markanızı tanıtmak için en etkili ve ekonomik promosyon ürünleri arasında bulunmaktadır. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası müşterileriniz tarafından uzun süre görülebilir.
+
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli kurumsal promosyon ürünleri arasında hem şık hem de kullanışlı bir seçenek olarak öne çıkmaktadır.
+
+Promosyon metal kalem MK-410 modeli fuarlar, etkinlikler, seminerler ve kurumsal organizasyonlarda dağıtılabilecek kaliteli promosyon kalem seçeneklerinden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Metal  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+RENK SEÇENEKLERİ
+
+Beyaz  
+Füme  
+Kırmızı  
+Lacivert  
+Siyah  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p211",
+  slug: "promosyon-metal-kalem-mk-420",
+  title: "Promosyon Metal Kalem MK-420 | Ahşap Gövdeli Logo Baskılı Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-420.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-420 modeli ahşap gövde tasarımı ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında dikkat çeken şık promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-420 modeli ahşap görünümlü gövdesi ve metal detayları ile firmaların tanıtım çalışmalarında tercih ettiği şık promosyon kalem modelleri arasında yer almaktadır.
+
+Promosyon kalemler marka tanıtımı açısından en çok tercih edilen promosyon ürünleri arasında bulunmaktadır. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası uzun süre kullanılan bir ürün üzerinde görünür hale gelir.
+
+Ahşap gövde tasarımı bu promosyon kalem modeline doğal ve prestijli bir görünüm kazandırmaktadır. Bu özelliği sayesinde özellikle kurumsal promosyon ürünleri arasında dikkat çekici ve kaliteli bir seçenek olarak tercih edilmektedir.
+
+Promosyon metal kalem MK-420 modeli fuar, etkinlik, seminer ve kurumsal organizasyonlarda dağıtılabilecek kullanışlı ve şık promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Ahşap Gövde / Metal Detay  
+
+Mürekkep Rengi: Mavi  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+RENK SEÇENEĞİ
+
+Kahverengi  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Ürün stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p212",
+  slug: "promosyon-metal-kalem-mk-430",
+  title: "Promosyon Metal Kalem MK-430 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-430.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-430 modeli dayanıklı metal gövdesi ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen şık promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-430 modeli firmaların reklam ve tanıtım çalışmalarında tercih ettiği kaliteli promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler kurumsal markaların tanıtım faaliyetlerinde en çok kullanılan promosyon ürünleri arasında bulunmaktadır. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası müşterileriniz tarafından uzun süre görülebilir ve marka bilinirliğiniz artabilir.
+
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli hem şık hem de kullanışlı bir promosyon ürünü olarak öne çıkmaktadır.
+
+Promosyon metal kalem MK-430 modeli fuar, etkinlik, seminer ve kurumsal organizasyonlarda dağıtılabilecek kullanışlı promosyon kalem seçeneklerinden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Metal  
+
+Mürekkep Rengi: Mavi  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+RENK SEÇENEĞİ
+
+Siyah  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Ürün stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p213",
+  slug: "promosyon-metal-kalem-mk-440",
+  title: "Promosyon Metal Kalem MK-440 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-440.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-440 modeli şık füme rengi ve metal gövde tasarımı ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-440 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler marka tanıtımı açısından en etkili ve en çok kullanılan promosyon ürünleri arasında bulunmaktadır. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası müşterileriniz tarafından uzun süre görülebilir ve markanızın bilinirliği artabilir.
+
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli hem şık hem de kullanışlı bir promosyon ürünü olarak öne çıkmaktadır.
+
+Promosyon metal kalem MK-440 modeli fuarlar, etkinlikler, seminerler ve kurumsal organizasyonlarda dağıtılabilecek kaliteli promosyon kalem seçenekleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Metal  
+
+Mürekkep Rengi: Mavi  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+RENK SEÇENEĞİ
+
+Füme  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Ürün stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p214",
+  slug: "promosyon-metal-kalem-mk-450",
+  title: "Promosyon Metal Kalem MK-450 | Logo Baskılı Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-450.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-450 modeli şık metal gövdesi ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem modelleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-450 modeli firmaların reklam ve tanıtım çalışmalarında sık tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler kurumsal firmaların marka tanıtımında en çok kullandığı promosyon ürünleri arasında bulunmaktadır. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası müşterileriniz tarafından uzun süre görülebilir.
+
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli hem şık hem de kullanışlı bir promosyon ürünü olarak öne çıkmaktadır.
+
+Promosyon metal kalem MK-450 modeli fuar, etkinlik, seminer ve kurumsal organizasyonlarda dağıtılabilecek kaliteli promosyon kalem seçenekleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Metal  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+Mürekkep Rengi: Mavi  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p215",
+  slug: "promosyon-metal-kalem-mk-460",
+  title: "Promosyon Metal Kalem MK-460 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-460.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-460 modeli şık metal gövdesi ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-460 modeli firmaların reklam ve tanıtım çalışmalarında tercih ettiği kaliteli promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler markaların tanıtımında en etkili ve ekonomik promosyon ürünleri arasında bulunmaktadır. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası uzun süre kullanılan bir ürün üzerinde görünür hale gelir ve marka bilinirliğiniz artabilir.
+
+Metal gövde tasarımı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli hem şık hem de kullanışlı bir promosyon ürünü olarak öne çıkmaktadır.
+
+Promosyon metal kalem MK-460 modeli fuar, etkinlik, seminer ve kurumsal organizasyonlarda dağıtılabilecek kaliteli promosyon kalem seçenekleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Metal  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+Mürekkep Rengi: Mavi  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p216",
+  slug: "promosyon-metal-kalem-mk-470",
+  title: "Promosyon Metal Kalem MK-470 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-470.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-470 modeli şık metal gövdesi ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-470 modeli firmaların reklam ve tanıtım çalışmalarında tercih ettiği kaliteli promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler kurumsal firmaların marka tanıtımında en çok kullandığı promosyon ürünleri arasında bulunmaktadır. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası müşterileriniz tarafından uzun süre görülebilir ve marka bilinirliği oluşturur.
+
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli hem şık hem de kullanışlı bir promosyon ürünü olarak öne çıkmaktadır.
+
+Promosyon metal kalem MK-470 modeli fuarlar, etkinlikler, seminerler ve kurumsal organizasyonlarda dağıtılabilecek kaliteli promosyon kalem seçenekleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Metal  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+Mürekkep Rengi: Mavi  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Füme  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p217",
+  slug: "promosyon-metal-kalem-mk-480",
+  title: "Promosyon Metal Kalem MK-480 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-480.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-480 modeli şık gümüş renkli metal gövdesi ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-480 modeli firmaların reklam ve tanıtım çalışmalarında tercih ettiği kaliteli promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler marka tanıtımında en çok kullanılan promosyon ürünleri arasında bulunmaktadır. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası müşterileriniz tarafından uzun süre görülebilir ve markanızın bilinirliği artabilir.
+
+Metal gövde tasarımı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli hem şık hem de kullanışlı bir promosyon ürünü olarak öne çıkmaktadır.
+
+Promosyon metal kalem MK-480 modeli fuarlar, etkinlikler, seminerler ve kurumsal organizasyonlarda dağıtılabilecek kaliteli promosyon kalem seçenekleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Metal  
+
+Mürekkep Rengi: Mavi  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+RENK SEÇENEĞİ
+
+Gümüş  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Ürün stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p218",
+  slug: "promosyon-metal-kalem-mk-490",
+  title: "Promosyon Metal Kalem MK-490 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-490.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-490 modeli şık metal gövdesi ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-490 modeli firmaların reklam ve tanıtım çalışmalarında tercih ettiği kaliteli promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler markanızı tanıtmak için en çok kullanılan promosyon ürünleri arasında bulunmaktadır. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası müşterileriniz tarafından uzun süre görülebilir ve marka bilinirliğiniz artabilir.
+
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli hem şık hem de kullanışlı bir promosyon ürünü olarak öne çıkmaktadır.
+
+Promosyon metal kalem MK-490 modeli fuar, etkinlik, seminer ve kurumsal organizasyonlarda dağıtılabilecek kaliteli promosyon kalem seçenekleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Gövde Malzemesi: Metal  
+
+Mürekkep Rengi: Mavi  
+
+Baskı Türü: Lazer Baskı / UV Baskı  
+
+RENK SEÇENEĞİ
+
+Siyah  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Ürün stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p219",
+  slug: "promosyon-metal-kalem-mk-500",
+  title: "Promosyon Metal Kalem MK-500 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-500.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-500 modeli şık tasarımı, metal gövdesi ve lazer baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-500 modeli firmaların reklam ve tanıtım çalışmalarında tercih ettiği kaliteli promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler markanızı tanıtmanın en etkili ve ekonomik yollarından biridir. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası müşterileriniz tarafından uzun süre görülebilir ve marka bilinirliğiniz artabilir.
+
+Metal gövde tasarımı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli hem şık hem de prestijli bir promosyon ürünü olarak öne çıkmaktadır.
+
+Promosyon metal kalem MK-500 modeli fuarlar, etkinlikler, seminerler ve kurumsal organizasyonlarda dağıtılabilecek kaliteli promosyon kalem seçenekleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Kalem Ölçüsü: 140 x Ø13 mm  
+
+Refil: Mavi Refil  
+
+Baskı Türü: Lazer Baskı  
+
+Baskı Alanı: 40 x 5,5 mm  
+
+RENK SEÇENEKLERİ
+
+Gold  
+Siyah  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p220",
+  slug: "promosyon-metal-kalem-mk-510",
+  title: "Promosyon Metal Kalem MK-510 | Logo Baskılı Metal Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-metal-kalem-mk-510.jpg",
+
+  shortDesc:
+    "Promosyon metal kalem MK-510 modeli şık metal gövdesi ve lazer baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon metal kalem MK-510 modeli firmaların reklam ve tanıtım çalışmalarında sık tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler kurumsal firmaların marka tanıtımında en çok kullandığı promosyon ürünleri arasında bulunmaktadır. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası müşterileriniz tarafından uzun süre görülebilir ve marka bilinirliğiniz artabilir.
+
+Metal gövde tasarımı sayesinde dayanıklı ve uzun ömürlü kullanım sunan bu promosyon kalem modeli hem şık hem de kullanışlı bir promosyon ürünü olarak öne çıkmaktadır.
+
+Promosyon metal kalem MK-510 modeli fuarlar, etkinlikler, seminerler ve kurumsal organizasyonlarda dağıtılabilecek kaliteli promosyon kalem seçenekleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Metal Kalem  
+Kategori: Promosyon Kalem  
+
+Kalem Ölçüsü: 146 x Ø12 mm  
+
+Refil: Mavi Refil  
+
+Baskı Türü: Lazer Baskı  
+
+Baskı Alanı: 32 x 5,5 mm  
+
+RENK SEÇENEKLERİ
+
+Gri  
+Kırmızı  
+Lacivert  
+Siyah  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon metal kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
+{
+  id: "p221",
+  slug: "promosyon-plastik-kalem-pls-100",
+  title: "Promosyon Plastik Kalem PLS-100 | Logo Baskılı Promosyon Kalem",
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-100.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-100 modeli telefon tutucu özelliği ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-100 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+
+Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve etkili yollarından biridir. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası geniş kitlelere ulaşabilir ve uzun süre kullanılabilir bir reklam ürünü haline gelir.
+
+Telefon tutucu özelliği sayesinde bu promosyon kalem modeli klasik promosyon kalemlere göre daha fonksiyonel bir kullanım sunmaktadır. Bu özellik özellikle masa üstü kullanımda oldukça pratik bir çözüm sağlamaktadır.
+
+Basmalı mekanizması sayesinde rahat kullanım sunan promosyon plastik kalem PLS-100 modeli fuar, etkinlik ve kurumsal organizasyonlarda dağıtılabilecek kullanışlı promosyon ürünleri arasında yer almaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Promosyon Kalem  
+
+Mekanizma: Basmalı  
+
+Özellik: Telefon Tutucu  
+
+Üretim: Yerli Üretim  
+
+Baskı Türü: UV Baskı / Tampon Baskı  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Kırmızı  
+Lacivert  
+Turuncu  
+Yeşil  
+Sarı  
+Mor  
+Beyaz  
+Turkuaz  
+
+STOK VE SİPARİŞ BİLGİSİ
+
+Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
+
+Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
+
+Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Müşteri ve bayi hediyeleri  
+Reklam ve pazarlama kampanyaları
+`
+},
 
 ];
 
