@@ -3,6 +3,7 @@ import Image from "next/image";
 import { products } from "@/data/products";
 import { categories } from "@/data/categories";
 import type { Metadata } from "next";
+import HomeSearch from "./HomeSearch";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
@@ -468,6 +469,7 @@ export default function Home() {
                   Tüm Ürünleri İncele
                 </Link>
               </div>
+              <HomeSearch />
             </div>
           </div>
         </div>

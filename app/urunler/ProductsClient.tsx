@@ -1,8 +1,9 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { useSearchParams } from "next/navigation";
 
 type Product = {
   id: string;
@@ -34,7 +35,14 @@ function normalizeText(value: string) {
 }
 
 export default function ProductsClient({ products }: { products: Product[] }) {
-  const [search, setSearch] = useState("");
+  const searchParams = useSearchParams();
+  const queryFromUrl = searchParams.get("q") || "";
+
+  const [search, setSearch] = useState(queryFromUrl);
+
+  useEffect(() => {
+    setSearch(queryFromUrl);
+  }, [queryFromUrl]);
 
   const filteredProducts = useMemo(() => {
     const query = normalizeText(search);
@@ -57,7 +65,10 @@ export default function ProductsClient({ products }: { products: Product[] }) {
   return (
     <>
       <div className="mb-6">
-        <label htmlFor="product-search" className="mb-2 block text-sm font-medium text-white/80">
+        <label
+          htmlFor="product-search"
+          className="mb-2 block text-sm font-medium text-white/80"
+        >
           Ürün adı veya stok kodu ile arayın
         </label>
 
