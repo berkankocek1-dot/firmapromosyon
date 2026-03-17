@@ -13105,6 +13105,1790 @@ Müşteri ve bayi hediyeleri
 Günlük kullanım ve seyahat
 `
 },
+{
+  id: "p274",
+  slug: "promosyon-anahtarlik-an-260",
+  title: "Promosyon Anahtarlık AN-260 | Logo Baskılı Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-260.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-260, çift yön baskı özelliği ve dayanıklı yapısı ile kurumsal promosyon ürünlerinde sık tercih edilen ekonomik modellerden biridir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-260 modeli, firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon ürünleri arasında yer almaktadır.
+
+Anahtarlıklar, günlük hayatta sürekli kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkili bir rol oynar. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+AN-260 modeli çift yön baskı özelliği sayesinde her iki yüzeye de logo veya marka bilgisi uygulanabilmektedir. Bu sayede reklam alanı artırılarak daha etkili bir tanıtım sağlanır.
+
+Dayanıklı yapısı ile uzun ömürlü kullanım sunar. Hafif ve kompakt tasarımı sayesinde kolay taşınabilir ve her anahtarlığa rahatlıkla takılabilir.
+
+Fuar, etkinlik, kampanya ve toplu dağıtımlar için ideal bir promosyon ürünüdür.
+
+Ürün üzerine lazer baskı uygulanabilmektedir. Logo ve marka bilgileri kalıcı ve net şekilde işlenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Özellik:
+
+Çift Yön Kullanım  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+RENK SEÇENEKLERİ
+
+Lacivert  
+Sarı  
+Turkuaz  
+Turuncu  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Müşteri ve bayi hediyeleri
+`
+},
+{
+  id: "p275",
+  slug: "promosyon-anahtarlik-an-270",
+  title: "Promosyon Anahtarlık AN-270 | Çift Yön Logo Baskılı Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-270.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-270, yuvarlak tasarımı ve çift yön baskı özelliği ile kurumsal promosyon ürünlerinde sık tercih edilen ekonomik modellerden biridir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-270 modeli, sade ve kullanışlı tasarımı ile firmaların reklam ve tanıtım çalışmalarında tercih ettiği promosyon ürünleri arasında yer almaktadır.
+
+Anahtarlıklar, günlük hayatta sürekli kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+AN-270 modeli yuvarlak tasarımı ile klasik ve dikkat çekici bir görünüme sahiptir. Çift yön baskı özelliği sayesinde her iki yüzeye de logo veya marka bilgisi uygulanabilir.
+
+Şeffaf koruyucu yüzeyi sayesinde baskılar uzun süre korunur ve dış etkenlere karşı dayanıklılık sağlar.
+
+Hafif ve kompakt yapısı sayesinde kolay taşınabilir ve her anahtarlığa rahatlıkla takılabilir.
+
+Fuar, etkinlik, kampanya ve toplu dağıtımlar için ideal bir promosyon ürünüdür.
+
+Ürün üzerine lazer baskı uygulanabilmektedir. Logo ve marka bilgileri net ve kalıcı şekilde işlenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Tasarım:
+
+Yuvarlak  
+
+Özellik:
+
+Çift Yön Kullanım  
+Şeffaf Koruyucu Yüzey  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Müşteri ve bayi hediyeleri
+`
+},
+{
+  id: "p276",
+  slug: "promosyon-anahtarlik-an-280",
+  title: "Promosyon Anahtarlık AN-280 | Logo Baskılı Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-280.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-280, şık tasarımı ve lazer baskıya uygun yüzeyi ile kurumsal promosyon ürünlerinde tercih edilen modellerden biridir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-280 modeli, şık ve sade tasarımı ile firmaların reklam ve tanıtım çalışmalarında tercih ettiği promosyon ürünleri arasında yer almaktadır.
+
+Anahtarlıklar, günlük hayatta sürekli kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkili bir rol oynar. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+AN-280 modeli estetik ve modern tasarımı ile kurumsal firmalar tarafından sıklıkla tercih edilmektedir. Şık görünümü sayesinde hem promosyon hem de kurumsal hediye olarak kullanılabilir.
+
+Dayanıklı yapısı sayesinde uzun ömürlü kullanım sunar. Kompakt ve hafif tasarımı ile kolay taşınabilir ve günlük kullanım için uygundur.
+
+Ürün üzerine lazer baskı uygulanabilmektedir. Logo ve marka bilgileri kalıcı ve net şekilde işlenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+RENK SEÇENEKLERİ
+
+Kırmızı  
+Lacivert  
+Siyah  
+Taba  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Müşteri ve bayi hediyeleri  
+Kurumsal hediye çözümleri
+`
+},
+{
+  id: "p277",
+  slug: "promosyon-anahtarlik-an-290",
+  title: "Promosyon Anahtarlık AN-290 | Çift Yön Logo Baskılı Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-290.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-290, şeffaf koruyucu yüzeyi ve çift yön baskı özelliği ile kurumsal promosyon ürünlerinde sık tercih edilen ekonomik modellerden biridir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-290 modeli, sade ve kullanışlı tasarımı ile firmaların reklam ve tanıtım çalışmalarında tercih ettiği promosyon ürünleri arasında yer almaktadır.
+
+Anahtarlıklar, günlük hayatta sürekli kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+AN-290 modeli çift yön baskı özelliği sayesinde her iki yüzeye de logo veya marka bilgisi uygulanabilmektedir. Bu sayede daha geniş reklam alanı sunar.
+
+Şeffaf koruyucu yüzeyi sayesinde baskılar uzun süre korunur ve dış etkenlere karşı dayanıklılık sağlar.
+
+Kompakt ve hafif yapısı sayesinde kolay taşınabilir ve günlük kullanım için uygundur. Fuar, etkinlik ve toplu dağıtımlar için ideal bir promosyon ürünüdür.
+
+Ürün üzerine lazer baskı uygulanabilmektedir. Logo ve marka bilgileri kalıcı ve net şekilde işlenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Özellikler:
+
+Çift Yön Kullanım  
+Şeffaf Koruyucu Yüzey  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Ürün Ölçüsü:
+
+8.8 x 2.4 cm  
+
+RENK SEÇENEKLERİ
+
+Lacivert  
+Taba  
+Füme  
+Siyah  
+Kırmızı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Müşteri ve bayi hediyeleri
+`
+},
+{
+  id: "p278",
+  slug: "promosyon-anahtarlik-an-300",
+  title: "Promosyon Anahtarlık AN-300 | Çift Yön Lazer Baskılı Şeffaf Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-300.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-300, ince uzun tasarımı ve çift yön lazer baskı özelliği ile kurumsal promosyon çalışmalarında tercih edilen ekonomik ve şık modellerden biridir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-300 modeli, modern ve ince yapısı ile hem estetik hem de kullanışlı bir promosyon ürünüdür. Kurumsal firmaların marka bilinirliğini artırmak için tercih ettiği etkili reklam araçlarından biridir.
+
+Anahtarlıklar, günlük kullanımda sürekli taşınan ürünler olduğu için uzun süreli reklam avantajı sağlar. Üzerine uygulanan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+AN-300 modeli çift yön baskı özelliği ile her iki yüzeye de logo veya marka bilgisi uygulanmasına imkan tanır. Bu sayede daha geniş bir tanıtım alanı sunar ve reklam etkisini artırır.
+
+Şeffaf koruyucu poşet yapısı sayesinde baskılar dış etkenlere karşı korunur ve uzun süre ilk günkü kalitesini korur.
+
+İnce ve uzun formu sayesinde cepte ve anahtarlıkta kolay taşınabilir. Hafif yapısı ile günlük kullanım için son derece uygundur.
+
+Ürün üzerine lazer baskı uygulanabilmektedir. Bu baskı yöntemi sayesinde logo ve yazılar kalıcı, net ve silinmeye karşı dayanıklı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Özellikler:
+
+Çift Yön Kullanım  
+Şeffaf Koruyucu Poşet  
+İnce ve Uzun Tasarım  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Ürün Ölçüsü:
+
+10 x 1.2 cm  
+
+RENK SEÇENEKLERİ
+
+Lacivert  
+Bordo  
+Siyah  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok bilgisi ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Müşteri ve bayi hediyeleri
+`
+},
+{
+  id: "p279",
+  slug: "promosyon-anahtarlik-an-310",
+  title: "Promosyon Anahtarlık AN-310 | Domeks Çift Yön Lazer Baskılı Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-310.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-310, domeks baskı ve çift yön kullanım özelliği ile kurumsal tanıtım için şık ve dayanıklı promosyon anahtarlık modellerinden biridir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-310 modeli, şık görünümü ve dayanıklı yapısı ile firmaların reklam ve tanıtım çalışmalarında tercih ettiği etkili promosyon ürünlerinden biridir.
+
+Anahtarlıklar, günlük hayatta sürekli kullanılan ürünler arasında yer aldığı için marka bilinirliğini artırmada önemli rol oynar. Üzerine uygulanan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+AN-310 modeli domeks baskı özelliği ile daha dikkat çekici ve estetik bir görünüm sunar. Çift yön baskı imkanı sayesinde anahtarlığın her iki yüzeyine de logo veya marka bilgisi uygulanabilir.
+
+Şeffaf koruyucu poşet yapısı, baskının dış etkenlere karşı korunmasını sağlar ve uzun süreli kullanım avantajı sunar.
+
+Dayanıklı ve hafif yapısı sayesinde günlük kullanım için uygundur. Fuar, organizasyon ve toplu dağıtım gibi etkinliklerde rahatlıkla tercih edilebilir.
+
+Ürün üzerine lazer baskı ve domeks baskı uygulanabilmektedir. Bu sayede logo ve yazılar net, kalıcı ve dikkat çekici şekilde hazırlanır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Özellikler:
+
+Çift Yön Kullanım  
+Şeffaf Koruyucu Poşet  
+Domeks Baskı Özelliği  
+
+Baskı Türü:
+
+Lazer Baskı  
+Domeks Baskı  
+
+RENK SEÇENEKLERİ
+
+Lacivert  
+Füme  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel stok durumu hakkında bilgi almak ve fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Müşteri ve bayi hediyeleri
+`
+},
+{
+  id: "p280",
+  slug: "promosyon-anahtarlik-an-320",
+  title: "Promosyon Anahtarlık AN-320 | Lazer Baskılı Renkli Promosyon Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-320.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-320, canlı renk seçenekleri ve lazer baskı özelliği ile markanızı öne çıkaran ekonomik ve dikkat çekici promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-320 modeli, renkli ve dikkat çekici tasarımı ile kurumsal tanıtım çalışmalarında sık tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Anahtarlıklar, günlük kullanımda sürekli taşınan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine uygulanan logo baskı ile firmanız kullanıcıların her an yanında yer alır.
+
+AN-320 modeli, farklı renk seçenekleri ile markanızın kurumsal kimliğine uygun tercihler yapmanıza imkan tanır. Canlı renkler sayesinde ürün daha görünür hale gelir ve reklam etkisi artar.
+
+Ürün üzerine lazer baskı uygulanabilmektedir. Bu baskı yöntemi sayesinde logo ve yazılar kalıcı, net ve silinmeye karşı dayanıklı şekilde işlenir.
+
+Kompakt ve hafif yapısı sayesinde kolay taşınabilir ve uzun süreli kullanım için uygundur. Fuar, etkinlik ve toplu dağıtımlar için ideal bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Özellikler:
+
+Renkli Tasarım  
+Hafif ve Kullanışlı Yapı  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+RENK SEÇENEKLERİ
+
+Sarı  
+Kırmızı  
+Lacivert  
+Turkuaz  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Müşteri ve bayi hediyeleri
+`
+},
+{
+  id: "p281",
+  slug: "promosyon-anahtarlik-an-330",
+  title: "Promosyon Anahtarlık AN-330 | Çift Yön Lazer Baskılı Şeffaf Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-330.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-330, geniş yüzeyi ve çift yön baskı özelliği ile kurumsal tanıtımda etkili, ekonomik ve kullanışlı promosyon anahtarlık modellerinden biridir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-330 modeli, geniş baskı alanı ve sade tasarımı ile firmaların reklam ve tanıtım çalışmalarında tercih ettiği fonksiyonel promosyon ürünlerinden biridir.
+
+Anahtarlıklar, günlük hayatta sürekli kullanılan ürünler arasında yer aldığı için marka bilinirliğini artırmada önemli rol oynar. Üzerine uygulanan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+AN-330 modeli, geniş yüzeyi sayesinde logo, iletişim bilgileri veya marka mesajlarının daha net ve dikkat çekici şekilde uygulanmasına imkan tanır.
+
+Çift yön baskı özelliği sayesinde anahtarlığın her iki yüzeyine de baskı yapılabilir. Bu sayede daha fazla reklam alanı sunar ve tanıtım etkisini artırır.
+
+Şeffaf koruyucu poşet yapısı, baskının dış etkenlere karşı korunmasını sağlar ve uzun süre dayanıklılık sunar.
+
+Ürün üzerine lazer baskı uygulanabilmektedir. Bu baskı yöntemi sayesinde logo ve yazılar kalıcı, net ve silinmeye karşı dayanıklı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Özellikler:
+
+Çift Yön Kullanım  
+Şeffaf Koruyucu Poşet  
+Geniş Baskı Alanı  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Ürün Ölçüsü:
+
+8 x 4.4 cm  
+
+RENK SEÇENEKLERİ
+
+Standart  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı detayları, adet ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok bilgisi ve üretim planlaması hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Müşteri ve bayi hediyeleri
+`
+},
+{
+  id: "p282",
+  slug: "promosyon-anahtarlik-an-340",
+  title: "Promosyon Anahtarlık AN-340 | Açacaklı Lazer Baskılı Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-340.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-340, açacaklı fonksiyonu ve lazer baskı özelliği ile hem kullanışlı hem de reklam değeri yüksek promosyon anahtarlık modellerinden biridir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-340 modeli, fonksiyonel yapısı ile dikkat çeken ve günlük kullanımda ekstra avantaj sağlayan promosyon ürünleri arasında yer almaktadır.
+
+Anahtarlıklar, sürekli taşınan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine uygulanan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+AN-340 modeli, entegre açacak özelliği sayesinde yalnızca bir anahtarlık değil aynı zamanda pratik bir yardımcı ürün olarak da kullanılmaktadır. Bu özellik, ürünün kullanım sıklığını artırarak reklam etkisini güçlendirir.
+
+Tek yön baskı özelliği ile logo veya marka bilgisi ürün yüzeyine net ve kalıcı şekilde uygulanabilir.
+
+Şeffaf koruyucu poşet yapısı, baskının dış etkenlere karşı korunmasını sağlar ve uzun süreli kullanım avantajı sunar.
+
+Ürün üzerine lazer baskı uygulanmaktadır. Bu baskı yöntemi sayesinde logo ve yazılar silinmeye karşı dayanıklı ve kalıcı olur.
+
+İnce ve ergonomik yapısı sayesinde kolay taşınabilir ve günlük kullanım için uygundur. Fuar, etkinlik ve promosyon dağıtımları için ideal bir üründür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Özellikler:
+
+Açacaklı Tasarım  
+Tek Yön Kullanım  
+Şeffaf Koruyucu Poşet  
+İnce ve Hafif Yapı  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Ürün Ölçüsü:
+
+8.5 x 1 cm  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı detayları, adet ve teslim süresi teklif aşamasında belirlenmektedir. Güncel stok durumu hakkında bilgi almak ve fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Müşteri ve bayi hediyeleri
+`
+},
+{
+  id: "p283",
+  slug: "promosyon-organizer-org-110",
+  title: "Promosyon Organizer ORG-110 | Termo Deri Kılıflı Defter (19x26,5 cm)",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-110.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-110, termo deri kapak, metal toka ve kılıflı yapısı ile kurumsal firmalar için şık ve prestijli promosyon defter modellerinden biridir.",
+
+  longDesc: `
+Promosyon organizer ORG-110 modeli, şık tasarımı ve fonksiyonel yapısı ile kurumsal firmaların tercih ettiği prestijli promosyon ürünleri arasında yer almaktadır.
+
+Organizer ve kılıflı defter modelleri, özellikle ofis kullanımı ve kurumsal hediye kategorisinde uzun süre kullanılan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+
+Termo deri kapak yapısı, ürüne hem estetik hem de profesyonel bir görünüm kazandırır. Dayanıklı dış yüzeyi sayesinde uzun süreli kullanım sağlar.
+
+Metal toka detayı, organizerın daha güvenli ve düzenli şekilde kullanılmasına yardımcı olurken aynı zamanda ürüne premium bir görünüm kazandırır.
+
+İç kısmında yer alan çizgili sayfalar, günlük not alma, toplantı notları ve planlama için idealdir. Kullanıcı dostu yapısı sayesinde iş hayatında aktif olarak kullanılabilir.
+
+Ürün üzerine gofre, lazer ve dijital baskı teknikleri uygulanabilmektedir. Bu sayede logo ve marka bilgileri farklı baskı seçenekleri ile şık ve kalıcı şekilde işlenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Organizer  
+Kategori: Organizerler  
+
+Özellikler:
+
+Termo Deri Kapak  
+Metal Toka  
+Kılıflı Tasarım  
+Dayanıklı ve Şık Yapı  
+
+Kağıt Özellikleri:
+
+60 gr. Holmen Kağıt  
+160 Sayfa  
+Çizgili İç Sayfa  
+
+Baskı Türü:
+
+Gofre Baskı  
+Lazer Baskı  
+Dijital Baskı  
+
+Ürün Ölçüsü:
+
+Dış Ölçü: 19 x 26,5 cm  
+İç Blok: 13 x 21 cm  
+
+Koli Adeti:
+
+30 Adet  
+
+RENK SEÇENEKLERİ
+
+Standart  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon organizer siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı teknikleri, logo uygulamaları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok durumu ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis kullanımı ve iş hayatı  
+Toplantı ve not organizasyonu  
+Firma içi dağıtım ve kurumsal hediyeler  
+Fuar ve etkinlik organizasyonları  
+Prestij promosyon ürünleri
+`
+},
+{
+  id: "p284",
+  slug: "promosyon-organizer-org-120",
+  title: "Promosyon Organizer ORG-120 | Termo Deri Kılıflı Ajanda (18x23 cm)",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-120.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-120, termo deri kapak, metal toka ve 352 sayfalık ajanda içeriği ile kurumsal firmalar için prestijli ve uzun ömürlü promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon organizer ORG-120 modeli, şık tasarımı ve geniş iç hacmi ile kurumsal firmaların tercih ettiği premium promosyon ürünleri arasında yer almaktadır.
+
+Organizer ve ajanda ürünleri, iş hayatında aktif olarak kullanılan ve uzun süre saklanan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+
+Termo deri kapak yapısı, ürüne profesyonel ve estetik bir görünüm kazandırırken aynı zamanda dayanıklılık sağlar. Metal toka detayı ise organizerın güvenli şekilde kapanmasını sağlar ve ürüne premium bir hava katar.
+
+ORG-120 modeli, 352 sayfalık geniş ajanda içeriği ile kullanıcıya uzun süreli kullanım avantajı sunar. Günlük planlama, toplantı notları ve iş takibi için ideal bir çözümdür.
+
+70 gram krem kağıt yapısı sayesinde yazım konforu yüksek olup, göz yormayan sayfa yapısı ile profesyonel kullanım için uygundur.
+
+Ürün üzerine gofre ve lazer baskı teknikleri uygulanabilmektedir. Bu sayede logo ve marka bilgileri şık, kalıcı ve kurumsal bir şekilde işlenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Organizer  
+Kategori: Organizerler  
+
+Özellikler:
+
+Termo Deri Kapak  
+Metal Toka  
+Kılıflı Tasarım  
+Premium Görünüm  
+
+Ajanda Özellikleri:
+
+352 Sayfa  
+70 gr. Krem Kağıt  
+Geniş İç Hacim  
+
+Baskı Türü:
+
+Gofre Baskı  
+Lazer Baskı  
+
+Ürün Ölçüsü:
+
+Dış Ölçü: 18 x 23 cm  
+Ajanda Ebatı: 15 x 21 cm  
+
+Koli Adeti:
+
+30 Adet  
+
+RENK SEÇENEKLERİ
+
+Lacivert  
+Kırmızı  
+Taba  
+Siyah  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon organizer siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel stok bilgisi ve fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş hayatı kullanımı  
+Toplantı ve planlama süreçleri  
+Kurumsal hediye ve VIP promosyonlar  
+Fuar ve etkinlik organizasyonları  
+Yönetici ve çalışan hediyeleri
+`
+},
+{
+  id: "p285",
+  slug: "promosyon-organizer-org-130",
+  title: "Promosyon Organizer ORG-130 | Termo Deri Kılıflı Ajanda (15x21 cm)",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-130.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-130, termo deri kapak, metal toka ve 352 sayfalık ajanda içeriği ile şık ve profesyonel bir kurumsal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon organizer ORG-130 modeli, sade ve modern tasarımı ile kurumsal firmaların tercih ettiği şık ve kullanışlı promosyon ürünleri arasında yer almaktadır.
+
+Organizer ve ajanda ürünleri, iş hayatında aktif olarak kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+
+Termo deri kapak yapısı, ürüne hem estetik hem de dayanıklı bir form kazandırır. Metal toka detayı ise organizerın güvenli şekilde kapanmasını sağlar ve premium bir görünüm sunar.
+
+ORG-130 modeli, 15 x 21 cm ebatında ajanda içeriği ve toplam 352 sayfa kapasitesi ile uzun süreli kullanım avantajı sağlar. Günlük planlama, toplantı notları ve iş takibi için ideal bir çözümdür.
+
+70 gram krem kağıt yapısı sayesinde yazım konforu yüksek olup göz yormayan sayfa yapısı sunar.
+
+Ürün üzerine gofre, lazer ve dijital baskı teknikleri uygulanabilmektedir. Bu sayede logo ve marka bilgileri farklı baskı seçenekleri ile şık ve kalıcı şekilde işlenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Organizer  
+Kategori: Organizerler  
+
+Özellikler:
+
+Termo Deri Kapak  
+Metal Toka  
+Minimal ve Şık Tasarım  
+
+Ajanda Özellikleri:
+
+352 Sayfa  
+70 gr. Krem Kağıt  
+15 x 21 cm İç Blok  
+
+Baskı Türü:
+
+Gofre Baskı  
+Lazer Baskı  
+Dijital Baskı  
+
+Koli Adeti:
+
+30 Adet  
+
+RENK SEÇENEKLERİ
+
+Gri  
+Lacivert  
+Siyah  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon organizer siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, baskı teknikleri ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok durumu ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş hayatı kullanımı  
+Toplantı ve planlama süreçleri  
+Kurumsal hediye ve VIP promosyonlar  
+Fuar ve etkinlik organizasyonları  
+Yönetici ve çalışan hediyeleri
+`
+},
+{
+  id: "p286",
+  slug: "promosyon-organizer-org-140",
+  title: "Promosyon Organizer ORG-140 | Hesap Makineli Termo Deri Ajanda (18x23 cm)",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-140.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-140, hesap makinesi, termo deri kapak ve özel kutulu yapısı ile kurumsal firmalar için prestijli ve fonksiyonel promosyon organizer modelidir.",
+
+  longDesc: `
+Promosyon organizer ORG-140 modeli, fonksiyonel özellikleri ve şık tasarımı ile kurumsal firmaların tercih ettiği premium promosyon ürünleri arasında yer almaktadır.
+
+Organizer ve ajanda ürünleri, iş hayatında aktif olarak kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+
+ORG-140 modeli, entegre 8 haneli hesap makinesi özelliği ile yalnızca bir organizer değil aynı zamanda iş hayatında pratik kullanım sağlayan çok yönlü bir üründür.
+
+Termo deri kapak yapısı, ürüne estetik ve profesyonel bir görünüm kazandırırken dayanıklılık sağlar. Özel kutulu ambalajı sayesinde kurumsal hediye olarak sunum için idealdir.
+
+336 sayfalık çizgili ajanda içeriği, günlük planlama, toplantı notları ve iş takibi için geniş kullanım alanı sunar.
+
+70 gram krem kağıt yapısı, yazım konforunu artırır ve göz yormayan sayfa deneyimi sağlar.
+
+Ürün üzerine lazer ve gofre baskı teknikleri uygulanabilmektedir. Bu sayede logo ve marka bilgileri şık, kalıcı ve kurumsal bir şekilde işlenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Organizer  
+Kategori: Organizerler  
+
+Özellikler:
+
+Termo Deri Kapak  
+8 Haneli Hesap Makinesi  
+Özel Kutulu Ambalaj  
+Fonksiyonel ve Premium Tasarım  
+
+Ajanda Özellikleri:
+
+336 Sayfa  
+70 gr. Krem Kağıt  
+Çizgili İç Sayfa  
+15 x 21 cm İç Blok  
+
+Baskı Türü:
+
+Lazer Baskı  
+Gofre Baskı  
+
+Ürün Ölçüsü:
+
+18 x 23 cm  
+
+Koli Adeti:
+
+30 Adet  
+
+RENK SEÇENEKLERİ
+
+Gri  
+Kırmızı  
+Taba  
+Füme  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon organizer siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, baskı teknikleri ve teslim süresi teklif aşamasında belirlenmektedir. Güncel stok durumu ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş hayatı kullanımı  
+Finans ve muhasebe çalışanları  
+Kurumsal hediye ve VIP promosyonlar  
+Fuar ve etkinlik organizasyonları  
+Yönetici ve çalışan hediyeleri
+`
+},
+{
+  id: "p287",
+  slug: "promosyon-organizer-org-150",
+  title: "Promosyon Organizer ORG-150 | Manyetik Kilitli Hesap Makineli Organizer",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-150.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-150, manyetik kilit, hesap makinesi ve kartvizitlik özellikleri ile kurumsal firmalar için premium ve çok fonksiyonlu organizer modelidir.",
+
+  longDesc: `
+Promosyon organizer ORG-150 modeli, çok fonksiyonlu yapısı ve modern tasarımı ile üst segment kurumsal promosyon ürünleri arasında yer almaktadır.
+
+Organizer ve ajanda ürünleri, iş hayatında aktif olarak kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada önemli rol oynar.
+
+ORG-150 modeli, metal ve manyetik kilit sistemi sayesinde güvenli ve pratik kullanım sunar. Bu özellik ürüne hem modern bir görünüm hem de kullanım kolaylığı kazandırır.
+
+Entegre 8 haneli hesap makinesi, günlük iş akışında hızlı hesaplamalar yapılmasını sağlar. Kartvizitlik bölmesi ise iş hayatında düzenli kullanım için ekstra avantaj sunar.
+
+Termo deri kapak yapısı, ürüne şık ve profesyonel bir görünüm kazandırırken dayanıklılık sağlar. Premium segment yapısı sayesinde kurumsal hediye olarak tercih edilebilir.
+
+70 gram ivory kağıt yapısı, yazım konforu sunar ve kaliteli bir kullanım deneyimi sağlar.
+
+Ürün üzerine gofre, UV ve serigrafi baskı teknikleri uygulanabilmektedir. Bu sayede logo ve marka bilgileri farklı baskı seçenekleri ile dikkat çekici ve kalıcı şekilde işlenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Organizer  
+Kategori: Organizerler  
+
+Özellikler:
+
+Termo Deri Kapak  
+Metal ve Manyetik Kilit  
+8 Haneli Hesap Makinesi  
+Kartvizitlik Bölmesi  
+Premium ve Fonksiyonel Tasarım  
+
+Ajanda Özellikleri:
+
+70 gr. Ivory Kağıt  
+15 x 21 cm İç Blok  
+
+Baskı Türü:
+
+Gofre Baskı  
+UV Baskı  
+Serigrafi Baskı  
+
+Ürün Ölçüsü:
+
+17 x 21 cm  
+
+RENK SEÇENEKLERİ
+
+Gri  
+Taba  
+Lacivert  
+Kırmızı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon organizer siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı teknikleri, logo uygulamaları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel stok durumu ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Yönetici ve VIP hediyeleri  
+Ofis ve iş hayatı kullanımı  
+Toplantı ve planlama süreçleri  
+Fuar ve etkinlik organizasyonları  
+Prestij promosyon ürünleri
+`
+},
+{
+  id: "p288",
+  slug: "promosyon-kapak-acacak-ac-100",
+  title: "Promosyon Kapak Açacak AÇ-100 | UV Baskılı Açacak (7.7x7.7 cm)",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-kapak-acacak-ac-100.jpg",
+
+  shortDesc:
+    "Promosyon kapak açacak AÇ-100, UV baskı özelliği ve geniş yüzeyi ile markanızı öne çıkaran kullanışlı ve dikkat çekici promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon kapak açacak AÇ-100 modeli, geniş baskı yüzeyi ve fonksiyonel yapısı ile firmaların reklam ve tanıtım çalışmalarında tercih ettiği etkili promosyon ürünleri arasında yer almaktadır.
+
+Kapak açacak ürünleri, günlük hayatta sık kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+
+AÇ-100 modeli, geniş yüzeyi sayesinde logo, marka adı veya kampanya mesajlarının rahatlıkla uygulanmasına imkan tanır. Bu sayede daha dikkat çekici ve akılda kalıcı bir reklam alanı oluşturur.
+
+Ürün üzerine UV baskı uygulanmaktadır. UV baskı tekniği sayesinde renkli ve yüksek çözünürlüklü baskılar elde edilir. Logo ve görseller canlı, parlak ve uzun ömürlü olur.
+
+Kompakt ve ergonomik yapısı sayesinde kolay taşınabilir ve pratik kullanım sağlar. Hem bireysel hem de kurumsal dağıtımlar için ideal bir promosyon ürünüdür.
+
+Minimum sipariş adeti 100 adet olup, toplu üretim için uygundur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kapak Açacak  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Geniş Baskı Yüzeyi  
+Kompakt ve Kullanışlı Tasarım  
+
+Baskı Türü:
+
+UV Baskı  
+
+Ürün Ölçüsü:
+
+7.7 x 7.7 cm  
+
+Minimum Sipariş:
+
+100 Adet  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kapak açacak siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Kafe ve restoran promosyonları  
+Reklam kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Marka tanıtım çalışmaları
+`
+},
+{
+  id: "p289",
+  slug: "promosyon-uzun-acacak-ac-110",
+  title: "Promosyon Uzun Açacak AÇ-110 | UV Baskılı Açacak (5x11 cm)",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-uzun-acacak-ac-110.jpg",
+
+  shortDesc:
+    "Promosyon uzun açacak AÇ-110, ince ve ergonomik yapısı ile kolay kullanım sunan, UV baskı ile markanızı öne çıkaran etkili promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon uzun açacak AÇ-110 modeli, ince ve uzun formu ile kullanım kolaylığı sağlayan ve kurumsal tanıtım çalışmalarında sık tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Kapak açacak ürünleri, günlük hayatta sık kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+
+AÇ-110 modeli, uzun ve dar yapısı sayesinde elde rahat tutuş sağlar ve pratik kullanım sunar. Bu ergonomik tasarım, ürünün kullanım sıklığını artırarak reklam etkisini güçlendirir.
+
+Ürün üzerine UV baskı uygulanmaktadır. Bu baskı yöntemi sayesinde logo, marka adı veya görseller canlı ve yüksek çözünürlükte uygulanabilir. Baskılar uzun ömürlü ve dikkat çekici olur.
+
+Kompakt yapısı sayesinde kolay taşınabilir ve farklı kullanım alanlarına uygundur. Özellikle kafe, restoran ve etkinliklerde dağıtım için ideal bir promosyon ürünüdür.
+
+Minimum sipariş adeti 100 adet olup, toplu üretim için uygundur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Uzun Açacak  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+İnce ve Uzun Tasarım  
+Ergonomik Kullanım  
+Hafif ve Taşınabilir Yapı  
+
+Baskı Türü:
+
+UV Baskı  
+
+Ürün Ölçüsü:
+
+5 x 11 cm  
+
+Minimum Sipariş:
+
+100 Adet  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon uzun açacak siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Kafe ve restoran promosyonları  
+Fuar ve etkinlik organizasyonları  
+Reklam kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Marka tanıtım çalışmaları
+`
+},
+{
+  id: "p290",
+  slug: "promosyon-bardak-altligi-ba-650",
+  title: "Promosyon Bardak Altlığı BA-650 | Ofset Dijital Baskılı (8x8 cm)",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-bardak-altligi-ba-650.jpg",
+
+  shortDesc:
+    "Promosyon bardak altlığı BA-650, ofset dijital baskı özelliği ile kafe ve restoranlar için yüksek adetli ve etkili reklam sunan promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon bardak altlığı BA-650 modeli, geniş kullanım alanı ve ekonomik yapısı ile firmaların tanıtım çalışmalarında sık tercih ettiği promosyon ürünleri arasında yer almaktadır.
+
+Bardak altlıkları, özellikle kafe, restoran ve etkinliklerde sürekli kullanılan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+
+BA-650 modeli, 8 x 8 cm ölçüsü ile standart bardak kullanımına uygun olup, geniş baskı yüzeyi sayesinde logo, marka adı veya reklam mesajlarının rahatlıkla uygulanmasına imkan tanır.
+
+Ürün üzerine ofset ve dijital baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde yüksek adetli üretimlerde kaliteli, net ve dikkat çekici baskılar elde edilir.
+
+Toplu kullanım için ideal olan bu ürün, özellikle yoğun müşteri sirkülasyonu olan işletmelerde markanızın sürekli görünür olmasını sağlar.
+
+Minimum sipariş adeti 500 adet olup, yüksek adetli üretim ve dağıtım için uygundur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Bardak Altlığı  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Geniş Baskı Yüzeyi  
+Standart Ölçü  
+Toplu Kullanıma Uygun  
+
+Baskı Türü:
+
+Ofset Baskı  
+Dijital Baskı  
+
+Ürün Ölçüsü:
+
+8 x 8 cm  
+
+Minimum Sipariş:
+
+500 Adet  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon bardak altlığı siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kafe ve restoran promosyonları  
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Reklam kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Marka tanıtım çalışmaları
+`
+},
+{
+  id: "p291",
+  slug: "promosyon-balon-bl-600",
+  title: "Promosyon Balon BL-600 | Serigrafi Baskılı Balon (12 İnç)",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-balon-bl-600.jpg",
+
+  shortDesc:
+    "Promosyon balon BL-600, serigrafi baskı özelliği ile fuar, etkinlik ve organizasyonlarda markanızı öne çıkaran ekonomik ve dikkat çekici promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon balon BL-600 modeli, özellikle fuar, organizasyon ve kampanya çalışmalarında tercih edilen etkili promosyon ürünleri arasında yer almaktadır.
+
+Balonlar, dikkat çekici yapısı sayesinde marka görünürlüğünü artırır ve özellikle kalabalık ortamlarda güçlü bir reklam aracı olarak kullanılır.
+
+BL-600 modeli, 12 inç ölçüsü ile standart balon boyutunda olup geniş baskı alanı sayesinde logo veya marka mesajlarının net şekilde uygulanmasına imkan tanır.
+
+Ürün üzerine serigrafi baskı uygulanmaktadır. Bu baskı yöntemi ile tek renk logo veya yazılar balon üzerine net ve dikkat çekici şekilde basılabilir.
+
+Promosyon balonlar, özellikle açılışlar, kampanyalar, fuarlar ve etkinliklerde yoğun şekilde tercih edilir ve marka bilinirliğini kısa sürede artırır.
+
+Çubuksuz olarak sunulan bu ürün, isteğe bağlı olarak çubuk ile birlikte de temin edilebilir. Çubuk talep edilmesi durumunda fiyatlandırma ayrı olarak yapılmaktadır.
+
+Minimum sipariş adeti 1000 adet olup, yüksek adetli organizasyonlar için uygundur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Balon  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+12 İnç Standart Ölçü  
+Geniş Baskı Alanı  
+Dikkat Çekici Tasarım  
+
+Baskı Türü:
+
+Serigrafi Baskı (Tek Renk)  
+
+Minimum Sipariş:
+
+1000 Adet  
+
+Ek Bilgi:
+
+Çubuk Fiyata Dahil Değildir  
+Talep Edilirse Ayrı Olarak Fiyatlandırılır  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon balon siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı detayları, adet ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Fuar ve etkinlik organizasyonları  
+Mağaza açılışları  
+Kampanya ve reklam çalışmaları  
+Kurumsal promosyon ürünleri  
+Toplu dağıtım ve marka tanıtımı  
+Festival ve organizasyonlar
+`
+},
+{
+  id: "p292",
+  slug: "promosyon-frizbi-frz-160",
+  title: "Promosyon Frizbi FRZ-160 | Serigraf ve Ofset Baskılı (23 cm)",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-frizbi-frz-160.jpg",
+
+  shortDesc:
+    "Promosyon frizbi FRZ-160, geniş baskı alanı ve eğlenceli yapısı ile etkinliklerde markanızı öne çıkaran dikkat çekici promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon frizbi FRZ-160 modeli, eğlenceli ve dikkat çekici yapısı ile özellikle açık hava etkinlikleri ve organizasyonlarda tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Frizbi ürünleri, kullanıcılar tarafından aktif şekilde kullanıldığı için marka bilinirliğini artırmada oldukça etkilidir. Eğlenceli yapısı sayesinde markanız kullanıcılar tarafından daha uzun süre hatırlanır.
+
+23 cm çapı ile ideal kullanım sunan bu model, geniş baskı alanı sayesinde logo ve marka mesajlarının rahatlıkla uygulanmasına imkan tanır.
+
+Tek renk baskılar için serigraf baskı uygulanabilmektedir. Daha renkli ve detaylı tasarımlar için ise ofset baskı tercih edilebilir. Bu sayede marka kimliğinize uygun farklı baskı seçenekleri sunulmaktadır.
+
+Dayanıklı ve hafif yapısı sayesinde hem yetişkinler hem de çocuklar tarafından rahatlıkla kullanılabilir. Özellikle festival, fuar, plaj etkinlikleri ve açık hava organizasyonları için ideal bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Frizbi  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Eğlenceli ve Dikkat Çekici Tasarım  
+Geniş Baskı Alanı  
+Hafif ve Dayanıklı Yapı  
+
+Baskı Türü:
+
+Serigraf Baskı (Tek Renk)  
+Ofset Baskı (Renkli)  
+
+Ürün Ölçüsü:
+
+Çap: 23 cm  
+Baskı Alanı: 14.2 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon frizbi siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı detayları, renk seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Fuar ve etkinlik organizasyonları  
+Festival ve açık hava etkinlikleri  
+Plaj ve yaz organizasyonları  
+Kurumsal promosyon ürünleri  
+Reklam ve tanıtım kampanyaları  
+Toplu dağıtım ve marka tanıtımı
+`
+},
+{
+  id: "p293",
+  slug: "promosyon-mouse-pad-mp-600",
+  title: "Promosyon Mouse Pad MP-600 | Ofset Dijital Baskılı (18x22 cm)",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-mouse-pad-mp-600.jpg",
+
+  shortDesc:
+    "Promosyon mouse pad MP-600, geniş baskı alanı ve ofset dijital baskı özelliği ile ofis kullanımında markanızı sürekli görünür kılan etkili promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon mouse pad MP-600 modeli, özellikle ofis ve çalışma alanlarında kullanılan ve marka bilinirliğini artırmada etkili olan promosyon ürünleri arasında yer almaktadır.
+
+Mouse pad ürünleri, bilgisayar başında uzun süre kullanılan ürünler olduğu için marka görünürlüğünü sürekli hale getirir. Bu sayede firmanız kullanıcıların her gün karşısında yer alır.
+
+18 x 22 cm ölçüsü ile ideal kullanım alanı sunan bu model, geniş yüzeyi sayesinde logo, marka adı veya reklam tasarımlarının rahatlıkla uygulanmasına imkan tanır.
+
+Ürün üzerine ofset ve dijital baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde yüksek çözünürlüklü, canlı ve dikkat çekici tasarımlar elde edilir.
+
+Kompakt ve kullanışlı yapısı sayesinde hem bireysel hem de kurumsal kullanım için uygundur. Özellikle ofis çalışanları, şirket içi dağıtımlar ve kurumsal hediyeler için ideal bir promosyon ürünüdür.
+
+Minimum sipariş adeti 500 adet olup, toplu üretim ve dağıtım için uygundur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Mouse Pad  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Geniş Baskı Yüzeyi  
+Kaymaz ve Kullanışlı Yapı  
+Ofis Kullanımına Uygun  
+
+Baskı Türü:
+
+Ofset Baskı  
+Dijital Baskı  
+
+Ürün Ölçüsü:
+
+18 x 22 cm  
+
+Minimum Sipariş:
+
+500 Adet  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon mouse pad siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve çalışma alanları  
+Şirket içi dağıtımlar  
+Kurumsal hediye ürünleri  
+Fuar ve etkinlik organizasyonları  
+Marka tanıtım çalışmaları
+`
+},
+{
+  id: "p294",
+  slug: "promosyon-bilek-destekli-mouse-pad-mp-650",
+  title: "Promosyon Bilek Destekli Mouse Pad MP-650 | Ofset Dijital Baskılı (18x22 cm)",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-mouse-pad-mp-650.jpg",
+
+  shortDesc:
+    "Promosyon bilek destekli mouse pad MP-650, ergonomik yapısı ve geniş baskı alanı ile ofis kullanımında konfor ve marka görünürlüğünü bir arada sunan promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon bilek destekli mouse pad MP-650 modeli, ergonomik tasarımı ve konfor odaklı yapısı ile kurumsal firmaların tercih ettiği premium promosyon ürünleri arasında yer almaktadır.
+
+Mouse pad ürünleri, çalışma ortamında sürekli kullanılan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Bilek destekli yapısı sayesinde kullanıcı konforunu artırarak ürünün kullanım süresini uzatır.
+
+MP-650 modeli, bilek destekli ergonomik yapısı ile uzun süreli bilgisayar kullanımında konfor sağlar ve kullanıcı deneyimini iyileştirir.
+
+18 x 22 cm ölçüsü ile geniş bir kullanım alanı sunar. Bu sayede logo, marka adı veya reklam tasarımları rahatlıkla uygulanabilir.
+
+Ürün üzerine ofset ve dijital baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde yüksek çözünürlüklü, canlı ve dikkat çekici tasarımlar elde edilir.
+
+Hem bireysel hem de kurumsal kullanım için ideal olan bu ürün, özellikle ofis çalışanları ve bilgisayar başında uzun süre vakit geçiren kullanıcılar için tercih edilmektedir.
+
+Minimum sipariş adeti 500 adet olup, toplu üretim ve dağıtım için uygundur. Fiyat bilgisi için teklif alınması gerekmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Mouse Pad  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Bilek Destekli Ergonomik Tasarım  
+Geniş Baskı Yüzeyi  
+Konforlu Kullanım  
+
+Baskı Türü:
+
+Ofset Baskı  
+Dijital Baskı  
+
+Ürün Ölçüsü:
+
+18 x 22 cm  
+
+Minimum Sipariş:
+
+500 Adet  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon mouse pad siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve çalışma alanları  
+Şirket içi dağıtımlar  
+Kurumsal hediye ürünleri  
+Fuar ve etkinlik organizasyonları  
+Marka tanıtım çalışmaları
+`
+},
+{
+  id: "p295",
+  slug: "promosyon-oto-kesesi-oks-170",
+  title: "Promosyon Oto Kesesi OKS-170 | Araç Temizlik Kesesi",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-oto-kesesi-oks-170.jpg",
+
+  shortDesc:
+    "Promosyon oto kesesi OKS-170, araç temizliğinde pratik kullanım sağlayan ve oto sektöründe marka tanıtımı için tercih edilen promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon oto kesesi OKS-170 modeli, araç temizliği ve bakımında kullanılan pratik yapısı ile oto sektörüne yönelik promosyon ürünleri arasında yer almaktadır.
+
+Araç temizlik ürünleri, kullanıcılar tarafından düzenli olarak kullanıldığı için marka bilinirliğini artırmada oldukça etkilidir. Bu sayede firmanız, kullanıcıların günlük hayatında sürekli görünür hale gelir.
+
+Oto kesesi, araç yüzeyine zarar vermeden temizlik yapılmasını sağlar ve özellikle oto yıkama, servis ve bakım hizmeti sunan firmalar için ideal bir promosyon ürünüdür.
+
+Hafif ve kullanışlı yapısı sayesinde kolay taşınabilir ve pratik kullanım sunar. Uzun süreli kullanım avantajı ile markanızın kalıcılığını artırır.
+
+Promosyon oto keseleri, özellikle oto yıkama firmaları, servisler ve araç bakım merkezleri tarafından müşteri memnuniyetini artırmak amacıyla tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Oto Kesesi  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Araç Temizliğine Uygun Yapı  
+Pratik ve Kullanışlı Tasarım  
+Hafif ve Dayanıklı Kullanım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon oto kesesi siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün detayları, baskı seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Oto yıkama ve araç bakım firmaları  
+Servis ve oto bakım merkezleri  
+Kurumsal promosyon ürünleri  
+Reklam ve tanıtım kampanyaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Müşteri memnuniyeti hediyeleri
+`
+},
+{
+  id: "p296",
+  slug: "promosyon-para-tabagi-pt-100",
+  title: "Promosyon Yuvarlak Para Tabağı PT-100 | Kasa Önü Reklam Ürünü (17.5 cm)",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-para-tabagi-pt-100.jpg",
+
+  shortDesc:
+    "Promosyon yuvarlak para tabağı PT-100, kasa önlerinde marka görünürlüğünü artıran ve sürekli temas edilen etkili promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon yuvarlak para tabağı PT-100 modeli, özellikle mağaza, market ve kasa noktalarında kullanılan etkili promosyon ürünleri arasında yer almaktadır.
+
+Para tabağı ürünleri, müşterilerin ödeme sırasında doğrudan temas ettiği ve sürekli göz önünde bulunan ürünler olduğu için marka bilinirliğini artırmada oldukça güçlü bir reklam aracıdır.
+
+PT-100 modeli, yuvarlak tasarımı ve geniş yüzeyi sayesinde logo, marka adı veya reklam mesajlarının dikkat çekici şekilde uygulanmasına imkan tanır.
+
+Kasa önlerinde sürekli kullanım sayesinde markanız müşterilerin her alışverişte karşısına çıkar ve akılda kalıcılık sağlar.
+
+Dayanıklı ve kullanışlı yapısı ile uzun süreli kullanım avantajı sunar. Perakende sektöründe marka tanıtımı için ideal bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Para Tabağı  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Yuvarlak Tasarım  
+Geniş Baskı Yüzeyi  
+Kasa Önü Kullanıma Uygun  
+
+Ürün Ölçüsü:
+
+Çap: 17.5 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon para tabağı siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Market ve mağaza kasaları  
+Perakende satış noktaları  
+Kurumsal promosyon ürünleri  
+Reklam ve tanıtım çalışmaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Marka görünürlüğü artırma çalışmaları
+`
+},
+{
+  id: "p297",
+  slug: "promosyon-kare-para-tabagi-pt-110",
+  title: "Promosyon Kare Para Tabağı PT-110 | Kasa Önü Reklam Ürünü (17x20.5 cm)",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-para-tabagi-pt-110.jpg",
+
+  shortDesc:
+    "Promosyon kare para tabağı PT-110, geniş yüzeyi ve dikkat çekici tasarımı ile kasa önlerinde marka görünürlüğünü artıran etkili promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon kare para tabağı PT-110 modeli, modern tasarımı ve geniş baskı yüzeyi ile özellikle perakende sektöründe tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Para tabağı ürünleri, müşterilerin ödeme sırasında doğrudan temas ettiği ve sürekli göz önünde bulunan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+
+PT-110 modeli, kare formu sayesinde klasik yuvarlak modellere göre daha geniş ve farklı bir baskı alanı sunar. Bu sayede logo, marka adı veya reklam mesajları daha dikkat çekici şekilde uygulanabilir.
+
+Kasa önlerinde sürekli kullanım sayesinde markanız müşterilerin her alışverişte karşısına çıkar ve akılda kalıcılık sağlar.
+
+Dayanıklı ve kullanışlı yapısı ile uzun süreli kullanım avantajı sunar. Market, mağaza ve satış noktaları için ideal bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Para Tabağı  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Kare Tasarım  
+Geniş Baskı Yüzeyi  
+Kasa Önü Kullanıma Uygun  
+
+Ürün Ölçüsü:
+
+17 x 20.5 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon para tabağı siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Market ve mağaza kasaları  
+Perakende satış noktaları  
+Kurumsal promosyon ürünleri  
+Reklam ve tanıtım çalışmaları  
+Toplu dağıtım ve promosyon aktiviteleri  
+Marka görünürlüğü artırma çalışmaları
+`
+},
+{
+  id: "p298",
+  slug: "promosyon-kalemlik-pu-100",
+  title: "Promosyon Kalemlik PÜ-100 | Masa Üstü Reklam Ürünü (10x8x5.4 cm)",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-kalemlik-pu-100.jpg",
+
+  shortDesc:
+    "Promosyon kalemlik PÜ-100, masa üstünde sürekli kullanılan yapısı ile markanızı görünür kılan ve ofisler için ideal promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon kalemlik PÜ-100 modeli, ofis ve çalışma alanlarında kullanılan ve marka bilinirliğini artırmada etkili olan promosyon ürünleri arasında yer almaktadır.
+
+Kalemlik ürünleri, masa üzerinde sürekli bulunan ve günlük kullanımda aktif rol oynayan ürünler olduğu için markanızın sürekli göz önünde olmasını sağlar.
+
+PÜ-100 modeli, kompakt yapısı sayesinde masa üzerinde fazla yer kaplamaz ve düzenli kullanım sunar. Kalem, not kağıdı ve küçük ofis malzemelerinin düzenli şekilde saklanmasına yardımcı olur.
+
+Ürün üzerinde bulunan reklam alanı sayesinde logo, marka adı veya iletişim bilgileri kolaylıkla uygulanabilir. Bu sayede hem kullanışlı hem de reklam değeri yüksek bir ürün elde edilir.
+
+Dayanıklı ve uzun ömürlü yapısı sayesinde uzun süre kullanılabilir ve markanızın kalıcılığını artırır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kalemlik  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Masa Üstü Kullanıma Uygun  
+Kompakt ve Kullanışlı Tasarım  
+Düzenleyici Fonksiyon  
+
+Reklam Alanı:
+
+5 x 8 cm  
+
+Ürün Ölçüsü:
+
+10 x 8 x 5.4 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalemlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı detayları, adet ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Ofis ve çalışma alanları  
+Kurumsal promosyon ürünleri  
+Şirket içi dağıtımlar  
+Kurumsal hediye ürünleri  
+Fuar ve etkinlik organizasyonları  
+Masa üstü düzenleyici ürünler
+`
+},
+{
+  id: "p299",
+  slug: "promosyon-seffaf-kalemlik-pu-110",
+  title: "Promosyon Şeffaf Kalemlik PÜ-110 | Masa Üstü Reklam Ürünü (10x8x5.4 cm)",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-kalemlik-pu-110.jpg",
+
+  shortDesc:
+    "Promosyon şeffaf kalemlik PÜ-110, modern tasarımı ve reklam alanı ile masa üstünde markanızı sürekli görünür kılan şık promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon şeffaf kalemlik PÜ-110 modeli, sade ve modern tasarımı ile ofis ve çalışma alanlarında tercih edilen promosyon ürünleri arasında yer almaktadır.
+
+Kalemlik ürünleri, masa üzerinde sürekli kullanılan ve göz önünde bulunan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+
+Şeffaf yapısı sayesinde içerisine konulan kalem ve ofis malzemeleri kolayca görülebilir. Bu özellik, hem estetik hem de pratik kullanım avantajı sağlar.
+
+PÜ-110 modeli, kompakt ölçüleri sayesinde masa üzerinde fazla yer kaplamaz ve düzenli bir çalışma ortamı oluşturur.
+
+Ürün üzerinde bulunan reklam alanı sayesinde logo, marka adı veya iletişim bilgileri net ve dikkat çekici şekilde uygulanabilir.
+
+Dayanıklı yapısı sayesinde uzun süreli kullanım sunar ve markanızın kalıcılığını artırır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kalemlik  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Şeffaf Tasarım  
+Masa Üstü Kullanıma Uygun  
+Kompakt ve Kullanışlı Yapı  
+
+Reklam Alanı:
+
+5 x 8 cm  
+
+Ürün Ölçüsü:
+
+10 x 8 x 5.4 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalemlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı detayları, adet ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Ofis ve çalışma alanları  
+Kurumsal promosyon ürünleri  
+Şirket içi dağıtımlar  
+Kurumsal hediye ürünleri  
+Fuar ve etkinlik organizasyonları  
+Masa üstü düzenleyici ürünler
+`
+},
+{
+  id: "p300",
+  slug: "promosyon-yonca-kalemlik-pu-130",
+  title: "Promosyon Yonca Kalemlik PÜ-130 | Dekoratif Masa Üstü Kalemlik (19x9 cm)",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-kalemlik-pu-130.jpg",
+
+  shortDesc:
+    "Promosyon yonca kalemlik PÜ-130, dekoratif tasarımı ve masa üstü kullanım avantajı ile markanızı estetik şekilde öne çıkaran promosyon ürünlerinden biridir.",
+
+  longDesc: `
+Promosyon yonca kalemlik PÜ-130 modeli, farklı ve dikkat çekici tasarımı ile ofis ve çalışma alanlarında tercih edilen dekoratif promosyon ürünleri arasında yer almaktadır.
+
+Kalemlik ürünleri, masa üzerinde sürekli kullanılan ve göz önünde bulunan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+
+Yonca formundaki özel tasarımı sayesinde klasik kalemlik modellerinden ayrılır ve daha estetik bir görünüm sunar. Bu sayede masa üzerinde hem düzen hem de görsel zenginlik sağlar.
+
+PÜ-130 modeli, geniş iç hacmi sayesinde kalem, not kağıdı ve küçük ofis malzemelerinin düzenli şekilde saklanmasına yardımcı olur.
+
+Ürün üzerinde bulunan reklam alanı sayesinde logo veya marka bilgisi tek renk baskı ile net ve sade şekilde uygulanabilir.
+
+Dayanıklı yapısı sayesinde uzun süreli kullanım sunar ve markanızın kalıcılığını artırır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kalemlik  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Yonca Tasarım  
+Dekoratif ve Şık Görünüm  
+Masa Üstü Kullanıma Uygun  
+
+Reklam Alanı:
+
+3.5 x 3.5 cm  
+Tek Renk Baskı  
+
+Ürün Ölçüsü:
+
+19 x 9 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalemlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı detayları, adet ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Ofis ve çalışma alanları  
+Kurumsal promosyon ürünleri  
+Şirket içi dağıtımlar  
+Kurumsal hediye ürünleri  
+Fuar ve etkinlik organizasyonları  
+Masa üstü dekoratif ürünler
+`
+},
+{
+  id: "p301",
+  slug: "promosyon-seffaf-kup-kagitlik-pu-140",
+  title: "Promosyon Şeffaf Küp Kağıtlık PÜ-140 | Özel Üretim Masa Üstü Kağıtlık",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-kagitlik-pu-140.jpg",
+
+  shortDesc:
+    "Promosyon şeffaf küp kağıtlık PÜ-140, masa üstünde sürekli kullanılan yapısı ve özel üretim seçeneği ile kurumsal firmalar için etkili bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon şeffaf küp kağıtlık PÜ-140 modeli, ofis ve çalışma alanlarında kullanılan, marka bilinirliğini artıran ve uzun süreli kullanım sağlayan promosyon ürünleri arasında yer almaktadır.
+
+Kağıtlık ürünleri, masa üzerinde sürekli bulunan ve günlük kullanımda aktif rol oynayan ürünler olduğu için markanızın sürekli görünür olmasını sağlar.
+
+Şeffaf tasarımı sayesinde içeride bulunan not kağıtları kolayca görülebilir ve modern bir masa düzeni oluşturur. Estetik görünümü ile ofis ortamına uyum sağlar.
+
+PÜ-140 modeli, özel üretim imkanı sunar. İstenilen adetlerde üretim yapılabilir ve talebe göre özel renk seçenekleri uygulanabilir. Bu sayede firmanıza özel çözümler sunulabilir.
+
+İç kağıt kapasitesi 450 yaprak olup, uzun süreli kullanım avantajı sağlar. 80 gr. 1. hamur kağıt ile uyumlu yapısı sayesinde kaliteli bir kullanım deneyimi sunar.
+
+Kağıt fiyata dahil değildir ve isteğe bağlı olarak ayrı şekilde temin edilebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Küp Kağıtlık  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Şeffaf Tasarım  
+Masa Üstü Kullanıma Uygun  
+Özel Üretim İmkanı  
+Yüksek Kapasiteli Kağıtlık  
+
+Kağıt Özellikleri:
+
+İç Kağıt Ölçüsü: 88 x 88 mm  
+Kapasite: 450 Yaprak  
+Kağıt Türü: 80 gr. 1. Hamur  
+
+Ürün Ölçüsü:
+
+9 x 9 x 5 cm  
+
+Ek Bilgi:
+
+Kağıt Fiyata Dahil Değildir  
+Özel Renk Üretimi Yapılabilir  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon küp kağıtlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün tasarımı, renk seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Ofis ve çalışma alanları  
+Kurumsal promosyon ürünleri  
+Şirket içi dağıtımlar  
+Kurumsal hediye ürünleri  
+Fuar ve etkinlik organizasyonları  
+Masa üstü düzenleyici ürünler
+`
+},
 
 ];
 
