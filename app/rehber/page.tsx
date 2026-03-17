@@ -25,6 +25,11 @@ const guides = [
     title: "Promosyon Ürünleri Seçim Rehberi",
     desc: "Kurumsal promosyon ürünleri nasıl seçilir? Hedef kitleye, kullanım alanına ve baskı türüne göre doğru ürün seçimini inceleyin.",
   },
+  {
+    slug: "promosyon-kalem-nedir",
+    title: "Promosyon Kalem Nedir? Firmalar Neden Tercih Eder?",
+    desc: "Promosyon kalem nedir, firmalar neden tercih eder? Logo baskılı promosyon kalemlerin avantajları, kullanım alanları ve marka bilinirliğine katkıları hakkında detaylı rehber.",
+  },
 ];
 
 export const metadata: Metadata = {
@@ -101,7 +106,6 @@ export default function RehberPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
       />
 
-      {/* HERO */}
       <section className="border-b border-gray-100 bg-gradient-to-b from-gray-50 via-white to-white">
         <div className="mx-auto max-w-7xl px-5 py-12 md:py-16">
           <div className="max-w-3xl">
@@ -123,7 +127,6 @@ export default function RehberPage() {
         </div>
       </section>
 
-      {/* REHBER KARTLARI */}
       <section className="mx-auto max-w-7xl px-5 py-12">
         <div className="flex items-end justify-between gap-4">
           <div>
@@ -163,7 +166,6 @@ export default function RehberPage() {
         </div>
       </section>
 
-      {/* SEO METNİ */}
       <section className="mx-auto max-w-7xl px-5 py-6">
         <div className="rounded-3xl border border-gray-200 bg-gray-50 p-6 md:p-10">
           <div className="max-w-4xl">
@@ -192,7 +194,6 @@ export default function RehberPage() {
         </div>
       </section>
 
-      {/* KATEGORİ LİNKLERİ */}
       <section className="mx-auto max-w-7xl px-5 py-12">
         <div className="rounded-3xl border border-gray-200 bg-white p-6 md:p-8">
           <h2 className="text-xl font-extrabold text-gray-900 md:text-2xl">
