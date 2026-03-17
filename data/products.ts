@@ -11528,6 +11528,1583 @@ Reklam kampanyaları
 Müşteri ve bayi hediyeleri
 `
 },
+{
+  id: "p252",
+  slug: "promosyon-anahtar-usb-bellek-ub-190",
+  title: "Promosyon Anahtar USB Bellek UB-190 | Logo Baskılı USB Bellek",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-anahtar-usb-bellek-ub-190.jpg",
+
+  shortDesc:
+    "Promosyon anahtar USB bellek UB-190, anahtarlık formu sayesinde kolay taşınabilir yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon USB bellek ihtiyaçları için ideal bir modeldir.",
+
+  longDesc: `
+Promosyon anahtar USB bellek UB-190 modeli, firmaların kurumsal tanıtım ve reklam çalışmalarında en çok tercih ettiği promosyon USB bellek ürünleri arasında yer almaktadır.
+
+USB bellekler, uzun süre kullanılan ve sürekli taşınan ürünler olduğu için marka bilinirliğini artırmada oldukça etkili promosyon ürünleridir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların günlük hayatında sürekli görünür olur.
+
+UB-190 modeli anahtarlık tasarımı sayesinde pratik kullanım sunar. Anahtarlara kolayca takılabilir ve her an yanınızda taşınabilir. Bu özelliği sayesinde özellikle fuar, etkinlik ve kurumsal dağıtımlar için oldukça avantajlıdır.
+
+Dayanıklı gövde yapısı ve kompakt tasarımı ile uzun ömürlü kullanım sağlar. Farklı kapasite seçenekleri ile ihtiyaca uygun çözümler sunar.
+
+Ürün üzerine lazer baskı ve UV baskı uygulanabilmektedir. Logo baskı ile firmanıza özel promosyon USB bellek üretimi yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Tasarım: Anahtarlık Tip  
+
+Bağlantı: USB 2.0  
+
+Kapasite Seçenekleri:
+
+8 GB  
+16 GB  
+32 GB  
+64 GB  
+128 GB  
+
+Baskı Türleri:
+
+Lazer Baskı  
+UV Baskı  
+
+RENK SEÇENEKLERİ
+
+Kırmızı  
+Siyah  
+Beyaz  
+Lacivert  
+Gümüş  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün stok durumu, kapasite seçimi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel bilgi almak ve hızlı teklif oluşturmak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Müşteri ve bayi hediyeleri  
+Dijital veri dağıtımı ve sunumlar
+`
+},
+{
+  id: "p253",
+  slug: "promosyon-usb-bellek-ub-200",
+  title: "Promosyon USB Bellek UB-200 | Logo Baskılı USB Bellek",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-200.jpg",
+
+  shortDesc:
+    "Promosyon USB bellek UB-200, sade ve şık tasarımı, taşınabilir yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon USB bellek ihtiyaçları için ideal bir modeldir.",
+
+  longDesc: `
+Promosyon USB bellek UB-200 modeli, firmaların tanıtım ve reklam çalışmalarında sıklıkla tercih ettiği promosyon USB bellek ürünleri arasında yer almaktadır.
+
+USB bellekler, uzun süre kullanılan ve kullanıcıların günlük hayatında sürekli yanında taşıdığı ürünler olduğu için marka bilinirliğini artırmada oldukça etkili promosyon ürünleridir. Üzerine yapılan logo baskı sayesinde firmanız uzun süre görünür olur.
+
+UB-200 modeli sade ve kompakt tasarımı sayesinde kolay taşınabilir yapıdadır. Ofis kullanımı, fuar dağıtımları ve kurumsal etkinlikler için ideal bir promosyon ürünüdür.
+
+Dayanıklı gövde yapısı sayesinde uzun ömürlü kullanım sunar. Farklı kapasite seçenekleri ile ihtiyaca uygun çözümler sunmaktadır.
+
+Ürün üzerine lazer baskı ve UV baskı uygulanabilmektedir. Logo baskı ile firmanıza özel promosyon USB bellek üretimi yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Bağlantı: USB 2.0  
+
+Kapasite Seçenekleri:
+
+32 GB  
+64 GB  
+
+Baskı Türleri:
+
+Lazer Baskı  
+UV Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün kapasite seçimi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel bilgi almak ve hızlı teklif oluşturmak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Müşteri ve bayi hediyeleri  
+Dijital veri aktarımı ve sunumlar
+`
+},
+{
+  id: "p254",
+  slug: "promosyon-usb-bellek-ub-210",
+  title: "Promosyon USB Bellek UB-210 | Logo Baskılı USB Bellek",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-210.jpg",
+
+  shortDesc:
+    "Promosyon USB bellek UB-210, kompakt tasarımı, pratik kullanımı ve logo baskıya uygun yüzeyi ile kurumsal promosyon USB bellek ihtiyaçları için ekonomik ve etkili bir çözümdür.",
+
+  longDesc: `
+Promosyon USB bellek UB-210 modeli, firmaların reklam ve tanıtım çalışmalarında tercih ettiği pratik ve ekonomik promosyon ürünlerinden biridir.
+
+USB bellekler, günlük hayatta sık kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkili bir rol oynar. Üzerine yapılan logo baskı sayesinde firmanız sürekli görünür olur.
+
+UB-210 modeli sade ve kullanışlı yapısı ile hem bireysel hem de kurumsal dağıtımlar için uygundur. Fuar, seminer, lansman ve promosyon etkinliklerinde rahatlıkla tercih edilebilir.
+
+Dayanıklı gövde yapısı sayesinde uzun ömürlü kullanım sunar. Hafif ve taşınabilir olması sayesinde kullanıcılar tarafından kolaylıkla tercih edilir.
+
+Ürün üzerine lazer baskı ve UV baskı uygulanabilmektedir. Logo baskı ile firmanıza özel promosyon USB bellek üretimi yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Bağlantı: USB 2.0  
+
+Kapasite Seçenekleri:
+
+32 GB  
+
+Baskı Türleri:
+
+Lazer Baskı  
+UV Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün kapasitesi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel bilgi almak ve hızlı teklif oluşturmak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Müşteri ve bayi hediyeleri  
+Dijital veri aktarımı ve sunumlar
+`
+},
+{
+  id: "p255",
+  slug: "promosyon-usb-bellek-ub-220",
+  title: "Promosyon USB Bellek UB-220 | USB 3.0 Logo Baskılı USB Bellek",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-220.jpg",
+
+  shortDesc:
+    "Promosyon USB bellek UB-220, metal tasarımı, yüksek veri aktarım hızı sunan USB 3.0 seçeneği ve logo baskıya uygun yüzeyi ile kurumsal promosyon ürünlerinde premium bir tercihtir.",
+
+  longDesc: `
+Promosyon USB bellek UB-220 modeli, şık metal tasarımı ve yüksek performans sunan yapısı ile kurumsal promosyon ürünleri arasında öne çıkan modellerden biridir.
+
+USB bellekler, uzun süre kullanılan ve kullanıcıların sürekli yanında taşıdığı ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Özellikle metal tasarıma sahip USB bellekler, daha prestijli bir görünüm sunarak firmanızın kurumsal imajını güçlendirir.
+
+UB-220 modeli USB 2.0 ve USB 3.0 bağlantı seçenekleri ile sunulmaktadır. USB 3.0 teknolojisi sayesinde daha hızlı veri aktarımı sağlanarak kullanıcı deneyimi üst seviyeye çıkarılır.
+
+Kompakt ve dayanıklı metal gövdesi sayesinde uzun ömürlü kullanım sunar. Hem günlük kullanım hem de kurumsal dağıtımlar için ideal bir promosyon ürünüdür.
+
+Ürün üzerine lazer baskı uygulanarak kalıcı ve şık bir logo görünümü elde edilir. Bu sayede firmanız uzun süre görünürlük kazanır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Bağlantı:
+
+USB 2.0  
+USB 3.0  
+
+Kapasite Seçenekleri:
+
+8 GB  
+16 GB  
+32 GB  
+64 GB  
+128 GB  
+
+Malzeme: Metal Gövde  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+RENK SEÇENEKLERİ
+
+Füme  
+Mat Gümüş  
+Parlak Gümüş  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün kapasitesi, bağlantı türü (USB 2.0 / 3.0), logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Müşteri ve bayi hediyeleri  
+Dijital veri aktarımı ve sunumlar
+`
+},
+{
+  id: "p256",
+  slug: "promosyon-usb-bellek-ub-230",
+  title: "Promosyon USB Bellek UB-230 | Logo Baskılı USB Bellek",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-230.jpg",
+
+  shortDesc:
+    "Promosyon USB bellek UB-230, şık ve taşınabilir tasarımı, farklı kapasite seçenekleri ve logo baskıya uygun yüzeyi ile kurumsal promosyon USB bellek ihtiyaçları için ideal bir modeldir.",
+
+  longDesc: `
+Promosyon USB bellek UB-230 modeli, firmaların reklam ve tanıtım çalışmalarında tercih ettiği kullanışlı ve etkili promosyon ürünleri arasında yer almaktadır.
+
+USB bellekler, günlük hayatta sık kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça önemli bir rol oynar. Üzerine yapılan logo baskı sayesinde firmanız sürekli görünür olur.
+
+UB-230 modeli kompakt ve modern tasarımı sayesinde hem bireysel hem de kurumsal kullanım için uygundur. Fuar, etkinlik, seminer ve promosyon dağıtımları için ideal bir üründür.
+
+Dayanıklı gövde yapısı ile uzun ömürlü kullanım sunar. Farklı kapasite seçenekleri sayesinde ihtiyaca uygun çözümler sunmaktadır.
+
+Ürün üzerine lazer baskı ve UV baskı uygulanabilmektedir. Logo baskı ile firmanıza özel promosyon USB bellek üretimi yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Bağlantı: USB 2.0  
+
+Kapasite Seçenekleri:
+
+16 GB  
+32 GB  
+64 GB  
+128 GB  
+
+Baskı Türleri:
+
+Lazer Baskı  
+UV Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün kapasitesi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel bilgi almak ve hızlı teklif oluşturmak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Müşteri ve bayi hediyeleri  
+Dijital veri aktarımı ve sunumlar
+`
+},
+{
+  id: "p257",
+  slug: "promosyon-ahsap-usb-bellek-ub-240",
+  title: "Promosyon Ahşap USB Bellek UB-240 | Logo Baskılı Ahşap USB",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-ahsap-usb-bellek-ub-240.jpg",
+
+  shortDesc:
+    "Promosyon ahşap USB bellek UB-240, doğal ahşap tasarımı, şık görünümü ve logo baskıya uygun yüzeyi ile kurumsal promosyon ürünlerinde prestijli bir seçenektir.",
+
+  longDesc: `
+Promosyon ahşap USB bellek UB-240 modeli, doğal ve şık tasarımı ile firmaların kurumsal tanıtım çalışmalarında tercih ettiği premium promosyon ürünleri arasında yer almaktadır.
+
+Ahşap USB bellekler, klasik plastik modellere göre daha prestijli ve dikkat çekici bir görünüm sunar. Doğal malzeme kullanımı sayesinde çevre dostu bir imaj oluşturur ve firmanızın marka değerini artırır.
+
+UB-240 modeli meşe ahşap gövdeye sahiptir. Doğal dokusu sayesinde her ürün kendine özgü bir görünüme sahiptir. Bu da ürünü daha özel ve dikkat çekici hale getirir.
+
+USB 2.0 ve USB 3.0 bağlantı seçenekleri ile sunulabilen bu model, hem standart hem de yüksek hızlı veri aktarımı ihtiyaçlarını karşılar.
+
+Ürün üzerine lazer baskı uygulanarak kalıcı ve estetik bir logo görünümü elde edilir. Ahşap yüzey üzerine yapılan baskı, firmanıza premium bir imaj kazandırır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Malzeme: Doğal Ahşap (Meşe)  
+
+Bağlantı:
+
+USB 2.0  
+USB 3.0  
+
+Kapasite Seçenekleri:
+
+8 GB  
+16 GB  
+32 GB  
+64 GB  
+128 GB  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+RENK SEÇENEKLERİ
+
+Meşe  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ahşap USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün kapasitesi, bağlantı seçeneği (USB 2.0 / 3.0), logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok ve üretim bilgisi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Müşteri ve bayi hediyeleri  
+Özel ve prestijli kurumsal hediyeler
+`
+},
+{
+  id: "p258",
+  slug: "promosyon-kart-usb-bellek-ub-250",
+  title: "Promosyon Kart USB Bellek UB-250 | Logo Baskılı Kart USB",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-kart-usb-bellek-ub-250.jpg",
+
+  shortDesc:
+    "Promosyon kart USB bellek UB-250, kredi kartı boyutundaki ince tasarımı ve geniş baskı alanı ile kurumsal tanıtım için ideal promosyon USB bellek modelidir.",
+
+  longDesc: `
+Promosyon kart USB bellek UB-250 modeli, kredi kartı ebatındaki ince ve şık tasarımı ile firmaların reklam ve tanıtım çalışmalarında öne çıkan promosyon ürünlerinden biridir.
+
+Kart USB bellekler, geniş baskı yüzeyi sayesinde firmanızın logo, iletişim bilgileri ve reklam tasarımlarını etkili bir şekilde yansıtmanıza olanak sağlar. Bu sayede klasik USB belleklere göre çok daha dikkat çekici bir tanıtım ürünü sunar.
+
+UB-250 modeli cüzdanda kolayca taşınabilecek incelikte tasarlanmıştır. Kredi kartı boyutunda olması sayesinde kullanıcılar tarafından pratik bir şekilde kullanılabilir.
+
+Özellikle fuar, lansman, seminer ve kurumsal etkinliklerde dağıtılabilecek en etkili promosyon ürünlerinden biridir.
+
+Ürün üzerine UV baskı ve dijital baskı uygulanabilmektedir. Geniş yüzey alanı sayesinde tam renkli baskılar yapılabilir ve firmanıza özel tasarımlar uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Tasarım: Kart Tipi (Kredi Kartı Ebatı)  
+
+Bağlantı: USB 2.0  
+
+Kapasite Seçenekleri:
+
+8 GB  
+32 GB  
+
+Baskı Türleri:
+
+UV Baskı  
+Dijital Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kart USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün kapasitesi, baskı tasarımı, logo detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel bilgi almak ve hızlı teklif oluşturmak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Müşteri ve bayi hediyeleri  
+Sunum ve katalog dağıtımları
+`
+},
+{
+  id: "p259",
+  slug: "promosyon-deri-usb-bellek-ub-260",
+  title: "Promosyon Deri USB Bellek UB-260 | Logo Baskılı Deri USB",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-deri-usb-bellek-ub-260.jpg",
+
+  shortDesc:
+    "Promosyon deri USB bellek UB-260, şık deri kaplama tasarımı ve logo baskıya uygun yüzeyi ile kurumsal promosyon ürünlerinde prestijli bir tercihtir.",
+
+  longDesc: `
+Promosyon deri USB bellek UB-260 modeli, zarif ve şık tasarımı ile firmaların kurumsal tanıtım ve hediye çalışmalarında tercih ettiği premium promosyon ürünleri arasında yer almaktadır.
+
+Deri kaplama USB bellekler, klasik modellere göre daha prestijli bir görünüm sunar ve firmanızın marka değerini artırır. Özellikle VIP müşteriler ve özel kurumsal hediyeler için ideal bir promosyon ürünüdür.
+
+UB-260 modeli kaliteli deri kaplama gövdesi ile hem estetik hem de dayanıklı bir kullanım sunar. Taşınabilir yapısı sayesinde günlük kullanımda rahatlıkla tercih edilir.
+
+Ürün üzerine lazer baskı ve UV baskı uygulanabilmektedir. Deri yüzey üzerine yapılan logo baskı, şık ve kalıcı bir görünüm sağlar.
+
+Farklı kapasite seçenekleri ile ihtiyaca uygun çözümler sunar ve kurumsal dağıtımlarda yüksek etki sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Malzeme: Deri Kaplama  
+
+Bağlantı: USB 2.0  
+
+Kapasite Seçenekleri:
+
+16 GB  
+32 GB  
+
+Baskı Türleri:
+
+Lazer Baskı  
+UV Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon deri USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün kapasitesi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel bilgi almak ve hızlı teklif oluşturmak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Özel kurumsal hediye çözümleri
+`
+},
+{
+  id: "p260",
+  slug: "promosyon-usb-bellek-ub-270",
+  title: "Promosyon USB Bellek UB-270 | Logo Baskılı USB Bellek",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-270.jpg",
+
+  shortDesc:
+    "Promosyon USB bellek UB-270, kompakt tasarımı, kolay taşınabilir yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon USB bellek ihtiyaçları için ideal bir modeldir.",
+
+  longDesc: `
+Promosyon USB bellek UB-270 modeli, firmaların reklam ve tanıtım çalışmalarında tercih ettiği pratik ve kullanışlı promosyon ürünlerinden biridir.
+
+USB bellekler, uzun süre kullanılan ve günlük hayatta sıkça tercih edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkili bir rol oynar. Üzerine yapılan logo baskı sayesinde firmanız uzun süre görünür olur.
+
+UB-270 modeli kompakt ve ergonomik tasarımı sayesinde kolay taşınabilir yapıdadır. Hem bireysel kullanım hem de kurumsal dağıtımlar için uygundur.
+
+Fuar, seminer, lansman ve promosyon etkinliklerinde rahatlıkla dağıtılabilecek etkili bir tanıtım ürünüdür.
+
+Dayanıklı gövde yapısı sayesinde uzun ömürlü kullanım sunar. Logo baskıya uygun yüzeyi ile firmanıza özel üretim yapılabilir.
+
+Ürün üzerine lazer baskı ve UV baskı uygulanabilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Bağlantı: USB 2.0  
+
+Baskı Türleri:
+
+Lazer Baskı  
+UV Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün kapasitesi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel bilgi almak ve hızlı teklif oluşturmak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Müşteri ve bayi hediyeleri  
+Dijital veri aktarımı ve sunumlar
+`
+},
+{
+  id: "p261",
+  slug: "promosyon-usb-bellek-ub-280",
+  title: "Promosyon USB Bellek UB-280 | Logo Baskılı USB Bellek",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-280.jpg",
+
+  shortDesc:
+    "Promosyon USB bellek UB-280, kompakt ölçüleri, lazer baskıya uygun yüzeyi ve dayanıklı yapısı ile kurumsal promosyon USB bellek ihtiyaçları için ideal bir modeldir.",
+
+  longDesc: `
+Promosyon USB bellek UB-280 modeli, sade ve kullanışlı tasarımı ile firmaların tanıtım ve reklam çalışmalarında tercih ettiği promosyon ürünleri arasında yer almaktadır.
+
+USB bellekler, günlük kullanımda sık tercih edilen ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkili bir rol oynar. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların hayatında sürekli görünür olur.
+
+UB-280 modeli kompakt ölçüleri sayesinde kolay taşınabilir yapıdadır. Hem bireysel hem de kurumsal kullanım için uygun olan bu model, fuar, seminer ve promosyon etkinliklerinde rahatlıkla dağıtılabilir.
+
+Dayanıklı gövde yapısı sayesinde uzun ömürlü kullanım sunar. Minimal tasarımı ile hem ekonomik hem de şık bir promosyon çözümüdür.
+
+Ürün üzerine lazer baskı uygulanabilmektedir. Belirlenen baskı alanı sayesinde logo ve marka bilgileri net bir şekilde işlenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Bağlantı: USB 2.0  
+
+Ürün Ölçüsü:
+
+40 x 14 mm  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Baskı Alanı:
+
+28 x 9 mm  
+
+Koli İçi Adet:
+
+100  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün kapasitesi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Müşteri ve bayi hediyeleri  
+Dijital veri aktarımı ve sunumlar
+`
+},
+{
+  id: "p262",
+  slug: "promosyon-kalem-usb-bellek-ub-290",
+  title: "Promosyon Kalem USB Bellek UB-290 | Logo Baskılı USB Kalem",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-kalem-usb-bellek-ub-290.jpg",
+
+  shortDesc:
+    "Promosyon kalem USB bellek UB-290, kalem ve USB bellek fonksiyonunu bir arada sunan tasarımı ile kurumsal promosyon ürünlerinde dikkat çeken çok amaçlı bir modeldir.",
+
+  longDesc: `
+Promosyon kalem USB bellek UB-290 modeli, hem yazım aracı hem de veri depolama çözümü sunan çok fonksiyonlu yapısı ile firmaların tanıtım çalışmalarında öne çıkan promosyon ürünlerinden biridir.
+
+Kalem USB bellekler, klasik promosyon ürünlerine göre daha dikkat çekici ve kullanışlıdır. Kullanıcılar hem kalem olarak kullanabilir hem de USB bellek özelliği sayesinde veri taşıyabilir. Bu sayede ürün daha uzun süre kullanılır ve marka görünürlüğü artar.
+
+UB-290 modeli şık ve ergonomik kalem tasarımı ile günlük kullanım için uygundur. Ofislerde, toplantılarda, fuarlarda ve kurumsal etkinliklerde rahatlıkla tercih edilebilir.
+
+Dayanıklı gövde yapısı sayesinde uzun ömürlü kullanım sunar. Farklı kapasite seçenekleri ile ihtiyaca uygun çözümler sunmaktadır.
+
+Ürün üzerine lazer baskı ve UV baskı uygulanabilmektedir. Logo baskı ile firmanıza özel promosyon üretimi yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Tasarım: Kalem Tipi (2’si 1 Arada)  
+
+Bağlantı: USB 2.0  
+
+Kapasite Seçenekleri:
+
+8 GB  
+16 GB  
+32 GB  
+64 GB  
+128 GB  
+
+Baskı Türleri:
+
+Lazer Baskı  
+UV Baskı  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Beyaz  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün kapasitesi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Ofis kullanımı  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Müşteri ve bayi hediyeleri
+`
+},
+{
+  id: "p263",
+  slug: "promosyon-powerbank-10000mah-pb-160",
+  title: "Promosyon Powerbank 10.000 mAh PB-160 | Logo Baskılı Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-10000mah-pb-160.jpg",
+
+  shortDesc:
+    "Promosyon powerbank 10.000 mAh PB-160, yüksek kapasitesi, hızlı şarj desteği ve logo baskıya uygun yüzeyi ile kurumsal promosyon ürünlerinde en çok tercih edilen modellerden biridir.",
+
+  longDesc: `
+Promosyon powerbank 10.000 mAh PB-160 modeli, yüksek kapasitesi ve modern tasarımı ile firmaların kurumsal tanıtım çalışmalarında en çok tercih ettiği promosyon ürünlerinden biridir.
+
+Powerbank ürünleri, günlük hayatta sık kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+PB-160 modeli 10.000 mAh kapasitesi ile akıllı telefon, tablet ve diğer mobil cihazları birden fazla kez şarj edebilir. Bu sayede kullanıcılar için oldukça işlevsel bir promosyon ürünüdür.
+
+3. nesil LCD ekran sayesinde şarj durumu kolaylıkla takip edilebilir. USB-C ve Micro USB girişleri ile geniş uyumluluk sunar.
+
+22W PD hızlı şarj desteği sayesinde cihazlarınızı hızlı ve güvenli şekilde şarj edebilirsiniz. Aynı anda birden fazla cihazı şarj edebilme özelliği ile öne çıkar.
+
+Dayanıklı ABS gövde yapısı ile uzun ömürlü kullanım sunar. Şık tasarımı ve hediye kutusu ile kurumsal dağıtımlar için ideal bir çözümdür.
+
+Ürün üzerine lazer baskı ve UV baskı uygulanabilmektedir. Logo baskı ile firmanıza özel promosyon üretimi yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite:
+
+10.000 mAh  
+
+Gösterge:
+
+3. Nesil LCD Ekran  
+
+Giriş:
+
+USB-C  
+Micro USB  
+
+Çıkışlar:
+
+3A USB-A (2 Adet)  
+22W PD USB-C  
+
+Malzeme:
+
+ABS  
+
+Baskı Türleri:
+
+Lazer Baskı  
+UV Baskı  
+
+Kutu:
+
+Siyah Hediye Kutusu  
+
+Ekstra:
+
+Micro USB şarj kablosu dahildir  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Beyaz  
+Kırmızı  
+Lacivert  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Teknolojik promosyon ürünleri  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+VIP müşteri hediyeleri
+`
+},
+{
+  id: "p264",
+  slug: "promosyon-powerbank-10000mah-pb-170",
+  title: "Promosyon Powerbank 10.000 mAh PB-170 | Logo Baskılı Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-10000mah-pb-170.jpg",
+
+  shortDesc:
+    "Promosyon powerbank 10.000 mAh PB-170, yüksek kapasitesi, hızlı şarj desteği ve dahili el feneri özelliği ile kurumsal promosyon ürünlerinde öne çıkan modellerden biridir.",
+
+  longDesc: `
+Promosyon powerbank 10.000 mAh PB-170 modeli, yüksek kapasitesi ve çok fonksiyonlu yapısı ile firmaların kurumsal tanıtım çalışmalarında tercih ettiği teknolojik promosyon ürünleri arasında yer almaktadır.
+
+Powerbank ürünleri, günlük hayatta sık kullanılan ve sürekli ihtiyaç duyulan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+PB-170 modeli 10.000 mAh kapasitesi ile akıllı telefon ve diğer mobil cihazları birden fazla kez şarj edebilir. 22W PD hızlı şarj desteği sayesinde cihazlarınızı hızlı ve güvenli şekilde şarj etme imkanı sunar.
+
+3. nesil LCD ekran ile şarj durumu kolaylıkla takip edilebilir. USB-C ve Micro USB girişleri sayesinde geniş uyumluluk sağlar.
+
+Bu modelin öne çıkan özelliklerinden biri dahili el feneridir. Bu sayede powerbank sadece bir şarj cihazı değil, aynı zamanda acil durumlarda kullanılabilecek pratik bir yardımcı üründür.
+
+Aynı anda birden fazla cihazı şarj edebilme özelliği ile kullanım kolaylığı sağlar. Dayanıklı ABS gövde yapısı ile uzun ömürlü kullanım sunar.
+
+Ürün üzerine lazer baskı ve UV baskı uygulanabilmektedir. Logo baskı ile firmanıza özel promosyon üretimi yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite:
+
+10.000 mAh  
+
+Gösterge:
+
+3. Nesil LCD Ekran  
+
+Ekstra Özellik:
+
+Dahili El Feneri  
+
+Giriş:
+
+USB-C  
+Micro USB  
+
+Çıkışlar:
+
+3A USB-A (2 Adet)  
+22W PD USB-C  
+
+Malzeme:
+
+ABS  
+
+Baskı Türleri:
+
+Lazer Baskı  
+UV Baskı  
+
+Kutu:
+
+Siyah Hediye Kutusu  
+
+Ekstra:
+
+Micro USB şarj kablosu dahildir  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Beyaz  
+Kırmızı  
+Lacivert  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Teknolojik promosyon ürünleri  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+VIP müşteri hediyeleri  
+Acil durum ve günlük kullanım
+`
+},
+{
+  id: "p265",
+  slug: "promosyon-powerbank-10000mah-pb-180",
+  title: "Promosyon Powerbank 10.000 mAh PB-180 | Logo Baskılı Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-10000mah-pb-180.jpg",
+
+  shortDesc:
+    "Promosyon powerbank 10.000 mAh PB-180, çift taraflı el feneri özelliği, LED gösterge sistemi ve logo baskıya uygun yüzeyi ile kurumsal promosyon ürünlerinde öne çıkan modellerden biridir.",
+
+  longDesc: `
+Promosyon powerbank 10.000 mAh PB-180 modeli, güçlü kapasitesi ve çok fonksiyonlu yapısı ile firmaların tanıtım ve reklam çalışmalarında tercih ettiği teknolojik promosyon ürünleri arasında yer almaktadır.
+
+Powerbank ürünleri, günlük hayatta sürekli ihtiyaç duyulan ve uzun süre kullanılan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+PB-180 modeli 10.000 mAh kapasitesi ile mobil cihazları birden fazla kez şarj edebilir. Kompakt ve dayanıklı yapısı sayesinde hem günlük kullanım hem de kurumsal dağıtımlar için uygundur.
+
+Bu modelin öne çıkan özelliklerinden biri çift taraflı dahili el feneridir. Bu özellik sayesinde ürün sadece bir powerbank değil, aynı zamanda acil durumlar için pratik bir yardımcı ekipman olarak da kullanılabilir.
+
+4 kademeli LED gösterge sistemi ile şarj durumu kolayca takip edilebilir. USB-C ve Micro USB girişleri sayesinde geniş uyumluluk sunar.
+
+Aynı anda iki cihazı şarj edebilme özelliği ile kullanım kolaylığı sağlar. Dayanıklı ABS gövde yapısı ile uzun ömürlü kullanım sunar.
+
+Ürün üzerine UV renkli baskı uygulanabilmektedir. Bu sayede firmanıza ait logo ve tasarımlar dikkat çekici şekilde yansıtılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite:
+
+10.000 mAh  
+
+Gösterge:
+
+4 Kademeli LED Gösterge  
+
+Ekstra Özellik:
+
+Çift Taraflı Dahili El Feneri  
+
+Giriş:
+
+USB-C  
+Micro USB  
+
+Çıkışlar:
+
+2A USB-A (2 Adet)  
+
+Malzeme:
+
+ABS  
+
+Baskı Türü:
+
+UV Renkli Baskı  
+
+Kutu:
+
+Siyah Hediye Kutusu  
+
+Ekstra:
+
+Micro USB şarj kablosu dahildir  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Beyaz  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Teknolojik promosyon ürünleri  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+VIP müşteri hediyeleri  
+Acil durum kullanımları
+`
+},
+{
+  id: "p266",
+  slug: "promosyon-powerbank-5000mah-pb-190",
+  title: "Promosyon Powerbank 5.000 mAh PB-190 | Magsafe Logo Baskılı Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-5000mah-pb-190.jpg",
+
+  shortDesc:
+    "Promosyon powerbank 5.000 mAh PB-190, Magsafe hızlı şarj özelliği, kompakt tasarımı ve logo baskıya uygun yüzeyi ile teknolojik promosyon ürünlerinde öne çıkan modellerden biridir.",
+
+  longDesc: `
+Promosyon powerbank 5.000 mAh PB-190 modeli, Magsafe hızlı şarj özelliği ile modern teknolojiyi kurumsal promosyon ürünleri ile buluşturan yenilikçi bir modeldir.
+
+Powerbank ürünleri, günlük hayatta sık kullanılan ve sürekli ihtiyaç duyulan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+PB-190 modeli özellikle Magsafe destekli cihazlar için tasarlanmıştır. Manyetik yapısı sayesinde cihazınıza kolayca sabitlenir ve kablosuz kullanım imkanı sunar.
+
+5.000 mAh kapasitesi ile kompakt ve taşınabilir bir kullanım sağlar. Günlük kullanımda hızlı şarj ihtiyacını karşılamak için ideal bir çözümdür.
+
+4 kademeli LED gösterge sayesinde şarj durumu kolaylıkla takip edilebilir. Type-C giriş ve USB çıkış ile geniş uyumluluk sunar.
+
+Dayanıklı ABS gövde yapısı ile uzun ömürlü kullanım sunar. Şık ve modern tasarımı sayesinde kurumsal promosyonlarda dikkat çeker.
+
+Ürün üzerine UV renkli baskı uygulanabilmektedir. Logo ve tasarımlar net ve dikkat çekici şekilde uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite:
+
+5.000 mAh  
+
+Özellik:
+
+Magsafe Hızlı Şarj  
+
+Gösterge:
+
+4 Kademeli LED  
+
+Giriş:
+
+Type-C 5V / 2A  
+
+Çıkış:
+
+USB 5V / 2A  
+
+Malzeme:
+
+ABS  
+
+Baskı Türü:
+
+UV Renkli Baskı  
+
+Ekstra:
+
+Şarj kablosu dahildir  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Beyaz  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknolojik promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+VIP müşteri hediyeleri  
+Günlük mobil kullanım
+`
+},
+{
+  id: "p267",
+  slug: "promosyon-powerbank-5000mah-pb-200",
+  title: "Promosyon Powerbank 5.000 mAh PB-200 | Magsafe Kablosuz Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-5000mah-pb-200.jpg",
+
+  shortDesc:
+    "Promosyon powerbank 5.000 mAh PB-200, Magsafe kablosuz şarj özelliği, kompakt tasarımı ve logo baskıya uygun yüzeyi ile teknolojik promosyon ürünlerinde öne çıkan modellerden biridir.",
+
+  longDesc: `
+Promosyon powerbank 5.000 mAh PB-200 modeli, Magsafe ve kablosuz şarj teknolojisini bir arada sunan modern bir promosyon ürünüdür.
+
+Powerbank ürünleri, günlük hayatta sürekli kullanılan ve ihtiyaç duyulan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+PB-200 modeli özellikle Magsafe destekli cihazlar için geliştirilmiştir. Manyetik yapısı sayesinde cihazınıza kolayca sabitlenir ve kablosuz kullanım imkanı sunar.
+
+Kablosuz 5W şarj özelliği ile cihazlarınızı pratik şekilde şarj edebilirsiniz. Kompakt yapısı sayesinde taşıması kolaydır ve günlük kullanım için idealdir.
+
+4 kademeli LED gösterge ile şarj durumu kolayca takip edilebilir. Type-C giriş ile hızlı ve pratik şarj imkanı sunar.
+
+Dayanıklı ABS gövde yapısı ile uzun ömürlü kullanım sağlar. Modern tasarımı sayesinde kurumsal promosyonlarda dikkat çeker.
+
+Ürün üzerine UV renkli baskı uygulanabilmektedir. Logo ve tasarımlar net ve estetik şekilde uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite:
+
+5.000 mAh  
+
+Özellik:
+
+Magsafe  
+Kablosuz Şarj (Wireless 5W)  
+
+Gösterge:
+
+4 Kademeli LED  
+
+Giriş:
+
+Type-C 5V / 2A  
+
+Çıkış:
+
+Wireless 5W  
+
+Malzeme:
+
+ABS  
+
+Baskı Türü:
+
+UV Renkli Baskı  
+
+Ekstra:
+
+Şarj kablosu dahildir  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+Beyaz  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknolojik promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+VIP müşteri hediyeleri  
+Günlük mobil kullanım
+`
+},
+{
+  id: "p268",
+  slug: "promosyon-powerbank-10000mah-pb-210",
+  title: "Promosyon Powerbank 10.000 mAh PB-210 | Magsafe & Kablolu Hızlı Şarj",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-10000mah-pb-210.jpg",
+
+  shortDesc:
+    "Promosyon powerbank 10.000 mAh PB-210, Magsafe kablosuz şarj, dahili kablolar ve hızlı şarj desteği ile kurumsal promosyon ürünlerinde en gelişmiş modellerden biridir.",
+
+  longDesc: `
+Promosyon powerbank 10.000 mAh PB-210 modeli, çok fonksiyonlu yapısı ve gelişmiş teknolojik özellikleri ile firmaların kurumsal tanıtım çalışmalarında öne çıkan premium promosyon ürünlerinden biridir.
+
+Powerbank ürünleri, günlük hayatta sürekli ihtiyaç duyulan ve uzun süre kullanılan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+PB-210 modeli 10.000 mAh kapasitesi ile mobil cihazları birden fazla kez şarj edebilir. Magsafe kablosuz şarj desteği sayesinde uyumlu cihazlarda kablosuz kullanım imkanı sunar.
+
+Dahili iOS ve USB-C kabloları sayesinde ekstra kablo taşıma ihtiyacını ortadan kaldırır. Aynı zamanda USB-A çıkışları ile birden fazla cihazı aynı anda şarj edebilme özelliğine sahiptir.
+
+22.5W PD hızlı şarj ve 15W Magsafe wireless desteği ile hızlı ve güvenli şarj deneyimi sunar.
+
+4 kademeli LED gösterge ile şarj durumu kolaylıkla takip edilebilir. Dayanıklı ABS gövde yapısı ile uzun ömürlü kullanım sağlar.
+
+Şık tasarımı ve hediye kutusu ile özellikle kurumsal ve VIP müşteri hediyeleri için ideal bir promosyon ürünüdür.
+
+Ürün üzerine UV renkli baskı uygulanabilmektedir. Logo ve tasarımlar dikkat çekici şekilde uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite:
+
+10.000 mAh  
+
+Gösterge:
+
+4 Kademeli LED Gösterge  
+
+Özellikler:
+
+Magsafe Wireless Şarj (15W)  
+22.5W PD Hızlı Şarj  
+Dahili iOS Kablo  
+Dahili USB-C Kablo  
+
+Giriş:
+
+USB-C  
+Dahili USB-A  
+
+Çıkışlar:
+
+3A USB-A  
+Dahili iOS Kablo  
+Dahili USB-C Kablo  
+USB-C PD (22.5W)  
+Magsafe Wireless (15W)  
+
+Malzeme:
+
+ABS  
+
+Baskı Türü:
+
+UV Renkli Baskı  
+
+Kutu:
+
+Siyah Hediye Kutusu  
+
+Ekstra:
+
+Micro USB şarj kablosu dahildir  
+
+RENK SEÇENEKLERİ
+
+Siyah  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün özellikleri, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknolojik promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+VIP müşteri hediyeleri  
+Günlük ve profesyonel kullanım
+`
+},
+{
+  id: "p269",
+  slug: "promosyon-powerbank-20000mah-pb-220",
+  title: "Promosyon Powerbank 20.000 mAh PB-220 | Logo Baskılı Yüksek Kapasiteli Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-20000mah-pb-220.jpg",
+
+  shortDesc:
+    "Promosyon powerbank 20.000 mAh PB-220, yüksek kapasitesi, LCD ekranı ve uzun kullanım süresi ile kurumsal promosyon ürünlerinde en güçlü modellerden biridir.",
+
+  longDesc: `
+Promosyon powerbank 20.000 mAh PB-220 modeli, yüksek kapasitesi ve dayanıklı yapısı ile firmaların kurumsal tanıtım çalışmalarında tercih ettiği güçlü promosyon ürünleri arasında yer almaktadır.
+
+Powerbank ürünleri, günlük hayatta sürekli kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+PB-220 modeli 20.000 mAh kapasitesi ile mobil cihazları birden fazla kez şarj edebilir. Özellikle uzun süreli kullanım ihtiyacı olan kullanıcılar için ideal bir çözümdür.
+
+LCD ekran sayesinde şarj durumu net bir şekilde takip edilebilir. Micro USB ve Type-C girişleri ile geniş uyumluluk sunar.
+
+A+ kalite lithium batarya kullanımı sayesinde güvenli ve uzun ömürlü performans sağlar. Aynı anda iki cihazı şarj edebilme özelliği ile kullanım kolaylığı sunar.
+
+Dayanıklı gövde yapısı ve kompakt tasarımı ile taşınabilirliği yüksektir. 2 yıl garanti desteği ile güvenli kullanım sunar.
+
+Ürün üzerine UV renkli baskı uygulanabilmektedir. Logo ve tasarımlar net ve dikkat çekici şekilde uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite:
+
+20.000 mAh  
+
+Batarya:
+
+A+ Lithium  
+
+Gösterge:
+
+LCD Ekran  
+
+Giriş:
+
+Micro USB  
+Type-C  
+
+Çıkışlar:
+
+USB (2 Adet)  
+
+Ağırlık:
+
+350 Gram  
+
+Ürün Ölçüsü:
+
+136 x 66 x 24 mm  
+
+Baskı Türü:
+
+UV Renkli Baskı  
+
+Garanti:
+
+2 Yıl  
+
+Not:
+
+En iyi performans için cihazlarınızı orijinal kablosu ile kullanmanız önerilir.  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün özellikleri, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknolojik promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+VIP müşteri hediyeleri  
+Seyahat ve uzun süreli kullanım
+`
+},
+{
+  id: "p270",
+  slug: "promosyon-powerbank-10000mah-pb-230",
+  title: "Promosyon Powerbank 10.000 mAh PB-230 | 4 in 1 Magsafe Hızlı Şarj",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-10000mah-pb-230.jpg",
+
+  shortDesc:
+    "Promosyon powerbank 10.000 mAh PB-230, 4 in 1 kullanım özelliği, Magsafe hızlı şarj desteği ve çoklu çıkış seçenekleri ile kurumsal promosyon ürünlerinde premium bir modeldir.",
+
+  longDesc: `
+Promosyon powerbank 10.000 mAh PB-230 modeli, çok fonksiyonlu yapısı ve gelişmiş teknolojik özellikleri ile firmaların kurumsal tanıtım çalışmalarında öne çıkan premium promosyon ürünlerinden biridir.
+
+Powerbank ürünleri, günlük hayatta sürekli kullanılan ve ihtiyaç duyulan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+PB-230 modeli 4 in 1 kullanım özelliği ile farklı cihazları aynı anda şarj edebilme imkanı sunar. Magsafe hızlı şarj desteği sayesinde uyumlu cihazlarda kablosuz ve pratik kullanım sağlar.
+
+Gelişmiş giriş ve çıkış değerleri sayesinde hızlı ve güvenli şarj deneyimi sunar. 4 kademeli LED gösterge ile şarj durumu kolaylıkla takip edilebilir.
+
+Dayanıklı ABS gövde yapısı ile uzun ömürlü kullanım sağlar. Kompakt ve modern tasarımı ile hem günlük kullanım hem de kurumsal promosyon dağıtımları için uygundur.
+
+Ürün üzerine UV renkli baskı uygulanabilmektedir. Logo ve tasarımlar dikkat çekici şekilde uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite:
+
+10.000 mAh  
+
+Özellikler:
+
+4 in 1 Kullanım  
+Magsafe Hızlı Şarj  
+
+Gösterge:
+
+4 Kademeli LED Gösterge  
+
+Giriş:
+
+5V / 3A  
+9V / 2,25A  
+12V / 1,5A  
+
+Çıkış:
+
+5V / 3A  
+9V / 2,25A  
+12V / 1,5A  
+
+Malzeme:
+
+ABS  
+
+Baskı Türü:
+
+UV Renkli Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün özellikleri, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknolojik promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+VIP müşteri hediyeleri  
+Günlük ve profesyonel kullanım
+`
+},
+{
+  id: "p271",
+  slug: "promosyon-bambu-termos-500ml-tk-111",
+  title: "Promosyon Bambu Termos 500 ml TK-111 | Logo Baskılı Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-bambu-termos-500ml-tk-111.jpg",
+
+  shortDesc:
+    "Promosyon bambu termos 500 ml TK-111, doğal bambu kaplama tasarımı ve logo baskıya uygun yüzeyi ile kurumsal promosyon ürünlerinde şık ve prestijli bir tercihtir.",
+
+  longDesc: `
+Promosyon bambu termos 500 ml TK-111 modeli, doğal tasarımı ve modern görünümü ile firmaların kurumsal tanıtım çalışmalarında tercih ettiği premium promosyon ürünleri arasında yer almaktadır.
+
+Termos ürünleri, günlük hayatta sık kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+Bambu kaplama tasarımı sayesinde ürün hem çevre dostu bir imaj sunar hem de estetik açıdan dikkat çeker. Doğal dokusu ile klasik termos modellerine göre daha prestijli bir görünüm sağlar.
+
+500 ml kapasitesi ile sıcak ve soğuk içeceklerin taşınması için ideal bir kullanım sunar. Ofis, seyahat ve günlük kullanım için uygundur.
+
+Dayanıklı yapısı sayesinde uzun ömürlü kullanım sağlar. Şık tasarımı ile kurumsal hediyeler için ideal bir promosyon ürünüdür.
+
+Ürün üzerine lazer baskı uygulanabilmektedir. Bambu yüzey üzerine yapılan baskı ile logo ve marka bilgileri kalıcı ve estetik şekilde işlenir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+500 ml  
+
+Malzeme:
+
+Bambu Kaplama  
+
+Ürün Ölçüsü:
+
+24 x Ø 7 cm  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Baskı Alanı:
+
+23 x 80 mm  
+
+Koli İçi Adet:
+
+40  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün özellikleri, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+VIP müşteri hediyeleri  
+Günlük kullanım ve seyahat
+`
+},
+{
+  id: "p272",
+  slug: "promosyon-termos-550ml-tk-160",
+  title: "Promosyon Termos 550 ml TK-160 | Logo Baskılı Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-termos-550ml-tk-160.jpg",
+
+  shortDesc:
+    "Promosyon termos 550 ml TK-160, dayanıklı yapısı, geniş kapasitesi ve logo baskıya uygun yüzeyi ile kurumsal promosyon ürünlerinde en çok tercih edilen modellerden biridir.",
+
+  longDesc: `
+Promosyon termos 550 ml TK-160 modeli, sade ve kullanışlı tasarımı ile firmaların tanıtım ve reklam çalışmalarında tercih ettiği promosyon ürünleri arasında yer almaktadır.
+
+Termos ürünleri, günlük hayatta sık kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+TK-160 modeli 550 ml kapasitesi ile sıcak ve soğuk içeceklerin taşınması için ideal bir kullanım sunar. Günlük kullanım, ofis ortamı ve seyahatler için uygundur.
+
+Dayanıklı gövde yapısı sayesinde uzun ömürlü kullanım sağlar. Kompakt ve ergonomik tasarımı ile kolay taşınabilir yapıdadır.
+
+Ürün üzerine lazer baskı uygulanabilmektedir. Belirlenen baskı alanı sayesinde logo ve marka bilgileri net ve kalıcı şekilde işlenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+550 ml  
+
+Ürün Ölçüsü:
+
+25 x Ø 8 cm  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Baskı Alanı:
+
+23 x 80 mm  
+
+Koli İçi Adet:
+
+30  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün özellikleri, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Müşteri ve bayi hediyeleri  
+Günlük kullanım ve seyahat
+`
+},
+{
+  id: "p273",
+  slug: "promosyon-termos-300ml-tk-170",
+  title: "Promosyon Termos 300 ml TK-170 | Logo Baskılı Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-termos-300ml-tk-170.jpg",
+
+  shortDesc:
+    "Promosyon termos 300 ml TK-170, kompakt tasarımı, hafif yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon ürünlerinde pratik bir çözümdür.",
+
+  longDesc: `
+Promosyon termos 300 ml TK-170 modeli, küçük boyutu ve taşınabilir yapısı ile firmaların tanıtım ve reklam çalışmalarında tercih ettiği promosyon ürünleri arasında yer almaktadır.
+
+Termos ürünleri, günlük hayatta sık kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Üzerine yapılan logo baskı sayesinde firmanız kullanıcıların her an yanında yer alır.
+
+TK-170 modeli 300 ml kapasitesi ile kompakt ve hafif bir kullanım sunar. Özellikle çanta içinde taşımak isteyen kullanıcılar için ideal bir promosyon ürünüdür.
+
+Küçük boyutu sayesinde fuar, etkinlik ve toplu dağıtımlar için oldukça avantajlıdır. Yüksek adetli promosyon kampanyalarında tercih edilmektedir.
+
+Dayanıklı gövde yapısı ile uzun ömürlü kullanım sunar. Ergonomik tasarımı sayesinde kolay taşınabilir yapıdadır.
+
+Ürün üzerine lazer baskı uygulanabilmektedir. Belirlenen baskı alanı sayesinde logo ve marka bilgileri net ve kalıcı şekilde işlenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+300 ml  
+
+Ürün Ölçüsü:
+
+16,5 x Ø 7,5 cm  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Baskı Alanı:
+
+23 x 50 mm  
+
+Koli İçi Adet:
+
+50  
+
+RENK SEÇENEKLERİ
+
+Gold  
+Kırmızı  
+Mavi  
+Siyah  
+Turkuaz  
+Turuncu  
+Yeşil  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk seçimi, logo baskı detayları ve teslim süresi teklif aşamasında netleştirilmektedir. Güncel stok ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Firma tanıtım çalışmaları  
+Reklam kampanyaları  
+Müşteri ve bayi hediyeleri  
+Günlük kullanım ve seyahat
+`
+},
 
 ];
 
