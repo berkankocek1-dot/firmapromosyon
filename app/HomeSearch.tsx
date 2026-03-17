@@ -25,7 +25,7 @@ export default function HomeSearch() {
         type="text"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
-        placeholder="Urun adi veya kodu ara... Ornek: metal kalem, MK-330"
+        placeholder="Ürun adı veya kodu ara... Ornek: metal kalem, MK-330"
         className="w-full rounded-2xl border border-gray-300 bg-white px-5 py-3 text-sm text-gray-900 outline-none transition placeholder:text-gray-500 focus:border-black"
       />
 
@@ -33,7 +33,7 @@ export default function HomeSearch() {
         type="submit"
         className="inline-flex items-center justify-center rounded-2xl bg-black px-5 py-3 text-sm font-semibold text-white transition hover:bg-gray-900"
       >
-        Urun Ara
+        Ürun Ara
       </button>
     </form>
   );
