@@ -14889,6 +14889,850 @@ Fuar ve etkinlik organizasyonları
 Masa üstü düzenleyici ürünler
 `
 },
+{
+  id: "p302",
+  slug: "promosyon-kup-kagitlik-pu-150",
+  title: "Promosyon Küp Kağıtlık PÜ-150 | Özel Üretim Masa Üstü Kağıtlık",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-kagitlik-pu-150.jpg",
+
+  shortDesc:
+    "Promosyon küp kağıtlık PÜ-150, masa üstü kullanım için ideal, özel üretim seçenekli ve uzun süreli marka görünürlüğü sağlayan kurumsal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon küp kağıtlık PÜ-150 modeli, ofis ve çalışma alanlarında sıkça kullanılan, markanızın sürekli görünür olmasını sağlayan etkili promosyon ürünlerinden biridir.
+
+Küp kağıtlıklar masa üzerinde sürekli kullanılan ürünler olduğu için firmanızın logosu ve marka bilinirliği gün boyunca kullanıcıların göz önünde olur.
+
+PÜ-150 modeli, imalat ürünüdür ve istenilen adetlerde üretilebilir. Bu sayede küçük ve büyük ölçekli tüm kurumsal ihtiyaçlara uygun çözümler sunar.
+
+Ürün, talebe göre özel renk seçenekleri ile üretilebilir ve firmanıza özel tasarım uygulamaları yapılabilir.
+
+İç kağıt kapasitesi 450 yaprak olup uzun süreli kullanım avantajı sağlar. 80 gr. 1. hamur kağıt ile uyumlu yapısı sayesinde kaliteli ve profesyonel bir kullanım sunar.
+
+Kağıt fiyata dahil değildir ve isteğe bağlı olarak ayrıca temin edilebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Küp Kağıtlık  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+Masa Üstü Kullanıma Uygun  
+Özel Üretim İmkanı  
+Yüksek Kapasiteli Kağıtlık  
+
+Kağıt Özellikleri:
+
+İç Kağıt Ölçüsü: 88 x 88 mm  
+Kapasite: 450 Yaprak  
+Kağıt Türü: 80 gr. 1. Hamur  
+
+Ürün Ölçüsü:
+
+9 x 9 x 5 cm  
+
+Ek Bilgi:
+
+Kağıt Fiyata Dahil Değildir  
+Özel Renk Üretimi Yapılabilir  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon küp kağıtlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Üretim adedi, renk seçimi ve teslim süresi teklif aşamasında belirlenir. Güncel fiyat bilgisi ve detaylı teklif için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Ofis ve çalışma alanları  
+Kurumsal promosyon ürünleri  
+Şirket içi dağıtımlar  
+Kurumsal hediye ürünleri  
+Fuar ve etkinlik organizasyonları  
+Masa üstü düzenleyici ürünler
+`
+},
+{
+  id: "p303",
+  slug: "promosyon-semsiye-sm-100",
+  title: "Promosyon Şemsiye ŞM-100 | 8 Telli Baston Şemsiye Kurumsal Promosyon",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-semsiye-sm-100.jpg",
+
+  shortDesc:
+    "Promosyon şemsiye ŞM-100, 8 telli sağlam yapısı ve geniş baskı alanı ile markanızı her hava koşulunda görünür kılan etkili promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon şemsiye ŞM-100 modeli, geniş kullanım alanı ve yüksek görünürlük avantajı ile kurumsal firmaların en çok tercih ettiği promosyon ürünlerinden biridir.
+
+Şemsiyeler, dış mekanda kullanılan ve sürekli taşınan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+
+ŞM-100 modeli, 8 telli baston yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunar. Rüzgara karşı dirençli yapısı ile kullanıcı deneyimini artırır.
+
+Geniş yüzey alanı sayesinde logo baskısı için oldukça uygun bir promosyon ürünüdür. Bu sayede markanız sokakta ve etkinliklerde sürekli görünür olur.
+
+Ürün, talebe göre farklı renk seçenekleri ile üretilebilir ve kurumsal kimliğinize uygun tasarlanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Şemsiye  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+8 Telli Baston Şemsiye  
+Dayanıklı ve Uzun Ömürlü  
+Geniş Baskı Alanı  
+Dış Mekan Kullanımına Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon şemsiye siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Renk seçenekleri, baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon dağıtımları  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Açık alan etkinlikleri  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p304",
+  slug: "promosyon-isikli-semsiye-sm-150",
+  title: "Promosyon Işıklı Şemsiye ŞM-150 | 8 Telli Fenerli Otomatik Şemsiye",
+
+  category: "İmalat Ürünler",
+  image: "/products/promosyon-isikli-semsiye-sm-150.jpg",
+
+  shortDesc:
+    "Promosyon ışıklı şemsiye ŞM-150, fener özelliği ve otomatik aç/kapa sistemi ile dikkat çeken, yüksek görünürlük sağlayan yenilikçi promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon ışıklı şemsiye ŞM-150 modeli, klasik şemsiye tasarımını yenilikçi özelliklerle birleştirerek markanızı ön plana çıkaran modern promosyon ürünlerinden biridir.
+
+Ürün üzerinde bulunan entegre fener sistemi sayesinde karanlık ve yağışlı havalarda kullanım kolaylığı sağlar. Fener aç/kapa özelliği ile kullanıcı deneyimini artırır.
+
+8 telli sağlam yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunar. Otomatik aç/kapa mekanizması ile pratik bir kullanım sağlar.
+
+Geniş yüzey alanı sayesinde logo baskısı için oldukça uygundur. Bu sayede markanız açık alanlarda sürekli görünür olur.
+
+ŞM-150 modeli, talebe göre özel üretim yapılabilir ve farklı baskı teknikleri ile firmanıza özel tasarlanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Işıklı Şemsiye  
+Kategori: İmalat Ürünler  
+
+Özellikler:
+
+8 Telli Dayanıklı Yapı  
+Fener (Işıklı Sistem)  
+Fener Aç/Kapa Özelliği  
+Otomatik Aç/Kapa Mekanizması  
+Geniş Baskı Alanı  
+
+Baskı Seçenekleri:
+
+Serigrafi Baskı  
+Tampon Baskı  
+DTF Baskı  
+
+Ürün Ölçüleri:
+
+Açık Uzunluk: 610 mm  
+Kapalı Uzunluk: 320 mm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ışıklı şemsiye siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Açık alan kullanımları  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p305",
+  slug: "promosyon-derili-ayna-ay-110",
+  title: "Promosyon Derili Ayna AY-110 | Logolu Kurumsal Cep Aynası",
+
+  category: "Ayna ve Deri Kartlıklar",
+  image: "/products/promosyon-derili-ayna-ay-110.jpg",
+
+  shortDesc:
+    "Promosyon derili ayna AY-110, şık tasarımı ve geniş baskı alanı ile markanızı günlük kullanımda öne çıkaran etkili promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon derili ayna AY-110 modeli, kompakt yapısı ve şık görünümü ile kurumsal promosyon ürünleri arasında sık tercih edilen ürünlerden biridir.
+
+Cepte ve çantada kolay taşınabilen yapısı sayesinde günlük kullanımda sürekli tercih edilir. Bu sayede markanız kullanıcı ile sürekli temas halinde olur.
+
+Ürün üzerindeki geniş baskı alanı, logo ve marka baskısı için oldukça uygundur. Farklı baskı teknikleri ile firmanıza özel tasarımlar uygulanabilir.
+
+Şık deri kaplama tasarımı sayesinde hem estetik hem de premium bir görünüm sunar. Özellikle kozmetik, güzellik ve kişisel bakım sektörleri için ideal bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Derili Ayna  
+Kategori: Ayna ve Deri Kartlıklar  
+
+Özellikler:
+
+Şık Deri Kaplama  
+Taşınabilir Kompakt Tasarım  
+Geniş Baskı Alanı  
+Günlük Kullanıma Uygun  
+
+Baskı Seçenekleri:
+
+Serigrafi Baskı  
+Tampon Baskı  
+UV Baskı  
+Dijital Baskı  
+
+Ürün Ölçüsü:
+
+60 mm  
+
+Baskı Alanı:
+
+55 mm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon derili ayna siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kozmetik ve güzellik sektörleri  
+Kurumsal promosyon dağıtımları  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p306",
+  slug: "promosyon-derili-ayna-ay-120",
+  title: "Promosyon Derili Ayna AY-120 | Kare Logolu Kurumsal Cep Aynası",
+
+  category: "Ayna ve Deri Kartlıklar",
+  image: "/products/promosyon-derili-ayna-ay-120.jpg",
+
+  shortDesc:
+    "Promosyon derili ayna AY-120, kare formu ve şık deri kaplama tasarımı ile markanızı günlük kullanımda öne çıkaran etkili promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon derili ayna AY-120 modeli, modern kare tasarımı ve kompakt yapısı ile kurumsal promosyon ürünleri arasında dikkat çeken seçeneklerden biridir.
+
+Cepte ve çantada kolay taşınabilir yapısı sayesinde günlük kullanımda sık tercih edilir. Bu sayede markanız kullanıcı ile sürekli temas halinde olur.
+
+Ürün üzerindeki geniş baskı alanı, logo ve marka baskısı için oldukça uygundur. Farklı baskı teknikleri ile firmanıza özel tasarımlar uygulanabilir.
+
+Deri kaplama yüzeyi sayesinde estetik ve premium bir görünüm sunar. Özellikle kozmetik, güzellik ve kişisel bakım sektörleri için ideal bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Derili Ayna  
+Kategori: Ayna ve Deri Kartlıklar  
+
+Özellikler:
+
+Şık Deri Kaplama  
+Kare Tasarım  
+Taşınabilir Kompakt Yapı  
+Geniş Baskı Alanı  
+
+Baskı Seçenekleri:
+
+Serigrafi Baskı  
+Tampon Baskı  
+UV Baskı  
+Dijital Baskı  
+
+Ürün Ölçüsü:
+
+60 x 60 mm  
+
+Baskı Alanı:
+
+55 mm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon derili ayna siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kozmetik ve güzellik sektörleri  
+Kurumsal promosyon dağıtımları  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p307",
+  slug: "promosyon-aynali-manikur-seti-mnk-100",
+  title: "Promosyon Aynalı Manikür Seti MNK-100 | 5 Parça Kurumsal Hediye Seti",
+
+  category: "Ayna ve Deri Kartlıklar",
+  image: "/products/promosyon-manikur-seti-mnk-100.jpg",
+
+  shortDesc:
+    "Promosyon aynalı manikür seti MNK-100, 5 parça içeriği ve kompakt tasarımı ile günlük kullanımda markanızı öne çıkaran şık promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon aynalı manikür seti MNK-100 modeli, kişisel bakım ürünleri arasında yer alan ve kullanıcılar tarafından sık tercih edilen etkili promosyon ürünlerinden biridir.
+
+Set içerisinde bulunan 5 farklı bakım aparatı sayesinde günlük ihtiyaçlara pratik çözümler sunar. Aynalı yapısı sayesinde kullanım kolaylığı sağlar.
+
+Kompakt tasarımı sayesinde çanta ve cepte kolayca taşınabilir. Bu sayede markanız gün boyunca kullanıcı ile birlikte taşınır ve sürekli görünür olur.
+
+Ürün, logo baskısı için uygun yüzeye sahiptir ve farklı baskı teknikleri ile firmanıza özel hale getirilebilir.
+
+Özellikle kozmetik, güzellik ve kişisel bakım sektörlerinde faaliyet gösteren firmalar için ideal bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Manikür Seti  
+Kategori: Ayna ve Deri Kartlıklar  
+
+Özellikler:
+
+Aynalı Tasarım  
+5 Parça Manikür Seti  
+Kompakt ve Taşınabilir  
+Günlük Kullanıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon manikür seti siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kozmetik ve güzellik sektörleri  
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p308",
+  slug: "promosyon-deri-cuzdan-dc-100",
+  title: "Promosyon Deri Cüzdan DC-100 | Logolu Kartvizitlik ve Cüzdan",
+
+  category: "Kartvizitlik",
+  image: "/products/promosyon-deri-cuzdan-dc-100.jpg",
+
+  shortDesc:
+    "Promosyon deri cüzdan DC-100, şık tasarımı ve kullanışlı yapısı ile kartvizitlik ve cüzdan olarak tercih edilen kurumsal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon deri cüzdan DC-100 modeli, hem kartvizitlik hem de cüzdan olarak kullanılabilen çok yönlü ve şık bir promosyon ürünüdür.
+
+Kompakt yapısı sayesinde cepte kolay taşınabilir ve günlük kullanım için oldukça uygundur. Bu sayede markanız kullanıcı ile sürekli temas halinde olur.
+
+Deri kaplama tasarımı sayesinde premium bir görünüm sunar ve kurumsal firmalar için prestijli bir hediye seçeneği oluşturur.
+
+Kartvizit ve nakit taşıma imkanı sunan yapısı ile iş dünyasında aktif olarak kullanılan bir üründür.
+
+Logo baskısına uygun yüzeyi sayesinde firmanıza özel tasarımlar uygulanabilir ve marka bilinirliği artırılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Deri Cüzdan  
+Kategori: Kartvizitlik  
+
+Özellikler:
+
+Deri Kaplama Tasarım  
+Kartvizit ve Nakit Taşıma Alanı  
+Kompakt ve Taşınabilir  
+Günlük Kullanıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon deri cüzdan siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+İş dünyasına yönelik hediyeler  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p309",
+  slug: "promosyon-kartvizitlik-kv-110",
+  title: "Promosyon Kartvizitlik KV-110 | Termo Deri Logolu Kartvizitlik",
+
+  category: "Kartvizitlik",
+  image: "/products/promosyon-kartvizitlik-kv-110.jpg",
+
+  shortDesc:
+    "Promosyon kartvizitlik KV-110, termo deri kaplama tasarımı ve şık görünümü ile markanızı profesyonel şekilde temsil eden kurumsal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon kartvizitlik KV-110 modeli, iş dünyasında sık kullanılan ve markanızı prestijli bir şekilde temsil eden etkili promosyon ürünlerinden biridir.
+
+Termo deri kaplama yüzeyi sayesinde hem şık hem de dayanıklı bir kullanım sunar. Premium görünümü ile kurumsal firmalar için ideal bir hediye seçeneğidir.
+
+Kartvizitlerin düzenli ve güvenli bir şekilde taşınmasını sağlar. Kompakt yapısı sayesinde cepte ve çantada kolay taşınabilir.
+
+Ürün, logo baskısına uygun yüzeyi sayesinde firmanıza özel tasarımlar ile markanızı ön plana çıkarır.
+
+Özellikle iş dünyasında aktif kullanılan bir ürün olduğu için marka bilinirliğini uzun süre artırır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kartvizitlik  
+Kategori: Kartvizitlik  
+
+Özellikler:
+
+Termo Deri Kaplama  
+Şık ve Profesyonel Tasarım  
+Kompakt ve Taşınabilir  
+Günlük Kullanıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kartvizitlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+İş dünyasına yönelik hediyeler  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p310",
+  slug: "promosyon-kartvizitlik-kv-120",
+  title: "Promosyon Kartvizitlik KV-120 | Logolu Kurumsal Kartvizitlik",
+
+  category: "Kartvizitlik",
+  image: "/products/promosyon-kartvizitlik-kv-120.jpg",
+
+  shortDesc:
+    "Promosyon kartvizitlik KV-120, şık tasarımı ve kompakt yapısı ile markanızı profesyonel şekilde temsil eden kurumsal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon kartvizitlik KV-120 modeli, iş dünyasında aktif olarak kullanılan ve markanızı prestijli şekilde yansıtan etkili promosyon ürünlerinden biridir.
+
+Kartvizitlerin düzenli ve güvenli bir şekilde taşınmasını sağlar. Kompakt yapısı sayesinde cepte ve çantada kolay taşınabilir.
+
+Günlük kullanımda tercih edilen yapısı sayesinde markanız kullanıcı ile sürekli temas halinde olur ve marka bilinirliği artırılır.
+
+Ürün, logo baskısına uygun yüzeyi ile firmanıza özel tasarım uygulamalarına imkan tanır.
+
+Kurumsal firmalar için hem kullanışlı hem de prestijli bir promosyon ürünü olarak öne çıkar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kartvizitlik  
+Kategori: Kartvizitlik  
+
+Özellikler:
+
+Şık ve Profesyonel Tasarım  
+Kompakt ve Taşınabilir  
+Günlük Kullanıma Uygun  
+Geniş Baskı Alanı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kartvizitlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+İş dünyasına yönelik hediyeler  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p311",
+  slug: "promosyon-cok-fonksiyonlu-caki-seti-11-fonksiyonlu-ck-200",
+  title: "Promosyon Çok Fonksiyonlu Çakı Seti ÇK-200 | 11 Fonksiyonlu Logolu Çakı",
+
+  category: "Çakı, Fener ve Tornavida Seti",
+  image: "/products/promosyon-caki-seti-ck-200.jpg",
+
+  shortDesc:
+    "Promosyon çok fonksiyonlu çakı seti ÇK-200, 11 fonksiyonlu yapısı ve lazer baskı imkanı ile outdoor ve kurumsal kullanım için ideal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon çok fonksiyonlu çakı seti ÇK-200 modeli, 11 farklı fonksiyonu bir arada sunan pratik ve kullanışlı bir promosyon ürünüdür.
+
+Kompakt yapısı sayesinde kolay taşınabilir ve günlük kullanımda, kamp aktivitelerinde ve outdoor ortamlarda rahatlıkla kullanılabilir.
+
+Birden fazla fonksiyonu sayesinde kullanıcıya pratik çözümler sunar ve bu sayede uzun süre kullanılan bir ürün haline gelir. Bu da markanızın sürekli görünür olmasını sağlar.
+
+Metal yüzeyi sayesinde lazer baskı için uygundur. Logo ve marka baskısı uzun süre kalıcı şekilde uygulanabilir.
+
+Kurumsal firmalar için hem fonksiyonel hem de dikkat çekici bir promosyon ürünü olarak öne çıkar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Çok Fonksiyonlu Çakı  
+Kategori: Çakı, Fener ve Tornavida Seti  
+
+Özellikler:
+
+11 Fonksiyonlu Tasarım  
+Kompakt ve Taşınabilir  
+Dayanıklı Metal Gövde  
+Günlük ve Outdoor Kullanıma Uygun  
+
+Baskı Bilgisi:
+
+Lazer Baskı  
+Baskı Alanı: 30 x 10 mm  
+
+Ürün Ölçüsü:
+
+88 x 25 mm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon çakı seti siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Outdoor ve kamp aktiviteleri  
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p312",
+  slug: "promosyon-el-feneri-fn-100",
+  title: "Promosyon El Feneri FN-100 | Logolu Taşınabilir LED Fener",
+
+  category: "Çakı, Fener ve Tornavida Seti",
+  image: "/products/promosyon-el-feneri-fn-100.jpg",
+
+  shortDesc:
+    "Promosyon el feneri FN-100, taşınabilir yapısı ve güçlü ışık performansı ile markanızı her ortamda görünür kılan kullanışlı promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon el feneri FN-100 modeli, günlük kullanım ve outdoor aktiviteler için pratik çözümler sunan etkili promosyon ürünlerinden biridir.
+
+Kompakt ve taşınabilir yapısı sayesinde kolayca taşınabilir ve ihtiyaç duyulan her an kullanılabilir. Bu sayede markanız kullanıcı ile sürekli temas halinde olur.
+
+Güçlü ışık performansı ile karanlık ortamlarda yüksek verim sağlar. Özellikle kamp, seyahat ve acil durumlar için ideal bir üründür.
+
+Ürün, logo baskısına uygun yüzeyi sayesinde firmanıza özel tasarımlar ile markanızı ön plana çıkarır.
+
+Kurumsal firmalar için hem kullanışlı hem de dikkat çekici bir promosyon ürünü olarak öne çıkar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon El Feneri  
+Kategori: Çakı, Fener ve Tornavida Seti  
+
+Özellikler:
+
+Taşınabilir Kompakt Tasarım  
+Güçlü Işık Performansı  
+Günlük ve Outdoor Kullanıma Uygun  
+Dayanıklı Gövde  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon el feneri siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Outdoor ve kamp aktiviteleri  
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p313",
+  slug: "promosyon-hediyelik-set-caki-led-el-feneri-fn-150",
+  title: "Promosyon Hediyelik Set FN-150 | Çakı ve LED El Feneri Seti",
+
+  category: "Çakı, Fener ve Tornavida Seti",
+  image: "/products/promosyon-set-fn-150.jpg",
+
+  shortDesc:
+    "Promosyon hediyelik set FN-150, 7 fonksiyonlu çakı ve LED el fenerinden oluşan şık kutulu yapısı ile kurumsal hediyeler için ideal promosyon setidir.",
+
+  longDesc: `
+Promosyon hediyelik set FN-150 modeli, 7 fonksiyonlu çakı ve LED el fenerinden oluşan kullanışlı ve şık bir promosyon setidir.
+
+Set içeriğinde yer alan ürünler, günlük kullanım ve outdoor aktiviteler için pratik çözümler sunar. Bu sayede uzun süre kullanılan ve markanızı sürekli görünür kılan bir promosyon ürünüdür.
+
+Şık kutulu tasarımı sayesinde kurumsal hediyeler için oldukça uygundur. Fuar, etkinlik ve özel organizasyonlarda prestijli bir dağıtım ürünü olarak tercih edilir.
+
+Çakı ve fener ürünlerinin metal yüzeyi lazer baskı için uygundur. Ayrıca kutu üzerine serigraf baskı uygulanarak marka görünürlüğü artırılabilir.
+
+Kurumsal firmalar için hem fonksiyonel hem de dikkat çekici bir promosyon seti olarak öne çıkar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Hediyelik Set  
+Kategori: Çakı, Fener ve Tornavida Seti  
+
+Set İçeriği:
+
+7 Fonksiyonlu Çakı  
+LED El Feneri  
+Özel Kutu  
+
+Çakı Özellikleri:
+
+Ürün Ölçüsü: 88 x 25 mm  
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 30 x 10 mm  
+
+Fener Özellikleri:
+
+Ürün Ölçüsü: 85 x 25,5 mm  
+Baskı Türü: Lazer Baskı  
+Baskı Alanı: 20 x 8 mm  
+
+Kutu Özellikleri:
+
+Kutu Ölçüsü: 135 x 95 mm  
+Baskı Türü: Serigraf Baskı  
+Baskı Alanı: 100 x 50 mm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon set siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Outdoor ve kamp aktiviteleri  
+Reklam ve marka tanıtımı  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p314",
+  slug: "promosyon-el-feneri-fn-200",
+  title: "Promosyon El Feneri FN-200 | Güçlü Işık Performanslı Logolu Fener",
+
+  category: "Çakı, Fener ve Tornavida Seti",
+  image: "/products/promosyon-el-feneri-fn-200.jpg",
+
+  shortDesc:
+    "Promosyon el feneri FN-200, güçlü ışık performansı ve dayanıklı yapısı ile outdoor ve günlük kullanım için ideal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon el feneri FN-200 modeli, güçlü ışık performansı ve dayanıklı yapısı ile öne çıkan kullanışlı promosyon ürünlerinden biridir.
+
+Kompakt tasarımı sayesinde kolay taşınabilir ve günlük kullanımda rahatlıkla tercih edilir. Bu sayede markanız kullanıcı ile sürekli temas halinde olur.
+
+Yüksek ışık gücü sayesinde karanlık ortamlarda etkili aydınlatma sağlar. Özellikle outdoor aktiviteler, seyahat ve acil durumlar için ideal bir üründür.
+
+Dayanıklı gövde yapısı sayesinde uzun ömürlü kullanım sunar ve kullanıcı memnuniyetini artırır.
+
+Ürün, logo baskısına uygun yüzeyi ile firmanıza özel tasarım uygulamalarına imkan tanır ve marka bilinirliğini artırır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon El Feneri  
+Kategori: Çakı, Fener ve Tornavida Seti  
+
+Özellikler:
+
+Güçlü Işık Performansı  
+Kompakt ve Taşınabilir  
+Dayanıklı Gövde  
+Günlük ve Outdoor Kullanıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon el feneri siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Outdoor ve kamp aktiviteleri  
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p315",
+  slug: "promosyon-el-feneri-fn-300",
+  title: "Promosyon El Feneri FN-300 | 2 Fonksiyonlu Logolu Fener",
+
+  category: "Çakı, Fener ve Tornavida Seti",
+  image: "/products/promosyon-el-feneri-fn-300.jpg",
+
+  shortDesc:
+    "Promosyon el feneri FN-300, 2 fonksiyonlu yapısı ve pratik kullanımı ile günlük ihtiyaçlara uygun ekonomik promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon el feneri FN-300 modeli, kompakt yapısı ve 2 fonksiyonlu kullanım özelliği ile pratik çözümler sunan promosyon ürünlerinden biridir.
+
+Küçük ve taşınabilir yapısı sayesinde cepte ve çantada kolaylıkla taşınabilir. Bu sayede kullanıcı ile sürekli temas halinde olan bir promosyon ürünü olarak öne çıkar.
+
+2 fonksiyonlu yapısı sayesinde temel aydınlatma ihtiyaçlarını karşılar ve günlük kullanım için ideal bir çözüm sunar.
+
+Ekonomik yapısı sayesinde yüksek adetli promosyon dağıtımları için oldukça uygundur. Bu da markanızın geniş kitlelere ulaşmasını sağlar.
+
+Ürün, logo baskısına uygun yüzeyi ile firmanıza özel tasarımlar uygulanmasına imkan tanır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon El Feneri  
+Kategori: Çakı, Fener ve Tornavida Seti  
+
+Özellikler:
+
+2 Fonksiyonlu Tasarım  
+Kompakt ve Taşınabilir  
+Günlük Kullanıma Uygun  
+Ekonomik Promosyon Ürünü  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon el feneri siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Outdoor ve günlük kullanım  
+Reklam ve marka tanıtımı  
+Şirket dağıtım ürünleri  
+`
+},
+{
+  id: "p316",
+  slug: "promosyon-penlight-pnl-100",
+  title: "Promosyon Penlight PNL-100 | Logolu Muayene Kalem Fener",
+
+  category: "Çakı, Fener ve Tornavida Seti",
+  image: "/products/promosyon-penlight-pnl-100.jpg",
+
+  shortDesc:
+    "Promosyon penlight PNL-100, kompakt yapısı ve hassas aydınlatma özelliği ile özellikle sağlık ve teknik kullanım için ideal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon penlight PNL-100 modeli, ince ve kalem formundaki tasarımı ile hassas aydınlatma gerektiren alanlar için geliştirilmiş özel bir promosyon ürünüdür.
+
+Kompakt ve hafif yapısı sayesinde cepte kolay taşınabilir ve pratik kullanım sunar. Bu sayede kullanıcı ile sürekli temas halinde olur.
+
+Penlight ürünler özellikle sağlık sektörü, teknik servisler ve detaylı inceleme gerektiren alanlarda sıkça tercih edilmektedir.
+
+Odaklı ışık yapısı sayesinde dar alanlarda etkili aydınlatma sağlar ve kullanım kolaylığı sunar.
+
+Ürün, logo baskısına uygun yüzeyi ile firmanıza özel tasarım uygulanmasına imkan tanır ve marka bilinirliğini artırır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Penlight (Muayene Feneri)  
+Kategori: Çakı, Fener ve Tornavida Seti  
+
+Özellikler:
+
+Kalem Tipi Tasarım  
+Kompakt ve Taşınabilir  
+Hassas Aydınlatma  
+Hafif ve Kullanışlı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon penlight siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Sağlık ve medikal sektör  
+Teknik servis ve bakım ekipleri  
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+`
+},
 
 ];
 
