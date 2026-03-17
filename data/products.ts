@@ -16122,6 +16122,472 @@ Prestij promosyon ürünleri
 Fuar ve etkinlik organizasyonları  
 `
 },
+{
+  id: "p324",
+  slug: "promosyon-deri-kalemlik-ms-175",
+  title: "Promosyon Deri Kalemlik MS-175 | Şık Masa Üstü Kalemlik Seti",
+
+  category: "Ahşap ve Deri Masaüstü Ürünler",
+  image: "/products/promosyon-deri-kalemlik-ms-175.jpg",
+
+  shortDesc:
+    "Promosyon deri kalemlik MS-175, şık tasarımı ve geniş kullanım alanı ile masa üstü düzen sağlayan kurumsal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon deri kalemlik MS-175 modeli, masa üstü düzen sağlayan ve estetik görünümü ile öne çıkan kurumsal promosyon ürünlerinden biridir.
+
+Suni deri kaplama yüzeyi sayesinde şık ve profesyonel bir görünüm sunar. Ofis ortamlarında prestijli bir masa düzeni oluşturur.
+
+Geniş iç hacmi sayesinde kalem, küçük ofis gereçleri ve diğer masa üstü ürünlerinin düzenli şekilde kullanılmasına imkan tanır.
+
+Masa üzerinde sürekli kullanılan bir ürün olması sayesinde markanızın görünürlüğünü artırır ve uzun süreli reklam etkisi sağlar.
+
+Kurumsal firmalar için hem işlevsel hem de prestijli bir promosyon ürünü olarak tercih edilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Deri Kalemlik  
+Kategori: Ahşap ve Deri Masaüstü Ürünler  
+
+Özellikler:
+
+Suni Deri Kaplama  
+Geniş İç Hacim  
+Masa Üstü Düzenleyici  
+Şık ve Profesyonel Görünüm  
+
+Ürün Ölçüsü:
+
+23,5 x 10,5 x 9,5 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon deri kalemlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal ofisler  
+Masa üstü düzenleyici ürünler  
+Şirket hediyeleri  
+Prestij promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+`
+},
+{
+  id: "p325",
+  slug: "promosyon-deri-kalemlik-ms-180",
+  title: "Promosyon Deri Kalemlik MS-180 | Kartvizit Bölmeli Masa Üstü Kalemlik",
+
+  category: "Ahşap ve Deri Masaüstü Ürünler",
+  image: "/products/promosyon-deri-kalemlik-ms-180.jpg",
+
+  shortDesc:
+    "Promosyon deri kalemlik MS-180, kartvizit bölmeli kompakt tasarımı ile masa üstü düzen sağlayan şık promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon deri kalemlik MS-180 modeli, masa üstü düzen sağlayan kompakt ve kullanışlı yapısı ile öne çıkan kurumsal promosyon ürünlerinden biridir.
+
+Suni deri kaplama yüzeyi sayesinde şık ve profesyonel bir görünüm sunar. Ofis ortamlarında estetik bir masa düzeni oluşturur.
+
+Kalemlik ve kartvizit bölmesi sayesinde işlevsel kullanım sunar. Günlük kullanımda sık tercih edilen yapısı ile markanızın sürekli görünür olmasını sağlar.
+
+Kompakt ölçüleri sayesinde dar alanlarda da rahatlıkla kullanılabilir ve masa üstünde yer tasarrufu sağlar.
+
+Kurumsal firmalar için hem işlevsel hem de prestijli bir promosyon ürünü olarak tercih edilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Deri Kalemlik  
+Kategori: Ahşap ve Deri Masaüstü Ürünler  
+
+Özellikler:
+
+Suni Deri Kaplama  
+Kalemlik + Kartvizit Bölmesi  
+Kompakt Tasarım  
+Masa Üstü Düzenleyici  
+Şık ve Profesyonel Görünüm  
+
+Ürün Ölçüsü:
+
+12 x 10,5 x 11 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon deri kalemlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal ofisler  
+Masa üstü düzenleyici ürünler  
+Şirket hediyeleri  
+Prestij promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+`
+},
+{
+  id: "p326",
+  slug: "promosyon-deri-bardak-altligi-ms-190",
+  title: "Promosyon Deri Bardak Altlığı MS-190 | Logolu Masa Üstü Aksesuar",
+
+  category: "Ahşap ve Deri Masaüstü Ürünler",
+  image: "/products/promosyon-deri-bardak-altligi-ms-190.jpg",
+
+  shortDesc:
+    "Promosyon deri bardak altlığı MS-190, şık tasarımı ve masa koruma özelliği ile kurumsal kullanım için ideal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon deri bardak altlığı MS-190 modeli, masa üstü düzeni ve yüzey koruması sağlayan şık promosyon ürünlerinden biridir.
+
+Suni deri kaplama yüzeyi sayesinde estetik ve profesyonel bir görünüm sunar. Ofis ve çalışma alanlarında masa düzenine katkı sağlar.
+
+Bardak altlığı olarak kullanılarak masa yüzeylerini sıcaklık ve sıvı temasına karşı korur.
+
+Günlük kullanımda sık tercih edilen bir ürün olması sayesinde markanızın sürekli görünür olmasını sağlar ve uzun süreli reklam etkisi sunar.
+
+Kompakt yapısı sayesinde her masa düzenine kolaylıkla uyum sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Deri Bardak Altlığı  
+Kategori: Ahşap ve Deri Masaüstü Ürünler  
+
+Özellikler:
+
+Suni Deri Kaplama  
+Masa Koruyucu  
+Kompakt ve Kullanışlı  
+Şık ve Profesyonel Görünüm  
+
+Ürün Ölçüsü:
+
+Çap: 11 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon deri bardak altlığı siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal ofisler  
+Kafe ve restoranlar  
+Masa üstü aksesuarlar  
+Şirket hediyeleri  
+Reklam ve marka tanıtımı  
+`
+},
+{
+  id: "p327",
+  slug: "promosyon-deri-bardak-altligi-set-ms-195",
+  title: "Promosyon Deri Bardak Altlığı Seti MS-195 | 4'lü Logolu Bardak Altlığı",
+
+  category: "Ahşap ve Deri Masaüstü Ürünler",
+  image: "/products/promosyon-deri-bardak-altligi-ms-195.jpg",
+
+  shortDesc:
+    "Promosyon deri bardak altlığı MS-195, 4’lü set halinde sunulan şık tasarımı ile masa üstü kullanım için ideal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon deri bardak altlığı seti MS-195 modeli, 4’lü set yapısı ile hem kullanışlı hem de şık bir masa üstü promosyon ürünüdür.
+
+Suni deri kaplama yüzeyi sayesinde estetik ve profesyonel bir görünüm sunar. Ofis, kafe ve restoran gibi alanlarda masa düzenine katkı sağlar.
+
+4’lü set halinde sunulması sayesinde birden fazla kullanım imkanı sunar ve özellikle kurumsal dağıtımlar için ideal bir çözümdür.
+
+Bardak altlığı olarak kullanılarak masa yüzeylerini sıcaklık ve sıvı temasına karşı korur.
+
+Günlük kullanımda sürekli tercih edilen bir ürün olması sayesinde markanızın görünürlüğünü artırır ve uzun süreli reklam etkisi sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Deri Bardak Altlığı Seti  
+Kategori: Ahşap ve Deri Masaüstü Ürünler  
+
+Özellikler:
+
+Suni Deri Kaplama  
+4’lü Set  
+Masa Koruyucu  
+Şık ve Profesyonel Tasarım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon deri bardak altlığı seti siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal ofisler  
+Kafe ve restoranlar  
+Otel ve konaklama işletmeleri  
+Şirket hediyeleri  
+Reklam ve marka tanıtımı  
+`
+},
+{
+  id: "p328",
+  slug: "promosyon-tela-canta-tc-100",
+  title: "Promosyon Tela Çanta TÇ-100 | Logolu Nonwoven Bez Çanta",
+
+  category: "Ham Bez & Tela Çanta",
+  image: "/products/promosyon-tela-canta-tc-100.jpg",
+
+  shortDesc:
+    "Promosyon tela çanta TÇ-100, dayanıklı nonwoven kumaşı ve geniş baskı alanı ile kurumsal promosyonlar için ideal bez çanta modelidir.",
+
+  longDesc: `
+Promosyon tela çanta TÇ-100 modeli, hafif ve dayanıklı yapısı ile en çok tercih edilen promosyon ürünlerinden biridir.
+
+Nonwoven kumaş yapısı sayesinde çevre dostu ve uzun ömürlü kullanım sunar. Günlük alışverişlerde ve etkinliklerde sıkça tercih edilir.
+
+Geniş yüzey alanı sayesinde logo ve marka baskısı için oldukça uygundur. Dijital baskı ile firmanıza özel tasarımlar uygulanabilir.
+
+Tekrar kullanılabilir yapısı sayesinde markanızın uzun süre görünür olmasını sağlar ve reklam etkisini artırır.
+
+Özel üretim imkanı sayesinde istenilen ölçü ve tasarımda üretim yapılabilir.
+
+Minimum sipariş adedi 500 adet olup kurumsal firmalar için ideal toplu promosyon çözümüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Tela Çanta  
+Kategori: Ham Bez & Tela Çanta  
+
+Özellikler:
+
+Nonwoven Kumaş (100 gr)  
+Hafif ve Dayanıklı  
+Çevre Dostu Kullanım  
+Geniş Baskı Alanı  
+Tekrar Kullanılabilir  
+
+Baskı Bilgisi:
+
+Dijital Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon tela çanta siparişleri özel üretim şeklinde gerçekleştirilmektedir.
+
+Minimum sipariş miktarı 500 adettir. İstenilen adetlerde üretim yapılabilir.
+
+Baskı tasarımı, ölçü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Fuar ve etkinlik organizasyonları  
+Kurumsal promosyon dağıtımları  
+Market ve mağaza kullanımı  
+Reklam ve marka tanıtımı  
+Şirket hediyeleri  
+`
+},
+{
+  id: "p329",
+  slug: "promosyon-vip-set-vip-110",
+  title: "Promosyon VIP Set VIP-110 | Defter, Powerbank, USB ve Kalem Seti",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-110.jpg",
+
+  shortDesc:
+    "Promosyon VIP set VIP-110, termo deri defter, powerbank, USB bellek ve kalemlerden oluşan özel kutulu premium kurumsal hediye setidir.",
+
+  longDesc: `
+Promosyon VIP set VIP-110 modeli, kurumsal firmalar için prestijli ve çok fonksiyonlu bir hediye çözümü sunan premium promosyon ürünlerinden biridir.
+
+Set içerisinde yer alan termo deri defter, powerbank, USB bellek, kartvizitlik ve metal kalemler sayesinde kullanıcıya hem şık hem de işlevsel bir deneyim sunar.
+
+Özel kutulu tasarımı sayesinde kurumsal hediyeler, yönetici setleri ve özel organizasyonlar için ideal bir promosyon ürünüdür.
+
+Tüm ürünler logo baskısına uygun olup firmanıza özel tasarımlar ile marka değerinizi artırır.
+
+Yüksek kalite algısı sayesinde VIP müşteri ve üst segment hedef kitle için güçlü bir promosyon çözümüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon VIP Set  
+Kategori: VIP Ürünler  
+
+Set İçeriği:
+
+Termo Deri Defter (13 x 21 cm)  
+8.000 mAh Powerbank  
+Kartvizitlik  
+16 GB USB Bellek  
+Metal Roller Kalem  
+Tükenmez Kalem  
+Özel Kutu  
+
+Ürün Ölçüsü:
+
+38 x 28 x 5,5 cm  
+
+Özellikler:
+
+Premium ve Şık Tasarım  
+Çok Fonksiyonlu Set İçeriği  
+Kurumsal Hediye Çözümü  
+Yüksek Marka Değeri  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon VIP set siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal VIP hediyeler  
+Yönetici ve üst düzey müşteri hediyeleri  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Şirket özel gün hediyeleri  
+`
+},
+{
+  id: "p330",
+  slug: "promosyon-vip-set-vip-120",
+  title: "Promosyon VIP Set VIP-120 | Powerbank, Termos ve Çakı Fener Seti",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-120.jpg",
+
+  shortDesc:
+    "Promosyon VIP set VIP-120, powerbank, termos ve çakı fener içeriği ile outdoor ve kurumsal kullanım için ideal premium hediye setidir.",
+
+  longDesc: `
+Promosyon VIP set VIP-120 modeli, fonksiyonel ve dikkat çekici ürünlerden oluşan modern bir kurumsal hediye setidir.
+
+Set içerisinde yer alan 10.000 mAh powerbank, 360 ml termos ve çakı fener sayesinde hem günlük kullanım hem de outdoor aktiviteler için pratik çözümler sunar.
+
+Özel kutulu tasarımı sayesinde prestijli bir hediye alternatifi sunar ve kurumsal firmalar için güçlü bir promosyon çözümüdür.
+
+Teknolojik ve fonksiyonel ürünleri bir arada sunması sayesinde kullanıcılar tarafından uzun süre tercih edilir ve markanızın sürekli görünür olmasını sağlar.
+
+Tüm ürünler logo baskısına uygun olup firmanıza özel tasarımlar uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon VIP Set  
+Kategori: VIP Ürünler  
+
+Set İçeriği:
+
+10.000 mAh Powerbank  
+360 ml Termos  
+Çakı Fener  
+Özel Kutu  
+
+Özellikler:
+
+Fonksiyonel ve Çok Amaçlı Set  
+Outdoor ve Günlük Kullanıma Uygun  
+Premium ve Şık Tasarım  
+Yüksek Marka Görünürlüğü  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon VIP set siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal VIP hediyeler  
+Outdoor ve seyahat ürünleri  
+Yönetici ve özel müşteri hediyeleri  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+`
+},
+{
+  id: "p331",
+  slug: "promosyon-vip-set-vip-130",
+  title: "Promosyon VIP Set VIP-130 | Defter, Powerbank, Cüzdan ve USB Seti",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-130.jpg",
+
+  shortDesc:
+    "Promosyon VIP set VIP-130, termo deri defter, powerbank, cüzdan, USB ve kalemlerden oluşan özel kutulu premium kurumsal hediye setidir.",
+
+  longDesc: `
+Promosyon VIP set VIP-130 modeli, şık tasarımı ve zengin içeriği ile kurumsal firmalar için prestijli bir hediye çözümü sunan premium promosyon ürünlerinden biridir.
+
+Set içerisinde yer alan termo deri defter, powerbank, deri cüzdan kartlık, USB bellek, anahtarlık ve metal kalemler sayesinde kullanıcıya hem estetik hem de işlevsel bir deneyim sunar.
+
+Özel kutulu tasarımı sayesinde kurumsal hediyeler, yönetici setleri ve özel organizasyonlar için ideal bir tercihtir.
+
+Günlük kullanımda tercih edilen ürünlerden oluşması sayesinde markanızın uzun süre görünür olmasını sağlar ve güçlü bir reklam etkisi sunar.
+
+Tüm ürünler logo baskısına uygun olup firmanıza özel tasarımlar ile marka değerinizi artırır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon VIP Set  
+Kategori: VIP Ürünler  
+
+Set İçeriği:
+
+Termo Deri Defter (13 x 21 cm)  
+5.000 mAh Powerbank  
+Deri Cüzdan Kartlık  
+Anahtarlık  
+16 GB USB Bellek  
+Metal Roller Kalem  
+Tükenmez Kalem  
+Özel Kutu  
+
+Ürün Ölçüsü:
+
+38 x 28 x 5,5 cm  
+
+Özellikler:
+
+Premium ve Şık Tasarım  
+Çok Fonksiyonlu Set İçeriği  
+Kurumsal Hediye Çözümü  
+Yüksek Marka Değeri  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon VIP set siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal VIP hediyeler  
+Yönetici ve üst düzey müşteri hediyeleri  
+Fuar ve etkinlik organizasyonları  
+Reklam ve marka tanıtımı  
+Şirket özel gün hediyeleri  
+`
+},
 
 ];
 
