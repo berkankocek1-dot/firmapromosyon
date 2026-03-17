@@ -15733,6 +15733,395 @@ Fuar ve etkinlik organizasyonları
 Reklam ve marka tanıtımı  
 `
 },
+{
+  id: "p317",
+  slug: "promosyon-luks-ahsap-masa-seti-ah-110",
+  title: "Promosyon Lüks Ahşap Masa Seti AH-110 | Kurumsal Masa Üstü Set",
+
+  category: "Ahşap ve Deri Masaüstü Ürünler",
+  image: "/products/promosyon-ahsap-masa-seti-ah-110.jpg",
+
+  shortDesc:
+    "Promosyon lüks ahşap masa seti AH-110, şık tasarımı ve kurumsal kullanıma uygun yapısı ile prestijli promosyon ürünleri arasında yer alır.",
+
+  longDesc: `
+Promosyon lüks ahşap masa seti AH-110 modeli, ofis ortamlarında şıklık ve düzen sağlayan premium promosyon ürünlerinden biridir.
+
+Ahşap tasarımı sayesinde estetik ve doğal bir görünüm sunar. Kurumsal ofislerde masa düzenini sağlarken aynı zamanda markanızı prestijli şekilde temsil eder.
+
+Masa üstü kullanım için ideal olan bu set, yöneticiler ve kurumsal firmalar için özel olarak tercih edilen promosyon ürünleri arasında yer alır.
+
+Geniş baskı alanı sayesinde logo ve marka baskısı için uygundur. Dijital baskı ile firmanıza özel tasarımlar uygulanabilir.
+
+Uzun süreli kullanım sunan yapısı sayesinde markanızın sürekli görünür olmasını sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ahşap Masa Seti  
+Kategori: Ahşap ve Deri Masaüstü Ürünler  
+
+Özellikler:
+
+Lüks Ahşap Tasarım  
+Masa Üstü Düzenleyici Set  
+Kurumsal Kullanıma Uygun  
+Dayanıklı ve Uzun Ömürlü  
+
+Baskı Bilgisi:
+
+Dijital Baskı  
+Baskı Alanı: 64 x 35 mm  
+
+Ürün Ölçüsü:
+
+40 x 20 x 13 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ahşap masa seti siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal ofisler  
+Yönetici masa üstü kullanımı  
+Prestij promosyon ürünleri  
+Şirket hediyeleri  
+Fuar ve etkinlik organizasyonları  
+`
+},
+{
+  id: "p318",
+  slug: "promosyon-ahsap-masa-seti-ah-120",
+  title: "Promosyon Ahşap Masa Seti AH-120 | Logolu Masa Üstü Ofis Seti",
+
+  category: "Ahşap ve Deri Masaüstü Ürünler",
+  image: "/products/promosyon-ahsap-masa-seti-ah-120.jpg",
+
+  shortDesc:
+    "Promosyon ahşap masa seti AH-120, ofis düzeni sağlayan şık tasarımı ve kurumsal kullanım avantajı ile tercih edilen promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon ahşap masa seti AH-120 modeli, ofis ve çalışma alanlarında düzen ve estetik sağlayan kullanışlı promosyon ürünlerinden biridir.
+
+Ahşap tasarımı sayesinde doğal ve şık bir görünüm sunar. Masa üstünde düzen sağlarken aynı zamanda markanızı profesyonel şekilde temsil eder.
+
+Kompakt ve kullanışlı yapısı sayesinde hem bireysel hem de kurumsal kullanımlar için uygundur. Günlük kullanımda sürekli tercih edilmesi sayesinde marka görünürlüğünü artırır.
+
+Ürün, logo baskısına uygun yüzeyi ile firmanıza özel tasarımlar uygulanmasına imkan tanır.
+
+Kurumsal firmalar için hem işlevsel hem de prestijli bir promosyon ürünü olarak öne çıkar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ahşap Masa Seti  
+Kategori: Ahşap ve Deri Masaüstü Ürünler  
+
+Özellikler:
+
+Ahşap Tasarım  
+Masa Üstü Düzenleyici  
+Şık ve Profesyonel Görünüm  
+Günlük Kullanıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ahşap masa seti siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal ofisler  
+Çalışma alanları  
+Şirket hediyeleri  
+Prestij promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+`
+},
+{
+  id: "p319",
+  slug: "promosyon-deri-kalemlik-ms-130",
+  title: "Promosyon Deri Kalemlik MS-130 | Kartvizit Bölmeli Masa Üstü Kalemlik",
+
+  category: "Ahşap ve Deri Masaüstü Ürünler",
+  image: "/products/promosyon-deri-kalemlik-ms-130.jpg",
+
+  shortDesc:
+    "Promosyon deri kalemlik MS-130, kartvizit bölmeli tasarımı ve şık görünümü ile masa üstü düzen sağlayan kurumsal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon deri kalemlik MS-130 modeli, masa üstü düzen sağlayan ve kurumsal kullanım için ideal olan şık promosyon ürünlerinden biridir.
+
+Suni deri kaplama yüzeyi sayesinde premium bir görünüm sunar ve ofis ortamına estetik bir katkı sağlar.
+
+Kalemlerin düzenli şekilde saklanmasını sağlarken, kartvizit bölmesi sayesinde iş dünyasında pratik kullanım avantajı sunar.
+
+Masa üzerinde sürekli kullanılan bir ürün olması sayesinde markanızın görünürlüğünü artırır ve uzun süreli reklam etkisi sağlar.
+
+Kompakt ve kullanışlı yapısı ile hem bireysel hem de kurumsal kullanımlar için uygundur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Deri Kalemlik  
+Kategori: Ahşap ve Deri Masaüstü Ürünler  
+
+Özellikler:
+
+Suni Deri Kaplama  
+Kalemlik + Kartvizit Bölmesi  
+Masa Üstü Düzenleyici  
+Şık ve Profesyonel Tasarım  
+
+Ürün Ölçüsü:
+
+22,5 x 10 x 8,5 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon deri kalemlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal ofisler  
+Masa üstü düzenleyici ürünler  
+Şirket hediyeleri  
+Prestij promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+`
+},
+{
+  id: "p320",
+  slug: "promosyon-masa-ustu-deri-urunler-ms-140",
+  title: "Promosyon Masa Üstü Deri Ürünler MS-140 | Kurumsal Ofis Seti",
+
+  category: "Ahşap ve Deri Masaüstü Ürünler",
+  image: "/products/promosyon-deri-masa-seti-ms-140.jpg",
+
+  shortDesc:
+    "Promosyon masa üstü deri ürünler MS-140, şık tasarımı ve çok amaçlı kullanımı ile ofis düzeni sağlayan kurumsal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon masa üstü deri ürünler MS-140 modeli, ofis ve çalışma alanlarında düzen sağlayan şık ve kullanışlı promosyon ürünlerinden biridir.
+
+Deri kaplama tasarımı sayesinde estetik ve profesyonel bir görünüm sunar. Kurumsal ortamlarda masa düzenini sağlarken markanızı prestijli şekilde temsil eder.
+
+Çok bölmeli yapısı sayesinde kalem, kartvizit ve diğer masa üstü ürünlerinin düzenli şekilde kullanılmasına imkan tanır.
+
+Masa üzerinde sürekli kullanılan bir ürün olması sayesinde marka görünürlüğünü artırır ve uzun süreli reklam etkisi sağlar.
+
+Kurumsal firmalar için hem işlevsel hem de prestijli bir promosyon ürünü olarak öne çıkar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Masa Üstü Deri Ürünler  
+Kategori: Ahşap ve Deri Masaüstü Ürünler  
+
+Özellikler:
+
+Deri Kaplama Tasarım  
+Çok Bölmeli Kullanım  
+Masa Üstü Düzenleyici  
+Şık ve Profesyonel Görünüm  
+
+Ürün Ölçüsü:
+
+10,5 x 11 x 28,5 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon masa üstü deri ürün siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal ofisler  
+Masa üstü düzenleyici ürünler  
+Şirket hediyeleri  
+Prestij promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+`
+},
+{
+  id: "p321",
+  slug: "promosyon-deri-kalemlik-ms-150",
+  title: "Promosyon Deri Kalemlik MS-150 | Kartvizit Bölmeli Notluklu Masa Üstü Set",
+
+  category: "Ahşap ve Deri Masaüstü Ürünler",
+  image: "/products/promosyon-deri-kalemlik-ms-150.jpg",
+
+  shortDesc:
+    "Promosyon deri kalemlik MS-150, kartvizit bölmesi ve notluk özelliği ile masa üstü düzen sağlayan şık ve fonksiyonel promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon deri kalemlik MS-150 modeli, masa üstü düzen sağlayan ve çok amaçlı kullanımı ile öne çıkan kurumsal promosyon ürünlerinden biridir.
+
+Suni deri kaplama yüzeyi sayesinde premium ve şık bir görünüm sunar. Ofis ortamlarında estetik bir masa düzeni oluşturur.
+
+Kalemlik, kartvizit bölmesi ve notluk alanı sayesinde birden fazla ihtiyaca aynı anda çözüm sunar. Bu çok fonksiyonlu yapısı sayesinde kullanıcılar tarafından sürekli tercih edilir.
+
+Masa üzerinde sürekli kullanılan bir ürün olması sayesinde markanızın görünürlüğünü artırır ve uzun süreli reklam etkisi sağlar.
+
+Kurumsal firmalar için hem işlevsel hem de prestijli bir promosyon ürünü olarak öne çıkar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Deri Kalemlik  
+Kategori: Ahşap ve Deri Masaüstü Ürünler  
+
+Özellikler:
+
+Suni Deri Kaplama  
+Kalemlik + Kartvizit Bölmesi + Notluk  
+Çok Fonksiyonlu Tasarım  
+Masa Üstü Düzenleyici  
+Şık ve Profesyonel Görünüm  
+
+Ürün Ölçüsü:
+
+24 x 10 x 10 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon deri kalemlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal ofisler  
+Masa üstü düzenleyici ürünler  
+Şirket hediyeleri  
+Prestij promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+`
+},
+{
+  id: "p322",
+  slug: "promosyon-deri-kalemlik-ms-160",
+  title: "Promosyon Deri Kalemlik MS-160 | Kartvizit ve Telefon Bölmeli Masa Üstü Set",
+
+  category: "Ahşap ve Deri Masaüstü Ürünler",
+  image: "/products/promosyon-deri-kalemlik-ms-160.jpg",
+
+  shortDesc:
+    "Promosyon deri kalemlik MS-160, kartvizit ve cep telefonu bölmeli yapısı ile masa üstü düzen sağlayan modern promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon deri kalemlik MS-160 modeli, masa üstü düzen sağlayan ve modern kullanım ihtiyaçlarına uygun olarak tasarlanmış fonksiyonel promosyon ürünlerinden biridir.
+
+Suni deri kaplama yüzeyi sayesinde şık ve profesyonel bir görünüm sunar. Ofis ortamlarında estetik bir masa düzeni oluşturur.
+
+Kalemlik, kartvizit bölmesi ve cep telefonu bölmesi sayesinde çok amaçlı kullanım imkanı sunar. Özellikle günümüz ofislerinde telefon kullanımına uygun yapısı ile öne çıkar.
+
+Masa üzerinde sürekli kullanılan bir ürün olması sayesinde markanızın görünürlüğünü artırır ve uzun süreli reklam etkisi sağlar.
+
+Kurumsal firmalar için hem işlevsel hem de prestijli bir promosyon ürünü olarak tercih edilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Deri Kalemlik  
+Kategori: Ahşap ve Deri Masaüstü Ürünler  
+
+Özellikler:
+
+Suni Deri Kaplama  
+Kalemlik + Kartvizit Bölmesi  
+Cep Telefonu Bölmesi  
+Çok Fonksiyonlu Tasarım  
+Masa Üstü Düzenleyici  
+
+Ürün Ölçüsü:
+
+10,5 x 21 x 10,5 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon deri kalemlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal ofisler  
+Masa üstü düzenleyici ürünler  
+Şirket hediyeleri  
+Prestij promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+`
+},
+{
+  id: "p323",
+  slug: "promosyon-deri-kalemlik-ms-170",
+  title: "Promosyon Deri Kalemlik MS-170 | Kartvizit Bölmeli Notluklu Masa Üstü Set",
+
+  category: "Ahşap ve Deri Masaüstü Ürünler",
+  image: "/products/promosyon-deri-kalemlik-ms-170.jpg",
+
+  shortDesc:
+    "Promosyon deri kalemlik MS-170, kartvizit bölmesi ve notluk özelliği ile masa üstü düzen sağlayan şık ve fonksiyonel promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon deri kalemlik MS-170 modeli, masa üstü düzen sağlayan ve çok fonksiyonlu yapısı ile öne çıkan kurumsal promosyon ürünlerinden biridir.
+
+Suni deri kaplama yüzeyi sayesinde şık ve profesyonel bir görünüm sunar. Ofis ortamlarında estetik bir masa düzeni oluşturur.
+
+Kalemlik, kartvizit bölmesi ve notluk alanı sayesinde birden fazla ihtiyaca aynı anda çözüm sunar. Bu sayede kullanıcılar tarafından sürekli tercih edilen bir ürün haline gelir.
+
+Masa üzerinde sürekli kullanılan bir ürün olması sayesinde markanızın görünürlüğünü artırır ve uzun süreli reklam etkisi sağlar.
+
+Kurumsal firmalar için hem işlevsel hem de prestijli bir promosyon ürünü olarak tercih edilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Deri Kalemlik  
+Kategori: Ahşap ve Deri Masaüstü Ürünler  
+
+Özellikler:
+
+Suni Deri Kaplama  
+Kalemlik + Kartvizit Bölmesi  
+Notluk Alanı  
+Çok Fonksiyonlu Tasarım  
+Masa Üstü Düzenleyici  
+
+Ürün Ölçüsü:
+
+22 x 10,5 x 11 cm  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon deri kalemlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal ofisler  
+Masa üstü düzenleyici ürünler  
+Şirket hediyeleri  
+Prestij promosyon ürünleri  
+Fuar ve etkinlik organizasyonları  
+`
+},
 
 ];
 
