@@ -32,7 +32,6 @@ const CATEGORY_ORDER = [
   "VIP Ürünler",
   "Masa Sümeni",
   "Hesap Makineleri",
-  
   "Ham Bez & Tela Çanta",
   "Bayraklar",
   "Teknolojik Ürünler",
@@ -469,6 +468,7 @@ export default function Home() {
                   Tüm Ürünleri İncele
                 </Link>
               </div>
+
               <HomeSearch />
             </div>
           </div>
@@ -506,13 +506,13 @@ export default function Home() {
             >
               <div className="absolute inset-0 bg-gradient-to-br from-white via-white to-gray-50" />
               <div className="relative">
-                <div className="relative aspect-[4/3] overflow-hidden border-b border-gray-100 bg-gray-100">
+                <div className="relative flex aspect-[4/3] items-center justify-center overflow-hidden border-b border-gray-100 bg-gray-100">
                   <Image
                     src={getCategoryImage(category)}
                     alt={category.name}
                     fill
                     sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
-                    className="object-contain p-4 transition duration-500 group-hover:scale-105"
+                    className="object-contain p-2 transition duration-500 group-hover:scale-105"
                   />
                 </div>
 
@@ -625,13 +625,13 @@ export default function Home() {
                   href={`/urunler/${slug}`}
                   className="group rounded-3xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
                 >
-                  <div className="relative aspect-square overflow-hidden rounded-2xl bg-gray-100">
+                  <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-gray-100">
                     <Image
                       src={img}
                       alt={title}
                       fill
                       sizes="(max-width: 768px) 50vw, 20vw"
-                      className="object-contain p-4 transition duration-500 group-hover:scale-105"
+                      className="object-contain p-2 transition duration-500 group-hover:scale-105"
                     />
                   </div>
 
@@ -965,13 +965,13 @@ function MiniProductCard({ product }: { product: any }) {
       href={`/urunler/${slug}`}
       className="group rounded-3xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
     >
-      <div className="relative aspect-square overflow-hidden rounded-2xl bg-gray-100">
+      <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-gray-100">
         <Image
           src={img}
           alt={title}
           fill
           sizes="(max-width: 640px) 100vw, 25vw"
-          className="object-contain p-4 transition duration-500 group-hover:scale-105"
+          className="object-contain p-2 transition duration-500 group-hover:scale-105"
         />
       </div>
 
