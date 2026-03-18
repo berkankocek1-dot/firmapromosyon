@@ -16588,6 +16588,1311 @@ Reklam ve marka tanıtımı
 Şirket özel gün hediyeleri  
 `
 },
+{
+  id: "p332",
+  slug: "promosyon-plastik-kalem-pls-360",
+  title: "Promosyon Plastik Kalem PLS-360 | Logo Baskılı Uygun Fiyatlı Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-360.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-360, uygun fiyatlı, geniş renk seçenekli ve logo baskıya uygun kurumsal reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-360 modeli, ekonomik fiyatı ve geniş kullanım alanı ile en çok tercih edilen promosyon ürünlerinden biridir.
+
+Günlük kullanım için ideal olan bu kalem, hafif yapısı ve ergonomik tasarımı sayesinde uzun süreli yazım konforu sunar.
+
+Farklı renk seçenekleri ile firmanıza uygun kombinler oluşturabilir, logo baskısı ile markanızı sürekli görünür hale getirebilirsiniz.
+
+Uygun maliyetli olması sayesinde toplu dağıtım, fuar, etkinlik ve promosyon kampanyaları için mükemmel bir çözümdür.
+
+Yüksek adetli siparişlerde avantaj sağlayan bu ürün, özellikle reklam kalemi arayan firmalar için ideal bir tercihtir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Kalem  
+
+Özellikler:
+
+Hafif ve Ergonomik Tasarım  
+Geniş Renk Seçeneği  
+Günlük Kullanıma Uygun  
+Ekonomik ve Toplu Dağıtıma Uygun  
+Logo Baskıya Uygun  
+
+Baskı Türü:
+
+Tampon Baskı  
+UV Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Minimum sipariş adedi ve baskı detayları teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok bilgisi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Fuar ve etkinlik dağıtımları  
+Kurumsal promosyon ürünleri  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p333",
+  slug: "promosyon-plastik-kalem-pls-365",
+  title: "Promosyon Plastik Kalem PLS-365 | Jel Refil Logo Baskılı Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-365.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-365, jel refil özelliği ile akıcı yazım sunan, logo baskıya uygun modern kurumsal reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-365 modeli, jel refil yapısı sayesinde klasik kalemlere göre çok daha akıcı ve konforlu bir yazım deneyimi sunar.
+
+Modern ve şık tasarımı ile dikkat çeken bu model, hem günlük kullanım hem de kurumsal promosyon çalışmaları için ideal bir tercihtir.
+
+Jel refil özelliği sayesinde yazım kalitesi yüksek olup kullanıcı memnuniyetini artırır ve markanızın daha prestijli algılanmasını sağlar.
+
+Logo baskısına uygun yüzeyi sayesinde firmanızın reklamını uzun süre görünür hale getirir.
+
+Toplu dağıtım, fuar, etkinlik ve müşteri hediyeleri için hem ekonomik hem de kaliteli bir çözümdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Kalem  
+
+Refil Tipi: Jel Refil  
+
+Özellikler:
+
+Akıcı ve Konforlu Yazım  
+Modern ve Şık Tasarım  
+Günlük Kullanıma Uygun  
+Logo Baskıya Uygun  
+Kurumsal Promosyon İçin İdeal  
+
+Baskı Türü:
+
+Tampon Baskı  
+UV Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Minimum sipariş adedi ve baskı detayları teklif aşamasında belirlenmektedir.
+
+Güncel fiyat ve stok bilgisi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p334",
+  slug: "promosyon-plastik-kalem-pls-370",
+  title: "Promosyon Plastik Kalem PLS-370 | Logo Baskılı Toptan Reklam Kalemi",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-370.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-370, geniş renk seçenekleri, kaliteli baskı alanı ve uygun fiyat avantajı ile kurumsal reklam kalemi olarak ideal bir tercihtir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-370 modeli, hem ekonomik fiyatı hem de geniş renk seçenekleri ile en çok tercih edilen promosyon kalemler arasında yer almaktadır.
+
+Şık ve sade tasarımı sayesinde her sektöre hitap eden bu model, kurumsal firmalar için etkili bir reklam ürünüdür.
+
+Geniş baskı alanı sayesinde firmanızın logosu, sloganı veya iletişim bilgileri net ve dikkat çekici şekilde uygulanabilir.
+
+Dayanıklı plastik yapısı ve kaliteli refil sistemi sayesinde uzun ömürlü kullanım sunar ve markanızın kalıcılığını artırır.
+
+Toplu siparişler için uygun olan bu ürün, özellikle fuar, etkinlik ve müşteri dağıtımları için yüksek geri dönüş sağlayan promosyon ürünlerinden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Kalem  
+
+Uzunluk: 140 mm  
+Çap: Ø10 mm  
+
+Refil Tipi: Mavi Refil  
+
+Baskı Türleri:
+
+Serigrafi Baskı  
+Tampon Baskı  
+UV Baskı  
+
+Baskı Alanı:
+
+Gövde: 55 x 6,5 mm  
+Klips: 35 x 6,5 mm  
+
+Özellikler:
+
+Geniş Renk Seçeneği  
+Ergonomik ve Hafif Tasarım  
+Geniş Baskı Alanı  
+Uzun Ömürlü Kullanım  
+Kurumsal Reklam İçin Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renge göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde netleştirilmektedir.
+
+Güncel fiyat ve detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p335",
+  slug: "promosyon-plastik-kalem-pls-380",
+  title: "Promosyon Plastik Kalem PLS-380 | Yerli Üretim Logo Baskılı Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-380.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-380, yerli üretim kalitesi, dayanıklı yapısı ve logo baskıya uygun tasarımı ile kurumsal reklam kalemi olarak öne çıkar.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-380 modeli, yerli üretim kalitesi ve dayanıklı yapısı ile uzun ömürlü kullanım sunan ekonomik promosyon kalemler arasında yer almaktadır.
+
+Basmalı mekanizması sayesinde pratik kullanım sağlayan bu model, günlük ofis kullanımı ve kurumsal dağıtımlar için ideal bir tercihtir.
+
+UV ve tampon baskı tekniklerine uygun yüzeyi sayesinde firmanızın logosu kalem üzerinde net ve kalıcı şekilde uygulanabilir.
+
+Sade ve şık tasarımı ile farklı sektörlerde rahatlıkla kullanılabilir ve markanızın sürekli görünür olmasını sağlar.
+
+Toplu siparişler için uygun fiyat avantajı sunan bu ürün, özellikle fuar, etkinlik ve promosyon kampanyalarında yüksek verim sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Kalem  
+
+Mekanizma: Basmalı  
+Refil Tipi: Tükenmez Kalem  
+
+Üretim: Yerli Üretim  
+
+Baskı Türleri:
+
+UV Baskı  
+Tampon Baskı  
+
+Özellikler:
+
+Dayanıklı Plastik Gövde  
+Ergonomik Tasarım  
+Pratik Kullanım  
+Logo Baskıya Uygun  
+Ekonomik Promosyon Çözümü  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renge göre planlama yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p336",
+  slug: "promosyon-plastik-kalem-pls-390",
+  title: "Promosyon Plastik Kalem PLS-390 | Logo Baskılı Kurumsal Reklam Kalemi",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-390.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-390, geniş baskı alanı, dayanıklı yapısı ve uygun fiyatı ile kurumsal tanıtımlar için ideal reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-390 modeli, şık tasarımı ve geniş baskı alanı ile markanızı en etkili şekilde yansıtmanızı sağlayan profesyonel promosyon kalemlerden biridir.
+
+Dayanıklı plastik gövdesi ve kaliteli refil yapısı sayesinde uzun süreli kullanım sunar ve reklamınızın kalıcılığını artırır.
+
+Geniş baskı alanı sayesinde firmanızın logosu, iletişim bilgileri ve sloganı net bir şekilde uygulanabilir.
+
+Serigrafi, tampon ve UV baskı tekniklerine uygun yapısı ile farklı tasarım ihtiyaçlarına cevap verir.
+
+Ekonomik fiyat avantajı sayesinde toplu dağıtım, fuar ve etkinliklerde en çok tercih edilen promosyon ürünlerinden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Kalem  
+
+Uzunluk: 140 mm  
+Çap: Ø10 mm  
+
+Refil Tipi: Mavi Refil  
+
+Baskı Türleri:
+
+Serigrafi Baskı  
+Tampon Baskı  
+UV Baskı  
+
+Baskı Alanı:
+
+Gövde: 55 x 6,5 mm  
+Klips: 40 x 6,5 mm  
+
+Özellikler:
+
+Geniş Baskı Alanı  
+Dayanıklı Plastik Gövde  
+Ergonomik Tasarım  
+Uzun Ömürlü Kullanım  
+Kurumsal Promosyon İçin Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre planlama yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p337",
+  slug: "promosyon-plastik-kalem-pls-400",
+  title: "Promosyon Plastik Jel Kalem PLS-400 | Yarı Jel Refil Logo Baskılı Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-400.jpg",
+
+  shortDesc:
+    "Promosyon jel kalem PLS-400, yarı jel refil teknolojisi ile akıcı yazım sunan, kapaklı mekanizmalı ve logo baskıya uygun modern reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-400 modeli, yarı jel refil yapısı sayesinde klasik tükenmez kalemlere göre daha akıcı ve konforlu bir yazım deneyimi sunar.
+
+Kapaklı mekanizması ile hem şık bir görünüm hem de pratik kullanım sağlayan bu model, kurumsal promosyon ürünleri arasında öne çıkan seçeneklerden biridir.
+
+Yarı jel refil teknolojisi sayesinde yazım kalitesi artar, kullanıcı memnuniyeti yükselir ve markanız daha kaliteli bir algı oluşturur.
+
+UV ve tampon baskı tekniklerine uygun yüzeyi sayesinde firmanızın logosu net ve kalıcı şekilde uygulanabilir.
+
+Modern tasarımı ve renk seçenekleri ile hem günlük kullanım hem de kurumsal dağıtımlar için ideal bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Jel Kalem  
+Kategori: Kalem  
+
+Mekanizma: Kapaklı  
+Refil Tipi: Yarı Jel Refil  
+
+Baskı Türleri:
+
+Tampon Baskı  
+UV Baskı  
+
+Özellikler:
+
+Akıcı ve Konforlu Yazım  
+Şık ve Modern Tasarım  
+Kapaklı Mekanizma  
+Logo Baskıya Uygun  
+Kurumsal Promosyon İçin İdeal  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre planlama yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p338",
+  slug: "promosyon-plastik-kalem-pls-410",
+  title: "Promosyon Plastik Kalem PLS-410 | Logo Baskılı Ekonomik Reklam Kalemi",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-410.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-410, uygun fiyatı, canlı renk seçenekleri ve logo baskıya uygun yapısı ile toplu dağıtımlar için ideal reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-410 modeli, ekonomik fiyat avantajı ve geniş renk seçenekleri ile firmaların en çok tercih ettiği promosyon kalemler arasında yer almaktadır.
+
+Hafif ve ergonomik yapısı sayesinde uzun süreli kullanım konforu sunar ve günlük hayatta sıkça tercih edilir.
+
+Canlı renk seçenekleri ile markanızın dikkat çekmesini sağlar ve fuar, etkinlik gibi ortamlarda yüksek görünürlük sunar.
+
+Logo baskısına uygun yüzeyi sayesinde firmanızın reklamını uzun süre kalıcı hale getirir.
+
+Toplu siparişlerde maliyet avantajı sunan bu model, özellikle reklam kalemi arayan firmalar için güçlü bir çözümdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Kalem  
+
+Refil Tipi: Tükenmez Kalem  
+
+Baskı Türleri:
+
+Tampon Baskı  
+UV Baskı  
+
+Özellikler:
+
+Ekonomik Fiyat Avantajı  
+Geniş Renk Seçeneği  
+Hafif ve Ergonomik Tasarım  
+Logo Baskıya Uygun  
+Toplu Dağıtıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre planlama yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p339",
+  slug: "promosyon-plastik-kalem-pls-420",
+  title: "Promosyon Plastik Kalem PLS-420 | Geniş Baskı Alanlı Logo Baskılı Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-420.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-420, geniş baskı alanı, dayanıklı yapısı ve zengin renk seçenekleri ile kurumsal reklam kalemi olarak öne çıkar.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-420 modeli, geniş baskı alanı ve sağlam yapısı ile markanızı en etkili şekilde yansıtmanızı sağlayan profesyonel promosyon kalemler arasında yer almaktadır.
+
+140 mm uzunluğu ve ergonomik tasarımı sayesinde kullanıcıya konforlu bir yazım deneyimi sunar.
+
+Gövde ve klips bölgesindeki baskı alanları sayesinde firmanızın logosu ve mesajları daha görünür ve dikkat çekici şekilde uygulanabilir.
+
+Serigrafi, tampon ve UV baskı tekniklerine uygun yapısı ile farklı tasarım ihtiyaçlarına kolaylıkla uyum sağlar.
+
+Toplu siparişler için ekonomik bir çözüm sunan bu model, özellikle fuar, etkinlik ve müşteri dağıtımlarında yüksek verim sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Kalem  
+
+Uzunluk: 140 mm  
+Çap: Ø10 mm  
+
+Refil Tipi: Mavi Refil  
+
+Baskı Türleri:
+
+Serigrafi Baskı  
+Tampon Baskı  
+UV Baskı  
+
+Baskı Alanı:
+
+Gövde: 55 x 6,5 mm  
+Klips: 30 x 6,5 mm  
+
+Özellikler:
+
+Geniş Baskı Alanı  
+Dayanıklı Plastik Gövde  
+Ergonomik Tasarım  
+Uzun Ömürlü Kullanım  
+Kurumsal Promosyon İçin Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p340",
+  slug: "promosyon-plastik-kalem-pls-430",
+  title: "Promosyon Plastik Kalem PLS-430 | Logo Baskılı Toptan Reklam Kalemi",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-430.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-430, geniş baskı alanı, dayanıklı yapısı ve uygun fiyatı ile kurumsal reklam kalemi olarak tercih edilen modellerden biridir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-430 modeli, ekonomik fiyatı ve profesyonel baskı alanı ile markanızı en etkili şekilde tanıtmanızı sağlayan promosyon ürünlerinden biridir.
+
+140 mm uzunluğu ve ergonomik yapısı sayesinde kullanıcıya rahat bir yazım deneyimi sunar.
+
+Gövde ve klips üzerinde bulunan geniş baskı alanları sayesinde logo, slogan ve iletişim bilgileri net ve dikkat çekici şekilde uygulanabilir.
+
+Serigrafi, tampon ve UV baskı teknikleri ile uyumlu olan bu model, farklı tasarım ihtiyaçlarına kolaylıkla cevap verir.
+
+Toplu siparişlerde maliyet avantajı sunması sayesinde fuar, etkinlik ve müşteri dağıtımlarında sıkça tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Kalem  
+
+Uzunluk: 140 mm  
+Çap: Ø10 mm  
+
+Refil Tipi: Mavi Refil  
+
+Baskı Türleri:
+
+Serigrafi Baskı  
+Tampon Baskı  
+UV Baskı  
+
+Baskı Alanı:
+
+Gövde: 55 x 6,5 mm  
+Klips: 30 x 6,5 mm  
+
+Özellikler:
+
+Geniş Baskı Alanı  
+Dayanıklı Plastik Gövde  
+Ergonomik Tasarım  
+Uzun Ömürlü Kullanım  
+Kurumsal Promosyon İçin Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p341",
+  slug: "promosyon-plastik-kalem-pls-440",
+  title: "Promosyon Plastik Jel Kalem PLS-440 | İmza Kalemi Logo Baskılı Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-440.jpg",
+
+  shortDesc:
+    "Promosyon jel kalem PLS-440, imza kalemi formu, akıcı yazım performansı ve logo baskıya uygun yapısı ile premium promosyon kalemdir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-440 modeli, jel refil teknolojisi ve imza kalemi formu ile klasik promosyon kalemlerden ayrılan daha prestijli bir seçenektir.
+
+137 mm uzunluğu ve ergonomik yapısı sayesinde kullanıcıya konforlu ve akıcı bir yazım deneyimi sunar.
+
+İmza kalemi olarak tercih edilebilecek bu model, özellikle ofis kullanımı, toplantılar ve kurumsal hediye seçenekleri için idealdir.
+
+Jel refil yapısı sayesinde yazım kalitesi yüksek olup daha pürüzsüz ve net bir yazı deneyimi sağlar.
+
+Serigrafi, tampon ve UV baskı tekniklerine uygun yüzeyi sayesinde firmanızın logosu kalıcı ve şık şekilde uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Jel Kalem  
+Kategori: Kalem  
+
+Uzunluk: 137 mm  
+Çap: Ø10 mm  
+
+Refil Tipi: Mavi Jel Refil  
+
+Baskı Türleri:
+
+Serigrafi Baskı  
+Tampon Baskı  
+UV Baskı  
+
+Baskı Alanı:
+
+Gövde: 55 x 6,5 mm  
+
+Özellikler:
+
+İmza Kalemi Formu  
+Akıcı ve Pürüzsüz Yazım  
+Ergonomik Tasarım  
+Premium Görünüm  
+Logo Baskıya Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve yönetici kullanımı  
+İmza kalemi olarak kullanım  
+Fuar ve etkinlik dağıtımları  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p342",
+  slug: "promosyon-plastik-kalem-pls-450",
+  title: "Promosyon Plastik Jel Kalem PLS-450 | İnce Uç Logo Baskılı Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-450.jpg",
+
+  shortDesc:
+    "Promosyon jel kalem PLS-450, ince uç jel refil yapısı ve basmalı mekanizması ile akıcı yazım sunan, logo baskıya uygun modern reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-450 modeli, jel refil teknolojisi ve ince uç yapısı sayesinde yüksek yazım kalitesi sunan premium promosyon kalemlerden biridir.
+
+Basmalı mekanizması ile pratik kullanım sağlayan bu model, günlük kullanımda hız ve konfor sunar.
+
+İnce uç jel refil yapısı sayesinde daha net, akıcı ve pürüzsüz bir yazım deneyimi sağlar, bu da kullanıcı memnuniyetini artırır ve markanızın daha kaliteli algılanmasına katkı sağlar.
+
+Modern ve sade tasarımı ile farklı sektörlerde rahatlıkla kullanılabilir ve kurumsal promosyon çalışmalarında etkili bir reklam ürünü olarak öne çıkar.
+
+UV ve tampon baskı tekniklerine uygun yüzeyi sayesinde firmanızın logosu kalıcı ve dikkat çekici şekilde uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Jel Kalem  
+Kategori: Kalem  
+
+Mekanizma: Basmalı  
+Refil Tipi: Jel Refil (İnce Uç)  
+
+Baskı Türleri:
+
+Tampon Baskı  
+UV Baskı  
+
+Özellikler:
+
+İnce Uç Akıcı Yazım  
+Basmalı Mekanizma  
+Modern ve Şık Tasarım  
+Logo Baskıya Uygun  
+Kurumsal Promosyon İçin İdeal  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p343",
+  slug: "promosyon-plastik-kalem-pls-460",
+  title: "Promosyon Plastik Jel Kalem PLS-460 | Süper Jel Refil Logo Baskılı Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-460.jpg",
+
+  shortDesc:
+    "Promosyon jel kalem PLS-460, süper jel refil teknolojisi ile ultra akıcı yazım sunan, geniş baskı alanlı premium reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-460 modeli, süper jel refil teknolojisi sayesinde üst düzey yazım performansı sunan premium promosyon kalemlerden biridir.
+
+Klasik tükenmez kalemlere göre çok daha akıcı ve pürüzsüz yazım sağlayan bu model, kullanıcı deneyimini artırarak markanızın daha kaliteli algılanmasını sağlar.
+
+140 mm uzunluğu ve ergonomik yapısı sayesinde uzun süreli kullanımda konfor sunar.
+
+Gövde ve klips üzerinde yer alan geniş baskı alanları sayesinde firmanızın logosu ve marka mesajı dikkat çekici şekilde uygulanabilir.
+
+Serigrafi, tampon ve UV baskı teknikleri ile uyumlu olan bu model, kurumsal promosyon çalışmalarında yüksek verim sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Jel Kalem  
+Kategori: Kalem  
+
+Uzunluk: 140 mm  
+Çap: Ø10 mm  
+
+Refil Tipi: Süper Jel Refil  
+
+Baskı Türleri:
+
+Serigrafi Baskı  
+Tampon Baskı  
+UV Baskı  
+
+Baskı Alanı:
+
+Gövde: 55 x 6,5 mm  
+Klips: 35 x 6,5 mm  
+
+Özellikler:
+
+Süper Jel Refil Teknolojisi  
+Ultra Akıcı Yazım  
+Geniş Baskı Alanı  
+Ergonomik Tasarım  
+Premium Görünüm  
+Logo Baskıya Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p344",
+  slug: "promosyon-plastik-kalem-pls-470",
+  title: "Promosyon Plastik Jel Kalem PLS-470 | Jumbo Jel Refil Logo Baskılı Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-470.jpg",
+
+  shortDesc:
+    "Promosyon jel kalem PLS-470, jumbo jel refil özelliği ile uzun ömürlü ve akıcı yazım sunan, geniş baskı alanlı premium reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-470 modeli, jumbo jel refil teknolojisi sayesinde hem akıcı yazım hem de uzun süreli kullanım sunan üst segment promosyon kalemlerden biridir.
+
+Jumbo jel refil yapısı sayesinde daha fazla mürekkep kapasitesine sahip olup, standart kalemlere göre çok daha uzun ömürlü kullanım sağlar.
+
+140 mm uzunluğu ve ergonomik tasarımı ile kullanıcıya konforlu bir yazım deneyimi sunar.
+
+Gövde ve klips üzerindeki geniş baskı alanları sayesinde firmanızın logosu ve marka mesajı daha dikkat çekici ve net şekilde uygulanabilir.
+
+Serigrafi, tampon ve UV baskı teknikleri ile uyumlu olan bu model, kurumsal promosyon çalışmalarında maksimum etki sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Jel Kalem  
+Kategori: Kalem  
+
+Uzunluk: 140 mm  
+Çap: Ø10 mm  
+
+Refil Tipi: Jumbo Jel Refil  
+
+Baskı Türleri:
+
+Serigrafi Baskı  
+Tampon Baskı  
+UV Baskı  
+
+Baskı Alanı:
+
+Gövde: 55 x 6,5 mm  
+Klips: 40 x 6,5 mm  
+
+Özellikler:
+
+Jumbo Jel Refil Teknolojisi  
+Uzun Ömürlü Kullanım  
+Akıcı ve Pürüzsüz Yazım  
+Geniş Baskı Alanı  
+Ergonomik Tasarım  
+Logo Baskıya Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p345",
+  slug: "promosyon-plastik-kalem-pls-480",
+  title: "Promosyon Plastik Jel Kalem PLS-480 | Jumbo Jel Refil Logo Baskılı Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-480.jpg",
+
+  shortDesc:
+    "Promosyon jel kalem PLS-480, jumbo jel refil özelliği ile uzun ömürlü ve akıcı yazım sunan, geniş baskı alanlı kurumsal reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-480 modeli, jumbo jel refil teknolojisi ile hem akıcı yazım hem de uzun süreli kullanım avantajı sunan premium promosyon kalemler arasında yer almaktadır.
+
+Yüksek mürekkep kapasitesine sahip jumbo jel refil yapısı sayesinde standart kalemlere göre daha uzun ömürlü kullanım sağlar.
+
+140 mm uzunluğu ve ergonomik tasarımı ile kullanıcıya konforlu bir yazım deneyimi sunar.
+
+Gövde ve klips üzerinde yer alan geniş baskı alanları sayesinde firmanızın logosu ve marka mesajı net ve dikkat çekici şekilde uygulanabilir.
+
+Serigrafi, tampon ve UV baskı teknikleri ile uyumlu olan bu model, kurumsal promosyon çalışmalarında maksimum verim sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Jel Kalem  
+Kategori: Kalem  
+
+Uzunluk: 140 mm  
+Çap: Ø10 mm  
+
+Refil Tipi: Jumbo Jel Refil  
+
+Baskı Türleri:
+
+Serigrafi Baskı  
+Tampon Baskı  
+UV Baskı  
+
+Baskı Alanı:
+
+Gövde: 55 x 6,5 mm  
+Klips: 40 x 6,5 mm  
+
+Özellikler:
+
+Jumbo Jel Refil Teknolojisi  
+Uzun Ömürlü Kullanım  
+Akıcı ve Pürüzsüz Yazım  
+Geniş Baskı Alanı  
+Ergonomik Tasarım  
+Logo Baskıya Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p346",
+  slug: "promosyon-plastik-kalem-pls-510",
+  title: "Promosyon Plastik Kalem PLS-510 | Logo Baskılı Ekonomik Reklam Kalemi",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-510.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-510, uygun fiyatı, geniş renk seçenekleri ve logo baskıya uygun yapısı ile toplu dağıtımlar için ideal reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-510 modeli, ekonomik fiyat avantajı ve zengin renk seçenekleri ile firmaların en çok tercih ettiği promosyon kalemler arasında yer almaktadır.
+
+Hafif ve ergonomik yapısı sayesinde günlük kullanım için ideal olup uzun süreli yazım konforu sunar.
+
+Canlı renk alternatifleri sayesinde markanızın dikkat çekmesini sağlar ve fuar, etkinlik gibi ortamlarda yüksek görünürlük elde etmenize yardımcı olur.
+
+Logo baskısına uygun yüzeyi sayesinde firmanızın reklamı uzun süre kalıcı hale gelir.
+
+Toplu siparişler için maliyet avantajı sunan bu model, özellikle geniş kitlelere ulaşmak isteyen firmalar için etkili bir promosyon çözümüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Kalem  
+
+Refil Tipi: Tükenmez Kalem  
+
+Baskı Türleri:
+
+Tampon Baskı  
+UV Baskı  
+
+Özellikler:
+
+Ekonomik Fiyat Avantajı  
+Geniş Renk Seçeneği  
+Hafif ve Ergonomik Tasarım  
+Logo Baskıya Uygun  
+Toplu Dağıtıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p347",
+  slug: "promosyon-plastik-kalem-pls-520",
+  title: "Promosyon Plastik Kalem PLS-520 | Logo Baskılı Renkli Reklam Kalemi",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-520.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-520, zengin renk seçenekleri, uygun fiyatı ve logo baskıya uygun yapısı ile kurumsal reklam kalemi olarak öne çıkar.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-520 modeli, geniş ve canlı renk seçenekleri ile dikkat çeken, ekonomik ve etkili promosyon ürünlerinden biridir.
+
+Farklı renk alternatifleri sayesinde markanızın kurumsal renklerine uygun seçimler yapılabilir ve reklam etkisi artırılabilir.
+
+Hafif ve ergonomik tasarımı sayesinde günlük kullanımda konfor sunar ve uzun süreli kullanım imkanı sağlar.
+
+Logo baskısına uygun yüzeyi ile firmanızın logosu ve marka mesajı kalıcı şekilde uygulanabilir.
+
+Toplu siparişlerde maliyet avantajı sunan bu model, özellikle fuar, etkinlik ve promosyon kampanyalarında yüksek geri dönüş sağlayan bir üründür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Kalem  
+
+Refil Tipi: Tükenmez Kalem  
+
+Baskı Türleri:
+
+Tampon Baskı  
+UV Baskı  
+
+Özellikler:
+
+Canlı ve Geniş Renk Seçeneği  
+Ergonomik ve Hafif Tasarım  
+Ekonomik Promosyon Çözümü  
+Logo Baskıya Uygun  
+Toplu Dağıtıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p348",
+  slug: "promosyon-plastik-kalem-pls-530",
+  title: "Promosyon Plastik Kalem PLS-530 | İnce Refil Logo Baskılı Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-530.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-530, ince tip refil yapısı ve basmalı mekanizması ile konforlu yazım sunan, logo baskıya uygun reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-530 modeli, ince tip refil yapısı sayesinde daha kontrollü ve net yazım sunan fonksiyonel promosyon kalemler arasında yer almaktadır.
+
+Basmalı mekanizması ile pratik kullanım sağlayan bu model, günlük kullanımda hız ve konfor sunar.
+
+Mavi renk mürekkebi ile standart yazım ihtiyaçlarını karşılayan bu kalem, ofis ve kurumsal kullanım için ideal bir tercihtir.
+
+Şık ve sade tasarımı sayesinde farklı sektörlerde rahatlıkla kullanılabilir ve marka tanıtımı için etkili bir promosyon ürünüdür.
+
+Logo baskısına uygun yüzeyi sayesinde firmanızın reklamını uzun süre görünür hale getirir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Kalem  
+
+Mekanizma: Basmalı  
+Refil Tipi: İnce Tip Refil  
+Mürekkep Rengi: Mavi  
+
+Baskı Türleri:
+
+Tampon Baskı  
+UV Baskı  
+
+Özellikler:
+
+İnce Tip Refil ile Net Yazım  
+Basmalı Mekanizma  
+Ergonomik Tasarım  
+Logo Baskıya Uygun  
+Günlük Kullanım İçin İdeal  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p349",
+  slug: "promosyon-plastik-kalem-pls-540",
+  title: "Promosyon Plastik Jel Kalem PLS-540 | Kalın Gövdeli Logo Baskılı Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-540.jpg",
+
+  shortDesc:
+    "Promosyon jel kalem PLS-540, kalın gövde tasarımı ve akıcı yazım performansı ile dikkat çeken, logo baskıya uygun premium reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-540 modeli, Ø12 mm kalın gövde tasarımı ile standart kalemlere göre daha konforlu tutuş ve daha güçlü bir reklam görünürlüğü sunar.
+
+Jel refil yapısı sayesinde akıcı ve pürüzsüz yazım deneyimi sağlayarak kullanıcı memnuniyetini artırır.
+
+Kalın gövdesi sayesinde baskı alanı daha dikkat çekici hale gelir ve firmanızın logosu daha görünür şekilde sergilenir.
+
+140 mm uzunluğu ile ergonomik kullanım sunan bu model, hem günlük kullanım hem de kurumsal promosyon çalışmaları için ideal bir tercihtir.
+
+Serigrafi, tampon ve UV baskı tekniklerine uygun yapısı sayesinde farklı tasarım ihtiyaçlarına kolaylıkla uyum sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Jel Kalem  
+Kategori: Kalem  
+
+Uzunluk: 140 mm  
+Çap: Ø12 mm  
+
+Refil Tipi: Jel Refil  
+
+Baskı Türleri:
+
+Serigrafi Baskı  
+Tampon Baskı  
+UV Baskı  
+
+Baskı Alanı:
+
+Gövde: 55 x 6,5 mm  
+Klips: 40 x 6,5 mm  
+
+Özellikler:
+
+Kalın Gövde Tasarımı  
+Akıcı ve Pürüzsüz Yazım  
+Geniş ve Dikkat Çekici Baskı Alanı  
+Ergonomik Kullanım  
+Logo Baskıya Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p350",
+  slug: "promosyon-plastik-kalem-pls-600",
+  title: "Promosyon Plastik Kalem PLS-600 | Logo Baskılı Ekonomik Tükenmez Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-plastik-kalem-pls-600.jpg",
+
+  shortDesc:
+    "Promosyon plastik kalem PLS-600, uygun fiyatı ve basmalı mekanizması ile toplu dağıtımlar için ideal, logo baskıya uygun reklam kalemidir.",
+
+  longDesc: `
+Promosyon plastik kalem PLS-600 modeli, ekonomik fiyatı ve sade tasarımı ile geniş kitlelere ulaşmak isteyen firmalar için ideal bir promosyon ürünüdür.
+
+Basmalı mekanizması sayesinde pratik kullanım sunar ve günlük kullanımda hızlı ve konforlu bir deneyim sağlar.
+
+Mavi renk mürekkebi ile standart yazım ihtiyaçlarını karşılayan bu kalem, ofis kullanımı ve dağıtım amaçlı promosyonlar için uygundur.
+
+Hafif ve ergonomik yapısı sayesinde uzun süreli kullanımda rahatlık sağlar.
+
+Logo baskısına uygun yüzeyi ile firmanızın marka bilinirliğini artırır ve reklamınızı uzun süre görünür hale getirir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Plastik Kalem  
+Kategori: Kalem  
+
+Mekanizma: Basmalı  
+Refil Tipi: Tükenmez Kalem  
+Mürekkep Rengi: Mavi  
+
+Baskı Türleri:
+
+Tampon Baskı  
+UV Baskı  
+
+Özellikler:
+
+Ekonomik Fiyat Avantajı  
+Basmalı Mekanizma  
+Hafif ve Ergonomik Tasarım  
+Logo Baskıya Uygun  
+Toplu Dağıtıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Ofis ve günlük kullanım  
+Müşteri hediyeleri  
+`
+},
+{
+  id: "p351",
+  slug: "promosyon-roller-kalem-rk-100",
+  title: "Promosyon Roller Kalem RK-100 | Lazer Baskılı Premium Kalem",
+
+  category: "Kalem",
+  image: "/products/promosyon-roller-kalem-rk-100.jpg",
+
+  shortDesc:
+    "Promosyon roller kalem RK-100, rubber gövde tasarımı ve lazer baskı özelliği ile şık ve premium kurumsal hediye kalemidir.",
+
+  longDesc: `
+Promosyon roller kalem RK-100 modeli, rubber (kauçuk) gövde yapısı ve premium tasarımı ile klasik promosyon kalemlerden ayrılan üst segment bir üründür.
+
+Yumuşak dokulu yüzeyi sayesinde elde kaymaz ve konforlu bir kullanım sunar.
+
+Roller kalem yapısı sayesinde akıcı ve pürüzsüz yazım performansı sağlayarak kullanıcı deneyimini üst seviyeye taşır.
+
+Lazer ile gümüş baskı özelliği sayesinde firmanızın logosu kalem üzerinde şık ve kalıcı şekilde uygulanır.
+
+Modern ve prestijli görünümü ile özellikle kurumsal hediyeler, yönetici setleri ve özel müşteriler için ideal bir tercihtir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Roller Kalem  
+Kategori: Kalem  
+
+Gövde: Rubber (Kaymaz Yüzey)  
+
+Baskı Türü:
+
+Lazer Baskı (Gümüş Görünüm)  
+
+Özellikler:
+
+Premium ve Şık Tasarım  
+Yumuşak Dokulu Kaymaz Yüzey  
+Akıcı ve Pürüzsüz Yazım  
+Uzun Ömürlü Kullanım  
+Logo Baskıya Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon roller kalem siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok bilgileri sipariş aşamasında teyit edilmekte olup, talep edilen renk ve adetlere göre üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları teklif sürecinde belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Yönetici ve VIP müşteri hediyeleri  
+Ofis ve günlük kullanım  
+Fuar ve özel etkinlikler  
+Prestijli marka tanıtımı  
+`
+},
 
 ];
 
