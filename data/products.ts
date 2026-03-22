@@ -17893,6 +17893,1509 @@ Fuar ve özel etkinlikler
 Prestijli marka tanıtımı  
 `
 },
+{
+  id: "p352",
+  slug: "promosyon-usb-bellek-ub-300",
+  title: "Promosyon USB Bellek UB-300 | Logo Baskılı USB 2.0 & 3.0 Flash Bellek",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-300.jpg",
+
+  shortDesc:
+    "Promosyon USB bellek UB-300, farklı kapasite seçenekleri ve logo baskı imkanı ile kurumsal tanıtım için ideal flash bellek modelidir.",
+
+  longDesc: `
+Promosyon USB bellek UB-300 modeli, farklı kapasite seçenekleri ve modern tasarımı ile kurumsal tanıtım çalışmalarında en çok tercih edilen promosyon ürünlerinden biridir.
+
+USB 2.0 ve USB 3.0 seçenekleri ile hızlı veri aktarımı sağlar ve günlük kullanım için yüksek performans sunar.
+
+Farklı renk alternatifleri (mat ve parlak yüzey seçenekleri) sayesinde markanıza uygun tasarım kolayca oluşturulabilir.
+
+Logo baskıya uygun geniş yüzeyi ile firmanızın reklamını kalıcı ve etkili şekilde yapmanıza yardımcı olur.
+
+Fuarlar, etkinlikler ve kurumsal dağıtımlar için hem prestijli hem de kullanışlı bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Bağlantı Türü:
+
+USB 2.0  
+USB 3.0  
+
+Kapasite Seçenekleri:
+
+8 GB  
+16 GB  
+32 GB  
+64 GB  
+128 GB  
+
+Renk Seçenekleri:
+
+Mat Siyah  
+Mat Gümüş  
+Mat Füme  
+Parlak Füme  
+
+Baskı Türleri:
+
+Lazer Baskı  
+UV Baskı  
+Tampon Baskı  
+
+Özellikler:
+
+Yüksek Veri Aktarım Hızı  
+Farklı Kapasite Seçenekleri  
+Dayanıklı ve Şık Tasarım  
+Logo Baskıya Uygun  
+Uzun Ömürlü Kullanım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Stok durumu, kapasite ve renk tercihleri sipariş sırasında teyit edilmekte olup üretim planlaması buna göre yapılmaktadır.
+
+Minimum sipariş adedi ve baskı detayları talebe göre belirlenmektedir.
+
+Güncel fiyat ve detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Firma tanıtım kampanyaları  
+Eğitim ve seminer organizasyonları  
+Ofis ve günlük kullanım  
+`
+},
+{
+  id: "p353",
+  slug: "promosyon-usb-bellek-ub-320",
+  title: "Promosyon USB Bellek UB-320 | Logo Baskılı Metal Flash Bellek",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-usb-bellek-ub-320.jpg",
+
+  shortDesc:
+    "Promosyon USB bellek UB-320, metal gövde tasarımı, farklı kapasite seçenekleri ve logo baskı imkanı ile kurumsal kullanım için ideal flash bellek modelidir.",
+
+  longDesc: `
+Promosyon USB bellek UB-320 modeli, şık metal gövde tasarımı ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında öne çıkan premium bir üründür.
+
+USB 2.0 ve USB 3.0 seçenekleri sayesinde hızlı ve güvenilir veri aktarımı sağlar.
+
+Mat ve parlak yüzey alternatifleri ile farklı tasarım ihtiyaçlarına uygun çözümler sunar.
+
+Kompakt ve taşınabilir yapısı sayesinde günlük kullanımda pratiklik sağlar.
+
+Logo baskıya uygun yüzeyi sayesinde firmanızın tanıtımını uzun süreli ve prestijli şekilde yapmanıza olanak tanır.
+
+Fuarlar, etkinlikler ve kurumsal hediyeler için hem şık hem de fonksiyonel bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon USB Bellek  
+Kategori: USB Bellek  
+
+Bağlantı Türü:
+
+USB 2.0  
+USB 3.0  
+
+Kapasite Seçenekleri:
+
+8 GB  
+16 GB  
+32 GB  
+64 GB  
+128 GB  
+
+Renk Seçenekleri:
+
+Füme  
+Mat Gümüş  
+Parlak Gümüş  
+
+Gövde: Metal  
+
+Baskı Türleri:
+
+Lazer Baskı  
+UV Baskı  
+Tampon Baskı  
+
+Özellikler:
+
+Dayanıklı Metal Gövde  
+Yüksek Veri Aktarım Hızı  
+Farklı Kapasite Seçenekleri  
+Şık ve Premium Tasarım  
+Logo Baskıya Uygun  
+Uzun Ömürlü Kullanım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon USB bellek siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Kapasite, renk ve baskı detayları sipariş sırasında belirlenmekte olup üretim planlaması buna göre yapılmaktadır.
+
+Stok durumu sipariş aşamasında teyit edilmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Şirket tanıtım kampanyaları  
+VIP müşteri hediyeleri  
+Eğitim ve seminer organizasyonları  
+Ofis ve günlük kullanım  
+`
+},
+{
+  id: "p354",
+  slug: "promosyon-kutulu-vip-set-ub-330",
+  title: "Promosyon Kutulu VIP Set UB-330 | Logo Baskılı USB Bellek Seti",
+
+  category: "USB Bellek",
+  image: "/products/promosyon-kutulu-vip-set-ub-330.jpg",
+
+  shortDesc:
+    "Promosyon kutulu VIP set UB-330, şık kutusu ve logo baskılı USB bellek içeriği ile kurumsal hediyeler için ideal premium promosyon setidir.",
+
+  longDesc: `
+Promosyon kutulu VIP set UB-330 modeli, özel tasarım kutusu ve USB bellek içeriği ile kurumsal promosyon ürünleri arasında prestijli bir seçenektir.
+
+Şık ve profesyonel sunumu sayesinde özellikle VIP müşteri hediyeleri ve kurumsal organizasyonlar için tercih edilmektedir.
+
+Set içerisinde yer alan USB bellek, veri saklama ve taşıma ihtiyaçlarını karşılarken aynı zamanda markanızın tanıtımını etkili şekilde yapar.
+
+Kutu ve ürün üzerine uygulanabilen logo baskı seçenekleri ile markanıza özel bir sunum oluşturabilirsiniz.
+
+Minimal ve estetik tasarımı sayesinde hem kullanışlı hem de dikkat çekici bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon VIP Set  
+Kategori: USB Bellek  
+
+İçerik:
+
+USB Bellek  
+
+Kapasite Seçenekleri:
+
+8 GB  
+16 GB  
+32 GB  
+
+Kutu: Özel Tasarım VIP Kutu  
+
+Baskı Türleri:
+
+Lazer Baskı  
+UV Baskı  
+Tampon Baskı  
+
+Özellikler:
+
+Şık ve Premium Sunum  
+Kurumsal Hediye Konsepti  
+Logo Baskıya Uygun  
+Kompakt ve Kullanışlı Tasarım  
+Uzun Ömürlü Kullanım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon VIP set siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Kapasite, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilmekte olup üretim planlaması buna göre yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Şirket içi özel organizasyonlar  
+Fuar ve lansman etkinlikleri  
+Prestijli marka tanıtımları  
+`
+},
+{
+  id: "p355",
+  slug: "promosyon-powerbank-10000mah-pb-240",
+  title: "Promosyon Powerbank 10.000 mAh PB-240 | Logo Baskılı Hızlı Şarj Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-10000mah-pb-240.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-240, 10.000 mAh kapasitesi, hızlı şarj özelliği ve logo baskı imkanı ile kurumsal promosyon için ideal taşınabilir şarj cihazıdır.",
+
+  longDesc: `
+Promosyon powerbank 10.000 mAh PB-240 modeli, yüksek kapasitesi ve modern tasarımı ile teknolojik promosyon ürünleri arasında öne çıkan bir üründür.
+
+10.000 mAh kapasitesi sayesinde akıllı telefon, tablet ve diğer mobil cihazları gün içerisinde birden fazla kez şarj edebilme imkanı sunar.
+
+Rubber (kauçuk) gövde yapısı sayesinde kaymaz ve dayanıklı bir kullanım sağlar.
+
+Dijital şarj göstergesi ile batarya durumu kolayca takip edilebilir.
+
+Dahili kablolu yapısı (USB ve Type-C) sayesinde ekstra kablo ihtiyacını ortadan kaldırır ve pratik kullanım sunar.
+
+Hızlı şarj özelliği sayesinde cihazlarınızı kısa sürede şarj edebilirsiniz.
+
+LED ışıklı baskı alanı ile firmanızın logosu dikkat çekici ve modern bir görünüm ile sunulur.
+
+Lüks karton kutu ile birlikte sunulan bu ürün, kurumsal hediyeler için prestijli bir tercihtir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite: 10.000 mAh  
+
+Gövde: Rubber (Kaymaz Yüzey)  
+
+Bağlantı Özellikleri:
+
+1x USB  
+2x Type-C  
+Dahili Kablolu Sistem  
+
+Baskı Türleri:
+
+LED Işıklı Logo Baskı  
+UV Baskı  
+Lazer Baskı  
+
+Özellikler:
+
+Hızlı Şarj Desteği  
+Dijital Şarj Göstergesi  
+Dahili Kablo Tasarımı  
+Şık ve Modern Görünüm  
+Logo Baskıya Uygun  
+Uzun Ömürlü Kullanım  
+
+Kutu: Lüks Karton Kutu  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Baskı, kapasite ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+VIP müşteri hediyeleri  
+Teknoloji promosyon ürünleri  
+Şirket içi kampanyalar  
+Günlük kullanım  
+`
+},
+{
+  id: "p356",
+  slug: "promosyon-powerbank-10000mah-pb-250",
+  title: "Promosyon Powerbank 10.000 mAh PB-250 | Logo Baskılı Taşınabilir Şarj Cihazı",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-10000mah-pb-250.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-250, 10.000 mAh kapasitesi ve logo baskı imkanı ile kurumsal tanıtım için ideal taşınabilir şarj cihazıdır.",
+
+  longDesc: `
+Promosyon powerbank 10.000 mAh PB-250 modeli, yüksek kapasitesi ve kompakt tasarımı ile günlük kullanım ve kurumsal promosyonlar için ideal bir üründür.
+
+10.000 mAh batarya kapasitesi sayesinde akıllı telefon ve mobil cihazları gün içerisinde birden fazla kez şarj edebilme imkanı sunar.
+
+Taşınabilir ve hafif yapısı sayesinde kolayca taşınabilir ve her ortamda pratik kullanım sağlar.
+
+Şık ve sade tasarımı ile hem bireysel hem de kurumsal kullanım için uygundur.
+
+Logo baskıya uygun yüzeyi sayesinde firmanızın tanıtımını uzun süreli ve etkili şekilde yapmanıza yardımcı olur.
+
+Fuarlar, etkinlikler ve promosyon kampanyalarında en çok tercih edilen teknolojik ürünler arasında yer alır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite: 10.000 mAh  
+
+Gövde: Dayanıklı Plastik / Metal (Modele Göre)  
+
+Bağlantı Özellikleri:
+
+USB Çıkış  
+Type-C Giriş/Çıkış (Modele Göre)  
+
+Baskı Türleri:
+
+UV Baskı  
+Lazer Baskı  
+Tampon Baskı  
+
+Özellikler:
+
+Yüksek Kapasite  
+Taşınabilir ve Hafif Tasarım  
+Şık ve Modern Görünüm  
+Logo Baskıya Uygun  
+Uzun Ömürlü Kullanım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk, baskı ve teknik detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Teknoloji promosyon ürünleri  
+Şirket içi kampanyalar  
+Günlük kullanım  
+`
+},
+{
+  id: "p357",
+  slug: "promosyon-powerbank-10000mah-pb-260",
+  title: "Promosyon Powerbank 10.000 mAh PB-260 | Işıklı Logo Baskılı Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-10000mah-pb-260.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-260, 10.000 mAh kapasitesi, çoklu çıkış portları ve ışıklı logo baskı özelliği ile kurumsal promosyonlar için ideal bir üründür.",
+
+  longDesc: `
+Promosyon powerbank 10.000 mAh PB-260 modeli, yüksek kapasitesi ve gelişmiş bağlantı seçenekleri ile teknolojik promosyon ürünleri arasında öne çıkan bir modeldir.
+
+10.000 mAh batarya kapasitesi sayesinde mobil cihazlarınızı gün içerisinde birden fazla kez şarj edebilirsiniz.
+
+Rubber (kauçuk) gövde yapısı sayesinde kaymaz ve dayanıklı bir kullanım sunar.
+
+Dijital şarj göstergesi ile batarya seviyesini anlık olarak takip edebilirsiniz.
+
+2 adet USB çıkışı sayesinde aynı anda birden fazla cihazı şarj etme imkanı sunar.
+
+Micro USB ve Type-C giriş/çıkış desteği ile geniş cihaz uyumluluğu sağlar.
+
+LED ışıklı baskı alanı ile firmanızın logosu karanlıkta dahi dikkat çeken modern bir görünüm kazanır.
+
+Lüks karton kutu ile birlikte sunularak kurumsal hediyeler için prestijli bir alternatif oluşturur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite: 10.000 mAh  
+
+Gövde: Rubber (Kaymaz Yüzey)  
+
+Bağlantı Özellikleri:
+
+2x USB Çıkış  
+1x Micro USB  
+1x Type-C  
+
+Baskı Türleri:
+
+LED Işıklı Logo Baskı  
+UV Baskı  
+Lazer Baskı  
+
+Özellikler:
+
+Çoklu Cihaz Şarj Desteği  
+Dijital Şarj Göstergesi  
+Yüksek Kapasite  
+Şık ve Modern Tasarım  
+Logo Baskıya Uygun  
+Uzun Ömürlü Kullanım  
+
+Kutu: Lüks Karton Kutu  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün özellikleri, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Fuar ve etkinlik dağıtımları  
+Teknoloji promosyon ürünleri  
+Şirket içi kampanyalar  
+Günlük kullanım  
+`
+},
+{
+  id: "p358",
+  slug: "promosyon-powerbank-5000mah-pb-270",
+  title: "Promosyon Powerbank 5.000 mAh PB-270 | Işıklı Logo Baskılı Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-5000mah-pb-270.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-270, 5.000 mAh kapasitesi, ışıklı logo baskı özelliği ve kompakt tasarımı ile ekonomik ve etkili promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon powerbank 5.000 mAh PB-270 modeli, kompakt yapısı ve uygun fiyat avantajı ile yüksek adetli promosyon çalışmaları için ideal bir üründür.
+
+5.000 mAh kapasitesi sayesinde mobil cihazlar için günlük kullanımda yeterli şarj desteği sağlar.
+
+Rubber (kauçuk) gövde tasarımı sayesinde kaymaz ve dayanıklı bir kullanım sunar.
+
+Dijital şarj göstergesi ile batarya durumu kolayca takip edilebilir.
+
+2 adet USB çıkışı ile aynı anda birden fazla cihaz şarj edilebilir.
+
+Micro USB ve Type-C bağlantı desteği sayesinde geniş cihaz uyumluluğu sağlar.
+
+LED ışıklı baskı alanı ile firmanızın logosu dikkat çekici ve modern bir görünüm kazanır.
+
+Lüks karton kutu ile sunularak kurumsal promosyon ve hediye kullanımları için şık bir alternatif oluşturur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite: 5.000 mAh  
+
+Gövde: Rubber (Kaymaz Yüzey)  
+
+Bağlantı Özellikleri:
+
+2x USB Çıkış  
+1x Micro USB  
+1x Type-C  
+
+Baskı Türleri:
+
+LED Işıklı Logo Baskı  
+UV Baskı  
+Lazer Baskı  
+
+Özellikler:
+
+Kompakt ve Taşınabilir Tasarım  
+Çoklu Cihaz Şarj Desteği  
+Dijital Şarj Göstergesi  
+Ekonomik Promosyon Çözümü  
+Logo Baskıya Uygun  
+Uzun Ömürlü Kullanım  
+
+Kutu: Lüks Karton Kutu  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün özellikleri, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Toplu kampanya ürünleri  
+Reklam ve marka tanıtımı  
+Şirket içi organizasyonlar  
+Günlük kullanım  
+`
+},
+{
+  id: "p359",
+  slug: "promosyon-powerbank-10000mah-pb-280",
+  title: "Promosyon Powerbank 10.000 mAh PB-280 | Logo Baskılı Ekonomik Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-10000mah-pb-280.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-280, 10.000 mAh kapasitesi, çoklu çıkış portları ve uygun fiyat avantajı ile toplu promosyonlar için ideal bir üründür.",
+
+  longDesc: `
+Promosyon powerbank 10.000 mAh PB-280 modeli, uygun fiyatı ve fonksiyonel özellikleri ile yüksek adetli promosyon çalışmaları için ideal bir üründür.
+
+10.000 mAh kapasitesi sayesinde mobil cihazlarınızı gün içerisinde birden fazla kez şarj etme imkanı sunar.
+
+Dayanıklı plastik kasa yapısı sayesinde hafif ve uzun ömürlü kullanım sağlar.
+
+4 kademeli LED şarj göstergesi ile batarya seviyesini kolayca takip edebilirsiniz.
+
+2 adet USB çıkışı sayesinde aynı anda birden fazla cihaz şarj edilebilir.
+
+Micro USB ve Type-C bağlantı seçenekleri ile geniş cihaz uyumluluğu sunar.
+
+Logo baskıya uygun yüzeyi sayesinde firmanızın tanıtımını uzun süreli ve etkili şekilde yapabilirsiniz.
+
+Pencereli karton kutu ile birlikte sunularak ürünün şık bir şekilde sergilenmesini sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite: 10.000 mAh  
+
+Gövde: Plastik Kasa  
+
+Bağlantı Özellikleri:
+
+2x USB Çıkış  
+1x Micro USB  
+1x Type-C  
+
+Baskı Türleri:
+
+UV Baskı  
+Tampon Baskı  
+Lazer Baskı  
+
+Özellikler:
+
+Yüksek Kapasite  
+Ekonomik Promosyon Çözümü  
+Çoklu Cihaz Şarj Desteği  
+4 Kademeli LED Şarj Göstergesi  
+Hafif ve Taşınabilir Tasarım  
+Logo Baskıya Uygun  
+
+Kutu: Pencereli Karton Kutu  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün özellikleri, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Toplu kampanya ürünleri  
+Reklam ve marka tanıtımı  
+Şirket içi organizasyonlar  
+Günlük kullanım  
+`
+},
+{
+  id: "p360",
+  slug: "promosyon-powerbank-5000mah-pb-290",
+  title: "Promosyon Powerbank 5.000 mAh PB-290 | Logo Baskılı Ekonomik Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-5000mah-pb-290.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-290, 5.000 mAh kapasitesi, çoklu çıkış desteği ve uygun fiyatı ile toplu promosyonlar için ideal taşınabilir şarj cihazıdır.",
+
+  longDesc: `
+Promosyon powerbank 5.000 mAh PB-290 modeli, ekonomik fiyatı ve fonksiyonel özellikleri ile yüksek adetli promosyon çalışmaları için tercih edilen bir üründür.
+
+5.000 mAh kapasitesi sayesinde mobil cihazlar için günlük kullanımda yeterli şarj desteği sağlar.
+
+Dayanıklı plastik kasa yapısı sayesinde hafif ve uzun ömürlü kullanım sunar.
+
+4 kademeli LED şarj göstergesi ile batarya seviyesini kolayca takip edebilirsiniz.
+
+2 adet USB çıkışı ile aynı anda birden fazla cihazı şarj etme imkanı sunar.
+
+Micro USB ve Type-C bağlantı seçenekleri sayesinde geniş cihaz uyumluluğu sağlar.
+
+Logo baskıya uygun yüzeyi ile firmanızın reklamını uzun süreli ve etkili şekilde yapmanıza yardımcı olur.
+
+Lüks karton kutu ile birlikte sunularak kurumsal promosyon ve hediye kullanımları için şık bir alternatif oluşturur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite: 5.000 mAh  
+
+Gövde: Plastik Kasa  
+
+Bağlantı Özellikleri:
+
+2x USB Çıkış  
+1x Micro USB  
+1x Type-C  
+
+Baskı Türleri:
+
+UV Baskı  
+Tampon Baskı  
+Lazer Baskı  
+
+Özellikler:
+
+Ekonomik Promosyon Çözümü  
+Kompakt ve Taşınabilir Tasarım  
+Çoklu Cihaz Şarj Desteği  
+4 Kademeli LED Şarj Göstergesi  
+Logo Baskıya Uygun  
+Uzun Ömürlü Kullanım  
+
+Kutu: Lüks Karton Kutu  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün özellikleri, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Toplu kampanya ürünleri  
+Reklam ve marka tanıtımı  
+Şirket içi organizasyonlar  
+Günlük kullanım  
+`
+},
+{
+  id: "p361",
+  slug: "promosyon-powerbank-20000mah-pb-300",
+  title: "Promosyon Powerbank 20.000 mAh PB-300 | Logo Baskılı Yüksek Kapasiteli Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-20000mah-pb-300.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-300, 20.000 mAh yüksek kapasitesi, çoklu çıkış desteği ve profesyonel tasarımı ile kurumsal promosyonlar için ideal bir üründür.",
+
+  longDesc: `
+Promosyon powerbank 20.000 mAh PB-300 modeli, yüksek kapasitesi ve gelişmiş teknik özellikleri ile profesyonel kullanım için tasarlanmış premium bir promosyon ürünüdür.
+
+20.000 mAh batarya kapasitesi sayesinde mobil cihazları birden fazla kez şarj edebilme imkanı sunar ve uzun süreli kullanım sağlar.
+
+Dayanıklı plastik gövde yapısı ile hafif ve taşınabilir bir kullanım sunarken, sağlam yapısı ile uzun ömürlü performans sağlar.
+
+Micro USB ve Type-C giriş seçenekleri ile hızlı ve güvenli şarj imkanı sunar.
+
+Type-C ve USB çıkış desteği ile farklı cihazlarla uyumlu çalışır ve aynı anda birden fazla cihazın şarj edilmesine olanak tanır.
+
+4 kademeli LED ışıklı dijital gösterge sayesinde batarya doluluk oranı net bir şekilde takip edilebilir.
+
+Lithium polimer pil teknolojisi ile güvenli ve stabil enerji aktarımı sağlar.
+
+Akım dengeleme ve koruma sistemi sayesinde cihazlarınızı güvenli şekilde şarj eder.
+
+Type-C şarj kablosu ve iPhone adaptörü ile birlikte sunularak geniş kullanım avantajı sağlar.
+
+Lüks siyah kutusu ile birlikte kurumsal hediyeler için prestijli bir sunum imkanı sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite: 20.000 mAh  
+
+Gövde: Plastik  
+
+Pil Türü: Lithium Polimer  
+
+Giriş / Çıkış Değerleri:
+
+Micro Giriş: 5V / 2A  
+Type-C Giriş: 5V / 2A  
+Type-C Çıkış: 5V / 2A  
+USB Çıkış: 5V / 2A  
+
+Bağlantı Özellikleri:
+
+2x USB Çıkış  
+Type-C Giriş / Çıkış  
+Micro USB Giriş  
+
+Gösterge:
+
+4 Kademeli LED Dijital Şarj Göstergesi  
+
+Ekstra Özellikler:
+
+Akım Dengeleme ve Koruma Sistemi  
+Yüksek Kapasite  
+Çoklu Cihaz Şarj Desteği  
+Güvenli Şarj Teknolojisi  
+Logo Baskıya Uygun  
+
+Aksesuarlar:
+
+Type-C Şarj Kablosu  
+iPhone Adaptör  
+
+Kutu: Lüks Siyah Kutu  
+
+Boyut / Ağırlık:
+
+140 x 68 x 26 mm  
+250 gr  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün özellikleri, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Teknoloji promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Şirket içi özel kampanyalar  
+Uzun süreli seyahat ve günlük kullanım  
+`
+},
+{
+  id: "p362",
+  slug: "promosyon-powerbank-10000mah-pb-310",
+  title: "Promosyon Powerbank 10.000 mAh PB-310 | Logo Baskılı İnce Tasarım Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-10000mah-pb-310.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-310, 10.000 mAh kapasitesi, ince tasarımı ve logo baskı imkanı ile kurumsal promosyonlar için ideal taşınabilir şarj cihazıdır.",
+
+  longDesc: `
+Promosyon powerbank 10.000 mAh PB-310 modeli, ince ve hafif tasarımı ile taşınabilirlik açısından öne çıkan modern bir promosyon ürünüdür.
+
+10.000 mAh kapasitesi sayesinde mobil cihazları gün içerisinde birden fazla kez şarj edebilme imkanı sunar.
+
+Dayanıklı plastik gövde yapısı sayesinde uzun ömürlü ve güvenli kullanım sağlar.
+
+Micro USB ve Type-C giriş seçenekleri ile hızlı ve pratik şarj imkanı sunar.
+
+Type-C ve USB çıkış desteği sayesinde farklı cihazlarla uyumlu çalışır ve aynı anda birden fazla cihazın şarj edilmesine olanak tanır.
+
+4 kademeli LED ışıklı dijital gösterge ile batarya doluluk oranı kolayca takip edilebilir.
+
+Lithium polimer pil teknolojisi sayesinde stabil ve güvenli enerji aktarımı sağlar.
+
+Akım dengeleme ve koruma sistemi ile cihazlarınızı güvenli şekilde şarj eder.
+
+İnce yapısı sayesinde çanta ve cepte kolay taşınabilir.
+
+Type-C şarj kablosu ile birlikte sunularak kullanım kolaylığı sağlar.
+
+Beyaz karton kutu ile birlikte sunulan bu ürün, kurumsal promosyonlar için sade ve şık bir alternatiftir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite: 10.000 mAh  
+
+Gövde: Plastik  
+
+Pil Türü: Lithium Polimer  
+
+Giriş / Çıkış Değerleri:
+
+Micro Giriş: 5V / 2A  
+Type-C Giriş: 5V / 2A  
+Type-C Çıkış: 5V / 2A  
+USB Çıkış: 5V / 2A  
+
+Bağlantı Özellikleri:
+
+2x USB Çıkış  
+Type-C Giriş / Çıkış  
+Micro USB Giriş  
+
+Gösterge:
+
+4 Kademeli LED Dijital Şarj Göstergesi  
+
+Ekstra Özellikler:
+
+İnce ve Hafif Tasarım  
+Yüksek Kapasite  
+Çoklu Cihaz Şarj Desteği  
+Güvenli Şarj Teknolojisi  
+Logo Baskıya Uygun  
+
+Aksesuarlar:
+
+Type-C Şarj Kablosu  
+
+Kutu: Beyaz Karton Kutu  
+
+Boyut / Ağırlık:
+
+136 x 68 x 15 mm  
+205 gr  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün özellikleri, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+VIP müşteri hediyeleri  
+Teknoloji promosyon ürünleri  
+Günlük kullanım  
+`
+},
+{
+  id: "p363",
+  slug: "promosyon-powerbank-10000mah-pb-320",
+  title: "Promosyon Powerbank 10.000 mAh PB-320 | Magsafe & Wireless Şarjlı Premium Powerbank",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-10000mah-pb-320.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-320, 10.000 mAh kapasitesi, Magsafe uyumu ve wireless şarj özelliği ile premium kurumsal promosyonlar için ideal bir üründür.",
+
+  longDesc: `
+Promosyon powerbank 10.000 mAh PB-320 modeli, gelişmiş teknolojik özellikleri ve premium tasarımı ile üst segment promosyon ürünleri arasında yer almaktadır.
+
+10.000 mAh kapasitesi sayesinde mobil cihazlarınızı gün içerisinde birden fazla kez şarj edebilme imkanı sunar.
+
+Magsafe uyumlu yapısı sayesinde özellikle iPhone kullanıcıları için kablosuz ve pratik şarj deneyimi sağlar.
+
+Wireless şarj özelliği ile kabloya ihtiyaç duymadan cihazlarınızı kolayca şarj edebilirsiniz.
+
+15W hızlı şarj desteği sayesinde cihazlarınızı kısa sürede şarj eder.
+
+Akıllı saat şarj özelliği ile çoklu cihaz kullanımına uygun profesyonel bir çözüm sunar.
+
+Rubber (kauçuk) gövde tasarımı sayesinde kaymaz ve dayanıklı bir kullanım sağlar.
+
+Lazer baskı sonrası ışıklı logo özelliği ile firmanızın logosu modern ve dikkat çekici bir görünüm kazanır.
+
+Minimal ve şık tasarımı sayesinde kurumsal hediyeler ve VIP müşteri promosyonları için mükemmel bir tercihtir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite: 10.000 mAh  
+
+Gövde: Rubber (Kaymaz Yüzey)  
+
+Şarj Özellikleri:
+
+Wireless Şarj  
+Magsafe Uyumluluk  
+15W Hızlı Şarj  
+
+Ekstra Özellikler:
+
+Akıllı Saat Şarj Desteği  
+Işıklı Logo (Lazer Baskı Sonrası)  
+Kablosuz Kullanım  
+Yüksek Performanslı Şarj  
+
+Baskı Türleri:
+
+Lazer Baskı (Işıklı Logo)  
+UV Baskı  
+
+Özellikler:
+
+Premium Tasarım  
+Yüksek Teknoloji  
+Logo Baskıya Uygun  
+Şık ve Modern Görünüm  
+Uzun Ömürlü Kullanım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün özellikleri, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Teknoloji promosyon ürünleri  
+Fuar ve lansman etkinlikleri  
+Prestijli marka tanıtımları  
+Günlük kullanım  
+`
+},
+{
+  id: "p364",
+  slug: "promosyon-duvar-saati-metal-kasa-ds-170",
+  title: "Promosyon Duvar Saati Metal Kasa DS-170 | Logo Baskılı 30 cm Duvar Saati",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-metal-kasa-ds-170.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-170, metal kasa yapısı ve logo baskı özelliği ile kurumsal kullanım için ideal 30 cm duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati DS-170 modeli, metal kasa tasarımı ve şık görünümü ile kurumsal promosyon ürünleri arasında öne çıkan bir üründür.
+
+Yaklaşık 30 cm çapı sayesinde duvar üzerinde dikkat çekici bir görünüm sunar ve marka bilinirliğini artırır.
+
+Kromajlı metal kasa yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sağlar.
+
+Mineral cam yüzeyi sayesinde çizilmelere karşı dirençli olup şık bir görünüm sunar.
+
+Akar saniye özelliği ile sessiz çalışma performansı sağlar ve ofis ortamları için uygundur.
+
+Bristol kadran yapısı sayesinde logo baskı uygulamaları için ideal bir yüzey sunar.
+
+Geniş baskı alanı sayesinde firmanızın logosu duvar saatinde net ve dikkat çekici şekilde sergilenir.
+
+Ofisler, mağazalar ve kurumsal alanlar için hem dekoratif hem de işlevsel bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Çap: 30 cm  
+
+Kasa: Kromajlı Metal  
+
+Cam: Mineral Cam  
+
+Kadran: Bristol  
+
+Çalışma Özelliği:
+
+Akar Saniye (Sessiz Mekanizma)  
+
+Baskı Türleri:
+
+UV Baskı  
+Dijital Baskı  
+
+Özellikler:
+
+Dayanıklı Metal Kasa  
+Sessiz Çalışma  
+Geniş Baskı Alanı  
+Şık ve Modern Tasarım  
+Logo Baskıya Uygun  
+Uzun Ömürlü Kullanım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Baskı tasarımı, renk ve detaylar sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş yerleri  
+Mağaza ve showroomlar  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Dekoratif kullanım  
+`
+},
+{
+  id: "p365",
+  slug: "promosyon-duvar-saati-40cm-plastik-kasa-ds-180",
+  title: "Promosyon Duvar Saati 40 cm DS-180 | Logo Baskılı Metalize Kasa Duvar Saati",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-40cm-ds-180.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-180, 40 cm büyük çapı, metalize kasa tasarımı ve logo baskı özelliği ile kurumsal kullanım için ideal dekoratif duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati DS-180 modeli, 40 cm geniş çapı ve metalize kasa tasarımı ile dikkat çekici ve prestijli bir promosyon ürünüdür.
+
+Büyük boy yapısı sayesinde duvar üzerinde yüksek görünürlük sağlar ve marka bilinirliğini artırır.
+
+Metalize plastik kasa tasarımı, altın, gümüş ve bronz renk seçenekleri ile dekoratif bir görünüm sunar.
+
+Mineral cam yüzeyi sayesinde çizilmelere karşı dayanıklı olup uzun ömürlü kullanım sağlar.
+
+Akar saniye özelliği ile sessiz çalışma sunarak ofis ve çalışma ortamları için ideal bir tercih oluşturur.
+
+Bristol kadran yapısı sayesinde logo baskı uygulamaları net ve kaliteli şekilde yapılabilir.
+
+Geniş baskı alanı ile firmanızın logosu uzun süreli ve etkili şekilde sergilenir.
+
+Modern ve dekoratif tasarımı sayesinde hem işlevsel hem de estetik bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Çap: 40 cm  
+
+Kasa: Metalize Plastik  
+
+Cam: Mineral Cam  
+
+Kadran: Bristol  
+
+Çalışma Özelliği:
+
+Akar Saniye (Sessiz Mekanizma)  
+
+Baskı Türleri:
+
+UV Baskı  
+Dijital Baskı  
+
+Özellikler:
+
+Büyük Boy Tasarım (40 cm)  
+Dekoratif Metalize Görünüm  
+Sessiz Çalışma  
+Geniş Baskı Alanı  
+Logo Baskıya Uygun  
+Uzun Ömürlü Kullanım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Renk, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş yerleri  
+Mağaza ve showroomlar  
+Restoran ve kafeler  
+Fuar ve etkinlik dağıtımları  
+Dekoratif kullanım  
+`
+},
+{
+  id: "p366",
+  slug: "promosyon-duvar-saati-40cm-plastik-kasa-ds-190",
+  title: "Promosyon Duvar Saati 40 cm DS-190 | Logo Baskılı Ekonomik Duvar Saati",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-40cm-ds-190.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-190, 40 cm geniş çapı ve ekonomik yapısı ile toplu promosyon çalışmaları için ideal duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati DS-190 modeli, 40 cm geniş çapı ve ekonomik tasarımı ile yüksek adetli promosyon kampanyaları için ideal bir üründür.
+
+Büyük boy yapısı sayesinde duvar üzerinde yüksek görünürlük sağlar ve marka bilinirliğini artırır.
+
+Dayanıklı plastik kasa yapısı ile hafif ve uzun ömürlü kullanım sunar.
+
+Mineral cam yüzeyi sayesinde çizilmelere karşı dayanıklı olup şık bir görünüm sağlar.
+
+Akar saniye özelliği ile sessiz çalışma performansı sunarak ofis ve çalışma ortamlarında rahat kullanım sağlar.
+
+Bristol kadran yapısı sayesinde logo baskı uygulamaları net ve kaliteli şekilde yapılabilir.
+
+Geniş baskı alanı ile firmanızın logosu dikkat çekici ve uzun süreli şekilde sergilenir.
+
+Hem dekoratif hem de işlevsel yapısı ile kurumsal promosyonlar için vazgeçilmez ürünler arasında yer alır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Çap: 40 cm  
+
+Kasa: Plastik  
+
+Cam: Mineral Cam  
+
+Kadran: Bristol  
+
+Çalışma Özelliği:
+
+Akar Saniye (Sessiz Mekanizma)  
+
+Baskı Türleri:
+
+UV Baskı  
+Dijital Baskı  
+
+Özellikler:
+
+Büyük Boy Tasarım (40 cm)  
+Ekonomik Promosyon Çözümü  
+Sessiz Çalışma  
+Geniş Baskı Alanı  
+Logo Baskıya Uygun  
+Hafif ve Dayanıklı Yapı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Toplu kampanya ürünleri  
+Ofis ve iş yerleri  
+Mağaza ve showroomlar  
+Reklam ve marka tanıtımı  
+`
+},
+{
+  id: "p367",
+  slug: "promosyon-duvar-saati-40cm-metal-kasa-ds-200",
+  title: "Promosyon Duvar Saati 40 cm Metal Kasa DS-200 | Logo Baskılı Premium Duvar Saati",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-40cm-metal-ds-200.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-200, 40 cm geniş çapı ve paslanmaz metal kasa yapısı ile kurumsal kullanım için premium duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati DS-200 modeli, paslanmaz metal kasa yapısı ve 40 cm geniş çapı ile üst segment kurumsal promosyon ürünleri arasında yer almaktadır.
+
+Büyük boy tasarımı sayesinde duvar üzerinde güçlü bir görünürlük sağlar ve marka bilinirliğini artırır.
+
+Paslanmaz metal kasa yapısı sayesinde uzun ömürlü, dayanıklı ve prestijli bir kullanım sunar.
+
+Mineral cam yüzeyi ile çizilmelere karşı dayanıklıdır ve şık bir görünüm sağlar.
+
+Akar saniye özelliği sayesinde sessiz çalışma performansı sunarak ofis ve çalışma alanları için idealdir.
+
+Bristol kadran yapısı sayesinde logo baskı uygulamaları net ve kaliteli şekilde yapılabilir.
+
+Geniş baskı alanı ile firmanızın logosu dikkat çekici ve kalıcı şekilde sergilenir.
+
+Modern ve prestijli tasarımı sayesinde özellikle VIP müşteri hediyeleri ve kurumsal alanlar için mükemmel bir tercihtir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Çap: 40 cm  
+
+Kasa: Paslanmaz Metal  
+
+Cam: Mineral Cam  
+
+Kadran: Bristol  
+
+Çalışma Özelliği:
+
+Akar Saniye (Sessiz Mekanizma)  
+
+Baskı Türleri:
+
+UV Baskı  
+Dijital Baskı  
+
+Özellikler:
+
+Premium Metal Kasa  
+Büyük Boy Tasarım (40 cm)  
+Sessiz Çalışma  
+Geniş Baskı Alanı  
+Logo Baskıya Uygun  
+Uzun Ömürlü Kullanım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Ofis ve iş yerleri  
+Banka ve finans kuruluşları  
+Mağaza ve showroomlar  
+Prestijli marka tanıtımları  
+`
+},
+{
+  id: "p368",
+  slug: "promosyon-duvar-saati-35cm-metal-kasa-ds-210",
+  title: "Promosyon Duvar Saati 35 cm Metal Kasa DS-210 | Logo Baskılı Şık Duvar Saati",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-35cm-metal-ds-210.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-210, 35 cm çapı ve paslanmaz metal kasa yapısı ile kurumsal kullanım için ideal şık duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati DS-210 modeli, 35 cm çapı ve paslanmaz metal kasa tasarımı ile hem şık hem de fonksiyonel bir promosyon ürünüdür.
+
+Orta boy yapısı sayesinde hem küçük hem de büyük alanlarda dengeli bir görünüm sunar.
+
+Paslanmaz metal kasa yapısı ile dayanıklı ve uzun ömürlü kullanım sağlar.
+
+Mineral cam yüzeyi sayesinde çizilmelere karşı dayanıklıdır ve estetik bir görünüm sunar.
+
+Akar saniye özelliği ile sessiz çalışma performansı sağlayarak ofis ve çalışma alanlarında rahat kullanım sunar.
+
+Bristol kadran yapısı sayesinde logo baskı uygulamaları net ve kaliteli şekilde yapılabilir.
+
+Geniş baskı alanı ile firmanızın logosu dikkat çekici ve uzun süreli şekilde sergilenir.
+
+Şık ve modern tasarımı sayesinde hem kurumsal hem de dekoratif kullanım için ideal bir tercihtir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Çap: 35 cm  
+
+Kasa: Paslanmaz Metal  
+
+Cam: Mineral Cam  
+
+Kadran: Bristol  
+
+Çalışma Özelliği:
+
+Akar Saniye (Sessiz Mekanizma)  
+
+Baskı Türleri:
+
+UV Baskı  
+Dijital Baskı  
+
+Özellikler:
+
+Orta Boy Tasarım (35 cm)  
+Dayanıklı Metal Kasa  
+Sessiz Çalışma  
+Geniş Baskı Alanı  
+Logo Baskıya Uygun  
+Uzun Ömürlü Kullanım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş yerleri  
+Mağaza ve showroomlar  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Dekoratif kullanım  
+`
+},
+{
+  id: "p369",
+  slug: "promosyon-duvar-saati-30cm-metal-kasa-ds-220",
+  title: "Promosyon Duvar Saati 30 cm Metal Kasa DS-220 | Logo Baskılı Klasik Duvar Saati",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-30cm-metal-ds-220.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-220, 30 cm çapı ve paslanmaz metal kasa yapısı ile kurumsal kullanım için ideal klasik duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati DS-220 modeli, 30 cm standart boyutu ve paslanmaz metal kasa tasarımı ile en çok tercih edilen promosyon duvar saatlerinden biridir.
+
+Standart ölçüsü sayesinde ofis, mağaza ve iş yerlerinde rahatlıkla kullanılabilir.
+
+Paslanmaz metal kasa yapısı ile dayanıklı ve uzun ömürlü kullanım sunar.
+
+Mineral cam yüzeyi sayesinde çizilmelere karşı dirençli olup şık bir görünüm sağlar.
+
+Akar saniye özelliği ile sessiz çalışma performansı sunarak çalışma ortamlarında konfor sağlar.
+
+Bristol kadran yapısı sayesinde logo baskı uygulamaları net ve kaliteli şekilde yapılabilir.
+
+Geniş baskı alanı ile firmanızın logosu uzun süreli ve dikkat çekici şekilde sergilenir.
+
+Klasik ve şık tasarımı sayesinde hem kurumsal promosyon hem de dekoratif kullanım için ideal bir üründür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Çap: 30 cm  
+
+Kasa: Paslanmaz Metal  
+
+Cam: Mineral Cam  
+
+Kadran: Bristol  
+
+Çalışma Özelliği:
+
+Akar Saniye (Sessiz Mekanizma)  
+
+Baskı Türleri:
+
+UV Baskı  
+Dijital Baskı  
+
+Özellikler:
+
+Standart Boy Tasarım (30 cm)  
+Dayanıklı Metal Kasa  
+Sessiz Çalışma  
+Geniş Baskı Alanı  
+Logo Baskıya Uygun  
+Uzun Ömürlü Kullanım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş yerleri  
+Mağaza ve showroomlar  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Dekoratif kullanım  
+`
+},
 
 ];
 
