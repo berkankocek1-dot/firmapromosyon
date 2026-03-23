@@ -19396,6 +19396,740 @@ Reklam ve marka tanıtımı
 Dekoratif kullanım  
 `
 },
+{
+  id: "p370",
+  slug: "promosyon-anahtarlik-an-350",
+  title: "Promosyon Anahtarlık AN-350 | Lazer Baskılı Kurumsal Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-350.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-350, lazer baskı özelliği ve şeffaf poşetli sunumu ile kurumsal tanıtımlar için ideal promosyon anahtarlık modelidir.",
+
+  longDesc: `
+Promosyon anahtarlık AN-350 modeli, sade ve kullanışlı tasarımı ile firmaların en çok tercih ettiği promosyon ürünlerinden biridir.
+
+Günlük kullanım için uygun yapısı sayesinde anahtar taşıma ihtiyacını karşılamanın yanı sıra marka tanıtımı için etkili bir reklam aracıdır.
+
+Lazer baskı teknolojisi ile uygulanan logo ve marka detayları uzun ömürlü ve silinmeye karşı dayanıklıdır.
+
+Tek yön baskı özelliği sayesinde firmanızın logosu net ve profesyonel şekilde anahtarlık üzerinde yer alır.
+
+Şeffaf poşet ambalajı ile hijyenik ve düzenli bir şekilde sunulabilir, dağıtım süreçlerinde kolaylık sağlar.
+
+Kompakt yapısı sayesinde çanta, cep ve anahtar halkalarında rahatlıkla taşınabilir.
+
+Kurumsal etkinlikler, fuarlar ve promosyon dağıtımları için ideal bir üründür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Baskı Türü:
+
+Lazer Baskı (Tek Yön)  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+Özellikler:
+
+Dayanıklı Yapı  
+Uzun Ömürlü Baskı  
+Logo Baskıya Uygun  
+Hafif ve Taşınabilir  
+Kurumsal Tanıtıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Müşteri hediyeleri  
+Günlük kullanım  
+`
+},
+{
+  id: "p371",
+  slug: "promosyon-anahtarlik-an-360",
+  title: "Promosyon Anahtarlık AN-360 | Lazer Baskılı Çift Yön Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-360.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-360, çift yön lazer baskı seçeneği ve kompakt tasarımı ile kurumsal tanıtımlar için ideal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-360 modeli, kompakt ölçüsü ve işlevsel tasarımı ile günlük kullanım ve kurumsal tanıtımlar için tercih edilen promosyon ürünlerinden biridir.
+
+6.7 x 4.5 cm ebatı sayesinde hem taşınabilir hem de logo baskı için yeterli alan sunar.
+
+Lazer baskı teknolojisi ile uygulanan logo ve marka detayları uzun süre silinmeden kullanılabilir ve yüksek kalıcılık sağlar.
+
+Çift yön ve tek yön baskı seçenekleri sayesinde firmanızın logosu daha geniş bir alanda sergilenebilir.
+
+Şeffaf poşet ambalajı ile düzenli ve profesyonel bir sunum sağlar, dağıtım süreçlerinde kolaylık sunar.
+
+Dayanıklı yapısı sayesinde uzun ömürlü kullanım sunar ve marka görünürlüğünü artırır.
+
+Fuarlar, etkinlikler ve müşteri hediyesi olarak dağıtım için ideal bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Ebat: 6.7 x 4.5 cm  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Baskı Seçenekleri:
+
+Tek Yön  
+Çift Yön  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+Özellikler:
+
+Kompakt Tasarım  
+Dayanıklı Yapı  
+Uzun Ömürlü Baskı  
+Logo Baskıya Uygun  
+Taşınabilir ve Hafif  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Müşteri hediyeleri  
+Günlük kullanım  
+`
+},
+{
+  id: "p372",
+  slug: "promosyon-anahtarlik-an-370",
+  title: "Promosyon Anahtarlık AN-370 | Lazer Baskılı Siyah Zemin Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-370.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-370, lazer baskı özelliği ve siyah zemin tasarımı ile kurumsal marka tanıtımları için şık ve dikkat çekici bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-370 modeli, sade ve şık tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan modellerden biridir.
+
+Ürünün arka yüzeyinin düz siyah zemin olması, lazer baskı ile yapılan logo uygulamalarının daha net ve kontrastlı görünmesini sağlar.
+
+Tek yön lazer baskı özelliği sayesinde firmanızın logosu uzun ömürlü ve silinmeye karşı dayanıklı şekilde uygulanır.
+
+Günlük kullanım için uygun yapısı sayesinde anahtar taşıma ihtiyacını karşılarken aynı zamanda marka bilinirliğini artırır.
+
+Şeffaf poşet ambalajı ile düzenli ve profesyonel bir sunum sağlar ve dağıtım süreçlerinde kolaylık sunar.
+
+Dayanıklı yapısı sayesinde uzun süreli kullanım imkanı sunar.
+
+Fuarlar, etkinlikler ve promosyon kampanyalarında dağıtım için ideal bir üründür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Baskı Türü:
+
+Lazer Baskı (Tek Yön)  
+
+Arka Yüzey:
+
+Düz Siyah Zemin  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+Özellikler:
+
+Şık ve Minimal Tasarım  
+Yüksek Kontrastlı Baskı  
+Uzun Ömürlü Kullanım  
+Logo Baskıya Uygun  
+Dayanıklı Yapı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Stok durumu sipariş aşamasında teyit edilerek üretim planlaması yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Müşteri hediyeleri  
+Günlük kullanım  
+`
+},
+{
+  id: "p373",
+  slug: "promosyon-anahtarlik-an-380",
+  title: "Promosyon Anahtarlık AN-380 | Lazer Baskılı Purjör Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-380.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-380, purjör fonksiyonlu yapısı ve lazer baskı özelliği ile hem kullanışlı hem de dikkat çekici kurumsal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-380 modeli, purjör (açıcı) özelliği ile klasik anahtarlıklardan ayrılan fonksiyonel bir promosyon ürünüdür.
+
+Günlük kullanımda pratik çözümler sunan bu model, anahtarlık olarak kullanılmasının yanı sıra açıcı fonksiyonu ile ekstra kullanım avantajı sağlar.
+
+Lazer baskı teknolojisi ile uygulanan logo ve marka detayları uzun ömürlü olup silinmeye karşı dayanıklıdır.
+
+Tek yön baskı özelliği sayesinde firmanızın logosu net ve profesyonel şekilde ürün üzerinde yer alır.
+
+Ürünün arka yüzeyinin düz siyah zemin olması, baskının daha belirgin ve estetik görünmesini sağlar.
+
+Şeffaf poşet ambalajı ile düzenli ve hijyenik bir sunum imkanı sunar.
+
+Dayanıklı yapısı sayesinde uzun süreli kullanım sağlar ve marka görünürlüğünü artırır.
+
+Fuarlar, etkinlikler ve promosyon kampanyalarında dağıtım için oldukça etkili bir üründür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Model:
+
+Purjör (Açıcı) Anahtarlık  
+
+Baskı Türü:
+
+Lazer Baskı (Tek Yön)  
+
+Arka Yüzey:
+
+Düz Siyah Zemin  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+Özellikler:
+
+Fonksiyonel Tasarım (Açıcı Özelliği)  
+Dayanıklı Yapı  
+Uzun Ömürlü Baskı  
+Logo Baskıya Uygun  
+Taşınabilir ve Pratik Kullanım  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Müşteri hediyeleri  
+Günlük kullanım  
+`
+},
+{
+  id: "p374",
+  slug: "promosyon-anahtarlik-an-390",
+  title: "Promosyon Metal Anahtarlık AN-390 | Lazer Baskı ve Plasto Etiket Uyumlu",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-390.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-390, metal gövdesi ve lazer baskı ile plasto etiket uyumluluğu sayesinde kurumsal promosyonlar için şık ve dayanıklı bir üründür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-390 modeli, metal gövde yapısı ve şık tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan modellerden biridir.
+
+Dayanıklı metal malzemesi sayesinde uzun ömürlü kullanım sunar ve marka bilinirliğini kalıcı hale getirir.
+
+Lazer baskı teknolojisi ile uygulanan logo ve marka detayları silinmeye karşı dayanıklı olup profesyonel bir görünüm sağlar.
+
+Ayrıca plasto etiket uygulamasına uygun yapısı sayesinde farklı baskı alternatifleri sunar ve markanızın daha dikkat çekici şekilde sunulmasına imkan tanır.
+
+Farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun tercihler yapılabilir.
+
+Kompakt ve ergonomik tasarımı sayesinde günlük kullanım için idealdir ve kolay taşınabilir.
+
+Şık ve premium görünümü ile müşteri hediyesi, fuar dağıtımı ve kurumsal promosyonlar için etkili bir üründür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Malzeme:
+
+Metal  
+
+Baskı Türleri:
+
+Lazer Baskı  
+Plasto Etiket  
+
+Özellikler:
+
+Dayanıklı Metal Gövde  
+Uzun Ömürlü Kullanım  
+Logo Baskıya Uygun  
+Şık ve Premium Tasarım  
+Farklı Baskı Seçenekleri  
+Ergonomik ve Taşınabilir  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün renk, baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Müşteri hediyeleri  
+Günlük kullanım  
+`
+},
+{
+  id: "p375",
+  slug: "promosyon-anahtarlik-an-400",
+  title: "Promosyon Metal Anahtarlık AN-400 | Deri Detaylı Premium Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-400.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-400, metal gövde ve deri detaylı şık tasarımı ile kurumsal hediyeler ve prestijli promosyonlar için ideal bir üründür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-400 modeli, metal gövde ve deri detaylı tasarımı ile premium promosyon ürünleri arasında yer almaktadır.
+
+Şık ve modern görünümü sayesinde kurumsal firmaların prestijli promosyon tercihleri arasında öne çıkar.
+
+Metal yüzey üzerine uygulanabilen lazer baskı ile firmanızın logosu uzun ömürlü ve kaliteli şekilde sergilenir.
+
+Deri bağlantı detayı ürüne estetik bir görünüm kazandırırken aynı zamanda dayanıklılık sağlar.
+
+Özel kutulu tasarımı sayesinde direkt hediye olarak sunulabilir ve kurumsal imajınızı güçlendirir.
+
+Kompakt ve ergonomik yapısı sayesinde günlük kullanım için uygundur ve kolay taşınabilir.
+
+VIP müşteri hediyeleri, özel etkinlikler ve kurumsal promosyonlar için ideal bir anahtarlık modelidir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Malzeme:
+
+Metal Gövde  
+Deri Detay  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Ambalaj:
+
+Özel Kutu  
+
+Özellikler:
+
+Premium Tasarım  
+Şık ve Modern Görünüm  
+Uzun Ömürlü Kullanım  
+Logo Baskıya Uygun  
+Hediyelik Kullanıma Uygun  
+Dayanıklı Yapı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Özel gün hediyeleri  
+`
+},
+{
+  id: "p376",
+  slug: "promosyon-anahtarlik-an-410",
+  title: "Promosyon Anahtarlık AN-410 | Lazer Baskılı Çift Yön Renkli Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-410.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-410, çift yön lazer baskı özelliği ve renkli tasarımı ile kurumsal promosyonlar için dikkat çekici ve kullanışlı bir üründür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-410 modeli, modern tasarımı ve farklı renk seçenekleri ile kurumsal promosyon ürünleri arasında öne çıkan modellerden biridir.
+
+Renkli gövde yapısı sayesinde firmanızın kurumsal renklerine uygun seçim yapılabilir ve marka kimliği daha güçlü şekilde yansıtılabilir.
+
+Çift yön lazer baskı özelliği sayesinde logo ve marka detayları ürünün her iki yüzeyine uygulanabilir ve daha geniş bir görünürlük sağlar.
+
+Lazer baskı teknolojisi ile yapılan uygulamalar uzun ömürlü olup silinmeye karşı dayanıklıdır.
+
+Şeffaf poşet ambalajı ile düzenli ve profesyonel bir sunum sağlar, dağıtım süreçlerinde kolaylık sunar.
+
+Kompakt ve hafif yapısı sayesinde günlük kullanım için idealdir ve kolay taşınabilir.
+
+Fuarlar, etkinlikler ve kurumsal promosyon kampanyalarında dağıtım için etkili bir anahtarlık modelidir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Baskı Seçeneği:
+
+Çift Yön  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+Özellikler:
+
+Renkli ve Modern Tasarım  
+Çift Yön Baskı İmkanı  
+Uzun Ömürlü Kullanım  
+Logo Baskıya Uygun  
+Hafif ve Taşınabilir  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Müşteri hediyeleri  
+Günlük kullanım  
+`
+},
+{
+  id: "p377",
+  slug: "promosyon-anahtarlik-an-420",
+  title: "Promosyon Anahtarlık AN-420 | Telefon Standlı Lazer Baskılı Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-420.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-420, telefon standı özelliği ve lazer baskı uyumluluğu ile hem kullanışlı hem de dikkat çekici kurumsal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-420 modeli, telefon standı özelliği ile klasik anahtarlıklardan ayrılan fonksiyonel bir promosyon ürünüdür.
+
+8.3 x 3 cm ebatı sayesinde hem taşınabilir hem de logo baskı için yeterli alan sunar.
+
+Telefon standı özelliği sayesinde mobil cihazları sabitleyerek video izleme ve kullanım kolaylığı sağlar.
+
+Lazer baskı teknolojisi ile uygulanan logo ve marka detayları uzun ömürlü olup silinmeye karşı dayanıklıdır.
+
+Tek yön baskı özelliği sayesinde firmanızın logosu net ve profesyonel şekilde ürün üzerinde yer alır.
+
+Şeffaf poşet ambalajı ile düzenli ve hijyenik bir sunum sağlar.
+
+Kompakt ve hafif yapısı sayesinde günlük kullanım için idealdir ve kolay taşınabilir.
+
+Fuarlar, etkinlikler ve promosyon kampanyalarında dağıtım için oldukça etkili bir üründür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Ebat: 8.3 x 3 cm  
+
+Fonksiyon:
+
+Telefon Standı  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Baskı Seçeneği:
+
+Tek Yön  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+Özellikler:
+
+Telefon Standlı Tasarım  
+Fonksiyonel Kullanım  
+Uzun Ömürlü Baskı  
+Logo Baskıya Uygun  
+Hafif ve Taşınabilir  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Müşteri hediyeleri  
+Günlük kullanım  
+`
+},
+{
+  id: "p378",
+  slug: "promosyon-anahtarlik-an-430",
+  title: "Promosyon Anahtarlık AN-430 | Döner Mekanizmalı Lazer Baskılı Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-430.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-430, döner mekanizması ve çift yön lazer baskı özelliği ile dikkat çekici ve fonksiyonel bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-430 modeli, döner mekanizmalı tasarımı ile klasik anahtarlıklardan ayrılan yenilikçi bir promosyon ürünüdür.
+
+7 x 3.7 cm ebatı sayesinde hem taşınabilir hem de logo baskı için yeterli alan sunar.
+
+Dönen mekanizma özelliği sayesinde kullanıcı etkileşimini artırır ve ürünün daha uzun süre elde tutulmasını sağlar.
+
+Çift yön baskı özelliği ile firmanızın logosu her iki yüzeyde de sergilenerek marka görünürlüğü artırılır.
+
+Lazer baskı teknolojisi sayesinde uygulanan logo ve marka detayları uzun ömürlü ve silinmeye karşı dayanıklıdır.
+
+Şeffaf poşet ambalajı ile düzenli ve profesyonel bir sunum sağlar.
+
+Kompakt ve hafif yapısı sayesinde günlük kullanım için idealdir ve kolay taşınabilir.
+
+Fuarlar, etkinlikler ve promosyon kampanyalarında dikkat çekici bir dağıtım ürünü olarak öne çıkar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Ebat: 7 x 3.7 cm  
+
+Mekanizma:
+
+Dönen Mekanizma  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Baskı Seçeneği:
+
+Çift Yön  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+Özellikler:
+
+Döner Tasarım  
+Çift Yön Baskı İmkanı  
+Uzun Ömürlü Kullanım  
+Logo Baskıya Uygun  
+Hafif ve Taşınabilir  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve marka tanıtımı  
+Müşteri hediyeleri  
+Günlük kullanım  
+`
+},
+{
+  id: "p379",
+  slug: "promosyon-anahtarlik-an-440",
+  title: "Promosyon Anahtarlık AN-440 | Ev Şeklinde Lazer Baskılı Anahtarlık",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-440.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-440, ev şeklinde tasarımı ve lazer baskı özelliği ile özellikle emlak ve inşaat firmaları için ideal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-440 modeli, ev şeklindeki özel tasarımı ile dikkat çeken ve sektörel kullanıma uygun promosyon ürünlerinden biridir.
+
+8 x 4.4 cm ebatı sayesinde hem taşınabilir hem de logo baskı için yeterli alan sunar.
+
+Ev formu tasarımı sayesinde özellikle emlak, gayrimenkul ve inşaat firmaları için hedef odaklı bir promosyon ürünü olarak öne çıkar.
+
+Lazer baskı teknolojisi ile uygulanan logo ve marka detayları uzun ömürlü olup silinmeye karşı dayanıklıdır.
+
+Tek yön baskı özelliği ile firmanızın logosu net ve profesyonel şekilde ürün üzerinde yer alır.
+
+Şeffaf kutulu ambalajı sayesinde daha şık ve düzenli bir sunum sağlar, hediye olarak dağıtım için uygundur.
+
+Kompakt ve hafif yapısı sayesinde günlük kullanım için idealdir ve kolay taşınabilir.
+
+Fuarlar, satış ofisleri ve müşteri teslimlerinde etkili bir promosyon ürünü olarak tercih edilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Ebat: 8 x 4.4 cm  
+
+Tasarım:
+
+Ev Şeklinde  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Baskı Seçeneği:
+
+Tek Yön  
+
+Ambalaj:
+
+Şeffaf Kutu  
+
+Özellikler:
+
+Sektörel Tasarım (Emlak & İnşaat)  
+Şık Sunum (Kutulu)  
+Uzun Ömürlü Baskı  
+Logo Baskıya Uygun  
+Hafif ve Taşınabilir  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Ürün baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Emlak ve gayrimenkul firmaları  
+İnşaat firmaları  
+Satış ofisleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri hediyeleri  
+`
+},
 
 ];
 
