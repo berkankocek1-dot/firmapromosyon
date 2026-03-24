@@ -20130,6 +20130,992 @@ Fuar ve etkinlik dağıtımları
 Müşteri hediyeleri  
 `
 },
+{
+  id: "p380",
+  slug: "promosyon-powerbank-10000mah-pb-330",
+  title: "Promosyon Powerbank 10.000 mAh PB-330 | Işıklı Logo Özellikli Taşınabilir Şarj Cihazı",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-pb-330.jpg",
+
+  shortDesc:
+    "Promosyon powerbank PB-330, 10.000 mAh kapasitesi, ışıklı logo özelliği ve çift USB çıkışı ile kurumsal promosyonlarda en çok tercih edilen teknolojik ürünlerden biridir.",
+
+  longDesc: `
+Promosyon powerbank PB-330 modeli, 10.000 mAh yüksek batarya kapasitesi ve modern tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan teknolojik çözümlerden biridir.
+
+Günlük kullanımda telefon, tablet ve diğer mobil cihazları hızlı ve güvenli şekilde şarj edebilme imkanı sunar.
+
+Üzerinde bulunan ışıklı logo özelliği sayesinde firmanızın markası şarj sırasında dikkat çekici şekilde ön plana çıkar ve güçlü bir reklam etkisi oluşturur.
+
+Çift USB çıkışı sayesinde aynı anda iki cihazı şarj edebilme özelliği sunarak kullanıcıya pratiklik sağlar.
+
+Type-C ve Micro giriş seçenekleri ile geniş uyumluluk sunar ve farklı cihazlarla kolay kullanım imkanı sağlar.
+
+4 kademeli LED göstergesi sayesinde batarya doluluk oranı rahatlıkla takip edilebilir.
+
+Akım dengeleme ve koruma sistemi sayesinde cihazlar güvenli şekilde şarj edilir ve uzun ömürlü kullanım sağlanır.
+
+Lüks siyah kutulu ambalajı ile şık bir sunum sağlar ve kurumsal hediyeler için ideal bir tercihtir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank  
+Kategori: Powerbank  
+
+Kapasite:
+
+10.000 mAh  
+
+Giriş / Çıkış Değerleri:
+
+Micro Giriş: 5V / 2A  
+Type-C Giriş: 5V / 2A  
+Type-C Çıkış: 5V / 2A  
+USB Çıkış: 5V / 2A  
+
+Bağlantı Özellikleri:
+
+2 Adet USB Çıkışı  
+Type-C Giriş & Çıkış  
+Micro USB Giriş  
+
+Pil Türü:
+
+Lithium Polimer  
+
+Gösterge:
+
+4 Kademeli LED Doluluk Göstergesi  
+
+Ek Özellikler:
+
+Işıklı Logo ve Yazı Özelliği  
+Akım Dengeleme ve Koruma Sistemi  
+Hızlı ve Güvenli Şarj  
+Geniş Cihaz Uyumluluğu  
+
+Kutu İçeriği:
+
+Type-C Şarj Kablosu  
+iPhone Adaptör  
+
+Ölçü & Ağırlık:
+
+136 x 68 x 15 mm  
+205 gr  
+
+Ambalaj:
+
+Lüks Siyah Kutu  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve ışıklı logo tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknolojik promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve personel hediyeleri  
+Reklam ve tanıtım kampanyaları  
+`
+},
+{
+  id: "p381",
+  slug: "promosyon-powerbank-organizer-6500mah-pb-350",
+  title: "Promosyon Powerbank Organizer 6.500 mAh PB-350 | Kablosuz Şarjlı PU Deri Organizer Set",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-organizer-pb-350.jpg",
+
+  shortDesc:
+    "Promosyon powerbank organizer PB-350, 6.500 mAh kapasitesi, 10W kablosuz şarj ve 16 GB USB belleği ile kurumsal hediyelerde premium bir teknolojik üründür.",
+
+  longDesc: `
+Promosyon powerbank organizer PB-350 modeli, teknolojik özellikleri ve şık PU deri tasarımı ile kurumsal promosyon ürünleri arasında premium segmentte yer almaktadır.
+
+A5 boyutundaki organizer yapısı sayesinde hem işlevsel hem de prestijli bir kullanım sunar.
+
+6.500 mAh batarya kapasitesi ile mobil cihazları gün içerisinde rahatlıkla şarj edebilir ve kullanıcıya taşınabilir enerji çözümü sağlar.
+
+10W kablosuz şarj özelliği sayesinde kablo kullanmadan pratik şarj imkanı sunar ve modern kullanım avantajı sağlar.
+
+Ürün içerisinde yer alan 16 GB USB bellek, veri taşıma ihtiyacını karşılayarak ürünü çok yönlü hale getirir.
+
+PU deri materyali sayesinde hem dayanıklı hem de estetik bir görünüm sunar ve kurumsal imajı güçlendirir.
+
+UV renkli baskı teknolojisi ile firmanızın logosu canlı ve dikkat çekici şekilde ürün üzerine uygulanabilir.
+
+Kademeli LED ışık göstergesi sayesinde batarya seviyesi kolaylıkla takip edilebilir.
+
+Şık siyah hediye kutusu ile sunulması sayesinde VIP müşteri hediyeleri için ideal bir seçenektir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank Organizer  
+Kategori: Powerbank  
+
+Kapasite:
+
+6.500 mAh  
+
+Şarj Özellikleri:
+
+10W Kablosuz Şarj  
+USB Çıkış: 2A  
+Giriş: USB-C  
+
+Ek Donanım:
+
+16 GB USB Bellek  
+
+Gösterge:
+
+Kademeli LED Işık Göstergesi  
+
+Malzeme:
+
+PU Deri  
+
+Baskı Türü:
+
+UV Renkli Baskı  
+
+Ölçü:
+
+A5 Boyut  
+
+Kutu:
+
+Siyah Hediye Kutusu  
+
+Kutu İçeriği:
+
+Şarj Kablosu Dahildir  
+
+Özellikler:
+
+Kablosuz Şarj Özelliği  
+Premium Organizer Tasarım  
+Çok Fonksiyonlu Kullanım  
+Şık ve Kurumsal Görünüm  
+Logo Baskıya Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank organizer siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Yönetici ve çalışan hediyeleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve tanıtım kampanyaları  
+`
+},
+{
+  id: "p382",
+  slug: "promosyon-powerbank-organizer-pb-360",
+  title: "Promosyon Powerbank Organizer PB-360 | Işıklı Logolu PU Deri Organizer",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-organizer-pb-360.jpg",
+
+  shortDesc:
+    "Promosyon powerbank organizer PB-360, PU deri tasarımı, ışıklı logo özelliği ve UV baskı imkanı ile kurumsal promosyonlarda şık ve dikkat çekici bir üründür.",
+
+  longDesc: `
+Promosyon powerbank organizer PB-360 modeli, şık PU deri kaplaması ve ışıklı markalama özelliği ile kurumsal promosyon ürünleri arasında öne çıkan premium ürünlerden biridir.
+
+Organizer formu sayesinde hem günlük kullanım hem de iş hayatında pratik bir çözüm sunar.
+
+Işıklı logo özelliği sayesinde firmanızın markası ürün üzerinde dikkat çekici şekilde sergilenir ve güçlü bir reklam etkisi oluşturur.
+
+UV renkli baskı teknolojisi ile logo ve tasarımlar canlı ve kaliteli şekilde uygulanabilir.
+
+Micro giriş ve USB çıkış özellikleri sayesinde mobil cihazlar için güvenli ve pratik şarj imkanı sunar.
+
+Kompakt ve kullanışlı yapısı ile toplantılar, fuarlar ve kurumsal etkinliklerde ideal bir promosyon ürünüdür.
+
+Lüks siyah hediye kutusu ile sunulması sayesinde prestijli bir hediye alternatifi oluşturur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Powerbank Organizer  
+Kategori: Powerbank  
+
+Malzeme:
+
+PU Deri  
+
+Giriş / Çıkış Değerleri:
+
+Giriş: DC 5V 2A (Max) Micro  
+Çıkış: DC 5V 2.1A (Max) USB  
+
+Baskı Türü:
+
+UV Renkli Baskı  
+
+Markalama:
+
+Işıklı Logo Özelliği  
+
+Ölçü:
+
+180 x 225 mm  
+
+Kutu:
+
+Siyah Hediye Kutusu  
+
+Kutu İçeriği:
+
+Şarj Kablosu Dahildir  
+
+Özellikler:
+
+Işıklı Logo Teknolojisi  
+Şık ve Premium Organizer Tasarım  
+Kurumsal Kullanıma Uygun  
+Logo Baskıya Uygun  
+Taşınabilir ve Kullanışlı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon powerbank organizer siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve ışıklı logo tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Yönetici hediyeleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve tanıtım kampanyaları  
+`
+},
+{
+  id: "p383",
+  slug: "promosyon-tarihsiz-defter-13x21-td-126",
+  title: "Promosyon Tarihsiz Defter 13x21 cm TD-126 | Işıklı Logolu PU Deri Defter",
+
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-126.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-126, 13x21 cm ölçüsü, ışıklı logo özelliği ve şık PU deri tasarımı ile kurumsal promosyonlarda dikkat çeken premium bir üründür.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-126 modeli, modern tasarımı ve ışıklı logo özelliği ile kurumsal promosyon ürünleri arasında öne çıkan premium defter modellerinden biridir.
+
+13 x 21 cm ölçüsü sayesinde hem taşınabilir hem de günlük kullanım için ideal bir yazım alanı sunar.
+
+PU deri kaplama yüzeyi ile şık ve profesyonel bir görünüm sağlar, kurumsal imajı güçlendirir.
+
+Üzerinde bulunan ışıklı logo özelliği sayesinde firmanızın markası dikkat çekici şekilde ön plana çıkar ve güçlü bir reklam etkisi oluşturur.
+
+Farklı renklerde ışıklı logo seçenekleri sayesinde marka kimliğinize uygun tasarım uygulanabilir.
+
+Tarihsiz yapısı sayesinde yıl sınırlaması olmadan uzun süre kullanılabilir ve her dönem için uygundur.
+
+Günlük not alma, toplantı kayıtları ve iş planlaması için ideal bir kullanım sunar.
+
+Şık kapama lastiği detayı ile kullanım kolaylığı sağlar ve defterin düzenli kalmasına yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Tarihsiz Defter  
+Kategori: Tarihsiz Defter  
+
+Ölçü:
+
+13 x 21 cm  
+
+Kaplama:
+
+PU Deri  
+
+Baskı Türü:
+
+Işıklı Logo  
+
+Özellikler:
+
+Işıklı Logo Teknolojisi  
+Farklı Renk Seçenekleri  
+Şık ve Premium Tasarım  
+Logo Baskıya Uygun  
+Dayanıklı Kapak Yapısı  
+Tarihsiz Kullanım  
+
+Kullanım Detayı:
+
+Kapama Lastikli  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon defter siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve ışıklı logo tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş kullanımı  
+Toplantı ve not alma  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+`
+},
+{
+  id: "p384",
+  slug: "promosyon-tarihsiz-defter-195x25-td-130",
+  title: "Promosyon Tarihsiz Defter 19,5x25 cm TD-130 | Termo Deri Gofre Baskılı Kareli Defter",
+
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-130.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-130, 19,5x25 cm büyük boy ölçüsü, termo deri kapak ve gofre baskı özelliği ile kurumsal kullanım için premium bir defter modelidir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-130 modeli, geniş ebatı ve kaliteli malzeme yapısı ile kurumsal promosyon ürünleri arasında üst segment defter seçeneklerinden biridir.
+
+19,5 x 25 cm ölçüsü sayesinde geniş yazım alanı sunar ve toplantı notları, planlama ve günlük kullanım için ideal bir deneyim sağlar.
+
+Termo deri kapak yapısı sayesinde hem dayanıklı hem de prestijli bir görünüm sunar.
+
+Desenli kapak tasarımı ile klasik defter modellerinden ayrılarak daha dikkat çekici ve şık bir yapı sunar.
+
+Gofre baskı ve dijital baskı seçenekleri ile firmanızın logosu profesyonel ve kalıcı şekilde uygulanabilir.
+
+90 gr ivory krem kağıt kullanımı sayesinde yazım konforu artırılmış olup kaliteli bir kullanım deneyimi sağlar.
+
+196 sayfa kareli iç yapısı sayesinde düzenli not alma ve planlama için uygundur.
+
+Tarihsiz formatı sayesinde yıl bağımsız kullanım sunar ve uzun süre kullanılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Tarihsiz Defter  
+Kategori: Tarihsiz Defter  
+
+Ölçü:
+
+19,5 x 25 cm  
+
+Kapak:
+
+Termo Deri  
+Desenli Kapak  
+
+Kağıt Özelliği:
+
+90 gr Ivory Krem  
+
+Sayfa Detayı:
+
+196 Sayfa  
+Kareli İç Sayfalar  
+
+Baskı Türü:
+
+Gofre Baskı  
+Dijital Baskı  
+
+Özellikler:
+
+Geniş Yazım Alanı  
+Premium Kapak Tasarımı  
+Kurumsal Kullanıma Uygun  
+Logo Baskıya Uygun  
+Dayanıklı ve Uzun Ömürlü  
+
+Koli Adedi:
+
+22 Adet  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon defter siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş kullanımı  
+Toplantı ve planlama  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+`
+},
+{
+  id: "p385",
+  slug: "promosyon-tarihsiz-defter-17x24-td-140",
+  title: "Promosyon Tarihsiz Defter 17x24 cm TD-140 | Termo Deri Gofre Baskılı Çizgili Defter",
+
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-140.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-140, 17x24 cm ölçüsü, termo deri kapak ve gofre baskı özelliği ile kurumsal promosyonlarda en çok tercih edilen defter modellerinden biridir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-140 modeli, ideal boyutu ve kaliteli malzeme yapısı ile kurumsal promosyon ürünleri arasında en çok tercih edilen defter seçeneklerinden biridir.
+
+17 x 24 cm ölçüsü sayesinde hem taşınabilir hem de geniş yazım alanı sunarak günlük kullanım ve iş hayatı için dengeli bir çözüm sağlar.
+
+Termo deri kapak yapısı ile şık ve profesyonel bir görünüm sunar, kurumsal prestiji artırır.
+
+Gofre baskı ve dijital baskı seçenekleri sayesinde firmanızın logosu kaliteli ve kalıcı şekilde uygulanabilir.
+
+80 gr ivory krem kağıt kullanımı ile yazım konforu sağlar ve uzun süreli kullanım imkanı sunar.
+
+224 sayfa çizgili iç yapısı sayesinde düzenli not alma ve planlama için ideal bir kullanım sunar.
+
+Tarihsiz formatı sayesinde yıl sınırlaması olmadan kullanılabilir ve her dönem için uygundur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Tarihsiz Defter  
+Kategori: Tarihsiz Defter  
+
+Ölçü:
+
+17 x 24 cm  
+
+Kapak:
+
+Termo Deri  
+
+Kağıt Özelliği:
+
+80 gr Ivory Krem  
+
+Sayfa Detayı:
+
+224 Sayfa  
+Çizgili İç Sayfalar  
+
+Baskı Türü:
+
+Gofre Baskı  
+Dijital Baskı  
+
+Özellikler:
+
+İdeal Boyut (Taşınabilir & Geniş Kullanım)  
+Şık ve Premium Kapak  
+Logo Baskıya Uygun  
+Dayanıklı ve Uzun Ömürlü  
+Kurumsal Kullanıma Uygun  
+
+Koli Adedi:
+
+36 Adet  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon defter siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş kullanımı  
+Toplantı ve not alma  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+`
+},
+{
+  id: "p386",
+  slug: "promosyon-tarihsiz-defter-13x21-td-150",
+  title: "Promosyon Tarihsiz Defter 13x21 cm TD-150 | Termo Deri Kenar Boyalı Lazer Baskılı Defter",
+
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-150.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-150, 13x21 cm ölçüsü, kenar boyalı tasarımı ve lazer baskı özelliği ile kurumsal promosyonlarda premium bir defter modelidir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-150 modeli, şık detayları ve kaliteli malzeme yapısı ile kurumsal promosyon ürünleri arasında öne çıkan premium defter seçeneklerinden biridir.
+
+13 x 21 cm ölçüsü sayesinde taşınabilir ve günlük kullanım için ideal bir yapı sunar.
+
+Termo deri kapak yüzeyi ile hem dayanıklı hem de prestijli bir görünüm sağlar.
+
+Kenarları boyalı özel tasarımı sayesinde klasik defter modellerinden ayrılarak daha dikkat çekici ve estetik bir görünüm sunar.
+
+Gofre, dijital ve lazer baskı seçenekleri sayesinde firmanızın logosu farklı tekniklerle kaliteli ve kalıcı şekilde uygulanabilir.
+
+80 gr ivory krem kağıt yapısı ile yazım konforu sunar ve uzun süreli kullanım sağlar.
+
+224 sayfa iç yapısı sayesinde geniş kullanım imkanı sunar.
+
+Tarihsiz formatı sayesinde yıl bağımsız kullanılabilir ve her dönem için uygundur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Tarihsiz Defter  
+Kategori: Tarihsiz Defter  
+
+Ölçü:
+
+13 x 21 cm  
+
+Kapak:
+
+Termo Deri  
+
+Kağıt Özelliği:
+
+80 gr Ivory Krem  
+
+Sayfa Detayı:
+
+224 Sayfa  
+
+Baskı Türü:
+
+Gofre Baskı  
+Dijital Baskı  
+Lazer Baskı  
+
+Özellikler:
+
+Kenarları Boyalı Tasarım  
+Şık ve Premium Görünüm  
+Logo Baskıya Uygun  
+Dayanıklı Kapak Yapısı  
+Uzun Ömürlü Kullanım  
+
+Koli Adedi:
+
+40 Adet  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon defter siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş kullanımı  
+Toplantı ve not alma  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+`
+},
+{
+  id: "p387",
+  slug: "promosyon-tarihsiz-defter-13x21-td-160",
+  title: "Promosyon Tarihsiz Defter 13x21 cm TD-160 | Termo Deri Gofre ve Lazer Baskılı Defter",
+
+  category: "Tarihsiz Defter",
+  image: "/products/promosyon-tarihsiz-defter-td-160.jpg",
+
+  shortDesc:
+    "Promosyon tarihsiz defter TD-160, 13x21 cm ölçüsü, termo deri kapak ve gofre ile lazer baskı seçenekleri ile kurumsal promosyonlarda şık bir defter modelidir.",
+
+  longDesc: `
+Promosyon tarihsiz defter TD-160 modeli, sade ve şık tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan klasik premium defter seçeneklerinden biridir.
+
+13 x 21 cm ölçüsü sayesinde taşınabilir ve günlük kullanım için ideal bir yapı sunar.
+
+Termo deri kapak yüzeyi ile dayanıklı ve prestijli bir görünüm sağlar, kurumsal imajı güçlendirir.
+
+Gofre ve lazer baskı seçenekleri sayesinde firmanızın logosu farklı tekniklerle kaliteli ve kalıcı şekilde uygulanabilir.
+
+80 gr ivory krem kağıt yapısı ile yazım konforu sunar ve uzun süreli kullanım sağlar.
+
+224 sayfa iç yapısı sayesinde geniş kullanım imkanı sunar.
+
+Tarihsiz formatı sayesinde yıl bağımsız kullanım imkanı sağlar ve her dönem için uygundur.
+
+Minimal ve profesyonel tasarımı ile geniş bir kullanıcı kitlesine hitap eder.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Tarihsiz Defter  
+Kategori: Tarihsiz Defter  
+
+Ölçü:
+
+13 x 21 cm  
+
+Kapak:
+
+Termo Deri  
+
+Kağıt Özelliği:
+
+80 gr Ivory Krem  
+
+Sayfa Detayı:
+
+224 Sayfa  
+
+Baskı Türü:
+
+Gofre Baskı  
+Lazer Baskı  
+
+Özellikler:
+
+Şık ve Minimal Tasarım  
+Logo Baskıya Uygun  
+Dayanıklı Kapak Yapısı  
+Uzun Ömürlü Kullanım  
+Kurumsal Kullanıma Uygun  
+
+Koli Adedi:
+
+40 Adet  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon defter siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş kullanımı  
+Toplantı ve not alma  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+`
+},
+{
+  id: "p388",
+  slug: "promosyon-kalem-seti-ks-130",
+  title: "Promosyon Kalem Seti KS-130 | Lazer ve Serigraf Baskılı Kurumsal Kalem Seti",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-130.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-130, şık kutusu ve lazer ile serigraf baskı seçenekleri ile kurumsal promosyonlarda prestijli bir hediye seçeneğidir.",
+
+  longDesc: `
+Promosyon kalem seti KS-130 modeli, şık tasarımı ve kaliteli baskı seçenekleri ile kurumsal promosyon ürünleri arasında öne çıkan kalem setlerinden biridir.
+
+Özel kutulu yapısı sayesinde hem şık bir sunum sağlar hem de kurumsal hediyeler için prestijli bir alternatif oluşturur.
+
+Kalem üzerinde uygulanabilen lazer baskı ile firmanızın logosu kalıcı ve profesyonel şekilde işlenir.
+
+Kutu üzerine uygulanabilen serigraf baskı sayesinde marka görünürlüğü artırılır ve etkili bir reklam alanı oluşturulur.
+
+Mavi refil özelliği sayesinde günlük kullanım için uygundur ve uzun süreli yazım imkanı sunar.
+
+Toplantılar, kurumsal organizasyonlar ve müşteri hediyeleri için ideal bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Kalem Seti  
+Kategori: Kalem Setleri  
+
+Kalem Ölçüsü:
+
+140 x Ø13 mm  
+
+Kutu Ölçüsü:
+
+192 x 97 mm  
+
+Baskı Alanları:
+
+Lazer Baskı Alanı: 50 x 5,5 mm  
+Serigraf Baskı Alanı: 150 x 65 mm  
+
+Refil:
+
+Mavi Refil  
+
+Özellikler:
+
+Şık Kutulu Tasarım  
+Lazer Baskı (Kalem)  
+Serigraf Baskı (Kutu)  
+Kurumsal Hediyeye Uygun  
+Logo Baskıya Uygun  
+
+Koli Adedi:
+
+50 Adet  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kalem seti siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Toplantı ve organizasyonlar  
+Fuar ve etkinlik dağıtımları  
+Reklam ve tanıtım kampanyaları  
+`
+},
+{
+  id: "p389",
+  slug: "promosyon-termos-bardak-250ml-tk-180",
+  title: "Promosyon Bardak Termos 250 ml TK-180 | Çift Katmanlı Renkli Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-termos-tk-180.jpg",
+
+  shortDesc:
+    "Promosyon bardak termos TK-180, 250 ml kapasitesi ve farklı renk seçenekleri ile kurumsal promosyonlarda en çok tercih edilen termos modellerinden biridir.",
+
+  longDesc: `
+Promosyon bardak termos TK-180 modeli, kompakt yapısı ve modern tasarımı ile kurumsal promosyon ürünleri arasında en çok tercih edilen termos seçeneklerinden biridir.
+
+250 ml kapasitesi sayesinde günlük kullanım için ideal olup çay, kahve ve diğer içecekleri pratik şekilde taşıma imkanı sunar.
+
+Şık ve sade tasarımı sayesinde hem ofis hem de dış mekan kullanımı için uygundur.
+
+Farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun tercihler yapılabilir.
+
+Ürün yüzeyine uygulanabilen logo baskı seçenekleri sayesinde marka bilinirliği artırılır ve etkili bir reklam ürünü olarak kullanılabilir.
+
+Kompakt boyutu sayesinde çantalarda kolay taşınabilir ve günlük kullanımda rahatlık sağlar.
+
+Dayanıklı yapısı sayesinde uzun ömürlü kullanım sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+250 ml  
+
+Renk Seçenekleri:
+
+Mat Siyah  
+Gümüş  
+Kırmızı  
+Siyah  
+Beyaz  
+Lacivert  
+
+Özellikler:
+
+Kompakt ve Taşınabilir Tasarım  
+Farklı Renk Seçenekleri  
+Logo Baskıya Uygun  
+Günlük Kullanıma Uygun  
+Dayanıklı Yapı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş kullanımı  
+Günlük kullanım  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+`
+},
+{
+  id: "p390",
+  slug: "promosyon-termos-350ml-isi-gostergeli-tk-195",
+  title: "Promosyon Termos 350 ml TK-195 | Dijital Isı Göstergeli Kilitli Kapak Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-termos-tk-195.jpg",
+
+  shortDesc:
+    "Promosyon termos TK-195, 350 ml kapasitesi, dijital ısı göstergesi ve kilitli kapak özelliği ile modern ve dikkat çekici bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon termos TK-195 modeli, dijital ısı göstergesi özelliği ile öne çıkan yenilikçi ve modern promosyon ürünlerinden biridir.
+
+350 ml kapasitesi sayesinde günlük kullanım için ideal olup sıcak ve soğuk içeceklerin pratik şekilde taşınmasını sağlar.
+
+Üzerinde bulunan dijital ısı göstergesi sayesinde içeceğin sıcaklık değeri kolaylıkla takip edilebilir ve kullanıcıya konfor sağlar.
+
+Kilitli kapak yapısı sayesinde sızdırmaz kullanım sunar ve çanta içerisinde güvenli taşıma imkanı sağlar.
+
+Şık ve ergonomik tasarımı ile hem ofis hem de dış mekan kullanımı için uygundur.
+
+Ürün yüzeyine uygulanabilen logo baskı seçenekleri ile marka bilinirliği artırılır ve etkili bir reklam ürünü olarak kullanılabilir.
+
+Kompakt yapısı sayesinde kolay taşınabilir ve günlük kullanım için ideal bir çözüm sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+350 ml  
+
+Ölçü:
+
+6,5 x 20 cm  
+
+Özellikler:
+
+Dijital Isı Göstergesi  
+Kilitli Kapak (Sızdırmaz Tasarım)  
+Kompakt ve Taşınabilir  
+Modern Tasarım  
+Logo Baskıya Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş kullanımı  
+Günlük kullanım  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+`
+},
+{
+  id: "p391",
+  slug: "promosyon-termos-580ml-tk-190",
+  title: "Promosyon Termos 580 ml TK-190 | Lazer Baskılı Büyük Boy Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-termos-tk-190.jpg",
+
+  shortDesc:
+    "Promosyon termos TK-190, 580 ml geniş kapasitesi ve lazer baskı özelliği ile kurumsal promosyonlarda en çok tercih edilen büyük boy termos modellerinden biridir.",
+
+  longDesc: `
+Promosyon termos TK-190 modeli, geniş hacmi ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında öne çıkan büyük boy termos seçeneklerinden biridir.
+
+580 ml kapasitesi sayesinde uzun süreli kullanım için idealdir ve sıcak ya da soğuk içeceklerin gün boyunca muhafaza edilmesini sağlar.
+
+Büyük hacimli yapısı ile özellikle yoğun tempoda çalışan kullanıcılar için pratik bir çözüm sunar.
+
+Lazer baskı teknolojisi sayesinde firmanızın logosu termos yüzeyine kalıcı ve profesyonel şekilde uygulanabilir.
+
+Şık ve sade tasarımı ile hem ofis hem de dış mekan kullanımına uygundur.
+
+Dayanıklı gövde yapısı ile uzun ömürlü kullanım sağlar ve günlük kullanım için idealdir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+580 ml  
+
+Ölçü:
+
+135 x 200 mm  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Özellikler:
+
+Geniş Kapasite (Büyük Boy)  
+Uzun Süreli Isı Koruma  
+Şık ve Dayanıklı Tasarım  
+Logo Baskıya Uygun  
+Günlük Kullanıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş kullanımı  
+Günlük kullanım  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+`
+},
 
 ];
 
