@@ -30,6 +30,17 @@ const guides = [
     title: "Promosyon Kalem Nedir? Firmalar Neden Tercih Eder?",
     desc: "Promosyon kalem nedir, firmalar neden tercih eder? Logo baskılı promosyon kalemlerin avantajları, kullanım alanları ve marka bilinirliğine katkıları hakkında detaylı rehber.",
   },
+  {
+  slug: "promosyon-kalem-secerken-nelere-dikkat-edilmeli",
+  title: "Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?",
+  desc: "Promosyon kalem seçerken model, baskı türü, kalite, hedef kitle ve kullanım alanı açısından dikkat edilmesi gereken noktaları inceleyin.",
+},
+{
+  slug: "promosyon-kalemlerde-baski-turleri-nelerdir",
+  title: "Promosyon Kalemlerde Baskı Türleri Nelerdir?",
+  desc: "Promosyon kalemlerde kullanılan baskı türleri nelerdir? Tampon baskı, UV baskı, serigrafi ve lazer baskı gibi yöntemlerin farklarını detaylı inceleyin.",
+},
+
 ];
 
 export const metadata: Metadata = {
