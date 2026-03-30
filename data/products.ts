@@ -21826,6 +21826,561 @@ Ofis kullanımı
 Reklam ve tanıtım çalışmaları  
 `
 },
+{
+  id: "p402",
+  slug: "promosyon-termos-500-ml-dijital-isi-gostergeli-tk-196",
+  title: "Promosyon Termos 500 ml TK-196 | Dijital Isı Göstergeli Süzgeçli Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-termos-500-ml-tk-196.jpg",
+
+  shortDesc:
+    "Promosyon termos 500 ml TK-196, dijital ısı göstergesi ve süzgeçli yapısı ile kurumsal promosyonlar için modern ve kullanışlı bir termos modelidir.",
+
+  longDesc: `
+Promosyon termos 500 ml TK-196, dijital ısı göstergesi ve süzgeçli yapısı ile günlük kullanım ve kurumsal promosyon çalışmalarında öne çıkan modern bir termos modelidir.
+
+Kapak üzerinde yer alan dijital ısı göstergesi sayesinde içeceğinizin sıcaklık değerini anlık olarak kontrol edebilirsiniz. Bu özellik, kullanıcı deneyimini artırarak ürünü diğer promosyon termos modellerinden ayırır.
+
+500 ml kapasitesi ile çay, kahve ve diğer sıcak-soğuk içeceklerin taşınması için ideal bir kullanım sunar.
+
+İç kısmında bulunan süzgeç sayesinde bitki çayı ve benzeri içecekler kolaylıkla hazırlanabilir.
+
+Şık ve sade tasarımı ile kurumsal firmalar için hem kullanışlı hem de prestijli bir promosyon ürünüdür.
+
+Yüzey yapısı, lazer baskı başta olmak üzere logo uygulamalarına uygundur ve markanızın uzun süre kalıcı şekilde görünmesini sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+500 ml  
+
+Ebat:
+
+8.5 x 18.5 cm  
+
+Özellikler:
+
+Dijital Isı Göstergesi  
+Süzgeçli İç Yapı  
+Sıcak ve Soğuk Tutma  
+Şık ve Modern Tasarım  
+Günlük Kullanıma Uygun  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Ofis ve günlük kullanım  
+Reklam ve tanıtım çalışmaları  
+`
+},
+{
+  id: "p403",
+  slug: "promosyon-termos-1000-ml-dijital-isi-gostergeli-hediye-kutulu-tk-200",
+  title: "Promosyon Termos 1000 ml TK-200 | Dijital Isı Göstergeli Hediye Kutulu Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-termos-1000-ml-tk-200.jpg",
+
+  shortDesc:
+    "Promosyon termos 1000 ml TK-200, dijital ısı göstergesi ve hediye kutusu ile kurumsal promosyonlarda premium ve şık bir kullanım sunar.",
+
+  longDesc: `
+Promosyon termos 1000 ml TK-200, geniş hacmi ve dijital ısı göstergesi ile günlük kullanım ve kurumsal promosyonlar için tasarlanmış premium bir termos modelidir.
+
+Kapak üzerinde yer alan dijital ısı göstergesi sayesinde içeceğinizin sıcaklık değerini anlık olarak takip edebilirsiniz. Bu özellik, kullanıcıya modern ve pratik bir deneyim sunar.
+
+1000 ml kapasitesi ile uzun süreli kullanım sağlar ve özellikle gün boyu sıcak veya soğuk içecek tüketen kullanıcılar için idealdir.
+
+Şık ve mat tasarımı ile kurumsal firmalar için prestijli bir promosyon ürünü olarak öne çıkar.
+
+Ürün, özel hediye kutusu ile birlikte sunulmaktadır. Bu sayede hem promosyon hem de kurumsal hediye olarak rahatlıkla tercih edilebilir.
+
+Yüzeyi lazer baskı için uygundur ve marka logonuz termos üzerinde kalıcı ve profesyonel şekilde uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+1000 ml  
+
+Ebat:
+
+8 x 27 cm  
+
+Özellikler:
+
+Dijital Isı Göstergesi  
+Geniş Hacim (1000 ml)  
+Hediye Kutulu  
+Şık ve Modern Tasarım  
+Günlük Kullanıma Uygun  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Ofis ve günlük kullanım  
+Reklam ve tanıtım çalışmaları  
+`
+},
+{
+  id: "p404",
+  slug: "promosyon-termos-500-ml-deri-kilifli-tk-205",
+  title: "Promosyon Termos 500 ml TK-205 | Deri Kılıflı Lazer Baskılı Şık Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-termos-500-ml-tk-205.jpg",
+
+  shortDesc:
+    "Promosyon termos 500 ml TK-205, deri kılıfı ve şık tasarımı ile kurumsal promosyonlar ve prestijli hediyeler için ideal bir termos modelidir.",
+
+  longDesc: `
+Promosyon termos 500 ml TK-205, deri kılıf tasarımı ile hem estetik hem de kullanışlı bir promosyon termos modelidir.
+
+Deri kaplama dış yüzeyi sayesinde ürün, klasik termos modellerine göre daha şık ve premium bir görünüm sunar. Bu özellik, ürünü kurumsal hediyeler ve özel promosyon çalışmaları için ideal hale getirir.
+
+500 ml kapasitesi ile günlük kullanım için ideal bir hacim sunar. Çay, kahve ve diğer sıcak-soğuk içeceklerin taşınmasında pratik bir çözüm sağlar.
+
+Deri kılıf, termosun elde daha rahat tutulmasını sağlarken aynı zamanda darbelere karşı ekstra koruma sunar.
+
+Yüzeyi lazer baskı için uygundur ve firmanızın logosu termos üzerine kalıcı ve profesyonel şekilde uygulanabilir.
+
+Şık tasarımı sayesinde hem ofis kullanımı hem de günlük kullanım için tercih edilebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+500 ml  
+
+Ebat:
+
+7 x 24.5 cm  
+
+Malzeme:
+
+Deri Kılıf Kaplama  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Özellikler:
+
+Deri Kılıflı Tasarım  
+Şık ve Premium Görünüm  
+Dayanıklı Yapı  
+Günlük Kullanıma Uygun  
+Logo Baskıya Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Fuar ve etkinlik dağıtımları  
+Ofis kullanımı  
+Reklam ve tanıtım çalışmaları  
+`
+},
+{
+  id: "p405",
+  slug: "promosyon-termos-750-ml-deri-kilifli-tk-210",
+  title: "Promosyon Termos 750 ml TK-210 | Deri Kılıflı Lazer Baskılı Şık Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-termos-750-ml-tk-210.jpg",
+
+  shortDesc:
+    "Promosyon termos 750 ml TK-210, deri kılıfı ve şık tasarımı ile kurumsal promosyonlar ve prestijli hediyeler için ideal bir termos modelidir.",
+
+  longDesc: `
+Promosyon termos 750 ml TK-210, deri kılıf tasarımı ve ideal kapasitesi ile hem günlük kullanım hem de kurumsal promosyonlar için öne çıkan bir termos modelidir.
+
+Deri kaplama dış yüzeyi sayesinde ürün, klasik termoslara göre daha şık ve premium bir görünüm sunar. Bu özellik, özellikle kurumsal firmalar için prestijli bir promosyon ürünü olmasını sağlar.
+
+750 ml kapasitesi ile gün boyu sıcak ve soğuk içeceklerin taşınması için ideal bir kullanım sunar. Ne çok büyük ne de küçük olması sayesinde en dengeli termos seçeneklerinden biridir.
+
+Deri kılıf, termosun elde daha rahat tutulmasını sağlarken aynı zamanda darbelere karşı ekstra koruma sağlar.
+
+Yüzeyi lazer baskı için uygundur ve firmanızın logosu termos üzerine kalıcı ve profesyonel şekilde uygulanabilir.
+
+Modern ve sade tasarımı ile hem ofis hem de günlük kullanım için uygundur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+750 ml  
+
+Ebat:
+
+8.5 x 27.5 cm  
+
+Malzeme:
+
+Deri Kılıf Kaplama  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Özellikler:
+
+Deri Kılıflı Tasarım  
+Orta Boy (750 ml)  
+Şık ve Premium Görünüm  
+Dayanıklı Yapı  
+Günlük Kullanıma Uygun  
+Logo Baskıya Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+VIP müşteri hediyeleri  
+Fuar ve etkinlik dağıtımları  
+Ofis ve günlük kullanım  
+Reklam ve tanıtım çalışmaları  
+`
+},
+{
+  id: "p406",
+  slug: "promosyon-termos-400-ml-dijital-isi-gostergeli-tk-220",
+  title: "Promosyon Termos 400 ml TK-220 | Dijital Isı Göstergeli Şık Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-termos-400-ml-tk-220.jpg",
+
+  shortDesc:
+    "Promosyon termos 400 ml TK-220, dijital ısı göstergesi ve kompakt tasarımı ile kurumsal promosyonlar için pratik ve modern bir termos modelidir.",
+
+  longDesc: `
+Promosyon termos 400 ml TK-220, kompakt boyutu ve dijital ısı göstergesi ile günlük kullanım ve kurumsal promosyon çalışmaları için ideal bir termos modelidir.
+
+Kapak üzerinde bulunan dijital ısı göstergesi sayesinde içeceğinizin sıcaklık değerini anlık olarak kontrol edebilirsiniz. Bu özellik, ürüne modern ve teknolojik bir kullanım avantajı sağlar.
+
+400 ml kapasitesi sayesinde hafif ve taşınabilir bir yapı sunar. Özellikle çanta içinde rahat taşınabilmesi, ürünü günlük kullanım için oldukça pratik hale getirir.
+
+Şık ve sade tasarımı ile hem bireysel kullanım hem de kurumsal promosyonlar için tercih edilmektedir.
+
+Yüzey yapısı lazer baskıya uygundur ve marka logonuz termos üzerine kalıcı ve profesyonel şekilde uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+400 ml  
+
+Ebat:
+
+6.3 x 21.7 cm  
+
+Özellikler:
+
+Dijital Isı Göstergesi  
+Kompakt Tasarım  
+Hafif ve Taşınabilir  
+Şık ve Modern Görünüm  
+Günlük Kullanıma Uygun  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri hediyeleri  
+Günlük kullanım  
+Reklam ve tanıtım çalışmaları  
+`
+},
+{
+  id: "p407",
+  slug: "promosyon-devrilmez-termos-500-ml-vantuzlu-tk-230",
+  title: "Promosyon Devrilmez Termos 500 ml TK-230 | Vantuzlu Sabit Tabanlı Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-devrilmez-termos-500-ml-tk-230.jpg",
+
+  shortDesc:
+    "Promosyon devrilmez termos 500 ml TK-230, vantuzlu tabanı sayesinde devrilmeye karşı dayanıklı yapısı ile ofis ve araç kullanımı için ideal bir promosyon termos modelidir.",
+
+  longDesc: `
+Promosyon devrilmez termos 500 ml TK-230, özel vantuzlu taban yapısı sayesinde devrilmeye karşı dayanıklı olarak tasarlanmış yenilikçi bir termos modelidir.
+
+Alt kısmında bulunan vantuz sistemi sayesinde düz yüzeylere sabitlenir ve yanlışlıkla çarpma durumlarında devrilmez. Bu özellik, özellikle ofis masası ve araç kullanımı için büyük avantaj sağlar.
+
+500 ml kapasitesi ile günlük sıcak ve soğuk içecek tüketimi için ideal bir kullanım sunar.
+
+Modern ve dikkat çekici tasarımı ile klasik termos modellerinden ayrılır ve promosyon çalışmalarında fark yaratır.
+
+Yüzeyi lazer baskıya uygundur ve firmanızın logosu termos üzerine kalıcı ve profesyonel şekilde uygulanabilir.
+
+Kullanışlı ve yenilikçi yapısı sayesinde hem bireysel kullanım hem de kurumsal promosyonlar için tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+500 ml  
+
+Ebat:
+
+8.3 x 18.5 cm  
+
+Özellikler:
+
+Devrilmez Tasarım  
+Vantuzlu Taban  
+Sabitlenebilir Yapı  
+Şık ve Modern Görünüm  
+Günlük Kullanıma Uygun  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis kullanımı  
+Araç içi kullanım  
+Masa üstü kullanım  
+Reklam ve tanıtım çalışmaları  
+`
+},
+{
+  id: "p408",
+  slug: "promosyon-termos-400-ml-lazer-baskili-tk-240",
+  title: "Promosyon Termos 400 ml TK-240 | Lazer Baskılı Şık ve Kullanışlı Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-termos-400-ml-tk-240.jpg",
+
+  shortDesc:
+    "Promosyon termos 400 ml TK-240, kompakt tasarımı ve lazer baskıya uygun yüzeyi ile kurumsal promosyonlar için ideal bir termos modelidir.",
+
+  longDesc: `
+Promosyon termos 400 ml TK-240, sade ve şık tasarımı ile günlük kullanım ve kurumsal promosyon çalışmaları için tercih edilen bir termos modelidir.
+
+400 ml kapasitesi sayesinde hafif ve taşınabilir bir kullanım sunar. Çanta içerisinde rahatlıkla taşınabilir olması, ürünü günlük kullanım için oldukça pratik hale getirir.
+
+Minimal ve modern tasarımı ile geniş kullanıcı kitlesine hitap eder ve promosyon ürünleri arasında en çok tercih edilen modellerden biridir.
+
+Yüzey yapısı lazer baskıya uygundur ve firmanızın logosu termos üzerine kalıcı ve profesyonel şekilde uygulanabilir.
+
+Farklı renk seçenekleri ile kurumsal kimliğinize uygun tercihler yapabilirsiniz.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+400 ml  
+
+Ebat:
+
+19.5 x Ø 8 cm  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Baskı Alanı:
+
+23 x 50 mm  
+
+Kolideki Adet:
+
+40  
+
+Özellikler:
+
+Kompakt Tasarım  
+Şık ve Minimal Görünüm  
+Hafif ve Taşınabilir  
+Logo Baskıya Uygun  
+Günlük Kullanıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri hediyeleri  
+Ofis ve günlük kullanım  
+Reklam ve tanıtım çalışmaları  
+`
+},
+{
+  id: "p409",
+  slug: "promosyon-termos-700-ml-lazer-baskili-tk-250",
+  title: "Promosyon Termos 700 ml TK-250 | Lazer Baskılı Şık ve Dayanıklı Termos",
+
+  category: "Termos",
+  image: "/products/promosyon-termos-700-ml-tk-250.jpg",
+
+  shortDesc:
+    "Promosyon termos 700 ml TK-250, ideal kapasitesi ve lazer baskıya uygun yapısı ile kurumsal promosyonlar için şık ve kullanışlı bir termos modelidir.",
+
+  longDesc: `
+Promosyon termos 700 ml TK-250, modern tasarımı ve ideal kapasitesi ile günlük kullanım ve kurumsal promosyon çalışmaları için tercih edilen bir termos modelidir.
+
+700 ml kapasitesi sayesinde gün boyu sıcak ve soğuk içeceklerin taşınması için dengeli bir kullanım sunar. Ne çok büyük ne de küçük olması, ürünü en çok tercih edilen termos seçeneklerinden biri haline getirir.
+
+Şık ve sade tasarımı ile geniş kullanıcı kitlesine hitap eder ve kurumsal promosyon ürünleri arasında öne çıkar.
+
+Farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun tercihler yapılabilir.
+
+Yüzey yapısı lazer baskıya uygundur ve marka logonuz termos üzerine kalıcı ve profesyonel şekilde uygulanabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Termos  
+Kategori: Termos  
+
+Kapasite:
+
+700 ml  
+
+Ebat:
+
+69 x 214 mm  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Özellikler:
+
+Orta Boy (700 ml)  
+Şık ve Modern Tasarım  
+Dayanıklı Yapı  
+Logo Baskıya Uygun  
+Günlük Kullanıma Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon termos siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+
+Logo baskı ve tasarım detayları sipariş sırasında belirlenmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi talebe göre sunulmaktadır.
+
+Detaylı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Ofis ve günlük kullanım  
+Reklam ve tanıtım çalışmaları  
+`
+},
 
 ];
 
