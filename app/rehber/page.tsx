@@ -60,6 +60,31 @@ const guides = [
   title: "En Ucuz Promosyon Kalem Hangisi?",
   desc: "En uygun fiyatlı promosyon kalem modelleri ve toplu alım rehberi.",
 },
+{
+  slug: "promosyon-cakmak-fiyatlari",
+  title: "Promosyon Çakmak Fiyatları 2026",
+  desc: "Promosyon çakmak fiyatları ne kadar? Baskı türü, adet ve model bazlı detaylı fiyat rehberi.",
+},
+{
+  slug: "promosyon-cakmak-nedir",
+  title: "Promosyon Çakmak Nedir?",
+  desc: "Promosyon çakmak nedir, neden kullanılır? Logo baskılı çakmak hakkında detaylı rehber.",
+},
+{
+  slug: "promosyon-cakmak-kullanim-alanlari",
+  title: "Promosyon Çakmak Nerelerde Kullanılır?",
+  desc: "Promosyon çakmak nerelerde kullanılır, ne işe yarar ve hangi baskılar uygulanır? Detaylı rehber.",
+},
+{
+  slug: "promosyon-anahtarlik-nedir",
+  title: "Promosyon Anahtarlık Nedir?",
+  desc: "Promosyon anahtarlık nedir, nerelerde kullanılır ve hangi baskılar uygulanır? Detaylı rehber.",
+},
+{
+  slug: "promosyon-anahtarlik-fiyatlari",
+  title: "Promosyon Anahtarlık Fiyatları 2026",
+  desc: "Promosyon anahtarlık fiyatları ne kadar? Malzeme, baskı ve adet bazlı detaylı rehber.",
+},
 
 ];
 
