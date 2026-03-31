@@ -85,6 +85,51 @@ const guides = [
   title: "Promosyon Anahtarlık Fiyatları 2026",
   desc: "Promosyon anahtarlık fiyatları ne kadar? Malzeme, baskı ve adet bazlı detaylı rehber.",
 },
+{
+  slug: "promosyon-kalem",
+  title: "Promosyon Kalem Nedir? 2026 Detaylı Rehber",
+  desc: "Promosyon kalem nedir, neden tercih edilir ve firmalara ne kazandırır? Baskı türleri, kullanım alanları ve fiyat detaylarıyla kapsamlı rehber.",
+},
+{
+  slug: "promosyon-kalem-fiyatlari",
+  title: "Promosyon Kalem Fiyatları 2026",
+  desc: "Promosyon kalem fiyatları ne kadar? Adet, baskı ve model bazlı detaylı fiyat rehberi.",
+},
+{
+  slug: "baskili-kalem-fiyatlari",
+  title: "Baskılı Kalem Fiyatları 2026",
+  desc: "Baskılı kalem fiyatları ne kadar? Logo baskı, UV baskı ve adet bazlı detaylı rehber.",
+},
+{
+  slug: "logo-baskili-kalem",
+  title: "Logo Baskılı Kalem Nedir? 2026 Rehber",
+  desc: "Logo baskılı kalem nedir, nasıl yapılır ve firmalara ne kazandırır? Detaylı rehber.",
+},
+{
+  slug: "kalem-baski-fiyatlari",
+  title: "Kalem Baskı Fiyatları 2026",
+  desc: "Kalem baskı fiyatları ne kadar? Tampon, UV ve lazer baskı detaylı rehber.",
+},
+{
+  slug: "esantiyon-kalem",
+  title: "Eşantiyon Kalem Nedir? 2026 Detaylı Rehber",
+  desc: "Eşantiyon kalem nedir, neden tercih edilir ve firmalara ne kazandırır? Baskı, model ve kullanım alanlarıyla kapsamlı rehber.",
+},
+{
+  slug: "reklam-kalemleri",
+  title: "Reklam Kalemleri Nedir? 2026 Detaylı Rehber",
+  desc: "Reklam kalemleri nedir, neden kullanılır ve firmalara ne kazandırır? Logo baskı, model ve kullanım alanlarıyla kapsamlı rehber.",
+},
+{
+  slug: "kurumsal-kalem",
+  title: "Kurumsal Kalem Nedir? 2026 Detaylı Rehber",
+  desc: "Kurumsal kalem nedir, neden tercih edilir ve firmalara ne kazandırır? Logo baskı, model seçimi ve kullanım alanlarıyla kapsamlı rehber.",
+},
+{
+  slug: "promosyon-kalem-toplu-alim",
+  title: "Promosyon Kalem Toplu Alım Rehberi 2026",
+  desc: "Promosyon kalem toplu alırken nelere dikkat edilmeli? Adet, baskı, model seçimi, fiyat avantajı ve toplu sipariş stratejileriyle detaylı rehber.",
+},
 
 ];
 
