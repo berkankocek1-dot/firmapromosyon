@@ -40,6 +40,26 @@ const guides = [
   title: "Promosyon Kalemlerde Baskı Türleri Nelerdir?",
   desc: "Promosyon kalemlerde kullanılan baskı türleri nelerdir? Tampon baskı, UV baskı, serigrafi ve lazer baskı gibi yöntemlerin farklarını detaylı inceleyin.",
 },
+{
+  slug: "promosyon-kalem-fiyatlari-nasil-hesaplanir",
+  title: "Promosyon Kalem Fiyatları Nasıl Hesaplanır?",
+  desc: "Promosyon kalem fiyatları nasıl belirlenir? Adet, baskı ve model bazlı fiyat hesaplama rehberi.",
+},
+{
+  slug: "promosyon-kalem-toptan-fiyatlari",
+  title: "Promosyon Kalem Toptan Fiyatları 2026",
+  desc: "Toptan promosyon kalem fiyatları ne kadar? 100, 500 ve 1000 adet için güncel fiyat rehberi.",
+},
+{
+  slug: "logo-baskili-kalem-fiyatlari",
+  title: "Logo Baskılı Kalem Fiyatları 2026",
+  desc: "Logo baskılı promosyon kalem fiyatları ne kadar? Baskı türüne göre detaylı rehber.",
+},
+{
+  slug: "en-ucuz-promosyon-kalem",
+  title: "En Ucuz Promosyon Kalem Hangisi?",
+  desc: "En uygun fiyatlı promosyon kalem modelleri ve toplu alım rehberi.",
+},
 
 ];
 
