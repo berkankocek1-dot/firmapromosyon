@@ -21,6 +21,34 @@ function normalizeTR(v: string) {
 const PAGE_URL = `${SITE_URL}/promosyon-ajanda`;
 const CATEGORY_NAME = "Ajanda";
 
+const faqItems = [
+  {
+    question: "Promosyon ajanda minimum kaç adet yaptırılır?",
+    answer:
+      "Promosyon ajanda siparişlerinde minimum adet; seçilen modele, baskı türüne, stok durumuna ve üretim planına göre değişebilir. Bazı ajanda modelleri daha düşük adetlerde hazırlanabilirken, bazı ürünler toplu sipariş mantığıyla sunulabilir.",
+  },
+  {
+    question: "Promosyon ajanda fiyatları neye göre değişir?",
+    answer:
+      "Promosyon ajanda fiyatları; ürün ölçüsü, kapak malzemesi, iç sayfa düzeni, baskı yöntemi, sipariş miktarı ve özel üretim taleplerine göre değişebilir. Termo deri, spiralli veya ciltli ajanda gibi farklı modeller farklı fiyat aralıklarında değerlendirilebilir.",
+  },
+  {
+    question: "Logo baskılı ajandalarda hangi baskı türleri uygulanır?",
+    answer:
+      "Logo baskılı promosyon ajandalarda modele göre sıcak baskı, serigraf baskı, UV baskı, lazer veya yüzeye uygun farklı uygulamalar tercih edilebilir. Doğru baskı yöntemi ürün yüzeyi, logo detayı ve kullanım amacına göre belirlenmelidir.",
+  },
+  {
+    question: "Promosyon ajanda siparişi ne kadar sürede hazırlanır?",
+    answer:
+      "Sipariş hazırlık süresi; stok durumu, sipariş adedi, baskı yoğunluğu ve onay sürecine göre değişebilir. Net teslim süresi, seçilen model ve sipariş detayları netleştikten sonra daha sağlıklı şekilde paylaşılır.",
+  },
+  {
+    question: "Promosyon ajanda kimlere hediye edilir?",
+    answer:
+      "Promosyon ajanda; müşterilere, bayilere, iş ortaklarına, çalışanlara ve kurumsal etkinlik katılımcılarına verilebilecek prestijli promosyon ürünleri arasında yer alır. Özellikle yeni yıl döneminde ve kurumsal hediye çalışmalarında sık tercih edilir.",
+  },
+];
+
 export const metadata: Metadata = {
   title:
     "Promosyon Ajanda Modelleri | Logo Baskılı Kurumsal Promosyon Ajanda",
@@ -121,6 +149,21 @@ export default function PromosyonAjandaPage() {
         }}
       />
 
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqItems.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: item.answer,
+            },
+          })),
+        }}
+      />
+
       <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
         <nav className="mb-6 text-sm text-gray-300">
           <Link href="/" className="hover:text-white hover:underline">
@@ -157,10 +200,10 @@ export default function PromosyonAjandaPage() {
 
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
-              href="/teklif"
+              href="/kurumsal-teklif-al"
               className="inline-flex items-center justify-center rounded-xl bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
             >
-              Hızlı Teklif Al
+              Kurumsal Teklif Al
             </Link>
 
             <Link
@@ -307,6 +350,147 @@ export default function PromosyonAjandaPage() {
             </div>
           </section>
 
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon Ajanda Fiyatlarını Etkileyen Unsurlar
+            </h2>
+
+            <p>
+              Promosyon ajanda fiyatları yalnızca ürünün dış görünümüne göre
+              belirlenmez. Ebat, kapak malzemesi, iç sayfa tasarımı, cilt yapısı,
+              baskı tekniği, sipariş miktarı ve özel üretim detayları toplam
+              maliyet üzerinde etkili olabilir.
+            </p>
+
+            <p>
+              Bazı firmalar daha ekonomik dağıtım çözümleri ararken, bazıları daha
+              prestijli ve uzun ömürlü kurumsal hediyelere yönelir. Bu nedenle
+              ajanda seçimi yapılırken yalnızca fiyat değil, hedef kitle ve kullanım
+              amacı da birlikte değerlendirilmelidir.
+            </p>
+
+            <p>
+              Özellikle yeni yıl promosyonlarında ve kurumsal hediye çalışmalarında
+              ajanda; kalıcı görünürlük, düzenli kullanım ve masa üstü reklam etkisi
+              sunduğu için güçlü bir seçenektir. Doğru model ve doğru baskı tercihi
+              ile kurumsal algı daha profesyonel hale getirilebilir.
+            </p>
+
+            <p>
+              Logo baskılı ajanda siparişlerinde baskı uygulanacak yüzeyin yapısı
+              ve logonun detay seviyesi de önemlidir. Bazı modellerde sıcak baskı
+              veya serigrafi daha iyi sonuç verirken, bazı ürünlerde farklı yüzey
+              uygulamaları daha uygun olabilir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Ciltli, Spiralli ve Farklı Ajanda Modelleri
+            </h2>
+
+            <p>
+              Promosyon ajanda kategorisinde farklı kullanım alışkanlıklarına uygun
+              birçok model bulunabilir. Klasik ciltli ajandalar daha kurumsal ve
+              prestijli bir görünüm sunarken, spiralli ajandalar pratik kullanım
+              avantajı sağlayabilir.
+            </p>
+
+            <p>
+              Kapak yapısı, iç sayfa tasarımı ve taşıma kolaylığı gibi detaylar
+              model seçiminde önemlidir. Kullanıcının ajandayı masa başında mı yoksa
+              hareket halinde mi kullanacağı bile doğru model seçiminde etkili olabilir.
+            </p>
+
+            <p>
+              Daha resmi ve güçlü bir kurumsal izlenim hedefleniyorsa premium
+              kapaklı modeller öne çıkabilir. Daha geniş dağıtım planlarında ise
+              bütçe ve adet avantajı sunan alternatifler değerlendirilebilir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Logo Baskılı Ajanda Siparişinde Nelere Dikkat Edilmeli?
+            </h2>
+
+            <p>
+              Logo baskılı ajanda siparişi verirken ürün boyutu, kapak malzemesi,
+              baskı alanı, renk seçeneği ve kullanım amacı dikkatle değerlendirilmelidir.
+              Çok detaylı logolarda baskı tekniğinin doğru seçilmesi daha da önemli hale gelir.
+            </p>
+
+            <p>
+              Sipariş öncesinde ajandaların kimlere dağıtılacağı netleştirilmelidir.
+              Müşteri hediyesi için seçilecek promosyon ajanda ile personel dağıtımı
+              için seçilecek model aynı özellikte olmayabilir. Hedef kitleye göre doğru
+              model seçmek, promosyon etkisini doğrudan artırır.
+            </p>
+
+            <p>
+              Ayrıca ajanda ile birlikte{" "}
+              <Link
+                href="/promosyon-kalem"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon kalem
+              </Link>
+              ,{" "}
+              <Link
+                href="/promosyon-anahtarlik"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon anahtarlık
+              </Link>
+              ,{" "}
+              <Link
+                href="/promosyon-termos"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon termos
+              </Link>{" "}
+              veya{" "}
+              <Link
+                href="/promosyon-usb-bellek"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon USB bellek
+              </Link>{" "}
+              gibi tamamlayıcı ürünlerle daha güçlü kurumsal setler hazırlanabilir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Toptan Promosyon Ajanda Siparişi İçin Doğru Planlama
+            </h2>
+
+            <p>
+              Toptan promosyon ajanda siparişlerinde doğru sonuç almak için ihtiyaçlar
+              önceden belirlenmelidir. Dağıtım yapılacak kitle, adet planı, baskı
+              tercihi, teslim tarihi ve kullanım amacı teklif sürecini doğrudan etkiler.
+            </p>
+
+            <p>
+              Promosyon ajanda, yalnızca kısa süreli kampanyalarda değil; yıl boyu
+              masa üstünde, toplantılarda ve ofis içinde görünür kalan bir ürün olduğu
+              için marka bilinirliği açısından güçlü avantaj sağlar.
+            </p>
+
+            <p>
+              Sayfada yer alan ürünleri inceleyerek ihtiyacınıza uygun modeli
+              belirleyebilir ve doğrudan{" "}
+              <Link
+                href="/kurumsal-teklif-al"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                kurumsal teklif
+              </Link>{" "}
+              talebinde bulunabilirsiniz. Böylece firmanız için en uygun promosyon
+              ajanda seçeneklerini daha sağlıklı şekilde karşılaştırabilirsiniz.
+            </p>
+          </section>
+
           <section className="mt-14 max-w-4xl">
             <h2 className="text-2xl font-bold text-white">
               Sık Aranan Promosyon Ajanda Terimleri
@@ -329,6 +513,28 @@ export default function PromosyonAjandaPage() {
                 >
                   {item}
                 </span>
+              ))}
+            </div>
+          </section>
+
+          <section className="mt-14 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon Ajanda Hakkında Sık Sorulan Sorular
+            </h2>
+
+            <div className="mt-6 space-y-4">
+              {faqItems.map((item) => (
+                <div
+                  key={item.question}
+                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                >
+                  <h3 className="text-lg font-semibold text-white">
+                    {item.question}
+                  </h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                    {item.answer}
+                  </p>
+                </div>
               ))}
             </div>
           </section>

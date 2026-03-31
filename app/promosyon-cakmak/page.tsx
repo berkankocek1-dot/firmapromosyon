@@ -17,6 +17,34 @@ function JsonLd({ data }: { data: Record<string, any> }) {
 const CATEGORY = "Çakmak";
 const PAGE_URL = `${SITE_URL}/promosyon-cakmak`;
 
+const faqItems = [
+  {
+    question: "Promosyon çakmak minimum kaç adet yaptırılır?",
+    answer:
+      "Promosyon çakmak siparişlerinde minimum adet; seçilen modele, baskı türüne, stok durumuna ve üretim planına göre değişebilir. Bazı modeller daha düşük adetlerde hazırlanabilirken, bazı ürünler toplu sipariş mantığıyla sunulabilir.",
+  },
+  {
+    question: "Promosyon çakmak fiyatları neye göre değişir?",
+    answer:
+      "Promosyon çakmak fiyatları; ürün modeli, gövde yapısı, baskı tekniği, baskı alanı, sipariş miktarı ve özel taleplere göre değişebilir. Taşlı çakmak, elektronik çakmak veya farklı yüzey özelliklerine sahip modeller farklı fiyat aralıklarında değerlendirilebilir.",
+  },
+  {
+    question: "Logo baskılı çakmaklarda hangi baskı türleri uygulanır?",
+    answer:
+      "Logo baskılı promosyon çakmaklarda modele göre tampon baskı, UV baskı veya ürün yüzeyine uygun farklı baskı teknikleri uygulanabilir. Doğru baskı yöntemi; logo yapısı, renk sayısı ve ürün yüzeyine göre belirlenmelidir.",
+  },
+  {
+    question: "Promosyon çakmak siparişi ne kadar sürede hazırlanır?",
+    answer:
+      "Hazırlık süresi sipariş adedine, stok durumuna, baskı yoğunluğuna ve onay sürecine göre değişebilir. Net teslim süresi, seçilen ürün ve sipariş detayları netleştikten sonra daha sağlıklı şekilde paylaşılır.",
+  },
+  {
+    question: "Taşlı ve elektronik promosyon çakmak arasında ne fark vardır?",
+    answer:
+      "Taşlı promosyon çakmak modelleri klasik kullanım yapısıyla öne çıkarken, elektronik çakmaklar farklı kullanım konforu sunabilir. Model seçimi yapılırken hedef kitle, kullanım alanı ve kurumsal dağıtım amacı birlikte değerlendirilmelidir.",
+  },
+];
+
 export const metadata: Metadata = {
   title:
     "Promosyon Çakmak | Logo Baskılı Kurumsal Promosyon Çakmak Modelleri",
@@ -115,6 +143,21 @@ export default function Page() {
         }}
       />
 
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqItems.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: item.answer,
+            },
+          })),
+        }}
+      />
+
       <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
         <nav className="mb-6 text-sm text-gray-300">
           <Link href="/" className="hover:text-white hover:underline">
@@ -207,9 +250,7 @@ export default function Page() {
 
       {list.length === 0 && (
         <div className="mt-8 rounded-2xl border border-gray-200 bg-white p-8 text-center shadow-sm">
-          <p className="text-gray-700">
-            Bu kategoride henüz ürün yok.
-          </p>
+          <p className="text-gray-700">Bu kategoride henüz ürün yok.</p>
         </div>
       )}
 
@@ -223,16 +264,16 @@ export default function Page() {
             <p>
               Logo baskılı promosyon çakmak ürünleri, markanızı kullanıcıların
               günlük hayatında sürekli görünür kılan pratik tanıtım ürünleridir.
-              Özellikle yoğun kullanılan alanlarda dağıtılan promosyon
-              çakmaklar, uzun süreli marka hatırlanırlığı sağlar.
+              Özellikle yoğun kullanılan alanlarda dağıtılan promosyon çakmaklar,
+              uzun süreli marka hatırlanırlığı sağlar.
             </p>
 
             <p>
               Kurumsal firmalar, kafe ve restoranlar, oteller, organizasyon
-              şirketleri, tütün ürünleri satış noktaları ve saha dağıtımı yapan
-              markalar tarafından promosyon çakmak modelleri sıkça tercih edilir.
+              şirketleri, saha dağıtımı yapan markalar ve etkinlik düzenleyen
+              işletmeler promosyon çakmak modellerini sıklıkla tercih eder.
               Yüksek adetli siparişe uygun yapısı sayesinde hem ekonomik hem de
-              etkili bir reklam çözümüdür.
+              etkili bir reklam çözümü sunar.
             </p>
 
             <p>
@@ -245,10 +286,10 @@ export default function Page() {
             </p>
 
             <p>
-              Promosyon çakmak fiyatları; model, baskı tekniği, malzeme yapısı ve
-              sipariş miktarına göre değişiklik gösterebilir. Firmanız için en
-              uygun promosyon çakmak modelini seçerek toplu sipariş ve hızlı
-              teklif avantajlarından yararlanabilirsiniz.
+              Promosyon çakmak fiyatları; model, baskı tekniği, malzeme yapısı,
+              sipariş miktarı ve üretim detaylarına göre değişiklik gösterebilir.
+              Firmanız için en uygun promosyon çakmak modelini seçerek toplu
+              sipariş ve hızlı teklif avantajlarından yararlanabilirsiniz.
             </p>
           </section>
 
@@ -304,6 +345,157 @@ export default function Page() {
             </div>
           </section>
 
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon Çakmak Fiyatlarını Etkileyen Unsurlar
+            </h2>
+
+            <p>
+              Promosyon çakmak fiyatları tek bir detaya bağlı değildir. Ürünün
+              modeli, gövde yapısı, baskı alanı, baskı yöntemi, sipariş miktarı
+              ve özel talepler toplam maliyet üzerinde etkili olabilir. Bu nedenle
+              toplu sipariş öncesinde ürünün hangi amaçla kullanılacağı net şekilde
+              belirlenmelidir.
+            </p>
+
+            <p>
+              Özellikle yüksek adetli dağıtımlarda birim maliyet avantajı öne
+              çıkar. Fuarlar, açılış organizasyonları, saha kampanyaları veya
+              işletme içi dağıtımlar için promosyon çakmak tercih edilirken hem
+              bütçe hem de görünürlük birlikte değerlendirilmelidir.
+            </p>
+
+            <p>
+              Logo baskılı çakmak siparişlerinde uygulanacak baskı tekniği de
+              önemlidir. Bazı modellerde tampon baskı daha uygun olurken, bazı
+              ürünlerde UV baskı daha dikkat çekici sonuç verebilir. Ürün yüzeyi,
+              logo yapısı ve kullanım amacı doğru baskı tekniğinin seçiminde
+              belirleyici rol oynar.
+            </p>
+
+            <p>
+              Kurumsal promosyon planlamasında yalnızca en düşük fiyatı değil,
+              dağıtım etkisini ve ürünün kullanıcıda bırakacağı algıyı da
+              değerlendirmek gerekir. Doğru ürün seçimi, promosyon çakmak
+              kampanyasının verimini artırır.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Taşlı ve Elektronik Promosyon Çakmak Modelleri
+            </h2>
+
+            <p>
+              Promosyon çakmak kategorisinde en sık karşılaşılan seçeneklerden
+              biri taşlı ve elektronik modeller arasındaki farktır. Taşlı
+              promosyon çakmaklar klasik kullanım yapısı ile bilinir ve birçok
+              kampanyada yaygın biçimde tercih edilir.
+            </p>
+
+            <p>
+              Elektronik promosyon çakmak modelleri ise kullanım alışkanlığına ve
+              hedef kitle beklentisine göre farklı bir alternatif sunabilir.
+              Model seçerken yalnızca görünüm değil, dağıtım yapılacak alan ve
+              kullanıcı profili de dikkate alınmalıdır.
+            </p>
+
+            <p>
+              Eğer amaç yüksek adetli, ekonomik ve geniş kitleye hitap eden bir
+              dağıtım yapmaksa klasik modeller öne çıkabilir. Daha farklı bir
+              görünüm veya kullanım tercihi hedefleniyorsa alternatif çakmak
+              modelleri değerlendirilebilir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Logo Baskılı Çakmak Siparişinde Nelere Dikkat Edilmeli?
+            </h2>
+
+            <p>
+              Logo baskılı çakmak siparişi verirken ürünün baskı alanı, yüzey
+              yapısı, gövde rengi ve logonun okunabilirliği dikkatle
+              değerlendirilmelidir. Küçük yüzeyli ürünlerde çok detaylı tasarımlar
+              istenilen görünümü vermeyebilir. Bu nedenle logo yapısına uygun ürün
+              seçimi önemlidir.
+            </p>
+
+            <p>
+              Sipariş öncesinde ürünün kimlere dağıtılacağı, hangi ortamda
+              kullanılacağı ve kampanyanın amacı netleştirilmelidir. Kafe,
+              restoran, fuar, etkinlik veya saha promosyonu için seçilecek çakmak
+              modeli birbirinden farklı olabilir.
+            </p>
+
+            <p>
+              Ayrıca stok durumu, renk seçenekleri, baskılı veya baskısız tercih
+              ve teslim planı da sipariş sürecinin önemli parçalarıdır. Promosyon
+              çakmak ile birlikte{" "}
+              <Link
+                href="/promosyon-kalem"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon kalem
+              </Link>
+              ,{" "}
+              <Link
+                href="/promosyon-anahtarlik"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon anahtarlık
+              </Link>
+              ,{" "}
+              <Link
+                href="/promosyon-termos"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon termos
+              </Link>{" "}
+              veya{" "}
+              <Link
+                href="/promosyon-usb-bellek"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon USB bellek
+              </Link>{" "}
+              gibi tamamlayıcı ürünlerle daha güçlü bir kurumsal promosyon seti
+              oluşturulabilir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Toptan Promosyon Çakmak Siparişi İçin Doğru Planlama
+            </h2>
+
+            <p>
+              Toptan promosyon çakmak siparişi verirken hedef kitle, dağıtım
+              alanı, sipariş adedi, baskı tercihi ve teslim tarihi önceden
+              planlanmalıdır. Bu yaklaşım hem teklif sürecini hızlandırır hem de
+              doğru ürün seçiminde avantaj sağlar.
+            </p>
+
+            <p>
+              Promosyon çakmak, kısa süreli kampanyalarda olduğu kadar sürekli
+              marka görünürlüğü isteyen işletmeler için de işlevsel bir seçenektir.
+              Uygun model ve doğru baskı ile markanızın hatırlanma gücü artırılabilir.
+            </p>
+
+            <p>
+              Sayfada yer alan ürünleri inceleyerek ihtiyacınıza uygun modeli
+              belirleyebilir ve doğrudan{" "}
+              <Link
+                href="/kurumsal-teklif-al"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                kurumsal teklif
+              </Link>{" "}
+              talebinde bulunabilirsiniz. Böylece firmanız için uygun promosyon
+              çakmak seçeneklerini daha sağlıklı şekilde karşılaştırabilirsiniz.
+            </p>
+          </section>
+
           <section className="mt-14 max-w-4xl">
             <h2 className="text-2xl font-bold text-white">
               Sık Aranan Promosyon Çakmak Terimleri
@@ -326,6 +518,28 @@ export default function Page() {
                 >
                   {item}
                 </span>
+              ))}
+            </div>
+          </section>
+
+          <section className="mt-14 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon Çakmak Hakkında Sık Sorulan Sorular
+            </h2>
+
+            <div className="mt-6 space-y-4">
+              {faqItems.map((item) => (
+                <div
+                  key={item.question}
+                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                >
+                  <h3 className="text-lg font-semibold text-white">
+                    {item.question}
+                  </h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                    {item.answer}
+                  </p>
+                </div>
               ))}
             </div>
           </section>

@@ -21,6 +21,34 @@ function normalizeTR(v: string) {
 const PAGE_URL = `${SITE_URL}/promosyon-defter`;
 const CATEGORY_NAME = "Tarihsiz Defter";
 
+const faqItems = [
+  {
+    question: "Promosyon defter minimum kaç adet yaptırılır?",
+    answer:
+      "Promosyon defter siparişlerinde minimum adet; seçilen modele, baskı türüne, stok durumuna ve üretim planına göre değişebilir. Bazı tarihsiz defter modelleri daha düşük adetlerde hazırlanabilirken, bazı ürünler toplu sipariş mantığıyla sunulabilir.",
+  },
+  {
+    question: "Promosyon defter fiyatları neye göre değişir?",
+    answer:
+      "Promosyon defter fiyatları; ürün ölçüsü, kapak malzemesi, iç sayfa sayısı, baskı yöntemi, sipariş miktarı ve özel üretim taleplerine göre değişebilir. Farklı ebat, kapak ve sayfa yapısına sahip tarihsiz defter modelleri farklı fiyat aralıklarında değerlendirilebilir.",
+  },
+  {
+    question: "Logo baskılı defterlerde hangi baskı türleri uygulanır?",
+    answer:
+      "Logo baskılı promosyon defter modellerinde ürün yapısına göre serigraf baskı, UV baskı, sıcak baskı veya yüzeye uygun farklı uygulamalar tercih edilebilir. Doğru baskı yöntemi; kapak yapısı, logo detayı ve kullanım amacına göre belirlenmelidir.",
+  },
+  {
+    question: "Promosyon defter siparişi ne kadar sürede hazırlanır?",
+    answer:
+      "Sipariş hazırlık süresi; stok durumu, sipariş adedi, baskı yoğunluğu ve onay sürecine göre değişebilir. Net teslim süresi, seçilen model ve sipariş detayları netleştikten sonra daha sağlıklı şekilde paylaşılır.",
+  },
+  {
+    question: "Tarihsiz defter neden daha çok tercih edilir?",
+    answer:
+      "Tarihsiz defter modelleri tarih sınırlaması olmadan yılın her döneminde kullanılabildiği için çok yönlü bir promosyon ürünüdür. Bu özellik, hem uzun kullanım süresi hem de farklı hedef kitlelere uygunluk açısından önemli avantaj sağlar.",
+  },
+];
+
 export const metadata: Metadata = {
   title:
     "Promosyon Defter Modelleri | Tarihsiz Defter & Logo Baskılı Kurumsal Defter",
@@ -121,6 +149,21 @@ export default function PromosyonDefterPage() {
         }}
       />
 
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqItems.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: item.answer,
+            },
+          })),
+        }}
+      />
+
       <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
         <nav className="mb-6 text-sm text-gray-300">
           <Link href="/" className="hover:text-white hover:underline">
@@ -158,10 +201,10 @@ export default function PromosyonDefterPage() {
 
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
-              href="/teklif"
+              href="/kurumsal-teklif-al"
               className="inline-flex items-center justify-center rounded-xl bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
             >
-              Hızlı Teklif Al
+              Kurumsal Teklif Al
             </Link>
 
             <Link
@@ -214,9 +257,7 @@ export default function PromosyonDefterPage() {
 
       {filtered.length === 0 && (
         <div className="mt-8 rounded-2xl border border-gray-200 bg-white p-8 text-center shadow-sm">
-          <p className="text-gray-700">
-            Bu kategoride henüz ürün yok.
-          </p>
+          <p className="text-gray-700">Bu kategoride henüz ürün yok.</p>
         </div>
       )}
 
@@ -311,6 +352,151 @@ export default function PromosyonDefterPage() {
             </div>
           </section>
 
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon Defter Fiyatlarını Etkileyen Unsurlar
+            </h2>
+
+            <p>
+              Promosyon defter fiyatları yalnızca ürünün dış görünümüne göre
+              belirlenmez. Ebat, kapak malzemesi, iç sayfa sayısı, sayfa kalitesi,
+              cilt yapısı, baskı tekniği, sipariş miktarı ve özel üretim detayları
+              toplam maliyet üzerinde etkili olabilir.
+            </p>
+
+            <p>
+              Bazı firmalar daha ekonomik dağıtım çözümleri ararken, bazıları daha
+              prestijli ve uzun ömürlü kurumsal hediyelere yönelir. Bu nedenle
+              defter seçimi yapılırken yalnızca fiyat değil, hedef kitle ve kullanım
+              amacı da birlikte değerlendirilmelidir.
+            </p>
+
+            <p>
+              Özellikle tarihsiz defter modelleri, yılın her döneminde kullanılabildiği
+              için promosyon açısından esnek bir çözüm sunar. Doğru model ve doğru
+              baskı tercihi ile hem işlevsellik hem de marka görünürlüğü birlikte
+              güçlendirilebilir.
+            </p>
+
+            <p>
+              Logo baskılı defter siparişlerinde baskı uygulanacak yüzeyin yapısı
+              ve logonun detay seviyesi de önemlidir. Bazı modellerde sıcak baskı
+              veya serigraf baskı daha uygun olabilirken, bazı ürünlerde farklı
+              yüzey uygulamaları daha iyi sonuç verebilir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Tarihsiz Defter Modellerinin Avantajları
+            </h2>
+
+            <p>
+              Tarihsiz defter modelleri, belirli bir yıla veya döneme bağlı
+              olmadan kullanılabildiği için promosyon dünyasında oldukça güçlü
+              bir yere sahiptir. Kullanıcı ürünü aldığı andan itibaren istediği
+              zaman kullanmaya başlayabilir.
+            </p>
+
+            <p>
+              Bu esneklik, ürünün elde kalma riskini azaltır ve dağıtım sonrası
+              kullanım ihtimalini artırır. Özellikle fuar, seminer, eğitim,
+              toplantı ve kurumsal hediye çalışmalarında tarihsiz defterler sıkça
+              tercih edilir.
+            </p>
+
+            <p>
+              Ayrıca tarihsiz promosyon defter modelleri; ofis kullanımına,
+              kişisel not almaya, toplantı notlarına ve günlük iş planlamasına
+              uygun yapısıyla çok yönlü bir promosyon ürünü olarak öne çıkar.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Logo Baskılı Defter Siparişinde Nelere Dikkat Edilmeli?
+            </h2>
+
+            <p>
+              Logo baskılı defter siparişi verirken ürün ölçüsü, kapak malzemesi,
+              iç sayfa düzeni, baskı alanı, renk seçeneği ve kullanım amacı dikkatle
+              değerlendirilmelidir. Çok detaylı logolarda uygun baskı tekniğinin
+              seçilmesi daha da önemli hale gelir.
+            </p>
+
+            <p>
+              Sipariş öncesinde defterlerin kimlere dağıtılacağı netleştirilmelidir.
+              Fuar dağıtımı için seçilecek promosyon defter ile yönetici hediyesi
+              olarak tercih edilecek model aynı özellikte olmayabilir. Hedef kitleye
+              göre doğru model seçmek, promosyon etkisini artırır.
+            </p>
+
+            <p>
+              Ayrıca promosyon defter ile birlikte{" "}
+              <Link
+                href="/promosyon-kalem"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon kalem
+              </Link>
+              ,{" "}
+              <Link
+                href="/promosyon-ajanda"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon ajanda
+              </Link>
+              ,{" "}
+              <Link
+                href="/promosyon-anahtarlik"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon anahtarlık
+              </Link>{" "}
+              veya{" "}
+              <Link
+                href="/promosyon-termos"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon termos
+              </Link>{" "}
+              gibi tamamlayıcı ürünlerle daha güçlü kurumsal setler hazırlanabilir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Toptan Promosyon Defter Siparişi İçin Doğru Planlama
+            </h2>
+
+            <p>
+              Toptan promosyon defter siparişlerinde doğru sonuç almak için ihtiyaçlar
+              önceden belirlenmelidir. Dağıtım yapılacak kitle, sipariş adedi, baskı
+              tercihi, teslim tarihi ve ürünün kullanım amacı teklif sürecini doğrudan
+              etkiler.
+            </p>
+
+            <p>
+              Promosyon defter, masa üstünde ve günlük kullanımda uzun süre görünür
+              kalabilen bir ürün olduğu için marka bilinirliği açısından önemli
+              avantaj sağlar. Bu nedenle yalnızca kısa süreli kampanyalarda değil,
+              sürekli kurumsal görünürlük hedefleyen firmalar için de uygundur.
+            </p>
+
+            <p>
+              Sayfada yer alan ürünleri inceleyerek ihtiyacınıza uygun modeli
+              belirleyebilir ve doğrudan{" "}
+              <Link
+                href="/kurumsal-teklif-al"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                kurumsal teklif
+              </Link>{" "}
+              talebinde bulunabilirsiniz. Böylece firmanız için uygun promosyon
+              defter seçeneklerini daha sağlıklı şekilde karşılaştırabilirsiniz.
+            </p>
+          </section>
+
           <section className="mt-14 max-w-4xl">
             <h2 className="text-2xl font-bold text-white">
               Sık Aranan Promosyon Defter Terimleri
@@ -333,6 +519,28 @@ export default function PromosyonDefterPage() {
                 >
                   {item}
                 </span>
+              ))}
+            </div>
+          </section>
+
+          <section className="mt-14 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon Defter Hakkında Sık Sorulan Sorular
+            </h2>
+
+            <div className="mt-6 space-y-4">
+              {faqItems.map((item) => (
+                <div
+                  key={item.question}
+                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                >
+                  <h3 className="text-lg font-semibold text-white">
+                    {item.question}
+                  </h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                    {item.answer}
+                  </p>
+                </div>
               ))}
             </div>
           </section>

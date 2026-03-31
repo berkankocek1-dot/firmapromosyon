@@ -17,6 +17,34 @@ function JsonLd({ data }: { data: Record<string, any> }) {
 const CATEGORY = "Powerbank";
 const PAGE_URL = `${SITE_URL}/promosyon-powerbank`;
 
+const faqItems = [
+  {
+    question: "Promosyon powerbank minimum kaç adet yaptırılır?",
+    answer:
+      "Promosyon powerbank siparişlerinde minimum adet; seçilen modele, kapasiteye, baskı türüne, stok durumuna ve üretim planına göre değişebilir. Bazı modeller daha düşük adetlerde hazırlanabilirken, bazı ürünler toplu sipariş mantığıyla sunulabilir.",
+  },
+  {
+    question: "Promosyon powerbank fiyatları neye göre değişir?",
+    answer:
+      "Promosyon powerbank fiyatları; kapasite değeri, teknik özellikler, gövde yapısı, baskı yöntemi, sipariş miktarı ve özel taleplere göre değişebilir. Wireless şarj, hızlı şarj veya dahili kablo gibi ek özellikler fiyat üzerinde etkili olabilir.",
+  },
+  {
+    question: "Logo baskılı powerbanklerde hangi baskı türleri uygulanır?",
+    answer:
+      "Logo baskılı promosyon powerbank modellerinde ürün yüzeyine göre UV baskı, tampon baskı, lazer baskı veya uygun farklı uygulamalar tercih edilebilir. Doğru baskı yöntemi; ürün malzemesi, logo detayı ve kullanım amacına göre belirlenmelidir.",
+  },
+  {
+    question: "Promosyon powerbank siparişi ne kadar sürede hazırlanır?",
+    answer:
+      "Sipariş hazırlık süresi; stok durumu, sipariş adedi, baskı yoğunluğu, teknik özellikler ve onay sürecine göre değişebilir. Net teslim süresi, seçilen model ve sipariş detayları netleştikten sonra daha sağlıklı şekilde paylaşılır.",
+  },
+  {
+    question: "Promosyon powerbank kimler için uygundur?",
+    answer:
+      "Promosyon powerbank; müşterilere, bayilere, çalışanlara, iş ortaklarına ve etkinlik katılımcılarına verilebilecek kullanışlı teknolojik promosyon ürünleri arasında yer alır. Özellikle mobil cihaz kullanımının yoğun olduğu hedef kitleler için oldukça uygundur.",
+  },
+];
+
 export const metadata: Metadata = {
   title:
     "Promosyon Powerbank | Logo Baskılı Kurumsal Powerbank Modelleri",
@@ -115,6 +143,21 @@ export default function Page() {
         }}
       />
 
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqItems.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: item.answer,
+            },
+          })),
+        }}
+      />
+
       <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
         <nav className="mb-6 text-sm text-gray-300">
           <Link href="/" className="hover:text-white hover:underline">
@@ -206,9 +249,9 @@ export default function Page() {
       </section>
 
       {list.length === 0 && (
-        <p className="mt-10 text-center text-gray-600">
-          Bu kategoride henüz ürün yok.
-        </p>
+        <div className="mt-8 rounded-2xl border border-gray-200 bg-white p-8 text-center shadow-sm">
+          <p className="text-gray-700">Bu kategoride henüz ürün yok.</p>
+        </div>
       )}
 
       {list.length > 0 && (
@@ -243,6 +286,8 @@ export default function Page() {
             <p>
               Promosyon powerbank fiyatları; ürün kapasitesi, teknik özellikleri,
               baskı tercihi ve sipariş miktarına göre değişiklik gösterebilir.
+              Firmanız için en uygun modeli belirleyerek daha etkili bir kurumsal
+              hediye veya promosyon planı oluşturabilirsiniz.
             </p>
           </section>
 
@@ -295,6 +340,176 @@ export default function Page() {
                   çözümü sunar.
                 </p>
               </div>
+            </div>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon Powerbank Fiyatlarını Etkileyen Unsurlar
+            </h2>
+
+            <p>
+              Promosyon powerbank fiyatları yalnızca ürünün dış görünümüne göre
+              belirlenmez. Kapasite değeri, batarya yapısı, şarj çıkış gücü,
+              baskı alanı, baskı tekniği, ürün malzemesi, sipariş miktarı ve
+              teknik özellikler toplam maliyet üzerinde etkili olabilir.
+            </p>
+
+            <p>
+              Daha ekonomik dağıtım çözümleri için standart modeller tercih
+              edilebilirken, daha prestijli kurumsal hediye planlarında wireless
+              şarj, hızlı şarj veya özel tasarım detaylarına sahip powerbank
+              modelleri öne çıkabilir. Bu nedenle seçim yapılırken yalnızca fiyat
+              değil, hedef kitle ve kullanım amacı da birlikte değerlendirilmelidir.
+            </p>
+
+            <p>
+              Özellikle mobil cihaz kullanımının yoğun olduğu iş ortamlarında
+              ve saha ekiplerinde promosyon powerbank oldukça işlevsel bir üründür.
+              Günlük hayatta aktif biçimde kullanılması, markanızın görünürlüğünü
+              uzun süre canlı tutabilir.
+            </p>
+
+            <p>
+              Logo baskılı powerbank siparişlerinde ürün yüzeyine göre UV baskı,
+              tampon baskı veya lazer baskı gibi yöntemler daha uygun olabilir.
+              Logonun okunabilirliği ve görsel etkisi doğru baskı tekniği seçimiyle
+              doğrudan ilişkilidir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Farklı Kapasite ve Teknik Özelliklerde Powerbank Modelleri
+            </h2>
+
+            <p>
+              Promosyon powerbank kategorisinde farklı kullanım alışkanlıklarına
+              uygun birçok model bulunabilir. Daha kompakt yapılı modeller günlük
+              taşımada avantaj sağlarken, daha yüksek kapasiteli ürünler uzun süreli
+              kullanım ihtiyacı olan kişiler için daha uygun olabilir.
+            </p>
+
+            <p>
+              Wireless şarj desteği, dahili kablo, Type-C uyumluluğu, hızlı şarj,
+              çoklu çıkış veya dijital gösterge gibi özellikler ürünün kullanım
+              deneyimini ve kurumsal algısını doğrudan etkileyebilir. Bu nedenle
+              model seçimi yapılırken yalnızca görünüm değil, teknik ihtiyaçlar da
+              dikkate alınmalıdır.
+            </p>
+
+            <p>
+              Daha premium bir kurumsal hediye hedefleniyorsa tasarım ve teknik
+              özellikleri öne çıkan modeller tercih edilebilir. Daha geniş dağıtım
+              planlarında ise maliyet avantajı ve adet uyumu daha belirleyici olabilir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Logo Baskılı Powerbank Siparişinde Nelere Dikkat Edilmeli?
+            </h2>
+
+            <p>
+              Logo baskılı powerbank siparişi verirken ürün yüzeyi, kapasite,
+              batarya yapısı, baskı alanı, renk seçeneği, teknik özellikler ve
+              kullanım amacı birlikte değerlendirilmelidir. Çok detaylı logolarda
+              doğru baskı tekniğinin seçilmesi daha da önemli hale gelir.
+            </p>
+
+            <p>
+              Sipariş öncesinde ürünlerin kimlere dağıtılacağı netleştirilmelidir.
+              Fuar dağıtımı için seçilecek promosyon powerbank ile yönetici hediyesi
+              olarak tercih edilecek model aynı özellikte olmayabilir. Hedef kitleye
+              göre doğru model seçmek, promosyon etkisini doğrudan artırır.
+            </p>
+
+            <p>
+              Ayrıca promosyon powerbank ile birlikte{" "}
+              <Link
+                href="/promosyon-kalem"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon kalem
+              </Link>
+              ,{" "}
+              <Link
+                href="/promosyon-ajanda"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon ajanda
+              </Link>
+              ,{" "}
+              <Link
+                href="/promosyon-defter"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon defter
+              </Link>{" "}
+              veya{" "}
+              <Link
+                href="/promosyon-termos"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon termos
+              </Link>{" "}
+              gibi tamamlayıcı ürünlerle daha güçlü bir kurumsal promosyon seti
+              hazırlanabilir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Toptan Promosyon Powerbank Siparişi İçin Doğru Planlama
+            </h2>
+
+            <p>
+              Toptan promosyon powerbank siparişlerinde doğru sonuç almak için
+              hedef kitle, kapasite ihtiyacı, sipariş adedi, baskı tercihi,
+              teslim tarihi ve kullanım amacı önceden belirlenmelidir. Bu yaklaşım
+              hem teklif sürecini hızlandırır hem de doğru ürün seçiminde avantaj sağlar.
+            </p>
+
+            <p>
+              Promosyon powerbank, yalnızca kısa süreli kampanyalarda değil;
+              günlük hayatta aktif kullanılan bir teknoloji ürünü olduğu için marka
+              bilinirliği açısından güçlü avantaj sağlar. Özellikle mobil kullanımın
+              yoğun olduğu sektörlerde etkili ve dikkat çekici bir promosyon ürünüdür.
+            </p>
+
+            <p>
+              Sayfada yer alan ürünleri inceleyerek ihtiyacınıza uygun modeli
+              belirleyebilir ve doğrudan{" "}
+              <Link
+                href="/kurumsal-teklif-al"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                kurumsal teklif
+              </Link>{" "}
+              talebinde bulunabilirsiniz. Böylece firmanız için uygun promosyon
+              powerbank seçeneklerini daha sağlıklı şekilde karşılaştırabilirsiniz.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon Powerbank Hakkında Sık Sorulan Sorular
+            </h2>
+
+            <div className="mt-6 space-y-4">
+              {faqItems.map((item) => (
+                <div
+                  key={item.question}
+                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                >
+                  <h3 className="text-lg font-semibold text-white">
+                    {item.question}
+                  </h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                    {item.answer}
+                  </p>
+                </div>
+              ))}
             </div>
           </section>
         </div>

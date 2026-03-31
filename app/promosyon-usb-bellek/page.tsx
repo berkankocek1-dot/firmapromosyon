@@ -16,6 +16,34 @@ function JsonLd({ data }: { data: Record<string, any> }) {
   );
 }
 
+const faqItems = [
+  {
+    question: "Promosyon USB bellek minimum kaç adet yaptırılır?",
+    answer:
+      "Promosyon USB bellek siparişlerinde minimum adet; seçilen modele, kapasiteye, baskı türüne, stok durumuna ve üretim planına göre değişebilir. Bazı modeller daha düşük adetlerde hazırlanabilirken, bazı ürünler toplu sipariş mantığıyla sunulabilir.",
+  },
+  {
+    question: "Promosyon USB bellek fiyatları neye göre değişir?",
+    answer:
+      "Promosyon USB bellek fiyatları; kapasite seçeneği, ürün gövdesi, baskı yöntemi, sipariş miktarı ve özel üretim taleplerine göre değişebilir. 8 GB, 16 GB, 32 GB veya daha yüksek kapasite seçenekleri farklı fiyat aralıklarında değerlendirilebilir.",
+  },
+  {
+    question: "Logo baskılı USB belleklerde hangi baskı türleri uygulanır?",
+    answer:
+      "Logo baskılı promosyon USB bellek modellerinde ürün yüzeyine göre tampon baskı, UV baskı, lazer baskı veya uygun farklı uygulamalar tercih edilebilir. Doğru baskı yöntemi; ürün malzemesi, logo detayı ve kullanım amacına göre belirlenmelidir.",
+  },
+  {
+    question: "Promosyon USB bellek siparişi ne kadar sürede hazırlanır?",
+    answer:
+      "Sipariş hazırlık süresi; stok durumu, sipariş adedi, baskı yoğunluğu, kapasite seçimi ve onay sürecine göre değişebilir. Net teslim süresi, seçilen model ve sipariş detayları netleştikten sonra daha sağlıklı şekilde paylaşılır.",
+  },
+  {
+    question: "Promosyon USB bellek kimler için uygundur?",
+    answer:
+      "Promosyon USB bellek; müşterilere, bayilere, iş ortaklarına, etkinlik katılımcılarına ve şirket içi kullanıma yönelik dağıtılabilecek işlevsel promosyon ürünleri arasında yer alır. Özellikle sunum, katalog, teklif veya dijital içerik paylaşımı yapan firmalar için oldukça uygundur.",
+  },
+];
+
 export const metadata: Metadata = {
   title:
     "Promosyon USB Bellek | Logo Baskılı Kurumsal Promosyon USB Bellek Modelleri",
@@ -114,6 +142,21 @@ export default function UsbPage() {
         }}
       />
 
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqItems.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: item.answer,
+            },
+          })),
+        }}
+      />
+
       <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
         <nav className="mb-6 text-sm text-gray-300">
           <Link href="/" className="hover:text-white hover:underline">
@@ -206,9 +249,7 @@ export default function UsbPage() {
 
       {usbProducts.length === 0 && (
         <div className="mt-8 rounded-2xl border border-gray-200 bg-white p-8 text-center shadow-sm">
-          <p className="text-gray-700">
-            Bu kategoride henüz ürün yok.
-          </p>
+          <p className="text-gray-700">Bu kategoride henüz ürün yok.</p>
         </div>
       )}
 
@@ -231,22 +272,22 @@ export default function UsbPage() {
               müşteri ziyaretlerinde logo baskılı USB bellek dağıtarak hem
               kullanışlı hem de prestijli bir tanıtım ürünü sunar. Promosyon USB
               bellek modelleri farklı kapasite ve tasarım seçenekleri ile
-              üretilebilmektedir.
+              sunulabilir.
             </p>
 
             <p>
-              Toptan promosyon USB bellek siparişlerinde kapasite seçenekleri
-              genellikle 8GB, 16GB, 32GB, 64GB ve 128GB olarak tercih
-              edilmektedir. Ayrıca USB 3.0 destekli modeller daha hızlı veri
-              aktarımı sağlayarak kurumsal kullanım açısından avantaj sunar.
+              Toptan promosyon USB bellek siparişlerinde kapasite seçenekleri,
+              ürün modeline göre farklılaşabilir. USB bellek kapasitesi seçiminde
+              kullanım amacı önemlidir. Tanıtım dosyaları, kataloglar, sunumlar
+              ve dijital dökümanlar için uygun kapasite belirlenmesi gerekir.
             </p>
 
             <p>
               Promosyon USB bellek fiyatları; kapasite seçeneğine, sipariş
-              miktarına, baskı türüne ve ürün modeline göre değişiklik
-              gösterebilir. Kurumsal firmalar için toplu sipariş ve logo baskılı
-              üretim seçenekleri ile uygun maliyetli promosyon çözümleri
-              sunulmaktadır.
+              miktarına, baskı türüne, veri aktarım özelliğine ve ürün modeline
+              göre değişiklik gösterebilir. Kurumsal firmalar için toplu sipariş
+              ve logo baskılı üretim seçenekleri ile uygun maliyetli promosyon
+              çözümleri sunulmaktadır.
             </p>
           </section>
 
@@ -301,6 +342,153 @@ export default function UsbPage() {
             </div>
           </section>
 
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon USB Bellek Fiyatlarını Etkileyen Unsurlar
+            </h2>
+
+            <p>
+              Promosyon USB bellek fiyatları yalnızca ürünün dış görünümüne göre
+              belirlenmez. Kapasite seçeneği, veri aktarım standardı, gövde
+              malzemesi, baskı alanı, baskı tekniği, sipariş miktarı ve özel
+              üretim detayları toplam maliyet üzerinde etkili olabilir.
+            </p>
+
+            <p>
+              Daha ekonomik dağıtım çözümleri için standart modeller tercih
+              edilebilirken, daha prestijli kurumsal hediye planlarında metal
+              gövdeli veya özel tasarımlı USB bellek modelleri öne çıkabilir.
+              Bu nedenle seçim yapılırken yalnızca fiyat değil, hedef kitle ve
+              kullanım amacı da birlikte değerlendirilmelidir.
+            </p>
+
+            <p>
+              Özellikle fuar, lansman ve bayi toplantılarında dijital içerik
+              aktarımı gereken durumlarda promosyon USB bellek oldukça işlevsel
+              bir üründür. Kullanıcı tarafından aktif şekilde kullanılması,
+              markanın görünürlüğünü uzun süre canlı tutabilir.
+            </p>
+
+            <p>
+              Logo baskılı USB bellek siparişlerinde ürün yüzeyine göre UV baskı,
+              tampon baskı veya lazer baskı gibi yöntemler daha uygun olabilir.
+              Logonun okunabilirliği ve görsel etkisi doğru baskı tekniği seçimiyle
+              doğrudan ilişkilidir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Farklı Kapasite ve Tasarımdaki USB Bellek Modelleri
+            </h2>
+
+            <p>
+              Promosyon USB bellek kategorisinde farklı kullanım amaçlarına uygun
+              birçok model bulunabilir. Küçük hacimli veri paylaşımı için daha
+              düşük kapasite yeterli olabilirken, daha fazla dosya taşımaya uygun
+              modeller farklı ihtiyaçlara cevap verebilir.
+            </p>
+
+            <p>
+              Metal gövde, plastik gövde, kapaklı tasarım, döner mekanizma veya
+              anahtarlık formundaki USB bellek modelleri kullanım deneyimini ve
+              ürün algısını doğrudan etkileyebilir. Dağıtım yapılacak hedef kitleye
+              göre doğru tasarım seçimi önemlidir.
+            </p>
+
+            <p>
+              Daha premium bir kurumsal hediye hedefleniyorsa tasarım ve malzeme
+              kalitesi öne çıkan modeller tercih edilebilir. Daha geniş dağıtım
+              planlarında ise maliyet ve adet uyumu daha belirleyici olabilir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Logo Baskılı USB Bellek Siparişinde Nelere Dikkat Edilmeli?
+            </h2>
+
+            <p>
+              Logo baskılı USB bellek siparişi verirken ürün yüzeyi, kapasite,
+              baskı alanı, veri aktarım ihtiyacı, renk seçeneği ve kullanım amacı
+              birlikte değerlendirilmelidir. Çok detaylı logolarda doğru baskı
+              tekniğinin seçilmesi daha da önemli hale gelir.
+            </p>
+
+            <p>
+              Sipariş öncesinde ürünlerin kimlere dağıtılacağı netleştirilmelidir.
+              Fuar dağıtımı için seçilecek promosyon USB bellek ile müşteri hediyesi
+              olarak tercih edilecek model aynı özellikte olmayabilir. Hedef kitleye
+              göre doğru model seçmek, promosyon etkisini doğrudan artırır.
+            </p>
+
+            <p>
+              Ayrıca promosyon USB bellek ile birlikte{" "}
+              <Link
+                href="/promosyon-kalem"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon kalem
+              </Link>
+              ,{" "}
+              <Link
+                href="/promosyon-ajanda"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon ajanda
+              </Link>
+              ,{" "}
+              <Link
+                href="/promosyon-defter"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon defter
+              </Link>{" "}
+              veya{" "}
+              <Link
+                href="/promosyon-anahtarlik"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon anahtarlık
+              </Link>{" "}
+              gibi tamamlayıcı ürünlerle daha güçlü bir kurumsal promosyon seti
+              hazırlanabilir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Toptan Promosyon USB Bellek Siparişi İçin Doğru Planlama
+            </h2>
+
+            <p>
+              Toptan promosyon USB bellek siparişlerinde doğru sonuç almak için
+              hedef kitle, kapasite ihtiyacı, sipariş adedi, baskı tercihi,
+              teslim tarihi ve kullanım amacı önceden belirlenmelidir. Bu yaklaşım
+              hem teklif sürecini hızlandırır hem de doğru ürün seçiminde avantaj sağlar.
+            </p>
+
+            <p>
+              Promosyon USB bellek, yalnızca kısa süreli kampanyalarda değil;
+              aktif kullanılan bir dijital taşıyıcı olduğu için marka bilinirliği
+              açısından güçlü avantaj sağlar. Özellikle bilgi, dosya ve katalog
+              paylaşımı yapan firmalar için son derece işlevsel bir promosyon ürünüdür.
+            </p>
+
+            <p>
+              Sayfada yer alan ürünleri inceleyerek ihtiyacınıza uygun modeli
+              belirleyebilir ve doğrudan{" "}
+              <Link
+                href="/kurumsal-teklif-al"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                kurumsal teklif
+              </Link>{" "}
+              talebinde bulunabilirsiniz. Böylece firmanız için uygun promosyon
+              USB bellek seçeneklerini daha sağlıklı şekilde karşılaştırabilirsiniz.
+            </p>
+          </section>
+
           <section className="mt-14 max-w-4xl">
             <h2 className="text-2xl font-bold text-white">
               Sık Aranan Promosyon USB Bellek Terimleri
@@ -323,6 +511,28 @@ export default function UsbPage() {
                 >
                   {item}
                 </span>
+              ))}
+            </div>
+          </section>
+
+          <section className="mt-14 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon USB Bellek Hakkında Sık Sorulan Sorular
+            </h2>
+
+            <div className="mt-6 space-y-4">
+              {faqItems.map((item) => (
+                <div
+                  key={item.question}
+                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                >
+                  <h3 className="text-lg font-semibold text-white">
+                    {item.question}
+                  </h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                    {item.answer}
+                  </p>
+                </div>
               ))}
             </div>
           </section>
