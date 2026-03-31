@@ -17,9 +17,37 @@ function JsonLd({ data }: { data: Record<string, any> }) {
 const CATEGORY = "Kalem";
 const PAGE_URL = `${SITE_URL}/promosyon-kalem`;
 
+const faqItems = [
+  {
+    question: "Promosyon kalem minimum kaç adet yaptırılır?",
+    answer:
+      "Promosyon kalem siparişlerinde minimum adet seçilen modele, baskı türüne ve üretim şartlarına göre değişebilir. Bazı modeller daha düşük adetlerde hazırlanabilirken, bazı ürünlerde toplu sipariş adedi daha yüksek olabilir.",
+  },
+  {
+    question: "Promosyon kalem fiyatları neye göre değişir?",
+    answer:
+      "Promosyon kalem fiyatları; ürünün malzemesine, modeline, baskı türüne, baskı yönüne, sipariş miktarına ve özel taleplere göre değişiklik gösterebilir. Plastik, metal ve dokunmatik kalem gibi farklı modeller farklı fiyat aralıklarına sahip olabilir.",
+  },
+  {
+    question: "Logo baskılı kalemlerde hangi baskı türleri uygulanır?",
+    answer:
+      "Logo baskılı kalemlerde ürün modeline göre tampon baskı, UV baskı, serigrafi veya lazer baskı gibi farklı baskı yöntemleri uygulanabilir. Uygun baskı tekniği kalemin yüzeyi, malzemesi ve logo tasarımına göre belirlenir.",
+  },
+  {
+    question: "Promosyon kalem siparişi ne kadar sürede hazırlanır?",
+    answer:
+      "Hazırlık süresi sipariş adedine, baskı yoğunluğuna, onay sürecine ve stok durumuna bağlı olarak değişebilir. Net termin bilgisi için ürün seçimi sonrası teklif sürecinde bilgi alınması en doğru yöntemdir.",
+  },
+  {
+    question: "Plastik ve metal promosyon kalem arasında ne fark vardır?",
+    answer:
+      "Plastik promosyon kalemler genellikle ekonomik ve yüksek adetli dağıtımlar için tercih edilir. Metal promosyon kalemler ise daha prestijli bir görünüm sunar ve kurumsal hediye, yönetici seti veya özel müşteri çalışmaları için daha uygun olabilir.",
+  },
+];
+
 export const metadata: Metadata = {
   title:
-    "Promosyon Kalem | Logo Baskılı Kurumsal Promosyon Kalem Modelleri",
+    "Promosyon Kalem | Logo Baskılı Kurumsal Kalem Modelleri ve Toplu Sipariş",
   description:
     "Promosyon kalem modelleri, logo baskılı kurumsal kalem çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Fuar, etkinlik, ofis ve firma tanıtımı için promosyon kalem ürünlerini inceleyin.",
   alternates: { canonical: PAGE_URL },
@@ -112,6 +140,21 @@ export default function Page() {
             numberOfItems: list.length,
             itemListElement,
           },
+        }}
+      />
+
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqItems.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: item.answer,
+            },
+          })),
         }}
       />
 
@@ -295,6 +338,220 @@ export default function Page() {
                   reklam çözümü sunar.
                 </p>
               </div>
+            </div>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon Kalem Fiyatlarını Etkileyen Unsurlar
+            </h2>
+
+            <p>
+              Promosyon kalem seçiminde en çok merak edilen konuların başında
+              fiyatlandırma gelir. Ancak promosyon kalem fiyatları tek bir kritere
+              göre belirlenmez. Kullanılan malzeme, ürünün tasarımı, baskı
+              uygulanıp uygulanmayacağı, baskı türü, baskı yönü ve sipariş miktarı
+              gibi unsurlar toplam maliyet üzerinde etkili olur.
+            </p>
+
+            <p>
+              Özellikle yüksek adetli siparişlerde birim maliyet avantajı daha
+              belirgin hale gelebilir. Bu nedenle fuar dağıtımı, etkinlik,
+              kurumsal kampanya veya bayi organizasyonu gibi toplu alımlarda ürün
+              seçiminin doğru planlanması önemlidir. Uygun model ile doğru baskı
+              tekniğinin birleşmesi hem bütçe kontrolü sağlar hem de markanızın
+              profesyonel görünümünü destekler.
+            </p>
+
+            <p>
+              Plastik promosyon kalemler genellikle daha ekonomik çözümler sunarken,
+              metal promosyon kalem modelleri daha prestijli ve kurumsal bir
+              izlenim bırakabilir. Dokunmatik kalem, roller kalem veya özel gövdeli
+              ürünler ise hedef kitlenin beklentisine göre farklılaşan alternatifler
+              arasında yer alır. Bu yüzden yalnızca fiyat odaklı değil, kullanım
+              alanına uygun seçim yapmak da önemlidir.
+            </p>
+
+            <p>
+              Logo baskılı kalem siparişlerinde baskı tekniği de ayrı bir belirleyici
+              etkendir. Bazı ürünlerde tampon baskı öne çıkarken, bazı modellerde UV
+              baskı veya lazer baskı daha uygun olabilir. Logo detayı, baskı alanı,
+              renk yapısı ve yüzey özelliği gibi etkenler doğru yöntemin
+              belirlenmesinde önem taşır.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Plastik ve Metal Promosyon Kalem Arasındaki Farklar
+            </h2>
+
+            <p>
+              Promosyon kalem satın alırken en temel tercihlerden biri plastik kalem
+              ile metal kalem arasındadır. Plastik modeller, uygun maliyetleri ve
+              geniş renk seçenekleri sayesinde yüksek adetli dağıtımlar için sıkça
+              tercih edilir. Özellikle fuar, açık hava etkinliği, seminer ve yoğun
+              ziyaretçi trafiği olan organizasyonlarda plastik kalemler pratik bir
+              çözüm sunar.
+            </p>
+
+            <p>
+              Metal promosyon kalem modelleri ise daha şık, daha ağır ve daha
+              prestijli bir algı oluşturur. Yönetici hediyeleri, özel müşteri
+              ziyaretleri, kurumsal toplantılar ve daha seçici hedef kitlelere
+              yönelik çalışmalarda metal gövdeli kalemler daha güçlü bir etki
+              bırakabilir. Bu ürünler marka değerini daha premium bir çizgide
+              yansıtmak isteyen firmalar için uygun olabilir.
+            </p>
+
+            <p>
+              Her iki seçenekte de önemli olan nokta, kalemin kime dağıtılacağı ve
+              hangi amaçla kullanılacağıdır. Eğer hedef mümkün olduğunca fazla kişiye
+              ulaşmaksa ekonomik promosyon kalem modelleri daha doğru olabilir.
+              Eğer amaç daha sınırlı ama daha etkili bir kurumsal sunum yapmaksa
+              metal veya özel tasarım kalemler daha uygun hale gelir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Logo Baskılı Kalem Siparişinde Nelere Dikkat Edilmeli?
+            </h2>
+
+            <p>
+              Logo baskılı kalem siparişi verirken yalnızca ürün seçimine değil,
+              marka görünürlüğüne de odaklanmak gerekir. Kullanılacak logonun okunaklı
+              olması, baskı alanına uygun yerleşmesi ve kalemin gövdesiyle uyumlu bir
+              görünüm sunması önemlidir. Çok küçük detay içeren logolarda baskı
+              yönteminin doğru belirlenmesi gerekir.
+            </p>
+
+            <p>
+              Sipariş öncesinde hedef kullanım alanının netleştirilmesi de süreci
+              kolaylaştırır. Örneğin bir fuar dağıtımı için tercih edilen promosyon
+              kalem ile kurumsal hediye amacıyla seçilen bir reklam kalemi aynı
+              özellikleri taşımayabilir. Adet, hedef kitle, dağıtım biçimi ve marka
+              konumlandırması doğru modelin belirlenmesinde yardımcı olur.
+            </p>
+
+            <p>
+              Ayrıca promosyon kalem siparişinde stok durumu, renk seçenekleri,
+              baskılı veya baskısız talep, teslim süreci ve ürün kombinasyonu gibi
+              detaylar da göz önünde bulundurulmalıdır. Kalem ile birlikte{" "}
+              <Link
+                href="/promosyon-anahtarlik"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon anahtarlık
+              </Link>
+              ,{" "}
+              <Link
+                href="/promosyon-termos"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon termos
+              </Link>{" "}
+              veya{" "}
+              <Link
+                href="/promosyon-usb-bellek"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon USB bellek
+              </Link>{" "}
+              gibi tamamlayıcı ürünler tercih edilerek daha güçlü bir kurumsal
+              promosyon seti de oluşturulabilir.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">
+              Toptan Promosyon Kalem Siparişi İçin Doğru Planlama
+            </h2>
+
+            <p>
+              Toptan promosyon kalem siparişlerinde en verimli sonuç, ihtiyaçların
+              önceden doğru belirlenmesiyle elde edilir. Hangi etkinlikte
+              kullanılacağı, kaç kişiye dağıtılacağı, hangi baskı tekniğinin uygun
+              olduğu ve teslim süresinin ne kadar kritik olduğu gibi detaylar sipariş
+              planlamasında önemlidir.
+            </p>
+
+            <p>
+              Özellikle düzenli tanıtım yapan firmalar için promosyon kalem,
+              maliyet-fayda dengesi yüksek ürünlerden biridir. Günlük kullanımda yer
+              alması sayesinde reklam etkisi kısa süreli değil, uzun vadeli olabilir.
+              Bu nedenle yalnızca anlık kampanya ürünü olarak değil, sürekli marka
+              görünürlüğü sağlayan kurumsal bir araç olarak değerlendirilmelidir.
+            </p>
+
+            <p>
+              Toplu sipariş öncesinde ürünleri incelemek, uygun modelleri karşılaştırmak
+              ve ihtiyaçlarınıza göre teklif almak daha sağlıklı sonuç verir. Bu
+              sayfada yer alan ürünleri inceleyerek doğrudan{" "}
+              <Link
+                href="/kurumsal-teklif-al"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                kurumsal teklif
+              </Link>{" "}
+              talebinde bulunabilir, firmanız için en uygun promosyon kalem
+              seçeneklerini değerlendirebilirsiniz.
+            </p>
+          </section>
+
+          <section className="mt-14 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon Kalem Hakkında Sık Sorulan Sorular
+            </h2>
+
+            <div className="mt-6 space-y-4">
+              {faqItems.map((item) => (
+                <div
+                  key={item.question}
+                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                >
+                  <h3 className="text-lg font-semibold text-white">
+                    {item.question}
+                  </h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                    {item.answer}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </section>
+
+          <section className="mt-14 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon Kalem Rehberleri
+            </h2>
+
+            <div className="mt-5 grid gap-4 sm:grid-cols-2">
+              <Link
+                href="/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir"
+                className="rounded-2xl border border-white/10 bg-white/5 p-5 transition hover:bg-white/10"
+              >
+                <h3 className="text-lg font-semibold text-white">
+                  Promosyon Kalem Fiyatları Nasıl Hesaplanır?
+                </h3>
+                <p className="mt-2 text-sm leading-6 text-gray-200">
+                  Promosyon kalem fiyatlarını etkileyen temel unsurları ve sipariş
+                  sürecinde dikkat edilmesi gereken noktaları inceleyin.
+                </p>
+              </Link>
+
+              <Link
+                href="/rehber/logo-baskili-kalem-fiyatlari"
+                className="rounded-2xl border border-white/10 bg-white/5 p-5 transition hover:bg-white/10"
+              >
+                <h3 className="text-lg font-semibold text-white">
+                  Logo Baskılı Kalem Seçerken Nelere Dikkat Edilmeli?
+                </h3>
+                <p className="mt-2 text-sm leading-6 text-gray-200">
+                  Kalem modeli, baskı alanı, kullanım amacı ve kurumsal görünüm
+                  açısından dikkat edilmesi gereken detayları keşfedin.
+                </p>
+              </Link>
             </div>
           </section>
         </div>
