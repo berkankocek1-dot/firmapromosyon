@@ -1,5 +1,6 @@
 ﻿import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { GoogleTagManager } from "@next/third-parties/google";
 
 import "./globals.css";
 import Header from "./components/Header";
@@ -86,6 +87,8 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased flex min-h-screen flex-col`}
       >
+        <GoogleTagManager gtmId="GTM-MVLL345T" />
+
         <JsonLd
           data={{
             "@context": "https://schema.org",
