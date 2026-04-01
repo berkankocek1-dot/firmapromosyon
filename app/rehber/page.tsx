@@ -130,6 +130,21 @@ const guides = [
   title: "Promosyon Kalem Toplu Alım Rehberi 2026",
   desc: "Promosyon kalem toplu alırken nelere dikkat edilmeli? Adet, baskı, model seçimi, fiyat avantajı ve toplu sipariş stratejileriyle detaylı rehber.",
 },
+{
+  slug: "promosyon-rubber-kalem",
+  title: "Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?",
+  desc: "Promosyon rubber kalem nedir, neden tercih edilir, hangi alanlarda kullanılır ve firmalara ne kazandırır? Logo baskılı rubber kalemler hakkında detaylı rehber.",
+},
+{
+  slug: "promosyon-tasli-cakmak-nedir",
+  title: "Promosyon Taşlı Çakmak Nedir? Avantajları Nelerdir?",
+  desc: "Promosyon taşlı çakmak nedir, neden tercih edilir, hangi alanlarda kullanılır ve firmalara ne kazandırır? Detaylı rehber.",
+},
+{
+  slug: "logo-baskili-promosyon-cakmak-secerken-nelere-dikkat-edilmeli",
+  title: "Logo Baskılı Promosyon Çakmak Seçerken Nelere Dikkat Edilmeli?",
+  desc: "Logo baskılı promosyon çakmak seçerken kalite, baskı alanı, model, adet ve hedef kitle açısından dikkat edilmesi gerekenler.",
+},
 
 ];
 
