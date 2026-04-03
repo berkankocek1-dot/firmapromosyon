@@ -23471,6 +23471,712 @@ Müşteri ve çalışan hediyeleri
 Marka tanıtım çalışmaları  
 `
 },
+{
+  id: "p425",
+  slug: "promosyon-duvar-saati-31-cm-metal-kasa-ds-230",
+  title: "Promosyon Duvar Saati 31 cm Metal Kasa DS-230 | Şık Tasarım, Sessiz Akar Saniye",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-31-cm-metal-kasa-ds-230.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati 31 cm DS-230, metal kasa, mineral cam ve akar saniye özelliği ile ofis ve kurumsal kullanıma uygun şık ve dayanıklı duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati 31 cm Metal Kasa DS-230, kurumsal firmalar için hem dekoratif hem de uzun ömürlü bir promosyon ürünüdür.
+
+31 cm geniş çapı sayesinde duvar üzerinde dikkat çekici bir görünüm sunar. Ofis, iş yeri, mağaza ve kurumsal alanlarda marka görünürlüğünü artırmak için ideal bir promosyon ürünüdür.
+
+Ürün paslanmaz metal kasa yapısına sahiptir. Bu sayede darbelere karşı dayanıklıdır ve uzun yıllar boyunca formunu korur. Kaliteli kasa yapısı ürüne premium bir görünüm kazandırır.
+
+Mineral cam yüzeyi çizilmelere karşı dayanıklıdır ve saatin uzun süre ilk günkü şıklığını korumasını sağlar. Aynı zamanda parlak ve net bir görüntü sunar.
+
+Akar saniye mekanizması sayesinde sessiz çalışır. Bu özellik özellikle ofis, toplantı odası ve çalışma alanlarında büyük avantaj sağlar. Rahatsız edici tik tak sesi oluşturmaz.
+
+Bristol kadran tasarımı ile sade ve şık bir görünüm sunar. Logo baskısı için geniş ve uygun bir yüzeye sahiptir. Firmanızın logosu, sloganı veya marka mesajı saat üzerine profesyonel şekilde uygulanabilir.
+
+Promosyon duvar saatleri, uzun süre kullanılan ve sürekli göz önünde bulunan ürünler olduğu için marka bilinirliğini artırmada en etkili promosyon ürünlerinden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Çap:
+
+Ø 31 cm  
+
+Kasa:
+
+Paslanmaz Metal  
+
+Cam:
+
+Mineral Cam  
+
+Mekanizma:
+
+Akar Saniye (Sessiz Çalışma)  
+
+Kadran:
+
+Bristol Kadran  
+
+Özellikler:
+
+Geniş Görünüm (31 cm)  
+Sessiz Çalışma Mekanizması  
+Dayanıklı Metal Kasa  
+Çizilmeye Dayanıklı Cam  
+Şık ve Kurumsal Tasarım  
+Uzun Ömürlü Kullanım  
+Logo Baskıya Uygun Yüzey  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş yerleri  
+Toplantı odaları  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Mağaza ve showroom dekorasyonu  
+Banka, hastane ve kamu alanları  
+Marka tanıtım çalışmaları  
+`
+},
+{
+  id: "p426",
+  slug: "promosyon-duvar-saati-33-cm-metal-kasa-ds-240",
+  title: "Promosyon Duvar Saati 33 cm Metal Kasa DS-240 | Geniş Çap, Sessiz Akar Saniye Mekanizması",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-33-cm-metal-kasa-ds-240.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati 33 cm DS-240, geniş çapı, metal kasa yapısı ve sessiz akar saniye mekanizması ile kurumsal alanlar için ideal şık ve dikkat çekici duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati 33 cm Metal Kasa DS-240, geniş boyutu ve premium malzeme kalitesi ile marka görünürlüğünü en üst seviyeye taşıyan güçlü bir promosyon ürünüdür.
+
+Ø 33 cm büyük çapı sayesinde duvar üzerinde oldukça dikkat çekici bir alan kaplar. Bu özelliği sayesinde logo baskılı kullanımda markanızın sürekli göz önünde olmasını sağlar.
+
+Paslanmaz metal kasa yapısı ile uzun ömürlü kullanım sunar. Darbelere karşı dayanıklı olup deformasyona karşı dirençlidir. Aynı zamanda modern ve şık bir görünüm kazandırır.
+
+Mineral cam yüzeyi çizilmelere karşı dayanıklıdır ve uzun süre parlaklığını korur. Net ve kaliteli bir görüntü sunarak profesyonel bir kullanım sağlar.
+
+Akar saniye mekanizması sayesinde tamamen sessiz çalışır. Özellikle ofis, toplantı odası, banka ve hastane gibi ortamlarda büyük avantaj sağlar.
+
+Bristol kadran tasarımı sade ve kurumsal bir görünüm sunar. Logo baskısı için geniş ve düz bir yüzeye sahiptir. Firmanızın logosu, iletişim bilgileri veya marka mesajı profesyonel şekilde uygulanabilir.
+
+Promosyon duvar saatleri, uzun süre kullanılan ve sürekli görünen ürünler arasında yer aldığı için marka bilinirliğini artırmada en etkili reklam araçlarından biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Çap:
+
+Ø 33 cm  
+
+Kasa:
+
+Paslanmaz Metal  
+
+Cam:
+
+Mineral Cam  
+
+Mekanizma:
+
+Akar Saniye (Sessiz Çalışma)  
+
+Kadran:
+
+Bristol Kadran  
+
+Özellikler:
+
+Geniş ve Dikkat Çekici Tasarım (33 cm)  
+Sessiz Mekanizma  
+Dayanıklı Metal Kasa  
+Çizilmeye Dayanıklı Cam  
+Kurumsal Kullanıma Uygun  
+Uzun Ömürlü Kullanım  
+Logo Baskıya Uygun Geniş Yüzey  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş yerleri  
+Toplantı odaları  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Mağaza ve showroom dekorasyonu  
+Banka ve kamu kurumları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p427",
+  slug: "promosyon-duvar-saati-37-cm-aluminyum-kasa-ds-250",
+  title: "Promosyon Duvar Saati 37 cm Alüminyum Kasa DS-250 | Renkli Çerçeve, Büyük Boy Sessiz Mekanizma",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-37-cm-aluminyum-kasa-ds-250.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati 37 cm DS-250, renkli alüminyum çerçevesi, geniş çapı ve sessiz mekanizması ile dikkat çekici ve modern tasarıma sahip kurumsal duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati 37 cm Alüminyum Kasa DS-250, geniş boyutu ve renkli tasarım seçenekleri ile markanızı ön plana çıkaran premium promosyon ürünlerinden biridir.
+
+Ø 37 cm büyük kasa çapı sayesinde duvar üzerinde maksimum görünürlük sağlar. Özellikle logo baskılı kullanımda markanızın sürekli göz önünde olmasını destekler.
+
+Renkli alüminyum çerçeve tasarımı ile klasik duvar saatlerinden ayrılır ve modern bir görünüm sunar. Farklı renk seçenekleri sayesinde marka kimliğinize uygun tasarımlar oluşturulabilir.
+
+Üründe kullanılan bristol kadran, logo baskı için düz ve kaliteli bir yüzey sunar. Baskılar net, canlı ve dikkat çekici şekilde uygulanabilir.
+
+Mineral cam yüzey çizilmelere karşı dayanıklıdır ve uzun süreli kullanımda şıklığını korur. Aynı zamanda net bir görüş sağlar.
+
+Akar saniyeli mekanizma sayesinde sessiz çalışır. Bu özellik ofis, toplantı odası ve çalışma alanları için büyük avantaj sağlar.
+
+ABS kasa destek yapısı sayesinde hafif ve dayanıklıdır. Uzun süreli kullanım için ideal bir yapı sunar.
+
+Ürün shilink iç ambalaj ve mikro kutu ile gönderilmektedir. Bu sayede taşıma sırasında korunur ve kurumsal teslimatlar için uygun hale gelir.
+
+Promosyon duvar saatleri, uzun süre kullanılan ve sürekli görünen ürünler olduğu için marka bilinirliği ve reklam etkisi açısından en güçlü promosyon ürünlerinden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Kasa Çapı:
+
+Ø 370 mm  
+
+Kadran Çapı:
+
+Ø 308 mm  
+
+Kasa:
+
+Alüminyum Çerçeve + ABS Gövde  
+
+Cam:
+
+Mineral Cam  
+
+Mekanizma:
+
+Akar Saniyeli (Sessiz Çalışma)  
+
+Kadran:
+
+Bristol Kadran  
+
+Ambalaj:
+
+Shilink İç Ambalaj  
+Mikro Kutu  
+
+Özellikler:
+
+Ekstra Büyük Boy (37 cm)  
+Renkli Alüminyum Çerçeve  
+Modern ve Dikkat Çekici Tasarım  
+Sessiz Mekanizma  
+Dayanıklı ve Hafif Yapı  
+Çizilmeye Dayanıklı Cam  
+Logo Baskıya Uygun Geniş Yüzey  
+Kurumsal Dağıtıma Uygun Ambalaj  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş yerleri  
+Mağaza ve showroom alanları  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Eğitim kurumları ve hastaneler  
+Kafe ve restoran dekorasyonu  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p428",
+  slug: "promosyon-duvar-saati-35-cm-plastik-kasa-metalize-ds-260",
+  title: "Promosyon Duvar Saati 35 cm Metalize Kasa DS-260 | Ekonomik ve Şık Sessiz Duvar Saati",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-35-cm-plastik-kasa-ds-260.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-260, metalize kasa görünümü, mineral cam yapısı ve sessiz akar saniye mekanizması ile ekonomik ve şık kurumsal duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati 35 cm Metalize Kasa DS-260, uygun fiyatlı ve şık tasarımı ile kurumsal promosyon çalışmalarında en çok tercih edilen duvar saati modellerinden biridir.
+
+Metalize kasa tasarımı sayesinde klasik plastik saatlere göre daha premium bir görünüm sunar. Bu sayede düşük maliyetle yüksek algı oluşturmak isteyen firmalar için ideal bir promosyon ürünüdür.
+
+Ø 35 cm geniş kasa yapısı sayesinde duvar üzerinde dikkat çekici bir görünüm sunar. Logo baskılı kullanımda markanızın sürekli görünmesini sağlar.
+
+Mineral cam yüzeyi çizilmelere karşı dayanıklıdır ve uzun süreli kullanımda şıklığını korur. Net ve parlak bir görüntü sunar.
+
+Akar saniye mekanizması sayesinde sessiz çalışır. Ofis, toplantı odası ve çalışma alanlarında rahatsız edici ses oluşturmaz.
+
+Bristol kadran yapısı, logo baskısı için uygun ve kaliteli bir yüzey sunar. Marka logonuz, sloganınız veya iletişim bilgileriniz profesyonel şekilde uygulanabilir.
+
+Plastik kasa yapısı sayesinde hafif ve ekonomik bir çözümdür. Toplu siparişlerde maliyet avantajı sağlar.
+
+Promosyon duvar saatleri, uzun süre kullanılan ve sürekli göz önünde bulunan ürünler olduğu için marka bilinirliğini artırmada en etkili promosyon ürünlerinden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Çap:
+
+Ø 35 cm *(Not: Ürün kasa çapı üretim serisine göre Ø 40 cm olarak da sunulabilmektedir)*  
+
+Kasa:
+
+Metalize Plastik Kasa  
+
+Cam:
+
+Mineral Cam  
+
+Mekanizma:
+
+Akar Saniye (Sessiz Çalışma)  
+
+Kadran:
+
+Bristol Kadran  
+
+Özellikler:
+
+Ekonomik ve Şık Tasarım  
+Metalize Premium Görünüm  
+Sessiz Mekanizma  
+Dayanıklı Yapı  
+Hafif ve Kullanışlı  
+Çizilmeye Dayanıklı Cam  
+Logo Baskıya Uygun Geniş Yüzey  
+Toplu Siparişler İçin Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş yerleri  
+Toplantı odaları  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Okul ve eğitim kurumları  
+Mağaza ve showroom alanları  
+Marka tanıtım çalışmaları  
+`
+},
+{
+  id: "p429",
+  slug: "promosyon-duvar-saati-35-cm-metalize-yaldiz-kadran-ds-270",
+  title: "Promosyon Duvar Saati 35 cm Metalize Kasa DS-270 | Yaldız Kabartma Kadran, Şık ve Sessiz",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-35-cm-metalize-ds-270.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-270, metalize kasa ve yaldız kabartma kadranı ile premium görünümlü, sessiz çalışan ve kurumsal kullanım için ideal duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati 35 cm Metalize Kasa DS-270, şık tasarımı ve yaldız detaylı kadranı ile dikkat çeken premium görünümlü promosyon ürünlerinden biridir.
+
+Metalize kasa yapısı sayesinde modern ve estetik bir görünüm sunar. Özellikle kurumsal firmalar için prestijli bir promosyon ürünü olarak öne çıkar.
+
+Ürünün en dikkat çekici özelliği yaldız kabartma kadran tasarımıdır. Bu özel yüzey sayesinde saat daha lüks ve kaliteli bir algı oluşturur. Logo baskısı ile birleştiğinde markanızın prestijini artırır.
+
+Ø 35 cm kasa çapı ile duvar üzerinde ideal bir görünüm sunar. Ne çok büyük ne de küçük olması sayesinde her ortamda rahatlıkla kullanılabilir.
+
+Akar saniyeli mekanizma sayesinde sessiz çalışır. Ofis, toplantı odası ve çalışma alanlarında rahatsız edici ses oluşturmaz.
+
+Mineral cam yüzeyi çizilmelere karşı dayanıklıdır ve uzun süreli kullanım sağlar. Net ve parlak bir görüntü sunar.
+
+ABS kasa yapısı sayesinde hafif ve dayanıklıdır. Uzun ömürlü kullanım için uygundur.
+
+Shrink iç ambalaj ve mikro kutu ile gönderilmektedir. Bu sayede ürün taşıma sırasında korunur ve kurumsal dağıtım için hazır hale gelir.
+
+Promosyon duvar saatleri, sürekli kullanılan ve göz önünde bulunan ürünler olduğu için marka bilinirliği açısından en etkili reklam araçlarından biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Kasa Çapı:
+
+Ø 350 mm  
+
+Kadran Çapı:
+
+Ø 308 mm  
+
+Kasa:
+
+Metalize ABS Kasa  
+
+Cam:
+
+Mineral Cam  
+
+Mekanizma:
+
+Akar Saniyeli (Sessiz Çalışma)  
+
+Kadran:
+
+Yaldız Kabartma Kadran  
+
+Ambalaj:
+
+Shrink İç Ambalaj  
+Mikro Kutu  
+
+Özellikler:
+
+Şık ve Modern Tasarım  
+Yaldız Kabartma Premium Kadran  
+Sessiz Mekanizma  
+Dayanıklı ve Hafif Yapı  
+Çizilmeye Dayanıklı Cam  
+Logo Baskıya Uygun Yüzey  
+Kurumsal Kullanım İçin Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş yerleri  
+Toplantı odaları  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Banka ve kamu kurumları  
+Mağaza ve showroom alanları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p430",
+  slug: "promosyon-duvar-saati-35-cm-plastik-kasa-renkli-ds-280",
+  title: "Promosyon Duvar Saati 35 cm Plastik Kasa DS-280 | Renk Seçenekli, Logo Uyumlu Kadran",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-35-cm-plastik-kasa-ds-280.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-280, geniş renk seçenekleri ve kasa rengine uyumlu kadran baskısı ile markanıza özel tasarlanabilen şık ve ekonomik duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati 35 cm Plastik Kasa DS-280, zengin renk seçenekleri ve marka uyumlu tasarım avantajı ile öne çıkan modern promosyon ürünlerinden biridir.
+
+En önemli özelliği, kasa rengine uygun zemin kadran baskısıdır. Bu sayede firmanızın kurumsal renklerine birebir uyum sağlanabilir ve marka bütünlüğü güçlü şekilde yansıtılır.
+
+Farklı renk alternatifleri ile geniş ürün seçeneği sunar. Siyah, beyaz, kırmızı, mavi, sarı, turuncu, pembe ve daha birçok renk seçeneği sayesinde her sektöre uygun tasarım oluşturulabilir.
+
+Ø 35 cm ideal boyutu ile hem dikkat çekici hem de kullanışlı bir yapıya sahiptir. Ofis, iş yeri ve kurumsal alanlarda rahatlıkla kullanılabilir.
+
+Mineral cam yüzeyi çizilmelere karşı dayanıklıdır ve uzun süreli kullanım sağlar. Net ve kaliteli görüntü sunar.
+
+Akar saniye mekanizması sayesinde sessiz çalışır. Çalışma ortamlarında rahatsız edici ses oluşturmaz.
+
+Bristol kadran yapısı, logo baskısı için kaliteli ve düz bir yüzey sunar. Baskılar canlı ve profesyonel görünür.
+
+Plastik kasa yapısı sayesinde hafif ve ekonomiktir. Toplu siparişlerde maliyet avantajı sağlar.
+
+Promosyon duvar saatleri, uzun süre kullanılan ve sürekli göz önünde bulunan ürünler olduğu için marka bilinirliği açısından en etkili promosyon ürünleri arasında yer alır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Çap:
+
+Ø 35 cm  
+
+Kasa:
+
+Plastik Kasa  
+
+Cam:
+
+Mineral Cam  
+
+Mekanizma:
+
+Akar Saniye (Sessiz Çalışma)  
+
+Kadran:
+
+Bristol Kadran  
+Kasa Rengine Uyumlu Zemin Baskı  
+
+Özellikler:
+
+Geniş Renk Seçenekleri  
+Marka Rengine Uyumlu Tasarım  
+Sessiz Mekanizma  
+Ekonomik ve Kullanışlı  
+Dayanıklı Yapı  
+Çizilmeye Dayanıklı Cam  
+Logo Baskıya Uygun Geniş Yüzey  
+Toplu Siparişler İçin Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş yerleri  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Okul ve eğitim kurumları  
+Mağaza ve showroom alanları  
+Kafe ve restoranlar  
+Marka tanıtım çalışmaları  
+`
+},
+{
+  id: "p431",
+  slug: "promosyon-duvar-saati-40-cm-plastik-kasa-renkli-ds-310",
+  title: "Promosyon Duvar Saati 40 cm Plastik Kasa DS-310 | Büyük Boy, Renk Uyumlu Kadran",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-40-cm-plastik-kasa-ds-310.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati 40 cm DS-310, geniş çapı ve kasa rengine uyumlu kadran baskısı ile kurumsal firmalar için dikkat çekici ve profesyonel duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati 40 cm Plastik Kasa DS-310, ekstra büyük boyutu ve renk uyumlu tasarımı ile maksimum marka görünürlüğü sağlayan güçlü promosyon ürünlerinden biridir.
+
+Ø 40 cm geniş kasa çapı sayesinde duvar üzerinde oldukça dikkat çekici bir alan kaplar. Bu sayede logo baskılı kullanımda markanız sürekli göz önünde olur ve reklam etkisi uzun süre devam eder.
+
+Kasa rengine uygun zemin kadran baskısı sayesinde firmanızın kurumsal renklerine birebir uyum sağlanabilir. Bu özellik özellikle marka bütünlüğüne önem veren firmalar için büyük avantaj sağlar.
+
+Geniş renk seçenekleri ile farklı sektörlere hitap eder. Siyah, beyaz, kırmızı, mavi, sarı, turuncu, pembe ve daha birçok renk alternatifi ile özelleştirilebilir.
+
+Mineral cam yüzeyi çizilmelere karşı dayanıklıdır ve uzun süreli kullanım sunar. Net ve kaliteli görüntü sağlar.
+
+Akar saniye mekanizması sayesinde sessiz çalışır. Ofis, toplantı odası ve çalışma alanlarında rahatsız edici ses oluşturmaz.
+
+Bristol kadran yapısı, logo baskısı için ideal düz yüzey sunar. Baskılar net, canlı ve profesyonel şekilde uygulanabilir.
+
+Plastik kasa yapısı sayesinde hafif ve ekonomiktir. Büyük boy olmasına rağmen maliyet avantajı sağlar.
+
+V30-346 model kasası ile V30-546 model görünümünü bir araya getiren özel tasarım yapıya sahiptir. Bu sayede hem dayanıklılık hem de estetik görünüm sunar.
+
+Promosyon duvar saatleri, uzun süre kullanılan ve sürekli göz önünde bulunan ürünler olduğu için marka bilinirliği açısından en güçlü reklam araçlarından biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Çap:
+
+Ø 40 cm  
+
+Kasa:
+
+Plastik Kasa  
+
+Cam:
+
+Mineral Cam  
+
+Mekanizma:
+
+Akar Saniye (Sessiz Çalışma)  
+
+Kadran:
+
+Bristol Kadran  
+Kasa Rengine Uyumlu Zemin Baskı  
+
+Özellikler:
+
+Ekstra Büyük Boy (40 cm)  
+Geniş Renk Seçenekleri  
+Marka Rengine Uyumlu Tasarım  
+Sessiz Mekanizma  
+Dayanıklı ve Hafif Yapı  
+Çizilmeye Dayanıklı Cam  
+Logo Baskıya Uygun Geniş Yüzey  
+Yüksek Görünürlük ve Reklam Etkisi  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis ve iş yerleri  
+Fabrika ve üretim alanları  
+Mağaza ve showroom alanları  
+Fuar ve etkinlik dağıtımları  
+Müşteri ve çalışan hediyeleri  
+Okul ve kamu kurumları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p432",
+  slug: "promosyon-duvar-saati-dikdortgen-cam-bombeli-ds-320",
+  title: "Promosyon Duvar Saati Dikdörtgen 25,3x47 cm DS-320 | Cam Bombeli, Geniş Baskı Alanı",
+
+  category: "Duvar Saatleri",
+  image: "/products/promosyon-duvar-saati-dikdortgen-cam-bombeli-ds-320.jpg",
+
+  shortDesc:
+    "Promosyon duvar saati DS-320, dikdörtgen tasarımı ve geniş baskı alanı ile marka görsellerinizi ön plana çıkaran cam bombeli özel tasarım duvar saatidir.",
+
+  longDesc: `
+Promosyon duvar saati Dikdörtgen Cam Bombeli DS-320, klasik yuvarlak saatlerden farklı olarak geniş yüzey alanı ile adeta bir reklam panosu gibi çalışan özel bir promosyon ürünüdür.
+
+25,3 x 47 cm dikdörtgen formu sayesinde hem saat hem de görsel tanıtım alanı sunar. Bu sayede sadece logo değil, ürün görselleri, kampanya mesajları veya marka hikayesi de saat üzerine uygulanabilir.
+
+Bombe cam yapısı ürüne derinlik ve premium bir görünüm kazandırır. Aynı zamanda modern ve dikkat çekici bir tasarım sunar.
+
+Mineral cam yüzeyi çizilmelere karşı dayanıklıdır ve uzun süreli kullanım sağlar. Net ve kaliteli görüntü sunar.
+
+Akar saniye mekanizması sayesinde sessiz çalışır. Ofis, restoran, kafe ve mağaza gibi alanlarda rahatsız edici ses oluşturmaz.
+
+Bristol kadran yapısı, baskı uygulamaları için yüksek kaliteli bir yüzey sunar. Renkli baskılar canlı ve profesyonel görünür.
+
+Bu model özellikle restoranlar, kafeler, oteller ve perakende markaları için idealdir. Geniş baskı alanı sayesinde marka tanıtımı maksimum seviyeye çıkar.
+
+Promosyon duvar saatleri arasında en dikkat çekici modellerden biri olup, uzun süre kullanılan ve sürekli görülen bir reklam aracıdır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Duvar Saati  
+Kategori: Duvar Saatleri  
+
+Ebat:
+
+25,3 x 47 cm  
+
+Cam:
+
+Bombe Cam + Mineral Cam  
+
+Mekanizma:
+
+Akar Saniye (Sessiz Çalışma)  
+
+Kadran:
+
+Bristol Kadran  
+
+Özellikler:
+
+Dikdörtgen Modern Tasarım  
+Geniş Baskı Alanı  
+Cam Bombeli Premium Görünüm  
+Sessiz Mekanizma  
+Yüksek Reklam Etkisi  
+Dayanıklı Cam Yapı  
+Logo ve Görsel Baskıya Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon duvar saati ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Restoran ve kafe dekorasyonu  
+Otel ve turizm işletmeleri  
+Mağaza ve showroom alanları  
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Marka tanıtım çalışmaları  
+Ürün görsel tanıtımı  
+Müşteri ve çalışan hediyeleri  
+`
+},
 
 ];
 
