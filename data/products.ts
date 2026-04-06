@@ -24177,6 +24177,1182 @@ Marka tanıtım çalışmaları
 Müşteri ve çalışan hediyeleri  
 `
 },
+{
+  id: "p433",
+  slug: "promosyon-kutulu-sarj-kablo-seti-kbl-360",
+  title: "Promosyon Kutulu Şarj Kablo Seti KBL-360 | Çoklu Uç, Taşınabilir, Teknolojik Hediye",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-kutulu-sarj-kablo-seti-kbl-360.jpg",
+
+  shortDesc:
+    "Promosyon şarj kablo seti KBL-360, çoklu bağlantı uçları ve kompakt kutulu tasarımı ile markanızı teknolojiyle buluşturan pratik ve modern bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon kutulu şarj kablo seti KBL-360, günümüz teknolojik ihtiyaçlarına cevap veren çok yönlü ve kullanışlı bir promosyon ürünüdür. Farklı cihazlarla uyumlu yapısı sayesinde geniş bir kullanıcı kitlesine hitap eder.
+
+Set içerisinde yer alan çoklu bağlantı uçları sayesinde Type-C, Micro USB ve Lightning girişli cihazlarla uyumlu kullanım sunar. Bu sayede tek bir kablo ile birden fazla cihazı şarj etmek mümkündür.
+
+Kompakt ve şık kutu tasarımı, ürünün taşınabilirliğini artırırken aynı zamanda düzenli bir kullanım sağlar. Cepte, çantada veya masa üzerinde rahatlıkla taşınabilir.
+
+Minimal ve modern tasarımı sayesinde özellikle kurumsal firmalar, teknoloji markaları ve ajanslar için ideal bir promosyon ürünüdür. Günlük hayatta sık kullanılması sayesinde marka görünürlüğü sürekli hale gelir.
+
+Kutu yüzeyi ve kablo alanı, logo baskı uygulamaları için uygundur. UV baskı veya tampon baskı ile markanız ürün üzerinde şık bir şekilde sergilenebilir.
+
+Bu ürün özellikle fuar, etkinlik, lansman ve kurumsal hediye dağıtımlarında yüksek etki sağlayan teknolojik promosyonlar arasında yer alır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Şarj Kablo Seti  
+Kategori: Teknolojik Ürünler  
+
+İçerik:
+
+Çoklu Şarj Kablosu  
+Type-C Uç  
+Micro USB Uç  
+Lightning Uç  
+SIM Kart İğnesi  
+Taşıma Kutusu  
+
+Uyumluluk:
+
+Akıllı Telefonlar  
+Tabletler  
+Diğer USB Destekli Cihazlar  
+
+Özellikler:
+
+Kompakt ve Taşınabilir Tasarım  
+Çoklu Bağlantı Seçeneği  
+Pratik Kullanım  
+Şık ve Modern Görünüm  
+Logo Baskıya Uygun Yüzey  
+Yüksek Marka Görünürlüğü  
+Teknolojik Promosyon Ürün  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon şarj kablo seti ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Teknoloji firmaları  
+Ofis ve çalışan hediyeleri  
+Müşteri karşılama kitleri  
+Lansman ve reklam kampanyaları  
+Günlük kullanım aksesuarı  
+Marka tanıtım çalışmaları  
+`
+},
+{
+  id: "p434",
+  slug: "promosyon-kutulu-sarj-kablo-seti-kbl-370",
+  title: "Promosyon Kutulu Şarj Kablo Seti KBL-370 | Katlanabilir Kasa, Çoklu Uç, Premium Teknolojik Set",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-kutulu-sarj-kablo-seti-kbl-370.jpg",
+
+  shortDesc:
+    "Promosyon şarj kablo seti KBL-370, katlanabilir kutu tasarımı ve çoklu bağlantı uçları ile pratik kullanım sunan, yüksek marka görünürlüğü sağlayan teknolojik promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon kutulu şarj kablo seti KBL-370, kompakt yapısı ve çok yönlü kullanım özellikleri ile öne çıkan modern bir teknolojik promosyon ürünüdür.
+
+Katlanabilir kapaklı özel kutu tasarımı sayesinde hem şık bir görünüm sunar hem de içindeki tüm parçaları düzenli bir şekilde saklamaya imkan tanır. Açılır kapanır yapısı ürünün kullanımını oldukça pratik hale getirir.
+
+Set içerisinde bulunan çoklu bağlantı uçları sayesinde Type-C, Micro USB ve Lightning girişli cihazlarla uyumlu çalışır. Bu sayede tek bir set ile farklı cihazları şarj etmek mümkündür.
+
+Ürün içerisinde yer alan kablo ve adaptörler günlük kullanım için idealdir. Özellikle seyahatlerde, ofiste veya dış mekan kullanımlarında büyük kolaylık sağlar.
+
+Kutu yüzeyi geniş ve düz bir alan sunduğu için logo baskı uygulamaları için oldukça uygundur. UV baskı ve tampon baskı ile markanız ürün üzerinde profesyonel şekilde konumlandırılabilir.
+
+Minimal ve modern tasarımı sayesinde teknoloji firmaları, ajanslar ve kurumsal markalar için prestijli bir promosyon ürünüdür. Sürekli kullanılan bir ürün olması sayesinde marka bilinirliği uzun süre devam eder.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Şarj Kablo Seti  
+Kategori: Teknolojik Ürünler  
+
+İçerik:
+
+Çoklu Şarj Kablosu  
+Type-C Uç  
+Micro USB Uç  
+Lightning Uç  
+USB Adaptör  
+Taşıma Kutusu (Kapaklı)  
+
+Uyumluluk:
+
+Akıllı Telefonlar  
+Tabletler  
+USB Destekli Tüm Cihazlar  
+
+Özellikler:
+
+Katlanabilir Kutu Tasarımı  
+Kompakt ve Taşınabilir  
+Çoklu Bağlantı Seçeneği  
+Pratik ve Düzenli Kullanım  
+Logo Baskıya Uygun Yüzey  
+Modern ve Şık Tasarım  
+Yüksek Marka Görünürlüğü  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon şarj kablo seti ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Teknoloji firmaları  
+Ofis ve çalışan hediyeleri  
+Müşteri karşılama kitleri  
+Seyahat ve günlük kullanım  
+Lansman ve reklam kampanyaları  
+Marka tanıtım çalışmaları  
+`
+},
+{
+  id: "p435",
+  slug: "promosyon-coklu-isikli-kablo-kbl-380",
+  title: "Promosyon Çoklu Işıklı Şarj Kablosu KBL-380 | LED Logolu, 3 Uçlu, Premium Teknolojik Ürün",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-coklu-isikli-kablo-kbl-380.jpg",
+
+  shortDesc:
+    "Promosyon çoklu ışıklı kablo KBL-380, LED ışıklı logo alanı ve çoklu bağlantı uçları ile markanızı teknolojik ve dikkat çekici şekilde tanıtan premium promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon çoklu ışıklı şarj kablosu KBL-380, modern tasarımı ve dikkat çekici LED ışıklı logo alanı ile öne çıkan yenilikçi bir promosyon ürünüdür.
+
+Ürün üzerinde bulunan yuvarlak merkez alan, LED aydınlatma ile birlikte logo baskınızı ışıklı şekilde sergiler. Bu özellik sayesinde karanlık ortamlarda bile markanız görünür olur ve yüksek reklam etkisi sağlar.
+
+3 farklı bağlantı ucu (Type-C, Micro USB ve Lightning) sayesinde geniş cihaz uyumluluğu sunar. Tek bir kablo ile farklı cihazları kolaylıkla şarj edebilirsiniz.
+
+Dayanıklı kablo yapısı uzun ömürlü kullanım sağlar. Örgü kablo tasarımı kırılmalara ve kopmalara karşı dirençlidir.
+
+Taşıma çantası ile birlikte sunulan bu model, hem şık bir hediye alternatifi hem de düzenli kullanım imkanı sağlar. Özellikle kurumsal hediyelerde premium algı yaratır.
+
+LED ışıklı logo alanı sayesinde marka bilinirliği maksimum seviyeye çıkar. Kullanıcı her şarj ettiğinde marka ile etkileşim kurar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Şarj Kablosu  
+Kategori: Teknolojik Ürünler  
+
+Bağlantılar:
+
+Type-C  
+Micro USB  
+Lightning  
+
+Özellikler:
+
+LED Işıklı Logo Alanı  
+3’ü 1 Arada Şarj Kablosu  
+Geniş Cihaz Uyumluluğu  
+Dayanıklı Örgü Kablo  
+Premium Tasarım  
+Yüksek Reklam Etkisi  
+Logo Baskıya Uygun  
+
+Ekstra:
+
+Taşıma Çantası  
+
+Uyumluluk:
+
+Akıllı Telefonlar  
+Tabletler  
+USB Destekli Tüm Cihazlar  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon çoklu kablo ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve LED aydınlatma detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Teknoloji firmaları  
+Ofis ve çalışan hediyeleri  
+Premium müşteri hediyeleri  
+Lansman ve reklam kampanyaları  
+Günlük kullanım aksesuarı  
+Marka tanıtım çalışmaları  
+`
+},
+{
+  id: "p436",
+  slug: "promosyon-coklu-sarj-kablosu-kbl-390",
+  title: "Promosyon Çoklu Şarj Kablosu KBL-390 | Anahtarlıklı, 3 Uçlu, Taşınabilir Teknolojik Ürün",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-coklu-sarj-kablosu-kbl-390.jpg",
+
+  shortDesc:
+    "Promosyon çoklu şarj kablosu KBL-390, anahtarlık formu ve 3 farklı bağlantı ucu ile pratik kullanım sunan, günlük hayatta sürekli kullanılan etkili bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon çoklu şarj kablosu KBL-390, kompakt ve taşınabilir tasarımı ile her an yanında taşınabilecek pratik bir teknolojik promosyon ürünüdür.
+
+Anahtarlık formunda tasarlanan bu model, kullanıcıların ürünü sürekli yanında taşımasını sağlar. Bu sayede marka görünürlüğü maksimum seviyeye çıkar.
+
+Ürün üzerinde bulunan 3 farklı bağlantı ucu (Type-C, Micro USB ve Lightning) sayesinde geniş cihaz uyumluluğu sunar. Tek bir kablo ile farklı cihazları kolaylıkla şarj edebilirsiniz.
+
+Esnek ve dayanıklı kablo yapısı uzun ömürlü kullanım sağlar. Günlük kullanımda kopma ve kırılmalara karşı dirençlidir.
+
+Minimal tasarımı sayesinde özellikle fuar, etkinlik ve promosyon dağıtımları için ideal bir üründür. Küçük boyutuna rağmen yüksek kullanım değeri sunar.
+
+Anahtarlık kısmındaki yüzey logo baskı için uygundur. UV baskı veya lazer baskı ile markanız ürün üzerinde kalıcı şekilde sergilenebilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Şarj Kablosu  
+Kategori: Teknolojik Ürünler  
+
+Bağlantılar:
+
+Type-C  
+Micro USB  
+Lightning  
+
+Özellikler:
+
+Anahtarlık Tasarım  
+3’ü 1 Arada Şarj Kablosu  
+Kompakt ve Taşınabilir  
+Esnek ve Dayanıklı Kablo  
+Logo Baskıya Uygun Alan  
+Günlük Kullanım İçin İdeal  
+Yüksek Marka Görünürlüğü  
+
+Uyumluluk:
+
+Akıllı Telefonlar  
+Tabletler  
+USB Destekli Tüm Cihazlar  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon çoklu kablo ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Teknoloji firmaları  
+Ofis ve çalışan hediyeleri  
+Müşteri hediyeleri  
+Günlük kullanım aksesuarı  
+Reklam ve tanıtım kampanyaları  
+Marka bilinirliği çalışmaları  
+`
+},
+{
+  id: "p437",
+  slug: "promosyon-8-fonksiyonlu-type-c-cogaltici-kbl-400",
+  title: "Promosyon 8 Fonksiyonlu Type-C Hub KBL-400 | Çoklayıcı, HDMI, USB, Kart Okuyucu",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-8-fonksiyonlu-type-c-cogaltici-kbl-400.jpg",
+
+  shortDesc:
+    "Promosyon 8 fonksiyonlu Type-C çoğaltıcı KBL-400, HDMI, USB ve kart okuyucu girişleri ile çok yönlü kullanım sunan, profesyonel ve yüksek prestijli teknolojik promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon 8 fonksiyonlu Type-C çoğaltıcı KBL-400, modern cihazların bağlantı ihtiyaçlarını tek bir ürünle karşılayan çok amaçlı ve profesyonel bir teknolojik promosyon ürünüdür.
+
+Type-C bağlantı girişine sahip laptop, tablet ve mobil cihazlar ile uyumlu çalışır. Özellikle MacBook ve yeni nesil cihaz kullanıcıları için ideal bir çözümdür.
+
+Ürün üzerinde yer alan çoklu port yapısı sayesinde aynı anda birden fazla cihaz bağlanabilir. HDMI çıkışı ile harici ekran bağlantısı yapılabilirken, USB portları sayesinde veri aktarımı ve cihaz bağlantıları sağlanır.
+
+SD ve Micro SD kart okuyucu girişleri, veri transferini hızlı ve kolay hale getirir. Fotoğrafçılar, içerik üreticileri ve profesyoneller için oldukça kullanışlıdır.
+
+Şık alüminyum gövde tasarımı ürüne premium bir görünüm kazandırır. Dayanıklı yapısı sayesinde uzun ömürlü kullanım sunar.
+
+Geniş yüzey alanı logo baskı uygulamaları için uygundur. Lazer baskı ile markanız ürün üzerinde kalıcı ve prestijli şekilde sergilenebilir.
+
+Bu ürün özellikle kurumsal firmalar, teknoloji şirketleri ve profesyonel kullanıcılar için yüksek değerli promosyon ürünleri arasında yer alır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Type-C Hub / Çoğaltıcı  
+Kategori: Teknolojik Ürünler  
+
+Bağlantılar:
+
+Type-C Giriş  
+USB 3.0 Portları  
+HDMI Çıkışı  
+SD Kart Girişi  
+Micro SD Kart Girişi  
+
+Fonksiyonlar:
+
+8 Fonksiyonlu Çoklayıcı Sistem  
+Veri Transferi  
+Ekran Yansıtma (HDMI)  
+Kart Okuma  
+Çoklu Cihaz Bağlantısı  
+
+Özellikler:
+
+Alüminyum Gövde  
+Premium Tasarım  
+Yüksek Hızlı Veri Transferi  
+Çoklu Port Desteği  
+Kompakt ve Taşınabilir  
+Logo Baskıya Uygun  
+
+Uyumluluk:
+
+Laptop (MacBook, Windows)  
+Tabletler  
+Type-C Destekli Cihazlar  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon Type-C çoğaltıcı ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknoloji firmaları  
+Ofis ve profesyonel kullanım  
+Fuar ve etkinlik dağıtımları  
+Çalışan ve yönetici hediyeleri  
+İçerik üreticileri  
+Lansman ve reklam kampanyaları  
+Marka prestij ürünleri  
+`
+},
+{
+  id: "p438",
+  slug: "promosyon-kablo-cogaltici-kbl-410",
+  title: "Promosyon Kablo Çoğaltıcı KBL-410 | LED Işıklı Logo, 3 Uçlu (Micro, iOS, Type-C), CarPlay Destekli",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-kablo-cogaltici-kbl-410.jpg",
+
+  shortDesc:
+    "Promosyon kablo çoğaltıcı KBL-410, LED ışıklı logo alanı, 3 farklı çıkış ucu ve CarPlay desteği ile hem şık hem de fonksiyonel bir teknolojik promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon kablo çoğaltıcı KBL-410, modern tasarımı ve gelişmiş özellikleri ile dikkat çeken premium bir teknolojik promosyon ürünüdür.
+
+Ürün üzerinde bulunan LED ışıklı logo alanı, markanızı şık ve dikkat çekici şekilde sergiler. Özellikle karanlık ortamlarda bile görünürlük sağlayarak reklam etkisini artırır.
+
+3 farklı bağlantı çıkışı (Micro USB, iOS/Lightning ve Type-C) sayesinde geniş cihaz uyumluluğu sunar. Tek bir kablo ile farklı cihazları şarj etmek mümkündür.
+
+CarPlay desteği sayesinde araç içi kullanımda da aktif şekilde kullanılabilir. Bu özellik, ürünü klasik şarj kablolarından ayıran önemli bir avantajdır.
+
+Dayanıklı örgü kablo yapısı uzun ömürlü kullanım sunar. Günlük kullanımda kopma ve kırılmalara karşı dirençlidir.
+
+Kompakt ve taşınabilir tasarımı sayesinde çanta, cep veya araç içinde rahatlıkla kullanılabilir. Günlük hayatta sürekli kullanılan bir ürün olması sayesinde marka bilinirliği sürekli artar.
+
+Yuvarlak merkez alan, logo baskı için özel olarak tasarlanmıştır. Beyaz LED ışık ile logo aydınlatmalı şekilde öne çıkar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Şarj Kablosu / Çoğaltıcı  
+Kategori: Teknolojik Ürünler  
+
+Bağlantılar:
+
+Micro USB  
+iOS (Lightning)  
+Type-C  
+
+Özellikler:
+
+LED Işıklı Logo Alanı (Beyaz LED)  
+3’ü 1 Arada Şarj Kablosu  
+CarPlay Destekli  
+Dayanıklı Örgü Kablo  
+Kompakt ve Taşınabilir  
+Yüksek Marka Görünürlüğü  
+Logo Baskıya Uygun  
+
+Uyumluluk:
+
+Akıllı Telefonlar  
+Tabletler  
+Araç İçi Sistemler (CarPlay)  
+USB Destekli Tüm Cihazlar  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon kablo çoğaltıcı ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, LED aydınlatma ve tasarım detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Teknoloji firmaları  
+Araç içi kullanım  
+Ofis ve çalışan hediyeleri  
+Premium müşteri hediyeleri  
+Lansman ve reklam kampanyaları  
+Marka tanıtım çalışmaları  
+`
+},
+{
+  id: "p439",
+  slug: "promosyon-ios-micro-usb-type-c-led-isikli-kablo-kbl-420",
+  title: "Promosyon LED Işıklı Çoklu Şarj Kablosu KBL-420 | iOS, Micro USB, Type-C, Anahtarlıklı",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-ios-micro-usb-type-c-led-isikli-kablo-kbl-420.jpg",
+
+  shortDesc:
+    "Promosyon çoklu şarj kablosu KBL-420, beyaz LED ışıklı logo alanı ve 3 farklı bağlantı ucu ile markanızı dikkat çekici şekilde tanıtan pratik ve taşınabilir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon LED ışıklı çoklu şarj kablosu KBL-420, kompakt yapısı ve modern tasarımı ile günlük kullanımda yüksek etki sağlayan teknolojik promosyon ürünlerinden biridir.
+
+Ürün üzerinde yer alan yuvarlak merkez alan, beyaz LED ışık ile aydınlatılarak logo baskınızı ön plana çıkarır. Bu sayede özellikle karanlık ortamlarda marka görünürlüğü maksimum seviyeye ulaşır.
+
+3 farklı bağlantı ucu (iOS/Lightning, Micro USB ve Type-C) sayesinde geniş cihaz uyumluluğu sunar. Tek bir kablo ile farklı cihazları kolaylıkla şarj edebilirsiniz.
+
+Anahtarlık formu sayesinde kullanıcılar ürünü sürekli yanında taşır. Bu da promosyon ürününün sürekli görünür olmasını sağlar ve marka bilinirliğini artırır.
+
+Dayanıklı kablo yapısı uzun ömürlü kullanım sunar. Esnek yapısı sayesinde kırılmalara ve kopmalara karşı dirençlidir.
+
+Minimal ve şık tasarımı sayesinde fuar, etkinlik ve promosyon dağıtımları için ideal bir üründür. Küçük boyutuna rağmen yüksek kullanım değeri sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Şarj Kablosu  
+Kategori: Teknolojik Ürünler  
+
+Bağlantılar:
+
+iOS (Lightning)  
+Micro USB  
+Type-C  
+
+Özellikler:
+
+Beyaz LED Işıklı Logo Alanı  
+3’ü 1 Arada Şarj Kablosu  
+Anahtarlık Tasarım  
+Kompakt ve Taşınabilir  
+Dayanıklı ve Esnek Kablo  
+Logo Baskıya Uygun  
+Yüksek Marka Görünürlüğü  
+
+Uyumluluk:
+
+Akıllı Telefonlar  
+Tabletler  
+USB Destekli Tüm Cihazlar  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon çoklu kablo ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, LED aydınlatma ve tasarım detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Teknoloji firmaları  
+Ofis ve çalışan hediyeleri  
+Müşteri hediyeleri  
+Günlük kullanım aksesuarı  
+Reklam ve tanıtım kampanyaları  
+Marka bilinirliği çalışmaları  
+`
+},
+{
+  id: "p440",
+  slug: "promosyon-bluetooth-speaker-spk-435",
+  title: "Promosyon Bluetooth Hoparlör SPK-435 | Bluetooth 5.3, Taşınabilir, Lazer Baskı",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-bluetooth-speaker-spk-435.jpg",
+
+  shortDesc:
+    "Promosyon Bluetooth speaker SPK-435, taşınabilir tasarımı, güçlü ses performansı ve lazer kazıma logo baskı özelliği ile dikkat çeken premium promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon Bluetooth hoparlör SPK-435, modern tasarımı ve güçlü ses performansı ile öne çıkan teknolojik promosyon ürünlerinden biridir.
+
+Bluetooth 5.3 teknolojisi sayesinde hızlı ve stabil bağlantı sağlar. Akıllı telefon, tablet ve diğer Bluetooth destekli cihazlarla kolayca eşleşir.
+
+Taşınabilir ve kompakt yapısı sayesinde her ortamda rahatlıkla kullanılabilir. Üzerinde bulunan taşıma askısı ile kolay taşınır ve kullanıcı dostu bir deneyim sunar.
+
+Ürün; TF kart, USB, AUX ve FM radyo desteği ile çok yönlü kullanım imkanı sağlar. Bu sayede sadece Bluetooth ile değil, farklı kaynaklardan da müzik dinlenebilir.
+
+Minimal ve şık tasarımı sayesinde kurumsal firmalar için prestijli bir promosyon ürünüdür. Özellikle çalışan ve müşteri hediyesi olarak yüksek değer sunar.
+
+Ürün yüzeyi lazer kazıma baskıya uygundur. Bu sayede logo baskısı kalıcı ve profesyonel bir görünüm ile uygulanır.
+
+Günlük kullanımda sık tercih edilen bir ürün olması sayesinde marka bilinirliği sürekli artar ve uzun süreli reklam etkisi sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Bluetooth Hoparlör  
+Kategori: Teknolojik Ürünler  
+
+Bağlantı:
+
+Bluetooth 5.3  
+
+Destekler:
+
+TF Kart  
+USB  
+AUX  
+FM Radyo  
+Bluetooth  
+
+Özellikler:
+
+Taşınabilir Tasarım  
+Taşıma Askısı  
+Güçlü Ses Performansı  
+Stabil Bağlantı  
+Çoklu Medya Desteği  
+Lazer Kazıma Logo Baskı  
+Modern ve Şık Görünüm  
+
+Kutu İçeriği:
+
+Şarj Kablosu  
+
+Uyumluluk:
+
+Akıllı Telefonlar  
+Tabletler  
+Bluetooth Destekli Cihazlar  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon Bluetooth hoparlör ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknoloji firmaları  
+Ofis ve çalışan hediyeleri  
+Müşteri hediyeleri  
+Fuar ve etkinlik dağıtımları  
+Lansman ve reklam kampanyaları  
+Günlük kullanım  
+Marka tanıtım çalışmaları  
+`
+},
+{
+  id: "p441",
+  slug: "promosyon-bluetooth-hoparlor-spk-440",
+  title: "Promosyon Bluetooth Hoparlör SPK-440 | Kompakt, Taşınabilir, Güçlü Ses Performansı",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-bluetooth-hoparlor-spk-440.jpg",
+
+  shortDesc:
+    "Promosyon Bluetooth hoparlör SPK-440, kompakt tasarımı ve güçlü ses performansı ile günlük kullanımda yüksek marka görünürlüğü sağlayan modern promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon Bluetooth hoparlör SPK-440, minimal tasarımı ve etkili ses performansı ile öne çıkan kompakt bir teknolojik promosyon ürünüdür.
+
+Küçük boyutuna rağmen güçlü ses çıkışı sunar. Günlük kullanımda, ofiste, evde veya dış mekanda rahatlıkla kullanılabilir.
+
+Bluetooth bağlantı özelliği sayesinde akıllı telefon, tablet ve diğer cihazlarla hızlı ve kolay şekilde eşleşir. Kablosuz kullanım avantajı sağlar.
+
+Taşınabilir yapısı sayesinde çanta veya masa üzerinde kolayca konumlandırılabilir. Kullanıcı dostu tasarımı ile pratik bir deneyim sunar.
+
+Modern ve sade görünümü sayesinde kurumsal firmalar için şık bir promosyon alternatifidir. Özellikle çalışan ve müşteri hediyelerinde tercih edilir.
+
+Ürün yüzeyi logo baskı uygulamaları için uygundur. Lazer kazıma veya UV baskı ile markanız kalıcı şekilde ürün üzerine uygulanabilir.
+
+Günlük kullanımda sık tercih edilen bir ürün olması sayesinde marka bilinirliği sürekli artar ve uzun süreli reklam etkisi sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Bluetooth Hoparlör  
+Kategori: Teknolojik Ürünler  
+
+Bağlantı:
+
+Bluetooth  
+
+Özellikler:
+
+Kompakt ve Taşınabilir Tasarım  
+Güçlü Ses Performansı  
+Kablosuz Kullanım  
+Modern ve Minimal Görünüm  
+Logo Baskıya Uygun Yüzey  
+Dayanıklı Yapı  
+Yüksek Marka Görünürlüğü  
+
+Uyumluluk:
+
+Akıllı Telefonlar  
+Tabletler  
+Bluetooth Destekli Cihazlar  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon Bluetooth hoparlör ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknoloji firmaları  
+Ofis ve çalışan hediyeleri  
+Müşteri hediyeleri  
+Fuar ve etkinlik dağıtımları  
+Lansman ve reklam kampanyaları  
+Günlük kullanım  
+Marka tanıtım çalışmaları  
+`
+},
+{
+  id: "p442",
+  slug: "promosyon-bluetooth-hoparlor-spk-445",
+  title: "Promosyon Bluetooth Hoparlör SPK-445 | Mini, 3W Güç, 10m Çekim Mesafesi",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-bluetooth-hoparlor-spk-445.jpg",
+
+  shortDesc:
+    "Promosyon Bluetooth hoparlör SPK-445, mini boyutu ve 3W ses gücü ile taşınabilir ve kullanışlı bir promosyon ürünü olup günlük kullanımda yüksek marka görünürlüğü sağlar.",
+
+  longDesc: `
+Promosyon Bluetooth hoparlör SPK-445, kompakt boyutları ve pratik kullanımı ile öne çıkan mini bir teknolojik promosyon ürünüdür.
+
+4 x 4 x 4,5 cm ölçüleri sayesinde son derece taşınabilir bir yapıya sahiptir. Çanta, masa veya cepte rahatlıkla taşınabilir.
+
+3W ses çıkışı ile bulunduğu ortama yeterli ve dengeli bir ses performansı sunar. Günlük kullanım, ofis ve kısa süreli müzik dinleme için idealdir.
+
+Bluetooth bağlantı özelliği sayesinde akıllı telefon ve tabletlerle hızlı şekilde eşleşir. 10 metreye kadar çekim mesafesi ile kesintisiz kullanım sağlar.
+
+Ürün üzerinde bulunan taşıma askısı, kullanım kolaylığı sağlar ve ürünü her an yanında taşıma imkanı sunar.
+
+Minimal ve modern tasarımı sayesinde kurumsal promosyon ürünleri arasında şık ve ekonomik bir seçenektir.
+
+Logo baskı uygulamaları için uygun yüzeye sahiptir. Lazer kazıma veya UV baskı ile markanız ürün üzerinde kalıcı şekilde yer alabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Bluetooth Hoparlör  
+Kategori: Teknolojik Ürünler  
+
+Bağlantı:
+
+Bluetooth  
+
+Ses Gücü:
+
+3W  
+
+Çekim Mesafesi:
+
+10 metre  
+
+Ölçü:
+
+4 x 4 x 4,5 cm  
+
+Özellikler:
+
+Mini ve Taşınabilir Tasarım  
+Kompakt Yapı  
+Taşıma Askısı  
+Kolay Kullanım  
+Dengeli Ses Performansı  
+Logo Baskıya Uygun  
+Yüksek Marka Görünürlüğü  
+
+Uyumluluk:
+
+Akıllı Telefonlar  
+Tabletler  
+Bluetooth Destekli Cihazlar  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon Bluetooth hoparlör ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Teknoloji firmaları  
+Ofis ve çalışan hediyeleri  
+Müşteri hediyeleri  
+Günlük kullanım  
+Reklam ve tanıtım kampanyaları  
+Marka bilinirliği çalışmaları  
+`
+},
+{
+  id: "p443",
+  slug: "promosyon-bluetooth-speaker-spk-450",
+  title: "Promosyon Bluetooth Hoparlör SPK-450 | 5.0 Bağlantı, 3 Saat Çalma, Premium Tasarım",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-bluetooth-speaker-spk-450.jpg",
+
+  shortDesc:
+    "Promosyon Bluetooth speaker SPK-450, güçlü Bluetooth 5.0 bağlantısı, kompakt tasarımı ve lazer/UV baskı seçenekleri ile prestijli bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon Bluetooth hoparlör SPK-450, modern tasarımı ve gelişmiş teknik özellikleri ile öne çıkan premium bir teknolojik promosyon ürünüdür.
+
+Bluetooth 5.0 teknolojisi sayesinde hızlı, stabil ve güçlü bağlantı sunar. Akıllı telefonlar ve diğer cihazlarla kolayca eşleşir.
+
+400 mAh batarya kapasitesi ile kesintisiz yaklaşık 3 saat müzik dinleme imkanı sağlar. Günlük kullanım için ideal performans sunar.
+
+Handsfree (eller serbest) özelliği sayesinde telefon görüşmeleri de hoparlör üzerinden rahatlıkla yapılabilir. Bu özellik ürünü daha fonksiyonel hale getirir.
+
+Kompakt ve modern tasarımı sayesinde masaüstü kullanımına uygundur ve taşınabilir yapısı ile her ortamda kullanılabilir.
+
+ABS materyal yapısı ürüne dayanıklılık kazandırır. Uzun ömürlü kullanım sağlar.
+
+Lazer kazıma ve UV renkli baskı seçenekleri ile logo uygulamaları profesyonel şekilde yapılabilir. Marka görünürlüğü uzun süre korunur.
+
+Şık siyah hediye kutusu ile birlikte sunulması, ürünü kurumsal hediyeler için ideal hale getirir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Bluetooth Hoparlör  
+Kategori: Teknolojik Ürünler  
+
+Renkler:
+
+Metalik Gri  
+Siyah  
+Beyaz  
+
+Bağlantı:
+
+Bluetooth 5.0  
+
+Batarya:
+
+400 mAh  
+
+Çalma Süresi:
+
+Yaklaşık 3 Saat  
+
+Giriş:
+
+Micro USB  
+
+Destekler:
+
+Bluetooth (BT 5.0)  
+Handsfree (Eller Serbest)  
+
+Materyal:
+
+ABS  
+
+Baskı:
+
+Lazer Kazıma  
+UV Renkli Baskı  
+
+Kutu İçeriği:
+
+Siyah Hediye Kutusu  
+Micro USB Şarj Kablosu  
+
+Özellikler:
+
+Kompakt ve Şık Tasarım  
+Taşınabilir Kullanım  
+Stabil Bağlantı  
+Telefon Görüşmesi Desteği  
+Dayanıklı Yapı  
+Logo Baskıya Uygun  
+Yüksek Marka Görünürlüğü  
+
+Uyumluluk:
+
+Akıllı Telefonlar  
+Tabletler  
+Bluetooth Destekli Cihazlar  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon Bluetooth hoparlör ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknoloji firmaları  
+Ofis ve çalışan hediyeleri  
+Müşteri hediyeleri  
+Fuar ve etkinlik dağıtımları  
+Lansman ve reklam kampanyaları  
+Günlük kullanım  
+Marka tanıtım çalışmaları  
+`
+},
+{
+  id: "p444",
+  slug: "promosyon-wireless-sarj-hoparlor-spk-460",
+  title: "Promosyon Wireless Şarj & Bluetooth Hoparlör SPK-460 | 15W, LED Logo, 2'si 1 Arada",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-wireless-sarj-hoparlor-spk-460.jpg",
+
+  shortDesc:
+    "Promosyon wireless şarj ve hoparlör SPK-460, 15W hızlı kablosuz şarj ve Bluetooth hoparlör özelliğini bir arada sunan, LED ışıklı logo alanı ile dikkat çeken premium promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon wireless şarj & Bluetooth hoparlör SPK-460, iki fonksiyonu tek üründe birleştiren yenilikçi ve yüksek değerli bir teknolojik promosyon ürünüdür.
+
+15W kablosuz şarj özelliği sayesinde uyumlu cihazları hızlı ve pratik şekilde şarj eder. Masaüstü kullanım için ideal olup kablo karmaşasını ortadan kaldırır.
+
+Bluetooth 5.0 teknolojisi ile stabil ve kesintisiz bağlantı sunar. Telefon, tablet ve diğer cihazlarla kolayca eşleşerek güçlü ses performansı sağlar.
+
+Ürün üzerinde bulunan LED ışıklı logo alanı, markanızı modern ve dikkat çekici şekilde sergiler. Özellikle karanlık ortamlarda yüksek görünürlük sağlar.
+
+1.200 mAh batarya kapasitesi ile taşınabilir kullanım imkanı sunar. Günlük kullanımda hem şarj hem müzik ihtiyacını karşılar.
+
+ABS materyal yapısı ürüne dayanıklılık kazandırır. Uzun ömürlü ve sağlam kullanım sunar.
+
+Modern standlı tasarımı sayesinde masa üzerinde hem dekoratif hem fonksiyonel bir ürün olarak konumlanır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Wireless Şarj & Bluetooth Hoparlör  
+Kategori: Teknolojik Ürünler  
+
+Şarj:
+
+15W Wireless Şarj  
+
+Batarya:
+
+1.200 mAh  
+
+Bağlantı:
+
+Bluetooth 5.0  
+
+Giriş:
+
+Type-C Şarj Girişi (1 metre kablo dahil)  
+
+Materyal:
+
+ABS  
+
+Ölçü:
+
+110 x 92 x 138 mm  
+
+Baskı:
+
+Lazer Baskı  
+LED Işıklı Logo Alanı  
+Baskı Alanı: 42 x 50 mm  
+
+Koli İçi Adet:
+
+30  
+
+Özellikler:
+
+2’si 1 Arada (Hoparlör + Wireless Şarj)  
+LED Işıklı Logo  
+Modern Standlı Tasarım  
+Taşınabilir Kullanım  
+Güçlü Ses Performansı  
+Hızlı Kablosuz Şarj  
+Logo Baskıya Uygun  
+Yüksek Marka Görünürlüğü  
+
+Uyumluluk:
+
+Qi Destekli Akıllı Telefonlar  
+Tabletler  
+Bluetooth Destekli Cihazlar  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon wireless hoparlör ve şarj ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, LED aydınlatma ve tasarım detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknoloji firmaları  
+Ofis ve masaüstü kullanım  
+Çalışan ve yönetici hediyeleri  
+Premium müşteri hediyeleri  
+Fuar ve etkinlik dağıtımları  
+Lansman ve reklam kampanyaları  
+Marka prestij ürünleri  
+`
+},
+{
+  id: "p445",
+  slug: "promosyon-wireless-sarj-hoparlor-spk-470",
+  title: "Promosyon Wireless Şarj & Bluetooth Hoparlör SPK-470 | 3'lü Şarj (Telefon, Saat, Kulaklık), LED Logo",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-wireless-sarj-hoparlor-spk-470.jpg",
+
+  shortDesc:
+    "Promosyon wireless şarj ve hoparlör SPK-470, telefon, kulaklık ve akıllı saat için kablosuz şarj özelliği ve LED ışıklı logo alanı ile premium bir teknolojik promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon wireless şarj & Bluetooth hoparlör SPK-470, çok fonksiyonlu yapısı ile öne çıkan yenilikçi ve yüksek prestijli bir promosyon ürünüdür.
+
+15W kablosuz şarj özelliği sayesinde uyumlu akıllı telefonları hızlı ve pratik şekilde şarj eder. Aynı zamanda kulaklık ve akıllı saat için ayrı kablosuz şarj alanları sunar.
+
+Bu 3’lü şarj sistemi sayesinde kullanıcılar tek bir cihaz ile birden fazla teknolojik ürünü aynı anda şarj edebilir. Masaüstü kullanım için son derece idealdir.
+
+Bluetooth 5.0 teknolojisi ile güçlü ve stabil bağlantı sunar. Hoparlör özelliği sayesinde müzik dinleme ve ses deneyimi sağlar.
+
+Üzerinde bulunan LED ışıklı logo alanı, markanızı dikkat çekici şekilde sergiler. Özellikle karanlık ortamlarda yüksek görünürlük sağlar.
+
+ABS materyal yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunar. Modern ve kompakt tasarımı ile masaüstünde şık bir görünüm oluşturur.
+
+Kurumsal firmalar için yüksek değerli ve prestijli bir promosyon ürünüdür. Özellikle yönetici ve özel müşteri hediyeleri için ideal bir tercihtir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Wireless Şarj & Bluetooth Hoparlör  
+Kategori: Teknolojik Ürünler  
+
+Şarj:
+
+15W Wireless Şarj  
+Telefon, Kulaklık ve Akıllı Saat Şarj Desteği  
+
+Batarya:
+
+1.200 mAh  
+
+Bağlantı:
+
+Bluetooth 5.0  
+
+Giriş:
+
+Type-C Şarj Girişi (1 metre kablo dahil)  
+
+Materyal:
+
+ABS  
+
+Ölçü:
+
+100 x 80 x 100 mm  
+
+Baskı:
+
+Lazer Baskı  
+LED Işıklı Logo Alanı  
+Baskı Alanı: 45 x 25 mm  
+
+Koli İçi Adet:
+
+30  
+
+Özellikler:
+
+3’lü Kablosuz Şarj Sistemi  
+Hoparlör + Şarj Kombinasyonu  
+LED Işıklı Logo  
+Kompakt ve Modern Tasarım  
+Güçlü Ses Performansı  
+Yüksek Marka Görünürlüğü  
+Logo Baskıya Uygun  
+
+Uyumluluk:
+
+Qi Destekli Akıllı Telefonlar  
+Kablosuz Şarj Destekli Kulaklıklar  
+Akıllı Saatler  
+Bluetooth Destekli Cihazlar  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon wireless hoparlör ve şarj ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, LED aydınlatma ve tasarım detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknoloji firmaları  
+Ofis ve masaüstü kullanım  
+Yönetici ve VIP müşteri hediyeleri  
+Fuar ve etkinlik dağıtımları  
+Lansman ve reklam kampanyaları  
+Premium marka tanıtımı  
+`
+},
+{
+  id: "p446",
+  slug: "promosyon-wireless-sarj-istasyonu-tt-475",
+  title: "Promosyon Wireless Şarj İstasyonu TT-475 | 3'lü Şarj, LED Logo, Masaüstü Stand",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-wireless-sarj-istasyonu-tt-475.jpg",
+
+  shortDesc:
+    "Promosyon wireless şarj istasyonu TT-475, telefon, akıllı saat ve kulaklık için 3’lü şarj desteği ve LED ışıklı logo alanı ile premium masaüstü promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon wireless şarj istasyonu TT-475, modern masaüstü kullanım için tasarlanmış çok fonksiyonlu ve yüksek prestijli bir teknolojik promosyon ürünüdür.
+
+Telefon, akıllı saat ve kablosuz kulaklıklar için aynı anda şarj imkanı sunan 3’lü kablosuz şarj sistemi ile kullanıcıya büyük kolaylık sağlar.
+
+Dikey stand tasarımı sayesinde telefon hem şarj edilir hem de rahatlıkla kullanılabilir. Ofis ve masaüstü kullanım için ideal bir çözümdür.
+
+Ürün üzerinde bulunan LED ışıklı logo alanı, markanızı modern ve dikkat çekici şekilde öne çıkarır. Özellikle karanlık ortamlarda yüksek görünürlük sağlar.
+
+Bluetooth hoparlör özelliği bulunmamakla birlikte, tamamen şarj odaklı profesyonel bir masaüstü çözümüdür.
+
+Kompakt ve şık tasarımı sayesinde masa üzerinde düzenli bir görünüm sunar ve kablo karmaşasını ortadan kaldırır.
+
+Dayanıklı materyal yapısı ile uzun ömürlü kullanım sağlar. Kurumsal firmalar için yüksek değerli ve prestijli bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Wireless Şarj İstasyonu  
+Kategori: Teknolojik Ürünler  
+
+Şarj:
+
+Telefon Kablosuz Şarj  
+Akıllı Saat Şarj  
+Kablosuz Kulaklık Şarj  
+
+Özellikler:
+
+3’lü Kablosuz Şarj Sistemi  
+LED Işıklı Logo Alanı  
+Dikey Stand Tasarım  
+Masaüstü Kullanım  
+Kompakt ve Şık Görünüm  
+Logo Baskıya Uygun  
+Yüksek Marka Görünürlüğü  
+
+Materyal:
+
+ABS  
+
+Uyumluluk:
+
+Qi Destekli Akıllı Telefonlar  
+Kablosuz Şarj Destekli Kulaklıklar  
+Akıllı Saatler  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon wireless şarj istasyonu ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı, LED aydınlatma ve tasarım detayları sipariş sürecinde belirlenmektedir.
+
+Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
+
+Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Teknoloji firmaları  
+Ofis ve masaüstü kullanım  
+Yönetici ve VIP müşteri hediyeleri  
+Fuar ve etkinlik dağıtımları  
+Lansman ve reklam kampanyaları  
+Premium marka tanıtımı  
+`
+},
 
 ];
 
