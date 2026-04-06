@@ -25,7 +25,7 @@ export default function HomeSearch() {
         type="text"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
-        placeholder="Ürün adı veya kodu ara... Ornek: metal kalem, MK-330"
+        placeholder="Ürün adı veya kodu ara... Örnek: metal kalem, MK-330"
         className="w-full rounded-2xl border border-gray-300 bg-white px-5 py-3 text-sm text-gray-900 outline-none transition placeholder:text-gray-500 focus:border-black"
       />
 
