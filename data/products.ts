@@ -26036,6 +26036,937 @@ Ofis ve günlük kullanım
 Marka bilinirliği artırma çalışmaları  
 `
 },
+{
+  id: "p456",
+  slug: "promosyon-ajanda-aj-200",
+  title: "Promosyon Ajanda AJ-200 | Termo Deri Kapak, 17x24 cm, 336 Sayfa",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-200.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-200, geniş iç hacmi, termo deri kapak yapısı ve 336 sayfası ile kurumsal kullanım için ideal, şık ve dayanıklı bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-200, kurumsal firmalar için hem prestijli hem de kullanışlı bir promosyon ürünüdür.
+
+17 x 24 cm ölçüsü sayesinde geniş yazım alanı sunar ve günlük planlama, not alma ve organizasyon süreçlerini kolaylaştırır.
+
+336 sayfalık iç hacmi ile uzun süreli kullanım sağlar. Yoğun ofis kullanımı ve profesyonel planlama ihtiyaçları için idealdir.
+
+70 gr Ivory krem kağıt, göz yormayan yapısı ile konforlu bir yazım deneyimi sunar ve kaliteli bir his verir.
+
+Termo deri kapak, ürüne premium bir görünüm kazandırırken aynı zamanda dayanıklılığı artırır. Kurumsal hediye olarak oldukça şık bir tercihtir.
+
+Gofre ve dijital baskı seçenekleri ile firma logonuz ajanda üzerine uygulanabilir. Bu sayede markanız yıl boyunca görünür olur.
+
+Koli içi adet sayısının uygun olması, toplu siparişlerde lojistik avantaj sağlar ve maliyetleri optimize eder.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+17 x 24 cm  
+
+Kağıt:
+
+70 gr Ivory Krem Kağıt  
+336 Sayfa  
+
+Kapak:
+
+Termo Deri Kapak  
+
+Baskı Seçenekleri:
+
+Gofre Baskı  
+Dijital Baskı  
+
+Koli Bilgisi:
+
+Koli İçi Adet: 35  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Ofis kullanımı  
+Yılbaşı kurumsal hediyeleri  
+Eğitim kurumları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p457",
+  slug: "promosyon-ajanda-aj-210",
+  title: "Promosyon Ajanda AJ-210 | Termo Deri, 16x24 cm, 320 Sayfa",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-210.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-210, termo deri kapak, 320 sayfa iç hacmi ve şık tasarımı ile kurumsal firmalar için prestijli ve kullanışlı bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-210, şık tasarımı ve kaliteli malzeme yapısı ile kurumsal firmalar için güçlü bir promosyon ürünüdür.
+
+16 x 24 cm ölçüsü sayesinde hem taşınabilir hem de geniş kullanım alanı sunar. Günlük planlama ve not alma için ideal bir boyuttadır.
+
+320 sayfa iç hacmi, uzun süreli kullanım imkanı sağlar. Yoğun iş temposunda düzenli planlama yapmak isteyen kullanıcılar için uygundur.
+
+Krem renkli kağıt yapısı, göz yormayan bir yazım deneyimi sunar ve profesyonel kullanım için tercih edilir.
+
+Termo deri kapak, ajandaya premium bir görünüm kazandırır ve dayanıklılığı artırır. Kurumsal hediyelerde prestijli bir etki yaratır.
+
+Gofre, serigrafi ve UV baskı seçenekleri ile logo uygulaması yapılabilir. Bu sayede markanız yıl boyunca görünür olur.
+
+Koli içi adet sayısı, toplu siparişlerde lojistik avantaj sağlar ve maliyet optimizasyonu sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+16 x 24 cm  
+
+Kağıt:
+
+Krem Kağıt  
+320 Sayfa  
+
+Kapak:
+
+Termo Deri Kapak  
+
+Baskı Seçenekleri:
+
+Gofre Baskı  
+Serigrafi Baskı  
+UV Baskı  
+
+Koli Bilgisi:
+
+Koli İçi Adet: 40  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Yılbaşı ajandaları  
+Fuar ve etkinlik dağıtımları  
+Ofis kullanımı  
+Eğitim kurumları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p458",
+  slug: "promosyon-ajanda-aj-220",
+  title: "Promosyon Ajanda AJ-220 | Termo Deri Kapak, 16.5x22 cm, 336 Sayfa",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-220.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-220, kompakt ölçüsü, termo deri kapak yapısı ve 336 sayfalık iç hacmi ile hem şık hem de kullanışlı bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-220, şık tasarımı ve fonksiyonel yapısı ile kurumsal firmalar için ideal bir promosyon ürünüdür.
+
+16,5 x 22 cm ölçüsü, hem taşınabilirlik hem de yeterli yazım alanı sunarak günlük kullanım için oldukça pratik bir yapı sağlar.
+
+336 sayfa iç hacmi sayesinde uzun süreli kullanım imkanı sunar ve yoğun iş temposunda planlama ve not alma süreçlerini kolaylaştırır.
+
+70 gr Ivory krem kağıt, göz yormayan yapısı ile konforlu bir yazım deneyimi sunar ve kaliteli bir kullanım hissi verir.
+
+Termo deri kapak, ajandaya premium bir görünüm kazandırırken aynı zamanda dayanıklılığı artırır.
+
+Gofre, dijital ve serigraf baskı seçenekleri ile firma logonuz ajanda üzerine uygulanabilir. Bu sayede markanız yıl boyunca sürekli görünür olur.
+
+Koli içi adet sayısı, toplu siparişlerde avantaj sağlayarak maliyet ve lojistik açısından verimlilik sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+16,5 x 22 cm  
+
+Kağıt:
+
+70 gr Ivory Krem Kağıt  
+336 Sayfa  
+
+Kapak:
+
+Termo Deri Kapak  
+
+Baskı Seçenekleri:
+
+Gofre Baskı  
+Dijital Baskı  
+Serigraf Baskı  
+
+Koli Bilgisi:
+
+Koli İçi Adet: 35  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Ofis kullanımı  
+Yılbaşı ajandaları  
+Eğitim kurumları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p459",
+  slug: "promosyon-ajanda-aj-230",
+  title: "Promosyon Ajanda AJ-230 | Termo Deri Kapak, 17.5x24 cm, 336 Sayfa",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-230.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-230, geniş ebatı, termo deri kapak yapısı ve 336 sayfalık iç hacmi ile kurumsal firmalar için premium bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-230, geniş ölçüsü ve kaliteli malzeme yapısı ile kurumsal firmalar için prestijli bir promosyon ürünüdür.
+
+17,5 x 24 cm ölçüsü, geniş yazım alanı sunarak günlük planlama, toplantı notları ve detaylı kullanım için ideal bir yapı sağlar.
+
+336 sayfa iç hacmi sayesinde uzun süreli kullanım imkanı sunar ve yoğun iş temposunda maksimum verimlilik sağlar.
+
+70 gr Ivory krem kağıt, göz yormayan yapısı ile konforlu bir yazım deneyimi sunar ve profesyonel kullanım için uygundur.
+
+Termo deri kapak, ürüne şık ve premium bir görünüm kazandırırken aynı zamanda dayanıklılığı artırır.
+
+Dijital, serigrafi ve gofre baskı seçenekleri ile firma logonuz ajanda üzerine uygulanabilir. Bu sayede markanız yıl boyunca sürekli görünür olur.
+
+Koli içi adet sayısı, toplu siparişlerde lojistik avantaj sağlayarak maliyetleri optimize eder.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+17,5 x 24 cm  
+
+Kağıt:
+
+70 gr Ivory Krem Kağıt  
+336 Sayfa  
+
+Kapak:
+
+Termo Deri Kapak  
+
+Baskı Seçenekleri:
+
+Dijital Baskı  
+Serigrafi Baskı  
+Gofre Baskı  
+
+Koli Bilgisi:
+
+Koli İçi Adet: 35  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Yılbaşı ajandaları  
+Fuar ve etkinlik dağıtımları  
+Ofis kullanımı  
+Toplantı ve planlama süreçleri  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p460",
+  slug: "promosyon-ajanda-aj-240",
+  title: "Promosyon Ajanda AJ-240 | Termo Deri Kapak, 17.5x24 cm, 336 Sayfa",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-240.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-240, geniş ebatı, dayanıklı termo deri kapak yapısı ve 336 sayfa iç hacmi ile kurumsal firmalar için ideal bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-240, geniş ölçüsü ve sade tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan modellerden biridir.
+
+17,5 x 24 cm ölçüsü, geniş yazım alanı sunarak günlük planlama, toplantı notları ve detaylı kullanım için oldukça ideal bir yapı sağlar.
+
+336 sayfa iç hacmi sayesinde uzun süreli kullanım imkanı sunar ve yoğun iş temposunda düzenli planlama yapmayı kolaylaştırır.
+
+70 gr Ivory krem kağıt, göz yormayan yapısı ile konforlu bir yazım deneyimi sunar ve profesyonel kullanım için tercih edilir.
+
+Termo deri kapak, ürüne şık ve kaliteli bir görünüm kazandırırken aynı zamanda dayanıklılığı artırır.
+
+Gofre, dijital ve serigrafi baskı seçenekleri ile firma logonuz ajanda üzerine uygulanabilir. Bu sayede markanız yıl boyunca görünür olur.
+
+Koli içi adet sayısı, toplu siparişlerde avantaj sağlayarak maliyet ve lojistik süreçlerini optimize eder.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+17,5 x 24 cm  
+
+Kağıt:
+
+70 gr Ivory Krem Kağıt  
+336 Sayfa  
+
+Kapak:
+
+Termo Deri Kapak  
+
+Baskı Seçenekleri:
+
+Gofre Baskı  
+Dijital Baskı  
+Serigrafi Baskı  
+
+Koli Bilgisi:
+
+Koli İçi Adet: 35  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Yılbaşı ajandaları  
+Fuar ve etkinlik dağıtımları  
+Ofis kullanımı  
+Toplantı ve planlama süreçleri  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p461",
+  slug: "promosyon-ajanda-aj-250",
+  title: "Promosyon Ajanda AJ-250 | Termo Deri Kapak, 17x24 cm, 336 Sayfa",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-250.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-250, geniş yazım alanı, termo deri kapak yapısı ve 336 sayfa iç hacmi ile kurumsal kullanım için ideal bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-250, şık tasarımı ve geniş kullanım alanı ile kurumsal firmalar için etkili bir promosyon ürünüdür.
+
+17 x 24 cm ölçüsü, hem taşınabilirlik hem de geniş yazım alanı sunarak günlük planlama, not alma ve toplantı süreçlerinde yüksek verim sağlar.
+
+336 sayfa iç hacmi sayesinde uzun süreli kullanım imkanı sunar ve yoğun iş temposuna uyum sağlar.
+
+70 gr Ivory krem kağıt, göz yormayan yapısı ile konforlu bir yazım deneyimi sunar ve profesyonel kullanım için uygundur.
+
+Termo deri kapak, ürüne şık ve kaliteli bir görünüm kazandırırken aynı zamanda dayanıklılığı artırır.
+
+Gofre, dijital ve serigrafi baskı seçenekleri ile firma logonuz ajanda üzerine uygulanabilir. Bu sayede markanız yıl boyunca görünürlük kazanır.
+
+Koli içi adet sayısı, toplu siparişlerde lojistik avantaj sağlayarak maliyetlerin optimize edilmesine yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+17 x 24 cm  
+
+Kağıt:
+
+70 gr Ivory Krem Kağıt  
+336 Sayfa  
+
+Kapak:
+
+Termo Deri Kapak  
+
+Baskı Seçenekleri:
+
+Gofre Baskı  
+Dijital Baskı  
+Serigrafi Baskı  
+
+Koli Bilgisi:
+
+Koli İçi Adet: 35  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Yılbaşı ajandaları  
+Fuar ve etkinlik dağıtımları  
+Ofis kullanımı  
+Toplantı ve planlama süreçleri  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p462",
+  slug: "promosyon-ajanda-aj-260",
+  title: "Promosyon Ajanda AJ-260 | Termo Deri Kapak, 16.5x22 cm, 336 Sayfa",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-260.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-260, kompakt ölçüsü, termo deri kapak yapısı ve 336 sayfalık iç hacmi ile kurumsal kullanım için ideal bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-260, şık tasarımı ve kullanışlı ölçüsü ile kurumsal firmalar için etkili bir promosyon çözümüdür.
+
+16,5 x 22 cm ölçüsü sayesinde hem taşınabilir hem de yeterli yazım alanı sunar. Günlük planlama, not alma ve ofis kullanımı için oldukça uygundur.
+
+336 sayfa iç hacmi ile uzun süreli kullanım imkanı sağlar ve yoğun iş temposunda düzenli planlama yapmayı kolaylaştırır.
+
+70 gr Ivory krem kağıt, göz yormayan yapısı ile konforlu bir yazım deneyimi sunar ve profesyonel kullanım için tercih edilir.
+
+Termo deri kapak, ajandaya şık ve kaliteli bir görünüm kazandırırken aynı zamanda dayanıklılığı artırır.
+
+Gofre, dijital ve serigraf baskı seçenekleri ile firma logonuz ajanda üzerine uygulanabilir. Bu sayede markanız yıl boyunca görünür olur.
+
+Koli içi adet sayısı, toplu siparişlerde lojistik avantaj sağlayarak maliyetleri optimize eder.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+16,5 x 22 cm  
+
+Kağıt:
+
+70 gr Ivory Krem Kağıt  
+336 Sayfa  
+
+Kapak:
+
+Termo Deri Kapak  
+
+Baskı Seçenekleri:
+
+Gofre Baskı  
+Dijital Baskı  
+Serigraf Baskı  
+
+Koli Bilgisi:
+
+Koli İçi Adet: 35  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Ofis kullanımı  
+Yılbaşı ajandaları  
+Eğitim kurumları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p463",
+  slug: "promosyon-ajanda-aj-270",
+  title: "Promosyon Spiralli Ajanda AJ-270 | Termo Deri Kapak, 17x24 cm, Tarihli",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-270.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-270, spiralli yapısı, termo deri kapak tasarımı ve tarihli iç sayfaları ile günlük kullanım için pratik ve şık bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-270, spiralli tasarımı ve tarihli iç yapısı ile günlük planlama süreçlerini kolaylaştıran modern bir promosyon ürünüdür.
+
+17 x 24 cm ölçüsü, geniş yazım alanı sunarak ofis kullanımı, toplantı notları ve günlük planlama için ideal bir kullanım sağlar.
+
+Spiralli yapısı sayesinde sayfalar kolayca çevrilebilir ve ajanda tamamen açılarak rahat bir kullanım sunar.
+
+Tarihli iç sayfa düzeni, kullanıcıların gün bazlı planlama yapmasını kolaylaştırır ve düzenli çalışma alışkanlığı kazandırır.
+
+1. hamur 70 gr kağıt, kaliteli yazım deneyimi sunarken krem rengi yapısı ile göz yormaz.
+
+Termo deri kapak, ajandaya hem şık hem de dayanıklı bir yapı kazandırır. Kurumsal promosyon ürünleri arasında dikkat çekici bir modeldir.
+
+Serigraf, sıcak baskı ve UV baskı seçenekleri ile logo uygulaması yapılabilir. Bu sayede markanız yıl boyunca görünürlük kazanır.
+
+Spiralli ve tarihli ajanda yapısı, özellikle aktif saha ekipleri, öğrenciler ve yoğun ofis çalışanları için büyük avantaj sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Spiralli Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+17 x 24 cm  
+
+Kağıt:
+
+1. Hamur 70 gr Kağıt  
+Krem Renk  
+Tarihli İç  
+
+Kapak:
+
+Termo Deri Kapak  
+Spiralli  
+
+Baskı Seçenekleri:
+
+Serigraf Baskı  
+Sıcak Baskı  
+UV Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Saha ekipleri  
+Ofis çalışanları  
+Eğitim kurumları  
+Fuar ve etkinlik dağıtımları  
+Günlük planlama ve organizasyon  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p464",
+  slug: "promosyon-ajanda-aj-280",
+  title: "Promosyon Ajanda AJ-280 | Termo PU Sert Kapak, 17x24 cm, 320 Sayfa",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-280.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-280, termo PU sert kapak yapısı, 320 sayfa iç hacmi ve şık tasarımı ile kurumsal kullanım için ideal bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-280, modern tasarımı ve dayanıklı yapısı ile kurumsal firmalar için etkili bir promosyon ürünüdür.
+
+17 x 24 cm ölçüsü, geniş yazım alanı sunarak günlük planlama, toplantı notları ve ofis kullanımı için ideal bir yapı sağlar.
+
+320 sayfa iç hacmi, uzun süreli kullanım imkanı sunar ve düzenli planlama süreçlerini destekler.
+
+Krem renkli kağıt yapısı, göz yormayan bir yazım deneyimi sunar ve profesyonel kullanım için tercih edilir.
+
+Termo PU sert kapak, ajandaya hem sağlamlık hem de premium bir görünüm kazandırır. Darbelere karşı dayanıklı yapısı sayesinde uzun ömürlü kullanım sağlar.
+
+Gofre ve dijital baskı seçenekleri ile firma logonuz ajanda üzerine uygulanabilir. Bu sayede markanız yıl boyunca görünür olur.
+
+Koli içi adet sayısının yüksek olması, toplu siparişlerde lojistik avantaj sağlar ve maliyetleri optimize eder.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+17 x 24 cm  
+
+Kağıt:
+
+Krem Kağıt  
+320 Sayfa  
+
+Kapak:
+
+Termo PU Sert Kapak  
+
+Baskı Seçenekleri:
+
+Gofre Baskı  
+Dijital Baskı  
+
+Koli Bilgisi:
+
+Koli İçi Adet: 40  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis kullanımı  
+Fuar ve etkinlik dağıtımları  
+Yılbaşı ajandaları  
+Eğitim kurumları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p465",
+  slug: "promosyon-ajanda-aj-290",
+  title: "Promosyon Gizli Spiralli Ajanda AJ-290 | Termo Deri, 17x24 cm, Tarihli",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-290.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-290, gizli spiralli yapısı, termo deri kapak tasarımı ve tarihli iç sayfaları ile şık ve profesyonel bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-290, gizli spiralli yapısı ile klasik ajandalardan ayrılan, modern ve premium bir promosyon ürünüdür.
+
+17 x 24 cm ölçüsü, geniş yazım alanı sunarak günlük planlama, toplantı notları ve profesyonel kullanım için ideal bir yapı sağlar.
+
+Gizli spiralli tasarım, ajandanın dış görünümünü daha sade ve şık hale getirirken aynı zamanda kullanım kolaylığı sunar. Spiralli yapının avantajlarını sunarken estetik görünümü korur.
+
+Tarihli iç sayfa düzeni, kullanıcıların günlük planlama yapmasını kolaylaştırır ve düzenli çalışma alışkanlığı sağlar.
+
+1. hamur 70 gr kağıt, kaliteli yazım deneyimi sunar ve krem rengi yapısı ile göz yormaz.
+
+Termo deri kapak, ajandaya hem dayanıklılık hem de prestijli bir görünüm kazandırır. Kurumsal hediyeler için ideal bir modeldir.
+
+Serigraf, sıcak baskı ve UV baskı seçenekleri ile logo uygulaması yapılabilir. Bu sayede markanız yıl boyunca sürekli görünür olur.
+
+Gizli spiralli ajanda yapısı, özellikle prestijli kurumsal hediyeler ve üst segment promosyonlar için tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Gizli Spiralli Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+17 x 24 cm  
+
+Kağıt:
+
+1. Hamur 70 gr Kağıt  
+Krem Renk  
+Tarihli İç  
+
+Kapak:
+
+Termo Deri Kapak  
+Gizli Spiralli  
+
+Baskı Seçenekleri:
+
+Serigraf Baskı  
+Sıcak Baskı  
+UV Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Üst segment kurumsal hediyeler  
+Ofis kullanımı  
+Yöneticilere özel promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Günlük planlama ve organizasyon  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p466",
+  slug: "promosyon-ajanda-aj-300",
+  title: "Promosyon Büyük Ajanda AJ-300 | Termo PU Sert Kapak, 20x28 cm, 336 Sayfa",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-300.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-300, 20x28 cm büyük ebatı, termo PU sert kapak yapısı ve 336 sayfa iç hacmi ile geniş kullanım alanı sunan premium bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-300, ekstra geniş ölçüsü ile klasik ajanda modellerinden ayrılan, profesyonel kullanım için tasarlanmış premium bir promosyon ürünüdür.
+
+20 x 28 cm ölçüsü, maksimum yazım alanı sunarak detaylı planlama, toplantı notları ve yoğun ofis kullanımı için ideal bir yapı sağlar.
+
+336 sayfa iç hacmi sayesinde uzun süreli kullanım imkanı sunar ve düzenli planlama süreçlerinde yüksek verim sağlar.
+
+70 gr Ivory krem kağıt, göz yormayan yapısı ile konforlu bir yazım deneyimi sunar ve profesyonel kullanım için uygundur.
+
+Termo PU sert kapak, ajandaya güçlü bir dayanıklılık kazandırırken aynı zamanda şık ve prestijli bir görünüm sunar.
+
+Gofre ve dijital baskı seçenekleri ile firma logonuz ajanda üzerine uygulanabilir. Bu sayede markanız yıl boyunca sürekli görünür olur.
+
+Geniş ebatlı ajanda yapısı, özellikle yöneticiler, ofis çalışanları ve detaylı planlama yapan kullanıcılar için büyük avantaj sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Büyük Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+20 x 28 cm  
+
+Kağıt:
+
+70 gr Ivory Krem Kağıt  
+336 Sayfa  
+
+Kapak:
+
+Termo PU Sert Kapak  
+
+Baskı Seçenekleri:
+
+Gofre Baskı  
+Dijital Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Yönetici ajandaları  
+Ofis kullanımı  
+Toplantı ve planlama süreçleri  
+Fuar ve etkinlik dağıtımları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p467",
+  slug: "promosyon-ajanda-aj-310",
+  title: "Promosyon Ajanda AJ-310 | Renkli Kenar, Termo Deri, 17x24 cm, Tarihli",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-310.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-310, renkli boyalı kenar detayı, termo deri kapak yapısı ve tarihli iç sayfaları ile dikkat çeken şık bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-310, renkli boyalı kenar tasarımı ile klasik ajanda modellerinden ayrılan modern ve dikkat çekici bir promosyon ürünüdür.
+
+17 x 24 cm ölçüsü, geniş yazım alanı sunarak günlük planlama, toplantı notları ve ofis kullanımı için ideal bir yapı sağlar.
+
+Tarihli iç sayfa düzeni, kullanıcıların gün bazlı planlama yapmasını kolaylaştırır ve düzenli kullanım sağlar.
+
+Renkli boyalı kenar detayı, ajandaya estetik bir görünüm kazandırarak kurumsal hediyeler arasında fark yaratır.
+
+1. hamur 70 gr kağıt, kaliteli yazım deneyimi sunar ve krem rengi yapısı ile göz yormaz.
+
+Termo deri kapak, ajandaya hem şıklık hem de dayanıklılık kazandırır.
+
+Serigraf, sıcak baskı ve UV baskı seçenekleri ile logo uygulaması yapılabilir. Bu sayede markanız yıl boyunca görünürlük kazanır.
+
+Renkli kenar ajanda yapısı, özellikle premium promosyon ürünleri ve kurumsal hediyeler için tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+17 x 24 cm  
+
+Kağıt:
+
+1. Hamur 70 gr Kağıt  
+Krem Renk  
+Tarihli İç  
+
+Kapak:
+
+Termo Deri Kapak  
+Renkli Boyalı Kenar  
+
+Baskı Seçenekleri:
+
+Serigraf Baskı  
+Sıcak Baskı  
+UV Baskı  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Premium kurumsal hediyeler  
+Ofis kullanımı  
+Yılbaşı ajandaları  
+Fuar ve etkinlik dağıtımları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p468",
+  slug: "promosyon-ajanda-aj-320",
+  title: "Promosyon Ajanda AJ-320 | Termo PU Sert Kapak, 17x24 cm, 320 Sayfa",
+
+  category: "Ajanda",
+  image: "/products/promosyon-ajanda-aj-320.jpg",
+
+  shortDesc:
+    "Promosyon ajanda AJ-320, termo PU sert kapak yapısı, 320 sayfa iç hacmi ve farklı baskı seçenekleri ile kurumsal kullanım için ideal bir ajanda modelidir.",
+
+  longDesc: `
+Promosyon ajanda AJ-320, sağlam yapısı ve modern tasarımı ile kurumsal firmalar için etkili bir promosyon ürünüdür.
+
+17 x 24 cm ölçüsü, geniş yazım alanı sunarak günlük planlama, toplantı notları ve ofis kullanımı için ideal bir yapı sağlar.
+
+320 sayfa iç hacmi sayesinde uzun süreli kullanım imkanı sunar ve düzenli planlama süreçlerini destekler.
+
+Krem renkli kağıt yapısı, göz yormayan bir yazım deneyimi sunar ve profesyonel kullanım için tercih edilir.
+
+Termo PU sert kapak, ajandaya dayanıklılık kazandırırken aynı zamanda şık ve premium bir görünüm sunar.
+
+Gofre, dijital ve serigrafi baskı seçenekleri ile firma logonuz ajanda üzerine uygulanabilir. Bu sayede markanız yıl boyunca görünürlük kazanır.
+
+Koli içi adet sayısı, toplu siparişlerde lojistik avantaj sağlayarak maliyetleri optimize eder.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Ajanda  
+Kategori: Ajanda  
+
+Ölçü:
+
+17 x 24 cm  
+
+Kağıt:
+
+Krem Kağıt  
+320 Sayfa  
+
+Kapak:
+
+Termo PU Sert Kapak  
+
+Baskı Seçenekleri:
+
+Gofre Baskı  
+Dijital Baskı  
+Serigrafi Baskı  
+
+Koli Bilgisi:
+
+Koli İçi Adet: 40  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon ajanda ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Ofis kullanımı  
+Fuar ve etkinlik dağıtımları  
+Yılbaşı ajandaları  
+Eğitim kurumları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
 
 ];
 
