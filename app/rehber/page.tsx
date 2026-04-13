@@ -145,6 +145,41 @@ const guides = [
   title: "Logo Baskılı Promosyon Çakmak Seçerken Nelere Dikkat Edilmeli?",
   desc: "Logo baskılı promosyon çakmak seçerken kalite, baskı alanı, model, adet ve hedef kitle açısından dikkat edilmesi gerekenler.",
 },
+{
+  slug: "promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta",
+  title: "Promosyon Çakmak Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta",
+  desc: "Promosyon çakmak alırken kalite, baskı türü, model seçimi, sipariş adedi, teslim süresi ve fiyat dengesi açısından dikkat edilmesi gerekenler.",
+},
+{
+  slug: "kurumsal-tanitim-icin-promosyon-cakmak-kullanimi-tam-rehber",
+  title: "Kurumsal Tanıtım İçin Promosyon Çakmak Kullanımı (Tam Rehber)",
+  desc: "Kurumsal tanıtım için promosyon çakmak nasıl kullanılır, hangi firmalar için uygundur, avantajları nelerdir ve seçim sürecinde nelere dikkat edilmelidir sorularına detaylı rehber.",
+},
+{
+  slug: "promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi",
+  title: "Promosyon Çakmak mı Kalem mi? En Doğru Promosyon Ürünü Seçimi",
+  desc: "Promosyon çakmak mı yoksa promosyon kalem mi daha mantıklı? Hedef kitle, kullanım alanı, maliyet, görünürlük ve marka etkisi açısından detaylı karşılaştırma rehberi.",
+},
+{
+  slug: "logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari",
+  title: "Logo Baskılı Promosyon Çakmak Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
+  desc: "Logo baskılı promosyon çakmak modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.",
+},
+{
+  slug: "promosyon-anahtarlik-nedir-firmalar-neden-tercih-eder",
+  title: "Promosyon Anahtarlık Nedir? Firmalar Neden Tercih Eder?",
+  desc: "Promosyon anahtarlık nedir, neden tercih edilir ve hangi sektörler için uygundur? Logo baskılı anahtarlık modelleri ve avantajları hakkında detaylı rehber.",
+},
+{
+  slug: "promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta",
+  title: "Promosyon Anahtarlık Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta",
+  desc: "Promosyon anahtarlık alırken kalite, malzeme, baskı, model seçimi, adet ve hedef kitle açısından dikkat edilmesi gereken 10 kritik noktayı detaylıca inceleyin.",
+},
+{
+  slug: "logo-baskili-promosyon-anahtarlik-rehberi-modeller-fiyatlar-ve-kullanim-alanlari",
+  title: "Logo Baskılı Promosyon Anahtarlık Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
+  desc: "Logo baskılı promosyon anahtarlık modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.",
+},
 
 ];
 
