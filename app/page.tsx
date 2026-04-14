@@ -506,7 +506,7 @@ export default function Home() {
             >
               <div className="absolute inset-0 bg-gradient-to-br from-white via-white to-gray-50" />
               <div className="relative">
-                <div className="relative flex aspect-[4/3] items-center justify-center overflow-hidden border-b border-gray-100 bg-gray-100">
+                <div className="relative flex aspect-[4/3] items-center justify-center overflow-hidden border-b border-gray-100 bg-white">
                   <Image
                     src={getCategoryImage(category)}
                     alt={category.name}
@@ -625,7 +625,7 @@ export default function Home() {
                   href={`/urunler/${slug}`}
                   className="group rounded-3xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
                 >
-                  <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-gray-100">
+                  <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
                     <Image
                       src={img}
                       alt={title}
@@ -965,7 +965,7 @@ function MiniProductCard({ product }: { product: any }) {
       href={`/urunler/${slug}`}
       className="group rounded-3xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
     >
-      <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-gray-100">
+      <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
         <Image
           src={img}
           alt={title}

@@ -108,7 +108,7 @@ export default function ProductsClient({ products }: { products: Product[] }) {
               href={`/urunler/${p.slug}`}
               className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:shadow-md"
             >
-              <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
+              <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
                 <Image
                   src={p.image}
                   alt={p.title}
