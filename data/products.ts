@@ -74,7 +74,7 @@ MİNİMUM SİPARİŞ / BASKI BİLGİSİ
 Kurumsal toplu alım ve logo baskı için teklif isteyebilirsiniz.
 `.trim(),
     category: "Kalem",
-    image: "/products/dokunmatik-kalem-dk-500.jpg",
+    image: "/products/dokunmatik-kalem-dk-500-v2.jpg",
     gallery: ["/products/dokunmatik-kalem-dk-500.jpg"],
     faq: [
       {
