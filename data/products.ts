@@ -26967,6 +26967,699 @@ Eğitim kurumları
 Marka bilinirliği artırma çalışmaları  
 `
 },
+{
+  id: "p469",
+  slug: "promosyon-anahtarlik-an-450",
+  title: "Promosyon Anahtarlık AN-450 | Telefon Standlı, Lazer Baskı, 8x2.5 cm",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-450.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-450, telefon standı özelliği ve lazer baskıya uygun metal yüzeyi ile hem işlevsel hem de şık bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-450, çok amaçlı kullanımı sayesinde klasik anahtarlıklardan ayrılan modern bir promosyon ürünüdür.
+
+Telefon standı özelliği sayesinde kullanıcılar telefonlarını yatay konumda sabitleyebilir ve video izleme, toplantı veya sunum gibi alanlarda pratik kullanım sağlar.
+
+8 x 2.5 cm kompakt boyutu sayesinde taşınabilirliği yüksek olup günlük kullanım için idealdir.
+
+Metal yüzeyi, lazer baskı için oldukça uygundur ve firma logonuz uzun ömürlü ve silinmez şekilde uygulanabilir.
+
+Şeffaf poşet ambalajı ile birlikte sunularak kurumsal dağıtımlar için hazır hale gelir.
+
+Hem fonksiyonel hem de reklam değeri yüksek olması sebebiyle fuar, etkinlik ve promosyon kampanyalarında sıkça tercih edilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Ebat:
+
+8 x 2.5 cm  
+
+Özellik:
+
+Telefon Standlı  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Baskı Yönü:
+
+Tek Yön  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve tanıtım kampanyaları  
+Günlük kullanım  
+Teknolojik promosyon ürünleri  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p470",
+  slug: "promosyon-anahtarlik-an-460",
+  title: "Promosyon Anahtarlık AN-460 | Purjörlü, Lazer Baskı, Metal Tasarım",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-460.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-460, purjörlü yapısı ve lazer baskıya uygun metal yüzeyi ile hem fonksiyonel hem de dikkat çekici bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-460, klasik anahtarlık tasarımını fonksiyonel bir özellik ile birleştirerek öne çıkan bir promosyon ürünüdür.
+
+Purjörlü yapısı sayesinde şişe açma özelliği sunar ve günlük kullanımda pratiklik sağlar. Bu özelliği ile kullanıcılar tarafından uzun süre kullanılır ve marka görünürlüğü artar.
+
+Metal gövdesi, dayanıklı yapısı ile uzun ömürlü kullanım sunarken aynı zamanda şık ve modern bir tasarım sağlar.
+
+Lazer baskı teknolojisi sayesinde firma logonuz ürün üzerine kalıcı ve silinmez şekilde uygulanabilir. Bu da promosyon ürünlerinde en önemli kriterlerden biri olan kalıcılığı sağlar.
+
+Farklı renk seçenekleri ile kurumsal kimliğinize uygun tercih yapılabilir.
+
+Kompakt ve hafif yapısı sayesinde anahtarlık olarak taşınması oldukça rahattır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Özellik:
+
+Purjörlü (Şişe Açacaklı)  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Malzeme:
+
+Metal  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve tanıtım kampanyaları  
+Günlük kullanım  
+Restoran ve kafe promosyonları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p471",
+  slug: "promosyon-anahtarlik-an-470",
+  title: "Promosyon Anahtarlık AN-470 | Çift Yön Lazer Baskı, 8.5x1.7 cm, Şık Tasarım",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-470.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-470, çift yön lazer baskı imkanı ve modern tasarımı ile kurumsal promosyonlarda öne çıkan şık ve kullanışlı bir üründür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-470, zarif tasarımı ve yüksek baskı kalitesi ile markanızı profesyonel şekilde temsil eden etkili bir promosyon ürünüdür.
+
+8.5 x 1.7 cm ölçüsü ile ince ve ergonomik bir yapıya sahiptir. Günlük kullanımda rahat taşınabilir ve uzun süreli kullanım sunar.
+
+Çift yön lazer baskı özelliği sayesinde ürünün her iki yüzeyine de logo veya marka bilgisi uygulanabilir. Bu da marka görünürlüğünü maksimum seviyeye çıkarır.
+
+Metal detaylar ile desteklenen modern tasarımı, ürüne premium bir görünüm kazandırır ve kurumsal firmalar için ideal bir seçim oluşturur.
+
+Şeffaf poşet ambalajı ile birlikte sunularak dağıtıma hazır hale getirilir.
+
+Farklı renk seçenekleri ile marka kimliğinize uygun tercihler yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Ebat:
+
+8.5 x 1.7 cm  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Baskı Yönü:
+
+Çift Yön  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve tanıtım kampanyaları  
+Günlük kullanım  
+Hediye ürünler  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p472",
+  slug: "promosyon-anahtarlik-an-480",
+  title: "Promosyon Anahtarlık AN-480 | Purjörlü, Lazer Baskı, Metal Gövde",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-480.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-480, purjörlü yapısı ve lazer baskıya uygun metal yüzeyi ile hem işlevsel hem de uzun ömürlü bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-480, işlevselliği ve şık tasarımı ile dikkat çeken modern bir promosyon ürünüdür.
+
+Purjörlü (şişe açacaklı) yapısı sayesinde kullanıcıya günlük hayatta pratik bir kullanım sunar. Bu özellik, ürünün sürekli kullanılmasını sağlayarak marka görünürlüğünü artırır.
+
+Metal gövdesi dayanıklı bir yapı sunarken aynı zamanda premium bir görünüm kazandırır. Kurumsal firmalar için kaliteli bir promosyon seçeneğidir.
+
+Lazer baskı teknolojisi ile firma logonuz ürün yüzeyine kalıcı ve silinmez şekilde uygulanabilir. Bu sayede uzun süreli reklam etkisi sağlanır.
+
+Kompakt yapısı sayesinde anahtarlık olarak taşınması oldukça rahattır ve günlük kullanım için idealdir.
+
+Farklı renk seçenekleri ile markanıza uygun tercih yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Özellik:
+
+Purjörlü (Şişe Açacaklı)  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Malzeme:
+
+Metal  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve tanıtım kampanyaları  
+Günlük kullanım  
+Restoran ve kafe promosyonları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p473",
+  slug: "promosyon-anahtarlik-an-490",
+  title: "Promosyon Anahtarlık AN-490 | Özel Kesim Tasarım, Lazer Baskı, Metal",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-490.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-490, özel kesim tasarımı ve lazer baskıya uygun metal yüzeyi ile dikkat çekici ve farklı bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-490, standart modellerden farklı özel kesim formu ile dikkat çeken özgün bir promosyon ürünüdür.
+
+Farklı tasarımı sayesinde klasik anahtarlıklardan ayrılarak kullanıcıların ilgisini çeker ve markanızın akılda kalıcılığını artırır.
+
+Metal gövdesi, dayanıklı yapısı ile uzun süreli kullanım sunarken aynı zamanda şık ve modern bir görünüm sağlar.
+
+Lazer baskı teknolojisi ile firma logonuz ürün üzerine kalıcı ve silinmez şekilde uygulanabilir. Bu sayede promosyon ürününüz uzun yıllar reklam etkisi yaratır.
+
+Kompakt yapısı sayesinde anahtarlık olarak rahat taşınır ve günlük kullanım için uygundur.
+
+Farklı renk seçenekleri ile marka kimliğinize uygun tercihler yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Tasarım:
+
+Özel Kesim  
+
+Baskı Türü:
+
+Lazer Baskı  
+
+Malzeme:
+
+Metal  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve tanıtım kampanyaları  
+Günlük kullanım  
+Hediye ürünler  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p474",
+  slug: "promosyon-anahtarlik-an-500",
+  title: "Promosyon Anahtarlık AN-500 | Domeks Etiket, Purjörlü, Çift Yön Baskı",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-500.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-500, domeks etiket baskı, çift yön kullanım ve purjörlü yapısı ile premium ve dikkat çekici bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-500, yüksek kaliteli domeks etiket baskı teknolojisi ile üretilen premium bir promosyon ürünüdür.
+
+Domeks (kabartmalı) etiket baskı sayesinde logonuz daha parlak, canlı ve dikkat çekici bir görünüm kazanır. Bu özellik, ürünün estetik değerini artırırken marka algısını güçlendirir.
+
+Çift yön baskı imkanı ile anahtarlığın her iki tarafında da marka görünürlüğü sağlanır. Bu da reklam etkisini maksimum seviyeye çıkarır.
+
+Purjörlü (şişe açacaklı) yapısı sayesinde ürün sadece bir anahtarlık değil, aynı zamanda fonksiyonel bir kullanım sunar. Bu da kullanıcıların ürünü daha sık kullanmasını sağlar.
+
+Metal gövdesi dayanıklı ve uzun ömürlü kullanım sunarken, şık tasarımı ile kurumsal firmalar için ideal bir seçimdir.
+
+Şeffaf poşet ambalajı ile birlikte sunularak dağıtıma hazır hale getirilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Baskı Türü:
+
+Domeks Etiket  
+
+Baskı Yönü:
+
+Çift Yön  
+
+Özellik:
+
+Purjörlü (Şişe Açacaklı)  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+Malzeme:
+
+Metal  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Fuar ve etkinlik dağıtımları  
+Reklam ve tanıtım kampanyaları  
+Günlük kullanım  
+Restoran ve kafe promosyonları  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p475",
+  slug: "promosyon-baret-plastik-anahtarlik-an-510",
+  title: "Promosyon Baret Plastik Anahtarlık AN-510 | İnşaat Temalı, Logo Baskıya Uygun",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-baret-plastik-anahtarlik-an-510.jpg",
+
+  shortDesc:
+    "Promosyon baret plastik anahtarlık AN-510, inşaat temalı tasarımı ile özellikle yapı ve mühendislik sektörüne hitap eden dikkat çekici bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon baret plastik anahtarlık AN-510, inşaat sektörüne özel tasarımı ile hedef kitleye doğrudan hitap eden etkili bir promosyon ürünüdür.
+
+Baret formundaki tasarımı sayesinde özellikle inşaat firmaları, mühendislik şirketleri ve yapı sektörü için güçlü bir reklam aracı olarak öne çıkar.
+
+Plastik malzemeden üretilmiş olup hafif yapısı sayesinde günlük kullanım için uygundur ve rahat taşınabilir.
+
+Farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun tercih yapılabilir.
+
+Logo baskıya uygun yüzeyi sayesinde marka bilinirliğinizi artıracak şekilde özelleştirilebilir.
+
+Fuarlar, saha etkinlikleri ve kurumsal dağıtımlar için ideal bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Tasarım:
+
+Baret (İnşaat Temalı)  
+
+Malzeme:
+
+Plastik  
+
+Baskı:
+
+Logo Baskıya Uygun  
+
+SİPARİŞ BİLGİSİ
+
+Promosyon anahtarlık ürünleri toplu sipariş ile üretilmektedir.
+
+Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+İnşaat firmaları  
+Mühendislik şirketleri  
+Şantiye organizasyonları  
+Fuar ve etkinlik dağıtımları  
+Kurumsal promosyon ürünleri  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p476",
+  slug: "promosyon-anahtarlik-an-520",
+  title: "Promosyon Anahtarlık AN-520 | 3D Özel Tasarım, Metal Döküm, Kurumsal Üretim",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-520.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-520, 3D özel tasarım ve metal döküm üretim tekniği ile tamamen markaya özel hazırlanan premium promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-520, standart promosyon ürünlerinden farklı olarak tamamen özel üretim süreci ile hazırlanan premium bir anahtarlık modelidir.
+
+3D tasarım özelliği sayesinde firma logonuz veya özel şekliniz kabartmalı olarak üretilir ve dikkat çekici bir görünüm sunar.
+
+Metal döküm üretim tekniği ile hazırlanan bu ürün, yüksek dayanıklılık ve uzun ömürlü kullanım sağlar. Aynı zamanda kurumsal prestijinizi yansıtan kaliteli bir promosyon çözümüdür.
+
+Tamamen markaya özel üretildiği için otomotiv, teknoloji, sanayi ve kurumsal firmalar tarafından sıkça tercih edilir.
+
+Şeffaf poşet ambalaj ile sunularak dağıtıma hazır hale getirilir.
+
+Minimum 500 adet üretim ile yapılmaktadır ve toplu siparişler için uygundur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Üretim Türü:
+
+3D Özel Tasarım (Custom Production)  
+
+Malzeme:
+
+Metal Döküm  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+Minimum Sipariş:
+
+500 Adet  
+
+SİPARİŞ BİLGİSİ
+
+Bu ürün özel üretimdir ve tamamen firmanıza özel olarak tasarlanır.
+
+Logo, şekil ve tasarım süreci müşteri taleplerine göre hazırlanır.
+
+Üretim süresi ve fiyatlandırma tasarıma göre değişmektedir.
+
+Detaylı bilgi ve teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Marka lansmanları  
+Fuar ve etkinlik dağıtımları  
+Otomotiv sektörü  
+Teknoloji firmaları  
+Özel marka koleksiyon ürünleri  
+Prestij promosyon ürünleri  
+`
+},
+{
+  id: "p477",
+  slug: "promosyon-anahtarlik-an-530",
+  title: "Promosyon Anahtarlık AN-530 | 3D PVC Özel Tasarım, Esnek ve Renkli Üretim",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-530.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-530, 3D PVC özel tasarım üretimi ile markanıza özel renkli, esnek ve dikkat çekici promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-530, tamamen özel üretim olarak hazırlanan 3D PVC tasarımı ile dikkat çeken modern bir promosyon ürünüdür.
+
+Esnek PVC materyali sayesinde darbelere karşı dayanıklıdır ve uzun süreli kullanım sunar. Aynı zamanda hafif yapısı ile günlük kullanım için idealdir.
+
+3D kabartmalı tasarım özelliği ile logo ve markanız detaylı ve dikkat çekici şekilde üretilir. Renkli üretim imkanı sayesinde kurumsal kimliğinizi birebir yansıtır.
+
+Standart metal anahtarlıklara göre daha eğlenceli, genç ve dikkat çekici bir görünüm sunar. Bu da özellikle marka bilinirliği artırma çalışmalarında büyük avantaj sağlar.
+
+Şeffaf poşet ambalaj ile sunularak dağıtıma hazır hale getirilir.
+
+Fuarlar, etkinlikler ve promosyon kampanyalarında geniş kitlelere ulaşmak için ideal bir üründür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Üretim Türü:
+
+3D Özel Tasarım (Custom Production)  
+
+Malzeme:
+
+PVC (Esnek Plastik)  
+
+Tasarım:
+
+Kabartmalı 3D  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+SİPARİŞ BİLGİSİ
+
+Bu ürün özel üretimdir ve tamamen firmanıza özel olarak hazırlanır.
+
+Logo, renk ve tasarım süreçleri müşteri taleplerine göre belirlenir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Marka lansmanları  
+Fuar ve etkinlik dağıtımları  
+Reklam ve tanıtım kampanyaları  
+Genç kitleye yönelik promosyonlar  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p478",
+  slug: "promosyon-anahtarlik-an-540",
+  title: "Promosyon Anahtarlık AN-540 | 3D Metal Döküm Eskitme Model, Özel Tasarım",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-anahtarlik-an-540.jpg",
+
+  shortDesc:
+    "Promosyon anahtarlık AN-540, 3D metal döküm eskitme tasarımı ile prestij odaklı, tamamen markaya özel üretilen premium promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon anahtarlık AN-540, klasik promosyon ürünlerinden ayrılan eskitme (antique) metal tasarımı ile dikkat çeken üst segment bir üründür.
+
+3D metal döküm üretim tekniği sayesinde logo veya özel tasarımınız kabartmalı olarak hazırlanır ve derinlikli bir görünüm sunar.
+
+Eskitme kaplama (antique finish), ürüne vintage ve prestijli bir hava katarak özellikle kurumsal ve özel projelerde fark yaratır.
+
+Dayanıklı metal yapısı sayesinde uzun yıllar kullanılabilir ve marka değerinizi güçlü şekilde yansıtır.
+
+Tamamen özel üretim olarak hazırlanır ve tasarım süreci firmanıza özel olarak ilerler.
+
+Şeffaf poşet ambalaj ile sunularak dağıtıma hazır hale getirilir.
+
+Bu model özellikle premium marka çalışmaları, koleksiyon ürünleri ve prestij promosyonları için idealdir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Anahtarlık  
+Kategori: Anahtarlık  
+
+Üretim Türü:
+
+3D Özel Tasarım (Custom Production)  
+
+Malzeme:
+
+Metal Döküm  
+
+Kaplama:
+
+Eskitme (Antique Finish)  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+SİPARİŞ BİLGİSİ
+
+Bu ürün tamamen özel üretimdir ve firmanıza özel olarak tasarlanır.
+
+Logo, tasarım ve üretim süreçleri müşteri taleplerine göre belirlenir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma tasarıma göre değişmektedir.
+
+Detaylı bilgi ve teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Prestij promosyon çalışmaları  
+Marka lansmanları  
+Fuar ve etkinlik dağıtımları  
+Koleksiyon ürünleri  
+Turizm ve hediyelik eşya sektörü  
+Marka bilinirliği artırma çalışmaları  
+`
+},
+{
+  id: "p479",
+  slug: "promosyon-rozet-rz-520",
+  title: "Promosyon Rozet RZ-520 | 3D Metal Döküm, Özel Tasarım Kurumsal Rozet",
+
+  category: "Anahtarlık",
+  image: "/products/promosyon-rozet-rz-520.jpg",
+
+  shortDesc:
+    "Promosyon rozet RZ-520, 3D metal döküm özel tasarımı ile markanıza özel üretilen premium ve prestij odaklı bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon rozet RZ-520, özel üretim 3D metal döküm teknolojisi ile hazırlanan yüksek kaliteli bir promosyon ürünüdür.
+
+Kabartmalı 3D tasarım özelliği sayesinde logo ve marka detaylarınız rozet üzerinde net ve dikkat çekici şekilde sunulur.
+
+Metal döküm üretim tekniği, ürüne dayanıklılık ve uzun ömür kazandırırken aynı zamanda prestijli bir görünüm sağlar.
+
+Kurumsal firmalar, eğitim kurumları, etkinlik organizasyonları ve marka lansmanları için ideal bir promosyon ürünüdür.
+
+Rozet formunda olmasına rağmen promosyon ürün kategorisinde güçlü bir yer edinir ve marka bilinirliğini artırmak için etkili şekilde kullanılabilir.
+
+Şeffaf poşet ambalaj ile sunularak dağıtıma hazır hale getirilir.
+
+Tamamen özel üretimdir ve tasarım süreci firmanıza özel olarak hazırlanır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Rozet  
+Kategori: Anahtarlık  
+
+Üretim Türü:
+
+3D Özel Tasarım (Custom Production)  
+
+Malzeme:
+
+Metal Döküm  
+
+Ambalaj:
+
+Şeffaf Poşet  
+
+SİPARİŞ BİLGİSİ
+
+Bu ürün özel üretimdir ve tamamen firmanıza özel olarak hazırlanır.
+
+Logo, renk ve tasarım süreçleri müşteri taleplerine göre belirlenir.
+
+Minimum sipariş adedi, üretim süresi ve fiyatlandırma tasarıma göre değişmektedir.
+
+Detaylı bilgi ve teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri  
+Okul ve kurum rozetleri  
+Etkinlik ve organizasyonlar  
+Marka lansmanları  
+Fuar ve tanıtım çalışmaları  
+Prestij promosyon ürünleri  
+`
+},
 
 ];
 
