@@ -32441,6 +32441,1296 @@ Teknolojik promosyon ürünleri
 Ofis masaüstü kullanım ürünleri
 `,
 },
+{
+  id: "p556",
+  slug: "promosyon-kalem-seti-ks-140-luks-metal-kutu",
+
+  title: "Promosyon Kalem Seti KS-140 | Lüks Metal Tükenmez & Roller Kalem Seti",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-140.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-140, şık metal gövdesi ve özel kutulu tasarımı ile kurumsal hediyelikler için ideal premium kalem setidir.",
+
+  longDesc: `
+Promosyon kalem seti KS-140, zarif tasarımı ve kaliteli malzeme yapısı ile prestijli kurumsal hediyeler arasında öne çıkan özel bir üründür.
+
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunarken, şık detayları ile profesyonel bir görünüm sağlar.
+
+Set içerisinde yer alan tükenmez kalem ve roller kalem, hem günlük kullanım hem de kurumsal sunumlar için ideal bir kombinasyon oluşturur.
+
+Özel tasarım kutusu ile birlikte sunulan bu kalem seti, hediye olarak verildiğinde markanızın prestijini ve değer algısını artırır.
+
+Logo baskı uygulamaları sayesinde markanızı şık ve kalıcı bir şekilde temsil etme imkanı sunar.
+
+Kurumsal firmalar, yöneticiler ve VIP müşteri hediyeleri için tercih edilen üst segment promosyon ürünlerinden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Kalem Seti (Tükenmez + Roller Kalem)
+Materyal: Metal Gövde
+Kutu: Özel Tasarım Sert Kutu
+Renk Seçenekleri: Siyah / Füme / Rose Gold Detaylı
+Baskı Türü: Lazer Kazıma, UV Baskı
+Kullanım: Günlük ve Kurumsal
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu alımlarda özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal firma hediyeleri
+VIP müşteri hediyeleri
+Yönetici ve çalışan ödülleri
+Fuar ve etkinlik promosyonları
+Prestijli marka tanıtımları
+Ofis kullanım ürünleri
+`,
+},
+{
+  id: "p557",
+  slug: "promosyon-kalem-seti-ks-150-metal-luks-kutulu",
+
+  title: "Promosyon Kalem Seti KS-150 | Metal Gövdeli Lüks Kutulu Tükenmez & Roller Set",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-150.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-150, metal gövdesi ve şık kutulu tasarımı ile kurumsal promosyon ve VIP müşteri hediyeleri için ideal premium kalem setidir.",
+
+  longDesc: `
+Promosyon kalem seti KS-150, modern tasarımı ve kaliteli işçiliği ile kurumsal hediye kategorisinde öne çıkan premium bir üründür.
+
+Metal gövde yapısı sayesinde dayanıklılık ve uzun ömürlü kullanım sunarken, parlak yüzey kaplaması ile şık ve profesyonel bir görünüm sağlar.
+
+Set içerisinde yer alan tükenmez kalem ve roller kalem, hem günlük kullanım hem de kurumsal imza süreçleri için ideal bir kullanım deneyimi sunar.
+
+Özel tasarım sert kutusu ile birlikte sunulan bu set, özellikle VIP müşteri hediyeleri ve yönetici seviyesinde promosyonlar için tercih edilmektedir.
+
+Geniş renk seçenekleri sayesinde firmanızın kurumsal kimliğine uygun seçim yapabilir, logo baskı ile markanızı kalıcı hale getirebilirsiniz.
+
+Lazer kazıma ve UV baskı teknikleri ile yapılan markalama işlemleri, uzun süre silinmeden kullanılabilir ve prestijli bir görünüm sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Kalem Seti (Tükenmez + Roller Kalem)
+Materyal: Metal Gövde
+Kutu: Özel Tasarım Sert Kutu
+Renk Seçenekleri: Beyaz, Kırmızı, Siyah, Lacivert, Gri
+Baskı Türü: Lazer Kazıma, UV Baskı
+Kullanım: Günlük, Kurumsal, VIP
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+VIP müşteri hediyeleri
+Yönetici hediyeleri
+Fuar ve etkinlik dağıtımları
+Prestijli marka tanıtımları
+Ofis kullanım ürünleri
+`,
+},
+{
+  id: "p558",
+  slug: "promosyon-kalem-seti-ks-160-modern-metal-kutulu",
+
+  title: "Promosyon Kalem Seti KS-160 | Modern Metal Roller & Tükenmez Kalem Seti",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-160.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-160, modern tasarımı ve metal gövdesi ile kurumsal promosyonlar ve VIP müşteri hediyeleri için şık bir kalem setidir.",
+
+  longDesc: `
+Promosyon kalem seti KS-160, sade ve modern tasarım çizgileri ile kurumsal hediye kategorisinde dikkat çeken özel bir kalem setidir.
+
+Metal gövde yapısı sayesinde dayanıklılık sunarken, mat yüzey kaplaması ile premium ve profesyonel bir görünüm sağlar.
+
+Set içerisinde yer alan roller kalem ve tükenmez kalem, hem günlük kullanım hem de resmi yazışmalar için ideal bir kullanım deneyimi sunar.
+
+Şık ve minimal tasarıma sahip özel kutusu ile birlikte sunulan bu ürün, markanızın prestijini artıran etkili bir promosyon çözümüdür.
+
+Farklı renk seçenekleri sayesinde firmanızın kurumsal kimliğine uygun seçim yapılabilir ve logo baskı uygulamaları ile markanız kalıcı hale getirilir.
+
+Lazer kazıma ve UV baskı teknikleri ile yapılan markalama, uzun ömürlü kullanım ve yüksek kalite sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Kalem Seti (Roller Kalem + Tükenmez Kalem)
+Materyal: Metal Gövde
+Kutu: Modern Tasarım Sert Kutu
+Renk Seçenekleri: Gri, Lacivert, Kırmızı, Siyah
+Baskı Türü: Lazer Kazıma, UV Baskı
+Kullanım: Günlük, Kurumsal, VIP
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+VIP müşteri hediyeleri
+Yönetici hediyeleri
+Fuar ve etkinlik promosyonları
+Prestijli marka tanıtımları
+Ofis ve masaüstü kullanım ürünleri
+`,
+},
+{
+  id: "p559",
+  slug: "promosyon-kalem-seti-ks-180-modern-sade-kutulu",
+
+  title: "Promosyon Kalem Seti KS-180 | Modern Tasarım Roller & Tükenmez Kalem Seti",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-180.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-180, sade ve modern tasarımı ile kurumsal promosyonlar ve VIP müşteri hediyeleri için şık bir kalem setidir.",
+
+  longDesc: `
+Promosyon kalem seti KS-180, minimalist tasarım anlayışı ve şık detayları ile kurumsal promosyon ürünleri arasında öne çıkan özel bir modeldir.
+
+Modern çizgilere sahip metal gövde yapısı, hem dayanıklılık hem de profesyonel bir görünüm sunar. Mat yüzey kaplaması sayesinde premium bir kullanım hissi sağlar.
+
+Set içerisinde yer alan roller kalem ve tükenmez kalem, günlük kullanımda konfor sunarken aynı zamanda kurumsal yazışmalar için ideal bir deneyim sağlar.
+
+Şık ve kompakt tasarıma sahip özel kutusu, ürünü hediye olarak sunmak için ideal hale getirir ve markanızın değerini yükseltir.
+
+Farklı renk alternatifleri ile firmanızın kurumsal kimliğine uygun seçim yapılabilir ve logo baskı uygulamaları ile markanız kalıcı şekilde temsil edilir.
+
+Lazer kazıma ve UV baskı teknikleri sayesinde yapılan markalama, uzun ömürlü ve kaliteli bir görünüm sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Kalem Seti (Roller Kalem + Tükenmez Kalem)
+Materyal: Metal Gövde
+Kutu: Modern Tasarım Sert Kutu
+Renk Seçenekleri: Kırmızı, Gri, Siyah, Lacivert
+Baskı Türü: Lazer Kazıma, UV Baskı
+Kullanım: Günlük, Kurumsal, VIP
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+VIP müşteri hediyeleri
+Yönetici hediyeleri
+Fuar ve etkinlik promosyonları
+Prestijli marka tanıtımları
+Ofis kullanım ürünleri
+`,
+},
+{
+  id: "p560",
+  slug: "promosyon-kalem-seti-ks-190-parlak-modern-kutulu",
+
+  title: "Promosyon Kalem Seti KS-190 | Parlak Gövdeli Roller & Tükenmez Kalem Seti",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-190.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-190, parlak yüzey tasarımı ve şık kutusu ile kurumsal promosyon ve dikkat çekici marka tanıtımları için ideal kalem setidir.",
+
+  longDesc: `
+Promosyon kalem seti KS-190, parlak yüzey kaplaması ve modern tasarımı ile dikkat çekici kurumsal promosyon ürünleri arasında yer almaktadır.
+
+Metal gövde yapısı sayesinde dayanıklı bir kullanım sunarken, parlak yüzeyi ile görsel olarak güçlü ve etkileyici bir izlenim oluşturur.
+
+Set içerisinde bulunan roller kalem ve tükenmez kalem, hem günlük kullanım hem de profesyonel yazışmalar için konforlu bir deneyim sağlar.
+
+Özel tasarım kutusu sayesinde ürün, hediye olarak sunulduğunda markanızın prestijini artırır ve profesyonel bir algı oluşturur.
+
+Parlak renk seçenekleri ile özellikle fuar, etkinlik ve kampanya dağıtımlarında yüksek dikkat çekicilik sağlar.
+
+Lazer kazıma ve UV baskı teknikleri ile yapılan logo uygulamaları, uzun süre kalıcı ve kaliteli bir görünüm sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Kalem Seti (Roller Kalem + Tükenmez Kalem)
+Materyal: Metal Gövde
+Kutu: Sert Kapaklı Özel Tasarım Kutu
+Renk Seçenekleri: Kırmızı, Siyah, Gri, Lacivert
+Baskı Türü: Lazer Kazıma, UV Baskı
+Kullanım: Günlük, Kurumsal, Promosyon
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Fuar ve etkinlik dağıtımları
+Marka tanıtım kampanyaları
+VIP müşteri hediyeleri
+Yönetici hediyeleri
+Ofis kullanım ürünleri
+`,
+},
+{
+  id: "p561",
+  slug: "promosyon-kalem-anahtarlik-seti-ks-200-luks",
+
+  title: "Promosyon Kalem Seti KS-200 | Kalem & Anahtarlık Hediyelik Set",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-200.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-200, kalem ve anahtarlıktan oluşan şık tasarımı ile kurumsal promosyon ve fuar dağıtımları için ideal hediyelik settir.",
+
+  longDesc: `
+Promosyon kalem seti KS-200, kalem ve anahtarlık kombinasyonu ile markanızı daha etkili şekilde tanıtmanızı sağlayan çok yönlü bir promosyon ürünüdür.
+
+Set içerisinde yer alan tükenmez kalem, ergonomik yapısı ile günlük kullanım için konfor sunarken; şık tasarımlı anahtarlık, uzun süreli marka görünürlüğü sağlar.
+
+Bu kombinasyon sayesinde kullanıcı hem yazım hem de günlük kullanımda markanız ile sürekli temas halinde olur.
+
+Modern tasarımı ve uyumlu renk seçenekleri ile kurumsal kimliğinize uygun seçimler yapılabilir.
+
+Özel tasarım kutusu ile birlikte sunulan ürün, hem promosyon hem de hediye olarak kullanılabilecek şık bir çözümdür.
+
+Logo baskı uygulamaları ile markanızı kalıcı ve profesyonel şekilde yansıtabilirsiniz.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Kalem + Anahtarlık Seti
+İçerik: Tükenmez Kalem + Anahtarlık
+Materyal: Metal / Suni Deri Detaylı Anahtarlık
+Kutu: Özel Tasarım Sert Kutu
+Renk Seçenekleri: Kırmızı, Siyah, Lacivert
+Baskı Türü: Lazer Kazıma, UV Baskı, Tampon Baskı
+Kullanım: Günlük, Kurumsal, Promosyon
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Fuar ve etkinlik dağıtımları
+Kurumsal promosyon ürünleri
+Müşteri hediyeleri
+Marka tanıtım kampanyaları
+Ofis kullanım ürünleri
+Uzun süreli reklam ürünleri
+`,
+},
+{
+  id: "p562",
+  slug: "promosyon-kalem-anahtarlik-seti-ks-210-deri-metal",
+
+  title: "Promosyon Kalem Seti KS-210 | Deri & Metal Anahtarlıklı Premium Hediye Seti",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-210.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-210, deri ve metal anahtarlık ile birlikte sunulan şık tasarımı sayesinde kurumsal promosyon ve VIP müşteri hediyeleri için ideal settir.",
+
+  longDesc: `
+Promosyon kalem seti KS-210, kalem ve anahtarlık kombinasyonunu şık bir kutu tasarımı ile sunan premium segment promosyon ürünlerinden biridir.
+
+Set içerisinde yer alan metal roller kalem, akıcı yazım deneyimi sunarken; deri ve metal detaylı anahtarlık, uzun süreli kullanım ile markanızın sürekli görünür olmasını sağlar.
+
+Bu çok yönlü set, hem işlevsel kullanım hem de estetik görünüm açısından kurumsal hediyeler arasında güçlü bir tercih oluşturur.
+
+Özel tasarım kutusu sayesinde ürün, doğrudan hediye olarak sunulabilecek profesyonel bir yapıdadır.
+
+Farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun kombinasyonlar oluşturulabilir.
+
+Lazer kazıma, UV baskı ve tampon baskı teknikleri ile yapılan logo uygulamaları, markanızın kalıcı ve prestijli şekilde temsil edilmesini sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Kalem + Anahtarlık Seti
+İçerik: Roller Kalem + Deri & Metal Anahtarlık
+Materyal: Metal Kalem / Suni Deri & Metal Anahtarlık
+Kutu: Özel Tasarım Sert Kutu
+Renk Seçenekleri: Kırmızı, Mavi, Yeşil, Sarı, Siyah
+Baskı Türü: Lazer Kazıma, UV Baskı, Tampon Baskı
+Kullanım: Kurumsal, VIP, Promosyon
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+VIP müşteri hediyeleri
+Fuar ve etkinlik dağıtımları
+Marka tanıtım kampanyaları
+Özel gün hediyeleri
+Uzun süreli reklam ürünleri
+`,
+},
+{
+  id: "p563",
+  slug: "promosyon-kalem-anahtarlik-seti-ks-220-mat-premium",
+
+  title: "Promosyon Kalem Seti KS-220 | Mat Metal Kalem & Anahtarlık Hediye Seti",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-220.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-220, mat metal kalem ve şık anahtarlık tasarımı ile kurumsal promosyon ve VIP müşteri hediyeleri için ideal settir.",
+
+  longDesc: `
+Promosyon kalem seti KS-220, sade ve modern tasarımı ile kurumsal hediye kategorisinde öne çıkan premium bir üründür.
+
+Mat yüzey kaplamalı metal kalem, hem şık hem de profesyonel bir kullanım sunarken; deri detaylı anahtarlık ile birlikte markanızın günlük hayatta sürekli görünür olmasını sağlar.
+
+Minimalist tasarım anlayışı sayesinde özellikle kurumsal firmalar, yöneticiler ve profesyonel iş dünyası için tercih edilen bir modeldir.
+
+Özel tasarım kutusu ile birlikte sunulan set, doğrudan hediye olarak verilebilecek prestijli bir görünüm sunar.
+
+Lazer kazıma ve UV baskı teknikleri ile yapılan logo uygulamaları, markanızın uzun süre kalıcı ve kaliteli şekilde temsil edilmesini sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Kalem + Anahtarlık Seti
+İçerik: Tükenmez Kalem + Anahtarlık
+Materyal: Metal Kalem / Suni Deri & Metal Anahtarlık
+Kutu: Özel Tasarım Sert Kutu
+Renk: Mat Gri / Siyah Tonları
+Baskı Türü: Lazer Kazıma, UV Baskı
+Kullanım: Kurumsal, VIP, Promosyon
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+VIP müşteri hediyeleri
+Yönetici hediyeleri
+Fuar ve etkinlik dağıtımları
+Prestijli marka tanıtımları
+Uzun süreli reklam ürünleri
+`,
+},
+{
+  id: "p564",
+  slug: "promosyon-kalem-anahtarlik-seti-ks-230-vip-metal",
+
+  title: "Promosyon Kalem Seti KS-230 | Metal Kalem & Anahtarlık VIP Hediye Seti",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-230.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-230, metal kalem ve şık anahtarlık kombinasyonu ile kurumsal VIP müşteri hediyeleri için ideal premium settir.",
+
+  longDesc: `
+Promosyon kalem seti KS-230, sade ve zarif tasarımı ile üst segment kurumsal hediyeler arasında yer alan premium bir üründür.
+
+Parlak metal gövdeye sahip kalem, profesyonel bir kullanım sunarken; şık metal ve deri detaylı anahtarlık ile birlikte markanızın prestijini güçlü şekilde yansıtır.
+
+Minimal ve kompakt tasarıma sahip özel kutusu sayesinde ürün, doğrudan hediye olarak sunulabilecek elit bir görünüme sahiptir.
+
+Bu set, özellikle yönetici seviyesinde hediyeler, VIP müşteri sunumları ve özel kurumsal etkinlikler için tercih edilmektedir.
+
+Lazer kazıma ve UV baskı teknikleri ile yapılan logo uygulamaları, uzun süre kalıcı ve yüksek kaliteli bir görünüm sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Kalem + Anahtarlık Seti
+İçerik: Metal Kalem + Anahtarlık
+Materyal: Metal Kalem / Suni Deri & Metal Anahtarlık
+Kutu: Özel Tasarım Sert Kutu
+Renk: Gümüş / Siyah
+Baskı Türü: Lazer Kazıma, UV Baskı
+Kullanım: VIP, Kurumsal, Promosyon
+
+NOT
+
+Ürün görselleri temsili olup detaylarda farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+VIP müşteri hediyeleri
+Yönetici hediyeleri
+Kurumsal promosyon ürünleri
+Özel gün ve etkinlik hediyeleri
+Prestijli marka sunumları
+Uzun süreli reklam ürünleri
+`,
+},
+{
+  id: "p565",
+  slug: "promosyon-kalem-seti-ks-235-ozel-tasarim-lazer-baski",
+
+  title: "Promosyon Kalem Seti KS-235 | Özel Tasarım Lazer Baskılı Metal Kalem",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-235.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-235, özel tasarım yüzeyi ve lazer baskı uygulanabilir metal gövdesi ile anlamlı ve prestijli kurumsal hediyeler için ideal üründür.",
+
+  longDesc: `
+Promosyon kalem seti KS-235, özel desenli yüzeyi ve şık metal gövdesi ile klasik promosyon ürünlerinden ayrılan, dikkat çekici bir kalem modelidir.
+
+Üzerinde yer alan özel tasarım detayları (Atatürk, İstanbul, Türkiye temaları vb.) sayesinde hem estetik hem de anlamlı bir hediye alternatifi sunar.
+
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sağlarken, lazer baskı uygulaması ile firmanıza özel logo veya yazı eklenebilir.
+
+Şık kutusu ile birlikte sunulan ürün, kurumsal hediyeler ve özel günler için doğrudan kullanılabilecek prestijli bir yapıdadır.
+
+Minimal ve zarif tasarımı sayesinde hem günlük kullanım hem de kurumsal sunumlar için uygundur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Metal Kalem Seti
+Kalem Ölçüsü: 140 x Ø13 mm
+Kutu Ölçüsü: 187 x 82 mm
+Refil: Mavi
+Baskı Alanı: 50 x 5,5 mm
+Baskı Türü: Lazer Kazıma
+Kutu Baskı: Uygun Değildir
+Koli Adeti: 100
+
+NOT
+
+Ürün üzerindeki tasarımlar modele göre farklılık gösterebilir.
+
+Kutu üzerine baskı uygulanmamaktadır.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım işlemleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Anlamlı ve özel tasarım hediyeler
+VIP müşteri hediyeleri
+Özel gün ve etkinlik dağıtımları
+Marka tanıtım kampanyaları
+Ofis kullanım ürünleri
+`,
+},
+{
+  id: "p566",
+  slug: "promosyon-kalem-seti-ks-240-dolma-kalem-premium-kutulu",
+
+  title: "Promosyon Kalem Seti KS-240 | Premium Dolma Kalem Görünümlü Lazer Baskılı Set",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-240.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-240, dolma kalem görünümü ve özel kutu baskı alanı ile kurumsal VIP hediyeler için tasarlanmış premium kalem setidir.",
+
+  longDesc: `
+Promosyon kalem seti KS-240, klasik dolma kalem tasarımından ilham alan şık yapısı ile üst segment kurumsal hediyeler arasında yer almaktadır.
+
+Zarif detaylara sahip metal gövdesi ve altın renkli aksesuarları ile prestijli bir görünüm sunar. Özellikle yönetici seviyesinde ve VIP müşteri hediyelerinde tercih edilmektedir.
+
+Kalem üzerine uygulanabilen lazer baskı sayesinde markanız zarif ve kalıcı şekilde işlenirken, kutu üzerine yapılabilen serigraf baskı ile ekstra marka görünürlüğü sağlanır.
+
+Özel tasarım kutusu, ürünü doğrudan hediye olarak sunulabilecek profesyonel bir forma getirir.
+
+Yüksek kalite algısı sayesinde marka imajınızı güçlendiren etkili bir promosyon çözümüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Metal Kalem Seti
+Kalem Ölçüsü: 140 x Ø13 mm
+Kutu Ölçüsü: 190 x 80 mm
+Refil: Mavi
+Kalem Baskı Alanı: 50 x 5,5 mm
+Kutu Baskı Alanı: 150 x 65 mm
+Baskı Türü: Lazer Kazıma (Kalem), Serigraf Baskı (Kutu)
+Koli Adeti: 50
+
+NOT
+
+Ürün görselleri temsili olup detaylarda farklılık olabilir.
+
+Kutu üzerine baskı uygulanabilmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Kalem ve kutu üzerine logo baskı işlemleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+VIP müşteri hediyeleri
+Yönetici hediyeleri
+Kurumsal promosyon ürünleri
+Özel gün ve etkinlik hediyeleri
+Prestijli marka sunumları
+Üst segment promosyon kampanyaları
+`,
+},
+{
+  id: "p567",
+  slug: "promosyon-kalem-seti-ks-250-piston-dolma-kalem-premium",
+
+  title: "Promosyon Kalem Seti KS-250 | Piston Mekanizmalı Premium Dolma Kalem Seti",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-250.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-250, piston mekanizmalı dolma kalem yapısı ve lüks kutusu ile VIP kurumsal hediyeler için tasarlanmış premium settir.",
+
+  longDesc: `
+Promosyon kalem seti KS-250, klasik dolma kalem tasarımını modern mekanizma ile birleştiren üst segment bir promosyon ürünüdür.
+
+Piston mekanizması sayesinde mürekkebi vakumlayarak hazneye çeken özel sistemi, bu ürünü standart kalemlerden ayıran en önemli özelliktir.
+
+Kalemin alt kısmında yer alan çevirme mekanizması ile piston aşağı ve yukarı hareket ederek mürekkep dolumu sağlanır. Bu sayede uzun süreli ve kesintisiz bir yazım deneyimi sunar.
+
+Ahşap görünümlü gövde detayları ve altın renkli aksesuarları ile prestijli ve koleksiyonluk bir görünüm sunar.
+
+Özel tasarım sert kutusu sayesinde ürün, doğrudan VIP hediye olarak sunulabilecek üst segment bir yapıdadır.
+
+Kalem üzerine lazer baskı, kutu üzerine ise serigraf baskı uygulanabilmesi sayesinde markanız güçlü ve kalıcı şekilde temsil edilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Piston Mekanizmalı Dolma Kalem Seti
+Kalem Ölçüsü: 140 x Ø13 mm
+Kutu Ölçüsü: 187 x 82 mm
+Refil: Mavi Mürekkep (Dolumlu Sistem)
+Baskı Alanı (Kalem): 50 x 5,5 mm
+Baskı Alanı (Kutu): 150 x 65 mm
+Baskı Türü: Lazer Kazıma (Kalem), Serigraf Baskı (Kutu)
+Koli Adeti: 50
+
+MEKANİZMA BİLGİSİ
+
+Kalem, piston sistemi ile çalışmaktadır.
+
+Ok yönünde çevrildiğinde piston aşağı iner, ters yönde çevrildiğinde yukarı çıkar.
+
+Bu hareket sayesinde mürekkep hazneye vakumlanarak dolum sağlanır.
+
+NOT
+
+Ürün görselleri temsili olup detaylarda farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Kalem ve kutu üzerine logo baskı işlemleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+VIP müşteri hediyeleri
+Yönetici ve üst düzey hediyeler
+Koleksiyonluk kalem ürünleri
+Prestijli marka sunumları
+Kurumsal promosyon ürünleri
+Özel gün hediyeleri
+`,
+},
+{
+  id: "p568",
+  slug: "promosyon-kalem-seti-ks-260-ahsap-kutulu-premium",
+
+  title: "Promosyon Kalem Seti KS-260 | Ahşap Kutulu Premium Metal Kalem Seti",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-260.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-260, ahşap kutulu tasarımı ve metal gövdesi ile kurumsal VIP hediyeler için şık ve prestijli bir kalem setidir.",
+
+  longDesc: `
+Promosyon kalem seti KS-260, doğal ahşap kutusu ve klasik tasarım detayları ile üst segment kurumsal hediyeler arasında öne çıkan özel bir üründür.
+
+Metal gövdeye sahip kalem, ahşap dokulu tasarım detayları ile birleşerek hem modern hem de klasik bir görünüm sunar.
+
+Ahşap kutusu sayesinde ürün, standart promosyon ürünlerinden ayrılarak daha prestijli ve kalıcı bir hediye alternatifi haline gelir.
+
+Bu set, özellikle yönetici hediyeleri, VIP müşteri sunumları ve özel kurumsal etkinlikler için tercih edilmektedir.
+
+Kalem üzerine lazer baskı, kutu üzerine ise serigraf baskı uygulanabilmesi sayesinde markanız hem ürün hem de ambalaj üzerinde güçlü şekilde temsil edilir.
+
+Dayanıklı yapısı ve şık sunumu ile uzun süreli kullanım ve marka görünürlüğü sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Metal Kalem Seti
+Kalem Ölçüsü: 140 x Ø13 mm
+Kutu Ölçüsü: 190 x 90 mm
+Refil: Mavi
+Baskı Alanı (Kalem): 50 x 5,5 mm
+Baskı Alanı (Kutu): 150 x 65 mm
+Baskı Türü: Lazer Kazıma (Kalem), Serigraf Baskı (Kutu)
+Koli Adeti: 50
+
+NOT
+
+Ahşap kutu yapısı nedeniyle doğal doku ve renk tonlarında farklılık olabilir.
+
+Ürün görselleri temsili amaçlıdır.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Kalem ve kutu üzerine logo baskı işlemleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+VIP müşteri hediyeleri
+Yönetici hediyeleri
+Kurumsal promosyon ürünleri
+Özel gün ve etkinlik hediyeleri
+Prestijli marka sunumları
+Doğal ve premium hediye seçenekleri
+`,
+},
+{
+  id: "p569",
+  slug: "promosyon-kalem-seti-ks-270-klasik-metal-kutulu",
+
+  title: "Promosyon Kalem Seti KS-270 | Klasik Metal Roller & Tükenmez Kalem Seti",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-270.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-270, klasik tasarımı ve şık kutusu ile kurumsal promosyon ve müşteri hediyeleri için ideal kalem setidir.",
+
+  longDesc: `
+Promosyon kalem seti KS-270, zamansız tasarım anlayışı ve şık detayları ile kurumsal promosyon ürünleri arasında güvenle tercih edilen bir modeldir.
+
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunarken, klasik siyah ve metal detayları ile profesyonel bir görünüm sağlar.
+
+Set içerisinde yer alan roller kalem ve tükenmez kalem, hem günlük kullanım hem de resmi yazışmalar için konforlu bir deneyim sunar.
+
+Şık ve sade tasarıma sahip özel kutusu, ürünü doğrudan hediye olarak sunulabilecek profesyonel bir hale getirir.
+
+Logo baskı uygulamaları ile markanızı kalıcı şekilde temsil edebilir, kurumsal kimliğinizi güçlendirebilirsiniz.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Kalem Seti (Roller Kalem + Tükenmez Kalem)
+Materyal: Metal Gövde
+Kutu: Özel Tasarım Sert Kutu
+Renk: Siyah / Metal Detaylı
+Baskı Türü: Lazer Kazıma, UV Baskı
+Kullanım: Günlük, Kurumsal, Promosyon
+
+NOT
+
+Ürün görselleri temsili olup detaylarda farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Müşteri hediyeleri
+VIP ve yönetici hediyeleri
+Fuar ve etkinlik dağıtımları
+Marka tanıtım kampanyaları
+Ofis kullanım ürünleri
+`,
+},
+{
+  id: "p570",
+  slug: "promosyon-kalem-seti-ks-290-siyah-minimal-premium",
+
+  title: "Promosyon Kalem Seti KS-290 | Minimal Siyah Roller & Tükenmez Kalem Seti",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-290.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-290, sade siyah tasarımı ve şık kutusu ile kurumsal promosyon ve VIP müşteri hediyeleri için ideal minimal kalem setidir.",
+
+  longDesc: `
+Promosyon kalem seti KS-290, minimalist tasarım anlayışı ve sade şıklığı ile kurumsal hediye kategorisinde öne çıkan özel bir modeldir.
+
+Mat siyah yüzeye sahip metal gövde, profesyonel ve güçlü bir görünüm sunarken her sektöre uygun bir kullanım sağlar.
+
+Set içerisinde yer alan roller kalem ve tükenmez kalem, hem günlük kullanım hem de resmi yazışmalar için konforlu bir deneyim sunar.
+
+Sade ve zarif tasarıma sahip özel kutusu sayesinde ürün, doğrudan hediye olarak sunulabilecek profesyonel bir yapıdadır.
+
+Her sektöre hitap eden tasarımı sayesinde kurumsal promosyonlar, müşteri hediyeleri ve yönetici seviyesinde kullanımlar için uygundur.
+
+Lazer kazıma ve UV baskı teknikleri ile yapılan logo uygulamaları, uzun süre kalıcı ve kaliteli bir görünüm sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Kalem Seti (Roller Kalem + Tükenmez Kalem)
+Materyal: Metal Gövde
+Kutu: Özel Tasarım Sert Kutu
+Renk: Siyah
+Baskı Türü: Lazer Kazıma, UV Baskı
+Kullanım: Kurumsal, VIP, Promosyon
+
+NOT
+
+Ürün görselleri temsili olup detaylarda farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+VIP müşteri hediyeleri
+Yönetici hediyeleri
+Fuar ve etkinlik dağıtımları
+Marka tanıtım kampanyaları
+Ofis kullanım ürünleri
+`,
+},
+{
+  id: "p571",
+  slug: "promosyon-kalem-seti-ks-310-tekli-kutulu-metal",
+
+  title: "Promosyon Kalem Seti KS-310 | Tekli Kutulu Metal Promosyon Kalem",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-310.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-310, tekli kutulu yapısı ve şık metal tasarımı ile fuar dağıtımları ve kurumsal promosyonlar için ideal üründür.",
+
+  longDesc: `
+Promosyon kalem seti KS-310, sade ve modern tasarımı ile yüksek adetli promosyon ihtiyaçları için ideal bir çözümdür.
+
+Metal gövde yapısı sayesinde dayanıklı bir kullanım sunarken, şık görünümü ile standart promosyon kalemlerden ayrılır.
+
+Tekli özel kutusu sayesinde ürün, hem dağıtım hem de bireysel hediye olarak sunulabilecek profesyonel bir yapıdadır.
+
+Farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun tercihler yapılabilir ve logo baskı ile markanız kalıcı hale getirilir.
+
+Bu ürün, özellikle fuar, etkinlik ve kampanya dağıtımlarında hem ekonomik hem de kaliteli bir promosyon çözümü sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Tekli Metal Kalem
+Materyal: Metal Gövde
+Kutu: Tekli Slim Kutu
+Renk Seçenekleri: Siyah, Mavi, Gri, Kırmızı
+Baskı Türü: Lazer Kazıma, UV Baskı
+Kullanım: Promosyon, Dağıtım, Kurumsal
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Fuar ve etkinlik dağıtımları
+Kurumsal promosyon ürünleri
+Toplu müşteri hediyeleri
+Marka tanıtım kampanyaları
+Ofis kullanım ürünleri
+Ekonomik promosyon çözümleri
+`,
+},
+{
+  id: "p572",
+  slug: "promosyon-dokunmatik-kalem-ks-320-stylus-metal",
+
+  title: "Promosyon Kalem Seti KS-320 | Dokunmatik Stylus Uçlu Metal Kalem",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-320.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-320, dokunmatik stylus ucu ve metal gövdesi ile hem yazım hem ekran kullanımı sunan modern promosyon kalemdir.",
+
+  longDesc: `
+Promosyon kalem seti KS-320, dokunmatik ekranlar ile uyumlu stylus ucu sayesinde klasik kalemlerden ayrılan modern bir promosyon ürünüdür.
+
+Akıllı telefon, tablet ve dokunmatik ekranlı cihazlarda kolay kullanım sağlayan stylus uç, ürünü teknolojik promosyon kategorisine taşır.
+
+Metal gövde yapısı sayesinde dayanıklı ve şık bir kullanım sunarken, modern tasarımı ile kurumsal firmalar için ideal bir promosyon çözümüdür.
+
+Tekli özel kutusu ile birlikte sunulan ürün, hem dağıtım hem de bireysel hediye olarak kullanılabilecek profesyonel bir yapıya sahiptir.
+
+Lazer baskı uygulaması sayesinde markanız kalem üzerinde kalıcı ve prestijli şekilde yer alır.
+
+Farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun tercihler yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Dokunmatik Stylus Kalem
+Materyal: Metal Gövde
+Özellik: Dokunmatik Ekran Uyumlu Stylus Uç
+Kutu: Tekli Slim Kutu
+Renk Seçenekleri: Kırmızı, Gri, Mavi, Siyah
+Baskı Türü: Lazer Kazıma
+Kullanım: Promosyon, Teknolojik Ürün, Kurumsal
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Teknolojik promosyon ürünleri
+Fuar ve etkinlik dağıtımları
+Kurumsal promosyon kampanyaları
+Ofis ve günlük kullanım
+Mobil cihaz kullanıcıları için promosyon ürünleri
+`,
+},
+{
+  id: "p573",
+  slug: "promosyon-ahsap-kalem-seti-ks-330-eco-premium",
+
+  title: "Promosyon Kalem Seti KS-330 | Ahşap Roller & Tükenmez Kalem Eco Set",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-330.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-330, doğal ahşap tasarımı ve ikili kalem yapısı ile çevre dostu ve premium promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon kalem seti KS-330, doğal ahşap malzemeden üretilmiş yapısı ile çevre dostu ve sürdürülebilir promosyon ürünleri arasında öne çıkmaktadır.
+
+Set içerisinde yer alan roller kalem ve tükenmez kalem, hem estetik hem de fonksiyonel kullanım sunar.
+
+Doğal ahşap dokusu sayesinde her ürün kendine özgü bir görünüme sahiptir ve bu da ürüne özel bir karakter kazandırır.
+
+Ahşap kutusu ile birlikte sunulan bu set, hem çevreci hem de prestijli bir hediye alternatifi oluşturur.
+
+Özellikle sürdürülebilirlik odaklı markalar için güçlü bir kurumsal imaj destekleyicisidir.
+
+Kalem üzerine uygulanabilen lazer baskı ile markanız doğal ve şık bir şekilde yansıtılır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Ahşap Kalem Seti (Roller + Tükenmez)
+Materyal: Doğal Ahşap
+Kutu: Ahşap Özel Kutu
+Baskı Türü: Lazer Kazıma
+Kullanım: Kurumsal, VIP, Çevre Dostu Promosyon
+
+NOT
+
+Ahşap ürünlerde doğal doku ve renk farklılıkları olabilir.
+
+Ürün görselleri temsili amaçlıdır.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı işlemleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Çevre dostu promosyon ürünleri
+Kurumsal hediyeler
+VIP müşteri hediyeleri
+Sürdürülebilir marka kampanyaları
+Fuar ve etkinlik dağıtımları
+Doğal konsept promosyon ürünleri
+`,
+},
+{
+  id: "p574",
+  slug: "promosyon-ahsap-kalem-ks-335-tekli-roller",
+
+  title: "Promosyon Kalem Seti KS-335 | Tekli Ahşap Roller Kalem",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-335.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-335, doğal ahşap gövdesi ve şık tekli kutusu ile çevre dostu ve premium promosyon kalemdir.",
+
+  longDesc: `
+Promosyon kalem seti KS-335, doğal ahşap malzemeden üretilmiş yapısı ile çevre dostu promosyon ürünleri arasında yer almaktadır.
+
+Tekli roller kalem tasarımı sayesinde sade ve şık bir kullanım sunarken, doğal dokusu ile her ürüne özgün bir görünüm kazandırır.
+
+Ahşap gövde yapısı sayesinde hem estetik hem de sürdürülebilir bir promosyon çözümü sunar.
+
+Tekli özel kutusu ile birlikte sunulan ürün, hem fuar dağıtımları hem de kurumsal hediyeler için ideal bir tercihtir.
+
+Lazer kazıma baskı yöntemi ile markanız kalem üzerine doğal ve kalıcı şekilde işlenir.
+
+Minimal tasarımı sayesinde geniş bir kullanıcı kitlesine hitap eder ve yüksek adetli promosyon ihtiyaçlarında etkili bir çözüm sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Tekli Roller Kalem
+Materyal: Doğal Ahşap
+Kutu: Ahşap Slim Kutu
+Baskı Türü: Lazer Kazıma
+Kullanım: Promosyon, Çevre Dostu, Kurumsal
+
+NOT
+
+Ahşap ürünlerde doğal doku ve renk farklılıkları olabilir.
+
+Ürün görselleri temsili amaçlıdır.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı işlemleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Çevre dostu promosyon ürünleri
+Fuar ve etkinlik dağıtımları
+Kurumsal promosyon kampanyaları
+Ofis kullanım ürünleri
+Sürdürülebilir marka tanıtımları
+`,
+},
+{
+  id: "p575",
+  slug: "promosyon-kalem-seti-ks-340-tekli-premium-kutulu",
+
+  title: "Promosyon Kalem Seti KS-340 | Tekli Premium Kutulu Metal Kalem",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-seti-ks-340.jpg",
+
+  shortDesc:
+    "Promosyon kalem seti KS-340, şık tekli kutusu ve metal tasarımı ile kurumsal promosyon ve müşteri hediyeleri için ideal kalemdir.",
+
+  longDesc: `
+Promosyon kalem seti KS-340, sade ve şık tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan tekli kalem modellerinden biridir.
+
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunarken, altın detaylı tasarımı ile premium bir görünüm sağlar.
+
+Tekli özel sunum kutusu sayesinde ürün, hem fuar dağıtımları hem de bireysel müşteri hediyeleri için profesyonel bir alternatif sunar.
+
+Minimal ve zarif yapısı sayesinde geniş bir kullanıcı kitlesine hitap eder ve kurumsal marka imajını güçlendiren etkili bir promosyon çözümü oluşturur.
+
+Lazer kazıma ve UV baskı teknikleri ile yapılan logo uygulamaları, markanızın kalıcı ve prestijli şekilde temsil edilmesini sağlar.
+
+Farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun tercihler yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Tekli Metal Kalem
+Materyal: Metal Gövde
+Kutu: Tekli Özel Sunum Kutusu
+Renk Seçenekleri: Siyah, Lacivert, Kırmızı, Beyaz
+Baskı Türü: Lazer Kazıma, UV Baskı
+Kullanım: Promosyon, Kurumsal, Dağıtım
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı işlemleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Fuar ve etkinlik dağıtımları
+Müşteri hediyeleri
+Marka tanıtım kampanyaları
+Ofis kullanım ürünleri
+Ekonomik premium promosyon çözümleri
+`,
+},
+{
+  id: "p576",
+  slug: "promosyon-tekli-kalem-kutusu-ks-350-karton",
+
+  title: "Promosyon Tekli Kalem Kutusu KS-350 | Karton Sunum Kutusu",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-kutusu-ks-350.jpg",
+
+  shortDesc:
+    "Promosyon tekli kalem kutusu KS-350, şık karton tasarımı ile promosyon kalemler için profesyonel sunum imkanı sağlar.",
+
+  longDesc: `
+Promosyon tekli kalem kutusu KS-350, promosyon kalemlerinizi daha şık ve profesyonel bir şekilde sunmanızı sağlayan tamamlayıcı bir üründür.
+
+Dayanıklı karton yapısı sayesinde hem koruma hem de estetik bir sunum avantajı sunar.
+
+Minimal ve sade tasarımı ile tüm kalem modelleri ile uyumlu olup, kurumsal promosyonlarda daha prestijli bir görünüm oluşturur.
+
+Özellikle fuar, etkinlik ve müşteri hediyelerinde kalem ile birlikte kullanıldığında marka algısını güçlendirir.
+
+Tekli yapısı sayesinde yüksek adetli dağıtımlarda ekonomik ve pratik bir çözüm sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Tekli Kalem Kutusu
+Materyal: Karton
+Kullanım: Kalem Sunum Kutusu
+Uyumluluk: Standart Promosyon Kalemler
+Renk: Siyah
+
+NOT
+
+Ürün içerisine kalem dahil değildir.
+
+Ürün görselleri temsili amaçlıdır.
+
+SİPARİŞ BİLGİSİ
+
+Ürün promosyon kalemlerle birlikte toplu siparişler için uygundur.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu alımlarda özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Promosyon kalem sunumu
+Fuar ve etkinlik dağıtımları
+Kurumsal promosyon kampanyaları
+Müşteri hediyeleri
+Profesyonel ürün sunumları
+`,
+},
+{
+  id: "p577",
+  slug: "promosyon-tekli-kalem-kutusu-ks-360-luks",
+
+  title: "Promosyon Tekli Kalem Kutusu KS-360 | Lüks Sert Kalem Sunum Kutusu",
+
+  category: "Kalem Setleri",
+  image: "/products/promosyon-kalem-kutusu-ks-360.jpg",
+
+  shortDesc:
+    "Promosyon tekli kalem kutusu KS-360, lüks sert yapısı ile kalemler için şık ve prestijli bir sunum kutusudur.",
+
+  longDesc: `
+Promosyon tekli kalem kutusu KS-360, promosyon kalemlerinizi daha prestijli ve etkileyici şekilde sunmanızı sağlayan premium bir üründür.
+
+Sert ve dayanıklı yapısı sayesinde hem koruma hem de üst segment bir sunum imkanı sunar.
+
+İç kısmındaki özel kaplama sayesinde kalem sabit şekilde durur ve estetik bir görünüm sağlar.
+
+Minimal ve şık tasarımı ile özellikle VIP müşteri hediyeleri ve kurumsal sunumlar için ideal bir çözümdür.
+
+Standart karton kutulara göre daha lüks bir algı oluşturur ve ürünün değerini yükseltir.
+
+Promosyon kalemler ile birlikte kullanıldığında marka imajınızı güçlendiren önemli bir tamamlayıcıdır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Tekli Kalem Kutusu
+Materyal: Sert Mukavva / Kaplamalı Kutu
+İç Kaplama: Kadife / Kumaş Yüzey
+Kullanım: Kalem Sunum Kutusu
+Uyumluluk: Standart Promosyon Kalemler
+Renk: Siyah
+
+NOT
+
+Ürün içerisine kalem dahil değildir.
+
+Ürün görselleri temsili amaçlıdır.
+
+SİPARİŞ BİLGİSİ
+
+Ürün promosyon kalemlerle birlikte toplu siparişler için uygundur.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu alımlarda özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+VIP müşteri hediyeleri
+Kurumsal promosyon sunumları
+Özel gün hediyeleri
+Fuar ve etkinlik dağıtımları
+Profesyonel ürün sunumları
+`,
+},
 
 ];
 
