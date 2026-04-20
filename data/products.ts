@@ -34387,6 +34387,1094 @@ Fuar ve etkinlik dağıtımları
 Günlük planlama ve ajanda kullanımı
 `,
 },
+{
+  id: "p588",
+  slug: "promosyon-wireless-sarj-istasyonu-tt-476-coklu-cihaz-standli",
+
+  title: "Promosyon Wireless Şarj İstasyonu TT-476 | Çoklu Cihaz Destekli Standlı Hızlı Şarj Ünitesi",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-wireless-sarj-istasyonu-tt-476.jpg",
+
+  shortDesc:
+    "Promosyon wireless şarj istasyonu TT-476, çoklu cihaz desteği ve standlı tasarımı ile modern ve kurumsal promosyonlar için ideal teknolojik üründür.",
+
+  longDesc: `
+Promosyon wireless şarj istasyonu TT-476, aynı anda birden fazla cihazı şarj edebilme özelliği ile modern iş hayatının ihtiyaçlarına özel olarak tasarlanmış premium bir teknolojik promosyon ürünüdür.
+
+Standlı yapısı sayesinde telefon, akıllı saat ve kulaklık gibi cihazları düzenli bir şekilde konumlandırarak hem şarj hem de kullanım kolaylığı sağlar.
+
+Kablosuz hızlı şarj teknolojisi ile uyumlu cihazlarda yüksek verimli enerji aktarımı sunar ve masaüstü kullanımda kablo karmaşasını ortadan kaldırır.
+
+Minimal ve şık tasarımı sayesinde ofis ortamlarında prestijli bir görünüm oluşturur ve markanızın teknolojik algısını güçlendirir.
+
+Üzerine uygulanabilen ışıklı veya UV baskı seçenekleri ile firmanızın logosu dikkat çekici şekilde sergilenir ve uzun süre görünürlük sağlar.
+
+Dayanıklı malzeme yapısı sayesinde uzun ömürlü kullanım sunar ve kurumsal promosyon ürünleri arasında yüksek algı değeri oluşturur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Wireless Şarj İstasyonu
+Kullanım: Çoklu Cihaz (Telefon, Saat, Kulaklık)
+Şarj Türü: Kablosuz (Wireless)
+Tasarım: Standlı Masaüstü Kullanım
+Giriş: Type-C
+Baskı Türü: UV Baskı, Işıklı Logo (Opsiyonel)
+Malzeme: Dayanıklı Plastik / ABS
+
+NOT
+
+Ürün görselleri temsili olup tasarım ve renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu alımlarda özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Teknoloji firması hediyeleri
+Ofis masaüstü kullanımı
+Yönetici ve çalışan hediyeleri
+Fuar ve etkinlik dağıtımları
+Teknolojik promosyon kampanyaları
+`,
+},
+{
+  id: "p589",
+  slug: "promosyon-wireless-sarj-cihazi-tt-477-standli-hizli-sarj",
+
+  title: "Promosyon Wireless Şarj Cihazı TT-477 | Standlı Hızlı Şarj Özellikli Masaüstü Şarj Ünitesi",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-wireless-sarj-cihazi-tt-477.jpg",
+
+  shortDesc:
+    "Promosyon wireless şarj cihazı TT-477, standlı tasarımı ve hızlı şarj özelliği ile kurumsal promosyonlar için modern ve kullanışlı bir teknolojik üründür.",
+
+  longDesc: `
+Promosyon wireless şarj cihazı TT-477, modern tasarımı ve pratik kullanım özellikleri ile öne çıkan şık bir masaüstü teknolojik promosyon ürünüdür.
+
+Standlı yapısı sayesinde mobil cihazlarınızı dikey veya yatay konumda rahatlıkla kullanırken aynı anda şarj etme imkanı sunar.
+
+Kablosuz hızlı şarj teknolojisi ile uyumlu cihazlarda kesintisiz ve verimli enerji aktarımı sağlayarak günlük kullanımda büyük kolaylık sağlar.
+
+Minimal ve kompakt tasarımı, masaüstünde yer kaplamadan estetik bir görünüm sunar ve ofis ortamlarına modern bir dokunuş katar.
+
+Ürün üzerinde yer alan ışıklı logo alanı sayesinde markanız dikkat çekici bir şekilde sergilenir ve uzun süreli reklam etkisi oluşturur.
+
+Dayanıklı malzeme yapısı ile uzun ömürlü kullanım sunar ve kurumsal promosyon ürünleri arasında yüksek algı değerine sahiptir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Wireless Şarj Cihazı
+Kullanım: Akıllı Telefonlar
+Şarj Türü: Kablosuz (Wireless)
+Tasarım: Standlı Masaüstü Kullanım
+Giriş: Type-C
+Baskı Türü: UV Baskı, Işıklı Logo
+Malzeme: ABS Plastik
+
+NOT
+
+Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Ofis masaüstü teknolojik ürünler
+Çalışan ve müşteri hediyeleri
+Fuar ve etkinlik dağıtımları
+Teknoloji odaklı promosyon kampanyaları
+`,
+},
+{
+  id: "p590",
+  slug: "promosyon-arac-ici-telefon-tutucu-tt-480-magsafe-wireless-sarjli",
+
+  title: "Promosyon Araç İçi Telefon Tutucu TT-480 | 22.5W MagSafe Wireless Şarjlı Manyetik Araç Tutucu",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-arac-ici-telefon-tutucu-tt-480.jpg",
+
+  shortDesc:
+    "Promosyon araç içi telefon tutucu TT-480, MagSafe uyumlu yapısı ve 22.5W hızlı wireless şarj özelliği ile araç kullanımında maksimum konfor sunan teknolojik promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon araç içi telefon tutucu TT-480, modern araç kullanıcıları için tasarlanmış, güçlü manyetik yapısı ve hızlı şarj özelliği ile öne çıkan premium bir teknolojik promosyon ürünüdür.
+
+MagSafe uyumlu manyetik sistemi sayesinde telefonunuzu güvenli bir şekilde sabitler ve sürüş sırasında düşme riskini ortadan kaldırır.
+
+22.5W hızlı kablosuz şarj desteği ile cihazınızı kısa sürede şarj ederek uzun yolculuklarda kesintisiz kullanım sağlar.
+
+Araç içi kullanım için özel olarak tasarlanan kompakt yapısı, havalandırma ızgarasına kolayca monte edilir ve yer kaplamadan şık bir görünüm sunar.
+
+Tek elle kullanım imkanı sağlayan ergonomik tasarımı ile sürüş sırasında pratiklik sağlar ve güvenli sürüş deneyimini destekler.
+
+Üzerine uygulanabilen logo baskı seçenekleri ile markanız araç içerisinde sürekli görünür hale gelir ve yüksek reklam değeri oluşturur.
+
+Dayanıklı malzeme yapısı ile uzun ömürlü kullanım sunar ve kurumsal promosyon ürünleri arasında fark yaratır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Araç İçi Telefon Tutucu
+Şarj Özelliği: Wireless (Kablosuz)
+Şarj Gücü: 22.5W Hızlı Şarj
+Uyumluluk: MagSafe Uyumlu Cihazlar
+Montaj: Havalandırma Izgarası
+Tasarım: Manyetik Tutucu
+Giriş: Type-C
+Malzeme: ABS + Manyetik Sistem
+
+NOT
+
+Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Araç içi teknolojik promosyon ürünleri
+Kurumsal müşteri hediyeleri
+Otomotiv sektörü promosyonları
+Fuar ve etkinlik dağıtımları
+Saha ekipleri ve sürücüler için kullanım
+`,
+},
+{
+  id: "p591",
+  slug: "promosyon-arac-ici-telefon-tutucu-tt-490-manyetik-kompakt",
+
+  title: "Promosyon Araç İçi Telefon Tutucu TT-490 | Manyetik Kompakt Tasarım Telefon Sabitleyici",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-arac-ici-telefon-tutucu-tt-490.jpg",
+
+  shortDesc:
+    "Promosyon araç içi telefon tutucu TT-490, kompakt yapısı ve güçlü manyetik sistemi ile araç içinde pratik kullanım sunan şık bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon araç içi telefon tutucu TT-490, sade ve modern tasarımı ile araç kullanımında maksimum pratiklik sağlayan kompakt bir teknolojik promosyon ürünüdür.
+
+Güçlü manyetik yapısı sayesinde telefonunuzu sabit bir şekilde tutar ve sürüş sırasında güvenli kullanım imkanı sunar.
+
+Minimal boyutu sayesinde araç içerisinde yer kaplamaz ve estetik bir görünüm oluşturur.
+
+Kolay montaj özelliği ile araç içi kullanımda hızlı kurulum sağlar ve farklı araç tiplerine uyum gösterir.
+
+Dayanıklı malzeme yapısı ile uzun ömürlü kullanım sunar ve günlük kullanıma uygun sağlam bir yapıdadır.
+
+Ürün üzerine uygulanabilen logo baskı seçenekleri ile markanız araç içerisinde sürekli görünür hale gelir ve yüksek reklam değeri oluşturur.
+
+Kurumsal promosyon ürünleri arasında ekonomik ve etkili bir tanıtım çözümü sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Araç İçi Telefon Tutucu
+Tasarım: Manyetik Tutucu
+Kullanım: Araç İçi
+Montaj: Yapıştırma / Sabitleme
+Uyumluluk: Tüm Akıllı Telefonlar
+Malzeme: ABS Plastik + Manyetik Sistem
+
+NOT
+
+Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Araç içi promosyon ürünleri
+Kurumsal müşteri hediyeleri
+Otomotiv sektörü promosyonları
+Saha ekipleri için kullanım
+Fuar ve etkinlik dağıtımları
+`,
+},
+{
+  id: "p592",
+  slug: "promosyon-telefon-standi-tt-500-katlanabilir-masaustu",
+
+  title: "Promosyon Telefon Standı TT-500 | Katlanabilir Ayarlanabilir Masaüstü Telefon Tutucu",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-telefon-standi-tt-500.jpg",
+
+  shortDesc:
+    "Promosyon telefon standı TT-500, katlanabilir ve ayarlanabilir yapısı ile masaüstü kullanımda pratiklik sağlayan ekonomik ve kullanışlı promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon telefon standı TT-500, günlük kullanımda maksimum konfor sağlayan ergonomik tasarımı ile öne çıkan pratik bir masaüstü promosyon ürünüdür.
+
+Katlanabilir yapısı sayesinde kolay taşınabilir ve kullanılmadığı zamanlarda minimum yer kaplar.
+
+Ayarlanabilir açısı ile telefonunuzu istediğiniz konumda sabitleyebilir, video izleme, görüntülü konuşma ve çalışma sırasında rahat kullanım sağlayabilirsiniz.
+
+Kaymaz yüzey tasarımı sayesinde cihazınızı güvenli bir şekilde tutar ve düşme riskini minimuma indirir.
+
+Minimal ve modern görünümü ile ofis masalarında şık bir aksesuar olarak da kullanılabilir.
+
+Dayanıklı malzeme yapısı sayesinde uzun süreli kullanım sunar ve kurumsal promosyon ürünleri arasında ekonomik ve etkili bir çözümdür.
+
+Ürün üzerine uygulanabilen logo baskı seçenekleri ile markanız sürekli görünür hale gelir ve yüksek reklam değeri oluşturur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Telefon Standı
+Kullanım: Masaüstü
+Tasarım: Katlanabilir ve Ayarlanabilir
+Uyumluluk: Tüm Akıllı Telefonlar
+Yüzey: Kaymaz Destek
+Malzeme: ABS Plastik
+
+NOT
+
+Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Ofis masaüstü aksesuarları
+Eğitim ve uzaktan çalışma kullanımı
+Fuar ve etkinlik dağıtımları
+Çalışan ve müşteri hediyeleri
+`,
+},
+{
+  id: "p593",
+  slug: "promosyon-telefon-standi-tt-510-katlanabilir-plastik",
+
+  title: "Promosyon Telefon Standı TT-510 | Katlanabilir Plastik Masaüstü Telefon Tutucu (Renkli Seçenekler)",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-telefon-standi-tt-510.jpg",
+
+  shortDesc:
+    "Promosyon telefon standı TT-510, katlanabilir yapısı ve renkli seçenekleri ile toplu dağıtım için ideal ekonomik masaüstü promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon telefon standı TT-510, pratik kullanımı ve ekonomik yapısı ile yüksek adetli promosyon kampanyaları için ideal bir masaüstü telefon tutucu modelidir.
+
+Katlanabilir tasarımı sayesinde kolay taşınabilir ve cepte veya çantada rahatlıkla muhafaza edilebilir.
+
+Telefonunuzu yatay konumda sabitleyerek video izleme, canlı yayın ve sunum gibi kullanımlarda konfor sağlar.
+
+Hafif ve dayanıklı plastik yapısı ile uzun süreli kullanım sunar ve günlük kullanıma uygundur.
+
+Farklı renk seçenekleri (gri, kırmızı, siyah, mavi, beyaz) ile firmanızın kurumsal kimliğine uygun tercihler yapılabilir.
+
+Geniş baskı alanı sayesinde UV renkli baskı ve serigrafi teknikleri ile logo uygulaması yapılabilir ve markanız yüksek görünürlük kazanır.
+
+Ekonomik fiyat avantajı sayesinde fuar, etkinlik ve toplu dağıtımlar için en çok tercih edilen promosyon ürünleri arasında yer alır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Telefon Standı
+Kullanım: Masaüstü
+Tasarım: Katlanabilir
+Materyal: Plastik
+Uyumluluk: Tüm Akıllı Telefonlar
+Renk Seçenekleri: Gri, Kırmızı, Siyah, Mavi, Beyaz
+Baskı Türü: UV Renkli Baskı, Serigrafi
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Fuar ve etkinlik dağıtımları
+Reklam ve tanıtım kampanyaları
+Eğitim ve ofis kullanımı
+Müşteri ve çalışan hediyeleri
+`,
+},
+{
+  id: "p594",
+  slug: "promosyon-arac-ici-telefon-tutucu-tt-520-15w-magsafe-wireless",
+
+  title: "Promosyon Araç İçi Telefon Tutucu TT-520 | 15W MagSafe Wireless Şarjlı Manyetik Araç Tutucu",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-arac-ici-telefon-tutucu-tt-520.jpg",
+
+  shortDesc:
+    "Promosyon araç içi telefon tutucu TT-520, 15W hızlı wireless şarj ve MagSafe uyumlu manyetik yapısı ile araç kullanımında maksimum konfor sunan premium promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon araç içi telefon tutucu TT-520, modern araç kullanıcıları için tasarlanmış güçlü manyetik yapısı ve kablosuz şarj özelliği ile öne çıkan premium bir teknolojik promosyon ürünüdür.
+
+MagSafe uyumlu manyetik sistemi sayesinde telefonunuzu anında sabitler ve sürüş sırasında maksimum güvenlik sağlar.
+
+15W hızlı kablosuz şarj desteği ile cihazınızı pratik ve hızlı şekilde şarj eder, uzun yolculuklarda kesintisiz kullanım sunar.
+
+Araç havalandırma ızgarasına kolayca monte edilebilen yapısı ile hızlı kurulum sağlar ve yer kaplamadan şık bir görünüm oluşturur.
+
+Minimal ve modern tasarımı, araç içi estetiğe uyum sağlayarak premium bir kullanım deneyimi sunar.
+
+Tek elle kullanım imkanı sayesinde sürüş sırasında pratiklik sağlar ve dikkat dağınıklığını minimuma indirir.
+
+Üzerine uygulanabilen logo baskı seçenekleri ile markanız araç içerisinde sürekli görünür hale gelir ve güçlü bir reklam etkisi oluşturur.
+
+Dayanıklı malzeme yapısı ile uzun ömürlü kullanım sunar ve kurumsal promosyon ürünleri arasında yüksek algı değeri oluşturur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Araç İçi Telefon Tutucu
+Şarj Özelliği: Wireless (Kablosuz)
+Şarj Gücü: 15W Hızlı Şarj
+Uyumluluk: MagSafe Uyumlu Cihazlar
+Montaj: Havalandırma Izgarası
+Tasarım: Manyetik Tutucu
+Giriş: Type-C
+Malzeme: ABS + Manyetik Sistem
+
+NOT
+
+Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Araç içi teknolojik promosyon ürünleri
+Kurumsal müşteri hediyeleri
+Otomotiv sektörü promosyonları
+Fuar ve etkinlik dağıtımları
+Saha ekipleri ve sürücüler için kullanım
+`,
+},
+{
+  id: "p595",
+  slug: "promosyon-ayakli-aynali-telefon-standi-tt-530-katlanabilir",
+
+  title: "Promosyon Ayaklı Aynalı Telefon Standı TT-530 | Katlanabilir Masaüstü Aynalı Telefon Tutucu",
+
+  category: "Teknolojik Ürünler",
+  image: "/products/promosyon-ayakli-aynali-telefon-standi-tt-530.jpg",
+
+  shortDesc:
+    "Promosyon ayaklı aynalı telefon standı TT-530, katlanabilir yapısı ve aynalı tasarımı ile hem pratik hem de çok amaçlı kullanım sunan şık promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon ayaklı aynalı telefon standı TT-530, fonksiyonel tasarımı ile hem telefon standı hem de ayna olarak kullanılabilen yenilikçi bir promosyon ürünüdür.
+
+Katlanabilir yapısı sayesinde kolay taşınabilir ve çanta içerisinde rahatlıkla muhafaza edilebilir.
+
+Aynalı yüzeyi sayesinde günlük kullanımda makyaj, kontrol ve kişisel bakım ihtiyaçları için ekstra avantaj sağlar.
+
+Telefon standı olarak kullanıldığında cihazınızı sabit bir şekilde tutar ve video izleme, görüntülü görüşme gibi işlemlerde konfor sunar.
+
+Minimal ve modern tasarımı ile masaüstünde şık bir görünüm oluşturur ve farklı kullanım senaryolarına uyum sağlar.
+
+Hafif ve dayanıklı yapısı sayesinde uzun ömürlü kullanım sunar.
+
+Ürün üzerine uygulanabilen logo baskı seçenekleri ile markanız sürekli görünür hale gelir ve yüksek reklam değeri oluşturur.
+
+Kurumsal promosyon ürünleri arasında farklı ve dikkat çekici bir alternatif sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Telefon Standı
+Tasarım: Ayaklı / Aynalı / Katlanabilir
+Kullanım: Masaüstü ve Taşınabilir
+Uyumluluk: Tüm Akıllı Telefonlar
+Ek Özellik: Ayna Yüzey
+Malzeme: Plastik
+
+NOT
+
+Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Kişisel bakım ve günlük kullanım
+Fuar ve etkinlik dağıtımları
+Çalışan ve müşteri hediyeleri
+Ofis masaüstü aksesuarları
+`,
+},
+{
+  id: "p596",
+  slug: "promosyon-kristal-masa-seti-kms-140-vip-ofis",
+
+  title: "Promosyon Kristal Masa Seti KMS-140 | VIP Ofis Masaüstü Kristal Yönetici Seti",
+
+  category: "Masa Sümeni",
+  image: "/products/promosyon-kristal-masa-seti-kms-140.jpg",
+
+  shortDesc:
+    "Promosyon kristal masa seti KMS-140, şık kristal tasarımı ve ofis düzenleyici yapısı ile yönetici masaları için prestijli bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon kristal masa seti KMS-140, estetik ve şıklığı bir araya getiren tasarımı ile yönetici masaları için özel olarak tasarlanmış premium bir ofis promosyon ürünüdür.
+
+Kristal cam taban yapısı sayesinde modern ve prestijli bir görünüm sunar ve ofis ortamına değer katar.
+
+Set içerisinde yer alan kalemlikler, saat ve aksesuar bölmeleri ile masaüstü düzenini sağlar ve işlevsel kullanım sunar.
+
+Altın detaylı kalemler ve şık saat tasarımı, ürüne lüks bir görünüm kazandırarak VIP promosyon kategorisinde öne çıkar.
+
+Geniş baskı alanı sayesinde firmanızın logosu kristal yüzey üzerine uygulanabilir ve markanız prestijli bir şekilde sergilenir.
+
+Dayanıklı ve kaliteli malzeme yapısı ile uzun ömürlü kullanım sunar ve kurumsal hediye seçenekleri arasında fark yaratır.
+
+Yönetici hediyesi, özel günler ve kurumsal prestij ürünleri için ideal bir tercihtir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Masa Seti / Masa Sümeni
+Malzeme: Kristal Cam
+Set İçeriği: Saat, Kalemlik, Aksesuar Bölmeleri
+Baskı Alanı: 60 x 150 mm
+Tasarım: Şeffaf Kristal + Altın Detaylar
+Kullanım: Ofis / Yönetici Masası
+
+NOT
+
+Ürün görselleri temsili olup tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve özel hediyelik amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+VIP kurumsal promosyon ürünleri
+Yönetici ve ofis hediyeleri
+Özel gün ve plaket alternatifleri
+Kurumsal prestij ürünleri
+Ofis masaüstü düzenleyici kullanım
+`,
+},
+{
+  id: "p597",
+  slug: "promosyon-kristal-masa-seti-kms-150-vip-genis",
+
+  title: "Promosyon Kristal Masa Seti KMS-150 | Geniş Ebatlı VIP Ofis Masaüstü Yönetici Seti",
+
+  category: "Masa Sümeni",
+  image: "/products/promosyon-kristal-masa-seti-kms-150.jpg",
+
+  shortDesc:
+    "Promosyon kristal masa seti KMS-150, geniş yüzeyi ve zengin set içeriği ile yönetici masaları için prestijli ve dikkat çekici bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon kristal masa seti KMS-150, geniş ebatları ve çok parçalı yapısı ile üst düzey ofis kullanımı için tasarlanmış premium bir masaüstü promosyon ürünüdür.
+
+20 x 50 cm ölçülerindeki geniş kristal tabanı sayesinde masa üzerinde düzenli ve şık bir görünüm sunar.
+
+Set içerisinde yer alan saat, kalemlik, notluk alanı ve aksesuar bölmeleri ile ofis düzenini maksimum seviyeye çıkarır.
+
+Altın detaylı aksesuarları ile lüks bir tasarım sunar ve yönetici masalarında prestijli bir duruş sergiler.
+
+Kristal cam yüzey, ışığı yansıtan yapısı ile estetik bir görünüm oluşturur ve ofis dekorasyonuna değer katar.
+
+Geniş baskı alanı sayesinde firmanızın logosu net ve dikkat çekici şekilde uygulanabilir.
+
+Kurumsal hediyelik ürünler arasında üst segmentte yer alır ve özel müşteriler için ideal bir promosyon seçeneğidir.
+
+Dayanıklı ve kaliteli yapısı sayesinde uzun yıllar kullanılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Masa Seti / Masa Sümeni
+Malzeme: Kristal Cam
+Ebat: 20 x 50 cm
+Baskı Alanı: 60 x 200 mm
+Set İçeriği: Saat, Kalemlik, Notluk Alanı, Aksesuar Bölmeleri
+Tasarım: Şeffaf Kristal + Altın Detaylar
+Kullanım: Ofis / Yönetici Masası
+
+NOT
+
+Ürün görselleri temsili olup tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve özel hediyelik amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+VIP kurumsal promosyon ürünleri
+Yönetici ve ofis hediyeleri
+Özel gün ve plaket alternatifleri
+Kurumsal prestij ürünleri
+Ofis masaüstü düzenleyici kullanım
+`,
+},
+{
+  id: "p598",
+  slug: "promosyon-masa-sumeni-msn-100-6-parca-deri-set",
+
+  title: "Promosyon Masa Sümeni MSN-100 | 6 Parça Deri Ofis Masa Seti (Kalemlik, Telefon Standı, Notluk)",
+
+  category: "Masa Sümeni",
+  image: "/products/promosyon-masa-sumeni-msn-100.jpg",
+
+  shortDesc:
+    "Promosyon masa sümeni MSN-100, 6 parçadan oluşan zengin içeriği ve şık deri tasarımı ile ofisler için prestijli ve kullanışlı bir promosyon setidir.",
+
+  longDesc: `
+Promosyon masa sümeni MSN-100, ofis düzenini sağlamak ve masaüstüne şık bir görünüm kazandırmak için tasarlanmış çok parçalı premium bir promosyon setidir.
+
+6 parçadan oluşan set içeriği sayesinde masa üzerinde ihtiyaç duyulan tüm aksesuarları tek bir üründe sunar.
+
+Geniş masa sümeni, çalışma alanını korurken aynı zamanda konforlu bir kullanım sağlar.
+
+Set içerisinde yer alan kalemlik, telefon standı, küp notluk ve bardak altlığı gibi aksesuarlar ile masa düzeni maksimum seviyeye çıkarılır.
+
+Şık ve modern deri kaplama yüzeyi sayesinde hem estetik hem de profesyonel bir görünüm sunar.
+
+Yönetici ve ofis çalışanları için ideal bir kullanım sunan bu set, kurumsal promosyon ürünleri arasında dikkat çekici bir alternatiftir.
+
+Ürün üzerine uygulanabilen logo baskı seçenekleri ile markanız sürekli görünür hale gelir ve güçlü bir reklam etkisi oluşturur.
+
+Dayanıklı malzeme yapısı sayesinde uzun ömürlü kullanım sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Masa Sümeni / Masa Seti
+Set İçeriği: 6 Parça
+Parçalar: Masa Sümeni, Kalemlik, Telefon Standı, Küp Notluk, Kalem Seti, Bardak Altlığı
+Kaplama: Deri
+Kullanım: Ofis / Yönetici Masası
+
+NOT
+
+Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Ofis masaüstü düzenleyici setler
+Yönetici ve çalışan hediyeleri
+Fuar ve etkinlik dağıtımları
+Kurumsal prestij ürünleri
+`,
+},
+{
+  id: "p599",
+  slug: "promosyon-masa-sumeni-msn-110-6-parca-deri-ofis-seti",
+
+  title: "Promosyon Masa Sümeni MSN-110 | 6 Parça Deri Ofis Masa Seti (Takvimlik, Dosyalık, Kalemlik)",
+
+  category: "Masa Sümeni",
+  image: "/products/promosyon-masa-sumeni-msn-110.jpg",
+
+  shortDesc:
+    "Promosyon masa sümeni MSN-110, 6 parçadan oluşan fonksiyonel yapısı ve şık deri tasarımı ile ofisler için ideal kurumsal promosyon setidir.",
+
+  longDesc: `
+Promosyon masa sümeni MSN-110, ofis düzenini sağlamak ve profesyonel bir çalışma alanı oluşturmak için tasarlanmış çok parçalı bir masaüstü promosyon setidir.
+
+6 parçadan oluşan zengin set içeriği ile masa üzerinde ihtiyaç duyulan tüm aksesuarları tek bir üründe sunar.
+
+Geniş masa sümeni, çalışma alanını korurken konforlu ve düzenli bir kullanım sağlar.
+
+Set içerisinde yer alan kalem seti, kalemlik, notluk, dosyalık ve takvimlik ile masa organizasyonu maksimum seviyeye çıkarılır.
+
+Şık deri kaplama yüzeyi sayesinde ofis ortamına prestijli ve profesyonel bir görünüm kazandırır.
+
+Fonksiyonel tasarımı ile hem yöneticiler hem de ofis çalışanları için ideal bir kullanım sunar.
+
+Ürün üzerine uygulanabilen logo baskı seçenekleri ile markanız sürekli görünür hale gelir ve kurumsal imajınızı güçlendirir.
+
+Dayanıklı malzeme yapısı sayesinde uzun ömürlü kullanım sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Masa Sümeni / Masa Seti
+Set İçeriği: 6 Parça
+Parçalar: Masa Sümeni, Kalem Seti, Kalemlik, Notluk, Dosyalık, Takvimlik
+Kaplama: Deri
+Kullanım: Ofis / Yönetici Masası
+
+NOT
+
+Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Ofis masaüstü düzenleyici setler
+Yönetici ve çalışan hediyeleri
+Kurumsal prestij ürünleri
+Fuar ve etkinlik dağıtımları
+`,
+},
+{
+  id: "p600",
+  slug: "promosyon-masa-sumeni-msn-120-6-parca-deri-mousepadli-set",
+
+  title: "Promosyon Masa Sümeni MSN-120 | 6 Parça Deri Ofis Masa Seti (Mouse Pad, Kalemlik, Notluk)",
+
+  category: "Masa Sümeni",
+  image: "/products/promosyon-masa-sumeni-msn-120.jpg",
+
+  shortDesc:
+    "Promosyon masa sümeni MSN-120, 6 parçadan oluşan modern tasarımı ve mouse pad içeren yapısı ile ofisler için pratik ve şık bir promosyon setidir.",
+
+  longDesc: `
+Promosyon masa sümeni MSN-120, çalışma alanınızı düzenlemek ve verimliliği artırmak için tasarlanmış çok parçalı modern bir masaüstü promosyon setidir.
+
+6 parçadan oluşan set içeriği sayesinde masa üzerinde ihtiyaç duyulan tüm aksesuarları tek bir çözümde sunar.
+
+Geniş masa sümeni, çalışma yüzeyini korurken konforlu bir kullanım sağlar.
+
+Set içerisinde yer alan mouse pad, bilgisayar kullanımında ekstra rahatlık sunar ve günlük ofis çalışmalarını kolaylaştırır.
+
+Kalemlik, kağıtlık, küp notluk ve bardak altlığı gibi parçalar ile masa organizasyonu maksimum seviyeye çıkarılır.
+
+Şık deri kaplama yüzeyi sayesinde ofis ortamına modern ve profesyonel bir görünüm kazandırır.
+
+Hem yöneticiler hem de ofis çalışanları için ideal bir kullanım sunar.
+
+Ürün üzerine uygulanabilen logo baskı seçenekleri ile markanız sürekli görünür hale gelir ve kurumsal imajınızı güçlendirir.
+
+Dayanıklı malzeme yapısı ile uzun ömürlü kullanım sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Masa Sümeni / Masa Seti
+Set İçeriği: 6 Parça
+Parçalar: Masa Sümeni, Kalemlik, Kağıtlık, Küp Notluk, Mouse Pad, Bardak Altlığı
+Kaplama: Deri
+Kullanım: Ofis / Masaüstü
+
+NOT
+
+Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Ofis masaüstü düzenleyici setler
+Bilgisayar kullanımına uygun çalışma alanları
+Çalışan ve yönetici hediyeleri
+Fuar ve etkinlik dağıtımları
+`,
+},
+{
+  id: "p601",
+  slug: "promosyon-12-haneli-hesap-makinesi-hm-110-masaustu",
+
+  title: "Promosyon 12 Haneli Hesap Makinesi HM-110 | Masaüstü Büyük Ekranlı Ofis Tipi Hesap Makinesi",
+
+  category: "Hesap Makineleri",
+  image: "/products/promosyon-12-haneli-hesap-makinesi-hm-110.jpg",
+
+  shortDesc:
+    "Promosyon 12 haneli hesap makinesi HM-110, geniş ekranı ve kullanışlı tuş yapısı ile ofisler için ideal masaüstü promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon 12 haneli hesap makinesi HM-110, günlük ofis hesaplamaları için pratik ve kullanışlı bir çözüm sunan masaüstü promosyon ürünüdür.
+
+12 haneli geniş ekranı sayesinde büyük rakamları net bir şekilde görüntüleme imkanı sağlar ve kullanım kolaylığı sunar.
+
+Ergonomik tuş dizilimi ile hızlı ve hatasız işlem yapmayı kolaylaştırır.
+
+Ofis, muhasebe ve günlük kullanım için ideal olan bu model, yoğun kullanımda yüksek performans sunar.
+
+Şık ve sade tasarımı ile masaüstünde düzenli bir görünüm oluşturur ve profesyonel kullanım için uygundur.
+
+Ürün üzerine uygulanabilen serigrafi ve tampon baskı teknikleri ile firmanızın logosu uzun süre görünür hale gelir.
+
+Kurumsal promosyon ürünleri arasında hem işlevsel hem de ekonomik bir seçenek sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Hesap Makinesi
+Ekran: 12 Haneli Geniş Ekran
+Kullanım: Masaüstü
+Ölçü: 23 x 10 x 12 cm
+Baskı Alanı: 45 x 15 mm
+Baskı Türü: Serigrafi, Tampon Baskı
+Koli Adedi: 100
+
+NOT
+
+Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Ofis ve muhasebe kullanımı
+Kurumsal promosyon ürünleri
+Fuar ve etkinlik dağıtımları
+Eğitim kurumları
+Çalışan ve müşteri hediyeleri
+`,
+},
+{
+  id: "p602",
+  slug: "promosyon-dijital-hesap-makinesi-hm-120-12-haneli-renkli",
+
+  title: "Promosyon Dijital Hesap Makinesi HM-120 | 12 Haneli Renkli Baskılı Ofis Tipi Hesap Makinesi",
+
+  category: "Hesap Makineleri",
+  image: "/products/promosyon-dijital-hesap-makinesi-hm-120.jpg",
+
+  shortDesc:
+    "Promosyon dijital hesap makinesi HM-120, 12 haneli ekranı ve renkli baskı uygulanabilir yüzeyi ile kurumsal tanıtımlar için ideal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon dijital hesap makinesi HM-120, modern tasarımı ve geniş baskı yüzeyi ile hem işlevsel hem de reklam değeri yüksek bir promosyon ürünüdür.
+
+12 haneli geniş ekranı sayesinde büyük rakamları net bir şekilde görüntüleme imkanı sunar ve günlük hesaplamalarda kullanım kolaylığı sağlar.
+
+Kompakt ve taşınabilir yapısı ile masaüstü ve mobil kullanım için uygundur.
+
+Ürün yüzeyine uygulanabilen tam renkli baskı sayesinde markanız dikkat çekici şekilde sergilenir ve uzun süreli reklam etkisi oluşturur.
+
+Farklı renk seçenekleri ile kurumsal kimliğinize uygun tercihler yapılabilir.
+
+Dayanıklı malzeme yapısı ile uzun ömürlü kullanım sunar ve yoğun kullanımda performansını korur.
+
+Kurumsal promosyon ürünleri arasında ekonomik ve yüksek geri dönüş sağlayan bir alternatif sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Dijital Hesap Makinesi
+Ekran: 12 Haneli
+Kullanım: Masaüstü / Taşınabilir
+Baskı Türü: Renkli Baskı, Serigrafi
+Uyumluluk: Ofis ve Günlük Kullanım
+Malzeme: Plastik
+
+NOT
+
+Ürün görselleri temsili olup baskı ve renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Ofis ve muhasebe kullanımı
+Kurumsal promosyon ürünleri
+Fuar ve etkinlik dağıtımları
+Eğitim kurumları
+Reklam ve tanıtım kampanyaları
+`,
+},
+{
+  id: "p603",
+  slug: "promosyon-dijital-hesap-makinesi-hm-130-egimli-12-haneli",
+
+  title: "Promosyon Dijital Hesap Makinesi HM-130 | 12 Haneli Eğimli Masaüstü Ofis Tipi Hesap Makinesi",
+
+  category: "Hesap Makineleri",
+  image: "/products/promosyon-dijital-hesap-makinesi-hm-130.jpg",
+
+  shortDesc:
+    "Promosyon dijital hesap makinesi HM-130, 12 haneli ekranı ve eğimli tasarımı ile ofis kullanımı için ergonomik ve şık bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon dijital hesap makinesi HM-130, ergonomik eğimli tasarımı ile masaüstü kullanımda konfor sağlayan modern bir ofis promosyon ürünüdür.
+
+12 haneli geniş ekranı sayesinde büyük rakamları net bir şekilde görüntüleme imkanı sunar ve günlük hesaplamaları kolaylaştırır.
+
+Eğimli yapısı sayesinde ekran okunabilirliği artar ve uzun süreli kullanımlarda göz yorgunluğunu azaltır.
+
+Minimal ve şık tasarımı ile ofis masalarında modern bir görünüm oluşturur.
+
+Kompakt boyutları sayesinde masa üzerinde fazla yer kaplamaz ve düzenli bir çalışma alanı sağlar.
+
+UV ve serigraf baskıya uygun yüzeyi ile firmanızın logosu kalıcı ve dikkat çekici şekilde uygulanabilir.
+
+Dayanıklı plastik yapısı ile uzun ömürlü kullanım sunar ve yoğun ofis kullanımına uygundur.
+
+Kurumsal promosyon ürünleri arasında hem işlevsel hem de estetik bir alternatif sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Dijital Hesap Makinesi
+Ekran: 12 Haneli
+Tasarım: Eğimli Masaüstü
+Ölçü: 15,5 x 14 x 2 cm
+Baskı Türü: UV Baskı, Serigrafi
+Kullanım: Ofis / Günlük Kullanım
+Malzeme: Plastik
+
+NOT
+
+Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Ofis ve muhasebe kullanımı
+Kurumsal promosyon ürünleri
+Fuar ve etkinlik dağıtımları
+Eğitim kurumları
+Çalışan ve müşteri hediyeleri
+`,
+},
+{
+  id: "p604",
+  slug: "promosyon-12-haneli-hesap-makinesi-hm-140-yazilabilir-ekranli",
+
+  title: "Promosyon 12 Haneli Hesap Makinesi HM-140 | Yazılabilir LCD Ekranlı Notlu Hesap Makinesi",
+
+  category: "Hesap Makineleri",
+  image: "/products/promosyon-12-haneli-hesap-makinesi-hm-140.jpg",
+
+  shortDesc:
+    "Promosyon 12 haneli hesap makinesi HM-140, yazılabilir LCD ekranı ve geniş baskı alanı ile hem hesaplama hem not alma imkanı sunan yenilikçi promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon 12 haneli hesap makinesi HM-140, klasik hesap makinesi kullanımını geliştiren yazılabilir ekran özelliği ile öne çıkan yenilikçi bir masaüstü promosyon ürünüdür.
+
+12 haneli geniş ekranı sayesinde net ve kolay okunabilir hesaplama imkanı sunar.
+
+Yan kısmında yer alan yazılabilir LCD panel ile not alma, çizim yapma ve hızlı hesaplamaları kaydetme imkanı sağlar.
+
+Kalem destekli ekranı sayesinde özellikle ofis, eğitim ve teknik kullanım alanlarında büyük kolaylık sunar.
+
+Katlanabilir yapısı ile taşınabilir kullanım imkanı sağlar ve masaüstünde düzenli bir görünüm oluşturur.
+
+Geniş baskı alanı sayesinde firmanızın logosu dikkat çekici şekilde uygulanabilir ve uzun süre görünürlük sağlar.
+
+UV, serigrafi ve tampon baskı teknikleri ile farklı baskı seçenekleri sunar.
+
+Kurumsal promosyon ürünleri arasında yenilikçi ve dikkat çekici bir alternatif olarak öne çıkar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Dijital Hesap Makinesi
+Ekran: 12 Haneli + Yazılabilir LCD Panel
+Tasarım: Katlanabilir / Not Alma Özellikli
+Ölçü: 12,8 x 14 x 7 cm
+Baskı Alanı: 125 x 55 mm
+Baskı Türü: Serigrafi, Tampon Baskı, UV Baskı
+Koli Adedi: 100
+
+NOT
+
+Ürün görselleri temsili olup tasarım ve renk detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Ofis ve muhasebe kullanımı
+Eğitim ve okul kullanımı
+Kurumsal promosyon ürünleri
+Fuar ve etkinlik dağıtımları
+Teknik çizim ve not alma işlemleri
+`,
+},
+{
+  id: "p605",
+  slug: "promosyon-dijital-hesap-makinesi-hm-150-egimli-slim-tasarim",
+
+  title: "Promosyon Dijital Hesap Makinesi HM-150 | 12 Haneli Eğimli Slim Tasarım Ofis Tipi Hesap Makinesi",
+
+  category: "Hesap Makineleri",
+  image: "/products/promosyon-dijital-hesap-makinesi-hm-150.jpg",
+
+  shortDesc:
+    "Promosyon dijital hesap makinesi HM-150, slim tasarımı ve eğimli yapısı ile modern ofisler için şık ve kullanışlı bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon dijital hesap makinesi HM-150, modern ve ince tasarımı ile ofis masalarında şık bir görünüm sunan premium bir masaüstü promosyon ürünüdür.
+
+12 haneli geniş ekranı sayesinde büyük rakamları net bir şekilde görüntüleme imkanı sağlar ve günlük hesaplamaları kolaylaştırır.
+
+Eğimli yapısı ile ekran okunabilirliğini artırır ve uzun süreli kullanımlarda konfor sağlar.
+
+Slim tasarımı sayesinde masa üzerinde minimum yer kaplar ve düzenli bir çalışma alanı oluşturur.
+
+Şık yüzey tasarımı, ürüne modern ve profesyonel bir görünüm kazandırır.
+
+UV, serigrafi ve tampon baskı teknikleri ile logo uygulaması yapılabilir ve markanız uzun süre görünürlük kazanır.
+
+Dayanıklı yapısı ile uzun ömürlü kullanım sunar ve yoğun ofis kullanımına uygundur.
+
+Kurumsal promosyon ürünleri arasında hem estetik hem de işlevsel bir alternatif sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Dijital Hesap Makinesi
+Ekran: 12 Haneli
+Tasarım: Eğimli / Slim
+Ölçü: 23 x 10 x 12 cm
+Baskı Alanı: 80 x 25 mm
+Baskı Türü: Serigrafi, Tampon Baskı
+Koli Adedi: 100
+
+NOT
+
+Ürün görselleri temsili olup tasarım detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Ofis ve muhasebe kullanımı
+Kurumsal promosyon ürünleri
+Fuar ve etkinlik dağıtımları
+Eğitim kurumları
+Çalışan ve müşteri hediyeleri
+`,
+},
 
 ];
 
