@@ -33731,6 +33731,662 @@ Fuar ve etkinlik dağıtımları
 Profesyonel ürün sunumları
 `,
 },
+{
+  id: "p578",
+  slug: "promosyon-organizer-org-160-termodei-hesap-makinali",
+
+  title: "Promosyon Organizer ORG-160 | Termoderi Kapaklı Hesap Makineli Organizer",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-160.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-160, termoderi kapaklı yapısı ve hesap makinesi özelliği ile kurumsal kullanım için ideal premium ajanda organizerdir.",
+
+  longDesc: `
+Promosyon organizer ORG-160, şık termoderi kapak tasarımı ve fonksiyonel yapısı ile kurumsal promosyon ürünleri arasında öne çıkan premium bir organizer modelidir.
+
+17 x 24 cm ölçüsü sayesinde günlük planlama, not alma ve iş takibi için ideal bir kullanım alanı sunar.
+
+İç kısmında yer alan tarihli sayfalar sayesinde düzenli planlama yapılabilirken, hesap makinesi özelliği iş hayatında pratik kullanım sağlar.
+
+Kart koyma bölmesi ile hem organizer hem de işlevsel bir iş aracı olarak kullanılabilir.
+
+70 gr. kaliteli kağıt yapısı ile konforlu yazım deneyimi sunar.
+
+Termoderi kapak yapısı sayesinde hem dayanıklı hem de prestijli bir görünüm sağlar.
+
+Serigraf, sıcak baskı ve UV baskı teknikleri ile logo uygulamaları yapılabilir ve markanız güçlü şekilde temsil edilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Organizer / Ajanda
+Kapak: Termoderi
+Ölçü: 17 x 24 cm
+Kağıt: 70 gr. 1. Hamur
+İç Yapı: Tarihli
+Ek Özellikler: Hesap Makinesi, Kart Bölmesi
+Kağıt Rengi: Sarı
+Baskı Türü: Serigraf, Sıcak Baskı, UV Baskı
+Kullanım: Kurumsal, Ofis, Promosyon
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım işlemleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Ofis ve iş hayatı kullanımı
+Yönetici ve çalışan hediyeleri
+Fuar ve etkinlik dağıtımları
+Marka tanıtım kampanyaları
+Günlük planlama ve ajanda kullanımı
+`,
+},
+{
+  id: "p579",
+  slug: "promosyon-organizer-org-170-manyetik-kilitli-termodei",
+
+  title: "Promosyon Organizer ORG-170 | Manyetik Kilitli Termoderi Premium Organizer",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-170.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-170, manyetik kilitli termoderi kapak ve hesap makinesi özelliği ile kurumsal VIP kullanım için tasarlanmış premium ajandadır.",
+
+  longDesc: `
+Promosyon organizer ORG-170, şık termoderi kapak yapısı ve manyetik kilit sistemi ile üst segment kurumsal promosyon ürünleri arasında yer almaktadır.
+
+Manyetik kapak tasarımı, hem kullanım kolaylığı sağlar hem de ürüne modern ve prestijli bir görünüm kazandırır.
+
+İç kısmında bulunan 8 haneli hesap makinesi, iş hayatında pratik kullanım imkanı sunar.
+
+Kartvizitlik bölmesi sayesinde organizer aynı zamanda işlevsel bir ofis aksesuarı olarak kullanılabilir.
+
+15 x 21 cm ölçüsündeki iç blok, günlük planlama ve not alma için ideal bir kullanım alanı sağlar.
+
+70 gr. ivory kağıt yapısı ile konforlu yazım deneyimi sunar.
+
+Özel kutusu sayesinde ürün, doğrudan hediye olarak sunulabilecek premium bir yapıdadır.
+
+Gofre, UV ve serigraf baskı teknikleri ile logo uygulamaları yapılabilir ve markanız güçlü şekilde temsil edilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Organizer / Ajanda
+Kapak: Termoderi
+Kilit: Metal ve Manyetik Kapak
+İç Blok Ölçüsü: 15 x 21 cm
+Kağıt: 70 gr. Ivory
+Ek Özellikler: 8 Hane Hesap Makinesi, Kartvizitlik
+Kutu: Özel Sunum Kutusu
+Baskı Türü: Gofre, UV, Serigrafi
+Kullanım: Kurumsal, VIP, Ofis
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+VIP müşteri hediyeleri
+Yönetici hediyeleri
+Ofis ve iş hayatı kullanımı
+Fuar ve etkinlik dağıtımları
+Prestijli marka sunumları
+`,
+},
+{
+  id: "p580",
+  slug: "promosyon-organizer-org-180-termodei-hesap-makineli",
+
+  title: "Promosyon Organizer ORG-180 | Termoderi Kapaklı Hesap Makineli Organizer (18x23 cm)",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-180.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-180, geniş hacmi ve hesap makinesi özelliği ile kurumsal firmalar ve kamu kurumları için ideal organizer modelidir.",
+
+  longDesc: `
+Promosyon organizer ORG-180, geniş kullanım alanı ve fonksiyonel yapısı ile kurumsal promosyon ürünleri arasında öne çıkan modern bir organizer modelidir.
+
+18 x 23 cm ölçüsü sayesinde günlük planlama, toplantı notları ve iş takibi için geniş bir kullanım alanı sunar.
+
+İç kısmında yer alan 336 sayfa çizgili blok, uzun süreli kullanım avantajı sağlar.
+
+70 gr. krem kağıt yapısı sayesinde konforlu ve kaliteli bir yazım deneyimi sunar.
+
+Organizer içerisinde bulunan 8 haneli hesap makinesi, iş hayatında pratik kullanım imkanı sağlar.
+
+Termoderi kapak yapısı, hem dayanıklılık hem de profesyonel bir görünüm kazandırır.
+
+Kartvizit ve belge yerleştirme alanları ile organizer aynı zamanda işlevsel bir ofis ürünü olarak kullanılabilir.
+
+Özel kutulu ambalajı sayesinde doğrudan kurumsal hediye olarak sunulabilir.
+
+Lazer ve gofre baskı teknikleri ile logo uygulamaları yapılabilir ve markanız uzun süre görünür hale getirilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Organizer / Ajanda
+Kapak: Termoderi
+Ölçü: 18 x 23 cm
+İç Blok: 15 x 21 cm
+Sayfa Sayısı: 336
+Kağıt: 70 gr. Krem
+Sayfa Tipi: Çizgili
+Ek Özellikler: 8 Hane Hesap Makinesi
+Ambalaj: Özel Kutulu
+Baskı Türü: Lazer, Gofre
+Koli Adeti: 30
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Kamu kurumları ve belediye hediyeleri
+Ofis ve iş hayatı kullanımı
+Yönetici ve çalışan hediyeleri
+Fuar ve etkinlik dağıtımları
+Günlük planlama ve ajanda kullanımı
+`,
+},
+{
+  id: "p581",
+  slug: "promosyon-organizer-org-190-termodei-hesap-makineli",
+
+  title: "Promosyon Organizer ORG-190 | Termoderi Kapaklı Hesap Makineli Organizer (18x23 cm)",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-190.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-190, geniş sayfa kapasitesi ve hesap makinesi özelliği ile kurumsal firmalar için ideal premium organizer modelidir.",
+
+  longDesc: `
+Promosyon organizer ORG-190, geniş sayfa kapasitesi ve modern tasarım detayları ile kurumsal promosyon ürünleri arasında öne çıkan premium bir organizer modelidir.
+
+18 x 23 cm ölçüsü sayesinde günlük planlama, toplantı notları ve iş takibi için geniş bir kullanım alanı sunar.
+
+İç kısmında yer alan 352 sayfa çizgili blok, uzun süreli kullanım avantajı sağlar ve yoğun iş temposuna sahip kullanıcılar için idealdir.
+
+70 gr. krem kağıt yapısı sayesinde konforlu ve kaliteli bir yazım deneyimi sunar.
+
+Organizer içerisinde bulunan 8 haneli hesap makinesi, iş hayatında pratik kullanım imkanı sağlar.
+
+Termoderi kapak yapısı, dayanıklılık ile birlikte prestijli bir görünüm kazandırır.
+
+Özel tasarım kapak detayı sayesinde ürün, klasik organizer modellerinden ayrılarak daha modern ve dikkat çekici bir görünüm sunar.
+
+Özel kutulu ambalajı ile birlikte sunulan ürün, doğrudan kurumsal hediye olarak kullanılabilecek premium bir yapıdadır.
+
+Gofre ve lazer baskı teknikleri ile logo uygulamaları yapılabilir ve markanız uzun süre görünür hale getirilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Organizer / Ajanda
+Kapak: Termoderi
+Ölçü: 18 x 23 cm
+İç Blok: 15 x 21 cm
+Sayfa Sayısı: 352
+Kağıt: 70 gr. Krem
+Sayfa Tipi: Çizgili
+Ek Özellikler: 8 Hane Hesap Makinesi
+Ambalaj: Özel Kutulu
+Baskı Türü: Gofre, Lazer
+Koli Adeti: 30
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Kamu kurumları ve belediye hediyeleri
+Ofis ve iş hayatı kullanımı
+Yönetici ve çalışan hediyeleri
+Fuar ve etkinlik dağıtımları
+Günlük planlama ve ajanda kullanımı
+`,
+},
+{
+  id: "p582",
+  slug: "promosyon-organizer-org-200-kilifli-defter",
+
+  title: "Promosyon Organizer ORG-200 | Kılıflı Termoderi Defter Organizer (14,5x23 cm)",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-200.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-200, kılıflı defter yapısı ve termoderi kapak tasarımı ile günlük kullanım için ideal kompakt organizer modelidir.",
+
+  longDesc: `
+Promosyon organizer ORG-200, kılıflı defter yapısı ile klasik organizer ve ajanda ürünlerinin birleşimi olarak tasarlanmış modern bir promosyon ürünüdür.
+
+14,5 x 23 cm ölçüsü sayesinde taşınabilir ve pratik bir kullanım sunarken, günlük not alma ve planlama ihtiyaçlarını rahatlıkla karşılar.
+
+İç kısmında yer alan 224 sayfa çizgili defter, uzun süreli kullanım avantajı sağlar.
+
+70 gram ivory kağıt yapısı sayesinde kaliteli ve konforlu bir yazım deneyimi sunar.
+
+Termoderi kapak yapısı, ürüne hem dayanıklılık hem de şık bir görünüm kazandırır.
+
+Metal toka detayı sayesinde hem estetik hem de kullanışlı bir kapama sistemi sunar.
+
+Kılıflı yapısı sayesinde defter değiştirilebilir özellikte olup uzun süre kullanılabilir.
+
+Gofre ve lazer baskı teknikleri ile logo uygulamaları yapılabilir ve markanız kalıcı şekilde temsil edilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Organizer / Kılıflı Defter
+Kapak: Termoderi
+Ebat: 14,5 x 23 cm
+Defter Ebat: 13 x 21 cm
+Sayfa Sayısı: 224
+Kağıt: 70 gr. Ivory
+Sayfa Tipi: Çizgili
+Kapama: Metal Toka
+Baskı Türü: Gofre, Lazer
+Koli Adeti: 30
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım işlemleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Günlük kullanım ve ajanda ihtiyacı
+Ofis ve iş hayatı kullanımı
+Fuar ve etkinlik dağıtımları
+Müşteri hediyeleri
+Taşınabilir organizer çözümleri
+`,
+},
+{
+  id: "p583",
+  slug: "promosyon-organizer-org-210-termodei-metal-tokali",
+
+  title: "Promosyon Organizer ORG-210 | Metal Tokalı Termoderi Organizer (15x21 cm Ajanda)",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-210.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-210, metal tokalı tasarımı ve geniş sayfa kapasitesi ile kurumsal firmalar için ideal premium organizer modelidir.",
+
+  longDesc: `
+Promosyon organizer ORG-210, modern tasarım detayları ve fonksiyonel yapısı ile kurumsal promosyon ürünleri arasında öne çıkan premium bir organizer modelidir.
+
+Termoderi kapak yapısı sayesinde hem dayanıklı hem de prestijli bir görünüm sunar.
+
+Metal toka kapama sistemi, ürüne şık bir tasarım kazandırırken aynı zamanda kullanım kolaylığı sağlar.
+
+İç kısmında yer alan 352 sayfa ajanda, uzun süreli kullanım avantajı sunar ve yoğun iş temposuna sahip kullanıcılar için ideal bir çözümdür.
+
+70 gr. krem kağıt yapısı sayesinde konforlu ve kaliteli bir yazım deneyimi sağlar.
+
+Organizer içerisinde bulunan hesap makinesi, günlük iş süreçlerinde pratik kullanım imkanı sunar.
+
+Gofre, lazer ve dijital baskı teknikleri ile logo uygulamaları yapılabilir ve markanız uzun süre görünür hale getirilir.
+
+Farklı renk seçenekleri ile kurumsal kimliğinize uygun tercihler yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Organizer / Ajanda
+Kapak: Termoderi
+Kapama: Metal Toka
+İç Blok: 15 x 21 cm Ajanda
+Sayfa Sayısı: 352
+Kağıt: 70 gr. Krem
+Ek Özellikler: Hesap Makinesi
+Baskı Türü: Gofre, Lazer, Dijital
+Koli Adeti: 30
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Kamu kurumları ve şirket hediyeleri
+Ofis ve iş hayatı kullanımı
+Yönetici ve çalışan hediyeleri
+Fuar ve etkinlik dağıtımları
+Günlük planlama ve ajanda kullanımı
+`,
+},
+{
+  id: "p584",
+  slug: "promosyon-organizer-org-220-termodei-metal-tokali",
+
+  title: "Promosyon Organizer ORG-220 | Metal Tokalı Termoderi Organizer (15x21 cm Ajanda)",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-220.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-220, metal tokalı tasarımı ve geniş sayfa kapasitesi ile kurumsal promosyonlar için ideal organizer modelidir.",
+
+  longDesc: `
+Promosyon organizer ORG-220, sade ve modern tasarımı ile kurumsal promosyon ürünleri arasında geniş kullanım alanına sahip bir organizer modelidir.
+
+Termoderi kapak yapısı sayesinde hem dayanıklı hem de profesyonel bir görünüm sunar.
+
+Metal toka kapama sistemi, organizerin güvenli şekilde kapanmasını sağlarken aynı zamanda şık bir tasarım detayı oluşturur.
+
+İç kısmında yer alan 352 sayfa ajanda, uzun süreli kullanım avantajı sunar ve yoğun iş temposuna sahip kullanıcılar için ideal bir çözümdür.
+
+70 gr. krem kağıt yapısı sayesinde kaliteli ve konforlu bir yazım deneyimi sağlar.
+
+Organizer içerisinde bulunan hesap makinesi, günlük iş süreçlerinde pratik kullanım imkanı sunar.
+
+Gofre, lazer ve dijital baskı teknikleri ile logo uygulamaları yapılabilir ve markanız uzun süre görünür hale getirilir.
+
+Farklı renk seçenekleri ile kurumsal kimliğinize uygun tercihler yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Organizer / Ajanda
+Kapak: Termoderi
+Kapama: Metal Toka
+İç Blok: 15 x 21 cm Ajanda
+Sayfa Sayısı: 352
+Kağıt: 70 gr. Krem
+Ek Özellikler: Hesap Makinesi
+Baskı Türü: Gofre, Lazer, Dijital
+Koli Adeti: 30
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Kamu kurumları ve şirket hediyeleri
+Ofis ve iş hayatı kullanımı
+Yönetici ve çalışan hediyeleri
+Fuar ve etkinlik dağıtımları
+Günlük planlama ve ajanda kullanımı
+`,
+},
+{
+  id: "p585",
+  slug: "promosyon-organizer-org-230-termodei-metal-kilitli",
+
+  title: "Promosyon Organizer ORG-230 | Metal Kilitli Termoderi Organizer (17x21 cm)",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-230.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-230, metal kilitli tasarımı ve hesap makinesi özelliği ile kurumsal promosyonlar için ideal organizer modelidir.",
+
+  longDesc: `
+Promosyon organizer ORG-230, şık termoderi kapak yapısı ve fonksiyonel tasarımı ile kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir.
+
+17 x 21 cm ölçüsü sayesinde hem taşınabilir hem de geniş kullanım alanı sunarak günlük planlama ve not alma işlemlerini kolaylaştırır.
+
+Metal kilitli kapama sistemi, ürüne hem güvenli hem de prestijli bir kullanım sunar.
+
+İç kısmında bulunan 8 haneli hesap makinesi, iş hayatında pratik kullanım sağlar.
+
+Kartvizitlik bölmesi sayesinde organizer aynı zamanda işlevsel bir ofis aracı olarak kullanılabilir.
+
+70 gr. ivory kağıt yapısı sayesinde konforlu yazım deneyimi sunar.
+
+Özel kutulu ambalajı ile birlikte sunulan ürün, doğrudan kurumsal hediye olarak kullanılabilecek premium bir yapıdadır.
+
+Gofre, UV ve serigraf baskı teknikleri ile logo uygulamaları yapılabilir ve markanız uzun süre görünür hale getirilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Organizer / Ajanda
+Kapak: Termoderi
+Ölçü: 17 x 21 cm
+İç Blok: 15 x 21 cm
+Kağıt: 70 gr. Ivory
+Ek Özellikler: 8 Hane Hesap Makinesi, Kartvizitlik
+Kapama: Metal Kilit
+Ambalaj: Özel Kutulu
+Baskı Türü: Gofre, UV, Serigrafi
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Kamu kurumları ve şirket hediyeleri
+Ofis ve iş hayatı kullanımı
+Yönetici ve çalışan hediyeleri
+Fuar ve etkinlik dağıtımları
+Günlük planlama ve ajanda kullanımı
+`,
+},
+{
+  id: "p586",
+  slug: "promosyon-organizer-org-240-cift-termodei-manyetik",
+
+  title: "Promosyon Organizer ORG-240 | Çift Kat Termoderi Manyetik Kilitli Organizer",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-240.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-240, iç ve dış termoderi kaplama ve manyetik kilit sistemi ile kurumsal VIP hediyeler için tasarlanmış premium organizer modelidir.",
+
+  longDesc: `
+Promosyon organizer ORG-240, iç ve dış yüzeyi tamamen termoderi kaplama olan yapısı ile üst segment kurumsal promosyon ürünleri arasında yer almaktadır.
+
+Manyetik kilitli kapama sistemi, hem kullanım kolaylığı hem de şık bir tasarım sunarak ürüne modern ve prestijli bir görünüm kazandırır.
+
+17 x 21 cm ölçüsü sayesinde ideal kullanım alanı sunarken, iç blok yapısı ile günlük planlama, not alma ve iş takibi işlemlerini kolaylaştırır.
+
+Kartvizitlik bölmesi sayesinde organizer aynı zamanda işlevsel bir ofis aracı olarak kullanılabilir.
+
+70 gr. ivory kağıt yapısı ile konforlu ve kaliteli bir yazım deneyimi sunar.
+
+Özel kutulu ambalajı ile birlikte sunulan ürün, doğrudan hediye olarak verilebilecek premium bir yapıdadır.
+
+Gofre, UV ve serigraf baskı teknikleri ile logo uygulamaları yapılabilir ve markanız uzun süre görünür hale getirilir.
+
+İç ve dış yüzeyde kullanılan termoderi kaplama, ürüne ekstra dayanıklılık ve yüksek kalite algısı kazandırır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Organizer / Ajanda
+Kapak: İç & Dış Termoderi
+Kapama: Metal & Manyetik Kilit
+Ölçü: 17 x 21 cm (Genel) / 15 x 21 cm (İç Blok)
+Kağıt: 70 gr. Ivory
+Ek Özellikler: Kartvizitlik
+Ambalaj: Özel Kutulu
+Baskı Türü: Gofre, UV, Serigrafi
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+VIP müşteri hediyeleri
+Yönetici ve üst düzey hediyeler
+Kurumsal promosyon ürünleri
+Prestijli marka sunumları
+Özel gün ve etkinlik hediyeleri
+Ofis ve iş hayatı kullanımı
+`,
+},
+{
+  id: "p587",
+  slug: "promosyon-organizer-org-250-termodei-metal-tokali",
+
+  title: "Promosyon Organizer ORG-250 | Metal Tokalı Termoderi Organizer (15x21 cm Ajanda)",
+
+  category: "Organizerler",
+  image: "/products/promosyon-organizer-org-250.jpg",
+
+  shortDesc:
+    "Promosyon organizer ORG-250, şık yüzey tasarımı ve metal tokalı yapısı ile kurumsal promosyonlar için ideal premium organizer modelidir.",
+
+  longDesc: `
+Promosyon organizer ORG-250, modern yüzey dokusu ve şık tasarım detayları ile kurumsal promosyon ürünleri arasında dikkat çeken premium bir organizer modelidir.
+
+Termoderi kapak yapısı sayesinde hem dayanıklı hem de prestijli bir görünüm sunar.
+
+Metal toka kapama sistemi, organizerin güvenli şekilde kapanmasını sağlarken ürüne estetik bir tasarım kazandırır.
+
+İç kısmında yer alan 352 sayfa ajanda, uzun süreli kullanım avantajı sunar ve yoğun iş temposuna sahip kullanıcılar için ideal bir çözümdür.
+
+70 gr. krem kağıt yapısı sayesinde konforlu ve kaliteli bir yazım deneyimi sağlar.
+
+Organizer içerisinde bulunan hesap makinesi, iş hayatında pratik kullanım imkanı sunar.
+
+Gofre ve lazer baskı teknikleri ile logo uygulamaları yapılabilir ve markanız uzun süre görünür hale getirilir.
+
+Farklı renk seçenekleri ile kurumsal kimliğinize uygun tercihler yapılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Organizer / Ajanda
+Kapak: Termoderi
+Kapama: Metal Toka
+İç Blok: 15 x 21 cm Ajanda
+Sayfa Sayısı: 352
+Kağıt: 70 gr. Krem
+Ek Özellikler: Hesap Makinesi
+Baskı Türü: Lazer, Gofre
+Koli Adeti: 30
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
+
+Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon ürünleri
+Kamu kurumları ve şirket hediyeleri
+Ofis ve iş hayatı kullanımı
+Yönetici ve çalışan hediyeleri
+Fuar ve etkinlik dağıtımları
+Günlük planlama ve ajanda kullanımı
+`,
+},
 
 ];
 
