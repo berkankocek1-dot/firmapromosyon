@@ -31951,6 +31951,496 @@ Sosyal sorumluluk organizasyonları
 Kurumsal hediye alternatifleri
 `,
 },
+{
+  id: "p548",
+  slug: "promosyon-powerbank-organizer-pb-370-6500mah-logolu",
+
+  title: "Promosyon Powerbank Organizer PB-370 (6500 mAh) | Logolu Şarjlı Organizer",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-organizer-pb-370.jpg",
+
+  shortDesc:
+    "Promosyon powerbank organizer PB-370, 6500 mAh batarya kapasitesi ve çok amaçlı organizer yapısı ile kurumsal kullanım için şık ve fonksiyonel bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon powerbank organizer PB-370, hem şarj cihazı hem de organizer fonksiyonunu bir arada sunan, modern ve kullanışlı bir promosyon ürünüdür.
+
+6500 mAh güçlü batarya kapasitesi sayesinde mobil cihazların gün içinde rahatlıkla şarj edilmesini sağlar. İş hayatında, seyahatlerde ve günlük kullanımda pratik bir çözüm sunar.
+
+Organizer tasarımı sayesinde kartlık, notluk ve aksesuar bölmeleri ile çok amaçlı kullanım imkanı sağlar. Bu özelliği ile klasik powerbank ürünlerinden ayrılarak daha prestijli bir promosyon alternatifi sunar.
+
+PU (Polyurethane) kaplama yüzeyi, ürüne premium bir görünüm kazandırır ve kurumsal hediyeler için ideal bir seçenek haline getirir.
+
+Üzerine uygulanabilen logo baskı seçenekleri sayesinde markanızı şık ve dikkat çekici bir şekilde ön plana çıkarabilirsiniz.
+
+A+ Lithium Polymer batarya teknolojisi ile güvenli ve uzun ömürlü kullanım sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Powerbank Organizer
+Kapasite: 6500 mAh
+Batarya: A+ Lithium Polymer
+Giriş: DC 5V 1A (Micro USB)
+Çıkış: DC 5V 2.1A (USB)
+Gösterge: 4 Kademeli LED Işıklı
+Materyal: PU (Polyurethane)
+
+NOT
+
+Telefonunuzu kendi orijinal kablosu ile kullanmanız tavsiye edilir.
+Bataryalar test edilmiş olup 2 yıl garantilidir.
+Ürün görsellerinde yer alan aksesuarlar temsili olup ürüne dahil değildir.
+
+SİPARİŞ BİLGİSİ
+
+Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
+
+Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu alımlarda özel fiyat avantajları sunulmaktadır.
+
+Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon kampanyaları
+Fuar ve etkinlik dağıtımları
+VIP müşteri hediyeleri
+Teknolojik promosyon ürünleri
+Şirket içi motivasyon hediyeleri
+Ofis ve iş hayatı kullanımı
+`,
+},
+{
+  id: "p549",
+  slug: "promosyon-powerbank-organizer-pb-380-6000mah-logolu",
+
+  title: "Promosyon Powerbank Organizer PB-380 (6000 mAh) | Logolu Şarjlı Organizer Defter",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-organizer-pb-380.jpg",
+
+  shortDesc:
+    "Promosyon powerbank organizer PB-380, 6000 mAh batarya kapasitesi ve çok bölmeli organizer tasarımı ile kurumsal kullanım için şık ve fonksiyonel bir promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon powerbank organizer PB-380, modern iş hayatına uyum sağlayan çok amaçlı yapısı ile hem şarj cihazı hem de organizer olarak kullanılabilen premium bir promosyon ürünüdür.
+
+6000 mAh batarya kapasitesi sayesinde akıllı telefon ve diğer mobil cihazlar için gün boyu güvenilir şarj imkanı sunar. Yoğun iş temposunda pratik kullanım avantajı sağlar.
+
+Organizer formu sayesinde telefon, kart, kablo ve notlarınızı düzenli şekilde taşımanıza olanak tanır. Bu özelliği ile klasik powerbank ürünlerinden ayrılarak daha fonksiyonel bir kullanım sunar.
+
+PU deri (Polyurethane) kaplama yüzeyi, ürüne şık ve prestijli bir görünüm kazandırır. Özellikle kurumsal hediyelerde marka imajını güçlendiren bir üründür.
+
+Logo baskı uygulamaları ile markanızı ürün üzerinde dikkat çekici ve profesyonel bir şekilde sergileyebilirsiniz.
+
+A+ Lithium Polymer batarya teknolojisi sayesinde güvenli, uzun ömürlü ve stabil performans sunar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Powerbank Organizer
+Kapasite: 6000 mAh
+Batarya: A+ Lithium Polymer
+Giriş: DC 10V 2A (Micro USB)
+Çıkış: DC 10V 2.1A (USB)
+Gösterge: 4 Kademeli LED Işıklı
+Materyal: PU Deri (Polyurethane)
+
+NOT
+
+Telefonunuzu kendi orijinal kablosu ile kullanmanız tavsiye edilir.
+Bataryalar test edilmiş olup 2 yıl garantilidir.
+Ürün görsellerinde yer alan aksesuarlar temsili olup ürüne dahil değildir.
+
+SİPARİŞ BİLGİSİ
+
+Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
+
+Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu alımlarda özel fiyat avantajları sunulmaktadır.
+
+Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Kurumsal promosyon kampanyaları
+Fuar ve etkinlik dağıtımları
+VIP müşteri hediyeleri
+Teknolojik promosyon ürünleri
+Ofis ve iş hayatı kullanımı
+Çalışan motivasyon hediyeleri
+`,
+},
+{
+  id: "p550",
+  slug: "promosyon-powerbank-organizer-pb-390-8000mah-isikli-logolu",
+
+  title: "Promosyon Powerbank Organizer PB-390 (8000 mAh) | Işıklı Logolu Premium Organizer",
+
+  category: "Powerbank",
+  image: "/products/promosyon-powerbank-organizer-pb-390.jpg",
+
+  shortDesc:
+    "Promosyon powerbank organizer PB-390, 8000 mAh kapasitesi, ışıklı logo baskısı ve çok fonksiyonlu organizer yapısı ile premium kurumsal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon powerbank organizer PB-390, yüksek kapasitesi ve premium tasarımı ile kurumsal promosyon ürünleri arasında üst segmentte yer alan dikkat çekici bir modeldir.
+
+8000 mAh güçlü batarya kapasitesi sayesinde akıllı telefon ve diğer mobil cihazlar için uzun süreli ve güvenilir şarj imkanı sunar. 15W hızlı şarj desteği ile modern kullanım ihtiyaçlarına cevap verir.
+
+Üzerinde bulunan ışıklı logo baskı özelliği, markanızı karanlık ortamlarda bile görünür kılarak maksimum marka bilinirliği sağlar. Bu özellik, ürünü standart promosyon ürünlerinden ayıran en önemli detaylardan biridir.
+
+Organizer yapısı sayesinde A5 not defteri, kartlık bölmeleri, telefon tutucu alanı ve kalem yuvası ile çok amaçlı kullanım sunar. İş hayatında düzen ve pratiklik sağlar.
+
+Şık ve modern tasarımı ile özellikle VIP müşteri hediyeleri, kurumsal etkinlikler ve prestijli promosyon kampanyaları için ideal bir tercihtir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Powerbank Organizer
+Kapasite: 8000 mAh
+Şarj Gücü: 15W
+Özellik: Işıklı Logo Baskı
+Not Defteri: A5
+Ek Özellikler: Telefon Tutucu, Kartlık, Kalem Yuvası
+
+SİPARİŞ BİLGİSİ
+
+Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
+
+Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu alımlarda özel fiyat avantajları sunulmaktadır.
+
+Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+VIP müşteri hediyeleri
+Kurumsal promosyon kampanyaları
+Fuar ve etkinlik dağıtımları
+Yönetici ve özel müşteri hediyeleri
+Teknolojik promosyon ürünleri
+Ofis ve iş hayatı kullanımı
+`,
+},
+{
+  id: "p551",
+  slug: "promosyon-wireless-stand-set-pb-400-15w-hizli-sarj",
+
+  title: "Promosyon Wireless Stand Set PB-400 | 15W Hızlı Şarjlı 3’lü Stand",
+
+  category: "Powerbank",
+  image: "/products/promosyon-wireless-stand-set-pb-400.jpg",
+
+  shortDesc:
+    "Promosyon wireless stand set PB-400, 15W hızlı şarj desteği ve çoklu cihaz şarj özelliği ile masaüstü kullanım için modern ve fonksiyonel promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon wireless stand set PB-400, modern tasarımı ve çoklu cihaz şarj özelliği ile teknolojik promosyon ürünleri arasında öne çıkan yenilikçi bir modeldir.
+
+15W hızlı şarj desteği sayesinde akıllı telefon, akıllı saat ve kablosuz kulaklık gibi cihazları aynı anda hızlı ve güvenli şekilde şarj etme imkanı sunar.
+
+Stand tasarımı, telefonun dik konumda kullanılmasını sağlayarak hem şarj hem de kullanım kolaylığı sunar. Ofis masalarında ve çalışma alanlarında şık ve düzenli bir görünüm sağlar.
+
+ABS malzeme yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunar.
+
+Ürün üzerinde yer alan UV baskı alanı ile logo uygulamaları net ve kaliteli şekilde yapılabilir, markanız modern bir görünümle ön plana çıkar.
+
+Kompakt ölçüleri sayesinde masaüstünde fazla yer kaplamadan pratik kullanım sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Wireless Stand Şarj Seti
+Şarj Gücü: 15W Fast Charge
+Giriş: 9V / 2A - 12V / 1.5A
+Materyal: ABS
+Baskı Alanı: Üst Yüzey UV Baskı
+Ebat: 18.6 x 8.1 x 1.5 cm
+
+NOT
+
+Ürün görsellerinde yer alan aksesuarlar temsili olup ürüne dahil değildir.
+
+SİPARİŞ BİLGİSİ
+
+Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
+
+Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Teknolojik promosyon kampanyaları
+Ofis masaüstü kullanım ürünleri
+Kurumsal hediyeler
+VIP müşteri promosyonları
+Fuar ve etkinlik dağıtımları
+Çalışan motivasyon hediyeleri
+`,
+},
+{
+  id: "p552",
+  slug: "promosyon-standli-wireless-sarj-pb-410-isikli-logolu",
+
+  title: "Promosyon Standlı Wireless Şarj PB-410 | Işıklı Logolu 10W Hızlı Şarj Standı",
+
+  category: "Powerbank",
+  image: "/products/promosyon-standli-wireless-sarj-pb-410.jpg",
+
+  shortDesc:
+    "Promosyon standlı wireless şarj PB-410, 10W hızlı şarj desteği ve ışıklı logo baskısı ile modern ve dikkat çekici teknolojik promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon standlı wireless şarj PB-410, modern tasarımı ve ışıklı logo özelliği ile markanızı ön plana çıkaran yenilikçi bir promosyon ürünüdür.
+
+10W hızlı şarj desteği sayesinde akıllı telefonları kablosuz olarak hızlı ve güvenli şekilde şarj edebilme imkanı sunar. Günlük kullanımda pratiklik sağlar.
+
+Dikey stand tasarımı sayesinde telefonunuzu şarj ederken aynı zamanda kullanabilirsiniz. Bu özellik, özellikle ofis masalarında büyük avantaj sağlar.
+
+Ürün üzerinde bulunan LED ışıklı logo baskı alanı, markanızın karanlık ortamlarda bile dikkat çekmesini sağlar ve güçlü bir marka görünürlüğü oluşturur.
+
+Rubber kaplama yüzeyi, ürüne premium bir dokunuş kazandırırken kaymaz yapı ile stabil kullanım sunar.
+
+Kompakt ve şık tasarımı sayesinde masaüstü kullanım için ideal bir promosyon ürünüdür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Wireless Şarj Standı
+Şarj Gücü: 10W Fast Charge
+Özellik: Işıklı Logo Baskı, LED Işık
+Giriş: Micro Input (1A)
+Tasarım: Dikey Stand
+Materyal: Rubber
+
+NOT
+
+Ürün görsellerinde yer alan aksesuarlar temsili olup ürüne dahil değildir.
+
+SİPARİŞ BİLGİSİ
+
+Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
+
+Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Teknolojik promosyon kampanyaları
+Fuar ve etkinlik dağıtımları
+Kurumsal hediyeler
+Ofis masaüstü kullanım ürünleri
+VIP müşteri promosyonları
+Çalışan motivasyon hediyeleri
+`,
+},
+{
+  id: "p553",
+  slug: "promosyon-wireless-sarj-standi-pb-420-15w-typec",
+
+  title: "Promosyon Wireless Şarj Standı PB-420 | 15W Type-C Hızlı Şarj Standı",
+
+  category: "Powerbank",
+  image: "/products/promosyon-wireless-sarj-standi-pb-420.jpg",
+
+  shortDesc:
+    "Promosyon wireless şarj standı PB-420, 15W hızlı şarj desteği ve modern tasarımı ile tüm kablosuz uyumlu cihazlar için ideal promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon wireless şarj standı PB-420, sade ve modern tasarımı ile masaüstü kullanım için geliştirilmiş fonksiyonel bir teknolojik promosyon ürünüdür.
+
+15W hızlı şarj desteği sayesinde akıllı telefonları hızlı ve güvenli şekilde kablosuz olarak şarj etme imkanı sunar. Günlük kullanımda pratiklik sağlar.
+
+Tüm wireless şarj destekli cihazlarla uyumlu yapısı sayesinde geniş kullanım alanına sahiptir. Ofis, ev ve çalışma alanlarında rahatlıkla kullanılabilir.
+
+Type-C giriş desteği ile hızlı ve stabil enerji aktarımı sağlar.
+
+ABS malzeme yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunar.
+
+Ürün üzerinde bulunan UV baskı alanı ile logo uygulamaları net ve kaliteli şekilde yapılabilir. Markanızı sade ama etkili şekilde ön plana çıkarır.
+
+Kompakt yapısı ve hafif tasarımı sayesinde kolay taşınabilir ve masaüstünde fazla yer kaplamaz.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Wireless Şarj Standı
+Şarj Gücü: 15W Fast Charge
+Giriş: Type-C
+Uyumluluk: Tüm Wireless Cihazlar
+Materyal: ABS
+Baskı Türü: UV Renkli Baskı
+Ağırlık: 161 gr
+
+NOT
+
+Ürün görsellerinde yer alan aksesuarlar temsili olup ürüne dahil değildir.
+
+SİPARİŞ BİLGİSİ
+
+Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
+
+Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Teknolojik promosyon kampanyaları
+Kurumsal hediyeler
+Ofis masaüstü kullanım ürünleri
+Fuar ve etkinlik dağıtımları
+Çalışan motivasyon hediyeleri
+Günlük kullanım
+`,
+},
+{
+  id: "p554",
+  slug: "promosyon-wireless-stand-set-pb-425-3lu-15w-typec",
+
+  title: "Promosyon Wireless Stand Set PB-425 | 3’lü 15W Type-C Şarj Standı",
+
+  category: "Powerbank",
+  image: "/products/promosyon-wireless-stand-set-pb-425.jpg",
+
+  shortDesc:
+    "Promosyon wireless stand set PB-425, 15W hızlı şarj desteği ve 3’lü cihaz şarj özelliği ile masaüstü kullanım için ideal teknolojik promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon wireless stand set PB-425, modern tasarımı ve çoklu cihaz şarj özelliği ile teknolojik promosyon ürünleri arasında öne çıkan fonksiyonel bir modeldir.
+
+15W hızlı şarj desteği sayesinde akıllı telefon, akıllı saat ve kablosuz kulaklık gibi cihazları aynı anda hızlı ve güvenli şekilde şarj edebilme imkanı sunar.
+
+3’lü şarj yapısı, masaüstünde düzenli ve pratik kullanım sağlar. Özellikle ofis çalışanları ve yoğun tempoda çalışan profesyoneller için ideal bir çözümdür.
+
+Type-C giriş desteği sayesinde stabil ve hızlı enerji aktarımı sağlar.
+
+ABS malzeme yapısı, ürüne dayanıklılık kazandırırken uzun ömürlü kullanım sunar.
+
+Ürün üzerinde yer alan UV renkli baskı alanı ile logo uygulamaları net ve profesyonel şekilde yapılabilir. Markanızı modern bir görünümle ön plana çıkarır.
+
+Kompakt tasarımı sayesinde masaüstünde fazla yer kaplamadan estetik bir kullanım sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Wireless Stand Şarj Seti
+Şarj Gücü: 15W Fast Charge
+Uyumluluk: Tüm Wireless Cihazlar
+Giriş: Type-C
+Materyal: ABS
+Baskı Türü: UV Renkli Baskı
+Ağırlık: 169 gr
+
+NOT
+
+Ürün görsellerinde yer alan aksesuarlar temsili olup ürüne dahil değildir.
+
+SİPARİŞ BİLGİSİ
+
+Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
+
+Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+Teknolojik promosyon kampanyaları
+Kurumsal hediyeler
+VIP müşteri promosyonları
+Ofis masaüstü kullanım ürünleri
+Fuar ve etkinlik dağıtımları
+Çalışan motivasyon hediyeleri
+`,
+},
+{
+  id: "p555",
+  slug: "promosyon-wireless-stand-set-pb-430-isikli-logolu-15w",
+
+  title: "Promosyon Wireless Stand Set PB-430 | Işıklı Logolu 3’lü 15W Şarj Standı",
+
+  category: "Powerbank",
+  image: "/products/promosyon-wireless-stand-set-pb-430.jpg",
+
+  shortDesc:
+    "Promosyon wireless stand set PB-430, 15W hızlı şarj desteği ve ışıklı logo baskısı ile premium segment teknolojik promosyon ürünüdür.",
+
+  longDesc: `
+Promosyon wireless stand set PB-430, modern tasarımı ve ışıklı marka baskısı ile dikkat çeken, üst segment bir teknolojik promosyon ürünüdür.
+
+15W hızlı şarj desteği sayesinde akıllı telefon, akıllı saat ve kablosuz kulaklık gibi cihazları aynı anda hızlı ve güvenli şekilde şarj etme imkanı sunar.
+
+Işıklı markalama özelliği sayesinde logo uygulaması LED ışık ile görünür hale gelir ve özellikle düşük ışıklı ortamlarda markanızın dikkat çekmesini sağlar.
+
+3’lü şarj yapısı ile masaüstünde düzenli ve profesyonel bir kullanım sunar. Ofis ortamları ve kurumsal kullanım için ideal bir çözümdür.
+
+Type-C giriş desteği sayesinde stabil ve hızlı enerji aktarımı sağlar.
+
+ABS malzeme yapısı, ürüne dayanıklılık kazandırırken uzun ömürlü kullanım sunar.
+
+Lazer kazıma ile yapılan light-up logo baskı, ürüne premium bir görünüm kazandırır ve markanızın prestijini artırır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Wireless Stand Şarj Seti
+Şarj Gücü: 15W Fast Charge
+Özellik: Işıklı Logo (Light-Up)
+Uyumluluk: Tüm Wireless Cihazlar
+Giriş: Type-C
+Materyal: ABS
+Baskı Türü: Lazer Kazıma (Işıklı Logo)
+Ağırlık: 172 gr
+
+NOT
+
+Ürün görsellerinde yer alan aksesuarlar temsili olup ürüne dahil değildir.
+
+SİPARİŞ BİLGİSİ
+
+Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
+
+Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+
+KULLANIM ALANLARI
+
+VIP müşteri hediyeleri
+Premium kurumsal promosyon kampanyaları
+Fuar ve etkinlik dağıtımları
+Yönetici ve özel müşteri hediyeleri
+Teknolojik promosyon ürünleri
+Ofis masaüstü kullanım ürünleri
+`,
+},
 
 ];
 
