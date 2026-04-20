@@ -1,7 +1,15 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  async redirects() {
+    return [
+      {
+        source: '/promosyon-seramik-porselen-kupalar',
+        destination: '/promosyon-kupa',
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;
