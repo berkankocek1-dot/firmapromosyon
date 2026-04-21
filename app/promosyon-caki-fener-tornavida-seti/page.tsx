@@ -176,11 +176,14 @@ export default function Page() {
           >
             <div className="relative aspect-square rounded-xl bg-gray-50">
               <Image
-                src={p.image}
-                alt={p.title}
-                fill
-                className="object-contain p-4"
-              />
+  src={p.image}
+  alt={p.title}
+  fill
+  unoptimized
+  loading="lazy"
+  className="object-contain p-4"
+  sizes="(max-width: 768px) 100vw, 33vw"
+/>
             </div>
 
             <div className="mt-4">

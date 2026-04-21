@@ -508,12 +508,14 @@ export default function Home() {
               <div className="relative">
                 <div className="relative flex aspect-[4/3] items-center justify-center overflow-hidden border-b border-gray-100 bg-white">
                   <Image
-                    src={getCategoryImage(category)}
-                    alt={category.name}
-                    fill
-                    sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
-                    className="object-contain p-2 transition duration-500 group-hover:scale-105"
-                  />
+  src={getCategoryImage(category)}
+  alt={category.name}
+  fill
+  unoptimized
+  loading="lazy"
+  sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
+  className="object-contain p-2 transition duration-500 group-hover:scale-105"
+/>
                 </div>
 
                 <div className="p-4 md:p-5">
@@ -626,13 +628,15 @@ export default function Home() {
                   className="group rounded-3xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
                 >
                   <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
-                    <Image
-                      src={img}
-                      alt={title}
-                      fill
-                      sizes="(max-width: 768px) 50vw, 20vw"
-                      className="object-contain p-2 transition duration-500 group-hover:scale-105"
-                    />
+                   <Image
+  src={img}
+  alt={title}
+  fill
+  unoptimized
+  loading="lazy"
+  sizes="(max-width: 768px) 50vw, 20vw"
+  className="object-contain p-2 transition duration-500 group-hover:scale-105"
+/>
                   </div>
 
                   <div className="mt-4">
@@ -966,13 +970,15 @@ function MiniProductCard({ product }: { product: any }) {
       className="group rounded-3xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
     >
       <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
-        <Image
-          src={img}
-          alt={title}
-          fill
-          sizes="(max-width: 640px) 100vw, 25vw"
-          className="object-contain p-2 transition duration-500 group-hover:scale-105"
-        />
+       <Image
+  src={img}
+  alt={title}
+  fill
+  unoptimized
+  loading="lazy"
+  sizes="(max-width: 640px) 100vw, 25vw"
+  className="object-contain p-2 transition duration-500 group-hover:scale-105"
+/>
       </div>
 
       <div className="mt-4">

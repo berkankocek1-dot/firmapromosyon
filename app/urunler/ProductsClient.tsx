@@ -98,7 +98,8 @@ export default function ProductsClient({ products }: { products: Product[] }) {
 
       {filteredProducts.length === 0 ? (
         <div className="rounded-2xl border border-white/10 bg-white/5 p-6 text-white/80">
-          Aradığınız ürüne uygun sonuç bulunamadı. Ürün adı ya da kodu farklı şekilde yazmayı deneyin.
+          Aradığınız ürüne uygun sonuç bulunamadı. Ürün adı ya da kodu farklı
+          şekilde yazmayı deneyin.
         </div>
       ) : (
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -113,8 +114,10 @@ export default function ProductsClient({ products }: { products: Product[] }) {
                   src={p.image}
                   alt={p.title}
                   fill
+                  unoptimized
+                  loading="lazy"
                   className="object-contain p-4"
-                  sizes="(max-width: 768px) 100vw, 33vw"
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                 />
               </div>
 

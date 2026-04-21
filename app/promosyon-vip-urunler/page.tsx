@@ -181,6 +181,8 @@ export default function Page() {
                 src={p.image}
                 alt={p.title}
                 fill
+                unoptimized
+loading="lazy"
                 className="object-contain p-4"
                 sizes="(max-width: 768px) 100vw, 33vw"
               />

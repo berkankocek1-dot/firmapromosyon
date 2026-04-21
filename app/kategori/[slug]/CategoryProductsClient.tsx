@@ -108,13 +108,15 @@ export default function CategoryProductsClient({
               className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:shadow-md"
             >
               <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
-                <Image
-                  src={p.image}
-                  alt={p.title}
-                  fill
-                  className="object-contain p-4"
-                  sizes="(max-width: 768px) 100vw, 33vw"
-                />
+               <Image
+  src={p.image}
+  alt={p.title}
+  fill
+  unoptimized
+  loading="lazy"
+  className="object-contain p-4"
+  sizes="(max-width: 768px) 100vw, 33vw"
+/>
               </div>
 
               <div className="mt-4">

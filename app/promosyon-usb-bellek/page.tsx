@@ -221,6 +221,8 @@ export default function UsbPage() {
                 src={product.image}
                 alt={product.title}
                 fill
+                unoptimized
+loading="lazy"
                 className="object-contain p-4"
                 sizes="(max-width: 768px) 100vw, 33vw"
               />

@@ -182,6 +182,7 @@ export default async function ProductPage({ params }: PageProps) {
             src={product.image}
             alt={product.title}
             fill
+            unoptimized
             className="object-contain p-6"
             sizes="(max-width: 768px) 100vw, 50vw"
             priority
