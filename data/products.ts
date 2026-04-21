@@ -37868,6 +37868,1185 @@ Fuar ve etkinlik promosyonları
 Marka tanıtım çalışmaları
 `,
 },
+{
+  id: "p643",
+  slug: "promosyon-vip-set-vip-400-termo-deri-defter-metal-kalem-kurumsal-hediye-seti",
+
+  title: "Promosyon VIP Set VIP-400 | Termo Deri 13x21 Defter ve Metal Kalemli Özel Kutulu Kurumsal Hediye",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-400.jpg",
+
+  shortDesc:
+    "Promosyon VIP set VIP-400, 13x21 cm termo deri defter ve metal tükenmez kalemden oluşan, özel kutulu şık ve prestijli kurumsal hediye setidir.",
+
+  longDesc: `
+Promosyon VIP set VIP-400, şık tasarımı ve kaliteli malzeme yapısı ile kurumsal firmalar için prestijli bir promosyon çözümü sunar.
+
+Set içerisinde termo deri kapaklı 13 x 21 cm defter ve metal tükenmez kalem yer almaktadır.
+
+Termo deri defter, yumuşak dokusu ve dayanıklı yapısı ile uzun süreli kullanım sunarken, geniş sayfa yapısı sayesinde toplantı, planlama ve not alma işlemleri için idealdir.
+
+Metal tükenmez kalem ise modern tasarımı ve ergonomik yapısı ile konforlu bir yazım deneyimi sağlar ve profesyonel bir görünüm sunar.
+
+Özel tasarım kutusu ile sunulan bu set, hem hediye olarak şık bir sunum sağlar hem de marka değerini artıran etkili bir promosyon ürünüdür.
+
+Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve markanızın uzun süre görünür olması sağlanır.
+
+Farklı renk seçenekleri ile geniş kitlelere hitap eden bu set, özellikle kurumsal dağıtımlar ve özel etkinlikler için ideal bir tercihtir.
+
+TEKNİK ÖZELLİKLER
+
+Set İçeriği:
+- 13 x 21 cm Termo Deri Defter
+- Metal Tükenmez Kalem
+
+Kutu: Özel Tasarım Hediyelik Kutu
+Baskı: UV, Lazer, Serigrafi
+
+NOT
+
+Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+Firma logonuza özel baskı yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal hediye setleri
+Çalışan motivasyon ürünleri
+Fuar ve etkinlik promosyonları
+Marka tanıtım çalışmaları
+Ofis kullanımı ve dağıtım ürünleri
+`,
+},
+{
+  id: "p644",
+  slug: "promosyon-vip-set-vip-410-termo-deri-defter-roller-kalem-kurumsal-hediye-seti",
+
+  title: "Promosyon VIP Set VIP-410 | 15x21 Termo Deri Defter ve Metal Roller Kalemli Şık Kurumsal Set",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-410.jpg",
+
+  shortDesc:
+    "Promosyon VIP set VIP-410, 15x21 cm termo deri defter ve metal roller kalemden oluşan, karton kutulu şık ve prestijli kurumsal hediye setidir.",
+
+  longDesc: `
+Promosyon VIP set VIP-410, geniş boyutlu defteri ve premium yazım deneyimi sunan roller kalemi ile kurumsal firmalar için üst segment bir promosyon çözümüdür.
+
+Set içerisinde 15 x 21 cm termo deri defter ve metal roller kalem yer almaktadır.
+
+15 x 21 cm ölçüsündeki termo deri defter, geniş yazım alanı ile toplantılar, planlama ve günlük not alma süreçlerinde maksimum kullanım konforu sağlar.
+
+Metal roller kalem, akıcı yazım performansı ve şık tasarımı ile klasik tükenmez kalemlere göre daha prestijli bir kullanım sunar.
+
+Karton kutu içerisinde sunulan bu set, sade ama etkili bir kurumsal hediye alternatifi olup marka imajınızı güçlendirmeye yardımcı olur.
+
+Ürünlerin tamamına firmanıza özel logo baskı uygulanabilir ve bu sayede markanız uzun süreli görünürlük kazanır.
+
+Farklı renk seçenekleri ile geniş kitlelere hitap eden bu set, hem ekonomik hem de kaliteli bir promosyon çözümü sunar.
+
+TEKNİK ÖZELLİKLER
+
+Set İçeriği:
+- 15 x 21 cm Termo Deri Defter
+- Metal Roller Kalem
+
+Kutu: Karton Kutu
+Baskı: UV, Lazer, Serigrafi
+
+NOT
+
+Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+Firma logonuza özel baskı yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal hediye setleri
+Toplantı ve ofis kullanımı
+Çalışan motivasyon ürünleri
+Fuar ve etkinlik promosyonları
+Marka tanıtım çalışmaları
+`,
+},
+{
+  id: "p645",
+  slug: "promosyon-vip-set-vip-420-9x14-defter-metal-kalem-kurumsal-hediye-seti",
+
+  title: "Promosyon VIP Set VIP-420 | 9x14 Defter ve Metal Kalemli Özel Kutulu Kurumsal Hediye Seti",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-420.jpg",
+
+  shortDesc:
+    "Promosyon VIP set VIP-420, 9x14 cm defter ve metal kalemden oluşan, özel kutulu kompakt ve ekonomik kurumsal hediye setidir.",
+
+  longDesc: `
+Promosyon VIP set VIP-420, kompakt boyutu ve şık tasarımı ile günlük kullanım için pratik ve ekonomik bir kurumsal promosyon çözümüdür.
+
+Set içerisinde 9 x 14 cm defter ve metal kalem yer almaktadır.
+
+9 x 14 cm ölçüsündeki defter, taşınabilir yapısı sayesinde çanta ve masa kullanımına uygun olup hızlı not alma, günlük planlama ve saha kullanımları için idealdir.
+
+Metal kalem, dayanıklı yapısı ve şık görünümü ile uzun ömürlü kullanım sunarken aynı zamanda profesyonel bir imaj oluşturur.
+
+Özel tasarım kutu içerisinde sunulan bu set, hem şık bir hediye alternatifi hem de geniş dağıtımlar için uygun maliyetli bir promosyon ürünüdür.
+
+Ürünlerin tamamına firmanıza özel logo baskı uygulanabilir ve bu sayede markanız sürekli görünürlük kazanır.
+
+Farklı renk seçenekleri ile her hedef kitleye hitap eden bu set, özellikle yüksek adetli promosyon çalışmalarında avantaj sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Set İçeriği:
+- 9 x 14 cm Defter
+- Metal Kalem
+
+Kutu: Özel Tasarım Hediyelik Kutu
+Baskı: UV, Lazer, Serigrafi
+
+NOT
+
+Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+Firma logonuza özel baskı yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Toplu promosyon dağıtımları
+Fuar ve etkinlik ürünleri
+Kurumsal hediye setleri
+Saha ekipleri için pratik kullanım
+Marka tanıtım çalışmaları
+`,
+},
+{
+  id: "p646",
+  slug: "promosyon-vip-set-vip-430-termos-powerbank-speaker-kurumsal-luks-hediye-seti",
+
+  title: "Promosyon VIP Set VIP-430 | Termos, Powerbank, Bluetooth Speaker ve Premium Kurumsal Hediye Seti",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-430.jpg",
+
+  shortDesc:
+    "Promosyon VIP set VIP-430, termos, 10.000 mAh powerbank, Bluetooth speaker ve çoklu aksesuar içeren, deri kutulu lüks kurumsal hediye setidir.",
+
+  longDesc: `
+Promosyon VIP set VIP-430, teknoloji ve günlük kullanım ürünlerini bir araya getiren zengin içeriği ile üst segment kurumsal promosyon çözümleri arasında yer alır.
+
+Set içerisinde termos (500 mL French Press), 10.000 mAh powerbank, metal roller kalem, Bluetooth speaker, fener ve çakı bulunmaktadır.
+
+500 mL French Press termos, sıcak ve soğuk içeceklerinizi uzun süre muhafaza ederek günlük kullanımda maksimum konfor sağlar.
+
+10.000 mAh powerbank, yüksek kapasitesi ile mobil cihazlarınızı gün boyu şarj edebilmenize olanak tanır.
+
+Bluetooth speaker, kompakt yapısı ile güçlü ses performansı sunarken taşınabilir kullanım avantajı sağlar.
+
+Metal roller kalem, şık tasarımı ve akıcı yazım deneyimi ile profesyonel bir kullanım sunar.
+
+Fener ve çakı gibi çok amaçlı aksesuarlar ise outdoor ve günlük kullanım için pratik çözümler sağlar.
+
+Tüm ürünler, özel tasarım deri kutu içerisinde sunularak prestijli ve dikkat çekici bir hediye deneyimi oluşturur.
+
+Firma logonuza özel baskı uygulanabilen bu set, markanızın güçlü ve kalıcı bir şekilde tanıtılmasını sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Set İçeriği:
+- 500 mL French Press Termos
+- 10.000 mAh Powerbank
+- Metal Roller Kalem
+- Bluetooth Speaker
+- Fener
+- Çakı
+
+Kutu: Özel Tasarım Deri Kutu
+Baskı: UV, Lazer, Serigrafi
+
+NOT
+
+Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+Firma logonuza özel baskı yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+VIP müşteri hediyeleri
+Üst düzey kurumsal promosyonlar
+Özel gün ve lansman hediyeleri
+Yönetici ve çalışan ödüllendirme setleri
+Marka prestij artırma çalışmaları
+`,
+},
+{
+  id: "p647",
+  slug: "promosyon-vip-set-vip-440-termos-powerbank-speaker-luks-kurumsal-hediye-seti",
+
+  title: "Promosyon VIP Set VIP-440 | Termos, 10.000 mAh Powerbank ve Bluetooth Speaker İçeren Lüks Hediye Seti",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-440.jpg",
+
+  shortDesc:
+    "Promosyon VIP set VIP-440, termos, powerbank, Bluetooth speaker ve çoklu aksesuar içeren, deri kutulu premium kurumsal hediye setidir.",
+
+  longDesc: `
+Promosyon VIP set VIP-440, modern yaşamın ihtiyaç duyduğu teknoloji ve günlük kullanım ürünlerini bir araya getiren lüks bir kurumsal hediye setidir.
+
+Set içerisinde 500 mL termos, 10.000 mAh powerbank, metal roller kalem, Bluetooth speaker, fener ve çakı bulunmaktadır.
+
+500 mL termos, içeceklerin sıcaklığını uzun süre koruyarak ofis ve günlük kullanımda konfor sağlar.
+
+10.000 mAh powerbank, mobil cihazlar için yüksek kapasiteli enerji desteği sunarak gün boyu kesintisiz kullanım imkanı sağlar.
+
+Bluetooth speaker, kompakt boyutuna rağmen güçlü ses performansı ile hem ofis hem de kişisel kullanımda keyifli bir deneyim sunar.
+
+Metal roller kalem, zarif tasarımı ve akıcı yazım özelliği ile profesyonel kullanım için idealdir.
+
+Fener ve çakı gibi çok amaçlı aksesuarlar ise hem günlük hem de outdoor kullanımlarda pratik çözümler sunar.
+
+Tüm ürünler, özel tasarım deri kutu içerisinde sunularak prestijli ve dikkat çekici bir hediye alternatifi oluşturur.
+
+Firma logonuza özel baskı uygulanabilen bu set, markanızın kalıcı ve güçlü bir şekilde tanıtılmasını sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Set İçeriği:
+- 500 mL Termos
+- 10.000 mAh Powerbank
+- Metal Roller Kalem
+- Bluetooth Speaker
+- Fener
+- Çakı
+
+Kutu: Özel Tasarım Deri Kutu
+Baskı: UV, Lazer, Serigrafi
+
+NOT
+
+Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+Firma logonuza özel baskı yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal VIP hediye setleri
+Yönetici ve özel müşteri hediyeleri
+Fuar ve lansman ürünleri
+Marka prestij çalışmaları
+Kurumsal promosyon kampanyaları
+`,
+},
+{
+  id: "p648",
+  slug: "promosyon-vip-set-vip-450-powerbank-defter-kalem-kurumsal-teknolojik-hediye-seti",
+
+  title: "Promosyon VIP Set VIP-450 | Powerbank, Defter, Kalem ve Aksesuar İçeren Premium Kurumsal Hediye Seti",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-450.jpg",
+
+  shortDesc:
+    "Promosyon VIP set VIP-450, 10.000 mAh powerbank, cilt bezli defter, kalem seti ve aksesuarlarıyla özel kutulu premium kurumsal hediye setidir.",
+
+  longDesc: `
+Promosyon VIP set VIP-450, modern iş dünyasının ihtiyaçlarına yönelik tasarlanmış, teknoloji ve ofis ürünlerini bir araya getiren kapsamlı bir kurumsal hediye setidir.
+
+Set içerisinde 13 x 21 cm cilt bezli mat defter, 10.000 mAh powerbank, metal roller kalem, tükenmez kalem, çoklu şarj kablosu ve metal anahtarlık yer almaktadır.
+
+13 x 21 cm cilt bezli defter, sade ve profesyonel tasarımı ile toplantı ve günlük not alma süreçlerinde ideal kullanım sunar.
+
+10.000 mAh powerbank, yüksek kapasitesi ile mobil cihazlar için güvenilir enerji kaynağı sağlar ve gün boyu kesintisiz kullanım imkanı sunar.
+
+Metal roller ve tükenmez kalemden oluşan kalem seti, hem akıcı yazım hem de prestijli görünüm açısından kurumsal kullanıma uygundur.
+
+Çoklu şarj kablosu, farklı cihazlarla uyumlu yapısı sayesinde pratik kullanım avantajı sunar ve özellikle mobil kullanıcılar için büyük kolaylık sağlar.
+
+Metal anahtarlık, şık ve dayanıklı yapısı ile setin tamamlayıcı bir parçasıdır.
+
+Işıklı markalama özelliği ile powerbank ve aksesuarlar üzerinde logo uygulamaları dikkat çekici ve modern bir görünüm sağlar.
+
+Tüm ürünler özel tasarım kutu içerisinde sunularak hem estetik hem de prestijli bir hediye deneyimi oluşturur.
+
+TEKNİK ÖZELLİKLER
+
+Set İçeriği:
+- 13 x 21 cm Cilt Bezi Defter (Mat)
+- 10.000 mAh Powerbank (Işıklı Markalama)
+- Metal Roller Kalem
+- Metal Tükenmez Kalem
+- Çoklu Şarj Kablosu
+- Metal Anahtarlık
+
+Kutu: Özel Tasarım Hediyelik Kutu
+Baskı: UV, Lazer, Işıklı Logo
+
+NOT
+
+Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+Firma logonuza özel baskı yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Yönetici ve VIP müşteri hediyeleri
+Kurumsal promosyon setleri
+Ofis ve iş hayatı kullanım ürünleri
+Fuar ve lansman dağıtımları
+Marka prestij artırma çalışmaları
+`,
+},
+{
+  id: "p649",
+  slug: "promosyon-vip-set-vip-460-powerbank-usb-defter-kurumsal-hediye-seti",
+
+  title: "Promosyon VIP Set VIP-460 | Powerbank, USB Bellek, Defter ve Kalem İçeren Prestijli Kurumsal Hediye Seti",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-460.jpg",
+
+  shortDesc:
+    "Promosyon VIP set VIP-460, powerbank, USB bellek, cilt bezli defter ve kalemden oluşan, kartvizitlikli özel kutulu prestijli kurumsal hediye setidir.",
+
+  longDesc: `
+Promosyon VIP set VIP-460, iş dünyasının temel ihtiyaçlarını karşılayan ürünleri bir araya getirerek hem fonksiyonel hem de prestijli bir kurumsal hediye çözümü sunar.
+
+Set içerisinde 13 x 21 cm parlak cilt bezli defter, 10.000 mAh powerbank, metal roller kalem, 16 GB USB bellek ve kartvizitlik yer almaktadır.
+
+13 x 21 cm parlak kapaklı defter, şık görünümü ve geniş kullanım alanı ile toplantı, not alma ve planlama süreçlerinde profesyonel bir deneyim sunar.
+
+10.000 mAh powerbank, yüksek kapasitesi sayesinde mobil cihazlar için güçlü ve güvenilir bir enerji kaynağı sağlar.
+
+16 GB USB bellek, veri taşıma ve sunum ihtiyaçları için pratik ve işlevsel bir çözüm sunar.
+
+Metal roller kalem, akıcı yazım performansı ve zarif tasarımı ile kurumsal kullanımda prestij sağlar.
+
+Kartvizitlik, iş dünyasında düzenli ve profesyonel bir görünüm oluşturmak için ideal bir tamamlayıcı üründür.
+
+Tüm ürünler, özel tasarım kutu içerisinde sunularak etkileyici ve kaliteli bir hediye deneyimi oluşturur.
+
+Firma logonuza özel baskı uygulanabilen bu set, markanızın kurumsal kimliğini güçlendirir ve uzun süreli görünürlük sağlar.
+
+TEKNİK ÖZELLİKLER
+
+Set İçeriği:
+- 13 x 21 cm Cilt Bezi Defter (Parlak Kapak)
+- 10.000 mAh Powerbank
+- Metal Roller Kalem
+- 16 GB USB Bellek
+- Kartvizitlik
+
+Kutu: Özel Tasarım Hediyelik Kutu
+Baskı: UV, Lazer, Serigrafi
+
+NOT
+
+Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+Firma logonuza özel baskı yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal hediye setleri
+Yönetici ve iş ortaklarına özel hediyeler
+Toplantı ve ofis kullanımı
+Fuar ve etkinlik promosyonları
+Marka prestij ve tanıtım çalışmaları
+`,
+},
+{
+  id: "p650",
+  slug: "promosyon-vip-set-kutusu-vip-470-ozel-kurumsal-hediye-kutusu",
+
+  title: "Promosyon VIP Set Kutusu VIP-470 | Özel Ölçü Kurumsal Hediye Kutusu (Set Oluşturulabilir)",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-kutusu-vip-470.jpg",
+
+  shortDesc:
+    "Promosyon VIP set kutusu VIP-470, 24x20.5 cm ölçülerinde, içerisine özel ürünler eklenerek kurumsal hediye seti oluşturulabilen şık kutu çözümüdür.",
+
+  longDesc: `
+Promosyon VIP set kutusu VIP-470, firmalara özel kurumsal hediye setleri oluşturmak için tasarlanmış şık ve profesyonel bir kutu çözümüdür.
+
+24 x 20.5 x 2.2 cm ölçülerine sahip bu özel kutu, içerisine farklı promosyon ürünleri yerleştirilerek tamamen kişiselleştirilebilir setler oluşturmanıza imkan tanır.
+
+Kutu içerisine katalogda yer alan defter, kalem, powerbank, USB bellek ve benzeri promosyon ürünleri eklenerek firmanıza özel VIP setler hazırlanabilir.
+
+Bu sayede standart ürünler yerine tamamen markanıza ve hedef kitlenize uygun, özgün kurumsal hediye çözümleri oluşturabilirsiniz.
+
+Ürün, sade ve şık tasarımı ile sunum kalitesini artırırken, müşterileriniz ve iş ortaklarınız üzerinde güçlü bir marka algısı oluşturur.
+
+Kurumsal firmalar için özellikle fuar, lansman, özel gün ve VIP müşteri hediyelerinde tercih edilen profesyonel bir çözümdür.
+
+Firma logonuza özel baskı uygulamaları ile kutu üzerine markalama yapılabilir ve marka görünürlüğü üst seviyeye çıkarılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Kutu Ölçüleri:
+- 24 x 20.5 x 2.2 cm
+
+Kullanım:
+- İçerik dahil değildir (boş kutu)
+- İstenilen ürünlerle özel set yapılabilir
+
+Baskı: UV, Lazer, Serigrafi
+
+NOT
+
+Görsellerde yer alan defter ve kalem temsili olup fiyata dahil değildir.
+
+Set içerikleri müşteri talebine göre özelleştirilmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+İçerik seçimi tamamen size özeldir.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kişiye özel kurumsal hediye setleri
+VIP müşteri hediye kutuları
+Fuar ve lansman setleri
+Marka tanıtım paketleri
+Özel gün ve etkinlik promosyonları
+`,
+},
+{
+  id: "p651",
+  slug: "promosyon-vip-set-kutusu-vip-480-buyuk-boy-ozel-kurumsal-hediye-kutusu",
+
+  title: "Promosyon VIP Set Kutusu VIP-480 | Büyük Boy Özel Kurumsal Hediye Kutusu (33,5x25x10,2 cm)",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-kutusu-vip-480.jpg",
+
+  shortDesc:
+    "Promosyon VIP set kutusu VIP-480, büyük hacimli yapısı ile çoklu ürün yerleşimine uygun, özel set oluşturulabilen premium kurumsal hediye kutusudur.",
+
+  longDesc: `
+Promosyon VIP set kutusu VIP-480, geniş iç hacmi sayesinde çoklu ürün kombinasyonları oluşturmak isteyen firmalar için tasarlanmış profesyonel bir kurumsal hediye kutusudur.
+
+33,5 x 25 x 10,2 cm dış ölçülere sahip olan bu kutu, defter, termos, powerbank, elektronik aksesuarlar ve farklı promosyon ürünlerinin bir arada sunulmasına imkan tanır.
+
+İç ölçüleri 32 x 24.5 x 10 cm olan kutu, özellikle büyük ve zengin içerikli VIP setler hazırlamak isteyen markalar için ideal bir çözümdür.
+
+Kutu içerisine katalogda yer alan ürünler eklenerek tamamen markanıza özel kurumsal hediye setleri oluşturabilirsiniz.
+
+Standart setlerin ötesine geçerek, hedef kitlenize özel hazırlanmış profesyonel sunumlar yapabilir ve marka algınızı güçlendirebilirsiniz.
+
+Kutu içerisine sünger veya kırpık kağıt eklenerek ürün yerleşimi daha estetik ve güvenli hale getirilebilir (dahil değildir).
+
+Şık ve sade tasarımı sayesinde premium bir hediye deneyimi sunar ve özellikle üst segment müşteri kitlesine hitap eder.
+
+Firma logonuza özel baskı uygulamaları ile kutu kişiselleştirilebilir ve marka görünürlüğü artırılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Kutu Ölçüleri:
+- Dış: 33,5 x 25 x 10,2 cm
+- İç: 32 x 24.5 x 10 cm
+
+Kullanım:
+- İçerik dahil değildir (boş kutu)
+- İstenilen ürünlerle özel set yapılabilir
+
+Ekstra:
+- Sünger veya kırpık kağıt dahil değildir
+
+Baskı: UV, Lazer, Serigrafi
+
+NOT
+
+Görseller temsili olup içerik dahil değildir.
+
+Set içerikleri müşteri talebine göre özelleştirilmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+İçerik seçimi tamamen size özeldir.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+VIP kurumsal hediye setleri
+Büyük hacimli promosyon paketleri
+Fuar ve lansman setleri
+Üst düzey müşteri hediyeleri
+Marka prestij ve sunum çalışmaları
+`,
+},
+{
+  id: "p652",
+  slug: "promosyon-vip-set-kutusu-vip-490-ince-buyuk-olculu-kurumsal-hediye-kutusu",
+
+  title: "Promosyon VIP Set Kutusu VIP-490 | İnce Büyük Ölçülü Mıknatıslı Kurumsal Hediye Kutusu (35x28 cm)",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-kutusu-vip-490.jpg",
+
+  shortDesc:
+    "Promosyon VIP set kutusu VIP-490, ince yapısı ve geniş yüzeyi ile defter ve kalem gibi ürünler için özel set oluşturulabilen mıknatıslı kurumsal hediye kutusudur.",
+
+  longDesc: `
+Promosyon VIP set kutusu VIP-490, geniş yüzey alanı ve ince formu ile özellikle sade ve şık kurumsal hediye setleri hazırlamak isteyen firmalar için ideal bir çözümdür.
+
+35 x 28 x 3.5 cm ölçülerine sahip olan bu kutu, defter, kalem, ajanda ve benzeri ince promosyon ürünlerinin estetik şekilde sunulmasına imkan tanır.
+
+İnce yapısı sayesinde hem zarif hem de modern bir görünüm sunar ve özellikle minimal tasarımlı VIP setler için tercih edilir.
+
+Cilt bezli kapak yapısı, kutuya premium bir dokunuş kazandırırken, mıknatıslı kapak sistemi sayesinde güvenli ve kolay kullanım sağlar.
+
+Kutu içerisine katalogda yer alan ürünler eklenerek tamamen firmanıza özel kurumsal hediye setleri hazırlanabilir.
+
+Bu sayede standart promosyonların ötesine geçerek, hedef kitlenize özel hazırlanmış profesyonel sunumlar oluşturabilirsiniz.
+
+Firma logonuza özel baskı uygulamaları ile kutu kişiselleştirilebilir ve marka görünürlüğü artırılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Kutu Ölçüleri:
+- 35 x 28 x 3.5 cm
+
+Kapak:
+- Cilt Bezi Kaplama
+- Mıknatıslı Kapak
+
+Kullanım:
+- İçerik dahil değildir (boş kutu)
+- İstenilen ürünlerle özel set yapılabilir
+
+Baskı: UV, Lazer, Serigrafi
+
+NOT
+
+Görseller temsili olup içerik dahil değildir.
+
+Set içerikleri müşteri talebine göre özelleştirilmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+İçerik seçimi tamamen size özeldir.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Minimal VIP hediye setleri
+Defter ve kalem promosyon setleri
+Kurumsal hediye sunumları
+Fuar ve etkinlik setleri
+Marka tanıtım paketleri
+`,
+},
+{
+  id: "p653",
+  slug: "promosyon-vip-set-kutusu-vip-500-orta-boy-miknatisli-kurumsal-hediye-kutusu",
+
+  title: "Promosyon VIP Set Kutusu VIP-500 | Orta Boy Mıknatıslı Kurumsal Hediye Kutusu (26x29 cm)",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-kutusu-vip-500.jpg",
+
+  shortDesc:
+    "Promosyon VIP set kutusu VIP-500, orta boy ölçüsü ve ince yapısı ile özel set hazırlamaya uygun, mıknatıslı kapaklı kurumsal hediye kutusudur.",
+
+  longDesc: `
+Promosyon VIP set kutusu VIP-500, dengeli ölçüleri ve şık tasarımı ile hem estetik hem de kullanışlı kurumsal hediye setleri hazırlamak isteyen firmalar için ideal bir çözümdür.
+
+26 x 29 x 3.5 cm ölçülerine sahip olan bu kutu, defter, kalem, ajanda ve çeşitli promosyon ürünlerinin bir arada sunulmasına imkan tanır.
+
+Orta boy yapısı sayesinde hem kompakt hem de yeterli iç hacim sunarak, farklı kombinasyonlarda VIP setler oluşturmanıza olanak sağlar.
+
+Cilt bezli kapak yapısı, kutuya premium bir görünüm kazandırırken, mıknatıslı kapak sistemi güvenli ve pratik kullanım sunar.
+
+Kutu içerisine katalogda yer alan ürünler eklenerek firmanıza özel kurumsal hediye setleri hazırlanabilir.
+
+Bu sayede markanıza özel, özgün ve profesyonel promosyon çözümleri oluşturabilirsiniz.
+
+Firma logonuza özel baskı uygulamaları ile kutu kişiselleştirilebilir ve marka görünürlüğü artırılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Kutu Ölçüleri:
+- 26 x 29 x 3.5 cm
+
+Kapak:
+- Cilt Bezi Kaplama
+- Mıknatıslı Kapak
+
+Kullanım:
+- İçerik dahil değildir (boş kutu)
+- İstenilen ürünlerle özel set yapılabilir
+
+Baskı: UV, Lazer, Serigrafi
+
+NOT
+
+Görseller temsili olup içerik dahil değildir.
+
+Set içerikleri müşteri talebine göre özelleştirilmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+İçerik seçimi tamamen size özeldir.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Kurumsal hediye setleri
+Defter ve kalem promosyon setleri
+Fuar ve etkinlik paketleri
+Marka tanıtım çalışmaları
+VIP müşteri hediyeleri
+`,
+},
+{
+  id: "p654",
+  slug: "promosyon-vip-set-kutusu-vip-510-kompakt-miknatisli-kurumsal-hediye-kutusu",
+
+  title: "Promosyon VIP Set Kutusu VIP-510 | Kompakt Mıknatıslı Kurumsal Hediye Kutusu (22x20 cm)",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-kutusu-vip-510.jpg",
+
+  shortDesc:
+    "Promosyon VIP set kutusu VIP-510, kompakt ölçüsü ve şık yapısı ile küçük ve orta ölçekli özel setler için ideal mıknatıslı kurumsal hediye kutusudur.",
+
+  longDesc: `
+Promosyon VIP set kutusu VIP-510, kompakt yapısı ve premium görünümü ile ekonomik ve şık kurumsal hediye setleri hazırlamak isteyen firmalar için ideal bir çözümdür.
+
+23 x 20.5 x 3.5 cm ölçülerine sahip olan bu kutu, defter, kalem, USB bellek ve benzeri küçük promosyon ürünlerinin estetik şekilde sunulmasına imkan tanır.
+
+İç sünger ölçüsü 22.3 x 20 cm olup, ürünlerin düzenli ve güvenli şekilde yerleştirilmesini sağlar.
+
+Kompakt yapısı sayesinde hem taşınabilir hem de maliyet açısından avantajlıdır, bu da yüksek adetli siparişlerde tercih edilmesini sağlar.
+
+Cilt bezli kapak tasarımı kutuya premium bir görünüm kazandırırken, mıknatıslı kapak sistemi pratik ve güvenli kullanım sunar.
+
+Kutu içerisine katalogda yer alan ürünler eklenerek tamamen firmanıza özel kurumsal hediye setleri hazırlanabilir.
+
+Bu sayede hedef kitlenize özel, ekonomik ama etkili promosyon çözümleri oluşturabilirsiniz.
+
+Firma logonuza özel baskı uygulanabilir ve markanızın görünürlüğü artırılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Kutu Ölçüleri:
+- 23 x 20.5 x 3.5 cm
+
+İç Sünger Ölçüsü:
+- 22.3 x 20 cm
+
+Kapak:
+- Cilt Bezi Kaplama
+- Mıknatıslı Kapak
+
+Kullanım:
+- İçerik dahil değildir (boş kutu)
+- İstenilen ürünlerle özel set yapılabilir
+
+Baskı: UV, Lazer, Serigrafi
+
+NOT
+
+Görseller temsili olup içerik dahil değildir.
+
+Set içerikleri müşteri talebine göre özelleştirilmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+İçerik seçimi tamamen size özeldir.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Ekonomik kurumsal hediye setleri
+Kompakt promosyon paketleri
+Fuar ve etkinlik dağıtımları
+Marka tanıtım çalışmaları
+VIP mini setler
+`,
+},
+{
+  id: "p655",
+  slug: "promosyon-vip-set-kutusu-vip-520-kucuk-boy-miknatisli-kurumsal-hediye-kutusu",
+
+  title: "Promosyon VIP Set Kutusu VIP-520 | Küçük Boy Mıknatıslı Kurumsal Hediye Kutusu (20x15 cm)",
+
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-kutusu-vip-520.jpg",
+
+  shortDesc:
+    "Promosyon VIP set kutusu VIP-520, küçük boyutlu yapısı ile ekonomik ve şık mini kurumsal hediye setleri oluşturmak için ideal çözümdür.",
+
+  longDesc: `
+Promosyon VIP set kutusu VIP-520, kompakt ölçüleri ve sade tasarımı ile küçük ölçekli ancak etkili kurumsal hediye setleri hazırlamak isteyen firmalar için ideal bir çözümdür.
+
+20 x 15 x 3.5 cm ölçülerine sahip olan bu kutu, kalem, küçük defter, USB bellek ve benzeri promosyon ürünlerinin şık bir şekilde sunulmasına imkan tanır.
+
+Küçük boyutu sayesinde maliyet avantajı sağlar ve yüksek adetli promosyon çalışmalarında tercih edilen ekonomik bir seçenektir.
+
+Cilt bezli kapak yapısı, kutuya premium bir görünüm kazandırırken, mıknatıslı kapak sistemi güvenli ve pratik kullanım sunar.
+
+Kutu içerisine katalogda yer alan ürünler eklenerek firmanıza özel mini VIP setler oluşturabilirsiniz.
+
+Bu sayede hem bütçe dostu hem de profesyonel görünüme sahip promosyon çözümleri elde edebilirsiniz.
+
+Firma logonuza özel baskı uygulanabilir ve markanızın görünürlüğü artırılabilir.
+
+TEKNİK ÖZELLİKLER
+
+Kutu Ölçüleri:
+- 20 x 15 x 3.5 cm
+
+Kapak:
+- Cilt Bezi Kaplama
+- Mıknatıslı Kapak
+
+Kullanım:
+- İçerik dahil değildir (boş kutu)
+- İstenilen ürünlerle özel set yapılabilir
+
+Baskı: UV, Lazer, Serigrafi
+
+NOT
+
+Görseller temsili olup içerik dahil değildir.
+
+Set içerikleri müşteri talebine göre özelleştirilmektedir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+İçerik seçimi tamamen size özeldir.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Mini kurumsal hediye setleri
+Ekonomik promosyon dağıtımları
+Fuar ve etkinlik ürünleri
+Marka tanıtım çalışmaları
+Yüksek adetli promosyon kampanyaları
+`,
+},
+{
+  id: "p656",
+  slug: "promosyon-fosforlu-kalem-fk-550-5li-set-renkli",
+
+  title: "Promosyon Fosforlu Kalem FK-550 | 5’li Renkli Fosforlu Kalem Seti",
+
+  category: "Kırtasiye Ürünleri",
+  image: "/products/promosyon-fosforlu-kalem-fk-550.jpg",
+
+  shortDesc:
+    "Promosyon fosforlu kalem FK-550, 5 farklı renk içeren pratik ve dikkat çekici tasarımıyla kurumsal promosyonlar için ideal bir üründür.",
+
+  longDesc: `
+Promosyon fosforlu kalem FK-550, 5 farklı renk seçeneği ile not alma ve işaretleme işlemlerini kolaylaştıran pratik ve kullanışlı bir promosyon ürünüdür.
+
+Yuvarlak ve kompakt tasarımı sayesinde masaüstünde az yer kaplar ve taşınabilir yapısı ile her ortamda rahatlıkla kullanılabilir.
+
+Set içerisinde sarı, yeşil, mavi, pembe ve turuncu olmak üzere 5 farklı fosforlu kalem bulunmaktadır.
+
+Canlı renkleri sayesinde önemli notların vurgulanmasını sağlar ve günlük kullanımda büyük kolaylık sunar.
+
+Ürün, geniş baskı alanı ile firmanıza özel logo uygulamaları için uygundur ve marka görünürlüğünü artıran etkili bir reklam ürünüdür.
+
+Özellikle ofisler, eğitim kurumları, fuarlar ve etkinliklerde dağıtım için ideal bir promosyon ürünüdür.
+
+Ekonomik fiyat yapısı sayesinde yüksek adetli siparişlerde avantaj sağlar ve geniş kitlelere ulaşmanıza yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi:
+- 5’li Fosforlu Kalem Seti
+
+Renkler:
+- Sarı
+- Yeşil
+- Mavi
+- Pembe
+- Turuncu
+
+Baskı:
+- UV Baskı
+- Tampon Baskı
+
+NOT
+
+Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+Firma logonuza özel baskı yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Ofis kullanımı
+Eğitim kurumları
+Fuar ve etkinlik promosyonları
+Toplu dağıtım ürünleri
+Marka tanıtım çalışmaları
+`,
+},
+{
+  id: "p657",
+  slug: "promosyon-sinav-seti-kk-620-kalem-silgi-kalemtras-seti",
+
+  title: "Promosyon Sınav Seti KK-620 | Kalem, Silgi ve Kalemtıraşlı Pratik Öğrenci Seti",
+
+  category: "Kırtasiye Ürünleri",
+  image: "/products/promosyon-sinav-seti-kk-620.jpg",
+
+  shortDesc:
+    "Promosyon sınav seti KK-620, kurşun kalem, silgi ve kalemtıraş içeren pratik yapısı ile öğrenci ve eğitim odaklı promosyonlar için ideal settir.",
+
+  longDesc: `
+Promosyon sınav seti KK-620, öğrencilerin sınav ve günlük kullanım ihtiyaçlarını karşılamak üzere hazırlanmış pratik ve ekonomik bir kırtasiye setidir.
+
+Set içerisinde 1 adet kutu, 2 adet kurşun kalem, 1 adet silgi ve 1 adet kalemtıraş yer almaktadır.
+
+18.5 x 5 cm ölçülerine sahip şeffaf kutu, ürünlerin düzenli ve kolay taşınabilir şekilde saklanmasını sağlar.
+
+Kurşun kalemler, akıcı yazım sunarak sınav ve not alma işlemlerinde rahat kullanım sağlar.
+
+Silgi, temiz ve iz bırakmadan silme özelliği ile pratik bir kullanım sunar.
+
+Kalemtıraş ise kalemlerin her zaman kullanıma hazır olmasını sağlar.
+
+Ürün, geniş baskı alanı sayesinde firmanıza özel logo uygulamaları için uygundur ve özellikle eğitim kurumları için etkili bir promosyon ürünüdür.
+
+Ekonomik yapısı sayesinde yüksek adetli dağıtımlarda avantaj sağlar ve geniş kitlelere ulaşmanıza yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Set İçeriği:
+- 1 Adet Kutu
+- 2 Adet Kurşun Kalem
+- 1 Adet Silgi
+- 1 Adet Kalemtıraş
+
+Ölçü:
+- 18.5 x 5 cm
+
+Baskı:
+- UV Baskı
+- Tampon Baskı
+
+NOT
+
+Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+Firma logonuza özel baskı yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Okul ve eğitim kurumları
+Sınav dağıtım setleri
+Fuar ve etkinlik promosyonları
+Toplu öğrenci hediyeleri
+Marka tanıtım çalışmaları
+`,
+},
+{
+  id: "p658",
+  slug: "promosyon-kalemtras-kt-300-renkli-pratik",
+
+  title: "Promosyon Kalemtıraş KT-300 | Renkli Pratik Kalemtıraş",
+
+  category: "Kırtasiye Ürünleri",
+  image: "/products/promosyon-kalemtras-kt-300.jpg",
+
+  shortDesc:
+    "Promosyon kalemtıraş KT-300, renkli tasarımı ve pratik kullanımı ile öğrenci ve toplu dağıtımlar için ideal ekonomik üründür.",
+
+  longDesc: `
+Promosyon kalemtıraş KT-300, kompakt yapısı ve dayanıklı tasarımı ile günlük kullanım için pratik ve ekonomik bir kırtasiye ürünüdür.
+
+Farklı renk seçenekleri ile dikkat çeken bu ürün, özellikle öğrenci ve eğitim odaklı dağıtımlarda tercih edilmektedir.
+
+Keskin bıçak yapısı sayesinde kurşun kalemleri kolayca açar ve uzun süreli kullanım sunar.
+
+Küçük boyutu sayesinde çanta ve kalemliklerde rahatlıkla taşınabilir.
+
+Ekonomik yapısı sayesinde yüksek adetli siparişlerde avantaj sağlar ve geniş kitlelere ulaşmanıza yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi:
+- Kalemtıraş
+
+Özellikler:
+- Tekli kullanım
+- Dayanıklı plastik gövde
+- Keskin metal bıçak
+
+Renkler:
+- Mor
+- Sarı
+- Mavi
+- Kırmızı
+- Yeşil
+
+NOT
+
+Ürün görselleri temsili olup renklerde farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Okul ve eğitim kurumları
+Toplu dağıtım ürünleri
+Fuar ve etkinlik promosyonları
+Öğrenci kullanımı
+Ekonomik promosyon kampanyaları
+`,
+},
+{
+  id: "p659",
+  slug: "promosyon-kalemtras-kt-360-minik-ekonomik",
+
+  title: "Promosyon Kalemtıraş KT-360 | Minik Boy Ekonomik Kalemtıraş",
+
+  category: "Kırtasiye Ürünleri",
+  image: "/products/promosyon-kalemtras-kt-360.jpg",
+
+  shortDesc:
+    "Promosyon kalemtıraş KT-360, minik boyutu ve ekonomik yapısı ile toplu dağıtımlar ve promosyon setleri için ideal tamamlayıcı üründür.",
+
+  longDesc: `
+Promosyon kalemtıraş KT-360, kompakt boyutu ve pratik kullanımı ile özellikle yüksek adetli promosyon çalışmalarında tercih edilen ekonomik bir kırtasiye ürünüdür.
+
+2,5 x 1,5 x 1 cm ölçülerine sahip olan bu ürün, küçük yapısı sayesinde kolay taşınabilir ve kalemliklerde minimum yer kaplar.
+
+Dayanıklı plastik gövdesi ve keskin metal bıçağı ile kurşun kalemleri kolayca açar ve uzun süreli kullanım sunar.
+
+Farklı renk seçenekleri ile dikkat çeken bu model, özellikle öğrenci ve eğitim odaklı promosyonlarda tamamlayıcı ürün olarak kullanılmaktadır.
+
+Ürün üzerine baskı alanı sınırlı olduğu için genellikle promosyon setleri içerisinde tercih edilmekte olup, marka tanıtımı set içerisindeki diğer ürünler üzerinden sağlanmaktadır.
+
+Ekonomik fiyat avantajı sayesinde yüksek adetli siparişlerde maliyet açısından avantaj sağlar ve geniş kitlelere ulaşmanıza yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi:
+- Kalemtıraş
+
+Ölçü:
+- 2,5 x 1,5 x 1 cm
+
+Özellikler:
+- Dayanıklı plastik gövde
+- Keskin metal bıçak
+- Kompakt tasarım
+
+Renkler:
+- Beyaz
+- Yeşil
+- Sarı
+- Kırmızı
+- Siyah
+
+Baskı:
+- Sınırlı yüzey (genellikle önerilmez)
+
+NOT
+
+Ürün görselleri temsili olup renklerde farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+Genellikle promosyon setleri içerisinde tercih edilmektedir.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Okul ve eğitim kurumları
+Promosyon setleri
+Toplu dağıtım ürünleri
+Fuar ve etkinlik promosyonları
+Ekonomik promosyon kampanyaları
+`,
+},
+{
+  id: "p660",
+  slug: "promosyon-silgi-sg-260-logo-baskili",
+
+  title: "Promosyon Silgi SG-260 | Logo Baskılı Kaliteli Silgi (50x25 mm)",
+
+  category: "Kırtasiye Ürünleri",
+  image: "/products/promosyon-silgi-sg-260.jpg",
+
+  shortDesc:
+    "Promosyon silgi SG-260, geniş baskı alanı ve kaliteli silme özelliği ile kurumsal promosyonlar ve öğrenci dağıtımları için ideal üründür.",
+
+  longDesc: `
+Promosyon silgi SG-260, geniş yüzey alanı ve yüksek silme performansı ile eğitim ve ofis kullanımı için ideal bir promosyon ürünüdür.
+
+50 x 25 x 10 mm ölçülerine sahip olan bu silgi, rahat kullanım sunarken aynı zamanda firmanıza özel logo baskısı için geniş bir alan sağlar.
+
+Yumuşak yapısı sayesinde kağıda zarar vermeden temiz silme işlemi gerçekleştirir ve iz bırakmadan kullanım sağlar.
+
+Geniş ve düz yüzeyi, logo baskısının net ve dikkat çekici şekilde uygulanmasına imkan tanır, bu da marka görünürlüğünü önemli ölçüde artırır.
+
+Özellikle okul, kurs, dershane ve eğitim kurumları tarafından tercih edilen bu ürün, toplu promosyon dağıtımlarında yüksek etki sağlar.
+
+Ekonomik fiyat yapısı sayesinde yüksek adetli siparişlerde avantaj sağlar ve geniş kitlelere ulaşmanıza yardımcı olur.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi:
+- Silgi
+
+Ölçü:
+- 50 x 25 x 10 mm
+
+Özellikler:
+- Yumuşak ve kaliteli silme
+- Kağıda zarar vermez
+- Geniş baskı alanı
+
+Baskı:
+- UV Baskı
+- Tampon Baskı
+
+NOT
+
+Ürün görselleri temsili olup baskı detaylarında farklılık olabilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+
+Firma logonuza özel baskı yapılmaktadır.
+
+Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Okul ve eğitim kurumları
+Dershane ve kurs merkezleri
+Toplu promosyon dağıtımları
+Fuar ve etkinlik ürünleri
+Marka tanıtım çalışmaları
+`,
+},
 
 ];
 
