@@ -35475,6 +35475,681 @@ Eğitim kurumları
 Çalışan ve müşteri hediyeleri
 `,
 },
+{
+  id: "p606",
+  slug: "promosyon-tekli-masa-bayragi-byk-110-avrupa-birligi-bayrakli-ofis-tipi",
+
+  title: "Promosyon Tekli Masa Bayrağı BYK-110 | Avrupa Birliği Bayraklı Ofis Tipi Masaüstü Bayrak",
+
+  category: "Bayraklar",
+  image: "/products/promosyon-tekli-masa-bayragi-byk-110.jpg",
+
+  shortDesc:
+    "Promosyon tekli masa bayrağı BYK-110, şık direk yapısı ve kaliteli kumaşı ile ofisler, kurumlar ve fuarlar için ideal masaüstü bayrak çözümüdür.",
+
+  longDesc: `
+Promosyon tekli masa bayrağı BYK-110, kurumsal alanlarda profesyonel görünüm sağlayan şık ve dikkat çekici bir masaüstü promosyon ürünüdür.
+
+Özellikle ofis masalarında, resepsiyon alanlarında ve fuar standlarında kullanılan bu ürün, markanızın prestijini artırmak için etkili bir tanıtım aracıdır.
+
+Kaliteli kumaş yapısı sayesinde bayrak renkleri canlı ve dikkat çekici görünür, uzun süreli kullanımda formunu korur.
+
+Metal veya plastik direk yapısı ile sağlam bir duruş sağlar ve masa üzerinde estetik bir görünüm sunar.
+
+Kompakt tasarımı sayesinde masa üzerinde fazla yer kaplamaz ve dekoratif bir kurumsal aksesuar olarak kullanılabilir.
+
+Firma logonuza özel bayrak baskısı yapılabilir ve markanızın görünürlüğü sürekli hale getirilir.
+
+Kurumsal promosyon ürünleri arasında prestijli ve dikkat çeken seçeneklerden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Masaüstü Bayrak
+Model: Tekli Direk
+Bayrak Türü: Dijital Baskı Kumaş
+Direk: Metal / Plastik (modele göre değişebilir)
+Kullanım: Masaüstü
+Baskı: Sublimasyon / Dijital Baskı
+
+NOT
+
+Ürün görselleri temsili olup bayrak tasarımı isteğe göre değiştirilebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve özel üretim siparişler için uygundur.
+
+Firma logonuza veya özel tasarıma göre bayrak üretimi yapılmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Ofis masa üstü kullanımı
+Kurumsal tanıtım alanları
+Fuar ve etkinlik standları
+Resmi kurum ve kuruluşlar
+Şirket içi dekorasyon
+`,
+},
+{
+  id: "p607",
+  slug: "promosyon-ikili-masa-bayragi-byk-120-cift-direkli-ofis-tipi-kurumsal-bayrak",
+
+  title: "Promosyon İkili Masa Bayrağı BYK-120 | Çift Direkli Kurumsal Ofis Tipi Masaüstü Bayrak Seti",
+
+  category: "Bayraklar",
+  image: "/products/promosyon-ikili-masa-bayragi-byk-120.jpg",
+
+  shortDesc:
+    "Promosyon ikili masa bayrağı BYK-120, çift direkli yapısı ve şık metal standı ile kurumsal ofisler ve resmi alanlar için prestijli bir masaüstü bayrak çözümüdür.",
+
+  longDesc: `
+Promosyon ikili masa bayrağı BYK-120, kurumsal kimliği güçlü şekilde yansıtmak isteyen firmalar için tasarlanmış şık ve prestijli bir masaüstü promosyon ürünüdür.
+
+Çift direkli yapısı sayesinde aynı anda iki farklı bayrağın sergilenmesine olanak sağlar. Bu özellik, özellikle şirket bayrağı ile ülke bayrağının birlikte kullanılması gereken alanlar için idealdir.
+
+Metal stand yapısı sayesinde sağlam ve dengeli bir duruş sunar, masa üzerinde premium bir görünüm oluşturur.
+
+Yüksek kaliteli kumaş üzerine yapılan baskılar, renklerin canlı ve uzun ömürlü olmasını sağlar.
+
+Ofis masaları, yönetici odaları, resepsiyon alanları ve fuar standlarında profesyonel bir atmosfer oluşturur.
+
+Firma logonuza özel bayrak üretimi yapılabilir ve markanız sürekli görünürlük kazanır.
+
+Kurumsal promosyon ürünleri arasında prestij ve güven hissi oluşturan önemli bir tanıtım aracıdır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Masaüstü Bayrak Seti
+Model: İkili (Çift Direk)
+Direk Sayısı: 2
+Stand: Metal Taban
+Bayrak Türü: Dijital Baskı Kumaş
+Baskı: Sublimasyon / Dijital Baskı
+Kullanım: Masaüstü
+
+NOT
+
+Ürün görselleri temsili olup bayrak tasarımları isteğe göre değiştirilebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve özel üretim siparişler için uygundur.
+
+Firma logonuza veya özel tasarıma göre bayrak üretimi yapılmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Yönetici ofisleri
+Kurumsal firmalar
+Resmi kurumlar
+Fuar ve etkinlik alanları
+Resepsiyon ve karşılama masaları
+`,
+},
+{
+  id: "p608",
+  slug: "promosyon-uclu-masa-bayragi-byk-130-uc-direkli-kurumsal-ofis-bayrak-seti",
+
+  title: "Promosyon Üçlü Masa Bayrağı BYK-130 | 3’lü Direkli Kurumsal Ofis Tipi Masaüstü Bayrak Seti",
+
+  category: "Bayraklar",
+  image: "/products/promosyon-uclu-masa-bayragi-byk-130.jpg",
+
+  shortDesc:
+    "Promosyon üçlü masa bayrağı BYK-130, üç direkli tasarımı ve metal stand yapısı ile uluslararası firmalar ve kurumsal ofisler için prestijli masaüstü bayrak çözümüdür.",
+
+  longDesc: `
+Promosyon üçlü masa bayrağı BYK-130, kurumsal prestij ve uluslararası kimliği ön plana çıkarmak isteyen firmalar için tasarlanmış premium bir masaüstü promosyon ürünüdür.
+
+Üç direkli yapısı sayesinde aynı anda üç farklı bayrağın sergilenmesine olanak sağlar. Bu özellik, özellikle firma bayrağı, ülke bayrağı ve uluslararası birlik bayraklarının birlikte kullanıldığı alanlar için idealdir.
+
+Şık ve sağlam metal stand tasarımı, masa üzerinde dengeli ve estetik bir görünüm sunar.
+
+Yüksek kaliteli kumaş üzerine uygulanan baskılar sayesinde bayrak renkleri canlılığını uzun süre korur ve dikkat çekici bir sunum sağlar.
+
+Ofis ortamlarında, yönetici masalarında, toplantı odalarında ve fuar alanlarında profesyonel bir atmosfer oluşturur.
+
+Firma logonuza özel üretim yapılabilir ve markanız sürekli görünürlük elde eder.
+
+Kurumsal promosyon ürünleri arasında prestij ve güven algısını güçlendiren üst segment bir üründür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Masaüstü Bayrak Seti
+Model: Üçlü (3 Direk)
+Direk Sayısı: 3
+Stand: Metal Taban
+Bayrak Türü: Dijital Baskı Kumaş
+Baskı: Sublimasyon / Dijital Baskı
+Kullanım: Masaüstü
+
+NOT
+
+Ürün görselleri temsili olup bayrak tasarımları isteğe göre değiştirilebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve özel üretim siparişler için uygundur.
+
+Firma logonuza veya özel tasarıma göre bayrak üretimi yapılmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Uluslararası firmalar
+Holding ve şirket merkezleri
+Yönetici ofisleri
+Toplantı ve konferans odaları
+Fuar ve etkinlik alanları
+Resmi kurum ve kuruluşlar
+`,
+},
+{
+  id: "p609",
+  slug: "promosyon-dortlu-masa-bayragi-byk-140-4lu-direkli-kurumsal-bayrak-seti",
+
+  title: "Promosyon Dörtlü Masa Bayrağı BYK-140 | 4’lü Direkli Kurumsal Ofis Tipi Masaüstü Bayrak Seti",
+
+  category: "Bayraklar",
+  image: "/products/promosyon-dortlu-masa-bayragi-byk-140.jpg",
+
+  shortDesc:
+    "Promosyon dörtlü masa bayrağı BYK-140, 4 direkli tasarımı ve metal stand yapısı ile uluslararası firmalar ve kurumsal ofisler için prestijli masaüstü bayrak çözümüdür.",
+
+  longDesc: `
+Promosyon dörtlü masa bayrağı BYK-140, kurumsal prestiji ve uluslararası marka kimliğini güçlü şekilde yansıtmak isteyen firmalar için tasarlanmış premium bir masaüstü promosyon ürünüdür.
+
+4 direkli yapısı sayesinde aynı anda dört farklı bayrağın sergilenmesine olanak sağlar. Bu özellik, özellikle çok uluslu firmalar, ihracat yapan şirketler ve uluslararası iş birlikleri için ideal bir çözümdür.
+
+Şık ve dayanıklı metal stand yapısı, masa üzerinde dengeli ve estetik bir görünüm sunar. Yönetici masalarında profesyonel bir atmosfer oluşturur.
+
+Yüksek kaliteli kumaş üzerine uygulanan baskılar sayesinde bayrak renkleri canlılığını uzun süre korur ve dikkat çekici bir görünüm sağlar.
+
+Ofislerde, toplantı odalarında, fuar alanlarında ve resmi kurumlarda kurumsal imajı güçlendiren önemli bir tanıtım aracıdır.
+
+Firma logonuza özel üretim yapılabilir ve markanızın sürekli görünür olması sağlanır.
+
+Kurumsal promosyon ürünleri arasında üst segment, prestijli ve dikkat çekici bir üründür.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Masaüstü Bayrak Seti
+Model: Dörtlü (4 Direk)
+Direk Sayısı: 4
+Stand: Metal Taban
+Bayrak Türü: Dijital Baskı Kumaş
+Baskı: Sublimasyon / Dijital Baskı
+Kullanım: Masaüstü
+
+NOT
+
+Ürün görselleri temsili olup bayrak tasarımları isteğe göre değiştirilebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve özel üretim siparişler için uygundur.
+
+Firma logonuza veya özel tasarıma göre bayrak üretimi yapılmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Uluslararası firmalar
+Holdingler ve şirket merkezleri
+Yönetici ofisleri
+Toplantı ve konferans salonları
+Fuar ve etkinlik alanları
+Resmi kurum ve kuruluşlar
+`,
+},
+{
+  id: "p610",
+  slug: "promosyon-l-masa-bayragi-byk-150-dikey-banner-tip-ofis-bayragi",
+
+  title: "Promosyon L Masa Bayrağı BYK-150 | Dikey Banner Tipi Masaüstü Ofis Bayrağı",
+
+  category: "Bayraklar",
+  image: "/products/promosyon-l-masa-bayragi-byk-150.jpg",
+
+  shortDesc:
+    "Promosyon L masa bayrağı BYK-150, dikey banner tasarımı ve metal stand yapısı ile fuar, ofis ve kurumsal tanıtımlar için dikkat çekici masaüstü bayrak çözümüdür.",
+
+  longDesc: `
+Promosyon L masa bayrağı BYK-150, klasik masa bayraklarından farklı olarak dikey banner formu ile dikkat çeken modern bir promosyon ürünüdür.
+
+Uzun ve dar yapısı sayesinde marka mesajınızı, logonuzu veya sloganınızı daha görünür ve etkili şekilde sergileme imkanı sunar.
+
+Metal stand ve sağlam direk yapısı sayesinde masa üzerinde dengeli bir duruş sağlar ve estetik bir görünüm oluşturur.
+
+Yüksek kaliteli kumaş üzerine yapılan baskı sayesinde renkler canlı ve uzun ömürlüdür.
+
+Özellikle fuar standlarında, resepsiyon alanlarında ve tanıtım masalarında fark yaratmak isteyen firmalar için ideal bir çözümdür.
+
+Dikey banner tasarımı sayesinde klasik masa bayraklarına göre daha fazla dikkat çeker ve marka bilinirliğini artırır.
+
+Firma logonuza özel üretim yapılabilir ve kurumsal kimliğinizi güçlü şekilde yansıtabilirsiniz.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Masaüstü Banner Bayrak
+Model: L Tipi
+Tasarım: Dikey Banner
+Direk: Metal
+Stand: Metal Taban
+Bayrak Türü: Dijital Baskı Kumaş
+Baskı: Sublimasyon / Dijital Baskı
+Kullanım: Masaüstü
+
+NOT
+
+Ürün görselleri temsili olup tasarım ve ölçüler isteğe göre değiştirilebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve özel üretim siparişler için uygundur.
+
+Firma logonuza, sloganınıza veya kampanya tasarımınıza göre üretim yapılmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Fuar ve etkinlik standları
+Resepsiyon ve karşılama alanları
+Ofis masaüstü tanıtım
+Kurumsal promosyon ürünleri
+Marka ve kampanya duyuruları
+`,
+},
+{
+  id: "p611",
+  slug: "promosyon-kirlangic-bayrak-50x150-cm-byk-160-dikey-flama-bayrak",
+
+  title: "Promosyon Kırlangıç Bayrak 50x150 cm BYK-160 | Dikey Flama Bayrak (Düz / Kırlangıç / Beşgen Kesim)",
+
+  category: "Bayraklar",
+  image: "/products/promosyon-kirlangic-bayrak-50x150-byk-160.jpg",
+
+  shortDesc:
+    "Promosyon kırlangıç bayrak 50x150 cm BYK-160, dikkat çekici dikey tasarımı ve farklı kesim seçenekleri ile mağaza, fuar ve açık alan reklamları için ideal flama bayrak çözümüdür.",
+
+  longDesc: `
+Promosyon kırlangıç bayrak 50x150 cm BYK-160, markanızı dikkat çekici şekilde tanıtmak için tasarlanmış dikey flama bayrak modelidir.
+
+50x150 cm ölçüsü sayesinde uzak mesafeden bile fark edilir ve güçlü bir görsel etki oluşturur.
+
+Düz kesim, kırlangıç kesim ve beşgen kesim seçenekleri ile farklı tasarım ihtiyaçlarına uygun çözümler sunar.
+
+Yüksek kaliteli kumaş üzerine yapılan dijital baskı sayesinde renkler canlı ve uzun ömürlüdür.
+
+Rüzgara dayanıklı yapısı ile dış mekan kullanımına uygundur ve mağaza önleri, fuar alanları ve etkinliklerde maksimum görünürlük sağlar.
+
+Direk ve askı sistemleri ile kolay montaj imkanı sunar.
+
+Firma logonuza, kampanya görsellerinize veya reklam tasarımlarınıza özel üretim yapılabilir.
+
+Kurumsal promosyon ve açık hava reklam ürünleri arasında en çok tercih edilen modellerden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Flama Bayrak
+Ölçü: 50 x 150 cm
+Kesim Türleri: Düz / Kırlangıç / Beşgen
+Baskı: Dijital / Sublimasyon
+Malzeme: Kumaş
+Kullanım: İç ve Dış Mekan
+
+NOT
+
+Ürün görselleri temsili olup tasarım ve ölçüler isteğe göre değiştirilebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve reklam amaçlı toplu siparişler için uygundur.
+
+Firma logonuza veya özel tasarıma göre üretim yapılmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Mağaza önü reklam çalışmaları
+Fuar ve etkinlik alanları
+Açık hava tanıtım organizasyonları
+Kurumsal promosyon uygulamaları
+Kampanya ve indirim duyuruları
+`,
+},
+{
+  id: "p612",
+  slug: "promosyon-kirlangic-bayrak-75x150-cm-byk-170-buyuk-boy-flama-bayrak",
+
+  title: "Promosyon Kırlangıç Bayrak 75x150 cm BYK-170 | Büyük Boy Dikey Flama Bayrak (Düz / Kırlangıç / Beşgen Kesim)",
+
+  category: "Bayraklar",
+  image: "/products/promosyon-kirlangic-bayrak-75x150-byk-170.jpg",
+
+  shortDesc:
+    "Promosyon kırlangıç bayrak 75x150 cm BYK-170, geniş yüzeyi ve dikkat çekici tasarımı ile mağaza önü, fuar ve açık hava reklamlarında maksimum görünürlük sağlar.",
+
+  longDesc: `
+Promosyon kırlangıç bayrak 75x150 cm BYK-170, geniş ölçüsü ve güçlü görsel etkisi ile markanızı ön plana çıkaran büyük boy flama bayrak modelidir.
+
+75x150 cm ölçüsü sayesinde uzak mesafelerden kolayca fark edilir ve yüksek dikkat çekicilik sağlar.
+
+Düz kesim, kırlangıç kesim ve beşgen kesim seçenekleri ile farklı tasarım ihtiyaçlarına uygun esnek çözümler sunar.
+
+Yüksek kaliteli kumaş üzerine yapılan dijital baskı sayesinde renkler canlı, net ve uzun ömürlüdür.
+
+Rüzgara dayanıklı yapısı ile dış mekan kullanımına uygundur ve uzun süreli kullanım sağlar.
+
+Direk ve askı sistemleri ile kolay kurulum imkanı sunar ve pratik kullanım sağlar.
+
+Mağaza önleri, fuar alanları, etkinlikler ve kampanya duyurularında etkili bir reklam aracıdır.
+
+Firma logonuza veya kampanya tasarımlarınıza özel üretim yapılabilir ve markanızın görünürlüğü artırılır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Flama Bayrak
+Ölçü: 75 x 150 cm
+Kesim Türleri: Düz / Kırlangıç / Beşgen
+Baskı: Dijital / Sublimasyon
+Malzeme: Kumaş
+Kullanım: İç ve Dış Mekan
+
+NOT
+
+Ürün görselleri temsili olup tasarım ve ölçüler isteğe göre değiştirilebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve reklam amaçlı toplu siparişler için uygundur.
+
+Firma logonuza veya özel tasarıma göre üretim yapılmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Mağaza önü reklam çalışmaları
+AVM içi tanıtım alanları
+Fuar ve etkinlik organizasyonları
+Açık hava reklam uygulamaları
+Kampanya ve indirim duyuruları
+`,
+},
+{
+  id: "p613",
+  slug: "promosyon-kirlangic-bayrak-75x200-cm-byk-180-buyuk-dikey-flama-bayrak",
+
+  title: "Promosyon Kırlangıç Bayrak 75x200 cm BYK-180 | Büyük Boy Dikey Flama Bayrak (Düz / Kırlangıç / Beşgen Kesim)",
+
+  category: "Bayraklar",
+  image: "/products/promosyon-kirlangic-bayrak-75x200-byk-180.jpg",
+
+  shortDesc:
+    "Promosyon kırlangıç bayrak 75x200 cm BYK-180, ekstra büyük boyutu ile açık alanlarda maksimum görünürlük sağlayan profesyonel flama bayrak çözümüdür.",
+
+  longDesc: `
+Promosyon kırlangıç bayrak 75x200 cm BYK-180, geniş yüzeyi ve uzun yapısı ile markanızı en güçlü şekilde öne çıkaran büyük boy flama bayrak modelidir.
+
+75x200 cm ölçüsü sayesinde uzak mesafelerden rahatlıkla fark edilir ve yüksek dikkat çekicilik sağlar.
+
+Düz kesim, kırlangıç kesim ve beşgen kesim seçenekleri ile farklı tasarım ihtiyaçlarına uygun esnek çözümler sunar.
+
+Yüksek kaliteli kumaş üzerine uygulanan dijital baskı sayesinde renkler canlılığını uzun süre korur.
+
+Rüzgara dayanıklı yapısı ile dış mekan kullanımına uygundur ve uzun ömürlü performans sunar.
+
+Direk ve askı sistemleri ile kolay kurulum imkanı sağlar ve pratik kullanım sunar.
+
+Mağaza önleri, fuar alanları, etkinlikler ve açık hava reklam çalışmalarında maksimum etki oluşturur.
+
+Firma logonuza veya kampanya tasarımlarınıza özel üretim yapılabilir ve markanızın görünürlüğü artırılır.
+
+Kurumsal promosyon ve açık hava reklam ürünleri arasında en dikkat çekici modellerden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Flama Bayrak
+Ölçü: 75 x 200 cm
+Kesim Türleri: Düz / Kırlangıç / Beşgen
+Baskı: Dijital / Sublimasyon
+Malzeme: Kumaş
+Kullanım: İç ve Dış Mekan
+
+NOT
+
+Ürün görselleri temsili olup tasarım ve ölçüler isteğe göre değiştirilebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve reklam amaçlı toplu siparişler için uygundur.
+
+Firma logonuza veya özel tasarıma göre üretim yapılmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Mağaza önü reklam çalışmaları
+Açık hava tanıtım alanları
+Fuar ve etkinlik organizasyonları
+AVM içi ve dışı reklam alanları
+Kampanya ve indirim duyuruları
+`,
+},
+{
+  id: "p614",
+  slug: "promosyon-yelken-bayrak-byk-190-beach-flag-reklam-bayragi",
+
+  title: "Promosyon Yelken Bayrak BYK-190 | Beach Flag Reklam Bayrağı (Dış Mekan Tanıtım Bayrağı)",
+
+  category: "Bayraklar",
+  image: "/products/promosyon-yelken-bayrak-byk-190.jpg",
+
+  shortDesc:
+    "Promosyon yelken bayrak BYK-190, dikkat çekici tasarımı ve rüzgara dayanıklı yapısı ile açık alan reklamları ve marka tanıtımları için ideal beach flag çözümüdür.",
+
+  longDesc: `
+Promosyon yelken bayrak BYK-190, açık alan reklamlarında maksimum görünürlük sağlamak için tasarlanmış profesyonel beach flag modelidir.
+
+Kavisli ve dikkat çekici tasarımı sayesinde rüzgarda hareket ederek markanızın daha fazla dikkat çekmesini sağlar.
+
+Farklı boy seçenekleri ile ihtiyacınıza uygun çözümler sunar ve hem iç hem dış mekanlarda rahatlıkla kullanılabilir.
+
+Yüksek kaliteli kumaş üzerine yapılan dijital baskı sayesinde renkler canlı, net ve uzun ömürlüdür.
+
+Rüzgara dayanıklı esnek direk yapısı sayesinde uzun süreli kullanım sağlar ve zorlu hava koşullarına uygundur.
+
+Taşınabilir taban seçenekleri sayesinde kolay kurulum ve pratik kullanım imkanı sunar.
+
+Mağaza önleri, fuar alanları, etkinlikler ve kampanya tanıtımları için en etkili reklam ürünlerinden biridir.
+
+Firma logonuza veya kampanya tasarımlarınıza özel üretim yapılabilir ve markanızın görünürlüğü artırılır.
+
+Kurumsal promosyon ve açık hava reklam ürünleri arasında en çok tercih edilen modellerden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Yelken Bayrak (Beach Flag)
+Baskı: Dijital / Sublimasyon
+Malzeme: Kumaş
+Direk: Esnek Fiber Direk
+Taban: Su Doldurulabilir / Sabit Taban (opsiyonel)
+Kullanım: İç ve Dış Mekan
+
+NOT
+
+Ürün görselleri temsili olup tasarım ve ölçüler isteğe göre değiştirilebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve reklam amaçlı toplu siparişler için uygundur.
+
+Firma logonuza veya özel tasarıma göre üretim yapılmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Mağaza önü reklam çalışmaları
+Açık hava tanıtım alanları
+Fuar ve etkinlik organizasyonları
+AVM ve cadde reklamları
+Kampanya ve indirim duyuruları
+`,
+},
+{
+  id: "p615",
+  slug: "promosyon-t-masa-bayragi-byk-200-cift-banner-masaustu-bayrak",
+
+  title: "Promosyon T Masa Bayrağı BYK-200 | Çift Banner Tipi Masaüstü Ofis Bayrağı",
+
+  category: "Bayraklar",
+  image: "/products/promosyon-t-masa-bayragi-byk-200.jpg",
+
+  shortDesc:
+    "Promosyon T masa bayrağı BYK-200, çift banner tasarımı ve metal stand yapısı ile fuar, ofis ve kurumsal tanıtımlar için dikkat çekici masaüstü bayrak çözümüdür.",
+
+  longDesc: `
+Promosyon T masa bayrağı BYK-200, klasik masa bayraklarından farklı olarak çift banner formu ile daha geniş tanıtım alanı sunan modern bir promosyon ürünüdür.
+
+T tipi yatay direk yapısı sayesinde iki farklı banner tasarımı aynı anda sergilenebilir ve marka görünürlüğü artırılır.
+
+Simetrik tasarımı sayesinde masa üzerinde dengeli ve estetik bir görünüm oluşturur.
+
+Metal stand ve sağlam direk yapısı ile uzun ömürlü kullanım sunar ve profesyonel bir duruş sağlar.
+
+Yüksek kaliteli kumaş üzerine yapılan baskılar sayesinde renkler canlı ve dikkat çekici kalır.
+
+Özellikle fuar standlarında, resepsiyon alanlarında ve kampanya tanıtımlarında fark yaratmak isteyen firmalar için ideal bir çözümdür.
+
+Firma logonuza, sloganınıza veya farklı tasarım çalışmalarınıza özel üretim yapılabilir.
+
+Kurumsal promosyon ürünleri arasında modern ve dikkat çekici alternatiflerden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Masaüstü Banner Bayrak
+Model: T Tipi (Çift Banner)
+Direk: Metal
+Stand: Metal Taban
+Bayrak Türü: Dijital Baskı Kumaş
+Baskı: Sublimasyon / Dijital Baskı
+Kullanım: Masaüstü
+
+NOT
+
+Ürün görselleri temsili olup tasarım ve ölçüler isteğe göre değiştirilebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve özel üretim siparişler için uygundur.
+
+Firma logonuza veya özel tasarıma göre üretim yapılmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Fuar ve etkinlik standları
+Resepsiyon ve karşılama alanları
+Ofis masaüstü tanıtım
+Kurumsal promosyon uygulamaları
+Marka ve kampanya duyuruları
+`,
+},
+{
+  id: "p616",
+  slug: "promosyon-damla-bayrak-byk-210-drop-flag-reklam-bayragi",
+
+  title: "Promosyon Damla Bayrak BYK-210 | Drop Flag Reklam Bayrağı (Dış Mekan Tanıtım Bayrağı)",
+
+  category: "Bayraklar",
+  image: "/products/promosyon-damla-bayrak-byk-210.jpg",
+
+  shortDesc:
+    "Promosyon damla bayrak BYK-210, damla form tasarımı ve rüzgara dayanıklı yapısı ile açık alan reklamları ve marka tanıtımları için dikkat çekici drop flag çözümüdür.",
+
+  longDesc: `
+Promosyon damla bayrak BYK-210, açık alan reklamlarında dikkat çekici bir görünüm sunan modern drop flag modelidir.
+
+Damla formu sayesinde rüzgarda formunu korur ve sürekli okunabilir bir reklam alanı sağlar.
+
+Kompakt ve estetik tasarımı ile markanızı etkili şekilde öne çıkarır ve profesyonel bir görünüm sunar.
+
+Yüksek kaliteli kumaş üzerine yapılan dijital baskı sayesinde renkler canlı, net ve uzun ömürlüdür.
+
+Esnek fiber direk yapısı sayesinde rüzgara dayanıklıdır ve dış mekan kullanımına uygundur.
+
+Taşınabilir taban seçenekleri ile kolay kurulum sağlar ve farklı alanlarda rahatlıkla kullanılabilir.
+
+Mağaza önleri, fuar alanları, etkinlikler ve kampanya tanıtımları için ideal bir reklam ürünüdür.
+
+Firma logonuza veya kampanya tasarımlarınıza özel üretim yapılabilir.
+
+Kurumsal promosyon ve açık hava reklam ürünleri arasında en çok tercih edilen modellerden biridir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Damla Bayrak (Drop Flag)
+Baskı: Dijital / Sublimasyon
+Malzeme: Kumaş
+Direk: Esnek Fiber Direk
+Taban: Su Doldurulabilir / Sabit Taban (opsiyonel)
+Kullanım: İç ve Dış Mekan
+
+NOT
+
+Ürün görselleri temsili olup tasarım ve ölçüler isteğe göre değiştirilebilir.
+
+SİPARİŞ BİLGİSİ
+
+Ürün kurumsal promosyon ve reklam amaçlı toplu siparişler için uygundur.
+
+Firma logonuza veya özel tasarıma göre üretim yapılmaktadır.
+
+Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+Mağaza önü reklam çalışmaları
+Açık hava tanıtım alanları
+Fuar ve etkinlik organizasyonları
+AVM ve cadde reklamları
+Kampanya ve indirim duyuruları
+`,
+},
 
 ];
 
