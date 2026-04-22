@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
@@ -32,6 +33,17 @@ export default function Page() {
           <h1 className="mt-4 text-3xl font-extrabold leading-tight md:text-4xl">
             Promosyon Kalem Nedir? Firmalar Neden Bu Kadar Tercih Ediyor?
           </h1>
+
+          <div className="mt-6 overflow-hidden rounded-2xl">
+            <Image
+              src="/guides/promosyon-kalem.jpg"
+              alt="Promosyon kalem nedir rehberi"
+              width={1200}
+              height={630}
+              className="h-auto w-full object-cover"
+              priority
+            />
+          </div>
 
           <div className="mt-6 space-y-5 text-base leading-7 text-gray-700 md:text-lg">
             <p>
