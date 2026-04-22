@@ -105,16 +105,19 @@ const GUIDES = [
     title: "Promosyon Ürünleri Seçim Rehberi",
     href: "/rehber/promosyon-urunleri-secim-rehberi",
     desc: "Kurumsal kullanım, fuar, etkinlik ve toplu dağıtım için doğru promosyon ürününü nasıl seçebileceğinizi inceleyin.",
+    image: "/guides/promosyon-urunleri-secim-rehberi.jpg",
   },
   {
     title: "Promosyon Kalem Toptan Satın Alma Rehberi",
     href: "/rehber/promosyon-kalem-toptan",
     desc: "Logo baskılı promosyon kalem siparişi verirken dikkat edilmesi gereken detayları öğrenin.",
+    image: "/guides/promosyon-kalem-toptan.jpg",
   },
   {
     title: "DTF Baskı Nedir? Nasıl Yapılır?",
     href: "/rehber/dtf-baski-nedir",
     desc: "DTF baskı teknolojisinin ne olduğunu, hangi yüzeylerde kullanıldığını ve avantajlarını keşfedin.",
+    image: "/guides/dtf-baski-nedir.jpg",
   },
 ];
 

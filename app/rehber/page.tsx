@@ -10,21 +10,25 @@ const guides = [
     slug: "dtf-baski-nedir",
     title: "DTF Baskı Nedir? Nasıl Yapılır?",
     desc: "DTF baskı teknolojisi nedir, nasıl yapılır ve avantajları nelerdir? DTF baskı hakkında detaylı rehber.",
+    image: "/guides/dtf-baski-nedir.jpg",
   },
   {
     slug: "promosyon-kupa-baski",
     title: "Promosyon Kupa Baskı Rehberi",
     desc: "Logo baskılı promosyon kupa nasıl yapılır? Kurumsal kupa siparişi verirken bilmeniz gerekenler.",
+    
   },
   {
     slug: "promosyon-kalem-toptan",
     title: "Promosyon Kalem Toptan Satın Alma Rehberi",
     desc: "Toptan promosyon kalem nasıl alınır? En çok tercih edilen promosyon kalem modelleri ve fiyat bilgileri.",
+    image: "/guides/promosyon-kalem-toptan.jpg",
   },
   {
     slug: "promosyon-urunleri-secim-rehberi",
     title: "Promosyon Ürünleri Seçim Rehberi",
     desc: "Kurumsal promosyon ürünleri nasıl seçilir? Hedef kitleye, kullanım alanına ve baskı türüne göre doğru ürün seçimini inceleyin.",
+    image: "/guides/promosyon-urunleri-secim-rehberi.jpg",
   },
   {
     slug: "promosyon-kalem-nedir",
