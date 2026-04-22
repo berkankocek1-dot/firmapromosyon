@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
@@ -7,6 +8,9 @@ const TITLE =
   "Promosyon Anahtarlık Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta";
 const DESCRIPTION =
   "Promosyon anahtarlık alırken kalite, malzeme, baskı, model seçimi, adet ve hedef kitle açısından dikkat edilmesi gereken 10 kritik noktayı detaylıca inceleyin.";
+const IMAGE_PATH =
+  "/guides/promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -37,7 +41,7 @@ export const metadata: Metadata = {
     locale: "tr_TR",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: IMAGE_URL,
         width: 1200,
         height: 630,
         alt: "Promosyon Anahtarlık Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta",
@@ -48,7 +52,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: TITLE,
     description: DESCRIPTION,
-    images: [`${SITE_URL}/og.jpg`],
+    images: [IMAGE_URL],
   },
   robots: {
     index: true,
@@ -83,7 +87,7 @@ export default function Page() {
         url: `${SITE_URL}/og.jpg`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
+    image: [IMAGE_URL],
     datePublished: "2026-04-13",
     dateModified: "2026-04-13",
   };
@@ -213,7 +217,18 @@ export default function Page() {
               Promosyon Anahtarlık Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta
             </h1>
 
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
+            <div className="relative mt-6 overflow-hidden rounded-2xl border border-gray-200">
+              <Image
+                src={IMAGE_PATH}
+                alt="Promosyon Anahtarlık Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta"
+                width={1200}
+                height={675}
+                className="h-auto w-full object-cover"
+                priority
+              />
+            </div>
+
+            <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
               <strong className="text-gray-900">Promosyon anahtarlık</strong>,
               küçük boyutuna rağmen uzun süreli marka görünürlüğü sağlayabilen en
               etkili promosyon ürünlerinden biridir. Günlük hayatta sürekli taşınması,

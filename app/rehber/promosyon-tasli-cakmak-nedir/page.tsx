@@ -1,8 +1,11 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-tasli-cakmak-nedir`;
+const IMAGE_PATH = "/guides/promosyon-tasli-cakmak-nedir.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE = "Promosyon Taşlı Çakmak Nedir? Avantajları Nelerdir?";
 const DESCRIPTION =
   "Promosyon taşlı çakmak nedir, neden tercih edilir, nerelerde kullanılır ve firmalara ne kazandırır? Logo baskılı taşlı çakmak modelleri hakkında detaylı rehber.";
@@ -32,7 +35,7 @@ export const metadata: Metadata = {
     locale: "tr_TR",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: IMAGE_URL,
         width: 1200,
         height: 630,
         alt: "Promosyon Taşlı Çakmak Nedir?",
@@ -43,7 +46,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: TITLE,
     description: DESCRIPTION,
-    images: [`${SITE_URL}/og.jpg`],
+    images: [IMAGE_URL],
   },
 };
 
@@ -64,10 +67,12 @@ export default function Page() {
       name: "FirmaPromosyon",
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/og.jpg`,
+        url: `${SITE_URL}/logo.png`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
+    image: [IMAGE_URL],
+    datePublished: "2026-04-01",
+    dateModified: "2026-04-01",
   };
 
   const breadcrumbSchema = {
@@ -123,6 +128,22 @@ export default function Page() {
           text: "Fuar, etkinlik, restoran, kafe, gece kulübü, kampanya ve bayi dağıtımlarında kullanılabilir.",
         },
       },
+      {
+        "@type": "Question",
+        name: "Promosyon taşlı çakmak hangi firmalar için uygundur?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Restoranlar, kafeler, eğlence mekanları, organizasyon firmaları, yerel işletmeler ve geniş kitleye düşük maliyetle ulaşmak isteyen markalar için uygundur.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Promosyon taşlı çakmak alırken nelere dikkat edilmelidir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Ürün kalitesi, baskı alanı, baskı netliği, sipariş adedi ve dağıtım amacı önceden değerlendirilmelidir.",
+        },
+      },
     ],
   };
 
@@ -174,7 +195,18 @@ export default function Page() {
               Promosyon Taşlı Çakmak Nedir? Avantajları Nelerdir?
             </h1>
 
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
+            <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+              <Image
+                src={IMAGE_PATH}
+                alt="Promosyon Taşlı Çakmak Nedir? Avantajları Nelerdir?"
+                fill
+                priority
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 896px"
+              />
+            </div>
+
+            <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
               Promosyon taşlı çakmak, firmaların marka görünürlüğünü artırmak için
               kullandığı en ekonomik promosyon ürünlerinden biridir. Üzerine logo,
               slogan, firma adı veya iletişim bilgisi basılarak dağıtılan bu ürünler,
@@ -189,6 +221,13 @@ export default function Page() {
               yaygın kullanılır. Küçük boyutlu olması sayesinde dağıtımı kolaydır.
               Kullanıcı ürünü cebinde, aracında veya günlük hayatında taşıyabildiği
               için marka tekrar tekrar görünür kalabilir.
+            </p>
+
+            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
+              Bu rehberde promosyon taşlı çakmak nedir, neden tercih edilir, hangi
+              işletmeler için uygundur, nerelerde kullanılır, baskı ve kalite
+              seçiminde nelere dikkat edilmelidir gibi en çok merak edilen konuları
+              detaylı şekilde inceleyeceğiz.
             </p>
           </header>
 
@@ -218,6 +257,11 @@ export default function Page() {
                 uygundur. Kullanıcı ürünü günlük hayatında kullandığında, ürün
                 üzerindeki marka da görünür kalmaya devam eder.
               </p>
+              <p>
+                Özellikle düşük bütçeyle çok sayıda kişiye ulaşmak isteyen firmalar
+                için promosyon taşlı çakmak, klasik ama hâlâ etkili bir reklam
+                aracı olmayı sürdürmektedir.
+              </p>
             </section>
 
             <section>
@@ -233,6 +277,11 @@ export default function Page() {
                 taşınabilir olduğu için fuar, açılış, saha etkinliği veya müşteri
                 temas noktalarında rahatlıkla verilebilir.
               </p>
+              <p>
+                Ayrıca kullanıcının cebinde veya çantasında yer bulabilmesi, marka
+                görünürlüğünün kısa süreli değil daha uzun süreli olmasına katkı
+                sağlar.
+              </p>
             </section>
 
             <section>
@@ -246,6 +295,11 @@ export default function Page() {
                 Özellikle müşteri teması yüksek olan işletmeler için bu ürün,
                 görünürlük sağlayan düşük maliyetli bir reklam aracıdır.
               </p>
+              <p>
+                Yerel işletmeler, organizasyon firmaları, etkinlik düzenleyen
+                markalar ve toplu dağıtım yapmak isteyen şirketler için de son
+                derece uygun bir promosyon ürünüdür.
+              </p>
             </section>
 
             <section>
@@ -256,6 +310,8 @@ export default function Page() {
                 <li>Günlük kullanım sayesinde marka görünürlüğü sağlar.</li>
                 <li>Küçük boyutu sayesinde kolay taşınır.</li>
                 <li>Logo baskısına uygundur.</li>
+                <li>Yüksek adetli siparişlerde maliyet avantajı sunar.</li>
+                <li>Geniş hedef kitleye ulaşmayı kolaylaştırır.</li>
               </ul>
               <p>
                 Özellikle “az bütçeyle çok kişiye ulaşmak” isteyen firmalar için
@@ -274,6 +330,30 @@ export default function Page() {
                 Bunun yanında baskının okunaklı ve dengeli görünmesi de çok
                 önemlidir. Çünkü promosyon ürünün asıl reklam gücü, üzerindeki
                 marka görünürlüğünden gelir.
+              </p>
+              <p>
+                Ayrıca ürünün kimlere verileceği de düşünülmelidir. Geniş kitleye
+                toplu dağıtım yapılacaksa maliyet odaklı seçim mantıklı olabilir;
+                daha seçilmiş kitlelerde ise baskı ve ürün kalitesi biraz daha öne
+                alınmalıdır.
+              </p>
+            </section>
+
+            <section>
+              <h2>Promosyon taşlı çakmak ile diğer promosyon ürünler arasında nasıl bir fark vardır?</h2>
+              <p>
+                Promosyon taşlı çakmak, düşük maliyetli ve kolay dağıtılabilir ürün
+                olmasıyla öne çıkar. Örneğin{" "}
+                <Link href="/kategori/kalem">promosyon kalem</Link> ofis ve eğitim
+                alanlarında daha yoğun kullanılırken, taşlı çakmak bazı sektörlerde
+                daha hızlı görünürlük sağlayabilir.
+              </p>
+              <p>
+                <Link href="/kategori/anahtarlik">Promosyon anahtarlık</Link>{" "}
+                sürekli taşınma avantajı sunarken, taşlı çakmak da günlük kullanım
+                alışkanlığı sayesinde benzer şekilde tekrar eden görünürlük
+                oluşturabilir. Bu nedenle ürün seçimi tamamen hedef kitleye ve
+                kullanım senaryosuna göre yapılmalıdır.
               </p>
             </section>
 
@@ -297,6 +377,13 @@ export default function Page() {
                 Modele göre değişmekle birlikte genellikle 100 ile 300 adet arası
                 minimum sipariş görülebilir.
               </p>
+
+              <h3>Promosyon taşlı çakmak neden ekonomik kabul edilir?</h3>
+              <p>
+                Üretim maliyetinin uygun olması ve yüksek adetli siparişlerde birim
+                fiyatın daha da düşebilmesi nedeniyle ekonomik promosyon ürünleri
+                arasında yer alır.
+              </p>
             </section>
           </div>
 
@@ -311,6 +398,9 @@ export default function Page() {
               </Link>
               <Link href="/kategori/anahtarlik" className="font-semibold text-gray-800 hover:text-red-600">
                 Promosyon Anahtarlık
+              </Link>
+              <Link href="/kategori/termos" className="font-semibold text-gray-800 hover:text-red-600">
+                Promosyon Termos
               </Link>
             </div>
           </div>

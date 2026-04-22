@@ -1,28 +1,184 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/kalem-baski-fiyatlari`;
+const IMAGE_PATH = "/guides/kalem-baski-fiyatlari.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
+const TITLE = "Kalem Baskı Fiyatları 2026 (Tampon, UV, Lazer Detaylı Rehber)";
+const DESCRIPTION =
+  "Kalem baskı fiyatları ne kadar? Tampon baskı, UV baskı, lazer baskı, adet bazlı maliyet hesaplama ve doğru baskı seçimi rehberi.";
 
 export const metadata: Metadata = {
-  title: "Kalem Baskı Fiyatları 2026 (Tampon, UV, Lazer Detaylı Rehber)",
-  description:
-    "Kalem baskı fiyatları ne kadar? Tampon baskı, UV baskı, lazer baskı, adet bazlı maliyet hesaplama ve doğru baskı seçimi rehberi.",
+  title: TITLE,
+  description: DESCRIPTION,
+  keywords: [
+    "kalem baskı fiyatları",
+    "tampon baskı kalem fiyatları",
+    "uv baskı kalem fiyatları",
+    "lazer baskı kalem fiyatları",
+    "kalem baskı maliyeti",
+    "logo baskılı kalem",
+    "baskılı kalem fiyatları",
+    "promosyon kalem baskı fiyatı",
+    "kalem baskı 2026",
+  ],
   alternates: {
     canonical: PAGE_URL,
   },
+  robots: {
+    index: true,
+    follow: true,
+  },
   openGraph: {
-    title: "Kalem Baskı Fiyatları 2026 (Tampon, UV, Lazer Detaylı Rehber)",
+    title: TITLE,
     description:
       "Kalem baskı maliyetlerini etkileyen tüm faktörleri öğrenin. Baskı türü, adet, renk sayısı ve kalite detayları burada.",
     url: PAGE_URL,
     type: "article",
+    siteName: "FirmaPromosyon",
+    locale: "tr_TR",
+    images: [
+      {
+        url: IMAGE_URL,
+        width: 1200,
+        height: 630,
+        alt: "Kalem Baskı Fiyatları 2026",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: TITLE,
+    description: DESCRIPTION,
+    images: [IMAGE_URL],
   },
 };
 
 export default function Page() {
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: TITLE,
+    description: DESCRIPTION,
+    inLanguage: "tr-TR",
+    mainEntityOfPage: PAGE_URL,
+    author: {
+      "@type": "Organization",
+      name: "FirmaPromosyon",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "FirmaPromosyon",
+      logo: {
+        "@type": "ImageObject",
+        url: `${SITE_URL}/logo.png`,
+      },
+    },
+    image: [IMAGE_URL],
+    datePublished: "2026-04-01",
+    dateModified: "2026-04-01",
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Ana Sayfa",
+        item: SITE_URL,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Rehber",
+        item: `${SITE_URL}/rehber`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: "Kalem Baskı Fiyatları",
+        item: PAGE_URL,
+      },
+    ],
+  };
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: "Kalem baskı fiyatları neye göre değişir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Kalem baskı fiyatları; baskı türü, baskı yönü, renk sayısı, sipariş adedi, ürün yüzeyi ve seçilen kalem modeline göre değişir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "En ekonomik kalem baskı yöntemi hangisidir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Genellikle tampon baskı en ekonomik baskı yöntemlerinden biridir. Özellikle tek renkli ve sade logolarda maliyet avantajı sağlar.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "UV baskı mı lazer baskı mı daha pahalıdır?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Genel olarak UV ve lazer baskı, tampon baskıya göre daha yüksek maliyetli olabilir. Lazer baskı genellikle metal kalemlerde premium görünüm sunar.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Çift yön baskı fiyatı artırır mı?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Evet, çift yön baskı hem uygulama süresini hem de işçilik maliyetini artırdığı için toplam baskı maliyetini yükseltebilir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Toplu siparişlerde kalem baskı maliyeti düşer mi?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Evet, sipariş adedi arttıkça birim baskı maliyeti genellikle düşer. Çünkü baskı hazırlığı ve üretim giderleri daha fazla ürüne yayılır.",
+        },
+      },
+    ],
+  };
+
   return (
     <main className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+
+      <nav className="mb-6 text-sm text-gray-500">
+        <Link href="/" className="hover:underline">
+          Ana Sayfa
+        </Link>{" "}
+        /{" "}
+        <Link href="/rehber" className="hover:underline">
+          Rehber
+        </Link>{" "}
+        / <span>Kalem Baskı Fiyatları</span>
+      </nav>
+
       <article className="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm md:p-10">
         <header>
           <div className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
@@ -32,6 +188,17 @@ export default function Page() {
           <h1 className="mt-4 text-3xl font-extrabold leading-tight md:text-4xl">
             Kalem Baskı Fiyatları 2026 (Tampon, UV ve Lazer Baskı Rehberi)
           </h1>
+
+          <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+            <Image
+              src={IMAGE_PATH}
+              alt="Kalem Baskı Fiyatları 2026"
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 896px"
+            />
+          </div>
 
           <div className="mt-6 space-y-5 text-base leading-7 text-gray-700 md:text-lg">
             <p>

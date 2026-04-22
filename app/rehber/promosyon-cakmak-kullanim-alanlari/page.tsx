@@ -1,8 +1,11 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-cakmak-kullanim-alanlari`;
+const IMAGE_PATH = "/guides/promosyon-cakmak-kullanim-alanlari.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE =
   "Promosyon Çakmak Nerelerde Kullanılır? Baskı Türleri ve Kullanım Rehberi";
 const DESCRIPTION =
@@ -35,7 +38,7 @@ export const metadata: Metadata = {
     locale: "tr_TR",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: IMAGE_URL,
         width: 1200,
         height: 630,
         alt: "Promosyon Çakmak Nerelerde Kullanılır?",
@@ -46,7 +49,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: TITLE,
     description: DESCRIPTION,
-    images: [`${SITE_URL}/og.jpg`],
+    images: [IMAGE_URL],
   },
   robots: {
     index: true,
@@ -78,10 +81,10 @@ export default function Page() {
       name: "FirmaPromosyon",
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/og.jpg`,
+        url: `${SITE_URL}/logo.png`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
+    image: [IMAGE_URL],
     datePublished: "2026-04-01",
     dateModified: "2026-04-01",
   };
@@ -211,7 +214,18 @@ export default function Page() {
               Promosyon Çakmak Nerelerde Kullanılır? Detaylı Rehber
             </h1>
 
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
+            <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+              <Image
+                src={IMAGE_PATH}
+                alt="Promosyon Çakmak Nerelerde Kullanılır?"
+                fill
+                priority
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 896px"
+              />
+            </div>
+
+            <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
               Promosyon çakmak, firmaların marka bilinirliğini artırmak için
               kullandığı en etkili ve en ekonomik tanıtım ürünlerinden biridir.
               Günlük hayatta sık kullanılan bu ürün, kullanıcı ile marka arasında
@@ -387,8 +401,8 @@ export default function Page() {
               </p>
 
               <p>
-                Örneğin <Link href="/kategori/kalem">promosyon kalem</Link> ofis
-                kullanımı için oldukça uygundur. <Link href="/kategori/anahtarlik">
+                Örneğin <Link href="/promosyon-kalem">promosyon kalem</Link> ofis
+                kullanımı için oldukça uygundur. <Link href="/promosyon-anahtarlik">
                   promosyon anahtarlık
                 </Link>{" "}
                 ise sürekli taşınan ve görünürlüğü yüksek ürünler arasında yer alır.
@@ -396,8 +410,8 @@ export default function Page() {
 
               <p>
                 Daha prestijli ve premium hediye ihtiyacı olan firmalar için{" "}
-                <Link href="/kategori/termos">promosyon termos</Link> ve{" "}
-                <Link href="/kategori/usb-bellek">promosyon USB bellek</Link>{" "}
+                <Link href="/promosyon-termos">promosyon termos</Link> ve{" "}
+                <Link href="/promosyon-usb-bellek">promosyon USB bellek</Link>{" "}
                 gibi ürünler daha uygun olabilir. Ancak maliyet-performans
                 açısından bakıldığında promosyon çakmak hâlâ çok güçlü bir
                 alternatiftir.
@@ -496,7 +510,7 @@ export default function Page() {
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <Link
-              href="/kurumsal-teklif-al"
+              href="/teklif"
               className="inline-flex items-center justify-center rounded-2xl bg-black px-6 py-3 text-sm font-semibold text-white transition hover:bg-gray-900"
             >
               Teklif Al

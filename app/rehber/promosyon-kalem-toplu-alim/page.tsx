@@ -1,15 +1,35 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-kalem-toplu-alim`;
+const IMAGE_PATH = "/guides/promosyon-kalem-toplu-alim.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
+const TITLE = "Promosyon Kalem Toplu Alım Rehberi 2026";
+const DESCRIPTION =
+  "Promosyon kalem toplu alırken nelere dikkat edilmeli? Adet, baskı, model seçimi, fiyat avantajı ve toplu sipariş stratejileriyle detaylı rehber.";
 
 export const metadata: Metadata = {
-  title: "Promosyon Kalem Toplu Alım Rehberi 2026",
-  description:
-    "Promosyon kalem toplu alırken nelere dikkat edilmeli? Adet, baskı, model seçimi, fiyat avantajı ve toplu sipariş stratejileriyle detaylı rehber.",
+  title: TITLE,
+  description: DESCRIPTION,
+  keywords: [
+    "promosyon kalem toplu alım",
+    "toplu promosyon kalem",
+    "promosyon kalem toplu sipariş",
+    "promosyon kalem toptan alım",
+    "logo baskılı kalem toplu alım",
+    "promosyon kalem adetli sipariş",
+    "promosyon kalem fiyat avantajı",
+    "promosyon kalem baskı toplu sipariş",
+    "kurumsal promosyon kalem alımı",
+  ],
   alternates: {
     canonical: PAGE_URL,
+  },
+  robots: {
+    index: true,
+    follow: true,
   },
   openGraph: {
     title: "Promosyon Kalem Toplu Alım Rehberi 2026",
@@ -17,12 +37,148 @@ export const metadata: Metadata = {
       "Promosyon kalem toplu sipariş süreci, fiyat avantajları ve doğru ürün seçimini detaylı inceleyin.",
     url: PAGE_URL,
     type: "article",
+    siteName: "FirmaPromosyon",
+    locale: "tr_TR",
+    images: [
+      {
+        url: IMAGE_URL,
+        width: 1200,
+        height: 630,
+        alt: "Promosyon Kalem Toplu Alım Rehberi 2026",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: TITLE,
+    description: DESCRIPTION,
+    images: [IMAGE_URL],
   },
 };
 
 export default function Page() {
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: TITLE,
+    description: DESCRIPTION,
+    inLanguage: "tr-TR",
+    mainEntityOfPage: PAGE_URL,
+    author: {
+      "@type": "Organization",
+      name: "FirmaPromosyon",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "FirmaPromosyon",
+      logo: {
+        "@type": "ImageObject",
+        url: `${SITE_URL}/logo.png`,
+      },
+    },
+    image: [IMAGE_URL],
+    datePublished: "2026-04-01",
+    dateModified: "2026-04-01",
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Ana Sayfa",
+        item: SITE_URL,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Rehber",
+        item: `${SITE_URL}/rehber`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: "Promosyon Kalem Toplu Alım",
+        item: PAGE_URL,
+      },
+    ],
+  };
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: "Promosyon kalem toplu alım neden avantajlıdır?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Toplu alımda baskı hazırlığı, üretim planlaması ve işçilik gibi sabit maliyetler daha fazla ürüne bölündüğü için birim maliyet düşer.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Toplu promosyon kalem alırken nelere dikkat edilmeli?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Kullanım alanı, sipariş adedi, ürün kalitesi, baskı türü, baskı yönü ve stok planlaması toplu alım öncesinde mutlaka netleştirilmelidir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Toplu siparişte hangi kalem modelleri daha çok tercih edilir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Geniş dağıtımlar için ekonomik plastik kalemler, daha prestijli müşteri grupları için ise metal veya premium kalem modelleri tercih edilebilir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Toplu alımda baskı seçimi neden önemlidir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Baskı seçimi toplam maliyeti ve ürünün marka üzerindeki etkisini doğrudan etkiler. Tek renkli tampon baskı genellikle daha ekonomik, UV ve lazer baskı ise daha dikkat çekici veya premium sonuç verir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Ucuz ürün toplu siparişte her zaman doğru seçim midir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Hayır. Çok ucuz ama kötü yazan veya kalitesiz görünen bir kalem marka algısına zarar verebilir. Bu yüzden fiyat ve kalite dengesi birlikte değerlendirilmelidir.",
+        },
+      },
+    ],
+  };
+
   return (
     <main className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+
+      <nav className="mb-6 text-sm text-gray-500">
+        <Link href="/" className="hover:underline">
+          Ana Sayfa
+        </Link>{" "}
+        /{" "}
+        <Link href="/rehber" className="hover:underline">
+          Rehber
+        </Link>{" "}
+        / <span>Promosyon Kalem Toplu Alım</span>
+      </nav>
+
       <article className="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm md:p-10">
         <header>
           <div className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
@@ -32,6 +188,17 @@ export default function Page() {
           <h1 className="mt-4 text-3xl font-extrabold leading-tight md:text-4xl">
             Promosyon Kalem Toplu Alım Rehberi
           </h1>
+
+          <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+            <Image
+              src={IMAGE_PATH}
+              alt="Promosyon Kalem Toplu Alım Rehberi 2026"
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 896px"
+            />
+          </div>
 
           <div className="mt-6 space-y-5 text-base leading-7 text-gray-700 md:text-lg">
             <p>
@@ -73,6 +240,12 @@ export default function Page() {
               </Link>{" "}
               gibi ürünlerle destekleyerek kampanya etkisini daha da artırır.
             </p>
+
+            <p>
+              Toplu sipariş yaklaşımı, yalnızca fiyat avantajı sağlamakla kalmaz;
+              aynı zamanda dönemsel ihtiyaçların daha planlı şekilde yönetilmesini
+              ve promosyon çalışmalarının daha istikrarlı hale gelmesini de sağlar.
+            </p>
           </div>
         </header>
 
@@ -104,6 +277,12 @@ export default function Page() {
                 durumlarda hızlı hareket etmek mümkün olur. Son dakika promosyon
                 ihtiyacında yeniden ürün aramak zorunda kalmazsınız.
               </p>
+
+              <p>
+                Ayrıca tek seferde daha bilinçli seçim yapma imkanı doğar. Böylece
+                hem ürün standardı korunur hem de firmanın promosyon dili daha
+                tutarlı hale gelir.
+              </p>
             </div>
           </section>
 
@@ -134,6 +313,12 @@ export default function Page() {
                 Toplu alımda maliyet önemli olsa da marka algısını koruyacak
                 seviyede bir ürün seçmek gerekir.
               </p>
+
+              <p>
+                Bunun yanında baskı alanı, logo görünürlüğü ve ürünün hedef kitleye
+                vereceği his de değerlendirilmelidir. Çünkü dağıtım kadar temsil
+                etkisi de önem taşır.
+              </p>
             </div>
           </section>
 
@@ -163,6 +348,11 @@ export default function Page() {
                 kalemler de bazı sektörlerde öne çıkabilir. Özellikle teknoloji
                 veya sürdürülebilirlik odaklı firmalar için bu tür modeller daha
                 anlamlı olabilir.
+              </p>
+
+              <p>
+                Toplu alımda doğru model seçimi, yalnızca bugünkü maliyeti değil
+                ürünün yaratacağı uzun vadeli reklam etkisini de belirler.
               </p>
             </div>
           </section>
@@ -201,6 +391,12 @@ export default function Page() {
                 </Link>{" "}
                 rehberleri de incelenebilir.
               </p>
+
+              <p>
+                Toplu siparişte baskı tekniği yanlış seçilirse maliyet artabilir
+                ya da görsel sonuç beklentiyi karşılamayabilir. Bu yüzden ürün ve
+                baskı dengesini doğru kurmak gerekir.
+              </p>
             </div>
           </section>
 
@@ -231,6 +427,12 @@ export default function Page() {
                 </Link>{" "}
                 rehberi de faydalı olacaktır.
               </p>
+
+              <p>
+                Aynı zamanda toplu siparişlerde tedarik süreci daha düzenli
+                yönetildiği için zaman maliyeti de düşer. Bu da dolaylı bir avantaj
+                sağlar.
+              </p>
             </div>
           </section>
 
@@ -257,6 +459,12 @@ export default function Page() {
                 Üçüncü hata baskı detaylarını baştan netleştirmemektir. Tek yön mü
                 çift yön mü, tek renk mi çok renk mi, logo alanı uygun mu gibi
                 sorular önceden belirlenmezse teklif süreci karışabilir.
+              </p>
+
+              <p>
+                Dördüncü hata ise yalnızca bugünkü ihtiyacı düşünmektir. Gelecek
+                dönem kullanımı hesaba katılmazsa sonradan aynı ürün için daha
+                maliyetli ek siparişler gerekebilir.
               </p>
             </div>
           </section>
@@ -290,6 +498,12 @@ export default function Page() {
                 da cevap vermek gerekir. Akıllı stok yönetimi, promosyon bütçesini
                 çok daha verimli hale getirir.
               </p>
+
+              <p>
+                Özellikle sezonluk kampanyalar, fuar tarihleri ve dağıtım sıklığı
+                önceden düşünülerek yapılan stok planlaması, gereksiz ek maliyetleri
+                azaltır.
+              </p>
             </div>
           </section>
 
@@ -319,6 +533,11 @@ export default function Page() {
                 iyi yazan, daha sağlam ve daha estetik görünen kalemler uzun vadede
                 daha yüksek reklam verimi sağlayabilir.
               </p>
+
+              <p>
+                Yani doğru soru “en ucuz hangisi?” değil, “bütçeye uygun ama marka
+                değerini koruyan en doğru ürün hangisi?” olmalıdır.
+              </p>
             </div>
           </section>
 
@@ -347,6 +566,11 @@ export default function Page() {
                 kolaylaştırır. Böylece baskı uygunluğu daha hızlı değerlendirilir
                 ve deneme süreci kısalır. Toplu alımlarda net brief vermek hem
                 zaman hem maliyet açısından ciddi avantaj sağlar.
+              </p>
+
+              <p>
+                Teslim süresi beklentisi, baskı örneği ihtiyacı ve varsa ürün rengi
+                tercihleri de baştan belirtilirse süreç çok daha düzenli ilerler.
               </p>
             </div>
           </section>
@@ -380,8 +604,60 @@ export default function Page() {
                 sayfasını ziyaret ederek markanıza uygun seçenekleri
                 değerlendirebilirsiniz.
               </p>
+
+              <p>
+                Sonuç olarak toplu alım, sadece daha fazla ürün almak değil; daha
+                akıllı, daha planlı ve daha verimli bir promosyon stratejisi
+                kurmak anlamına gelir.
+              </p>
+            </div>
+
+            <div className="mt-10 rounded-xl bg-gray-100 p-6">
+              <p className="font-semibold text-gray-900">
+                Hemen teklif almak için bizimle iletişime geçebilirsiniz.
+              </p>
             </div>
           </section>
+        </div>
+
+        <div className="mt-10 rounded-2xl border border-gray-200 bg-gray-50 p-5">
+          <h3 className="text-lg font-bold text-gray-900">
+            İlgili Kategoriler
+          </h3>
+
+          <div className="mt-4 flex flex-col gap-2 font-semibold text-gray-800">
+            <Link href="/kategori/kalem" className="hover:underline">
+              Promosyon Kalem
+            </Link>
+            <Link href="/kategori/ajanda" className="hover:underline">
+              Promosyon Ajanda
+            </Link>
+            <Link href="/kategori/anahtarlik" className="hover:underline">
+              Promosyon Anahtarlık
+            </Link>
+            <Link href="/kategori/cakmak" className="hover:underline">
+              Promosyon Çakmak
+            </Link>
+            <Link href="/kategori/termos" className="hover:underline">
+              Promosyon Termos
+            </Link>
+          </div>
+        </div>
+
+        <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+          <Link
+            href="/teklif"
+            className="inline-flex items-center justify-center rounded-2xl bg-black px-6 py-3 font-semibold text-white transition hover:bg-gray-900"
+          >
+            Teklif Al
+          </Link>
+
+          <Link
+            href="/urunler"
+            className="inline-flex items-center justify-center rounded-2xl border border-gray-300 px-6 py-3 font-semibold text-gray-900 transition hover:border-gray-500"
+          >
+            Ürünleri İncele
+          </Link>
         </div>
       </article>
     </main>

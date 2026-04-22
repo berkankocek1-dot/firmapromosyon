@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi`;
+const IMAGE_PATH =
+  "/guides/promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE =
   "Promosyon Çakmak mı Kalem mi? En Doğru Promosyon Ürünü Seçimi";
 const DESCRIPTION =
@@ -37,7 +41,7 @@ export const metadata: Metadata = {
     locale: "tr_TR",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: IMAGE_URL,
         width: 1200,
         height: 630,
         alt: "Promosyon Çakmak mı Kalem mi? En Doğru Promosyon Ürünü Seçimi",
@@ -48,7 +52,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: TITLE,
     description: DESCRIPTION,
-    images: [`${SITE_URL}/og.jpg`],
+    images: [IMAGE_URL],
   },
   robots: {
     index: true,
@@ -80,10 +84,10 @@ export default function Page() {
       name: "FirmaPromosyon",
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/og.jpg`,
+        url: `${SITE_URL}/logo.png`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
+    image: [IMAGE_URL],
     datePublished: "2026-04-13",
     dateModified: "2026-04-13",
   };
@@ -213,7 +217,18 @@ export default function Page() {
               Promosyon Çakmak mı Kalem mi? En Doğru Promosyon Ürünü Seçimi
             </h1>
 
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
+            <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+              <Image
+                src={IMAGE_PATH}
+                alt="Promosyon Çakmak mı Kalem mi? En Doğru Promosyon Ürünü Seçimi"
+                fill
+                priority
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 896px"
+              />
+            </div>
+
+            <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
               Promosyon ürünü seçimi, kurumsal tanıtım sürecinde en kritik
               kararlardan biridir. Çünkü doğru promosyon ürünü yalnızca dağıtılan
               bir eşya değil, aynı zamanda markanın sahadaki görünür temsilcisi

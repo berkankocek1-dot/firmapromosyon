@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari`;
+const IMAGE_PATH =
+  "/guides/logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE =
   "Logo Baskılı Promosyon Çakmak Rehberi: Modeller, Fiyatlar ve Kullanım Alanları";
 const DESCRIPTION =
@@ -37,7 +41,7 @@ export const metadata: Metadata = {
     locale: "tr_TR",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: IMAGE_URL,
         width: 1200,
         height: 630,
         alt: "Logo Baskılı Promosyon Çakmak Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
@@ -48,7 +52,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: TITLE,
     description: DESCRIPTION,
-    images: [`${SITE_URL}/og.jpg`],
+    images: [IMAGE_URL],
   },
   robots: {
     index: true,
@@ -80,10 +84,10 @@ export default function Page() {
       name: "FirmaPromosyon",
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/og.jpg`,
+        url: `${SITE_URL}/logo.png`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
+    image: [IMAGE_URL],
     datePublished: "2026-04-13",
     dateModified: "2026-04-13",
   };
@@ -213,7 +217,18 @@ export default function Page() {
               Logo Baskılı Promosyon Çakmak Rehberi: Modeller, Fiyatlar ve Kullanım Alanları
             </h1>
 
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
+            <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+              <Image
+                src={IMAGE_PATH}
+                alt="Logo Baskılı Promosyon Çakmak Rehberi: Modeller, Fiyatlar ve Kullanım Alanları"
+                fill
+                priority
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 896px"
+              />
+            </div>
+
+            <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
               <strong className="text-gray-900">Logo baskılı promosyon çakmak</strong>,
               firmaların marka görünürlüğünü artırmak, daha fazla kişiye ulaşmak ve
               düşük maliyetle etkili tanıtım yapmak için tercih ettiği en güçlü promosyon

@@ -1,9 +1,14 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/logo-baskili-promosyon-cakmak-secerken-nelere-dikkat-edilmeli`;
-const TITLE = "Logo Baskılı Promosyon Çakmak Seçerken Nelere Dikkat Edilmeli?";
+const IMAGE_PATH =
+  "/guides/logo-baskili-promosyon-cakmak-secerken-nelere-dikkat-edilmeli.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
+const TITLE =
+  "Logo Baskılı Promosyon Çakmak Seçerken Nelere Dikkat Edilmeli?";
 const DESCRIPTION =
   "Logo baskılı promosyon çakmak seçerken nelere dikkat edilmeli? Kalite, baskı alanı, model seçimi, adet planlaması ve marka görünürlüğü açısından detaylı rehber.";
 
@@ -32,7 +37,7 @@ export const metadata: Metadata = {
     locale: "tr_TR",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: IMAGE_URL,
         width: 1200,
         height: 630,
         alt: "Logo Baskılı Promosyon Çakmak Seçerken Nelere Dikkat Edilmeli?",
@@ -43,7 +48,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: TITLE,
     description: DESCRIPTION,
-    images: [`${SITE_URL}/og.jpg`],
+    images: [IMAGE_URL],
   },
 };
 
@@ -64,10 +69,12 @@ export default function Page() {
       name: "FirmaPromosyon",
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/og.jpg`,
+        url: `${SITE_URL}/logo.png`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
+    image: [IMAGE_URL],
+    datePublished: "2026-04-01",
+    dateModified: "2026-04-01",
   };
 
   const breadcrumbSchema = {
@@ -123,6 +130,22 @@ export default function Page() {
           text: "Sadece en ucuz ürünü seçmek her zaman doğru değildir. Çok düşük kalite, marka algısını olumsuz etkileyebilir.",
         },
       },
+      {
+        "@type": "Question",
+        name: "Sipariş adedi neden önemlidir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Sipariş adedi hem birim maliyeti hem de stok yönetimini etkiler. Dağıtım planına uygun sipariş vermek daha sağlıklı sonuç verir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Logo okunabilirliği neden bu kadar önemlidir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Promosyon çakmağın reklam gücü doğrudan görünürlükten gelir. Logo küçük alanda okunmuyorsa ürünün tanıtım etkisi zayıflar.",
+        },
+      },
     ],
   };
 
@@ -152,7 +175,10 @@ export default function Page() {
               </li>
               <li>/</li>
               <li>
-                <Link href="/rehber" className="transition-colors hover:text-red-600">
+                <Link
+                  href="/rehber"
+                  className="transition-colors hover:text-red-600"
+                >
                   Rehber
                 </Link>
               </li>
@@ -176,7 +202,18 @@ export default function Page() {
               Logo Baskılı Promosyon Çakmak Seçerken Nelere Dikkat Edilmeli?
             </h1>
 
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
+            <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+              <Image
+                src={IMAGE_PATH}
+                alt="Logo Baskılı Promosyon Çakmak Seçerken Nelere Dikkat Edilmeli?"
+                fill
+                priority
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 896px"
+              />
+            </div>
+
+            <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
               Logo baskılı promosyon çakmak seçimi yaparken yalnızca fiyat odaklı
               hareket etmek çoğu zaman doğru sonuç vermez. Çünkü ürünün kalitesi,
               baskı alanı, model yapısı, logo okunabilirliği ve hedef kitle ile
@@ -190,6 +227,13 @@ export default function Page() {
               dağıtım materyali değil, aynı zamanda marka temsilcisi gibi
               düşünülmesi gerekir. Kullanıcı eline aldığı ürünün kalitesine göre
               markanız hakkında doğrudan fikir oluşturabilir.
+            </p>
+
+            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
+              Özellikle fuar, restoran, kafe, eğlence mekanı, kampanya dağıtımı
+              veya saha promosyonu gibi alanlarda kullanılacak ürünlerde doğru
+              seçim daha da önem kazanır. Çünkü bu tür promosyonlar geniş kitleye
+              ulaşır ve marka görünürlüğü kısa sürede çok sayıda kişiye temas eder.
             </p>
           </header>
 
@@ -217,6 +261,11 @@ export default function Page() {
                 Bu yüzden ürün seçerken yalnızca fiyat değil, malzeme hissi ve
                 kullanım güveni de düşünülmelidir.
               </p>
+              <p>
+                Özellikle logo baskılı ürünlerde kalite ile görünürlük birlikte
+                çalışır. Ürün iyi değilse, üzerindeki baskı da beklenen etkiyi
+                vermez ve promosyon çalışması zayıflar.
+              </p>
             </section>
 
             <section>
@@ -230,6 +279,10 @@ export default function Page() {
                 En iyi sonuç için sade, okunabilir ve ürün yüzeyine uyumlu baskı
                 tercih edilmelidir. Özellikle logo küçük alanda okunmuyorsa ürünün
                 tanıtım gücü zayıflayabilir.
+              </p>
+              <p>
+                Bu nedenle çakmak seçerken önce logo yapısına bakmak, sonra baskı
+                alanı uygun modeli belirlemek daha doğru bir yaklaşımdır.
               </p>
             </section>
 
@@ -245,6 +298,11 @@ export default function Page() {
                 Doğru model, hedef kitleyle örtüşen modeldir. Her ürün her senaryo
                 için uygun değildir.
               </p>
+              <p>
+                Örneğin yoğun saha dağıtımı ile kurumsal müşteri ziyareti aynı
+                promosyon stratejisi değildir. Bu yüzden model seçimi mutlaka
+                kullanım amacına göre yapılmalıdır.
+              </p>
             </section>
 
             <section>
@@ -258,6 +316,10 @@ export default function Page() {
                 Bazı premium modellerde lazer baskı da düşünülebilir. Burada karar,
                 marka kimliğine ve kampanya hedeflerine göre verilmelidir.
               </p>
+              <p>
+                Baskı tekniği seçilirken yalnızca estetik değil, ürün yüzeyi,
+                bütçe ve adet planlaması da göz önünde bulundurulmalıdır.
+              </p>
             </section>
 
             <section>
@@ -269,6 +331,10 @@ export default function Page() {
               </p>
               <p>
                 Bu nedenle dağıtım planına uygun sipariş vermek en sağlıklı yaklaşımdır.
+              </p>
+              <p>
+                Özellikle sık promosyon kullanan firmalar için toplu ama kontrollü
+                sipariş planı, hem maliyet avantajı hem de operasyon kolaylığı sağlar.
               </p>
             </section>
 
@@ -282,6 +348,42 @@ export default function Page() {
               <p>
                 Dengeli fiyat + yeterli kalite + iyi baskı kombinasyonu, çoğu zaman
                 en sağlıklı promosyon stratejisini oluşturur.
+              </p>
+              <p>
+                Çok ucuz ama kötü görünen bir ürün, kısa vadede tasarruf gibi
+                görünse de uzun vadede markaya zarar verebilir.
+              </p>
+            </section>
+
+            <section>
+              <h2>7. Kullanım alanına göre seçim yapmak neden önemlidir?</h2>
+              <p>
+                Her promosyon çakmak aynı ortam için uygun değildir. Restoran ve
+                kafe dağıtımları, fuar kampanyaları, bayi ziyaretleri veya mağaza
+                promosyonları farklı ihtiyaçlar doğurur. Bazı alanlarda ekonomik
+                dağıtım önemliyken bazı alanlarda daha temiz baskı ve daha iyi
+                görünüm öne çıkar.
+              </p>
+              <p>
+                Bu yüzden çakmağın nerede ve hangi amaçla kullanılacağı önceden
+                netleştirilirse hem model hem baskı seçimi daha doğru yapılabilir.
+              </p>
+            </section>
+
+            <section>
+              <h2>8. Diğer promosyon ürünlerle birlikte düşünülmeli mi?</h2>
+              <p>
+                Evet. Logo baskılı promosyon çakmak, tek başına güçlü bir ürün
+                olsa da bazı kampanyalarda diğer promosyon ürünlerle birlikte
+                kullanıldığında daha etkili olabilir. Örneğin{" "}
+                <Link href="/kategori/anahtarlik">promosyon anahtarlık</Link>,{" "}
+                <Link href="/kategori/kalem">promosyon kalem</Link> veya{" "}
+                <Link href="/kategori/termos">promosyon termos</Link>{" "}
+                gibi ürünlerle tamamlanan setler daha kurumsal bir algı yaratabilir.
+              </p>
+              <p>
+                Özellikle kampanyanın hedefi daha güçlü hatırlanma ve daha uzun
+                temas ise ürün kombinasyonları değerlendirilmelidir.
               </p>
             </section>
 
@@ -305,20 +407,41 @@ export default function Page() {
                 Çok düşük kalite marka algısını olumsuz etkileyebilir. Bu yüzden
                 yalnızca en düşük fiyatı hedeflemek doğru olmayabilir.
               </p>
+
+              <h3>Logo neden bazı ürünlerde iyi görünmez?</h3>
+              <p>
+                Bunun sebebi genellikle baskı alanının darlığı, logonun çok detaylı
+                olması veya ürün yüzeyine uygun olmayan baskı seçimidir.
+              </p>
             </section>
           </div>
 
           <div className="mt-10 rounded-2xl border border-gray-200 bg-gray-50 p-5">
             <h3 className="text-lg font-bold text-gray-900">İlgili Kategoriler</h3>
             <div className="mt-4 flex flex-col gap-2">
-              <Link href="/kategori/cakmak" className="font-semibold text-gray-800 hover:text-red-600">
+              <Link
+                href="/kategori/cakmak"
+                className="font-semibold text-gray-800 hover:text-red-600"
+              >
                 Promosyon Çakmak
               </Link>
-              <Link href="/kategori/kalem" className="font-semibold text-gray-800 hover:text-red-600">
+              <Link
+                href="/kategori/kalem"
+                className="font-semibold text-gray-800 hover:text-red-600"
+              >
                 Promosyon Kalem
               </Link>
-              <Link href="/kategori/anahtarlik" className="font-semibold text-gray-800 hover:text-red-600">
+              <Link
+                href="/kategori/anahtarlik"
+                className="font-semibold text-gray-800 hover:text-red-600"
+              >
                 Promosyon Anahtarlık
+              </Link>
+              <Link
+                href="/kategori/termos"
+                className="font-semibold text-gray-800 hover:text-red-600"
+              >
+                Promosyon Termos
               </Link>
             </div>
           </div>

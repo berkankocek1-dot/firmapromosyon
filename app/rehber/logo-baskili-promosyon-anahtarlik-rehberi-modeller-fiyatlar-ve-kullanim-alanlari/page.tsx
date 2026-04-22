@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
@@ -7,6 +8,9 @@ const TITLE =
   "Logo Baskılı Promosyon Anahtarlık Rehberi: Modeller, Fiyatlar ve Kullanım Alanları";
 const DESCRIPTION =
   "Logo baskılı promosyon anahtarlık modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.";
+const GUIDE_IMAGE =
+  "/guides/logo-baskili-promosyon-anahtarlik-rehberi-modeller-fiyatlar-ve-kullanim-alanlari.jpg";
+const GUIDE_IMAGE_URL = `${SITE_URL}${GUIDE_IMAGE}`;
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -37,7 +41,7 @@ export const metadata: Metadata = {
     locale: "tr_TR",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: GUIDE_IMAGE_URL,
         width: 1200,
         height: 630,
         alt: "Logo Baskılı Promosyon Anahtarlık Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
@@ -48,7 +52,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: TITLE,
     description: DESCRIPTION,
-    images: [`${SITE_URL}/og.jpg`],
+    images: [GUIDE_IMAGE_URL],
   },
   robots: {
     index: true,
@@ -83,7 +87,7 @@ export default function Page() {
         url: `${SITE_URL}/og.jpg`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
+    image: [GUIDE_IMAGE_URL],
     datePublished: "2026-04-13",
     dateModified: "2026-04-13",
   };
@@ -213,7 +217,18 @@ export default function Page() {
               Logo Baskılı Promosyon Anahtarlık Rehberi: Modeller, Fiyatlar ve Kullanım Alanları
             </h1>
 
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
+            <div className="relative mt-6 overflow-hidden rounded-2xl border border-gray-200">
+              <Image
+                src={GUIDE_IMAGE}
+                alt="Logo baskılı promosyon anahtarlık rehberi görseli"
+                width={1200}
+                height={675}
+                className="h-auto w-full object-cover"
+                priority
+              />
+            </div>
+
+            <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
               <strong className="text-gray-900">Logo baskılı promosyon anahtarlık</strong>,
               firmaların marka görünürlüğünü artırmak, müşterileriyle daha kalıcı bir
               temas kurmak ve düşük maliyetle etkili tanıtım yapmak için tercih ettiği

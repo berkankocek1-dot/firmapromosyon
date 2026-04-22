@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-anahtarlik-nedir-firmalar-neden-tercih-eder`;
+const IMAGE_PATH =
+  "/guides/promosyon-anahtarlik-nedir-firmalar-neden-tercih-eder.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE =
   "Promosyon Anahtarlık Nedir? Firmalar Neden Tercih Eder?";
 const DESCRIPTION =
@@ -37,7 +41,7 @@ export const metadata: Metadata = {
     locale: "tr_TR",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: IMAGE_URL,
         width: 1200,
         height: 630,
         alt: "Promosyon Anahtarlık Nedir? Firmalar Neden Tercih Eder?",
@@ -48,7 +52,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: TITLE,
     description: DESCRIPTION,
-    images: [`${SITE_URL}/og.jpg`],
+    images: [IMAGE_URL],
   },
   robots: {
     index: true,
@@ -80,10 +84,10 @@ export default function Page() {
       name: "FirmaPromosyon",
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/og.jpg`,
+        url: `${SITE_URL}/logo.png`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
+    image: [IMAGE_URL],
     datePublished: "2026-04-13",
     dateModified: "2026-04-13",
   };
@@ -213,7 +217,18 @@ export default function Page() {
               Promosyon Anahtarlık Nedir? Firmalar Neden Tercih Eder?
             </h1>
 
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
+            <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+              <Image
+                src={IMAGE_PATH}
+                alt="Promosyon Anahtarlık Nedir? Firmalar Neden Tercih Eder?"
+                fill
+                priority
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 896px"
+              />
+            </div>
+
+            <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
               <strong className="text-gray-900">Promosyon anahtarlık</strong>,
               firmaların marka görünürlüğünü artırmak, müşterileriyle daha kalıcı
               temas kurmak ve düşük maliyetle etkili tanıtım yapmak için tercih ettiği

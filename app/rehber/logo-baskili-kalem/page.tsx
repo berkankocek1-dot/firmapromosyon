@@ -1,28 +1,184 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/logo-baskili-kalem`;
+const IMAGE_PATH = "/guides/logo-baskili-kalem.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
+const TITLE = "Logo Baskılı Kalem Nedir? 2026 Detaylı Rehber";
+const DESCRIPTION =
+  "Logo baskılı kalem nedir, nasıl yapılır ve firmalara ne kazandırır? Baskı türleri, fiyatlar, model seçimi ve kullanım alanlarıyla kapsamlı rehber.";
 
 export const metadata: Metadata = {
-  title: "Logo Baskılı Kalem Nedir? 2026 Detaylı Rehber",
-  description:
-    "Logo baskılı kalem nedir, nasıl yapılır ve firmalara ne kazandırır? Baskı türleri, fiyatlar, model seçimi ve kullanım alanlarıyla kapsamlı rehber.",
+  title: TITLE,
+  description: DESCRIPTION,
+  keywords: [
+    "logo baskılı kalem",
+    "logo baskılı kalem nedir",
+    "firma logolu kalem",
+    "baskılı kalem",
+    "promosyon kalem",
+    "logo baskılı promosyon kalem",
+    "kurumsal logolu kalem",
+    "kalem baskı türleri",
+    "logo baskılı kalem fiyatları",
+  ],
   alternates: {
     canonical: PAGE_URL,
   },
+  robots: {
+    index: true,
+    follow: true,
+  },
   openGraph: {
-    title: "Logo Baskılı Kalem Nedir? 2026 Detaylı Rehber",
+    title: TITLE,
     description:
       "Logo baskılı kalemlerin avantajları, kullanım alanları, baskı türleri ve fiyat yapısını öğrenin.",
     url: PAGE_URL,
     type: "article",
+    siteName: "FirmaPromosyon",
+    locale: "tr_TR",
+    images: [
+      {
+        url: IMAGE_URL,
+        width: 1200,
+        height: 630,
+        alt: "Logo Baskılı Kalem Nedir? 2026 Detaylı Rehber",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: TITLE,
+    description: DESCRIPTION,
+    images: [IMAGE_URL],
   },
 };
 
 export default function Page() {
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: TITLE,
+    description: DESCRIPTION,
+    inLanguage: "tr-TR",
+    mainEntityOfPage: PAGE_URL,
+    author: {
+      "@type": "Organization",
+      name: "FirmaPromosyon",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "FirmaPromosyon",
+      logo: {
+        "@type": "ImageObject",
+        url: `${SITE_URL}/logo.png`,
+      },
+    },
+    image: [IMAGE_URL],
+    datePublished: "2026-04-01",
+    dateModified: "2026-04-01",
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Ana Sayfa",
+        item: SITE_URL,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Rehber",
+        item: `${SITE_URL}/rehber`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: "Logo Baskılı Kalem",
+        item: PAGE_URL,
+      },
+    ],
+  };
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: "Logo baskılı kalem nedir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Logo baskılı kalem, firmaların marka bilinirliğini artırmak için kalem üzerine logo, slogan veya firma bilgisi bastırarak dağıttığı promosyon ürünlerinden biridir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Logo baskılı kalem neden tercih edilir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Günlük kullanım sıklığı yüksek olduğu için marka görünürlüğünü artırır. Düşük maliyetle uzun süreli reklam etkisi sağlayabilir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Logo baskılı kalemlerde hangi baskı türleri kullanılır?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "En yaygın baskı türleri tampon baskı, UV baskı, lazer baskı ve bazı özel uygulamalarda serigraf baskıdır.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Logo baskılı kalem fiyatları neye göre değişir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Fiyatlar kalem modeli, baskı türü, sipariş adedi, baskı yönü, renk sayısı ve ürün kalitesine göre değişir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Hangi kalem modeli daha uygundur?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Bu, hedef kitleye göre değişir. Geniş dağıtımlar için plastik kalemler, kurumsal hediyeler için metal ve premium kalemler daha uygun olabilir.",
+        },
+      },
+    ],
+  };
+
   return (
     <main className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+
+      <nav className="mb-6 text-sm text-gray-500">
+        <Link href="/" className="hover:underline">
+          Ana Sayfa
+        </Link>{" "}
+        /{" "}
+        <Link href="/rehber" className="hover:underline">
+          Rehber
+        </Link>{" "}
+        / <span>Logo Baskılı Kalem</span>
+      </nav>
+
       <article className="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm md:p-10">
         <header>
           <div className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
@@ -32,6 +188,17 @@ export default function Page() {
           <h1 className="mt-4 text-3xl font-extrabold leading-tight md:text-4xl">
             Logo Baskılı Kalem Nedir? Firmalar Neden Tercih Ediyor?
           </h1>
+
+          <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+            <Image
+              src={IMAGE_PATH}
+              alt="Logo Baskılı Kalem Nedir? 2026 Rehber"
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 896px"
+            />
+          </div>
 
           <div className="mt-6 space-y-5 text-base leading-7 text-gray-700 md:text-lg">
             <p>

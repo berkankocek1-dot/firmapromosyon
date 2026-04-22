@@ -1,15 +1,35 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-rubber-kalem`;
+const IMAGE_PATH = "/guides/promosyon-rubber-kalem.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
+const TITLE = "Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?";
+const DESCRIPTION =
+  "Promosyon rubber kalem nedir, neden tercih edilir, hangi alanlarda kullanılır ve firmalara ne kazandırır? Logo baskılı rubber kalemler hakkında detaylı rehber.";
 
 export const metadata: Metadata = {
-  title: "Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?",
-  description:
-    "Promosyon rubber kalem nedir, neden tercih edilir, hangi alanlarda kullanılır ve firmalara ne kazandırır? Logo baskılı rubber kalemler hakkında detaylı rehber.",
+  title: TITLE,
+  description: DESCRIPTION,
+  keywords: [
+    "promosyon rubber kalem",
+    "rubber kalem nedir",
+    "logo baskılı rubber kalem",
+    "rubber yüzeyli kalem",
+    "promosyon kalem",
+    "kurumsal rubber kalem",
+    "mat yüzeyli promosyon kalem",
+    "rubber kalem avantajları",
+    "promosyon rubber kalem fiyatları",
+  ],
   alternates: {
     canonical: PAGE_URL,
+  },
+  robots: {
+    index: true,
+    follow: true,
   },
   openGraph: {
     title: "Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?",
@@ -17,9 +37,11 @@ export const metadata: Metadata = {
       "Promosyon rubber kalemlerin avantajları, kullanım alanları, baskı seçenekleri ve kurumsal tanıtımdaki önemi hakkında detaylı rehber.",
     url: PAGE_URL,
     type: "article",
+    siteName: "FirmaPromosyon",
+    locale: "tr_TR",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: IMAGE_URL,
         width: 1200,
         height: 630,
         alt: "Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?",
@@ -31,7 +53,7 @@ export const metadata: Metadata = {
     title: "Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?",
     description:
       "Promosyon rubber kalem nedir, neden tercih edilir ve firmalara ne kazandırır? Detaylı rehber.",
-    images: [`${SITE_URL}/og.jpg`],
+    images: [IMAGE_URL],
   },
 };
 
@@ -53,10 +75,12 @@ export default function PromosyonRubberKalemPage() {
       name: "FirmaPromosyon",
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/og.jpg`,
+        url: `${SITE_URL}/logo.png`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
+    image: [IMAGE_URL],
+    datePublished: "2026-04-01",
+    dateModified: "2026-04-01",
   };
 
   const breadcrumbSchema = {
@@ -84,6 +108,53 @@ export default function PromosyonRubberKalemPage() {
     ],
   };
 
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: "Promosyon rubber kalem nedir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Promosyon rubber kalem, dış yüzeyi özel kaplama sayesinde daha yumuşak, mat ve premium his veren promosyon kalem türüdür. Üzerine logo ve firma bilgileri baskı uygulanabilir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Promosyon rubber kalem neden tercih edilir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Şık görünümü, konforlu tutuş hissi, premium algısı ve marka baskısını estetik şekilde taşıyabilmesi nedeniyle tercih edilir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Promosyon rubber kalem hangi alanlarda kullanılır?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Fuarlar, seminerler, müşteri ziyaretleri, mağaza kampanyaları, ofis kullanımı, toplantılar ve kurumsal etkinliklerde sıkça kullanılır.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Promosyon rubber kalemlerde hangi baskılar uygulanabilir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Ürün modeline ve yüzeyine göre tampon baskı, UV baskı, lazer baskı veya uygun diğer baskı teknikleri uygulanabilir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Rubber kalem ile standart plastik kalem arasındaki fark nedir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Rubber kalemler daha yumuşak dokulu, mat ve premium bir his verir. Standart plastik kalemlere göre daha kaliteli ve daha özenli bir görünüm sunabilir.",
+        },
+      },
+    ],
+  };
+
   return (
     <main className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
       <script
@@ -93,6 +164,10 @@ export default function PromosyonRubberKalemPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
 
       <nav className="mb-6 text-sm text-gray-500">
@@ -116,7 +191,18 @@ export default function PromosyonRubberKalemPage() {
             Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?
           </h1>
 
-          <p className="mt-4 text-base leading-7 text-gray-700 md:text-lg">
+          <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+            <Image
+              src={IMAGE_PATH}
+              alt="Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?"
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 896px"
+            />
+          </div>
+
+          <p className="mt-6 text-base leading-7 text-gray-700 md:text-lg">
             Promosyon rubber kalem, hem şık görünümü hem de elde bıraktığı yumuşak
             tutuş hissi sayesinde son yıllarda firmaların en çok tercih ettiği
             promosyon kalem modelleri arasında öne çıkan ürünlerden biridir.

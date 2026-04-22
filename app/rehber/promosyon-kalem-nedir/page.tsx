@@ -1,8 +1,10 @@
+import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-kalem-nedir`;
+const GUIDE_IMAGE = "/guides/promosyon-kalem-nedir.jpg";
 
 export const metadata: Metadata = {
   title: "Promosyon Kalem Nedir? Firmalar Neden Tercih Eder?",
@@ -19,7 +21,7 @@ export const metadata: Metadata = {
     type: "article",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: `${SITE_URL}${GUIDE_IMAGE}`,
         width: 1200,
         height: 630,
         alt: "Promosyon Kalem Nedir? Firmalar Neden Tercih Eder?",
@@ -31,7 +33,7 @@ export const metadata: Metadata = {
     title: "Promosyon Kalem Nedir? Firmalar Neden Tercih Eder?",
     description:
       "Promosyon kalem nedir, neden tercih edilir ve firmalara ne kazandırır? Detaylı rehber.",
-    images: [`${SITE_URL}/og.jpg`],
+    images: [`${SITE_URL}${GUIDE_IMAGE}`],
   },
 };
 
@@ -56,7 +58,7 @@ export default function PromosyonKalemNedirPage() {
         url: `${SITE_URL}/og.jpg`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
+    image: [`${SITE_URL}${GUIDE_IMAGE}`],
   };
 
   const breadcrumbSchema = {
@@ -108,6 +110,17 @@ export default function PromosyonKalemNedirPage() {
 
       <article className="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm md:p-10">
         <header>
+          <div className="mb-6 overflow-hidden rounded-2xl">
+            <Image
+              src={GUIDE_IMAGE}
+              alt="Promosyon Kalem Nedir?"
+              width={1200}
+              height={675}
+              className="h-auto w-full object-cover"
+              priority
+            />
+          </div>
+
           <div className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
             Rehber
           </div>
@@ -325,9 +338,7 @@ export default function PromosyonKalemNedirPage() {
             </h2>
             <div className="mt-4 space-y-5 text-sm leading-7 text-gray-700 md:text-base">
               <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  1. Hedef Kitle
-                </h3>
+                <h3 className="text-lg font-bold text-gray-900">1. Hedef Kitle</h3>
                 <p className="mt-2">
                   Kalemin kimlere dağıtılacağı çok önemlidir. Öğrencilere, fuar
                   ziyaretçilerine, kurumsal yöneticilere ya da düzenli müşterilere
@@ -337,9 +348,7 @@ export default function PromosyonKalemNedirPage() {
               </div>
 
               <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  2. Ürün Kalitesi
-                </h3>
+                <h3 className="text-lg font-bold text-gray-900">2. Ürün Kalitesi</h3>
                 <p className="mt-2">
                   Kalemin yazım kalitesi, malzeme yapısı ve dayanıklılığı marka
                   algısını doğrudan etkiler. Kalitesiz bir ürün, beklenen reklam
@@ -349,9 +358,7 @@ export default function PromosyonKalemNedirPage() {
               </div>
 
               <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  3. Baskı Uygunluğu
-                </h3>
+                <h3 className="text-lg font-bold text-gray-900">3. Baskı Uygunluğu</h3>
                 <p className="mt-2">
                   Kalemin üzerine uygulanacak logo ya da yazının net görünmesi
                   gerekir. Ürünün yüzeyi ve baskı yöntemi birbiriyle uyumlu
@@ -360,9 +367,7 @@ export default function PromosyonKalemNedirPage() {
               </div>
 
               <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  4. Sipariş Adedi
-                </h3>
+                <h3 className="text-lg font-bold text-gray-900">4. Sipariş Adedi</h3>
                 <p className="mt-2">
                   Bazı modeller yüksek adetli siparişlerde daha avantajlı olabilir.
                   Kampanya kapsamı ve dağıtım planı önceden düşünülerek doğru ürün
@@ -371,9 +376,7 @@ export default function PromosyonKalemNedirPage() {
               </div>
 
               <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  5. Kurumsal İmaj
-                </h3>
+                <h3 className="text-lg font-bold text-gray-900">5. Kurumsal İmaj</h3>
                 <p className="mt-2">
                   Seçilen kalem firmanızın kimliğini yansıtmalıdır. Daha prestijli
                   bir görünüm isteniyorsa metal kalem, daha geniş dağıtım planı
@@ -413,9 +416,7 @@ export default function PromosyonKalemNedirPage() {
           </section>
 
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              Sonuç
-            </h2>
+            <h2 className="text-2xl font-extrabold text-gray-900">Sonuç</h2>
             <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
               <p>
                 Promosyon kalem, firmaların hem ekonomik hem de etkili bir şekilde

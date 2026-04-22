@@ -1,28 +1,184 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-kalem-fiyatlari`;
+const IMAGE_PATH = "/guides/promosyon-kalem-fiyatlari.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
+const TITLE = "Promosyon Kalem Fiyatları 2026 (Güncel Liste + Detaylı Rehber)";
+const DESCRIPTION =
+  "Promosyon kalem fiyatları ne kadar? 2026 güncel fiyatlar, baskı türleri, adet bazlı maliyet, model seçimi ve detaylı hesaplama rehberi.";
 
 export const metadata: Metadata = {
-  title: "Promosyon Kalem Fiyatları 2026 (Güncel Liste + Detaylı Rehber)",
-  description:
-    "Promosyon kalem fiyatları ne kadar? 2026 güncel fiyatlar, baskı türleri, adet bazlı maliyet, model seçimi ve detaylı hesaplama rehberi.",
+  title: TITLE,
+  description: DESCRIPTION,
+  keywords: [
+    "promosyon kalem fiyatları",
+    "promosyon kalem fiyatları 2026",
+    "baskılı kalem fiyatları",
+    "kalem baskı fiyatları",
+    "logo baskılı kalem fiyatları",
+    "promosyon kalem adet fiyatı",
+    "metal kalem fiyatları",
+    "plastik promosyon kalem fiyatları",
+    "kurumsal promosyon kalem",
+  ],
   alternates: {
     canonical: PAGE_URL,
   },
+  robots: {
+    index: true,
+    follow: true,
+  },
   openGraph: {
-    title: "Promosyon Kalem Fiyatları 2026 (Güncel Liste + Detaylı Rehber)",
+    title: TITLE,
     description:
       "Promosyon kalem fiyatlarını etkileyen model, adet, baskı ve kalite gibi tüm faktörleri öğrenin.",
     url: PAGE_URL,
     type: "article",
+    siteName: "FirmaPromosyon",
+    locale: "tr_TR",
+    images: [
+      {
+        url: IMAGE_URL,
+        width: 1200,
+        height: 630,
+        alt: "Promosyon Kalem Fiyatları 2026",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: TITLE,
+    description: DESCRIPTION,
+    images: [IMAGE_URL],
   },
 };
 
 export default function Page() {
+  const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: TITLE,
+    description: DESCRIPTION,
+    inLanguage: "tr-TR",
+    mainEntityOfPage: PAGE_URL,
+    author: {
+      "@type": "Organization",
+      name: "FirmaPromosyon",
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "FirmaPromosyon",
+      logo: {
+        "@type": "ImageObject",
+        url: `${SITE_URL}/logo.png`,
+      },
+    },
+    image: [IMAGE_URL],
+    datePublished: "2026-04-01",
+    dateModified: "2026-04-01",
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Ana Sayfa",
+        item: SITE_URL,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Rehber",
+        item: `${SITE_URL}/rehber`,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: "Promosyon Kalem Fiyatları",
+        item: PAGE_URL,
+      },
+    ],
+  };
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: "Promosyon kalem fiyatları neye göre değişir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Promosyon kalem fiyatları; ürün modeli, sipariş adedi, baskı türü, baskı yönü, ürün kalitesi ve kullanılan malzemeye göre değişir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Adet arttıkça promosyon kalem fiyatı düşer mi?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Evet, sipariş adedi arttıkça birim maliyet genellikle düşer. Çünkü üretim ve baskı hazırlık maliyetleri daha fazla ürüne yayılır.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "En uygun fiyatlı promosyon kalem hangisidir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Genellikle plastik promosyon kalemler en uygun fiyatlı seçenekler arasında yer alır. Ancak baskı türü ve sipariş adedi toplam maliyeti etkileyebilir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Metal kalemler neden daha pahalıdır?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Metal kalemler daha prestijli görünüm, daha güçlü malzeme hissi ve çoğu zaman daha premium kullanım deneyimi sunduğu için plastik modellere göre daha yüksek fiyatlı olabilir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Baskı dahil fiyat ile baskısız fiyat aynı mı?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Hayır. Baskı dahil fiyat ile baskısız fiyat aynı değildir. Baskı türü, baskı yönü ve renk sayısı toplam maliyeti doğrudan etkiler.",
+        },
+      },
+    ],
+  };
+
   return (
     <main className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+
+      <nav className="mb-6 text-sm text-gray-500">
+        <Link href="/" className="hover:underline">
+          Ana Sayfa
+        </Link>{" "}
+        /{" "}
+        <Link href="/rehber" className="hover:underline">
+          Rehber
+        </Link>{" "}
+        / <span>Promosyon Kalem Fiyatları</span>
+      </nav>
+
       <article className="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm md:p-10">
         <header>
           <div className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
@@ -32,6 +188,17 @@ export default function Page() {
           <h1 className="mt-4 text-3xl font-extrabold leading-tight md:text-4xl">
             Promosyon Kalem Fiyatları 2026 (Güncel Liste + Detaylı Rehber)
           </h1>
+
+          <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+            <Image
+              src={IMAGE_PATH}
+              alt="Promosyon Kalem Fiyatları 2026"
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 896px"
+            />
+          </div>
 
           <div className="mt-6 space-y-5 text-base leading-7 text-gray-700 md:text-lg">
             <p>

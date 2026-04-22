@@ -1,8 +1,10 @@
+import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-kalem-secerken-nelere-dikkat-edilmeli`;
+const GUIDE_IMAGE = "/guides/promosyon-kalem-secerken-nelere-dikkat-edilmeli.jpg";
 
 export const metadata: Metadata = {
   title: "Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?",
@@ -19,7 +21,7 @@ export const metadata: Metadata = {
     type: "article",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: `${SITE_URL}${GUIDE_IMAGE}`,
         width: 1200,
         height: 630,
         alt: "Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?",
@@ -31,7 +33,7 @@ export const metadata: Metadata = {
     title: "Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?",
     description:
       "Promosyon kalem seçiminde dikkat edilmesi gereken tüm önemli noktaları bu detaylı rehberde inceleyin.",
-    images: [`${SITE_URL}/og.jpg`],
+    images: [`${SITE_URL}${GUIDE_IMAGE}`],
   },
 };
 
@@ -56,7 +58,7 @@ export default function PromosyonKalemSecimRehberiPage() {
         url: `${SITE_URL}/og.jpg`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
+    image: [`${SITE_URL}${GUIDE_IMAGE}`],
   };
 
   const breadcrumbSchema = {
@@ -108,6 +110,17 @@ export default function PromosyonKalemSecimRehberiPage() {
 
       <article className="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm md:p-10">
         <header>
+          <div className="mb-6 overflow-hidden rounded-2xl">
+            <Image
+              src={GUIDE_IMAGE}
+              alt="Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?"
+              width={1200}
+              height={675}
+              className="h-auto w-full object-cover"
+              priority
+            />
+          </div>
+
           <div className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
             Rehber
           </div>
@@ -423,9 +436,7 @@ export default function PromosyonKalemSecimRehberiPage() {
           </section>
 
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              Sonuç
-            </h2>
+            <h2 className="text-2xl font-extrabold text-gray-900">Sonuç</h2>
 
             <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
               <p>

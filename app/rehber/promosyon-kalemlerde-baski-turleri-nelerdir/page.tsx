@@ -1,8 +1,10 @@
+import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-kalemlerde-baski-turleri-nelerdir`;
+const GUIDE_IMAGE = "/guides/promosyon-kalemlerde-baski-turleri-nelerdir.jpg";
 
 export const metadata: Metadata = {
   title: "Promosyon Kalemlerde Baskı Türleri Nelerdir?",
@@ -19,7 +21,7 @@ export const metadata: Metadata = {
     type: "article",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: `${SITE_URL}${GUIDE_IMAGE}`,
         width: 1200,
         height: 630,
         alt: "Promosyon Kalemlerde Baskı Türleri Nelerdir?",
@@ -31,7 +33,7 @@ export const metadata: Metadata = {
     title: "Promosyon Kalemlerde Baskı Türleri Nelerdir?",
     description:
       "Promosyon kalemlerde kullanılan baskı yöntemlerini ve aralarındaki farkları detaylı olarak inceleyin.",
-    images: [`${SITE_URL}/og.jpg`],
+    images: [`${SITE_URL}${GUIDE_IMAGE}`],
   },
 };
 
@@ -56,7 +58,7 @@ export default function PromosyonKalemlerdeBaskiTurleriNelerdirPage() {
         url: `${SITE_URL}/og.jpg`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
+    image: [`${SITE_URL}${GUIDE_IMAGE}`],
   };
 
   const breadcrumbSchema = {
@@ -108,6 +110,17 @@ export default function PromosyonKalemlerdeBaskiTurleriNelerdirPage() {
 
       <article className="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm md:p-10">
         <header>
+          <div className="mb-6 overflow-hidden rounded-2xl">
+            <Image
+              src={GUIDE_IMAGE}
+              alt="Promosyon Kalemlerde Baskı Türleri Nelerdir?"
+              width={1200}
+              height={675}
+              className="h-auto w-full object-cover"
+              priority
+            />
+          </div>
+
           <div className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
             Rehber
           </div>
@@ -326,9 +339,7 @@ export default function PromosyonKalemlerdeBaskiTurleriNelerdirPage() {
             </h2>
             <div className="mt-4 space-y-5 text-sm leading-7 text-gray-700 md:text-base">
               <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  1. Logo Yapısı
-                </h3>
+                <h3 className="text-lg font-bold text-gray-900">1. Logo Yapısı</h3>
                 <p className="mt-2">
                   Logonuz tek renkli, sade ve küçük detaylara sahip değilse
                   tampon baskı yeterli olabilir. Ancak renk geçişleri ve görsel
@@ -337,9 +348,7 @@ export default function PromosyonKalemlerdeBaskiTurleriNelerdirPage() {
               </div>
 
               <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  2. Kalem Malzemesi
-                </h3>
+                <h3 className="text-lg font-bold text-gray-900">2. Kalem Malzemesi</h3>
                 <p className="mt-2">
                   Plastik, metal veya özel kaplamalı yüzeyler farklı baskı
                   tekniklerine ihtiyaç duyabilir. Metal kalemlerde lazer baskı
@@ -348,9 +357,7 @@ export default function PromosyonKalemlerdeBaskiTurleriNelerdirPage() {
               </div>
 
               <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  3. Kullanım Amacı
-                </h3>
+                <h3 className="text-lg font-bold text-gray-900">3. Kullanım Amacı</h3>
                 <p className="mt-2">
                   Toplu dağıtım için ekonomik bir çözüm aranıyorsa tampon baskı
                   mantıklı olabilir. Daha prestijli kullanımda lazer baskı veya
@@ -359,9 +366,7 @@ export default function PromosyonKalemlerdeBaskiTurleriNelerdirPage() {
               </div>
 
               <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  4. Kalıcılık Beklentisi
-                </h3>
+                <h3 className="text-lg font-bold text-gray-900">4. Kalıcılık Beklentisi</h3>
                 <p className="mt-2">
                   Baskının uzun süre dayanması ve silinmeye karşı güçlü olması
                   isteniyorsa yüzeye uygun kalıcı yöntem seçilmelidir. Özellikle
@@ -370,9 +375,7 @@ export default function PromosyonKalemlerdeBaskiTurleriNelerdirPage() {
               </div>
 
               <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  5. Görsel Etki
-                </h3>
+                <h3 className="text-lg font-bold text-gray-900">5. Görsel Etki</h3>
                 <p className="mt-2">
                   Daha sade ve kurumsal görünüm mü isteniyor, yoksa canlı ve
                   dikkat çekici bir baskı mı hedefleniyor? Bu soru doğru yöntemi
@@ -409,9 +412,7 @@ export default function PromosyonKalemlerdeBaskiTurleriNelerdirPage() {
           </section>
 
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              Sonuç
-            </h2>
+            <h2 className="text-2xl font-extrabold text-gray-900">Sonuç</h2>
             <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
               <p>
                 Promosyon kalemlerde kullanılan baskı türleri; ürünün görünümünü,

@@ -1,15 +1,31 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir`;
+const IMAGE_PATH = "/guides/promosyon-kalem-fiyatlari-nasil-hesaplanir.jpg";
+const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 
 export const metadata: Metadata = {
   title: "Promosyon Kalem Fiyatları Nasıl Hesaplanır?",
   description:
     "Promosyon kalem fiyatları nasıl hesaplanır? Adet, baskı türü, kalem modeli, baskı yönü ve sipariş detaylarına göre fiyatların nasıl değiştiğini detaylı rehberde inceleyin.",
+  keywords: [
+    "promosyon kalem fiyatları",
+    "promosyon kalem fiyat hesaplama",
+    "logo baskılı kalem fiyatları",
+    "promosyon kalem baskı fiyatları",
+    "toptan promosyon kalem",
+    "promosyon kalem adet fiyatı",
+    "kurumsal promosyon kalem",
+  ],
   alternates: {
     canonical: PAGE_URL,
+  },
+  robots: {
+    index: true,
+    follow: true,
   },
   openGraph: {
     title: "Promosyon Kalem Fiyatları Nasıl Hesaplanır?",
@@ -17,9 +33,11 @@ export const metadata: Metadata = {
       "Promosyon kalem fiyatlarını etkileyen adet, model, baskı türü ve sipariş detaylarını anlatan detaylı rehber.",
     url: PAGE_URL,
     type: "article",
+    siteName: "FirmaPromosyon",
+    locale: "tr_TR",
     images: [
       {
-        url: `${SITE_URL}/og.jpg`,
+        url: IMAGE_URL,
         width: 1200,
         height: 630,
         alt: "Promosyon Kalem Fiyatları Nasıl Hesaplanır?",
@@ -31,7 +49,7 @@ export const metadata: Metadata = {
     title: "Promosyon Kalem Fiyatları Nasıl Hesaplanır?",
     description:
       "Promosyon kalem fiyatlarını etkileyen temel unsurları detaylı şekilde öğrenin.",
-    images: [`${SITE_URL}/og.jpg`],
+    images: [IMAGE_URL],
   },
 };
 
@@ -44,6 +62,7 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
       "Promosyon kalem fiyatlarının nasıl hesaplandığını, adet, baskı türü, model ve sipariş detaylarına göre nasıl değiştiğini anlatan detaylı rehber.",
     inLanguage: "tr-TR",
     mainEntityOfPage: PAGE_URL,
+    image: [IMAGE_URL],
     author: {
       "@type": "Organization",
       name: "FirmaPromosyon",
@@ -53,10 +72,9 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
       name: "FirmaPromosyon",
       logo: {
         "@type": "ImageObject",
-        url: `${SITE_URL}/og.jpg`,
+        url: `${SITE_URL}/logo.png`,
       },
     },
-    image: [`${SITE_URL}/og.jpg`],
   };
 
   const breadcrumbSchema = {
@@ -84,6 +102,37 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
     ],
   };
 
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: "Promosyon kalem fiyatları en çok neye göre değişir?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Promosyon kalem fiyatları en çok kalem modeli, sipariş adedi, baskı türü, baskı yönü ve renk sayısına göre değişir. Ayrıca ürün segmenti ve teslim süresi de toplam maliyeti etkileyebilir.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Sipariş adedi arttıkça promosyon kalem birim fiyatı düşer mi?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Evet, çoğu durumda sipariş adedi arttıkça birim fiyat düşer. Çünkü baskı hazırlığı ve işçilik gibi sabit maliyetler daha fazla ürüne yayılır.",
+        },
+      },
+      {
+        "@type": "Question",
+        name: "Baskı türü promosyon kalem fiyatını etkiler mi?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Evet, tampon baskı, UV baskı ve lazer baskı gibi farklı baskı yöntemleri maliyeti doğrudan etkiler. Tek yön ve çift yön baskı da fiyatı değiştirir.",
+        },
+      },
+    ],
+  };
+
   return (
     <main className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
       <script
@@ -93,6 +142,10 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
 
       <nav className="mb-6 text-sm text-gray-500">
@@ -116,7 +169,18 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
             Promosyon Kalem Fiyatları Nasıl Hesaplanır?
           </h1>
 
-          <p className="mt-4 text-base leading-7 text-gray-700 md:text-lg">
+          <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
+            <Image
+              src={IMAGE_PATH}
+              alt="Promosyon Kalem Fiyatları Nasıl Hesaplanır?"
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 896px"
+            />
+          </div>
+
+          <p className="mt-6 text-base leading-7 text-gray-700 md:text-lg">
             Promosyon kalem fiyatları, ilk bakışta basit gibi görünse de aslında
             birçok farklı değişkene bağlı olarak belirlenir. Aynı kalem modeli,
             farklı adetlerde, farklı baskı seçenekleriyle ve farklı sipariş
@@ -461,16 +525,16 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
               </h3>
 
               <div className="mt-4 flex flex-col gap-3 text-sm font-semibold text-gray-800">
-                <Link href="/kategori/kalem" className="hover:underline">
+                <Link href="/promosyon-kalem" className="hover:underline">
                   Promosyon Kalem Modelleri
                 </Link>
-                <Link href="/kategori/cakmak" className="hover:underline">
+                <Link href="/promosyon-cakmak" className="hover:underline">
                   Promosyon Çakmak Modelleri
                 </Link>
-                <Link href="/kategori/termos" className="hover:underline">
+                <Link href="/promosyon-termos" className="hover:underline">
                   Promosyon Termos Modelleri
                 </Link>
-                <Link href="/kategori/usb-bellek" className="hover:underline">
+                <Link href="/promosyon-usb-bellek" className="hover:underline">
                   Promosyon USB Bellek Modelleri
                 </Link>
               </div>
@@ -478,7 +542,7 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
 
             <div className="mt-6 flex flex-col gap-3 sm:flex-row">
               <Link
-                href="/kurumsal-teklif-al"
+                href="/teklif"
                 className="inline-flex items-center justify-center rounded-2xl bg-black px-6 py-3 text-sm font-semibold text-white transition hover:bg-gray-900"
               >
                 Kurumsal Teklif Al

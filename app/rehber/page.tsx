@@ -34,61 +34,73 @@ const guides = [
     slug: "promosyon-kalem-nedir",
     title: "Promosyon Kalem Nedir? Firmalar Neden Tercih Eder?",
     desc: "Promosyon kalem nedir, firmalar neden tercih eder? Logo baskılı promosyon kalemlerin avantajları, kullanım alanları ve marka bilinirliğine katkıları hakkında detaylı rehber.",
+    image: "/guides/promosyon-kalem-nedir.jpg",
   },
   {
     slug: "promosyon-kalem-secerken-nelere-dikkat-edilmeli",
     title: "Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?",
     desc: "Promosyon kalem seçerken model, baskı türü, kalite, hedef kitle ve kullanım alanı açısından dikkat edilmesi gereken noktaları inceleyin.",
+    image: "/guides/promosyon-kalem-secerken-nelere-dikkat-edilmeli.jpg",
   },
   {
     slug: "promosyon-kalemlerde-baski-turleri-nelerdir",
     title: "Promosyon Kalemlerde Baskı Türleri Nelerdir?",
     desc: "Promosyon kalemlerde kullanılan baskı türleri nelerdir? Tampon baskı, UV baskı, serigrafi ve lazer baskı gibi yöntemlerin farklarını detaylı inceleyin.",
+    image: "/guides/promosyon-kalemlerde-baski-turleri-nelerdir.jpg",
   },
   {
     slug: "promosyon-kalem-fiyatlari-nasil-hesaplanir",
     title: "Promosyon Kalem Fiyatları Nasıl Hesaplanır?",
     desc: "Promosyon kalem fiyatları nasıl belirlenir? Adet, baskı ve model bazlı fiyat hesaplama rehberi.",
+    image: "/guides/promosyon-kalem-fiyatlari-nasil-hesaplanir.jpg",
   },
   {
     slug: "promosyon-kalem-toptan-fiyatlari",
     title: "Promosyon Kalem Toptan Fiyatları 2026",
     desc: "Toptan promosyon kalem fiyatları ne kadar? 100, 500 ve 1000 adet için güncel fiyat rehberi.",
+    image: "/guides/promosyon-kalem-toptan-fiyatlari.jpg",
   },
   {
     slug: "logo-baskili-kalem-fiyatlari",
     title: "Logo Baskılı Kalem Fiyatları 2026",
     desc: "Logo baskılı promosyon kalem fiyatları ne kadar? Baskı türüne göre detaylı rehber.",
+    image: "/guides/logo-baskili-kalem-fiyatlari.jpg",
   },
   {
     slug: "en-ucuz-promosyon-kalem",
     title: "En Ucuz Promosyon Kalem Hangisi?",
     desc: "En uygun fiyatlı promosyon kalem modelleri ve toplu alım rehberi.",
+    image: "/guides/en-ucuz-promosyon-kalem.jpg",
   },
   {
     slug: "promosyon-cakmak-fiyatlari",
     title: "Promosyon Çakmak Fiyatları 2026",
     desc: "Promosyon çakmak fiyatları ne kadar? Baskı türü, adet ve model bazlı detaylı fiyat rehberi.",
+    image: "/guides/promosyon-cakmak-fiyatlari.jpg",
   },
   {
     slug: "promosyon-cakmak-nedir",
     title: "Promosyon Çakmak Nedir?",
     desc: "Promosyon çakmak nedir, neden kullanılır? Logo baskılı çakmak hakkında detaylı rehber.",
+    image: "/guides/promosyon-cakmak-nedir.jpg",
   },
   {
     slug: "promosyon-cakmak-kullanim-alanlari",
     title: "Promosyon Çakmak Nerelerde Kullanılır?",
     desc: "Promosyon çakmak nerelerde kullanılır, ne işe yarar ve hangi baskılar uygulanır? Detaylı rehber.",
+    image: "/guides/promosyon-cakmak-kullanim-alanlari.jpg",
   },
   {
     slug: "promosyon-anahtarlik-nedir",
     title: "Promosyon Anahtarlık Nedir?",
     desc: "Promosyon anahtarlık nedir, nerelerde kullanılır ve hangi baskılar uygulanır? Detaylı rehber.",
+    image: "/guides/promosyon-anahtarlik-nedir.jpg",
   },
   {
     slug: "promosyon-anahtarlik-fiyatlari",
     title: "Promosyon Anahtarlık Fiyatları 2026",
     desc: "Promosyon anahtarlık fiyatları ne kadar? Malzeme, baskı ve adet bazlı detaylı rehber.",
+    image: "/guides/promosyon-anahtarlik-fiyatlari.jpg",
   },
   {
     slug: "promosyon-kalem",
@@ -99,16 +111,19 @@ const guides = [
     slug: "promosyon-kalem-fiyatlari",
     title: "Promosyon Kalem Fiyatları 2026",
     desc: "Promosyon kalem fiyatları ne kadar? Adet, baskı ve model bazlı detaylı fiyat rehberi.",
+    image: "/guides/promosyon-kalem-fiyatlari.jpg",
   },
   {
     slug: "baskili-kalem-fiyatlari",
     title: "Baskılı Kalem Fiyatları 2026",
     desc: "Baskılı kalem fiyatları ne kadar? Logo baskı, UV baskı ve adet bazlı detaylı rehber.",
+    image: "/guides/baskili-kalem-fiyatlari.jpg",
   },
   {
     slug: "logo-baskili-kalem",
     title: "Logo Baskılı Kalem Nedir? 2026 Rehber",
     desc: "Logo baskılı kalem nedir, nasıl yapılır ve firmalara ne kazandırır? Detaylı rehber.",
+    image: "/guides/logo-baskili-kalem.jpg",
   },
   {
     slug: "kalem-baski-fiyatlari",
@@ -124,6 +139,7 @@ const guides = [
     slug: "reklam-kalemleri",
     title: "Reklam Kalemleri Nedir? 2026 Detaylı Rehber",
     desc: "Reklam kalemleri nedir, neden kullanılır ve firmalara ne kazandırır? Logo baskı, model ve kullanım alanlarıyla kapsamlı rehber.",
+    image: "/guides/reklam-kalemleri.jpg",
   },
   {
     slug: "kurumsal-kalem",
@@ -134,57 +150,68 @@ const guides = [
     slug: "promosyon-kalem-toplu-alim",
     title: "Promosyon Kalem Toplu Alım Rehberi 2026",
     desc: "Promosyon kalem toplu alırken nelere dikkat edilmeli? Adet, baskı, model seçimi, fiyat avantajı ve toplu sipariş stratejileriyle detaylı rehber.",
+    image: "/guides/promosyon-kalem-toplu-alim.jpg",
   },
   {
     slug: "promosyon-rubber-kalem",
     title: "Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?",
     desc: "Promosyon rubber kalem nedir, neden tercih edilir, hangi alanlarda kullanılır ve firmalara ne kazandırır? Logo baskılı rubber kalemler hakkında detaylı rehber.",
+    image: "/guides/promosyon-rubber-kalem.jpg",
   },
   {
     slug: "promosyon-tasli-cakmak-nedir",
     title: "Promosyon Taşlı Çakmak Nedir? Avantajları Nelerdir?",
     desc: "Promosyon taşlı çakmak nedir, neden tercih edilir, hangi alanlarda kullanılır ve firmalara ne kazandırır? Detaylı rehber.",
+    image: "/guides/promosyon-tasli-cakmak-nedir.jpg",
   },
   {
     slug: "logo-baskili-promosyon-cakmak-secerken-nelere-dikkat-edilmeli",
     title: "Logo Baskılı Promosyon Çakmak Seçerken Nelere Dikkat Edilmeli?",
     desc: "Logo baskılı promosyon çakmak seçerken kalite, baskı alanı, model, adet ve hedef kitle açısından dikkat edilmesi gerekenler.",
+    image: "/guides/logo-baskili-promosyon-cakmak-secerken-nelere-dikkat-edilmeli.jpg",
   },
   {
-    slug: "promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta",
-    title: "Promosyon Çakmak Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta",
-    desc: "Promosyon çakmak alırken kalite, baskı türü, model seçimi, sipariş adedi, teslim süresi ve fiyat dengesi açısından dikkat edilmesi gerekenler.",
-  },
+  "slug": "promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta",
+  "title": "Promosyon Çakmak Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta (2026 Rehberi)",
+  "desc": "Promosyon çakmak alırken nelere dikkat edilmeli? Kalite, baskı türü, model seçimi, sipariş adedi, teslim süresi ve fiyat dengesi açısından 10 kritik noktayı detaylı rehberde öğrenin.",
+  "image": "/guides/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta.jpg"
+},
   {
-    slug: "kurumsal-tanitim-icin-promosyon-cakmak-kullanimi-tam-rehber",
-    title: "Kurumsal Tanıtım İçin Promosyon Çakmak Kullanımı (Tam Rehber)",
-    desc: "Kurumsal tanıtım için promosyon çakmak nasıl kullanılır, hangi firmalar için uygundur, avantajları nelerdir ve seçim sürecinde nelere dikkat edilmelidir sorularına detaylı rehber.",
-  },
+  "slug": "kurumsal-tanitim-icin-promosyon-cakmak-kullanimi-tam-rehber",
+  "title": "Kurumsal Tanıtım İçin Promosyon Çakmak Kullanımı (Tam Rehber)",
+  "desc": "Kurumsal tanıtım için promosyon çakmak nasıl kullanılır, hangi firmalar için uygundur, avantajları nelerdir ve seçim sürecinde nelere dikkat edilmelidir sorularına detaylı rehber.",
+  "image": "/guides/kurumsal-tanitim-icin-promosyon-cakmak-kullanimi-tam-rehber.jpg"
+},
   {
-    slug: "promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi",
-    title: "Promosyon Çakmak mı Kalem mi? En Doğru Promosyon Ürünü Seçimi",
-    desc: "Promosyon çakmak mı yoksa promosyon kalem mi daha mantıklı? Hedef kitle, kullanım alanı, maliyet, görünürlük ve marka etkisi açısından detaylı karşılaştırma rehberi.",
-  },
+  "slug": "promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi",
+  "title": "Promosyon Çakmak mı Kalem mi? En Doğru Promosyon Ürünü Seçimi",
+  "desc": "Promosyon çakmak mı yoksa promosyon kalem mi daha mantıklı? Hedef kitle, kullanım alanı, maliyet, görünürlük ve marka etkisi açısından detaylı karşılaştırma rehberi.",
+  "image": "/guides/promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi.jpg"
+},
   {
-    slug: "logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari",
-    title: "Logo Baskılı Promosyon Çakmak Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
-    desc: "Logo baskılı promosyon çakmak modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.",
-  },
+  "slug": "logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari",
+  "title": "Logo Baskılı Promosyon Çakmak Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
+  "desc": "Logo baskılı promosyon çakmak modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.",
+  "image": "/guides/logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari.jpg"
+},
   {
-    slug: "promosyon-anahtarlik-nedir-firmalar-neden-tercih-eder",
-    title: "Promosyon Anahtarlık Nedir? Firmalar Neden Tercih Eder?",
-    desc: "Promosyon anahtarlık nedir, neden tercih edilir ve hangi sektörler için uygundur? Logo baskılı anahtarlık modelleri ve avantajları hakkında detaylı rehber.",
-  },
+  "slug": "promosyon-anahtarlik-nedir-firmalar-neden-tercih-eder",
+  "title": "Promosyon Anahtarlık Nedir? Firmalar Neden Tercih Eder?",
+  "desc": "Promosyon anahtarlık nedir, neden tercih edilir ve hangi sektörler için uygundur? Logo baskılı anahtarlık modelleri ve avantajları hakkında detaylı rehber.",
+  "image": "/guides/promosyon-anahtarlik-nedir-firmalar-neden-tercih-eder.jpg"
+},
   {
-    slug: "promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta",
-    title: "Promosyon Anahtarlık Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta",
-    desc: "Promosyon anahtarlık alırken kalite, malzeme, baskı, model seçimi, adet ve hedef kitle açısından dikkat edilmesi gereken 10 kritik noktayı detaylıca inceleyin.",
-  },
+  "slug": "promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta",
+  "title": "Promosyon Anahtarlık Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta",
+  "desc": "Promosyon anahtarlık alırken kalite, malzeme, baskı, model seçimi, adet ve hedef kitle açısından dikkat edilmesi gereken 10 kritik noktayı detaylıca inceleyin.",
+  "image": "/guides/promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta.jpg"
+},
   {
-    slug: "logo-baskili-promosyon-anahtarlik-rehberi-modeller-fiyatlar-ve-kullanim-alanlari",
-    title: "Logo Baskılı Promosyon Anahtarlık Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
-    desc: "Logo baskılı promosyon anahtarlık modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.",
-  },
+  slug: "logo-baskili-promosyon-anahtarlik-rehberi-modeller-fiyatlar-ve-kullanim-alanlari",
+  title: "Logo Baskılı Promosyon Anahtarlık Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
+  desc: "Logo baskılı promosyon anahtarlık modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.",
+  image: "/guides/logo-baskili-promosyon-anahtarlik-rehberi-modeller-fiyatlar-ve-kullanim-alanlari.jpg",
+},
 ];
 
 export const metadata: Metadata = {
