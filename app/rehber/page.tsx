@@ -16,7 +16,6 @@ const guides = [
     slug: "promosyon-kupa-baski",
     title: "Promosyon Kupa Baskı Rehberi",
     desc: "Logo baskılı promosyon kupa nasıl yapılır? Kurumsal kupa siparişi verirken bilmeniz gerekenler.",
-    
   },
   {
     slug: "promosyon-kalem-toptan",
@@ -171,47 +170,47 @@ const guides = [
     image: "/guides/logo-baskili-promosyon-cakmak-secerken-nelere-dikkat-edilmeli.jpg",
   },
   {
-  "slug": "promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta",
-  "title": "Promosyon Çakmak Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta (2026 Rehberi)",
-  "desc": "Promosyon çakmak alırken nelere dikkat edilmeli? Kalite, baskı türü, model seçimi, sipariş adedi, teslim süresi ve fiyat dengesi açısından 10 kritik noktayı detaylı rehberde öğrenin.",
-  "image": "/guides/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta.jpg"
-},
+    slug: "promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta",
+    title: "Promosyon Çakmak Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta (2026 Rehberi)",
+    desc: "Promosyon çakmak alırken nelere dikkat edilmeli? Kalite, baskı türü, model seçimi, sipariş adedi, teslim süresi ve fiyat dengesi açısından 10 kritik noktayı detaylı rehberde öğrenin.",
+    image: "/guides/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta.jpg",
+  },
   {
-  "slug": "kurumsal-tanitim-icin-promosyon-cakmak-kullanimi-tam-rehber",
-  "title": "Kurumsal Tanıtım İçin Promosyon Çakmak Kullanımı (Tam Rehber)",
-  "desc": "Kurumsal tanıtım için promosyon çakmak nasıl kullanılır, hangi firmalar için uygundur, avantajları nelerdir ve seçim sürecinde nelere dikkat edilmelidir sorularına detaylı rehber.",
-  "image": "/guides/kurumsal-tanitim-icin-promosyon-cakmak-kullanimi-tam-rehber.jpg"
-},
+    slug: "kurumsal-tanitim-icin-promosyon-cakmak-kullanimi-tam-rehber",
+    title: "Kurumsal Tanıtım İçin Promosyon Çakmak Kullanımı (Tam Rehber)",
+    desc: "Kurumsal tanıtım için promosyon çakmak nasıl kullanılır, hangi firmalar için uygundur, avantajları nelerdir ve seçim sürecinde nelere dikkat edilmelidir sorularına detaylı rehber.",
+    image: "/guides/kurumsal-tanitim-icin-promosyon-cakmak-kullanimi-tam-rehber.jpg",
+  },
   {
-  "slug": "promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi",
-  "title": "Promosyon Çakmak mı Kalem mi? En Doğru Promosyon Ürünü Seçimi",
-  "desc": "Promosyon çakmak mı yoksa promosyon kalem mi daha mantıklı? Hedef kitle, kullanım alanı, maliyet, görünürlük ve marka etkisi açısından detaylı karşılaştırma rehberi.",
-  "image": "/guides/promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi.jpg"
-},
+    slug: "promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi",
+    title: "Promosyon Çakmak mı Kalem mi? En Doğru Promosyon Ürünü Seçimi",
+    desc: "Promosyon çakmak mı yoksa promosyon kalem mi daha mantıklı? Hedef kitle, kullanım alanı, maliyet, görünürlük ve marka etkisi açısından detaylı karşılaştırma rehberi.",
+    image: "/guides/promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi.jpg",
+  },
   {
-  "slug": "logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari",
-  "title": "Logo Baskılı Promosyon Çakmak Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
-  "desc": "Logo baskılı promosyon çakmak modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.",
-  "image": "/guides/logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari.jpg"
-},
+    slug: "logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari",
+    title: "Logo Baskılı Promosyon Çakmak Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
+    desc: "Logo baskılı promosyon çakmak modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.",
+    image: "/guides/logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari.jpg",
+  },
   {
-  "slug": "promosyon-anahtarlik-nedir-firmalar-neden-tercih-eder",
-  "title": "Promosyon Anahtarlık Nedir? Firmalar Neden Tercih Eder?",
-  "desc": "Promosyon anahtarlık nedir, neden tercih edilir ve hangi sektörler için uygundur? Logo baskılı anahtarlık modelleri ve avantajları hakkında detaylı rehber.",
-  "image": "/guides/promosyon-anahtarlik-nedir-firmalar-neden-tercih-eder.jpg"
-},
+    slug: "promosyon-anahtarlik-nedir-firmalar-neden-tercih-eder",
+    title: "Promosyon Anahtarlık Nedir? Firmalar Neden Tercih Eder?",
+    desc: "Promosyon anahtarlık nedir, neden tercih edilir ve hangi sektörler için uygundur? Logo baskılı anahtarlık modelleri ve avantajları hakkında detaylı rehber.",
+    image: "/guides/promosyon-anahtarlik-nedir-firmalar-neden-tercih-eder.jpg",
+  },
   {
-  "slug": "promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta",
-  "title": "Promosyon Anahtarlık Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta",
-  "desc": "Promosyon anahtarlık alırken kalite, malzeme, baskı, model seçimi, adet ve hedef kitle açısından dikkat edilmesi gereken 10 kritik noktayı detaylıca inceleyin.",
-  "image": "/guides/promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta.jpg"
-},
+    slug: "promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta",
+    title: "Promosyon Anahtarlık Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta",
+    desc: "Promosyon anahtarlık alırken kalite, malzeme, baskı, model seçimi, adet ve hedef kitle açısından dikkat edilmesi gereken 10 kritik noktayı detaylıca inceleyin.",
+    image: "/guides/promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta.jpg",
+  },
   {
-  slug: "logo-baskili-promosyon-anahtarlik-rehberi-modeller-fiyatlar-ve-kullanim-alanlari",
-  title: "Logo Baskılı Promosyon Anahtarlık Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
-  desc: "Logo baskılı promosyon anahtarlık modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.",
-  image: "/guides/logo-baskili-promosyon-anahtarlik-rehberi-modeller-fiyatlar-ve-kullanim-alanlari.jpg",
-},
+    slug: "logo-baskili-promosyon-anahtarlik-rehberi-modeller-fiyatlar-ve-kullanim-alanlari",
+    title: "Logo Baskılı Promosyon Anahtarlık Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
+    desc: "Logo baskılı promosyon anahtarlık modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.",
+    image: "/guides/logo-baskili-promosyon-anahtarlik-rehberi-modeller-fiyatlar-ve-kullanim-alanlari.jpg",
+  },
 ];
 
 export const metadata: Metadata = {
@@ -303,7 +302,8 @@ export default function RehberPage() {
               Promosyon ürünleri, DTF baskı, kurumsal promosyon ürün seçimi ve
               logo baskılı ürünler hakkında hazırladığımız detaylı rehberleri
               inceleyebilirsiniz. Rehber içerikleri sayesinde doğru ürün seçimi,
-              baskı yöntemi ve sipariş planlaması hakkında daha net bilgi edinebilirsiniz.
+              baskı yöntemi ve sipariş planlaması hakkında daha net bilgi
+              edinebilirsiniz.
             </p>
           </div>
         </div>
@@ -316,7 +316,8 @@ export default function RehberPage() {
               Öne Çıkan Rehberler
             </h2>
             <p className="mt-2 text-sm text-gray-600 md:text-base">
-              Promosyon ürünleri ve baskı süreçleri hakkında hazırlanan içeriklere göz atın.
+              Promosyon ürünleri ve baskı süreçleri hakkında hazırlanan
+              içeriklere göz atın.
             </p>
           </div>
         </div>
@@ -334,6 +335,7 @@ export default function RehberPage() {
                   alt={g.title}
                   fill
                   className="object-cover transition duration-300 group-hover:scale-105"
+                  sizes="(max-width: 768px) 100vw, (max-width: 1280px) 50vw, 25vw"
                 />
               </div>
 
@@ -368,19 +370,20 @@ export default function RehberPage() {
 
             <div className="mt-5 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
               <p>
-                Promosyon ürünleri, markaların hedef kitlesiyle daha güçlü ve kalıcı
-                bir temas kurmasına yardımcı olan etkili tanıtım araçlarıdır. Doğru
-                seçilmiş kurumsal promosyon ürünleri; fuar, etkinlik, bayi toplantısı,
-                kurumsal hediye ve günlük ofis kullanımı gibi birçok alanda yüksek
-                görünürlük sağlar.
+                Promosyon ürünleri, markaların hedef kitlesiyle daha güçlü ve
+                kalıcı bir temas kurmasına yardımcı olan etkili tanıtım
+                araçlarıdır. Doğru seçilmiş kurumsal promosyon ürünleri; fuar,
+                etkinlik, bayi toplantısı, kurumsal hediye ve günlük ofis
+                kullanımı gibi birçok alanda yüksek görünürlük sağlar.
               </p>
 
               <p>
-                Logo baskılı promosyon ürünleri seçerken ürün kalitesi, kullanım alanı,
-                baskı tekniği ve hedef kitle uyumu gibi kriterler önemlidir. Promosyon
-                kalem, promosyon kupa, promosyon termos, promosyon ajanda ve diğer
-                kurumsal promosyon ürünleri için hazırladığımız rehber içerikler bu
-                süreçte daha doğru karar vermenizi sağlar.
+                Logo baskılı promosyon ürünleri seçerken ürün kalitesi, kullanım
+                alanı, baskı tekniği ve hedef kitle uyumu gibi kriterler
+                önemlidir. Promosyon kalem, promosyon kupa, promosyon termos,
+                promosyon ajanda ve diğer kurumsal promosyon ürünleri için
+                hazırladığımız rehber içerikler bu süreçte daha doğru karar
+                vermenizi sağlar.
               </p>
             </div>
           </div>
