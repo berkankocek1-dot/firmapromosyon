@@ -25,7 +25,6 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-black/10 bg-white">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
-        {/* Brand */}
         <Link href="/" className="flex items-center" aria-label="Ana sayfa">
           <Image
             src="/logo.png"
@@ -34,11 +33,10 @@ export default function Header() {
             height={44}
             priority
             sizes="160px"
-            style={{ width: "160px", height: "auto" }}
+            style={{ height: "auto" }}
           />
         </Link>
 
-        {/* Desktop Nav */}
         <nav className="hidden items-center gap-6 text-sm font-semibold text-black md:flex">
           {nav.map((item) => (
             <Link
@@ -58,7 +56,6 @@ export default function Header() {
           </Link>
         </nav>
 
-        {/* Mobile Button */}
         <button
           type="button"
           className="inline-flex items-center justify-center rounded-lg border border-black/20 bg-white px-3 py-2 text-sm font-semibold text-black md:hidden"
@@ -71,7 +68,6 @@ export default function Header() {
         </button>
       </div>
 
-      {/* Mobile Drawer */}
       {open && (
         <div className="fixed inset-0 z-[9998] md:hidden">
           <button
