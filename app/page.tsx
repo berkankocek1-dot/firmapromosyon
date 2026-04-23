@@ -124,18 +124,23 @@ const GUIDES = [
 function pickTitle(p: any) {
   return p?.title ?? p?.name ?? "Ürün";
 }
+
 function pickDesc(p: any) {
   return p?.shortDesc ?? p?.description ?? "Kurumsal promosyon için hızlı teklif alın.";
 }
+
 function pickCat(p: any) {
   return p?.category ?? "Ürün";
 }
+
 function pickImg(p: any) {
   return p?.image ?? "/og.jpg";
 }
+
 function pickSlug(p: any) {
   return p?.slug ?? "";
 }
+
 function pickLongDesc(p: any) {
   return p?.longDesc ?? p?.description ?? p?.shortDesc ?? "";
 }
@@ -501,7 +506,7 @@ export default function Home() {
         </div>
 
         <div className="mt-8 grid grid-cols-2 gap-4 md:grid-cols-3 xl:grid-cols-4">
-          {categoryCards.map((category: any) => (
+          {categoryCards.map((category: any, index: number) => (
             <Link
               key={category.slug}
               href={getCategoryHref(category.name)}
@@ -511,14 +516,14 @@ export default function Home() {
               <div className="relative">
                 <div className="relative flex aspect-[4/3] items-center justify-center overflow-hidden border-b border-gray-100 bg-white">
                   <Image
-  src={getCategoryImage(category)}
-  alt={category.name}
-  fill
-  unoptimized
-  loading="lazy"
-  sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
-  className="object-contain p-2 transition duration-500 group-hover:scale-105"
-/>
+                    src={getCategoryImage(category)}
+                    alt={category.name}
+                    fill
+                    unoptimized={index >= 8}
+                    loading="lazy"
+                    sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
+                    className="object-contain p-2 transition duration-500 group-hover:scale-105"
+                  />
                 </div>
 
                 <div className="p-4 md:p-5">
@@ -618,7 +623,7 @@ export default function Home() {
           </div>
 
           <div className="mt-6 grid grid-cols-2 gap-4 md:grid-cols-3 xl:grid-cols-5">
-            {topStrip.map((p: any) => {
+            {topStrip.map((p: any, index: number) => {
               const title = pickTitle(p);
               const img = pickImg(p);
               const slug = pickSlug(p);
@@ -631,15 +636,15 @@ export default function Home() {
                   className="group rounded-3xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
                 >
                   <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
-                   <Image
-  src={img}
-  alt={title}
-  fill
-  unoptimized
-  loading="lazy"
-  sizes="(max-width: 768px) 50vw, 20vw"
-  className="object-contain p-2 transition duration-500 group-hover:scale-105"
-/>
+                    <Image
+                      src={img}
+                      alt={title}
+                      fill
+                      unoptimized={index >= 5}
+                      loading="lazy"
+                      sizes="(max-width: 768px) 50vw, 20vw"
+                      className="object-contain p-2 transition duration-500 group-hover:scale-105"
+                    />
                   </div>
 
                   <div className="mt-4">
@@ -973,15 +978,15 @@ function MiniProductCard({ product }: { product: any }) {
       className="group rounded-3xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
     >
       <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
-       <Image
-  src={img}
-  alt={title}
-  fill
-  unoptimized
-  loading="lazy"
-  sizes="(max-width: 640px) 100vw, 25vw"
-  className="object-contain p-2 transition duration-500 group-hover:scale-105"
-/>
+        <Image
+          src={img}
+          alt={title}
+          fill
+          unoptimized
+          loading="lazy"
+          sizes="(max-width: 640px) 100vw, 25vw"
+          className="object-contain p-2 transition duration-500 group-hover:scale-105"
+        />
       </div>
 
       <div className="mt-4">
