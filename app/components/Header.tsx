@@ -1,6 +1,5 @@
 ﻿"use client";
 
-import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
@@ -25,25 +24,23 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-black/10 bg-white">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
-        <Link href="/" className="flex items-center" aria-label="Ana sayfa">
-          <div className="relative h-[44px] w-[160px]">
-            <Image
-              src="/logo.png"
-              alt="FirmaPromosyon Logo"
-              fill
-              priority
-              sizes="160px"
-              className="object-contain"
-            />
-          </div>
+        
+        {/* TEXT LOGO */}
+        <Link
+          href="/"
+          className="text-lg font-extrabold tracking-tight text-black"
+          aria-label="Ana sayfa"
+        >
+          FirmaPromosyon
         </Link>
 
+        {/* Desktop Nav */}
         <nav className="hidden items-center gap-6 text-sm font-semibold text-black md:flex">
           {nav.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className="text-black transition hover:text-black/70"
+              className="transition hover:text-black/70"
             >
               {item.label}
             </Link>
@@ -57,18 +54,18 @@ export default function Header() {
           </Link>
         </nav>
 
+        {/* Mobile Button */}
         <button
           type="button"
           className="inline-flex items-center justify-center rounded-lg border border-black/20 bg-white px-3 py-2 text-sm font-semibold text-black md:hidden"
           onClick={() => setOpen((prev) => !prev)}
           aria-label={open ? "Menüyü kapat" : "Menüyü aç"}
-          aria-expanded={open}
-          aria-controls="mobile-menu-drawer"
         >
           Menü
         </button>
       </div>
 
+      {/* Mobile Drawer */}
       {open && (
         <div className="fixed inset-0 z-[9998] md:hidden">
           <button
@@ -78,10 +75,7 @@ export default function Header() {
             aria-label="Menüyü kapat"
           />
 
-          <div
-            id="mobile-menu-drawer"
-            className="absolute right-0 top-0 z-[9999] h-full w-[85%] max-w-sm bg-white p-4 shadow-2xl"
-          >
+          <div className="absolute right-0 top-0 z-[9999] h-full w-[85%] max-w-sm bg-white p-4 shadow-2xl">
             <div className="flex items-center justify-between border-b border-black/10 pb-3">
               <span className="text-base font-extrabold text-black">Menü</span>
 
@@ -89,7 +83,6 @@ export default function Header() {
                 type="button"
                 className="rounded-lg border border-black/20 bg-white px-3 py-2 text-sm font-semibold text-black"
                 onClick={() => setOpen(false)}
-                aria-label="Menüyü kapat"
               >
                 Kapat
               </button>
