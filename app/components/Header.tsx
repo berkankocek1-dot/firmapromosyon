@@ -26,15 +26,16 @@ export default function Header() {
     <header className="sticky top-0 z-50 border-b border-black/10 bg-white">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
         <Link href="/" className="flex items-center" aria-label="Ana sayfa">
-          <Image
-            src="/logo.png"
-            alt="FirmaPromosyon Logo"
-            width={160}
-            height={44}
-            priority
-            sizes="160px"
-            style={{ height: "auto" }}
-          />
+          <div className="relative h-[44px] w-[160px]">
+            <Image
+              src="/logo.png"
+              alt="FirmaPromosyon Logo"
+              fill
+              priority
+              sizes="160px"
+              className="object-contain"
+            />
+          </div>
         </Link>
 
         <nav className="hidden items-center gap-6 text-sm font-semibold text-black md:flex">
