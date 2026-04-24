@@ -1,6 +1,6 @@
 ﻿import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { GoogleTagManager } from "@next/third-parties/google";
+import { GoogleTagManager, GoogleAnalytics } from "@next/third-parties/google";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 
 import "./globals.css";
@@ -89,6 +89,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased flex min-h-screen flex-col`}
       >
         <GoogleTagManager gtmId="GTM-MVLL345T" />
+        <GoogleAnalytics gaId="G-KXS6PMKHM4" />
 
         <JsonLd
           data={{
