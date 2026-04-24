@@ -1,5 +1,11 @@
 "use client";
 
+declare global {
+  interface Window {
+    dataLayer?: Array<Record<string, unknown>>;
+  }
+}
+
 export default function StickyWhatsApp() {
   const number = "905350509128"; // kendi numaran (başında + yok)
   const text = "Merhaba, promosyon ürünleri için teklif almak istiyorum.";
