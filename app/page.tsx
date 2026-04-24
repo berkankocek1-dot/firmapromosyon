@@ -252,7 +252,7 @@ export default function Home() {
   const orderedCategoryProducts = buildOrderedCategoryProducts(products);
 
   const heroCategoryChips = orderedCategories.slice(0, 12);
-  const topStrip = orderedCategoryProducts.slice(0, 5);
+  const topStrip = orderedCategoryProducts.slice(0, 10);
 
   const kalemProducts = products
     .filter((p: any) => normalizeText(p.category) === normalizeText("Kalem"))
@@ -278,7 +278,7 @@ export default function Home() {
     )
     .slice(0, 4);
 
-  const categoryCards = orderedCategories.slice(0, 12);
+  const categoryCards = orderedCategories;
 
   const webPageSchema = {
     "@context": "https://schema.org",
