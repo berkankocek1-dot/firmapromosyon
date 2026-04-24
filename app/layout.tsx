@@ -1,6 +1,6 @@
 ﻿import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { GoogleTagManager, GoogleAnalytics } from "@next/third-parties/google";
+import Script from "next/script";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 
 import "./globals.css";
@@ -88,8 +88,24 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased flex min-h-screen flex-col`}
       >
-        <GoogleTagManager gtmId="GTM-MVLL345T" />
-        <GoogleAnalytics gaId="G-KXS6PMKHM4" />
+        <Script
+          src="https://www.googletagmanager.com/gtm.js?id=GTM-MVLL345T"
+          strategy="lazyOnload"
+        />
+
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-KXS6PMKHM4"
+          strategy="lazyOnload"
+        />
+
+        <Script id="ga-init" strategy="lazyOnload">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){window.dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-KXS6PMKHM4');
+          `}
+        </Script>
 
         <JsonLd
           data={{
@@ -155,12 +171,18 @@ export default function RootLayout({
                 <h3 className="mb-3 text-lg font-semibold">Yasal</h3>
                 <ul className="space-y-2 text-sm text-white/80">
                   <li>
-                    <a href="/mesafeli-satis-sozlesmesi" className="hover:text-white">
+                    <a
+                      href="/mesafeli-satis-sozlesmesi"
+                      className="hover:text-white"
+                    >
                       Mesafeli Satış Sözleşmesi
                     </a>
                   </li>
                   <li>
-                    <a href="/iptal-ve-iade-kosullari" className="hover:text-white">
+                    <a
+                      href="/iptal-ve-iade-kosullari"
+                      className="hover:text-white"
+                    >
                       İptal ve İade Koşulları
                     </a>
                   </li>
@@ -190,7 +212,8 @@ export default function RootLayout({
             </div>
 
             <div className="mt-10 border-t border-white/10 pt-6 text-center text-sm text-white/60">
-              © {new Date().getFullYear()} FirmaPromosyon — Tüm hakları saklıdır.
+              © {new Date().getFullYear()} FirmaPromosyon — Tüm hakları
+              saklıdır.
             </div>
           </div>
         </footer>
