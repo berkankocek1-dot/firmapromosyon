@@ -519,7 +519,7 @@ export default function Home() {
                     src={getCategoryImage(category)}
                     alt={category.name}
                     fill
-                    unoptimized={index >= 8}
+                    
                     loading="lazy"
                     sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
                     className="object-contain p-2 transition duration-500 group-hover:scale-105"
@@ -640,7 +640,7 @@ export default function Home() {
                       src={img}
                       alt={title}
                       fill
-                      unoptimized={index >= 5}
+                      
                       loading="lazy"
                       sizes="(max-width: 768px) 50vw, 20vw"
                       className="object-contain p-2 transition duration-500 group-hover:scale-105"
@@ -982,7 +982,7 @@ function MiniProductCard({ product }: { product: any }) {
           src={img}
           alt={title}
           fill
-          unoptimized
+        
           loading="lazy"
           sizes="(max-width: 640px) 100vw, 25vw"
           className="object-contain p-2 transition duration-500 group-hover:scale-105"
