@@ -40,7 +40,13 @@ export default function CategoryProductsClient({
 }) {
   const isKalemCategory = normalizeText(categoryName) === "kalem";
 
-  const subFilters = ["Tüm Kalemler", "Plastik Kalem", "Metal Kalem", "Dokunmatik Kalem"];
+  const subFilters = [
+    "Tüm Kalemler",
+    "Plastik Kalem",
+    "Metal Kalem",
+    "Dokunmatik Kalem",
+  ];
+
   const [activeFilter, setActiveFilter] = useState("Tüm Kalemler");
 
   const filteredProducts = useMemo(() => {
@@ -95,28 +101,27 @@ export default function CategoryProductsClient({
 
       {filteredProducts.length === 0 ? (
         <div className="rounded-2xl border border-white/10 bg-white/5 p-8 text-center">
-          <p className="text-white/80">
-            Bu filtrede ürün bulunamadı.
-          </p>
+          <p className="text-white/80">Bu filtrede ürün bulunamadı.</p>
         </div>
       ) : (
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {filteredProducts.map((p) => (
+          {filteredProducts.map((p, index) => (
             <Link
               key={p.id}
               href={`/urunler/${p.slug}`}
               className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:shadow-md"
             >
               <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
-               <Image
-  src={p.image}
-  alt={p.title}
-  fill
-  unoptimized
-  loading="lazy"
-  className="object-contain p-4"
-  sizes="(max-width: 768px) 100vw, 33vw"
-/>
+                <Image
+                  src={p.image}
+                  alt={p.title}
+                  fill
+                  unoptimized
+                  loading={index < 3 ? "eager" : "lazy"}
+                  priority={index < 3}
+                  className="object-contain p-4"
+                  sizes="(max-width: 768px) 100vw, 33vw"
+                />
               </div>
 
               <div className="mt-4">
