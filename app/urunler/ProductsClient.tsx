@@ -103,7 +103,7 @@ export default function ProductsClient({ products }: { products: Product[] }) {
         </div>
       ) : (
         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {filteredProducts.map((p) => (
+          {filteredProducts.map((p, index) => (
             <Link
               key={p.id}
               href={`/urunler/${p.slug}`}
@@ -115,7 +115,8 @@ export default function ProductsClient({ products }: { products: Product[] }) {
                   alt={p.title}
                   fill
                   unoptimized
-                  loading="lazy"
+                  loading={index === 0 ? "eager" : "lazy"}
+                  priority={index === 0}
                   className="object-contain p-4"
                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                 />
