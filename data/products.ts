@@ -145,105 +145,181 @@ Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
   },
 
   {
-    id: "p3",
-    slug: "promosyon-tasli-cakmak-cricket-cm-100",
-    title: "Promosyon Taşlı Çakmak (Cricket 7.8 x 2.2) ÇM-100",
-    shortDesc:
-      "Promosyon taşlı çakmak ÇM-100 (Cricket 7.8×2.2 cm) logo baskıya uygundur. Kurumsal promosyon, fuar ve etkinlikler için idealdir. Baskısız minimum 100 adet; baskılı minimum adet değişebilir. Renkler stok durumuna göre kontrol edilir.",
-    longDesc: `
+  id: "p3",
+  slug: "promosyon-tasli-cakmak-cricket-cm-100",
+  title: "Promosyon Taşlı Çakmak (Cricket 7.8 x 2.2) ÇM-100",
+  shortDesc:
+    "Promosyon taşlı çakmak ÇM-100 (Cricket 7.8×2.2 cm) logo baskıya uygundur. Kurumsal promosyon, fuar ve etkinlikler için idealdir. Baskısız minimum 100 adet; baskılı minimum adet değişebilir. Renkler stok durumuna göre kontrol edilir.",
+
+  longDesc: `
+Logo Baskılı Promosyon Çakmak ile Markanızı Her An Hatırlatın
+
 Promosyon Taşlı Çakmak ÇM-100 (Cricket 7.8 × 2.2 cm), kurumsal promosyon çalışmalarında en sık tercih edilen promosyon çakmak modellerinden biridir. Kompakt tasarımı ve pratik kullanımı sayesinde fuar, etkinlik, müşteri ziyareti ve promosyon kampanyalarında dağıtım için ideal bir reklam ürünüdür.
 
+Günlük hayatta sık kullanılan bir ürün olması sayesinde logonuz sürekli görünür olur ve markanızın bilinirliği artar. Uygun maliyetli olması nedeniyle toplu dağıtımlar için en etkili promosyon ürünlerinden biridir.
+
+NEDEN PROMOSYON TAŞLI ÇAKMAK TERCİH EDİLMELİ?
+• Uygun maliyetli toplu dağıtım imkanı  
+• Geniş baskı alanı ile logo görünürlüğü  
+• Günlük kullanım sayesinde sürekli reklam etkisi  
+• Fuar, etkinlik ve kampanyalar için ideal  
+
 PROMOSYON TAŞLI ÇAKMAK ÇM-100 TEKNİK ÖZELLİKLERİ
-• Model: ÇM-100
-• Ebat: 7.8 × 2.2 cm
-• Baskı Alanı: 5.5 × 1.4 cm
-• Mekanizma: Taşlı çakmak
-• Kullanım: Doldurulamaz
-• Baskı Türü: Tampon Baskı + UV Dijital Baskı
+• Model: ÇM-100  
+• Ebat: 7.8 × 2.2 cm  
+• Baskı Alanı: 5.5 × 1.4 cm  
+• Mekanizma: Taşlı çakmak  
+• Kullanım: Doldurulamaz  
+• Baskı Türü: Tampon Baskı + UV Dijital Baskı  
 
 RENK SEÇENEKLERİ (STOK KONTROLLÜ)
-Beyaz, Kırmızı, Mavi, Sarı, Siyah.
+Beyaz, Kırmızı, Mavi, Sarı, Siyah.  
 Not: Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde renk/stok kontrolü yapılır ve teyit edilir.
 
+KULLANIM ALANLARI
+• Fuar ve organizasyon dağıtımları  
+• Açılış ve kampanya promosyonları  
+• Kurumsal müşteri hediyeleri  
+• Reklam ve tanıtım çalışmaları  
+
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar  
+• Reklam ajansları  
+• Kafe ve restoranlar  
+• Etkinlik organizasyon firmaları  
+• Toptan promosyon ürün alıcıları  
+
+PROMOSYON ÇAKMAK FİYATLARI HAKKINDA
+Promosyon çakmak fiyatları; sipariş adedi, baskı türü ve renk seçeneklerine göre değişiklik göstermektedir. Toptan alımlarda daha uygun fiyat avantajı sağlanır. Güncel fiyat ve teklif bilgisi için bizimle iletişime geçebilirsiniz.
+
 MİNİMUM SİPARİŞ / BASKI BİLGİSİ
-• Baskısız minimum sipariş: 100 adet
+• Baskısız minimum sipariş: 100 adet  
 • Logo baskılı siparişlerde minimum adet; baskı tekniği, renk seçimi ve üretim planına göre değişebilir. Kesin minimum adet ve fiyat teklifte netleştirilir.
 
-Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
+Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilir, WhatsApp üzerinden anında iletişime geçebilirsiniz.
 `.trim(),
-    category: "Çakmak",
-    image: "/products/promosyon-tasli-cakmak-cm-100.jpg",
-    gallery: ["/products/promosyon-tasli-cakmak-cm-100.jpg"],
-    faq: [
-      {
-        q: "Promosyon taşlı çakmak minimum sipariş adedi nedir?",
-        a: "Baskısız siparişlerde minimum adet 100’dür. Logo baskılı siparişlerde minimum adet üretim planına göre değişebilir.",
-      },
-      {
-        q: "Baskı alanı ve baskı türü nedir?",
-        a: "Baskı alanı 5.5 × 1.4 cm’dir. Tampon baskı ve UV dijital baskı uygulanabilir.",
-      },
-      {
-        q: "Renk seçenekleri stokta var mı?",
-        a: "Beyaz, Kırmızı, Mavi, Sarı ve Siyah renk seçenekleri bulunur. Renkler stok durumuna göre değişebilir ve sipariş öncesinde stok kontrolü yapılır.",
-      },
-      {
-        q: "ÇM-100 çakmak doldurulabilir mi?",
-        a: "Hayır. ÇM-100 modeli doldurulamaz taşlı çakmaktır.",
-      },
-    ],
-  },
 
+  category: "Çakmak",
+  image: "/products/promosyon-tasli-cakmak-cm-100.jpg",
+  gallery: [
+    "/products/promosyon-tasli-cakmak-cm-100.jpg"
+  ],
+
+  faq: [
+    {
+      q: "Promosyon taşlı çakmak minimum sipariş adedi nedir?",
+      a: "Baskısız siparişlerde minimum adet 100’dür. Logo baskılı siparişlerde minimum adet üretim planına göre değişebilir.",
+    },
+    {
+      q: "Baskı alanı ve baskı türü nedir?",
+      a: "Baskı alanı 5.5 × 1.4 cm’dir. Tampon baskı ve UV dijital baskı uygulanabilir.",
+    },
+    {
+      q: "Renk seçenekleri stokta var mı?",
+      a: "Beyaz, Kırmızı, Mavi, Sarı ve Siyah renk seçenekleri bulunur. Renkler stok durumuna göre değişebilir ve sipariş öncesinde stok kontrolü yapılır.",
+    },
+    {
+      q: "ÇM-100 çakmak doldurulabilir mi?",
+      a: "Hayır. ÇM-100 modeli doldurulamaz taşlı çakmaktır.",
+    },
+    {
+      q: "Promosyon çakmak fiyatları neye göre belirlenir?",
+      a: "Fiyatlar sipariş adedi, baskı türü ve renk seçeneklerine göre değişir. Toptan alımlarda daha uygun fiyat sunulur.",
+    },
+    {
+      q: "Logo baskılı çakmak siparişi nasıl verilir?",
+      a: "Logo baskılı sipariş için tasarımınızı ileterek hızlı teklif alabilirsiniz. Üretim süreci teklif sonrası planlanır.",
+    },
+  ],
+},
   {
-    id: "p4",
-    slug: "promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150",
-    title: "Promosyon Cricket Manyetolu Sibopsuz Çakmak (7.8 x 2.2) ÇM-150",
-    shortDesc:
-      "Promosyon Cricket manyetolu sibopsuz çakmak ÇM-150 (78×22 mm) logo baskıya uygundur. Kurumsal promosyon, fuar ve etkinlikler için idealdir. Baskısız minimum sipariş 100 adet; baskılı minimum adet değişebilir. Renkler stok durumuna göre kontrol edilir.",
-    longDesc: `
+  id: "p4",
+  slug: "promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150",
+  title: "Promosyon Cricket Manyetolu Sibopsuz Çakmak (7.8 x 2.2) ÇM-150",
+  shortDesc:
+    "Promosyon Cricket manyetolu sibopsuz çakmak ÇM-150 (78×22 mm) logo baskıya uygundur. Kurumsal promosyon, fuar ve etkinlikler için idealdir. Baskısız minimum sipariş 100 adet; baskılı minimum adet değişebilir. Renkler stok durumuna göre kontrol edilir.",
+
+  longDesc: `
+Logo Baskılı Promosyon Çakmak ile Markanızı Her An Görünür Hale Getirin
+
 Promosyon Cricket Manyetolu Sibopsuz Çakmak ÇM-150, kurumsal promosyon çalışmalarında sık tercih edilen promosyon çakmak modellerinden biridir. Manyetolu mekanizması ve pratik kullanımı sayesinde fuar, etkinlik, müşteri ziyareti ve promosyon kampanyalarında dağıtım için idealdir.
 
-Logo baskıya uygun yüzeyi ile markanızın görünürlüğünü artırır. Kurumsal firmalar için promosyon dağıtımlarında uygun maliyetli ve etkili bir reklam ürünüdür.
+Günlük kullanımda sık tercih edilen bir ürün olması sayesinde markanız sürekli göz önünde olur ve uzun süreli reklam etkisi sağlar. Özellikle toptan promosyon çakmak alımlarında maliyet avantajı sunarak firmalar için etkili bir tanıtım aracıdır.
+
+NEDEN PROMOSYON CRICKET ÇAKMAK TERCİH EDİLMELİ?
+• Uygun maliyetli toplu dağıtım imkanı  
+• Manyetolu mekanizma ile kolay kullanım  
+• Geniş baskı alanı ile logo görünürlüğü  
+• Günlük kullanım sayesinde sürekli reklam etkisi  
+• Fuar ve etkinlikler için ideal promosyon ürünü  
 
 PROMOSYON ÇAKMAK ÇM-150 TEKNİK ÖZELLİKLERİ
-• Model: ÇM-150
-• Tip: Manyetolu, sibopsuz
-• Ölçü / Ebat: 78 × 22 mm (7.8 × 2.2 cm)
-• Baskı Alanı: 55 × 14 mm (5.5 × 1.4 cm)
-• Baskı Türleri: Tampon Baskı – UV Baskı
+• Model: ÇM-150  
+• Tip: Manyetolu, sibopsuz  
+• Ölçü / Ebat: 78 × 22 mm (7.8 × 2.2 cm)  
+• Baskı Alanı: 55 × 14 mm (5.5 × 1.4 cm)  
+• Baskı Türleri: Tampon Baskı – UV Baskı  
 
 RENK SEÇENEKLERİ (STOK KONTROLLÜ)
-Beyaz, Kırmızı, Mavi, Sarı, Siyah.
+Beyaz, Kırmızı, Mavi, Sarı, Siyah.  
 Not: Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde renk/stok kontrolü yapılır ve teyit edilir.
 
+KULLANIM ALANLARI
+• Fuar ve organizasyon dağıtımları  
+• Açılış ve kampanya promosyonları  
+• Kurumsal müşteri hediyeleri  
+• Reklam ve tanıtım çalışmaları  
+
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar  
+• Reklam ajansları  
+• Kafe ve restoranlar  
+• Etkinlik organizasyon firmaları  
+• Toptan promosyon ürün alıcıları  
+
+PROMOSYON ÇAKMAK FİYATLARI HAKKINDA
+Promosyon çakmak fiyatları; sipariş adedi, baskı türü (tampon baskı veya UV baskı) ve renk seçeneklerine göre değişiklik göstermektedir. Toptan siparişlerde daha uygun fiyat avantajı sağlanır. Güncel fiyat ve teklif almak için bizimle iletişime geçebilirsiniz.
+
 MİNİMUM SİPARİŞ / BASKI BİLGİSİ
-• Baskısız minimum sipariş: 100 adet
+• Baskısız minimum sipariş: 100 adet  
 • Logo baskılı siparişlerde minimum adet; baskı tekniği (tampon/UV), renk seçimi ve üretim planına göre değişebilir. Kesin minimum adet ve fiyat teklifte netleştirilir.
 
-Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
+Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilir, WhatsApp üzerinden hemen iletişime geçebilirsiniz.
 `.trim(),
-    category: "Çakmak",
-    image: "/products/promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150.jpg",
-    gallery: ["/products/promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150.jpg"],
-    faq: [
-      {
-        q: "ÇM-150 promosyon çakmak minimum sipariş adedi nedir?",
-        a: "Baskısız siparişlerde minimum adet 100’dür. Logo baskılı siparişlerde minimum adet üretim planına göre değişebilir.",
-      },
-      {
-        q: "ÇM-150 çakmakta baskı alanı ve baskı türleri nedir?",
-        a: "Baskı alanı 55 × 14 mm’dir. Tampon baskı ve UV baskı uygulanabilir.",
-      },
-      {
-        q: "Renk seçenekleri stokta var mı?",
-        a: "Beyaz, Kırmızı, Mavi, Sarı ve Siyah renk seçenekleri bulunur. Renkler stok durumuna göre değişebilir; sipariş öncesinde stok kontrolü yapılır.",
-      },
-      {
-        q: "ÇM-150 çakmak hangi kullanım alanları için uygundur?",
-        a: "Fuar, etkinlik, müşteri ziyareti ve kurumsal promosyon dağıtımlarında logo baskılı reklam ürünü olarak uygundur.",
-      },
-    ],
-  },
+
+  category: "Çakmak",
+  image: "/products/promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150.jpg",
+  gallery: [
+    "/products/promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150.jpg"
+  ],
+
+  faq: [
+    {
+      q: "ÇM-150 promosyon çakmak minimum sipariş adedi nedir?",
+      a: "Baskısız siparişlerde minimum adet 100’dür. Logo baskılı siparişlerde minimum adet üretim planına göre değişebilir.",
+    },
+    {
+      q: "ÇM-150 çakmakta baskı alanı ve baskı türleri nedir?",
+      a: "Baskı alanı 55 × 14 mm’dir. Tampon baskı ve UV baskı uygulanabilir.",
+    },
+    {
+      q: "Renk seçenekleri stokta var mı?",
+      a: "Beyaz, Kırmızı, Mavi, Sarı ve Siyah renk seçenekleri bulunur. Renkler stok durumuna göre değişebilir; sipariş öncesinde stok kontrolü yapılır.",
+    },
+    {
+      q: "ÇM-150 çakmak hangi kullanım alanları için uygundur?",
+      a: "Fuar, etkinlik, müşteri ziyareti ve kurumsal promosyon dağıtımlarında logo baskılı reklam ürünü olarak uygundur.",
+    },
+    {
+      q: "Promosyon çakmak fiyatları neye göre değişir?",
+      a: "Fiyatlar sipariş adedi, baskı türü ve renk seçeneklerine göre değişir. Toptan siparişlerde daha avantajlı fiyatlar sunulur.",
+    },
+    {
+      q: "Logo baskılı çakmak siparişi nasıl verilir?",
+      a: "Logo baskılı sipariş için tasarımınızı ileterek hızlı teklif alabilirsiniz. Üretim süreci teklif sonrası planlanır.",
+    },
+  ],
+},
 
   {
     id: "p5",
@@ -612,13 +688,39 @@ Promosyon geri dönüşümlü tohumlu kalem GDK-120 ile firmanızın çevre dost
     "Promosyon taşlı siboplu çakmak CM-200, logo baskıya uygun yüzeyi ile kurumsal promosyon çalışmalarında sık tercih edilen ekonomik bir çakmak modelidir. Baskısız minimum sipariş 100 adettir, baskılı siparişlerde minimum adet değişebilir.",
 
   longDesc: `
+Logo Baskılı Promosyon Çakmak ile Markanızı Sürekli Görünür Hale Getirin
+
 Promosyon taşlı siboplu çakmak CM-200, kurumsal promosyon ürünleri arasında en çok tercih edilen ekonomik ve kullanışlı çakmak modellerinden biridir. Dayanıklı yapısı ve logo baskıya uygun yüzeyi sayesinde markanızın reklamını uzun süre taşıyabilecek etkili bir promosyon ürünüdür.
+
+Günlük hayatta sık kullanılan bir ürün olması nedeniyle markanız sürekli göz önünde olur ve uzun süreli reklam etkisi sağlar. Özellikle toptan promosyon çakmak siparişlerinde düşük maliyet ile yüksek adetli dağıtım imkanı sunar.
+
+NEDEN PROMOSYON TAŞLI SİBOPLU ÇAKMAK TERCİH EDİLMELİ?
+• Ekonomik fiyat avantajı ile toplu dağıtıma uygun  
+• Logo baskıya uygun geniş yüzey  
+• Günlük kullanım sayesinde sürekli reklam etkisi  
+• Fuar, etkinlik ve kampanyalar için ideal  
 
 Kasai ölçülerinde tasarlanan bu çakmak modeli 7.6 x 2.2 cm ölçülerine sahiptir. Ergonomik yapısı sayesinde günlük kullanım için oldukça pratiktir ve geniş baskı yüzeyi sayesinde firmanızın logosu çakmak üzerine net şekilde uygulanabilir.
 
 Promosyon çakmaklar, özellikle yüksek adetli promosyon dağıtımları için en ekonomik ve etkili reklam ürünlerinden biridir. Fuarlar, organizasyonlar, kampanyalar ve kurumsal etkinliklerde geniş kitlelere ulaşmak için tercih edilir.
 
 Taşlı siboplu mekanizması sayesinde güvenli ve pratik kullanım sunan CM-200 modeli dayanıklı yapısıyla uzun süreli kullanım sağlar.
+
+KULLANIM ALANLARI
+• Fuar ve organizasyon dağıtımları  
+• Açılış ve kampanya promosyonları  
+• Kurumsal müşteri hediyeleri  
+• Reklam ve tanıtım çalışmaları  
+
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar  
+• Reklam ajansları  
+• Kafe ve restoranlar  
+• Etkinlik organizasyon firmaları  
+• Toptan promosyon ürün alıcıları  
+
+PROMOSYON ÇAKMAK FİYATLARI HAKKINDA
+Promosyon çakmak fiyatları; sipariş adedi, baskı türü ve renk seçeneklerine göre değişiklik göstermektedir. Toptan siparişlerde daha uygun fiyat avantajı sunulmaktadır. Güncel fiyat bilgisi ve teklif almak için bizimle iletişime geçebilirsiniz.
 
 Baskısız siparişlerde minimum adet 100 olup baskılı siparişlerde minimum sipariş miktarı üretim planına göre değişebilir. Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir.
 
@@ -631,10 +733,10 @@ Baskısız siparişlerde minimum adet 100 olup baskılı siparişlerde minimum s
 • Baskı: Logo baskıya uygun yüzey  
 • Baskısız Minimum Sipariş: 100 adet  
 • Baskılı siparişlerde minimum adet üretim durumuna göre değişebilir  
-• Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir
+• Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir  
 
-Promosyon taşlı siboplu çakmak CM-200 ile firmanızın logosunu ekonomik ve etkili bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon çakmak siparişleri için hızlı teklif alabilirsiniz.
-`,
+Promosyon taşlı siboplu çakmak CM-200 ile firmanızın logosunu ekonomik ve etkili bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon çakmak siparişleri için hızlı teklif alabilir, WhatsApp üzerinden hemen iletişime geçebilirsiniz.
+`.trim(),
 },
 {
   id: "p16",
@@ -647,13 +749,40 @@ Promosyon taşlı siboplu çakmak CM-200 ile firmanızın logosunu ekonomik ve e
     "Promosyon manyetolu siboplu çakmak CM-250, logo baskıya uygun yüzeyi ve mini boy tasarımıyla kurumsal promosyon çalışmaları için ideal bir çakmak modelidir. Baskısız minimum sipariş 100 adet olup baskılı siparişlerde minimum adet değişebilir.",
 
   longDesc: `
+Mini Boy Promosyon Çakmak ile Markanızı Her Yerde Taşıyın
+
 Promosyon manyetolu siboplu çakmak CM-250, ekonomik ve kullanışlı yapısı sayesinde kurumsal promosyon ürünleri arasında sık tercih edilen çakmak modellerinden biridir. Mini boy tasarımı ve dayanıklı mekanizması sayesinde günlük kullanım için oldukça pratiktir.
+
+Kompakt yapısı sayesinde cepte taşımaya uygun olan bu model, kullanıcıların her an yanında bulundurabileceği bir promosyon ürünü sunar. Bu da markanızın sürekli görünür olmasını sağlar ve reklam etkisini artırır.
+
+NEDEN PROMOSYON MANYETOLU SİBOPLU ÇAKMAK TERCİH EDİLMELİ?
+• Mini boy tasarım ile kolay taşınabilirlik  
+• Doldurulabilir yapı sayesinde uzun kullanım  
+• Manyetolu mekanizma ile pratik ateşleme  
+• Logo baskıya uygun geniş yüzey  
+• Günlük kullanım sayesinde sürekli reklam etkisi  
 
 Manyetolu siboplu mekanizması ile kolay ateşleme sağlayan bu model, geniş baskı yüzeyi sayesinde firmanızın logosunun net şekilde uygulanmasına olanak sağlar. Tampon baskı veya UV baskı teknikleri ile marka logosu çakmak üzerine profesyonel şekilde uygulanabilir.
 
 Promosyon çakmaklar özellikle fuarlar, kampanyalar, organizasyonlar ve kurumsal etkinliklerde geniş kitlelere ulaşmak için kullanılan ekonomik promosyon ürünlerinden biridir. Günlük kullanımda sık kullanılan bir ürün olması sayesinde markanızın görünürlüğünü uzun süre artırır.
 
 CM-250 modeli doldurulabilir yapısı sayesinde uzun süre kullanılabilir ve bu da promosyon ürününün reklam etkisini artırır.
+
+KULLANIM ALANLARI
+• Fuar ve organizasyon dağıtımları  
+• Açılış ve kampanya promosyonları  
+• Kurumsal müşteri hediyeleri  
+• Reklam ve tanıtım çalışmaları  
+
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar  
+• Reklam ajansları  
+• Kafe ve restoranlar  
+• Etkinlik organizasyon firmaları  
+• Toptan promosyon ürün alıcıları  
+
+PROMOSYON ÇAKMAK FİYATLARI HAKKINDA
+Promosyon çakmak fiyatları; sipariş adedi, baskı türü ve model özelliklerine göre değişiklik göstermektedir. Doldurulabilir ve mini boy çakmak modelleri farklı fiyat avantajları sunabilir. Toptan siparişlerde daha uygun fiyat avantajı sağlanır.
 
 Baskısız siparişlerde minimum adet 100 olup baskılı siparişlerde minimum sipariş miktarı üretim planına göre değişebilir. Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir.
 
@@ -667,10 +796,10 @@ Baskısız siparişlerde minimum adet 100 olup baskılı siparişlerde minimum s
 • Özellik: Doldurulabilir  
 • Baskısız Minimum Sipariş: 100 adet  
 • Baskılı siparişlerde minimum adet üretim durumuna göre değişebilir  
-• Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir
+• Renk seçenekleri için sipariş sırasında stok kontrolü yapılması önerilir  
 
-Promosyon manyetolu siboplu çakmak CM-250 ile firmanızın logosunu ekonomik ve etkili bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon çakmak siparişleri için hızlı teklif alabilirsiniz.
-`,
+Promosyon manyetolu siboplu çakmak CM-250 ile firmanızın logosunu ekonomik ve etkili bir şekilde müşterilerinize ulaştırabilirsiniz. Kurumsal promosyon çakmak siparişleri için hızlı teklif alabilir, WhatsApp üzerinden hemen iletişime geçebilirsiniz.
+`.trim(),
 },
 {
   id: "p17",
