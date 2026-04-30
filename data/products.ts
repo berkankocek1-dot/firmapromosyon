@@ -378,6 +378,7 @@ Kurumsal promosyon anahtarlık siparişleri için teklif alabilirsiniz.
   id: "p6",
   slug: "promosyon-tarihsiz-defter-15x21-td-100",
   title: "Promosyon Tarihsiz Defter (15 x 21 cm) TD-100",
+  price: 194,
   shortDesc:
     "Promosyon tarihsiz defter TD-100 (15×21 cm). Termo deri kapak, 224 sayfa (70 gr ivory krem). Baskısız minimum 30 adet; logo baskılı minimum adet değişebilir. Renk seçenekleri stok durumuna göre kontrol edilir.",
   longDesc: `
@@ -920,6 +921,7 @@ Promosyon anahtarlık AN-100 ile firmanızın logosunu şık ve profesyonel bir 
   id: "p20",
   slug: "promosyon-tarihsiz-defter-td-101",
   title: "Promosyon Tarihsiz Defter TD-101",
+  price: 220,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-101.jpg",
 
@@ -2177,6 +2179,7 @@ Eğer firmanız için hem dekoratif hem de etkili bir reklam ürünü arıyorsan
   id: "p61",
   slug: "promosyon-tarihsiz-defter-15x21-td-102",
   title: "Promosyon Tarihsiz Defter 15 x 21 cm TD-102 | Logo Baskılı Kurumsal Defter",
+  price: 310,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-102.jpg",
 
@@ -2207,6 +2210,7 @@ Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır. Logo bask
   id: "p62",
   slug: "promosyon-tarihsiz-defter-14x21-td-103",
   title: "Promosyon Tarihsiz Defter 14,5 x 21 cm TD-103 | Logo Baskılı Kurumsal Defter",
+  price: 270,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-103.jpg",
 
@@ -2242,6 +2246,7 @@ Promosyon tarihsiz defterler fuarlar, etkinlikler, kurumsal kampanyalar ve müş
   id: "p63",
   slug: "promosyon-tarihsiz-defter-14x21-td-104",
   title: "Promosyon Tarihsiz Defter 14,5 x 21 cm TD-104 | Logo Baskılı Kurumsal Defter",
+  price: 220,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-104.jpg",
 
@@ -2278,6 +2283,7 @@ Promosyon tarihsiz defterler fuarlar, kurumsal etkinlikler ve müşteri ziyaretl
   id: "p64",
   slug: "promosyon-tarihsiz-defter-14x21-termo-deri-td-110",
   title: "Promosyon Tarihsiz Defter 14,5 x 21 cm TD-110 | Logo Baskılı Termo Deri Defter",
+  price: 168,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-110.jpg",
 
@@ -2323,6 +2329,7 @@ Promosyon defterler özellikle fuarlar, kurumsal etkinlikler, müşteri ziyaretl
   id: "p65",
   slug: "promosyon-tarihsiz-defter-14x21-termo-pu-td-115",
   title: "Promosyon Tarihsiz Defter 14,5 x 21 cm TD-115 | Logo Baskılı Termo PU Defter",
+  price: 156,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-115.jpg",
 
@@ -3384,6 +3391,7 @@ Promosyon anahtarlıklar özellikle otomotiv sektörü, emlak firmaları, mağaz
   id: "p94",
   slug: "promosyon-tarihsiz-defter-14-5x21-td-116",
   title: "Promosyon Tarihsiz Defter 14,5 x 21 cm TD-116 | Logo Baskılı Kurumsal Defter",
+  price: 190,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-116.jpg",
 
@@ -3428,6 +3436,7 @@ Promosyon tarihsiz defterler özellikle fuarlar, kurumsal etkinlikler, müşteri
   id: "p95",
   slug: "promosyon-tarihsiz-defter-15x21-td-120",
   title: "Promosyon Tarihsiz Defter 15 x 21 cm TD-120 | Logo Baskılı Termo Deri Defter",
+  price: 174,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-120.jpg",
 
@@ -3469,6 +3478,7 @@ Promosyon tarihsiz defterler özellikle fuarlar, kurumsal etkinlikler, müşteri
   id: "p96",
   slug: "promosyon-tarihsiz-defter-15x21-td-125",
   title: "Promosyon Tarihsiz Defter 15 x 21 cm TD-125 | Logo Baskılı Kurumsal Defter",
+  price: 190,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-125.jpg",
 
@@ -20583,7 +20593,7 @@ Reklam ve tanıtım kampanyaları
   id: "p383",
   slug: "promosyon-tarihsiz-defter-13x21-td-126",
   title: "Promosyon Tarihsiz Defter 13x21 cm TD-126 | Işıklı Logolu PU Deri Defter",
-
+price: 210,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-126.jpg",
 
@@ -20660,7 +20670,7 @@ Müşteri ve çalışan hediyeleri
   id: "p384",
   slug: "promosyon-tarihsiz-defter-195x25-td-130",
   title: "Promosyon Tarihsiz Defter 19,5x25 cm TD-130 | Termo Deri Gofre Baskılı Kareli Defter",
-
+price: 276,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-130.jpg",
 
@@ -20747,7 +20757,7 @@ Müşteri ve çalışan hediyeleri
   id: "p385",
   slug: "promosyon-tarihsiz-defter-17x24-td-140",
   title: "Promosyon Tarihsiz Defter 17x24 cm TD-140 | Termo Deri Gofre Baskılı Çizgili Defter",
-
+price: 198,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-140.jpg",
 
@@ -20831,7 +20841,7 @@ Müşteri ve çalışan hediyeleri
   id: "p386",
   slug: "promosyon-tarihsiz-defter-13x21-td-150",
   title: "Promosyon Tarihsiz Defter 13x21 cm TD-150 | Termo Deri Kenar Boyalı Lazer Baskılı Defter",
-
+price: 180,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-150.jpg",
 
@@ -20920,7 +20930,7 @@ Müşteri ve çalışan hediyeleri
 
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-160.jpg",
-
+price: 178,
   shortDesc:
     "Promosyon tarihsiz defter TD-160, 13x21 cm ölçüsü, termo deri kapak ve gofre ile lazer baskı seçenekleri ile kurumsal promosyonlarda şık bir defter modelidir.",
 
@@ -25521,7 +25531,7 @@ Premium marka tanıtımı
   id: "p447",
   slug: "promosyon-tarihsiz-defter-td-165",
   title: "Promosyon Tarihsiz Defter TD-165 | Termo PU Kapak, Metal Tokalı, 13x21 cm",
-
+price: 156,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-165.jpg",
 
@@ -25597,7 +25607,7 @@ Marka bilinirliği artırma kampanyaları
   id: "p448",
   slug: "promosyon-tarihsiz-defter-td-170",
   title: "Promosyon Tarihsiz Defter TD-170 | Gizli Spiralli, Termo Deri Kapak, 15x21,5 cm",
-
+price: 246,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-170.jpg",
 
@@ -25671,7 +25681,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p449",
   slug: "promosyon-tarihsiz-defter-td-180",
   title: "Promosyon Tarihsiz Defter TD-180 | Spiralli, Kareli, Termo Deri Kapak, 17x24 cm",
-
+price: 294,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-180.jpg",
 
@@ -25745,7 +25755,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p450",
   slug: "promosyon-tarihsiz-defter-td-190",
   title: "Promosyon Tarihsiz Defter TD-190 | Esnek Kapak, Termo PU Deri, Metal Tokalı, 15,5x21,5 cm",
-
+price: 238,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-190.jpg",
 
@@ -25824,7 +25834,7 @@ Ajanda ve kişisel kullanım
   id: "p451",
   slug: "promosyon-tarihsiz-defter-td-195",
   title: "Promosyon Tarihsiz Defter TD-195 | Esnek Kapak, Termo PU Deri, Metal Tokalı, 13x21 cm",
-
+price: 178,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-195.jpg",
 
@@ -25904,7 +25914,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p452",
   slug: "promosyon-tarihsiz-defter-td-196",
   title: "Promosyon Tarihsiz Defter TD-196 | Esnek Kapak, Termo PU Deri, Metal Tokalı, 13x21 cm",
-
+price: 142,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-196.jpg",
 
@@ -25984,7 +25994,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p453",
   slug: "promosyon-tarihsiz-defter-td-200",
   title: "Promosyon Tarihsiz Defter TD-200 | Kalemlikli, Termo Deri Kapak, 13x21 cm",
-
+price: 100,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-200.jpg",
 
@@ -26055,7 +26065,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p454",
   slug: "promosyon-tarihsiz-defter-td-210",
   title: "Promosyon Tarihsiz Defter TD-210 | Sert Kapak, Kalem Tutuculu, 15x21 cm",
-
+price: 238,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-210.jpg",
 
@@ -26133,7 +26143,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p455",
   slug: "promosyon-tarihsiz-defter-td-220",
   title: "Promosyon Tarihsiz Defter TD-220 | Ekonomik Model, Termo Deri Kapak, 13x21 cm",
-
+price: 111,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-220.jpg",
 
@@ -27828,7 +27838,7 @@ Prestij promosyon ürünleri
   id: "p480",
   slug: "promosyon-tarihsiz-defter-td-230",
   title: "Promosyon Tarihsiz Defter TD-230 | Termo Deri Kapak, 224 Sayfa Logo Baskılı Defter",
-
+price: 164,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-230.jpg",
 
@@ -27901,7 +27911,7 @@ VIP promosyon ürünleri
   id: "p481",
   slug: "promosyon-tarihsiz-defter-td-240",
   title: "Promosyon Tarihsiz Defter TD-240 | Kenar Boyalı, Termo Deri Kapak Logo Baskılı Defter",
-
+price: 148,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-240.jpg",
 
@@ -27969,7 +27979,7 @@ VIP promosyon ürünleri
   id: "p482",
   slug: "promosyon-tarihsiz-defter-td-250",
   title: "Promosyon Tarihsiz Defter TD-250 | Kareli Sayfa, Termo Deri Kapak Logo Baskılı Defter",
-
+price: 142,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-250.jpg",
 
@@ -28034,7 +28044,7 @@ Marka tanıtım çalışmaları
   id: "p483",
   slug: "promosyon-tarihsiz-defter-td-260",
   title: "Promosyon Tarihsiz Defter TD-260 | Termo PU Sert Kapak, Bantlı Logo Baskılı Defter",
-
+price: 164,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-260.jpg",
 
@@ -28099,7 +28109,7 @@ VIP promosyon ürünleri
   id: "p484",
   slug: "promosyon-tarihsiz-defter-td-270",
   title: "Promosyon Tarihsiz Defter TD-270 | 16x24 cm Büyük Boy Kareli Logo Baskılı Defter",
-
+price: 228,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-270.jpg",
 
@@ -28164,7 +28174,7 @@ Marka tanıtım çalışmaları
   id: "p485",
   slug: "promosyon-tarihsiz-defter-td-280",
   title: "Promosyon Tarihsiz Defter TD-280 | 13x21 cm Termo Deri Logo Baskılı Defter",
-
+price: 142,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-280.jpg",
 
@@ -28229,7 +28239,7 @@ Marka tanıtım çalışmaları
   id: "p486",
   slug: "promosyon-tarihsiz-defter-td-290",
   title: "Promosyon Tarihsiz Defter TD-290 | 13x21 cm Termo Deri Logo Baskılı Defter",
-
+price: 125,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-290.jpg",
 
@@ -28298,7 +28308,7 @@ Marka tanıtım çalışmaları
   id: "p487",
   slug: "promosyon-tarihsiz-defter-td-300",
   title: "Promosyon Tarihsiz Defter TD-300 | Kalem Yuvalı Kapaklı Logo Baskılı Defter",
-
+price: 260,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-300.jpg",
 
@@ -28366,7 +28376,7 @@ Marka tanıtım çalışmaları
   id: "p488",
   slug: "promosyon-tarihsiz-defter-td-310",
   title: "Promosyon Tarihsiz Defter TD-310 | Terzi Dikiş, 13x21 cm Logo Baskılı Defter",
-
+price: 84.60,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-310.jpg",
 
@@ -28436,7 +28446,7 @@ Marka tanıtım çalışmaları
   id: "p489",
   slug: "promosyon-tarihsiz-defter-td-320",
   title: "Promosyon Tarihsiz Defter TD-320 | 13x21 cm Logo Baskılı Ekonomik Defter",
-
+price: 104,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-320.jpg",
 
@@ -28505,7 +28515,7 @@ Marka tanıtım çalışmaları
   id: "p490",
   slug: "promosyon-tarihsiz-defter-td-330",
   title: "Promosyon Tarihsiz Defter TD-330 | Renkli Kenar, Lazer Kazıma Logo Baskılı Premium Defter",
-
+price: 148,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-330.jpg",
 
@@ -28577,7 +28587,7 @@ Prestij promosyon ürünleri
   id: "p491",
   slug: "promosyon-tarihsiz-defter-td-340",
   title: "Promosyon Tarihsiz Defter TD-340 | Lastikli, Kalem Tutuculu Logo Baskılı Defter",
-
+price: 106,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-340.jpg",
 
@@ -28647,7 +28657,7 @@ Marka tanıtım çalışmaları
   id: "p492",
   slug: "promosyon-tarihsiz-defter-td-350",
   title: "Promosyon Tarihsiz Defter TD-350 | Cepli Kapak, Çift Renk Logo Baskılı Defter",
-
+price: 220,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-350.jpg",
 
@@ -28715,7 +28725,7 @@ Marka tanıtım çalışmaları
   id: "p493",
   slug: "promosyon-tarihsiz-defter-td-360",
   title: "Promosyon Tarihsiz Defter TD-360 | Esnek Yumuşak Kapak Logo Baskılı Defter",
-
+price: 98,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-360.jpg",
 
@@ -28781,7 +28791,7 @@ Marka tanıtım çalışmaları
   id: "p494",
   slug: "promosyon-tarihsiz-defter-td-370",
   title: "Promosyon Tarihsiz Defter TD-370 | Metal Detaylı Premium Logo Baskılı Defter",
-
+price: 240,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-370.jpg",
 
@@ -28845,7 +28855,7 @@ Marka tanıtım çalışmaları
   id: "p495",
   slug: "promosyon-tarihsiz-defter-td-380",
   title: "Promosyon Tarihsiz Defter TD-380 | Esnek Yumuşak Kapak, Siyah Kenar Logo Baskılı Defter",
-
+price: 144,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-380.jpg",
 
@@ -28917,7 +28927,7 @@ Marka tanıtım çalışmaları
   id: "p496",
   slug: "promosyon-tarihsiz-defter-td-390",
   title: "Promosyon Tarihsiz Defter TD-390 | Termo Deri, Kalem Tutuculu Logo Baskılı Defter",
-
+price: 115,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-390.jpg",
 
@@ -28985,7 +28995,7 @@ Marka tanıtım çalışmaları
   id: "p497",
   slug: "promosyon-tarihsiz-defter-td-400",
   title: "Promosyon Tarihsiz Defter TD-400 | Manyetik Kilitli, Kenar Boyalı Premium Defter",
-
+price: 170,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-400.jpg",
 
@@ -29057,7 +29067,7 @@ Marka tanıtım çalışmaları
   id: "p498",
   slug: "promosyon-tarihsiz-defter-td-410",
   title: "Promosyon Tarihsiz Defter TD-410 | Kart ve Telefon Bölmeli Premium Defter",
-
+price: 216,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-410.jpg",
 
@@ -29132,7 +29142,7 @@ Marka tanıtım çalışmaları
   id: "p499",
   slug: "promosyon-tarihsiz-defter-td-420",
   title: "Promosyon Tarihsiz Defter TD-420 | Kuşe Taslama Sert Kapak Logo Baskılı Defter",
-
+price: 124,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-420.jpg",
 
@@ -29197,7 +29207,7 @@ Marka tanıtım çalışmaları
   id: "p500",
   slug: "promosyon-tarihsiz-defter-td-430",
   title: "Promosyon Tarihsiz Defter TD-430 | Cep Boy, Kenar Boyalı Logo Baskılı Defter",
-
+price: 116,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-430.jpg",
 
@@ -29270,7 +29280,7 @@ Marka tanıtım çalışmaları
   id: "p501",
   slug: "promosyon-tarihsiz-defter-td-440",
   title: "Promosyon Tarihsiz Defter TD-440 | Mini Boy, Taşınabilir Logo Baskılı Defter",
-
+price: 88,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-440.jpg",
 
@@ -29335,7 +29345,7 @@ Marka tanıtım çalışmaları
   id: "p502",
   slug: "promosyon-tarihsiz-defter-td-450",
   title: "Promosyon Tarihsiz Defter TD-450 | Mini Cep Boy, Balık Sırtı Logo Baskılı Defter",
-
+price: 76,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-450.jpg",
 
@@ -29405,7 +29415,7 @@ Marka tanıtım çalışmaları
   id: "p503",
   slug: "promosyon-tarihsiz-defter-td-460",
   title: "Promosyon Tarihsiz Defter TD-460 | Mini Boy, 80 gr Logo Baskılı Defter",
-
+price: 84,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-460.jpg",
 
@@ -29470,7 +29480,7 @@ Marka tanıtım çalışmaları
   id: "p504",
   slug: "promosyon-tarihsiz-defter-td-470",
   title: "Promosyon Tarihsiz Defter TD-470 | Mini Boy Terzi Dikiş Logo Baskılı Defter",
-
+price: 62,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-470.jpg",
 

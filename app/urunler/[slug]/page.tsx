@@ -221,7 +221,7 @@ export default async function ProductPage({ params }: PageProps) {
     </div>
 
     <p className="mt-1 text-sm font-medium text-green-600">
-      Baskı hariçtir. WhatsApp üzerinden özel teklif alabilirsiniz.
+      Fiyatlar baskı hizmeti hariç olup referans niteliğindedir. Toplu siparişlerde adet bazlı özel fiyat avantajı sunulmaktadır. Size özel teklif almak için WhatsApp üzerinden bizimle iletişime geçebilirsiniz.
     </p>
   </div>
 )}
