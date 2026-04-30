@@ -121,7 +121,12 @@ export default async function ProductPage({ params }: PageProps) {
         name: product.category,
         item: `${SITE_URL}${categoryHref}`,
       },
-      { "@type": "ListItem", position: 4, name: product.title, item: productUrl },
+      {
+        "@type": "ListItem",
+        position: 4,
+        name: product.title,
+        item: productUrl,
+      },
     ],
   };
 
@@ -134,6 +139,19 @@ export default async function ProductPage({ params }: PageProps) {
     url: productUrl,
     brand: { "@type": "Brand", name: "FirmaPromosyon" },
     category: product.category,
+    ...(product.price
+      ? {
+          offers: {
+            "@type": "Offer",
+            price: product.price,
+            priceCurrency: "TRY",
+            availability: "https://schema.org/InStock",
+            itemCondition: "https://schema.org/NewCondition",
+            url: productUrl,
+            priceValidUntil: "2026-12-31",
+          },
+        }
+      : {}),
   };
 
   const faqJsonLd =
@@ -158,7 +176,6 @@ export default async function ProductPage({ params }: PageProps) {
       <JsonLd data={productJsonLd} />
       {faqJsonLd && <JsonLd data={faqJsonLd} />}
 
-      {/* Breadcrumb */}
       <nav className="mb-6 text-sm text-gray-800">
         <Link className="hover:underline" href="/">
           Ana Sayfa
@@ -176,7 +193,6 @@ export default async function ProductPage({ params }: PageProps) {
       </nav>
 
       <section className="grid gap-10 md:grid-cols-2 md:items-start">
-        {/* Görsel */}
         <div className="relative aspect-square w-full overflow-hidden rounded-2xl border bg-white">
           <Image
             src={product.image}
@@ -189,13 +205,26 @@ export default async function ProductPage({ params }: PageProps) {
           />
         </div>
 
-        {/* İçerik */}
         <div>
           <h1 className="text-3xl font-extrabold leading-tight text-gray-900">
             {product.title}
           </h1>
 
-          <p className="mt-3 text-gray-900">{product.shortDesc}</p>
+          {product.price && (
+            <div className="mt-4 border-l-4 border-gray-900 pl-4">
+              <div className="text-sm font-medium text-gray-500">
+                Ürün Fiyatı
+              </div>
+
+              <div className="mt-1 text-2xl font-semibold text-gray-900">
+                {product.price.toLocaleString("tr-TR")} TL + KDV
+              </div>
+
+              Baskı hariçtir. 300 adet ve üzeri siparişler için WhatsApp üzerinden özel teklif alabilirsiniz.
+            </div>
+          )}
+
+          <p className="mt-4 text-gray-900">{product.shortDesc}</p>
 
           <div className="mt-5 flex flex-wrap gap-2">
             <Link
@@ -206,10 +235,11 @@ export default async function ProductPage({ params }: PageProps) {
             </Link>
           </div>
 
-          {/* Ürün açıklaması */}
           {longDescLines.length > 0 && (
             <div className="mt-8">
-              <h2 className="text-lg font-bold text-gray-900">Ürün Açıklaması</h2>
+              <h2 className="text-lg font-bold text-gray-900">
+                Ürün Açıklaması
+              </h2>
 
               <div className="mt-3 space-y-3 leading-relaxed text-gray-900">
                 {longDescLines.map((line, idx) => (
@@ -219,7 +249,6 @@ export default async function ProductPage({ params }: PageProps) {
             </div>
           )}
 
-          {/* CTA */}
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <Link
               href={`/teklif?product=${encodeURIComponent(product.slug)}`}
@@ -238,7 +267,6 @@ export default async function ProductPage({ params }: PageProps) {
         </div>
       </section>
 
-      {/* YENİ EKLENEN KURUMSAL TEKLİF BÖLÜMÜ */}
       <section className="mt-16 rounded-2xl bg-gray-100 p-10 text-center">
         <h2 className="text-2xl font-bold text-gray-900">
           Kurumsal Toplu Sipariş İçin Teklif Alın
@@ -246,13 +274,15 @@ export default async function ProductPage({ params }: PageProps) {
 
         <p className="mx-auto mt-4 max-w-2xl text-gray-700">
           {product.title} ve diğer promosyon ürünleri için kurumsal toplu sipariş
-          verebilirsiniz. Logo baskı, renk seçenekleri, stok durumu ve fiyat bilgisi
-          için hemen teklif alın.
+          verebilirsiniz. Logo baskı, renk seçenekleri, stok durumu ve fiyat
+          bilgisi için hemen teklif alın.
         </p>
 
         <div className="mt-6 flex flex-wrap justify-center gap-4">
           <Link
-            href={`/kurumsal-teklif-al?product=${encodeURIComponent(product.slug)}`}
+            href={`/kurumsal-teklif-al?product=${encodeURIComponent(
+              product.slug
+            )}`}
             className="rounded-xl bg-black px-6 py-3 font-semibold text-white hover:opacity-90"
           >
             Kurumsal Teklif Al

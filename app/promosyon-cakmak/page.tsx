@@ -241,7 +241,11 @@ export default function Page() {
               <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
                 {p.shortDesc}
               </p>
-
+{p.price && (
+  <div className="mt-3 text-base font-bold text-gray-900">
+    {p.price.toLocaleString("tr-TR")} TL + KDV
+  </div>
+)}
               <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
                 Ürünü İncele
               </div>

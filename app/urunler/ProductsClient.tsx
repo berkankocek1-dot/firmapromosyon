@@ -12,6 +12,7 @@ type Product = {
   category: string;
   image: string;
   shortDesc: string;
+  price?: number;
 };
 
 function normalizeText(value: string) {
@@ -134,6 +135,12 @@ export default function ProductsClient({ products }: { products: Product[] }) {
                 <p className="mt-2 line-clamp-3 text-sm text-gray-700">
                   {p.shortDesc}
                 </p>
+
+                {p.price && (
+                  <div className="mt-3 text-base font-bold text-gray-900">
+                    {p.price.toLocaleString("tr-TR")} TL + KDV
+                  </div>
+                )}
 
                 <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
                   Hızlı Teklif
