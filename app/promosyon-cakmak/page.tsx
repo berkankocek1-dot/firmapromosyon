@@ -217,7 +217,7 @@ export default function Page() {
             href={`/urunler/${p.slug}`}
             className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
           >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
+            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
               <Image
   src={p.image}
   alt={p.title}
@@ -242,10 +242,17 @@ export default function Page() {
                 {p.shortDesc}
               </p>
 {p.price && (
-  <div className="mt-3 text-base font-bold text-gray-900">
-    {p.price.toLocaleString("tr-TR")} TL + KDV
+  <div className="mt-3">
+    <div className="text-base font-bold text-gray-900">
+      {p.price.toLocaleString("tr-TR")} TL + KDV
+    </div>
+
+    <div className="mt-1 text-xs font-medium text-green-600">
+       WhatsApp üzerinden özel teklif alabilirsiniz
+    </div>
   </div>
 )}
+
               <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
                 Ürünü İncele
               </div>

@@ -220,7 +220,7 @@ export default async function ProductPage({ params }: PageProps) {
                 {product.price.toLocaleString("tr-TR")} TL + KDV
               </div>
 
-              Baskı hariçtir. 300 adet ve üzeri siparişler için WhatsApp üzerinden özel teklif alabilirsiniz.
+              Baskı hariçtir. WhatsApp üzerinden özel teklif alabilirsiniz.
             </div>
           )}
 

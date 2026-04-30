@@ -138,10 +138,16 @@ export default function CategoryProductsClient({
                 </p>
 
                 {p.price && (
-                  <div className="mt-3 text-base font-bold text-gray-900">
-                    {p.price.toLocaleString("tr-TR")} TL + KDV
-                  </div>
-                )}
+  <div className="mt-3">
+    <div className="text-base font-bold text-gray-900">
+      {p.price.toLocaleString("tr-TR")} TL + KDV
+    </div>
+
+    <div className="mt-1 text-xs font-medium text-green-600">
+       WhatsApp üzerinden özel teklif alabilirsiniz
+    </div>
+  </div>
+)}
 
                 <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
                   Hızlı Teklif
