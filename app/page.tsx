@@ -514,7 +514,7 @@ export default function Home() {
             >
               <div className="absolute inset-0 bg-gradient-to-br from-white via-white to-gray-50" />
               <div className="relative">
-                <div className="relative flex aspect-[4/3] items-center justify-center overflow-hidden border-b border-gray-100 bg-white">
+                <div className="relative flex h-44 items-center justify-center overflow-hidden border-b border-gray-100 bg-white md:aspect-[4/3] md:h-auto">
                   <Image
                     src={getCategoryImage(category)}
                     alt={category.name}
@@ -522,7 +522,7 @@ export default function Home() {
                     
                     loading="lazy"
                     sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
-                    className="object-contain p-2 transition duration-500 group-hover:scale-105"
+                    className="object-contain p-1 transition duration-500 group-hover:scale-105 md:p-2"
                   />
                 </div>
 
