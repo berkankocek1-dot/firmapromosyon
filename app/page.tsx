@@ -430,29 +430,29 @@ export default function Home() {
         <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,rgba(0,0,0,0.05),transparent_45%)]" />
         <div className="absolute left-1/2 top-0 -z-10 h-[220px] w-[700px] -translate-x-1/2 rounded-full bg-black/5 blur-3xl" />
 
-        <div className="mx-auto max-w-7xl px-5 py-5 md:py-6">
-          <div className="rounded-[30px] border border-gray-200 bg-white/95 p-5 shadow-sm backdrop-blur md:p-7 lg:p-8">
+        <div className="mx-auto max-w-7xl px-5 py-3 md:py-4">
+          <div className="rounded-[30px] border border-gray-200 bg-white/95 p-4 shadow-sm backdrop-blur md:p-5 lg:p-6">
             <div className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-[11px] font-semibold text-gray-700">
               <span className="inline-block h-2 w-2 rounded-full bg-green-500" />
               Kurumsal promosyon • Hızlı teklif • Türkiye geneli
             </div>
 
             <div className="mt-4 max-w-5xl">
-              <h1 className="text-[clamp(28px,4.6vw,52px)] font-extrabold leading-[1.05] tracking-tight text-gray-900">
+              <h1 className="text-[clamp(24px,3.8vw,40px)] font-extrabold leading-[1.05] tracking-tight text-gray-900">
                 Kurumsal Promosyon Ürünleri
                 <span className="mt-2 block text-gray-600">
                   Logo Baskılı Toplu Sipariş ve Baskı Çözümleri
                 </span>
               </h1>
 
-              <p className="mt-4 max-w-3xl text-sm leading-6 text-gray-700 md:text-[15px]">
+              <p className="mt-3 max-w-5xl text-sm leading-5 text-gray-700 md:text-sm">
                 Kurumsal tanıtım, fuar, etkinlik ve toplu firma siparişleri için
                 logo baskılı promosyon ürünleri sunuyoruz. Promosyon kalem, promosyon
                 ajanda, promosyon termos, promosyon anahtarlık, promosyon USB bellek,
                 promosyon kupa ve powerbank gibi birçok kategoride hızlı teklif alın.
               </p>
 
-              <div className="mt-5 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
+              <div className="mt-4 flex flex-col gap-2 sm:flex-row sm:flex-wrap">
                 <Link
                   href="/kurumsal-teklif-al"
                   className="inline-flex items-center justify-center rounded-2xl bg-black px-5 py-3 text-sm font-semibold text-white shadow-sm transition hover:bg-gray-900"
