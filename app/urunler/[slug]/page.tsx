@@ -211,18 +211,20 @@ export default async function ProductPage({ params }: PageProps) {
           </h1>
 
           {product.price && (
-            <div className="mt-4 border-l-4 border-gray-900 pl-4">
-              <div className="text-sm font-medium text-gray-500">
-                Ürün Fiyatı
-              </div>
+  <div className="mt-4 border-l-4 border-gray-900 pl-4">
+    <div className="text-sm font-medium text-gray-500">
+      Ürün Fiyatı
+    </div>
 
-              <div className="mt-1 text-2xl font-semibold text-gray-900">
-                {product.price.toLocaleString("tr-TR")} TL + KDV
-              </div>
+    <div className="mt-1 text-2xl font-semibold text-gray-900">
+      {product.price.toLocaleString("tr-TR")} TL + KDV
+    </div>
 
-              Baskı hariçtir. WhatsApp üzerinden özel teklif alabilirsiniz.
-            </div>
-          )}
+    <p className="mt-1 text-sm font-medium text-green-600">
+      Baskı hariçtir. WhatsApp üzerinden özel teklif alabilirsiniz.
+    </p>
+  </div>
+)}
 
           <p className="mt-4 text-gray-900">{product.shortDesc}</p>
 
