@@ -1,5 +1,8 @@
 "use client";
 
+import { useEffect, useMemo, useState } from "react";
+import { usePathname } from "next/navigation";
+
 declare global {
   interface Window {
     dataLayer?: Array<Record<string, unknown>>;
@@ -7,8 +10,34 @@ declare global {
 }
 
 export default function StickyWhatsApp() {
-  const number = "905350509128"; // kendi numaran (başında + yok)
-  const text = "Merhaba, promosyon ürünleri için teklif almak istiyorum.";
+  const pathname = usePathname();
+  const number = "905350509128";
+
+  const [productTitle, setProductTitle] = useState("");
+
+  useEffect(() => {
+    if (typeof document === "undefined") return;
+
+    const isProductPage = pathname?.startsWith("/urunler/");
+
+    if (isProductPage) {
+      const h1 = document.querySelector("h1");
+      const title = h1?.textContent?.trim();
+
+      if (title) {
+        setProductTitle(title);
+      }
+    }
+  }, [pathname]);
+
+  const text = useMemo(() => {
+    if (pathname?.startsWith("/urunler/") && productTitle) {
+      return `Merhaba, ${productTitle} ürünü hakkında teklif almak istiyorum.`;
+    }
+
+    return "Merhaba, promosyon ürünleri için teklif almak istiyorum.";
+  }, [pathname, productTitle]);
+
   const href = `https://wa.me/${number}?text=${encodeURIComponent(text)}`;
 
   const handleClick = () => {
@@ -17,7 +46,11 @@ export default function StickyWhatsApp() {
       window.dataLayer.push({
         event: "whatsapp_click",
         event_category: "engagement",
-        event_label: "sticky_whatsapp_button",
+        event_label: pathname?.startsWith("/urunler/")
+          ? "product_sticky_whatsapp_button"
+          : "sticky_whatsapp_button",
+        product_name: productTitle || null,
+        page_path: pathname,
         value: 1,
       });
     }
@@ -41,7 +74,6 @@ export default function StickyWhatsApp() {
         active:scale-95
       "
     >
-      {/* Icon */}
       <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 32 32"
