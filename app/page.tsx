@@ -510,7 +510,7 @@ export default function Home() {
             <Link
               key={category.slug}
               href={getCategoryHref(category.name)}
-              className="group relative overflow-hidden rounded-[28px] border border-gray-200 bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-xl"
+              className="group relative overflow-hidden rounded-[28px] border-2 border-black bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-xl"
             >
               <div className="absolute inset-0 bg-gradient-to-br from-white via-white to-gray-50" />
               <div className="relative">
@@ -633,7 +633,7 @@ export default function Home() {
                 <Link
                   key={slug}
                   href={`/urunler/${slug}`}
-                  className="group rounded-3xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
+                  className="group rounded-3xl border-2 border-black bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-xl"
                 >
                   <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
                     <Image
@@ -747,7 +747,7 @@ export default function Home() {
             <Link
               key={guide.href}
               href={guide.href}
-              className="group rounded-3xl border border-gray-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
+              className="group rounded-3xl border-2 border-black bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-xl"
             >
               <div className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
                 Rehber
@@ -975,7 +975,7 @@ function MiniProductCard({ product }: { product: any }) {
   return (
     <Link
       href={`/urunler/${slug}`}
-      className="group rounded-3xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
+      className="group rounded-3xl border-2 border-black bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-xl"
     >
       <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
         <Image
