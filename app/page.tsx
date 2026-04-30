@@ -527,11 +527,11 @@ export default function Home() {
                 </div>
 
                 <div className="p-4 md:p-5">
-                  <div className="line-clamp-2 min-h-[48px] text-sm font-extrabold text-gray-900 md:text-base">
+                  <div className="line-clamp-2 min-h-[40px] text-sm font-extrabold text-gray-900 md:min-h-[48px] md:text-base">
                    {category.name}
                   </div>
 
-                  <p className="mt-2 line-clamp-2 text-xs leading-5 text-gray-600 md:text-sm">
+                  <p className="mt-1 line-clamp-2 text-[11px] leading-4 text-gray-600 md:mt-2 md:text-sm md:leading-5">
                     {category.seoDescription || `${category.name} ürünlerini inceleyin.`}
                   </p>
 
