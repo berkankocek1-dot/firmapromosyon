@@ -236,7 +236,7 @@ export default function Page() {
                   </div>
 
                   <div className="mt-1 text-xs font-medium text-green-600">
-                    Fiyatlar baskı hizmeti hariç olup referans niteliğindedir. Toplu siparişlerde adet bazlı özel fiyat avantajı sunulmaktadır. Size özel teklif almak için WhatsApp üzerinden bizimle iletişime geçebilirsiniz.
+                    Fiyatlar baskı hizmeti hariç olup referans niteliğindedir. Sipariş adedi ve baskı detaylarına göre özel fiyatlandırma yapılmaktadır. Size özel en avantajlı teklif için WhatsApp üzerinden bizimle iletişime geçebilirsiniz.
                   </div>
                 </div>
               )}
