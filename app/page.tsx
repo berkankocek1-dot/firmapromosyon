@@ -528,7 +528,7 @@ export default function Home() {
 
                 <div className="p-4 md:p-5">
                   <div className="line-clamp-2 min-h-[48px] text-sm font-extrabold text-gray-900 md:text-base">
-                  Promosyon  {category.name}
+                   {category.name}
                   </div>
 
                   <p className="mt-2 line-clamp-2 text-xs leading-5 text-gray-600 md:text-sm">
