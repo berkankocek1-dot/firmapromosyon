@@ -158,8 +158,8 @@ export default function Page() {
         }}
       />
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
+      <section className="rounded-3xl bg-black px-6 py-7 text-white md:px-8 md:py-9">
+        <nav className="mb-4 text-sm text-gray-300">
           <Link href="/" className="hover:text-white hover:underline">
             Ana Sayfa
           </Link>
@@ -177,19 +177,8 @@ export default function Page() {
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Promosyon anahtarlık modelleri, markanızı günlük yaşamda görünür kılan
-            en etkili kurumsal promosyon ürünleri arasında yer alır. Logo baskılı
-            promosyon anahtarlık çeşitleri; fuar, etkinlik, bayi toplantısı,
-            kurumsal tanıtım çalışmaları ve toplu firma dağıtımları için hem
-            ekonomik hem de kullanışlı bir çözümdür.
-          </p>
-
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            FirmaPromosyon’da yer alan promosyon anahtarlık ürünleri, farklı model
-            ve tasarım seçenekleri ile kurumsal ihtiyaçlara uygun olarak
-            sunulmaktadır. Firmanızın logosuna uygun baskılı veya baskısız sipariş
-            seçenekleri için ürünleri inceleyebilir, size en uygun model için
-            hızlı teklif alabilirsiniz.
+            Logo baskılı promosyon anahtarlık modellerini inceleyin, firmanız için
+            toplu sipariş ve kurumsal teklif talebinde bulunun.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">
@@ -219,14 +208,14 @@ export default function Page() {
           >
             <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
               <Image
-  src={p.image}
-  alt={p.title}
-  fill
-  unoptimized
-  loading="lazy"
-  className="object-contain p-4"
-  sizes="(max-width: 768px) 100vw, 33vw"
-/>
+                src={p.image}
+                alt={p.title}
+                fill
+                unoptimized
+                loading="lazy"
+                className="object-contain p-4"
+                sizes="(max-width: 768px) 100vw, 33vw"
+              />
             </div>
 
             <div className="mt-4">
@@ -241,6 +230,18 @@ export default function Page() {
               <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
                 {p.shortDesc}
               </p>
+
+              {p.price && (
+                <div className="mt-3">
+                  <div className="text-base font-bold text-gray-900">
+                    {p.price.toLocaleString("tr-TR")} TL + KDV
+                  </div>
+
+                  <div className="mt-1 text-xs font-medium text-green-600">
+                    WhatsApp üzerinden özel teklif alabilirsiniz
+                  </div>
+                </div>
+              )}
 
               <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
                 Ürünü İncele
@@ -262,6 +263,22 @@ export default function Page() {
             <h2 className="text-2xl font-bold text-white">
               Logo Baskılı Promosyon Anahtarlık Modelleri
             </h2>
+
+            <p>
+              Promosyon anahtarlık modelleri, markanızı günlük yaşamda görünür
+              kılan en etkili kurumsal promosyon ürünleri arasında yer alır. Logo
+              baskılı promosyon anahtarlık çeşitleri; fuar, etkinlik, bayi
+              toplantısı, kurumsal tanıtım çalışmaları ve toplu firma dağıtımları
+              için hem ekonomik hem de kullanışlı bir çözümdür.
+            </p>
+
+            <p>
+              FirmaPromosyon’da yer alan promosyon anahtarlık ürünleri, farklı
+              model ve tasarım seçenekleri ile kurumsal ihtiyaçlara uygun olarak
+              sunulmaktadır. Firmanızın logosuna uygun baskılı veya baskısız
+              sipariş seçenekleri için ürünleri inceleyebilir, size en uygun model
+              için hızlı teklif alabilirsiniz.
+            </p>
 
             <p>
               Logo baskılı promosyon anahtarlık ürünleri, markanızı müşterilerin
@@ -355,33 +372,35 @@ export default function Page() {
               Promosyon anahtarlık seçiminde fiyatlandırma çoğu zaman ilk bakılan
               konular arasında yer alır. Ancak promosyon anahtarlık fiyatları tek
               bir kritere bağlı değildir. Ürünün malzemesi, tasarımı, baskı alanı,
-              baskı yöntemi, sipariş miktarı ve özel talepler toplam maliyet üzerinde
-              doğrudan etkili olur.
+              baskı yöntemi, sipariş miktarı ve özel talepler toplam maliyet
+              üzerinde doğrudan etkili olur.
             </p>
 
             <p>
               Plastik anahtarlık modelleri çoğu zaman ekonomik çözümler sunarken,
-              metal promosyon anahtarlık çeşitleri daha prestijli ve daha kalıcı bir
-              algı oluşturabilir. Hedef kitleniz, dağıtım alanınız ve kurumsal
+              metal promosyon anahtarlık çeşitleri daha prestijli ve daha kalıcı
+              bir algı oluşturabilir. Hedef kitleniz, dağıtım alanınız ve kurumsal
               tanıtım hedefiniz doğru modelin seçiminde belirleyici olmalıdır.
               Böylece yalnızca uygun fiyatlı değil, aynı zamanda etkili bir ürün
               tercih edilmiş olur.
             </p>
 
             <p>
-              Özellikle yüksek adetli dağıtımlarda birim maliyet avantajı öne çıkar.
-              Fuarlar, etkinlikler, kampanya dönemleri veya mağaza açılışları gibi
-              alanlarda toptan promosyon anahtarlık siparişi vermek daha verimli
-              sonuç sağlayabilir. Doğru ürün ve doğru baskı tekniği ile hem bütçe
-              korunur hem de marka görünürlüğü daha profesyonel hale gelir.
+              Özellikle yüksek adetli dağıtımlarda birim maliyet avantajı öne
+              çıkar. Fuarlar, etkinlikler, kampanya dönemleri veya mağaza
+              açılışları gibi alanlarda toptan promosyon anahtarlık siparişi
+              vermek daha verimli sonuç sağlayabilir. Doğru ürün ve doğru baskı
+              tekniği ile hem bütçe korunur hem de marka görünürlüğü daha
+              profesyonel hale gelir.
             </p>
 
             <p>
-              Logo baskılı anahtarlık siparişlerinde ürün yüzeyine göre uygulanacak
-              baskı tekniği de önem taşır. Bazı modellerde lazer baskı daha iyi
-              sonuç verirken, bazı ürünlerde UV baskı veya farklı uygulamalar daha
-              uygun olabilir. Logo yapısı, renk sayısı ve kullanım alanı bu seçimde
-              dikkat edilmesi gereken başlıca noktalardır.
+              Logo baskılı anahtarlık siparişlerinde ürün yüzeyine göre
+              uygulanacak baskı tekniği de önem taşır. Bazı modellerde lazer
+              baskı daha iyi sonuç verirken, bazı ürünlerde UV baskı veya farklı
+              uygulamalar daha uygun olabilir. Logo yapısı, renk sayısı ve
+              kullanım alanı bu seçimde dikkat edilmesi gereken başlıca
+              noktalardır.
             </p>
           </section>
 
@@ -406,10 +425,11 @@ export default function Page() {
             </p>
 
             <p>
-              Her iki model arasında seçim yapılırken ana kullanım amacı göz önünde
-              bulundurulmalıdır. Eğer amaç daha fazla kişiye ekonomik şekilde
-              ulaşmaksa plastik anahtarlıklar öne çıkar. Eğer hedef daha kurumsal ve
-              premium bir izlenim bırakmaksa metal anahtarlıklar daha uygun olabilir.
+              Her iki model arasında seçim yapılırken ana kullanım amacı göz
+              önünde bulundurulmalıdır. Eğer amaç daha fazla kişiye ekonomik
+              şekilde ulaşmaksa plastik anahtarlıklar öne çıkar. Eğer hedef daha
+              kurumsal ve premium bir izlenim bırakmaksa metal anahtarlıklar daha
+              uygun olabilir.
             </p>
           </section>
 
@@ -419,25 +439,26 @@ export default function Page() {
             </h2>
 
             <p>
-              Logo baskılı anahtarlık siparişi verirken tasarım, malzeme ve kullanım
-              amacı birlikte değerlendirilmelidir. Logonun okunaklı şekilde
-              uygulanabilmesi, ürün yüzeyine uygun yerleşmesi ve anahtarlığın günlük
-              kullanımda dayanıklı kalması önemlidir. Çok küçük detaylı logolarda
-              baskı yönteminin doğru seçilmesi daha da kritik hale gelir.
+              Logo baskılı anahtarlık siparişi verirken tasarım, malzeme ve
+              kullanım amacı birlikte değerlendirilmelidir. Logonun okunaklı
+              şekilde uygulanabilmesi, ürün yüzeyine uygun yerleşmesi ve
+              anahtarlığın günlük kullanımda dayanıklı kalması önemlidir. Çok
+              küçük detaylı logolarda baskı yönteminin doğru seçilmesi daha da
+              kritik hale gelir.
             </p>
 
             <p>
               Sipariş öncesinde ürünün kimlere dağıtılacağı da netleştirilmelidir.
               Örneğin fuar ziyaretçilerine dağıtılacak promosyon anahtarlık ile
-              mevcut müşterilere verilecek kurumsal hediye anahtarlık aynı özellikte
-              olmayabilir. Hedef kitleye göre doğru model seçmek ürünün reklam
-              etkisini artırır.
+              mevcut müşterilere verilecek kurumsal hediye anahtarlık aynı
+              özellikte olmayabilir. Hedef kitleye göre doğru model seçmek ürünün
+              reklam etkisini artırır.
             </p>
 
             <p>
-              Ayrıca promosyon anahtarlık siparişinde stok durumu, renk seçenekleri,
-              baskılı veya baskısız tercih, teslim süreci ve kombin ürün kullanımı da
-              önemlidir. Anahtarlık ile birlikte{" "}
+              Ayrıca promosyon anahtarlık siparişinde stok durumu, renk
+              seçenekleri, baskılı veya baskısız tercih, teslim süreci ve kombin
+              ürün kullanımı da önemlidir. Anahtarlık ile birlikte{" "}
               <Link
                 href="/promosyon-kalem"
                 className="font-semibold text-white underline underline-offset-4"
@@ -470,9 +491,9 @@ export default function Page() {
 
             <p>
               Toptan promosyon anahtarlık siparişlerinde doğru sonuç almak için
-              ihtiyaçların önceden belirlenmesi gerekir. Dağıtım alanı, hedef kitle,
-              kullanılacak etkinlik, baskı şekli ve teslim süresi gibi detaylar
-              sipariş planlamasını doğrudan etkiler.
+              ihtiyaçların önceden belirlenmesi gerekir. Dağıtım alanı, hedef
+              kitle, kullanılacak etkinlik, baskı şekli ve teslim süresi gibi
+              detaylar sipariş planlamasını doğrudan etkiler.
             </p>
 
             <p>
@@ -518,8 +539,6 @@ export default function Page() {
               ))}
             </div>
           </section>
-
-      
         </div>
       )}
     </main>
