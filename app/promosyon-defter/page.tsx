@@ -244,7 +244,7 @@ export default function PromosyonDefterPage() {
                   </div>
 
                   <div className="mt-1 text-xs font-medium text-green-600">
-                    Fiyatlar baskı hizmeti hariç olup referans niteliğindedir. Sipariş adedi ve baskı detaylarına göre özel fiyatlandırma yapılmaktadır. Size özel en avantajlı teklif için WhatsApp üzerinden bizimle iletişime geçebilirsiniz.
+                    Fiyatlar baskı hariç olup referans niteliğindedir. Sipariş adedi ve baskı detaylarına göre özel fiyatlandırma yapılmaktadır. Ürünler stok durumuna göre temin edilmektedir. Size özel en avantajlı teklif için WhatsApp üzerinden bizimle iletişime geçebilirsiniz.
                   </div>
                 </div>
               )}
