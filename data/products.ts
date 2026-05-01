@@ -9824,6 +9824,7 @@ Reklam ve pazarlama kampanyaları
   id: "p222",
   slug: "promosyon-plastik-kalem-pls-110",
   title: "Promosyon Plastik Kalem PLS-110 | Logo Baskılı Promosyon Kalem",
+  price: 8.5,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-110.jpg",
 
@@ -9887,6 +9888,7 @@ Reklam ve pazarlama kampanyaları
   id: "p223",
   slug: "promosyon-plastik-kalem-pls-115",
   title: "Promosyon Plastik Kalem PLS-115 | Telefon Standlı Logo Baskılı Promosyon Kalem",
+  price: 8.5,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-115.jpg",
 
@@ -9956,6 +9958,7 @@ Reklam ve pazarlama kampanyaları
   id: "p224",
   slug: "promosyon-plastik-kalem-pls-116",
   title: "Promosyon Plastik Kalem PLS-116 | Logo Baskılı Promosyon Kalem",
+  price: 8.10,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-116.jpg",
 
@@ -10016,6 +10019,7 @@ Reklam ve pazarlama kampanyaları
   id: "p225",
   slug: "promosyon-plastik-kalem-jell-kalem-pls-117",
   title: "Promosyon Plastik Kalem (Jell Kalem) PLS-117 | Logo Baskılı Promosyon Kalem",
+  price: 11.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-117.jpg",
 
@@ -10075,6 +10079,7 @@ Reklam ve pazarlama kampanyaları
   id: "p226",
   slug: "promosyon-plastik-kalem-pls-118",
   title: "Promosyon Plastik Kalem PLS-118 | Logo Baskılı Promosyon Kalem",
+  price: 8.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-118.jpg",
 
@@ -10134,6 +10139,7 @@ Reklam ve pazarlama kampanyaları
   id: "p227",
   slug: "promosyon-plastik-kalem-jell-kalem-pls-119",
   title: "Promosyon Plastik Kalem (Jell Kalem) PLS-119 | Logo Baskılı Promosyon Kalem",
+  price: 11.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-119.jpg",
 
@@ -10192,6 +10198,7 @@ Reklam ve pazarlama kampanyaları
   id: "p228",
   slug: "promosyon-plastik-kalem-pls-120",
   title: "Promosyon Plastik Kalem PLS-120 | Logo Baskılı Promosyon Kalem",
+  price: 11.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-120.jpg",
 
@@ -10257,6 +10264,7 @@ Reklam ve pazarlama kampanyaları
   id: "p229",
   slug: "promosyon-plastik-kalem-pls-130",
   title: "Promosyon Plastik Kalem PLS-130 | Logo Baskılı Promosyon Kalem",
+  price: 9.20,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-130.jpg",
 
@@ -10322,6 +10330,7 @@ Reklam ve pazarlama kampanyaları
   id: "p230",
   slug: "promosyon-plastik-kalem-pls-140",
   title: "Promosyon Plastik Kalem PLS-140 | Logo Baskılı Promosyon Kalem",
+  price: 11,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-140.jpg",
 
@@ -10388,6 +10397,7 @@ Reklam ve pazarlama kampanyaları
   id: "p231",
   slug: "promosyon-plastik-kalem-pls-150",
   title: "Promosyon Plastik Kalem PLS-150 | Logo Baskılı Promosyon Kalem",
+  price: 10.20,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-150.jpg",
 
@@ -10452,6 +10462,7 @@ Reklam ve pazarlama kampanyaları
   id: "p232",
   slug: "promosyon-plastik-kalem-pls-160",
   title: "Promosyon Plastik Kalem PLS-160 | Logo Baskılı Promosyon Kalem",
+  price: 10.20,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-160.jpg",
 
@@ -10518,6 +10529,7 @@ Reklam ve pazarlama kampanyaları
   id: "p233",
   slug: "promosyon-plastik-kalem-pls-170",
   title: "Promosyon Plastik Kalem PLS-170 | Logo Baskılı Promosyon Kalem",
+  price: 8.4,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-170.jpg",
 
@@ -10584,6 +10596,7 @@ Reklam ve pazarlama kampanyaları
   id: "p234",
   slug: "promosyon-plastik-kalem-pls-180",
   title: "Promosyon Plastik Kalem PLS-180 | Logo Baskılı Promosyon Kalem",
+  price: 6.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-180.jpg",
 
@@ -10646,6 +10659,7 @@ Reklam ve pazarlama kampanyaları
   id: "p235",
   slug: "promosyon-plastik-kalem-pls-190",
   title: "Promosyon Plastik Kalem PLS-190 | Logo Baskılı Promosyon Kalem",
+  price: 6.70,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-190.jpg",
 
@@ -10709,6 +10723,7 @@ Reklam ve pazarlama kampanyaları
   id: "p236",
   slug: "promosyon-plastik-kalem-pls-200",
   title: "Promosyon Plastik Kalem PLS-200 | Logo Baskılı Promosyon Kalem",
+  price: 6.70,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-200.jpg",
 
@@ -10772,6 +10787,7 @@ Reklam ve pazarlama kampanyaları
   id: "p237",
   slug: "promosyon-plastik-kalem-pls-210",
   title: "Promosyon Plastik Kalem PLS-210 | Logo Baskılı Promosyon Kalem",
+  price: 7.20,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-210.jpg",
 
@@ -10837,6 +10853,7 @@ Reklam ve pazarlama kampanyaları
   id: "p238",
   slug: "promosyon-plastik-kalem-pls-220",
   title: "Promosyon Plastik Kalem PLS-220 | Logo Baskılı Promosyon Kalem",
+  price: 11.50,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-220.jpg",
 
@@ -10900,6 +10917,7 @@ Reklam ve pazarlama kampanyaları
   id: "p239",
   slug: "promosyon-plastik-kalem-pls-230",
   title: "Promosyon Plastik Kalem PLS-230 | Logo Baskılı Promosyon Kalem",
+  price: 8.50,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-230.jpg",
 
@@ -10963,6 +10981,7 @@ Reklam ve pazarlama kampanyaları
   id: "p240",
   slug: "promosyon-plastik-kalem-pls-240",
   title: "Promosyon Plastik Kalem PLS-240 | Logo Baskılı Promosyon Kalem",
+  price: 9.40,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-240.jpg",
 
@@ -11030,6 +11049,7 @@ Reklam ve pazarlama kampanyaları
   id: "p241",
   slug: "promosyon-plastik-kalem-pls-250",
   title: "Promosyon Plastik Kalem PLS-250 | Logo Baskılı Promosyon Kalem",
+  price: 6.20,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-250.jpg",
 
@@ -11101,6 +11121,7 @@ Reklam ve pazarlama kampanyaları
   id: "p242",
   slug: "promosyon-plastik-kalem-pls-260",
   title: "Promosyon Plastik Kalem PLS-260 | Logo Baskılı Promosyon Kalem",
+  price: 8.9,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-260.jpg",
 
@@ -11170,6 +11191,7 @@ Reklam ve pazarlama kampanyaları
   id: "p243",
   slug: "promosyon-plastik-kalem-pls-270",
   title: "Promosyon Plastik Kalem (Üçgen Gövde) PLS-270 | Logo Baskılı Promosyon Kalem",
+  price: 8.6,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-270.jpg",
 
@@ -11236,6 +11258,7 @@ Müşteri ve bayi hediyeleri
   id: "p244",
   slug: "promosyon-plastik-kalem-pls-280",
   title: "Promosyon Plastik Kalem (Üçgen Gövde) PLS-280 | Logo Baskılı Promosyon Kalem",
+  price: 8.6,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-280.jpg",
 
@@ -11303,6 +11326,7 @@ Müşteri ve bayi hediyeleri
   id: "p245",
   slug: "promosyon-plastik-kalem-pls-290",
   title: "Promosyon Plastik Kalem PLS-290 | Logo Baskılı Promosyon Kalem",
+  price: 8.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-290.jpg",
 
@@ -11370,6 +11394,7 @@ Müşteri ve bayi hediyeleri
   id: "p246",
   slug: "promosyon-plastik-kalem-pls-300",
   title: "Promosyon Plastik Kalem PLS-300 | Logo Baskılı Promosyon Kalem",
+  price: 7.90,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-300.jpg",
 
@@ -11438,6 +11463,7 @@ Müşteri ve bayi hediyeleri
   id: "p247",
   slug: "promosyon-plastik-kalem-pls-310",
   title: "Promosyon Plastik Kalem PLS-310 | Logo Baskılı Promosyon Kalem",
+  price: 8.40,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-310.jpg",
 
@@ -11505,6 +11531,7 @@ Müşteri ve bayi hediyeleri
   id: "p248",
   slug: "promosyon-plastik-kalem-pls-320",
   title: "Promosyon Plastik Kalem PLS-320 | Logo Baskılı Promosyon Kalem",
+  price: 8.10,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-320.jpg",
 
@@ -11570,6 +11597,7 @@ Müşteri ve bayi hediyeleri
   id: "p249",
   slug: "promosyon-plastik-kalem-pls-330",
   title: "Promosyon Plastik Kalem PLS-330 | Logo Baskılı Promosyon Kalem",
+  price: 8.10,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-330.jpg",
 
@@ -11637,6 +11665,7 @@ Müşteri ve bayi hediyeleri
   id: "p250",
   slug: "promosyon-plastik-kalem-pls-340",
   title: "Promosyon Plastik Kalem (Jell Kalem) PLS-340 | Logo Baskılı Promosyon Kalem",
+  price: 11.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-340.jpg",
 
@@ -11704,6 +11733,7 @@ Müşteri ve bayi hediyeleri
   id: "p251",
   slug: "promosyon-plastik-kalem-pls-350",
   title: "Promosyon Plastik Kalem PLS-350 | Logo Baskılı Promosyon Kalem",
+  price: 7.20,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-350.jpg",
 
@@ -16828,7 +16858,7 @@ Reklam ve marka tanıtımı
   id: "p332",
   slug: "promosyon-plastik-kalem-pls-360",
   title: "Promosyon Plastik Kalem PLS-360 | Logo Baskılı Uygun Fiyatlı Kalem",
-
+price: 10.90,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-360.jpg",
 
@@ -16885,7 +16915,7 @@ Müşteri hediyeleri
   id: "p333",
   slug: "promosyon-plastik-kalem-pls-365",
   title: "Promosyon Plastik Kalem PLS-365 | Jel Refil Logo Baskılı Kalem",
-
+  price: 10.90,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-365.jpg",
 
@@ -16944,7 +16974,7 @@ Müşteri hediyeleri
   id: "p334",
   slug: "promosyon-plastik-kalem-pls-370",
   title: "Promosyon Plastik Kalem PLS-370 | Logo Baskılı Toptan Reklam Kalemi",
-
+  price: 8.10,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-370.jpg",
 
@@ -17014,7 +17044,7 @@ Müşteri hediyeleri
   id: "p335",
   slug: "promosyon-plastik-kalem-pls-380",
   title: "Promosyon Plastik Kalem PLS-380 | Yerli Üretim Logo Baskılı Kalem",
-
+  price: 7.20,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-380.jpg",
 
@@ -17078,7 +17108,7 @@ Müşteri hediyeleri
   id: "p336",
   slug: "promosyon-plastik-kalem-pls-390",
   title: "Promosyon Plastik Kalem PLS-390 | Logo Baskılı Kurumsal Reklam Kalemi",
-
+  price: 7.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-390.jpg",
 
@@ -17148,7 +17178,7 @@ Müşteri hediyeleri
   id: "p337",
   slug: "promosyon-plastik-kalem-pls-400",
   title: "Promosyon Plastik Jel Kalem PLS-400 | Yarı Jel Refil Logo Baskılı Kalem",
-
+  price: 15.60,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-400.jpg",
 
@@ -17210,7 +17240,7 @@ Müşteri hediyeleri
   id: "p338",
   slug: "promosyon-plastik-kalem-pls-410",
   title: "Promosyon Plastik Kalem PLS-410 | Logo Baskılı Ekonomik Reklam Kalemi",
-
+  price: 8.90,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-410.jpg",
 
@@ -17271,7 +17301,7 @@ Müşteri hediyeleri
   id: "p339",
   slug: "promosyon-plastik-kalem-pls-420",
   title: "Promosyon Plastik Kalem PLS-420 | Geniş Baskı Alanlı Logo Baskılı Kalem",
-
+  price: 8.10,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-420.jpg",
 
@@ -17341,7 +17371,7 @@ Müşteri hediyeleri
   id: "p340",
   slug: "promosyon-plastik-kalem-pls-430",
   title: "Promosyon Plastik Kalem PLS-430 | Logo Baskılı Toptan Reklam Kalemi",
-
+  price: 8.10,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-430.jpg",
 
@@ -17411,7 +17441,7 @@ Müşteri hediyeleri
   id: "p341",
   slug: "promosyon-plastik-kalem-pls-440",
   title: "Promosyon Plastik Jel Kalem PLS-440 | İmza Kalemi Logo Baskılı Kalem",
-
+  price: 16.50,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-440.jpg",
 
@@ -17480,7 +17510,7 @@ Müşteri hediyeleri
   id: "p342",
   slug: "promosyon-plastik-kalem-pls-450",
   title: "Promosyon Plastik Jel Kalem PLS-450 | İnce Uç Logo Baskılı Kalem",
-
+  price: 12.40,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-450.jpg",
 
@@ -17542,7 +17572,7 @@ Müşteri hediyeleri
   id: "p343",
   slug: "promosyon-plastik-kalem-pls-460",
   title: "Promosyon Plastik Jel Kalem PLS-460 | Süper Jel Refil Logo Baskılı Kalem",
-
+  price: 12.40,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-460.jpg",
 
@@ -17613,7 +17643,7 @@ Müşteri hediyeleri
   id: "p344",
   slug: "promosyon-plastik-kalem-pls-470",
   title: "Promosyon Plastik Jel Kalem PLS-470 | Jumbo Jel Refil Logo Baskılı Kalem",
-
+  price: 12.40,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-470.jpg",
 
@@ -17684,7 +17714,7 @@ Müşteri hediyeleri
   id: "p345",
   slug: "promosyon-plastik-kalem-pls-480",
   title: "Promosyon Plastik Jel Kalem PLS-480 | Jumbo Jel Refil Logo Baskılı Kalem",
-
+  price: 12.40,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-480.jpg",
 
@@ -17755,7 +17785,7 @@ Müşteri hediyeleri
   id: "p346",
   slug: "promosyon-plastik-kalem-pls-510",
   title: "Promosyon Plastik Kalem PLS-510 | Logo Baskılı Ekonomik Reklam Kalemi",
-
+  price: 7.90,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-510.jpg",
 
@@ -17816,7 +17846,7 @@ Müşteri hediyeleri
   id: "p347",
   slug: "promosyon-plastik-kalem-pls-520",
   title: "Promosyon Plastik Kalem PLS-520 | Logo Baskılı Renkli Reklam Kalemi",
-
+  price: 7.90,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-520.jpg",
 
@@ -17877,7 +17907,7 @@ Müşteri hediyeleri
   id: "p348",
   slug: "promosyon-plastik-kalem-pls-530",
   title: "Promosyon Plastik Kalem PLS-530 | İnce Refil Logo Baskılı Kalem",
-
+  price: 8.70,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-530.jpg",
 
@@ -17940,7 +17970,7 @@ Müşteri hediyeleri
   id: "p349",
   slug: "promosyon-plastik-kalem-pls-540",
   title: "Promosyon Plastik Jel Kalem PLS-540 | Kalın Gövdeli Logo Baskılı Kalem",
-
+  price: 9.60,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-540.jpg",
 
@@ -18010,7 +18040,7 @@ Müşteri hediyeleri
   id: "p350",
   slug: "promosyon-plastik-kalem-pls-600",
   title: "Promosyon Plastik Kalem PLS-600 | Logo Baskılı Ekonomik Tükenmez Kalem",
-
+  price: 9.70,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-600.jpg",
 
@@ -18073,7 +18103,7 @@ Müşteri hediyeleri
   id: "p351",
   slug: "promosyon-roller-kalem-rk-100",
   title: "Promosyon Roller Kalem RK-100 | Lazer Baskılı Premium Kalem",
-
+  price:52.80,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-100.jpg",
 
@@ -21356,7 +21386,7 @@ Müşteri ve çalışan hediyeleri
   id: "p392",
   slug: "promosyon-roller-kalem-rk-110",
   title: "Promosyon Roller Kalem RK-110 | Lazer Baskılı Şık Roller Kalem",
-
+  price: 186,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-110.jpg",
 
@@ -21432,7 +21462,7 @@ Günlük kullanım
   id: "p393",
   slug: "promosyon-roller-kalem-rk-130",
   title: "Promosyon Roller Kalem RK-130 | Lazer Baskılı Şık Roller Kalem",
-
+  price: 210,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-130.jpg",
 
@@ -21508,7 +21538,7 @@ Günlük kullanım
   id: "p394",
   slug: "promosyon-roller-kalem-rk-140",
   title: "Promosyon Roller Kalem RK-140 | Metal Gövdeli Lazer Baskılı Roller Kalem",
-
+  price: 114,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-140.jpg",
 
@@ -21578,7 +21608,7 @@ Ofis kullanımı
   id: "p395",
   slug: "promosyon-roller-kalem-rk-160",
   title: "Promosyon Roller Kalem RK-160 | Metal Gövdeli Lazer Baskılı Premium Kalem",
-
+  price: 110,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-160.jpg",
 
@@ -21642,7 +21672,7 @@ Ofis kullanımı
   id: "p396",
   slug: "promosyon-roller-kalem-rk-170",
   title: "Promosyon Roller Kalem RK-170 | Gold Detaylı Şık Lazer Baskılı Kalem",
-
+  price: 124,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-170.jpg",
 
@@ -21710,7 +21740,7 @@ Reklam ve tanıtım çalışmaları
   id: "p397",
   slug: "promosyon-roller-kalem-rk-190",
   title: "Promosyon Roller Kalem RK-190 | Rubber Gövdeli Lazer Baskılı Premium Kalem",
-
+  price: 62,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-190.jpg",
 
@@ -21783,7 +21813,7 @@ Ofis kullanımı
   id: "p398",
   slug: "promosyon-roller-kalem-rk-180",
   title: "Promosyon Roller Kalem RK-180 | Modern Tasarımlı Lazer Baskılı Kalem",
-
+  price: 168,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-180.jpg",
 
@@ -21851,7 +21881,7 @@ Reklam ve tanıtım çalışmaları
   id: "p399",
   slug: "promosyon-roller-kalem-rk-200",
   title: "Promosyon Roller Kalem RK-200 | Metal Gövdeli Lazer Baskılı Şık Kalem",
-
+  price: 93,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-200.jpg",
 
@@ -21924,7 +21954,7 @@ Reklam ve tanıtım çalışmaları
   id: "p400",
   slug: "promosyon-roller-kalem-rk-210",
   title: "Promosyon Roller Kalem RK-210 | Parlak Gövdeli Lazer Baskılı Şık Kalem",
-
+  price: 110,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-210.jpg",
 
@@ -21993,7 +22023,7 @@ Reklam ve tanıtım çalışmaları
   id: "p401",
   slug: "promosyon-roller-kalem-rk-220",
   title: "Promosyon Roller Kalem RK-220 | Metal Gövdeli Lazer Baskılı Kurumsal Kalem",
-
+  price: 122,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-220.jpg",
 
@@ -30888,7 +30918,7 @@ Kurumsal tanıtım çalışmaları
   id: "p524",
   slug: "promosyon-roller-kalem-rk-230-rubber-govde",
   title: "Promosyon Roller Kalem RK-230 | Rubber Gövde Dokunmatik Kalem",
-
+  price: 128,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-230.jpg",
 
@@ -30942,7 +30972,7 @@ Teknolojik promosyon ürün ihtiyaçları
   id: "p525",
   slug: "promosyon-roller-kalem-rk-240-metal-detayli",
   title: "Promosyon Roller Kalem RK-240 | Metal Detaylı Şık Tasarım",
-
+  price: 136,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-240.jpg",
 
@@ -30995,7 +31025,7 @@ Toplantı ve seminerler
   id: "p526",
   slug: "promosyon-roller-kalem-rk-250-metal-detayli",
   title: "Promosyon Roller Kalem RK-250 | Metal Detaylı Şık Tasarım",
-
+  price: 45,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-250.jpg",
 
@@ -31048,7 +31078,7 @@ Toplantı ve seminerler
   id: "p527",
   slug: "promosyon-roller-kalem-rk-260-metal-premium",
   title: "Promosyon Roller Kalem RK-260 | Metal Gövde Premium Tasarım",
-
+  price: 116,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-260.jpg",
 
@@ -31103,7 +31133,7 @@ Ofis ve masaüstü kullanımı
   id: "p528",
   slug: "promosyon-roller-kalem-rk-270-metal-mavi-murekkep",
   title: "Promosyon Roller Kalem RK-270 | Metal Gövde Mavi Mürekkepli",
-
+  price: 123,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-270.jpg",
 
@@ -31156,7 +31186,7 @@ Reklam ve tanıtım kampanyaları
   id: "p529",
   slug: "promosyon-roller-kalem-rk-280-metal-mavi-murekkep",
   title: "Promosyon Roller Kalem RK-280 | Metal Gövde Mavi Mürekkepli Şık Tasarım",
-
+  price: 105,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-280.jpg",
 
@@ -31211,7 +31241,7 @@ Reklam ve tanıtım kampanyaları
   id: "p530",
   slug: "promosyon-kalem-rk-290-renkli-plastik",
   title: "Promosyon Kalem RK-290 | Renkli Plastik Gövde Ekonomik Model",
-
+  price: 44,
   category: "Kalem",
   image: "/products/promosyon-kalem-rk-290.jpg",
 
@@ -31265,7 +31295,7 @@ Reklam ve pazarlama faaliyetleri
   id: "p531",
   slug: "promosyon-roller-kalem-rk-300-lazer-baski",
   title: "Promosyon Roller Kalem RK-300 | Lazer Baskıya Uygun Şık Tasarım",
-
+  price: 136,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-300.jpg",
 
@@ -31317,7 +31347,7 @@ Prestijli marka tanıtımları
   id: "p532",
   slug: "promosyon-roller-kalem-rk-310-renkli",
   title: "Promosyon Roller Kalem RK-310 | Renkli Gövde Şık Tasarım",
-
+  price: 40,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-310.jpg",
 
@@ -31370,7 +31400,7 @@ Toplu dağıtım organizasyonları
   id: "p533",
   slug: "promosyon-roller-kalem-rk-320-metal-vip-mavi-murekkep",
   title: "Promosyon Roller Kalem RK-320 | Metal Gövde VIP Mavi Mürekkepli",
-
+  price: 180,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-320.jpg",
 
@@ -31426,7 +31456,7 @@ Ofis ve masaüstü kullanımı
   id: "p534",
   slug: "promosyon-roller-kalem-rk-330-metal-renkli",
   title: "Promosyon Roller Kalem RK-330 | Metal Detaylı Renkli Gövde",
-
+  price: 120,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-330.jpg",
 
@@ -31479,7 +31509,7 @@ Toplantı ve seminerler
   id: "p535",
   slug: "promosyon-roller-kalem-rk-340-metal-vip",
   title: "Promosyon Roller Kalem RK-340 | Metal Gövde VIP Tasarım",
-
+  price: 145,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-340.jpg",
 
@@ -31534,7 +31564,7 @@ Ofis ve masaüstü kullanımı
   id: "p536",
   slug: "promosyon-roller-kalem-rk-350-metal-vip-mavi-murekkep",
   title: "Promosyon Roller Kalem RK-350 | Metal Gövde VIP Mavi Mürekkepli",
-
+  price: 190,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-350.jpg",
 
@@ -31590,7 +31620,7 @@ Ofis ve masaüstü kullanımı
   id: "p537",
   slug: "promosyon-roller-kalem-rk-360-metal-renkli",
   title: "Promosyon Roller Kalem RK-360 | Metal Gövde Şık Tasarım",
-
+  price: 226,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-360.jpg",
 
@@ -31643,7 +31673,7 @@ Reklam ve tanıtım kampanyaları
   id: "p538",
   slug: "promosyon-roller-kalem-rk-370-metal-vip-mavi-murekkep",
   title: "Promosyon Roller Kalem RK-370 | Metal Gövde VIP Mavi Mürekkepli",
-
+  price: 148,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-370.jpg",
 
@@ -31699,7 +31729,7 @@ Ofis ve masaüstü kullanımı
   id: "p539",
   slug: "promosyon-roller-kalem-rk-380-klasik-metal-sik",
   title: "Promosyon Roller Kalem RK-380 | Klasik Metal Tasarım Zarif Seri",
-
+  price: 160,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-380.jpg",
 
@@ -31752,7 +31782,7 @@ Fuar ve etkinlik organizasyonları
   id: "p540",
   slug: "promosyon-roller-kalem-rk-390-dokunmatik-rubber",
   title: "Promosyon Roller Kalem RK-390 | Dokunmatik Uç Rubber Kaplama Modern Seri",
-
+  price: 106,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-390.jpg",
 
@@ -31808,7 +31838,7 @@ Reklam ve tanıtım kampanyaları
   id: "p541",
   slug: "promosyon-roller-kalem-rk-400-dokulu-metal-modern",
   title: "Promosyon Roller Kalem RK-400 | Dokulu Metal Gövde Profesyonel Seri",
-
+  price: 145,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-400.jpg",
 
@@ -31863,7 +31893,7 @@ Prestijli marka tanıtımları
   id: "p542",
   slug: "promosyon-roller-kalem-rk-410-krom-metal-yonetici",
   title: "Promosyon Roller Kalem RK-410 | Krom Metal Yönetici Kalemi",
-
+  price: 145,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-410.jpg",
 
@@ -31916,7 +31946,7 @@ Ofis ve masaüstü kullanımı
   id: "p543",
   slug: "promosyon-roller-kalem-rk-420-ahsap-metal-dogal",
   title: "Promosyon Roller Kalem RK-420 | Ahşap Gövde Doğal Premium Seri",
-
+  price: 172,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-420.jpg",
 
@@ -31971,7 +32001,7 @@ Prestijli hediye seçenekleri
   id: "p544",
   slug: "promosyon-roller-kalem-rk-430-klasik-lazer-baski",
   title: "Promosyon Roller Kalem RK-430 | Klasik Lazer Baskılı Prestij Kalemi",
-
+  price: 166,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-430.jpg",
 
@@ -32028,7 +32058,7 @@ Ofis ve masaüstü kullanımı
   id: "p545",
   slug: "promosyon-roller-kalem-rk-440-luks-lazer-baski",
   title: "Promosyon Roller Kalem RK-440 | Lüks Altın Detaylı Lazer Baskılı",
-
+  price: 180,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-440.jpg",
 
@@ -32085,7 +32115,7 @@ Ofis ve masaüstü kullanımı
   id: "p546",
   slug: "promosyon-roller-kalem-rk-450-mat-siyah-metal",
   title: "Promosyon Roller Kalem RK-450 | Mat Siyah Metal Modern Tasarım",
-
+  price: 120,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-450.jpg",
 
@@ -32138,7 +32168,7 @@ Fuar ve etkinlik organizasyonları
   id: "p547",
   slug: "promosyon-tohumlu-kalem-thk-190-ekolojik",
   title: "Promosyon Tohumlu Kurşun Kalem THK-190 | Ekolojik Doğa Dostu Kalem",
-
+  price: 18,
   category: "Kalem",
   image: "/products/promosyon-tohumlu-kalem-thk-190.jpg",
 
