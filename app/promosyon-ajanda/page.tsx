@@ -183,19 +183,9 @@ export default function PromosyonAjandaPage() {
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Promosyon ajanda modelleri, markanızı yıl boyunca görünür kılan en güçlü
-            kurumsal promosyon ürünleri arasında yer alır. Logo baskılı ajanda
-            çeşitleri; ofis kullanımı, müşteri hediyesi, bayi dağıtımı, fuar,
-            toplantı ve kurumsal etkinliklerde hem prestijli hem de kullanışlı bir
-            tanıtım çözümü sunar.
-          </p>
-
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            FirmaPromosyon’da yer alan promosyon ajanda ürünleri, farklı kapak
-            yapıları, iç tasarımlar ve baskı seçenekleri ile kurumsal ihtiyaçlara
-            uygun şekilde sunulmaktadır. Minimum sipariş adetleri, stok uygunluğu,
-            renk seçenekleri ve baskı detayları ürün bazında değişebilir. Sipariş
-            öncesinde güncel bilgi ve teklif alınması önerilir.
+            Logo baskılı promosyon ajanda modellerini inceleyebilir, firmanız
+            için toplu sipariş ve hızlı teklif avantajlarından
+            yararlanabilirsiniz.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">
@@ -223,16 +213,16 @@ export default function PromosyonAjandaPage() {
             href={`/urunler/${p.slug}`}
             className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
           >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
+            <div className="relative aspect-square w-full overflow-hidden rounded-xl border border-gray-100 bg-white">
               <Image
-  src={p.image}
-  alt={p.title}
-  fill
-  unoptimized
-  loading="lazy"
-  className="object-contain p-4"
-  sizes="(max-width: 768px) 100vw, 33vw"
-/>
+                src={p.image}
+                alt={p.title}
+                fill
+                unoptimized
+                loading="lazy"
+                className="object-contain p-4"
+                sizes="(max-width: 768px) 100vw, 33vw"
+              />
             </div>
 
             <div className="mt-4">
@@ -245,6 +235,18 @@ export default function PromosyonAjandaPage() {
               <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
                 {p.shortDesc}
               </p>
+
+              {p.price && (
+                <div className="mt-3">
+                  <div className="text-base font-bold text-gray-900">
+                    {p.price.toLocaleString("tr-TR")} TL + KDV
+                  </div>
+
+                  <div className="mt-1 text-xs font-medium text-green-600">
+                    Fiyatlar baskı hariç olup referans niteliğindedir. Sipariş adedi ve baskı detaylarına göre özel fiyatlandırma yapılmaktadır. Ürünler stok durumuna göre temin edilmektedir. Size özel en avantajlı teklif için WhatsApp üzerinden bizimle iletişime geçebilirsiniz.
+                  </div>
+                </div>
+              )}
 
               <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
                 Ürünü İncele
@@ -268,6 +270,22 @@ export default function PromosyonAjandaPage() {
             <h2 className="text-2xl font-bold text-white">
               Logo Baskılı Promosyon Ajanda Modelleri
             </h2>
+
+            <p>
+              Promosyon ajanda modelleri, markanızı yıl boyunca görünür kılan en güçlü
+              kurumsal promosyon ürünleri arasında yer alır. Logo baskılı ajanda
+              çeşitleri; ofis kullanımı, müşteri hediyesi, bayi dağıtımı, fuar,
+              toplantı ve kurumsal etkinliklerde hem prestijli hem de kullanışlı bir
+              tanıtım çözümü sunar.
+            </p>
+
+            <p>
+              FirmaPromosyon’da yer alan promosyon ajanda ürünleri, farklı kapak
+              yapıları, iç tasarımlar ve baskı seçenekleri ile kurumsal ihtiyaçlara
+              uygun şekilde sunulmaktadır. Minimum sipariş adetleri, stok uygunluğu,
+              renk seçenekleri ve baskı detayları ürün bazında değişebilir. Sipariş
+              öncesinde güncel bilgi ve teklif alınması önerilir.
+            </p>
 
             <p>
               Logo baskılı promosyon ajanda ürünleri, markanızı kullanıcıların

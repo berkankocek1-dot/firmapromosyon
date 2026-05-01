@@ -2137,6 +2137,7 @@ Kurumsal promosyon ürünleri arasında yer alan powerbank modelleri marka tanı
   id: "p59",
   slug: "promosyon-ajanda-17x23-termo-deri-aj-100",
   title: "Promosyon Ajanda 17,5 x 23,5 cm AJ-100 | Logo Baskılı Kurumsal Ajanda",
+  price: 216,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-100.jpg",
 
@@ -2397,6 +2398,7 @@ Promosyon defterler özellikle fuarlar, kurumsal etkinlikler ve müşteri ziyare
   id: "p66",
   slug: "promosyon-ajanda-17x24-termo-aj-110",
   title: "Promosyon Ajanda 17 x 24 cm AJ-110 | Logo Baskılı Kurumsal Ajanda",
+  price: 260,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-110.jpg",
 
@@ -2434,6 +2436,7 @@ Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fu
   id: "p67",
   slug: "promosyon-ajanda-17x24-termo-deri-aj-120",
   title: "Promosyon Ajanda 17 x 24 cm AJ-120 | Logo Baskılı Kurumsal Ajanda",
+  price: 208,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-120.jpg",
 
@@ -2474,6 +2477,7 @@ Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fu
   id: "p68",
   slug: "promosyon-ajanda-17x24-termo-deri-aj-130",
   title: "Promosyon Ajanda 17 x 24 cm AJ-130 | Logo Baskılı Termo Deri Ajanda",
+  price: 246,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-130.jpg",
 
@@ -2513,6 +2517,7 @@ Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fu
   id: "p69",
   slug: "promosyon-ajanda-17x24-termo-deri-aj-140",
   title: "Promosyon Ajanda 17 x 24 cm AJ-140 | Logo Baskılı Kurumsal Ajanda",
+  price: 216,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-140.jpg",
 
@@ -2548,6 +2553,7 @@ Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fu
   id: "p70",
   slug: "promosyon-ajanda-16x24-termo-deri-aj-150",
   title: "Promosyon Ajanda 16 x 24 cm AJ-150 | Logo Baskılı Termo Deri Ajanda",
+  price: 156,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-150.jpg",
 
@@ -3189,6 +3195,7 @@ Promosyon powerbank siparişleri toplu üretim olarak hazırlanmakta olup kurums
   id: "p88",
   slug: "promosyon-ajanda-16x24-termo-deri-aj-160",
   title: "Promosyon Ajanda 16 x 24 cm AJ-160 | Logo Baskılı Termo Deri Kurumsal Ajanda",
+  price: 168,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-160.jpg",
 
@@ -3228,6 +3235,7 @@ Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fu
   id: "p89",
   slug: "promosyon-ajanda-16x24-termo-deri-aj-170",
   title: "Promosyon Ajanda 16 x 24 cm AJ-170 | Logo Baskılı Termo Deri Kurumsal Ajanda",
+  price: 164,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-170.jpg",
 
@@ -3268,6 +3276,7 @@ Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fu
   id: "p90",
   slug: "promosyon-ajanda-17x24-termo-pu-aj-180",
   title: "Promosyon Ajanda 17 x 24 cm AJ-180 | Logo Baskılı Termo PU Kurumsal Ajanda",
+  price: 246,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-180.jpg",
 
@@ -3309,6 +3318,7 @@ Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fu
   id: "p91",
   slug: "promosyon-ajanda-17x24-termo-deri-aj-190",
   title: "Promosyon Ajanda 17 x 24 cm AJ-190 | Logo Baskılı Termo Deri Kurumsal Ajanda",
+  price: 280,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-190.jpg",
 
@@ -26306,7 +26316,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p456",
   slug: "promosyon-ajanda-aj-200",
   title: "Promosyon Ajanda AJ-200 | Termo Deri Kapak, 17x24 cm, 336 Sayfa",
-
+  price: 274,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-200.jpg",
 
@@ -26377,7 +26387,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p457",
   slug: "promosyon-ajanda-aj-210",
   title: "Promosyon Ajanda AJ-210 | Termo Deri, 16x24 cm, 320 Sayfa",
-
+  price: 168,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-210.jpg",
 
@@ -26449,7 +26459,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p458",
   slug: "promosyon-ajanda-aj-220",
   title: "Promosyon Ajanda AJ-220 | Termo Deri Kapak, 16.5x22 cm, 336 Sayfa",
-
+  price: 254,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-220.jpg",
 
@@ -26521,7 +26531,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p459",
   slug: "promosyon-ajanda-aj-230",
   title: "Promosyon Ajanda AJ-230 | Termo Deri Kapak, 17.5x24 cm, 336 Sayfa",
-
+  price: 290,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-230.jpg",
 
@@ -26593,7 +26603,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p460",
   slug: "promosyon-ajanda-aj-240",
   title: "Promosyon Ajanda AJ-240 | Termo Deri Kapak, 17.5x24 cm, 336 Sayfa",
-
+  price: 274,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-240.jpg",
 
@@ -26665,7 +26675,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p461",
   slug: "promosyon-ajanda-aj-250",
   title: "Promosyon Ajanda AJ-250 | Termo Deri Kapak, 17x24 cm, 336 Sayfa",
-
+  price: 256,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-250.jpg",
 
@@ -26737,7 +26747,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p462",
   slug: "promosyon-ajanda-aj-260",
   title: "Promosyon Ajanda AJ-260 | Termo Deri Kapak, 16.5x22 cm, 336 Sayfa",
-
+  price: 254,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-260.jpg",
 
@@ -26809,7 +26819,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p463",
   slug: "promosyon-ajanda-aj-270",
   title: "Promosyon Spiralli Ajanda AJ-270 | Termo Deri Kapak, 17x24 cm, Tarihli",
-
+  price: 230,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-270.jpg",
 
@@ -26882,7 +26892,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p464",
   slug: "promosyon-ajanda-aj-280",
   title: "Promosyon Ajanda AJ-280 | Termo PU Sert Kapak, 17x24 cm, 320 Sayfa",
-
+  price: 168,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-280.jpg",
 
@@ -26953,7 +26963,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p465",
   slug: "promosyon-ajanda-aj-290",
   title: "Promosyon Gizli Spiralli Ajanda AJ-290 | Termo Deri, 17x24 cm, Tarihli",
-
+  price: 260,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-290.jpg",
 
@@ -27026,7 +27036,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p466",
   slug: "promosyon-ajanda-aj-300",
   title: "Promosyon Büyük Ajanda AJ-300 | Termo PU Sert Kapak, 20x28 cm, 336 Sayfa",
-
+  price: 336,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-300.jpg",
 
@@ -27093,7 +27103,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p467",
   slug: "promosyon-ajanda-aj-310",
   title: "Promosyon Ajanda AJ-310 | Renkli Kenar, Termo Deri, 17x24 cm, Tarihli",
-
+  price: 196,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-310.jpg",
 
@@ -27165,7 +27175,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p468",
   slug: "promosyon-ajanda-aj-320",
   title: "Promosyon Ajanda AJ-320 | Termo PU Sert Kapak, 17x24 cm, 320 Sayfa",
-
+  price: 176,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-320.jpg",
 
