@@ -144,7 +144,7 @@ export default function CategoryProductsClient({
     </div>
 
     <div className="mt-1 text-xs font-medium text-green-600">
-       Fiyatlar baskı hariç olup referans niteliğindedir. Sipariş adedi ve baskı detaylarına göre özel fiyatlandırma yapılmaktadır. Ürünler stok durumuna göre temin edilmektedir. Size özel en avantajlı teklif için WhatsApp üzerinden bizimle iletişime geçebilirsiniz.
+       Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.
     </div>
   </div>
 )}
