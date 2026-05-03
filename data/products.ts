@@ -2065,6 +2065,7 @@ Eğer firmanız için ekonomik ve kullanışlı bir promosyon ürünü arıyorsa
   id: "p57",
   slug: "promosyon-powerbank-8000mah-pb-100",
   title: "Promosyon Powerbank 8000 mAh PB-100 | Logo Baskılı Powerbank",
+  price: 1580,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-8000mah-pb-100.jpg",
 
@@ -2101,6 +2102,7 @@ Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır. Logo bask
   id: "p58",
   slug: "promosyon-powerbank-13000mah-pb-110",
   title: "Promosyon Powerbank 13000 mAh PB-110 | Logo Baskılı Powerbank",
+  price: 1040,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-13000mah-pb-110.jpg",
 
@@ -2892,6 +2894,7 @@ Logo baskılı promosyon duvar saati siparişleri toplu üretim olarak hazırlan
   id: "p80",
   slug: "promosyon-powerbank-10000mah-pb-111",
   title: "Promosyon Powerbank 10.000 mAh PB-111 | Logo Baskılı Kurumsal Powerbank",
+  price: 550,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-pb-111.jpg",
 
@@ -2923,6 +2926,7 @@ Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanma
   id: "p81",
   slug: "promosyon-powerbank-10000mah-22-5w-hizli-sarj-pb-112",
   title: "Promosyon Powerbank 10.000 mAh 22.5W Hızlı Şarj PB-112 | Logo Baskılı Powerbank",
+  price: 720,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-pb-112.jpg",
 
@@ -2955,6 +2959,7 @@ Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanma
   id: "p82",
   slug: "promosyon-powerbank-10000mah-wireless-pb-113",
   title: "Promosyon Powerbank 10.000 mAh Wireless PB-113 | Logo Baskılı Kablosuz Powerbank",
+  price: 1220,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-pb-113.jpg",
 
@@ -2991,6 +2996,7 @@ Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanma
   id: "p83",
   slug: "promosyon-powerbank-10000mah-wireless-led-fenerli-pb-115",
   title: "Promosyon Powerbank 10.000 mAh Wireless LED Fenerli PB-115 | Logo Baskılı Powerbank",
+  price: 815,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-pb-115.jpg",
 
@@ -3033,6 +3039,7 @@ Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanma
   id: "p84",
   slug: "promosyon-powerbank-10000mah-wireless-ayakli-standli-pb-120",
   title: "Promosyon Powerbank 10.000 mAh Wireless Ayaklı Standlı PB-120 | Logo Baskılı Powerbank",
+ price: 980,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-pb-120.jpg",
 
@@ -3072,6 +3079,7 @@ Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanma
   id: "p85",
   slug: "promosyon-powerbank-10000mah-wireless-lightup-logo-pb-130",
   title: "Promosyon Powerbank 10.000 mAh Wireless Light-Up Logo PB-130 | Logo Baskılı Powerbank",
+  price: 920,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-pb-130.jpg",
 
@@ -3113,6 +3121,7 @@ Logo baskılı promosyon powerbank siparişleri toplu üretim olarak hazırlanma
   id: "p86",
   slug: "promosyon-powerbank-20000mah-led-fenerli-pb-140",
   title: "Promosyon Powerbank 20.000 mAh LED Fenerli PB-140 | Logo Baskılı Powerbank",
+  price: 1160,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-pb-140.jpg",
 
@@ -3156,6 +3165,7 @@ Promosyon powerbank siparişleri toplu üretim olarak hazırlanmakta olup kurums
   id: "p87",
   slug: "promosyon-powerbank-20000mah-pb-150",
   title: "Promosyon Powerbank 20.000 mAh PB-150 | Logo Baskılı Kurumsal Powerbank",
+  price: 740,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-pb-150.jpg",
 
@@ -12468,7 +12478,7 @@ Müşteri ve bayi hediyeleri
   id: "p263",
   slug: "promosyon-powerbank-10000mah-pb-160",
   title: "Promosyon Powerbank 10.000 mAh PB-160 | Logo Baskılı Powerbank",
-
+  price: 730,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-10000mah-pb-160.jpg",
 
@@ -12557,7 +12567,7 @@ VIP müşteri hediyeleri
   id: "p264",
   slug: "promosyon-powerbank-10000mah-pb-170",
   title: "Promosyon Powerbank 10.000 mAh PB-170 | Logo Baskılı Powerbank",
-
+  price: 730,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-10000mah-pb-170.jpg",
 
@@ -12651,7 +12661,7 @@ Acil durum ve günlük kullanım
   id: "p265",
   slug: "promosyon-powerbank-10000mah-pb-180",
   title: "Promosyon Powerbank 10.000 mAh PB-180 | Logo Baskılı Powerbank",
-
+  price: 640,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-10000mah-pb-180.jpg",
 
@@ -12741,7 +12751,7 @@ Acil durum kullanımları
   id: "p266",
   slug: "promosyon-powerbank-5000mah-pb-190",
   title: "Promosyon Powerbank 5.000 mAh PB-190 | Magsafe Logo Baskılı Powerbank",
-
+  price: 810,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-5000mah-pb-190.jpg",
 
@@ -12826,7 +12836,7 @@ Günlük mobil kullanım
   id: "p267",
   slug: "promosyon-powerbank-5000mah-pb-200",
   title: "Promosyon Powerbank 5.000 mAh PB-200 | Magsafe Kablosuz Powerbank",
-
+  price: 500,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-5000mah-pb-200.jpg",
 
@@ -12912,7 +12922,7 @@ Günlük mobil kullanım
   id: "p268",
   slug: "promosyon-powerbank-10000mah-pb-210",
   title: "Promosyon Powerbank 10.000 mAh PB-210 | Magsafe & Kablolu Hızlı Şarj",
-
+  price: 1220,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-10000mah-pb-210.jpg",
 
@@ -13010,7 +13020,7 @@ Günlük ve profesyonel kullanım
   id: "p269",
   slug: "promosyon-powerbank-20000mah-pb-220",
   title: "Promosyon Powerbank 20.000 mAh PB-220 | Logo Baskılı Yüksek Kapasiteli Powerbank",
-
+  price: 1020,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-20000mah-pb-220.jpg",
 
@@ -13099,7 +13109,7 @@ Seyahat ve uzun süreli kullanım
   id: "p270",
   slug: "promosyon-powerbank-10000mah-pb-230",
   title: "Promosyon Powerbank 10.000 mAh PB-230 | 4 in 1 Magsafe Hızlı Şarj",
-
+  price: 1360,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-10000mah-pb-230.jpg",
 
@@ -18414,7 +18424,7 @@ Prestijli marka tanıtımları
   id: "p355",
   slug: "promosyon-powerbank-10000mah-pb-240",
   title: "Promosyon Powerbank 10.000 mAh PB-240 | Logo Baskılı Hızlı Şarj Powerbank",
-
+  price: 900,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-10000mah-pb-240.jpg",
 
@@ -18496,7 +18506,7 @@ Günlük kullanım
   id: "p356",
   slug: "promosyon-powerbank-10000mah-pb-250",
   title: "Promosyon Powerbank 10.000 mAh PB-250 | Logo Baskılı Taşınabilir Şarj Cihazı",
-
+  price: 1400,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-10000mah-pb-250.jpg",
 
@@ -18570,7 +18580,7 @@ Günlük kullanım
   id: "p357",
   slug: "promosyon-powerbank-10000mah-pb-260",
   title: "Promosyon Powerbank 10.000 mAh PB-260 | Işıklı Logo Baskılı Powerbank",
-
+  price: 760,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-10000mah-pb-260.jpg",
 
@@ -18652,7 +18662,7 @@ Günlük kullanım
   id: "p358",
   slug: "promosyon-powerbank-5000mah-pb-270",
   title: "Promosyon Powerbank 5.000 mAh PB-270 | Işıklı Logo Baskılı Powerbank",
-
+  price: 520,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-5000mah-pb-270.jpg",
 
@@ -18734,7 +18744,7 @@ Günlük kullanım
   id: "p359",
   slug: "promosyon-powerbank-10000mah-pb-280",
   title: "Promosyon Powerbank 10.000 mAh PB-280 | Logo Baskılı Ekonomik Powerbank",
-
+  price: 420,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-10000mah-pb-280.jpg",
 
@@ -18816,7 +18826,7 @@ Günlük kullanım
   id: "p360",
   slug: "promosyon-powerbank-5000mah-pb-290",
   title: "Promosyon Powerbank 5.000 mAh PB-290 | Logo Baskılı Ekonomik Powerbank",
-
+  price: 350,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-5000mah-pb-290.jpg",
 
@@ -18898,7 +18908,7 @@ Günlük kullanım
   id: "p361",
   slug: "promosyon-powerbank-20000mah-pb-300",
   title: "Promosyon Powerbank 20.000 mAh PB-300 | Logo Baskılı Yüksek Kapasiteli Powerbank",
-
+  price: 730,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-20000mah-pb-300.jpg",
 
@@ -19000,7 +19010,7 @@ Uzun süreli seyahat ve günlük kullanım
   id: "p362",
   slug: "promosyon-powerbank-10000mah-pb-310",
   title: "Promosyon Powerbank 10.000 mAh PB-310 | Logo Baskılı İnce Tasarım Powerbank",
-
+  price: 470,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-10000mah-pb-310.jpg",
 
@@ -19103,7 +19113,7 @@ Günlük kullanım
   id: "p363",
   slug: "promosyon-powerbank-10000mah-pb-320",
   title: "Promosyon Powerbank 10.000 mAh PB-320 | Magsafe & Wireless Şarjlı Premium Powerbank",
-
+  price: 1100,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-10000mah-pb-320.jpg",
 
@@ -20410,7 +20420,7 @@ Müşteri hediyeleri
   id: "p380",
   slug: "promosyon-powerbank-10000mah-pb-330",
   title: "Promosyon Powerbank 10.000 mAh PB-330 | Işıklı Logo Özellikli Taşınabilir Şarj Cihazı",
-
+  price: 700,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-pb-330.jpg",
 
@@ -20508,7 +20518,7 @@ Reklam ve tanıtım kampanyaları
   id: "p381",
   slug: "promosyon-powerbank-organizer-6500mah-pb-350",
   title: "Promosyon Powerbank Organizer 6.500 mAh PB-350 | Kablosuz Şarjlı PU Deri Organizer Set",
-
+  price: 3400,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-organizer-pb-350.jpg",
 
@@ -20608,7 +20618,7 @@ Reklam ve tanıtım kampanyaları
   id: "p382",
   slug: "promosyon-powerbank-organizer-pb-360",
   title: "Promosyon Powerbank Organizer PB-360 | Işıklı Logolu PU Deri Organizer",
-
+  price: 2560,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-organizer-pb-360.jpg",
 
@@ -32232,7 +32242,7 @@ Kurumsal hediye alternatifleri
   slug: "promosyon-powerbank-organizer-pb-370-6500mah-logolu",
 
   title: "Promosyon Powerbank Organizer PB-370 (6500 mAh) | Logolu Şarjlı Organizer",
-
+  price: 2720,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-organizer-pb-370.jpg",
 
@@ -32295,7 +32305,7 @@ Ofis ve iş hayatı kullanımı
   slug: "promosyon-powerbank-organizer-pb-380-6000mah-logolu",
 
   title: "Promosyon Powerbank Organizer PB-380 (6000 mAh) | Logolu Şarjlı Organizer Defter",
-
+  price: 2960,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-organizer-pb-380.jpg",
 
@@ -32358,7 +32368,7 @@ Ofis ve iş hayatı kullanımı
   slug: "promosyon-powerbank-organizer-pb-390-8000mah-isikli-logolu",
 
   title: "Promosyon Powerbank Organizer PB-390 (8000 mAh) | Işıklı Logolu Premium Organizer",
-
+  price: 2650,
   category: "Powerbank",
   image: "/products/promosyon-powerbank-organizer-pb-390.jpg",
 
@@ -32412,7 +32422,7 @@ Ofis ve iş hayatı kullanımı
   slug: "promosyon-wireless-stand-set-pb-400-15w-hizli-sarj",
 
   title: "Promosyon Wireless Stand Set PB-400 | 15W Hızlı Şarjlı 3’lü Stand",
-
+  price: 680,
   category: "Powerbank",
   image: "/products/promosyon-wireless-stand-set-pb-400.jpg",
 
@@ -32472,7 +32482,7 @@ Fuar ve etkinlik dağıtımları
   slug: "promosyon-standli-wireless-sarj-pb-410-isikli-logolu",
 
   title: "Promosyon Standlı Wireless Şarj PB-410 | Işıklı Logolu 10W Hızlı Şarj Standı",
-
+  price: 444,
   category: "Powerbank",
   image: "/products/promosyon-standli-wireless-sarj-pb-410.jpg",
 
@@ -32532,7 +32542,7 @@ VIP müşteri promosyonları
   slug: "promosyon-wireless-sarj-standi-pb-420-15w-typec",
 
   title: "Promosyon Wireless Şarj Standı PB-420 | 15W Type-C Hızlı Şarj Standı",
-
+  price: 500,
   category: "Powerbank",
   image: "/products/promosyon-wireless-sarj-standi-pb-420.jpg",
 
@@ -32595,7 +32605,7 @@ Günlük kullanım
   slug: "promosyon-wireless-stand-set-pb-425-3lu-15w-typec",
 
   title: "Promosyon Wireless Stand Set PB-425 | 3’lü 15W Type-C Şarj Standı",
-
+  price: 714,
   category: "Powerbank",
   image: "/products/promosyon-wireless-stand-set-pb-425.jpg",
 
@@ -32658,7 +32668,7 @@ Fuar ve etkinlik dağıtımları
   slug: "promosyon-wireless-stand-set-pb-430-isikli-logolu-15w",
 
   title: "Promosyon Wireless Stand Set PB-430 | Işıklı Logolu 3’lü 15W Şarj Standı",
-
+  price: 768.40,
   category: "Powerbank",
   image: "/products/promosyon-wireless-stand-set-pb-430.jpg",
 
