@@ -5456,7 +5456,7 @@ Promosyon makam bayrağı siparişleri toplu üretim olarak hazırlanmakta olup 
   id: "p136",
   slug: "promosyon-kutulu-sarj-kablo-seti-kbl-350",
   title: "Promosyon Kutulu Şarj Kablo Seti KBL-350 | Logo Baskılı Şarj Kablosu Seti",
-
+  price: 350,
   category: "Teknolojik Ürünler",
 
   image: "/products/promosyon-kutulu-sarj-kablo-seti-kbl-350.jpg",
@@ -24505,7 +24505,7 @@ Müşteri ve çalışan hediyeleri
   id: "p433",
   slug: "promosyon-kutulu-sarj-kablo-seti-kbl-360",
   title: "Promosyon Kutulu Şarj Kablo Seti KBL-360 | Çoklu Uç, Taşınabilir, Teknolojik Hediye",
-
+  price: 250,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-kutulu-sarj-kablo-seti-kbl-360.jpg",
 
@@ -24581,7 +24581,7 @@ Marka tanıtım çalışmaları
   id: "p434",
   slug: "promosyon-kutulu-sarj-kablo-seti-kbl-370",
   title: "Promosyon Kutulu Şarj Kablo Seti KBL-370 | Katlanabilir Kasa, Çoklu Uç, Premium Teknolojik Set",
-
+  price: 240,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-kutulu-sarj-kablo-seti-kbl-370.jpg",
 
@@ -24657,7 +24657,7 @@ Marka tanıtım çalışmaları
   id: "p435",
   slug: "promosyon-coklu-isikli-kablo-kbl-380",
   title: "Promosyon Çoklu Işıklı Şarj Kablosu KBL-380 | LED Logolu, 3 Uçlu, Premium Teknolojik Ürün",
-
+  price: 360,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-coklu-isikli-kablo-kbl-380.jpg",
 
@@ -24734,7 +24734,7 @@ Marka tanıtım çalışmaları
   id: "p436",
   slug: "promosyon-coklu-sarj-kablosu-kbl-390",
   title: "Promosyon Çoklu Şarj Kablosu KBL-390 | Anahtarlıklı, 3 Uçlu, Taşınabilir Teknolojik Ürün",
-
+  price: 96,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-coklu-sarj-kablosu-kbl-390.jpg",
 
@@ -24807,7 +24807,7 @@ Marka bilinirliği çalışmaları
   id: "p437",
   slug: "promosyon-8-fonksiyonlu-type-c-cogaltici-kbl-400",
   title: "Promosyon 8 Fonksiyonlu Type-C Hub KBL-400 | Çoklayıcı, HDMI, USB, Kart Okuyucu",
-
+  price: 948,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-8-fonksiyonlu-type-c-cogaltici-kbl-400.jpg",
 
@@ -24891,7 +24891,7 @@ Marka prestij ürünleri
   id: "p438",
   slug: "promosyon-kablo-cogaltici-kbl-410",
   title: "Promosyon Kablo Çoğaltıcı KBL-410 | LED Işıklı Logo, 3 Uçlu (Micro, iOS, Type-C), CarPlay Destekli",
-
+  price: 304,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-kablo-cogaltici-kbl-410.jpg",
 
@@ -24967,7 +24967,7 @@ Marka tanıtım çalışmaları
   id: "p439",
   slug: "promosyon-ios-micro-usb-type-c-led-isikli-kablo-kbl-420",
   title: "Promosyon LED Işıklı Çoklu Şarj Kablosu KBL-420 | iOS, Micro USB, Type-C, Anahtarlıklı",
-
+  price: 160,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-ios-micro-usb-type-c-led-isikli-kablo-kbl-420.jpg",
 
@@ -25040,7 +25040,7 @@ Marka bilinirliği çalışmaları
   id: "p440",
   slug: "promosyon-bluetooth-speaker-spk-435",
   title: "Promosyon Bluetooth Hoparlör SPK-435 | Bluetooth 5.3, Taşınabilir, Lazer Baskı",
-
+  price: 430,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-bluetooth-speaker-spk-435.jpg",
 
@@ -25125,7 +25125,7 @@ Marka tanıtım çalışmaları
   id: "p441",
   slug: "promosyon-bluetooth-hoparlor-spk-440",
   title: "Promosyon Bluetooth Hoparlör SPK-440 | Kompakt, Taşınabilir, Güçlü Ses Performansı",
-
+  price: 410,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-bluetooth-hoparlor-spk-440.jpg",
 
@@ -25198,7 +25198,7 @@ Marka tanıtım çalışmaları
   id: "p442",
   slug: "promosyon-bluetooth-hoparlor-spk-445",
   title: "Promosyon Bluetooth Hoparlör SPK-445 | Mini, 3W Güç, 10m Çekim Mesafesi",
-
+  price: 840,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-bluetooth-hoparlor-spk-445.jpg",
 
@@ -25283,7 +25283,7 @@ Marka bilinirliği çalışmaları
   id: "p443",
   slug: "promosyon-bluetooth-speaker-spk-450",
   title: "Promosyon Bluetooth Hoparlör SPK-450 | 5.0 Bağlantı, 3 Saat Çalma, Premium Tasarım",
-
+  price: 680,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-bluetooth-speaker-spk-450.jpg",
 
@@ -25395,7 +25395,7 @@ Marka tanıtım çalışmaları
   id: "p444",
   slug: "promosyon-wireless-sarj-hoparlor-spk-460",
   title: "Promosyon Wireless Şarj & Bluetooth Hoparlör SPK-460 | 15W, LED Logo, 2'si 1 Arada",
-
+  price: 1310,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-wireless-sarj-hoparlor-spk-460.jpg",
 
@@ -25499,7 +25499,7 @@ Marka prestij ürünleri
   id: "p445",
   slug: "promosyon-wireless-sarj-hoparlor-spk-470",
   title: "Promosyon Wireless Şarj & Bluetooth Hoparlör SPK-470 | 3'lü Şarj (Telefon, Saat, Kulaklık), LED Logo",
-
+  price: 1860,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-wireless-sarj-hoparlor-spk-470.jpg",
 
@@ -25603,7 +25603,7 @@ Premium marka tanıtımı
   id: "p446",
   slug: "promosyon-wireless-sarj-istasyonu-tt-475",
   title: "Promosyon Wireless Şarj İstasyonu TT-475 | 3'lü Şarj, LED Logo, Masaüstü Stand",
-
+  price: 1580,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-wireless-sarj-istasyonu-tt-475.jpg",
 
@@ -34716,7 +34716,7 @@ Günlük planlama ve ajanda kullanımı
   slug: "promosyon-wireless-sarj-istasyonu-tt-476-coklu-cihaz-standli",
 
   title: "Promosyon Wireless Şarj İstasyonu TT-476 | Çoklu Cihaz Destekli Standlı Hızlı Şarj Ünitesi",
-
+  price: 1040,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-wireless-sarj-istasyonu-tt-476.jpg",
 
@@ -34775,7 +34775,7 @@ Teknolojik promosyon kampanyaları
   slug: "promosyon-wireless-sarj-cihazi-tt-477-standli-hizli-sarj",
 
   title: "Promosyon Wireless Şarj Cihazı TT-477 | Standlı Hızlı Şarj Özellikli Masaüstü Şarj Ünitesi",
-
+  price: 520,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-wireless-sarj-cihazi-tt-477.jpg",
 
@@ -34831,7 +34831,7 @@ Teknoloji odaklı promosyon kampanyaları
 {
   id: "p590",
   slug: "promosyon-arac-ici-telefon-tutucu-tt-480-magsafe-wireless-sarjli",
-
+  price: 640,
   title: "Promosyon Araç İçi Telefon Tutucu TT-480 | 22.5W MagSafe Wireless Şarjlı Manyetik Araç Tutucu",
 
   category: "Teknolojik Ürünler",
@@ -34892,7 +34892,7 @@ Saha ekipleri ve sürücüler için kullanım
 {
   id: "p591",
   slug: "promosyon-arac-ici-telefon-tutucu-tt-490-manyetik-kompakt",
-
+  price: 128,
   title: "Promosyon Araç İçi Telefon Tutucu TT-490 | Manyetik Kompakt Tasarım Telefon Sabitleyici",
 
   category: "Teknolojik Ürünler",
@@ -34951,7 +34951,7 @@ Fuar ve etkinlik dağıtımları
 {
   id: "p592",
   slug: "promosyon-telefon-standi-tt-500-katlanabilir-masaustu",
-
+  price: 115,
   title: "Promosyon Telefon Standı TT-500 | Katlanabilir Ayarlanabilir Masaüstü Telefon Tutucu",
 
   category: "Teknolojik Ürünler",
@@ -35012,7 +35012,7 @@ Fuar ve etkinlik dağıtımları
   slug: "promosyon-telefon-standi-tt-510-katlanabilir-plastik",
 
   title: "Promosyon Telefon Standı TT-510 | Katlanabilir Plastik Masaüstü Telefon Tutucu (Renkli Seçenekler)",
-
+  price: 38.80,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-telefon-standi-tt-510.jpg",
 
@@ -35072,7 +35072,7 @@ Müşteri ve çalışan hediyeleri
   slug: "promosyon-arac-ici-telefon-tutucu-tt-520-15w-magsafe-wireless",
 
   title: "Promosyon Araç İçi Telefon Tutucu TT-520 | 15W MagSafe Wireless Şarjlı Manyetik Araç Tutucu",
-
+  price: 520,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-arac-ici-telefon-tutucu-tt-520.jpg",
 
@@ -35135,7 +35135,7 @@ Saha ekipleri ve sürücüler için kullanım
   slug: "promosyon-ayakli-aynali-telefon-standi-tt-530-katlanabilir",
 
   title: "Promosyon Ayaklı Aynalı Telefon Standı TT-530 | Katlanabilir Masaüstü Aynalı Telefon Tutucu",
-
+  price: 230,
   category: "Teknolojik Ürünler",
   image: "/products/promosyon-ayakli-aynali-telefon-standi-tt-530.jpg",
 
