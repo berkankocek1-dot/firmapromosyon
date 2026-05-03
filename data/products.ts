@@ -4643,7 +4643,7 @@ Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta 
   id: "p121",
   slug: "promosyon-kalem-seti-ks-100",
   title: "Promosyon Kalem Seti KS-100 | Logo Baskılı Kurumsal Kalem Seti",
-
+  price: 560,
   category: "Kalem Setleri",
 
   image: "/products/promosyon-kalem-seti-ks-100.jpg",
@@ -5788,6 +5788,7 @@ Promosyon kupa siparişleri toplu üretim olarak hazırlanmakta olup minimum sip
   id: "p142",
   slug: "promosyon-kalem-seti-ks-110",
   title: "Promosyon Kalem Seti KS-110 | Logo Baskılı Kurumsal Kalem Seti",
+  price: 410,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-110.jpg",
 
@@ -5838,6 +5839,7 @@ Promosyon kalem seti siparişleri toplu üretim şeklinde hazırlanmakta olup ba
   id: "p143",
   slug: "promosyon-kalem-seti-ks-120",
   title: "Promosyon Kalem Seti KS-120 | Logo Baskılı Kurumsal Kalem Seti",
+  price: 584,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-120.jpg",
 
@@ -21144,7 +21146,7 @@ Müşteri ve çalışan hediyeleri
   id: "p388",
   slug: "promosyon-kalem-seti-ks-130",
   title: "Promosyon Kalem Seti KS-130 | Lazer ve Serigraf Baskılı Kurumsal Kalem Seti",
-
+  price: 540,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-130.jpg",
 
@@ -32752,7 +32754,7 @@ Ofis masaüstü kullanım ürünleri
   slug: "promosyon-kalem-seti-ks-140-luks-metal-kutu",
 
   title: "Promosyon Kalem Seti KS-140 | Lüks Metal Tükenmez & Roller Kalem Seti",
-
+  price: 418,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-140.jpg",
 
@@ -32810,7 +32812,7 @@ Ofis kullanım ürünleri
   slug: "promosyon-kalem-seti-ks-150-metal-luks-kutulu",
 
   title: "Promosyon Kalem Seti KS-150 | Metal Gövdeli Lüks Kutulu Tükenmez & Roller Set",
-
+  price: 365,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-150.jpg",
 
@@ -32868,7 +32870,7 @@ Ofis kullanım ürünleri
   slug: "promosyon-kalem-seti-ks-160-modern-metal-kutulu",
 
   title: "Promosyon Kalem Seti KS-160 | Modern Metal Roller & Tükenmez Kalem Seti",
-
+  price: 410,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-160.jpg",
 
@@ -32926,7 +32928,7 @@ Ofis ve masaüstü kullanım ürünleri
   slug: "promosyon-kalem-seti-ks-180-modern-sade-kutulu",
 
   title: "Promosyon Kalem Seti KS-180 | Modern Tasarım Roller & Tükenmez Kalem Seti",
-
+  price: 444,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-180.jpg",
 
@@ -32984,7 +32986,7 @@ Ofis kullanım ürünleri
   slug: "promosyon-kalem-seti-ks-190-parlak-modern-kutulu",
 
   title: "Promosyon Kalem Seti KS-190 | Parlak Gövdeli Roller & Tükenmez Kalem Seti",
-
+  price: 444,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-190.jpg",
 
@@ -33044,7 +33046,7 @@ Ofis kullanım ürünleri
   slug: "promosyon-kalem-anahtarlik-seti-ks-200-luks",
 
   title: "Promosyon Kalem Seti KS-200 | Kalem & Anahtarlık Hediyelik Set",
-
+  price: 340,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-200.jpg",
 
@@ -33103,7 +33105,7 @@ Uzun süreli reklam ürünleri
   slug: "promosyon-kalem-anahtarlik-seti-ks-210-deri-metal",
 
   title: "Promosyon Kalem Seti KS-210 | Deri & Metal Anahtarlıklı Premium Hediye Seti",
-
+  price: 240,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-210.jpg",
 
@@ -33164,7 +33166,7 @@ Uzun süreli reklam ürünleri
   slug: "promosyon-kalem-anahtarlik-seti-ks-220-mat-premium",
 
   title: "Promosyon Kalem Seti KS-220 | Mat Metal Kalem & Anahtarlık Hediye Seti",
-
+  price: 280,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-220.jpg",
 
@@ -33221,7 +33223,7 @@ Uzun süreli reklam ürünleri
   slug: "promosyon-kalem-anahtarlik-seti-ks-230-vip-metal",
 
   title: "Promosyon Kalem Seti KS-230 | Metal Kalem & Anahtarlık VIP Hediye Seti",
-
+  price: 320,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-230.jpg",
 
@@ -33278,7 +33280,7 @@ Uzun süreli reklam ürünleri
   slug: "promosyon-kalem-seti-ks-235-ozel-tasarim-lazer-baski",
 
   title: "Promosyon Kalem Seti KS-235 | Özel Tasarım Lazer Baskılı Metal Kalem",
-
+  price: 248,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-235.jpg",
 
@@ -33338,7 +33340,7 @@ Ofis kullanım ürünleri
   slug: "promosyon-kalem-seti-ks-240-dolma-kalem-premium-kutulu",
 
   title: "Promosyon Kalem Seti KS-240 | Premium Dolma Kalem Görünümlü Lazer Baskılı Set",
-
+  price: 396,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-240.jpg",
 
@@ -33398,7 +33400,7 @@ Prestijli marka sunumları
   slug: "promosyon-kalem-seti-ks-250-piston-dolma-kalem-premium",
 
   title: "Promosyon Kalem Seti KS-250 | Piston Mekanizmalı Premium Dolma Kalem Seti",
-
+  price: 396,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-250.jpg",
 
@@ -33466,7 +33468,7 @@ Kurumsal promosyon ürünleri
   slug: "promosyon-kalem-seti-ks-260-ahsap-kutulu-premium",
 
   title: "Promosyon Kalem Seti KS-260 | Ahşap Kutulu Premium Metal Kalem Seti",
-
+  price: 740,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-260.jpg",
 
@@ -33528,7 +33530,7 @@ Doğal ve premium hediye seçenekleri
   slug: "promosyon-kalem-seti-ks-270-klasik-metal-kutulu",
 
   title: "Promosyon Kalem Seti KS-270 | Klasik Metal Roller & Tükenmez Kalem Seti",
-
+  
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-270.jpg",
 
@@ -33642,7 +33644,7 @@ Ofis kullanım ürünleri
   slug: "promosyon-kalem-seti-ks-310-tekli-kutulu-metal",
 
   title: "Promosyon Kalem Seti KS-310 | Tekli Kutulu Metal Promosyon Kalem",
-
+  price: 270,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-310.jpg",
 
@@ -33698,7 +33700,7 @@ Ekonomik promosyon çözümleri
   slug: "promosyon-dokunmatik-kalem-ks-320-stylus-metal",
 
   title: "Promosyon Kalem Seti KS-320 | Dokunmatik Stylus Uçlu Metal Kalem",
-
+  price: 174,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-320.jpg",
 
@@ -33756,7 +33758,7 @@ Mobil cihaz kullanıcıları için promosyon ürünleri
   slug: "promosyon-ahsap-kalem-seti-ks-330-eco-premium",
 
   title: "Promosyon Kalem Seti KS-330 | Ahşap Roller & Tükenmez Kalem Eco Set",
-
+  price: 560,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-330.jpg",
 
@@ -33815,7 +33817,7 @@ Doğal konsept promosyon ürünleri
   slug: "promosyon-ahsap-kalem-ks-335-tekli-roller",
 
   title: "Promosyon Kalem Seti KS-335 | Tekli Ahşap Roller Kalem",
-
+  price: 390,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-335.jpg",
 
@@ -33873,7 +33875,7 @@ Sürdürülebilir marka tanıtımları
   slug: "promosyon-kalem-seti-ks-340-tekli-premium-kutulu",
 
   title: "Promosyon Kalem Seti KS-340 | Tekli Premium Kutulu Metal Kalem",
-
+  price: 118,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-seti-ks-340.jpg",
 
@@ -33931,7 +33933,7 @@ Ekonomik premium promosyon çözümleri
   slug: "promosyon-tekli-kalem-kutusu-ks-350-karton",
 
   title: "Promosyon Tekli Kalem Kutusu KS-350 | Karton Sunum Kutusu",
-
+  price: 23,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-kutusu-ks-350.jpg",
 
@@ -33985,7 +33987,7 @@ Profesyonel ürün sunumları
   slug: "promosyon-tekli-kalem-kutusu-ks-360-luks",
 
   title: "Promosyon Tekli Kalem Kutusu KS-360 | Lüks Sert Kalem Sunum Kutusu",
-
+  price: 135,
   category: "Kalem Setleri",
   image: "/products/promosyon-kalem-kutusu-ks-360.jpg",
 
