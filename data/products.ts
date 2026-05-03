@@ -3734,6 +3734,7 @@ Promosyon metal kalem siparişleri toplu üretim olarak hazırlanmakta olup kuru
   id: "p101",
   slug: "promosyon-cam-matara-500ml-cm-390",
   title: "Promosyon Cam Matara 500 ml CM-390 | Logo Baskılı Cam Termos Matara",
+  price: 112,
   category: "Termos",
   image: "/products/promosyon-cam-matara-500ml-cm-390.jpg",
 
@@ -3774,6 +3775,7 @@ Promosyon cam matara siparişleri genellikle toplu üretim şeklinde hazırlanma
   id: "p102",
   slug: "promosyon-cam-matara-750ml-cm-400",
   title: "Promosyon Cam Matara 750 ml CM-400 | Logo Baskılı Cam Termos Matara",
+  price: 144,
   category: "Termos",
   image: "/products/promosyon-cam-matara-750ml-cm-400.jpg",
 
@@ -3814,6 +3816,7 @@ Promosyon cam matara siparişleri toplu üretim şeklinde hazırlanmakta olup mi
   id: "p103",
   slug: "promosyon-termos-500ml-tk-100",
   title: "Promosyon Termos 500 ml TK-100 | Lazer Baskılı Logo Termos",
+  price: 578,
   category: "Termos",
   image: "/products/promosyon-termos-500ml-tk-100.jpg",
 
@@ -3861,6 +3864,7 @@ Promosyon termos siparişleri genellikle toplu üretim şeklinde hazırlanmakta 
   id: "p104",
   slug: "promosyon-termos-500ml-tk-110",
   title: "Promosyon Termos 500 ml TK-110 | UV ve Lazer Baskılı Logo Termos",
+  price: 364,
   category: "Termos",
   image: "/products/promosyon-termos-500ml-tk-110.jpg",
 
@@ -3907,6 +3911,7 @@ Promosyon termos siparişleri toplu üretim olarak hazırlanmakta olup minimum s
   id: "p105",
   slug: "promosyon-termos-900ml-tk-120",
   title: "Promosyon Termos 900 ml TK-120 | Lazer Baskılı Logo Termos",
+  price: 780,
   category: "Termos",
   image: "/products/promosyon-termos-900ml-tk-120.jpg",
 
@@ -3954,6 +3959,7 @@ Promosyon termos siparişleri toplu üretim olarak hazırlanmakta olup minimum s
   id: "p106",
   slug: "promosyon-termos-900ml-tk-125",
   title: "Promosyon Termos 900 ml TK-125 | Lazer Baskılı Logo Termos",
+  price: 780,
   category: "Termos",
   image: "/products/promosyon-termos-900ml-tk-125.jpg",
 
@@ -3996,6 +4002,7 @@ Promosyon termos siparişleri toplu üretim olarak hazırlanmakta olup minimum s
   id: "p107",
   slug: "promosyon-termos-400ml-tk-130",
   title: "Promosyon Termos 400 ml TK-130 | Lazer Baskılı Logo Termos",
+  price: 820,
   category: "Termos",
   image: "/products/promosyon-termos-400ml-tk-130.jpg",
 
@@ -4038,6 +4045,7 @@ Promosyon termos siparişleri toplu üretim şeklinde hazırlanmakta olup minimu
   id: "p108",
   slug: "promosyon-termos-1300ml-tk-140",
   title: "Promosyon Termos 1300 ml TK-140 | Kilitli Kapak Logo Baskılı Termos",
+  price: 896,
   category: "Termos",
   image: "/products/promosyon-termos-1300ml-tk-140.jpg",
 
@@ -4078,6 +4086,7 @@ Promosyon termos siparişleri toplu üretim olarak hazırlanmakta olup minimum s
   id: "p109",
   slug: "promosyon-termos-1000ml-tk-150",
   title: "Promosyon Termos 1000 ml TK-150 | Kilitli Kapak Logo Baskılı Termos",
+  price: 936,
   category: "Termos",
   image: "/products/promosyon-termos-1000ml-tk-150.jpg",
 
@@ -4118,6 +4127,7 @@ Promosyon termos siparişleri toplu üretim olarak hazırlanmakta olup minimum s
   id: "p110",
   slug: "promosyon-termos-900ml-tk-155",
   title: "Promosyon Termos 900 ml TK-155 | Kilitli Kapak Logo Baskılı Termos",
+  price: 908,
   category: "Termos",
   image: "/products/promosyon-termos-900ml-tk-155.jpg",
 
@@ -13198,7 +13208,7 @@ Günlük ve profesyonel kullanım
   id: "p271",
   slug: "promosyon-bambu-termos-500ml-tk-111",
   title: "Promosyon Bambu Termos 500 ml TK-111 | Logo Baskılı Termos",
-
+  price: 880,
   category: "Termos",
   image: "/products/promosyon-bambu-termos-500ml-tk-111.jpg",
 
@@ -13267,7 +13277,7 @@ Günlük kullanım ve seyahat
   id: "p272",
   slug: "promosyon-termos-550ml-tk-160",
   title: "Promosyon Termos 550 ml TK-160 | Logo Baskılı Termos",
-
+  price: 820,
   category: "Termos",
   image: "/products/promosyon-termos-550ml-tk-160.jpg",
 
@@ -13330,7 +13340,7 @@ Günlük kullanım ve seyahat
   id: "p273",
   slug: "promosyon-termos-300ml-tk-170",
   title: "Promosyon Termos 300 ml TK-170 | Logo Baskılı Termos",
-
+  price: 320,
   category: "Termos",
   image: "/products/promosyon-termos-300ml-tk-170.jpg",
 
@@ -21211,7 +21221,7 @@ Reklam ve tanıtım kampanyaları
   id: "p389",
   slug: "promosyon-termos-bardak-250ml-tk-180",
   title: "Promosyon Bardak Termos 250 ml TK-180 | Çift Katmanlı Renkli Termos",
-
+  price: 318,
   category: "Termos",
   image: "/products/promosyon-termos-tk-180.jpg",
 
@@ -21282,7 +21292,7 @@ Müşteri ve çalışan hediyeleri
   id: "p390",
   slug: "promosyon-termos-350ml-isi-gostergeli-tk-195",
   title: "Promosyon Termos 350 ml TK-195 | Dijital Isı Göstergeli Kilitli Kapak Termos",
-
+  price: 666,
   category: "Termos",
   image: "/products/promosyon-termos-tk-195.jpg",
 
@@ -21348,7 +21358,7 @@ Müşteri ve çalışan hediyeleri
   id: "p391",
   slug: "promosyon-termos-580ml-tk-190",
   title: "Promosyon Termos 580 ml TK-190 | Lazer Baskılı Büyük Boy Termos",
-
+  price: 668,
   category: "Termos",
   image: "/products/promosyon-termos-tk-190.jpg",
 
@@ -22126,7 +22136,7 @@ Reklam ve tanıtım çalışmaları
   id: "p402",
   slug: "promosyon-termos-500-ml-dijital-isi-gostergeli-tk-196",
   title: "Promosyon Termos 500 ml TK-196 | Dijital Isı Göstergeli Süzgeçli Termos",
-
+  price: 460,
   category: "Termos",
   image: "/products/promosyon-termos-500-ml-tk-196.jpg",
 
@@ -22194,7 +22204,7 @@ Reklam ve tanıtım çalışmaları
   id: "p403",
   slug: "promosyon-termos-1000-ml-dijital-isi-gostergeli-hediye-kutulu-tk-200",
   title: "Promosyon Termos 1000 ml TK-200 | Dijital Isı Göstergeli Hediye Kutulu Termos",
-
+  price: 770,
   category: "Termos",
   image: "/products/promosyon-termos-1000-ml-tk-200.jpg",
 
@@ -22262,7 +22272,7 @@ Reklam ve tanıtım çalışmaları
   id: "p404",
   slug: "promosyon-termos-500-ml-deri-kilifli-tk-205",
   title: "Promosyon Termos 500 ml TK-205 | Deri Kılıflı Lazer Baskılı Şık Termos",
-
+  price: 620,
   category: "Termos",
   image: "/products/promosyon-termos-500-ml-tk-205.jpg",
 
@@ -22334,7 +22344,7 @@ Reklam ve tanıtım çalışmaları
   id: "p405",
   slug: "promosyon-termos-750-ml-deri-kilifli-tk-210",
   title: "Promosyon Termos 750 ml TK-210 | Deri Kılıflı Lazer Baskılı Şık Termos",
-
+  price: 724,
   category: "Termos",
   image: "/products/promosyon-termos-750-ml-tk-210.jpg",
 
@@ -22407,7 +22417,7 @@ Reklam ve tanıtım çalışmaları
   id: "p406",
   slug: "promosyon-termos-400-ml-dijital-isi-gostergeli-tk-220",
   title: "Promosyon Termos 400 ml TK-220 | Dijital Isı Göstergeli Şık Termos",
-
+  price: 544,
   category: "Termos",
   image: "/products/promosyon-termos-400-ml-tk-220.jpg",
 
@@ -22473,7 +22483,7 @@ Reklam ve tanıtım çalışmaları
   id: "p407",
   slug: "promosyon-devrilmez-termos-500-ml-vantuzlu-tk-230",
   title: "Promosyon Devrilmez Termos 500 ml TK-230 | Vantuzlu Sabit Tabanlı Termos",
-
+  price: 584,
   category: "Termos",
   image: "/products/promosyon-devrilmez-termos-500-ml-tk-230.jpg",
 
@@ -22541,7 +22551,7 @@ Reklam ve tanıtım çalışmaları
   id: "p408",
   slug: "promosyon-termos-400-ml-lazer-baskili-tk-240",
   title: "Promosyon Termos 400 ml TK-240 | Lazer Baskılı Şık ve Kullanışlı Termos",
-
+  price: 505,
   category: "Termos",
   image: "/products/promosyon-termos-400-ml-tk-240.jpg",
 
@@ -22615,7 +22625,7 @@ Reklam ve tanıtım çalışmaları
   id: "p409",
   slug: "promosyon-termos-700-ml-lazer-baskili-tk-250",
   title: "Promosyon Termos 700 ml TK-250 | Lazer Baskılı Şık ve Dayanıklı Termos",
-
+  price: 416,
   category: "Termos",
   image: "/products/promosyon-termos-700-ml-tk-250.jpg",
 
@@ -22681,7 +22691,7 @@ Reklam ve tanıtım çalışmaları
   id: "p410",
   slug: "promosyon-termos-240-ml-lazer-baskili-tk-260",
   title: "Promosyon Termos 240 ml TK-260 | Lazer Baskılı Mini Şık Termos",
-
+  price: 516,
   category: "Termos",
   image: "/products/promosyon-termos-240-ml-tk-260.jpg",
 
@@ -22815,7 +22825,7 @@ Marka tanıtım çalışmaları
   id: "p412",
   slug: "promosyon-termos-360-ml-lazer-baskili-tk-270",
   title: "Promosyon Termos 360 ml TK-270 | Kulplu Spor Tasarımlı Lazer Baskılı Termos",
-
+  price: 500,
   category: "Termos",
   image: "/products/promosyon-termos-360-ml-tk-270.jpg",
 
@@ -22886,7 +22896,7 @@ Marka tanıtım çalışmaları
   id: "p413",
   slug: "promosyon-termos-500-ml-tk-280",
   title: "Promosyon Termos 500 ml TK-280 | Kaymaz Yüzeyli Şık Çelik Termos",
-
+  price: 600,
   category: "Termos",
   image: "/products/promosyon-termos-500-ml-tk-280.jpg",
 
@@ -22954,7 +22964,7 @@ Marka tanıtım çalışmaları
   id: "p414",
   slug: "promosyon-termos-500-ml-lazer-baskili-tk-290",
   title: "Promosyon Termos 500 ml TK-290 | Askılı Taşınabilir Lazer Baskılı Termos",
-
+  price: 554,
   category: "Termos",
   image: "/products/promosyon-termos-500-ml-tk-290.jpg",
 
@@ -23024,7 +23034,7 @@ Marka tanıtım çalışmaları
   id: "p415",
   slug: "promosyon-termos-500-ml-lazer-baskili-tk-300",
   title: "Promosyon Termos 500 ml TK-300 | Kaymaz Yüzeyli Travel Mug Araç Termosu",
-
+  price: 860,
   category: "Termos",
   image: "/products/promosyon-termos-500-ml-tk-300.jpg",
 
@@ -23095,7 +23105,7 @@ Marka tanıtım çalışmaları
   id: "p416",
   slug: "promosyon-termos-350-ml-kilitli-kapak-tk-310",
   title: "Promosyon Termos 350 ml TK-310 | Kilitli Kapaklı Sızdırmaz Şık Termos",
-
+  price: 526,
   category: "Termos",
   image: "/products/promosyon-termos-350-ml-tk-310.jpg",
 
@@ -23165,7 +23175,7 @@ Marka tanıtım çalışmaları
   id: "p417",
   slug: "promosyon-termos-420-ml-suzgecli-kilitli-kapak-tk-320",
   title: "Promosyon Termos 420 ml TK-320 | Süzgeçli ve Kilitli Kapaklı Premium Termos",
-
+  price: 578,
   category: "Termos",
   image: "/products/promosyon-termos-420-ml-tk-320.jpg",
 
@@ -23236,7 +23246,7 @@ Marka tanıtım çalışmaları
   id: "p418",
   slug: "promosyon-termos-600-ml-tk-330",
   title: "Promosyon Termos 600 ml TK-330 | Büyük Hacimli Şık ve Dayanıklı Termos",
-
+  price: 534,
   category: "Termos",
   image: "/products/promosyon-termos-600-ml-tk-330.jpg",
 
@@ -23307,7 +23317,7 @@ Marka tanıtım çalışmaları
   id: "p419",
   slug: "promosyon-french-press-termos-500-ml-tk-340",
   title: "Promosyon French Press Termos 500 ml TK-340 | Kahve Demlemeli Premium Termos",
-
+  price: 902,
   category: "Termos",
   image: "/products/promosyon-french-press-termos-500-ml-tk-340.jpg",
 
@@ -23377,7 +23387,7 @@ Marka tanıtım çalışmaları
   id: "p420",
   slug: "promosyon-termos-500-ml-uv-lazer-baskili-tk-350",
   title: "Promosyon Termos 500 ml TK-350 | UV ve Lazer Baskılı Klasik Şık Termos",
-
+  price: 564,
   category: "Termos",
   image: "/products/promosyon-termos-500-ml-tk-350.jpg",
 
@@ -23447,7 +23457,7 @@ Marka tanıtım çalışmaları
   id: "p421",
   slug: "promosyon-detoks-matara-800-ml-pc-bpa-icermeyen-tk-360",
   title: "Promosyon Detoks Matara 800 ml TK-360 | BPA İçermeyen Spor Matara",
-
+  price: 235,
   category: "Termos",
   image: "/products/promosyon-detoks-matara-800-ml-tk-360.jpg",
 
@@ -23526,7 +23536,7 @@ Marka tanıtım çalışmaları
   id: "p422",
   slug: "promosyon-emzikli-matara-800-ml-bpa-icermeyen-tk-370",
   title: "Promosyon Emzikli Matara 800 ml TK-370 | BPA İçermeyen Spor Matara",
-
+  price: 220,
   category: "Termos",
   image: "/products/promosyon-emzikli-matara-800-ml-tk-370.jpg",
 
@@ -23608,7 +23618,7 @@ Marka tanıtım çalışmaları
   id: "p423",
   slug: "promosyon-emzikli-matara-500-ml-bpa-icermeyen-tk-380",
   title: "Promosyon Emzikli Matara 500 ml TK-380 | BPA İçermeyen Hafif Spor Matara",
-
+  price: 200,
   category: "Termos",
   image: "/products/promosyon-emzikli-matara-500-ml-tk-380.jpg",
 
@@ -23689,7 +23699,7 @@ Marka tanıtım çalışmaları
   id: "p424",
   slug: "promosyon-emzikli-matara-1500-ml-bpa-icermeyen-tk-385",
   title: "Promosyon Emzikli Matara 1500 ml TK-385 | Büyük Hacimli BPA İçermeyen Spor Matara",
-
+  price: 300,
   category: "Termos",
   image: "/products/promosyon-emzikli-matara-1500-ml-tk-385.jpg",
 
