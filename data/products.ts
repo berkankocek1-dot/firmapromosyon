@@ -4814,7 +4814,7 @@ Promosyon küp bloknot siparişleri toplu üretim olarak hazırlanmakta olup min
   id: "p124",
   slug: "promosyon-yerli-uretim-polyester-sapka-sp-500",
   title: "Promosyon Yerli Üretim Polyester Şapka ŞP-500 | Logo Baskılı Promosyon Şapka",
-
+  price: 54,
   category: "Promosyon Şapka",
 
   image: "/products/promosyon-yerli-uretim-polyester-sapka-sp-500.jpg",
@@ -8728,6 +8728,7 @@ Reklam ve marka tanıtım çalışmaları
   id: "p201",
   slug: "promosyon-polyester-sapka-sp-600",
   title: "Promosyon Yerli Üretim Polyester Şapka ŞP-600 | Logo Baskılı Promosyon Şapka",
+  price: 54,
   category: "Promosyon Şapka",
   image: "/products/promosyon-polyester-sapka-sp-600.jpg",
 
@@ -8781,6 +8782,7 @@ Outdoor etkinlikleri
   id: "p202",
   slug: "promosyon-pamuklu-sapka-sp-650",
   title: "Promosyon Yerli Üretim Pamuklu Şapka ŞP-650 | Logo Baskılı Promosyon Şapka",
+  price: 95,
   category: "Promosyon Şapka",
   image: "/products/promosyon-pamuklu-sapka-sp-650.jpg",
 
@@ -8837,6 +8839,7 @@ Outdoor etkinlikleri
   id: "p203",
   slug: "promosyon-pamuklu-sandvic-siper-sapka-sp-700",
   title: "Promosyon Yerli Üretim Pamuklu Sandviç Siper Şapka ŞP-700 | Logo Baskılı Promosyon Şapka",
+  price: 100,
   category: "Promosyon Şapka",
   image: "/products/promosyon-pamuklu-sandvic-siper-sapka-sp-700.jpg",
 
@@ -39370,6 +39373,64 @@ Toplu promosyon dağıtımları
 Fuar ve etkinlik ürünleri
 Marka tanıtım çalışmaları
 `,
+},
+{
+  id: "p661",
+  slug: "promosyon-pamuklu-fileli-sapka-sp-750",
+  title: "Promosyon Pamuklu Fileli Şapka ŞP-750 | Logo Baskılı Şapka Modelleri",
+  price: 100,
+  category: "Promosyon Şapka",
+  image: "/products/promosyon-pamuklu-fileli-sapka-sp-750.jpg",
+
+  shortDesc:
+    "Promosyon pamuklu fileli şapka ŞP-750, nefes alabilen yapısı ve logo baskıya uygun geniş yüzeyi ile kurumsal tanıtımlar için ideal bir promosyon ürünüdür. Toplu siparişlerde avantajlı fiyat seçenekleri sunar.",
+
+  longDesc: `
+Logo Baskılı Promosyon Şapka ile Markanızı Günlük Hayata Taşıyın
+
+Promosyon pamuklu fileli şapka ŞP-750, hem şık görünümü hem de konforlu kullanımı ile kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir. Ön kısmı pamuklu kumaş, arka kısmı ise fileli yapısı sayesinde terletmeyen ve uzun süre rahat kullanım sunan bir şapka modelidir.
+
+Geniş baskı alanı sayesinde firmanızın logosu net ve dikkat çekici şekilde uygulanabilir. Özellikle yaz aylarında, açık hava etkinliklerinde ve saha çalışmalarında markanızın görünürlüğünü artırmak için etkili bir promosyon ürünüdür.
+
+NEDEN PROMOSYON PAMUKLU FİLELİ ŞAPKA TERCİH EDİLMELİ?
+• Nefes alabilen fileli arka yapı ile konforlu kullanım  
+• Logo baskıya uygun geniş ön yüzey  
+• Günlük kullanımda yüksek marka görünürlüğü  
+• Fuar, etkinlik ve saha çalışmaları için ideal  
+
+Ayarlanabilir cırt bantlı yapısı sayesinde farklı baş ölçülerine kolayca uyum sağlar. Dayanıklı kumaş yapısı ile uzun süreli kullanım sunar ve kurumsal promosyon çalışmalarında etkili bir reklam aracıdır.
+
+Promosyon şapkalar, özellikle geniş kitlelere ulaşmak isteyen firmalar için düşük maliyetli ve yüksek etkili reklam ürünlerinden biridir. Markanızı sürekli görünür kılmak için en doğru promosyon seçeneklerinden biridir.
+
+KULLANIM ALANLARI
+• Fuar ve organizasyon dağıtımları  
+• Açık hava etkinlikleri  
+• Kurumsal promosyon kampanyaları  
+• Saha ekipleri ve personel kullanımı  
+
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar  
+• Reklam ajansları  
+• Organizasyon şirketleri  
+• Tekstil ve perakende markaları  
+• Etkinlik firmaları  
+
+PROMOSYON ŞAPKA FİYATLARI HAKKINDA
+Promosyon şapka fiyatları; sipariş adedi, baskı türü ve renk seçeneklerine göre değişiklik göstermektedir. Toplu siparişlerde daha avantajlı fiyatlar sunulmaktadır. Size özel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+Ürün Özellikleri
+
+• Model: ŞP-750  
+• Ürün Türü: Pamuklu fileli şapka  
+• Ön Yüzey: Pamuklu kumaş  
+• Arka Kısım: Nefes alabilen fileli yapı  
+• Baskı: DTF transfer baskıya uygun  
+• Ayar: Cırt bantlı ayarlanabilir arka kısım  
+• Kullanım: Günlük ve promosyon amaçlı  
+• Üretim: Yerli üretim  
+
+Promosyon pamuklu fileli şapka ŞP-750 ile markanızı geniş kitlelere ulaştırabilir, kurumsal tanıtım çalışmalarınızı profesyonel şekilde güçlendirebilirsiniz. Toplu sipariş ve hızlı teklif için WhatsApp üzerinden hemen iletişime geçebilirsiniz.
+`.trim(),
 },
 
 ];

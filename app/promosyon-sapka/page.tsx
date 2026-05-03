@@ -176,20 +176,9 @@ export default function Page() {
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Promosyon şapka modelleri, açık hava organizasyonlarında, fuarlarda,
-            saha ekiplerinde ve kurumsal tanıtım çalışmalarında öne çıkan
-            giyilebilir promosyon ürünleri arasında yer alır. Logo baskılı
-            promosyon şapka ürünleri; marka görünürlüğünü artırmak, ekip
-            bütünlüğü oluşturmak ve hedef kitleyle daha güçlü bir temas kurmak
-            isteyen firmalar için etkili bir tanıtım çözümüdür.
-          </p>
-
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            FirmaPromosyon’da yer alan promosyon şapka çeşitleri; farklı renk,
-            kumaş, model ve uygulama seçenekleriyle kurumsal ihtiyaçlara uygun
-            şekilde sunulmaktadır. Baskılı veya nakışlı promosyon şapka
-            talepleriniz için ürünleri inceleyebilir, toplu alım ve hızlı teklif
-            avantajlarından yararlanabilirsiniz.
+            Logo baskılı promosyon şapka modellerini inceleyebilir, firmanız
+            için toplu sipariş ve hızlı teklif avantajlarından
+            yararlanabilirsiniz.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">
@@ -217,13 +206,13 @@ export default function Page() {
             href={`/urunler/${p.slug}`}
             className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
           >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
+            <div className="relative aspect-square w-full overflow-hidden rounded-xl border border-gray-100 bg-white">
               <Image
                 src={p.image}
                 alt={p.title}
                 fill
                 unoptimized
-loading="lazy"
+                loading="lazy"
                 className="object-contain p-4"
                 sizes="(max-width: 768px) 100vw, 33vw"
               />
@@ -241,7 +230,17 @@ loading="lazy"
               <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
                 {p.shortDesc}
               </p>
+              {p.price && (
+                <div className="mt-3">
+                  <div className="text-base font-bold text-gray-900">
+                    {p.price.toLocaleString("tr-TR")} TL + KDV
+                  </div>
 
+                  <div className="mt-1 text-xs font-medium text-green-600">
+                    Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.
+                  </div>
+                </div>
+              )}
               <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
                 Ürünü İncele
               </div>
@@ -262,6 +261,23 @@ loading="lazy"
             <h2 className="text-2xl font-bold text-white">
               Logo Baskılı Promosyon Şapka Modelleri
             </h2>
+
+            <p>
+              Promosyon şapka modelleri, açık hava organizasyonlarında, fuarlarda,
+              saha ekiplerinde ve kurumsal tanıtım çalışmalarında öne çıkan
+              giyilebilir promosyon ürünleri arasında yer alır. Logo baskılı
+              promosyon şapka ürünleri; marka görünürlüğünü artırmak, ekip
+              bütünlüğü oluşturmak ve hedef kitleyle daha güçlü bir temas kurmak
+              isteyen firmalar için etkili bir tanıtım çözümüdür.
+            </p>
+
+            <p>
+              FirmaPromosyon’da yer alan promosyon şapka çeşitleri; farklı renk,
+              kumaş, model ve uygulama seçenekleriyle kurumsal ihtiyaçlara uygun
+              şekilde sunulmaktadır. Baskılı veya nakışlı promosyon şapka
+              talepleriniz için ürünleri inceleyebilir, toplu alım ve hızlı teklif
+              avantajlarından yararlanabilirsiniz.
+            </p>
 
             <p>
               Logo baskılı promosyon şapkalar, markanızı açık alanlarda görünür
