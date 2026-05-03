@@ -2172,6 +2172,7 @@ Kurumsal promosyon ürünleri arasında yer alan ajanda modelleri özellikle yı
   id: "p60",
   slug: "promosyon-duvar-saati-40cm-metal-kasa-ds-100",
   title: "Promosyon Duvar Saati 40 cm Metal Kasa DS-100 | Logo Baskılı Duvar Saati",
+  price: 720,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-100.jpg",
 
@@ -2597,6 +2598,7 @@ Promosyon ajandalar özellikle yılbaşı promosyonları, kurumsal hediyeler, fu
   id: "p71",
   slug: "promosyon-duvar-saati-35cm-metal-kasa-ds-110",
   title: "Promosyon Duvar Saati 35 cm Metal Kasa DS-110 | Logo Baskılı Duvar Saati",
+  price: 620,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-110.jpg",
 
@@ -2629,6 +2631,7 @@ Logo baskılı promosyon duvar saati siparişleri firmalara özel üretim olarak
   id: "p72",
   slug: "promosyon-duvar-saati-37cm-aluminyum-kasa-ds-115",
   title: "Promosyon Duvar Saati 37 cm Alüminyum Kasa DS-115 | Logo Baskılı Duvar Saati",
+  price: 690,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-115.jpg",
 
@@ -2662,6 +2665,7 @@ Logo baskılı promosyon duvar saati siparişleri firmalara özel üretim olarak
   id: "p73",
   slug: "promosyon-duvar-saati-37cm-metal-kasa-ds-120",
   title: "Promosyon Duvar Saati 37 cm Metal Kasa DS-120 | Logo Baskılı Kurumsal Duvar Saati",
+  price: 920,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-120.jpg",
 
@@ -2696,6 +2700,7 @@ Logo baskılı promosyon duvar saati siparişleri için toplu üretim yapılmakt
   id: "p74",
   slug: "promosyon-duvar-saati-38cm-metal-kasa-ds-130",
   title: "Promosyon Duvar Saati 38 cm Metal Kasa DS-130 | Pirinç Kaplama Logo Baskılı Duvar Saati",
+  price: 1058,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-130.jpg",
 
@@ -2730,6 +2735,7 @@ Logo baskılı promosyon duvar saati siparişleri toplu üretim olarak hazırlan
   id: "p75",
   slug: "promosyon-duvar-saati-35cm-plastik-kasa-ds-135",
   title: "Promosyon Duvar Saati 35 cm Plastik Kasa DS-135 | Logo Baskılı Kurumsal Duvar Saati",
+  price: 410,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-135.jpg",
 
@@ -2764,6 +2770,7 @@ Logo baskılı promosyon duvar saati siparişleri toplu üretim olarak hazırlan
   id: "p76",
   slug: "promosyon-duvar-saati-38cm-krom-kasa-ds-136",
   title: "Promosyon Duvar Saati 38 cm Krom Kasa DS-136 | Logo Baskılı Kurumsal Duvar Saati",
+  price: 920,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-136.jpg",
 
@@ -2798,6 +2805,7 @@ Logo baskılı promosyon duvar saati siparişleri toplu üretim olarak hazırlan
   id: "p77",
   slug: "promosyon-duvar-saati-25cm-metal-kasa-ds-140",
   title: "Promosyon Duvar Saati 25 cm Metal Kasa DS-140 | Logo Baskılı Kurumsal Duvar Saati",
+  price: 374,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-140.jpg",
 
@@ -2829,6 +2837,7 @@ Logo baskılı promosyon duvar saati siparişleri toplu üretim olarak hazırlan
   id: "p78",
   slug: "promosyon-duvar-saati-35cm-plastik-kasa-ds-150",
   title: "Promosyon Duvar Saati 35 cm Plastik Kasa DS-150 | Logo Baskılı Kurumsal Duvar Saati",
+  price: 430,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-150.jpg",
 
@@ -2863,6 +2872,7 @@ Logo baskılı promosyon duvar saati siparişleri toplu üretim olarak hazırlan
   id: "p79",
   slug: "promosyon-duvar-saati-35cm-plastik-kasa-ds-160",
   title: "Promosyon Duvar Saati 35 cm Plastik Kasa DS-160 | Logo Baskılı Kurumsal Duvar Saati",
+  price: 368,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-160.jpg",
 
@@ -19200,7 +19210,7 @@ Günlük kullanım
   id: "p364",
   slug: "promosyon-duvar-saati-metal-kasa-ds-170",
   title: "Promosyon Duvar Saati Metal Kasa DS-170 | Logo Baskılı 30 cm Duvar Saati",
-
+  price: 580,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-metal-kasa-ds-170.jpg",
 
@@ -19281,7 +19291,7 @@ Dekoratif kullanım
   id: "p365",
   slug: "promosyon-duvar-saati-40cm-plastik-kasa-ds-180",
   title: "Promosyon Duvar Saati 40 cm DS-180 | Logo Baskılı Metalize Kasa Duvar Saati",
-
+  price: 528,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-40cm-ds-180.jpg",
 
@@ -19362,7 +19372,7 @@ Dekoratif kullanım
   id: "p366",
   slug: "promosyon-duvar-saati-40cm-plastik-kasa-ds-190",
   title: "Promosyon Duvar Saati 40 cm DS-190 | Logo Baskılı Ekonomik Duvar Saati",
-
+  price: 470,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-40cm-ds-190.jpg",
 
@@ -19443,7 +19453,7 @@ Reklam ve marka tanıtımı
   id: "p367",
   slug: "promosyon-duvar-saati-40cm-metal-kasa-ds-200",
   title: "Promosyon Duvar Saati 40 cm Metal Kasa DS-200 | Logo Baskılı Premium Duvar Saati",
-
+  price: 750,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-40cm-metal-ds-200.jpg",
 
@@ -19524,7 +19534,7 @@ Prestijli marka tanıtımları
   id: "p368",
   slug: "promosyon-duvar-saati-35cm-metal-kasa-ds-210",
   title: "Promosyon Duvar Saati 35 cm Metal Kasa DS-210 | Logo Baskılı Şık Duvar Saati",
-
+  price: 690,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-35cm-metal-ds-210.jpg",
 
@@ -19605,7 +19615,7 @@ Dekoratif kullanım
   id: "p369",
   slug: "promosyon-duvar-saati-30cm-metal-kasa-ds-220",
   title: "Promosyon Duvar Saati 30 cm Metal Kasa DS-220 | Logo Baskılı Klasik Duvar Saati",
-
+  price: 586,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-30cm-metal-ds-220.jpg",
 
@@ -23761,7 +23771,7 @@ Marka tanıtım çalışmaları
   id: "p425",
   slug: "promosyon-duvar-saati-31-cm-metal-kasa-ds-230",
   title: "Promosyon Duvar Saati 31 cm Metal Kasa DS-230 | Şık Tasarım, Sessiz Akar Saniye",
-
+  price: 570,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-31-cm-metal-kasa-ds-230.jpg",
 
@@ -23844,7 +23854,7 @@ Marka tanıtım çalışmaları
   id: "p426",
   slug: "promosyon-duvar-saati-33-cm-metal-kasa-ds-240",
   title: "Promosyon Duvar Saati 33 cm Metal Kasa DS-240 | Geniş Çap, Sessiz Akar Saniye Mekanizması",
-
+  price: 634,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-33-cm-metal-kasa-ds-240.jpg",
 
@@ -23927,7 +23937,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p427",
   slug: "promosyon-duvar-saati-37-cm-aluminyum-kasa-ds-250",
   title: "Promosyon Duvar Saati 37 cm Alüminyum Kasa DS-250 | Renkli Çerçeve, Büyük Boy Sessiz Mekanizma",
-
+  price: 730,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-37-cm-aluminyum-kasa-ds-250.jpg",
 
@@ -24024,7 +24034,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p428",
   slug: "promosyon-duvar-saati-35-cm-plastik-kasa-metalize-ds-260",
   title: "Promosyon Duvar Saati 35 cm Metalize Kasa DS-260 | Ekonomik ve Şık Sessiz Duvar Saati",
-
+  price: 528,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-35-cm-plastik-kasa-ds-260.jpg",
 
@@ -24110,7 +24120,7 @@ Marka tanıtım çalışmaları
   id: "p429",
   slug: "promosyon-duvar-saati-35-cm-metalize-yaldiz-kadran-ds-270",
   title: "Promosyon Duvar Saati 35 cm Metalize Kasa DS-270 | Yaldız Kabartma Kadran, Şık ve Sessiz",
-
+  price: 530,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-35-cm-metalize-ds-270.jpg",
 
@@ -24206,7 +24216,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p430",
   slug: "promosyon-duvar-saati-35-cm-plastik-kasa-renkli-ds-280",
   title: "Promosyon Duvar Saati 35 cm Plastik Kasa DS-280 | Renk Seçenekli, Logo Uyumlu Kadran",
-
+  price: 410,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-35-cm-plastik-kasa-ds-280.jpg",
 
@@ -24295,7 +24305,7 @@ Marka tanıtım çalışmaları
   id: "p431",
   slug: "promosyon-duvar-saati-40-cm-plastik-kasa-renkli-ds-310",
   title: "Promosyon Duvar Saati 40 cm Plastik Kasa DS-310 | Büyük Boy, Renk Uyumlu Kadran",
-
+  price: 486,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-40-cm-plastik-kasa-ds-310.jpg",
 
@@ -24386,7 +24396,7 @@ Marka bilinirliği artırma çalışmaları
   id: "p432",
   slug: "promosyon-duvar-saati-dikdortgen-cam-bombeli-ds-320",
   title: "Promosyon Duvar Saati Dikdörtgen 25,3x47 cm DS-320 | Cam Bombeli, Geniş Baskı Alanı",
-
+  price: 366,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-dikdortgen-cam-bombeli-ds-320.jpg",
 
@@ -29662,7 +29672,7 @@ Marka tanıtım çalışmaları
   id: "p505",
   slug: "promosyon-duvar-saati-ds-330-35cm",
   title: "Promosyon Duvar Saati DS-330 (35 cm) | Renkli Kadran Plastik Kasa Logo Baskılı Saat",
-
+  price: 440,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-330-35cm.jpg",
 
@@ -29732,7 +29742,7 @@ Kurumsal hediye ürünleri
   id: "p506",
   slug: "promosyon-duvar-saati-ds-340-35cm-bombe-cam",
   title: "Promosyon Duvar Saati DS-340 (35 cm) | Bombe Cam Logo Baskılı Şık Duvar Saati",
-
+  price: 394,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-340-35cm.jpg",
 
@@ -29797,7 +29807,7 @@ Marka tanıtım çalışmaları
   id: "p507",
   slug: "promosyon-duvar-saati-ds-350-35cm-bombe-cam",
   title: "Promosyon Duvar Saati DS-350 (35 cm) | Bombe Cam Modern Tasarım Logo Baskılı Saat",
-
+  price: 400,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-350-35cm.jpg",
 
@@ -29862,7 +29872,7 @@ Marka tanıtım ve reklam çalışmaları
   id: "p508",
   slug: "promosyon-duvar-saati-ds-360-30cm-bombe-cam",
   title: "Promosyon Duvar Saati DS-360 (30 cm) | Bombe Cam Logo Baskılı Şık Duvar Saati",
-
+  price: 358,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-360-30cm.jpg",
 
@@ -29927,7 +29937,7 @@ Dekoratif duvar kullanımı
   id: "p509",
   slug: "promosyon-duvar-saati-ds-370-46cm-metal-kadran",
   title: "Promosyon Duvar Saati DS-370 (46 cm) | Büyük Boy Metal Kadran Logo Baskılı Saat",
-
+  price: 644,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-370-46cm.jpg",
 
@@ -29994,7 +30004,7 @@ Kurumsal reklam ve tanıtım çalışmaları
   id: "p510",
   slug: "promosyon-duvar-saati-ds-380-35cm-renkli-kadran",
   title: "Promosyon Duvar Saati DS-380 (35 cm) | Renkli Kadran Plastik Kasa Logo Baskılı Saat",
-
+  price: 450,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-380-35cm.jpg",
 
@@ -30066,7 +30076,7 @@ Dekoratif duvar kullanımı
   id: "p511",
   slug: "promosyon-duvar-saati-ds-390-35cm-metal-kadran",
   title: "Promosyon Duvar Saati DS-390 (35 cm) | Metal Kadran Plastik Kasa Logo Baskılı Saat",
-
+  price: 440,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-390-35cm.jpg",
 
@@ -30133,7 +30143,7 @@ Dekoratif duvar kullanımı
   id: "p512",
   slug: "promosyon-duvar-saati-ds-400-28cm-plastik-kasa",
   title: "Promosyon Duvar Saati DS-400 (28 cm) | Kompakt Plastik Kasa Logo Baskılı Saat",
-
+  price: 306,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-400-28cm.jpg",
 
@@ -30200,7 +30210,7 @@ Dekoratif duvar kullanımı
   id: "p513",
   slug: "promosyon-duvar-saati-ds-410-46cm-plastik-kasa",
   title: "Promosyon Duvar Saati DS-410 (46 cm) | Büyük Boy Plastik Kasa Logo Baskılı Saat",
-
+  price: 586,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-410-46cm.jpg",
 
@@ -30268,7 +30278,7 @@ Marka tanıtım çalışmaları
   id: "p514",
   slug: "promosyon-duvar-saati-ds-420-42cm-plastik-kasa",
   title: "Promosyon Duvar Saati DS-420 (42 cm) | Orta-Büyük Boy Plastik Kasa Logo Baskılı Saat",
-
+  price: 514,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-420-42cm.jpg",
 
@@ -30335,7 +30345,7 @@ Dekoratif duvar kullanımı
   id: "p515",
   slug: "promosyon-duvar-saati-ds-430-40cm-plastik-kasa",
   title: "Promosyon Duvar Saati DS-430 (40 cm) | Geniş Kadran Plastik Kasa Logo Baskılı Saat",
-
+  price: 470,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-430-40cm.jpg",
 
@@ -30402,7 +30412,7 @@ Dekoratif duvar kullanımı
   id: "p516",
   slug: "promosyon-duvar-saati-ds-440-35cm-plastik-kasa",
   title: "Promosyon Duvar Saati DS-440 (35 cm) | Klasik Tasarım Plastik Kasa Logo Baskılı Saat",
-
+  price: 406,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-440-35cm.jpg",
 
@@ -30469,7 +30479,7 @@ Dekoratif duvar kullanımı
   id: "p517",
   slug: "promosyon-duvar-saati-ds-450-40cm-plastik-kasa",
   title: "Promosyon Duvar Saati DS-450 (40 cm) | Şık Tasarım Plastik Kasa Logo Baskılı Saat",
-
+  price: 436,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-450-40cm.jpg",
 
@@ -30536,7 +30546,7 @@ Dekoratif duvar kullanımı
   id: "p518",
   slug: "promosyon-duvar-saati-ds-460-35cm-plastik-kasa",
   title: "Promosyon Duvar Saati DS-460 (35 cm) | Modern Plastik Kasa Logo Baskılı Saat",
-
+  price: 400,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-460-35cm.jpg",
 
@@ -30603,7 +30613,7 @@ Dekoratif duvar kullanımı
   id: "p519",
   slug: "promosyon-duvar-saati-ds-470-42x30cm-ozel-tasarim",
   title: "Promosyon Duvar Saati DS-470 (42,5 x 30,5 cm) | Özel Tasarım Logo Baskılı Saat",
-
+  price: 380,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-470-42x30cm.jpg",
 
@@ -30672,7 +30682,7 @@ Marka farkındalığı çalışmaları
   id: "p520",
   slug: "promosyon-duvar-saati-ds-480-30cm-plastik-kasa",
   title: "Promosyon Duvar Saati DS-480 (30 cm) | Ekonomik Plastik Kasa Logo Baskılı Saat",
-
+  price: 366,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-480-30cm.jpg",
 
@@ -30739,7 +30749,7 @@ Kurumsal tanıtım çalışmaları
   id: "p521",
   slug: "promosyon-duvar-saati-ds-490-42x30cm-ozel-kesim",
   title: "Promosyon Duvar Saati DS-490 (42,5 x 30,5 cm) | Yıldızlı Özel Tasarım Logo Baskılı Saat",
-
+  price: 380,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-490-42x30cm.jpg",
 
@@ -30812,7 +30822,7 @@ Marka farkındalığı çalışmaları
   id: "p522",
   slug: "promosyon-duvar-saati-ds-500-35cm-metalize-plastik",
   title: "Promosyon Duvar Saati DS-500 (35 cm) | Metalize Plastik Kasa Logo Baskılı Saat",
-
+  price: 492,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-500-35cm.jpg",
 
@@ -30879,7 +30889,7 @@ Dekoratif duvar kullanımı
   id: "p523",
   slug: "promosyon-duvar-saati-ds-510-30cm-metalize-plastik",
   title: "Promosyon Duvar Saati DS-510 (30 cm) | Metalize Plastik Kasa Logo Baskılı Saat",
-
+  price: 450,
   category: "Duvar Saatleri",
   image: "/products/promosyon-duvar-saati-ds-510-30cm.jpg",
 
