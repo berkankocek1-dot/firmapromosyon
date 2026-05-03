@@ -4168,6 +4168,7 @@ Promosyon termos siparişleri toplu üretim olarak hazırlanmakta olup minimum s
   id: "p111",
   slug: "promosyon-ahsap-telefon-tutucu-att-230",
   title: "Promosyon Ahşap Telefon Tutucu ATT-230 | Logo Baskılı Ahşap Telefon Standı",
+  price: 50,
   category: "Geri Dönüşümlü Ürünler",
   image: "/products/promosyon-ahsap-telefon-tutucu-att-230.jpg",
 
@@ -4208,6 +4209,7 @@ Promosyon ahşap telefon tutucu siparişleri toplu üretim şeklinde hazırlanma
   id: "p112",
   slug: "promosyon-dikisli-defter-gd-100",
   title: "Promosyon Dikişli Defter GD-100 | Geri Dönüşümlü Logo Baskılı Kraft Defter",
+  price: 44.80,
   category: "Geri Dönüşümlü Ürünler",
   image: "/products/promosyon-dikisli-defter-gd-100.jpg",
 
@@ -4258,6 +4260,7 @@ Promosyon dikişli defter siparişleri toplu üretim olarak hazırlanmakta olup 
   id: "p113",
   slug: "promosyon-spiralli-notluk-gd-110",
   title: "Promosyon Spiralli Notluk GD-110 | Logo Baskılı Spiralli Not Defteri",
+  price: 80,
   category: "Geri Dönüşümlü Ürünler",
   image: "/products/promosyon-spiralli-notluk-gd-110.jpg",
 
@@ -4305,6 +4308,7 @@ Promosyon spiralli notluk siparişleri toplu üretim şeklinde hazırlanmakta ol
   id: "p114",
   slug: "promosyon-spiralli-notluk-gd-120",
   title: "Promosyon Spiralli Notluk GD-120 | Sert Kraft Kapak Logo Baskılı Defter",
+  price: 176,
   category: "Geri Dönüşümlü Ürünler",
   image: "/products/promosyon-spiralli-notluk-gd-120.jpg",
 
@@ -4353,6 +4357,7 @@ Promosyon spiralli notluk siparişleri toplu üretim olarak hazırlanmakta olup 
   id: "p115",
   slug: "promosyon-renkli-yapiskanli-notluk-gd-130",
   title: "Promosyon Renkli Yapışkanlı Notluk GD-130 | Logo Baskılı Yapışkanlı Not Defteri",
+  price: 124,
   category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-renkli-yapiskanli-notluk-gd-130.jpg",
 
@@ -4398,6 +4403,7 @@ Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta 
   id: "p116",
   slug: "promosyon-spiralli-not-defteri-gd-140",
   title: "Promosyon Spiralli Not Defteri GD-140 | Sert Kraft Kapak Logo Baskılı Defter",
+  price: 180,
   category: "Geri Dönüşümlü Ürünler",
   image: "/products/promosyon-spiralli-not-defteri-gd-140.jpg",
 
@@ -4448,6 +4454,7 @@ Promosyon spiralli not defteri siparişleri toplu üretim olarak hazırlanmakta 
   id: "p117",
   slug: "promosyon-renkli-yapiskanli-notluk-gd-150",
   title: "Promosyon Renkli Yapışkanlı Notluk GD-150 | Logo Baskılı Yapışkanlı Not Defteri",
+  price: 108,
   category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-renkli-yapiskanli-notluk-gd-150.jpg",
 
@@ -4497,6 +4504,7 @@ Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta 
   id: "p118",
   slug: "promosyon-spiralli-not-defteri-gd-160",
   title: "Promosyon Spiralli Not Defteri GD-160 | Kraft Kapak Logo Baskılı Not Defteri",
+  price: 70,
   category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-spiralli-not-defteri-gd-160.jpg",
 
@@ -4546,6 +4554,7 @@ Promosyon spiralli not defteri siparişleri toplu üretim olarak hazırlanmakta 
   id: "p119",
   slug: "promosyon-spiralli-defter-yapiskanli-notluk-gd-170",
   title: "Promosyon Spiralli Defter Yapışkanlı Notluk GD-170 | Logo Baskılı Geri Dönüşümlü Defter",
+  price: 124,
   category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-spiralli-defter-yapiskanli-notluk-gd-170.jpg",
 
@@ -4594,6 +4603,7 @@ Promosyon spiralli defter siparişleri toplu üretim olarak hazırlanmakta olup 
   id: "p120",
   slug: "promosyon-renkli-yapiskanli-notluk-gd-180",
   title: "Promosyon Renkli Yapışkanlı Notluk GD-180 | Kraft Kapak Logo Baskılı Not Defteri",
+  price: 90,
   category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-renkli-yapiskanli-notluk-gd-180.jpg",
 
@@ -5885,6 +5895,7 @@ Promosyon kalem seti siparişleri toplu üretim olarak hazırlanmaktadır. Bask�
   id: "p144",
   slug: "promosyon-renkli-yapiskanli-notluk-9x14-gd-190",
   title: "Promosyon Renkli Yapışkanlı Notluk GD-190 | 9x14 cm Logo Baskılı Notluk",
+  price: 82,
   category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-renkli-yapiskanli-notluk-gd-190.jpg",
 
@@ -5930,6 +5941,7 @@ Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmaktad
   id: "p145",
   slug: "promosyon-renkli-yapiskanli-notluk-14x10-gd-200",
   title: "Promosyon Renkli Yapışkanlı Notluk GD-200 | 14 x 10,7 cm Logo Baskılı Notluk",
+  price: 106,
   category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-renkli-yapiskanli-notluk-gd-200.jpg",
 
@@ -5974,6 +5986,7 @@ Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta 
   id: "p146",
   slug: "promosyon-renkli-yapiskanli-notluk-7x8-gd-220",
   title: "Promosyon Renkli Yapışkanlı Notluk GD-220 | Kraft Kapak Logo Baskılı Notluk",
+  price: 78,
   category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-renkli-yapiskanli-notluk-gd-220.jpg",
 
@@ -6017,6 +6030,7 @@ Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta 
   id: "p147",
   slug: "promosyon-renkli-yapiskanli-notluk-5x21-gd-240",
   title: "Promosyon Renkli Yapışkanlı Notluk GD-240 | 5,6 x 21 cm Logo Baskılı Notluk",
+  price: 28,
   category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-renkli-yapiskanli-notluk-gd-240.jpg",
 
@@ -6065,6 +6079,7 @@ Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta 
   id: "p148",
   slug: "promosyon-renkli-yapiskanli-notluk-13x6-gd-250",
   title: "Promosyon Renkli Yapışkanlı Notluk GD-250 | 13 x 6,5 cm Logo Baskılı Notluk",
+  price: 82,
   category: "Yapışkanlı Notluklar",
   image: "/products/promosyon-renkli-yapiskanli-notluk-gd-250.jpg",
 
@@ -6107,6 +6122,7 @@ Promosyon yapışkanlı notluk siparişleri toplu üretim olarak hazırlanmakta 
   id: "p149",
   slug: "promosyon-spiralli-notluk-gd-210",
   title: "Promosyon Spiralli Notluk GD-210 | Kraft Kapak Logo Baskılı Not Defteri",
+  price: 76,
   category: "Geri Dönüşümlü Ürünler",
   image: "/products/promosyon-spiralli-notluk-gd-210.jpg",
 
