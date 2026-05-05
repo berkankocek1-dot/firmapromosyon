@@ -125,9 +125,7 @@ export default function Page() {
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">
-            Promosyon Tişört
-          </span>
+          <span className="font-semibold text-white">Promosyon Tişört</span>
         </nav>
 
         <header>
@@ -136,19 +134,8 @@ export default function Page() {
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Promosyon tişört modelleri, markanızı geniş kitlelere ulaştırmak
-            için kullanılan en etkili promosyon ürünleri arasında yer alır.
-            Logo baskılı promosyon tişörtler; fuar, festival, kampanya,
-            saha etkinlikleri, personel kullanımı ve marka tanıtımı için
-            güçlü bir reklam çözümü sunar.
-          </p>
-
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            FirmaPromosyon’da yer alan promosyon tişört çeşitleri; farklı
-            kumaş türleri, renk seçenekleri ve baskı teknikleri ile
-            kurumsal ihtiyaçlara uygun şekilde sunulmaktadır. Firmanızın
-            logosuna uygun baskılı sipariş seçenekleri için ürünleri
-            inceleyebilir, toplu alım ve hızlı teklif avantajlarından
+            Logo baskılı promosyon tişört modellerini inceleyebilir, firmanız
+            için toplu sipariş ve hızlı teklif avantajlarından
             yararlanabilirsiniz.
           </p>
 
@@ -177,13 +164,13 @@ export default function Page() {
             href={`/urunler/${p.slug}`}
             className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
           >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
+            <div className="relative aspect-square w-full overflow-hidden rounded-xl border border-gray-100 bg-white">
               <Image
                 src={p.image}
                 alt={p.title}
                 fill
                 unoptimized
-loading="lazy"
+                loading="lazy"
                 className="object-contain p-4"
                 sizes="(max-width: 768px) 100vw, 33vw"
               />
@@ -201,7 +188,17 @@ loading="lazy"
               <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
                 {p.shortDesc}
               </p>
+              {p.price && (
+                <div className="mt-3">
+                  <div className="text-base font-bold text-gray-900">
+                    {p.price.toLocaleString("tr-TR")} TL + KDV
+                  </div>
 
+                  <div className="mt-1 text-xs font-medium text-green-600">
+                    Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.
+                  </div>
+                </div>
+              )}
               <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
                 Ürünü İncele
               </div>
@@ -222,6 +219,23 @@ loading="lazy"
             <h2 className="text-2xl font-bold text-white">
               Logo Baskılı Promosyon Tişört Modelleri
             </h2>
+
+            <p>
+              Promosyon tişört modelleri, markanızı geniş kitlelere ulaştırmak
+              için kullanılan en etkili promosyon ürünleri arasında yer alır.
+              Logo baskılı promosyon tişörtler; fuar, festival, kampanya,
+              saha etkinlikleri, personel kullanımı ve marka tanıtımı için
+              güçlü bir reklam çözümü sunar.
+            </p>
+
+            <p>
+              FirmaPromosyon’da yer alan promosyon tişört çeşitleri; farklı
+              kumaş türleri, renk seçenekleri ve baskı teknikleri ile
+              kurumsal ihtiyaçlara uygun şekilde sunulmaktadır. Firmanızın
+              logosuna uygun baskılı sipariş seçenekleri için ürünleri
+              inceleyebilir, toplu alım ve hızlı teklif avantajlarından
+              yararlanabilirsiniz.
+            </p>
 
             <p>
               Logo baskılı promosyon tişörtler, markanızı giyilebilir

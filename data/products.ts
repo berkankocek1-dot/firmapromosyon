@@ -4912,7 +4912,7 @@ Promosyon masa seti siparişleri toplu üretim olarak hazırlanmakta olup minimu
   id: "p126",
   slug: "promosyon-penye-bisiklet-yaka-tshirt-pn-100",
   title: "Promosyon Penye Bisiklet Yaka T-shirt PN-100 | Logo Baskılı Promosyon Tişört",
-
+  price: 170,
   category: "Promosyon Tişört",
 
   image: "/products/promosyon-penye-bisiklet-yaka-tshirt-pn-100.jpg",
@@ -8900,6 +8900,7 @@ Outdoor etkinlikleri
   id: "p204",
   slug: "promosyon-polo-yaka-tshirt-py-110",
   title: "Promosyon Polo Yaka T-Shirt PY-110 | Logo Baskılı Promosyon Tişört",
+  price: 375,
   category: "Promosyon Tişört",
   image: "/products/promosyon-polo-yaka-tshirt-py-110.jpg",
 
