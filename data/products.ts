@@ -4868,7 +4868,7 @@ Promosyon şapka siparişleri toplu üretim olarak hazırlanmakta olup minimum s
   id: "p125",
   slug: "promosyon-ahsap-masa-seti-ah-100",
   title: "Promosyon Ahşap Masa Seti AH-100 | Logo Baskılı Masaüstü Ofis Seti",
-
+  price: 360,
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
   image: "/products/promosyon-ahsap-masa-seti-ah-100.jpg",
@@ -16065,7 +16065,7 @@ Reklam ve marka tanıtımı
   id: "p317",
   slug: "promosyon-luks-ahsap-masa-seti-ah-110",
   title: "Promosyon Lüks Ahşap Masa Seti AH-110 | Kurumsal Masa Üstü Set",
-
+  price: 1650,
   category: "Ahşap ve Deri Masaüstü Ürünler",
   image: "/products/promosyon-ahsap-masa-seti-ah-110.jpg",
 
@@ -16125,7 +16125,7 @@ Fuar ve etkinlik organizasyonları
   id: "p318",
   slug: "promosyon-ahsap-masa-seti-ah-120",
   title: "Promosyon Ahşap Masa Seti AH-120 | Logolu Masa Üstü Ofis Seti",
-
+  price: 380,
   category: "Ahşap ve Deri Masaüstü Ürünler",
   image: "/products/promosyon-ahsap-masa-seti-ah-120.jpg",
 
@@ -16176,7 +16176,7 @@ Fuar ve etkinlik organizasyonları
   id: "p319",
   slug: "promosyon-deri-kalemlik-ms-130",
   title: "Promosyon Deri Kalemlik MS-130 | Kartvizit Bölmeli Masa Üstü Kalemlik",
-
+  price: 270,
   category: "Ahşap ve Deri Masaüstü Ürünler",
   image: "/products/promosyon-deri-kalemlik-ms-130.jpg",
 
@@ -16231,7 +16231,7 @@ Fuar ve etkinlik organizasyonları
   id: "p320",
   slug: "promosyon-masa-ustu-deri-urunler-ms-140",
   title: "Promosyon Masa Üstü Deri Ürünler MS-140 | Kurumsal Ofis Seti",
-
+  price: 312,
   category: "Ahşap ve Deri Masaüstü Ürünler",
   image: "/products/promosyon-deri-masa-seti-ms-140.jpg",
 
@@ -16286,7 +16286,7 @@ Fuar ve etkinlik organizasyonları
   id: "p321",
   slug: "promosyon-deri-kalemlik-ms-150",
   title: "Promosyon Deri Kalemlik MS-150 | Kartvizit Bölmeli Notluklu Masa Üstü Set",
-
+  price: 340,
   category: "Ahşap ve Deri Masaüstü Ürünler",
   image: "/products/promosyon-deri-kalemlik-ms-150.jpg",
 
@@ -16342,7 +16342,7 @@ Fuar ve etkinlik organizasyonları
   id: "p322",
   slug: "promosyon-deri-kalemlik-ms-160",
   title: "Promosyon Deri Kalemlik MS-160 | Kartvizit ve Telefon Bölmeli Masa Üstü Set",
-
+  price: 250,
   category: "Ahşap ve Deri Masaüstü Ürünler",
   image: "/products/promosyon-deri-kalemlik-ms-160.jpg",
 
@@ -16398,7 +16398,7 @@ Fuar ve etkinlik organizasyonları
   id: "p323",
   slug: "promosyon-deri-kalemlik-ms-170",
   title: "Promosyon Deri Kalemlik MS-170 | Kartvizit Bölmeli Notluklu Masa Üstü Set",
-
+  price: 230,
   category: "Ahşap ve Deri Masaüstü Ürünler",
   image: "/products/promosyon-deri-kalemlik-ms-170.jpg",
 
@@ -16454,7 +16454,7 @@ Fuar ve etkinlik organizasyonları
   id: "p324",
   slug: "promosyon-deri-kalemlik-ms-175",
   title: "Promosyon Deri Kalemlik MS-175 | Şık Masa Üstü Kalemlik Seti",
-
+  price: 224,
   category: "Ahşap ve Deri Masaüstü Ürünler",
   image: "/products/promosyon-deri-kalemlik-ms-175.jpg",
 
@@ -16509,7 +16509,7 @@ Fuar ve etkinlik organizasyonları
   id: "p325",
   slug: "promosyon-deri-kalemlik-ms-180",
   title: "Promosyon Deri Kalemlik MS-180 | Kartvizit Bölmeli Masa Üstü Kalemlik",
-
+  price: 168,
   category: "Ahşap ve Deri Masaüstü Ürünler",
   image: "/products/promosyon-deri-kalemlik-ms-180.jpg",
 
@@ -16565,7 +16565,7 @@ Fuar ve etkinlik organizasyonları
   id: "p326",
   slug: "promosyon-deri-bardak-altligi-ms-190",
   title: "Promosyon Deri Bardak Altlığı MS-190 | Logolu Masa Üstü Aksesuar",
-
+  price: 296,
   category: "Ahşap ve Deri Masaüstü Ürünler",
   image: "/products/promosyon-deri-bardak-altligi-ms-190.jpg",
 
@@ -16620,7 +16620,7 @@ Reklam ve marka tanıtımı
   id: "p327",
   slug: "promosyon-deri-bardak-altligi-set-ms-195",
   title: "Promosyon Deri Bardak Altlığı Seti MS-195 | 4'lü Logolu Bardak Altlığı",
-
+  price: 296,
   category: "Ahşap ve Deri Masaüstü Ürünler",
   image: "/products/promosyon-deri-bardak-altligi-ms-195.jpg",
 
