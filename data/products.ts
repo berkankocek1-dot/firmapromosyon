@@ -4983,7 +4983,7 @@ Promosyon tişört siparişleri toplu üretim olarak hazırlanmakta olup minimum
   id: "p127",
   slug: "promosyon-organizer-19x265-org-100",
   title: "Promosyon Organizer ORG-100 | Logo Baskılı Termo Deri Organizer",
-
+  price: 530,
   category: "Organizerler",
 
   image: "/products/promosyon-organizer-org-100.jpg",
@@ -13992,7 +13992,7 @@ Müşteri ve bayi hediyeleri
   id: "p283",
   slug: "promosyon-organizer-org-110",
   title: "Promosyon Organizer ORG-110 | Termo Deri Kılıflı Defter (19x26,5 cm)",
-
+  price: 430,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-110.jpg",
 
@@ -14069,7 +14069,7 @@ Prestij promosyon ürünleri
   id: "p284",
   slug: "promosyon-organizer-org-120",
   title: "Promosyon Organizer ORG-120 | Termo Deri Kılıflı Ajanda (18x23 cm)",
-
+  price: 460,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-120.jpg",
 
@@ -14148,7 +14148,7 @@ Yönetici ve çalışan hediyeleri
   id: "p285",
   slug: "promosyon-organizer-org-130",
   title: "Promosyon Organizer ORG-130 | Termo Deri Kılıflı Ajanda (15x21 cm)",
-
+  price: 460,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-130.jpg",
 
@@ -14221,7 +14221,7 @@ Yönetici ve çalışan hediyeleri
   id: "p286",
   slug: "promosyon-organizer-org-140",
   title: "Promosyon Organizer ORG-140 | Hesap Makineli Termo Deri Ajanda (18x23 cm)",
-
+  price: 370,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-140.jpg",
 
@@ -14302,7 +14302,7 @@ Yönetici ve çalışan hediyeleri
   id: "p287",
   slug: "promosyon-organizer-org-150",
   title: "Promosyon Organizer ORG-150 | Manyetik Kilitli Hesap Makineli Organizer",
-
+  price: 536,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-150.jpg",
 
@@ -34064,7 +34064,7 @@ Profesyonel ürün sunumları
   slug: "promosyon-organizer-org-160-termodei-hesap-makinali",
 
   title: "Promosyon Organizer ORG-160 | Termoderi Kapaklı Hesap Makineli Organizer",
-
+  price: 520,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-160.jpg",
 
@@ -34127,7 +34127,7 @@ Günlük planlama ve ajanda kullanımı
   slug: "promosyon-organizer-org-170-manyetik-kilitli-termodei",
 
   title: "Promosyon Organizer ORG-170 | Manyetik Kilitli Termoderi Premium Organizer",
-
+  price: 606,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-170.jpg",
 
@@ -34192,7 +34192,7 @@ Prestijli marka sunumları
   slug: "promosyon-organizer-org-180-termodei-hesap-makineli",
 
   title: "Promosyon Organizer ORG-180 | Termoderi Kapaklı Hesap Makineli Organizer (18x23 cm)",
-
+  price: 475,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-180.jpg",
 
@@ -34261,7 +34261,7 @@ Günlük planlama ve ajanda kullanımı
   slug: "promosyon-organizer-org-190-termodei-hesap-makineli",
 
   title: "Promosyon Organizer ORG-190 | Termoderi Kapaklı Hesap Makineli Organizer (18x23 cm)",
-
+  price: 540,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-190.jpg",
 
@@ -34330,7 +34330,7 @@ Günlük planlama ve ajanda kullanımı
   slug: "promosyon-organizer-org-200-kilifli-defter",
 
   title: "Promosyon Organizer ORG-200 | Kılıflı Termoderi Defter Organizer (14,5x23 cm)",
-
+  price: 388,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-200.jpg",
 
@@ -34396,7 +34396,7 @@ Taşınabilir organizer çözümleri
   slug: "promosyon-organizer-org-210-termodei-metal-tokali",
 
   title: "Promosyon Organizer ORG-210 | Metal Tokalı Termoderi Organizer (15x21 cm Ajanda)",
-
+  price: 540,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-210.jpg",
 
@@ -34461,7 +34461,7 @@ Günlük planlama ve ajanda kullanımı
   slug: "promosyon-organizer-org-220-termodei-metal-tokali",
 
   title: "Promosyon Organizer ORG-220 | Metal Tokalı Termoderi Organizer (15x21 cm Ajanda)",
-
+  price: 540,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-220.jpg",
 
@@ -34526,7 +34526,7 @@ Günlük planlama ve ajanda kullanımı
   slug: "promosyon-organizer-org-230-termodei-metal-kilitli",
 
   title: "Promosyon Organizer ORG-230 | Metal Kilitli Termoderi Organizer (17x21 cm)",
-
+  price: 524,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-230.jpg",
 
@@ -34591,7 +34591,7 @@ Günlük planlama ve ajanda kullanımı
   slug: "promosyon-organizer-org-240-cift-termodei-manyetik",
 
   title: "Promosyon Organizer ORG-240 | Çift Kat Termoderi Manyetik Kilitli Organizer",
-
+  price: 590,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-240.jpg",
 
@@ -34655,7 +34655,7 @@ Ofis ve iş hayatı kullanımı
   slug: "promosyon-organizer-org-250-termodei-metal-tokali",
 
   title: "Promosyon Organizer ORG-250 | Metal Tokalı Termoderi Organizer (15x21 cm Ajanda)",
-
+  price: 530,
   category: "Organizerler",
   image: "/products/promosyon-organizer-org-250.jpg",
 
