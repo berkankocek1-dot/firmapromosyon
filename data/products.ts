@@ -5663,7 +5663,7 @@ Promosyon çakı seti siparişleri toplu üretim olarak hazırlanmakta olup mini
   id: "p140",
   slug: "promosyon-oto-kokusu-ok-750",
   title: "Promosyon Oto Kokusu OK-750 | Logo Baskılı Oto Kokusu",
-
+  price: 7,
   category: "İmalat Ürünler",
 
   image: "/products/promosyon-oto-kokusu-ok-750.jpg",
@@ -14379,7 +14379,7 @@ Prestij promosyon ürünleri
   id: "p288",
   slug: "promosyon-kapak-acacak-ac-100",
   title: "Promosyon Kapak Açacak AÇ-100 | UV Baskılı Açacak (7.7x7.7 cm)",
-
+  price: 12,
   category: "İmalat Ürünler",
   image: "/products/promosyon-kapak-acacak-ac-100.jpg",
 
@@ -14441,7 +14441,7 @@ Marka tanıtım çalışmaları
   id: "p289",
   slug: "promosyon-uzun-acacak-ac-110",
   title: "Promosyon Uzun Açacak AÇ-110 | UV Baskılı Açacak (5x11 cm)",
-
+  price: 13,
   category: "İmalat Ürünler",
   image: "/products/promosyon-uzun-acacak-ac-110.jpg",
 
@@ -14504,7 +14504,7 @@ Marka tanıtım çalışmaları
   id: "p290",
   slug: "promosyon-bardak-altligi-ba-650",
   title: "Promosyon Bardak Altlığı BA-650 | Ofset Dijital Baskılı (8x8 cm)",
-
+  price: 11,
   category: "İmalat Ürünler",
   image: "/products/promosyon-bardak-altligi-ba-650.jpg",
 
@@ -14568,7 +14568,7 @@ Marka tanıtım çalışmaları
   id: "p291",
   slug: "promosyon-balon-bl-600",
   title: "Promosyon Balon BL-600 | Serigrafi Baskılı Balon (12 İnç)",
-
+  price: 12,
   category: "İmalat Ürünler",
   image: "/products/promosyon-balon-bl-600.jpg",
 
@@ -14634,7 +14634,7 @@ Festival ve organizasyonlar
   id: "p292",
   slug: "promosyon-frizbi-frz-160",
   title: "Promosyon Frizbi FRZ-160 | Serigraf ve Ofset Baskılı (23 cm)",
-
+  price: 50,
   category: "İmalat Ürünler",
   image: "/products/promosyon-frizbi-frz-160.jpg",
 
@@ -14693,7 +14693,7 @@ Toplu dağıtım ve marka tanıtımı
   id: "p293",
   slug: "promosyon-mouse-pad-mp-600",
   title: "Promosyon Mouse Pad MP-600 | Ofset Dijital Baskılı (18x22 cm)",
-
+  price: 45,
   category: "İmalat Ürünler",
   image: "/products/promosyon-mouse-pad-mp-600.jpg",
 
@@ -14757,7 +14757,7 @@ Marka tanıtım çalışmaları
   id: "p294",
   slug: "promosyon-bilek-destekli-mouse-pad-mp-650",
   title: "Promosyon Bilek Destekli Mouse Pad MP-650 | Ofset Dijital Baskılı (18x22 cm)",
-
+  price: 60,
   category: "İmalat Ürünler",
   image: "/products/promosyon-mouse-pad-mp-650.jpg",
 
@@ -14823,7 +14823,7 @@ Marka tanıtım çalışmaları
   id: "p295",
   slug: "promosyon-oto-kesesi-oks-170",
   title: "Promosyon Oto Kesesi OKS-170 | Araç Temizlik Kesesi",
-
+  price: 40,
   category: "İmalat Ürünler",
   image: "/products/promosyon-oto-kesesi-oks-170.jpg",
 
@@ -14872,7 +14872,7 @@ Müşteri memnuniyeti hediyeleri
   id: "p296",
   slug: "promosyon-para-tabagi-pt-100",
   title: "Promosyon Yuvarlak Para Tabağı PT-100 | Kasa Önü Reklam Ürünü (17.5 cm)",
-
+  price: 70,
   category: "İmalat Ürünler",
   image: "/products/promosyon-para-tabagi-pt-100.jpg",
 
@@ -14925,7 +14925,7 @@ Marka görünürlüğü artırma çalışmaları
   id: "p297",
   slug: "promosyon-kare-para-tabagi-pt-110",
   title: "Promosyon Kare Para Tabağı PT-110 | Kasa Önü Reklam Ürünü (17x20.5 cm)",
-
+  price: 90,
   category: "İmalat Ürünler",
   image: "/products/promosyon-para-tabagi-pt-110.jpg",
 
@@ -14978,7 +14978,7 @@ Marka görünürlüğü artırma çalışmaları
   id: "p298",
   slug: "promosyon-kalemlik-pu-100",
   title: "Promosyon Kalemlik PÜ-100 | Masa Üstü Reklam Ürünü (10x8x5.4 cm)",
-
+  price: 50,
   category: "İmalat Ürünler",
   image: "/products/promosyon-kalemlik-pu-100.jpg",
 
@@ -15035,7 +15035,7 @@ Masa üstü düzenleyici ürünler
   id: "p299",
   slug: "promosyon-seffaf-kalemlik-pu-110",
   title: "Promosyon Şeffaf Kalemlik PÜ-110 | Masa Üstü Reklam Ürünü (10x8x5.4 cm)",
-
+  price: 50,
   category: "İmalat Ürünler",
   image: "/products/promosyon-kalemlik-pu-110.jpg",
 
@@ -15094,7 +15094,7 @@ Masa üstü düzenleyici ürünler
   id: "p300",
   slug: "promosyon-yonca-kalemlik-pu-130",
   title: "Promosyon Yonca Kalemlik PÜ-130 | Dekoratif Masa Üstü Kalemlik (19x9 cm)",
-
+  price: 60,
   category: "İmalat Ürünler",
   image: "/products/promosyon-kalemlik-pu-130.jpg",
 
@@ -15154,7 +15154,7 @@ Masa üstü dekoratif ürünler
   id: "p301",
   slug: "promosyon-seffaf-kup-kagitlik-pu-140",
   title: "Promosyon Şeffaf Küp Kağıtlık PÜ-140 | Özel Üretim Masa Üstü Kağıtlık",
-
+  price: 50,
   category: "İmalat Ürünler",
   image: "/products/promosyon-kagitlik-pu-140.jpg",
 
@@ -15221,7 +15221,7 @@ Masa üstü düzenleyici ürünler
   id: "p302",
   slug: "promosyon-kup-kagitlik-pu-150",
   title: "Promosyon Küp Kağıtlık PÜ-150 | Özel Üretim Masa Üstü Kağıtlık",
-
+  price: 50,
   category: "İmalat Ürünler",
   image: "/products/promosyon-kagitlik-pu-150.jpg",
 
@@ -15287,7 +15287,7 @@ Masa üstü düzenleyici ürünler
   id: "p303",
   slug: "promosyon-semsiye-sm-100",
   title: "Promosyon Şemsiye ŞM-100 | 8 Telli Baston Şemsiye Kurumsal Promosyon",
-
+  price: 500,
   category: "İmalat Ürünler",
   image: "/products/promosyon-semsiye-sm-100.jpg",
 
@@ -15338,7 +15338,7 @@ Açık alan etkinlikleri
   id: "p304",
   slug: "promosyon-isikli-semsiye-sm-150",
   title: "Promosyon Işıklı Şemsiye ŞM-150 | 8 Telli Fenerli Otomatik Şemsiye",
-
+  price: 650,
   category: "İmalat Ürünler",
   image: "/products/promosyon-isikli-semsiye-sm-150.jpg",
 
