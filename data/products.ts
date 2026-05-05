@@ -5145,7 +5145,7 @@ Promosyon cetvel siparişleri toplu üretim olarak hazırlanmakta olup minimum s
   id: "p130",
   slug: "promosyon-vip-set-vip-100",
   title: "Promosyon VIP Set VIP-100 | Logo Baskılı Kurumsal VIP Hediye Seti",
-
+  price: 2760,
   category: "VIP Ürünler",
 
   image: "/products/promosyon-vip-set-vip-100.jpg",
@@ -16731,7 +16731,7 @@ Reklam ve marka tanıtımı
   id: "p329",
   slug: "promosyon-vip-set-vip-110",
   title: "Promosyon VIP Set VIP-110 | Defter, Powerbank, USB ve Kalem Seti",
-
+  price: 2400,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-110.jpg",
 
@@ -16796,7 +16796,7 @@ Reklam ve marka tanıtımı
   id: "p330",
   slug: "promosyon-vip-set-vip-120",
   title: "Promosyon VIP Set VIP-120 | Powerbank, Termos ve Çakı Fener Seti",
-
+  price: 3080,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-120.jpg",
 
@@ -16854,7 +16854,7 @@ Reklam ve marka tanıtımı
   id: "p331",
   slug: "promosyon-vip-set-vip-130",
   title: "Promosyon VIP Set VIP-130 | Defter, Powerbank, Cüzdan ve USB Seti",
-
+  price: 2220,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-130.jpg",
 
@@ -36483,7 +36483,7 @@ Kampanya ve indirim duyuruları
   slug: "promosyon-vip-set-vip-140-defter-powerbank-usb-kalem-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-140 | Defter, Powerbank, USB ve Kalemli Kurumsal Hediye Seti",
-
+  price: 2040,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-140.jpg",
 
@@ -36549,7 +36549,7 @@ Yeni müşteri kazanım kampanyaları
   slug: "promosyon-vip-set-vip-150-cuzdan-powerbank-usb-kalem-anahtarlik-hediye-seti",
 
   title: "Promosyon VIP Set VIP-150 | Cüzdan, Powerbank, USB, Kalem ve Anahtarlıklı Kurumsal Hediye Seti",
-
+  price: 2060,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-150.jpg",
 
@@ -36618,7 +36618,7 @@ Yeni müşteri kazanım kampanyaları
   slug: "promosyon-vip-set-vip-160-termos-powerbank-defter-kalem-hediye-seti",
 
   title: "Promosyon VIP Set VIP-160 | Termos, Powerbank, Defter ve Kalemli Kurumsal Hediye Seti",
-
+  price: 3080,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-160.jpg",
 
@@ -36683,7 +36683,7 @@ Fuar ve etkinlik organizasyonları
   slug: "promosyon-vip-set-vip-170-termos-powerbank-speaker-usb-kalem-hediye-seti",
 
   title: "Promosyon VIP Set VIP-170 | Termos, Powerbank, Bluetooth Speaker, USB ve Kalemli Premium Hediye Seti",
-
+  price: 3500,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-170.jpg",
 
@@ -36751,7 +36751,7 @@ Fuar ve etkinlik organizasyonları
   slug: "promosyon-vip-set-vip-180-termos-defter-powerbank-usb-hediye-seti",
 
   title: "Promosyon VIP Set VIP-180 | Termos, Defter, Powerbank ve USB’li Kurumsal Hediye Seti",
-
+  price: 2860,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-180.jpg",
 
@@ -36816,7 +36816,7 @@ Kurumsal tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-190-defter-kalem-usb-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-190 | Defter, Kalem ve USB Bellekli Kurumsal Hediye Seti",
-
+  price: 910,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-190.jpg",
 
@@ -36878,7 +36878,7 @@ Yeni müşteri kazanım kampanyaları
   slug: "promosyon-vip-set-vip-200-hesap-makineli-defter-kalem-usb-anahtarlik",
 
   title: "Promosyon VIP Set VIP-200 | Hesap Makineli Defter, Kalem, USB ve Anahtarlıklı Kurumsal Hediye Seti",
-
+  price: 1200,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-200.jpg",
 
@@ -36943,7 +36943,7 @@ Müşteri ve çalışan hediyeleri
   slug: "promosyon-vip-set-vip-210-termos-french-press-speaker-powerbank-hediye-seti",
 
   title: "Promosyon VIP Set VIP-210 | Termos, French Press, Bluetooth Speaker ve Powerbank Hediye Seti",
-
+  price: 3400,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-210.jpg",
 
@@ -37008,7 +37008,7 @@ Premium yaşam tarzı hediye setleri
   slug: "promosyon-vip-set-vip-220-teknik-hediye-seti-usb-fener-caki-kablo",
 
   title: "Promosyon VIP Set VIP-220 | USB, Fener, Çakı, Kablo ve Kalemli Teknik Hediye Seti",
-
+  price: 1420,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-220.jpg",
 
@@ -37076,7 +37076,7 @@ Müşteri ve çalışan hediyeleri
   slug: "promosyon-vip-set-vip-230-defter-powerbank-usb-kalem-anahtarlik-seti",
 
   title: "Promosyon VIP Set VIP-230 | Defter, Powerbank, USB, Kalem ve Anahtarlıklı Kurumsal Hediye Seti",
-
+  price: 1840,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-230.jpg",
 
@@ -37144,7 +37144,7 @@ Günlük kullanım odaklı promosyonlar
   slug: "promosyon-vip-set-vip-240-defter-powerbank-usb-kalem-anahtarlik-kartvizitlik",
 
   title: "Promosyon VIP Set VIP-240 | Defter, Powerbank, USB, Kalem, Anahtarlık ve Kartvizitlik Premium Hediye Seti",
-
+  price: 3060,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-240.jpg",
 
@@ -37216,7 +37216,7 @@ Premium marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-250-defter-powerbank-usb-kalem-anahtarlik-kartvizitlik",
 
   title: "Promosyon VIP Set VIP-250 | Defter, Powerbank, USB, Kalem, Anahtarlık ve Kartvizitlik Hediye Seti",
-
+  price: 2760,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-250.jpg",
 
@@ -37288,7 +37288,7 @@ Prestijli marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-260-teknoloji-hediye-seti-powerbank-speaker-magsafe",
 
   title: "Promosyon VIP Set VIP-260 | Powerbank, Bluetooth Speaker, MagSafe Şarj ve Defterli Teknoloji Hediye Seti",
-
+  price: 4260,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-260.jpg",
 
@@ -37363,7 +37363,7 @@ Fuar ve etkinlik organizasyonları
   slug: "promosyon-vip-set-vip-270-defter-kalem-usb-premium-hediye-seti",
 
   title: "Promosyon VIP Set VIP-270 | Defter, Kalem ve USB Bellekli Premium Kurumsal Hediye Seti",
-
+  price: 880,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-270.jpg",
 
@@ -37426,7 +37426,7 @@ Marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-280-defter-kalem-kartvizitlik-hediye-seti",
 
   title: "Promosyon VIP Set VIP-280 | Defter, Kalem ve Kartvizitlikli Şık Kurumsal Hediye Seti",
-
+  price: 590,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-280.jpg",
 
@@ -37489,7 +37489,7 @@ Marka bilinirliği artırma çalışmaları
   slug: "promosyon-vip-set-vip-290-defter-kalem-anahtarlik-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-290 | Defter, Kalem ve Anahtarlıklı Özel Kutulu Kurumsal Hediye Seti",
-
+  price: 378,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-290.jpg",
 
@@ -37551,7 +37551,7 @@ Reklam ve marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-300-powerbank-usb-defter-isikli-premium-hediye-seti",
 
   title: "Promosyon VIP Set VIP-300 | Işıklı Powerbank, USB Bellek ve Defterli Premium Kurumsal Hediye Seti",
-
+  price: 1980,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-300.jpg",
 
@@ -37616,7 +37616,7 @@ Marka prestij artırma çalışmaları
   slug: "promosyon-vip-set-vip-310-defter-kalem-anahtarlik-kartvizitlik-luks-hediye-seti",
 
   title: "Promosyon VIP Set VIP-310 | Defter, Kalem, Anahtarlık ve Kartvizitlikli Lüks Kurumsal Hediye Seti",
-
+  price: 1120,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-310.jpg",
 
@@ -37683,7 +37683,7 @@ Prestij odaklı promosyon çözümleri
   slug: "promosyon-vip-set-vip-320-termos-powerbank-speaker-caki-luks-hediye-seti",
 
   title: "Promosyon VIP Set VIP-320 | Termos, Powerbank, Bluetooth Speaker ve Çakılı Lüks Kurumsal Hediye Seti",
-
+  price: 3900,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-320.jpg",
 
@@ -37755,7 +37755,7 @@ Marka prestij artırma çalışmaları
   slug: "promosyon-vip-set-vip-330-10000mah-powerbank-defter-kalem-anahtarlik-premium-set",
 
   title: "Promosyon VIP Set VIP-330 | 10.000 mAh Powerbank, Defter, Kalem ve Anahtarlıklı Premium Hediye Seti",
-
+  price: 1600,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-330.jpg",
 
@@ -37822,7 +37822,7 @@ Marka prestij artırma çalışmaları
   slug: "promosyon-vip-set-vip-340-termos-powerbank-speaker-defter-premium-hediye-seti",
 
   title: "Promosyon VIP Set VIP-340 | Termos, 10.000 mAh Powerbank, Speaker ve Defterli Premium Hediye Seti",
-
+  price: 2500,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-340.jpg",
 
@@ -37888,7 +37888,7 @@ Marka prestij artırma çalışmaları
   slug: "promosyon-vip-set-vip-350-defter-kalem-anahtarlik-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-350 | Defter, Metal Kalem Seti ve Anahtarlıklı Şık Kurumsal Hediye Seti",
-
+  price: 840,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-350.jpg",
 
@@ -37951,7 +37951,7 @@ Marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-360-termo-deri-defter-kalem-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-360 | Termo Deri Defter ve Metal Kalemli Şık Kurumsal Hediye Seti",
-
+  price: 520,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-360.jpg",
 
@@ -38010,7 +38010,7 @@ Marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-370-organizer-defter-kalem-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-370 | Organizer, Defter ve Metal Kalemli Premium Kurumsal Hediye Seti",
-
+  price: 1400,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-370.jpg",
 
@@ -38076,7 +38076,7 @@ Marka prestij artırma çalışmaları
   slug: "promosyon-vip-set-vip-380-ajanda-defter-kalem-kartvizitlik-kurumsal-set",
 
   title: "Promosyon VIP Set VIP-380 | Mekanizmalı Ajanda, Defter, Kalem ve Kartvizitlikli Kurumsal Hediye Seti",
-
+  price: 1680,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-380.jpg",
 
@@ -38142,7 +38142,7 @@ Marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-390-defter-kalem-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-390 | 13x21 Defter ve Metal Kalemli Şık Kurumsal Hediye Seti",
-
+  price: 480,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-390.jpg",
 
@@ -38201,7 +38201,7 @@ Marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-400-termo-deri-defter-metal-kalem-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-400 | Termo Deri 13x21 Defter ve Metal Kalemli Özel Kutulu Kurumsal Hediye",
-
+  price: 320,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-400.jpg",
 
@@ -38260,7 +38260,7 @@ Ofis kullanımı ve dağıtım ürünleri
   slug: "promosyon-vip-set-vip-410-termo-deri-defter-roller-kalem-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-410 | 15x21 Termo Deri Defter ve Metal Roller Kalemli Şık Kurumsal Set",
-
+  price: 362,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-410.jpg",
 
@@ -38319,7 +38319,7 @@ Marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-420-9x14-defter-metal-kalem-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-420 | 9x14 Defter ve Metal Kalemli Özel Kutulu Kurumsal Hediye Seti",
-
+  price: 296,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-420.jpg",
 
@@ -38378,7 +38378,7 @@ Marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-430-termos-powerbank-speaker-kurumsal-luks-hediye-seti",
 
   title: "Promosyon VIP Set VIP-430 | Termos, Powerbank, Bluetooth Speaker ve Premium Kurumsal Hediye Seti",
-
+  price: 3600,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-430.jpg",
 
@@ -38445,7 +38445,7 @@ Marka prestij artırma çalışmaları
   slug: "promosyon-vip-set-vip-440-termos-powerbank-speaker-luks-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-440 | Termos, 10.000 mAh Powerbank ve Bluetooth Speaker İçeren Lüks Hediye Seti",
-
+  price: 3600,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-440.jpg",
 
@@ -38512,7 +38512,7 @@ Kurumsal promosyon kampanyaları
   slug: "promosyon-vip-set-vip-450-powerbank-defter-kalem-kurumsal-teknolojik-hediye-seti",
 
   title: "Promosyon VIP Set VIP-450 | Powerbank, Defter, Kalem ve Aksesuar İçeren Premium Kurumsal Hediye Seti",
-
+  price: 2000,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-450.jpg",
 
@@ -38579,7 +38579,7 @@ Marka prestij artırma çalışmaları
   slug: "promosyon-vip-set-vip-460-powerbank-usb-defter-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-460 | Powerbank, USB Bellek, Defter ve Kalem İçeren Prestijli Kurumsal Hediye Seti",
-
+  price: 2360,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-460.jpg",
 
@@ -38645,7 +38645,7 @@ Marka prestij ve tanıtım çalışmaları
   slug: "promosyon-vip-set-kutusu-vip-470-ozel-kurumsal-hediye-kutusu",
 
   title: "Promosyon VIP Set Kutusu VIP-470 | Özel Ölçü Kurumsal Hediye Kutusu (Set Oluşturulabilir)",
-
+  price: 160,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-470.jpg",
 
@@ -38708,7 +38708,7 @@ Marka tanıtım paketleri
   slug: "promosyon-vip-set-kutusu-vip-480-buyuk-boy-ozel-kurumsal-hediye-kutusu",
 
   title: "Promosyon VIP Set Kutusu VIP-480 | Büyük Boy Özel Kurumsal Hediye Kutusu (33,5x25x10,2 cm)",
-
+  price: 500,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-480.jpg",
 
@@ -38777,7 +38777,7 @@ Marka prestij ve sunum çalışmaları
   slug: "promosyon-vip-set-kutusu-vip-490-ince-buyuk-olculu-kurumsal-hediye-kutusu",
 
   title: "Promosyon VIP Set Kutusu VIP-490 | İnce Büyük Ölçülü Mıknatıslı Kurumsal Hediye Kutusu (35x28 cm)",
-
+  price: 350,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-490.jpg",
 
@@ -38844,7 +38844,7 @@ Marka tanıtım paketleri
   slug: "promosyon-vip-set-kutusu-vip-500-orta-boy-miknatisli-kurumsal-hediye-kutusu",
 
   title: "Promosyon VIP Set Kutusu VIP-500 | Orta Boy Mıknatıslı Kurumsal Hediye Kutusu (26x29 cm)",
-
+  price: 310,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-500.jpg",
 
@@ -38911,7 +38911,7 @@ VIP müşteri hediyeleri
   slug: "promosyon-vip-set-kutusu-vip-510-kompakt-miknatisli-kurumsal-hediye-kutusu",
 
   title: "Promosyon VIP Set Kutusu VIP-510 | Kompakt Mıknatıslı Kurumsal Hediye Kutusu (22x20 cm)",
-
+  price: 300,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-510.jpg",
 
@@ -38983,7 +38983,7 @@ VIP mini setler
   slug: "promosyon-vip-set-kutusu-vip-520-kucuk-boy-miknatisli-kurumsal-hediye-kutusu",
 
   title: "Promosyon VIP Set Kutusu VIP-520 | Küçük Boy Mıknatıslı Kurumsal Hediye Kutusu (20x15 cm)",
-
+  price: 280,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-520.jpg",
 
