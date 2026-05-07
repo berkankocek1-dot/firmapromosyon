@@ -9,14 +9,14 @@ const GUIDE_IMAGE = "/guides/promosyon-kalem-secerken-nelere-dikkat-edilmeli.jpg
 export const metadata: Metadata = {
   title: "Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?",
   description:
-    "Promosyon kalem seçerken nelere dikkat edilmeli? Logo baskılı kalem seçiminde model, baskı türü, hedef kitle, kullanım alanı ve kalite gibi önemli detayları inceleyin.",
+    "Promosyon kalem seçerken nelere dikkat edilmeli? Logo baskılı kalem seçiminde hedef kitle, model, baskı alanı, kalite, adet planlaması ve kurumsal kullanım için detaylı rehber.",
   alternates: {
     canonical: PAGE_URL,
   },
   openGraph: {
     title: "Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?",
     description:
-      "Promosyon kalem seçiminde dikkat edilmesi gereken model, baskı, kalite, hedef kitle ve kullanım alanı gibi önemli noktalar hakkında detaylı rehber.",
+      "Logo baskılı promosyon kalem seçimi yaparken kalite, model, baskı türü, kullanım amacı ve hedef kitle açısından dikkat edilmesi gerekenler.",
     url: PAGE_URL,
     type: "article",
     images: [
@@ -32,10 +32,56 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?",
     description:
-      "Promosyon kalem seçiminde dikkat edilmesi gereken tüm önemli noktaları bu detaylı rehberde inceleyin.",
+      "Promosyon kalem seçiminde doğru model, kaliteli baskı ve hedef kitle uyumu için kapsamlı rehber.",
     images: [`${SITE_URL}${GUIDE_IMAGE}`],
   },
 };
+
+const faqItems = [
+  {
+    question: "Promosyon kalem seçerken en önemli kriter nedir?",
+    answer:
+      "Promosyon kalem seçerken en önemli kriter hedef kitleye uygun model belirlemektir. Ürünün kalitesi, baskı alanı, yazım konforu ve kullanım amacı birlikte değerlendirilmelidir.",
+  },
+  {
+    question: "Plastik promosyon kalem mi metal promosyon kalem mi tercih edilmeli?",
+    answer:
+      "Geniş kitlelere ekonomik dağıtım yapılacaksa plastik promosyon kalemler, daha prestijli kurumsal hediye hedefleniyorsa metal promosyon kalemler tercih edilebilir.",
+  },
+  {
+    question: "Promosyon kalemde baskı alanı neden önemlidir?",
+    answer:
+      "Baskı alanı, logo ve marka adının okunabilir görünmesini sağlar. Dar baskı alanına sahip ürünlerde karmaşık logolar net görünmeyebilir.",
+  },
+  {
+    question: "Promosyon kalem siparişinde adet nasıl belirlenmelidir?",
+    answer:
+      "Sipariş adedi; dağıtım yapılacak kişi sayısı, etkinlik planı, kampanya süresi ve bütçeye göre belirlenmelidir. Yüksek adetlerde birim maliyet daha avantajlı olabilir.",
+  },
+];
+
+const relatedCategories = [
+  {
+    title: "Promosyon Kalem",
+    href: "/kategori/kalem",
+    desc: "Logo baskılı plastik, metal ve roller kalem seçeneklerini inceleyin.",
+  },
+  {
+    title: "Promosyon Anahtarlık",
+    href: "/kategori/anahtarlik",
+    desc: "Kalemle birlikte dağıtılabilecek pratik kurumsal ürünler.",
+  },
+  {
+    title: "Promosyon Termos",
+    href: "/kategori/termos",
+    desc: "Daha prestijli kurumsal hediye arayan firmalar için ideal seçenekler.",
+  },
+  {
+    title: "Promosyon USB Bellek",
+    href: "/kategori/usb-bellek",
+    desc: "Teknoloji odaklı kurumsal tanıtım çalışmaları için güçlü alternatif.",
+  },
+];
 
 export default function PromosyonKalemSecimRehberiPage() {
   const articleSchema = {
@@ -43,7 +89,7 @@ export default function PromosyonKalemSecimRehberiPage() {
     "@type": "Article",
     headline: "Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?",
     description:
-      "Promosyon kalem seçerken model, baskı türü, kalite, hedef kitle ve kullanım alanı açısından dikkat edilmesi gereken noktaları anlatan detaylı rehber.",
+      "Promosyon kalem seçerken hedef kitle, model, baskı türü, kalite, adet planlaması ve kurumsal kullanım açısından dikkat edilmesi gereken noktaları anlatan kapsamlı rehber.",
     inLanguage: "tr-TR",
     mainEntityOfPage: PAGE_URL,
     author: {
@@ -86,8 +132,21 @@ export default function PromosyonKalemSecimRehberiPage() {
     ],
   };
 
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqItems.map((item) => ({
+      "@type": "Question",
+      name: item.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: item.answer,
+      },
+    })),
+  };
+
   return (
-    <main className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
+    <main className="bg-gray-50 text-gray-900">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
@@ -96,411 +155,540 @@ export default function PromosyonKalemSecimRehberiPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
 
-      <nav className="mb-6 text-sm text-gray-500">
-        <Link href="/" className="hover:underline">
-          Ana Sayfa
-        </Link>{" "}
-        /{" "}
-        <Link href="/rehber" className="hover:underline">
-          Rehber
-        </Link>{" "}
-        / <span>Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?</span>
-      </nav>
-
-      <article className="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm md:p-10">
-        <header>
-          <div className="mb-6 overflow-hidden rounded-2xl">
-            <Image
-              src={GUIDE_IMAGE}
-              alt="Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?"
-              width={1200}
-              height={675}
-              className="h-auto w-full object-cover"
-              priority
-            />
-          </div>
-
-          <div className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
+      <section className="mx-auto max-w-6xl px-5 py-10 md:py-14">
+        <nav className="mb-6 text-sm text-gray-500">
+          <Link href="/" className="hover:text-gray-900 hover:underline">
+            Ana Sayfa
+          </Link>{" "}
+          /{" "}
+          <Link href="/rehber" className="hover:text-gray-900 hover:underline">
             Rehber
-          </div>
-
-          <h1 className="mt-4 text-3xl font-extrabold leading-tight md:text-4xl">
+          </Link>{" "}
+          /{" "}
+          <span className="text-gray-700">
             Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?
-          </h1>
+          </span>
+        </nav>
 
-          <p className="mt-4 text-base leading-7 text-gray-700 md:text-lg">
-            Promosyon kalem, firmaların en sık tercih ettiği kurumsal tanıtım
-            ürünleri arasında yer alır. Uygun maliyetli olması, günlük hayatta
-            sürekli kullanılması ve geniş kitlelere hitap etmesi nedeniyle logo
-            baskılı kalemler uzun yıllardır en güçlü promosyon seçeneklerinden
-            biri olarak görülmektedir. Ancak burada önemli olan yalnızca kalem
-            dağıtmak değildir. Doğru model, doğru baskı yöntemi ve doğru hedef
-            kitle eşleşmesi sağlanmadığında promosyon kalemden beklenen etki tam
-            olarak alınamayabilir.
-          </p>
+        <article className="overflow-hidden rounded-[2rem] border border-gray-200 bg-white shadow-sm">
+          <header className="relative">
+            <div className="relative h-[270px] w-full overflow-hidden md:h-[430px]">
+              <Image
+                src={GUIDE_IMAGE}
+                alt="Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?"
+                fill
+                sizes="(max-width: 768px) 100vw, 1100px"
+                className="object-cover"
+                priority
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/35 to-transparent" />
 
-          <p className="mt-4 text-base leading-7 text-gray-700 md:text-lg">
-            Bu nedenle promosyon kalem seçimi yapılırken sadece birim fiyatı
-            değerlendirmek yeterli olmaz. Kalemin malzeme kalitesi, yazım
-            konforu, baskıya uygun yüzeyi, kullanım alanı, dağıtım amacı,
-            hedeflenen müşteri profili ve sipariş adedi gibi birçok unsur
-            birlikte düşünülmelidir. Çünkü promosyon ürünü olarak dağıtılan bir
-            kalem, aynı zamanda markanızın temsilcisidir. Elinize aldığınız ürün
-            nasıl bir kalite hissi veriyorsa, müşterinizin zihninde markanız da
-            o kalite algısıyla yer eder.
-          </p>
+              <div className="absolute bottom-0 left-0 right-0 p-6 md:p-10">
+                <div className="mb-4 inline-flex rounded-full bg-white/90 px-4 py-1.5 text-xs font-bold text-gray-900 shadow-sm">
+                  Satın Alma Rehberi
+                </div>
 
-          <p className="mt-4 text-base leading-7 text-gray-700 md:text-lg">
-            Bu rehberde promosyon kalem seçerken dikkat edilmesi gereken temel
-            noktaları detaylı şekilde inceleyebilir, firmanız için en doğru
-            seçimi yaparken hangi kriterleri önceliklendirmeniz gerektiğini
-            görebilirsiniz. Eğer siz de hem kullanışlı hem de marka görünürlüğü
-            yüksek bir ürün arıyorsanız, promosyon kalem seçimi konusunda doğru
-            bir planlama yapmak uzun vadede çok daha verimli sonuç verecektir.
-          </p>
-        </header>
+                <h1 className="max-w-4xl text-3xl font-extrabold leading-tight text-white md:text-5xl">
+                  Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?
+                </h1>
 
-        <div className="mt-10 space-y-10">
-          <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              Neden Doğru Promosyon Kalem Seçimi Önemlidir?
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalemler çoğu zaman ekonomik bir ürün olarak
-                değerlendirilse de etkisi yalnızca fiyat avantajıyla sınırlı
-                değildir. Bir promosyon kalemin asıl gücü, uzun süre boyunca
-                görünür olması ve kullanıcıyla tekrar tekrar temas kurmasıdır.
-                Toplantıda, okulda, ofiste, mağazada, bankoda veya günlük not
-                alırken kullanılan bir kalem, markanızı doğal şekilde görünür
-                hale getirir.
-              </p>
-              <p>
-                Ancak yanlış seçilen bir ürün bu avantajı zayıflatabilir.
-                Örneğin yazımı rahat olmayan, elde kötü his bırakan veya baskısı
-                kısa sürede silinen bir kalem, markanız için beklenen olumlu
-                algıyı oluşturmayabilir. Bu nedenle promosyon kalem seçimini
-                yalnızca maliyet odaklı değil, marka değeri ve kullanım kalitesi
-                odaklı düşünmek gerekir.
-              </p>
-              <p>
-                Özellikle fuar, bayi toplantısı, etkinlik dağıtımı, kurumsal
-                hediye, müşteri ziyareti ve toplu sipariş gibi alanlarda
-                kullanılacak promosyon kalemlerin daha planlı seçilmesi gerekir.
-                Çünkü her kullanım amacı için uygun model farklı olabilir.
-              </p>
-            </div>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              1. Hedef Kitleyi Doğru Belirleyin
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem seçiminde ilk dikkat edilmesi gereken konu,
-                ürünün kimlere dağıtılacağıdır. Çünkü her hedef kitle aynı ürün
-                tipine aynı şekilde yaklaşmaz. Öğrencilere, fuar
-                ziyaretçilerine, kurumsal yöneticilere, bayi ağına, saha
-                ekiplerine veya düzenli müşterilere verilecek kalemlerin yapısı
-                farklı olmalıdır.
-              </p>
-              <p>
-                Geniş kitleye dağıtılacak bir kampanya düşünülüyorsa ekonomik ve
-                yüksek adetli çözümler daha mantıklı olabilir. Bu noktada
-                plastik promosyon kalem modelleri öne çıkar. Ancak daha
-                prestijli bir etki bırakmak, yönetici düzeyinde hediye vermek
-                veya daha kurumsal bir görünüm oluşturmak isteniyorsa metal
-                promosyon kalemler daha uygun olabilir.
-              </p>
-              <p>
-                Hedef kitle genç, dinamik ve teknolojiyle iç içe bir gruptan
-                oluşuyorsa dokunmatik kalem gibi modern seçenekler daha fazla
-                dikkat çekebilir. Dolayısıyla promosyon kalem seçiminde doğru
-                hedef kitle analizi yapmak, ürünün etkisini ciddi ölçüde artırır.
-              </p>
-            </div>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              2. Kalem Modeli ve Malzeme Yapısı Büyük Fark Yaratır
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalemler yalnızca renk veya görünüm açısından değil,
-                malzeme kalitesi ve kullanım hissi bakımından da birbirinden
-                ayrılır. Plastik gövdeli kalemler genellikle ekonomik çözümler
-                sunarken, metal gövdeli kalemler daha güçlü bir kalite algısı
-                oluşturur. Soft touch yüzeyli kalemler daha premium bir dokunuş
-                hissi verirken, klasik parlak yüzeyli modeller daha yaygın ve
-                hızlı dağıtım için tercih edilir.
-              </p>
-              <p>
-                Kalemin gövdesi, klips yapısı, uç mekanizması ve tutuş hissi,
-                kullanıcının ürün hakkındaki ilk izlenimini doğrudan etkiler.
-                Bu yüzden promosyon kalem seçerken sadece görsel tasarıma değil,
-                kullanım deneyimine de bakmak gerekir. Elinde hafif ve dayanıksız
-                his bırakan bir ürün ile daha sağlam ve dengeli bir ürün
-                arasında marka algısı açısından ciddi fark oluşabilir.
-              </p>
-              <p>
-                Özellikle kurumsal promosyon ürünleri arasında seçim yaparken,
-                ürünün firmanızı nasıl temsil edeceğini düşünmek önemlidir.
-                Kalem küçük bir ürün olabilir ama kullanıcı açısından marka ile
-                doğrudan temas kurulan gerçek bir nesnedir.
-              </p>
-            </div>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              3. Baskı Türü ve Baskı Alanı Kontrol Edilmelidir
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem seçiminde en kritik konulardan biri de baskı
-                uygunluğudur. Çünkü promosyon ürününün asıl amacı, markanızın
-                görünür olmasını sağlamaktır. Kalem ne kadar şık olursa olsun,
-                eğer logo baskısı net görünmüyorsa veya kısa sürede siliniyorsa,
-                tanıtım gücü azalır.
-              </p>
-              <p>
-                Bu nedenle kalemin yüzey yapısı, baskı alanı ve uygulanabilecek
-                baskı yöntemi mutlaka değerlendirilmelidir. Bazı modeller tampon
-                baskıya daha uygunken, bazıları UV baskı veya lazer baskı için
-                daha verimli olabilir. Metal kalemlerde lazer baskı daha şık ve
-                kalıcı bir görünüm sunabilirken, plastik kalemlerde tampon veya
-                UV baskı daha sık tercih edilir.
-              </p>
-              <p>
-                Ayrıca logo yerleşiminin okunabilir olması, yazının çok küçük
-                kalmaması ve marka isminin rahat seçilebilmesi gerekir. Baskı
-                alanı dar olan ürünlerde karmaşık logolar istenen netliği
-                vermeyebilir. Bu da promosyon ürününün tanıtım gücünü düşürür.
-              </p>
-            </div>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              4. Yazım Kalitesi ve Kullanım Konforu Göz Ardı Edilmemelidir
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Bir promosyon kalemin gerçekten etkili olabilmesi için sadece
-                güzel görünmesi yetmez; aynı zamanda rahat yazması gerekir.
-                Kullanıcı bir kalemi eline aldığında ilk değerlendirdiği şeylerden
-                biri yazım performansıdır. Akmayan, takılmayan, rahat kayan ve
-                günlük kullanıma uygun bir kalem her zaman daha olumlu izlenim
-                bırakır.
-              </p>
-              <p>
-                Eğer verilen kalem ilk kullanımda problem çıkarıyorsa, bu durum
-                doğrudan marka algısını etkileyebilir. Çünkü kullanıcı zihninde
-                ürün kalitesi ile firma kalitesi arasında farkında olmadan bir
-                bağ kurar. Bu yüzden promosyon kalemlerde refil kalitesi, uç
-                mekanizması ve genel yazım performansı dikkate alınmalıdır.
-              </p>
-              <p>
-                Özellikle uzun süre masada kalmasını ve düzenli kullanılmasını
-                hedefliyorsanız, yazım kalitesi yüksek bir model seçmek çok daha
-                doğru olur. Kullanılmayan bir promosyon kalem, görünür olsa bile
-                tam etki yaratmaz; kullanılan bir kalem ise markayı düzenli
-                şekilde hatırlatır.
-              </p>
-            </div>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              5. Kullanım Alanına Göre Ürün Seçimi Yapılmalıdır
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalemler her ortamda aynı amaçla kullanılmaz. Bu
-                nedenle ürün seçiminde dağıtım yapılacak alan mutlaka hesaba
-                katılmalıdır. Fuar dağıtımı için tercih edilen kalem ile özel
-                müşteri hediyesi olarak verilecek kalem aynı olmak zorunda
-                değildir.
-              </p>
-              <p>
-                Örneğin etkinliklerde, mağaza açılışlarında veya geniş katılımlı
-                kampanyalarda daha ekonomik ve hızlı dağıtılabilir modeller ön
-                plana çıkar. Buna karşılık yönetici toplantılarında, resmi
-                ziyaretlerde veya özel müşteri sunumlarında daha şık ve güçlü
-                bir kalite algısı sunan modeller tercih edilir.
-              </p>
-              <p>
-                Ayrıca bazı firmalar promosyon kalemleri sipariş paketlerinin
-                içine eklerken, bazıları ofis içinde karşılama ürünü olarak
-                kullanır. Kullanım senaryosu net belirlendiğinde doğru kalem
-                modeline ulaşmak çok daha kolay hale gelir.
-              </p>
-            </div>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              6. Adet Planlaması ve Bütçe Dengesi Doğru Kurulmalıdır
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem siparişlerinde fiyatı belirleyen en önemli
-                unsurlardan biri adet planlamasıdır. Yüksek adetli siparişlerde
-                birim maliyet genellikle daha avantajlı hale gelir. Bu nedenle
-                sipariş öncesinde ürünün ne kadar kişiye ulaşacağı, hangi
-                organizasyonlarda kullanılacağı ve ne kadar sürede tüketileceği
-                planlanmalıdır.
-              </p>
-              <p>
-                Sadece en düşük fiyatlı ürüne yönelmek her zaman doğru sonuç
-                vermeyebilir. Çünkü bazen biraz daha kaliteli bir ürün, daha uzun
-                süre kullanıldığı ve marka algısını daha iyi taşıdığı için çok
-                daha yüksek geri dönüş sağlayabilir. Burada önemli olan nokta,
-                kalite ile bütçe arasında doğru dengeyi kurabilmektir.
-              </p>
-              <p>
-                Eğer amaç kısa süreli yoğun dağıtım ise ekonomik modeller daha
-                mantıklı olabilir. Ancak daha seçici bir dağıtım yapılacaksa ve
-                kullanıcı başına bırakılan etki önemliyse, daha kaliteli
-                seçeneklere yönelmek faydalı olabilir.
-              </p>
-            </div>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              7. Kurumsal Kimliğe Uygunluk Dikkate Alınmalıdır
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem seçerken dikkat edilmesi gereken bir diğer önemli
-                konu da ürünün markanızın genel çizgisiyle uyumlu olmasıdır.
-                Kurumsal kimliğiniz sade, modern, yenilikçi veya premium bir
-                algı taşıyorsa, tercih edeceğiniz kalemin de bu çizgiye uygun
-                görünmesi gerekir.
-              </p>
-              <p>
-                Renk seçimi, baskı stili, yüzey yapısı ve kalem modeli, firmanızın
-                dışarıya verdiği imajla uyumlu olduğunda promosyon etkisi çok daha
-                güçlü olur. Örneğin teknoloji odaklı bir marka için dokunmatik
-                kalemler daha uygun olabilirken, daha klasik ve prestijli bir
-                marka için metal kalemler daha doğru bir tercih olabilir.
-              </p>
-              <p>
-                Promosyon ürünü küçük bir detay gibi görünse de marka bütünlüğü
-                açısından önemlidir. Kalem üzerinde kullanılan logo, ürünün
-                rengi ve baskı kalitesi, firmanızın profesyonellik düzeyi
-                hakkında doğrudan fikir verebilir.
-              </p>
-            </div>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              Sık Yapılan Hatalar Nelerdir?
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem siparişi verirken firmaların en sık yaptığı
-                hatalardan biri yalnızca fiyat odaklı hareket etmektir. Elbette
-                bütçe önemlidir; ancak çok düşük kaliteli bir ürün seçmek,
-                reklam etkisini azaltabilir. Bir diğer yaygın hata ise baskı
-                alanını ve baskı netliğini yeterince değerlendirmeden karar
-                vermektir.
-              </p>
-              <p>
-                Hedef kitleye uygun model seçmemek, kalemin kullanım amacını
-                netleştirmemek ve kalite hissini geri planda bırakmak da sık
-                görülen sorunlar arasındadır. Bazı durumlarda kalem güzel görünse
-                bile yazım kalitesi zayıf olabilir. Bu da kullanıcı deneyimini
-                olumsuz etkiler.
-              </p>
-              <p>
-                Doğru promosyon kalem seçimi için ürünün hem maliyet hem kalite
-                hem de marka görünürlüğü açısından birlikte değerlendirilmesi
-                gerekir.
-              </p>
-            </div>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">Sonuç</h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem seçerken dikkat edilmesi gereken noktalar, ürünün
-                yalnızca görünümüyle sınırlı değildir. Hedef kitle, kalem modeli,
-                malzeme kalitesi, baskı uygunluğu, yazım performansı, kullanım
-                alanı, adet planlaması ve kurumsal kimlik uyumu birlikte
-                değerlendirildiğinde çok daha başarılı sonuç alınabilir.
-              </p>
-              <p>
-                Doğru seçilmiş bir logo baskılı promosyon kalem, hem kullanışlı
-                bir ürün hem de uzun süre görünür kalan güçlü bir reklam aracı
-                haline gelir. Markasını daha fazla kişiye ulaştırmak, müşteri
-                üzerinde kalıcı izlenim bırakmak ve kurumsal görünürlüğünü
-                artırmak isteyen firmalar için promosyon kalem hala en etkili
-                çözümlerden biridir.
-              </p>
-              <p>
-                Eğer siz de firmanız için doğru promosyon kalem modelini
-                incelemek istiyorsanız, kategori sayfalarını ziyaret ederek farklı
-                ürün alternatiflerini değerlendirebilir ve ihtiyacınıza uygun
-                çözümler için teklif talebinde bulunabilirsiniz.
-              </p>
-            </div>
-
-            <div className="mt-8 rounded-2xl border border-gray-200 bg-gray-50 p-5">
-              <h3 className="text-lg font-bold text-gray-900">
-                İlgili Kategoriler
-              </h3>
-
-              <div className="mt-4 flex flex-col gap-3 text-sm font-semibold text-gray-800">
-                <Link href="/kategori/kalem" className="hover:underline">
-                  Promosyon Kalem Modelleri
-                </Link>
-                <Link href="/kategori/cakmak" className="hover:underline">
-                  Promosyon Çakmak Modelleri
-                </Link>
-                <Link href="/kategori/termos" className="hover:underline">
-                  Promosyon Termos Modelleri
-                </Link>
-                <Link href="/kategori/usb-bellek" className="hover:underline">
-                  Promosyon USB Bellek Modelleri
-                </Link>
+                <p className="mt-4 max-w-3xl text-sm leading-7 text-gray-100 md:text-lg">
+                  Logo baskılı kalem siparişi verirken yalnızca fiyat değil;
+                  hedef kitle, kalite, baskı alanı, kullanım amacı ve kurumsal
+                  imaj da birlikte değerlendirilmelidir.
+                </p>
               </div>
             </div>
+          </header>
 
-            <div className="mt-6 flex flex-col gap-3 sm:flex-row">
-              <Link
-                href="/kurumsal-teklif-al"
-                className="inline-flex items-center justify-center rounded-2xl bg-black px-6 py-3 text-sm font-semibold text-white transition hover:bg-gray-900"
-              >
-                Kurumsal Teklif Al
-              </Link>
+          <div className="grid gap-8 p-6 md:grid-cols-[1fr_280px] md:p-10">
+            <div className="space-y-10">
+              <section className="rounded-3xl border border-gray-200 bg-gray-50 p-5 md:p-7">
+                <p className="text-base leading-8 text-gray-700 md:text-lg">
+                  Promosyon kalem, firmaların en sık tercih ettiği kurumsal
+                  tanıtım ürünlerinden biridir. Ancak etkili bir sonuç almak için
+                  sadece logo baskılı bir kalem yaptırmak yeterli değildir. Doğru
+                  kalem modeli, doğru baskı yöntemi, doğru adet planlaması ve
+                  doğru hedef kitle uyumu sağlandığında promosyon kalem gerçek
+                  anlamda güçlü bir reklam aracına dönüşür.
+                </p>
 
-              <Link
-                href="/urunler"
-                className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 transition hover:border-gray-500"
-              >
-                Tüm Ürünleri İncele
-              </Link>
+                <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
+                  Bu rehberde promosyon kalem seçerken dikkat edilmesi gereken
+                  tüm temel noktaları; ürün kalitesi, baskı alanı, kullanım
+                  amacı, bütçe dengesi ve marka algısı açısından detaylı şekilde
+                  inceleyebilirsiniz.
+                </p>
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-extrabold text-gray-900">
+                  Doğru Promosyon Kalem Seçimi Neden Önemlidir?
+                </h2>
+
+                <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
+                  <p>
+                    Promosyon ürünleri arasında kalemlerin bu kadar yaygın
+                    kullanılmasının temel nedeni, günlük hayatta sürekli ihtiyaç
+                    duyulan pratik ürünler olmalarıdır. Bir kalem ofiste, okulda,
+                    toplantıda, mağazada, fuarda veya müşteri görüşmesinde rahatlıkla
+                    kullanılabilir.
+                  </p>
+
+                  <p>
+                    Ancak seçilen kalem kalitesizse, yazımı rahat değilse veya
+                    üzerindeki logo baskısı zayıf görünüyorsa, beklenen marka
+                    etkisi oluşmayabilir. Bu nedenle promosyon kalem seçimi
+                    sadece maliyet hesabı olarak görülmemelidir.
+                  </p>
+
+                  <p>
+                    İyi seçilmiş bir promosyon kalem, firmanın profesyonelliğini
+                    destekler. Kötü seçilmiş bir ürün ise markanın kalite algısını
+                    zayıflatabilir. Bu yüzden ürün küçük olsa bile temsil ettiği
+                    marka değeri büyüktür.
+                  </p>
+                </div>
+              </section>
+
+              <section className="grid gap-4 md:grid-cols-3">
+                {[
+                  {
+                    title: "Hedef Kitle",
+                    text: "Kalemin kimlere dağıtılacağı ürün modelini belirler.",
+                  },
+                  {
+                    title: "Baskı Kalitesi",
+                    text: "Logo ve marka adı net, okunabilir ve kalıcı olmalıdır.",
+                  },
+                  {
+                    title: "Kullanım Amacı",
+                    text: "Fuar, toplantı, ofis veya özel hediye için farklı modeller seçilebilir.",
+                  },
+                ].map((item) => (
+                  <div
+                    key={item.title}
+                    className="rounded-2xl border border-gray-200 bg-white p-5 shadow-sm"
+                  >
+                    <h3 className="text-base font-extrabold text-gray-900">
+                      {item.title}
+                    </h3>
+                    <p className="mt-2 text-sm leading-6 text-gray-600">
+                      {item.text}
+                    </p>
+                  </div>
+                ))}
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-extrabold text-gray-900">
+                  1. Hedef Kitleyi Net Belirleyin
+                </h2>
+
+                <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
+                  <p>
+                    Promosyon kalem seçiminde ilk adım, ürünün kimlere
+                    dağıtılacağını belirlemektir. Çünkü her hedef kitle aynı ürün
+                    tipinden etkilenmez. Öğrencilere, fuar ziyaretçilerine,
+                    yöneticilere, bayi ağına, saha ekiplerine veya düzenli
+                    müşterilere verilecek kalemlerin modeli farklı olabilir.
+                  </p>
+
+                  <p>
+                    Geniş kitlelere dağıtım yapılacaksa ekonomik plastik kalemler
+                    daha uygun olabilir. Daha seçkin bir kitleye sunum yapılacaksa
+                    metal kalem, roller kalem veya özel kutulu kalem setleri daha
+                    güçlü bir izlenim bırakabilir.
+                  </p>
+
+                  <p>
+                    Hedef kitlenin yaşı, mesleği, kullanım alışkanlıkları ve ürünle
+                    temas edeceği ortam dikkate alındığında promosyon kalemden
+                    alınacak verim artar.
+                  </p>
+                </div>
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-extrabold text-gray-900">
+                  2. Kalem Modeli Marka Algısını Doğrudan Etkiler
+                </h2>
+
+                <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
+                  <p>
+                    Promosyon kalem modelleri; plastik, metal, roller, tükenmez,
+                    dokunmatik, soft touch veya kalem seti gibi farklı seçeneklere
+                    ayrılır. Her modelin oluşturduğu algı farklıdır.
+                  </p>
+
+                  <p>
+                    Plastik promosyon kalem modelleri yüksek adetli dağıtımlar
+                    için ekonomik çözümler sunar. Metal promosyon kalemler daha
+                    prestijli görünür. Dokunmatik kalemler teknoloji odaklı
+                    firmalar için modern bir alternatif olabilir.
+                  </p>
+
+                  <p>
+                    Bu nedenle kalem modeli seçilirken ürünün yalnızca fiyatına
+                    değil, markanızın dışarıya vermek istediği mesaja da bakmak
+                    gerekir.
+                  </p>
+                </div>
+              </section>
+
+              <section className="rounded-3xl border border-gray-200 bg-gray-50 p-5 md:p-7">
+                <h2 className="text-2xl font-extrabold text-gray-900">
+                  Hızlı Seçim Tablosu
+                </h2>
+
+                <div className="mt-5 overflow-hidden rounded-2xl border border-gray-200 bg-white">
+                  <div className="grid grid-cols-3 bg-gray-100 text-xs font-bold text-gray-700 md:text-sm">
+                    <div className="p-3">Kullanım Amacı</div>
+                    <div className="p-3">Önerilen Model</div>
+                    <div className="p-3">Avantaj</div>
+                  </div>
+
+                  {[
+                    ["Fuar Dağıtımı", "Plastik Kalem", "Ekonomik ve yüksek adetli"],
+                    ["Kurumsal Hediye", "Metal Kalem", "Daha prestijli görünüm"],
+                    ["Teknoloji Firmaları", "Dokunmatik Kalem", "Modern kullanım"],
+                    ["VIP Sunum", "Kalem Seti", "Premium algı"],
+                  ].map((row) => (
+                    <div
+                      key={row[0]}
+                      className="grid grid-cols-3 border-t border-gray-100 text-xs text-gray-700 md:text-sm"
+                    >
+                      <div className="p-3 font-semibold text-gray-900">
+                        {row[0]}
+                      </div>
+                      <div className="p-3">{row[1]}</div>
+                      <div className="p-3">{row[2]}</div>
+                    </div>
+                  ))}
+                </div>
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-extrabold text-gray-900">
+                  3. Baskı Alanı ve Logo Görünürlüğü Kontrol Edilmelidir
+                </h2>
+
+                <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
+                  <p>
+                    Promosyon kalemin temel amacı markanızı görünür hale
+                    getirmektir. Bu nedenle baskı alanı çok önemlidir. Logo,
+                    marka adı veya iletişim bilgisinin rahat okunabileceği bir
+                    yüzey tercih edilmelidir.
+                  </p>
+
+                  <p>
+                    Bazı kalem modellerinde baskı alanı dar olabilir. Bu durumda
+                    çok detaylı logolar veya uzun metinler net görünmeyebilir.
+                    Daha sade logo kullanımı, kısa slogan veya yalnızca marka adı
+                    baskısı daha profesyonel sonuç verebilir.
+                  </p>
+
+                  <p>
+                    Metal kalemlerde lazer baskı daha kalıcı ve şık bir etki
+                    oluşturabilir. Plastik kalemlerde ise tampon baskı veya UV
+                    baskı seçenekleri değerlendirilebilir.
+                  </p>
+                </div>
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-extrabold text-gray-900">
+                  4. Yazım Kalitesi ve Kullanım Konforu Önemlidir
+                </h2>
+
+                <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
+                  <p>
+                    Bir promosyon kalem gerçekten kullanılıyorsa etkili olur.
+                    Kullanıcı kalemi rahat bulmazsa, ürün kısa sürede kenara
+                    bırakılabilir. Bu nedenle yazım kalitesi ve kullanım konforu
+                    göz ardı edilmemelidir.
+                  </p>
+
+                  <p>
+                    Kalemin eldeki dengesi, mürekkep akışı, uç mekanizması ve
+                    tutuş hissi kullanıcı deneyimini belirler. Rahat yazan bir
+                    kalem daha uzun süre kullanılır ve markanız daha fazla görünür
+                    olur.
+                  </p>
+
+                  <p>
+                    Özellikle müşteriye veya iş ortağına verilecek ürünlerde kalite
+                    hissi daha önemlidir. Çünkü promosyon ürünü, markanızla ilgili
+                    ilk izlenimlerden biri olabilir.
+                  </p>
+                </div>
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-extrabold text-gray-900">
+                  5. Kullanım Alanına Göre Ürün Seçilmelidir
+                </h2>
+
+                <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
+                  <p>
+                    Promosyon kalemler her ortamda aynı amaçla kullanılmaz. Fuar
+                    için seçilen ürün ile yönetici toplantısında verilecek ürün
+                    aynı seviyede olmak zorunda değildir. Bu nedenle kullanım
+                    alanı seçim sürecinde netleştirilmelidir.
+                  </p>
+
+                  <p>
+                    Fuar, mağaza açılışı ve kampanya dağıtımlarında uygun
+                    maliyetli modeller ön plana çıkar. Bayi toplantısı, özel
+                    müşteri ziyareti ve kurumsal sunumlarda ise daha kaliteli ve
+                    şık modeller tercih edilebilir.
+                  </p>
+
+                  <p>
+                    Ayrıca promosyon kalemler defter, ajanda, anahtarlık, USB
+                    bellek veya termos gibi ürünlerle birlikte set haline
+                    getirildiğinde çok daha güçlü bir kurumsal hediye etkisi
+                    oluşturabilir.
+                  </p>
+                </div>
+              </section>
+
+              <section className="rounded-3xl bg-black p-6 text-white md:p-8">
+                <h2 className="text-2xl font-extrabold">
+                  Kurumsal Promosyon Planı Hazırlarken Kalemi Tek Başına Düşünmeyin
+                </h2>
+
+                <p className="mt-4 text-sm leading-7 text-gray-200 md:text-base">
+                  Promosyon kalem, birçok ürünle birlikte kullanılabilen güçlü bir
+                  tamamlayıcıdır. Özellikle defter, ajanda, anahtarlık, termos ve
+                  USB bellek gibi ürünlerle birlikte sunulduğunda daha profesyonel
+                  bir marka deneyimi oluşturur.
+                </p>
+
+                <div className="mt-6 flex flex-col gap-3 sm:flex-row">
+                  <Link
+                    href="/kategori/kalem"
+                    className="inline-flex items-center justify-center rounded-2xl bg-white px-6 py-3 text-sm font-bold text-black transition hover:bg-gray-100"
+                  >
+                    Kalem Modellerini İncele
+                  </Link>
+
+                  <Link
+                    href="/kurumsal-teklif-al"
+                    className="inline-flex items-center justify-center rounded-2xl border border-white/30 px-6 py-3 text-sm font-bold text-white transition hover:bg-white/10"
+                  >
+                    Teklif Al
+                  </Link>
+                </div>
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-extrabold text-gray-900">
+                  6. Adet Planlaması ve Bütçe Dengesi Kurulmalıdır
+                </h2>
+
+                <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
+                  <p>
+                    Promosyon kalem siparişinde adet planlaması, fiyat ve stok
+                    yönetimi açısından önemlidir. Dağıtım yapılacak kişi sayısı,
+                    etkinlik takvimi ve kampanya süresi önceden belirlenmelidir.
+                  </p>
+
+                  <p>
+                    Yüksek adetlerde birim maliyet daha avantajlı olabilir. Ancak
+                    sadece ucuz ürün seçmek her zaman doğru değildir. Kalite ve
+                    bütçe dengesi birlikte düşünülmelidir.
+                  </p>
+
+                  <p>
+                    Kısa süreli geniş dağıtım için ekonomik modeller, daha seçici
+                    müşteri grupları için ise daha premium modeller tercih
+                    edilebilir.
+                  </p>
+                </div>
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-extrabold text-gray-900">
+                  7. Kurumsal Kimliğe Uyum Sağlanmalıdır
+                </h2>
+
+                <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
+                  <p>
+                    Promosyon kalem markanızın dış dünyaya verdiği mesajın küçük
+                    ama etkili bir parçasıdır. Bu nedenle renk, model, baskı
+                    tekniği ve ürün kalitesi kurumsal kimliğinizle uyumlu olmalıdır.
+                  </p>
+
+                  <p>
+                    Sade ve modern bir marka için minimal tasarımlı kalemler daha
+                    uygun olabilir. Daha klasik ve prestijli bir görünüm için metal
+                    gövdeli kalemler tercih edilebilir. Genç ve dinamik markalar
+                    için renkli veya dokunmatik modeller daha dikkat çekici olabilir.
+                  </p>
+                </div>
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-extrabold text-gray-900">
+                  Promosyon Kalem Seçiminde Sık Yapılan Hatalar
+                </h2>
+
+                <div className="mt-5 grid gap-4 md:grid-cols-2">
+                  {[
+                    "Sadece en düşük fiyatlı ürünü seçmek",
+                    "Baskı alanını kontrol etmeden sipariş vermek",
+                    "Hedef kitleye uygun olmayan model tercih etmek",
+                    "Yazım kalitesini ve kullanım hissini önemsememek",
+                    "Logo baskısını fazla küçük veya karmaşık hazırlamak",
+                    "Dağıtım amacını netleştirmeden ürün seçmek",
+                  ].map((item) => (
+                    <div
+                      key={item}
+                      className="rounded-2xl border border-red-100 bg-red-50 p-5"
+                    >
+                      <p className="text-sm font-semibold leading-6 text-red-900">
+                        {item}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-extrabold text-gray-900">
+                  Promosyon Kalemle Birlikte Hangi Ürünler Tercih Edilebilir?
+                </h2>
+
+                <p className="mt-4 text-sm leading-7 text-gray-700 md:text-base">
+                  Kalem, kurumsal promosyon çalışmalarında tek başına etkili
+                  olduğu gibi farklı ürünlerle birlikte daha güçlü bir set haline
+                  de getirilebilir. Özellikle toplantı, fuar, bayi ziyareti ve
+                  müşteri hediyelerinde tamamlayıcı ürünlerle birlikte sunulması
+                  daha profesyonel bir izlenim oluşturur.
+                </p>
+
+                <div className="mt-6 grid gap-4 md:grid-cols-2">
+                  {relatedCategories.map((item) => (
+                    <Link
+                      key={item.href}
+                      href={item.href}
+                      className="group rounded-2xl border border-gray-200 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:border-gray-400 hover:shadow-md"
+                    >
+                      <h3 className="text-base font-extrabold text-gray-900 group-hover:underline">
+                        {item.title}
+                      </h3>
+                      <p className="mt-2 text-sm leading-6 text-gray-600">
+                        {item.desc}
+                      </p>
+                    </Link>
+                  ))}
+                </div>
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-extrabold text-gray-900">
+                  Sık Sorulan Sorular
+                </h2>
+
+                <div className="mt-5 space-y-4">
+                  {faqItems.map((item) => (
+                    <div
+                      key={item.question}
+                      className="rounded-2xl border border-gray-200 bg-gray-50 p-5"
+                    >
+                      <h3 className="text-base font-extrabold text-gray-900">
+                        {item.question}
+                      </h3>
+                      <p className="mt-2 text-sm leading-7 text-gray-700">
+                        {item.answer}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </section>
+
+              <section>
+                <h2 className="text-2xl font-extrabold text-gray-900">Sonuç</h2>
+
+                <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
+                  <p>
+                    Promosyon kalem seçerken hedef kitle, model, baskı alanı,
+                    yazım kalitesi, kullanım amacı, adet planlaması ve kurumsal
+                    kimlik uyumu birlikte değerlendirilmelidir. Doğru seçilen
+                    logo baskılı kalem, yalnızca bir hediye değil, markanızın
+                    sürekli görünür kalmasını sağlayan etkili bir reklam ürünüdür.
+                  </p>
+
+                  <p>
+                    Firmanız için doğru promosyon kalem modelini belirlemek
+                    istiyorsanız, ürün kategorilerini inceleyebilir ve ihtiyacınıza
+                    uygun adet, baskı ve model seçenekleri için teklif talep
+                    edebilirsiniz.
+                  </p>
+                </div>
+
+                <div className="mt-6 flex flex-col gap-3 sm:flex-row">
+                  <Link
+                    href="/kurumsal-teklif-al"
+                    className="inline-flex items-center justify-center rounded-2xl bg-black px-6 py-3 text-sm font-semibold text-white transition hover:bg-gray-900"
+                  >
+                    Kurumsal Teklif Al
+                  </Link>
+
+                  <Link
+                    href="/urunler"
+                    className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 transition hover:border-gray-500"
+                  >
+                    Tüm Ürünleri İncele
+                  </Link>
+                </div>
+              </section>
             </div>
-          </section>
-        </div>
-      </article>
+
+            <aside className="hidden md:block">
+              <div className="sticky top-24 space-y-5">
+                <div className="rounded-3xl border border-gray-200 bg-gray-50 p-5">
+                  <p className="text-xs font-bold uppercase tracking-wide text-gray-500">
+                    Rehber İçeriği
+                  </p>
+
+                  <ul className="mt-4 space-y-3 text-sm font-medium text-gray-700">
+                    <li>Hedef kitle seçimi</li>
+                    <li>Kalem modeli belirleme</li>
+                    <li>Baskı alanı kontrolü</li>
+                    <li>Yazım kalitesi</li>
+                    <li>Bütçe ve adet planı</li>
+                    <li>Sık yapılan hatalar</li>
+                  </ul>
+                </div>
+
+                <div className="rounded-3xl bg-black p-5 text-white">
+                  <h3 className="text-lg font-extrabold">
+                    Kalem Teklifi Alın
+                  </h3>
+                  <p className="mt-3 text-sm leading-6 text-gray-300">
+                    Logo baskılı promosyon kalem modelleri için firmanıza özel
+                    fiyat teklifi isteyin.
+                  </p>
+
+                  <Link
+                    href="/kurumsal-teklif-al"
+                    className="mt-5 inline-flex w-full items-center justify-center rounded-2xl bg-white px-5 py-3 text-sm font-bold text-black transition hover:bg-gray-100"
+                  >
+                    Teklif Al
+                  </Link>
+                </div>
+              </div>
+            </aside>
+          </div>
+        </article>
+      </section>
     </main>
   );
 }
