@@ -94,6 +94,14 @@ export default async function ProductPage({ params }: PageProps) {
   const productUrl = `${SITE_URL}/urunler/${product.slug}`;
   const categoryHref = getCategoryHref(product.category);
 
+  const relatedProducts = products
+    .filter(
+      (item) =>
+        item.category === product.category &&
+        item.slug !== product.slug
+    )
+    .slice(0, 8);
+
   const longDescText = (product.longDesc ?? "").trim();
   const longDescLines = longDescText
     .split(/\n+/)
@@ -211,20 +219,24 @@ export default async function ProductPage({ params }: PageProps) {
           </h1>
 
           {product.price && (
-  <div className="mt-4 border-l-4 border-gray-900 pl-4">
-    <div className="text-sm font-medium text-gray-500">
-      Ürün Fiyatı
-    </div>
+            <div className="mt-4 border-l-4 border-gray-900 pl-4">
+              <div className="text-sm font-medium text-gray-500">
+                Ürün Fiyatı
+              </div>
 
-    <div className="mt-1 text-2xl font-semibold text-gray-900">
-      {product.price.toLocaleString("tr-TR")} TL + KDV
-    </div>
+              <div className="mt-1 text-2xl font-semibold text-gray-900">
+                {product.price.toLocaleString("tr-TR")} TL + KDV
+              </div>
 
-    <p className="mt-1 text-sm font-medium text-green-600">
-      Fiyatlar baskı hariç olup referans niteliğindedir. Sipariş adedi ve baskı detaylarına göre özel fiyatlandırma yapılmaktadır. Ürünler stok durumuna göre temin edilmektedir. Size özel en avantajlı teklif için WhatsApp üzerinden bizimle iletişime geçebilirsiniz.
-    </p>
-  </div>
-)}
+              <p className="mt-1 text-sm font-medium text-green-600">
+                Fiyatlar baskı hariç olup referans niteliğindedir. Sipariş
+                adedi ve baskı detaylarına göre özel fiyatlandırma yapılmaktadır.
+                Ürünler stok durumuna göre temin edilmektedir. Size özel en
+                avantajlı teklif için WhatsApp üzerinden bizimle iletişime
+                geçebilirsiniz.
+              </p>
+            </div>
+          )}
 
           <p className="mt-4 text-gray-900">{product.shortDesc}</p>
 
@@ -298,6 +310,50 @@ export default async function ProductPage({ params }: PageProps) {
           </Link>
         </div>
       </section>
+
+      {relatedProducts.length > 0 && (
+        <section className="mt-16">
+          <h2 className="text-2xl font-bold text-gray-900">
+            Benzer Ürünler
+          </h2>
+
+          <p className="mt-2 text-sm text-gray-600">
+            Bu ürüne benzer logo baskılı promosyon ürün modellerini
+            inceleyebilirsiniz.
+          </p>
+
+          <div className="mt-6 grid grid-cols-2 gap-4 md:grid-cols-4">
+            {relatedProducts.map((item) => (
+              <Link
+                key={item.slug}
+                href={`/urunler/${item.slug}`}
+                className="group rounded-2xl border border-gray-100 bg-white p-3 shadow-sm transition hover:shadow-md"
+              >
+                <div className="relative aspect-square overflow-hidden rounded-xl bg-white">
+                  <Image
+                    src={item.image}
+                    alt={item.title}
+                    fill
+                    unoptimized
+                    sizes="(max-width: 768px) 50vw, 25vw"
+                    className="object-contain p-3 transition group-hover:scale-105"
+                  />
+                </div>
+
+                <h3 className="mt-3 line-clamp-2 text-sm font-semibold text-gray-900">
+                  {item.title}
+                </h3>
+
+                {item.price && (
+                  <div className="mt-2 text-sm font-bold text-gray-900">
+                    {item.price.toLocaleString("tr-TR")} TL + KDV
+                  </div>
+                )}
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
     </main>
   );
 }
