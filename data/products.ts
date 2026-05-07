@@ -5199,7 +5199,7 @@ Promosyon VIP set siparişleri toplu üretim olarak hazırlanmakta olup minimum 
   id: "p131",
   slug: "promosyon-kristal-masa-seti-kms-130",
   title: "Promosyon Kristal Masa Seti KMS-130 | Logo Baskılı Kristal Masa Sümeni",
-
+  price: 3150,
   category: "Masa Sümeni",
 
   image: "/products/promosyon-kristal-masa-seti-kms-130.jpg",
@@ -5246,7 +5246,7 @@ Promosyon masa seti siparişleri toplu üretim olarak hazırlanmakta olup minimu
   id: "p132",
   slug: "promosyon-12li-hesap-makinesi-hm-100",
   title: "Promosyon 12'li Hesap Makinesi HM-100 | Logo Baskılı Promosyon Hesap Makinesi",
-
+  price: 480,
   category: "Hesap Makineleri",
 
   image: "/products/promosyon-12li-hesap-makinesi-hm-100.jpg",
@@ -35200,7 +35200,7 @@ Ofis masaüstü aksesuarları
   slug: "promosyon-kristal-masa-seti-kms-140-vip-ofis",
 
   title: "Promosyon Kristal Masa Seti KMS-140 | VIP Ofis Masaüstü Kristal Yönetici Seti",
-
+  price: 2200,
   category: "Masa Sümeni",
   image: "/products/promosyon-kristal-masa-seti-kms-140.jpg",
 
@@ -35259,7 +35259,7 @@ Ofis masaüstü düzenleyici kullanım
   slug: "promosyon-kristal-masa-seti-kms-150-vip-genis",
 
   title: "Promosyon Kristal Masa Seti KMS-150 | Geniş Ebatlı VIP Ofis Masaüstü Yönetici Seti",
-
+  price: 4400,
   category: "Masa Sümeni",
   image: "/products/promosyon-kristal-masa-seti-kms-150.jpg",
 
@@ -35321,7 +35321,7 @@ Ofis masaüstü düzenleyici kullanım
   slug: "promosyon-masa-sumeni-msn-100-6-parca-deri-set",
 
   title: "Promosyon Masa Sümeni MSN-100 | 6 Parça Deri Ofis Masa Seti (Kalemlik, Telefon Standı, Notluk)",
-
+  price: 4150,
   category: "Masa Sümeni",
   image: "/products/promosyon-masa-sumeni-msn-100.jpg",
 
@@ -35381,7 +35381,7 @@ Kurumsal prestij ürünleri
   slug: "promosyon-masa-sumeni-msn-110-6-parca-deri-ofis-seti",
 
   title: "Promosyon Masa Sümeni MSN-110 | 6 Parça Deri Ofis Masa Seti (Takvimlik, Dosyalık, Kalemlik)",
-
+  price: 3700,
   category: "Masa Sümeni",
   image: "/products/promosyon-masa-sumeni-msn-110.jpg",
 
@@ -35441,7 +35441,7 @@ Fuar ve etkinlik dağıtımları
   slug: "promosyon-masa-sumeni-msn-120-6-parca-deri-mousepadli-set",
 
   title: "Promosyon Masa Sümeni MSN-120 | 6 Parça Deri Ofis Masa Seti (Mouse Pad, Kalemlik, Notluk)",
-
+  price: 1800,
   category: "Masa Sümeni",
   image: "/products/promosyon-masa-sumeni-msn-120.jpg",
 
@@ -35503,7 +35503,7 @@ Fuar ve etkinlik dağıtımları
   slug: "promosyon-12-haneli-hesap-makinesi-hm-110-masaustu",
 
   title: "Promosyon 12 Haneli Hesap Makinesi HM-110 | Masaüstü Büyük Ekranlı Ofis Tipi Hesap Makinesi",
-
+  price: 210,
   category: "Hesap Makineleri",
   image: "/products/promosyon-12-haneli-hesap-makinesi-hm-110.jpg",
 
@@ -35563,7 +35563,7 @@ Eğitim kurumları
   slug: "promosyon-dijital-hesap-makinesi-hm-120-12-haneli-renkli",
 
   title: "Promosyon Dijital Hesap Makinesi HM-120 | 12 Haneli Renkli Baskılı Ofis Tipi Hesap Makinesi",
-
+  price: 416,
   category: "Hesap Makineleri",
   image: "/products/promosyon-dijital-hesap-makinesi-hm-120.jpg",
 
@@ -35622,7 +35622,7 @@ Reklam ve tanıtım kampanyaları
   slug: "promosyon-dijital-hesap-makinesi-hm-130-egimli-12-haneli",
 
   title: "Promosyon Dijital Hesap Makinesi HM-130 | 12 Haneli Eğimli Masaüstü Ofis Tipi Hesap Makinesi",
-
+  price: 300,
   category: "Hesap Makineleri",
   image: "/products/promosyon-dijital-hesap-makinesi-hm-130.jpg",
 
@@ -35684,7 +35684,7 @@ Eğitim kurumları
   slug: "promosyon-12-haneli-hesap-makinesi-hm-140-yazilabilir-ekranli",
 
   title: "Promosyon 12 Haneli Hesap Makinesi HM-140 | Yazılabilir LCD Ekranlı Notlu Hesap Makinesi",
-
+  price: 360,
   category: "Hesap Makineleri",
   image: "/products/promosyon-12-haneli-hesap-makinesi-hm-140.jpg",
 
@@ -35746,7 +35746,7 @@ Teknik çizim ve not alma işlemleri
   slug: "promosyon-dijital-hesap-makinesi-hm-150-egimli-slim-tasarim",
 
   title: "Promosyon Dijital Hesap Makinesi HM-150 | 12 Haneli Eğimli Slim Tasarım Ofis Tipi Hesap Makinesi",
-
+  price: 180,
   category: "Hesap Makineleri",
   image: "/products/promosyon-dijital-hesap-makinesi-hm-150.jpg",
 
