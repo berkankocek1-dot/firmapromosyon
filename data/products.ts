@@ -138,53 +138,92 @@ Promosyon dokunmatik kalem DK-500 ile markanızı modern, kullanışlı ve prest
 },
 
   {
-    id: "p2",
-    slug: "promosyon-dokunmatik-kalem-dk600",
-    title: "Promosyon Dokunmatik Kalem DK-600",
-    price: 33,
-    shortDesc:
-      "Promosyon dokunmatik kalem DK-600 (logo baskıya uygun rubber gövde). Kurumsal promosyon, fuar ve etkinlikler için toplu alım. Baskısız minimum 50 adet; baskılı minimum adet değişebilir. Renkler: Standart, Kırmızı, Turkuaz, Siyah, Yeşil, Füme, Turuncu (stok kontrolü yapılır).",
-    longDesc: `
-Promosyon Dokunmatik Kalem DK-600; rubber (kauçuk) gövde yapısı, şık tasarımı ve dokunmatik ucu sayesinde kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir. Telefon ve tablet ekranlarında rahat kullanım sunar; aynı zamanda günlük kullanım için dayanıklı ve konforlu bir tutuş sağlar.
+  id: "p2",
+  slug: "promosyon-dokunmatik-kalem-dk600",
+  title:
+    "Promosyon Dokunmatik Kalem DK-600 | Rubber Gövdeli Logo Baskılı Stylus Kalem",
+  price: 33,
+  shortDesc:
+    "Promosyon dokunmatik kalem DK-600, rubber (kauçuk) kaplamalı premium gövdesi ve stylus ucu ile modern bir promosyon kalem modelidir. Logo baskıya uygun yapısı sayesinde fuar, etkinlik ve kurumsal promosyon çalışmalarında şık bir reklam ürünüdür.",
+  longDesc: `
+Rubber Gövdeli Dokunmatik Promosyon Kalem ile Markanıza Premium Bir Dokunuş Katın
 
-PROMOSYON DOKUNMATİK KALEM DK-600 ÖZELLİKLERİ
-• Dokunmatik uç: Telefon ve tablet ekranlarında kolay kullanım
-• Rubber gövde: Kaymaz yüzey, konforlu tutuş ve premium görünüm
-• Logo baskıya uygun: Kurumsal logo / marka baskısı için ideal yüzey
-• Kullanım alanı: Fuar, etkinlik, müşteri ziyareti, kurumsal hediye ve promosyon dağıtımı
+Promosyon dokunmatik kalem DK-600, yumuşak dokulu rubber gövdesi ve telefon ile tablet ekranlarında kullanılabilen stylus ucu sayesinde hem şık hem de fonksiyonel bir promosyon ürünüdür. Premium hissiyat veren yüzeyi, kullanıcıya konforlu bir tutuş sunarken markanızın daha kaliteli algılanmasına katkı sağlar.
 
-RENK SEÇENEKLERİ (STOK KONTROLLÜ)
-Standart, Kırmızı, Turkuaz, Siyah, Yeşil, Füme, Turuncu.
-Not: Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde renk/stok kontrolü yapılır ve teyit edilir.
+Kurumsal promosyon ürünleri arasında dikkat çeken DK-600 modeli, modern tasarımı ve günlük kullanım avantajı sayesinde müşterilerinizin ve iş ortaklarınızın uzun süre kullanabileceği etkili bir reklam ürünüdür. Özellikle teknoloji firmaları, bankalar, eğitim kurumları ve kurumsal şirketler tarafından sıkça tercih edilmektedir.
 
-MİNİMUM SİPARİŞ / BASKI BİLGİSİ
+Logo baskıya uygun geniş gövde alanı sayesinde firma logosu, marka adı veya reklam mesajı UV baskı, tampon baskı veya lazer baskı teknikleriyle profesyonel olarak uygulanabilir. Günlük kullanımda sürekli elde bulunması sayesinde markanız uzun süre görünür kalır.
+
+NEDEN PROMOSYON DOKUNMATİK KALEM DK-600 TERCİH EDİLMELİ?
+• Dokunmatik stylus uç ile telefon ve tablet kullanımına uygun
+• Rubber gövde sayesinde kaymaz ve yumuşak yüzey
+• Premium görünüm ve kaliteli hissiyat
+• Logo baskıya uygun geniş baskı alanı
+• Ergonomik ve konforlu kullanım
+• Kurumsal promosyonlar için prestijli seçenek
+
+KULLANIM ALANLARI
+• Kurumsal promosyon dağıtımları
+• Fuar ve organizasyon etkinlikleri
+• Müşteri ziyaretleri
+• Eğitim ve seminer organizasyonları
+• Teknoloji firması tanıtımları
+• Kurumsal hediye çalışmaları
+
+KİMLER İÇİN UYGUN?
+• Teknoloji şirketleri
+• Bankalar ve finans kuruluşları
+• Eğitim kurumları
+• Reklam ajansları
+• Organizasyon firmaları
+• Kurumsal işletmeler
+
+PROMOSYON DOKUNMATİK KALEM FİYATLARI
+Promosyon dokunmatik kalem fiyatları; sipariş miktarı, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Standart, Kırmızı, Turkuaz, Siyah, Yeşil, Füme ve Turuncu.
+
+MİNİMUM SİPARİŞ BİLGİSİ
 • Baskısız minimum sipariş: 50 adet
-• Logo baskılı siparişlerde minimum adet; baskı tekniği (UV / tampon / lazer), renk seçimi ve üretim planına göre değişebilir. Kesin minimum adet ve fiyat teklifte netleştirilir.
+• Baskılı minimum sipariş adedi, baskı tekniği ve üretim planına göre değişebilir
 
-Kurumsal toplu alım ve logo baskı için hızlı teklif isteyebilirsiniz.
+TEKNİK ÖZELLİKLER
+• Model: DK-600
+• Ürün Türü: Dokunmatik Stylus Kalem
+• Gövde Yapısı: Rubber (kauçuk) kaplama
+• Baskı Türü: UV Baskı / Tampon Baskı / Lazer Baskı
+• Minimum Sipariş: 50 adet (baskısız)
+• Kategori: Promosyon Kalem
+
+Promosyon dokunmatik kalem DK-600 ile markanızı modern, kullanışlı ve premium bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
 `.trim(),
-    category: "Kalem",
-    image: "/products/promosyon-dokunmatik-kalem-dk600-logo-baski.jpg",
-    gallery: ["/products/promosyon-dokunmatik-kalem-dk600-logo-baski.jpg"],
-    faq: [
-      {
-        q: "Minimum sipariş adedi nedir?",
-        a: "Baskısız siparişlerde minimum adet 50’dir. Logo baskılı siparişlerde minimum adet; baskı tekniği, renk seçimi ve üretim planına göre değişebilir. Net minimum adet teklif aşamasında belirlenir.",
-      },
-      {
-        q: "Renk seçenekleri kesin mi, stok kontrolü yapılıyor mu?",
-        a: "Renk seçenekleri stok durumuna göre değişebilir. Sipariş öncesinde Standart / Kırmızı / Turkuaz / Siyah / Yeşil / Füme / Turuncu seçenekleri için stok kontrolü yapılır ve teyit edilir.",
-      },
-      {
-        q: "Logo baskı seçenekleri nelerdir?",
-        a: "Ürüne göre UV, tampon veya lazer gibi baskı yöntemleri uygulanabilir. En uygun yöntem ve baskı alanı, teklif aşamasında netleştirilir.",
-      },
-      {
-        q: "Teslim süresi kaç gün?",
-        a: "Adet, baskı türü ve üretim yoğunluğuna göre değişir. Termin ve üretim süresi teklif aşamasında paylaşılır.",
-      },
-    ],
-  },
+  category: "Kalem",
+  image: "/products/promosyon-dokunmatik-kalem-dk600-logo-baski.jpg",
+  gallery: ["/products/promosyon-dokunmatik-kalem-dk600-logo-baski.jpg"],
+  faq: [
+    {
+      q: "Minimum sipariş adedi nedir?",
+      a: "Baskısız siparişlerde minimum adet 50’dir. Logo baskılı siparişlerde minimum adet, baskı yöntemi ve üretim planına göre değişebilir. Net minimum adet teklif aşamasında belirlenir.",
+    },
+    {
+      q: "Rubber gövde ne avantaj sağlar?",
+      a: "Rubber kaplama, kalemin daha yumuşak tutulmasını sağlar ve premium bir görünüm sunar. Aynı zamanda kaymayı azaltarak kullanım konforunu artırır.",
+    },
+    {
+      q: "Dokunmatik uç hangi cihazlarda kullanılabilir?",
+      a: "Stylus uç, akıllı telefon ve tablet ekranlarında rahat kullanım sağlar.",
+    },
+    {
+      q: "Renk seçenekleri stok durumuna göre değişir mi?",
+      a: "Evet. Kırmızı, Turkuaz, Siyah, Yeşil, Füme ve Turuncu gibi renk seçenekleri stok durumuna göre değişebilir.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Sipariş miktarı, baskı türü ve üretim yoğunluğuna göre teslim süresi değişir. Güncel termin bilgisi teklif sırasında paylaşılır.",
+    },
+  ],
+},
 
   {
   id: "p3",
