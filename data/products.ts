@@ -12851,119 +12851,193 @@ Reklam ve pazarlama kampanyaları
   price: 8.10,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-116.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-116.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-116 modeli geniş renk seçenekleri ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-116, geniş renk seçenekleri ve logo baskıya uygun gövdesi ile öne çıkan ekonomik bir promosyon kalem modelidir. Kurumsal promosyon kalem ihtiyaçları için ideal olan bu ürün, fuar ve etkinliklerde markanızı etkili şekilde tanıtmanıza yardımcı olur.",
 
   longDesc: `
-Promosyon plastik kalem PLS-116 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Renkli Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası uzun süre kullanılan bir ürün üzerinde görünür hale gelir ve marka bilinirliği oluşturur.
+Promosyon plastik kalem PLS-116, sade tasarımı ve canlı renk alternatifleri ile firmaların tanıtım çalışmalarında sıklıkla tercih ettiği kullanışlı bir promosyon kalem modelidir. Günlük kullanım için uygun olan bu ürün, markanızı müşterilerinizin hayatında uzun süre görünür kılmak için etkili bir çözümdür.
 
-Geniş renk seçeneklerine sahip olan promosyon plastik kalem PLS-116 modeli özellikle fuar, etkinlik, kampanya ve kurumsal organizasyonlarda dağıtılabilecek kullanışlı promosyon ürünleri arasında yer almaktadır.
+Promosyon kalemler, düşük maliyetle yüksek görünürlük sağlayan en etkili reklam ürünleri arasında yer almaktadır. Logo baskılı kalem kullanımı sayesinde firmanızın adı, logosu veya iletişim bilgileri müşterilerinizin sürekli kullandığı bir ürün üzerinde yer alır. Bu durum marka bilinirliğini artırırken kurumsal imajınızı da güçlendirir.
 
-Kurumsal promosyon çalışmalarında sık tercih edilen plastik promosyon kalemler hem ekonomik hem de pratik kullanım sunarak firmaların en çok tercih ettiği promosyon ürünleri arasında bulunmaktadır.
+PLS-116 modeli basmalı mekanizmaya sahiptir ve UV baskı, tampon baskı veya damla etiket uygulamaları ile kişiselleştirilebilir. Geniş renk seçenekleri sayesinde firmanızın kurumsal renklerine uygun tercihler yapılabilir.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Basmalı  
-
-Baskı Türü: UV Baskı / Tampon Baskı / Damla Etiket Baskı  
-
-RENK SEÇENEKLERİ
-
-Beyaz  
-Turkuaz  
-Lacivert  
-Siyah  
-Turuncu  
-Kırmızı  
-Sarı  
-Fıstık Yeşili  
-Mor  
-Pembe  
-Yeşil  
-Gri  
-
-STOK VE SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-116 TERCİH EDİLMELİ?
+• Canlı ve dikkat çekici renk seçenekleri
+• Basmalı mekanizma
+• Logo baskıya uygun geniş gövde
+• Ekonomik ve kullanışlı tasarım
+• Günlük kullanıma uygun yapı
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Eğitim kurumları
+• Ofis kullanımı
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Okullar ve eğitim kurumları
+• Reklam ajansları
+• Danışmanlık şirketleri
+• Ekonomik promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; tercih edilen baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Kırmızı
+• Mor
+• Gri
+• Siyah
+• Lacivert
+• Beyaz
+• Sarı
+• Açık Yeşil
+• Turuncu
+• Açık Mavi
+• Pembe
+• Yeşil
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-116
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Basmalı
+• Baskı Türleri: UV Baskı / Tampon Baskı / Damla Etiket
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-116, ekonomik yapısı ve renk çeşitliliği ile markanızı geniş kitlelere ulaştırmak için ideal bir kurumsal promosyon kalem modelidir. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-116 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı, tampon baskı ve damla etiket uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-116 modeli basmalı mekanizma ile pratik bir kullanım sunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda kullanılabilir?",
+      a: "Fuarlar, kurumsal etkinlikler, eğitim organizasyonları ve müşteri promosyonlarında yaygın olarak kullanılmaktadır.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Kırmızı, mor, gri, siyah, lacivert, beyaz, sarı, açık yeşil, turuncu, açık mavi, pembe ve yeşil renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu modelin öne çıkan avantajı nedir?",
+      a: "Geniş renk seçenekleri, ekonomik yapısı ve logo baskıya uygun gövdesi ile etkili bir kurumsal promosyon kalem çözümü sunar.",
+    },
+  ],
 },
 {
   id: "p225",
   slug: "promosyon-plastik-kalem-jell-kalem-pls-117",
-  title: "Promosyon Plastik Kalem (Jell Kalem) PLS-117 | Logo Baskılı Promosyon Kalem",
+  title:
+    "Promosyon Plastik Kalem (Jell Kalem) PLS-117 | Logo Baskılı Promosyon Kalem",
   price: 11.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-117.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-117.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-117 jell kalem modeli geniş renk seçenekleri ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-117, jell kalem yapısı sayesinde akıcı yazım sunan ve logo baskıya uygun gövdesi ile öne çıkan kullanışlı bir promosyon kalem modelidir. Kurumsal promosyon kalem ihtiyaçları için ideal olan bu ürün, günlük kullanımda konforlu bir yazım deneyimi sağlar.",
 
   longDesc: `
-Promosyon plastik kalem PLS-117 modeli jell kalem yapısı sayesinde akıcı yazım sunan ve firmaların reklam çalışmalarında tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Jell Yazımlı Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası uzun süre kullanılan bir ürün üzerinde görünür hale gelir.
+Promosyon plastik kalem PLS-117, jell kalem yapısı sayesinde akıcı ve yumuşak yazım sunan kullanışlı bir promosyon kalem modelidir. Günlük kullanıma uygun tasarımı ve canlı renk seçenekleri ile firmaların kurumsal tanıtım çalışmalarında sık tercih edilmektedir.
 
-Jell kalem yapısı sayesinde daha yumuşak ve akıcı yazım sunan bu promosyon kalem modeli günlük kullanım için oldukça konforlu bir deneyim sağlar. Bu özelliği sayesinde özellikle fuar, etkinlik ve kurumsal organizasyonlarda dağıtılabilecek kullanışlı promosyon ürünleri arasında yer almaktadır.
+Promosyon kalemler, markanızı müşterilerinize ulaştırmanın ekonomik ve etkili yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın adı ve logosu uzun süre kullanılan bir ürün üzerinde yer alır. Böylece marka bilinirliği artarken kurumsal görünümünüz de güçlenir.
 
-Geniş renk seçenekleri sayesinde promosyon plastik kalem PLS-117 modeli farklı marka renklerine uyum sağlayabilecek şekilde tercih edilebilmektedir.
+PLS-117 modeli basmalı mekanizmaya sahiptir ve üzerine UV baskı, tampon baskı veya damla etiket uygulamaları yapılabilmektedir. Jell kalem özelliği sayesinde klasik kalemlere kıyasla daha akıcı bir yazım hissi sunar ve kullanıcı memnuniyetini artırır.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem (Jell Kalem)  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Basmalı  
-
-Baskı Türü: UV Baskı / Tampon Baskı / Damla Etiket Baskı  
-
-RENK SEÇENEKLERİ
-
-Lacivert  
-Mor  
-Fıstık Yeşili  
-Kırmızı  
-Yeşil  
-Sarı  
-Pembe  
-Beyaz  
-Siyah  
-Turkuaz  
-Turuncu  
-
-STOK VE SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-117 TERCİH EDİLMELİ?
+• Jell kalem yapısı ile akıcı yazım
+• Basmalı mekanizma
+• Logo baskıya uygun gövde
+• Canlı renk seçenekleri
+• Günlük kullanıma uygun tasarım
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Eğitim kurumları
+• Ofis kullanımı
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Okullar ve eğitim kurumları
+• Reklam ajansları
+• Danışmanlık şirketleri
+• Akıcı yazım sunan promosyon kalem arayan işletmeler
+
+PROMOSYON JELL KALEM FİYATLARI
+Promosyon jell kalem fiyatları; baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Turuncu
+• Mor
+• Gri
+• Siyah
+• Lacivert
+• Beyaz
+• Kırmızı
+• Sarı
+• Açık Yeşil
+• Açık Mavi
+• Pembe
+• Yeşil
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-117
+• Ürün Türü: Promosyon Plastik Kalem (Jell Kalem)
+• Mekanizma: Basmalı
+• Baskı Türleri: UV Baskı / Tampon Baskı / Damla Etiket
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-117, akıcı yazım sağlayan jell kalem yapısı ile markanızı kullanışlı ve kaliteli bir ürün üzerinde tanıtmanıza yardımcı olur. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-117 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı, tampon baskı ve damla etiket uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Jell kalem özelliği ne sağlar?",
+      a: "Jell kalem yapısı, daha yumuşak ve akıcı bir yazım deneyimi sunarak günlük kullanımı daha konforlu hale getirir.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-117 modeli basmalı mekanizma ile pratik bir kullanım sunmaktadır.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Turuncu, mor, gri, siyah, lacivert, beyaz, kırmızı, sarı, açık yeşil, açık mavi, pembe ve yeşil renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, eğitim organizasyonları ve müşteri promosyonlarında yaygın olarak kullanılmaktadır.",
+    },
+  ],
 },
 {
   id: "p226",
@@ -12972,117 +13046,194 @@ Reklam ve pazarlama kampanyaları
   price: 8.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-118.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-118.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-118 modeli geniş renk seçenekleri ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-118, beyaz klips detayı ve canlı renk seçenekleri ile dikkat çeken kullanışlı bir promosyon kalem modelidir. Logo baskıya uygun yapısı sayesinde kurumsal promosyon kalem çalışmalarında etkili bir tanıtım ürünü olarak tercih edilir.",
 
   longDesc: `
-Promosyon plastik kalem PLS-118 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Beyaz Klipsli Renkli Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası uzun süre kullanılan bir ürün üzerinde görünür hale gelir ve marka bilinirliğiniz artabilir.
+Promosyon plastik kalem PLS-118, renkli gövdesi ve beyaz klips tasarımı ile modern bir görünüm sunan şık bir promosyon kalem modelidir. Günlük kullanım için uygun yapısı ve logo baskıya elverişli yüzeyi sayesinde firmaların tanıtım çalışmalarında sık tercih edilmektedir.
 
-Geniş renk seçeneklerine sahip olan promosyon plastik kalem PLS-118 modeli özellikle fuar, etkinlik, kampanya ve kurumsal organizasyonlarda dağıtılabilecek kullanışlı promosyon ürünleri arasında yer almaktadır.
+Promosyon kalemler, markanızı ekonomik bir şekilde geniş kitlelere ulaştırmanın en etkili yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın adı, logosu veya iletişim bilgileri uzun süre kullanılan bir ürün üzerinde yer alır. Bu sayede marka görünürlüğünüz sürekli olarak artar.
 
-Kurumsal promosyon çalışmalarında sık tercih edilen plastik promosyon kalemler hem ekonomik hem de pratik kullanım sunarak firmaların en çok tercih ettiği promosyon ürünleri arasında bulunmaktadır.
+PLS-118 modeli basmalı mekanizmaya sahiptir ve UV baskı, tampon baskı veya damla etiket uygulamaları ile kişiselleştirilebilir. Beyaz klips detayı, baskı alanını ön plana çıkararak logonuzun daha dikkat çekici görünmesine katkı sağlar.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Basmalı  
-
-Baskı Türü: UV Baskı / Tampon Baskı / Damla Etiket Baskı  
-
-RENK SEÇENEKLERİ
-
-Kırmızı  
-Yeşil  
-Turuncu  
-Sarı  
-Lacivert  
-Turkuaz  
-Siyah  
-Mor  
-Pembe  
-Gri  
-Fıstık Yeşili  
-
-STOK VE SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-118 TERCİH EDİLMELİ?
+• Beyaz klipsli modern tasarım
+• Basmalı mekanizma
+• Logo baskıya uygun geniş yüzey
+• Canlı renk seçenekleri
+• Günlük kullanıma uygun yapı
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Eğitim kurumları
+• Ofis kullanımı
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Okullar ve eğitim kurumları
+• Reklam ajansları
+• Danışmanlık şirketleri
+• Ekonomik promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Mavi
+• Mor
+• Gri
+• Siyah
+• Lacivert
+• Yeşil
+• Kırmızı
+• Sarı
+• Açık Yeşil
+• Turuncu
+• Açık Mavi
+• Pembe
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-118
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Basmalı
+• Tasarım Özelliği: Beyaz Klips
+• Baskı Türleri: UV Baskı / Tampon Baskı / Damla Etiket
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-118, beyaz klipsli şık tasarımı ve renk seçenekleri ile markanızı profesyonel bir şekilde tanıtmanıza yardımcı olur. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-118 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı, tampon baskı ve damla etiket uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Kalemin öne çıkan tasarım özelliği nedir?",
+      a: "Renkli gövde ile kontrast oluşturan beyaz klips detayı, logonun daha dikkat çekici görünmesini sağlar.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-118 modeli basmalı mekanizma ile kolay ve pratik kullanım sunmaktadır.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Mavi, mor, gri, siyah, lacivert, yeşil, kırmızı, sarı, açık yeşil, turuncu, açık mavi ve pembe renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, eğitim organizasyonları ve müşteri promosyonlarında yaygın olarak kullanılmaktadır.",
+    },
+  ],
 },
 {
   id: "p227",
   slug: "promosyon-plastik-kalem-jell-kalem-pls-119",
-  title: "Promosyon Plastik Kalem (Jell Kalem) PLS-119 | Logo Baskılı Promosyon Kalem",
+  title:
+    "Promosyon Plastik Kalem (Jell Kalem) PLS-119 | Logo Baskılı Promosyon Kalem",
   price: 11.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-119.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-119.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-119 jell kalem modeli akıcı yazım sağlayan yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-119, jell kalem yapısı ve beyaz klips tasarımı ile akıcı yazım sunan şık bir promosyon kalem modelidir. Logo baskıya uygun yüzeyi sayesinde kurumsal promosyon kalem çalışmalarında etkili bir tanıtım ürünü olarak tercih edilir.",
 
   longDesc: `
-Promosyon plastik kalem PLS-119 modeli jell kalem yapısı sayesinde akıcı ve konforlu yazım sağlayan promosyon kalem çeşitleri arasında yer almaktadır.
+Beyaz Klipsli Jell Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası uzun süre kullanılan bir ürün üzerinde görünür hale gelir.
+Promosyon plastik kalem PLS-119, jell kalem yapısı sayesinde akıcı yazım sunan ve beyaz klips detayı ile modern bir görünüm sağlayan kullanışlı bir promosyon kalem modelidir. Günlük kullanımda konforlu bir yazım deneyimi sunarken markanızın profesyonel bir şekilde tanıtılmasına yardımcı olur.
 
-Jell kalem yapısı sayesinde daha yumuşak yazım sağlayan bu promosyon kalem modeli günlük kullanım için oldukça konforlu bir deneyim sunmaktadır. Bu özelliği sayesinde fuar, etkinlik, seminer ve kurumsal organizasyonlarda dağıtılabilecek ideal promosyon ürünleri arasında yer almaktadır.
+Promosyon kalemler, markanızı ekonomik ve etkili bir şekilde geniş kitlelere ulaştırmanın en pratik yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın logosu, marka adı veya iletişim bilgileri uzun süre kullanılan bir ürün üzerinde yer alır. Böylece marka bilinirliğiniz doğal bir şekilde artar.
 
-Geniş renk seçenekleri sayesinde promosyon plastik kalem PLS-119 modeli farklı marka renklerine uyum sağlayabilecek şekilde tercih edilebilmektedir.
+PLS-119 modeli basmalı mekanizmaya sahiptir ve UV baskı, tampon baskı veya damla etiket uygulamaları ile kişiselleştirilebilir. Jell kalem özelliği sayesinde daha yumuşak ve akıcı bir yazım hissi sunar. Beyaz klips bölümü ise logonuzun daha dikkat çekici görünmesini destekler.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem (Jell Kalem)  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Basmalı  
-
-Baskı Türü: UV Baskı / Tampon Baskı / Damla Etiket Baskı  
-
-RENK SEÇENEKLERİ
-
-Siyah  
-Yeşil  
-Kırmızı  
-Sarı  
-Gri  
-Turkuaz  
-Turuncu  
-Pembe  
-Mor  
-Lacivert  
-
-STOK VE SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-119 TERCİH EDİLMELİ?
+• Jell kalem yapısı ile akıcı yazım
+• Beyaz klipsli modern tasarım
+• Basmalı mekanizma
+• Logo baskıya uygun yüzey
+• Canlı renk seçenekleri
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Eğitim kurumları
+• Ofis kullanımı
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Okullar ve eğitim kurumları
+• Reklam ajansları
+• Danışmanlık şirketleri
+• Akıcı yazım sunan promosyon kalem arayan işletmeler
+
+PROMOSYON JELL KALEM FİYATLARI
+Promosyon jell kalem fiyatları; baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Mor
+• Gri
+• Siyah
+• Lacivert
+• Yeşil
+• Kırmızı
+• Sarı
+• Açık Yeşil
+• Turuncu
+• Açık Mavi
+• Pembe
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-119
+• Ürün Türü: Promosyon Plastik Kalem (Jell Kalem)
+• Mekanizma: Basmalı
+• Tasarım Özelliği: Beyaz Klips
+• Baskı Türleri: UV Baskı / Tampon Baskı / Damla Etiket
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-119, akıcı yazım sağlayan jell kalem yapısı ve beyaz klipsli şık tasarımı ile markanızı profesyonel şekilde tanıtmanıza yardımcı olur. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-119 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı, tampon baskı ve damla etiket uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Jell kalem özelliği ne sağlar?",
+      a: "Jell kalem yapısı, daha akıcı ve yumuşak bir yazım deneyimi sunarak günlük kullanımı daha konforlu hale getirir.",
+    },
+    {
+      q: "Kalemin öne çıkan tasarım özelliği nedir?",
+      a: "Beyaz klips detayı, logonun daha belirgin görünmesini sağlayan modern bir tasarım sunar.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Mor, gri, siyah, lacivert, yeşil, kırmızı, sarı, açık yeşil, turuncu, açık mavi ve pembe renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, eğitim organizasyonları ve müşteri promosyonlarında yaygın olarak kullanılmaktadır.",
+    },
+  ],
 },
 {
   id: "p228",
@@ -13091,64 +13242,91 @@ Reklam ve pazarlama kampanyaları
   price: 11.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-120.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-120.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-120 modeli ABS gövde yapısı, basmalı mekanizması ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-120, renkli gövdesi ve metal görünümlü detayları ile şık bir promosyon kalem modelidir. Logo baskıya uygun yapısı sayesinde kurumsal promosyon kalem çalışmalarında markanızı profesyonel şekilde tanıtmanıza yardımcı olur.",
 
   longDesc: `
-Promosyon plastik kalem PLS-120 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Metal Görünümlü Detaylara Sahip Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası uzun süre kullanılan bir ürün üzerinde görünür hale gelir ve marka bilinirliği oluşturur.
+Promosyon plastik kalem PLS-120, renkli gövdesi ve parlak metal görünümlü uç ile klips detayları sayesinde dikkat çeken şık bir promosyon kalem modelidir. Günlük kullanıma uygun tasarımı ve logo baskıya uygun yüzeyi ile firmaların kurumsal tanıtım çalışmalarında sık tercih edilmektedir.
 
-ABS plastik gövde yapısına sahip olan promosyon plastik kalem PLS-120 modeli dayanıklı ve hafif tasarımı sayesinde günlük kullanım için oldukça uygundur. Bu özellikleri sayesinde fuar, etkinlik, seminer ve kurumsal organizasyonlarda dağıtılabilecek ideal promosyon ürünleri arasında yer almaktadır.
+Promosyon kalemler, markanızı ekonomik bir şekilde geniş kitlelere ulaştırmanın en etkili yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın logosu, marka adı veya iletişim bilgileri uzun süre kullanılan bir ürün üzerinde yer alır. Böylece marka bilinirliğiniz artarken profesyonel görünümünüz de güçlenir.
 
-Basmalı mekanizması sayesinde pratik kullanım sunan bu promosyon kalem modeli yerli üretim olmasıyla da kurumsal promosyon ürünleri arasında sık tercih edilen ürünlerden biridir.
+PLS-120 modeli basmalı mekanizmaya sahiptir ve UV baskı ile tampon baskı uygulamalarına uygundur. Renkli gövdesi ile kontrast oluşturan metal görünümlü detaylar, ürüne daha kurumsal ve kaliteli bir görünüm kazandırır.
 
-Kalem üzerine UV baskı ve tampon baskı uygulanabilmektedir. Bu baskı yöntemleri sayesinde firmanızın logosu kalem üzerinde net ve dikkat çekici şekilde yer alabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Basmalı  
-
-Gövde Malzemesi: ABS Plastik  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-
-RENK SEÇENEKLERİ
-
-Beyaz  
-Kırmızı  
-Lacivert  
-Turuncu  
-Turkuaz  
-Mor  
-Siyah  
-Yeşil  
-
-STOK VE SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel stok durumu ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-120 TERCİH EDİLMELİ?
+• Metal görünümlü şık detaylar
+• Basmalı mekanizma
+• Logo baskıya uygun gövde
+• Canlı renk seçenekleri
+• Günlük kullanıma uygun yapı
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Eğitim kurumları
+• Ofis kullanımı
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Okullar ve eğitim kurumları
+• Reklam ajansları
+• Danışmanlık şirketleri
+• Şık promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Beyaz
+• Açık Mavi
+• Lacivert
+• Mor
+• Yeşil
+• Turuncu
+• Kırmızı
+• Siyah
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-120
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Basmalı
+• Baskı Türleri: UV Baskı / Tampon Baskı
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-120, şık detayları ve kullanışlı yapısı ile markanızı profesyonel bir ürün üzerinde tanıtmanıza yardımcı olur. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-120 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Bu modelin öne çıkan tasarım özelliği nedir?",
+      a: "Parlak metal görünümlü uç ve klips detayları, kaleme daha şık ve kurumsal bir görünüm kazandırır.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-120 modeli basmalı mekanizma ile kolay ve pratik kullanım sunmaktadır.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Beyaz, açık mavi, lacivert, mor, yeşil, turuncu, kırmızı ve siyah renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, ofis kullanımı ve müşteri promosyonlarında yaygın olarak tercih edilmektedir.",
+    },
+  ],
 },
 {
   id: "p229",
@@ -13157,64 +13335,93 @@ Reklam ve pazarlama kampanyaları
   price: 9.20,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-130.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-130.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-130 modeli basmalı mekanizması, yerli üretim yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında sık tercih edilen ekonomik promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-130, renkli detayları ve kavrama kolaylığı sağlayan desenli alt gövdesi ile öne çıkan kullanışlı bir promosyon kalem modelidir. Logo baskıya uygun yapısı sayesinde kurumsal promosyon kalem çalışmalarında etkili bir tanıtım çözümü sunar.",
 
   longDesc: `
-Promosyon plastik kalem PLS-130 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Kaydırmaz Tutuşlu Promosyon Plastik Kalem
 
-Promosyon kalemler, markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Kalem üzerine uygulanabilen logo baskı sayesinde firmanızın markası günlük kullanılan bir ürün üzerinde sürekli görünür hale gelir ve marka bilinirliği oluşturur.
+Promosyon plastik kalem PLS-130, beyaz gövdesi ve renkli detayları ile modern bir görünüm sunan kullanışlı bir promosyon kalem modelidir. Alt bölümde yer alan desenli yüzey, kalemin elde daha rahat tutulmasına yardımcı olur ve günlük kullanım konforunu artırır.
 
-Yerli üretim olan promosyon plastik kalem PLS-130 modeli dayanıklı gövde yapısı ve basmalı mekanizması sayesinde uzun süreli kullanım sunar. Tükenmez kalem yapısı ile ofis kullanımı, fuar dağıtımları ve kurumsal tanıtım organizasyonları için oldukça uygun bir promosyon ürünüdür.
+Promosyon kalemler, markanızı ekonomik bir şekilde tanıtmanın en etkili yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın adı, logosu veya iletişim bilgileri müşterilerinizin sürekli kullandığı bir ürün üzerinde yer alır. Böylece marka görünürlüğünüz uzun süre devam eder.
 
-Kalem yüzeyine UV baskı ve tampon baskı uygulanabilmektedir. Bu baskı yöntemleri sayesinde firmanızın logosu kalem üzerinde net ve dikkat çekici şekilde yer alabilir.
+PLS-130 modeli basmalı mekanizmaya sahiptir ve UV baskı ile tampon baskı uygulamalarına uygundur. Beyaz gövde üzerindeki baskı alanı, logonuzun daha net ve dikkat çekici görünmesine yardımcı olur. Renkli klips ve alt gövde detayları ise ürüne dinamik bir görünüm kazandırır.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Basmalı  
-
-Kalem Tipi: Tükenmez Kalem  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-
-RENK SEÇENEKLERİ
-
-Turkuaz  
-Mor  
-Sarı  
-Pembe  
-Siyah  
-Kırmızı  
-Lacivert  
-Yeşil  
-Turuncu  
-Mavi  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel renk seçenekleri ve üretim planlaması hakkında bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-130 TERCİH EDİLMELİ?
+• Desenli alt gövde ile rahat tutuş
+• Basmalı mekanizma
+• Beyaz gövde üzerinde dikkat çekici baskı alanı
+• Canlı renk seçenekleri
+• Günlük kullanıma uygun tasarım
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Eğitim kurumları
+• Ofis kullanımı
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Okullar ve eğitim kurumları
+• Reklam ajansları
+• Danışmanlık şirketleri
+• Ekonomik promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Mavi
+• Turuncu
+• Turkuaz
+• Kırmızı
+• Lacivert
+• Sarı
+• Gri
+• Yeşil
+• Mor
+• Siyah
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-130
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Basmalı
+• Baskı Türleri: UV Baskı / Tampon Baskı
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-130, rahat tutuş sağlayan yapısı ve dikkat çekici renk detayları ile markanızı günlük hayatta görünür kılmak için ideal bir kurumsal promosyon kalem modelidir. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-130 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Kalemin öne çıkan özelliği nedir?",
+      a: "Alt bölümde yer alan desenli yüzey, kalemin daha rahat tutulmasına yardımcı olur.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-130 modeli basmalı mekanizma ile pratik ve hızlı kullanım sunmaktadır.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Mavi, turuncu, turkuaz, kırmızı, lacivert, sarı, gri, yeşil, mor ve siyah renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda kullanılabilir?",
+      a: "Fuarlar, eğitim organizasyonları, kurumsal kampanyalar ve müşteri promosyonlarında yaygın olarak tercih edilmektedir.",
+    },
+  ],
 },
 {
   id: "p230",
@@ -13223,65 +13430,91 @@ Reklam ve pazarlama kampanyaları
   price: 11,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-140.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-140.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-140 modeli basmalı mekanizması, dayanıklı gövde yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-140, beyaz gövdesi ve renkli klips detayları ile modern bir görünüm sunan şık bir promosyon kalem modelidir. Logo baskıya uygun yüzeyi sayesinde kurumsal promosyon kalem çalışmalarında markanızı profesyonel şekilde tanıtmanıza yardımcı olur.",
 
   longDesc: `
-Promosyon plastik kalem PLS-140 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Renkli Klipsli ve Şık Tasarımlı Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Ürün üzerine uygulanabilen logo baskı sayesinde firmanızın markası uzun süre kullanılan bir ürün üzerinde görünür hale gelir ve marka bilinirliği oluşturur.
+Promosyon plastik kalem PLS-140, beyaz gövdesi ile kontrast oluşturan renkli klips ve alt detayları sayesinde dikkat çekici bir tasarıma sahiptir. Günlük kullanıma uygun yapısı ve modern görünümü ile kurumsal promosyon kalem ihtiyaçları için tercih edilen kullanışlı bir modeldir.
 
-Yerli üretim olan promosyon plastik kalem PLS-140 modeli dayanıklı gövde yapısı ve basmalı mekanizması sayesinde pratik ve uzun süreli kullanım sunar. Tükenmez kalem yapısı sayesinde günlük ofis kullanımı, fuar dağıtımları ve kurumsal tanıtım organizasyonlarında rahatlıkla tercih edilebilen promosyon ürünlerinden biridir.
+Promosyon kalemler, markanızı ekonomik ve etkili bir şekilde tanıtmanın en pratik yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın logosu, marka adı veya iletişim bilgileri uzun süre kullanılan bir ürün üzerinde yer alır. Böylece marka bilinirliği artarken müşterilerinizle sürekli bir temas sağlanır.
 
-Kalem yüzeyine UV baskı ve tampon baskı uygulanabilmektedir. Bu baskı yöntemleri sayesinde firmanızın logosu kalem üzerinde net ve dikkat çekici şekilde yer alabilir.
+PLS-140 modeli basmalı mekanizmaya sahiptir ve UV baskı ile tampon baskı uygulamalarına uygundur. Beyaz gövde üzerindeki geniş baskı alanı, logonuzun net ve profesyonel bir şekilde görünmesine yardımcı olur. Renkli klips ve kaydırmaz alt bölüm ise ürüne dinamik bir görünüm kazandırır.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Basmalı  
-
-Kalem Tipi: Tükenmez Kalem  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-
-RENK SEÇENEKLERİ
-
-Mor  
-Gri  
-Füme  
-Sarı  
-Kırmızı  
-Mavi  
-Siyah  
-Yeşil  
-Lacivert  
-Turuncu  
-Turkuaz  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel renk seçenekleri ve üretim planlaması hakkında bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-140 TERCİH EDİLMELİ?
+• Beyaz gövde üzerinde dikkat çekici baskı alanı
+• Renkli klips ve modern tasarım
+• Basmalı mekanizma
+• Günlük kullanıma uygun yapı
+• Logo baskıya uygun yüzey
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Eğitim kurumları
+• Ofis kullanımı
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Okullar ve eğitim kurumları
+• Reklam ajansları
+• Danışmanlık şirketleri
+• Şık promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Füme
+• Gri
+• Kırmızı
+• Lacivert
+• Açık Mavi
+• Yeşil
+• Turuncu
+• Siyah
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-140
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Basmalı
+• Baskı Türleri: UV Baskı / Tampon Baskı
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-140, modern görünümü ve kullanışlı yapısı ile markanızı günlük yaşamda görünür kılmak için ideal bir kurumsal promosyon kalem modelidir. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-140 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Bu modelin öne çıkan tasarım özelliği nedir?",
+      a: "Beyaz gövde ile kontrast oluşturan renkli klips ve alt detaylar kaleme modern bir görünüm kazandırır.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-140 modeli basmalı mekanizma ile kolay ve pratik kullanım sunmaktadır.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Füme, gri, kırmızı, lacivert, açık mavi, yeşil, turuncu ve siyah renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, ofis kullanımı ve müşteri promosyonlarında yaygın olarak tercih edilmektedir.",
+    },
+  ],
 },
 {
   id: "p231",
@@ -13290,63 +13523,91 @@ Reklam ve pazarlama kampanyaları
   price: 10.20,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-150.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-150.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-150 modeli basmalı mekanizması, yerli üretim yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen ekonomik promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-150, beyaz gövdesi ve renkli klips detayları ile sade ve modern bir görünüm sunan promosyon kalem modelidir. Logo baskıya uygun yapısı sayesinde kurumsal promosyon kalem çalışmalarında markanızı etkili şekilde tanıtmanıza yardımcı olur.",
 
   longDesc: `
-Promosyon plastik kalem PLS-150 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Minimal Tasarımlı Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Kalem üzerine uygulanabilen logo baskı sayesinde firmanızın markası günlük kullanılan bir ürün üzerinde sürekli görünür hale gelir ve marka bilinirliğini artırır.
+Promosyon plastik kalem PLS-150, beyaz gövdesi ve ince renk detayları ile sade fakat dikkat çekici bir tasarım sunan kullanışlı bir promosyon kalem modelidir. Modern görünümü ve logo baskıya uygun geniş yüzeyi sayesinde kurumsal promosyon çalışmalarında sık tercih edilmektedir.
 
-Yerli üretim olan promosyon plastik kalem PLS-150 modeli dayanıklı gövde yapısı ve basmalı mekanizması sayesinde uzun süreli kullanım sunar. Tükenmez kalem yapısı ile ofis kullanımı, fuar dağıtımları ve kurumsal tanıtım organizasyonları için oldukça uygun bir promosyon ürünüdür.
+Promosyon kalemler, markanızı müşterilerinizin günlük yaşamına taşımanın en ekonomik yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın adı, logosu veya iletişim bilgileri sürekli kullanılan bir ürün üzerinde yer alır. Böylece marka bilinirliği zaman içinde doğal olarak güçlenir.
 
-Kalem yüzeyine UV baskı ve tampon baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde firmanızın logosu kalem üzerinde net ve dikkat çekici şekilde yer alabilir.
+PLS-150 modeli basmalı mekanizmaya sahiptir ve UV baskı ile tampon baskı uygulamalarına uygundur. Beyaz gövde üzerindeki baskı alanı, logonuzun net ve profesyonel bir şekilde görünmesine yardımcı olur. Klips içindeki renk detayları ise ürüne zarif bir hareket kazandırır.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Basmalı  
-
-Kalem Tipi: Tükenmez Kalem  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-
-RENK SEÇENEKLERİ
-
-Sarı  
-Turkuaz  
-Mor  
-Kırmızı  
-Lacivert  
-Siyah  
-Turuncu  
-Yeşil  
-Mavi  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel renk seçenekleri ve üretim planlaması hakkında bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-150 TERCİH EDİLMELİ?
+• Minimal ve modern tasarım
+• Beyaz gövde üzerinde dikkat çekici baskı alanı
+• Basmalı mekanizma
+• Renkli klips detayları
+• Günlük kullanıma uygun yapı
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Eğitim kurumları
+• Ofis kullanımı
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Okullar ve eğitim kurumları
+• Reklam ajansları
+• Danışmanlık şirketleri
+• Sade tasarımlı promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Sarı
+• Turuncu
+• Mor
+• Açık Mavi
+• Yeşil
+• Lacivert
+• Kırmızı
+• Siyah
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-150
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Basmalı
+• Baskı Türleri: UV Baskı / Tampon Baskı
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-150, sade ve şık tasarımı ile markanızı profesyonel bir ürün üzerinde tanıtmanıza yardımcı olur. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-150 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Bu modelin öne çıkan tasarım özelliği nedir?",
+      a: "Beyaz gövde ve klips içerisindeki renk detayları, kaleme sade ve modern bir görünüm kazandırır.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-150 modeli basmalı mekanizma ile kolay ve pratik kullanım sunmaktadır.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Sarı, turuncu, mor, açık mavi, yeşil, lacivert, kırmızı ve siyah renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, ofis kullanımı ve müşteri promosyonlarında yaygın olarak tercih edilmektedir.",
+    },
+  ],
 },
 {
   id: "p232",
@@ -13355,65 +13616,94 @@ Reklam ve pazarlama kampanyaları
   price: 10.20,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-160.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-160.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-160 modeli basmalı mekanizması, dayanıklı gövde yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-160, renkli gövdesi ve kıvrımlı klips tasarımı ile dikkat çeken şık bir promosyon kalem modelidir. Logo baskıya uygun yüzeyi sayesinde kurumsal promosyon kalem çalışmalarında markanızı etkili ve profesyonel şekilde tanıtmanıza yardımcı olur.",
 
   longDesc: `
-Promosyon plastik kalem PLS-160 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Kıvrımlı Klips Tasarımlı Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Kalem üzerine uygulanabilen logo baskı sayesinde firmanızın markası uzun süre kullanılan bir ürün üzerinde görünür hale gelir ve marka bilinirliği oluşturur.
+Promosyon plastik kalem PLS-160, ince ve zarif gövde yapısı ile birlikte modern kıvrımlı klips tasarımına sahip kullanışlı bir promosyon kalem modelidir. Canlı renk seçenekleri ve logo baskıya uygun yüzeyi sayesinde firmaların kurumsal tanıtım çalışmalarında sık tercih edilmektedir.
 
-Yerli üretim olan promosyon plastik kalem PLS-160 modeli dayanıklı gövde yapısı ve basmalı mekanizması sayesinde pratik ve uzun süreli kullanım sunar. Tükenmez kalem yapısı sayesinde günlük ofis kullanımı, fuar dağıtımları ve kurumsal tanıtım organizasyonlarında rahatlıkla tercih edilen promosyon ürünlerinden biridir.
+Promosyon kalemler, markanızı düşük maliyetle uzun süre görünür kılmanın en etkili yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın logosu, marka adı veya iletişim bilgileri müşterilerinizin günlük olarak kullandığı bir ürün üzerinde yer alır. Böylece marka bilinirliği sürekli olarak desteklenir.
 
-Kalem yüzeyine UV baskı ve tampon baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde firmanızın logosu kalem üzerinde net ve dikkat çekici şekilde yer alabilir.
+PLS-160 modeli basmalı mekanizmaya sahiptir ve UV baskı ile tampon baskı uygulamalarına uygundur. Gövde üzerindeki baskı alanı, logonuzun net ve dikkat çekici bir şekilde görünmesine yardımcı olur. Zarif klips tasarımı ise ürüne modern ve profesyonel bir görünüm kazandırır.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Basmalı  
-
-Kalem Tipi: Tükenmez Kalem  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-
-RENK SEÇENEKLERİ
-
-Pembe  
-Mor  
-Füme  
-Kırmızı  
-Lacivert  
-Yeşil  
-Turkuaz  
-Beyaz  
-Sarı  
-Turuncu  
-Siyah  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel renk seçenekleri ve üretim planlaması hakkında bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-160 TERCİH EDİLMELİ?
+• Kıvrımlı ve şık klips tasarımı
+• İnce ve hafif gövde yapısı
+• Basmalı mekanizma
+• Logo baskıya uygun yüzey
+• Canlı renk seçenekleri
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Eğitim kurumları
+• Ofis kullanımı
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Okullar ve eğitim kurumları
+• Reklam ajansları
+• Danışmanlık şirketleri
+• Zarif tasarımlı promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Beyaz
+• Sarı
+• Turuncu
+• Pembe
+• Siyah
+• Açık Mavi
+• Lacivert
+• Mor
+• Yeşil
+• Füme
+• Kırmızı
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-160
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Basmalı
+• Baskı Türleri: UV Baskı / Tampon Baskı
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-160, zarif tasarımı ve renk çeşitliliği ile markanızı günlük kullanımda görünür kılmak için ideal bir kurumsal promosyon kalem modelidir. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-160 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Bu modelin öne çıkan tasarım özelliği nedir?",
+      a: "Kıvrımlı klips yapısı ve ince gövde tasarımı kaleme modern ve zarif bir görünüm kazandırır.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-160 modeli basmalı mekanizma ile kolay ve pratik kullanım sunmaktadır.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Beyaz, sarı, turuncu, pembe, siyah, açık mavi, lacivert, mor, yeşil, füme ve kırmızı renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, ofis kullanımı ve müşteri promosyonlarında yaygın olarak tercih edilmektedir.",
+    },
+  ],
 },
 {
   id: "p233",
@@ -13422,65 +13712,94 @@ Reklam ve pazarlama kampanyaları
   price: 8.4,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-170.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-170.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-170 modeli çevirmeli mekanizması, yerli üretim yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-170, tek renk gövde tasarımı ve çevirmeli mekanizması ile öne çıkan ekonomik bir promosyon kalem modelidir. Logo baskıya uygun yüzeyi sayesinde kurumsal promosyon kalem çalışmalarında markanızı etkili şekilde tanıtmanıza yardımcı olur.",
 
   longDesc: `
-Promosyon plastik kalem PLS-170 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Çevirmeli Mekanizmalı Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Kalem üzerine uygulanabilen logo baskı sayesinde firmanızın markası uzun süre kullanılan bir ürün üzerinde görünür hale gelir ve marka bilinirliği oluşturur.
+Promosyon plastik kalem PLS-170, sade tek renk gövde tasarımı ve çevirmeli mekanizması ile dikkat çeken kullanışlı bir promosyon kalem modelidir. Minimal görünümü ve logo baskıya uygun yapısı sayesinde firmaların kurumsal tanıtım çalışmalarında sık tercih edilmektedir.
 
-Yerli üretim olan promosyon plastik kalem PLS-170 modeli dayanıklı gövde yapısı ve çevirmeli mekanizması sayesinde pratik ve uzun süreli kullanım sunar. Tükenmez kalem yapısı sayesinde ofis kullanımı, fuar dağıtımları ve kurumsal organizasyonlarda rahatlıkla tercih edilen promosyon ürünlerinden biridir.
+Promosyon kalemler, markanızı düşük maliyetle uzun süre görünür kılmanın en etkili yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın logosu, marka adı veya iletişim bilgileri müşterilerinizin günlük olarak kullandığı bir ürün üzerinde yer alır. Böylece marka bilinirliğiniz zaman içinde güçlenir.
 
-Kalem yüzeyine UV baskı ve tampon baskı uygulanabilmektedir. Bu baskı yöntemleri sayesinde firmanızın logosu kalem üzerinde net ve dikkat çekici şekilde yer alabilir.
+PLS-170 modeli çevirmeli mekanizmaya sahiptir. Kalem gövdesi üzerine UV baskı ve tampon baskı uygulanabilir. Tek renk tasarım ve geniş baskı alanı, logonuzun net ve dikkat çekici bir şekilde görünmesine yardımcı olur.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Çevirmeli  
-
-Kalem Tipi: Tükenmez Kalem  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-
-RENK SEÇENEKLERİ
-
-Fıstık Yeşili  
-Mor  
-Pembe  
-Turuncu  
-Kırmızı  
-Lacivert  
-Siyah  
-Sarı  
-Turkuaz  
-Beyaz  
-Yeşil  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel renk seçenekleri ve üretim planlaması hakkında bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-170 TERCİH EDİLMELİ?
+• Çevirmeli mekanizma
+• Sade ve modern tek renk tasarım
+• Logo baskıya uygun gövde
+• Canlı renk seçenekleri
+• Günlük kullanıma uygun yapı
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Eğitim kurumları
+• Ofis kullanımı
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Okullar ve eğitim kurumları
+• Reklam ajansları
+• Danışmanlık şirketleri
+• Ekonomik promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Açık Yeşil
+• Beyaz
+• Kırmızı
+• Lacivert
+• Mor
+• Pembe
+• Sarı
+• Siyah
+• Açık Mavi
+• Turuncu
+• Yeşil
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-170
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Çevirmeli
+• Baskı Türleri: UV Baskı / Tampon Baskı
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-170, çevirmeli mekanizması ve sade tasarımı ile markanızı günlük kullanımda görünür kılmak için ideal bir kurumsal promosyon kalem modelidir. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-170 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-170 modeli çevirmeli mekanizma ile kullanılmaktadır.",
+    },
+    {
+      q: "Bu modelin öne çıkan özelliği nedir?",
+      a: "Tek renk gövde tasarımı ve çevirmeli mekanizması ile sade ve kullanışlı bir yapı sunar.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Açık yeşil, beyaz, kırmızı, lacivert, mor, pembe, sarı, siyah, açık mavi, turuncu ve yeşil renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, eğitim organizasyonları ve müşteri promosyonlarında yaygın olarak kullanılmaktadır.",
+    },
+  ],
 },
 {
   id: "p234",
@@ -13489,61 +13808,91 @@ Reklam ve pazarlama kampanyaları
   price: 6.80,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-180.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-180.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-180 modeli çevirmeli mekanizması, dayanıklı plastik gövdesi ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-180, ince ve sade tasarımı ile öne çıkan ekonomik bir promosyon kalem modelidir. Logo baskıya uygun gövdesi ve çevirmeli mekanizması sayesinde kurumsal promosyon kalem çalışmalarında etkili bir tanıtım çözümü sunar.",
 
   longDesc: `
-Promosyon plastik kalem PLS-180 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+İnce Tasarımlı Çevirmeli Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Kalem üzerine uygulanabilen logo baskı sayesinde firmanızın markası günlük kullanılan bir ürün üzerinde uzun süre görünür kalır ve marka bilinirliğini artırır.
+Promosyon plastik kalem PLS-180, zarif gövde yapısı ve tek renk sade tasarımı ile dikkat çeken kullanışlı bir promosyon kalem modelidir. Hafif yapısı ve modern görünümü sayesinde günlük kullanım için uygundur ve markanızı uzun süre görünür kılmak için etkili bir tanıtım aracıdır.
 
-Yerli üretim olan promosyon plastik kalem PLS-180 modeli çevirmeli mekanizması sayesinde pratik kullanım sunar. Tükenmez kalem yapısı ile ofis kullanımı, fuar dağıtımları, etkinlik organizasyonları ve kurumsal promosyon çalışmalarında tercih edilen ürünlerden biridir.
+Promosyon kalemler, düşük maliyetle yüksek görünürlük sağlayan en popüler kurumsal promosyon ürünleri arasında yer alır. Logo baskılı kalem kullanımı sayesinde firmanızın logosu, marka adı veya iletişim bilgileri müşterilerinizin sürekli kullandığı bir ürün üzerinde yer alır. Bu sayede marka bilinirliği doğal olarak güçlenir.
 
-Kalem yüzeyine UV baskı ve tampon baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde firmanızın logosu kalem üzerinde net ve dikkat çekici şekilde yer alabilir.
+PLS-180 modeli çevirmeli mekanizmaya sahiptir. Gövde üzerine UV baskı ve tampon baskı uygulanabilir. İnce tasarımı ve geniş yüzeyi, logonuzun net ve profesyonel bir şekilde görünmesine yardımcı olur.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Çevirmeli  
-
-Kalem Tipi: Tükenmez Kalem  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-
-RENK SEÇENEKLERİ
-
-Turkuaz  
-Beyaz  
-Sarı  
-Turuncu  
-Kırmızı  
-Yeşil  
-Siyah  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel renk seçenekleri ve üretim planlaması hakkında bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-180 TERCİH EDİLMELİ?
+• İnce ve hafif gövde tasarımı
+• Çevirmeli mekanizma
+• Logo baskıya uygun yüzey
+• Canlı renk seçenekleri
+• Günlük kullanıma uygun yapı
+• Ekonomik promosyon kalem çözümü
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Ofis kullanımı
+• Eğitim kurumları
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Reklam ajansları
+• Eğitim kurumları
+• Danışmanlık şirketleri
+• Uygun fiyatlı promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Beyaz
+• Yeşil
+• Lacivert
+• Turuncu
+• Siyah
+• Sarı
+• Turkuaz
+• Kırmızı
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-180
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Çevirmeli
+• Baskı Türleri: UV Baskı / Tampon Baskı
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-180, sade tasarımı ve ekonomik yapısı ile markanızı geniş kitlelere ulaştırmak için ideal bir kurumsal promosyon kalem modelidir. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-180 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-180 modeli çevirmeli mekanizma ile kullanılmaktadır.",
+    },
+    {
+      q: "Bu modelin öne çıkan özelliği nedir?",
+      a: "İnce ve hafif gövde tasarımı sayesinde ekonomik ve kullanışlı bir promosyon kalem çözümü sunar.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Beyaz, yeşil, lacivert, turuncu, siyah, sarı, turkuaz ve kırmızı renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, ofis kullanımı ve müşteri promosyonlarında yaygın olarak kullanılmaktadır.",
+    },
+  ],
 },
 {
   id: "p235",
@@ -13552,62 +13901,91 @@ Reklam ve pazarlama kampanyaları
   price: 6.70,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-190.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-190.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-190 modeli çevirmeli mekanizması, dayanıklı gövde yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-190, ince yapısı ve renkli gövde seçenekleri ile öne çıkan ekonomik bir promosyon kalem modelidir. Logo baskıya uygun yüzeyi ve çevirmeli mekanizması sayesinde kurumsal promosyon kalem çalışmalarında etkili bir tanıtım çözümü sunar.",
 
   longDesc: `
-Promosyon plastik kalem PLS-190 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Zarif Tasarımlı Çevirmeli Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Kalem üzerine uygulanabilen logo baskı sayesinde firmanızın markası günlük kullanılan bir ürün üzerinde sürekli görünür hale gelir ve marka bilinirliğini artırır.
+Promosyon plastik kalem PLS-190, ince ve dengeli gövde yapısı ile günlük kullanım için ideal bir promosyon kalem modelidir. Tek renk gövde tasarımı ve modern çizgileri sayesinde hem sade hem de profesyonel bir görünüm sunar. Kurumsal promosyon kalem ihtiyaçları için ekonomik ve etkili bir çözümdür.
 
-Yerli üretim olan promosyon plastik kalem PLS-190 modeli çevirmeli mekanizması sayesinde pratik kullanım sunar. Tükenmez kalem yapısı sayesinde ofis kullanımı, fuar dağıtımları ve kurumsal organizasyonlarda tercih edilen promosyon ürünlerinden biridir.
+Promosyon kalemler, markanızı düşük maliyetle geniş kitlelere tanıtmanın en pratik yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın logosu, marka adı veya iletişim bilgileri müşterilerinizin sürekli kullandığı bir ürün üzerinde yer alır. Bu sayede marka görünürlüğü uzun süre devam eder.
 
-Kalem yüzeyine UV baskı ve tampon baskı uygulanabilmektedir. Bu baskı yöntemleri sayesinde firmanızın logosu kalem üzerinde net ve dikkat çekici şekilde yer alabilir.
+PLS-190 modeli çevirmeli mekanizmaya sahiptir ve UV baskı ile tampon baskı uygulamalarına uygundur. Gövde üzerindeki baskı alanı, logonuzun net ve dikkat çekici bir şekilde görünmesine yardımcı olur. Hafif yapısı sayesinde fuar ve etkinliklerde dağıtım için oldukça uygundur.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Çevirmeli  
-
-Kalem Tipi: Tükenmez Kalem  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-
-RENK SEÇENEKLERİ
-
-Sarı  
-Turuncu  
-Kırmızı  
-Lacivert  
-Yeşil  
-Siyah  
-Turkuaz  
-Beyaz  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel renk seçenekleri ve üretim planlaması hakkında bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-190 TERCİH EDİLMELİ?
+• İnce ve hafif gövde yapısı
+• Çevirmeli mekanizma
+• Logo baskıya uygun yüzey
+• Canlı renk seçenekleri
+• Günlük kullanıma uygun tasarım
+• Ekonomik promosyon kalem çözümü
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Ofis kullanımı
+• Eğitim kurumları
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Reklam ajansları
+• Eğitim kurumları
+• Danışmanlık şirketleri
+• Uygun fiyatlı promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Beyaz
+• Kırmızı
+• Lacivert
+• Sarı
+• Yeşil
+• Turkuaz
+• Siyah
+• Turuncu
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-190
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Çevirmeli
+• Baskı Türleri: UV Baskı / Tampon Baskı
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-190, sade tasarımı ve ekonomik yapısı ile markanızı günlük yaşamda görünür kılmak için ideal bir kurumsal promosyon kalem modelidir. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-190 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-190 modeli çevirmeli mekanizma ile kullanılmaktadır.",
+    },
+    {
+      q: "Bu modelin öne çıkan özelliği nedir?",
+      a: "İnce ve hafif gövde yapısı sayesinde ekonomik ve kullanışlı bir promosyon kalem çözümü sunar.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Beyaz, kırmızı, lacivert, sarı, yeşil, turkuaz, siyah ve turuncu renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, ofis kullanımı ve müşteri promosyonlarında yaygın olarak kullanılmaktadır.",
+    },
+  ],
 },
 {
   id: "p236",
@@ -13616,62 +13994,91 @@ Reklam ve pazarlama kampanyaları
   price: 6.70,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-200.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-200.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-200 modeli çevirmeli mekanizması, dayanıklı plastik gövdesi ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen ekonomik promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-200, tek renk gövdesi ve sade çizgileri ile öne çıkan ekonomik bir promosyon kalem modelidir. Logo baskıya uygun yüzeyi ve çevirmeli mekanizması sayesinde kurumsal promosyon kalem çalışmalarında etkili bir tanıtım çözümü sunar.",
 
   longDesc: `
-Promosyon plastik kalem PLS-200 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Sade Tasarımlı Çevirmeli Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Kalem üzerine uygulanabilen logo baskı sayesinde firmanızın markası günlük kullanılan bir ürün üzerinde sürekli görünür hale gelir ve marka bilinirliğini artırır.
+Promosyon plastik kalem PLS-200, yalın tasarımı ve tek renk gövde yapısı ile günlük kullanıma uygun ekonomik bir promosyon kalem modelidir. Hafif yapısı ve modern görünümü sayesinde fuarlarda, etkinliklerde ve kurumsal tanıtımlarda markanızı etkili şekilde temsil eder.
 
-Yerli üretim olan promosyon plastik kalem PLS-200 modeli çevirmeli mekanizması sayesinde pratik kullanım sunar. Tükenmez kalem yapısı ile ofis kullanımı, fuar dağıtımları ve kurumsal tanıtım organizasyonlarında rahatlıkla tercih edilen promosyon ürünlerinden biridir.
+Promosyon kalemler, düşük maliyetle yüksek görünürlük sağlayan en etkili reklam ürünlerinden biridir. Logo baskılı kalem kullanımı sayesinde firmanızın logosu, marka adı veya iletişim bilgileri müşterilerinizin sürekli kullandığı bir ürün üzerinde yer alır. Böylece marka bilinirliği uzun süre desteklenir.
 
-Kalem yüzeyine UV baskı ve tampon baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde firmanızın logosu kalem üzerinde net ve dikkat çekici şekilde yer alabilir.
+PLS-200 modeli çevirmeli mekanizmaya sahiptir ve UV baskı ile tampon baskı uygulamalarına uygundur. Geniş baskı alanı, logonuzun net ve profesyonel bir şekilde görünmesine yardımcı olur. Tek renk gövde tasarımı ise sade ve kurumsal bir görünüm sunar.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Çevirmeli  
-
-Kalem Tipi: Tükenmez Kalem  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-
-RENK SEÇENEKLERİ
-
-Yeşil  
-Kırmızı  
-Lacivert  
-Turuncu  
-Siyah  
-Sarı  
-Turkuaz  
-Beyaz  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel renk seçenekleri ve üretim planlaması hakkında bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-200 TERCİH EDİLMELİ?
+• Sade ve modern tek renk tasarım
+• Çevirmeli mekanizma
+• Logo baskıya uygun gövde
+• Hafif ve kullanışlı yapı
+• Canlı renk seçenekleri
+• Ekonomik promosyon kalem çözümü
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Ofis kullanımı
+• Eğitim kurumları
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Reklam ajansları
+• Eğitim kurumları
+• Danışmanlık şirketleri
+• Uygun fiyatlı promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Beyaz
+• Sarı
+• Turuncu
+• Yeşil
+• Turkuaz
+• Füme
+• Lacivert
+• Kırmızı
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-200
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Çevirmeli
+• Baskı Türleri: UV Baskı / Tampon Baskı
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-200, sade tasarımı ve ekonomik yapısı ile markanızı geniş kitlelere ulaştırmak için ideal bir kurumsal promosyon kalem modelidir. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-200 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-200 modeli çevirmeli mekanizma ile kullanılmaktadır.",
+    },
+    {
+      q: "Bu modelin öne çıkan özelliği nedir?",
+      a: "Tek renk sade tasarımı ve hafif yapısı sayesinde ekonomik ve kullanışlı bir promosyon kalem çözümü sunar.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Beyaz, sarı, turuncu, yeşil, turkuaz, füme, lacivert ve kırmızı renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, ofis kullanımı ve müşteri promosyonlarında yaygın olarak kullanılmaktadır.",
+    },
+  ],
 },
 {
   id: "p237",
@@ -13680,64 +14087,94 @@ Reklam ve pazarlama kampanyaları
   price: 7.20,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-210.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-210.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-210 modeli dayanıklı plastik gövdesi, logo baskıya uygun yüzeyi ve kullanışlı tasarımı ile kurumsal promosyon kalem çeşitleri arasında tercih edilen ekonomik promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-210, canlı renk seçenekleri ve sade gövde tasarımı ile öne çıkan ekonomik bir promosyon kalem modelidir. Logo baskıya uygun yüzeyi sayesinde kurumsal promosyon kalem çalışmalarında markanızı etkili şekilde tanıtmanıza yardımcı olur.",
 
   longDesc: `
-Promosyon plastik kalem PLS-210 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Canlı Renk Seçeneklerine Sahip Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Kalem üzerine uygulanabilen logo baskı sayesinde firmanızın markası günlük kullanılan bir ürün üzerinde uzun süre görünür hale gelir ve marka bilinirliği oluşturur.
+Promosyon plastik kalem PLS-210, düz hatlara sahip sade tasarımı ve dikkat çekici renk alternatifleri ile günlük kullanıma uygun bir promosyon kalem modelidir. Hafif yapısı ve logo baskıya elverişli gövdesi sayesinde firmaların kurumsal tanıtım çalışmalarında sık tercih edilmektedir.
 
-Yerli üretim olan promosyon plastik kalem PLS-210 modeli dayanıklı plastik gövde yapısı sayesinde uzun süreli kullanım sunar. Tükenmez kalem yapısı ile ofis kullanımı, fuar dağıtımları ve kurumsal tanıtım organizasyonlarında tercih edilen promosyon ürünlerinden biridir.
+Promosyon kalemler, markanızı düşük maliyetle geniş kitlelere ulaştırmanın en etkili yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın logosu, marka adı veya iletişim bilgileri müşterilerinizin sürekli kullandığı bir ürün üzerinde yer alır. Böylece marka görünürlüğü uzun süre devam eder ve kurumsal bilinirlik güçlenir.
 
-Kalem yüzeyine UV baskı ve tampon baskı uygulanabilmektedir. Bu baskı yöntemleri sayesinde firmanızın logosu kalem üzerinde net ve dikkat çekici şekilde yer alabilir.
+PLS-210 modeli basmalı mekanizmaya sahiptir ve UV baskı ile tampon baskı uygulamalarına uygundur. Tek renk gövde yapısı, logonuzun net ve okunaklı bir şekilde görünmesini destekler. Geniş renk yelpazesi sayesinde kurum kimliğinize uygun seçimler yapılabilir.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Kalem Tipi: Tükenmez Kalem  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-
-RENK SEÇENEKLERİ
-
-Beyaz  
-Mor  
-Turkuaz  
-Yeşil  
-Sarı  
-Turuncu  
-Lacivert  
-Fıstık Yeşili  
-Pembe  
-Kırmızı  
-Siyah  
-Gri  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel renk seçenekleri ve üretim planlaması hakkında bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-210 TERCİH EDİLMELİ?
+• Canlı ve dikkat çekici renk seçenekleri
+• Basmalı mekanizma
+• Logo baskıya uygun geniş yüzey
+• Hafif ve kullanışlı yapı
+• Günlük kullanıma uygun tasarım
+• Ekonomik promosyon kalem çözümü
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Ofis kullanımı
+• Eğitim kurumları
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Reklam ajansları
+• Eğitim kurumları
+• Danışmanlık şirketleri
+• Uygun fiyatlı promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Pembe
+• Yeşil
+• Mor
+• Sarı
+• Lacivert
+• Turuncu
+• Açık Yeşil
+• Kırmızı
+• Siyah
+• Mavi
+• Beyaz
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-210
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Basmalı
+• Baskı Türleri: UV Baskı / Tampon Baskı
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-210, renk çeşitliliği ve ekonomik yapısı ile markanızı günlük kullanımda görünür kılmak için ideal bir kurumsal promosyon kalem modelidir. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-210 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-210 modeli basmalı mekanizma ile kolay ve pratik kullanım sunmaktadır.",
+    },
+    {
+      q: "Bu modelin öne çıkan özelliği nedir?",
+      a: "Canlı renk seçenekleri ve sade tasarımı sayesinde ekonomik ve etkili bir promosyon kalem çözümü sunar.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Pembe, yeşil, mor, sarı, lacivert, turuncu, açık yeşil, kırmızı, siyah, mavi ve beyaz renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, ofis kullanımı ve müşteri promosyonlarında yaygın olarak kullanılmaktadır.",
+    },
+  ],
 },
 {
   id: "p238",
@@ -13746,62 +14183,88 @@ Reklam ve pazarlama kampanyaları
   price: 11.50,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-220.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-220.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-220 modeli dayanıklı plastik gövdesi, mavi renk mürekkebi ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen ekonomik promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-220, metal görünümlü klips ve uç detayları ile şık bir promosyon kalem modelidir. Logo baskıya uygun gövdesi sayesinde kurumsal promosyon kalem çalışmalarında markanızı profesyonel şekilde tanıtmanıza yardımcı olur.",
 
   longDesc: `
-Promosyon plastik kalem PLS-220 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Metal Görünümlü Klipsli Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Kalem üzerine uygulanabilen logo baskı sayesinde firmanızın markası günlük kullanılan bir ürün üzerinde uzun süre görünür hale gelir ve marka bilinirliği oluşturur.
+Promosyon plastik kalem PLS-220, renkli gövdesi ve parlak metal görünümlü klips ile uç detayları sayesinde dikkat çeken şık bir promosyon kalem modelidir. Günlük kullanıma uygun yapısı ve modern görünümü ile kurumsal promosyon kalem ihtiyaçları için ideal bir seçenektir.
 
-Yerli üretim olan promosyon plastik kalem PLS-220 modeli dayanıklı plastik gövde yapısı sayesinde uzun süreli kullanım sunar. Mavi renk mürekkebi ile yazım konforu sağlayan bu tükenmez kalem modeli ofis kullanımı, fuar dağıtımları ve kurumsal tanıtım organizasyonları için oldukça uygun bir promosyon ürünüdür.
+Promosyon kalemler, markanızı ekonomik bir şekilde geniş kitlelere ulaştırmanın en etkili yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın logosu, marka adı veya iletişim bilgileri müşterilerinizin sık kullandığı bir ürün üzerinde yer alır. Böylece marka bilinirliği uzun süre desteklenir.
 
-Kalem yüzeyine UV baskı ve tampon baskı uygulanabilmektedir. Bu baskı yöntemleri sayesinde firmanızın logosu kalem üzerinde net ve dikkat çekici şekilde yer alabilir.
+PLS-220 modeli logo baskıya uygun gövde yapısına sahiptir. UV baskı ve tampon baskı uygulamaları ile firmanızın logosu kalem üzerinde net ve profesyonel bir şekilde sergilenebilir. Metal görünümlü klips detayı ise ürüne daha prestijli bir görünüm kazandırır.
 
-20.000 adet ve üzeri siparişlerde özel pantone renk üretimi yapılabilmektedir. Bu sayede firmanızın kurumsal renklerine uygun promosyon kalem üretimi gerçekleştirilebilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Kalem Tipi: Tükenmez Kalem  
-
-Mürekkep Rengi: Mavi  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-
-RENK SEÇENEKLERİ
-
-Beyaz  
-Lacivert  
-Kırmızı  
-Yeşil  
-Turuncu  
-Sarı  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel renk seçenekleri ve üretim planlaması hakkında bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-220 TERCİH EDİLMELİ?
+• Metal görünümlü klips ve uç detayları
+• Şık ve profesyonel tasarım
+• Logo baskıya uygun yüzey
+• Günlük kullanıma uygun yapı
+• Canlı renk seçenekleri
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Ofis kullanımı
+• Eğitim kurumları
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Reklam ajansları
+• Eğitim kurumları
+• Danışmanlık şirketleri
+• Şık promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Turuncu
+• Yeşil
+• Beyaz
+• Lacivert
+• Kırmızı
+• Siyah
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-220
+• Ürün Türü: Promosyon Plastik Kalem
+• Baskı Türleri: UV Baskı / Tampon Baskı
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-220, şık detayları ve profesyonel görünümü ile markanızı prestijli bir ürün üzerinde tanıtmanıza yardımcı olur. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-220 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Bu modelin öne çıkan tasarım özelliği nedir?",
+      a: "Parlak metal görünümlü klips ve uç detayları kaleme daha prestijli bir görünüm kazandırır.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Turuncu, yeşil, beyaz, lacivert, kırmızı ve siyah renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, ofis kullanımı ve müşteri promosyonlarında yaygın olarak kullanılmaktadır.",
+    },
+    {
+      q: "PLS-220 neden kurumsal promosyon kalem olarak tercih edilir?",
+      a: "Şık tasarımı ve logo baskıya uygun yapısı sayesinde markanızı profesyonel bir şekilde temsil eder.",
+    },
+  ],
 },
 {
   id: "p239",
@@ -13810,62 +14273,91 @@ Reklam ve pazarlama kampanyaları
   price: 8.50,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-230.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-230.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-230 modeli çevirmeli mekanizması, dayanıklı plastik gövdesi ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen ekonomik promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-230, uzun ve kıvrımlı klips tasarımı ile dikkat çeken şık bir promosyon kalem modelidir. Logo baskıya uygun yüzeyi sayesinde kurumsal promosyon kalem çalışmalarında markanızı etkili ve profesyonel şekilde tanıtmanıza yardımcı olur.",
 
   longDesc: `
-Promosyon plastik kalem PLS-230 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Kıvrımlı Klipsli Şık Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Kalem üzerine uygulanabilen logo baskı sayesinde firmanızın markası günlük kullanılan bir ürün üzerinde uzun süre görünür hale gelir ve marka bilinirliği oluşturur.
+Promosyon plastik kalem PLS-230, ince gövde yapısı ve üst bölüm boyunca uzanan kıvrımlı klips tasarımı ile modern bir görünüm sunan promosyon kalem modelidir. Canlı renk seçenekleri ve logo baskıya uygun yapısı sayesinde markanızı günlük kullanımda görünür kılmak için ideal bir tercihtir.
 
-Yerli üretim olan promosyon plastik kalem PLS-230 modeli çevirmeli mekanizması sayesinde pratik kullanım sunar. Tükenmez kalem yapısı ile ofis kullanımı, fuar dağıtımları ve kurumsal tanıtım organizasyonlarında tercih edilen promosyon ürünlerinden biridir.
+Promosyon kalemler, düşük maliyetle yüksek marka görünürlüğü sağlayan en etkili tanıtım ürünlerinden biridir. Logo baskılı kalem kullanımı sayesinde firmanızın logosu, marka adı veya iletişim bilgileri müşterilerinizin sürekli kullandığı bir ürün üzerinde yer alır. Böylece marka bilinirliği uzun süre desteklenir.
 
-Kalem yüzeyine UV baskı ve tampon baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde firmanızın logosu kalem üzerinde net ve dikkat çekici şekilde yer alabilir.
+PLS-230 modeli çevirmeli mekanizmaya sahiptir ve UV baskı ile tampon baskı uygulamalarına uygundur. Gövde üzerindeki geniş baskı alanı, logonuzun net ve profesyonel bir şekilde görünmesine yardımcı olur. Kıvrımlı klips tasarımı ise ürüne estetik ve farklı bir karakter kazandırır.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Çevirmeli  
-
-Kalem Tipi: Tükenmez Kalem  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-
-RENK SEÇENEKLERİ
-
-Siyah  
-Kırmızı  
-Yeşil  
-Lacivert  
-Turuncu  
-Beyaz  
-Sarı  
-Turkuaz  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel renk seçenekleri ve üretim planlaması hakkında bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-230 TERCİH EDİLMELİ?
+• Uzun ve kıvrımlı klips tasarımı
+• Çevirmeli mekanizma
+• Logo baskıya uygun geniş yüzey
+• Canlı renk seçenekleri
+• Hafif ve kullanışlı yapı
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Ofis kullanımı
+• Eğitim kurumları
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Reklam ajansları
+• Eğitim kurumları
+• Danışmanlık şirketleri
+• Farklı tasarımlı promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Kırmızı
+• Turuncu
+• Yeşil
+• Siyah
+• Sarı
+• Beyaz
+• Lacivert
+• Turkuaz
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-230
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Çevirmeli
+• Baskı Türleri: UV Baskı / Tampon Baskı
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-230, özgün klips tasarımı ve renk seçenekleri ile markanızı dikkat çekici bir ürün üzerinde tanıtmanıza yardımcı olur. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-230 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Bu modelin öne çıkan tasarım özelliği nedir?",
+      a: "Gövde boyunca uzanan uzun ve kıvrımlı klips tasarımı kaleme modern ve dikkat çekici bir görünüm kazandırır.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-230 modeli çevirmeli mekanizma ile kullanılmaktadır.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Kırmızı, turuncu, yeşil, siyah, sarı, beyaz, lacivert ve turkuaz renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, ofis kullanımı ve müşteri promosyonlarında yaygın olarak tercih edilmektedir.",
+    },
+  ],
 },
 {
   id: "p240",
@@ -13874,66 +14366,94 @@ Reklam ve pazarlama kampanyaları
   price: 9.40,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-240.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-240.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-240 modeli çevirmeli mekanizması, dayanıklı plastik gövdesi ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen ekonomik promosyon ürünlerinden biridir.",
+    "Promosyon plastik kalem PLS-240, uzun gövde yapısı ve dikkat çekici renk seçenekleri ile öne çıkan kullanışlı bir promosyon kalem modelidir. Logo baskıya uygun yüzeyi sayesinde kurumsal promosyon kalem çalışmalarında markanızı etkili şekilde tanıtmanıza yardımcı olur.",
 
   longDesc: `
-Promosyon plastik kalem PLS-240 modeli firmaların reklam ve tanıtım çalışmalarında sıklıkla tercih ettiği promosyon kalem çeşitleri arasında yer almaktadır.
+Canlı Renkli ve Zarif Tasarımlı Promosyon Plastik Kalem
 
-Promosyon kalemler markanızı müşterilere ulaştırmanın en ekonomik ve en etkili yollarından biridir. Kalem üzerine uygulanabilen logo baskı sayesinde firmanızın markası günlük kullanılan bir ürün üzerinde uzun süre görünür hale gelir ve marka bilinirliği oluşturur.
+Promosyon plastik kalem PLS-240, ince ve uzun gövde yapısı ile modern bir görünüm sunan şık bir promosyon kalem modelidir. Geniş renk seçenekleri ve logo baskıya uygun yüzeyi sayesinde firmaların kurumsal promosyon çalışmalarında sık tercih ettiği etkili tanıtım ürünlerinden biridir.
 
-Yerli üretim olan promosyon plastik kalem PLS-240 modeli çevirmeli mekanizması sayesinde pratik kullanım sunar. Tükenmez kalem yapısı ile ofis kullanımı, fuar dağıtımları ve kurumsal tanıtım organizasyonlarında tercih edilen promosyon ürünlerinden biridir.
+Promosyon kalemler, markanızı düşük maliyetle geniş kitlelere ulaştırmanın en pratik yollarından biridir. Logo baskılı kalem kullanımı sayesinde firmanızın logosu, marka adı veya iletişim bilgileri müşterilerinizin günlük yaşamında kullandığı bir ürün üzerinde yer alır. Böylece marka bilinirliği uzun süre desteklenir.
 
-Kalem yüzeyine UV baskı ve tampon baskı uygulanabilmektedir. Ayrıca damla etiket baskı seçeneği sayesinde firmanızın logosu daha dikkat çekici ve dayanıklı şekilde kalem üzerine uygulanabilir.
+PLS-240 modeli çevirmeli mekanizmaya sahiptir ve UV baskı, tampon baskı ve damla etiket uygulamalarına uygundur. Gövde üzerindeki baskı alanı, logonuzun net ve dikkat çekici bir şekilde görünmesini sağlar. Renkli ve sade tasarımı sayesinde farklı sektörlerde rahatlıkla kullanılabilir.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
-
-Mekanizma: Çevirmeli  
-
-Kalem Tipi: Tükenmez Kalem  
-
-Üretim: Yerli Üretim  
-
-Baskı Türleri:
-
-UV Baskı  
-Tampon Baskı  
-Damla Etiket Baskı  
-
-RENK SEÇENEKLERİ
-
-Turuncu  
-Beyaz  
-Yeşil  
-Turkuaz  
-Sarı  
-Kırmızı  
-Fıstık Yeşili  
-Lacivert  
-Mor  
-Pembe  
-Siyah  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon plastik kalem siparişleri genellikle toplu üretim ve toplu satış şeklinde gerçekleştirilmektedir.
-
-Renk seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş vermeden önce güncel renk seçenekleri ve üretim planlaması hakkında bizimle iletişime geçmeniz önerilir.
-
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+NEDEN PROMOSYON PLASTİK KALEM PLS-240 TERCİH EDİLMELİ?
+• İnce ve uzun gövde tasarımı
+• Çevirmeli mekanizma
+• Logo baskıya uygun geniş yüzey
+• Damla etiket baskıya uygun yapı
+• Canlı renk seçenekleri
+• Kurumsal promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik organizasyonları
+• Kurumsal promosyon kampanyaları
+• Ofis kullanımı
+• Eğitim kurumları
+• Müşteri ve bayi hediyeleri
+• Marka tanıtım çalışmaları
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
-Reklam ve pazarlama kampanyaları
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Reklam ajansları
+• Eğitim kurumları
+• Danışmanlık şirketleri
+• Dikkat çekici promosyon kalem arayan işletmeler
+
+PROMOSYON PLASTİK KALEM FİYATLARI
+Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+
+RENK SEÇENEKLERİ
+• Kırmızı
+• Beyaz
+• Lacivert
+• Mor
+• Pembe
+• Sarı
+• Siyah
+• Turkuaz
+• Turuncu
+• Yeşil
+• Açık Yeşil
+
+TEKNİK ÖZELLİKLER
+• Model: PLS-240
+• Ürün Türü: Promosyon Plastik Kalem
+• Mekanizma: Çevirmeli
+• Baskı Türleri: UV Baskı / Tampon Baskı / Damla Etiket
+• Kategori: Promosyon Kalem
+
+SİPARİŞ BİLGİSİ
+Promosyon plastik kalem siparişlerinde logo baskı tasarımı, teslim süresi ve stok durumu teklif aşamasında netleştirilmektedir.
+
+Promosyon plastik kalem PLS-240, renk çeşitliliği ve baskı seçenekleri ile markanızı günlük kullanımda görünür kılmak için ideal bir kurumsal promosyon kalem modelidir. Logo baskılı promosyon kalem siparişleriniz için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon plastik kalem PLS-240 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı, tampon baskı ve damla etiket uygulamaları yapılabilmektedir.",
+    },
+    {
+      q: "Kalem hangi mekanizmaya sahiptir?",
+      a: "PLS-240 modeli çevirmeli mekanizma ile kullanılmaktadır.",
+    },
+    {
+      q: "Bu modelin öne çıkan özelliği nedir?",
+      a: "İnce ve uzun gövde yapısı ile geniş baskı alanı sunarak markanızın dikkat çekici şekilde tanıtılmasına yardımcı olur.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Kırmızı, beyaz, lacivert, mor, pembe, sarı, siyah, turkuaz, turuncu, yeşil ve açık yeşil renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Bu model hangi alanlarda tercih edilir?",
+      a: "Fuarlar, kurumsal etkinlikler, eğitim organizasyonları ve müşteri promosyonlarında yaygın olarak kullanılmaktadır.",
+    },
+  ],
 },
 {
   id: "p241",
