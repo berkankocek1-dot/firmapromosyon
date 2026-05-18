@@ -31064,685 +31064,1096 @@ Premium marka tanıtımı
 {
   id: "p447",
   slug: "promosyon-tarihsiz-defter-td-165",
-  title: "Promosyon Tarihsiz Defter TD-165 | Termo PU Kapak, Metal Tokalı, 13x21 cm",
-price: 156,
+  title:
+    "Promosyon Tarihsiz Defter TD-165 | 13x21 cm Termo PU Metal Tokalı Defter",
+  price: 156,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-165.jpg",
 
   shortDesc:
-    "Promosyon tarihsiz defter TD-165, termo PU sert kapak, metal toka detayı ve renkli kenar tasarımı ile kurumsal kullanıma uygun şık ve prestijli bir ajanda alternatifidir.",
+    "Promosyon tarihsiz defter TD-165, 13x21 cm ölçüsü, termo PU sert kapak yapısı, metal toka detayı ve renkli kenar tasarımı ile prestijli logo baskılı kurumsal defter modelidir.",
 
   longDesc: `
-Promosyon tarihsiz defter TD-165, modern tasarımı ve yüksek kaliteli materyalleri ile kurumsal firmalar için prestijli bir promosyon ürünüdür.
+Promosyon Tarihsiz Defter TD-165 ile Markanızı Prestijli Şekilde Tanıtın
 
-13 x 21 cm ölçüsü sayesinde günlük kullanım için ideal boyutta olan bu defter, iş toplantıları, not alma ve planlama süreçlerinde profesyonel bir deneyim sunar.
+Promosyon tarihsiz defter TD-165, 13 x 21 cm ölçüsü, termo PU sert kapak yapısı ve metal tokalı modern tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan premium defter modellerinden biridir. Şık görünümü ve fonksiyonel yapısı sayesinde hem günlük kullanım hem de kurumsal hediye amaçlı ideal bir seçenektir.
 
-Termo PU sert kapak yapısı sayesinde hem dayanıklı hem de premium bir görünüm sağlar. Kapak üzerindeki metal toka detayı ürüne şık bir dokunuş katarken aynı zamanda güvenli kullanım sunar.
+13 x 21 cm ölçüsü, çanta içerisinde kolay taşınabilen kompakt bir yapı sunar. Toplantı notları, iş planlamaları, eğitim notları ve günlük kullanım için son derece uygundur.
 
-Renkli kenar tasarımı ile dikkat çeken bu model, klasik defterlerden ayrılarak markanızın daha modern ve fark edilir görünmesine yardımcı olur.
+Termo PU sert kapak yapısı, ürüne hem dayanıklılık hem de prestijli bir görünüm kazandırır. Kapak üzerinde yer alan metal toka detayı, defterin güvenli şekilde kapanmasını sağlarken modern ve dikkat çekici bir tasarım sunar.
 
-160 sayfa çizgili iç yapısı, düzenli not tutmayı kolaylaştırır. 70 gr krem kağıt kullanımı sayesinde göz yormayan ve kaliteli bir yazım deneyimi sunar.
+Renkli kenar detayları, klasik defter modellerinden ayrılarak ürüne estetik bir görünüm kazandırır. Bu sayede markanız daha modern ve premium bir algı oluşturur.
 
-Gofre, dijital ve lazer baskı seçenekleri ile logo uygulaması yapılabilir. Bu sayede markanız uzun süreli kullanımda sürekli görünür olur.
+160 sayfa çizgili iç yapısı, düzenli not alma ve planlama için ideal kullanım sunar. 70 gr krem kağıt, göz yormayan yapısı ile konforlu bir yazım deneyimi sağlar.
 
-Kurumsal promosyon, fuar dağıtımı ve müşteri hediyesi olarak yüksek etki sağlayan bir üründür.
+Tarihsiz yapısı sayesinde kullanıcılar defteri istedikleri zaman kullanmaya başlayabilir. Böylece ürün yıl sınırlaması olmadan uzun süre kullanılabilir ve markanızın görünürlüğü kalıcı hale gelir.
 
-TEKNİK ÖZELLİKLER
+Kapak yüzeyi logo baskıya uygundur. Firmanızın logosu veya kurumsal tasarımları gofre baskı, dijital baskı ve lazer baskı teknikleri ile profesyonel şekilde uygulanabilir.
 
-Ürün Tipi: Promosyon Tarihsiz Defter  
-Kategori: Tarihsiz Defter  
-
-Ölçü:
-
-13 x 21 cm  
-
-Kağıt:
-
-70 gr Krem Kağıt  
-160 Sayfa  
-Çizgili İç  
-
-Kapak:
-
-Termo PU Sert Kapak  
-Metal Toka  
-Renkli Kenarlar  
-
-Baskı Seçenekleri:
-
-Gofre Baskı  
-Dijital Baskı  
-Lazer Baskı  
-
-Koli Bilgisi:
-
-Koli İçi Adet: 40  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon tarihsiz defter ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı ve kapak tasarımı taleplerinize göre özelleştirilebilir.
-
-Minimum sipariş adedi, üretim süresi ve fiyatlandırma detayları için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON TARİHSİZ DEFTER TD-165 TERCİH EDİLMELİ?
+• 13 x 21 cm ideal kullanım ölçüsü
+• Termo PU sert kapak
+• Metal tokalı modern tasarım
+• 160 sayfa çizgili iç yapı
+• 70 gr krem kağıt
+• Renkli kenar detayları
+• Gofre, dijital ve lazer baskıya uygun
+• Premium ve prestijli görünüm
+• Uzun ömürlü kullanım
 
 KULLANIM ALANLARI
+• Kurumsal promosyon dağıtımları
+• Fuar ve etkinlik organizasyonları
+• Toplantı ve seminerler
+• Müşteri ve bayi hediyeleri
+• Çalışan motivasyon hediyeleri
+• Eğitim kurumları
+• Ofis ve günlük kullanım
 
-Kurumsal promosyon ürünleri  
-Ofis ve iş kullanımı  
-Toplantı ve not alma  
-Fuar ve etkinlik dağıtımları  
-Müşteri ve çalışan hediyeleri  
-Eğitim kurumları  
-Marka bilinirliği artırma kampanyaları  
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Bankalar ve finans kuruluşları
+• Sigorta şirketleri
+• Eğitim kurumları
+• Reklam ajansları
+• Danışmanlık şirketleri
+• Teknoloji firmaları
+• Kamu kurumları
+
+PROMOSYON TARİHSİZ DEFTER FİYATLARI
+Promosyon tarihsiz defter fiyatları; sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+BASKI SEÇENEKLERİ
+• Gofre Baskı
+• Dijital Baskı
+• Lazer Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Turkuaz, Açık Turkuaz, Turuncu, Kırmızı, Siyah, Füme ve Kahverengi.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Logo baskılı siparişlerde minimum adet; baskı yöntemi, renk seçimi ve üretim planına göre değişebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: TD-165
+• Ürün Türü: Promosyon Tarihsiz Defter
+• Ölçü: 13 x 21 cm
+• Kapak: Termo PU Sert Kapak
+• Kağıt: 70 gr Krem
+• Sayfa Sayısı: 160
+• Sayfa Tipi: Çizgili
+• Kapama: Metal Toka
+• Baskı Türleri: Gofre Baskı / Dijital Baskı / Lazer Baskı
+• Koli Adedi: 40
+• Kategori: Tarihsiz Defter
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, renk seçimi ve üretim yoğunluğuna bağlı olarak teslim süresi değişebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tarihsiz defter TD-165, modern tasarımı, metal toka detayı ve premium görünümü ile markanızı uzun süre görünür kılan etkili bir kurumsal promosyon ürünüdür. Logo baskılı toplu siparişler için hemen teklif alabilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "TD-165 modelinin ölçüsü nedir?",
+      a: "TD-165 modeli 13 x 21 cm ölçüsündedir ve günlük kullanım için ideal kompakt bir boyuta sahiptir.",
+    },
+    {
+      q: "Kapak malzemesi nedir?",
+      a: "Defter termo PU sert kapak yapısına sahiptir ve metal tokalı kapama sistemine sahiptir.",
+    },
+    {
+      q: "Kaç sayfadan oluşur?",
+      a: "TD-165 modeli 160 sayfa çizgili iç yapıya sahiptir ve 70 gr krem kağıt kullanılmaktadır.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Bu modele gofre baskı, dijital baskı ve lazer baskı uygulanabilir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş miktarı; baskı yöntemi, renk seçimi ve üretim planına göre değişebilir. Net adet bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p448",
   slug: "promosyon-tarihsiz-defter-td-170",
-  title: "Promosyon Tarihsiz Defter TD-170 | Gizli Spiralli, Termo Deri Kapak, 15x21,5 cm",
-price: 246,
+  title:
+    "Promosyon Tarihsiz Defter TD-170 | 15x21,5 cm Gizli Spiralli Termo Deri Defter",
+  price: 246,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-170.jpg",
 
   shortDesc:
-    "Promosyon tarihsiz defter TD-170, gizli spiralli yapısı, termo deri kapak ve 240 sayfalık geniş iç hacmi ile kurumsal kullanım için premium bir promosyon defter modelidir.",
+    "Promosyon tarihsiz defter TD-170, 15x21,5 cm ölçüsü, gizli spiralli yapısı, termo deri kapak tasarımı ve 240 sayfalık geniş iç hacmi ile premium logo baskılı kurumsal defter modelidir.",
 
   longDesc: `
-Promosyon tarihsiz defter TD-170, yüksek kaliteli materyalleri ve fonksiyonel tasarımı ile kurumsal firmalar için üst segment bir promosyon ürünüdür.
+Promosyon Tarihsiz Defter TD-170 ile Markanızı Prestijli Şekilde Tanıtın
 
-15 x 21,5 cm ölçüsü sayesinde geniş kullanım alanı sunar ve günlük not alma, toplantı kayıtları ve planlama süreçlerinde maksimum verim sağlar.
+Promosyon tarihsiz defter TD-170, 15 x 21,5 cm ölçüsü, gizli spiralli yapısı ve termo deri kapak tasarımı ile kurumsal promosyon ürünleri arasında üst segment bir defter modelidir. Modern görünümü ve yüksek kaliteli yapısı sayesinde markanızı profesyonel bir şekilde temsil eder.
 
-Gizli spiralli yapısı, defterin hem estetik görünmesini sağlar hem de uzun ömürlü ve dayanıklı kullanım sunar. Spiralin dışarıdan görünmemesi ürüne daha premium bir hava katar.
+15 x 21,5 cm ölçüsü, standart defterlere göre daha geniş yazım alanı sunar. Toplantı notları, iş planlamaları, eğitim kayıtları ve günlük kullanım için son derece uygundur.
 
-Termo deri kapak yapısı sayesinde şık, profesyonel ve lüks bir görünüm elde edilir. Bu özellik özellikle yönetici hediyeleri ve VIP promosyonlar için büyük avantaj sağlar.
+Gizli spiralli yapısı, spiral mekanizmasını dışarıdan göstermeden estetik bir görünüm sağlar. Bu yapı sayesinde defter kolay açılır, düz şekilde kullanılabilir ve uzun ömürlü bir kullanım deneyimi sunar.
 
-240 sayfa çizgili iç tasarımı, standart defterlere göre daha fazla kullanım alanı sunar ve uzun süreli kullanım imkanı verir.
+Termo deri kapak yüzeyi, ürüne hem dayanıklılık hem de premium bir görünüm kazandırır. Yumuşak dokusu ve kaliteli kaplaması ile kurumsal hediyeler için prestijli bir alternatif oluşturur.
 
-80 gr ivory krem kağıt kullanımı sayesinde göz yormayan, kaliteli ve akıcı bir yazım deneyimi sağlar.
+240 sayfalık geniş iç yapısı, uzun süreli kullanım sağlar. 80 gr ivory krem kağıt, göz yormayan yapısı ile konforlu ve kaliteli bir yazım deneyimi sunar.
 
-Gofre ve dijital baskı seçenekleri ile logo uygulaması yapılabilir. Bu sayede markanız uzun süre kullanıcı ile birlikte taşınır ve sürekli görünür olur.
+Tarihsiz formatı sayesinde kullanıcılar defteri istedikleri zaman kullanmaya başlayabilir. Bu özellik, ürünün yıl sınırlaması olmadan uzun süre kullanılmasını sağlar.
 
-TEKNİK ÖZELLİKLER
+Kapak yüzeyi logo baskı uygulamalarına uygundur. Firmanızın logosu gofre baskı ve dijital baskı teknikleri ile profesyonel şekilde uygulanabilir.
 
-Ürün Tipi: Promosyon Tarihsiz Defter  
-Kategori: Tarihsiz Defter  
-
-Ölçü:
-
-15 x 21,5 cm  
-
-Kağıt:
-
-80 gr Ivory Krem Kağıt  
-240 Sayfa  
-Çizgili İç  
-
-Kapak:
-
-Termo Deri Kapak  
-Gizli Spiralli Yapı  
-
-Baskı Seçenekleri:
-
-Gofre Baskı  
-Dijital Baskı  
-
-Koli Bilgisi:
-
-Koli İçi Adet: 40  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon tarihsiz defter ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı ve kapak tasarımı taleplerinize göre özelleştirilebilir.
-
-Minimum sipariş adedi, üretim süresi ve fiyatlandırma detayları için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON TARİHSİZ DEFTER TD-170 TERCİH EDİLMELİ?
+• 15 x 21,5 cm geniş kullanım ölçüsü
+• Gizli spiralli premium tasarım
+• Termo deri kapak
+• 240 sayfa geniş iç hacim
+• 80 gr ivory krem kağıt
+• Gofre ve dijital baskıya uygun
+• Prestijli ve profesyonel görünüm
+• Uzun ömürlü kullanım
 
 KULLANIM ALANLARI
+• Kurumsal promosyon dağıtımları
+• VIP müşteri hediyeleri
+• Yönetici ve çalışan hediyeleri
+• Toplantı ve seminerler
+• Fuar ve etkinlik organizasyonları
+• Eğitim kurumları
+• Ofis ve günlük kullanım
 
-Kurumsal promosyon ürünleri  
-VIP müşteri hediyeleri  
-Yönetici ve ofis kullanımı  
-Toplantı ve planlama  
-Fuar ve etkinlik dağıtımları  
-Eğitim ve organizasyonlar  
-Marka bilinirliği artırma çalışmaları  
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Bankalar ve finans kuruluşları
+• Sigorta şirketleri
+• Eğitim kurumları
+• Reklam ajansları
+• Danışmanlık şirketleri
+• Teknoloji firmaları
+• Kamu kurumları
+
+PROMOSYON TARİHSİZ DEFTER FİYATLARI
+Promosyon tarihsiz defter fiyatları; sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+BASKI SEÇENEKLERİ
+• Gofre Baskı
+• Dijital Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Siyah, Füme, Lacivert, Kırmızı, Turkuaz ve Taba.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Logo baskılı siparişlerde minimum adet; baskı yöntemi, renk seçimi ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: TD-170
+• Ürün Türü: Promosyon Tarihsiz Defter
+• Ölçü: 15 x 21,5 cm
+• Kapak: Termo Deri
+• Yapı: Gizli Spiralli
+• Kağıt: 80 gr Ivory Krem
+• Sayfa Sayısı: 240
+• Sayfa Tipi: Çizgili
+• Baskı Türleri: Gofre Baskı / Dijital Baskı
+• Koli Adedi: 40
+• Kategori: Tarihsiz Defter
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, renk seçimi ve üretim yoğunluğuna bağlı olarak teslim süresi değişebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tarihsiz defter TD-170, gizli spiralli yapısı, geniş iç hacmi ve premium termo deri kapak tasarımı ile markanızı uzun süre görünür kılan prestijli bir promosyon ürünüdür. Logo baskılı toplu siparişler için hemen teklif alabilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "TD-170 modelinin ölçüsü nedir?",
+      a: "TD-170 modeli 15 x 21,5 cm ölçüsündedir ve geniş yazım alanı sunar.",
+    },
+    {
+      q: "Kapak malzemesi nedir?",
+      a: "Defter termo deri kapak yapısına sahiptir ve gizli spiralli premium tasarım sunar.",
+    },
+    {
+      q: "Kaç sayfadan oluşur?",
+      a: "TD-170 modeli toplam 240 sayfadan oluşur ve 80 gr ivory krem kağıt kullanılmaktadır.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Bu modele gofre baskı ve dijital baskı uygulanabilir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş miktarı; baskı yöntemi, renk seçimi ve üretim planına göre değişebilir. Net adet bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p449",
   slug: "promosyon-tarihsiz-defter-td-180",
-  title: "Promosyon Tarihsiz Defter TD-180 | Spiralli, Kareli, Termo Deri Kapak, 17x24 cm",
-price: 294,
+  title:
+    "Promosyon Tarihsiz Defter TD-180 | 17x24 cm Spiralli Kareli Termo Deri Defter",
+  price: 294,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-180.jpg",
 
   shortDesc:
-    "Promosyon tarihsiz defter TD-180, 17x24 cm büyük boy, spiralli tasarım, kareli iç sayfalar ve termo deri kapak ile profesyonel kullanım için ideal premium promosyon defterdir.",
+    "Promosyon tarihsiz defter TD-180, 17x24 cm ölçüsü, spiralli tasarımı, kareli iç sayfaları ve termo deri kapak yapısı ile premium logo baskılı kurumsal defter modelidir.",
 
   longDesc: `
-Promosyon tarihsiz defter TD-180, geniş kullanım alanı ve profesyonel tasarımı ile kurumsal firmalar için yüksek değerli bir promosyon ürünüdür.
+Promosyon Tarihsiz Defter TD-180 ile Markanızı Profesyonel Şekilde Tanıtın
 
-17 x 24 cm büyük boy yapısı sayesinde detaylı not alma, çizim ve planlama işlemleri için maksimum konfor sağlar. Özellikle mühendislik, teknik çizim ve proje çalışmalarında büyük avantaj sunar.
+Promosyon tarihsiz defter TD-180, 17 x 24 cm büyük boy ölçüsü, spiralli yapısı ve termo deri kapak tasarımı ile kurumsal promosyon ürünleri arasında üst segment bir defter modelidir. Geniş yazım alanı ve premium görünümü sayesinde profesyonel kullanım için ideal bir seçenektir.
 
-Spiralli tasarımı sayesinde defter tamamen açılabilir ve kullanım kolaylığı sağlar. Bu özellik günlük kullanımda pratiklik sunar ve kullanıcı deneyimini artırır.
+17 x 24 cm ölçüsü, standart defterlere göre daha geniş bir kullanım alanı sunar. Toplantı notları, proje planlamaları, teknik çizimler, hesaplamalar ve detaylı not alma süreçleri için son derece uygundur.
 
-240 sayfa kareli iç yapısı, düzenli not tutma, çizim yapma ve hesaplama işlemleri için idealdir. Standart çizgili defterlere göre daha fonksiyonel kullanım imkanı sunar.
+Spiralli yapısı sayesinde defter tamamen açılabilir ve rahat kullanım sağlar. Bu özellik, günlük kullanımda büyük kolaylık sunar ve uzun süreli kullanım konforunu artırır.
 
-80 gr ivory krem kağıt, göz yormayan ve kaliteli bir yazım deneyimi sağlar. Uzun süreli kullanımlarda konfor sunar.
+Termo deri kapak yüzeyi, ürüne hem dayanıklılık hem de prestijli bir görünüm kazandırır. Kurumsal hediyeler ve üst segment promosyon çalışmaları için oldukça etkili bir alternatiftir.
 
-Termo deri kapak, ürüne premium ve profesyonel bir görünüm kazandırır. Kurumsal firmalar için güçlü bir marka imajı oluşturur.
+240 sayfalık geniş iç yapısı, yoğun kullanım için ideal kapasite sunar. Kareli iç sayfalar, düzenli not tutma, çizim yapma ve hesaplama işlemleri için büyük avantaj sağlar.
 
-Gofre ve dijital baskı seçenekleri ile logo uygulaması yapılabilir. Bu sayede markanız her kullanımda görünür olur.
+80 gr ivory krem kağıt, göz yormayan yapısı ile kaliteli ve konforlu bir yazım deneyimi sunar.
 
-TEKNİK ÖZELLİKLER
+Tarihsiz formatı sayesinde kullanıcılar defteri istedikleri zaman kullanmaya başlayabilir. Böylece ürün yıl sınırlaması olmadan uzun süre kullanılabilir.
 
-Ürün Tipi: Promosyon Tarihsiz Defter  
-Kategori: Tarihsiz Defter  
+Kapak yüzeyi logo baskı uygulamalarına uygundur. Firmanızın logosu gofre baskı ve dijital baskı teknikleri ile profesyonel şekilde uygulanabilir.
 
-Ölçü:
-
-17 x 24 cm  
-
-Kağıt:
-
-80 gr Ivory Krem Kağıt  
-240 Sayfa  
-Kareli İç  
-
-Kapak:
-
-Termo Deri Kapak  
-Spiralli Tasarım  
-
-Baskı Seçenekleri:
-
-Gofre Baskı  
-Dijital Baskı  
-
-Koli Bilgisi:
-
-Koli İçi Adet: 32  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon tarihsiz defter ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
-
-Minimum sipariş adedi, üretim süresi ve fiyatlandırma detayları için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON TARİHSİZ DEFTER TD-180 TERCİH EDİLMELİ?
+• 17 x 24 cm geniş kullanım ölçüsü
+• Spiralli pratik tasarım
+• Termo deri premium kapak
+• 240 sayfa geniş iç hacim
+• Kareli iç sayfalar
+• 80 gr ivory krem kağıt
+• Gofre ve dijital baskıya uygun
+• Prestijli ve profesyonel görünüm
+• Uzun ömürlü kullanım
 
 KULLANIM ALANLARI
+• Kurumsal promosyon dağıtımları
+• Mühendislik ve teknik çalışmalar
+• Proje ve planlama süreçleri
+• Toplantı ve seminerler
+• Eğitim kurumları
+• Fuar ve etkinlik organizasyonları
+• Ofis ve günlük kullanım
 
-Kurumsal promosyon ürünleri  
-Mühendislik ve teknik kullanım  
-Ofis ve iş hayatı  
-Toplantı ve proje planlama  
-Fuar ve etkinlik dağıtımları  
-Eğitim kurumları  
-Marka bilinirliği artırma çalışmaları  
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Mühendislik şirketleri
+• Mimarlık ofisleri
+• Eğitim kurumları
+• Teknoloji firmaları
+• Danışmanlık şirketleri
+• Kamu kurumları
+
+PROMOSYON TARİHSİZ DEFTER FİYATLARI
+Promosyon tarihsiz defter fiyatları; sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+BASKI SEÇENEKLERİ
+• Gofre Baskı
+• Dijital Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Lacivert, Kırmızı, Taba, Gri ve Turkuaz.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Logo baskılı siparişlerde minimum adet; baskı yöntemi, renk seçimi ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: TD-180
+• Ürün Türü: Promosyon Tarihsiz Defter
+• Ölçü: 17 x 24 cm
+• Kapak: Termo Deri
+• Yapı: Spiralli
+• Kağıt: 80 gr Ivory Krem
+• Sayfa Sayısı: 240
+• Sayfa Tipi: Kareli
+• Baskı Türleri: Gofre Baskı / Dijital Baskı
+• Koli Adedi: 32
+• Kategori: Tarihsiz Defter
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, renk seçimi ve üretim yoğunluğuna bağlı olarak teslim süresi değişebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tarihsiz defter TD-180, geniş yazım alanı, spiralli yapısı ve premium termo deri kapak tasarımı ile markanızı uzun süre görünür kılan prestijli bir promosyon ürünüdür. Logo baskılı toplu siparişler için hemen teklif alabilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "TD-180 modelinin ölçüsü nedir?",
+      a: "TD-180 modeli 17 x 24 cm ölçüsündedir ve geniş yazım alanı sunar.",
+    },
+    {
+      q: "Kapak malzemesi nedir?",
+      a: "Defter premium termo deri kapak yapısına sahiptir.",
+    },
+    {
+      q: "Kaç sayfadan oluşur?",
+      a: "TD-180 modeli toplam 240 sayfadan oluşur ve kareli iç sayfalara sahiptir.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Bu modele gofre baskı ve dijital baskı uygulanabilir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş miktarı; baskı yöntemi, renk seçimi ve üretim planına göre değişebilir. Net adet bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p450",
   slug: "promosyon-tarihsiz-defter-td-190",
-  title: "Promosyon Tarihsiz Defter TD-190 | Esnek Kapak, Termo PU Deri, Metal Tokalı, 15,5x21,5 cm",
-price: 238,
+  title:
+    "Promosyon Tarihsiz Defter TD-190 | 15,5x21,5 cm Metal Tokalı Termo PU Defter",
+  price: 238,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-190.jpg",
 
   shortDesc:
-    "Promosyon tarihsiz defter TD-190, esnek yumuşak kapak, termo PU deri yüzey, metal toka ve renkli kenar detayları ile modern ve prestijli bir promosyon ajanda modelidir.",
+    "Promosyon tarihsiz defter TD-190, 15,5 x 21,5 cm ölçüsü, termo PU deri kapak, metal toka ve renkli kenar detayları ile premium logo baskılı kurumsal defter modelidir.",
 
   longDesc: `
-Promosyon tarihsiz defter TD-190, modern tasarımı ve fonksiyonel yapısı ile kurumsal firmalar için yüksek kaliteli bir promosyon ürünüdür.
+Promosyon Tarihsiz Defter TD-190 ile Markanıza Prestij Katın
 
-15,5 x 21,5 cm ölçüsü sayesinde günlük kullanım için ideal boyutta olan bu model, ofis, toplantı ve planlama süreçlerinde pratiklik sağlar.
+Promosyon tarihsiz defter TD-190, 15,5 x 21,5 cm ölçüsü, esnek termo PU deri kapak yapısı, metal toka detayı ve renkli kenar tasarımı ile kurumsal promosyon ürünleri arasında üst segment bir defter modelidir. Modern görünümü ve fonksiyonel yapısı sayesinde markanızın profesyonel şekilde tanıtılmasına katkı sağlar.
 
-Esnek yumuşak kapak tasarımı, defterin daha rahat taşınmasını ve kullanım sırasında konfor sağlamasını mümkün kılar. Aynı zamanda termo PU deri yüzeyi ile şık ve profesyonel bir görünüm sunar.
+15,5 x 21,5 cm ölçüsü, günlük kullanım için ideal bir boyut sunar. Toplantı notları, iş planlamaları, proje kayıtları ve kişisel kullanım için oldukça uygundur.
 
-Kapak üzerinde bulunan metal toka detayı, hem estetik bir görünüm sağlar hem de defterin güvenli şekilde kapalı kalmasına yardımcı olur.
+Termo PU deri kapak yapısı, ürüne şık ve prestijli bir görünüm kazandırırken aynı zamanda dayanıklı kullanım sağlar. Esnek yumuşak kapak tasarımı sayesinde rahat taşınabilir ve konforlu kullanım sunar.
 
-224 sayfa çizgili iç yapısı, düzenli not alma ve planlama için idealdir. 80 gr ivory krem kağıt sayesinde göz yormayan kaliteli bir yazım deneyimi sunar.
+Kapak üzerinde bulunan metal toka detayı, hem estetik bir görünüm sağlar hem de defterin düzenli şekilde kapalı kalmasına yardımcı olur.
 
-Renkli kenar detayları, ürüne modern bir hava katar ve markanızın daha dikkat çekici görünmesini sağlar.
+224 sayfalık çizgili iç yapı, yoğun not alma ve planlama ihtiyaçları için geniş kullanım alanı sunar.
+
+80 gr ivory krem kağıt, kaliteli ve göz yormayan bir yazım deneyimi sağlar.
+
+Renkli kenar detayları, ürüne dikkat çekici bir görünüm kazandırır ve klasik defterlerden ayrılmasını sağlar.
 
 Karton kılıf ile birlikte sunulması, ürünü daha prestijli hale getirir ve kurumsal hediye olarak değerini artırır.
 
-Gofre ve dijital baskı seçenekleri ile logo uygulaması yapılabilir. Bu sayede markanız uzun süre kullanıcı ile birlikte taşınır.
+Tarihsiz yapısı sayesinde kullanıcılar defteri diledikleri zaman kullanmaya başlayabilir. Böylece ürün yıl sınırlaması olmadan uzun süre kullanılabilir.
 
-TEKNİK ÖZELLİKLER
+Kapak yüzeyi gofre baskı ve dijital baskı tekniklerine uygundur. Firmanızın logosu profesyonel ve kalıcı şekilde uygulanabilir.
 
-Ürün Tipi: Promosyon Tarihsiz Defter  
-Kategori: Tarihsiz Defter  
-
-Ölçü:
-
-15,5 x 21,5 cm  
-
-Kağıt:
-
-80 gr Ivory Krem Kağıt  
-224 Sayfa  
-Çizgili İç  
-
-Kapak:
-
-Termo PU Deri  
-Esnek Yumuşak Kapak  
-Metal Toka  
-Renkli Kenarlar  
-Karton Kılıf  
-
-Baskı Seçenekleri:
-
-Gofre Baskı  
-Dijital Baskı  
-
-Koli Bilgisi:
-
-Koli İçi Adet: 40  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon tarihsiz defter ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı ve tasarım detayları taleplerinize göre özelleştirilebilir.
-
-Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON TARİHSİZ DEFTER TD-190 TERCİH EDİLMELİ?
+• 15,5 x 21,5 cm ideal kullanım ölçüsü
+• Termo PU deri premium kapak
+• Esnek yumuşak kapak yapısı
+• Metal toka detayı
+• Renkli kenar tasarımı
+• 224 sayfa geniş iç hacim
+• 80 gr ivory krem kağıt
+• Karton kılıf ile prestijli sunum
+• Gofre ve dijital baskıya uygun
+• Kurumsal promosyonlar için ideal
 
 KULLANIM ALANLARI
+• Kurumsal promosyon dağıtımları
+• Yönetici ve VIP müşteri hediyeleri
+• Ofis ve iş hayatı
+• Toplantı ve planlama
+• Fuar ve etkinlik organizasyonları
+• Çalışan motivasyon hediyeleri
+• Eğitim kurumları
+• Premium marka tanıtımları
 
-Kurumsal promosyon ürünleri  
-Ofis ve günlük kullanım  
-Toplantı ve planlama  
-Müşteri ve çalışan hediyeleri  
-Fuar ve etkinlik dağıtımları  
-Premium marka tanıtımı  
-Ajanda ve kişisel kullanım  
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Bankalar
+• Sigorta şirketleri
+• Danışmanlık firmaları
+• Eğitim kurumları
+• Teknoloji şirketleri
+• Kamu kurumları
+• Ajanslar
+
+PROMOSYON TARİHSİZ DEFTER FİYATLARI
+Promosyon tarihsiz defter fiyatları; sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+BASKI SEÇENEKLERİ
+• Gofre Baskı
+• Dijital Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Gri, Lacivert, Yeşil, Kırmızı ve Siyah.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Logo baskılı siparişlerde minimum adet; baskı yöntemi, renk seçimi ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: TD-190
+• Ürün Türü: Promosyon Tarihsiz Defter
+• Ölçü: 15,5 x 21,5 cm
+• Kapak: Termo PU Deri
+• Kapak Yapısı: Esnek Yumuşak Kapak
+• Detaylar: Metal Toka, Renkli Kenarlar
+• Kağıt: 80 gr Ivory Krem
+• Sayfa Sayısı: 224
+• Sayfa Tipi: Çizgili
+• Kılıf: Karton Kılıf
+• Baskı Türleri: Gofre Baskı / Dijital Baskı
+• Koli Adedi: 40
+• Kategori: Tarihsiz Defter
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, renk seçimi ve üretim yoğunluğuna bağlı olarak teslim süresi değişebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tarihsiz defter TD-190, termo PU deri kapak yapısı, metal toka detayı ve premium görünümü ile markanızı uzun süre görünür kılan prestijli bir promosyon ürünüdür. Logo baskılı toplu siparişler için hemen teklif alabilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "TD-190 modelinin ölçüsü nedir?",
+      a: "TD-190 modeli 15,5 x 21,5 cm ölçüsündedir.",
+    },
+    {
+      q: "Kapak malzemesi nedir?",
+      a: "Defter termo PU deri kapak yapısına sahiptir. Esnek yumuşak kapak, metal toka ve renkli kenar detayları bulunur.",
+    },
+    {
+      q: "Kaç sayfadan oluşur?",
+      a: "TD-190 modeli toplam 224 sayfa çizgili iç yapıya sahiptir.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Bu modele gofre baskı ve dijital baskı uygulanabilir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş miktarı; baskı yöntemi, renk seçimi ve üretim planına göre değişebilir. Net adet bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p451",
   slug: "promosyon-tarihsiz-defter-td-195",
-  title: "Promosyon Tarihsiz Defter TD-195 | Esnek Kapak, Termo PU Deri, Metal Tokalı, 13x21 cm",
-price: 178,
+  title:
+    "Promosyon Tarihsiz Defter TD-195 | 13x21 cm Metal Tokalı Termo PU Defter",
+  price: 178,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-195.jpg",
 
   shortDesc:
-    "Promosyon tarihsiz defter TD-195, esnek yumuşak kapak, termo PU deri yüzey, renkli kenar ve metal toka detayları ile şık ve ekonomik bir promosyon defter modelidir.",
+    "Promosyon tarihsiz defter TD-195, 13 x 21 cm ölçüsü, termo PU deri kapak, metal toka ve renkli kenar detayları ile logo baskılı şık ve ekonomik kurumsal defter modelidir.",
 
   longDesc: `
-Promosyon tarihsiz defter TD-195, şık tasarımı ve fonksiyonel yapısı ile kurumsal firmalar için ideal bir promosyon ürünüdür.
+Promosyon Tarihsiz Defter TD-195 ile Markanızı Günlük Kullanımda Öne Çıkarın
 
-13 x 21 cm ölçüsü sayesinde günlük kullanım için pratik bir boyut sunar. Ofis, toplantı ve saha kullanımı için rahatlıkla tercih edilebilir.
+Promosyon tarihsiz defter TD-195, 13 x 21 cm ölçüsü, esnek yumuşak kapak yapısı, termo PU deri yüzeyi ve metal toka detayı ile kurumsal promosyon ürünleri arasında hem şık hem de ekonomik bir seçenektir.
 
-Esnek yumuşak kapak yapısı, defterin kullanım sırasında daha konforlu olmasını sağlar. Termo PU deri yüzeyi ile modern ve profesyonel bir görünüm sunar.
+Kompakt ölçüsü sayesinde çanta içerisinde kolay taşınabilir ve günlük kullanım için ideal bir boyut sunar. Toplantı notları, iş planlamaları, eğitim süreçleri ve kişisel kullanım için uygundur.
 
-Metal renkli toka detayı, hem estetik bir görünüm kazandırır hem de defterin güvenli şekilde kapalı kalmasına yardımcı olur.
+Termo PU deri kapak yapısı, ürüne modern ve profesyonel bir görünüm kazandırır. Esnek yumuşak kapak tasarımı sayesinde rahat kullanım ve taşıma kolaylığı sağlar.
 
-196 sayfa çizgili iç yapısı, düzenli not alma ve planlama için yeterli alan sunar. 80 gr ivory krem kağıt sayesinde kaliteli ve göz yormayan bir yazım deneyimi sağlar.
+Kapak üzerindeki metal renkli toka detayı, hem estetik görünüm sunar hem de defterin düzenli şekilde kapalı kalmasına yardımcı olur.
 
-Renkli kenar tasarımı, ürünü klasik defterlerden ayırarak daha dikkat çekici hale getirir.
+196 sayfalık çizgili iç yapı, günlük not alma ve planlama için yeterli kullanım alanı sunar.
 
-Karton kılıf ile birlikte sunulması, ürüne ekstra değer katar ve kurumsal hediye olarak tercih edilmesini kolaylaştırır.
+80 gr ivory krem kağıt, kaliteli ve göz yormayan bir yazım deneyimi sağlar.
 
-Gofre, dijital ve lazer baskı seçenekleri ile logo uygulaması yapılabilir. Bu sayede markanız uzun süre kullanıcı ile birlikte taşınır.
+Renkli kenar detayları, ürüne dikkat çekici bir görünüm kazandırır ve klasik defter modellerinden ayrılmasını sağlar.
 
-TEKNİK ÖZELLİKLER
+Karton kılıf ile birlikte sunulması, ürünü daha prestijli hale getirir ve kurumsal hediye olarak değerini artırır.
 
-Ürün Tipi: Promosyon Tarihsiz Defter  
-Kategori: Tarihsiz Defter  
+Tarihsiz yapısı sayesinde kullanıcılar ürünü yıl sınırlaması olmadan istedikleri zaman kullanmaya başlayabilir.
 
-Ölçü:
+Kapak yüzeyi gofre baskı, dijital baskı ve lazer baskı tekniklerine uygundur. Firmanızın logosu profesyonel ve kalıcı şekilde uygulanabilir.
 
-13 x 21 cm  
-
-Kağıt:
-
-80 gr Ivory Krem Kağıt  
-196 Sayfa  
-Çizgili İç  
-
-Kapak:
-
-Termo PU Deri  
-Esnek Yumuşak Kapak  
-Metal Renkli Toka  
-Renkli Kenarlar  
-Karton Kılıf  
-
-Baskı Seçenekleri:
-
-Gofre Baskı  
-Dijital Baskı  
-Lazer Baskı  
-
-Koli Bilgisi:
-
-Koli İçi Adet: 40  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon tarihsiz defter ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
-
-Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON TARİHSİZ DEFTER TD-195 TERCİH EDİLMELİ?
+• 13 x 21 cm kompakt ve kullanışlı ölçü
+• Termo PU deri kapak
+• Esnek yumuşak kapak yapısı
+• Metal renkli toka detayı
+• Renkli kenar tasarımı
+• 196 sayfa çizgili iç yapı
+• 80 gr ivory krem kağıt
+• Karton kılıf ile şık sunum
+• Gofre, dijital ve lazer baskıya uygun
+• Kurumsal promosyonlar için ideal
 
 KULLANIM ALANLARI
+• Kurumsal promosyon dağıtımları
+• Ofis ve günlük kullanım
+• Toplantı ve planlama
+• Müşteri ve çalışan hediyeleri
+• Fuar ve etkinlik organizasyonları
+• Eğitim kurumları
+• Marka bilinirliği artırma kampanyaları
+• Kişisel ajanda kullanımı
 
-Kurumsal promosyon ürünleri  
-Ofis ve günlük kullanım  
-Toplantı ve not alma  
-Fuar ve etkinlik dağıtımları  
-Müşteri ve çalışan hediyeleri  
-Ajanda ve kişisel kullanım  
-Marka bilinirliği artırma çalışmaları  
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Bankalar
+• Sigorta şirketleri
+• Eğitim kurumları
+• Teknoloji şirketleri
+• Danışmanlık firmaları
+• Ajanslar
+• Kamu kurumları
+
+PROMOSYON TARİHSİZ DEFTER FİYATLARI
+Promosyon tarihsiz defter fiyatları; sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre değişebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+BASKI SEÇENEKLERİ
+• Gofre Baskı
+• Dijital Baskı
+• Lazer Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Gri, Kırmızı, Lacivert, Mor, Turkuaz, Siyah, Taba, Bej ve Turuncu.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Logo baskılı siparişlerde minimum adet; baskı yöntemi ve üretim planına göre değişebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: TD-195
+• Ürün Türü: Promosyon Tarihsiz Defter
+• Ölçü: 13 x 21 cm
+• Kapak: Termo PU Deri
+• Kapak Yapısı: Esnek Yumuşak Kapak
+• Detaylar: Metal Renkli Toka, Renkli Kenarlar
+• Kağıt: 80 gr Ivory Krem
+• Sayfa Sayısı: 196
+• Sayfa Tipi: Çizgili
+• Kılıf: Karton Kılıf
+• Baskı Türleri: Gofre Baskı / Dijital Baskı / Lazer Baskı
+• Koli Adedi: 40
+• Kategori: Tarihsiz Defter
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, renk seçimi ve üretim yoğunluğuna bağlı olarak teslim süresi değişebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tarihsiz defter TD-195, termo PU deri kapak yapısı, metal toka detayı ve modern tasarımı ile markanızı uzun süre görünür kılan şık ve ekonomik bir promosyon ürünüdür. Logo baskılı toplu siparişler için hemen teklif alabilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "TD-195 modelinin ölçüsü nedir?",
+      a: "TD-195 modeli 13 x 21 cm ölçüsündedir.",
+    },
+    {
+      q: "Kapak malzemesi nedir?",
+      a: "Defter termo PU deri kapak yapısına sahiptir. Esnek yumuşak kapak, metal renkli toka ve renkli kenar detayları bulunur.",
+    },
+    {
+      q: "Kaç sayfadan oluşur?",
+      a: "TD-195 modeli toplam 196 sayfa çizgili iç yapıya sahiptir.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Bu modele gofre baskı, dijital baskı ve lazer baskı uygulanabilir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş miktarı; baskı yöntemi, renk seçimi ve üretim planına göre değişebilir. Net adet bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p452",
   slug: "promosyon-tarihsiz-defter-td-196",
-  title: "Promosyon Tarihsiz Defter TD-196 | Esnek Kapak, Termo PU Deri, Metal Tokalı, 13x21 cm",
-price: 142,
+  title:
+    "Promosyon Tarihsiz Defter TD-196 | 13x21 cm Termo PU Deri Metal Tokalı Defter",
+  price: 142,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-196.jpg",
 
   shortDesc:
-    "Promosyon tarihsiz defter TD-196, esnek kapak, termo PU deri yüzey, renkli kenar ve metal toka detayları ile ekonomik ve şık bir promosyon defter modelidir.",
+    "Promosyon tarihsiz defter TD-196, 13 x 21 cm ölçüsü, termo PU deri kapak, metal toka ve renkli kenar detayları ile logo baskılı ekonomik ve şık kurumsal defter modelidir.",
 
   longDesc: `
-Promosyon tarihsiz defter TD-196, uygun fiyatlı ve şık tasarımı ile kurumsal firmalar için ideal bir promosyon ürünüdür.
+Promosyon Tarihsiz Defter TD-196 ile Uygun Fiyatlı ve Prestijli Marka Tanıtımı
 
-13 x 21 cm ölçüsü sayesinde günlük kullanım için pratik bir boyut sunar. Ofis, toplantı ve saha kullanımı için rahatlıkla tercih edilebilir.
+Promosyon tarihsiz defter TD-196, 13 x 21 cm ölçüsü, esnek yumuşak kapak yapısı, termo PU deri yüzeyi ve metal toka detayı ile kurumsal promosyon ürünleri arasında ekonomik ve şık bir alternatiftir.
 
-Esnek yumuşak kapak yapısı, defterin kullanım sırasında konforlu olmasını sağlar. Termo PU deri yüzeyi ile modern ve profesyonel bir görünüm sunar.
+Kompakt boyutu sayesinde günlük kullanım için ideal bir ölçü sunar. Toplantı notları, iş planlamaları, saha çalışmaları ve kişisel kullanım için rahatlıkla tercih edilebilir.
 
-Metal renkli toka detayı, hem estetik bir görünüm kazandırır hem de defterin güvenli şekilde kapalı kalmasına yardımcı olur.
+Termo PU deri kapak yapısı, ürüne modern ve profesyonel bir görünüm kazandırırken dayanıklı kullanım sağlar.
 
-160 sayfa çizgili iç yapısı, günlük not alma ve planlama için yeterli alan sunar. 70 gr krem kağıt sayesinde sade ve kullanışlı bir yazım deneyimi sağlar.
+Esnek yumuşak kapak tasarımı, taşıma ve kullanım sırasında ekstra konfor sunar.
 
-Renkli kenar tasarımı, ürünü klasik defterlerden ayırarak daha dikkat çekici hale getirir.
+Kapak üzerindeki metal renkli toka detayı, hem estetik bir görünüm sağlar hem de defterin düzenli şekilde kapalı kalmasına yardımcı olur.
 
-Karton kılıf ile birlikte sunulması, ürüne ekstra değer katar ve kurumsal hediye olarak tercih edilmesini kolaylaştırır.
+160 sayfalık çizgili iç yapı, günlük not alma ve planlama ihtiyaçları için yeterli kullanım alanı sunar.
 
-Gofre, dijital ve lazer baskı seçenekleri ile logo uygulaması yapılabilir. Bu sayede markanız uzun süre kullanıcı ile birlikte taşınır.
+70 gr krem kağıt, sade ve konforlu bir yazım deneyimi sağlar.
 
-TEKNİK ÖZELLİKLER
+Renkli kenar detayları, ürüne dikkat çekici bir görünüm kazandırır ve klasik defter modellerinden ayrılmasını sağlar.
 
-Ürün Tipi: Promosyon Tarihsiz Defter  
-Kategori: Tarihsiz Defter  
+Karton kılıf ile birlikte sunulması, ürünü daha prestijli hale getirir ve kurumsal hediye olarak değerini artırır.
 
-Ölçü:
+Tarihsiz yapısı sayesinde kullanıcılar ürünü yıl sınırlaması olmadan istedikleri zaman kullanmaya başlayabilir.
 
-13 x 21 cm  
+Kapak yüzeyi gofre baskı, dijital baskı ve lazer baskı tekniklerine uygundur. Firmanızın logosu profesyonel ve kalıcı şekilde uygulanabilir.
 
-Kağıt:
-
-70 gr Krem Kağıt  
-160 Sayfa  
-Çizgili İç  
-
-Kapak:
-
-Termo PU Deri  
-Esnek Yumuşak Kapak  
-Metal Renkli Toka  
-Renkli Kenarlar  
-Karton Kılıf  
-
-Baskı Seçenekleri:
-
-Gofre Baskı  
-Dijital Baskı  
-Lazer Baskı  
-
-Koli Bilgisi:
-
-Koli İçi Adet: 40  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon tarihsiz defter ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
-
-Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON TARİHSİZ DEFTER TD-196 TERCİH EDİLMELİ?
+• 13 x 21 cm kompakt ve kullanışlı ölçü
+• Termo PU deri kapak
+• Esnek yumuşak kapak yapısı
+• Metal renkli toka detayı
+• Renkli kenar tasarımı
+• 160 sayfa çizgili iç yapı
+• 70 gr krem kağıt
+• Karton kılıf ile şık sunum
+• Gofre, dijital ve lazer baskıya uygun
+• Ekonomik fiyat avantajı
 
 KULLANIM ALANLARI
+• Kurumsal promosyon dağıtımları
+• Ofis ve günlük kullanım
+• Toplantı ve planlama
+• Müşteri ve çalışan hediyeleri
+• Fuar ve etkinlik organizasyonları
+• Eğitim kurumları
+• Marka bilinirliği artırma kampanyaları
+• Kişisel ajanda kullanımı
 
-Kurumsal promosyon ürünleri  
-Ofis ve günlük kullanım  
-Toplantı ve not alma  
-Fuar ve etkinlik dağıtımları  
-Müşteri ve çalışan hediyeleri  
-Ajanda ve kişisel kullanım  
-Marka bilinirliği artırma çalışmaları  
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Bankalar
+• Sigorta şirketleri
+• Eğitim kurumları
+• Danışmanlık firmaları
+• Teknoloji şirketleri
+• Ajanslar
+• Kamu kurumları
+
+PROMOSYON TARİHSİZ DEFTER FİYATLARI
+Promosyon tarihsiz defter fiyatları; sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+BASKI SEÇENEKLERİ
+• Gofre Baskı
+• Dijital Baskı
+• Lazer Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Gri, Kırmızı, Lacivert, Siyah, Bordo, Turkuaz, Turuncu ve Yeşil.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Logo baskılı siparişlerde minimum adet; baskı yöntemi ve üretim planına göre değişebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: TD-196
+• Ürün Türü: Promosyon Tarihsiz Defter
+• Ölçü: 13 x 21 cm
+• Kapak: Termo PU Deri
+• Kapak Yapısı: Esnek Yumuşak Kapak
+• Detaylar: Metal Renkli Toka, Renkli Kenarlar
+• Kağıt: 70 gr Krem Kağıt
+• Sayfa Sayısı: 160
+• Sayfa Tipi: Çizgili
+• Kılıf: Karton Kılıf
+• Baskı Türleri: Gofre Baskı / Dijital Baskı / Lazer Baskı
+• Koli Adedi: 40
+• Kategori: Tarihsiz Defter
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, renk seçimi ve üretim yoğunluğuna bağlı olarak teslim süresi değişebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tarihsiz defter TD-196, ekonomik fiyatı, termo PU deri kapak yapısı ve modern tasarımı ile markanızı uzun süre görünür kılan şık ve kullanışlı bir promosyon ürünüdür. Logo baskılı toplu siparişler için hemen teklif alabilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "TD-196 modelinin ölçüsü nedir?",
+      a: "TD-196 modeli 13 x 21 cm ölçüsündedir.",
+    },
+    {
+      q: "Kapak malzemesi nedir?",
+      a: "Defter termo PU deri kapak yapısına sahiptir. Esnek yumuşak kapak, metal renkli toka ve renkli kenar detayları bulunur.",
+    },
+    {
+      q: "Kaç sayfadan oluşur?",
+      a: "TD-196 modeli toplam 160 sayfa çizgili iç yapıya sahiptir.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Bu modele gofre baskı, dijital baskı ve lazer baskı uygulanabilir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş miktarı; baskı yöntemi, renk seçimi ve üretim planına göre değişebilir. Net adet bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p453",
   slug: "promosyon-tarihsiz-defter-td-200",
-  title: "Promosyon Tarihsiz Defter TD-200 | Kalemlikli, Termo Deri Kapak, 13x21 cm",
-price: 100,
+  title:
+    "Promosyon Tarihsiz Defter TD-200 | 13x21 cm Kalemlikli Termo Deri Defter",
+  price: 100,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-200.jpg",
 
   shortDesc:
-    "Promosyon tarihsiz defter TD-200, termo deri kapak, kalem geçme yeri ve kompakt yapısı ile ekonomik ve kullanışlı bir promosyon defter modelidir.",
+    "Promosyon tarihsiz defter TD-200, 13 x 21 cm ölçüsü, termo deri kapak, kalem geçme yeri ve logo baskıya uygun yapısı ile ekonomik ve kullanışlı kurumsal defter modelidir.",
 
   longDesc: `
-Promosyon tarihsiz defter TD-200, sade tasarımı ve fonksiyonel özellikleri ile kurumsal firmalar için ideal bir promosyon ürünüdür.
+Promosyon Tarihsiz Defter TD-200 ile Uygun Fiyatlı ve Kullanışlı Marka Tanıtımı
 
-13 x 21 cm ölçüsü sayesinde günlük kullanım için pratik bir boyut sunar. Ofis, toplantı ve saha kullanımında rahatlıkla tercih edilebilir.
+Promosyon tarihsiz defter TD-200, 13 x 21 cm ölçüsü, termo deri kapak yapısı ve kalem geçme yeri ile kurumsal promosyon ürünleri arasında ekonomik ve işlevsel bir alternatiftir.
 
-Termo deri kapak yapısı, ürüne şık ve profesyonel bir görünüm kazandırır. Aynı zamanda dayanıklı yapısı ile uzun ömürlü kullanım sağlar.
+Kompakt boyutu sayesinde çanta içerisinde kolay taşınabilir ve günlük kullanım için ideal bir yapı sunar. Toplantı notları, iş planlamaları, eğitim süreçleri ve kişisel kullanım için uygundur.
 
-Kapak üzerinde bulunan kalem geçme yeri, kullanıcıya ekstra pratiklik sunar ve defter ile birlikte kalem taşıma kolaylığı sağlar.
+Termo deri kapak yüzeyi, ürüne şık ve profesyonel bir görünüm kazandırırken dayanıklı kullanım sağlar.
 
-96 yaprak çizgili iç yapısı, temel not alma ihtiyaçları için yeterli alan sunar. Krem rengi kağıt, göz yormayan bir yazım deneyimi sağlar.
+Kapak üzerinde bulunan kalem geçme yeri, defter ile birlikte kalem taşıma kolaylığı sunar ve kullanım sırasında ekstra pratiklik sağlar.
 
-Serigraf, sıcak baskı ve UV baskıya uygun yüzeyi sayesinde logo uygulaması yapılabilir. Bu sayede markanız uzun süre kullanıcı ile birlikte taşınır.
+96 yaprak çizgili iç yapı, temel not alma ve planlama ihtiyaçları için yeterli kullanım alanı sunar.
 
-Kompakt ve ekonomik yapısı sayesinde yüksek adetli promosyon kampanyaları için ideal bir üründür.
+Krem renkli kağıt, göz yormayan ve konforlu bir yazım deneyimi sağlar.
 
-TEKNİK ÖZELLİKLER
+Tarihsiz yapısı sayesinde kullanıcılar ürünü istedikleri zaman kullanmaya başlayabilir. Bu sayede yıl sınırlaması olmadan uzun süre kullanılabilir.
 
-Ürün Tipi: Promosyon Tarihsiz Defter  
-Kategori: Tarihsiz Defter  
+Kapak yüzeyi serigraf baskı, sıcak baskı ve UV baskı tekniklerine uygundur. Firmanızın logosu profesyonel ve kalıcı şekilde uygulanabilir.
 
-Ölçü:
+Ekonomik fiyatı sayesinde yüksek adetli promosyon kampanyaları için ideal bir üründür.
 
-13 x 21 cm  
-
-Kağıt:
-
-Krem Renkli Kağıt  
-96 Yaprak  
-Çizgili İç  
-
-Kapak:
-
-Termo Deri Kapak  
-Kalem Geçme Yeri  
-
-Baskı Seçenekleri:
-
-Serigraf Baskı  
-Sıcak Baskı  
-UV Baskı  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon tarihsiz defter ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
-
-Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON TARİHSİZ DEFTER TD-200 TERCİH EDİLMELİ?
+• 13 x 21 cm kompakt ve kullanışlı ölçü
+• Şık termo deri kapak
+• Kalem geçme yeri
+• 96 yaprak çizgili iç yapı
+• Krem renkli kağıt
+• Serigraf, sıcak baskı ve UV baskıya uygun
+• Hafif ve taşınabilir yapı
+• Ekonomik fiyat avantajı
+• Kurumsal promosyonlar için ideal
 
 KULLANIM ALANLARI
+• Kurumsal promosyon dağıtımları
+• Ofis ve günlük kullanım
+• Toplantı ve planlama
+• Eğitim kurumları
+• Fuar ve etkinlik organizasyonları
+• Toplu promosyon kampanyaları
+• Müşteri ve çalışan hediyeleri
+• Marka bilinirliği artırma çalışmaları
 
-Kurumsal promosyon ürünleri  
-Ofis ve günlük kullanım  
-Toplantı ve not alma  
-Fuar ve etkinlik dağıtımları  
-Toplu promosyon kampanyaları  
-Müşteri ve çalışan hediyeleri  
-Marka bilinirliği artırma çalışmaları  
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Bankalar
+• Eğitim kurumları
+• Sigorta şirketleri
+• Danışmanlık firmaları
+• Teknoloji şirketleri
+• Ajanslar
+• Kamu kurumları
+
+PROMOSYON TARİHSİZ DEFTER FİYATLARI
+Promosyon tarihsiz defter fiyatları; sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+BASKI SEÇENEKLERİ
+• Serigraf Baskı
+• Sıcak Baskı
+• UV Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Turkuaz, Lacivert, Mavi, Kırmızı, Gri, Yeşil, Turuncu ve Mor.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Logo baskılı siparişlerde minimum adet; baskı yöntemi ve üretim planına göre değişebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: TD-200
+• Ürün Türü: Promosyon Tarihsiz Defter
+• Ölçü: 13 x 21 cm
+• Kapak: Termo Deri
+• Özellik: Kalem Geçme Yeri
+• Kağıt: Krem Renkli Kağıt
+• Sayfa Sayısı: 96 Yaprak
+• Sayfa Tipi: Çizgili
+• Baskı Türleri: Serigraf Baskı / Sıcak Baskı / UV Baskı
+• Kategori: Tarihsiz Defter
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, renk seçimi ve üretim yoğunluğuna bağlı olarak teslim süresi değişebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tarihsiz defter TD-200, ekonomik fiyatı, termo deri kapak yapısı ve kalemlik özelliği ile markanızı uzun süre görünür kılan kullanışlı bir promosyon ürünüdür. Logo baskılı toplu siparişler için hemen teklif alabilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "TD-200 modelinin ölçüsü nedir?",
+      a: "TD-200 modeli 13 x 21 cm ölçüsündedir.",
+    },
+    {
+      q: "Kapak malzemesi nedir?",
+      a: "Defter termo deri kapak yapısına sahiptir ve kapakta kalem geçme yeri bulunmaktadır.",
+    },
+    {
+      q: "Kaç yapraktan oluşur?",
+      a: "TD-200 modeli toplam 96 yaprak çizgili iç yapıya sahiptir.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Bu modele serigraf baskı, sıcak baskı ve UV baskı uygulanabilir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş miktarı; baskı yöntemi, renk seçimi ve üretim planına göre değişebilir. Net adet bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p454",
   slug: "promosyon-tarihsiz-defter-td-210",
-  title: "Promosyon Tarihsiz Defter TD-210 | Sert Kapak, Kalem Tutuculu, 15x21 cm",
-price: 238,
+  title:
+    "Promosyon Tarihsiz Defter TD-210 | 15x21 cm Kalem Tutuculu Termo PU Defter",
+  price: 238,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-210.jpg",
 
   shortDesc:
-    "Promosyon tarihsiz defter TD-210, termo PU sert kapak, kalem tutucu ve karton kılıf detayları ile premium ve fonksiyonel bir promosyon defter modelidir.",
+    "Promosyon tarihsiz defter TD-210, 15 x 21 cm ölçüsü, termo PU sert kapak, kalem tutucu ve karton kılıf detayları ile logo baskılı premium kurumsal defter modelidir.",
 
   longDesc: `
-Promosyon tarihsiz defter TD-210, şık tasarımı ve kullanım kolaylığı sağlayan detayları ile kurumsal firmalar için ideal bir promosyon ürünüdür.
+Promosyon Tarihsiz Defter TD-210 ile Prestijli ve Fonksiyonel Marka Tanıtımı
 
-15 x 21 cm ölçüsü sayesinde hem taşınabilir hem de geniş kullanım alanı sunar. Ofis, toplantı ve günlük kullanım için uygundur.
+Promosyon tarihsiz defter TD-210, 15 x 21 cm ölçüsü, termo PU sert kapak yapısı, kalem tutucu detayı ve karton kılıfı ile kurumsal promosyon ürünleri arasında premium bir seçenektir.
 
-Termo PU sert kapak yapısı, ürüne dayanıklılık kazandırırken aynı zamanda premium bir görünüm sunar. Uzun süreli kullanım için idealdir.
+Geniş ve kullanışlı ölçüsü sayesinde toplantı notları, iş planlamaları, proje kayıtları ve günlük kullanım için ideal bir yapı sunar.
 
-Kapak üzerinde bulunan kalem tutucu, kullanıcıya ekstra pratiklik sağlar ve defter ile birlikte kalem taşıma kolaylığı sunar.
+Termo PU sert kapak, ürüne hem dayanıklılık hem de şık bir görünüm kazandırır. Uzun süreli kullanım için uygundur ve markanızın prestijini artırır.
 
-224 sayfa çizgili iç yapısı, düzenli not alma ve planlama için geniş bir alan sunar. 80 gr krem kağıt sayesinde kaliteli ve göz yormayan bir yazım deneyimi sağlar.
+Kapak üzerinde bulunan elastik kalem tutucu, defter ile birlikte kalem taşıma kolaylığı sağlar ve kullanıcıya pratik bir kullanım sunar.
 
-Renkli kenar tasarımı, ürünü klasik defterlerden ayırarak daha modern ve dikkat çekici hale getirir.
+224 sayfalık çizgili iç yapı, yoğun not alma ve planlama ihtiyaçları için geniş kullanım alanı sunar.
 
-Karton kılıf ile birlikte sunulması, ürüne ekstra değer katar ve kurumsal hediye olarak tercih edilmesini kolaylaştırır.
+80 gr krem kağıt, kaliteli ve göz yormayan bir yazım deneyimi sağlar.
 
-Gofre ve dijital baskı seçenekleri ile logo uygulaması yapılabilir. Bu sayede markanız uzun süre kullanıcı ile birlikte taşınır.
+Renkli kenar detayları, ürüne modern ve dikkat çekici bir görünüm kazandırır.
 
-TEKNİK ÖZELLİKLER
+Karton kılıf ile birlikte sunulması, ürünü daha değerli hale getirir ve kurumsal hediye olarak tercih edilmesini kolaylaştırır.
 
-Ürün Tipi: Promosyon Tarihsiz Defter  
-Kategori: Tarihsiz Defter  
+Tarihsiz yapısı sayesinde kullanıcılar ürünü istedikleri zaman kullanmaya başlayabilir. Bu sayede yıl sınırlaması olmadan uzun süre kullanılabilir.
 
-Ölçü:
+Kapak yüzeyi gofre baskı ve dijital baskı tekniklerine uygundur. Firmanızın logosu profesyonel ve kalıcı şekilde uygulanabilir.
 
-15 x 21 cm  
-
-Kağıt:
-
-80 gr Krem Kağıt  
-224 Sayfa  
-Çizgili İç  
-
-Kapak:
-
-Termo PU Sert Kapak  
-Kalem Tutucu  
-Renkli Kenarlar  
-Karton Kılıf  
-
-Baskı Seçenekleri:
-
-Gofre Baskı  
-Dijital Baskı  
-
-Koli Bilgisi:
-
-Koli İçi Adet: 40  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon tarihsiz defter ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı ve kapak tasarımı taleplerinize göre özelleştirilebilir.
-
-Minimum sipariş adedi, üretim süresi ve fiyatlandırma detayları için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON TARİHSİZ DEFTER TD-210 TERCİH EDİLMELİ?
+• 15 x 21 cm ideal kullanım ölçüsü
+• Termo PU sert kapak
+• Elastik kalem tutucu
+• 224 sayfa çizgili iç yapı
+• 80 gr krem kağıt
+• Renkli kenar detayları
+• Karton kılıf ile prestijli sunum
+• Gofre ve dijital baskıya uygun
+• Premium kurumsal hediye alternatifi
 
 KULLANIM ALANLARI
+• Kurumsal promosyon dağıtımları
+• Yönetici ve VIP müşteri hediyeleri
+• Ofis ve iş hayatı
+• Toplantı ve planlama
+• Fuar ve etkinlik organizasyonları
+• Çalışan motivasyon hediyeleri
+• Eğitim kurumları
+• Premium marka tanıtımları
 
-Kurumsal promosyon ürünleri  
-Ofis ve iş hayatı  
-Toplantı ve planlama  
-Müşteri ve çalışan hediyeleri  
-Fuar ve etkinlik dağıtımları  
-VIP promosyon ürünleri  
-Marka bilinirliği artırma çalışmaları  
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Bankalar
+• Sigorta şirketleri
+• Eğitim kurumları
+• Danışmanlık firmaları
+• Teknoloji şirketleri
+• Ajanslar
+• Kamu kurumları
+
+PROMOSYON TARİHSİZ DEFTER FİYATLARI
+Promosyon tarihsiz defter fiyatları; sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+BASKI SEÇENEKLERİ
+• Gofre Baskı
+• Dijital Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Kırmızı, Siyah, Lacivert, Turuncu ve Gri.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Logo baskılı siparişlerde minimum adet; baskı yöntemi ve üretim planına göre değişebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: TD-210
+• Ürün Türü: Promosyon Tarihsiz Defter
+• Ölçü: 15 x 21 cm
+• Kapak: Termo PU Sert Kapak
+• Özellikler: Kalem Tutucu, Renkli Kenarlar
+• Kağıt: 80 gr Krem Kağıt
+• Sayfa Sayısı: 224
+• Sayfa Tipi: Çizgili
+• Kılıf: Karton Kılıf
+• Baskı Türleri: Gofre Baskı / Dijital Baskı
+• Koli Adedi: 40
+• Kategori: Tarihsiz Defter
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, renk seçimi ve üretim yoğunluğuna bağlı olarak teslim süresi değişebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tarihsiz defter TD-210, termo PU sert kapak yapısı, kalem tutucu detayı ve premium görünümü ile markanızı uzun süre görünür kılan prestijli bir promosyon ürünüdür. Logo baskılı toplu siparişler için hemen teklif alabilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "TD-210 modelinin ölçüsü nedir?",
+      a: "TD-210 modeli 15 x 21 cm ölçüsündedir.",
+    },
+    {
+      q: "Kapak malzemesi nedir?",
+      a: "Defter termo PU sert kapak yapısına sahiptir. Kalem tutucu, renkli kenarlar ve karton kılıf detayları bulunur.",
+    },
+    {
+      q: "Kaç sayfadan oluşur?",
+      a: "TD-210 modeli toplam 224 sayfa çizgili iç yapıya sahiptir.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Bu modele gofre baskı ve dijital baskı uygulanabilir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş miktarı; baskı yöntemi, renk seçimi ve üretim planına göre değişebilir. Net adet bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p455",
   slug: "promosyon-tarihsiz-defter-td-220",
-  title: "Promosyon Tarihsiz Defter TD-220 | Ekonomik Model, Termo Deri Kapak, 13x21 cm",
-price: 111,
+  title:
+    "Promosyon Tarihsiz Defter TD-220 | 13x21 cm Termo Deri Ekonomik Defter",
+  price: 111,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-220.jpg",
 
   shortDesc:
-    "Promosyon tarihsiz defter TD-220, ekonomik yapısı, termo deri kapak ve 160 sayfalık iç hacmi ile toplu promosyon dağıtımları için ideal bir defter modelidir.",
+    "Promosyon tarihsiz defter TD-220, 13 x 21 cm ölçüsü, termo deri kapak ve 160 sayfalık ekonomik yapısı ile toplu promosyon dağıtımları için ideal logo baskılı defter modelidir.",
 
   longDesc: `
-Promosyon tarihsiz defter TD-220, ekonomik yapısı ve sade tasarımı ile kurumsal firmalar için uygun maliyetli bir promosyon çözümüdür.
+Promosyon Tarihsiz Defter TD-220 ile Ekonomik ve Etkili Marka Tanıtımı
 
-13 x 21 cm ölçüsü sayesinde günlük kullanım için pratik bir boyut sunar. Ofis, eğitim ve saha kullanımı için idealdir.
+Promosyon tarihsiz defter TD-220, uygun fiyatlı yapısı ve şık tasarımı ile yüksek adetli promosyon kampanyaları için ideal bir kurumsal promosyon ürünüdür.
 
-Termo deri kapak yapısı, ürüne şık bir görünüm kazandırırken aynı zamanda dayanıklı bir kullanım sağlar.
+13 x 21 cm ölçüsü sayesinde günlük kullanım için pratik bir boyut sunar. Toplantı notları, eğitim çalışmaları, saha kullanımı ve ofis ortamı için uygundur.
 
-160 sayfa iç hacmi, temel not alma ve günlük kullanım ihtiyaçları için yeterli alan sunar.
+Termo deri kapak yapısı, ekonomik segmentte olmasına rağmen ürüne modern ve profesyonel bir görünüm kazandırır.
 
-60 gr Holmen krem kağıt, ekonomik kullanım için tercih edilen bir yapıya sahiptir ve uzun süreli kullanımda yeterli performans sunar.
+160 sayfalık iç yapı, günlük not alma ve temel planlama ihtiyaçları için yeterli kullanım alanı sunar.
 
-Gofre ve dijital baskı seçenekleri ile logo uygulaması yapılabilir. Bu sayede markanız geniş kitlelere ulaştırılabilir.
+60 gr Holmen krem kağıt, hafif ve ekonomik yapısıyla geniş adetli promosyon çalışmalarında avantaj sağlar.
 
-Koli içi adet sayısının yüksek olması, ürünü toplu promosyon kampanyaları ve dağıtımlar için oldukça avantajlı hale getirir.
+Elastik kapama bandı sayesinde defter güvenli şekilde kapalı kalır ve kullanım kolaylığı sunar.
 
-TEKNİK ÖZELLİKLER
+Gofre baskı ve dijital baskı seçenekleri ile firmanızın logosu kapak üzerine profesyonel şekilde uygulanabilir.
 
-Ürün Tipi: Promosyon Tarihsiz Defter  
-Kategori: Tarihsiz Defter  
+Ekonomik maliyeti sayesinde fuarlar, seminerler, eğitim organizasyonları ve toplu kurumsal dağıtımlar için oldukça uygundur.
 
-Ölçü:
-
-13 x 21 cm  
-
-Kağıt:
-
-60 gr Holmen Krem Kağıt  
-160 Sayfa  
-
-Kapak:
-
-Termo Deri Kapak  
-
-Baskı Seçenekleri:
-
-Gofre Baskı  
-Dijital Baskı  
-
-Koli Bilgisi:
-
-Koli İçi Adet: 50  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon tarihsiz defter ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı ve tasarım taleplerinize göre özelleştirilebilir.
-
-Minimum sipariş adedi, üretim süresi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON TARİHSİZ DEFTER TD-220 TERCİH EDİLMELİ?
+• 13 x 21 cm kompakt ölçü
+• Termo deri kapak
+• Elastik kapama bandı
+• 160 sayfa kullanım alanı
+• 60 gr Holmen krem kağıt
+• Gofre ve dijital baskıya uygun
+• Ekonomik maliyet
+• Yüksek adetli siparişler için ideal
+• Kurumsal promosyonlarda etkili çözüm
 
 KULLANIM ALANLARI
+• Fuar ve etkinlik dağıtımları
+• Eğitim seminerleri
+• Kurumsal promosyon kampanyaları
+• Ofis ve günlük kullanım
+• Müşteri ve çalışan hediyeleri
+• Okullar ve eğitim kurumları
+• Marka bilinirliği artırma çalışmaları
 
-Toplu promosyon kampanyaları  
-Fuar ve etkinlik dağıtımları  
-Eğitim kurumları  
-Kurumsal promosyon ürünleri  
-Ofis ve günlük kullanım  
-Marka bilinirliği artırma çalışmaları  
-`
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Eğitim kurumları
+• Belediyeler
+• Kamu kurumları
+• Danışmanlık firmaları
+• Ajanslar
+• Dernekler ve vakıflar
+• Organizasyon şirketleri
+
+PROMOSYON TARİHSİZ DEFTER FİYATLARI
+Promosyon tarihsiz defter fiyatları; sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu alımlarda özel fiyat avantajları sunulmaktadır.
+
+BASKI SEÇENEKLERİ
+• Gofre Baskı
+• Dijital Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Turkuaz, Siyah, Açık Mavi, Lacivert, Taba, Yeşil, Turuncu, Gri ve Kırmızı.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Logo baskılı siparişlerde minimum adet; baskı yöntemi ve üretim planına göre değişebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: TD-220
+• Ürün Türü: Promosyon Tarihsiz Defter
+• Ölçü: 13 x 21 cm
+• Kapak: Termo Deri Kapak
+• Kapama: Elastik Lastik
+• Kağıt: 60 gr Holmen Krem Kağıt
+• Sayfa Sayısı: 160
+• Sayfa Tipi: Çizgili
+• Baskı Türleri: Gofre Baskı / Dijital Baskı
+• Koli Adedi: 50
+• Kategori: Tarihsiz Defter
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna bağlı olarak teslim süresi değişebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tarihsiz defter TD-220, ekonomik yapısı, termo deri kapak tasarımı ve logo baskı seçenekleri ile markanızı uygun maliyetle geniş kitlelere ulaştıran etkili bir promosyon ürünüdür. Toplu siparişler için hemen teklif alabilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "TD-220 modelinin ölçüsü nedir?",
+      a: "TD-220 modeli 13 x 21 cm ölçüsündedir.",
+    },
+    {
+      q: "Kapak malzemesi nedir?",
+      a: "Defter termo deri kapak yapısına ve elastik kapama bandına sahiptir.",
+    },
+    {
+      q: "Kaç sayfadan oluşur?",
+      a: "TD-220 modeli toplam 160 sayfadan oluşur.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Bu modele gofre baskı ve dijital baskı uygulanabilir.",
+    },
+    {
+      q: "Ekonomik toplu siparişler için uygun mudur?",
+      a: "Evet. TD-220 uygun maliyeti sayesinde yüksek adetli promosyon kampanyaları için ideal bir modeldir.",
+    },
+  ],
 },
 {
   id: "p456",
@@ -33371,208 +33782,363 @@ Prestij promosyon ürünleri
 {
   id: "p480",
   slug: "promosyon-tarihsiz-defter-td-230",
-  title: "Promosyon Tarihsiz Defter TD-230 | Termo Deri Kapak, 224 Sayfa Logo Baskılı Defter",
-price: 164,
+  title:
+    "Promosyon Tarihsiz Defter TD-230 | 15,5x21,5 cm Termo PU Deri Logo Baskılı Defter",
+  price: 164,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-230.jpg",
 
   shortDesc:
-    "Promosyon tarihsiz defter TD-230, termo PU deri kapağı ve 224 sayfa kaliteli iç yapısı ile logo baskılı kurumsal promosyon ürünleri arasında öne çıkar.",
+    "Promosyon tarihsiz defter TD-230, 15,5 x 21,5 cm ölçüsü, termo PU deri kapağı, 224 sayfa çizgili iç yapısı ve logo baskı seçenekleri ile kurumsal promosyonlar için ideal premium defter modelidir.",
 
   longDesc: `
-Promosyon tarihsiz defter TD-230, şık tasarımı ve yüksek kaliteli malzeme yapısı ile kurumsal firmaların en çok tercih ettiği promosyon ürünlerinden biridir.
+Promosyon Tarihsiz Defter TD-230 ile Premium ve Prestijli Marka Tanıtımı
 
-Termo PU deri kapak yapısı, ürüne premium bir görünüm kazandırırken aynı zamanda dayanıklılık sağlar. Yumuşak kapak tasarımı sayesinde kullanım konforu üst seviyededir.
+Promosyon tarihsiz defter TD-230, modern tasarımı, kaliteli malzeme yapısı ve fonksiyonel detayları ile kurumsal firmaların en çok tercih ettiği premium promosyon ürünlerinden biridir.
 
-224 sayfa 80 gr krem çizgili kağıt yapısı, hem günlük kullanım hem de iş hayatında not alma için idealdir. Krem tonlu sayfalar göz yormaz ve uzun süreli kullanımda konfor sağlar.
+15,5 x 21,5 cm ölçüsü sayesinde hem geniş yazım alanı sunar hem de günlük kullanım için ideal bir boyut sağlar. Toplantı notları, planlama, iş takibi ve ofis kullanımı için oldukça uygundur.
 
-Gofre ve dijital baskı seçenekleri ile firmanıza özel logo uygulaması yapılabilir. Bu sayede marka bilinirliğinizi artıran etkili bir promosyon ürünü elde edersiniz.
+Termo PU deri kapak yapısı, ürüne şık ve profesyonel bir görünüm kazandırırken uzun ömürlü kullanım sağlar.
 
-Metal toka detayı ve renkli kenar tasarımı, ürüne estetik bir dokunuş katar ve rakip ürünlerden ayrışmasını sağlar.
+224 sayfa çizgili iç yapısı sayesinde detaylı not alma ve planlama için geniş bir kullanım alanı sunar.
 
-Karton kılıf ile birlikte sunulan ürün, kurumsal hediyelik olarak prestijli bir sunum imkanı sağlar.
+80 gr krem kağıt yapısı, göz yormayan ve kaliteli bir yazım deneyimi sağlar.
 
-TEKNİK ÖZELLİKLER
+Metal toka detayı, defterin güvenli şekilde kapalı kalmasını sağlarken ürüne modern bir görünüm kazandırır.
 
-Ürün Tipi: Promosyon Tarihsiz Defter  
-Boyut: 15.5 x 21.5 cm  
+Renkli kenar tasarımı ve dekoratif çizgili kapak dokusu, ürünü klasik defter modellerinden ayırarak daha dikkat çekici hale getirir.
 
-Kağıt:
-80 gr Krem Kağıt  
+Karton kılıf ile birlikte sunulması, ürünü kurumsal hediyelik olarak daha prestijli bir seçenek haline getirir.
 
-Sayfa Sayısı:
-224 Sayfa (Çizgili)  
+Gofre baskı ve dijital baskı seçenekleri ile firmanızın logosu profesyonel ve kalıcı şekilde uygulanabilir.
 
-Kapak:
-Termo PU Deri  
-
-Baskı:
-Gofre Baskı  
-Dijital Baskı  
-
-Özellikler:
-Metal Toka  
-Esnek Yumuşak Kapak  
-Renkli Kenar Tasarımı  
-
-Ambalaj:
-Karton Kılıf  
-
-Koli Adedi:
-40 Adet  
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı, renk ve tasarım seçenekleri firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma detayları için bizimle iletişime geçebilirsiniz.
-
-Toplu alım ve özel fiyat teklifleri için hızlı teklif alabilirsiniz.
+NEDEN PROMOSYON TARİHSİZ DEFTER TD-230 TERCİH EDİLMELİ?
+• 15,5 x 21,5 cm ideal ölçü
+• Termo PU deri premium kapak
+• 224 sayfa çizgili iç yapı
+• 80 gr krem kağıt
+• Metal toka detayı
+• Renkli kenar tasarımı
+• Karton kılıf ile şık sunum
+• Gofre ve dijital baskıya uygun
+• Premium kurumsal hediye alternatifi
 
 KULLANIM ALANLARI
+• Kurumsal promosyon ürünleri
+• Ofis ve iş hayatı kullanımı
+• Toplantı ve planlama
+• VIP müşteri hediyeleri
+• Çalışan motivasyon hediyeleri
+• Fuar ve etkinlik dağıtımları
+• Marka tanıtım kampanyaları
+• Yönetici hediyeleri
 
-Kurumsal promosyon ürünleri  
-Ofis ve iş hayatı kullanımı  
-Fuar ve etkinlik dağıtımları  
-Müşteri ve çalışan hediyeleri  
-Marka tanıtım çalışmaları  
-VIP promosyon ürünleri  
-`,
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Bankalar
+• Sigorta şirketleri
+• Danışmanlık firmaları
+• Teknoloji şirketleri
+• Eğitim kurumları
+• Organizasyon firmaları
+• Kamu kurumları
+
+PROMOSYON TARİHSİZ DEFTER FİYATLARI
+Promosyon tarihsiz defter fiyatları; sipariş adedi, baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+BASKI SEÇENEKLERİ
+• Gofre Baskı
+• Dijital Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Mor, Kırmızı, Turuncu, Füme, Lacivert ve Siyah.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Logo baskılı siparişlerde minimum adet; baskı yöntemi ve üretim planına göre değişebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: TD-230
+• Ürün Türü: Promosyon Tarihsiz Defter
+• Ölçü: 15,5 x 21,5 cm
+• Kapak: Termo PU Deri
+• Kapak Yapısı: Esnek Yumuşak Kapak
+• Kağıt: 80 gr Krem Kağıt
+• Sayfa Sayısı: 224
+• Sayfa Tipi: Çizgili
+• Baskı Türleri: Gofre Baskı / Dijital Baskı
+• Ek Özellikler: Metal Toka, Renkli Kenarlar
+• Ambalaj: Karton Kılıf
+• Koli Adedi: 40
+• Kategori: Tarihsiz Defter
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre teslim süresi değişebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tarihsiz defter TD-230, premium kapak yapısı, metal toka detayı ve yüksek kaliteli iç sayfa yapısı ile markanızı prestijli bir şekilde temsil eden özel bir promosyon ürünüdür. Toplu siparişler için hemen teklif alabilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "TD-230 modelinin ölçüsü nedir?",
+      a: "TD-230 modeli 15,5 x 21,5 cm ölçüsündedir.",
+    },
+    {
+      q: "Kaç sayfadan oluşur?",
+      a: "Defter toplam 224 sayfa çizgili iç yapıya sahiptir.",
+    },
+    {
+      q: "Kapak özellikleri nelerdir?",
+      a: "Termo PU deri kapak, metal toka, renkli kenarlar ve esnek yumuşak kapak yapısına sahiptir.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Bu modele gofre baskı ve dijital baskı uygulanabilir.",
+    },
+    {
+      q: "Karton kılıf ile birlikte mi gönderilir?",
+      a: "Evet, TD-230 modeli karton kılıf ile birlikte sunulmaktadır.",
+    },
+  ],
 },
 {
   id: "p481",
   slug: "promosyon-tarihsiz-defter-td-240",
-  title: "Promosyon Tarihsiz Defter TD-240 | Kenar Boyalı, Termo Deri Kapak Logo Baskılı Defter",
-price: 148,
+  title:
+    "Promosyon Tarihsiz Defter TD-240 | 13x21 cm Kenar Boyalı Termo Deri Defter",
+  price: 148,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-240.jpg",
 
   shortDesc:
-    "Promosyon tarihsiz defter TD-240, kenar boyalı tasarımı ve termo deri kapağı ile premium görünüme sahip logo baskılı kurumsal promosyon defterdir.",
+    "Promosyon tarihsiz defter TD-240, 13 x 21 cm ölçüsü, kenar boyalı sayfa tasarımı, termo deri kapak ve 224 sayfalık yapısı ile premium logo baskılı kurumsal defter modelidir.",
 
   longDesc: `
-Promosyon tarihsiz defter TD-240, modern tasarımı ve dikkat çekici kenar boyalı yapısı ile kurumsal firmalar için premium segmentte yer alan özel bir promosyon ürünüdür.
+Promosyon Tarihsiz Defter TD-240 ile Şık ve Prestijli Marka Tanıtımı
 
-Kenarları boyalı sayfa tasarımı, ürüne estetik ve farklı bir görünüm kazandırırken marka algınızı güçlendirir. Bu özellik sayesinde standart defterlerden ayrışarak daha dikkat çekici bir sunum sağlar.
+Promosyon tarihsiz defter TD-240, modern tasarımı ve dikkat çekici kenar boyalı sayfa yapısı ile kurumsal firmalar için premium segmentte yer alan özel bir promosyon ürünüdür.
 
-Termo deri kapak yapısı, hem şık hem de dayanıklı bir kullanım sunar. Yumuşak dokusu ile kullanıcı deneyimini artırırken uzun ömürlü kullanım sağlar.
+13 x 21 cm ölçüsü sayesinde günlük kullanım için ideal boyutta olup toplantı notları, planlama, eğitim ve ofis kullanımı için oldukça uygundur.
 
-224 sayfa 70 gr ivory krem kağıt yapısı, göz yormayan tonuyla hem günlük kullanım hem de iş hayatında not alma için idealdir.
+Termo deri kapak yapısı, ürüne şık ve profesyonel bir görünüm kazandırırken uzun ömürlü kullanım sağlar.
 
-Gofre ve dijital baskı seçenekleri ile firmanıza özel logo uygulaması yapılabilir. Böylece marka bilinirliğinizi artıran etkili bir promosyon ürünü elde edersiniz.
+Kenarları boyalı özel tasarım, defteri standart modellerden ayırarak daha dikkat çekici ve prestijli hale getirir. Bu detay marka algınızı güçlendirmeye yardımcı olur.
 
-Kompakt boyutu sayesinde taşıması kolaydır ve günlük kullanım için oldukça pratiktir.
+224 sayfalık iç yapı, günlük not alma ve detaylı planlama için geniş bir kullanım alanı sunar.
 
-TEKNİK ÖZELLİKLER
+70 gr ivory krem kağıt, göz yormayan yapısı sayesinde konforlu bir yazım deneyimi sağlar.
 
-Ürün Tipi: Promosyon Tarihsiz Defter  
-Boyut: 13 x 21 cm  
+Elastik kapama bandı, defterin güvenli şekilde kapalı kalmasına yardımcı olur ve kullanım kolaylığı sunar.
 
-Kağıt:
-70 gr Ivory Krem Kağıt  
+Gofre baskı ve dijital baskı seçenekleri ile firmanızın logosu profesyonel ve kalıcı şekilde uygulanabilir.
 
-Sayfa Sayısı:
-224 Sayfa  
-
-Kapak:
-Termo Deri  
-
-Baskı:
-Gofre Baskı  
-Dijital Baskı  
-
-Özellikler:
-Kenarları Boyalı  
-
-Koli Adedi:
-40 Adet  
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo, renk ve baskı detayları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu alım ve özel fiyat teklifleri için hızlı teklif alabilirsiniz.
+NEDEN PROMOSYON TARİHSİZ DEFTER TD-240 TERCİH EDİLMELİ?
+• 13 x 21 cm ideal ölçü
+• Termo deri premium kapak
+• Kenarları boyalı özel tasarım
+• 224 sayfa kullanım alanı
+• 70 gr ivory krem kağıt
+• Elastik kapama bandı
+• Gofre ve dijital baskıya uygun
+• Şık ve prestijli görünüm
+• Kurumsal promosyonlar için ideal
 
 KULLANIM ALANLARI
+• Kurumsal promosyon ürünleri
+• Ofis ve iş hayatı kullanımı
+• Toplantı ve planlama
+• Fuar ve etkinlik dağıtımları
+• VIP müşteri hediyeleri
+• Çalışan motivasyon hediyeleri
+• Eğitim kurumları
+• Marka tanıtım kampanyaları
 
-Kurumsal promosyon ürünleri  
-Ofis ve iş hayatı kullanımı  
-Fuar ve etkinlik dağıtımları  
-Müşteri ve çalışan hediyeleri  
-Marka tanıtım çalışmaları  
-VIP promosyon ürünleri  
-`,
+KİMLER İÇİN UYGUN?
+• Kurumsal firmalar
+• Bankalar
+• Sigorta şirketleri
+• Eğitim kurumları
+• Danışmanlık firmaları
+• Teknoloji şirketleri
+• Organizasyon firmaları
+• Kamu kurumları
+
+PROMOSYON TARİHSİZ DEFTER FİYATLARI
+Promosyon tarihsiz defter fiyatları; sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+BASKI SEÇENEKLERİ
+• Gofre Baskı
+• Dijital Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Turkuaz, Füme, Kırmızı, Mor, Siyah, Turuncu, Lacivert ve Taba.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Logo baskılı siparişlerde minimum adet; baskı yöntemi ve üretim planına göre değişebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: TD-240
+• Ürün Türü: Promosyon Tarihsiz Defter
+• Ölçü: 13 x 21 cm
+• Kapak: Termo Deri
+• Kağıt: 70 gr Ivory Krem Kağıt
+• Sayfa Sayısı: 224
+• Sayfa Tipi: Çizgili
+• Baskı Türleri: Gofre Baskı / Dijital Baskı
+• Ek Özellikler: Kenarları Boyalı, Elastik Kapama Bandı
+• Koli Adedi: 40
+• Kategori: Tarihsiz Defter
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre teslim süresi değişebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tarihsiz defter TD-240, kenar boyalı özel tasarımı, termo deri kapak yapısı ve kaliteli iç sayfaları ile markanızı prestijli bir şekilde temsil eden premium bir promosyon ürünüdür. Toplu siparişler için hemen teklif alabilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "TD-240 modelinin ölçüsü nedir?",
+      a: "TD-240 modeli 13 x 21 cm ölçüsündedir.",
+    },
+    {
+      q: "Kaç sayfadan oluşur?",
+      a: "Defter toplam 224 sayfadan oluşmaktadır.",
+    },
+    {
+      q: "Kenar boyalı tasarımın avantajı nedir?",
+      a: "Kenar boyalı tasarım deftere premium bir görünüm kazandırır ve standart modellerden ayrışmasını sağlar.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Bu modele gofre baskı ve dijital baskı uygulanabilir.",
+    },
+    {
+      q: "Kapak malzemesi nedir?",
+      a: "TD-240 modeli termo deri kapak yapısına sahiptir.",
+    },
+  ],
 },
 {
   id: "p482",
   slug: "promosyon-tarihsiz-defter-td-250",
-  title: "Promosyon Tarihsiz Defter TD-250 | Kareli Sayfa, Termo Deri Kapak Logo Baskılı Defter",
-price: 142,
+  title:
+    "Promosyon Tarihsiz Defter TD-250 | 13x21 cm Kareli Sayfalı Termo Deri Defter",
+  price: 142,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-250.jpg",
 
   shortDesc:
-    "Promosyon tarihsiz defter TD-250, kareli iç sayfa yapısı ve termo deri kapağı ile profesyonel kullanıma uygun logo baskılı kurumsal defterdir.",
+    "Promosyon tarihsiz defter TD-250, 13 x 21 cm ölçüsü, kareli iç sayfa yapısı, termo deri kapak ve 224 sayfalık yapısı ile teknik ve profesyonel kullanıma uygun logo baskılı defter modelidir.",
 
   longDesc: `
-Promosyon tarihsiz defter TD-250, kareli iç sayfa yapısı ile özellikle teknik kullanım ve düzenli not alma ihtiyacı olan profesyoneller için ideal bir promosyon ürünüdür.
+Promosyon Tarihsiz Defter TD-250 ile Düzenli ve Profesyonel Not Tutma Deneyimi
 
-Kareli sayfa tasarımı, çizim, planlama ve düzenli not tutma süreçlerinde büyük kolaylık sağlar. Bu özelliği sayesinde mühendislik, teknik ekipler ve ofis çalışanları tarafından sıklıkla tercih edilir.
+Promosyon tarihsiz defter TD-250, kareli iç sayfa yapısı ve şık termo deri kapak tasarımı ile kurumsal firmalar için fonksiyonel ve prestijli bir promosyon ürünüdür.
 
-Termo deri kapak yapısı, ürüne şık ve dayanıklı bir yapı kazandırır. Yumuşak dokusu ile hem konforlu kullanım sunar hem de uzun ömürlüdür.
+13 x 21 cm ölçüsü sayesinde günlük kullanım için ideal boyuttadır. Ofis çalışanları, mühendisler, mimarlar ve teknik ekipler için pratik bir kullanım sunar.
 
-224 sayfa 80 gr ivory krem kağıt, göz yormayan yapısı ile uzun süreli kullanımda rahatlık sağlar.
+Kareli sayfa yapısı; teknik çizim, hesaplama, planlama ve düzenli not alma için büyük avantaj sağlar.
 
-Gofre ve dijital baskı seçenekleri ile firmanıza özel logo uygulaması yapılabilir. Bu sayede markanızı ön plana çıkaran güçlü bir promosyon ürünü elde edersiniz.
+Termo deri kapak, ürüne profesyonel ve modern bir görünüm kazandırırken uzun ömürlü kullanım sunar.
 
-Kompakt boyutu sayesinde taşıması kolaydır ve günlük kullanım için idealdir.
+224 sayfalık geniş iç hacim, yoğun kullanım için yeterli alan sağlar.
 
-TEKNİK ÖZELLİKLER
+80 gr ivory krem kağıt, göz yormayan yapısı ile kaliteli bir yazım deneyimi sunar.
 
-Ürün Tipi: Promosyon Tarihsiz Defter  
-Boyut: 13 x 21 cm  
+Elastik kapama bandı, defterin güvenli şekilde kapalı kalmasını sağlar ve kullanım kolaylığı sunar.
 
-Kağıt:
-80 gr Ivory Krem Kağıt  
+Gofre baskı ve dijital baskı seçenekleri ile firmanızın logosu profesyonel ve kalıcı şekilde uygulanabilir.
 
-Sayfa Sayısı:
-224 Sayfa (Kareli)  
-
-Kapak:
-Termo Deri  
-
-Baskı:
-Gofre Baskı  
-Dijital Baskı  
-
-Koli Adedi:
-40 Adet  
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo, renk ve baskı detayları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu alım ve özel fiyat teklifleri için hızlı teklif alabilirsiniz.
+NEDEN PROMOSYON TARİHSİZ DEFTER TD-250 TERCİH EDİLMELİ?
+• 13 x 21 cm kompakt ölçü
+• Kareli iç sayfa yapısı
+• 224 sayfa kullanım alanı
+• 80 gr ivory krem kağıt
+• Termo deri kapak
+• Elastik kapama bandı
+• Gofre ve dijital baskıya uygun
+• Teknik kullanım için ideal
+• Prestijli kurumsal promosyon ürünü
 
 KULLANIM ALANLARI
+• Kurumsal promosyon ürünleri
+• Teknik çizim ve hesaplama
+• Mühendislik ve proje çalışmaları
+• Ofis ve günlük kullanım
+• Toplantı ve planlama
+• Fuar ve etkinlik dağıtımları
+• Müşteri ve çalışan hediyeleri
+• Eğitim kurumları
 
-Kurumsal promosyon ürünleri  
-Ofis ve iş hayatı kullanımı  
-Teknik çizim ve planlama  
-Fuar ve etkinlik dağıtımları  
-Müşteri ve çalışan hediyeleri  
-Marka tanıtım çalışmaları  
-`,
+KİMLER İÇİN UYGUN?
+• Mühendislik firmaları
+• Mimarlık ofisleri
+• İnşaat şirketleri
+• Teknoloji firmaları
+• Danışmanlık şirketleri
+• Eğitim kurumları
+• Kamu kurumları
+• Kurumsal firmalar
+
+PROMOSYON TARİHSİZ DEFTER FİYATLARI
+Promosyon tarihsiz defter fiyatları; sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+BASKI SEÇENEKLERİ
+• Gofre Baskı
+• Dijital Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Yeşil, Lacivert, Siyah, Gri, Turuncu, Turkuaz ve Kırmızı.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Logo baskılı siparişlerde minimum adet; baskı yöntemi ve üretim planına göre değişebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: TD-250
+• Ürün Türü: Promosyon Tarihsiz Defter
+• Ölçü: 13 x 21 cm
+• Kapak: Termo Deri
+• Kağıt: 80 gr Ivory Krem Kağıt
+• Sayfa Sayısı: 224
+• Sayfa Tipi: Kareli
+• Baskı Türleri: Gofre Baskı / Dijital Baskı
+• Ek Özellikler: Elastik Kapama Bandı
+• Koli Adedi: 40
+• Kategori: Tarihsiz Defter
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, renk seçimi ve stok durumuna göre teslim süresi değişebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tarihsiz defter TD-250, kareli iç sayfa yapısı, kaliteli termo deri kapağı ve geniş kullanım alanı ile teknik ve profesyonel kullanıcılar için ideal bir logo baskılı promosyon defter modelidir. Toplu siparişler için hemen teklif alabilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "TD-250 modelinin ölçüsü nedir?",
+      a: "TD-250 modeli 13 x 21 cm ölçüsündedir.",
+    },
+    {
+      q: "Sayfa yapısı nasıldır?",
+      a: "Defter 224 sayfalı kareli iç yapıya sahiptir.",
+    },
+    {
+      q: "Kareli sayfa hangi kullanım alanları için uygundur?",
+      a: "Teknik çizim, hesaplama, planlama ve düzenli not alma için idealdir.",
+    },
+    {
+      q: "Hangi baskı türleri uygulanabilir?",
+      a: "Bu modele gofre baskı ve dijital baskı uygulanabilir.",
+    },
+    {
+      q: "Kapak malzemesi nedir?",
+      a: "TD-250 modeli termo deri kapak yapısına sahiptir.",
+    },
+  ],
 },
 {
   id: "p483",
