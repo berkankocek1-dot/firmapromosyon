@@ -96,9 +96,7 @@ export default async function ProductPage({ params }: PageProps) {
 
   const relatedProducts = products
     .filter(
-      (item) =>
-        item.category === product.category &&
-        item.slug !== product.slug
+      (item) => item.category === product.category && item.slug !== product.slug
     )
     .slice(0, 8);
 
@@ -281,6 +279,36 @@ export default async function ProductPage({ params }: PageProps) {
         </div>
       </section>
 
+      {product.faq && product.faq.length > 0 && (
+        <section className="mt-16 rounded-2xl border border-gray-100 bg-gray-50 p-6 md:p-10">
+          <h2 className="text-2xl font-bold text-gray-900">
+            Sıkça Sorulan Sorular
+          </h2>
+
+          <p className="mt-3 text-sm text-gray-600">
+            {product.title} hakkında merak edilen sipariş, baskı ve teslimat
+            detaylarını aşağıda inceleyebilirsiniz.
+          </p>
+
+          <div className="mt-6 space-y-4">
+            {product.faq.map((item, index) => (
+              <div
+                key={index}
+                className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm"
+              >
+                <h3 className="text-base font-semibold text-gray-900">
+                  {item.q}
+                </h3>
+
+                <p className="mt-2 leading-relaxed text-gray-700">
+                  {item.a}
+                </p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       <section className="mt-16 rounded-2xl bg-gray-100 p-10 text-center">
         <h2 className="text-2xl font-bold text-gray-900">
           Kurumsal Toplu Sipariş İçin Teklif Alın
@@ -313,9 +341,7 @@ export default async function ProductPage({ params }: PageProps) {
 
       {relatedProducts.length > 0 && (
         <section className="mt-16">
-          <h2 className="text-2xl font-bold text-gray-900">
-            Benzer Ürünler
-          </h2>
+          <h2 className="text-2xl font-bold text-gray-900">Benzer Ürünler</h2>
 
           <p className="mt-2 text-sm text-gray-600">
             Bu ürüne benzer logo baskılı promosyon ürün modellerini
