@@ -36472,55 +36472,108 @@ Promosyon roller kalem RK-320, metal gövdesi, rose gold detayları ve mavi mür
 {
   id: "p534",
   slug: "promosyon-roller-kalem-rk-330-metal-renkli",
-  title: "Promosyon Roller Kalem RK-330 | Metal Detaylı Renkli Gövde",
+  title:
+    "Promosyon Roller Kalem RK-330 | Metal Detaylı Renkli Gövde",
   price: 120,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-330.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-330, metal detayları ve renkli gövde tasarımı ile şık ve dikkat çekici logo baskılı promosyon kalem modelidir.",
+    "Promosyon roller kalem RK-330, metal detayları ve modern renkli gövde tasarımı ile dikkat çeken şık bir logo baskılı roller kalem modelidir. Kurumsal promosyon, fuar ve prestijli müşteri hediyeleri için ideal bir seçimdir.",
 
   longDesc: `
-Promosyon roller kalem RK-330, metal üst gövde detayları ve renkli alt gövde tasarımı ile modern ve şık bir promosyon kalem modelidir.
+Renkli Gövdeye Sahip Promosyon Roller Kalem ile Markanızı Prestijli Şekilde Tanıtın
 
-Metal klips ve kapak kısmı, ürüne premium bir görünüm kazandırırken dayanıklılığını da artırır.
+Promosyon roller kalem RK-330, parlak metal kapak bölümü ve canlı renk seçenekleri ile kurumsal tanıtımlarda profesyonel bir görünüm sunan özel bir roller kalem modelidir. Şık tasarımı, akıcı yazım performansı ve logo baskıya uygun yüzeyi sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünleri arasında yer alır.
 
-Renkli gövde yapısı sayesinde markanızın dikkat çekmesini sağlar ve promosyon çalışmalarında görünürlüğü artırır.
+Modern ve dikkat çekici tasarımı ile öne çıkan bu model, müşterilerinize, iş ortaklarınıza ve çalışanlarınıza sunabileceğiniz prestijli bir kurumsal hediyedir. Roller kalem mekanizması sayesinde yumuşak ve akıcı bir yazım deneyimi sunar. Günlük kullanımda sıkça tercih edilmesi, firmanızın logosunun sürekli görünmesini sağlar.
 
-Ergonomik tasarımı, elde rahat bir tutuş sunar ve günlük kullanım için konforlu bir yazım deneyimi sağlar.
+Metal detaylı üst kapak ve klips bölümü ürüne premium bir görünüm kazandırırken, renkli alt gövde tasarımı ürünü daha canlı ve etkileyici hale getirir. Kırmızı, mavi ve koyu gri gibi farklı renk seçenekleri ile kurumsal kimliğinize uygun tercihler yapabilirsiniz.
 
-Pürüzsüz yüzeyi, logo ve marka baskılarının net ve kaliteli şekilde uygulanmasına imkan tanır.
+Logo baskıya uygun pürüzsüz gövde yüzeyi sayesinde firmanızın logosu, marka adı veya reklam mesajı lazer baskı, UV baskı veya tampon baskı teknikleri ile net ve kalıcı şekilde uygulanabilir. Böylece ürün hem işlevsel hem de güçlü bir reklam aracı haline gelir.
 
-Farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun üretim yapılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Gövde: Metal + Plastik Kombin
-Detaylar: Metal Klips ve Kapak
-Yazım Türü: Roller Kalem
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-330 TERCİH EDİLMELİ?
+• Şık ve modern renkli gövde tasarımı
+• Premium görünüm sunan metal detaylar
+• Akıcı ve konforlu roller kalem yazım sistemi
+• Logo baskıya uygun geniş baskı alanı
+• Günlük kullanımda yüksek marka görünürlüğü
+• Prestijli kurumsal hediye alternatifi
+• Fuar, seminer ve müşteri ziyaretleri için ideal
 
 KULLANIM ALANLARI
+• Kurumsal promosyon çalışmaları
+• Fuar ve organizasyon etkinlikleri
+• Müşteri ve bayi hediyeleri
+• Yönetici ve VIP promosyonları
+• Eğitim seminerleri
+• Toplantı ve konferanslar
+• Banka ve finans sektörüne özel tanıtımlar
 
-Ofis ve günlük kullanım
-Kurumsal promosyon dağıtımları
-Fuar ve etkinlikler
-Müşteri ve bayi hediyeleri
-Reklam ve tanıtım kampanyaları
-Toplantı ve seminerler
-`,
+KİMLER İÇİN UYGUN?
+• Bankalar ve finans kuruluşları
+• Sigorta şirketleri
+• Reklam ajansları
+• Eğitim kurumları
+• Sağlık kuruluşları
+• Teknoloji firmaları
+• Kurumsal işletmeler
+• Danışmanlık şirketleri
+
+PROMOSYON ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş adedi, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Kırmızı, Mavi, Koyu Gri ve farklı renk alternatifleri.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskısız minimum sipariş: 50 adet
+• Baskılı minimum sipariş adedi, baskı tekniği ve üretim planına göre değişebilir
+• Yüksek adetli siparişlerde özel fiyat uygulanır
+
+TEKNİK ÖZELLİKLER
+• Model: RK-330
+• Ürün Türü: Promosyon Roller Kalem
+• Yazım Tipi: Roller Kalem
+• Gövde Yapısı: Renkli gövde
+• Detaylar: Metal kapak ve metal klips
+• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
+• Kullanım Alanı: Kurumsal promosyon ve günlük kullanım
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-330, estetik tasarımı, kaliteli yazım performansı ve logo baskıya uygun yapısı ile markanızı profesyonel şekilde tanıtmanıza yardımcı olur. Toplu sipariş ve özel fiyat avantajları için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Minimum sipariş adedi nedir?",
+      a: "Baskısız siparişlerde minimum adet genellikle 50'dir. Logo baskılı siparişlerde minimum adet, baskı yöntemi ve üretim planına göre değişiklik gösterebilir.",
+    },
+    {
+      q: "Hangi baskı yöntemleri uygulanabilir?",
+      a: "Ürün üzerine lazer baskı, UV baskı veya tampon baskı uygulanabilir. En uygun baskı yöntemi logo tasarımına göre belirlenir.",
+    },
+    {
+      q: "Renk seçenekleri mevcut mu?",
+      a: "Evet. Kırmızı, mavi ve koyu gri gibi farklı renk seçenekleri bulunmaktadır. Renkler stok durumuna göre değişebilir.",
+    },
+    {
+      q: "Roller kalem ile tükenmez kalem arasındaki fark nedir?",
+      a: "Roller kalemler daha akıcı ve yumuşak bir yazım deneyimi sunar. Bu sayede premium bir kullanım hissi sağlar.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş adedi, baskı yöntemi ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p535",
@@ -36531,107 +36584,213 @@ Toplantı ve seminerler
   image: "/products/promosyon-roller-kalem-rk-340.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-340, metal gövde yapısı ve rose gold detayları ile prestijli ve şık logo baskılı promosyon kalem modelidir.",
+    "Promosyon roller kalem RK-340, metal gövde yapısı ve rose gold detayları ile prestijli bir görünüm sunan şık logo baskılı roller kalem modelidir. VIP müşteri hediyeleri, yönetici promosyonları ve kurumsal tanıtımlar için ideal bir seçenektir.",
 
   longDesc: `
-Promosyon roller kalem RK-340, modern tasarımı ve rose gold detayları ile üst segment promosyon kalemler arasında yer alan premium bir modeldir.
+Rose Gold Detaylı Promosyon Roller Kalem ile Prestijli Marka Tanıtımı
 
-Mat gövde yapısı, ürüne zarif ve sofistike bir görünüm kazandırırken aynı zamanda kaymaz bir kullanım sağlar.
+Promosyon roller kalem RK-340, mat metal gövde yapısı ve dikkat çekici rose gold detayları ile üst segment kurumsal promosyon ürünleri arasında yer alan premium bir roller kalem modelidir. Zarif tasarımı, kaliteli malzeme yapısı ve akıcı yazım performansı sayesinde markanızı prestijli bir şekilde temsil etmenize yardımcı olur.
 
-Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlüdür. Kurumsal promosyonlarda kalite ve prestij arayan firmalar için ideal bir tercihtir.
+Modern çizgilere sahip olan bu özel model, özellikle VIP müşteri hediyeleri, yönetici setleri ve yüksek algı değeri oluşturmak isteyen kurumsal firmalar için ideal bir tercihtir. Mat yüzey kaplaması hem estetik bir görünüm sunar hem de elde kaymayı azaltarak konforlu kullanım sağlar.
 
-Rose gold klips ve detaylar, ürüne dikkat çekici ve lüks bir görünüm kazandırır.
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü olan RK-340, günlük kullanıma uygun sağlam bir yapıya sahiptir. Roller kalem mekanizması ise akıcı ve yumuşak yazım performansı sunarak profesyonel bir kullanım deneyimi oluşturur.
 
-Ergonomik tasarımı sayesinde elde rahat bir tutuş sağlar ve konforlu bir yazım deneyimi sunar.
+Rose gold klips, halka ve uç detayları ürüne lüks bir görünüm kazandırır. Siyah ve füme renk alternatifleri ile kurumsal kimliğinize uygun şık bir seçim yapabilirsiniz.
 
-Geniş baskı alanı ile logo, marka adı ve kurumsal tasarımlar net ve kalıcı şekilde uygulanabilir.
+Logo baskıya uygun geniş gövde yüzeyi sayesinde firmanızın logosu, marka adı veya özel mesajı lazer baskı, UV baskı veya tampon baskı teknikleriyle kalıcı ve net şekilde uygulanabilir. Bu sayede ürün, günlük kullanımda markanızı sürekli görünür kılan etkili bir reklam aracına dönüşür.
 
-Farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun üretim yapılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Gövde: Metal
-Detaylar: Rose Gold Kaplama
-Yazım Türü: Roller Kalem
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-340 TERCİH EDİLMELİ?
+• Premium görünüm sunan rose gold detaylar
+• Dayanıklı metal gövde yapısı
+• Mat yüzeyli şık ve sofistike tasarım
+• Akıcı roller kalem yazım sistemi
+• Logo baskıya uygun geniş baskı alanı
+• VIP promosyon ve yönetici hediyeleri için ideal
+• Uzun süreli kullanımda yüksek marka görünürlüğü
 
 KULLANIM ALANLARI
+• VIP müşteri hediyeleri
+• Yönetici ve çalışan ödülleri
+• Kurumsal promosyon dağıtımları
+• Prestijli marka tanıtımları
+• Toplantı ve özel davetler
+• Fuar ve etkinlik organizasyonları
+• Ofis ve masaüstü kullanımı
 
-VIP müşteri ve yönetici hediyeleri
-Kurumsal promosyon dağıtımları
-Prestijli marka tanıtımları
-Toplantı ve özel davetler
-Fuar ve etkinlik organizasyonları
-Ofis ve masaüstü kullanımı
-`,
+KİMLER İÇİN UYGUN?
+• Bankalar ve finans kuruluşları
+• Hukuk ve danışmanlık firmaları
+• Sigorta şirketleri
+• Reklam ajansları
+• Sağlık kuruluşları
+• Teknoloji firmaları
+• Eğitim kurumları
+• Kurumsal işletmeler
+
+PROMOSYON ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş adedi, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Siyah, Füme ve farklı premium renk alternatifleri.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskısız minimum sipariş: 50 adet
+• Baskılı minimum sipariş adedi, baskı tekniği ve üretim planına göre değişebilir
+• Yüksek adetli siparişlerde özel fiyat avantajı uygulanır
+
+TEKNİK ÖZELLİKLER
+• Model: RK-340
+• Ürün Türü: Promosyon Roller Kalem
+• Gövde Yapısı: Metal
+• Yüzey Özelliği: Mat kaplama
+• Detaylar: Rose Gold kaplama
+• Yazım Tipi: Roller Kalem
+• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
+• Kullanım Alanı: Kurumsal promosyon ve VIP hediyeler
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-340, şık metal gövdesi, rose gold detayları ve prestijli tasarımı ile markanızı profesyonel bir şekilde temsil eder. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Baskısız minimum sipariş adedi nedir?",
+      a: "Baskısız siparişlerde minimum sipariş adedi 50 adettir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet değişir mi?",
+      a: "Evet. Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.",
+    },
+    {
+      q: "Hangi baskı yöntemleri uygulanabilir?",
+      a: "Ürün üzerine lazer baskı, UV baskı veya tampon baskı uygulanabilir. En uygun baskı yöntemi logo tasarımına göre belirlenir.",
+    },
+    {
+      q: "Renk seçenekleri mevcut mu?",
+      a: "Evet. Siyah ve füme başta olmak üzere farklı renk seçenekleri stok durumuna göre sunulabilir.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre değişir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p536",
   slug: "promosyon-roller-kalem-rk-350-metal-vip-mavi-murekkep",
-  title: "Promosyon Roller Kalem RK-350 | Metal Gövde VIP Mavi Mürekkepli",
+  title:
+    "Promosyon Roller Kalem RK-350 | Metal Gövde VIP Mavi Mürekkepli",
   price: 190,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-350.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-350, metal gövde yapısı ve mavi mürekkep özelliği ile lüks ve prestijli logo baskılı promosyon kalem modelidir.",
+    "Promosyon roller kalem RK-350, tamamen metal gövdesi, rose gold detayları ve mavi mürekkep özelliği ile prestijli bir görünüm sunan lüks logo baskılı roller kalem modelidir. VIP müşteri hediyeleri ve kurumsal tanıtımlar için ideal bir seçimdir.",
 
   longDesc: `
-Promosyon roller kalem RK-350, tamamen metal gövde yapısı ve rose gold detayları ile üst segment promosyon kalemler arasında yer alan premium bir modeldir.
+Rose Gold Detaylı Metal Promosyon Roller Kalem ile Markanıza Prestij Katın
 
-Şık ve sade tasarımı, özellikle yönetici hediyeleri ve VIP müşteri dağıtımları için ideal bir tercih sunar.
+Promosyon roller kalem RK-350, tamamen metal gövde yapısı, parlak yüzeyi ve rose gold detayları ile üst segment kurumsal promosyon ürünleri arasında yer alan özel bir roller kalem modelidir. Şık tasarımı, kaliteli malzeme yapısı ve akıcı yazım performansı sayesinde markanızı profesyonel ve prestijli bir şekilde temsil etmenizi sağlar.
 
-Parlak metal yüzeyi, ürüne lüks bir görünüm kazandırırken aynı zamanda dayanıklı ve uzun ömürlü kullanım sağlar.
+Zarif ve sade tasarımı sayesinde özellikle VIP müşteri hediyeleri, yönetici promosyonları, özel davetler ve üst düzey kurumsal etkinliklerde tercih edilen premium promosyon kalem modellerinden biridir. Gövdesinin tamamen metal olması ürüne dayanıklılık kazandırırken, elde kaliteli ve ağır bir his oluşturarak lüks algısını artırır.
 
-Rose gold kaplama detayları, ürünü klasik kalem modellerinden ayırarak dikkat çekici ve prestijli hale getirir.
+Parlak koyu renk gövde ile rose gold kaplama detayların birleşimi, ürünü son derece dikkat çekici ve seçkin bir görünüme kavuşturur. Bu estetik yapı, firmanızın kurumsal imajını güçlendiren etkili bir promosyon çözümü sunar.
 
-Ağırlıklı yapısı sayesinde elde kaliteli bir his verir ve konforlu bir yazım deneyimi sunar.
+Mavi mürekkep özelliği sayesinde günlük kullanımda konforlu ve standart bir yazım deneyimi sağlar. Roller kalem sistemi, akıcı ve yumuşak yazım performansı ile profesyonel kullanıcılar tarafından sıklıkla tercih edilmektedir.
 
-Mavi mürekkep özelliği ile günlük kullanım için standart ve rahat bir yazım sağlar.
+Logo baskıya uygun geniş gövde yüzeyi sayesinde firmanızın logosu, marka adı veya özel mesajı lazer baskı, UV baskı veya tampon baskı teknikleriyle net ve kalıcı şekilde uygulanabilir. Böylece ürün, uzun süre kullanılan güçlü bir reklam aracına dönüşür.
 
-Geniş baskı alanı ile logo ve marka uygulamaları net ve kalıcı şekilde uygulanabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Gövde: Metal
-Mürekkep Rengi: Mavi
-Detaylar: Rose Gold Kaplama
-Yazım Türü: Roller Kalem
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-350 TERCİH EDİLMELİ?
+• Tam metal gövde ile premium kalite
+• Rose gold detaylarla lüks görünüm
+• Mavi mürekkepli akıcı roller kalem sistemi
+• Ağır ve dengeli gövde yapısı
+• Logo baskıya uygun geniş baskı alanı
+• VIP müşteri ve yönetici hediyeleri için ideal
+• Uzun süreli kullanımda yüksek marka görünürlüğü
 
 KULLANIM ALANLARI
+• VIP müşteri hediyeleri
+• Yönetici ve çalışan ödülleri
+• Prestijli kurumsal promosyon çalışmaları
+• Banka ve finans sektörü tanıtımları
+• Toplantı ve özel davetler
+• Fuar ve etkinlik organizasyonları
+• Ofis ve masaüstü kullanımı
 
-VIP müşteri ve yönetici hediyeleri
-Kurumsal promosyon dağıtımları
-Prestijli marka tanıtımları
-Toplantı ve özel davetler
-Fuar ve etkinlik organizasyonları
-Ofis ve masaüstü kullanımı
-`,
+KİMLER İÇİN UYGUN?
+• Bankalar ve finans kuruluşları
+• Hukuk ve danışmanlık firmaları
+• Sigorta şirketleri
+• Sağlık kuruluşları
+• Teknoloji firmaları
+• Eğitim kurumları
+• Reklam ajansları
+• Kurumsal işletmeler
+
+PROMOSYON ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş adedi, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Parlak koyu gövde ve rose gold detaylı premium renk kombinasyonu.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskısız minimum sipariş: 50 adet
+• Baskılı minimum sipariş adedi, baskı tekniği ve üretim planına göre değişebilir
+• Toplu siparişlerde özel fiyat avantajı uygulanır
+
+TEKNİK ÖZELLİKLER
+• Model: RK-350
+• Ürün Türü: Promosyon Roller Kalem
+• Gövde Yapısı: Tam metal
+• Mürekkep Rengi: Mavi
+• Detaylar: Rose Gold kaplama
+• Yazım Tipi: Roller Kalem
+• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
+• Kullanım Alanı: Kurumsal promosyon ve VIP hediyeler
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-350, tamamen metal gövdesi, rose gold detayları ve prestijli tasarımı ile markanızı üst segment bir promosyon ürünüyle temsil etmenizi sağlar. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Baskısız minimum sipariş adedi nedir?",
+      a: "Baskısız siparişlerde minimum sipariş adedi 50 adettir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet değişir mi?",
+      a: "Evet. Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.",
+    },
+    {
+      q: "Hangi baskı yöntemleri uygulanabilir?",
+      a: "Ürün üzerine lazer baskı, UV baskı veya tampon baskı uygulanabilir. En uygun baskı yöntemi logo tasarımına göre belirlenir.",
+    },
+    {
+      q: "Mürekkep rengi nedir?",
+      a: "RK-350 modeli mavi mürekkepli olarak sunulmaktadır ve günlük kullanıma uygun akıcı bir yazım deneyimi sağlar.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p537",
@@ -36642,269 +36801,537 @@ Ofis ve masaüstü kullanımı
   image: "/products/promosyon-roller-kalem-rk-360.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-360, metal gövde yapısı ve modern tasarımı ile kurumsal kullanım için ideal logo baskılı promosyon kalem modelidir.",
+    "Promosyon roller kalem RK-360, metal gövde yapısı ve modern çizgilere sahip şık tasarımı ile dikkat çeken premium logo baskılı roller kalem modelidir. Kurumsal promosyon, VIP müşteri hediyeleri ve prestijli marka tanıtımları için ideal bir tercihtir.",
 
   longDesc: `
-Promosyon roller kalem RK-360, sade ve modern tasarımı ile kurumsal promosyon ürünleri arasında şıklığı ve kullanışlılığı bir araya getiren özel bir modeldir.
+Modern Metal Promosyon Roller Kalem ile Markanızı Profesyonel Şekilde Tanıtın
 
-Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunar. Aynı zamanda elde kaliteli bir his bırakarak premium bir deneyim sağlar.
+Promosyon roller kalem RK-360, tamamen metal gövde yapısı, ince ve zarif tasarımı ile üst segment promosyon kalem modelleri arasında yer alan özel bir üründür. Minimal çizgileri, kaliteli malzeme yapısı ve akıcı yazım performansı sayesinde kurumsal tanıtımlarda markanıza güçlü bir prestij kazandırır.
 
-Minimal tasarımı, ofis kullanımı, toplantılar ve kurumsal dağıtımlar için ideal bir tercih olmasını sağlar.
+İnce formu ve dengeli ağırlığı sayesinde elde son derece konforlu bir kullanım sunan RK-360, günlük yazım ihtiyaçlarında profesyonel bir deneyim sağlar. Roller kalem sistemi sayesinde akıcı ve pürüzsüz yazım performansı sunarak kullanıcı memnuniyetini artırır.
 
-Şık metal klips detayı, ürüne estetik bir görünüm kazandırır ve kullanım kolaylığı sağlar.
+Metal gövde yapısı, ürüne dayanıklılık ve uzun ömür kazandırırken; mat renkli yüzeyi modern ve seçkin bir görünüm oluşturur. Kırmızı, mavi, siyah, beyaz ve antrasit gibi farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun seçimler yapılabilir.
 
-Pürüzsüz yüzeyi, logo ve marka baskılarının net ve kaliteli şekilde uygulanmasına imkan tanır.
+Metal klips ve halka detayları ürüne premium bir görünüm kazandırırken, logo baskıya uygun pürüzsüz gövde yüzeyi sayesinde firmanızın logosu, marka adı veya reklam mesajı lazer baskı, UV baskı veya tampon baskı teknikleriyle net ve kalıcı şekilde uygulanabilir.
 
-Farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun üretim yapılabilir.
+Günlük kullanımda sürekli elde bulunması, markanızın uzun süre görünür kalmasını sağlar. Bu özelliği sayesinde promosyon roller kalem RK-360, hem işlevsel hem de yüksek algı değerine sahip etkili bir reklam ürünü olarak öne çıkar.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Gövde: Metal
-Detaylar: Metal Klips
-Yazım Türü: Roller Kalem
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-360 TERCİH EDİLMELİ?
+• İnce ve modern metal gövde tasarımı
+• Premium görünüm sunan şık detaylar
+• Akıcı ve konforlu roller kalem yazım sistemi
+• Dayanıklı ve uzun ömürlü yapı
+• Logo baskıya uygun geniş yüzey
+• Günlük kullanımda yüksek marka görünürlüğü
+• Kurumsal promosyon ve VIP hediyeler için ideal
 
 KULLANIM ALANLARI
+• Kurumsal promosyon dağıtımları
+• VIP müşteri hediyeleri
+• Yönetici ve çalışan ödülleri
+• Fuar ve etkinlik organizasyonları
+• Toplantı ve seminerler
+• Reklam ve tanıtım kampanyaları
+• Ofis ve günlük kullanım
 
-Ofis ve günlük kullanım
-Kurumsal promosyon dağıtımları
-Fuar ve etkinlikler
-Müşteri ve bayi hediyeleri
-Toplantı ve seminerler
-Reklam ve tanıtım kampanyaları
-`,
+KİMLER İÇİN UYGUN?
+• Bankalar ve finans kuruluşları
+• Hukuk ve danışmanlık firmaları
+• Sigorta şirketleri
+• Eğitim kurumları
+• Sağlık kuruluşları
+• Teknoloji firmaları
+• Reklam ajansları
+• Kurumsal işletmeler
+
+PROMOSYON ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş adedi, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Kırmızı, Mavi, Siyah, Beyaz, Antrasit ve farklı renk alternatifleri.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskısız minimum sipariş: 50 adet
+• Baskılı minimum sipariş adedi, baskı tekniği ve üretim planına göre değişebilir
+• Yüksek adetli siparişlerde özel fiyat avantajı uygulanır
+
+TEKNİK ÖZELLİKLER
+• Model: RK-360
+• Ürün Türü: Promosyon Roller Kalem
+• Gövde Yapısı: Metal
+• Detaylar: Metal klips ve dekoratif halkalar
+• Yazım Tipi: Roller Kalem
+• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
+• Kullanım Alanı: Kurumsal promosyon ve VIP hediyeler
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-360, zarif metal gövdesi, kaliteli yazım performansı ve prestijli tasarımı ile markanızı profesyonel bir şekilde temsil eder. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Baskısız minimum sipariş adedi nedir?",
+      a: "Baskısız siparişlerde minimum sipariş adedi 50 adettir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet değişir mi?",
+      a: "Evet. Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.",
+    },
+    {
+      q: "Hangi baskı yöntemleri uygulanabilir?",
+      a: "Ürün üzerine lazer baskı, UV baskı veya tampon baskı uygulanabilir. En uygun baskı yöntemi logo tasarımına göre belirlenir.",
+    },
+    {
+      q: "Renk seçenekleri mevcut mu?",
+      a: "Evet. Kırmızı, mavi, siyah, beyaz ve antrasit gibi farklı renk seçenekleri bulunmaktadır. Renkler stok durumuna göre değişebilir.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p538",
   slug: "promosyon-roller-kalem-rk-370-metal-vip-mavi-murekkep",
-  title: "Promosyon Roller Kalem RK-370 | Metal Gövde VIP Mavi Mürekkepli",
+  title:
+    "Promosyon Roller Kalem RK-370 | Metal Gövde VIP Mavi Mürekkepli",
   price: 148,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-370.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-370, metal gövde yapısı ve mavi mürekkep özelliği ile prestijli ve şık logo baskılı promosyon kalem modelidir.",
+    "Promosyon roller kalem RK-370, dokulu metal gövdesi ve mavi mürekkep özelliği ile premium görünüm sunan prestijli logo baskılı roller kalem modelidir. VIP müşteri hediyeleri, yönetici promosyonları ve kurumsal tanıtımlar için ideal bir tercihtir.",
 
   longDesc: `
-Promosyon roller kalem RK-370, dokulu metal gövde tasarımı ve modern görünümü ile üst segment promosyon kalemler arasında yer alan premium bir modeldir.
+Dokulu Metal Promosyon Roller Kalem ile Markanıza Seçkin Bir İmaj Kazandırın
 
-Özel desenli yüzeyi, ürüne hem estetik bir görünüm kazandırır hem de elde kaymayı önleyerek konforlu bir kullanım sağlar.
+Promosyon roller kalem RK-370, özel desenli metal gövde yapısı ve modern tasarımı ile üst segment promosyon kalem modelleri arasında yer alan premium bir üründür. Estetik görünümü, kaliteli malzeme yapısı ve akıcı yazım performansı sayesinde markanızı prestijli ve profesyonel bir şekilde temsil etmenize yardımcı olur.
 
-Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlüdür. Aynı zamanda elde kaliteli ve ağırlıklı bir his sunar.
+Gövdede kullanılan ince dokulu yüzey, ürüne farklı ve dikkat çekici bir görünüm kazandırırken aynı zamanda elde kaymayı azaltarak daha konforlu bir kullanım sağlar. Bu özel tasarım detayı, RK-370 modelini klasik promosyon kalemlerden ayırarak daha üst segment bir ürün haline getirir.
 
-Minimal ve şık tasarımı, özellikle yönetici hediyeleri ve VIP müşteri dağıtımları için ideal bir tercihtir.
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü olan bu roller kalem, dengeli ağırlığı ile elde kaliteli bir his bırakır. Roller kalem mekanizması, mavi mürekkepli yapısı ile akıcı ve yumuşak bir yazım deneyimi sunar.
 
-Mavi mürekkep özelliği ile günlük kullanım için standart ve rahat bir yazım deneyimi sağlar.
+Füme ve rose gold tonları gibi şık kaplama seçenekleri sayesinde özellikle VIP müşteri hediyeleri, yönetici promosyonları ve özel kurumsal organizasyonlar için yüksek algı değerine sahip etkili bir reklam ürünü olarak öne çıkar.
 
-Geniş baskı alanı ile logo ve marka uygulamaları net ve kalıcı şekilde uygulanabilir.
+Logo baskıya uygun pürüzsüz alanları sayesinde firmanızın logosu, marka adı veya özel mesajı lazer baskı, UV baskı veya tampon baskı teknikleriyle net ve kalıcı şekilde uygulanabilir. Günlük kullanımda uzun süre elde bulunması sayesinde markanızın görünürlüğü sürekli devam eder.
 
-Farklı renk ve kaplama seçenekleri ile firmanızın kurumsal kimliğine uygun üretim yapılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Gövde: Metal
-Mürekkep Rengi: Mavi
-Detaylar: Dokulu Gövde Tasarımı
-Yazım Türü: Roller Kalem
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-370 TERCİH EDİLMELİ?
+• Özel desenli dokulu metal gövde tasarımı
+• Premium görünüm sunan modern çizgiler
+• Mavi mürekkepli akıcı roller kalem sistemi
+• Dayanıklı ve uzun ömürlü metal yapı
+• Logo baskıya uygun geniş baskı alanı
+• VIP müşteri ve yönetici hediyeleri için ideal
+• Günlük kullanımda yüksek marka görünürlüğü
 
 KULLANIM ALANLARI
+• VIP müşteri hediyeleri
+• Yönetici ve çalışan ödülleri
+• Kurumsal promosyon dağıtımları
+• Prestijli marka tanıtımları
+• Fuar ve etkinlik organizasyonları
+• Toplantı ve özel davetler
+• Ofis ve masaüstü kullanımı
 
-VIP müşteri ve yönetici hediyeleri
-Kurumsal promosyon dağıtımları
-Prestijli marka tanıtımları
-Toplantı ve özel davetler
-Fuar ve etkinlik organizasyonları
-Ofis ve masaüstü kullanımı
-`,
+KİMLER İÇİN UYGUN?
+• Bankalar ve finans kuruluşları
+• Hukuk ve danışmanlık firmaları
+• Sigorta şirketleri
+• Reklam ajansları
+• Sağlık kuruluşları
+• Eğitim kurumları
+• Teknoloji firmaları
+• Kurumsal işletmeler
+
+PROMOSYON ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş miktarı, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Füme, Rose Gold ve farklı premium renk alternatifleri.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: RK-370
+• Ürün Türü: Promosyon Roller Kalem
+• Gövde Yapısı: Metal
+• Yüzey Özelliği: Dokulu desenli gövde
+• Mürekkep Rengi: Mavi
+• Yazım Tipi: Roller Kalem
+• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
+• Kullanım Alanı: Kurumsal promosyon ve VIP hediyeler
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-370, dokulu metal gövdesi, modern tasarımı ve premium görünümü ile markanızı prestijli bir promosyon ürünüyle öne çıkarır. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir. Net bilgi teklif aşamasında paylaşılır.",
+    },
+    {
+      q: "Hangi baskı yöntemleri uygulanabilir?",
+      a: "Ürün üzerine lazer baskı, UV baskı veya tampon baskı uygulanabilir. En uygun baskı yöntemi logo tasarımına göre belirlenir.",
+    },
+    {
+      q: "Mürekkep rengi nedir?",
+      a: "RK-370 modeli mavi mürekkepli olarak sunulmaktadır ve akıcı bir yazım deneyimi sağlar.",
+    },
+    {
+      q: "Renk seçenekleri mevcut mu?",
+      a: "Evet. Füme ve rose gold tonları başta olmak üzere farklı premium renk seçenekleri stok durumuna göre sunulabilir.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p539",
   slug: "promosyon-roller-kalem-rk-380-klasik-metal-sik",
-  title: "Promosyon Roller Kalem RK-380 | Klasik Metal Tasarım Zarif Seri",
+  title:
+    "Promosyon Roller Kalem RK-380 | Klasik Metal Tasarım Zarif Seri",
   price: 160,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-380.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-380, klasik metal tasarımı ve mavi mürekkep özelliği ile zarif ve prestijli logo baskılı promosyon kalem modelidir.",
+    "Promosyon roller kalem RK-380, klasik metal tasarımı ve mavi mürekkep özelliği ile zamansız şıklık sunan prestijli logo baskılı roller kalem modelidir. Kurumsal hediyeler, VIP müşteri promosyonları ve profesyonel tanıtımlar için ideal bir seçimdir.",
 
   longDesc: `
-Promosyon roller kalem RK-380, klasik çizgilere sahip tasarımı ve parlak metal detayları ile zamansız bir şıklık sunan özel bir modeldir.
+Klasik Metal Promosyon Roller Kalem ile Markanızı Zarif Bir Şekilde Tanıtın
 
-Geleneksel kalem formunu modern detaylarla birleştiren yapısı, özellikle kurumsal hediyelik ürünlerde tercih edilmesini sağlar.
+Promosyon roller kalem RK-380, geleneksel kalem formunu modern detaylarla birleştiren özel tasarımı sayesinde kurumsal promosyon ürünleri arasında öne çıkan prestijli bir modeldir. Parlak metal detayları, ince çizgileri ve kaliteli yazım performansı ile markanızı profesyonel ve seçkin bir şekilde temsil etmenizi sağlar.
 
-Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunar. Aynı zamanda elde dengeli ve kaliteli bir his oluşturur.
+Klasik ve zamansız tasarımı sayesinde her sektöre hitap eden bu model, özellikle kurumsal hediyeler, VIP müşteri dağıtımları, yönetici promosyonları ve özel etkinlikler için ideal bir tercihtir. Sade ancak güçlü görünümü, firmanızın kurumsal imajını destekleyen etkili bir promosyon çözümü sunar.
 
-Parlak yüzeyi ve zarif hatları, ürüne sade ama etkileyici bir görünüm kazandırır.
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sağlayan RK-380, dengeli ağırlığı ile elde kaliteli bir his oluşturur. Roller kalem mekanizması ve mavi mürekkepli yapısı sayesinde akıcı, konforlu ve profesyonel bir yazım deneyimi sunar.
 
-Mavi mürekkep özelliği ile günlük kullanım için ideal ve akıcı bir yazım deneyimi sunar.
+Parlak siyah gövde ve krom detayların birleşimi ürüne sofistike bir görünüm kazandırır. Klasik tasarım anlayışını seven kullanıcılar için yüksek algı değerine sahip seçkin bir promosyon ürünüdür.
 
-Logo ve marka baskıları için uygun yüzeyi sayesinde kurumsal kimliğinizi net şekilde yansıtabilirsiniz.
+Logo baskıya uygun pürüzsüz yüzeyi sayesinde firmanızın logosu, marka adı veya özel mesajı lazer baskı, UV baskı veya tampon baskı teknikleri ile net ve kalıcı şekilde uygulanabilir. Günlük kullanımda uzun süre elde bulunması, markanızın görünürlüğünü sürekli artırır.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Gövde: Metal
-Mürekkep Rengi: Mavi
-Yazım Türü: Roller Kalem
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-380 TERCİH EDİLMELİ?
+• Klasik ve zamansız metal tasarım
+• Dayanıklı ve uzun ömürlü gövde yapısı
+• Mavi mürekkepli akıcı roller kalem sistemi
+• Dengeli ve konforlu kullanım
+• Logo baskıya uygun geniş baskı alanı
+• Kurumsal hediyeler için prestijli görünüm
+• Günlük kullanımda yüksek marka görünürlüğü
 
 KULLANIM ALANLARI
+• Kurumsal hediye ürünleri
+• VIP müşteri hediyeleri
+• Yönetici promosyonları
+• Ofis ve masaüstü kullanımı
+• Toplantı ve özel davetler
+• Fuar ve etkinlik organizasyonları
+• Prestijli marka tanıtımları
 
-Kurumsal hediye ürünleri
-Ofis ve masaüstü kullanımı
-Toplantı ve özel davetler
-Müşteri ve bayi hediyeleri
-Prestijli marka tanıtımları
-Fuar ve etkinlik organizasyonları
-`,
+KİMLER İÇİN UYGUN?
+• Bankalar ve finans kuruluşları
+• Hukuk ve danışmanlık firmaları
+• Sigorta şirketleri
+• Eğitim kurumları
+• Sağlık kuruluşları
+• Teknoloji firmaları
+• Reklam ajansları
+• Kurumsal işletmeler
+
+PROMOSYON ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş miktarı, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Parlak siyah gövde ve krom detaylı klasik renk kombinasyonu.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: RK-380
+• Ürün Türü: Promosyon Roller Kalem
+• Gövde Yapısı: Metal
+• Mürekkep Rengi: Mavi
+• Yazım Tipi: Roller Kalem
+• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
+• Kullanım Alanı: Kurumsal promosyon ve VIP hediyeler
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-380, klasik metal tasarımı, akıcı yazım performansı ve prestijli görünümü ile markanızı zamansız bir şıklıkla temsil eder. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir. Net bilgi teklif aşamasında paylaşılır.",
+    },
+    {
+      q: "Hangi baskı yöntemleri uygulanabilir?",
+      a: "Ürün üzerine lazer baskı, UV baskı veya tampon baskı uygulanabilir. En uygun baskı yöntemi logo tasarımına göre belirlenir.",
+    },
+    {
+      q: "Mürekkep rengi nedir?",
+      a: "RK-380 modeli mavi mürekkepli olarak sunulmaktadır ve akıcı bir yazım deneyimi sağlar.",
+    },
+    {
+      q: "Bu ürün hangi amaçlarla tercih edilir?",
+      a: "Kurumsal hediyeler, VIP müşteri promosyonları, yönetici hediyeleri ve prestijli marka tanıtımları için ideal bir modeldir.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p540",
   slug: "promosyon-roller-kalem-rk-390-dokunmatik-rubber",
-  title: "Promosyon Roller Kalem RK-390 | Dokunmatik Uç Rubber Kaplama Modern Seri",
+  title:
+    "Promosyon Roller Kalem RK-390 | Dokunmatik Uç Rubber Kaplama Modern Seri",
   price: 106,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-390.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-390, dokunmatik uç ve rubber kaplama gövdesi ile hem teknolojik hem konforlu kullanım sunan logo baskılı promosyon kalem modelidir.",
+    "Promosyon roller kalem RK-390, dokunmatik stylus ucu ve rubber kaplama gövdesi ile hem teknolojik hem de konforlu kullanım sunan modern logo baskılı roller kalem modelidir. Kurumsal promosyon, fuar ve teknoloji odaklı tanıtımlar için ideal bir seçimdir.",
 
   longDesc: `
-Promosyon roller kalem RK-390, dokunmatik uç özelliği ve rubber kaplama gövdesi ile modern promosyon ürünleri arasında öne çıkan fonksiyonel bir modeldir.
+Dokunmatik Uçlu Promosyon Roller Kalem ile Teknolojiyi Markanızla Buluşturun
 
-Dokunmatik (touch) uç yapısı sayesinde akıllı telefon ve tabletlerde rahat kullanım sağlar. Bu özelliği ile klasik kalemlerden ayrılarak teknolojik bir deneyim sunar.
+Promosyon roller kalem RK-390, dokunmatik stylus ucu ve yumuşak rubber kaplama gövdesi ile klasik kalem işlevini modern teknolojiyle birleştiren özel bir promosyon ürünüdür. Akıllı telefon ve tablet ekranlarında rahat kullanım sağlaması sayesinde günlük hayatta sık tercih edilen, yüksek işlevselliğe sahip bir kurumsal promosyon kalem modelidir.
 
-Rubber kaplama yüzeyi, elde kayma yapmaz ve uzun süreli kullanımlarda konfor sağlar.
+Rubber kaplama yüzeyi, elde kaymayı azaltarak konforlu bir tutuş sunar. Yumuşak dokusu sayesinde premium bir kullanım hissi oluşturur ve uzun süreli kullanımlarda kullanıcı memnuniyetini artırır. Roller kalem sistemi ise akıcı ve pürüzsüz yazım performansı sağlayarak profesyonel bir deneyim sunar.
 
-Şık ve sade tasarımı, hem günlük kullanım hem de kurumsal dağıtımlar için ideal bir tercih sunar.
+Dokunmatik uç özelliği, ürünün özellikle teknoloji firmaları, eğitim kurumları, bankalar ve kurumsal şirketler tarafından tercih edilmesini sağlar. Telefon ve tablet kullanımının yaygın olduğu günümüzde, bu özellik ürünü klasik promosyon kalemlerden ayırarak daha işlevsel hale getirir.
 
-Metal detaylar, ürüne modern bir görünüm kazandırırken dayanıklılığını da artırır.
+Metal detaylarla tamamlanan modern tasarımı, ürüne şık ve profesyonel bir görünüm kazandırır. Gri, kırmızı, lacivert, mavi ve siyah gibi farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun seçimler yapılabilir.
 
-Geniş baskı alanı sayesinde logo, marka adı ve kurumsal tasarımlar net ve kaliteli şekilde uygulanabilir.
+Logo baskıya uygun geniş gövde yüzeyi sayesinde firmanızın logosu, marka adı veya reklam mesajı lazer baskı, UV baskı veya tampon baskı teknikleriyle net ve kalıcı şekilde uygulanabilir. Günlük kullanımda sürekli elde bulunması, markanızın uzun süre görünür kalmasını sağlar.
 
-Farklı renk seçenekleri ile firmanızın kurumsal kimliğine uygun üretim yapılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Gövde: Rubber Kaplama
-Uç Özelliği: Dokunmatik (Touch Pen)
-Detaylar: Metal Klips
-Yazım Türü: Roller Kalem
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-390 TERCİH EDİLMELİ?
+• Akıllı telefon ve tabletler için dokunmatik stylus uç
+• Yumuşak dokulu rubber kaplama gövde
+• Akıcı ve konforlu roller kalem yazım sistemi
+• Modern ve profesyonel tasarım
+• Logo baskıya uygun geniş baskı alanı
+• Günlük kullanımda yüksek marka görünürlüğü
+• Teknoloji odaklı promosyon çalışmaları için ideal
 
 KULLANIM ALANLARI
+• Teknolojik promosyon ürünleri
+• Kurumsal promosyon dağıtımları
+• Fuar ve etkinlik organizasyonları
+• Eğitim seminerleri
+• Müşteri ve bayi hediyeleri
+• Ofis ve günlük kullanım
+• Reklam ve tanıtım kampanyaları
 
-Ofis ve günlük kullanım
-Teknolojik promosyon ürünleri
-Kurumsal promosyon dağıtımları
-Fuar ve etkinlikler
-Müşteri ve bayi hediyeleri
-Reklam ve tanıtım kampanyaları
-`,
+KİMLER İÇİN UYGUN?
+• Teknoloji firmaları
+• Eğitim kurumları
+• Bankalar ve finans kuruluşları
+• Sigorta şirketleri
+• Reklam ajansları
+• Sağlık kuruluşları
+• Kurumsal işletmeler
+• Organizasyon firmaları
+
+PROMOSYON DOKUNMATİK ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş miktarı, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Gri, Kırmızı, Lacivert, Mavi, Siyah ve farklı renk alternatifleri.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: RK-390
+• Ürün Türü: Promosyon Roller Kalem
+• Gövde Yapısı: Rubber kaplama
+• Uç Özelliği: Dokunmatik stylus uç
+• Detaylar: Metal klips ve dekoratif halkalar
+• Yazım Tipi: Roller Kalem
+• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
+• Kullanım Alanı: Teknolojik ve kurumsal promosyon çalışmaları
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-390, dokunmatik ucu, rubber kaplama gövdesi ve modern tasarımı ile markanızı teknolojik ve işlevsel bir promosyon ürünüyle öne çıkarır. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Dokunmatik uç hangi cihazlarda kullanılabilir?",
+      a: "Stylus uç, akıllı telefon ve tablet ekranlarında rahat kullanım sağlar.",
+    },
+    {
+      q: "Hangi baskı yöntemleri uygulanabilir?",
+      a: "Ürün üzerine lazer baskı, UV baskı veya tampon baskı uygulanabilir. En uygun baskı yöntemi logo tasarımına göre belirlenir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir. Net bilgi teklif aşamasında paylaşılır.",
+    },
+    {
+      q: "Rubber kaplama ne avantaj sağlar?",
+      a: "Rubber kaplama, kaymayı azaltır ve elde yumuşak, konforlu bir tutuş sağlar.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p541",
   slug: "promosyon-roller-kalem-rk-400-dokulu-metal-modern",
-  title: "Promosyon Roller Kalem RK-400 | Dokulu Metal Gövde Profesyonel Seri",
+  title:
+    "Promosyon Roller Kalem RK-400 | Dokulu Metal Gövde Profesyonel Seri",
   price: 145,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-400.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-400, dokulu metal gövde yapısı ile profesyonel ve şık logo baskılı promosyon kalem modelidir.",
+    "Promosyon roller kalem RK-400, dokulu metal gövde yapısı ve modern tasarımı ile profesyonel kullanım için geliştirilmiş prestijli logo baskılı roller kalem modelidir. Kurumsal promosyonlar, yönetici hediyeleri ve VIP müşteri dağıtımları için ideal bir tercihtir.",
 
   longDesc: `
-Promosyon roller kalem RK-400, dokulu metal gövde tasarımı ve modern çizgileri ile profesyonel kullanım için geliştirilmiş özel bir modeldir.
+Dokulu Metal Promosyon Roller Kalem ile Markanızı Profesyonel Şekilde Temsil Edin
 
-Özel yüzey dokusu, hem estetik bir görünüm sunar hem de elde kaymayı önleyerek konforlu bir tutuş sağlar.
+Promosyon roller kalem RK-400, özel dokulu metal gövde yapısı ve modern çizgileri ile kurumsal promosyon ürünleri arasında dikkat çeken premium bir modeldir. Şık tasarımı, kaliteli malzeme yapısı ve akıcı yazım performansı sayesinde markanızı profesyonel ve prestijli bir şekilde temsil etmenize yardımcı olur.
 
-Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunar. Aynı zamanda kaliteli ve dengeli bir yazım deneyimi sağlar.
+Gövde üzerinde yer alan ince dokulu yüzey, ürüne sofistike bir görünüm kazandırırken aynı zamanda kaymayı azaltarak daha konforlu bir tutuş sağlar. Bu özel tasarım detayı, RK-400 modelini klasik promosyon kalemlerden ayırarak daha üst segment bir ürün haline getirir.
 
-Minimal ve güçlü tasarımı, özellikle kurumsal kullanım, toplantılar ve iş dünyasında prestijli bir görünüm sunar.
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü olan bu roller kalem, dengeli ağırlığı ile elde kaliteli bir his bırakır. Roller kalem mekanizması sayesinde yumuşak ve akıcı bir yazım deneyimi sunarak günlük kullanımda yüksek memnuniyet sağlar.
 
-Metal klips ve detaylar, ürüne şık bir bütünlük kazandırır.
+Mat siyah üst gövde ile dokulu alt bölümün birleşimi ürüne modern ve güçlü bir karakter kazandırır. Krom detaylar ve metal klips ise tasarımı tamamlayarak ürünü daha prestijli hale getirir.
 
-Geniş baskı alanı sayesinde logo ve marka uygulamaları net ve kalıcı şekilde uygulanabilir.
+Logo baskıya uygun pürüzsüz alanları sayesinde firmanızın logosu, marka adı veya özel mesajı lazer baskı, UV baskı veya tampon baskı teknikleriyle net ve kalıcı şekilde uygulanabilir. Günlük kullanımda sürekli elde bulunması sayesinde markanız uzun süre görünür kalır.
 
-Farklı renk ve kaplama seçenekleri ile firmanızın kurumsal kimliğine uygun üretim yapılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Gövde: Metal (Dokulu Yüzey)
-Detaylar: Metal Klips
-Yazım Türü: Roller Kalem
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-400 TERCİH EDİLMELİ?
+• Özel dokulu metal gövde tasarımı
+• Premium ve profesyonel görünüm
+• Akıcı roller kalem yazım sistemi
+• Dayanıklı ve uzun ömürlü metal yapı
+• Logo baskıya uygun geniş baskı alanı
+• VIP müşteri ve yönetici hediyeleri için ideal
+• Günlük kullanımda yüksek marka görünürlüğü
 
 KULLANIM ALANLARI
+• Kurumsal promosyon dağıtımları
+• Yönetici ve çalışan hediyeleri
+• VIP müşteri promosyonları
+• Toplantı ve iş görüşmeleri
+• Fuar ve etkinlik organizasyonları
+• Prestijli marka tanıtımları
+• Ofis ve profesyonel kullanım
 
-Ofis ve profesyonel kullanım
-Kurumsal promosyon dağıtımları
-Toplantı ve iş görüşmeleri
-Müşteri ve bayi hediyeleri
-Fuar ve etkinlik organizasyonları
-Prestijli marka tanıtımları
-`,
+KİMLER İÇİN UYGUN?
+• Bankalar ve finans kuruluşları
+• Hukuk ve danışmanlık firmaları
+• Sigorta şirketleri
+• Sağlık kuruluşları
+• Eğitim kurumları
+• Teknoloji firmaları
+• Reklam ajansları
+• Kurumsal işletmeler
+
+PROMOSYON ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş miktarı, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Mat siyah ve antrasit tonlarında premium renk kombinasyonları.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: RK-400
+• Ürün Türü: Promosyon Roller Kalem
+• Gövde Yapısı: Dokulu metal gövde
+• Detaylar: Metal klips ve krom halkalar
+• Yazım Tipi: Roller Kalem
+• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
+• Kullanım Alanı: Kurumsal promosyon ve profesyonel kullanım
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-400, dokulu metal gövdesi, modern tasarımı ve prestijli görünümü ile markanızı profesyonel bir promosyon ürünüyle öne çıkarır. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir. Net bilgi teklif aşamasında paylaşılır.",
+    },
+    {
+      q: "Hangi baskı yöntemleri uygulanabilir?",
+      a: "Ürün üzerine lazer baskı, UV baskı veya tampon baskı uygulanabilir. En uygun baskı yöntemi logo tasarımına göre belirlenir.",
+    },
+    {
+      q: "Dokulu gövde ne avantaj sağlar?",
+      a: "Dokulu yüzey, kaymayı azaltır ve elde daha konforlu ve premium bir kullanım hissi oluşturur.",
+    },
+    {
+      q: "Bu ürün hangi amaçlarla tercih edilir?",
+      a: "Kurumsal promosyonlar, VIP müşteri hediyeleri, yönetici promosyonları ve profesyonel iş toplantıları için ideal bir modeldir.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p542",
@@ -36915,324 +37342,659 @@ Prestijli marka tanıtımları
   image: "/products/promosyon-roller-kalem-rk-410.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-410, krom metal gövde yapısı ile yönetici kullanımına uygun prestijli logo baskılı promosyon kalem modelidir.",
+    "Promosyon roller kalem RK-410, krom metal gövdesi ve dokulu yüzey tasarımı ile yönetici kullanımına uygun prestijli logo baskılı roller kalem modelidir. VIP müşteri hediyeleri ve kurumsal promosyon çalışmaları için ideal bir tercihtir.",
 
   longDesc: `
-Promosyon roller kalem RK-410, tamamen krom metal gövde yapısı ve parlak yüzeyi ile üst segment yönetici kalemleri arasında yer alan premium bir modeldir.
+Krom Metal Promosyon Roller Kalem ile Markanıza Güçlü Bir Prestij Kazandırın
 
-Parlak krom kaplama, ürüne güçlü ve dikkat çekici bir görünüm kazandırırken aynı zamanda uzun ömürlü kullanım sağlar.
+Promosyon roller kalem RK-410, tamamen krom metal gövde yapısı ve modern çizgileri ile üst segment kurumsal promosyon ürünleri arasında yer alan premium bir roller kalem modelidir. Parlak metal yüzeyi, kaliteli malzeme yapısı ve akıcı yazım performansı sayesinde markanızı profesyonel ve prestijli bir şekilde temsil etmenize yardımcı olur.
 
-Dokulu alt gövde tasarımı, elde kaymayı önleyerek konforlu ve dengeli bir yazım deneyimi sunar.
+Göz alıcı krom kaplaması, ürüne güçlü ve dikkat çekici bir görünüm kazandırırken aynı zamanda dayanıklılığını artırır. Yönetici hediyeleri, VIP müşteri promosyonları ve özel kurumsal etkinlikler için yüksek algı değerine sahip etkili bir reklam ürünü olarak öne çıkar.
 
-Minimal ve güçlü tasarım dili, özellikle iş dünyasında profesyonel ve prestijli bir imaj oluşturur.
+Alt gövde bölümünde yer alan ince dokulu yüzey, kalemin elde daha rahat tutulmasını sağlar ve kaymayı azaltır. Dengeli ağırlık yapısı sayesinde uzun süreli kullanımlarda konforlu bir yazım deneyimi sunar. Roller kalem mekanizması ise akıcı ve yumuşak bir yazım performansı sağlar.
 
-Metal klips ve detaylar, ürüne estetik bütünlük kazandırırken dayanıklılığını artırır.
+Metal klips ve dekoratif detaylar, ürünü estetik açıdan tamamlayarak modern ve profesyonel bir görünüm oluşturur. Logo baskıya uygun yüzeyi sayesinde firmanızın logosu, marka adı veya özel mesajı lazer baskı, UV baskı veya tampon baskı teknikleriyle net ve kalıcı şekilde uygulanabilir.
 
-Logo ve marka uygulamaları için uygun yüzeyi sayesinde kurumsal kimliğinizi şık bir şekilde yansıtabilirsiniz.
+Günlük kullanımda sürekli elde bulunması, markanızın uzun süre görünür kalmasını sağlar. Bu özelliği sayesinde RK-410, hem işlevsel hem de prestijli bir promosyon kalem seçeneğidir.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Gövde: Krom Metal
-Detaylar: Metal Klips ve Dokulu Yüzey
-Yazım Türü: Roller Kalem
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-410 TERCİH EDİLMELİ?
+• Parlak krom metal gövde ile premium görünüm
+• Dokulu yüzey sayesinde konforlu tutuş
+• Akıcı roller kalem yazım sistemi
+• Dayanıklı ve uzun ömürlü yapı
+• Logo baskıya uygun geniş baskı alanı
+• Yönetici ve VIP müşteri hediyeleri için ideal
+• Günlük kullanımda yüksek marka görünürlüğü
 
 KULLANIM ALANLARI
+• Yönetici ve VIP müşteri hediyeleri
+• Kurumsal promosyon dağıtımları
+• Prestijli marka tanıtımları
+• Toplantı ve iş görüşmeleri
+• Fuar ve etkinlik organizasyonları
+• Ofis ve masaüstü kullanımı
+• Kurumsal ödüllendirme çalışmaları
 
-Yönetici ve VIP müşteri hediyeleri
-Kurumsal promosyon dağıtımları
-Prestijli marka tanıtımları
-Toplantı ve iş görüşmeleri
-Fuar ve etkinlik organizasyonları
-Ofis ve masaüstü kullanımı
-`,
+KİMLER İÇİN UYGUN?
+• Bankalar ve finans kuruluşları
+• Hukuk ve danışmanlık firmaları
+• Sigorta şirketleri
+• Sağlık kuruluşları
+• Eğitim kurumları
+• Teknoloji firmaları
+• Reklam ajansları
+• Kurumsal işletmeler
+
+PROMOSYON ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş miktarı, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Parlak krom metal yüzeyli premium renk alternatifi.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: RK-410
+• Ürün Türü: Promosyon Roller Kalem
+• Gövde Yapısı: Krom metal
+• Yüzey Özelliği: Dokulu alt gövde
+• Detaylar: Metal klips ve dekoratif halkalar
+• Yazım Tipi: Roller Kalem
+• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
+• Kullanım Alanı: Kurumsal promosyon ve yönetici hediyeleri
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-410, parlak krom metal gövdesi, dokulu tasarımı ve prestijli görünümü ile markanızı üst segment bir promosyon ürünüyle temsil etmenizi sağlar. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir. Net bilgi teklif aşamasında paylaşılır.",
+    },
+    {
+      q: "Hangi baskı yöntemleri uygulanabilir?",
+      a: "Ürün üzerine lazer baskı, UV baskı veya tampon baskı uygulanabilir. En uygun baskı yöntemi logo tasarımına göre belirlenir.",
+    },
+    {
+      q: "Krom metal yüzeyin avantajı nedir?",
+      a: "Krom kaplama, ürüne parlak ve premium bir görünüm kazandırırken dayanıklılığını artırır.",
+    },
+    {
+      q: "Bu ürün hangi amaçlarla tercih edilir?",
+      a: "Yönetici hediyeleri, VIP müşteri promosyonları, kurumsal etkinlikler ve prestijli marka tanıtımları için ideal bir modeldir.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p543",
   slug: "promosyon-roller-kalem-rk-420-ahsap-metal-dogal",
-  title: "Promosyon Roller Kalem RK-420 | Ahşap Gövde Doğal Premium Seri",
+  title:
+    "Promosyon Roller Kalem RK-420 | Ahşap Gövde Doğal Premium Seri",
   price: 172,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-420.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-420, ahşap gövde ve metal detayları ile doğal ve prestijli logo baskılı promosyon kalem modelidir.",
+    "Promosyon roller kalem RK-420, doğal ahşap gövdesi ve rose gold metal detayları ile çevre dostu ve prestijli bir görünüm sunan logo baskılı roller kalem modelidir. VIP müşteri hediyeleri ve premium kurumsal promosyonlar için ideal bir tercihtir.",
 
   longDesc: `
-Promosyon roller kalem RK-420, ahşap gövde yapısı ve metal detayları ile doğal şıklığı ve premium tasarımı bir araya getiren özel bir modeldir.
+Doğal Ahşap Promosyon Roller Kalem ile Markanıza Prestij ve Sıcaklık Katın
 
-Doğal ahşap yüzeyi sayesinde her ürün kendine özgü bir dokuya sahiptir ve markanıza farklı bir prestij kazandırır.
+Promosyon roller kalem RK-420, doğal ahşap gövde yapısı ve rose gold metal detayları ile estetik, çevre dostu ve premium bir tasarımı bir araya getiren özel bir roller kalem modelidir. Ahşabın doğal dokusu ile metalin zarif görünümünü birleştiren bu model, kurumsal promosyon ürünleri arasında seçkin bir alternatif sunar.
 
-Metal klips ve detaylar, ürüne modern ve dengeli bir görünüm kazandırırken dayanıklılığını artırır.
+Doğal ahşap yüzeyi sayesinde her kalem kendine özgü damar yapısına ve karakteristik dokuya sahiptir. Bu özellik, ürüne benzersiz bir görünüm kazandırırken markanızın doğallık, kalite ve sürdürülebilirlik anlayışını yansıtmasına yardımcı olur.
 
-Ahşap ve metal kombinasyonu, özellikle çevre dostu ve premium promosyon ürün tercih eden firmalar için ideal bir seçenektir.
+Rose gold metal klips ve dekoratif detaylar, ürüne lüks ve sofistike bir görünüm kazandırır. Siyah ve ahşap tonlarının uyumu ile tasarım, klasik ve modern çizgileri dengeli biçimde bir araya getirir. Bu nedenle özellikle VIP müşteri hediyeleri, yönetici promosyonları ve prestijli marka çalışmaları için ideal bir seçimdir.
 
-Ergonomik yapısı sayesinde elde rahat bir tutuş sağlar ve konforlu bir yazım deneyimi sunar.
+Ergonomik gövde yapısı ve dengeli ağırlığı sayesinde konforlu bir tutuş sunar. Roller kalem mekanizması ise akıcı ve yumuşak bir yazım deneyimi sağlayarak günlük kullanımda yüksek memnuniyet oluşturur.
 
-Logo ve marka uygulamaları için uygun yüzeyi sayesinde kurumsal kimliğinizi doğal ve şık bir şekilde yansıtabilirsiniz.
+Logo baskıya uygun alanları sayesinde firmanızın logosu, marka adı veya özel mesajı lazer baskı, UV baskı veya tampon baskı teknikleriyle net ve kalıcı şekilde uygulanabilir. Ahşap yüzey üzerine yapılan kaliteli baskılar, ürünün doğal görünümünü koruyarak şık bir kurumsal sunum sağlar.
 
-Farklı kaplama ve renk seçenekleri ile firmanızın kurumsal kimliğine uygun üretim yapılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Gövde: Ahşap + Metal
-Detaylar: Metal Klips ve Kaplama
-Yazım Türü: Roller Kalem
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-420 TERCİH EDİLMELİ?
+• Doğal ahşap gövde ile benzersiz görünüm
+• Rose gold metal detaylarla premium tasarım
+• Çevre dostu ve prestijli promosyon alternatifi
+• Akıcı roller kalem yazım sistemi
+• Logo baskıya uygun geniş yüzey
+• VIP müşteri ve yönetici hediyeleri için ideal
+• Günlük kullanımda yüksek marka görünürlüğü
 
 KULLANIM ALANLARI
+• Doğal ve çevre dostu promosyon çalışmaları
+• VIP müşteri hediyeleri
+• Yönetici promosyonları
+• Prestijli kurumsal marka tanıtımları
+• Fuar ve etkinlik organizasyonları
+• Ofis ve masaüstü kullanımı
+• Özel hediye sunumları
 
-Doğal ve çevre dostu promosyonlar
-VIP müşteri ve yönetici hediyeleri
-Kurumsal marka tanıtımları
-Fuar ve etkinlik organizasyonları
-Ofis ve masaüstü kullanımı
-Prestijli hediye seçenekleri
-`,
+KİMLER İÇİN UYGUN?
+• Çevre dostu ürün tercih eden firmalar
+• Bankalar ve finans kuruluşları
+• Hukuk ve danışmanlık firmaları
+• Reklam ajansları
+• Eğitim kurumları
+• Teknoloji şirketleri
+• Sağlık kuruluşları
+• Kurumsal işletmeler
+
+PROMOSYON AHŞAP ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş miktarı, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Doğal ahşap gövde, siyah üst bölüm ve rose gold detaylı premium kombinasyon.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: RK-420
+• Ürün Türü: Promosyon Roller Kalem
+• Gövde Yapısı: Ahşap + Metal
+• Detaylar: Rose Gold metal klips ve dekoratif parçalar
+• Yazım Tipi: Roller Kalem
+• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
+• Kullanım Alanı: Çevre dostu kurumsal promosyonlar
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-420, doğal ahşap gövdesi, rose gold detayları ve prestijli tasarımı ile markanızı çevre dostu ve seçkin bir promosyon ürünüyle öne çıkarır. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Ahşap gövde her üründe aynı görünür mü?",
+      a: "Hayır. Doğal ahşap kullanıldığı için her kalemin damar yapısı ve renk tonları kendine özgü olabilir.",
+    },
+    {
+      q: "Hangi baskı yöntemleri uygulanabilir?",
+      a: "Ürün üzerine lazer baskı, UV baskı veya tampon baskı uygulanabilir. En uygun baskı yöntemi logo tasarımına göre belirlenir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir. Net bilgi teklif aşamasında paylaşılır.",
+    },
+    {
+      q: "Bu ürün hangi amaçlarla tercih edilir?",
+      a: "VIP müşteri hediyeleri, çevre dostu promosyon çalışmaları, yönetici hediyeleri ve prestijli kurumsal tanıtımlar için ideal bir modeldir.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p544",
   slug: "promosyon-roller-kalem-rk-430-klasik-lazer-baski",
-  title: "Promosyon Roller Kalem RK-430 | Klasik Lazer Baskılı Prestij Kalemi",
+  title:
+    "Promosyon Roller Kalem RK-430 | Klasik Lazer Baskılı Prestij Kalemi",
   price: 166,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-430.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-430, klasik tasarımı ve lazer baskı özelliği ile prestijli kurumsal kullanım için ideal logo baskılı kalem modelidir.",
+    "Promosyon roller kalem RK-430, klasik tasarımı ve lazer baskıya uygun metal detayları ile prestijli kurumsal kullanım için ideal logo baskılı roller kalem modelidir. Yönetici hediyeleri ve VIP müşteri promosyonları için şık bir tercihtir.",
 
   longDesc: `
-Promosyon roller kalem RK-430, klasik tasarımı ve metal detayları ile zamansız şıklığı yansıtan prestijli bir promosyon kalem modelidir.
+Klasik Prestij Tasarımlı Promosyon Roller Kalem ile Markanızı Zamansız Bir Şıklıkla Tanıtın
 
-Lazer baskı özelliği sayesinde logo ve marka uygulamaları silinmez ve uzun ömürlü olur. Bu sayede kalıcı bir marka görünürlüğü sağlar.
+Promosyon roller kalem RK-430, geleneksel çizgileri ve metal detayları ile kurumsal promosyon ürünleri arasında seçkin bir yere sahip olan premium bir roller kalem modelidir. Zarif gövde yapısı, lazer baskıya uygun yüzeyi ve kaliteli yazım performansı sayesinde markanızı profesyonel ve prestijli bir şekilde temsil etmenize yardımcı olur.
 
-Parlak ve dengeli gövde yapısı, ürüne lüks bir görünüm kazandırırken aynı zamanda dayanıklı kullanım sunar.
+Klasik tasarım anlayışını modern işlevsellikle birleştiren bu özel model, özellikle yönetici hediyeleri, VIP müşteri promosyonları, kurumsal ödüllendirme çalışmaları ve prestijli marka tanıtımları için ideal bir seçimdir. Siyah, füme ve bordo renk alternatifleri ile farklı kurumsal kimliklere uyum sağlar.
 
-Altın ve krom detaylar, ürünü daha dikkat çekici ve prestijli hale getirir.
+Altın veya krom detaylarla tamamlanan şık görünümü, ürüne lüks ve dikkat çekici bir karakter kazandırır. Dengeli gövde yapısı ve ergonomik tasarımı sayesinde uzun süreli kullanımlarda konforlu bir yazım deneyimi sunar.
 
-Ergonomik yapısı sayesinde elde rahat bir tutuş sağlar ve konforlu bir yazım deneyimi sunar.
+Mavi refil özelliği sayesinde akıcı ve standart bir yazım performansı sağlar. Roller kalem mekanizması, profesyonel kullanıcıların günlük kullanım beklentilerini karşılayan yumuşak bir yazım deneyimi oluşturur.
 
-Mavi refil özelliği ile akıcı ve standart bir yazım performansı sağlar.
+Lazer baskı uygulaması, logo ve marka bilgilerinin kalıcı ve net şekilde ürüne işlenmesini sağlar. Baskı yüzeyinin uzun ömürlü olması, markanızın uzun süre görünür kalmasına katkı sunar.
 
-Geniş baskı alanı sayesinde logo ve marka uygulamaları net ve estetik şekilde uygulanabilir.
+Logo baskıya uygun geniş yüzeyi sayesinde firmanızın logosu, marka adı veya özel mesajı lazer baskı başta olmak üzere farklı baskı teknikleri ile uygulanabilir. Böylece ürün, yüksek algı değerine sahip etkili bir reklam aracına dönüşür.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Ölçü: 140 x Ø12 mm
-Mürekkep: Mavi Refil
-Baskı Türü: Lazer Baskı
-Baskı Alanı: 40 x 5,5 mm
-Koli / Kutu Adet: 500 / 50
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-430 TERCİH EDİLMELİ?
+• Klasik ve zamansız prestij tasarımı
+• Altın ve krom detaylarla şık görünüm
+• Lazer baskıya uygun metal yüzey
+• Akıcı mavi refilli roller kalem sistemi
+• Dayanıklı ve uzun ömürlü yapı
+• Yönetici ve VIP müşteri hediyeleri için ideal
+• Günlük kullanımda yüksek marka görünürlüğü
 
 KULLANIM ALANLARI
+• Kurumsal hediye ürünleri
+• Yönetici ve VIP müşteri dağıtımları
+• Prestijli marka tanıtımları
+• Toplantı ve özel davetler
+• Fuar ve etkinlik organizasyonları
+• Ofis ve masaüstü kullanımı
+• Kurumsal ödüllendirme çalışmaları
 
-Kurumsal hediye ürünleri
-Yönetici ve VIP müşteri dağıtımları
-Prestijli marka tanıtımları
-Toplantı ve özel davetler
-Fuar ve etkinlik organizasyonları
-Ofis ve masaüstü kullanımı
-`,
+KİMLER İÇİN UYGUN?
+• Bankalar ve finans kuruluşları
+• Hukuk ve danışmanlık firmaları
+• Sigorta şirketleri
+• Sağlık kuruluşları
+• Eğitim kurumları
+• Reklam ajansları
+• Teknoloji firmaları
+• Kurumsal işletmeler
+
+PROMOSYON ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş miktarı, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Siyah, Füme, Bordo ve farklı klasik renk alternatifleri.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: RK-430
+• Ürün Türü: Promosyon Roller Kalem
+• Ölçü: 140 x Ø12 mm
+• Mürekkep: Mavi Refil
+• Baskı Türü: Lazer Baskı
+• Baskı Alanı: 40 x 5,5 mm
+• Koli / Kutu Adet: 500 / 50
+• Kullanım Alanı: Kurumsal promosyon ve yönetici hediyeleri
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-430, klasik tasarımı, lazer baskıya uygun yapısı ve prestijli görünümü ile markanızı zamansız bir promosyon ürünüyle öne çıkarır. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Lazer baskı kalıcı mıdır?",
+      a: "Evet. Lazer baskı, ürün yüzeyine kalıcı olarak uygulanır ve uzun süre silinmeden kullanılabilir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir. Net bilgi teklif aşamasında paylaşılır.",
+    },
+    {
+      q: "Mürekkep rengi nedir?",
+      a: "RK-430 modeli mavi refilli olarak sunulmaktadır ve akıcı bir yazım deneyimi sağlar.",
+    },
+    {
+      q: "Bu ürün hangi amaçlarla tercih edilir?",
+      a: "Yönetici hediyeleri, VIP müşteri promosyonları, kurumsal etkinlikler ve prestijli marka tanıtımları için ideal bir modeldir.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p545",
   slug: "promosyon-roller-kalem-rk-440-luks-lazer-baski",
-  title: "Promosyon Roller Kalem RK-440 | Lüks Altın Detaylı Lazer Baskılı",
+  title:
+    "Promosyon Roller Kalem RK-440 | Lüks Altın Detaylı Lazer Baskılı",
   price: 180,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-440.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-440, altın detaylı metal gövdesi ve lazer baskı özelliği ile üst segment prestijli logo baskılı promosyon kalem modelidir.",
+    "Promosyon roller kalem RK-440, altın detaylı metal gövdesi ve lazer baskıya uygun yüzeyi ile üst segment prestijli logo baskılı roller kalem modelidir. Yönetici hediyeleri, VIP müşteri promosyonları ve lüks kurumsal tanıtımlar için ideal bir tercihtir.",
 
   longDesc: `
-Promosyon roller kalem RK-440, dokulu metal gövde yapısı ve altın kaplama detayları ile üst segment promosyon kalemler arasında yer alan lüks bir modeldir.
+Lüks Altın Detaylı Promosyon Roller Kalem ile Markanızı Prestijle Öne Çıkarın
 
-Lazer baskı özelliği sayesinde logo ve marka uygulamaları silinmez ve uzun ömürlü olur. Bu sayede kalıcı bir marka görünürlüğü sağlar.
+Promosyon roller kalem RK-440, ince dokulu metal gövdesi ve altın kaplama detayları ile üst segment kurumsal promosyon ürünleri arasında yer alan seçkin bir roller kalem modelidir. Zarif tasarımı, kaliteli malzeme yapısı ve lazer baskıya uygun yüzeyi sayesinde markanızı profesyonel ve prestijli bir şekilde temsil etmenize yardımcı olur.
 
-Altın detaylı tasarımı, ürüne dikkat çekici ve prestijli bir görünüm kazandırır.
+Gümüş tonlu metal gövde üzerinde yer alan geometrik desenler, ürüne sofistike ve dikkat çekici bir görünüm kazandırır. Altın renkli klips, halka ve uç detayları ise tasarımı tamamlayarak ürünü daha lüks bir hale getirir. Bu özellikleri sayesinde RK-440, özellikle yönetici hediyeleri, VIP müşteri promosyonları ve prestijli kurumsal etkinlikler için ideal bir seçimdir.
 
-Dokulu yüzey yapısı, hem estetik bir görünüm sunar hem de elde kaymayı önleyerek konforlu bir kullanım sağlar.
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü olan bu roller kalem, dengeli ağırlığı ile elde kaliteli bir his bırakır. Ergonomik tasarımı ve akıcı roller kalem mekanizması, günlük kullanımda konforlu ve profesyonel bir yazım deneyimi sunar.
 
-Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunar.
+Mavi refil özelliği sayesinde standart ve pürüzsüz bir yazım performansı sağlar. Lazer baskı uygulaması ile firmanızın logosu, marka adı veya özel mesajı ürün üzerine kalıcı olarak işlenebilir. Bu sayede marka görünürlüğünüz uzun süre devam eder.
 
-Mavi refil özelliği ile akıcı ve standart bir yazım performansı sağlar.
+Logo baskıya uygun geniş yüzeyi sayesinde ürün, yüksek algı değerine sahip etkili bir reklam aracına dönüşür. Şık kutu sunumları ile birlikte değerlendirildiğinde premium kurumsal hediye alternatifi olarak öne çıkar.
 
-Geniş baskı alanı sayesinde logo ve marka uygulamaları net ve kaliteli şekilde uygulanabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Ölçü: 138 x Ø13 mm
-Mürekkep: Mavi Refil
-Baskı Türü: Lazer Baskı
-Baskı Alanı: 40 x 5,5 mm
-Koli / Kutu Adet: 500 / 50
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-440 TERCİH EDİLMELİ?
+• Altın detaylarla tamamlanan lüks tasarım
+• Dokulu metal gövde ile premium görünüm
+• Lazer baskıya uygun kalıcı yüzey
+• Akıcı mavi refilli roller kalem sistemi
+• Dayanıklı ve uzun ömürlü yapı
+• Yönetici ve VIP müşteri hediyeleri için ideal
+• Günlük kullanımda yüksek marka görünürlüğü
 
 KULLANIM ALANLARI
+• Yönetici ve VIP müşteri hediyeleri
+• Prestijli kurumsal promosyon çalışmaları
+• Marka tanıtım kampanyaları
+• Toplantı ve özel davetler
+• Fuar ve etkinlik organizasyonları
+• Ofis ve masaüstü kullanımı
+• Kurumsal ödüllendirme çalışmaları
 
-Yönetici ve VIP müşteri hediyeleri
-Kurumsal promosyon dağıtımları
-Prestijli marka tanıtımları
-Toplantı ve özel davetler
-Fuar ve etkinlik organizasyonları
-Ofis ve masaüstü kullanımı
-`,
+KİMLER İÇİN UYGUN?
+• Bankalar ve finans kuruluşları
+• Hukuk ve danışmanlık firmaları
+• Sigorta şirketleri
+• Sağlık kuruluşları
+• Eğitim kurumları
+• Teknoloji firmaları
+• Reklam ajansları
+• Kurumsal işletmeler
+
+PROMOSYON ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş miktarı, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Gümüş metal gövde ve altın detaylı premium renk kombinasyonu.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: RK-440
+• Ürün Türü: Promosyon Roller Kalem
+• Ölçü: 138 x Ø13 mm
+• Mürekkep: Mavi Refil
+• Gövde Yapısı: Dokulu metal
+• Detaylar: Altın kaplama klips ve dekoratif halkalar
+• Baskı Türü: Lazer Baskı
+• Baskı Alanı: 40 x 5,5 mm
+• Koli / Kutu Adet: 500 / 50
+• Kullanım Alanı: Kurumsal promosyon ve yönetici hediyeleri
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-440, altın detaylı lüks tasarımı, lazer baskıya uygun yapısı ve premium görünümü ile markanızı prestijli bir promosyon ürünüyle öne çıkarır. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Lazer baskı kalıcı mıdır?",
+      a: "Evet. Lazer baskı, ürün yüzeyine kalıcı olarak uygulanır ve uzun süre silinmeden kullanılabilir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir. Net bilgi teklif aşamasında paylaşılır.",
+    },
+    {
+      q: "Mürekkep rengi nedir?",
+      a: "RK-440 modeli mavi refilli olarak sunulmaktadır ve akıcı bir yazım deneyimi sağlar.",
+    },
+    {
+      q: "Bu ürün hangi amaçlarla tercih edilir?",
+      a: "Yönetici hediyeleri, VIP müşteri promosyonları, kurumsal etkinlikler ve prestijli marka tanıtımları için ideal bir modeldir.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p546",
   slug: "promosyon-roller-kalem-rk-450-mat-siyah-metal",
-  title: "Promosyon Roller Kalem RK-450 | Mat Siyah Metal Modern Tasarım",
+  title:
+    "Promosyon Roller Kalem RK-450 | Mat Siyah Metal Modern Tasarım",
   price: 120,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-450.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-450, mat siyah metal gövdesi ve mavi mürekkep özelliği ile modern ve güçlü tasarıma sahip logo baskılı promosyon kalem modelidir.",
+    "Promosyon roller kalem RK-450, mat siyah metal gövdesi ve mavi mürekkep özelliği ile modern ve güçlü bir görünüm sunan prestijli logo baskılı roller kalem modelidir. Kurumsal promosyonlar, yönetici hediyeleri ve profesyonel marka tanıtımları için ideal bir tercihtir.",
 
   longDesc: `
-Promosyon roller kalem RK-450, mat siyah metal gövde yapısı ile modern ve güçlü bir tasarım sunan özel bir promosyon kalem modelidir.
+Mat Siyah Metal Promosyon Roller Kalem ile Markanızı Güçlü Bir İmajla Tanıtın
 
-Minimal tasarım anlayışı ile sade ama etkileyici bir görünüm sunar. Özellikle kurumsal kullanım ve profesyonel ortamlarda dikkat çeker.
+Promosyon roller kalem RK-450, mat siyah metal gövde yapısı ve sade çizgileri ile modern tasarım anlayışını yansıtan premium bir roller kalem modelidir. Minimal görünümü, kaliteli malzeme yapısı ve akıcı yazım performansı sayesinde markanızı profesyonel ve prestijli bir şekilde temsil etmenize yardımcı olur.
 
-Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlüdür. Aynı zamanda elde dengeli ve kaliteli bir his oluşturur.
+Mat siyah yüzeyi, ürüne güçlü ve sofistike bir karakter kazandırır. Parlak metal uç detayları ile tamamlanan tasarımı, sade olmasına rağmen son derece etkileyici bir görünüm sunar. Bu nedenle RK-450 modeli; kurumsal promosyon çalışmaları, VIP müşteri hediyeleri, yönetici promosyonları ve profesyonel etkinlikler için ideal bir seçenektir.
 
-Mat yüzeyi, ürüne premium bir görünüm kazandırırken aynı zamanda kaymaz ve konforlu bir kullanım sağlar.
+Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü olan bu roller kalem, dengeli ağırlığı ile elde kaliteli bir his bırakır. Mat kaplama yüzeyi, kaymayı azaltarak daha konforlu bir kullanım sağlar. Roller kalem mekanizması ise yumuşak ve akıcı bir yazım deneyimi sunar.
 
-Mavi mürekkep özelliği ile günlük kullanım için akıcı ve standart bir yazım deneyimi sunar.
+Mavi mürekkep özelliği sayesinde günlük kullanımda standart ve rahat bir yazım performansı sağlar. Uzun süreli kullanım için uygun olan bu model, kullanıcı memnuniyetini artıran kaliteli bir promosyon ürünüdür.
 
-Logo ve marka uygulamaları için uygun yüzeyi sayesinde kurumsal kimliğinizi modern bir şekilde yansıtabilirsiniz.
+Logo baskıya uygun pürüzsüz gövde yüzeyi sayesinde firmanızın logosu, marka adı veya özel mesajı lazer baskı, UV baskı veya tampon baskı teknikleri ile net ve kalıcı şekilde uygulanabilir. Günlük kullanımda sürekli elde bulunması sayesinde markanız uzun süre görünür kalır.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Roller Kalem
-Gövde: Metal (Mat Kaplama)
-Mürekkep Rengi: Mavi
-Yazım Türü: Roller Kalem
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON ROLLER KALEM RK-450 TERCİH EDİLMELİ?
+• Mat siyah metal gövde ile modern ve güçlü tasarım
+• Premium görünüm sunan minimal çizgiler
+• Mavi mürekkepli akıcı roller kalem sistemi
+• Dayanıklı ve uzun ömürlü metal yapı
+• Logo baskıya uygun geniş baskı alanı
+• Yönetici ve VIP müşteri hediyeleri için ideal
+• Günlük kullanımda yüksek marka görünürlüğü
 
 KULLANIM ALANLARI
+• Kurumsal promosyon dağıtımları
+• Yönetici ve çalışan hediyeleri
+• VIP müşteri promosyonları
+• Toplantı ve iş görüşmeleri
+• Fuar ve etkinlik organizasyonları
+• Prestijli marka tanıtımları
+• Ofis ve profesyonel kullanım
 
-Kurumsal promosyon dağıtımları
-Ofis ve profesyonel kullanım
-Toplantı ve iş görüşmeleri
-Müşteri ve bayi hediyeleri
-Prestijli marka tanıtımları
-Fuar ve etkinlik organizasyonları
-`,
+KİMLER İÇİN UYGUN?
+• Bankalar ve finans kuruluşları
+• Hukuk ve danışmanlık firmaları
+• Sigorta şirketleri
+• Sağlık kuruluşları
+• Eğitim kurumları
+• Teknoloji firmaları
+• Reklam ajansları
+• Kurumsal işletmeler
+
+PROMOSYON ROLLER KALEM FİYATLARI
+Promosyon roller kalem fiyatları; sipariş miktarı, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+BASKI SEÇENEKLERİ
+• Lazer Baskı
+• UV Baskı
+• Tampon Baskı
+
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+Mat siyah ve farklı premium renk alternatifleri.
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: RK-450
+• Ürün Türü: Promosyon Roller Kalem
+• Gövde Yapısı: Mat kaplamalı metal
+• Mürekkep Rengi: Mavi
+• Yazım Tipi: Roller Kalem
+• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
+• Kullanım Alanı: Kurumsal promosyon ve profesyonel kullanım
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon roller kalem RK-450, mat siyah metal gövdesi, minimalist tasarımı ve prestijli görünümü ile markanızı modern bir promosyon ürünüyle öne çıkarır. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Mat siyah kaplamanın avantajı nedir?",
+      a: "Mat kaplama, ürüne modern ve premium bir görünüm kazandırırken kaymayı azaltarak daha konforlu bir kullanım sağlar.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir. Net bilgi teklif aşamasında paylaşılır.",
+    },
+    {
+      q: "Hangi baskı yöntemleri uygulanabilir?",
+      a: "Ürün üzerine lazer baskı, UV baskı veya tampon baskı uygulanabilir. En uygun baskı yöntemi logo tasarımına göre belirlenir.",
+    },
+    {
+      q: "Mürekkep rengi nedir?",
+      a: "RK-450 modeli mavi mürekkepli olarak sunulmaktadır ve akıcı bir yazım deneyimi sağlar.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p547",
   slug: "promosyon-tohumlu-kalem-thk-190-ekolojik",
-  title: "Promosyon Tohumlu Kurşun Kalem THK-190 | Ekolojik Doğa Dostu Kalem",
+  title:
+    "Promosyon Tohumlu Kurşun Kalem THK-190 | Ekolojik Doğa Dostu Kalem",
   price: 18,
   category: "Kalem",
   image: "/products/promosyon-tohumlu-kalem-thk-190.jpg",
 
   shortDesc:
-    "Promosyon tohumlu kurşun kalem THK-190, doğa dostu yapısı ve ekilebilir tohum özelliği ile çevre bilinci yüksek markalar için ideal promosyon kalem modelidir.",
+    "Promosyon tohumlu kurşun kalem THK-190, ekilebilir tohum kapsülü ve doğal ahşap gövdesi ile çevre dostu ve sürdürülebilir marka tanıtımları için ideal promosyon kalem modelidir. Doğa bilincini öne çıkarmak isteyen firmalar için etkili bir seçimdir.",
 
   longDesc: `
-Promosyon tohumlu kurşun kalem THK-190, çevre dostu yapısı ve ekilebilir tohum özelliği ile sürdürülebilir promosyon ürünleri arasında öne çıkan özel bir modeldir.
+Ekilebilir Tohumlu Promosyon Kalem ile Markanızı Doğaya Kazandırın
 
-Kalem kullanım ömrünü tamamladıktan sonra arka kısmındaki kapsül sayesinde toprağa ekilerek bitki yetiştirilebilir. Bu özelliği ile klasik promosyon ürünlerden ayrılır.
+Promosyon tohumlu kurşun kalem THK-190, kullanım ömrü tamamlandıktan sonra toprağa ekilebilen özel tohum kapsülü sayesinde çevre dostu promosyon ürünleri arasında öne çıkan yenilikçi bir modeldir. Doğal ahşap gövdesi ve sürdürülebilir konsepti ile markanızın çevreye duyarlı yaklaşımını etkili bir şekilde yansıtmanıza yardımcı olur.
 
-Doğal ahşap gövde yapısı, ürüne sade ve organik bir görünüm kazandırır.
+Kalemin üst kısmında yer alan biyobozunur kapsül içerisinde çeşitli bitki tohumları bulunur. Kalem kısaldıktan sonra kapsül toprağa ekilir, düzenli sulama ile tohumlar filizlenmeye başlar. Böylece sıradan bir promosyon ürün, doğaya katkı sağlayan anlamlı bir hediyeye dönüşür.
 
-Çevre bilinci yüksek firmalar, sürdürülebilir marka imajı oluşturmak isteyen markalar ve sosyal sorumluluk projeleri için ideal bir promosyon ürünüdür.
+Doğal ahşap gövde yapısı, ürüne sade ve organik bir görünüm kazandırır. Plastik kullanımını azaltan yapısı sayesinde sürdürülebilirlik odaklı kampanyalarda, sosyal sorumluluk projelerinde ve çevre bilincini artırmayı hedefleyen etkinliklerde ideal bir promosyon çözümü sunar.
 
-UV ve tampon baskı seçenekleri sayesinde logo ve marka uygulamaları net ve kaliteli şekilde yapılabilir.
+Ürün, geri dönüştürülebilir kraft karton ambalaj ile sunulabilir. Ambalaj üzerinde ekim talimatları, çevre mesajları ve marka logonuz yer alabilir. Bu sayede hem etkileyici bir sunum elde edilir hem de marka değeriniz güçlendirilir.
 
-Özel kutulu sunum seçeneği ile birlikte daha etkileyici bir promosyon ürünü haline getirilebilir.
+Logo baskıya uygun yüzeyi sayesinde firmanızın logosu, marka adı veya özel mesajı UV baskı ve tampon baskı teknikleri ile net ve kalıcı şekilde uygulanabilir. Doğa dostu yapısı ile müşterilerinizin ve iş ortaklarınızın hafızasında pozitif bir iz bırakır.
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Tohumlu Kurşun Kalem
-Gövde: Ahşap
-Özellik: Ekilebilir Tohum Kapsülü
-Baskı Türü: UV ve Tampon Baskı
-
-SİPARİŞ BİLGİSİ
-
-Bu ürün kurumsal promosyon amaçlı toplu üretim için uygundur.
-
-Logo baskı ve tasarım çalışmaları firmanıza özel olarak hazırlanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Hızlı teklif almak için bizimle iletişime geçebilirsiniz.
+NEDEN PROMOSYON TOHUMLU KURŞUN KALEM THK-190 TERCİH EDİLMELİ?
+• Kullanım sonrası toprağa ekilebilen tohum kapsülü
+• Doğal ahşap gövde ile çevre dostu tasarım
+• Sürdürülebilir marka iletişimi için ideal
+• Eğitim ve sosyal sorumluluk projelerine uygun
+• Logo baskıya uygun yüzey
+• Kullanıcıda yüksek farkındalık ve olumlu marka algısı
+• Doğaya katkı sağlayan anlamlı promosyon ürünü
 
 KULLANIM ALANLARI
+• Çevre dostu promosyon kampanyaları
+• Sürdürülebilir marka projeleri
+• Fuar ve etkinlik dağıtımları
+• Okul ve eğitim organizasyonları
+• Sosyal sorumluluk projeleri
+• Belediye ve kamu etkinlikleri
+• Kurumsal hediye alternatifleri
 
-Çevre dostu promosyon kampanyaları
-Sürdürülebilir marka projeleri
-Fuar ve etkinlik dağıtımları
-Okul ve eğitim projeleri
-Sosyal sorumluluk organizasyonları
-Kurumsal hediye alternatifleri
-`,
+KİMLER İÇİN UYGUN?
+• Çevre bilinci yüksek markalar
+• Eğitim kurumları
+• Belediyeler ve kamu kuruluşları
+• STK ve dernekler
+• Reklam ajansları
+• Teknoloji firmaları
+• Kurumsal işletmeler
+• Sürdürülebilirlik odaklı şirketler
+
+PROMOSYON TOHUMLU KALEM FİYATLARI
+Promosyon tohumlu kalem fiyatları; sipariş miktarı, baskı türü, ambalaj seçeneği ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+
+TOHUM SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
+• Fesleğen
+• Papatya
+• Nane
+• Lavanta
+• Çam
+• Çiçek karışımları
+
+BASKI SEÇENEKLERİ
+• UV Baskı
+• Tampon Baskı
+
+AMBALAJ SEÇENEKLERİ
+• Kraft karton tüp kutu
+• Ekim talimatlı özel ambalaj
+• Kurumsal logolu özel tasarım kutular
+
+MİNİMUM SİPARİŞ BİLGİSİ
+• Baskılı minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Net minimum sipariş miktarı teklif aşamasında belirlenmektedir.
+
+TEKNİK ÖZELLİKLER
+• Model: THK-190
+• Ürün Türü: Promosyon Tohumlu Kurşun Kalem
+• Gövde Yapısı: Doğal ahşap
+• Özellik: Ekilebilir tohum kapsülü
+• Baskı Türü: UV Baskı / Tampon Baskı
+• Ambalaj: Kraft karton tüp (opsiyonel)
+• Kullanım Alanı: Sürdürülebilir ve çevre dostu promosyon çalışmaları
+• Kategori: Promosyon Kalem
+
+TESLİMAT SÜRESİ
+Sipariş miktarı, baskı yöntemi, ambalaj seçeneği ve üretim yoğunluğuna bağlı olarak teslim süresi değişiklik gösterebilir. Güncel termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+Promosyon tohumlu kurşun kalem THK-190, ekilebilir yapısı ve çevre dostu tasarımı ile markanızı doğaya katkı sağlayan anlamlı bir promosyon ürünüyle öne çıkarır. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Tohumlu kalem nasıl kullanılır?",
+      a: "Kalem kullanım ömrünü tamamladıktan sonra üst kısmındaki tohum kapsülü toprağa ekilir ve düzenli sulama ile bitki yetiştirilebilir.",
+    },
+    {
+      q: "Hangi tohum seçenekleri bulunmaktadır?",
+      a: "Fesleğen, papatya, nane, lavanta ve farklı bitki tohumları stok durumuna göre sunulabilir.",
+    },
+    {
+      q: "Logo baskılı siparişlerde minimum adet nedir?",
+      a: "Minimum sipariş adedi, uygulanacak baskı tekniği ve üretim planına göre değişiklik gösterebilir. Net bilgi teklif aşamasında paylaşılır.",
+    },
+    {
+      q: "Bu ürün hangi amaçlarla tercih edilir?",
+      a: "Çevre dostu promosyon kampanyaları, sürdürülebilir marka projeleri, eğitim etkinlikleri ve sosyal sorumluluk çalışmaları için ideal bir üründür.",
+    },
+    {
+      q: "Teslim süresi kaç gündür?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi, ambalaj seçeneği ve üretim yoğunluğuna göre değişmektedir. Güncel termin bilgisi teklif aşamasında paylaşılır.",
+    },
+  ],
 },
 {
   id: "p548",
