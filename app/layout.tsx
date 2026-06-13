@@ -32,11 +32,12 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
 
   title: {
-    default: "FirmaPromosyon | Kurumsal DTF Baskı & Promosyon",
+    default: "FirmaPromosyon | Kurumsal Promosyon Ürünleri & Baskı Hizmetleri",
     template: "%s | FirmaPromosyon",
   },
 
-  description: "Kurumsal DTF baskı ve promosyon ürünleri için hızlı teklif alın.",
+  description:
+    "Kurumsal promosyon ürünleri, logo baskılı ürünler, UV baskı, DTF baskı, lazer baskı, tampon baskı ve nakış hizmetleri için hızlı teklif alın.",
   alternates: { canonical: "/" },
 
   robots: {
@@ -52,9 +53,9 @@ export const metadata: Metadata = {
   },
 
   openGraph: {
-    title: "FirmaPromosyon | Kurumsal DTF Baskı & Promosyon",
+    title: "FirmaPromosyon | Kurumsal Promosyon Ürünleri & Baskı Hizmetleri",
     description:
-      "Kurumsal DTF baskı ve promosyon ürünleri için hızlı teklif alın.",
+      "Kurumsal promosyon ürünleri, logo baskılı ürünler, UV baskı, DTF baskı, lazer baskı, tampon baskı ve nakış hizmetleri için hızlı teklif alın.",
     url: SITE_URL,
     type: "website",
     images: [
@@ -69,9 +70,9 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "FirmaPromosyon | Kurumsal DTF Baskı & Promosyon",
+    title: "FirmaPromosyon | Kurumsal Promosyon Ürünleri & Baskı Hizmetleri",
     description:
-      "Kurumsal DTF baskı ve promosyon ürünleri için hızlı teklif alın.",
+      "Kurumsal promosyon ürünleri, logo baskılı ürünler, UV baskı, DTF baskı, lazer baskı, tampon baskı ve nakış hizmetleri için hızlı teklif alın.",
     images: ["/og.jpg"],
   },
 
@@ -114,9 +115,11 @@ export default function RootLayout({
             name: "FirmaPromosyon",
             url: SITE_URL,
             logo: `${SITE_URL}/logo.png`,
+            email: "info@firmapromosyon.com",
             sameAs: [],
           }}
         />
+
         <JsonLd
           data={{
             "@context": "https://schema.org",
@@ -135,10 +138,52 @@ export default function RootLayout({
             <div className="grid gap-6 md:grid-cols-4">
               <div>
                 <h3 className="mb-3 text-lg font-semibold">FirmaPromosyon</h3>
-                <p className="text-sm text-white/70">
-                  Kurumsal promosyon ürünleri ve DTF baskı çözümleri için hızlı
-                  teklif alın.
+
+                <p className="mb-4 text-sm text-white/70">
+                  Kurumsal promosyon ürünleri, logo baskılı promosyon
+                  çözümleri, UV baskı, DTF baskı, lazer baskı, tampon baskı ve
+                  nakış uygulamaları ile firmalara özel profesyonel promosyon
+                  ve kurumsal hediye çözümleri sunuyoruz.
                 </p>
+
+                <div className="space-y-3 text-sm text-white/70">
+                  <div>
+                    <span className="font-medium text-white">E-Posta</span>
+                    <br />
+                    <a
+                      href="mailto:info@firmapromosyon.com"
+                      className="transition-colors hover:text-white"
+                    >
+                      info@firmapromosyon.com
+                    </a>
+                  </div>
+
+                  <div>
+                    <span className="font-medium text-white">
+                      Çalışma Saatleri
+                    </span>
+                    <br />
+                    Pazartesi - Cumartesi
+                    <br />
+                    09:00 - 18:00
+                  </div>
+
+                  <div>
+                    <span className="font-medium text-white">
+                      Baskı Hizmetleri
+                    </span>
+                    <br />
+                    UV Baskı
+                    <br />
+                    DTF Baskı
+                    <br />
+                    Lazer Baskı
+                    <br />
+                    Tampon Baskı
+                    <br />
+                    Nakış
+                  </div>
+                </div>
               </div>
 
               <div>
@@ -212,8 +257,9 @@ export default function RootLayout({
             </div>
 
             <div className="mt-10 border-t border-white/10 pt-6 text-center text-sm text-white/60">
-              © {new Date().getFullYear()} FirmaPromosyon — Tüm hakları
-              saklıdır.
+              © {new Date().getFullYear()} FirmaPromosyon — Kurumsal Promosyon
+              Ürünleri, Logo Baskılı Promosyon, UV Baskı, DTF Baskı, Lazer
+              Baskı, Tampon Baskı ve Nakış Hizmetleri. Tüm hakları saklıdır.
             </div>
           </div>
         </footer>
