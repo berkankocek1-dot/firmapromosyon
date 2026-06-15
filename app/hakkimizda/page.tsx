@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Hakkımızda | FirmaPromosyon",
+  title: "Hakkımızda | Kurumsal Promosyon Ürünleri | FirmaPromosyon",
   description:
-    "FirmaPromosyon, kurumsal promosyon ürünleri, logo baskılı çözümler ve DTF baskı hizmetleri sunan profesyonel tedarik platformudur.",
+    "FirmaPromosyon; logo baskılı promosyon ürünleri, kurumsal hediyelik çözümler, DTF, UV, lazer ve tampon baskı hizmetleri sunan profesyonel promosyon tedarik platformudur.",
   alternates: {
     canonical: "https://www.firmapromosyon.com/hakkimizda",
   },
@@ -12,59 +12,70 @@ export const metadata: Metadata = {
 export default function HakkimizdaPage() {
   return (
     <main className="mx-auto max-w-4xl px-4 py-16">
-      <h1 className="mb-6 text-3xl font-bold">Hakkımızda</h1>
+      <h1 className="mb-6 text-3xl font-bold">
+        Hakkımızda
+      </h1>
 
       <p className="mb-4">
-        FirmaPromosyon, Türkiye genelinde kurumsal firmalara özel promosyon
-        ürünleri ve logo baskılı tedarik çözümleri sunmak amacıyla kurulmuş bir
-        promosyon tedarik platformudur.
+        FirmaPromosyon, Türkiye genelindeki kurumsal firmalara özel logo
+        baskılı promosyon ürünleri, kurumsal hediyelik çözümler ve profesyonel
+        baskı hizmetleri sunan bir promosyon tedarik platformudur.
       </p>
 
       <p className="mb-4">
-        Amacımız, firmaların marka bilinirliğini artırmasına katkı sağlayan
-        promosyon ürünlerini hızlı teklif süreci, güvenilir tedarik ağı ve
-        profesyonel baskı seçenekleri ile sunmaktır.
+        Markaların tanıtım süreçlerinde daha görünür, akılda kalıcı ve
+        profesyonel bir izlenim oluşturmasına yardımcı olmak amacıyla geniş ürün
+        yelpazesi, hızlı teklif süreci ve güvenilir tedarik ağı ile hizmet
+        veriyoruz.
       </p>
 
       <p className="mb-4">
-        Promosyon kalem, promosyon kupa, promosyon anahtarlık, promosyon
-        ajanda, termos, USB bellek, çakmak, bez çanta ve daha birçok ürün
-        grubunda kurumsal ihtiyaçlara uygun çözümler sağlamaktayız.
+        Promosyon kalem, logo baskılı kupa, promosyon anahtarlık, ajanda,
+        defter, termos, USB bellek, powerbank, çakmak, bez çanta, şapka,
+        tekstil ürünleri ve VIP kurumsal hediye setleri gibi birçok kategoride
+        firmalara özel çözümler sunuyoruz.
       </p>
 
       <p className="mb-4">
-        Ürünlerimiz; fuarlar, etkinlikler, bayi toplantıları, şirket içi
-        organizasyonlar, müşteri hediyeleri ve marka tanıtım çalışmaları için
-        tercih edilmektedir.
+        Ürünlerimiz; fuarlar, bayi toplantıları, lansmanlar, şirket içi
+        organizasyonlar, müşteri hediyeleri, personel hediyeleri ve marka
+        bilinirliği çalışmalarında tercih edilmektedir.
       </p>
 
       <p className="mb-4">
-        Baskı tarafında ise DTF baskı, UV baskı, lazer baskı, tampon baskı ve
-        dijital baskı gibi farklı uygulama seçenekleri ile ürün ve ihtiyaca
-        uygun çözümler sunuyoruz.
+        Baskı uygulamalarında ürün yapısına ve kullanım amacına göre DTF baskı,
+        UV baskı, lazer baskı, tampon baskı, serigrafi baskı ve dijital baskı
+        gibi farklı teknikler ile profesyonel sonuçlar hedefliyoruz.
       </p>
 
-      <p className="mb-4">Hizmet verdiğimiz başlıca ürün grupları:</p>
+      <section className="mb-6">
+        <h2 className="mb-4 text-2xl font-semibold">
+          Hizmet Verdiğimiz Başlıca Ürün Grupları
+        </h2>
 
-      <ul className="mb-6 list-disc pl-6">
-        <li>Promosyon kalem</li>
-        <li>Promosyon kupa ve termos</li>
-        <li>Promosyon anahtarlık</li>
-        <li>Promosyon ajanda ve defter</li>
-        <li>Promosyon çakmak</li>
-        <li>USB bellek ve powerbank</li>
-        <li>DTF baskılı tekstil ürünleri</li>
-      </ul>
+        <ul className="list-disc pl-6">
+          <li>Promosyon kalem ve logo baskılı kalem modelleri</li>
+          <li>Promosyon kupa, termos ve matara çeşitleri</li>
+          <li>Promosyon anahtarlık ve metal aksesuar ürünleri</li>
+          <li>Ajanda, defter ve ofis promosyon ürünleri</li>
+          <li>Promosyon çakmak ve masaüstü ürünleri</li>
+          <li>USB bellek, powerbank ve teknolojik promosyon ürünleri</li>
+          <li>DTF baskılı tişört, şapka ve tekstil ürünleri</li>
+          <li>VIP hediye setleri ve kurumsal promosyon kutuları</li>
+        </ul>
+      </section>
 
       <p className="mb-4">
-        FirmaPromosyon olarak önceliğimiz; doğru ürünü, doğru baskı yöntemiyle,
-        doğru fiyat avantajı ile firmalara sunmaktır.
+        FirmaPromosyon olarak önceliğimiz; her firma için doğru ürünü, doğru
+        baskı tekniği ve uygun fiyat avantajı ile sunmaktır. Sipariş sürecinde
+        ürün seçimi, baskı alternatifi, fiyatlandırma ve teslimat aşamalarında
+        pratik ve kurumsal bir deneyim sağlamayı amaçlıyoruz.
       </p>
 
       <p>
-        Güvenilir iletişim, hızlı teklif süreci ve kurumsal çözümlerle
-        markaların promosyon ihtiyaçlarını tek noktadan karşılamayı
-        hedefliyoruz.
+        Güvenilir iletişim, hızlı tekliflendirme ve geniş promosyon ürün
+        seçenekleriyle markaların kurumsal tanıtım ihtiyaçlarını tek noktadan
+        karşılamayı hedefliyoruz.
       </p>
     </main>
   );
