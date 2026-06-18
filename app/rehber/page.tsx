@@ -211,6 +211,18 @@ const guides = [
     desc: "Logo baskılı promosyon anahtarlık modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.",
     image: "/guides/logo-baskili-promosyon-anahtarlik-rehberi-modeller-fiyatlar-ve-kullanim-alanlari.jpg",
   },
+  {
+  slug: "promosyon-sapka-rehberi",
+  title: "Promosyon Şapka Rehberi: Yerli Üretim Polyester, Pamuklu, Sandviç Siper ve Fileli Şapka Modelleri",
+  desc: "Promosyon şapka modelleri, yerli üretim polyester, pamuklu, sandviç siper ve fileli şapka seçenekleri ile kurumsal marka tanıtımı için kapsamlı rehber.",
+  image: "/guides/promosyon-sapka-rehberi.jpg",
+},
+{
+  slug: "promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir",
+  title: "Promosyon Termos Rehberi: Logolu Çelik, Mug ve Kahve Termosu Modelleri",
+  desc: "Promosyon termos seçerken çelik termos, mug termos, kahve termosu, baskı teknikleri ve kurumsal kullanım alanları hakkında detaylı rehber.",
+  image: "/guides/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri.jpg",
+},
 ];
 
 export const metadata: Metadata = {
