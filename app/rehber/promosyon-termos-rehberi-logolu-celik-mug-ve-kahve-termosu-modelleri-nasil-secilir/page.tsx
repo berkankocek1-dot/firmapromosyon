@@ -6,7 +6,7 @@ const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL =
   `${SITE_URL}/rehber/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir`;
 const GUIDE_IMAGE =
-  "/guides/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri.jpg";
+  "/guides/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir.jpg";
 
 export const metadata: Metadata = {
   title:
