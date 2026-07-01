@@ -10438,56 +10438,121 @@ Promosyon küp bloknot siparişleri toplu üretim olarak hazırlanmakta olup min
 {
   id: "p124",
   slug: "promosyon-yerli-uretim-polyester-sapka-sp-500",
+
   title: "Promosyon Yerli Üretim Polyester Şapka ŞP-500 | Logo Baskılı Promosyon Şapka",
+
   price: 57,
   category: "Promosyon Şapka",
 
   image: "/products/promosyon-yerli-uretim-polyester-sapka-sp-500.jpg",
 
   shortDesc:
-    "Promosyon yerli üretim polyester şapka ŞP-500 modeli 140 gr polyester kumaşı, 5 panel tasarımı, cırt bantlı ayarlanabilir yapısı ve DTF transfer baskıya uygun yüzeyi ile kurumsal promosyon şapka modelleri arasında tercih edilen ürünlerden biridir.",
+    "Promosyon yerli üretim polyester şapka ŞP-500 modeli, 140 gr polyester kumaşı, 5 panel tasarımı, cırt bantlı ayarlanabilir yapısı ve DTF transfer logo baskısına uygun yüzeyi ile kurumsal firmalar için ideal logo baskılı promosyon şapka modelidir.",
 
   longDesc: `
-Promosyon yerli üretim polyester şapka ŞP-500 modeli kurumsal tanıtım faaliyetlerinde sık tercih edilen promosyon tekstil ürünleri arasında yer almaktadır. Dayanıklı polyester kumaş yapısı ve rahat kullanım sağlayan tasarımı sayesinde hem günlük kullanım hem de tanıtım amaçlı promosyon ürün olarak kullanılabilir.
+Promosyon yerli üretim polyester şapka ŞP-500 modeli, markasını daha görünür hale getirmek isteyen firmalar için hazırlanan etkili promosyon tekstil ürünlerinden biridir. Logo baskısına uygun ön panel yapısı, hafif polyester kumaşı ve rahat kullanımı sayesinde fuar, etkinlik, personel kullanımı ve kurumsal tanıtım kampanyalarında sıkça tercih edilir.
 
-Promosyon şapka ürünleri özellikle fuarlar, açık hava etkinlikleri, spor organizasyonları, şirket tanıtımları ve kampanyalarda markaların görünürlüğünü artıran etkili promosyon ürünlerinden biridir.
+Logo baskılı promosyon şapka kullanımı, firmanızın marka bilinirliğini artırırken uzun süreli reklam etkisi sağlar. Günlük kullanımda tercih edilen bir ürün olduğu için markanız sadece etkinlik anında değil, sonrasında da görünür kalır.
 
-ŞP-500 modeli 140 gr polyester kumaştan üretilmiştir ve 5 panel tasarımına sahiptir. Şapkanın üzerinde bulunan kuş gözü detayları hava sirkülasyonu sağlayarak daha rahat bir kullanım sunar.
+ŞP-500 modeli 140 gr polyester kumaştan üretilmiştir. 5 panel tasarımı, 4 siper dikişi, 2 kuş gözü ve ayarlanabilir cırt bantlı arka kapamasıyla konforlu bir kullanım sunar. DTF transfer baskıya uygun yüzeyi sayesinde firma logosu, marka adı, slogan veya özel tasarımlar uygulanabilir.
 
-Promosyon şapka üzerine firmanıza ait logo veya marka tasarımı DTF transfer baskı yöntemi ile uygulanabilir. Bu sayede ürün hem kullanışlı bir tekstil ürünü hem de güçlü bir reklam ve marka tanıtım aracı haline gelir.
-
-Ayarlanabilir cırt bantlı arka kısmı sayesinde farklı kullanıcılar için kolayca uyum sağlayabilir.
+Promosyon ŞP-500 modeli; reklam ajansları, belediyeler, kamu kurumları, okullar, üniversiteler, fabrikalar, inşaat firmaları, turizm firmaları, organizasyon şirketleri, spor kulüpleri, oteller ve kurumsal markalar tarafından toplu promosyon şapka siparişlerinde sıklıkla tercih edilmektedir.
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Şapka  
-Kategori: Promosyon Şapka  
-Kumaş: 140 gr Polyester  
-Üretim: Yerli Üretim  
-Panel: 5 Panel Tasarım  
-Siper: 4 Siper Dikiş  
-Kuş Gözü: 2 Adet  
-Arka Kapama: Cırt Bantlı Ayarlanabilir  
+Ürün Kodu: ŞP-500
+Ürün Tipi: Promosyon Şapka
+Kategori: Promosyon Şapka
+Üretim: Yerli Üretim
+Kumaş: 140 gr Polyester
+Panel: 5 Panel
+Siper: 4 Siper Dikiş
+Kuş Gözü: 2 Adet
+Arka Kapama: Cırt Bantlı Ayarlanabilir
+Kullanım: Unisex
 
 BASKI BİLGİLERİ
 
-Baskı Türü: DTF Transfer Baskı  
-Logo Baskı: Kurumsal logo baskıya uygundur  
+Baskı Türü: DTF Transfer Baskı
+Logo Baskı: Uygundur
+Tam Renk Baskı: Uygundur
+Kurumsal Marka Baskısı: Uygundur
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik promosyonları  
-Açık hava reklam ürünleri  
-Şirket tanıtım kampanyaları  
-Spor ve organizasyon etkinlikleri  
+Promosyon şapka
+Logo baskılı şapka
+Kurumsal promosyon ürünleri
+Personel şapkası
+Fuar promosyonları
+Etkinlik şapkaları
+Spor organizasyonları
+Belediye etkinlikleri
+Şirket tanıtım kampanyaları
+Açık hava reklam ürünleri
+
+NEDEN ŞP-500 PROMOSYON ŞAPKAYI TERCİH ETMELİSİNİZ?
+
+✔ Yerli üretim kaliteli işçilik
+✔ Hafif ve rahat kullanım
+✔ 140 gr polyester kumaş
+✔ DTF transfer logo baskısına uygun yüzey
+✔ Toplu siparişlerde kurumsal kullanım avantajı
+✔ Fuar, etkinlik ve reklam kampanyaları için ideal ürün
+✔ Farklı renk seçenekleri
+✔ Marka görünürlüğünü artıran ekonomik promosyon ürünü
 
 RENK VE STOK BİLGİSİ
 
-Promosyon şapka renkleri ve stok durumu üretim dönemine göre değişiklik gösterebilir. Sipariş öncesinde stok bilgisi alınması önerilmektedir.
+ŞP-500 promosyon şapka modeli beyaz, kırmızı, lacivert, turuncu, yeşil, turkuaz ve farklı renk kombinasyonları ile üretilebilmektedir. Renk ve stok durumu dönemsel olarak değişebileceği için sipariş öncesinde güncel stok bilgisi alınması önerilir.
 
-Promosyon şapka siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
-`
+TOPLU SİPARİŞ VE FİYAT TEKLİFİ
+
+Promosyon şapka siparişleri toplu üretim olarak hazırlanır. Minimum sipariş adedi, logo baskı çalışması, üretim süresi, teslimat planı ve fiyat teklifi sipariş miktarına göre belirlenir. Büyük adetli logo baskılı promosyon şapka siparişlerinde özel fiyat avantajı sunulabilir.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon ŞP-500 polyester şapka hangi baskı yöntemine uygundur?",
+      a: "ŞP-500 promosyon şapka modeli DTF transfer baskıya uygundur. Firma logosu, marka adı, slogan veya özel tasarımlar yüksek kaliteli DTF transfer baskı ile uygulanabilir.",
+    },
+    {
+      q: "ŞP-500 promosyon şapka hangi kumaştan üretilmektedir?",
+      a: "ŞP-500 modeli 140 gram polyester kumaştan üretilmektedir. Hafif ve dayanıklı yapısı sayesinde fuarlar, etkinlikler ve günlük kullanım için uygundur.",
+    },
+    {
+      q: "ŞP-500 promosyon şapka yerli üretim midir?",
+      a: "Evet. ŞP-500 modeli yerli üretim promosyon şapkadır.",
+    },
+    {
+      q: "Promosyon şapkaya firma logosu veya marka baskısı yapılabilir mi?",
+      a: "Evet. ŞP-500 modeli üzerine firma logosu, marka adı, slogan ve kurumsal tasarımlar DTF transfer baskı yöntemiyle uygulanabilir.",
+    },
+    {
+      q: "Promosyon ŞP-500 şapka hangi alanlarda kullanılır?",
+      a: "Fuarlar, açık hava etkinlikleri, spor organizasyonları, belediye etkinlikleri, şirket tanıtımları, bayi toplantıları, personel kullanımı ve reklam kampanyalarında tercih edilir.",
+    },
+    {
+      q: "Promosyon şapkada hangi renk seçenekleri vardır?",
+      a: "Beyaz, kırmızı, lacivert, turuncu, yeşil, turkuaz ve stok durumuna göre farklı renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Toplu promosyon şapka siparişlerinde özel fiyat uygulanır mı?",
+      a: "Evet. Sipariş adedi arttıkça kurumsal firmalara özel fiyat avantajı sunulabilir.",
+    },
+    {
+      q: "Promosyon şapka minimum sipariş adedi kaçtır?",
+      a: "Minimum sipariş adedi üretim planına, baskı detayına ve stok durumuna göre değişmektedir. Güncel bilgi için teklif alabilirsiniz.",
+    },
+    {
+      q: "ŞP-500 promosyon şapka yaz aylarında kullanıma uygun mudur?",
+      a: "Evet. 140 gram polyester kumaşı hafif yapısıyla yaz aylarında rahat kullanım sağlar. Kuş gözü detayları kullanım konforunu artırır.",
+    },
+    {
+      q: "Promosyon şapka fiyatları neye göre belirlenir?",
+      a: "Promosyon şapka fiyatları sipariş adedi, baskı uygulaması, renk seçeneği ve üretim detaylarına göre değişiklik gösterebilir.",
+    },
+  ],
 },
 {
   id: "p125",
@@ -10536,73 +10601,163 @@ Promosyon masa seti siparişleri toplu üretim olarak hazırlanmakta olup minimu
 {
   id: "p126",
   slug: "promosyon-penye-bisiklet-yaka-tshirt-pn-100",
-  title: "Promosyon Penye Bisiklet Yaka T-shirt PN-100 | Logo Baskılı Promosyon Tişört",
+
+  title:
+    "Promosyon Penye Bisiklet Yaka Tişört PN-100 | Logo Baskılı Promosyon Tişört",
+
   price: 170,
+
   category: "Promosyon Tişört",
 
   image: "/products/promosyon-penye-bisiklet-yaka-tshirt-pn-100.jpg",
 
   shortDesc:
-    "Promosyon penye bisiklet yaka t-shirt PN-100 modeli %100 pamuk 160 gr penye kumaşı, rahat kalıbı ve DTF transfer baskıya uygun yapısı ile kurumsal promosyon tişört modelleri arasında tercih edilen ürünlerden biridir.",
+    "Promosyon penye bisiklet yaka tişört PN-100 modeli, %100 pamuk 160 gr Suprem kumaşı, bisiklet yaka tasarımı, rahat kalıbı ve DTF transfer baskıya uygun yapısı sayesinde personel kıyafetleri, fuarlar, organizasyonlar ve kurumsal tanıtımlar için tercih edilen logo baskılı promosyon tişört modellerinden biridir.",
 
   longDesc: `
-Promosyon penye bisiklet yaka t-shirt PN-100 modeli %100 pamuk penye kumaşı ve rahat kalıbı ile promosyon tekstil ürünleri arasında sık tercih edilen modellerden biridir. Günlük kullanıma uygun yapısı sayesinde hem çalışan kıyafeti hem de marka tanıtım ürünü olarak kullanılabilir.
+Promosyon penye bisiklet yaka tişört PN-100 modeli, kaliteli %100 pamuk Suprem kumaşı ve konforlu yapısıyla kurumsal tekstil ürünleri arasında en çok tercih edilen promosyon tişört modellerinden biridir. Günlük kullanıma uygun tasarımı sayesinde hem çalışan kıyafeti hem de marka tanıtım ürünü olarak uzun süre kullanılabilmektedir.
 
-Promosyon tişört ürünleri özellikle fuarlar, etkinlikler, organizasyonlar, şirket kampanyaları ve tanıtım faaliyetlerinde markaların görünürlüğünü artıran güçlü promosyon ürünleri arasında yer almaktadır.
+Logo baskılı promosyon tişörtler; fuarlar, açık hava etkinlikleri, şirket organizasyonları, spor etkinlikleri, lansmanlar, reklam kampanyaları, personel kullanımı ve kurumsal tanıtım faaliyetlerinde markaların görünürlüğünü artıran en etkili promosyon tekstil ürünleri arasında yer almaktadır.
 
-PN-100 modeli 160 gr (Suprem) penye kumaştan üretilmektedir. Yumuşak dokusu sayesinde kullanıcıya rahat bir kullanım sunar. Bisiklet yaka tasarımı ve tüp model üretim yapısı ile modern ve konforlu bir kullanım sağlar.
+PN-100 modeli %100 pamuk 160 gram Suprem kumaştan üretilmektedir. Yumuşak dokusu sayesinde gün boyu rahat kullanım sunarken nefes alabilen yapısıyla sıcak havalarda da konfor sağlamaktadır. Kaliteli kumaşı sayesinde uzun süre formunu koruyarak kurumsal kullanımlar için ideal bir çözüm sunmaktadır.
 
-Promosyon tişört üzerine firmanıza ait logo veya tasarım DTF transfer baskı yöntemi ile uygulanabilir. Bu sayede ürün hem kullanışlı bir tekstil ürünü hem de etkili bir reklam aracı haline gelir.
+Bisiklet yaka tasarımı modern ve sade bir görünüm sunarken tüp model üretim yapısı sayesinde rahat bir kullanım sağlamaktadır. Ön ve arka yüzeyine firma logosu, marka adı, slogan veya kurumsal tasarımlar DTF transfer baskı yöntemiyle uygulanabilmektedir.
 
-Promosyon tişörtler özellikle kurumsal firmalar, etkinlik organizasyonları, spor etkinlikleri, promosyon kampanyaları ve fuar organizasyonlarında yoğun şekilde tercih edilmektedir.
+Logo baskılı promosyon tişörtler, markanızı yalnızca etkinlik sırasında değil günlük kullanımda da görünür kılar. Bu sayede uzun süre reklam etkisi sağlayarak kurumsal kimliğinizi güçlendiren etkili bir promosyon ürünü haline gelir.
+
+PN-100 modeli özellikle reklam ajansları, belediyeler, kamu kurumları, fabrikalar, eğitim kurumları, spor kulüpleri, organizasyon şirketleri, oteller, restoranlar, kafeler, perakende mağazaları ve kurumsal firmalar tarafından toplu promosyon tişört siparişlerinde tercih edilmektedir.
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Tişört  
-Kategori: Promosyon Tişört  
-Kumaş: %100 Pamuk Penye  
-Kumaş Gramajı: 160 gr (Suprem)  
-Model: Tüp Model  
-Yaka Tipi: Bisiklet Yaka  
+Ürün Kodu: PN-100
+
+Ürün Tipi: Promosyon Tişört
+
+Kategori: Promosyon Tişört
+
+Üretim: Yerli Üretim
+
+Kumaş: %100 Pamuk Suprem
+
+Gramaj: 160 gr
+
+Model: Tüp Model
+
+Yaka Tipi: Bisiklet Yaka
+
+Kullanım: Unisex
 
 BEDEN SEÇENEKLERİ
 
-S  
-M  
-L  
-XL  
+S • M • L • XL
 
 RENK SEÇENEKLERİ
 
-Beyaz  
-Siyah  
-Kırmızı  
-Lacivert  
-Gri  
-Saks Mavi  
-Turkuaz  
-Turuncu  
-Sarı  
+Beyaz • Siyah • Gri • Kırmızı • Lacivert • Saks Mavi • Turkuaz • Turuncu • Sarı
 
-BASKI BİLGİLERİ
+BASKI ÖZELLİKLERİ
 
-Baskı Türü: DTF Transfer Baskı  
-Logo Baskı: Kurumsal logo baskıya uygundur  
+Baskı Türü: DTF Transfer Baskı
+
+Kurumsal Logo Baskısı: Uygundur
+
+Tam Renk Baskı: Uygundur
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik promosyonları  
-Şirket tanıtım kampanyaları  
-Organizasyon ve etkinlik tişörtleri  
-Marka tanıtım ürünleri  
+• Promosyon tişört
+
+• Logo baskılı tişört
+
+• Personel tişörtü
+
+• Kurumsal promosyon ürünleri
+
+• Fuar organizasyonları
+
+• Reklam kampanyaları
+
+• Etkinlik tişörtü
+
+• Spor organizasyonları
+
+• Şirket tanıtımları
+
+• Marka lansmanları
+
+NEDEN PN-100 PROMOSYON TİŞÖRTÜ TERCİH ETMELİSİNİZ?
+
+✔ %100 pamuk Suprem kumaş
+
+✔ 160 gr kaliteli yapı
+
+✔ Yumuşak ve konforlu kullanım
+
+✔ Nefes alabilen kumaş
+
+✔ Bisiklet yaka modern tasarım
+
+✔ DTF transfer baskıya uygun
+
+✔ Kurumsal logo uygulamalarına uygun
+
+✔ Yerli üretim kaliteli işçilik
+
+✔ Toplu sipariş avantajı
+
+✔ Uzun ömürlü kullanım
 
 RENK VE STOK BİLGİSİ
 
-Promosyon tişört ürünlerinde renk ve beden seçenekleri stok durumuna göre değişiklik gösterebilir. Sipariş öncesinde stok bilgisi alınması önerilmektedir.
+PN-100 modeli beyaz, siyah, gri, kırmızı, lacivert, saks mavi, turkuaz, turuncu ve sarı başta olmak üzere farklı renk seçenekleriyle üretilebilmektedir. Renk ve beden stokları dönemsel olarak değişebileceği için sipariş öncesinde güncel bilgi alınması önerilir.
 
-Promosyon tişört siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
-`
+TOPLU SİPARİŞ
+
+Promosyon tişört siparişleri toplu üretim olarak hazırlanmaktadır. Minimum sipariş miktarı, baskı alanı, üretim planlaması ve teslim süresi sipariş adedine göre belirlenmektedir. Büyük adetli kurumsal siparişlerde özel fiyat avantajları sunulmaktadır.
+`.trim(),
+
+  faq: [
+    {
+      q: "PN-100 promosyon tişört hangi baskı yöntemine uygundur?",
+      a: "PN-100 modeli DTF transfer baskıya uygundur. Firma logosu, marka adı, slogan ve kurumsal tasarımlar yüksek kaliteli şekilde uygulanabilmektedir.",
+    },
+    {
+      q: "PN-100 modeli hangi kumaştan üretilmektedir?",
+      a: "%100 pamuk 160 gram Suprem kumaştan üretilmektedir. Yumuşak dokusu ve nefes alabilen yapısıyla gün boyu konfor sağlar.",
+    },
+    {
+      q: "Promosyon tişört yerli üretim midir?",
+      a: "Evet. PN-100 modeli yerli üretim promosyon tişörtüdür.",
+    },
+    {
+      q: "Logo baskılı promosyon tişört siparişi verebilir miyim?",
+      a: "Evet. Firma logosu, marka adı ve kurumsal tasarımlar DTF transfer baskı yöntemiyle uygulanabilmektedir.",
+    },
+    {
+      q: "Promosyon tişört hangi alanlarda kullanılmaktadır?",
+      a: "Fuarlar, organizasyonlar, personel kıyafetleri, reklam kampanyaları, spor etkinlikleri, lansmanlar ve kurumsal tanıtımlarda kullanılmaktadır.",
+    },
+    {
+      q: "PN-100 modelinde hangi bedenler bulunmaktadır?",
+      a: "S, M, L ve XL beden seçenekleri bulunmaktadır. Farklı bedenler stok durumuna göre sunulmaktadır.",
+    },
+    {
+      q: "Promosyon tişört hangi renklerde üretilmektedir?",
+      a: "Beyaz, siyah, gri, kırmızı, lacivert, saks mavi, turkuaz, turuncu ve sarı başta olmak üzere farklı renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Toplu promosyon tişört siparişlerinde fiyat avantajı var mı?",
+      a: "Evet. Sipariş miktarı arttıkça kurumsal firmalara özel fiyat avantajları sunulmaktadır.",
+    },
+    {
+      q: "Promosyon tişört minimum sipariş adedi kaçtır?",
+      a: "Minimum sipariş miktarı üretim planına ve baskı detaylarına göre değişmektedir. Güncel bilgi için bizimle iletişime geçebilirsiniz.",
+    },
+    {
+      q: "PN-100 modelinin öne çıkan avantajları nelerdir?",
+      a: "Kaliteli %100 pamuk Suprem kumaşı, 160 gram yapısı, bisiklet yaka tasarımı, DTF transfer baskıya uygun yüzeyi ve uzun ömürlü kullanımı sayesinde en çok tercih edilen promosyon tişört modellerinden biridir.",
+    },
+  ],
 },
 {
   id: "p127",
@@ -16155,250 +16310,642 @@ Reklam ve marka tanıtım çalışmaları
 {
   id: "p201",
   slug: "promosyon-polyester-sapka-sp-600",
-  title: "Promosyon Yerli Üretim Polyester Şapka ŞP-600 | Logo Baskılı Promosyon Şapka",
+
+  title:
+    "Promosyon Yerli Üretim Polyester Şapka ŞP-600 | Logo Baskılı Promosyon Şapka",
+
   price: 57,
+
   category: "Promosyon Şapka",
+
   image: "/products/promosyon-polyester-sapka-sp-600.jpg",
 
   shortDesc:
-    "Promosyon yerli üretim polyester şapka ŞP-600 modeli dayanıklı kumaş yapısı ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon şapka modelleri arasında tercih edilen promosyon ürünlerinden biridir.",
+    "Promosyon yerli üretim polyester şapka ŞP-600 modeli, 140 gr kaliteli polyester kumaşı, 5 panel tasarımı, ayarlanabilir cırt bantlı yapısı ve DTF transfer baskıya uygun geniş ön yüzeyi ile fuarlar, kurumsal etkinlikler, personel kullanımı ve reklam kampanyaları için tercih edilen logo baskılı promosyon şapka modellerinden biridir.",
 
   longDesc: `
-Promosyon yerli üretim polyester şapka ŞP-600 modeli fuarlar, etkinlikler ve reklam kampanyaları için sık tercih edilen promosyon şapka ürünleri arasında yer almaktadır.
+Promosyon yerli üretim polyester şapka ŞP-600 modeli, markasını daha fazla kişiye ulaştırmak isteyen firmalar için geliştirilen profesyonel promosyon tekstil ürünlerinden biridir. Dayanıklı polyester kumaşı, modern görünümü ve geniş baskı alanı sayesinde uzun süre kullanılabilen etkili bir reklam ürünü olarak öne çıkmaktadır.
 
-Promosyon şapkalar marka tanıtımı için oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın markası etkinliklerde, organizasyonlarda ve günlük kullanımda geniş kitleler tarafından görülebilir.
+Logo baskılı promosyon şapkalar; fuarlar, açık hava organizasyonları, lansmanlar, bayi toplantıları, spor etkinlikleri, personel kıyafetleri ve kurumsal tanıtım faaliyetlerinde markaların görünürlüğünü artıran en etkili promosyon ürünleri arasında yer almaktadır.
 
-140 gr polyester kumaş kullanılarak üretilen bu promosyon şapka modeli hafif ve dayanıklı yapısı sayesinde uzun süreli kullanım sunmaktadır. Yerli üretim olması sayesinde hızlı üretim ve tedarik avantajı sağlar.
+ŞP-600 modeli 140 gram kaliteli polyester kumaştan üretilmektedir. Hafif yapısı sayesinde gün boyu konforlu kullanım sunarken sağlam kumaşı sayesinde uzun süre formunu korumaktadır. Ön yüzeyinde bulunan geniş baskı alanı DTF transfer baskıya uygun olarak tasarlanmıştır.
 
-5 panel tasarıma sahip olan promosyon şapka modeli ön yüzeyinde logo baskı uygulaması için geniş bir alan sunmaktadır. Şapka üzerinde kullanılan DTF transfer baskı yöntemi sayesinde logolar net ve kaliteli şekilde uygulanabilmektedir.
+Firma logosu, marka adı, slogan veya özel tasarımlar DTF transfer baskı teknolojisi sayesinde canlı renkler ve yüksek çözünürlükte uygulanabilmektedir. Böylece promosyon şapka sadece kullanışlı bir tekstil ürünü değil aynı zamanda markanızı sürekli görünür kılan etkili bir reklam aracına dönüşmektedir.
 
-Ayarlanabilir cırt bantlı arka yapısı sayesinde farklı baş ölçülerine uyum sağlar.
+5 panel tasarımı modern ve estetik bir görünüm sunarken, 2 adet kuş gözü hava dolaşımını desteklemektedir. Ayarlanabilir cırt bantlı arka kapama sistemi farklı baş ölçülerine kolayca uyum sağlamaktadır.
+
+ŞP-600 modeli özellikle reklam ajansları, belediyeler, kamu kurumları, fabrikalar, eğitim kurumları, spor kulüpleri, organizasyon şirketleri, oteller, turizm firmaları ve kurumsal markalar tarafından toplu promosyon şapka siparişlerinde sıklıkla tercih edilmektedir.
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Şapka  
-Kategori: Promosyon Şapka  
+Ürün Kodu: ŞP-600
 
-Kumaş: 140 gr Polyester Kumaş  
-Panel: 5 Panel  
+Ürün Tipi: Promosyon Şapka
 
-Havalandırma: 2 Kuş Gözü  
-Siper: 4 Dikişli Siper  
+Kategori: Promosyon Şapka
 
-Ayarlama: Cırt Bantlı  
+Üretim: Yerli Üretim
 
-Baskı Türü: DTF Transfer Baskı  
+Kumaş: 140 gr Polyester
 
-STOK VE SİPARİŞ BİLGİSİ
+Panel: 5 Panel
 
-Promosyon şapka siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+Siper: 4 Dikişli Siper
 
-Sipariş vermeden önce **güncel stok durumu, baskı seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+Hava Deliği: 2 Kuş Gözü
 
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+Arka Kapama: Ayarlanabilir Cırt Bant
+
+Kullanım: Unisex
+
+BASKI ÖZELLİKLERİ
+
+Baskı Türü: DTF Transfer Baskı
+
+Logo Baskısı: Uygundur
+
+Kurumsal Logo Baskısı: Uygundur
+
+Tam Renk Baskı: Uygundur
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik promosyonları  
-Reklam ve marka tanıtım kampanyaları  
-Outdoor etkinlikleri  
-Şirket organizasyonları
-`
+• Promosyon şapka
+
+• Logo baskılı şapka
+
+• Kurumsal promosyon ürünleri
+
+• Personel şapkası
+
+• Fuar promosyonları
+
+• Şirket organizasyonları
+
+• Spor etkinlikleri
+
+• Belediye etkinlikleri
+
+• Marka tanıtım kampanyaları
+
+• Açık hava reklam faaliyetleri
+
+NEDEN ŞP-600 PROMOSYON ŞAPKAYI TERCİH ETMELİSİNİZ?
+
+✔ Yerli üretim kaliteli işçilik
+
+✔ Dayanıklı 140 gr polyester kumaş
+
+✔ DTF transfer baskıya uygun geniş ön yüzey
+
+✔ Hafif ve konforlu kullanım
+
+✔ Ayarlanabilir cırt bant
+
+✔ 5 panel modern tasarım
+
+✔ Kurumsal logo uygulamalarına uygun
+
+✔ Toplu sipariş avantajı
+
+✔ Reklam değeri yüksek promosyon ürünü
+
+✔ Uzun ömürlü kullanım
+
+RENK VE STOK BİLGİSİ
+
+ŞP-600 modeli siyah, lacivert, mavi, gri, kırmızı, turuncu, yeşil, turkuaz, bej ve dönemsel olarak farklı renk seçenekleriyle üretilebilmektedir. Güncel stok durumu sipariş öncesinde teyit edilmelidir.
+
+TOPLU SİPARİŞ
+
+Promosyon şapka siparişleri toplu üretim olarak hazırlanmaktadır. Minimum sipariş miktarı, baskı çalışması, üretim planlaması ve teslim süresi sipariş adedine göre belirlenmektedir. Büyük adetli siparişlerde özel fiyat avantajları sunulmaktadır.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon ŞP-600 polyester şapka hangi baskı yöntemine uygundur?",
+      a: "ŞP-600 modeli DTF transfer baskıya uygundur. Firma logosu, marka adı ve kurumsal tasarımlar yüksek kaliteli baskı ile uygulanabilmektedir.",
+    },
+    {
+      q: "ŞP-600 promosyon şapka hangi kumaştan üretilmektedir?",
+      a: "ŞP-600 modeli 140 gram kaliteli polyester kumaştan üretilmektedir. Hafif ve dayanıklı yapısı sayesinde uzun süre kullanılabilir.",
+    },
+    {
+      q: "ŞP-600 promosyon şapka yerli üretim midir?",
+      a: "Evet. ŞP-600 modeli yerli üretim promosyon şapkadır.",
+    },
+    {
+      q: "Promosyon şapkaya firma logosu basılabilir mi?",
+      a: "Evet. Firma logosu, marka adı, slogan ve kurumsal tasarımlar DTF transfer baskı yöntemiyle uygulanabilir.",
+    },
+    {
+      q: "Promosyon ŞP-600 hangi alanlarda kullanılmaktadır?",
+      a: "Fuarlar, şirket organizasyonları, açık hava etkinlikleri, personel kullanımı, spor organizasyonları ve reklam kampanyalarında kullanılmaktadır.",
+    },
+    {
+      q: "Promosyon şapkada hangi renk seçenekleri bulunmaktadır?",
+      a: "Siyah, lacivert, mavi, gri, kırmızı, turuncu, yeşil, turkuaz ve bej başta olmak üzere stok durumuna göre farklı renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Toplu promosyon şapka siparişlerinde fiyat avantajı sunuluyor mu?",
+      a: "Evet. Sipariş miktarına göre kurumsal firmalara özel fiyat avantajları sunulmaktadır.",
+    },
+    {
+      q: "Promosyon şapka minimum sipariş adedi kaçtır?",
+      a: "Minimum sipariş miktarı üretim planına ve baskı detaylarına göre değişmektedir. Güncel bilgi için teklif alabilirsiniz.",
+    },
+    {
+      q: "ŞP-600 yaz aylarında kullanıma uygun mudur?",
+      a: "Evet. Hafif polyester kumaşı ve hava dolaşımını destekleyen kuş gözü detayları sayesinde yaz aylarında konforlu kullanım sağlar.",
+    },
+    {
+      q: "ŞP-600 promosyon şapkanın öne çıkan avantajları nelerdir?",
+      a: "Yerli üretim olması, kaliteli polyester kumaşı, geniş baskı alanı, ayarlanabilir cırt bantlı yapısı ve DTF transfer baskıya uygun yüzeyi sayesinde en çok tercih edilen promosyon şapka modellerinden biridir.",
+    },
+  ],
 },
 {
   id: "p202",
   slug: "promosyon-pamuklu-sapka-sp-650",
-  title: "Promosyon Yerli Üretim Pamuklu Şapka ŞP-650 | Logo Baskılı Promosyon Şapka",
+
+  title:
+    "Promosyon Yerli Üretim Pamuklu Şapka ŞP-650 | Logo Baskılı Promosyon Şapka",
+
   price: 100,
+
   category: "Promosyon Şapka",
+
   image: "/products/promosyon-pamuklu-sapka-sp-650.jpg",
 
   shortDesc:
-    "Promosyon yerli üretim pamuklu şapka ŞP-650 modeli gabardin kumaş yapısı ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon şapka modelleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+    "Promosyon yerli üretim pamuklu şapka ŞP-650 modeli, kaliteli gabardin kumaşı, 5 panel tasarımı, ayarlanabilir cırt bantlı yapısı ve nakış ile DTF transfer baskıya uygun geniş ön yüzeyi sayesinde kurumsal firmalar tarafından tercih edilen logo baskılı promosyon şapka modellerinden biridir.",
 
   longDesc: `
-Promosyon yerli üretim pamuklu şapka ŞP-650 modeli fuarlar, etkinlikler ve reklam kampanyalarında sık tercih edilen promosyon şapka ürünleri arasında yer almaktadır.
+Promosyon yerli üretim pamuklu şapka ŞP-650 modeli, kaliteli gabardin kumaşı ve profesyonel görünümü sayesinde kurumsal tanıtımlarda tercih edilen premium promosyon şapka modelleri arasında yer almaktadır. Günlük kullanıma uygun yapısı sayesinde markanızı uzun süre görünür kılan etkili promosyon tekstil ürünlerinden biridir.
 
-Promosyon şapkalar marka tanıtımı açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı veya nakış sayesinde firmanızın markası geniş kitleler tarafından görünür hale gelir.
+Logo baskılı promosyon şapkalar; fuarlar, şirket organizasyonları, bayi toplantıları, açık hava etkinlikleri, spor organizasyonları, reklam kampanyaları ve personel kıyafetlerinde en çok tercih edilen kurumsal promosyon ürünleri arasında bulunmaktadır.
 
-16 x 12 pamuklu gabardin kumaş kullanılarak üretilen bu promosyon şapka modeli hem dayanıklı hem de konforlu bir kullanım sunmaktadır. Pamuklu kumaş yapısı sayesinde terletmeyen ve rahat bir kullanım sağlar.
+ŞP-650 modeli 16 x 12 ölçülerinde kaliteli pamuklu gabardin kumaştan üretilmektedir. Pamuklu yapısı sayesinde nefes alabilir özellik sunarken uzun süreli kullanımlarda konfor sağlamaktadır. Dayanıklı kumaşı sayesinde formunu koruyarak uzun ömürlü kullanım avantajı sunmaktadır.
 
-5 panel tasarıma sahip olan promosyon şapka modeli ön yüzeyinde logo uygulaması için geniş bir baskı alanı sunmaktadır. Logo uygulaması nakış veya DTF transfer baskı yöntemi ile yapılabilmektedir.
+Ön yüzeyinde bulunan geniş baskı alanı sayesinde firma logosu, marka adı, slogan veya özel tasarımlar yüksek kaliteli nakış ya da DTF transfer baskı yöntemi ile uygulanabilmektedir. Nakış uygulaması özellikle kurumsal firmalar tarafından şık ve prestijli görünümü nedeniyle sıklıkla tercih edilmektedir.
 
-Ayarlanabilir cırt bantlı arka yapısı sayesinde farklı baş ölçülerine kolayca uyum sağlar. Yerli üretim olması sayesinde hızlı üretim ve tedarik avantajı sunmaktadır.
+5 panel tasarımı modern bir görünüm sunarken 2 adet kuş gözü hava dolaşımını desteklemektedir. Ayarlanabilir cırt bantlı arka kapama sistemi farklı baş ölçülerine kolayca uyum sağlayarak rahat kullanım imkanı sunmaktadır.
+
+ŞP-650 modeli reklam ajansları, belediyeler, kamu kurumları, fabrikalar, üniversiteler, okullar, spor kulüpleri, organizasyon şirketleri, oteller, turizm firmaları ve kurumsal markalar tarafından toplu promosyon şapka siparişlerinde tercih edilmektedir.
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Şapka  
-Kategori: Promosyon Şapka  
+Ürün Kodu: ŞP-650
 
-Kumaş: Pamuklu Gabardin Kumaş  
-Kumaş Ölçüsü: 16 x 12  
+Ürün Tipi: Promosyon Şapka
 
-Panel: 5 Panel  
+Kategori: Promosyon Şapka
 
-Havalandırma: 2 Kuş Gözü  
+Üretim: Yerli Üretim
 
-Ayarlama: Cırt Bantlı  
+Kumaş: Pamuklu Gabardin Kumaş
 
-Baskı Türü: Nakış / DTF Transfer Baskı  
+Kumaş Ölçüsü: 16 x 12
 
-Üretim: Yerli Üretim  
+Panel: 5 Panel
 
-STOK VE SİPARİŞ BİLGİSİ
+Hava Deliği: 2 Kuş Gözü
 
-Promosyon şapka siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Ürünler isteğe özel üretim yapılabilmektedir ve güncel stok durumu üretim planına göre değişiklik gösterebilir.
+Arka Kapama: Ayarlanabilir Cırt Bant
 
-Sipariş vermeden önce **güncel stok durumu, üretim süresi ve baskı seçenekleri için bizimle iletişime geçmeniz önerilir.**
+Kullanım: Unisex
 
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+BASKI ÖZELLİKLERİ
+
+Baskı Türü: Nakış
+
+Alternatif Baskı: DTF Transfer Baskı
+
+Kurumsal Logo Baskısı: Uygundur
+
+Tam Renk Baskı: Uygundur
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik promosyonları  
-Reklam ve marka tanıtım kampanyaları  
-Outdoor etkinlikleri  
-Şirket organizasyonları
-`
+• Promosyon şapka
+
+• Logo baskılı şapka
+
+• Nakışlı promosyon şapka
+
+• Personel şapkası
+
+• Kurumsal promosyon ürünleri
+
+• Fuar promosyonları
+
+• Şirket organizasyonları
+
+• Spor etkinlikleri
+
+• Belediye etkinlikleri
+
+• Reklam kampanyaları
+
+NEDEN ŞP-650 PROMOSYON ŞAPKAYI TERCİH ETMELİSİNİZ?
+
+✔ Kaliteli pamuklu gabardin kumaş
+
+✔ Yerli üretim kaliteli işçilik
+
+✔ Nakış ve DTF transfer baskıya uygun
+
+✔ Konforlu kullanım
+
+✔ Dayanıklı yapı
+
+✔ Ayarlanabilir cırt bant
+
+✔ Profesyonel kurumsal görünüm
+
+✔ Toplu sipariş avantajı
+
+✔ Reklam değeri yüksek promosyon ürünü
+
+✔ Uzun ömürlü kullanım
+
+RENK VE STOK BİLGİSİ
+
+ŞP-650 modeli siyah, beyaz, lacivert, gri, kırmızı, turuncu, yeşil, bej ve dönemsel olarak farklı renk seçenekleriyle üretilebilmektedir. Güncel stok durumu sipariş öncesinde teyit edilmelidir.
+
+TOPLU SİPARİŞ
+
+Promosyon şapka siparişleri toplu üretim olarak hazırlanmaktadır. Minimum sipariş miktarı, logo çalışması, nakış veya baskı yöntemi, üretim planlaması ve teslim süresi sipariş adedine göre belirlenmektedir. Büyük adetli kurumsal siparişlerde özel fiyat avantajları sunulmaktadır.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon ŞP-650 pamuklu şapka hangi baskı yöntemlerine uygundur?",
+      a: "ŞP-650 modeli hem nakış hem de DTF transfer baskıya uygundur. Firma logosu, marka adı ve kurumsal tasarımlar profesyonel şekilde uygulanabilmektedir.",
+    },
+    {
+      q: "ŞP-650 modeli hangi kumaştan üretilmektedir?",
+      a: "ŞP-650 modeli kaliteli pamuklu gabardin kumaştan üretilmektedir. Nefes alabilen yapısı sayesinde konforlu kullanım sunmaktadır.",
+    },
+    {
+      q: "ŞP-650 promosyon şapka yerli üretim midir?",
+      a: "Evet. ŞP-650 modeli yerli üretim promosyon şapkadır.",
+    },
+    {
+      q: "Promosyon şapkaya nakış logo uygulanabilir mi?",
+      a: "Evet. ŞP-650 modeli nakış logo uygulaması için uygundur. İsteğe bağlı olarak DTF transfer baskı da uygulanabilmektedir.",
+    },
+    {
+      q: "Promosyon ŞP-650 hangi alanlarda kullanılmaktadır?",
+      a: "Fuarlar, şirket organizasyonları, açık hava etkinlikleri, personel kıyafetleri, reklam kampanyaları, spor organizasyonları ve kurumsal etkinliklerde kullanılmaktadır.",
+    },
+    {
+      q: "ŞP-650 modelinde hangi renk seçenekleri bulunmaktadır?",
+      a: "Siyah, beyaz, lacivert, gri, kırmızı, turuncu, yeşil ve bej başta olmak üzere stok durumuna göre farklı renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Toplu promosyon şapka siparişlerinde fiyat avantajı var mı?",
+      a: "Evet. Sipariş miktarına göre kurumsal firmalara özel fiyat avantajları sunulmaktadır.",
+    },
+    {
+      q: "Promosyon şapka minimum sipariş adedi kaçtır?",
+      a: "Minimum sipariş miktarı üretim planına ve baskı detaylarına göre değişmektedir. Güncel bilgi için teklif alabilirsiniz.",
+    },
+    {
+      q: "Pamuklu gabardin şapka yaz aylarında kullanıma uygun mudur?",
+      a: "Evet. Pamuklu gabardin kumaşı nefes alabilir yapısı sayesinde yaz aylarında rahat kullanım sunmaktadır.",
+    },
+    {
+      q: "ŞP-650 modelinin öne çıkan avantajları nelerdir?",
+      a: "Kaliteli pamuklu gabardin kumaşı, nakış ve DTF transfer baskıya uygun olması, yerli üretim yapısı, profesyonel görünümü ve uzun ömürlü kullanımı sayesinde en çok tercih edilen promosyon şapka modellerinden biridir.",
+    },
+  ],
 },
 {
   id: "p203",
   slug: "promosyon-pamuklu-sandvic-siper-sapka-sp-700",
-  title: "Promosyon Yerli Üretim Pamuklu Sandviç Siper Şapka ŞP-700 | Logo Baskılı Promosyon Şapka",
+
+  title:
+    "Promosyon Yerli Üretim Pamuklu Sandviç Siper Şapka ŞP-700 | Logo Baskılı Promosyon Şapka",
+
   price: 105,
+
   category: "Promosyon Şapka",
+
   image: "/products/promosyon-pamuklu-sandvic-siper-sapka-sp-700.jpg",
 
   shortDesc:
-    "Promosyon yerli üretim pamuklu sandviç siper şapka ŞP-700 modeli gabardin kumaş yapısı, sandviç siper tasarımı ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon şapka modelleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+    "Promosyon yerli üretim pamuklu sandviç siper şapka ŞP-700 modeli, kaliteli pamuklu gabardin kumaşı, şık sandviç siper tasarımı, ayarlanabilir cırt bantlı yapısı ve nakış ile DTF transfer baskıya uygun geniş ön yüzeyi sayesinde kurumsal firmalar tarafından tercih edilen premium logo baskılı promosyon şapka modellerinden biridir.",
 
   longDesc: `
-Promosyon yerli üretim pamuklu sandviç siper şapka ŞP-700 modeli fuarlar, etkinlikler ve reklam kampanyalarında sık tercih edilen promosyon şapka ürünleri arasında yer almaktadır.
+Promosyon yerli üretim pamuklu sandviç siper şapka ŞP-700 modeli, modern görünümü ve kaliteli pamuklu gabardin kumaşı sayesinde kurumsal promosyon ürünleri arasında öne çıkan premium şapka modellerinden biridir. Günlük kullanıma uygun yapısı, konforlu tasarımı ve profesyonel görünümü sayesinde markanızı uzun süre görünür kılan etkili bir reklam ürünüdür.
 
-Promosyon şapkalar marka tanıtımı açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı veya nakış sayesinde firmanızın markası etkinliklerde, organizasyonlarda ve günlük kullanımda geniş kitleler tarafından görülebilir.
+Logo baskılı promosyon şapkalar; fuarlar, şirket organizasyonları, açık hava etkinlikleri, bayi toplantıları, spor organizasyonları, lansmanlar, personel kıyafetleri ve reklam kampanyalarında en çok tercih edilen promosyon tekstil ürünleri arasında yer almaktadır.
 
-16 x 12 pamuklu gabardin kumaş kullanılarak üretilen bu promosyon şapka modeli hem dayanıklı hem de konforlu bir kullanım sunmaktadır. Pamuklu kumaş yapısı sayesinde terletmeyen ve rahat bir kullanım sağlar.
+ŞP-700 modeli kaliteli pamuklu gabardin kumaştan üretilmektedir. Pamuklu kumaş yapısı nefes alabilir özellik sunarken uzun süreli kullanımlarda konfor sağlamaktadır. Dayanıklı yapısı sayesinde formunu uzun süre koruyarak kurumsal kullanımlar için ideal bir çözüm sunmaktadır.
 
-Sandviç siper tasarımı şapkaya daha sportif ve modern bir görünüm kazandırmaktadır. Bu tasarım özellikle kurumsal promosyon ürünlerinde dikkat çekici bir görünüm sunar.
+Bu modeli diğer promosyon şapkalardan ayıran en önemli özellik sandviç siper tasarımıdır. Siper bölümünde bulunan kontrast renk detayı ürüne daha sportif, modern ve prestijli bir görünüm kazandırmaktadır. Özellikle kurumsal markalar tarafından dikkat çekici tasarımı nedeniyle tercih edilmektedir.
 
-5 panel tasarıma sahip olan promosyon şapka modeli ön yüzeyinde logo uygulaması için geniş bir baskı alanı sunmaktadır. Logo uygulaması nakış veya DTF transfer baskı yöntemi ile yapılabilmektedir.
+Ön yüzeyinde bulunan geniş baskı alanı sayesinde firma logosu, marka adı, slogan veya kurumsal tasarımlar yüksek kaliteli nakış ya da DTF transfer baskı yöntemi ile uygulanabilmektedir. Nakış uygulaması profesyonel görünümü nedeniyle premium promosyon çalışmalarında sıklıkla tercih edilmektedir.
 
-Ayarlanabilir cırt bantlı arka yapısı sayesinde farklı baş ölçülerine kolayca uyum sağlar. Yerli üretim olması sayesinde hızlı üretim ve tedarik avantajı sunmaktadır.
+5 panel tasarımı modern görünüm sunarken 2 adet kuş gözü hava dolaşımını desteklemektedir. Ayarlanabilir cırt bantlı arka kapama sistemi farklı baş ölçülerine kolayca uyum sağlayarak gün boyu rahat kullanım imkanı sunmaktadır.
+
+ŞP-700 modeli reklam ajansları, belediyeler, kamu kurumları, fabrikalar, otomotiv firmaları, eğitim kurumları, spor kulüpleri, organizasyon şirketleri, oteller, turizm firmaları ve kurumsal markalar tarafından toplu promosyon şapka siparişlerinde tercih edilmektedir.
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Şapka  
-Kategori: Promosyon Şapka  
+Ürün Kodu: ŞP-700
 
-Kumaş: Pamuklu Gabardin Kumaş  
-Kumaş Ölçüsü: 16 x 12  
+Ürün Tipi: Promosyon Şapka
 
-Panel: 5 Panel  
+Kategori: Promosyon Şapka
 
-Siper: Sandviç Siper  
+Üretim: Yerli Üretim
 
-Havalandırma: 2 Kuş Gözü  
+Kumaş: Pamuklu Gabardin Kumaş
 
-Ayarlama: Cırt Bantlı  
+Kumaş Ölçüsü: 16 x 12
 
-Baskı Türü: Nakış / DTF Transfer Baskı  
+Panel: 5 Panel
 
-Üretim: Yerli Üretim  
+Siper: Sandviç Siper
 
-STOK VE SİPARİŞ BİLGİSİ
+Hava Deliği: 2 Kuş Gözü
 
-Promosyon şapka siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Ürünler isteğe özel üretim yapılabilmektedir ve güncel stok durumu üretim planına göre değişiklik gösterebilir.
+Arka Kapama: Ayarlanabilir Cırt Bant
 
-Sipariş vermeden önce **güncel stok durumu, üretim süresi ve baskı seçenekleri için bizimle iletişime geçmeniz önerilir.**
+Kullanım: Unisex
 
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+BASKI ÖZELLİKLERİ
+
+Baskı Türü: Nakış
+
+Alternatif Baskı: DTF Transfer Baskı
+
+Kurumsal Logo Baskısı: Uygundur
+
+Tam Renk Baskı: Uygundur
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik promosyonları  
-Reklam ve marka tanıtım kampanyaları  
-Outdoor etkinlikleri  
-Şirket organizasyonları
-`
+• Promosyon şapka
+
+• Logo baskılı şapka
+
+• Sandviç siper şapka
+
+• Nakışlı promosyon şapka
+
+• Personel şapkası
+
+• Kurumsal promosyon ürünleri
+
+• Fuar promosyonları
+
+• Şirket organizasyonları
+
+• Spor organizasyonları
+
+• Reklam kampanyaları
+
+NEDEN ŞP-700 PROMOSYON ŞAPKAYI TERCİH ETMELİSİNİZ?
+
+✔ Kaliteli pamuklu gabardin kumaş
+
+✔ Modern sandviç siper tasarımı
+
+✔ Yerli üretim kaliteli işçilik
+
+✔ Nakış ve DTF transfer baskıya uygun
+
+✔ Geniş logo baskı alanı
+
+✔ Ayarlanabilir cırt bant
+
+✔ Hafif ve konforlu kullanım
+
+✔ Kurumsal görünümü destekleyen premium tasarım
+
+✔ Toplu sipariş avantajı
+
+✔ Uzun ömürlü kullanım
+
+RENK VE STOK BİLGİSİ
+
+ŞP-700 modeli lacivert, siyah, gri, kırmızı, bej ve dönemsel olarak farklı renk seçenekleriyle üretilebilmektedir. Güncel stok durumu ve renk seçenekleri sipariş öncesinde teyit edilmelidir.
+
+TOPLU SİPARİŞ
+
+Promosyon şapka siparişleri toplu üretim olarak hazırlanmaktadır. Minimum sipariş miktarı, logo çalışması, nakış veya baskı yöntemi, üretim planlaması ve teslim süresi sipariş adedine göre belirlenmektedir. Büyük adetli kurumsal siparişlerde özel fiyat avantajları sunulmaktadır.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon ŞP-700 sandviç siper şapka hangi baskı yöntemlerine uygundur?",
+      a: "ŞP-700 modeli nakış ve DTF transfer baskıya uygundur. Firma logosu, marka adı ve kurumsal tasarımlar profesyonel şekilde uygulanabilmektedir.",
+    },
+    {
+      q: "ŞP-700 modeli hangi kumaştan üretilmektedir?",
+      a: "ŞP-700 modeli kaliteli pamuklu gabardin kumaştan üretilmektedir. Dayanıklı ve nefes alabilen yapısıyla uzun süre konforlu kullanım sunmaktadır.",
+    },
+    {
+      q: "ŞP-700 promosyon şapka yerli üretim midir?",
+      a: "Evet. ŞP-700 modeli yerli üretim promosyon şapkadır.",
+    },
+    {
+      q: "Sandviç siper şapkanın avantajı nedir?",
+      a: "Sandviç siper tasarımı şapkaya modern ve dikkat çekici bir görünüm kazandırır. Kurumsal etkinliklerde daha prestijli bir imaj oluşturur.",
+    },
+    {
+      q: "Promosyon ŞP-700 hangi alanlarda kullanılmaktadır?",
+      a: "Fuarlar, şirket organizasyonları, bayi toplantıları, açık hava etkinlikleri, personel kullanımı, reklam kampanyaları ve spor organizasyonlarında kullanılmaktadır.",
+    },
+    {
+      q: "ŞP-700 modelinde hangi renk seçenekleri bulunmaktadır?",
+      a: "Lacivert, siyah, gri, kırmızı, bej ve stok durumuna göre farklı renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Promosyon şapkaya nakış logo uygulanabilir mi?",
+      a: "Evet. ŞP-700 modeli profesyonel nakış logo uygulamalarına uygundur. İsteğe bağlı olarak DTF transfer baskı da yapılabilmektedir.",
+    },
+    {
+      q: "Toplu promosyon şapka siparişlerinde özel fiyat uygulanıyor mu?",
+      a: "Evet. Sipariş miktarı arttıkça kurumsal firmalara özel fiyat avantajları sunulmaktadır.",
+    },
+    {
+      q: "Promosyon şapka minimum sipariş adedi kaçtır?",
+      a: "Minimum sipariş miktarı üretim planına ve baskı detaylarına göre değişmektedir. Güncel bilgi için teklif alabilirsiniz.",
+    },
+    {
+      q: "ŞP-700 modelinin öne çıkan özellikleri nelerdir?",
+      a: "Kaliteli pamuklu gabardin kumaşı, sandviç siper tasarımı, nakış ve DTF transfer baskıya uygun yapısı, ayarlanabilir cırt bantlı sistemi ve yerli üretim kalitesi sayesinde premium promosyon şapka modelleri arasında yer almaktadır.",
+    },
+  ],
 },
 {
   id: "p204",
   slug: "promosyon-polo-yaka-tshirt-py-110",
-  title: "Promosyon Polo Yaka T-Shirt PY-110 | Logo Baskılı Promosyon Tişört",
+
+  title:
+    "Promosyon Polo Yaka Tişört PY-110 | Logo Baskılı Promosyon Tişört",
+
   price: 375,
+
   category: "Promosyon Tişört",
+
   image: "/products/promosyon-polo-yaka-tshirt-py-110.jpg",
 
   shortDesc:
-    "Promosyon polo yaka t-shirt PY-110 modeli %100 pamuk kumaş yapısı ve logo baskı uygulanabilen yüzeyi ile kurumsal promosyon tişört modelleri arasında tercih edilen kaliteli promosyon ürünlerinden biridir.",
+    "Promosyon polo yaka tişört PY-110 modeli, %100 pamuk 200 gr Open-End kumaşı, şık polo yaka tasarımı, cepli ve cepsiz üretim seçenekleri ile DTF transfer baskıya uygun yapısı sayesinde personel kıyafetleri, fuarlar ve kurumsal organizasyonlar için tercih edilen logo baskılı promosyon tişört modellerinden biridir.",
 
   longDesc: `
-Promosyon polo yaka t-shirt PY-110 modeli fuarlar, etkinlikler, reklam kampanyaları ve kurumsal organizasyonlar için sık tercih edilen promosyon tekstil ürünleri arasında yer almaktadır.
+Promosyon polo yaka tişört PY-110 modeli, kaliteli kumaşı ve kurumsal görünümü sayesinde personel kıyafetleri ve marka tanıtımlarında en çok tercih edilen promosyon tekstil ürünlerinden biridir. Günlük kullanıma uygun yapısı ile çalışanların konforunu artırırken firmanızın profesyonel kurumsal kimliğini de desteklemektedir.
 
-Promosyon tişörtler marka tanıtımı açısından oldukça etkili reklam ürünleri arasında bulunmaktadır. Üzerine uygulanan logo baskı sayesinde firmanızın markası çalışanlar, müşteriler ve etkinlik katılımcıları tarafından geniş kitlelere ulaşabilir.
+Logo baskılı polo yaka tişörtler; fuarlar, bayi toplantıları, saha ekipleri, mağaza personelleri, restoranlar, oteller, kafeler, belediyeler, fabrikalar, organizasyon şirketleri ve kurumsal firmalar tarafından uzun yıllardır tercih edilen profesyonel promosyon ürünleri arasında yer almaktadır.
 
-200 gr open-end kumaş kullanılarak üretilen bu promosyon polo yaka t-shirt modeli %100 pamuk yapısı sayesinde rahat ve konforlu bir kullanım sunmaktadır. Polo yaka tasarımı ise ürüne daha kurumsal ve şık bir görünüm kazandırmaktadır.
+PY-110 modeli %100 pamuk 200 gram Open-End kumaştan üretilmektedir. Kalın ve dayanıklı kumaş yapısı sayesinde yoğun kullanımlarda dahi formunu korurken nefes alabilen yapısıyla gün boyu konfor sağlamaktadır.
 
-Ürün üzerinde logo uygulaması DTF transfer baskı yöntemi ile yapılabilmektedir. Bu baskı yöntemi sayesinde logolar canlı ve net bir şekilde uygulanabilmektedir.
+Şık polo yaka tasarımı klasik tişörtlere göre daha profesyonel bir görünüm sunmaktadır. Bu sayede çalışan kıyafeti, kurumsal etkinlikler ve müşteri karşılamalarında prestijli bir kurumsal imaj oluşturulmasına katkı sağlar.
 
-Cepli ve cepsiz model seçenekleri ile üretilebilen promosyon polo yaka tişört farklı kurumsal ihtiyaçlara uygun olarak tercih edilebilir.
+Ürün üzerine firma logosu, marka adı, slogan veya özel tasarımlar DTF transfer baskı yöntemiyle yüksek çözünürlükte uygulanabilmektedir. İsteğe bağlı olarak cepli veya cepsiz üretim yapılabilmektedir.
+
+PY-110 modeli özellikle kurumsal firmalar, reklam ajansları, eğitim kurumları, sağlık kuruluşları, perakende mağazaları, zincir restoranlar, turizm firmaları, belediyeler ve organizasyon şirketleri tarafından toplu promosyon polo yaka tişört siparişlerinde tercih edilmektedir.
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Polo Yaka Tişört  
-Kategori: Promosyon Tişört  
+Ürün Kodu: PY-110
 
-Kumaş: %100 Pamuk  
-Kumaş Gramajı: 200 gr Open-end  
+Ürün Tipi: Promosyon Polo Yaka Tişört
 
-Yaka Tipi: Polo Yaka  
+Kategori: Promosyon Polo Yaka Tişört
 
-Baskı Türü: DTF Transfer Baskı  
+Üretim: Yerli Üretim
 
-Bedenler:  
-S – M – L – XL – XXL  
+Kumaş: %100 Pamuk
+
+Gramaj: 200 gr Open-End
+
+Yaka Tipi: Polo Yaka
+
+Model: Cepli / Cepsiz
+
+Kullanım: Unisex
+
+BEDEN SEÇENEKLERİ
+
+S • M • L • XL • XXL
 
 CEPLİ MODEL RENKLERİ
 
-Kırmızı  
-Bordo  
-Siyah  
-Lacivert  
-Turkuaz  
-Saks Mavi  
-Gri  
-Füme  
-Turuncu  
-Sarı  
-Yeşil  
-Koyu Yeşil  
+Kırmızı • Bordo • Siyah • Lacivert • Turkuaz • Saks Mavi • Gri • Füme • Turuncu • Sarı • Yeşil • Koyu Yeşil
 
 CEPSİZ MODEL RENKLERİ
 
-Beyaz  
-Lacivert  
-Siyah  
-Gri  
+Beyaz • Siyah • Lacivert • Gri
 
-STOK VE SİPARİŞ BİLGİSİ
+BASKI ÖZELLİKLERİ
 
-Promosyon polo yaka tişört siparişleri genellikle toplu üretim olarak hazırlanmaktadır. Güncel stok durumu ve üretim planlaması dönemsel olarak değişiklik gösterebilir.
+Baskı Türü: DTF Transfer Baskı
 
-Sipariş vermeden önce **güncel stok durumu, beden seçenekleri ve üretim süresi için bizimle iletişime geçmeniz önerilir.**
+Kurumsal Logo Baskısı: Uygundur
 
-Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında netleştirilmektedir.
+Tam Renk Baskı: Uygundur
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Şirket çalışan kıyafetleri  
-Reklam ve marka tanıtım kampanyaları  
-Outdoor etkinlikleri
-`
+• Promosyon polo yaka tişört
+
+• Logo baskılı polo tişört
+
+• Personel kıyafeti
+
+• Kurumsal promosyon ürünleri
+
+• Fuar organizasyonları
+
+• Mağaza personeli
+
+• Restoran ve kafe çalışanları
+
+• Fabrika personeli
+
+• Reklam kampanyaları
+
+• Şirket organizasyonları
+
+NEDEN PY-110 POLO YAKA TİŞÖRTÜ TERCİH ETMELİSİNİZ?
+
+✔ %100 pamuk kaliteli kumaş
+
+✔ 200 gr Open-End yapı
+
+✔ Şık polo yaka tasarım
+
+✔ Cepli ve cepsiz üretim seçeneği
+
+✔ DTF transfer baskıya uygun
+
+✔ Kurumsal personel kullanımı için ideal
+
+✔ Nefes alabilen yapı
+
+✔ Yerli üretim kaliteli işçilik
+
+✔ Toplu sipariş avantajı
+
+✔ Uzun ömürlü kullanım
+
+RENK VE STOK BİLGİSİ
+
+PY-110 modeli cepli ve cepsiz üretim seçenekleriyle farklı renk alternatiflerinde üretilebilmektedir. Renk ve beden stokları dönemsel olarak değişebileceği için sipariş öncesinde güncel stok bilgisi alınması önerilir.
+
+TOPLU SİPARİŞ
+
+Promosyon polo yaka tişört siparişleri toplu üretim olarak hazırlanmaktadır. Minimum sipariş miktarı, baskı uygulaması, üretim planlaması ve teslim süresi sipariş adedine göre belirlenmektedir. Büyük adetli kurumsal siparişlerde özel fiyat avantajları sunulmaktadır.
+`.trim(),
+
+  faq: [
+    {
+      q: "PY-110 polo yaka tişört hangi baskı yöntemine uygundur?",
+      a: "PY-110 modeli DTF transfer baskıya uygundur. Firma logosu, marka adı ve kurumsal tasarımlar yüksek kaliteli şekilde uygulanabilmektedir.",
+    },
+    {
+      q: "PY-110 hangi kumaştan üretilmektedir?",
+      a: "Model %100 pamuk 200 gram Open-End kumaştan üretilmektedir. Dayanıklı ve konforlu yapısıyla uzun süre kullanılabilir.",
+    },
+    {
+      q: "Promosyon polo yaka tişört yerli üretim midir?",
+      a: "Evet. PY-110 modeli yerli üretim promosyon polo yaka tişörttür.",
+    },
+    {
+      q: "Cepli ve cepsiz üretim yapılabiliyor mu?",
+      a: "Evet. PY-110 modeli hem cepli hem de cepsiz olarak üretilebilmektedir.",
+    },
+    {
+      q: "Promosyon polo yaka tişört hangi alanlarda kullanılmaktadır?",
+      a: "Personel kıyafetleri, fuarlar, mağazalar, restoranlar, oteller, organizasyonlar, reklam kampanyaları ve kurumsal etkinliklerde kullanılmaktadır.",
+    },
+    {
+      q: "Hangi beden seçenekleri bulunmaktadır?",
+      a: "S, M, L, XL ve XXL beden seçenekleri bulunmaktadır. Stok durumuna göre farklı bedenler sunulabilmektedir.",
+    },
+    {
+      q: "Promosyon polo yaka tişört hangi renklerde üretilmektedir?",
+      a: "Cepli modellerde kırmızı, bordo, siyah, lacivert, turkuaz, saks mavi, gri, füme, turuncu, sarı, yeşil ve koyu yeşil; cepsiz modellerde ise beyaz, siyah, lacivert ve gri renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Toplu promosyon polo yaka tişört siparişlerinde fiyat avantajı sunuluyor mu?",
+      a: "Evet. Sipariş miktarı arttıkça kurumsal firmalara özel fiyat avantajları sunulmaktadır.",
+    },
+    {
+      q: "Minimum sipariş adedi kaçtır?",
+      a: "Minimum sipariş miktarı üretim planına ve baskı detaylarına göre değişmektedir. Güncel bilgi almak için bizimle iletişime geçebilirsiniz.",
+    },
+    {
+      q: "PY-110 modelinin öne çıkan avantajları nelerdir?",
+      a: "200 gr Open-End kumaşı, %100 pamuk yapısı, polo yaka tasarımı, cepli ve cepsiz üretim seçeneği, DTF transfer baskıya uygun yüzeyi ve profesyonel kurumsal görünümü sayesinde en çok tercih edilen promosyon polo yaka tişört modellerinden biridir.",
+    },
+  ],
 },
 {
   id: "p205",
@@ -58756,60 +59303,155 @@ Marka tanıtım çalışmaları
 {
   id: "p661",
   slug: "promosyon-pamuklu-fileli-sapka-sp-750",
-  title: "Promosyon Pamuklu Fileli Şapka ŞP-750 | Logo Baskılı Şapka Modelleri",
+
+  title:
+    "Promosyon Pamuklu Fileli Şapka ŞP-750 | Logo Baskılı Şapka Modelleri",
+
   price: 105,
+
   category: "Promosyon Şapka",
+
   image: "/products/promosyon-pamuklu-fileli-sapka-sp-750.jpg",
 
   shortDesc:
-    "Promosyon pamuklu fileli şapka ŞP-750, nefes alabilen yapısı ve logo baskıya uygun geniş yüzeyi ile kurumsal tanıtımlar için ideal bir promosyon ürünüdür. Toplu siparişlerde avantajlı fiyat seçenekleri sunar.",
+    "Promosyon pamuklu fileli şapka ŞP-750 modeli, kaliteli pamuklu ön paneli, nefes alabilen fileli arka yapısı, ayarlanabilir cırt bantlı tasarımı ve DTF transfer baskıya uygun geniş ön yüzeyi sayesinde yaz aylarında personel kullanımı, fuarlar ve kurumsal etkinlikler için tercih edilen logo baskılı promosyon şapka modellerinden biridir.",
 
   longDesc: `
-Logo Baskılı Promosyon Şapka ile Markanızı Günlük Hayata Taşıyın
+Promosyon pamuklu fileli şapka ŞP-750 modeli, yaz aylarında maksimum konfor sunan fileli arka yapısı ve profesyonel görünümü sayesinde kurumsal promosyon şapka modelleri arasında öne çıkan ürünlerden biridir. Günlük kullanım için tasarlanmış yapısı sayesinde markanızı uzun süre görünür kılan etkili bir reklam ürünü olarak kullanılmaktadır.
 
-Promosyon pamuklu fileli şapka ŞP-750, hem şık görünümü hem de konforlu kullanımı ile kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir. Ön kısmı pamuklu kumaş, arka kısmı ise fileli yapısı sayesinde terletmeyen ve uzun süre rahat kullanım sunan bir şapka modelidir.
+Logo baskılı promosyon şapkalar; fuarlar, açık hava etkinlikleri, saha organizasyonları, personel kıyafetleri, spor organizasyonları, belediye etkinlikleri, bayi toplantıları ve reklam kampanyalarında en çok tercih edilen promosyon tekstil ürünleri arasında yer almaktadır.
 
-Geniş baskı alanı sayesinde firmanızın logosu net ve dikkat çekici şekilde uygulanabilir. Özellikle yaz aylarında, açık hava etkinliklerinde ve saha çalışmalarında markanızın görünürlüğünü artırmak için etkili bir promosyon ürünüdür.
+ŞP-750 modelinin ön kısmı kaliteli pamuklu kumaştan, arka kısmı ise hava dolaşımını artıran fileli yapıdan üretilmektedir. Fileli tasarım sayesinde sıcak havalarda terlemeyi azaltmaya yardımcı olur ve gün boyu daha rahat kullanım sağlar.
 
-NEDEN PROMOSYON PAMUKLU FİLELİ ŞAPKA TERCİH EDİLMELİ?
-• Nefes alabilen fileli arka yapı ile konforlu kullanım  
-• Logo baskıya uygun geniş ön yüzey  
-• Günlük kullanımda yüksek marka görünürlüğü  
-• Fuar, etkinlik ve saha çalışmaları için ideal  
+Geniş ön paneli sayesinde firma logosu, marka adı, slogan veya kurumsal tasarımlar DTF transfer baskı yöntemiyle yüksek kalite ve canlı renklerde uygulanabilmektedir. Böylece şapka hem kullanışlı bir tekstil ürünü hem de firmanızın tanıtımını yapan etkili bir reklam aracı haline gelir.
 
-Ayarlanabilir cırt bantlı yapısı sayesinde farklı baş ölçülerine kolayca uyum sağlar. Dayanıklı kumaş yapısı ile uzun süreli kullanım sunar ve kurumsal promosyon çalışmalarında etkili bir reklam aracıdır.
+Ayarlanabilir cırt bantlı arka kapama sistemi farklı baş ölçülerine kolayca uyum sağlamaktadır. Hafif yapısı sayesinde uzun süreli kullanımlarda konfor sunmaktadır.
 
-Promosyon şapkalar, özellikle geniş kitlelere ulaşmak isteyen firmalar için düşük maliyetli ve yüksek etkili reklam ürünlerinden biridir. Markanızı sürekli görünür kılmak için en doğru promosyon seçeneklerinden biridir.
+ŞP-750 modeli özellikle reklam ajansları, organizasyon şirketleri, belediyeler, spor kulüpleri, lojistik firmaları, saha ekipleri, restoranlar, kafeler, turizm firmaları, perakende markaları ve kurumsal şirketler tarafından toplu promosyon şapka siparişlerinde tercih edilmektedir.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Kodu: ŞP-750
+
+Ürün Tipi: Promosyon Şapka
+
+Kategori: Promosyon Şapka
+
+Üretim: Yerli Üretim
+
+Ön Panel: Pamuklu Kumaş
+
+Arka Panel: Fileli Nefes Alabilen Yapı
+
+Panel: 5 Panel
+
+Arka Kapama: Ayarlanabilir Cırt Bant
+
+Kullanım: Unisex
+
+BASKI ÖZELLİKLERİ
+
+Baskı Türü: DTF Transfer Baskı
+
+Kurumsal Logo Baskısı: Uygundur
+
+Tam Renk Baskı: Uygundur
 
 KULLANIM ALANLARI
-• Fuar ve organizasyon dağıtımları  
-• Açık hava etkinlikleri  
-• Kurumsal promosyon kampanyaları  
-• Saha ekipleri ve personel kullanımı  
 
-KİMLER İÇİN UYGUN?
-• Kurumsal firmalar  
-• Reklam ajansları  
-• Organizasyon şirketleri  
-• Tekstil ve perakende markaları  
-• Etkinlik firmaları  
+• Promosyon şapka
 
-PROMOSYON ŞAPKA FİYATLARI HAKKINDA
-Promosyon şapka fiyatları; sipariş adedi, baskı türü ve renk seçeneklerine göre değişiklik göstermektedir. Toplu siparişlerde daha avantajlı fiyatlar sunulmaktadır. Size özel fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+• Fileli promosyon şapka
 
-Ürün Özellikleri
+• Logo baskılı şapka
 
-• Model: ŞP-750  
-• Ürün Türü: Pamuklu fileli şapka  
-• Ön Yüzey: Pamuklu kumaş  
-• Arka Kısım: Nefes alabilen fileli yapı  
-• Baskı: DTF transfer baskıya uygun  
-• Ayar: Cırt bantlı ayarlanabilir arka kısım  
-• Kullanım: Günlük ve promosyon amaçlı  
-• Üretim: Yerli üretim  
+• Personel şapkası
 
-Promosyon pamuklu fileli şapka ŞP-750 ile markanızı geniş kitlelere ulaştırabilir, kurumsal tanıtım çalışmalarınızı profesyonel şekilde güçlendirebilirsiniz. Toplu sipariş ve hızlı teklif için WhatsApp üzerinden hemen iletişime geçebilirsiniz.
+• Saha ekipleri
+
+• Fuar promosyonları
+
+• Açık hava organizasyonları
+
+• Reklam kampanyaları
+
+• Spor organizasyonları
+
+• Kurumsal etkinlikler
+
+NEDEN ŞP-750 PROMOSYON ŞAPKAYI TERCİH ETMELİSİNİZ?
+
+✔ Nefes alabilen fileli arka tasarım
+
+✔ Kaliteli pamuklu ön panel
+
+✔ Yaz aylarında konforlu kullanım
+
+✔ DTF transfer baskıya uygun geniş baskı alanı
+
+✔ Hafif ve dayanıklı yapı
+
+✔ Ayarlanabilir cırt bant
+
+✔ Yerli üretim kaliteli işçilik
+
+✔ Kurumsal promosyon çalışmaları için ideal
+
+✔ Toplu sipariş avantajı
+
+✔ Uzun ömürlü kullanım
+
+RENK VE STOK BİLGİSİ
+
+ŞP-750 modeli beyaz, siyah ve gri başta olmak üzere dönemsel olarak farklı renk seçenekleriyle üretilebilmektedir. Güncel renk ve stok durumu sipariş öncesinde teyit edilmelidir.
+
+TOPLU SİPARİŞ
+
+Promosyon şapka siparişleri toplu üretim olarak hazırlanmaktadır. Minimum sipariş miktarı, baskı çalışması, üretim planlaması ve teslim süresi sipariş adedine göre belirlenmektedir. Büyük adetli siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
 `.trim(),
+
+  faq: [
+    {
+      q: "Promosyon ŞP-750 fileli şapka hangi baskı yöntemine uygundur?",
+      a: "ŞP-750 modeli DTF transfer baskıya uygundur. Firma logosu, marka adı ve kurumsal tasarımlar yüksek kaliteli şekilde uygulanabilmektedir.",
+    },
+    {
+      q: "ŞP-750 modelinin en önemli özelliği nedir?",
+      a: "En önemli özelliği nefes alabilen fileli arka yapısıdır. Bu yapı özellikle yaz aylarında daha konforlu kullanım sağlamaktadır.",
+    },
+    {
+      q: "ŞP-750 promosyon şapka yerli üretim midir?",
+      a: "Evet. ŞP-750 modeli yerli üretim promosyon şapkadır.",
+    },
+    {
+      q: "Promosyon şapkaya firma logosu basılabilir mi?",
+      a: "Evet. Ön panel üzerine firma logosu, marka adı, slogan ve kurumsal tasarımlar DTF transfer baskı yöntemiyle uygulanabilir.",
+    },
+    {
+      q: "ŞP-750 hangi alanlarda kullanılmaktadır?",
+      a: "Fuarlar, saha ekipleri, açık hava etkinlikleri, reklam kampanyaları, personel kullanımı, spor organizasyonları ve kurumsal tanıtımlarda kullanılmaktadır.",
+    },
+    {
+      q: "Promosyon fileli şapka yaz aylarında tercih edilir mi?",
+      a: "Evet. Fileli arka panel hava dolaşımını artırdığı için sıcak havalarda daha rahat kullanım sunmaktadır.",
+    },
+    {
+      q: "ŞP-750 modelinde hangi renk seçenekleri bulunmaktadır?",
+      a: "Beyaz, siyah ve gri başta olmak üzere stok durumuna göre farklı renk seçenekleri bulunmaktadır.",
+    },
+    {
+      q: "Toplu promosyon şapka siparişlerinde fiyat avantajı var mı?",
+      a: "Evet. Sipariş miktarı arttıkça kurumsal firmalara özel fiyat avantajları sunulmaktadır.",
+    },
+    {
+      q: "Promosyon şapka minimum sipariş adedi kaçtır?",
+      a: "Minimum sipariş miktarı üretim planına ve baskı detaylarına göre değişmektedir. Güncel bilgi almak için bizimle iletişime geçebilirsiniz.",
+    },
+    {
+      q: "ŞP-750 modelinin öne çıkan avantajları nelerdir?",
+      a: "Nefes alabilen fileli arka yapısı, kaliteli pamuklu ön paneli, DTF transfer baskıya uygun geniş baskı alanı, ayarlanabilir cırt bant sistemi ve yerli üretim kalitesi sayesinde en çok tercih edilen fileli promosyon şapka modellerinden biridir.",
+    },
+  ],
 },
 {
   id: "p662",
