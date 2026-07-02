@@ -59588,19 +59588,21 @@ Promosyon Çoklu Şarj Kablosu (EVA Kutulu) KBL-375 modeli; Android, iOS ve Type
 {
   id: "p663",
 
-  slug: "promosyon-seramik-kupa-330ml-sk-100",
+  slug: "promosyon-seramik-kupa-330ml-sk-105",
 
-  title: "Promosyon Seramik Kupa 330 ml SK-100 | Logo Baskılı Seramik Kupa",
+  title: "Promosyon Seramik Kupa 330 ml SK-105 | Logo Baskılı Seramik Kupa",
+
+  price: 0,
 
   category: "Kupa",
 
-  image: "/products/promosyon-seramik-kupa-330ml-sk-100.jpg",
+  image: "/products/promosyon-seramik-kupa-330ml-sk-105.jpg",
 
   shortDesc:
-    "Promosyon Seramik Kupa SK-100, 330 ml hacmi, süblimasyon dijital baskıya uygun yüzeyi ve günlük kullanıma uygun dayanıklı yapısı ile kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir.",
+    "Promosyon Seramik Kupa SK-105, 330 ml hacmi, süblimasyon dijital baskıya uygun yüzeyi ve günlük kullanıma uygun dayanıklı yapısı ile kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir.",
 
   longDesc: `
-Promosyon Seramik Kupa (330 ml) SK-100 modeli, kaliteli seramik yapısı ve geniş baskı alanı sayesinde kurumsal tanıtımlarda en çok tercih edilen promosyon kupa modellerinden biridir.
+Promosyon Seramik Kupa (330 ml) SK-105 modeli, kaliteli seramik yapısı ve geniş baskı alanı sayesinde kurumsal tanıtımlarda en çok tercih edilen promosyon kupa modellerinden biridir.
 
 330 ml içecek kapasitesi ile çay, kahve ve diğer sıcak veya soğuk içeceklerin günlük kullanımında ideal bir deneyim sunar. Ofislerde, toplantı odalarında ve ev kullanımında uzun yıllar tercih edilen kullanışlı bir promosyon ürünüdür.
 
@@ -59608,7 +59610,7 @@ Promosyon Seramik Kupa (330 ml) SK-100 modeli, kaliteli seramik yapısı ve geni
 
 Dayanıklı seramik gövdesi sayesinde günlük kullanıma uygundur. Kurumsal etkinlikler, fuarlar, lansmanlar ve çalışan hediyeleri için hem ekonomik hem de prestijli bir promosyon çözümüdür.
 
-NEDEN PROMOSYON SERAMİK KUPA SK-100?
+NEDEN PROMOSYON SERAMİK KUPA SK-105?
 
 • 330 ml kullanım hacmi
 • Kaliteli seramik gövde
@@ -59627,7 +59629,7 @@ Promosyon Seramik Kupa
 
 Model:
 
-SK-100
+SK-105
 
 Kategori:
 
@@ -59669,7 +59671,7 @@ Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle, tüm baskılı 
 
 SİPARİŞ BİLGİSİ
 
-Promosyon Seramik Kupa SK-100 modeli toplu sipariş olarak üretilmektedir.
+Promosyon Seramik Kupa SK-105 modeli toplu sipariş olarak üretilmektedir.
 
 Logo baskı çalışmaları firmanıza özel hazırlanmaktadır.
 
@@ -59690,12 +59692,12 @@ KULLANIM ALANLARI
 • Reklam kampanyaları
 • Günlük çay ve kahve kullanımı
 
-Promosyon Seramik Kupa 330 ml SK-100 modeli; kaliteli seramik yapısı, süblimasyon dijital baskı teknolojisi, geniş baskı alanı ve günlük kullanıma uygun tasarımı sayesinde markanızı uzun yıllar görünür kılan en popüler promosyon kupa modellerinden biridir.
+Promosyon Seramik Kupa 330 ml SK-105 modeli; kaliteli seramik yapısı, süblimasyon dijital baskı teknolojisi, geniş baskı alanı ve günlük kullanıma uygun tasarımı sayesinde markanızı uzun yıllar görünür kılan en popüler promosyon kupa modellerinden biridir.
 `.trim(),
 
   faq: [
     {
-      q: "SK-100 kupa hangi baskı yöntemi ile baskılanmaktadır?",
+      q: "SK-105 kupa hangi baskı yöntemi ile baskılanmaktadır?",
       a: "Ürün üzerine süblimasyon (dijital baskı) yöntemi uygulanmaktadır."
     },
     {
@@ -59704,7 +59706,7 @@ Promosyon Seramik Kupa 330 ml SK-100 modeli; kaliteli seramik yapısı, süblima
     },
     {
       q: "Kupanın hacmi ne kadardır?",
-      a: "SK-100 modeli 330 ml içecek kapasitesine sahiptir."
+      a: "SK-105 modeli 330 ml içecek kapasitesine sahiptir."
     },
     {
       q: "Bulaşık makinesinde yıkanabilir mi?",
