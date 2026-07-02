@@ -59585,6 +59585,264 @@ Promosyon Çoklu Şarj Kablosu (EVA Kutulu) KBL-375 modeli; Android, iOS ve Type
     }
   ]
 },
+{
+  id: "p663",
+
+  slug: "promosyon-seramik-kupa-330ml-sk-100",
+
+  title: "Promosyon Seramik Kupa 330 ml SK-100 | Logo Baskılı Seramik Kupa",
+
+  category: "Kupa",
+
+  image: "/products/promosyon-seramik-kupa-330ml-sk-100.jpg",
+
+  shortDesc:
+    "Promosyon Seramik Kupa SK-100, 330 ml hacmi, süblimasyon dijital baskıya uygun yüzeyi ve günlük kullanıma uygun dayanıklı yapısı ile kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir.",
+
+  longDesc: `
+Promosyon Seramik Kupa (330 ml) SK-100 modeli, kaliteli seramik yapısı ve geniş baskı alanı sayesinde kurumsal tanıtımlarda en çok tercih edilen promosyon kupa modellerinden biridir.
+
+330 ml içecek kapasitesi ile çay, kahve ve diğer sıcak veya soğuk içeceklerin günlük kullanımında ideal bir deneyim sunar. Ofislerde, toplantı odalarında ve ev kullanımında uzun yıllar tercih edilen kullanışlı bir promosyon ürünüdür.
+
+Ürün üzerine süblimasyon (dijital baskı) yöntemi ile firmanızın logosu, sloganı veya özel tasarımları canlı renklerle uygulanabilmektedir. Yüksek baskı kalitesi sayesinde marka görünürlüğünüz uzun süre korunur.
+
+Dayanıklı seramik gövdesi sayesinde günlük kullanıma uygundur. Kurumsal etkinlikler, fuarlar, lansmanlar ve çalışan hediyeleri için hem ekonomik hem de prestijli bir promosyon çözümüdür.
+
+NEDEN PROMOSYON SERAMİK KUPA SK-100?
+
+• 330 ml kullanım hacmi
+• Kaliteli seramik gövde
+• Süblimasyon dijital baskıya uygun
+• Canlı ve kalıcı logo baskısı
+• Günlük kullanıma uygun
+• Ofis ve ev kullanımına ideal
+• Kurumsal promosyonlar için ekonomik çözüm
+• Logo baskıya uygun geniş yüzey
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi:
+
+Promosyon Seramik Kupa
+
+Model:
+
+SK-100
+
+Kategori:
+
+Kupa
+
+Materyal:
+
+Seramik
+
+Baskı Türü:
+
+Süblimasyon (Dijital Baskı)
+
+Hacim:
+
+330 ml
+
+Yükseklik:
+
+9.3 cm
+
+Çap:
+
+8.1 cm
+
+Ağırlık:
+
+260 gr
+
+Minimum Sipariş:
+
+45 Adet
+
+NOT
+
+Kupalar bulaşık makinesinde yıkamaya uygundur.
+
+Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle, tüm baskılı ürünlerde olduğu gibi kullanım sıklığına bağlı olarak zaman içerisinde baskıda solma veya yüzeyde çizilme gibi doğal deformasyonlar oluşabilir.
+
+SİPARİŞ BİLGİSİ
+
+Promosyon Seramik Kupa SK-100 modeli toplu sipariş olarak üretilmektedir.
+
+Logo baskı çalışmaları firmanıza özel hazırlanmaktadır.
+
+Minimum sipariş adedi 45 adettir.
+
+Güncel fiyat, baskı seçenekleri ve teslim süresi hakkında teklif almak için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+• Kurumsal promosyon ürünleri
+• Ofis kullanımı
+• Çalışan hediyeleri
+• Müşteri promosyonları
+• Fuar ve etkinlik dağıtımları
+• Lansman organizasyonları
+• Reklam kampanyaları
+• Günlük çay ve kahve kullanımı
+
+Promosyon Seramik Kupa 330 ml SK-100 modeli; kaliteli seramik yapısı, süblimasyon dijital baskı teknolojisi, geniş baskı alanı ve günlük kullanıma uygun tasarımı sayesinde markanızı uzun yıllar görünür kılan en popüler promosyon kupa modellerinden biridir.
+`.trim(),
+
+  faq: [
+    {
+      q: "SK-100 kupa hangi baskı yöntemi ile baskılanmaktadır?",
+      a: "Ürün üzerine süblimasyon (dijital baskı) yöntemi uygulanmaktadır."
+    },
+    {
+      q: "Minimum sipariş adedi kaçtır?",
+      a: "Bu model için minimum sipariş miktarı 45 adettir."
+    },
+    {
+      q: "Kupanın hacmi ne kadardır?",
+      a: "SK-100 modeli 330 ml içecek kapasitesine sahiptir."
+    },
+    {
+      q: "Bulaşık makinesinde yıkanabilir mi?",
+      a: "Evet. Ürün bulaşık makinesinde yıkanabilir. Ancak kullanılan kimyasallara bağlı olarak zamanla baskıda solma veya yüzeyde çizilme oluşması doğal kabul edilmektedir."
+    },
+    {
+      q: "Logo baskısı yapılabiliyor mu?",
+      a: "Evet. Firmanıza özel logo, görsel veya tasarımlar süblimasyon dijital baskı ile uygulanabilmektedir."
+    },
+    {
+      q: "Kurumsal promosyon için uygun mudur?",
+      a: "Evet. Ofisler, fuarlar, etkinlikler, müşteri hediyeleri ve çalışan motivasyon projeleri için en çok tercih edilen promosyon kupa modellerinden biridir."
+    }
+  ]
+},
+{
+  id: "p664",
+
+  slug: "promosyon-seramik-kupa-275ml-sk-110",
+
+  title: "Promosyon Seramik Kupa 275 ml SK-110 | Logo Baskılı Seramik Kupa",
+
+  category: "Kupa",
+
+  image: "/products/promosyon-seramik-kupa-275ml-sk-110.jpg",
+
+  shortDesc:
+    "Promosyon Seramik Kupa SK-110, 275 ml hacmi, süblimasyon dijital baskıya uygun yüzeyi ve şık tasarımı ile kurumsal promosyon ürünleri arasında en çok tercih edilen seramik kupa modellerinden biridir.",
+
+  longDesc: `
+Promosyon Seramik Kupa (275 ml) SK-110 modeli, kaliteli seramik yapısı ve yüksek baskı kalitesi sunan yüzeyi sayesinde kurumsal promosyon çalışmalarında sık tercih edilen ürünlerden biridir.
+
+275 ml içecek kapasitesi ile çay, kahve ve diğer sıcak veya soğuk içeceklerin günlük tüketimi için ideal kullanım sunar. Ofislerde, toplantı salonlarında, kafelerde ve ev ortamında uzun süre kullanılabilecek dayanıklı bir promosyon ürünüdür.
+
+Ürün üzerine süblimasyon (dijital baskı) yöntemi ile firmanızın logosu, kurumsal kimliği veya özel tasarımları canlı ve kalıcı renklerle uygulanabilmektedir. Geniş baskı alanı sayesinde markanız kullanıcıların her kullanımında görünür olmaya devam eder.
+
+Dayanıklı seramik gövdesi günlük kullanıma uygundur. Kurumsal etkinlikler, fuarlar, çalışan hediyeleri ve müşteri promosyonları için ekonomik ve prestijli bir çözümdür.
+
+NEDEN PROMOSYON SERAMİK KUPA SK-110?
+
+• 275 ml kullanım hacmi
+• Kaliteli seramik gövde
+• Süblimasyon dijital baskıya uygun
+• Canlı ve kalıcı logo baskısı
+• Günlük kullanıma uygun
+• Ofis ve ev kullanımı için ideal
+• Kurumsal promosyonlarda yüksek görünürlük
+• Geniş baskı alanı
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi:
+
+Promosyon Seramik Kupa
+
+Model:
+
+SK-110
+
+Kategori:
+
+Kupa
+
+Materyal:
+
+Seramik
+
+Baskı Türü:
+
+Süblimasyon (Dijital Baskı)
+
+Hacim:
+
+275 ml
+
+Minimum Sipariş:
+
+45 Adet
+
+NOT
+
+Kupalar bulaşık makinesinde yıkamaya uygundur.
+
+Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle tüm baskılı ürünlerde olduğu gibi kullanım süresine bağlı olarak baskıda solma veya yüzeyde çizilme gibi doğal deformasyonlar oluşabilir.
+
+SİPARİŞ BİLGİSİ
+
+Promosyon Seramik Kupa SK-110 modeli toplu sipariş olarak üretilmektedir.
+
+Logo baskı çalışmaları firmanıza özel hazırlanmaktadır.
+
+Minimum sipariş adedi 45 adettir.
+
+Güncel fiyat, baskı seçenekleri ve teslim süresi hakkında teklif almak için bizimle iletişime geçebilirsiniz.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+KULLANIM ALANLARI
+
+• Kurumsal promosyon ürünleri
+• Ofis kullanımı
+• Çalışan hediyeleri
+• Müşteri promosyonları
+• Fuar ve etkinlik dağıtımları
+• Lansman organizasyonları
+• Reklam kampanyaları
+• Günlük çay ve kahve kullanımı
+
+Promosyon Seramik Kupa 275 ml SK-110 modeli; kaliteli seramik gövdesi, süblimasyon dijital baskı teknolojisi ve uzun ömürlü kullanımı sayesinde markanızı uzun yıllar görünür kılan en popüler promosyon kupa modellerinden biridir.
+`.trim(),
+
+  faq: [
+    {
+      q: "SK-110 kupa hangi baskı yöntemi ile baskılanmaktadır?",
+      a: "Ürün üzerine süblimasyon (dijital baskı) yöntemi uygulanmaktadır."
+    },
+    {
+      q: "Minimum sipariş adedi kaçtır?",
+      a: "Bu model için minimum sipariş miktarı 45 adettir."
+    },
+    {
+      q: "Kupanın hacmi ne kadardır?",
+      a: "SK-110 modeli 275 ml içecek kapasitesine sahiptir."
+    },
+    {
+      q: "Bulaşık makinesinde yıkanabilir mi?",
+      a: "Evet. Ürün bulaşık makinesinde yıkanabilir. Ancak kullanılan kimyasallar nedeniyle zamanla baskıda solma veya yüzeyde çizilme oluşması doğal kabul edilmektedir."
+    },
+    {
+      q: "Logo baskısı yapılabiliyor mu?",
+      a: "Evet. Firmanıza özel logo ve tasarımlar süblimasyon dijital baskı ile uygulanabilmektedir."
+    },
+    {
+      q: "Kurumsal promosyon için uygun mudur?",
+      a: "Evet. Fuarlar, etkinlikler, müşteri hediyeleri ve çalışan motivasyon projeleri için ideal promosyon kupa modellerinden biridir."
+    }
+  ]
+},
 ];
 
 export default products;
