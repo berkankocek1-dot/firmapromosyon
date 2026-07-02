@@ -59592,8 +59592,6 @@ Promosyon Çoklu Şarj Kablosu (EVA Kutulu) KBL-375 modeli; Android, iOS ve Type
 
   title: "Promosyon Seramik Kupa 330 ml SK-105 | Logo Baskılı Seramik Kupa",
 
-  price: 0,
-
   category: "Kupa",
 
   image: "/products/promosyon-seramik-kupa-330ml-sk-105.jpg",
