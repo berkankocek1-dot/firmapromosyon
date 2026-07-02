@@ -11441,82 +11441,122 @@ Promosyon çakı seti siparişleri toplu üretim olarak hazırlanmakta olup mini
 },
 {
   id: "p140",
+
   slug: "promosyon-oto-kokusu-ok-750",
+
   title: "Promosyon Oto Kokusu OK-750 | Logo Baskılı Oto Kokusu",
+
   price: 7,
+
   category: "İmalat Ürünler",
 
   image: "/products/promosyon-oto-kokusu-ok-750.jpg",
 
   shortDesc:
-    "Promosyon oto kokusu OK-750 modeli özel kesim tasarımı, ofset baskı imkanı ve farklı koku seçenekleri ile araç içi kullanım için tercih edilen etkili promosyon reklam ürünlerinden biridir.",
+    "Promosyon oto kokusu OK-750 modeli, özel kesim tasarımı, ofset baskı uygulaması, farklı koku seçenekleri ve araç aynasına kolayca asılabilen yapısı ile markaların uzun süre görünür olmasını sağlayan etkili promosyon ürünlerinden biridir.",
 
   longDesc: `
-Promosyon oto kokusu OK-750 modeli araç içi kullanım için tasarlanmış etkili promosyon ürünleri arasında yer almaktadır. Araç içinde uzun süre kullanılan bir ürün olması sayesinde marka görünürlüğünü artıran güçlü reklam araçlarından biridir.
+Promosyon oto kokusu OK-750 modeli, araç içerisinde uzun süre kullanılan yapısı sayesinde marka bilinirliğini artıran en etkili promosyon ürünlerinden biridir. Günlük kullanım sırasında sürekli göz önünde bulunması sayesinde firmanızın reklamını doğal ve kalıcı şekilde yapar.
 
-Promosyon oto kokuları özellikle otomotiv firmaları, servisler, sigorta şirketleri, oto galeriler ve kurumsal tanıtım kampanyalarında tercih edilen promosyon ürünleri arasında yer almaktadır.
+Logo baskılı oto kokuları; oto servisleri, oto galeriler, sigorta şirketleri, araç kiralama firmaları, akaryakıt istasyonları ve otomotiv sektöründe faaliyet gösteren firmalar tarafından en çok tercih edilen promosyon ürünleri arasında yer almaktadır.
 
-OK-750 modeli özel kesim tasarımına sahiptir ve firmanıza ait logo veya reklam tasarımı ürün üzerine ofset baskı yöntemi ile uygulanabilir. Bu sayede ürün hem kullanışlı bir araç aksesuarı hem de etkili bir reklam aracı haline gelir.
+OK-750 modeli özel kesim üretime uygundur. Firmanıza özel logo, ürün görseli veya kurumsal tasarım doğrultusunda farklı şekillerde üretilebilir. Bu sayede standart promosyon ürünlerinden ayrılarak markanıza özel dikkat çekici bir görünüm sunar.
 
-Promosyon oto kokuları araç aynasına kolayca asılabilen yapısı sayesinde pratik kullanım sunar. Farklı koku seçenekleri ile kullanıcıya hoş bir araç içi deneyim sağlar.
+Ürün üzerine yüksek kaliteli ofset baskı uygulanmaktadır. Canlı renkler ve yüksek baskı kalitesi sayesinde logo ve görseller net şekilde ürün üzerine aktarılır. Ofset baskı ürün fiyatına dahildir.
+
+Araç dikiz aynasına kolayca asılabilen yapısı sayesinde pratik kullanım sunar. Uzun süre hoş koku yayarken aynı zamanda markanızın her yolculukta görünür olmasını sağlar.
+
+Fresh, meyveli ve parfüm seçeneklerinden oluşan geniş koku yelpazesi sayesinde hedef kitlenize uygun alternatifler sunulabilir.
+
+NEDEN PROMOSYON OTO KOKUSU OK-750?
+
+• Özel kesim üretim imkanı
+• Logo baskılı kurumsal tasarım
+• Ofset baskı fiyata dahildir
+• Araç içerisinde uzun süre görünürlük sağlar
+• Farklı koku seçenekleri sunar
+• Düşük maliyetli güçlü reklam ürünüdür
+• Otomotiv sektörüne özel ideal promosyon ürünü
+• Toplu kampanyalar için uygundur
+• Marka bilinirliğini artırır
+• Günlük kullanıma uygundur
 
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Oto Kokusu  
+Model: OK-750  
 Kategori: İmalat Ürünler  
 Ürün Ölçüsü: 14 cm  
 Baskı Türü: Ofset Baskı  
 Kesim: Özel Kesim  
-
-SİPARİŞ BİLGİSİ
-
 Minimum Sipariş: 1000 Adet  
-Fiyata Ofset Baskı Dahildir  
+Fiyat: Ofset baskı dahildir.
 
 KOKU SEÇENEKLERİ
 
-FRESH KOKULAR  
-Okyanus  
-Yeni Araba  
-Lavanta  
-Bahar  
+Fresh Kokular: Okyanus, Yeni Araba, Lavanta, Bahar
 
-MEYVELİ KOKULAR  
-Sakız  
-Kavun  
-Elma  
-Karışık Meyve  
-Egzotik Meyve  
-Limon  
-Çilek  
-Vanilya  
+Meyveli Kokular: Sakız, Kavun, Elma, Karışık Meyve, Egzotik Meyve, Limon, Çilek, Vanilya
 
-PARFÜM KOKULARI  
-Odunsu  
-Cool Water  
-Yaz Güneşi  
-Wogo  
-Thor  
-Lucy  
+Parfüm Kokuları: Odunsu, Cool Water, Yaz Güneşi, Wogo, Thor, Lucy
 
 NOT
 
 Beyaz zeminli baskı tasarımlarında Lavanta, Portakal, Çam, Çilek, Kavun ve Limon kokuları önerilmektedir.
 
+SİPARİŞ BİLGİSİ
+
+Promosyon oto kokusu OK-750 modeli toplu üretim olarak hazırlanmaktadır.
+
+Minimum sipariş adedi 1000 adettir.
+
+Logo baskısı, özel kesim tasarımı ve tercih edilen koku sipariş sırasında belirlenmektedir.
+
+Teslim süresi üretim planına göre değişiklik gösterebilmektedir.
+
+Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Otomotiv promosyon ürünleri  
-Oto servis ve galeriler  
-Fuar ve etkinlik promosyonları  
-Marka tanıtım kampanyaları  
+• Kurumsal promosyon ürünleri
+• Otomotiv sektörü
+• Oto servisleri
+• Oto galerileri
+• Sigorta firmaları
+• Araç kiralama şirketleri
+• Akaryakıt istasyonları
+• Fuar ve etkinlikler
+• Marka tanıtım kampanyaları
 
-RENK VE STOK BİLGİSİ
+Promosyon oto kokusu OK-750 modeli; özel kesim tasarımı, kaliteli ofset baskısı, zengin koku seçenekleri ve araç içerisinde uzun süre görünür kalan yapısı sayesinde markanızın reklamını ekonomik ve etkili şekilde yapan en başarılı promosyon ürünlerinden biridir.
+`.trim(),
 
-Promosyon oto kokusu ürünleri özel tasarım ve baskı seçenekleri ile üretilebilmektedir. Sipariş öncesinde üretim ve stok detaylarının teyit edilmesi önerilmektedir.
-
-Promosyon oto kokusu siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı tasarımı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
-`
+  faq: [
+    {
+      q: "Promosyon oto kokusu OK-750 minimum sipariş adedi kaçtır?",
+      a: "OK-750 modeli için minimum sipariş adedi 1000 adettir."
+    },
+    {
+      q: "Ürün üzerine hangi baskı uygulanmaktadır?",
+      a: "Ürün üzerine yüksek kaliteli ofset baskı uygulanmaktadır ve baskı fiyata dahildir."
+    },
+    {
+      q: "Özel kesim oto kokusu üretilebilir mi?",
+      a: "Evet. Ürün firmanıza özel logo ve tasarıma göre özel kesim olarak üretilebilmektedir."
+    },
+    {
+      q: "Hangi koku seçenekleri bulunmaktadır?",
+      a: "Fresh, meyveli ve parfüm gruplarında Okyanus, Yeni Araba, Lavanta, Elma, Limon, Çilek, Vanilya, Cool Water ve daha birçok koku seçeneği sunulmaktadır."
+    },
+    {
+      q: "Promosyon oto kokusu hangi sektörler için uygundur?",
+      a: "Oto servisleri, galeriler, sigorta şirketleri, araç kiralama firmaları, akaryakıt istasyonları ve tüm kurumsal tanıtım kampanyaları için uygundur."
+    },
+    {
+      q: "Beyaz zeminli tasarımlarda hangi kokular önerilmektedir?",
+      a: "Lavanta, Portakal, Çam, Çilek, Kavun ve Limon kokuları tavsiye edilmektedir."
+    }
+  ]
 },
 {
   id: "p141",
@@ -25904,317 +25944,394 @@ Prestij promosyon ürünleri
 },
 {
   id: "p288",
+
   slug: "promosyon-kapak-acacak-ac-100",
-  title: "Promosyon Kapak Açacak AÇ-100 | UV Baskılı Açacak (7.7x7.7 cm)",
+
+  title: "Promosyon Kapak Açacak AÇ-100 | UV Baskılı Logo Baskılı Kapak Açacak",
+
   price: 12,
+
   category: "İmalat Ürünler",
+
   image: "/products/promosyon-kapak-acacak-ac-100.jpg",
 
   shortDesc:
-    "Promosyon kapak açacak AÇ-100, UV baskı özelliği ve geniş yüzeyi ile markanızı öne çıkaran kullanışlı ve dikkat çekici promosyon ürünlerinden biridir.",
+    "Promosyon kapak açacak AÇ-100 modeli, UV renkli baskıya uygun geniş yüzeyi, mıknatıslı arka tasarımı ve pratik kullanım özelliği ile marka tanıtımında en çok tercih edilen promosyon ürünlerinden biridir.",
 
   longDesc: `
-Promosyon kapak açacak AÇ-100 modeli, geniş baskı yüzeyi ve fonksiyonel yapısı ile firmaların reklam ve tanıtım çalışmalarında tercih ettiği etkili promosyon ürünleri arasında yer almaktadır.
+Promosyon kapak açacak AÇ-100 modeli, günlük kullanımda sürekli ihtiyaç duyulan fonksiyonel yapısı sayesinde markanızı uzun yıllar görünür kılan etkili promosyon ürünlerinden biridir.
 
-Kapak açacak ürünleri, günlük hayatta sık kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+Restoranlar, kafeler, oteller, marketler, içecek firmaları, organizasyon şirketleri ve birçok kurumsal firma tarafından tercih edilen promosyon kapak açacak modelleri, müşterilerin sürekli kullandığı ürünler arasında yer aldığı için marka bilinirliğini artırmada oldukça başarılıdır.
 
-AÇ-100 modeli, geniş yüzeyi sayesinde logo, marka adı veya kampanya mesajlarının rahatlıkla uygulanmasına imkan tanır. Bu sayede daha dikkat çekici ve akılda kalıcı bir reklam alanı oluşturur.
+AÇ-100 modeli geniş baskı alanı sayesinde firmanızın logosu, sloganı, kampanya görselleri veya kurumsal tasarımlarının yüksek çözünürlükte uygulanmasına olanak sağlar. UV renkli baskı teknolojisi ile canlı renkler, yüksek baskı kalitesi ve uzun ömürlü kullanım elde edilir.
 
-Ürün üzerine UV baskı uygulanmaktadır. UV baskı tekniği sayesinde renkli ve yüksek çözünürlüklü baskılar elde edilir. Logo ve görseller canlı, parlak ve uzun ömürlü olur.
+Ürünün arka kısmında bulunan güçlü mıknatıs sayesinde buzdolabı ve tüm metal yüzeylere kolayca tutunabilir. Aynı zamanda kapak açacağı olarak kullanılabildiği için kullanıcı tarafından uzun yıllar saklanır ve markanızın sürekli görünmesini sağlar.
 
-Kompakt ve ergonomik yapısı sayesinde kolay taşınabilir ve pratik kullanım sağlar. Hem bireysel hem de kurumsal dağıtımlar için ideal bir promosyon ürünüdür.
+Ekonomik maliyeti, yüksek reklam değeri ve günlük kullanım avantajı sayesinde fuarlar, promosyon kampanyaları, açılış organizasyonları ve toplu dağıtımlar için en çok tercih edilen promosyon ürünlerinden biridir.
 
-Minimum sipariş adeti 100 adet olup, toplu üretim için uygundur.
+NEDEN PROMOSYON KAPAK AÇACAK AÇ-100?
+
+UV Renkli Baskıya Uygun • Geniş Logo Baskı Alanı • Güçlü Mıknatıslı Arka Yüzey • Kapak Açacak Fonksiyonu • Dayanıklı Plastik Gövde • Uzun Ömürlü Kullanım • Ekonomik Promosyon Çözümü • Marka Bilinirliğini Artırır • Günlük Kullanıma Uygun • Toplu Dağıtımlar İçin İdeal
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Kapak Açacak  
-Kategori: İmalat Ürünler  
+Ürün Tipi: Promosyon Kapak Açacak | Model: AÇ-100 | Kategori: İmalat Ürünler
 
-Özellikler:
-
-Geniş Baskı Yüzeyi  
-Kompakt ve Kullanışlı Tasarım  
-
-Baskı Türü:
-
-UV Baskı  
-
-Ürün Ölçüsü:
-
-7.7 x 7.7 cm  
-
-Minimum Sipariş:
-
-100 Adet  
+Ürün Ölçüsü: 7.7 x 7.7 cm | Baskı Türü: UV Renkli Baskı | Özellikler: Kapak Açacak, Mıknatıslı Arka Yüzey, Geniş Baskı Alanı | Minimum Sipariş: 100 Adet
 
 SİPARİŞ BİLGİSİ
 
-Promosyon kapak açacak siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+Promosyon kapak açacak AÇ-100 modeli toplu üretim olarak hazırlanmaktadır.
 
-Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+Minimum sipariş adedi 100 adettir. Logo baskı tasarımları firmanıza özel olarak hazırlanmaktadır. Teslim süresi sipariş miktarı ve üretim planına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat ve teklif almak için bizimle iletişime geçebilirsiniz.
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Kafe ve restoran promosyonları  
-Reklam kampanyaları  
-Toplu dağıtım ve promosyon aktiviteleri  
-Marka tanıtım çalışmaları
-`
+Kurumsal Promosyon Ürünleri | Restoran ve Kafeler | Oteller | İçecek Firmaları | Market Zincirleri | Fuar ve Etkinlik Organizasyonları | Reklam Kampanyaları | Marka Tanıtım Çalışmaları | Toplu Promosyon Dağıtımları
+
+Promosyon kapak açacak AÇ-100 modeli; UV baskıya uygun geniş yüzeyi, mıknatıslı yapısı, dayanıklı gövdesi ve günlük kullanım sağlayan fonksiyonel tasarımı sayesinde markanızı uzun yıllar görünür kılan en etkili promosyon ürünlerinden biridir.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon kapak açacak AÇ-100 minimum sipariş adedi kaçtır?",
+      a: "Bu model için minimum sipariş miktarı 100 adettir."
+    },
+    {
+      q: "Ürün üzerine hangi baskı uygulanmaktadır?",
+      a: "Ürün üzerine yüksek kaliteli UV renkli baskı uygulanmaktadır."
+    },
+    {
+      q: "Kapak açacak mıknatıslı mıdır?",
+      a: "Evet. Ürünün arka kısmında güçlü mıknatıs bulunmaktadır ve metal yüzeylere kolayca tutunabilir."
+    },
+    {
+      q: "Ürünün ölçüsü nedir?",
+      a: "Promosyon kapak açacak AÇ-100 modeli 7.7 x 7.7 cm ölçülerindedir."
+    },
+    {
+      q: "Logo baskısı yapılabiliyor mu?",
+      a: "Evet. Firmanıza özel logo, görsel ve kurumsal tasarımlar UV renkli baskı teknolojisi ile uygulanabilmektedir."
+    },
+    {
+      q: "Hangi sektörler için uygundur?",
+      a: "Kafe, restoran, otel, market, içecek firmaları, fuarlar, etkinlikler ve tüm kurumsal promosyon çalışmaları için ideal bir üründür."
+    }
+  ]
 },
 {
   id: "p289",
+
   slug: "promosyon-uzun-acacak-ac-110",
-  title: "Promosyon Uzun Açacak AÇ-110 | UV Baskılı Açacak (5x11 cm)",
+
+  title: "Promosyon Uzun Açacak AÇ-110 | UV Baskılı Logo Baskılı Uzun Açacak",
+
   price: 13,
+
   category: "İmalat Ürünler",
+
   image: "/products/promosyon-uzun-acacak-ac-110.jpg",
 
   shortDesc:
-    "Promosyon uzun açacak AÇ-110, ince ve ergonomik yapısı ile kolay kullanım sunan, UV baskı ile markanızı öne çıkaran etkili promosyon ürünlerinden biridir.",
+    "Promosyon uzun açacak AÇ-110 modeli, UV renkli baskıya uygun geniş yüzeyi, ergonomik uzun tasarımı ve mıknatıslı yapısı ile marka tanıtımında en çok tercih edilen promosyon ürünlerinden biridir.",
 
   longDesc: `
-Promosyon uzun açacak AÇ-110 modeli, ince ve uzun formu ile kullanım kolaylığı sağlayan ve kurumsal tanıtım çalışmalarında sık tercih edilen promosyon ürünleri arasında yer almaktadır.
+Promosyon uzun açacak AÇ-110 modeli, ergonomik yapısı ve geniş baskı alanı sayesinde kurumsal tanıtım çalışmalarında uzun yıllardır tercih edilen kullanışlı promosyon ürünlerinden biridir.
 
-Kapak açacak ürünleri, günlük hayatta sık kullanılan ve uzun süre muhafaza edilen ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+Kapak açacak ürünleri; restoranlar, kafeler, oteller, marketler, içecek markaları, organizasyon firmaları ve birçok kurumsal işletme tarafından günlük kullanım avantajı nedeniyle tercih edilmektedir. Sürekli kullanılan bir ürün olması sayesinde markanızın görünürlüğünü artırır ve uzun süre reklam değeri oluşturur.
 
-AÇ-110 modeli, uzun ve dar yapısı sayesinde elde rahat tutuş sağlar ve pratik kullanım sunar. Bu ergonomik tasarım, ürünün kullanım sıklığını artırarak reklam etkisini güçlendirir.
+AÇ-110 modeli ince ve uzun gövde tasarımı sayesinde elde rahat bir tutuş sağlar. Üzerine uygulanan UV renkli baskı teknolojisi ile logo, kurumsal kimlik, kampanya görselleri ve özel tasarımlar canlı renklerle yüksek çözünürlükte uygulanabilmektedir.
 
-Ürün üzerine UV baskı uygulanmaktadır. Bu baskı yöntemi sayesinde logo, marka adı veya görseller canlı ve yüksek çözünürlükte uygulanabilir. Baskılar uzun ömürlü ve dikkat çekici olur.
+Arka bölümünde bulunan güçlü mıknatıs sayesinde buzdolabı ve metal yüzeylere kolayca tutunabilir. Böylece kullanıcı tarafından sürekli görülebilen ve uzun yıllar saklanan etkili bir reklam ürününe dönüşür.
 
-Kompakt yapısı sayesinde kolay taşınabilir ve farklı kullanım alanlarına uygundur. Özellikle kafe, restoran ve etkinliklerde dağıtım için ideal bir promosyon ürünüdür.
+Dayanıklı gövde yapısı, hafif tasarımı ve ekonomik maliyeti sayesinde fuarlar, promosyon kampanyaları, açılış organizasyonları ve toplu kurumsal dağıtımlar için ideal bir promosyon çözümüdür.
 
-Minimum sipariş adeti 100 adet olup, toplu üretim için uygundur.
+NEDEN PROMOSYON UZUN AÇACAK AÇ-110?
+
+UV Renkli Baskıya Uygun • Geniş Logo Baskı Alanı • Güçlü Mıknatıslı Arka Yüzey • Ergonomik Uzun Tasarım • Hafif ve Dayanıklı Gövde • Kolay Taşınabilir • Uzun Ömürlü Kullanım • Ekonomik Promosyon Çözümü • Günlük Kullanıma Uygun • Marka Bilinirliğini Artırır
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Uzun Açacak  
-Kategori: İmalat Ürünler  
+Ürün Tipi: Promosyon Uzun Açacak | Model: AÇ-110 | Kategori: İmalat Ürünler
 
-Özellikler:
-
-İnce ve Uzun Tasarım  
-Ergonomik Kullanım  
-Hafif ve Taşınabilir Yapı  
-
-Baskı Türü:
-
-UV Baskı  
-
-Ürün Ölçüsü:
-
-5 x 11 cm  
-
-Minimum Sipariş:
-
-100 Adet  
+Ürün Ölçüsü: 5 x 11 cm | Baskı Türü: UV Renkli Baskı | Özellikler: Ergonomik Uzun Tasarım, Mıknatıslı Arka Yüzey, Geniş Baskı Alanı | Minimum Sipariş: 100 Adet
 
 SİPARİŞ BİLGİSİ
 
-Promosyon uzun açacak siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+Promosyon uzun açacak AÇ-110 modeli toplu üretim olarak hazırlanmaktadır.
 
-Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+Minimum sipariş adedi 100 adettir. Logo baskı çalışmaları firmanıza özel olarak hazırlanmaktadır. Teslim süresi sipariş miktarı ve üretim planına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat ve teklif almak için bizimle iletişime geçebilirsiniz.
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Kafe ve restoran promosyonları  
-Fuar ve etkinlik organizasyonları  
-Reklam kampanyaları  
-Toplu dağıtım ve promosyon aktiviteleri  
-Marka tanıtım çalışmaları
-`
+Kurumsal Promosyon Ürünleri | Restoran ve Kafeler | Oteller | İçecek Firmaları | Market Zincirleri | Fuar ve Etkinlik Organizasyonları | Reklam Kampanyaları | Marka Tanıtım Çalışmaları | Toplu Promosyon Dağıtımları
+
+Promosyon uzun açacak AÇ-110 modeli; ergonomik tasarımı, UV baskıya uygun geniş yüzeyi, mıknatıslı yapısı ve uzun ömürlü kullanım sağlayan dayanıklı gövdesi sayesinde markanızı uzun yıllar görünür kılan en etkili promosyon ürünlerinden biridir.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon uzun açacak AÇ-110 minimum sipariş adedi kaçtır?",
+      a: "Bu model için minimum sipariş miktarı 100 adettir."
+    },
+    {
+      q: "Ürün üzerine hangi baskı uygulanmaktadır?",
+      a: "Ürün üzerine yüksek kaliteli UV renkli baskı uygulanmaktadır."
+    },
+    {
+      q: "Uzun açacak mıknatıslı mıdır?",
+      a: "Evet. Ürünün arka kısmında güçlü mıknatıs bulunmaktadır ve metal yüzeylere kolayca tutunabilir."
+    },
+    {
+      q: "Ürünün ölçüsü nedir?",
+      a: "Promosyon uzun açacak AÇ-110 modeli 5 x 11 cm ölçülerindedir."
+    },
+    {
+      q: "Logo baskısı yapılabiliyor mu?",
+      a: "Evet. Firmanıza özel logo, görsel ve kurumsal tasarımlar UV renkli baskı teknolojisi ile uygulanabilmektedir."
+    },
+    {
+      q: "Hangi sektörler için uygundur?",
+      a: "Kafe, restoran, otel, market, içecek firmaları, fuarlar, etkinlikler ve tüm kurumsal promosyon çalışmaları için ideal bir üründür."
+    }
+  ]
 },
 {
   id: "p290",
+
   slug: "promosyon-bardak-altligi-ba-650",
-  title: "Promosyon Bardak Altlığı BA-650 | Ofset Dijital Baskılı (8x8 cm)",
+
+  title: "Promosyon Bardak Altlığı BA-650 | Logo Baskılı Ofset Dijital Bardak Altlığı",
+
   price: 11,
+
   category: "İmalat Ürünler",
+
   image: "/products/promosyon-bardak-altligi-ba-650.jpg",
 
   shortDesc:
-    "Promosyon bardak altlığı BA-650, ofset dijital baskı özelliği ile kafe ve restoranlar için yüksek adetli ve etkili reklam sunan promosyon ürünlerinden biridir.",
+    "Promosyon bardak altlığı BA-650 modeli, ofset ve dijital baskıya uygun geniş yüzeyi, dayanıklı yapısı ve kurumsal tanıtımlar için ideal tasarımı ile en çok tercih edilen promosyon bardak altlığı modellerinden biridir.",
 
   longDesc: `
-Promosyon bardak altlığı BA-650 modeli, geniş kullanım alanı ve ekonomik yapısı ile firmaların tanıtım çalışmalarında sık tercih ettiği promosyon ürünleri arasında yer almaktadır.
+Promosyon bardak altlığı BA-650 modeli, restoranlar, kafeler, oteller ve kurumsal organizasyonlarda markanızı sürekli görünür kılan etkili promosyon ürünlerinden biridir.
 
-Bardak altlıkları, özellikle kafe, restoran ve etkinliklerde sürekli kullanılan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
+Bardak altlıkları, kullanıcıların gün içerisinde defalarca temas ettiği ürünler arasında yer aldığı için marka bilinirliğini artıran en ekonomik reklam çözümlerinden biridir. Masa üzerinde sürekli görünür olması sayesinde logonuz müşterilerinizin dikkatini uzun süre çeker.
 
-BA-650 modeli, 8 x 8 cm ölçüsü ile standart bardak kullanımına uygun olup, geniş baskı yüzeyi sayesinde logo, marka adı veya reklam mesajlarının rahatlıkla uygulanmasına imkan tanır.
+BA-650 modeli 8 x 8 cm ölçüsü ile sıcak ve soğuk içecek bardakları için ideal kullanım sunar. Geniş baskı alanı sayesinde firmanızın logosu, kurumsal kimliği, kampanya görselleri ve reklam mesajları yüksek çözünürlükte uygulanabilmektedir.
 
-Ürün üzerine ofset ve dijital baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde yüksek adetli üretimlerde kaliteli, net ve dikkat çekici baskılar elde edilir.
+Ürün üzerine ofset ve dijital baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde canlı renkler, net detaylar ve uzun ömürlü baskı kalitesi elde edilir. Kare, yuvarlak veya özel kesim seçenekleri ile firmanıza özel üretim gerçekleştirilebilir.
 
-Toplu kullanım için ideal olan bu ürün, özellikle yoğun müşteri sirkülasyonu olan işletmelerde markanızın sürekli görünür olmasını sağlar.
+Dayanıklı yapısı sayesinde yoğun kullanıma uygundur. Kafe, restoran, otel, fuar ve organizasyonlarda markanızın profesyonel şekilde tanıtılmasına katkı sağlar.
 
-Minimum sipariş adeti 500 adet olup, yüksek adetli üretim ve dağıtım için uygundur.
+NEDEN PROMOSYON BARDAK ALTLIĞI BA-650?
+
+Ofset ve Dijital Baskıya Uygun • Geniş Logo Baskı Alanı • Canlı ve Yüksek Kaliteli Baskı • Dayanıklı Yapı • Kare, Yuvarlak ve Özel Kesim Seçenekleri • Uzun Ömürlü Kullanım • Ekonomik Promosyon Çözümü • Marka Bilinirliğini Artırır • Toplu Dağıtıma Uygun • Kurumsal Tanıtımlar İçin İdeal
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Bardak Altlığı  
-Kategori: İmalat Ürünler  
+Ürün Tipi: Promosyon Bardak Altlığı | Model: BA-650 | Kategori: İmalat Ürünler
 
-Özellikler:
-
-Geniş Baskı Yüzeyi  
-Standart Ölçü  
-Toplu Kullanıma Uygun  
-
-Baskı Türü:
-
-Ofset Baskı  
-Dijital Baskı  
-
-Ürün Ölçüsü:
-
-8 x 8 cm  
-
-Minimum Sipariş:
-
-500 Adet  
+Ürün Ölçüsü: 8 x 8 cm | Baskı Türü: Ofset Baskı, Dijital Baskı | Özellikler: Geniş Baskı Alanı, Kare/Yuvarlak/Özel Kesim Seçenekleri, Dayanıklı Yapı | Minimum Sipariş: 500 Adet
 
 SİPARİŞ BİLGİSİ
 
-Promosyon bardak altlığı siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+Promosyon bardak altlığı BA-650 modeli toplu üretim olarak hazırlanmaktadır.
 
-Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+Minimum sipariş adedi 500 adettir. Logo baskıları ve tasarımlar firmanıza özel olarak hazırlanmaktadır. Üretim süresi sipariş miktarı ve baskı detaylarına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat ve teklif almak için bizimle iletişime geçebilirsiniz.
 
 KULLANIM ALANLARI
 
-Kafe ve restoran promosyonları  
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Reklam kampanyaları  
-Toplu dağıtım ve promosyon aktiviteleri  
-Marka tanıtım çalışmaları
-`
+Kurumsal Promosyon Ürünleri | Kafe ve Restoranlar | Oteller | Bar ve Kafeler | Fuar ve Etkinlik Organizasyonları | Reklam Kampanyaları | Marka Tanıtım Çalışmaları | Toplu Promosyon Dağıtımları | Ofisler | Lansman Organizasyonları
+
+Promosyon bardak altlığı BA-650 modeli; yüksek kaliteli ofset ve dijital baskı seçenekleri, geniş logo uygulama alanı, dayanıklı yapısı ve ekonomik maliyeti sayesinde markanızı uzun süre görünür kılan en etkili promosyon ürünlerinden biridir.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon bardak altlığı BA-650 minimum sipariş adedi kaçtır?",
+      a: "Bu model için minimum sipariş miktarı 500 adettir."
+    },
+    {
+      q: "Ürün üzerine hangi baskı yöntemleri uygulanmaktadır?",
+      a: "Ürün üzerine ofset baskı ve dijital baskı uygulanabilmektedir."
+    },
+    {
+      q: "Bardak altlığının ölçüsü nedir?",
+      a: "BA-650 modeli 8 x 8 cm ölçülerindedir."
+    },
+    {
+      q: "Özel şekilli üretim yapılabilir mi?",
+      a: "Evet. Kare, yuvarlak ve firmanıza özel kesim seçenekleri ile üretim yapılabilmektedir."
+    },
+    {
+      q: "Logo baskısı yapılabiliyor mu?",
+      a: "Evet. Firmanıza özel logo, görsel ve reklam tasarımları yüksek kaliteli ofset veya dijital baskı ile uygulanabilmektedir."
+    },
+    {
+      q: "Hangi sektörler için uygundur?",
+      a: "Kafe, restoran, otel, fuar, organizasyon, ofis, reklam kampanyaları ve tüm kurumsal promosyon çalışmaları için ideal bir üründür."
+    }
+  ]
 },
 {
   id: "p291",
+
   slug: "promosyon-balon-bl-600",
-  title: "Promosyon Balon BL-600 | Serigrafi Baskılı Balon (12 İnç)",
+
+  title: "Promosyon Balon BL-600 | Logo Baskılı Serigrafi Baskılı Balon",
+
   price: 12,
+
   category: "İmalat Ürünler",
+
   image: "/products/promosyon-balon-bl-600.jpg",
 
   shortDesc:
-    "Promosyon balon BL-600, serigrafi baskı özelliği ile fuar, etkinlik ve organizasyonlarda markanızı öne çıkaran ekonomik ve dikkat çekici promosyon ürünlerinden biridir.",
+    "Promosyon balon BL-600 modeli, serigrafi baskıya uygun yüzeyi, canlı renk seçenekleri ve 12 inç standart ölçüsü ile fuar, açılış ve organizasyonlarda markanızı ön plana çıkaran en ekonomik promosyon ürünlerinden biridir.",
 
   longDesc: `
-Promosyon balon BL-600 modeli, özellikle fuar, organizasyon ve kampanya çalışmalarında tercih edilen etkili promosyon ürünleri arasında yer almaktadır.
+Promosyon balon BL-600 modeli, marka bilinirliğini artırmak ve dikkat çekici tanıtımlar gerçekleştirmek isteyen firmalar için özel olarak üretilen ekonomik promosyon ürünlerinden biridir.
 
-Balonlar, dikkat çekici yapısı sayesinde marka görünürlüğünü artırır ve özellikle kalabalık ortamlarda güçlü bir reklam aracı olarak kullanılır.
+Promosyon balonlar; fuarlar, mağaza açılışları, festival organizasyonları, kurumsal etkinlikler, bayi toplantıları, alışveriş merkezi aktiviteleri ve reklam kampanyalarında en çok tercih edilen tanıtım ürünleri arasında yer almaktadır. Geniş kitlelere ulaşmayı sağlayan yapısı sayesinde markanızın görünürlüğünü önemli ölçüde artırır.
 
-BL-600 modeli, 12 inç ölçüsü ile standart balon boyutunda olup geniş baskı alanı sayesinde logo veya marka mesajlarının net şekilde uygulanmasına imkan tanır.
+BL-600 modeli 12 inç standart ölçüsü sayesinde hem iç hem de dış mekan organizasyonlarında rahatlıkla kullanılabilir. Geniş baskı alanı üzerine firmanızın logosu, marka ismi, sloganı veya kampanya mesajları serigrafi baskı yöntemiyle net ve dikkat çekici şekilde uygulanabilmektedir.
 
-Ürün üzerine serigrafi baskı uygulanmaktadır. Bu baskı yöntemi ile tek renk logo veya yazılar balon üzerine net ve dikkat çekici şekilde basılabilir.
+Serigrafi baskı tekniği, özellikle tek renk logo uygulamalarında yüksek baskı kalitesi ve uzun süreli görünürlük sunar. Canlı balon renkleri ile birleştiğinde markanızın daha fazla dikkat çekmesini sağlar.
 
-Promosyon balonlar, özellikle açılışlar, kampanyalar, fuarlar ve etkinliklerde yoğun şekilde tercih edilir ve marka bilinirliğini kısa sürede artırır.
+Promosyon balonlar özellikle açılış organizasyonlarında, çocuk etkinliklerinde, fuarlarda, showroomlarda ve kurumsal tanıtımlarda düşük maliyetle yüksek reklam etkisi sağlayan promosyon ürünleri arasında yer almaktadır.
 
-Çubuksuz olarak sunulan bu ürün, isteğe bağlı olarak çubuk ile birlikte de temin edilebilir. Çubuk talep edilmesi durumunda fiyatlandırma ayrı olarak yapılmaktadır.
+Ürün standart olarak çubuksuz gönderilmektedir. Talep edilmesi halinde balon çubuğu ve aparatı ayrıca temin edilebilmektedir.
 
-Minimum sipariş adeti 1000 adet olup, yüksek adetli organizasyonlar için uygundur.
+NEDEN PROMOSYON BALON BL-600?
+
+Serigrafi Baskıya Uygun • 12 İnç Standart Ölçü • Geniş Logo Baskı Alanı • Canlı Renk Seçenekleri • Hafif ve Dayanıklı Yapı • Ekonomik Promosyon Çözümü • Yüksek Marka Görünürlüğü • İç ve Dış Mekan Kullanımına Uygun • Toplu Organizasyonlar İçin İdeal • Kurumsal Tanıtımlarda Etkili
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Balon  
-Kategori: İmalat Ürünler  
+Ürün Tipi: Promosyon Balon | Model: BL-600 | Kategori: İmalat Ürünler
 
-Özellikler:
+Ürün Ölçüsü: 12 İnç | Baskı Türü: Serigrafi Baskı (Tek Renk) | Özellikler: Geniş Baskı Alanı, Canlı Renk Seçenekleri, Organizasyonlara Uygun | Minimum Sipariş: 1000 Adet
 
-12 İnç Standart Ölçü  
-Geniş Baskı Alanı  
-Dikkat Çekici Tasarım  
+EK BİLGİ
 
-Baskı Türü:
-
-Serigrafi Baskı (Tek Renk)  
-
-Minimum Sipariş:
-
-1000 Adet  
-
-Ek Bilgi:
-
-Çubuk Fiyata Dahil Değildir  
-Talep Edilirse Ayrı Olarak Fiyatlandırılır  
+Çubuk Fiyata Dahil Değildir | Talep Edilmesi Halinde Balon Çubuğu ve Aparatı Ayrı Olarak Fiyatlandırılmaktadır
 
 SİPARİŞ BİLGİSİ
 
-Promosyon balon siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+Promosyon balon BL-600 modeli toplu üretim olarak hazırlanmaktadır.
 
-Ürün baskı detayları, adet ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+Minimum sipariş adedi 1000 adettir. Logo baskıları firmanıza özel olarak hazırlanmaktadır. Üretim süresi sipariş miktarı ve baskı detaylarına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat ve teklif almak için bizimle iletişime geçebilirsiniz.
 
 KULLANIM ALANLARI
 
-Fuar ve etkinlik organizasyonları  
-Mağaza açılışları  
-Kampanya ve reklam çalışmaları  
-Kurumsal promosyon ürünleri  
-Toplu dağıtım ve marka tanıtımı  
-Festival ve organizasyonlar
-`
+Kurumsal Promosyon Ürünleri | Fuar ve Etkinlik Organizasyonları | Mağaza Açılışları | Festival ve Konser Organizasyonları | AVM Etkinlikleri | Reklam Kampanyaları | Marka Tanıtım Çalışmaları | Bayi Toplantıları | Çocuk Etkinlikleri | Toplu Promosyon Dağıtımları
+
+Promosyon balon BL-600 modeli; kaliteli serigrafi baskısı, geniş logo uygulama alanı, canlı renk seçenekleri ve ekonomik maliyeti sayesinde markanızı kalabalık organizasyonlarda öne çıkaran en etkili promosyon ürünlerinden biridir.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon balon BL-600 minimum sipariş adedi kaçtır?",
+      a: "Bu model için minimum sipariş miktarı 1000 adettir."
+    },
+    {
+      q: "Balon üzerine hangi baskı yöntemi uygulanmaktadır?",
+      a: "Ürün üzerine tek renk serigrafi baskı uygulanmaktadır."
+    },
+    {
+      q: "Balonun ölçüsü nedir?",
+      a: "BL-600 modeli standart 12 inç ölçüsündedir."
+    },
+    {
+      q: "Balon çubuğu fiyata dahil midir?",
+      a: "Hayır. Ürün standart olarak çubuksuz gönderilmektedir. Talep edilmesi halinde balon çubuğu ayrıca fiyatlandırılır."
+    },
+    {
+      q: "Logo baskısı yapılabiliyor mu?",
+      a: "Evet. Firmanıza özel logo, yazı ve marka tasarımları serigrafi baskı ile uygulanabilmektedir."
+    },
+    {
+      q: "Hangi organizasyonlarda kullanılabilir?",
+      a: "Fuarlar, mağaza açılışları, AVM etkinlikleri, festival organizasyonları, reklam kampanyaları, bayi toplantıları ve tüm kurumsal tanıtım faaliyetleri için idealdir."
+    }
+  ]
 },
 {
   id: "p292",
+
   slug: "promosyon-frizbi-frz-160",
-  title: "Promosyon Frizbi FRZ-160 | Serigraf ve Ofset Baskılı (23 cm)",
+
+  title: "Promosyon Frizbi FRZ-160 | Logo Baskılı Serigraf ve Ofset Baskılı Frizbi",
+
   price: 50,
+
   category: "İmalat Ürünler",
+
   image: "/products/promosyon-frizbi-frz-160.jpg",
 
   shortDesc:
-    "Promosyon frizbi FRZ-160, geniş baskı alanı ve eğlenceli yapısı ile etkinliklerde markanızı öne çıkaran dikkat çekici promosyon ürünlerinden biridir.",
+    "Promosyon frizbi FRZ-160 modeli, 23 cm çapı, geniş baskı alanı ve serigraf ile ofset baskı seçenekleri sayesinde fuar, festival ve açık hava etkinliklerinde markanızı öne çıkaran eğlenceli promosyon ürünlerinden biridir.",
 
   longDesc: `
-Promosyon frizbi FRZ-160 modeli, eğlenceli ve dikkat çekici yapısı ile özellikle açık hava etkinlikleri ve organizasyonlarda tercih edilen promosyon ürünleri arasında yer almaktadır.
+Promosyon frizbi FRZ-160 modeli, açık hava etkinlikleri, festivaller, plaj organizasyonları ve kurumsal tanıtımlarda markanızı eğlenceli bir şekilde öne çıkaran dikkat çekici promosyon ürünlerinden biridir.
 
-Frizbi ürünleri, kullanıcılar tarafından aktif şekilde kullanıldığı için marka bilinirliğini artırmada oldukça etkilidir. Eğlenceli yapısı sayesinde markanız kullanıcılar tarafından daha uzun süre hatırlanır.
+Promosyon frizbiler; fuarlar, üniversite etkinlikleri, spor organizasyonları, belediye etkinlikleri, şirket piknikleri, yaz festivalleri ve reklam kampanyalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Kullanıcıların aktif olarak kullandığı bir ürün olması sayesinde markanız uzun süre görünür kalır ve yüksek reklam değeri oluşturur.
 
-23 cm çapı ile ideal kullanım sunan bu model, geniş baskı alanı sayesinde logo ve marka mesajlarının rahatlıkla uygulanmasına imkan tanır.
+FRZ-160 modeli 23 cm çapı ile hem çocuklar hem de yetişkinler için ideal kullanım sunmaktadır. Geniş baskı alanı üzerine firmanızın logosu, marka ismi, sloganı veya reklam tasarımları yüksek kaliteyle uygulanabilmektedir.
 
-Tek renk baskılar için serigraf baskı uygulanabilmektedir. Daha renkli ve detaylı tasarımlar için ise ofset baskı tercih edilebilir. Bu sayede marka kimliğinize uygun farklı baskı seçenekleri sunulmaktadır.
+Tek renk logo uygulamalarında serigraf baskı, çok renkli ve görsel ağırlıklı tasarımlarda ise ofset baskı tercih edilmektedir. Her iki baskı yöntemi de canlı renkler ve yüksek baskı kalitesi sunarak markanızın profesyonel görünmesini sağlar.
 
-Dayanıklı ve hafif yapısı sayesinde hem yetişkinler hem de çocuklar tarafından rahatlıkla kullanılabilir. Özellikle festival, fuar, plaj etkinlikleri ve açık hava organizasyonları için ideal bir promosyon ürünüdür.
+Dayanıklı plastik malzemeden üretilen FRZ-160 modeli hafif yapısı sayesinde kolay taşınabilir ve uzun süre kullanılabilir. Yaz organizasyonları, plaj aktiviteleri ve kurumsal etkinliklerde eğlence ile reklamı bir araya getiren en etkili promosyon ürünlerinden biridir.
+
+NEDEN PROMOSYON FRİZBİ FRZ-160?
+
+Serigraf ve Ofset Baskıya Uygun • 23 cm Standart Ölçü • Geniş Logo Baskı Alanı • Hafif ve Dayanıklı Gövde • Eğlenceli ve Dikkat Çekici Tasarım • Açık Hava Organizasyonlarına Uygun • Uzun Ömürlü Kullanım • Ekonomik Promosyon Çözümü • Marka Bilinirliğini Artırır • Toplu Dağıtımlar İçin İdeal
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Frizbi  
-Kategori: İmalat Ürünler  
+Ürün Tipi: Promosyon Frizbi | Model: FRZ-160 | Kategori: İmalat Ürünler
 
-Özellikler:
-
-Eğlenceli ve Dikkat Çekici Tasarım  
-Geniş Baskı Alanı  
-Hafif ve Dayanıklı Yapı  
-
-Baskı Türü:
-
-Serigraf Baskı (Tek Renk)  
-Ofset Baskı (Renkli)  
-
-Ürün Ölçüsü:
-
-Çap: 23 cm  
-Baskı Alanı: 14.2 cm  
+Ürün Çapı: 23 cm | Baskı Alanı: 14.2 cm | Baskı Türü: Serigraf Baskı (Tek Renk), Ofset Baskı (Renkli) | Özellikler: Geniş Baskı Alanı, Hafif ve Dayanıklı Gövde, Açık Hava Kullanımına Uygun
 
 SİPARİŞ BİLGİSİ
 
-Promosyon frizbi siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
+Promosyon frizbi FRZ-160 modeli toplu üretim olarak hazırlanmaktadır.
 
-Ürün baskı detayları, renk seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+Logo baskıları firmanıza özel olarak hazırlanmaktadır. Üretim süresi sipariş miktarı ve baskı detaylarına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat ve teklif almak için bizimle iletişime geçebilirsiniz.
 
 KULLANIM ALANLARI
 
-Fuar ve etkinlik organizasyonları  
-Festival ve açık hava etkinlikleri  
-Plaj ve yaz organizasyonları  
-Kurumsal promosyon ürünleri  
-Reklam ve tanıtım kampanyaları  
-Toplu dağıtım ve marka tanıtımı
-`
+Kurumsal Promosyon Ürünleri | Festival ve Açık Hava Organizasyonları | Plaj Etkinlikleri | Fuar ve Lansmanlar | Üniversite Etkinlikleri | Spor Organizasyonları | Belediye Etkinlikleri | Reklam Kampanyaları | Şirket Piknikleri | Marka Tanıtım Çalışmaları
+
+Promosyon frizbi FRZ-160 modeli; geniş baskı alanı, kaliteli serigraf ve ofset baskı seçenekleri, dayanıklı yapısı ve eğlenceli tasarımı sayesinde markanızı hedef kitlenizle buluşturan en dikkat çekici promosyon ürünlerinden biridir.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon frizbi FRZ-160 üzerine hangi baskı yöntemleri uygulanmaktadır?",
+      a: "Tek renk tasarımlar için serigraf baskı, çok renkli çalışmalar için ise ofset baskı uygulanabilmektedir."
+    },
+    {
+      q: "Frizbinin ölçüsü nedir?",
+      a: "FRZ-160 modeli 23 cm çapa ve 14.2 cm baskı alanına sahiptir."
+    },
+    {
+      q: "Logo baskısı yapılabiliyor mu?",
+      a: "Evet. Firmanıza özel logo, slogan ve reklam tasarımları serigraf veya ofset baskı ile uygulanabilmektedir."
+    },
+    {
+      q: "Hangi etkinliklerde kullanılabilir?",
+      a: "Festival, plaj organizasyonu, fuar, spor etkinliği, şirket pikniği, üniversite organizasyonu ve tüm açık hava etkinlikleri için uygundur."
+    },
+    {
+      q: "Frizbi dayanıklı mıdır?",
+      a: "Evet. Dayanıklı plastik malzemeden üretilmiş olup uzun süreli kullanıma uygundur."
+    },
+    {
+      q: "Kurumsal promosyon olarak tercih edilir mi?",
+      a: "Evet. Eğlenceli yapısı, geniş baskı alanı ve yüksek görünürlüğü sayesinde en dikkat çekici kurumsal promosyon ürünlerinden biridir."
+    }
+  ]
 },
 {
   id: "p293",
