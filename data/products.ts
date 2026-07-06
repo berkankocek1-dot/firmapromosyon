@@ -11234,57 +11234,119 @@ Promosyon makam bayrağı siparişleri toplu üretim olarak hazırlanmakta olup 
 },
 {
   id: "p136",
+
   slug: "promosyon-kutulu-sarj-kablo-seti-kbl-350",
-  title: "Promosyon Kutulu Şarj Kablo Seti KBL-350 | Logo Baskılı Şarj Kablosu Seti",
+
+  title:
+    "Promosyon Kutulu Şarj Kablo Seti KBL-350 | Logo Baskılı Çoklu Şarj Kablosu Seti",
+
   price: 350,
+
   category: "Teknolojik Ürünler",
 
   image: "/products/promosyon-kutulu-sarj-kablo-seti-kbl-350.jpg",
 
   shortDesc:
-    "Promosyon kutulu şarj kablo seti KBL-350 modeli pratik taşıma kutusu, çoklu bağlantı kablo yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon teknolojik ürünler arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
+    "Promosyon kutulu şarj kablo seti KBL-350, çoklu bağlantı seçenekleri, kompakt taşıma kutusu ve logo baskıya uygun tasarımıyla kurumsal promosyon teknolojik ürünler arasında öne çıkan kullanışlı bir aksesuardır.",
 
   longDesc: `
-Promosyon kutulu şarj kablo seti KBL-350 modeli mobil cihaz kullanıcıları için tasarlanmış pratik ve kullanışlı teknolojik promosyon ürünleri arasında yer almaktadır. Kompakt kutu tasarımı sayesinde kolay taşınabilir ve günlük kullanım için idealdir.
+Promosyon kutulu şarj kablo seti KBL-350, mobil cihaz kullanıcılarının günlük ihtiyaçlarını karşılamak amacıyla tasarlanmış pratik ve modern teknolojik promosyon ürünlerinden biridir. Kompakt taşıma kutusu içerisinde sunulan çoklu bağlantı kabloları sayesinde farklı cihazlarla uyumlu kullanım imkanı sağlayarak hem iş hayatında hem de günlük yaşamda büyük kolaylık sunar.
 
-Promosyon teknolojik ürünler özellikle kurumsal firmalar tarafından marka tanıtımı için tercih edilen modern promosyon ürünleri arasında yer almaktadır. Günlük hayatta sık kullanılan teknolojik aksesuarlar marka görünürlüğünü uzun süre artıran etkili promosyon ürünleri sunar.
+Teknolojik promosyon ürünleri, uzun süre kullanılan yapıları sayesinde markaların görünürlüğünü artıran etkili reklam araçları arasında yer almaktadır. Şarj kablo setleri ise sürekli ihtiyaç duyulan aksesuarlar olduğu için kullanıcı tarafından düzenli olarak kullanılmakta ve marka bilinirliğinin kalıcı şekilde desteklenmesine katkı sağlamaktadır.
 
-KBL-350 modeli şık ve koruyucu kutu tasarımına sahiptir. Şarj kablo seti farklı mobil cihazlarla uyumlu bağlantı seçenekleri sunarak pratik bir kullanım sağlar.
+KBL-350 modeli, düzenli şekilde saklanabilen kutulu tasarımı sayesinde kabloların karışmasını önlerken taşıma kolaylığı da sunmaktadır. Seyahatlerde, ofis ortamlarında, toplantılarda ve günlük kullanımda rahatlıkla tercih edilebilecek kompakt yapıya sahiptir.
 
-Promosyon şarj kablo seti üzerine firmanıza ait logo veya marka baskısı uygulanarak ürün güçlü bir reklam ve kurumsal tanıtım aracı haline getirilebilir.
+Ürün üzerinde yer alan baskı alanına firmanızın logosu veya kurumsal marka çalışması uygulanabilmektedir. Logo baskısı sayesinde ürün, uzun süre kullanılan profesyonel bir kurumsal promosyon hediyesine dönüşmektedir.
 
-Promosyon teknolojik ürünler özellikle fuarlar, kurumsal etkinlikler, şirket kampanyaları ve müşteri promosyonları için tercih edilmektedir.
+Farklı bağlantı uçlarını tek bir ürün içerisinde sunan bu model, mobil telefonlar, tabletler ve uyumlu elektronik cihazlar için pratik kullanım avantajı sağlar. Günümüzde teknolojik aksesuarların yoğun olarak kullanılması sayesinde marka tanıtımı açısından yüksek geri dönüş sağlayabilecek promosyon ürünleri arasında yer almaktadır.
+
+Promosyon kutulu şarj kablo seti; fuarlar, bayi toplantıları, lansman organizasyonları, teknoloji etkinlikleri, müşteri ziyaretleri ve kurumsal hediye çalışmaları için tercih edilen modern promosyon çözümlerinden biridir.
+
+NEDEN PROMOSYON KUTULU ŞARJ KABLO SETİ KBL-350 TERCİH EDİLMELİ?
+
+• Kompakt ve şık taşıma kutusu
+• Çoklu bağlantı kablo sistemi
+• Logo baskısına uygun yüzey
+• Günlük kullanıma uygun pratik tasarım
+• Seyahatlerde kolay taşınabilir yapı
+• Teknolojik promosyon kategorisinde modern çözüm
+• Kurumsal marka tanıtımını destekler
+• Uzun süre kullanılabilen promosyon ürünü
+
+KULLANIM ALANLARI
+
+• Kurumsal promosyon çalışmaları
+• Teknoloji fuarları
+• Lansman organizasyonları
+• Bayi toplantıları
+• Müşteri hediye çalışmaları
+• Şirket içi promosyon dağıtımları
+• Ofis kullanımı
+• Teknoloji firmaları
+
+KİMLER İÇİN UYGUN?
+
+• Kurumsal firmalar
+• Teknoloji şirketleri
+• Yazılım firmaları
+• Reklam ajansları
+• Telekomünikasyon firmaları
+• Bankalar
+• Eğitim kurumları
+• Organizasyon şirketleri
+
+PROMOSYON ŞARJ KABLO SETİ FİYATLARI
+
+Promosyon şarj kablo seti fiyatları; sipariş miktarı, baskı uygulaması, ürün özellikleri ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma avantajları sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal logo baskısı uygulanabilmektedir.
+• Toplu siparişler için üretim yapılmaktadır.
+• Siyah ve beyaz renk seçenekleri bulunmaktadır.
+• Güncel stok durumu sipariş öncesinde teyit edilmektedir.
+• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
 
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Şarj Kablo Seti  
+Model: KBL-350  
 Kategori: Teknolojik Ürünler  
-Ürün Modeli: KBL-350  
-Kutu Tipi: Taşıma Kutulu  
+Kutu Tipi: Taşınabilir Koruyucu Kutu  
+Bağlantı Özelliği: Çoklu Şarj Kablo Sistemi  
+Baskı Türü: Logo Baskı  
+Renk Seçenekleri: Siyah, Beyaz  
+Kullanım Alanı: Günlük ve Kurumsal Kullanım
 
-RENK SEÇENEKLERİ
+Promosyon kutulu şarj kablo seti KBL-350, çoklu bağlantı seçenekleri, kompakt kutulu tasarımı ve logo baskıya uygun yapısıyla markanızı teknolojiyle buluşturan profesyonel promosyon ürünlerinden biridir. Kurumsal toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
+`.trim(),
 
-Siyah  
-Beyaz  
-
-BASKI BİLGİLERİ
-
-Logo Baskı: Kurumsal logo baskıya uygundur  
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Teknolojik promosyon ürünleri  
-Fuar ve etkinlik promosyonları  
-Müşteri promosyon hediyeleri  
-Marka tanıtım ürünleri  
-
-RENK VE STOK BİLGİSİ
-
-Promosyon şarj kablo setleri farklı renk seçenekleri ile üretilebilmektedir. Sipariş öncesinde stok durumunun teyit edilmesi önerilmektedir.
-
-Promosyon teknolojik ürün siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
-`
+  faq: [
+    {
+      q: "Promosyon kutulu şarj kablo seti KBL-350 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerine firmanıza özel logo veya kurumsal marka baskısı uygulanabilmektedir.",
+    },
+    {
+      q: "Şarj kablo seti hangi cihazlarla kullanılabilir?",
+      a: "Ürün, sahip olduğu çoklu bağlantı sistemi sayesinde uyumlu mobil telefonlar, tabletler ve diğer elektronik cihazlarla kullanılabilecek şekilde tasarlanmıştır.",
+    },
+    {
+      q: "Ürün hangi renk seçenekleriyle sunulmaktadır?",
+      a: "KBL-350 modeli siyah ve beyaz renk seçenekleriyle temin edilebilmektedir. Güncel stok durumu sipariş öncesinde paylaşılmaktadır.",
+    },
+    {
+      q: "Şarj kabloları koruyucu kutu içerisinde mi sunuluyor?",
+      a: "Evet. Ürün, kabloların düzenli şekilde saklanmasını sağlayan kompakt ve koruyucu taşıma kutusu ile birlikte sunulmaktadır.",
+    },
+    {
+      q: "Kurumsal promosyon olarak kullanıma uygun mudur?",
+      a: "Evet. Teknoloji fuarları, bayi toplantıları, lansman organizasyonları ve kurumsal müşteri hediyeleri için ideal bir promosyon ürünüdür.",
+    },
+    {
+      q: "Teslim süresi nasıl belirlenmektedir?",
+      a: "Teslim süresi sipariş miktarı, baskı uygulaması ve üretim yoğunluğuna göre planlanarak teklif aşamasında bildirilmektedir.",
+    },
+  ],
 },
 {
   id: "p137",
@@ -26335,133 +26397,234 @@ Promosyon frizbi FRZ-160 modeli; geniş baskı alanı, kaliteli serigraf ve ofse
 },
 {
   id: "p293",
+
   slug: "promosyon-mouse-pad-mp-600",
-  title: "Promosyon Mouse Pad MP-600 | Ofset Dijital Baskılı (18x22 cm)",
+
+  title:
+    "Promosyon Mouse Pad MP-600 | Logo Baskılı Ofset ve Dijital Baskılı Mouse Pad (18x22 cm)",
+
   price: 45,
+
   category: "İmalat Ürünler",
+
   image: "/products/promosyon-mouse-pad-mp-600.jpg",
 
   shortDesc:
-    "Promosyon mouse pad MP-600, geniş baskı alanı ve ofset dijital baskı özelliği ile ofis kullanımında markanızı sürekli görünür kılan etkili promosyon ürünlerinden biridir.",
+    "Promosyon mouse pad MP-600, 18x22 cm ölçüsü, geniş baskı alanı ve ofset veya dijital baskı seçenekleriyle ofislerde markanızı sürekli görünür kılan kaliteli promosyon mouse pad modelidir.",
 
   longDesc: `
-Promosyon mouse pad MP-600 modeli, özellikle ofis ve çalışma alanlarında kullanılan ve marka bilinirliğini artırmada etkili olan promosyon ürünleri arasında yer almaktadır.
+Promosyon mouse pad MP-600, masaüstü kullanımına uygun yapısı ve geniş baskı yüzeyi sayesinde markanızı gün boyunca görünür tutan etkili promosyon ürünlerinden biridir. Ofislerde, çalışma masalarında ve kurumsal kullanım alanlarında uzun süre kullanılan mouse pad ürünleri, marka bilinirliğini artıran reklam çözümleri arasında önemli bir yere sahiptir.
 
-Mouse pad ürünleri, bilgisayar başında uzun süre kullanılan ürünler olduğu için marka görünürlüğünü sürekli hale getirir. Bu sayede firmanız kullanıcıların her gün karşısında yer alır.
+18 x 22 cm ölçüsüne sahip olan MP-600 modeli, logo, firma adı, slogan veya kurumsal tasarımların yüksek kaliteyle uygulanabileceği ideal bir baskı alanı sunmaktadır. Geniş yüzeyi sayesinde reklam çalışmalarınız daha dikkat çekici hale gelirken, günlük kullanımda da konforlu bir deneyim sağlar.
 
-18 x 22 cm ölçüsü ile ideal kullanım alanı sunan bu model, geniş yüzeyi sayesinde logo, marka adı veya reklam tasarımlarının rahatlıkla uygulanmasına imkan tanır.
+Ürün üzerine ofset baskı ve dijital baskı uygulanabilmektedir. Baskı teknikleri sayesinde kurumsal renkler canlı şekilde yansıtılır, detaylı grafikler yüksek çözünürlükle üretilebilir ve uzun ömürlü kullanım elde edilir.
 
-Ürün üzerine ofset ve dijital baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde yüksek çözünürlüklü, canlı ve dikkat çekici tasarımlar elde edilir.
+Kaymayı azaltan alt yüzeyi ve mouse hareketlerini destekleyen üst yüzeyi sayesinde hem optik hem de lazer mouse modelleriyle uyumlu şekilde kullanılabilir. Ergonomik yapısı kullanıcı konforunu artırırken masa düzenine de profesyonel bir görünüm kazandırır.
 
-Kompakt ve kullanışlı yapısı sayesinde hem bireysel hem de kurumsal kullanım için uygundur. Özellikle ofis çalışanları, şirket içi dağıtımlar ve kurumsal hediyeler için ideal bir promosyon ürünüdür.
+Promosyon mouse pad ürünleri özellikle bilgisayar başında çalışan personeller, ofis çalışanları, eğitim kurumları, bankalar, teknoloji firmaları ve kurumsal işletmeler tarafından sıklıkla tercih edilmektedir. Sürekli masa üzerinde bulunduğu için markanızın her gün tekrar tekrar görülmesine katkı sağlar.
 
-Minimum sipariş adeti 500 adet olup, toplu üretim ve dağıtım için uygundur.
+Toplu promosyon dağıtımları, fuarlar, seminerler, bayi toplantıları, kurumsal etkinlikler ve lansman organizasyonlarında dağıtılabilecek kullanışlı ve uzun ömürlü promosyon ürünleri arasında yer almaktadır.
+
+NEDEN PROMOSYON MOUSE PAD MP-600 TERCİH EDİLMELİ?
+
+• 18 x 22 cm geniş kullanım alanı
+• Ofset ve dijital baskıya uygun yüzey
+• Yüksek kaliteli logo baskısı uygulanabilir
+• Kaymayı azaltan dayanıklı taban
+• Günlük ofis kullanımına uygun yapı
+• Marka görünürlüğünü uzun süre destekler
+• Kurumsal promosyon çalışmalarına uygundur
+• Toplu üretim için ideal çözümdür
+
+KULLANIM ALANLARI
+
+• Kurumsal ofisler
+• Şirket içi promosyon dağıtımları
+• Fuar ve organizasyonlar
+• Eğitim kurumları
+• Bankalar ve finans kuruluşları
+• Teknoloji firmaları
+• Reklam kampanyaları
+• Kurumsal hediye çalışmaları
+
+KİMLER İÇİN UYGUN?
+
+• Kurumsal firmalar
+• Kamu kurumları
+• Üniversiteler ve okullar
+• Yazılım ve teknoloji şirketleri
+• Reklam ajansları
+• Finans kuruluşları
+• Sağlık sektörü
+• Toplu promosyon ürünleri satın alan işletmeler
+
+PROMOSYON MOUSE PAD FİYATLARI
+
+Promosyon mouse pad fiyatları; sipariş adedi, baskı tekniği, üretim detayları ve tasarım özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Minimum sipariş miktarı 500 adettir.
+• Logo ve tasarımlar firmanıza özel hazırlanır.
+• Ofset veya dijital baskı uygulanabilmektedir.
+• Üretim süresi sipariş miktarına göre planlanmaktadır.
+• Güncel stok ve termin bilgisi teklif aşamasında paylaşılmaktadır.
 
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Mouse Pad  
-Kategori: İmalat Ürünler  
+Model: MP-600  
+Ölçü: 18 x 22 cm  
+Baskı Türü: Ofset Baskı, Dijital Baskı  
+Kullanım Alanı: Ofis ve Kurumsal Kullanım  
+Minimum Sipariş: 500 Adet  
+Kategori: İmalat Ürünler
 
-Özellikler:
+Promosyon mouse pad MP-600, kaliteli baskı yüzeyi, geniş kullanım alanı ve kurumsal tanıtım çalışmalarına uygun yapısıyla markanızın masaüstünde sürekli görünmesini sağlayan profesyonel promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
+`.trim(),
 
-Geniş Baskı Yüzeyi  
-Kaymaz ve Kullanışlı Yapı  
-Ofis Kullanımına Uygun  
-
-Baskı Türü:
-
-Ofset Baskı  
-Dijital Baskı  
-
-Ürün Ölçüsü:
-
-18 x 22 cm  
-
-Minimum Sipariş:
-
-500 Adet  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon mouse pad siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Ofis ve çalışma alanları  
-Şirket içi dağıtımlar  
-Kurumsal hediye ürünleri  
-Fuar ve etkinlik organizasyonları  
-Marka tanıtım çalışmaları
-`
+  faq: [
+    {
+      q: "Promosyon mouse pad MP-600 üzerine hangi baskılar uygulanabilir?",
+      a: "Ürün üzerine ofset baskı ve dijital baskı uygulanabilmektedir. Her iki yöntem de yüksek kaliteli ve canlı baskılar elde edilmesini sağlar.",
+    },
+    {
+      q: "Mouse pad ölçüsü nedir?",
+      a: "MP-600 modeli 18 x 22 cm ölçüsüne sahiptir. Bu ölçü hem rahat kullanım hem de geniş baskı alanı sunmaktadır.",
+    },
+    {
+      q: "Minimum sipariş miktarı kaç adettir?",
+      a: "Bu model için minimum sipariş miktarı 500 adettir. Üretim toplu sipariş olarak gerçekleştirilmektedir.",
+    },
+    {
+      q: "Ürün hangi mouse türleriyle uyumludur?",
+      a: "Promosyon mouse pad MP-600 optik ve lazer mouse modelleriyle uyumlu şekilde kullanılabilmektedir.",
+    },
+    {
+      q: "Kurumsal logo baskısı yapılabiliyor mu?",
+      a: "Evet. Firma logosu, marka adı, slogan ve özel tasarımlar ürün üzerine yüksek baskı kalitesiyle uygulanabilmektedir.",
+    },
+    {
+      q: "Teslim süresi nasıl belirlenmektedir?",
+      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre planlanmaktadır.",
+    },
+  ],
 },
 {
   id: "p294",
+
   slug: "promosyon-bilek-destekli-mouse-pad-mp-650",
-  title: "Promosyon Bilek Destekli Mouse Pad MP-650 | Ofset Dijital Baskılı (18x22 cm)",
+
+  title:
+    "Promosyon Bilek Destekli Mouse Pad MP-650 | Ergonomik Logo Baskılı Mouse Pad (18x22 cm)",
+
   price: 60,
+
   category: "İmalat Ürünler",
+
   image: "/products/promosyon-mouse-pad-mp-650.jpg",
 
   shortDesc:
-    "Promosyon bilek destekli mouse pad MP-650, ergonomik yapısı ve geniş baskı alanı ile ofis kullanımında konfor ve marka görünürlüğünü bir arada sunan promosyon ürünüdür.",
+    "Promosyon bilek destekli mouse pad MP-650, ergonomik bilek desteği, 18x22 cm geniş baskı alanı ve ofset veya dijital baskı seçenekleriyle konforlu kullanım sunan premium promosyon mouse pad modelidir.",
 
   longDesc: `
-Promosyon bilek destekli mouse pad MP-650 modeli, ergonomik tasarımı ve konfor odaklı yapısı ile kurumsal firmaların tercih ettiği premium promosyon ürünleri arasında yer almaktadır.
+Promosyon bilek destekli mouse pad MP-650, ergonomik tasarımı ve özel bilek destek bölümü sayesinde uzun süre bilgisayar kullanan kişiler için konfor sağlayan kaliteli promosyon ürünlerinden biridir. Günlük ofis kullanımında sürekli masa üzerinde yer alması, markanızın görünürlüğünü artırırken kullanıcı deneyimine de katkı sunar.
 
-Mouse pad ürünleri, çalışma ortamında sürekli kullanılan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir. Bilek destekli yapısı sayesinde kullanıcı konforunu artırarak ürünün kullanım süresini uzatır.
+18 x 22 cm ölçüsüne sahip olan ürün, firma logosu, kurumsal renkler, reklam görselleri ve özel tasarımlar için geniş bir baskı alanı sunmaktadır. Bu sayede marka kimliğiniz çalışma masalarında profesyonel bir şekilde sergilenebilir.
 
-MP-650 modeli, bilek destekli ergonomik yapısı ile uzun süreli bilgisayar kullanımında konfor sağlar ve kullanıcı deneyimini iyileştirir.
+Mouse pad üzerinde ofset baskı ve dijital baskı uygulanabilmektedir. Yüksek baskı kalitesi sayesinde canlı renkler, keskin detaylar ve uzun ömürlü görseller elde edilir. Kurumsal tasarımlar yüksek çözünürlükle uygulanarak markanızın prestijini destekler.
 
-18 x 22 cm ölçüsü ile geniş bir kullanım alanı sunar. Bu sayede logo, marka adı veya reklam tasarımları rahatlıkla uygulanabilir.
+Ergonomik bilek destek bölümü, uzun süre mouse kullanan personeller için bileğin doğal pozisyonda kalmasına yardımcı olur. Bu özellik yalnızca kullanım konforunu artırmakla kalmaz, aynı zamanda ürünün kullanıcı tarafından daha sık tercih edilmesini sağlayarak reklam etkisini de güçlendirir.
 
-Ürün üzerine ofset ve dijital baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde yüksek çözünürlüklü, canlı ve dikkat çekici tasarımlar elde edilir.
+Kaymayı azaltan alt yüzeyi sayesinde masa üzerinde dengeli kullanım sunan MP-650 modeli, optik ve lazer mouse çeşitleriyle uyumlu olarak çalışmaktadır. Günlük kullanım için tasarlanan yapısı sayesinde ofislerde, eğitim kurumlarında ve kurumsal işletmelerde uzun yıllar kullanılabilir.
 
-Hem bireysel hem de kurumsal kullanım için ideal olan bu ürün, özellikle ofis çalışanları ve bilgisayar başında uzun süre vakit geçiren kullanıcılar için tercih edilmektedir.
+Promosyon bilek destekli mouse pad modeli; teknoloji firmaları, bankalar, sigorta şirketleri, kamu kurumları, yazılım şirketleri ve bilgisayar kullanımının yoğun olduğu tüm sektörlerde etkili bir kurumsal promosyon ürünü olarak tercih edilmektedir.
 
-Minimum sipariş adeti 500 adet olup, toplu üretim ve dağıtım için uygundur. Fiyat bilgisi için teklif alınması gerekmektedir.
+NEDEN PROMOSYON BİLEK DESTEKLİ MOUSE PAD MP-650 TERCİH EDİLMELİ?
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Mouse Pad  
-Kategori: İmalat Ürünler  
-
-Özellikler:
-
-Bilek Destekli Ergonomik Tasarım  
-Geniş Baskı Yüzeyi  
-Konforlu Kullanım  
-
-Baskı Türü:
-
-Ofset Baskı  
-Dijital Baskı  
-
-Ürün Ölçüsü:
-
-18 x 22 cm  
-
-Minimum Sipariş:
-
-500 Adet  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon mouse pad siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
+• Ergonomik bilek destekli tasarım
+• 18 x 22 cm geniş baskı alanı
+• Ofset ve dijital baskıya uygundur
+• Uzun süreli kullanımlarda konfor sağlar
+• Kaymayı azaltan dayanıklı taban
+• Optik ve lazer mouse ile uyumludur
+• Marka görünürlüğünü sürekli destekler
+• Premium kurumsal promosyon çözümüdür
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Ofis ve çalışma alanları  
-Şirket içi dağıtımlar  
-Kurumsal hediye ürünleri  
-Fuar ve etkinlik organizasyonları  
-Marka tanıtım çalışmaları
-`
+• Kurumsal ofisler
+• Çağrı merkezleri
+• Teknoloji şirketleri
+• Yazılım firmaları
+• Bankalar ve finans kuruluşları
+• Eğitim kurumları
+• Fuar ve organizasyonlar
+• Kurumsal promosyon dağıtımları
+
+KİMLER İÇİN UYGUN?
+
+• Kurumsal firmalar
+• Kamu kurumları
+• Üniversiteler
+• Reklam ajansları
+• Bilgisayar ekipmanı kullanan işletmeler
+• Sağlık kuruluşları
+• Sigorta şirketleri
+• Toplu promosyon ürünleri satın alan firmalar
+
+PROMOSYON BİLEK DESTEKLİ MOUSE PAD FİYATLARI
+
+Promosyon bilek destekli mouse pad fiyatları; sipariş miktarı, baskı yöntemi, üretim süreci ve tasarım detaylarına göre değişiklik gösterebilir. Kurumsal toplu siparişlerde özel fiyatlandırma avantajları sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Minimum sipariş miktarı 500 adettir.
+• Firma logonuza özel baskı uygulanmaktadır.
+• Ofset ve dijital baskı seçenekleri sunulmaktadır.
+• Üretim planlaması sipariş adedine göre yapılmaktadır.
+• Güncel stok ve termin bilgisi teklif aşamasında paylaşılmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Bilek Destekli Mouse Pad  
+Model: MP-650  
+Ölçü: 18 x 22 cm  
+Özellik: Ergonomik Bilek Destekli Tasarım  
+Baskı Türü: Ofset Baskı, Dijital Baskı  
+Kullanım Alanı: Ofis ve Kurumsal Kullanım  
+Minimum Sipariş: 500 Adet  
+Kategori: İmalat Ürünler
+
+Promosyon bilek destekli mouse pad MP-650, ergonomik yapısı, kaliteli baskı seçenekleri ve uzun süreli kullanım avantajıyla markanızı çalışma masalarında sürekli görünür kılan profesyonel promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon bilek destekli mouse pad MP-650 üzerine hangi baskılar uygulanabilir?",
+      a: "Ürün üzerine ofset baskı ve dijital baskı uygulanabilmektedir. Her iki baskı yöntemi de yüksek çözünürlüklü ve canlı sonuçlar sunar.",
+    },
+    {
+      q: "Bilek destekli tasarımın avantajı nedir?",
+      a: "Ergonomik bilek desteği, uzun süre bilgisayar kullanan kişiler için konfor sağlar ve bileğin daha doğal pozisyonda durmasına yardımcı olur.",
+    },
+    {
+      q: "Mouse pad ölçüsü nedir?",
+      a: "MP-650 modeli 18 x 22 cm ölçüsüne sahiptir ve geniş baskı alanı sayesinde kurumsal logo uygulamaları için idealdir.",
+    },
+    {
+      q: "Minimum sipariş miktarı kaç adettir?",
+      a: "Bu ürün minimum 500 adet olarak üretilmektedir. Toplu kurumsal siparişler için uygundur.",
+    },
+    {
+      q: "Hangi mouse türleriyle kullanılabilir?",
+      a: "Ürün optik ve lazer mouse modelleriyle uyumludur ve günlük kullanıma uygun yüzeye sahiptir.",
+    },
+    {
+      q: "Teslim süresi nasıl belirlenmektedir?",
+      a: "Teslim süresi sipariş adedi, baskı yöntemi ve üretim yoğunluğuna göre planlanarak teklif aşamasında paylaşılmaktadır.",
+    },
+  ],
 },
 {
   id: "p295",
@@ -40354,389 +40517,583 @@ Müşteri ve çalışan hediyeleri
 },
 {
   id: "p433",
+
   slug: "promosyon-kutulu-sarj-kablo-seti-kbl-360",
-  title: "Promosyon Kutulu Şarj Kablo Seti KBL-360 | Çoklu Uç, Taşınabilir, Teknolojik Hediye",
+
+  title:
+    "Promosyon Kutulu Şarj Kablo Seti KBL-360 | Logo Baskılı Çoklu Şarj Kablosu ve Adaptör Seti",
+
   price: 250,
+
   category: "Teknolojik Ürünler",
+
   image: "/products/promosyon-kutulu-sarj-kablo-seti-kbl-360.jpg",
 
   shortDesc:
-    "Promosyon şarj kablo seti KBL-360, çoklu bağlantı uçları ve kompakt kutulu tasarımı ile markanızı teknolojiyle buluşturan pratik ve modern bir promosyon ürünüdür.",
+    "Promosyon kutulu şarj kablo seti KBL-360, çoklu bağlantı uçları, kompakt silindirik taşıma kutusu ve logo baskıya uygun tasarımıyla kurumsal promosyon teknolojik ürünler arasında öne çıkan modern bir aksesuardır.",
 
   longDesc: `
-Promosyon kutulu şarj kablo seti KBL-360, günümüz teknolojik ihtiyaçlarına cevap veren çok yönlü ve kullanışlı bir promosyon ürünüdür. Farklı cihazlarla uyumlu yapısı sayesinde geniş bir kullanıcı kitlesine hitap eder.
+Promosyon kutulu şarj kablo seti KBL-360, günlük teknoloji kullanımını kolaylaştıran fonksiyonel yapısı ve modern tasarımıyla kurumsal promosyon ürünleri arasında dikkat çeken modellerden biridir. Silindirik taşıma kutusu içerisinde sunulan çok amaçlı bağlantı ekipmanları sayesinde kullanıcıların ihtiyaç duyduğu temel teknolojik aksesuarları tek bir üründe bir araya getirir.
 
-Set içerisinde yer alan çoklu bağlantı uçları sayesinde Type-C, Micro USB ve Lightning girişli cihazlarla uyumlu kullanım sunar. Bu sayede tek bir kablo ile birden fazla cihazı şarj etmek mümkündür.
+Şık ve kompakt gövdesi sayesinde cebinizde, çantanızda veya çalışma masanızda rahatlıkla taşınabilir. Düzenli saklama imkanı sunan kutu tasarımı kabloların ve adaptörlerin kaybolmasını önlerken günlük kullanımda büyük kolaylık sağlar.
 
-Kompakt ve şık kutu tasarımı, ürünün taşınabilirliğini artırırken aynı zamanda düzenli bir kullanım sağlar. Cepte, çantada veya masa üzerinde rahatlıkla taşınabilir.
+KBL-360 modeli; Type-C, Micro USB ve Lightning bağlantı seçenekleriyle farklı mobil cihazlarla uyumlu kullanım sunmaktadır. Ayrıca SIM kart çıkarma iğnesi ve adaptör aparatları sayesinde yalnızca bir şarj kablosu değil, çok amaçlı bir mobil aksesuar seti olarak da kullanılabilmektedir.
 
-Minimal ve modern tasarımı sayesinde özellikle kurumsal firmalar, teknoloji markaları ve ajanslar için ideal bir promosyon ürünüdür. Günlük hayatta sık kullanılması sayesinde marka görünürlüğü sürekli hale gelir.
+Ürün üzerinde yer alan baskı alanına firmanızın logosu uygulanarak uzun süre kullanılan profesyonel bir kurumsal promosyon hediyesine dönüştürülebilir. Sürekli kullanılan teknolojik ürünler arasında yer alması sayesinde markanız kullanıcıların günlük yaşamında düzenli olarak görünür olur.
 
-Kutu yüzeyi ve kablo alanı, logo baskı uygulamaları için uygundur. UV baskı veya tampon baskı ile markanız ürün üzerinde şık bir şekilde sergilenebilir.
+Promosyon şarj kablo setleri özellikle teknoloji firmaları, yazılım şirketleri, telekomünikasyon sektörü, bankalar ve kurumsal işletmeler tarafından tercih edilen modern promosyon çözümleri arasında yer almaktadır. Fuarlarda, lansman organizasyonlarında ve müşteri ziyaretlerinde prestijli bir kurumsal hediye olarak değerlendirilebilir.
 
-Bu ürün özellikle fuar, etkinlik, lansman ve kurumsal hediye dağıtımlarında yüksek etki sağlayan teknolojik promosyonlar arasında yer alır.
+Minimal tasarımı ve kaliteli görünümü sayesinde hem çalışanlara hem de müşterilere dağıtılabilecek kullanışlı bir promosyon ürünüdür. Fonksiyonelliği sayesinde uzun süre kullanılmaya devam ederek marka bilinirliğine katkı sağlar.
+
+NEDEN PROMOSYON KUTULU ŞARJ KABLO SETİ KBL-360 TERCİH EDİLMELİ?
+
+• Silindirik ve kompakt taşıma kutusu
+• Çoklu bağlantı uçları ile geniş uyumluluk
+• Adaptör aparatları ve SIM kart iğnesi içerir
+• Logo baskısı uygulanabilen modern tasarım
+• Günlük kullanıma uygun fonksiyonel yapı
+• Seyahatlerde kolay taşınabilir
+• Kurumsal promosyon çalışmaları için idealdir
+• Teknolojik ve prestijli promosyon çözümü sunar
+
+KULLANIM ALANLARI
+
+• Kurumsal promosyon çalışmaları
+• Teknoloji fuarları
+• Lansman organizasyonları
+• Şirket içi çalışan hediyeleri
+• Müşteri karşılama kitleri
+• Telekomünikasyon sektörü
+• Yazılım ve bilişim firmaları
+• Günlük mobil cihaz kullanımı
+
+KİMLER İÇİN UYGUN?
+
+• Kurumsal firmalar
+• Teknoloji şirketleri
+• Yazılım firmaları
+• Reklam ajansları
+• Bankalar
+• Telekom operatörleri
+• Eğitim kurumları
+• Organizasyon şirketleri
+
+PROMOSYON ŞARJ KABLO SETİ FİYATLARI
+
+Promosyon şarj kablo seti fiyatları; sipariş miktarı, baskı uygulaması, ürün özellikleri ve üretim planlamasına göre değişiklik gösterebilir. Kurumsal toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Firma logonuza özel baskı uygulanabilmektedir.
+• Toplu kurumsal siparişlere uygundur.
+• Baskı uygulaması siparişe özel hazırlanmaktadır.
+• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
+• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
 
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Şarj Kablo Seti  
+Model: KBL-360  
 Kategori: Teknolojik Ürünler  
+Bağlantılar: Type-C, Micro USB, Lightning  
+Ek Aksesuarlar: Adaptör Uçları, SIM Kart İğnesi  
+Kutu Tipi: Silindirik Taşıma Kutusu  
+Baskı Türü: Logo Baskı  
+Kullanım Alanı: Günlük ve Kurumsal Kullanım
 
-İçerik:
+Promosyon kutulu şarj kablo seti KBL-360, çoklu bağlantı seçenekleri, kompakt tasarımı ve logo baskıya uygun yapısıyla markanızı teknolojiyle buluşturan modern promosyon ürünlerinden biridir. Kurumsal toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
+`.trim(),
 
-Çoklu Şarj Kablosu  
-Type-C Uç  
-Micro USB Uç  
-Lightning Uç  
-SIM Kart İğnesi  
-Taşıma Kutusu  
-
-Uyumluluk:
-
-Akıllı Telefonlar  
-Tabletler  
-Diğer USB Destekli Cihazlar  
-
-Özellikler:
-
-Kompakt ve Taşınabilir Tasarım  
-Çoklu Bağlantı Seçeneği  
-Pratik Kullanım  
-Şık ve Modern Görünüm  
-Logo Baskıya Uygun Yüzey  
-Yüksek Marka Görünürlüğü  
-Teknolojik Promosyon Ürün  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon şarj kablo seti ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
-
-Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
-
-Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik dağıtımları  
-Teknoloji firmaları  
-Ofis ve çalışan hediyeleri  
-Müşteri karşılama kitleri  
-Lansman ve reklam kampanyaları  
-Günlük kullanım aksesuarı  
-Marka tanıtım çalışmaları  
-`
+  faq: [
+    {
+      q: "Promosyon kutulu şarj kablo seti KBL-360 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürün üzerindeki uygun baskı alanına firmanıza özel logo veya kurumsal marka baskısı uygulanabilmektedir.",
+    },
+    {
+      q: "KBL-360 hangi bağlantı türlerini desteklemektedir?",
+      a: "Set içerisinde Type-C, Micro USB ve Lightning bağlantı seçenekleri yer almakta olup birçok mobil cihazla uyumlu kullanım sunmaktadır.",
+    },
+    {
+      q: "Ürün içerisinde hangi aksesuarlar bulunmaktadır?",
+      a: "Şarj kablosunun yanı sıra adaptör uçları, SIM kart çıkarma iğnesi ve düzenli saklama sağlayan taşıma kutusu bulunmaktadır.",
+    },
+    {
+      q: "Şarj kablo seti taşımaya uygun mudur?",
+      a: "Evet. Kompakt silindirik kutusu sayesinde çantada, cepte veya masa üzerinde rahatlıkla taşınabilir ve saklanabilir.",
+    },
+    {
+      q: "Kurumsal promosyon olarak kullanıma uygun mudur?",
+      a: "Evet. Teknoloji fuarları, lansman organizasyonları, müşteri hediyeleri ve kurumsal etkinliklerde dağıtım için ideal bir promosyon ürünüdür.",
+    },
+    {
+      q: "Teslim süresi nasıl belirlenmektedir?",
+      a: "Teslim süresi sipariş miktarı, baskı uygulaması ve üretim yoğunluğuna göre planlanarak teklif aşamasında paylaşılmaktadır.",
+    },
+  ],
 },
 {
   id: "p434",
+
   slug: "promosyon-kutulu-sarj-kablo-seti-kbl-370",
-  title: "Promosyon Kutulu Şarj Kablo Seti KBL-370 | Katlanabilir Kasa, Çoklu Uç, Premium Teknolojik Set",
+
+  title:
+    "Promosyon Kutulu Şarj Kablo Seti KBL-370 | Logo Baskılı Katlanabilir Çoklu Şarj Kablosu Seti",
+
   price: 240,
+
   category: "Teknolojik Ürünler",
+
   image: "/products/promosyon-kutulu-sarj-kablo-seti-kbl-370.jpg",
 
   shortDesc:
-    "Promosyon şarj kablo seti KBL-370, katlanabilir kutu tasarımı ve çoklu bağlantı uçları ile pratik kullanım sunan, yüksek marka görünürlüğü sağlayan teknolojik promosyon ürünüdür.",
+    "Promosyon kutulu şarj kablo seti KBL-370, katlanabilir kapaklı kutusu, çoklu bağlantı uçları ve logo baskıya uygun tasarımıyla kurumsal promosyon teknolojik ürünler arasında tercih edilen kullanışlı bir aksesuardır.",
 
   longDesc: `
-Promosyon kutulu şarj kablo seti KBL-370, kompakt yapısı ve çok yönlü kullanım özellikleri ile öne çıkan modern bir teknolojik promosyon ürünüdür.
+Promosyon kutulu şarj kablo seti KBL-370, kompakt tasarımı ve çok amaçlı kullanım özellikleriyle günlük yaşamı kolaylaştıran modern teknolojik promosyon ürünlerinden biridir. Katlanabilir kapaklı kutusu sayesinde tüm bağlantı aparatlarını tek bir noktada düzenli şekilde muhafaza ederek hem kullanım kolaylığı hem de estetik bir görünüm sunmaktadır.
 
-Katlanabilir kapaklı özel kutu tasarımı sayesinde hem şık bir görünüm sunar hem de içindeki tüm parçaları düzenli bir şekilde saklamaya imkan tanır. Açılır kapanır yapısı ürünün kullanımını oldukça pratik hale getirir.
+Kart formuna yakın ince yapısı sayesinde çanta, evrak çantası, sırt çantası veya masa çekmecesinde rahatlıkla taşınabilir. Düzenli iç yerleşimi sayesinde kablo ve bağlantı uçları güvenli şekilde saklanırken ihtiyaç duyulduğunda hızlıca kullanılabilir.
 
-Set içerisinde bulunan çoklu bağlantı uçları sayesinde Type-C, Micro USB ve Lightning girişli cihazlarla uyumlu çalışır. Bu sayede tek bir set ile farklı cihazları şarj etmek mümkündür.
+KBL-370 modeli; Type-C, Micro USB ve Lightning bağlantı seçenekleriyle farklı mobil cihazlarla uyumlu çalışmaktadır. USB adaptörü ile birlikte sunulan pratik yapısı sayesinde tek bir set üzerinden birçok elektronik cihazın şarj ihtiyacı karşılanabilmektedir.
 
-Ürün içerisinde yer alan kablo ve adaptörler günlük kullanım için idealdir. Özellikle seyahatlerde, ofiste veya dış mekan kullanımlarında büyük kolaylık sağlar.
+Kapaklı kutunun geniş dış yüzeyi, firmanıza ait logo ve kurumsal kimlik çalışmalarının uygulanabilmesi için uygun baskı alanı sunmaktadır. UV baskı veya tampon baskı teknikleriyle hazırlanan logo uygulamaları sayesinde ürün, uzun süre kullanılan profesyonel bir kurumsal promosyon hediyesine dönüşmektedir.
 
-Kutu yüzeyi geniş ve düz bir alan sunduğu için logo baskı uygulamaları için oldukça uygundur. UV baskı ve tampon baskı ile markanız ürün üzerinde profesyonel şekilde konumlandırılabilir.
+Teknolojik promosyon ürünleri arasında yer alan KBL-370 modeli; çalışanlara dağıtılacak kurumsal hediyelerde, müşteri ziyaretlerinde, fuarlarda ve lansman organizasyonlarında markanızı prestijli şekilde temsil eden kullanışlı bir çözümdür. Günlük kullanım sıklığı sayesinde marka görünürlüğünü uzun süre destekler.
 
-Minimal ve modern tasarımı sayesinde teknoloji firmaları, ajanslar ve kurumsal markalar için prestijli bir promosyon ürünüdür. Sürekli kullanılan bir ürün olması sayesinde marka bilinirliği uzun süre devam eder.
+Minimal çizgilere sahip modern tasarımı hem bireysel hem de kurumsal kullanıcıların beğenisini kazanırken, kompakt yapısı ürünü seyahatlerde de ideal bir mobil aksesuar haline getirmektedir.
+
+NEDEN PROMOSYON KUTULU ŞARJ KABLO SETİ KBL-370 TERCİH EDİLMELİ?
+
+• Katlanabilir kapaklı koruyucu kutu
+• Düzenli iç ekipman yerleşimi
+• Type-C, Micro USB ve Lightning desteği
+• USB adaptörü ile pratik kullanım
+• Logo baskısına uygun geniş dış yüzey
+• İnce ve kolay taşınabilir tasarım
+• Günlük kullanıma uygun teknolojik aksesuar
+• Kurumsal promosyon ve hediye çalışmaları için idealdir
+
+KULLANIM ALANLARI
+
+• Kurumsal promosyon çalışmaları
+• Teknoloji fuarları
+• Lansman organizasyonları
+• Çalışan motivasyon hediyeleri
+• Müşteri ziyaretleri
+• Şirket tanıtım kampanyaları
+• Seyahatlerde mobil kullanım
+• Günlük ofis kullanımı
+
+KİMLER İÇİN UYGUN?
+
+• Kurumsal firmalar
+• Teknoloji şirketleri
+• Yazılım firmaları
+• Reklam ajansları
+• Bankalar ve finans kuruluşları
+• Telekomünikasyon firmaları
+• Eğitim kurumları
+• Organizasyon şirketleri
+
+PROMOSYON ŞARJ KABLO SETİ FİYATLARI
+
+Promosyon şarj kablo seti fiyatları; sipariş miktarı, baskı uygulaması, ürün özellikleri ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal logo baskısı uygulanabilmektedir.
+• Toplu sipariş üretimine uygundur.
+• Baskı çalışmaları firmanıza özel hazırlanmaktadır.
+• Güncel stok bilgisi teklif aşamasında paylaşılmaktadır.
+• Teslim süresi sipariş miktarına göre planlanmaktadır.
 
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Şarj Kablo Seti  
+Model: KBL-370  
 Kategori: Teknolojik Ürünler  
+Kutu Tipi: Katlanabilir Kapaklı Taşıma Kutusu  
+Bağlantılar: Type-C, Micro USB, Lightning  
+Ek Donanım: USB Adaptörü  
+Baskı Türü: UV Baskı, Tampon Baskı  
+Kullanım Alanı: Günlük ve Kurumsal Kullanım
 
-İçerik:
+Promosyon kutulu şarj kablo seti KBL-370, katlanabilir kutu tasarımı, çoklu bağlantı seçenekleri ve logo baskıya uygun yapısıyla markanızı teknolojik çözümlerle buluşturan kaliteli promosyon ürünlerinden biridir. Kurumsal toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
+`.trim(),
 
-Çoklu Şarj Kablosu  
-Type-C Uç  
-Micro USB Uç  
-Lightning Uç  
-USB Adaptör  
-Taşıma Kutusu (Kapaklı)  
-
-Uyumluluk:
-
-Akıllı Telefonlar  
-Tabletler  
-USB Destekli Tüm Cihazlar  
-
-Özellikler:
-
-Katlanabilir Kutu Tasarımı  
-Kompakt ve Taşınabilir  
-Çoklu Bağlantı Seçeneği  
-Pratik ve Düzenli Kullanım  
-Logo Baskıya Uygun Yüzey  
-Modern ve Şık Tasarım  
-Yüksek Marka Görünürlüğü  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon şarj kablo seti ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
-
-Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
-
-Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik dağıtımları  
-Teknoloji firmaları  
-Ofis ve çalışan hediyeleri  
-Müşteri karşılama kitleri  
-Seyahat ve günlük kullanım  
-Lansman ve reklam kampanyaları  
-Marka tanıtım çalışmaları  
-`
+  faq: [
+    {
+      q: "Promosyon kutulu şarj kablo seti KBL-370 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Ürünün dış yüzeyine UV baskı veya tampon baskı teknikleriyle firmanıza özel logo uygulanabilmektedir.",
+    },
+    {
+      q: "KBL-370 hangi bağlantı tiplerini desteklemektedir?",
+      a: "Set içerisinde Type-C, Micro USB ve Lightning bağlantı seçenekleri bulunmaktadır. Bu sayede birçok mobil cihazla uyumlu kullanım sunmaktadır.",
+    },
+    {
+      q: "Ürün içerisinde USB adaptörü bulunuyor mu?",
+      a: "Evet. KBL-370 modeli, çoklu bağlantı aparatlarının yanında USB adaptörü ile birlikte sunulmaktadır.",
+    },
+    {
+      q: "Katlanabilir kutunun avantajı nedir?",
+      a: "Kapaklı tasarım sayesinde tüm aksesuarlar düzenli şekilde saklanır, taşınması kolaylaşır ve parçaların kaybolma riski azalır.",
+    },
+    {
+      q: "Kurumsal promosyon olarak kullanıma uygun mudur?",
+      a: "Evet. Teknoloji fuarları, lansmanlar, müşteri hediyeleri ve çalışan promosyonlarında tercih edilen modern teknolojik promosyon ürünlerinden biridir.",
+    },
+    {
+      q: "Teslim süresi nasıl belirlenmektedir?",
+      a: "Teslim süresi sipariş miktarı, baskı uygulaması ve üretim planlamasına göre belirlenerek teklif aşamasında paylaşılmaktadır.",
+    },
+  ],
 },
 {
   id: "p435",
+
   slug: "promosyon-coklu-isikli-kablo-kbl-380",
-  title: "Promosyon Çoklu Işıklı Şarj Kablosu KBL-380 | LED Logolu, 3 Uçlu, Premium Teknolojik Ürün",
+
+  title:
+    "Promosyon Çoklu Işıklı Şarj Kablosu KBL-380 | LED Logo Baskılı 3'ü 1 Arada Premium Şarj Kablosu",
+
   price: 360,
+
   category: "Teknolojik Ürünler",
+
   image: "/products/promosyon-coklu-isikli-kablo-kbl-380.jpg",
 
   shortDesc:
-    "Promosyon çoklu ışıklı kablo KBL-380, LED ışıklı logo alanı ve çoklu bağlantı uçları ile markanızı teknolojik ve dikkat çekici şekilde tanıtan premium promosyon ürünüdür.",
+    "Promosyon çoklu ışıklı şarj kablosu KBL-380, LED logo aydınlatması, örgü kablo yapısı, 3'ü 1 arada bağlantı sistemi ve taşıma çantasıyla markanızı öne çıkaran premium teknolojik promosyon ürünüdür.",
 
   longDesc: `
-Promosyon çoklu ışıklı şarj kablosu KBL-380, modern tasarımı ve dikkat çekici LED ışıklı logo alanı ile öne çıkan yenilikçi bir promosyon ürünüdür.
+Promosyon çoklu ışıklı şarj kablosu KBL-380, yenilikçi LED logo teknolojisi ve premium tasarımıyla kurumsal marka tanıtımlarında fark oluşturan teknolojik promosyon ürünlerinden biridir. Günlük kullanımda sık tercih edilen şarj aksesuarlarını estetik bir görünümle birleştirerek markanızın sürekli görünür kalmasına katkı sağlar.
 
-Ürün üzerinde bulunan yuvarlak merkez alan, LED aydınlatma ile birlikte logo baskınızı ışıklı şekilde sergiler. Bu özellik sayesinde karanlık ortamlarda bile markanız görünür olur ve yüksek reklam etkisi sağlar.
+Ürünün merkez bölümünde bulunan LED aydınlatmalı logo alanı, şarj sırasında firmanızın logosunu ışıklı şekilde ön plana çıkarır. Özellikle ofislerde, toplantılarda ve düşük ışıklı ortamlarda dikkat çekici bir görünüm oluşturarak klasik promosyon ürünlerinden ayrılmasını sağlar.
 
-3 farklı bağlantı ucu (Type-C, Micro USB ve Lightning) sayesinde geniş cihaz uyumluluğu sunar. Tek bir kablo ile farklı cihazları kolaylıkla şarj edebilirsiniz.
+KBL-380 modeli; Type-C, Micro USB ve Lightning bağlantı uçlarını tek kabloda bir araya getirerek farklı mobil cihazlarla uyumlu kullanım sunmaktadır. Akıllı telefonlar, tabletler ve desteklenen diğer elektronik cihazlar için pratik bir şarj çözümü oluşturur.
 
-Dayanıklı kablo yapısı uzun ömürlü kullanım sağlar. Örgü kablo tasarımı kırılmalara ve kopmalara karşı dirençlidir.
+Dayanıklı örgü kablo yapısı bükülmelere ve günlük kullanıma karşı daha yüksek direnç gösterirken uzun ömürlü kullanım avantajı sağlar. Esnek kablo yapısı sayesinde taşınması kolaydır ve yoğun kullanım koşullarına uygun olarak tasarlanmıştır.
 
-Taşıma çantası ile birlikte sunulan bu model, hem şık bir hediye alternatifi hem de düzenli kullanım imkanı sağlar. Özellikle kurumsal hediyelerde premium algı yaratır.
+Ürün, koruyucu fermuarlı taşıma çantası ile birlikte sunulmaktadır. Böylece kablonun düzenli şekilde muhafaza edilmesi sağlanırken kurumsal hediye sunumuna da daha profesyonel bir görünüm kazandırılır.
 
-LED ışıklı logo alanı sayesinde marka bilinirliği maksimum seviyeye çıkar. Kullanıcı her şarj ettiğinde marka ile etkileşim kurar.
+LED logolu promosyon şarj kabloları; teknoloji şirketleri, telekomünikasyon firmaları, bankalar, yazılım şirketleri ve kurumsal işletmeler tarafından prestijli promosyon ürünleri arasında tercih edilmektedir. Modern tasarımı sayesinde fuarlar, lansman organizasyonları ve VIP müşteri hediyelerinde etkili bir tanıtım aracıdır.
 
-TEKNİK ÖZELLİKLER
+NEDEN PROMOSYON ÇOKLU IŞIKLI ŞARJ KABLOSU KBL-380 TERCİH EDİLMELİ?
 
-Ürün Tipi: Promosyon Şarj Kablosu  
-Kategori: Teknolojik Ürünler  
-
-Bağlantılar:
-
-Type-C  
-Micro USB  
-Lightning  
-
-Özellikler:
-
-LED Işıklı Logo Alanı  
-3’ü 1 Arada Şarj Kablosu  
-Geniş Cihaz Uyumluluğu  
-Dayanıklı Örgü Kablo  
-Premium Tasarım  
-Yüksek Reklam Etkisi  
-Logo Baskıya Uygun  
-
-Ekstra:
-
-Taşıma Çantası  
-
-Uyumluluk:
-
-Akıllı Telefonlar  
-Tabletler  
-USB Destekli Tüm Cihazlar  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon çoklu kablo ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı, tasarım ve LED aydınlatma detayları sipariş sürecinde belirlenmektedir.
-
-Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
-
-Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+• LED aydınlatmalı logo alanı
+• 3'ü 1 arada bağlantı sistemi
+• Type-C, Micro USB ve Lightning desteği
+• Dayanıklı örgü kablo tasarımı
+• Koruyucu fermuarlı taşıma çantası
+• Premium kurumsal hediye görünümü
+• Logo baskısıyla yüksek marka görünürlüğü
+• Günlük kullanıma uygun uzun ömürlü yapı
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik dağıtımları  
-Teknoloji firmaları  
-Ofis ve çalışan hediyeleri  
-Premium müşteri hediyeleri  
-Lansman ve reklam kampanyaları  
-Günlük kullanım aksesuarı  
-Marka tanıtım çalışmaları  
-`
+• Kurumsal promosyon kampanyaları
+• Teknoloji fuarları
+• Lansman organizasyonları
+• VIP müşteri hediyeleri
+• Şirket çalışanlarına özel hediyeler
+• Telekomünikasyon sektörü
+• Yazılım ve teknoloji firmaları
+• Günlük mobil cihaz kullanımı
+
+KİMLER İÇİN UYGUN?
+
+• Kurumsal firmalar
+• Teknoloji markaları
+• Yazılım şirketleri
+• Reklam ajansları
+• Telekom operatörleri
+• Bankalar ve finans kuruluşları
+• Organizasyon şirketleri
+• Kurumsal satın alma departmanları
+
+PROMOSYON LED IŞIKLI ŞARJ KABLOSU FİYATLARI
+
+Promosyon LED ışıklı şarj kablosu fiyatları; sipariş adedi, logo uygulaması, ürün özellikleri ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• LED logo uygulaması firmanıza özel hazırlanmaktadır.
+• Kurumsal toplu siparişler için uygundur.
+• Logo baskısı yüksek kalite standartlarında uygulanmaktadır.
+• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
+• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Çoklu Şarj Kablosu  
+Model: KBL-380  
+Kategori: Teknolojik Ürünler  
+Bağlantılar: Type-C, Micro USB, Lightning  
+Özellik: LED Işıklı Logo Alanı  
+Kablo Yapısı: Dayanıklı Örgü Kablo  
+Taşıma: Fermuarlı Koruyucu Çanta  
+Baskı Türü: LED Logo Baskı  
+Kullanım Alanı: Günlük ve Kurumsal Kullanım
+
+Promosyon çoklu ışıklı şarj kablosu KBL-380, LED logo teknolojisi, dayanıklı örgü kablo yapısı ve çoklu bağlantı sistemiyle markanızı modern teknolojiyle buluşturan premium promosyon ürünlerinden biridir. Kurumsal toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon çoklu ışıklı şarj kablosu KBL-380 üzerinde LED logo nasıl çalışır?",
+      a: "Şarj sırasında merkez bölümde bulunan logo alanı LED ışık ile aydınlanarak markanızın dikkat çekici şekilde görünmesini sağlar.",
+    },
+    {
+      q: "KBL-380 hangi bağlantı tiplerini desteklemektedir?",
+      a: "Ürün Type-C, Micro USB ve Lightning bağlantı uçlarıyla birçok akıllı telefon, tablet ve uyumlu mobil cihazla kullanılabilmektedir.",
+    },
+    {
+      q: "Örgü kablo yapısının avantajı nedir?",
+      a: "Örgü kablo yapısı günlük kullanıma karşı daha dayanıklıdır, bükülmelere karşı direnç sağlar ve uzun ömürlü kullanım sunar.",
+    },
+    {
+      q: "Ürün taşıma çantası ile birlikte mi gönderilmektedir?",
+      a: "Evet. KBL-380 modeli koruyucu fermuarlı taşıma çantası ile birlikte sunulmaktadır ve düzenli taşımaya imkan verir.",
+    },
+    {
+      q: "Kurumsal promosyon olarak kullanıma uygun mudur?",
+      a: "Evet. Teknoloji fuarları, lansman organizasyonları, müşteri hediyeleri ve kurumsal tanıtım kampanyalarında tercih edilen premium promosyon ürünlerinden biridir.",
+    },
+    {
+      q: "Teslim süresi nasıl belirlenmektedir?",
+      a: "Teslim süresi sipariş miktarı, logo uygulaması ve üretim planlamasına göre belirlenerek teklif aşamasında paylaşılmaktadır.",
+    },
+  ],
 },
 {
   id: "p436",
+
   slug: "promosyon-coklu-sarj-kablosu-kbl-390",
-  title: "Promosyon Çoklu Şarj Kablosu KBL-390 | Anahtarlıklı, 3 Uçlu, Taşınabilir Teknolojik Ürün",
+
+  title:
+    "Promosyon Çoklu Şarj Kablosu KBL-390 | Logo Baskılı Anahtarlıklı 3'ü 1 Arada Şarj Kablosu",
+
   price: 96,
+
   category: "Teknolojik Ürünler",
+
   image: "/products/promosyon-coklu-sarj-kablosu-kbl-390.jpg",
 
   shortDesc:
-    "Promosyon çoklu şarj kablosu KBL-390, anahtarlık formu ve 3 farklı bağlantı ucu ile pratik kullanım sunan, günlük hayatta sürekli kullanılan etkili bir promosyon ürünüdür.",
+    "Promosyon çoklu şarj kablosu KBL-390, anahtarlık tasarımı, 3'ü 1 arada bağlantı sistemi ve logo baskıya uygun gövdesiyle markanızı günlük yaşamda sürekli görünür kılan pratik teknolojik promosyon ürünüdür.",
 
   longDesc: `
-Promosyon çoklu şarj kablosu KBL-390, kompakt ve taşınabilir tasarımı ile her an yanında taşınabilecek pratik bir teknolojik promosyon ürünüdür.
+Promosyon çoklu şarj kablosu KBL-390, kompakt anahtarlık tasarımı sayesinde kullanıcıların her an yanında taşıyabileceği kullanışlı teknolojik promosyon ürünlerinden biridir. Günlük yaşamın vazgeçilmez aksesuarlarından biri olan bu model, fonksiyonelliği ile marka tanıtımını bir araya getirerek uzun süreli reklam avantajı sunmaktadır.
 
-Anahtarlık formunda tasarlanan bu model, kullanıcıların ürünü sürekli yanında taşımasını sağlar. Bu sayede marka görünürlüğü maksimum seviyeye çıkar.
+Anahtarlık formundaki yapısı sayesinde çanta, anahtar, sırt çantası veya araç anahtarlığına kolayca takılabilir. Böylece kullanıcı ihtiyaç duyduğu her an şarj kablosuna ulaşabilirken markanız da gün içerisinde sürekli görünür olmaya devam eder.
 
-Ürün üzerinde bulunan 3 farklı bağlantı ucu (Type-C, Micro USB ve Lightning) sayesinde geniş cihaz uyumluluğu sunar. Tek bir kablo ile farklı cihazları kolaylıkla şarj edebilirsiniz.
+KBL-390 modeli; Type-C, Micro USB ve Lightning bağlantı uçlarını tek bir kabloda birleştirerek farklı mobil cihazlarla uyumlu kullanım sunmaktadır. Akıllı telefonlar, tabletler, powerbank cihazları ve desteklenen diğer elektronik ürünlerle pratik şekilde kullanılabilir.
 
-Esnek ve dayanıklı kablo yapısı uzun ömürlü kullanım sağlar. Günlük kullanımda kopma ve kırılmalara karşı dirençlidir.
+Esnek kablo yapısı günlük kullanıma uygun olarak tasarlanmıştır. Hafif yapısı sayesinde cepte veya çantada fazladan yer kaplamazken sürekli taşınabilecek ideal bir teknolojik aksesuar haline gelir.
 
-Minimal tasarımı sayesinde özellikle fuar, etkinlik ve promosyon dağıtımları için ideal bir üründür. Küçük boyutuna rağmen yüksek kullanım değeri sunar.
+Anahtarlık gövdesi üzerinde bulunan metal yüzey, firmanıza özel logo uygulamaları için uygundur. UV baskı veya lazer baskı teknikleriyle hazırlanan kurumsal logo çalışmaları sayesinde ürün, uzun süre kullanılan etkili bir promosyon aracına dönüşmektedir.
 
-Anahtarlık kısmındaki yüzey logo baskı için uygundur. UV baskı veya lazer baskı ile markanız ürün üzerinde kalıcı şekilde sergilenebilir.
+Promosyon çoklu şarj kablosu KBL-390; fuarlar, seminerler, lansman organizasyonları, bayi toplantıları, müşteri ziyaretleri ve kurumsal tanıtım kampanyalarında dağıtılabilecek ekonomik ve kullanışlı promosyon ürünleri arasında yer almaktadır.
 
-TEKNİK ÖZELLİKLER
+NEDEN PROMOSYON ÇOKLU ŞARJ KABLOSU KBL-390 TERCİH EDİLMELİ?
 
-Ürün Tipi: Promosyon Şarj Kablosu  
-Kategori: Teknolojik Ürünler  
-
-Bağlantılar:
-
-Type-C  
-Micro USB  
-Lightning  
-
-Özellikler:
-
-Anahtarlık Tasarım  
-3’ü 1 Arada Şarj Kablosu  
-Kompakt ve Taşınabilir  
-Esnek ve Dayanıklı Kablo  
-Logo Baskıya Uygun Alan  
-Günlük Kullanım İçin İdeal  
-Yüksek Marka Görünürlüğü  
-
-Uyumluluk:
-
-Akıllı Telefonlar  
-Tabletler  
-USB Destekli Tüm Cihazlar  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon çoklu kablo ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
-
-Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
-
-Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+• Anahtarlık formunda kompakt tasarım
+• 3'ü 1 arada bağlantı sistemi
+• Type-C, Micro USB ve Lightning desteği
+• Logo baskısına uygun metal gövde
+• Hafif ve kolay taşınabilir yapı
+• Günlük kullanıma uygun esnek kablo
+• Ekonomik ve etkili promosyon çözümü
+• Marka görünürlüğünü sürekli destekler
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik dağıtımları  
-Teknoloji firmaları  
-Ofis ve çalışan hediyeleri  
-Müşteri hediyeleri  
-Günlük kullanım aksesuarı  
-Reklam ve tanıtım kampanyaları  
-Marka bilinirliği çalışmaları  
-`
+• Kurumsal promosyon çalışmaları
+• Fuar ve organizasyonlar
+• Lansman etkinlikleri
+• Bayi toplantıları
+• Müşteri promosyon hediyeleri
+• Günlük mobil cihaz kullanımı
+• Reklam kampanyaları
+• Şirket içi dağıtımlar
+
+KİMLER İÇİN UYGUN?
+
+• Kurumsal firmalar
+• Teknoloji şirketleri
+• Telekomünikasyon firmaları
+• Reklam ajansları
+• Yazılım şirketleri
+• Bankalar ve finans kuruluşları
+• Organizasyon firmaları
+• Perakende markaları
+
+PROMOSYON ÇOKLU ŞARJ KABLOSU FİYATLARI
+
+Promosyon çoklu şarj kablosu fiyatları; sipariş miktarı, baskı uygulaması, üretim detayları ve tercih edilen logo çalışmasına göre değişiklik gösterebilir. Kurumsal toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Logo baskısı firmanıza özel uygulanmaktadır.
+• Toplu kurumsal siparişlere uygundur.
+• UV baskı veya lazer baskı seçenekleri sunulmaktadır.
+• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
+• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Çoklu Şarj Kablosu  
+Model: KBL-390  
+Kategori: Teknolojik Ürünler  
+Bağlantılar: Type-C, Micro USB, Lightning  
+Tasarım: Anahtarlıklı Taşınabilir Gövde  
+Baskı Türü: UV Baskı, Lazer Baskı  
+Kullanım Alanı: Günlük ve Kurumsal Kullanım
+
+Promosyon çoklu şarj kablosu KBL-390, anahtarlık tasarımı, çoklu bağlantı sistemi ve logo baskıya uygun yapısıyla markanızı kullanıcıların her gün yanında taşımasını sağlayan etkili teknolojik promosyon ürünlerinden biridir. Kurumsal toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon çoklu şarj kablosu KBL-390 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Anahtarlık gövdesi üzerine UV baskı veya lazer baskı teknikleriyle firmanıza özel logo uygulanabilmektedir.",
+    },
+    {
+      q: "KBL-390 hangi bağlantı tiplerini desteklemektedir?",
+      a: "Ürün Type-C, Micro USB ve Lightning bağlantı uçları sayesinde birçok akıllı telefon, tablet ve uyumlu elektronik cihazla kullanılabilmektedir.",
+    },
+    {
+      q: "Anahtarlık tasarımının avantajı nedir?",
+      a: "Anahtarlık formu sayesinde ürün sürekli kullanıcıyla birlikte taşınabilir. Bu da hem kullanım kolaylığı hem de markanızın sürekli görünürlüğü açısından önemli avantaj sağlar.",
+    },
+    {
+      q: "Ürün günlük kullanım için uygun mudur?",
+      a: "Evet. Hafif ve kompakt yapısı sayesinde çanta, cep veya anahtarlık üzerinde rahatlıkla taşınabilir ve günlük kullanıma uygundur.",
+    },
+    {
+      q: "Kurumsal promosyon olarak tercih edilebilir mi?",
+      a: "Evet. Fuarlar, lansman organizasyonları, müşteri hediyeleri ve kurumsal tanıtım kampanyalarında sık tercih edilen ekonomik ve kullanışlı promosyon ürünlerinden biridir.",
+    },
+    {
+      q: "Teslim süresi nasıl belirlenmektedir?",
+      a: "Teslim süresi sipariş adedi, baskı uygulaması ve üretim planlamasına göre belirlenerek teklif aşamasında paylaşılmaktadır.",
+    },
+  ],
 },
 {
   id: "p437",
+
   slug: "promosyon-8-fonksiyonlu-type-c-cogaltici-kbl-400",
-  title: "Promosyon 8 Fonksiyonlu Type-C Hub KBL-400 | Çoklayıcı, HDMI, USB, Kart Okuyucu",
+
+  title:
+    "Promosyon 8 Fonksiyonlu Type-C Hub KBL-400 | Logo Baskılı USB-C Çoklayıcı, HDMI ve Kart Okuyucu",
+
   price: 948,
+
   category: "Teknolojik Ürünler",
+
   image: "/products/promosyon-8-fonksiyonlu-type-c-cogaltici-kbl-400.jpg",
 
   shortDesc:
-    "Promosyon 8 fonksiyonlu Type-C çoğaltıcı KBL-400, HDMI, USB ve kart okuyucu girişleri ile çok yönlü kullanım sunan, profesyonel ve yüksek prestijli teknolojik promosyon ürünüdür.",
+    "Promosyon 8 fonksiyonlu Type-C Hub KBL-400, HDMI, USB 3.0, SD kart okuyucu ve Type-C bağlantılarıyla profesyonel kullanıma uygun, logo baskılı premium teknolojik promosyon ürünüdür.",
 
   longDesc: `
-Promosyon 8 fonksiyonlu Type-C çoğaltıcı KBL-400, modern cihazların bağlantı ihtiyaçlarını tek bir ürünle karşılayan çok amaçlı ve profesyonel bir teknolojik promosyon ürünüdür.
+Promosyon 8 fonksiyonlu Type-C Hub KBL-400, modern dizüstü bilgisayarlar ve Type-C girişine sahip mobil cihazlar için geliştirilen çok amaçlı bağlantı çözümüdür. Birden fazla bağlantı noktasını tek gövdede bir araya getiren yapısıyla hem profesyonel kullanıcıların hem de kurumsal firmaların tercih ettiği prestijli teknolojik promosyon ürünleri arasında yer almaktadır.
 
-Type-C bağlantı girişine sahip laptop, tablet ve mobil cihazlar ile uyumlu çalışır. Özellikle MacBook ve yeni nesil cihaz kullanıcıları için ideal bir çözümdür.
+Yeni nesil notebook ve ultrabook modellerinde bağlantı girişlerinin azalmasıyla birlikte Type-C Hub ürünleri günlük kullanımın vazgeçilmez teknolojik aksesuarlarından biri haline gelmiştir. KBL-400 modeli; veri aktarımı, görüntü aktarımı, hafıza kartı okuma ve çevre birimlerini aynı anda kullanabilme imkanı sunarak çalışma verimliliğini artırır.
 
-Ürün üzerinde yer alan çoklu port yapısı sayesinde aynı anda birden fazla cihaz bağlanabilir. HDMI çıkışı ile harici ekran bağlantısı yapılabilirken, USB portları sayesinde veri aktarımı ve cihaz bağlantıları sağlanır.
+Ürün üzerinde bulunan HDMI çıkışı sayesinde harici monitör, televizyon veya projeksiyon cihazlarına görüntü aktarımı yapılabilir. USB 3.0 portları yüksek hızlı veri transferi ve çevre birimlerinin bağlantısını desteklerken, SD ve Micro SD kart okuyucu girişleri fotoğraf, video ve diğer dosyaların kolayca aktarılmasına yardımcı olur.
 
-SD ve Micro SD kart okuyucu girişleri, veri transferini hızlı ve kolay hale getirir. Fotoğrafçılar, içerik üreticileri ve profesyoneller için oldukça kullanışlıdır.
+Alüminyum gövde yapısı ürüne hem modern hem de profesyonel bir görünüm kazandırmaktadır. Dayanıklı metal kasası uzun süreli kullanım sunarken hafif yapısı sayesinde dizüstü bilgisayar çantasında rahatlıkla taşınabilir.
 
-Şık alüminyum gövde tasarımı ürüne premium bir görünüm kazandırır. Dayanıklı yapısı sayesinde uzun ömürlü kullanım sunar.
+KBL-400 modeli, geniş logo baskı alanı sayesinde firmanızın kurumsal kimliğini şık bir şekilde yansıtmanıza olanak tanır. Lazer baskı uygulamasıyla hazırlanan logolar uzun ömürlü kullanım sunarken premium ürün algısını da güçlendirir.
 
-Geniş yüzey alanı logo baskı uygulamaları için uygundur. Lazer baskı ile markanız ürün üzerinde kalıcı ve prestijli şekilde sergilenebilir.
+Promosyon Type-C Hub ürünleri özellikle teknoloji şirketleri, yazılım firmaları, mimarlık ofisleri, finans kuruluşları ve kurumsal işletmeler tarafından yönetici hediyesi veya VIP müşteri promosyonu olarak tercih edilmektedir. Günlük çalışma hayatında aktif olarak kullanılması sayesinde marka görünürlüğü uzun yıllar devam eder.
 
-Bu ürün özellikle kurumsal firmalar, teknoloji şirketleri ve profesyonel kullanıcılar için yüksek değerli promosyon ürünleri arasında yer alır.
+NEDEN PROMOSYON TYPE-C HUB KBL-400 TERCİH EDİLMELİ?
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Type-C Hub / Çoğaltıcı  
-Kategori: Teknolojik Ürünler  
-
-Bağlantılar:
-
-Type-C Giriş  
-USB 3.0 Portları  
-HDMI Çıkışı  
-SD Kart Girişi  
-Micro SD Kart Girişi  
-
-Fonksiyonlar:
-
-8 Fonksiyonlu Çoklayıcı Sistem  
-Veri Transferi  
-Ekran Yansıtma (HDMI)  
-Kart Okuma  
-Çoklu Cihaz Bağlantısı  
-
-Özellikler:
-
-Alüminyum Gövde  
-Premium Tasarım  
-Yüksek Hızlı Veri Transferi  
-Çoklu Port Desteği  
-Kompakt ve Taşınabilir  
-Logo Baskıya Uygun  
-
-Uyumluluk:
-
-Laptop (MacBook, Windows)  
-Tabletler  
-Type-C Destekli Cihazlar  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon Type-C çoğaltıcı ürünleri toplu sipariş ile üretilmektedir.
-
-Logo baskı, tasarım ve uygulama detayları sipariş sürecinde belirlenmektedir.
-
-Minimum sipariş adedi, fiyatlandırma ve teslim süresi taleplerinize göre sunulmaktadır.
-
-Detaylı fiyat teklifi almak için bizimle iletişime geçebilirsiniz.
+• 8 fonksiyonlu bağlantı çözümü
+• HDMI görüntü aktarımı desteği
+• USB 3.0 yüksek hızlı veri transferi
+• SD ve Micro SD kart okuyucu
+• Type-C bağlantılı modern cihazlarla uyumludur
+• Dayanıklı alüminyum gövde
+• Lazer logo baskısına uygun yüzey
+• Premium kurumsal hediye seçeneği
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Teknoloji firmaları  
-Ofis ve profesyonel kullanım  
-Fuar ve etkinlik dağıtımları  
-Çalışan ve yönetici hediyeleri  
-İçerik üreticileri  
-Lansman ve reklam kampanyaları  
-Marka prestij ürünleri  
-`
+• Kurumsal ofisler
+• Teknoloji firmaları
+• Yazılım şirketleri
+• Mimarlık ve tasarım ofisleri
+• Finans kuruluşları
+• Eğitim kurumları
+• Fuar ve lansman organizasyonları
+• Yönetici ve VIP müşteri hediyeleri
+
+KİMLER İÇİN UYGUN?
+
+• Kurumsal firmalar
+• Teknoloji markaları
+• Yazılım geliştiricileri
+• Grafik tasarımcılar
+• Fotoğrafçılar
+• İçerik üreticileri
+• Reklam ajansları
+• Profesyonel bilgisayar kullanıcıları
+
+PROMOSYON TYPE-C HUB FİYATLARI
+
+Promosyon Type-C Hub fiyatları; sipariş miktarı, logo uygulaması, teknik özellikler ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve teklif avantajları sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Lazer logo baskısı uygulanabilmektedir.
+• Kurumsal toplu siparişlere uygundur.
+• Premium kutulu sunum seçenekleri değerlendirilebilir.
+• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
+• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Type-C Hub  
+Model: KBL-400  
+Kategori: Teknolojik Ürünler  
+Bağlantılar: Type-C, HDMI, USB 3.0, SD Kart, Micro SD Kart  
+Fonksiyon: 8 Fonksiyonlu USB-C Çoklayıcı  
+Gövde: Alüminyum Metal Kasa  
+Baskı Türü: Lazer Baskı  
+Kullanım Alanı: Profesyonel ve Kurumsal Kullanım
+
+Promosyon 8 fonksiyonlu Type-C Hub KBL-400, çoklu bağlantı desteği, dayanıklı alüminyum gövdesi ve logo baskıya uygun premium tasarımıyla kurumsal markalar için yüksek prestij sağlayan teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "Promosyon Type-C Hub KBL-400 hangi cihazlarla uyumludur?",
+      a: "Type-C bağlantı girişine sahip dizüstü bilgisayarlar, tabletler ve uyumlu mobil cihazlarla kullanılabilmektedir.",
+    },
+    {
+      q: "KBL-400 üzerinde hangi bağlantılar bulunmaktadır?",
+      a: "Model üzerinde HDMI çıkışı, USB 3.0 portları, SD kart, Micro SD kart okuyucu ve Type-C bağlantıları yer almaktadır.",
+    },
+    {
+      q: "HDMI çıkışı ne amaçla kullanılmaktadır?",
+      a: "HDMI bağlantısı sayesinde harici monitör, televizyon veya projeksiyon cihazlarına görüntü aktarımı yapılabilmektedir.",
+    },
+    {
+      q: "Ürün üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. Alüminyum gövde üzerine firmanıza özel lazer logo baskısı uygulanabilmektedir.",
+    },
+    {
+      q: "Kurumsal hediye olarak tercih edilebilir mi?",
+      a: "Evet. Özellikle yönetici hediyeleri, VIP müşteri çalışmaları ve teknoloji odaklı kurumsal promosyon projeleri için ideal bir üründür.",
+    },
+    {
+      q: "Teslim süresi nasıl belirlenmektedir?",
+      a: "Teslim süresi sipariş miktarı, baskı uygulaması ve üretim planlamasına göre belirlenerek teklif aşamasında paylaşılmaktadır.",
+    },
+  ],
 },
 {
   id: "p438",
