@@ -14680,57 +14680,127 @@ Promosyon masa seti siparişleri toplu üretim olarak hazırlanmakta olup minimu
 },
 {
   id: "p132",
+
   slug: "promosyon-12li-hesap-makinesi-hm-100",
-  title: "Promosyon 12'li Hesap Makinesi HM-100 | Logo Baskılı Promosyon Hesap Makinesi",
+
+  title:
+    "Promosyon 12'li Hesap Makinesi HM-100 | Logo Baskılı Masaüstü Promosyon Hesap Makinesi",
+
   price: 480,
+
   category: "Hesap Makineleri",
 
   image: "/products/promosyon-12li-hesap-makinesi-hm-100.jpg",
 
   shortDesc:
-    "Promosyon 12'li hesap makinesi HM-100 modeli geniş ekranı ve logo baskıya uygun yüzeyi ile ofis, muhasebe ve kurumsal promosyon kullanımı için tercih edilen pratik hesap makinesi modellerinden biridir.",
+    "Promosyon 12'li hesap makinesi HM-100 modeli, geniş LCD ekranı, 12 haneli hesaplama kapasitesi ve logo baskısına uygun yüzeyi ile ofisler, muhasebe departmanları ve finans sektöründe tercih edilen profesyonel promosyon hesap makinesi modellerinden biridir.",
 
   longDesc: `
-Promosyon 12'li hesap makinesi HM-100 modeli ofis ve muhasebe kullanımı için tasarlanmış pratik promosyon ürünleri arasında yer almaktadır. Günlük hesaplama işlemlerini kolaylaştıran yapısı sayesinde ofis ortamlarında sık kullanılan promosyon ürünlerinden biridir.
+Promosyon 12'li hesap makinesi HM-100 modeli, günlük hesaplama işlemlerini hızlı ve pratik hale getiren fonksiyonel yapısıyla kurumsal promosyon ürünleri arasında en çok tercih edilen masaüstü hesap makinesi modellerinden biridir. Özellikle muhasebe ofisleri, finans departmanları, bankalar, sigorta şirketleri ve ticari işletmeler için kullanışlı bir promosyon çözümü sunmaktadır.
 
-Promosyon hesap makineleri özellikle finans kuruluşları, muhasebe firmaları, bankalar ve kurumsal şirketler tarafından tercih edilen promosyon ürünleri arasında yer almaktadır.
+Geniş LCD ekranı sayesinde rakamların rahat okunmasını sağlayan HM-100 modeli, 12 haneli hesaplama kapasitesi ile yoğun ofis kullanımına uygun olarak tasarlanmıştır. Büyük ve ergonomik tuş yapısı uzun süreli kullanımlarda konfor sağlarken, masaüstünde dengeli duruşu sayesinde günlük işlemleri kolaylaştırmaktadır.
 
-HM-100 modeli 12 haneli hesaplama kapasitesine sahip olup geniş tuş yapısı sayesinde rahat bir kullanım sunar. Masaüstü kullanım için uygun tasarımı sayesinde ofislerde uzun süre kullanılabilir.
+Promosyon hesap makineleri, çalışanların ve müşterilerin her gün kullandığı ürünler arasında yer aldığı için markanızın uzun süre görünür kalmasına katkı sağlar. Üzerine uygulanabilen logo baskısı sayesinde firmanız sürekli hatırlanır ve marka bilinirliği doğal şekilde artar.
 
-Promosyon hesap makinesi üzerine firmanıza ait logo veya marka baskısı uygulanarak ürün güçlü bir reklam ve marka tanıtım aracı haline getirilebilir. Bu sayede marka görünürlüğü uzun süreli olarak sağlanabilir.
+HM-100 modeli; muhasebe işlemleri, finansal hesaplamalar, satış operasyonları, kasa işlemleri ve genel ofis kullanımı için ideal olup kurumsal promosyon kampanyalarında yüksek fayda sağlayan reklam ürünlerinden biridir.
 
-Promosyon hesap makineleri özellikle muhasebe ofisleri, finans şirketleri, bankalar ve kurumsal işletmeler tarafından tercih edilen etkili promosyon ürünleri arasında yer almaktadır.
+Serigrafi veya tampon baskı yöntemleri ile firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilir. Böylece promosyon hesap makinesi yalnızca işlevsel bir ofis ürünü değil, aynı zamanda uzun ömürlü bir reklam aracı haline gelir.
 
-TEKNİK ÖZELLİKLER
+Sağlam gövdesi, modern tasarımı ve profesyonel görünümü sayesinde bayi toplantıları, müşteri ziyaretleri, fuar organizasyonları, seminerler ve kurumsal etkinliklerde dağıtılabilecek prestijli promosyon ürünleri arasında yer almaktadır.
 
-Ürün Tipi: Promosyon Hesap Makinesi  
-Kategori: Hesap Makineleri  
-Hane Sayısı: 12 Hane  
-Ürün Ölçüsü: 23 x 10 x 12 cm  
+NEDEN PROMOSYON HESAP MAKİNESİ HM-100?
 
-BASKI BİLGİLERİ
-
-Baskı Alanı: 30 x 14 mm  
-Baskı Türü: Serigrafi / Tampon Baskı  
-
-KOLİ BİLGİSİ
-
-Kolideki Adet: 80  
+• 12 haneli hesaplama kapasitesi
+• Geniş ve okunabilir LCD ekran
+• Büyük ve ergonomik tuşlar
+• Masaüstü kullanıma uygun tasarım
+• Logo baskısına uygun yüzey
+• Dayanıklı gövde yapısı
+• Uzun ömürlü kullanım
+• Kurumsal marka bilinirliğini artırır
+• Finans ve muhasebe sektörüne uygundur
+• Günlük kullanıma ideal
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Ofis ve muhasebe promosyonları  
-Finans ve banka promosyonları  
-Fuar ve etkinlik promosyonları  
-Kurumsal marka tanıtımı  
+• Muhasebe ofisleri
+• Finans kuruluşları
+• Bankalar
+• Sigorta şirketleri
+• Mali müşavirlik ofisleri
+• Ticari işletmeler
+• Kurumsal ofisler
+• Fuar organizasyonları
+• Marka tanıtım kampanyaları
+• Promosyon ürün dağıtımları
 
-RENK VE STOK BİLGİSİ
+KİMLER İÇİN UYGUN?
 
-Promosyon hesap makinesi ürünlerinde renk ve üretim seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde stok bilgisi alınması önerilmektedir.
+• Muhasebe firmaları
+• Finans şirketleri
+• Bankalar
+• Sigorta acenteleri
+• Sanayi kuruluşları
+• Eğitim kurumları
+• Kamu kurumları
+• Reklam ajansları
+• Kurumsal firmalar
+• Toptan promosyon alımı yapan işletmeler
 
-Promosyon hesap makinesi siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
-`
+PROMOSYON HESAP MAKİNESİ HM-100 FİYATLARI
+
+Promosyon hesap makinesi fiyatları sipariş adedi, uygulanacak baskı yöntemi ve üretim planlamasına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal toplu siparişlere uygundur.
+• Logo baskısı uygulanabilmektedir.
+• Güncel stok durumu dönemsel olarak değişebilir.
+• Teslim süresi sipariş miktarına göre planlanmaktadır.
+• Baskı tasarımı üretim öncesinde onayınıza sunulmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Hesap Makinesi
+Model: HM-100
+Kategori: Hesap Makineleri
+Hane Sayısı: 12 Hane
+Ekran: Geniş LCD Ekran
+Ürün Ölçüsü: 23 × 10 × 12 cm
+Baskı Alanı: 30 × 14 mm
+Baskı Türü: Serigrafi Baskı / Tampon Baskı
+Kolideki Adet: 80
+Kullanım: Ofis, Muhasebe, Finans, Kurumsal
+
+Promosyon 12'li hesap makinesi HM-100 modeli; geniş ekranı, ergonomik tuş yapısı, profesyonel tasarımı ve logo baskısına uygun yüzeyi sayesinde kurumsal promosyon ürünleri arasında öne çıkan masaüstü hesap makinesi modellerinden biridir. Güncel stok durumu, toplu sipariş fiyatları, baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "HM-100 hesap makinesi kaç hanelidir?",
+      a: "HM-100 modeli 12 haneli hesaplama kapasitesine sahiptir ve profesyonel ofis kullanımına uygundur."
+    },
+    {
+      q: "Üzerine firma logosu basılabilir mi?",
+      a: "Evet. Ürün üzerine serigrafi veya tampon baskı yöntemi ile firmanıza özel logo uygulanabilmektedir."
+    },
+    {
+      q: "Hangi sektörlerde tercih edilmektedir?",
+      a: "Muhasebe firmaları, bankalar, finans kuruluşları, sigorta şirketleri, ticari işletmeler ve kurumsal ofislerde yaygın olarak kullanılmaktadır."
+    },
+    {
+      q: "Toplu sipariş verebilir miyim?",
+      a: "Evet. HM-100 modeli kurumsal toplu siparişler için uygundur ve adet bazlı özel fiyat avantajları sunulmaktadır."
+    },
+    {
+      q: "Hesap makinesi masaüstü kullanımı için uygun mudur?",
+      a: "Evet. Ergonomik yapısı ve geniş tuş tasarımı sayesinde masaüstünde rahat kullanım sağlamaktadır."
+    },
+    {
+      q: "Teslim süresi neye göre belirlenmektedir?",
+      a: "Teslim süresi sipariş adedi, baskı uygulaması ve üretim planlamasına göre değişmektedir."
+    }
+  ]
 },
 {
   id: "p133",
@@ -67102,308 +67172,617 @@ Fuar ve etkinlik dağıtımları
 },
 {
   id: "p601",
+
   slug: "promosyon-12-haneli-hesap-makinesi-hm-110-masaustu",
 
-  title: "Promosyon 12 Haneli Hesap Makinesi HM-110 | Masaüstü Büyük Ekranlı Ofis Tipi Hesap Makinesi",
+  title:
+    "Promosyon 12 Haneli Hesap Makinesi HM-110 | Logo Baskılı Masaüstü Promosyon Hesap Makinesi",
+
   price: 210,
+
   category: "Hesap Makineleri",
+
   image: "/products/promosyon-12-haneli-hesap-makinesi-hm-110.jpg",
 
   shortDesc:
-    "Promosyon 12 haneli hesap makinesi HM-110, geniş ekranı ve kullanışlı tuş yapısı ile ofisler için ideal masaüstü promosyon ürünüdür.",
+    "Promosyon 12 haneli hesap makinesi HM-110 modeli, geniş LCD ekranı, ergonomik tuş yapısı ve logo baskısına uygun yüzeyi ile ofisler, muhasebe departmanları ve kurumsal firmalar tarafından tercih edilen masaüstü promosyon hesap makinesi modellerinden biridir.",
 
   longDesc: `
-Promosyon 12 haneli hesap makinesi HM-110, günlük ofis hesaplamaları için pratik ve kullanışlı bir çözüm sunan masaüstü promosyon ürünüdür.
+Promosyon 12 haneli hesap makinesi HM-110 modeli, günlük hesaplama işlemlerini kolaylaştıran modern tasarımı ve pratik kullanım özellikleriyle kurumsal promosyon ürünleri arasında en çok tercih edilen masaüstü hesap makinesi modellerinden biridir. Finans, muhasebe ve ofis ortamlarında yoğun kullanıma uygun yapısıyla işletmeler için uzun ömürlü bir reklam ürünüdür.
 
-12 haneli geniş ekranı sayesinde büyük rakamları net bir şekilde görüntüleme imkanı sağlar ve kullanım kolaylığı sunar.
+12 haneli geniş LCD ekranı sayesinde rakamların net şekilde görüntülenmesini sağlayan HM-110 modeli, ergonomik tuş dizilimi ile hızlı ve konforlu kullanım sunmaktadır. Büyük tuş yapısı sayesinde uzun süreli hesaplama işlemlerinde kullanıcıya rahatlık sağlar.
 
-Ergonomik tuş dizilimi ile hızlı ve hatasız işlem yapmayı kolaylaştırır.
+Promosyon hesap makineleri, masa üzerinde sürekli kullanılan ofis ekipmanlarından biri olduğu için marka bilinirliğini artıran en etkili kurumsal promosyon ürünleri arasında yer almaktadır. Üzerine uygulanacak logo baskısı sayesinde firmanız her kullanımda görünür olur ve uzun süre akılda kalır.
 
-Ofis, muhasebe ve günlük kullanım için ideal olan bu model, yoğun kullanımda yüksek performans sunar.
+HM-110 modeli; muhasebe ofisleri, finans departmanları, banka şubeleri, eğitim kurumları, mağazalar ve ticari işletmeler için ideal bir promosyon ürünüdür. Hem çalışanlara hem de müşterilere verilebilecek kullanışlı kurumsal hediyeler arasında yer almaktadır.
 
-Şık ve sade tasarımı ile masaüstünde düzenli bir görünüm oluşturur ve profesyonel kullanım için uygundur.
+Serigrafi veya tampon baskı teknikleri ile firma logosu, marka ismi veya kurumsal tasarım uygulanabilir. Böylece ürün hem işlevsel hem de etkili bir reklam aracı olarak kullanılabilir.
 
-Ürün üzerine uygulanabilen serigrafi ve tampon baskı teknikleri ile firmanızın logosu uzun süre görünür hale gelir.
+Modern görünümü, sağlam gövde yapısı ve kompakt tasarımı sayesinde fuarlar, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek kaliteli promosyon ürünlerinden biridir.
 
-Kurumsal promosyon ürünleri arasında hem işlevsel hem de ekonomik bir seçenek sunar.
+NEDEN PROMOSYON HESAP MAKİNESİ HM-110?
 
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Hesap Makinesi
-Ekran: 12 Haneli Geniş Ekran
-Kullanım: Masaüstü
-Ölçü: 23 x 10 x 12 cm
-Baskı Alanı: 45 x 15 mm
-Baskı Türü: Serigrafi, Tampon Baskı
-Koli Adedi: 100
-
-NOT
-
-Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 12 haneli geniş LCD ekran
+• Ergonomik tuş dizilimi
+• Masaüstü kullanıma uygun
+• Logo baskısına uygun yüzey
+• Dayanıklı gövde yapısı
+• Hızlı ve pratik kullanım
+• Uzun ömürlü reklam ürünü
+• Ofis ortamları için ideal
+• Kurumsal marka bilinirliğini artırır
+• Ekonomik promosyon çözümü
 
 KULLANIM ALANLARI
 
-Ofis ve muhasebe kullanımı
-Kurumsal promosyon ürünleri
-Fuar ve etkinlik dağıtımları
-Eğitim kurumları
-Çalışan ve müşteri hediyeleri
-`,
+• Muhasebe ofisleri
+• Finans departmanları
+• Bankalar
+• Sigorta şirketleri
+• Eğitim kurumları
+• Ticari işletmeler
+• Kurumsal ofisler
+• Fuar organizasyonları
+• Marka tanıtım kampanyaları
+• Promosyon ürün dağıtımları
+
+KİMLER İÇİN UYGUN?
+
+• Muhasebe firmaları
+• Mali müşavirlik ofisleri
+• Bankalar
+• Finans kuruluşları
+• Sigorta acenteleri
+• Kamu kurumları
+• Sanayi firmaları
+• Eğitim kurumları
+• Reklam ajansları
+• Kurumsal işletmeler
+
+PROMOSYON HESAP MAKİNESİ HM-110 FİYATLARI
+
+Promosyon hesap makinesi fiyatları sipariş adedi, uygulanacak baskı yöntemi ve üretim planlamasına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal toplu siparişler için uygundur.
+• Logo baskısı uygulanabilmektedir.
+• Güncel stok durumu dönemsel olarak değişebilir.
+• Teslim süresi sipariş miktarına göre planlanmaktadır.
+• Baskı tasarımı üretim öncesinde onayınıza sunulmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Hesap Makinesi
+Model: HM-110
+Kategori: Hesap Makineleri
+Hane Sayısı: 12 Hane
+Ekran: Geniş LCD Ekran
+Kullanım: Masaüstü
+Ürün Ölçüsü: 23 × 10 × 12 cm
+Baskı Alanı: 45 × 15 mm
+Baskı Türü: Serigrafi Baskı / Tampon Baskı
+Kolideki Adet: 100
+
+Promosyon 12 haneli hesap makinesi HM-110 modeli; geniş ekranı, ergonomik kullanımı, profesyonel tasarımı ve logo baskısına uygun yapısı ile kurumsal promosyon ürünleri arasında öne çıkan masaüstü hesap makinesi modellerinden biridir. Güncel stok durumu, toplu sipariş fiyatları, baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "HM-110 hesap makinesi kaç hanelidir?",
+      a: "HM-110 modeli 12 haneli hesaplama kapasitesine sahiptir ve profesyonel ofis kullanımına uygundur."
+    },
+    {
+      q: "Üzerine firma logosu basılabilir mi?",
+      a: "Evet. Ürün üzerine serigrafi veya tampon baskı yöntemi ile firmanıza özel logo uygulanabilmektedir."
+    },
+    {
+      q: "Hangi sektörlerde tercih edilmektedir?",
+      a: "Muhasebe firmaları, bankalar, finans kuruluşları, eğitim kurumları, sigorta şirketleri ve kurumsal işletmeler tarafından yaygın olarak tercih edilmektedir."
+    },
+    {
+      q: "Toplu sipariş verebilir miyim?",
+      a: "Evet. HM-110 modeli kurumsal toplu siparişlere uygundur ve adet bazlı özel fiyat avantajları sunulmaktadır."
+    },
+    {
+      q: "Masaüstü kullanımına uygun mudur?",
+      a: "Evet. Kompakt tasarımı ve ergonomik tuş yapısı sayesinde masaüstünde rahat ve uzun süreli kullanım sağlar."
+    },
+    {
+      q: "Teslim süresi neye göre belirlenmektedir?",
+      a: "Teslim süresi sipariş adedi, baskı uygulaması ve üretim planlamasına göre değişmektedir."
+    }
+  ]
 },
 {
   id: "p602",
+
   slug: "promosyon-dijital-hesap-makinesi-hm-120-12-haneli-renkli",
 
-  title: "Promosyon Dijital Hesap Makinesi HM-120 | 12 Haneli Renkli Baskılı Ofis Tipi Hesap Makinesi",
+  title:
+    "Promosyon Dijital Hesap Makinesi HM-120 | Logo Baskılı 12 Haneli Renkli Promosyon Hesap Makinesi",
+
   price: 416,
+
   category: "Hesap Makineleri",
+
   image: "/products/promosyon-dijital-hesap-makinesi-hm-120.jpg",
 
   shortDesc:
-    "Promosyon dijital hesap makinesi HM-120, 12 haneli ekranı ve renkli baskı uygulanabilir yüzeyi ile kurumsal tanıtımlar için ideal promosyon ürünüdür.",
+    "Promosyon dijital hesap makinesi HM-120 modeli, 12 haneli geniş ekranı, tam renk baskıya uygun geniş ön yüzeyi ve kompakt tasarımı ile kurumsal reklam kampanyaları, ofis kullanımı ve marka tanıtımları için tercih edilen promosyon hesap makinesi modellerinden biridir.",
 
   longDesc: `
-Promosyon dijital hesap makinesi HM-120, modern tasarımı ve geniş baskı yüzeyi ile hem işlevsel hem de reklam değeri yüksek bir promosyon ürünüdür.
+Promosyon dijital hesap makinesi HM-120 modeli, geniş reklam baskı alanı ve 12 haneli hesaplama kapasitesi sayesinde hem işlevsel hem de marka görünürlüğü sağlayan profesyonel promosyon ürünleri arasında yer almaktadır. Özellikle kurumsal firmalar, finans kuruluşları, muhasebe ofisleri ve reklam kampanyaları için uzun süre kullanılan etkili bir promosyon ürünüdür.
 
-12 haneli geniş ekranı sayesinde büyük rakamları net bir şekilde görüntüleme imkanı sunar ve günlük hesaplamalarda kullanım kolaylığı sağlar.
+Modern tasarımı ve kompakt yapısı sayesinde masaüstünde rahat kullanım sunan HM-120 modeli, aynı zamanda kolay taşınabilir yapısıyla günlük kullanıma da uygundur. Geniş LCD ekranı rakamların net şekilde okunmasını sağlarken ergonomik tuş dizilimi hızlı ve konforlu kullanım imkânı sunmaktadır.
 
-Kompakt ve taşınabilir yapısı ile masaüstü ve mobil kullanım için uygundur.
+Bu modeli benzer promosyon hesap makinelerinden ayıran en önemli özelliklerden biri geniş ön yüzeyinin tam renk baskıya uygun olmasıdır. Ürün üzerine firmanızın logosu, reklam görselleri, kurumsal renkleri veya kampanya tasarımları uygulanabilir. Böylece klasik logo baskısının ötesinde dikkat çekici ve yüksek görünürlüğe sahip bir reklam ürünü elde edilir.
 
-Ürün yüzeyine uygulanabilen tam renkli baskı sayesinde markanız dikkat çekici şekilde sergilenir ve uzun süreli reklam etkisi oluşturur.
+Promosyon hesap makineleri sürekli kullanılan masaüstü ürünleri arasında yer aldığı için markanız kullanıcıların çalışma alanında uzun süre görünür kalır. Bu sayede düşük maliyetle uzun vadeli reklam avantajı elde edilir.
 
-Farklı renk seçenekleri ile kurumsal kimliğinize uygun tercihler yapılabilir.
+HM-120 modeli; muhasebe ofisleri, bankalar, sigorta şirketleri, eğitim kurumları, ticari işletmeler ve kurumsal organizasyonlarda dağıtılabilecek kullanışlı promosyon ürünlerinden biridir.
 
-Dayanıklı malzeme yapısı ile uzun ömürlü kullanım sunar ve yoğun kullanımda performansını korur.
+NEDEN PROMOSYON HESAP MAKİNESİ HM-120?
 
-Kurumsal promosyon ürünleri arasında ekonomik ve yüksek geri dönüş sağlayan bir alternatif sunar.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Dijital Hesap Makinesi
-Ekran: 12 Haneli
-Kullanım: Masaüstü / Taşınabilir
-Baskı Türü: Renkli Baskı, Serigrafi
-Uyumluluk: Ofis ve Günlük Kullanım
-Malzeme: Plastik
-
-NOT
-
-Ürün görselleri temsili olup baskı ve renk tonlarında farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 12 haneli geniş LCD ekran
+• Tam renk baskıya uygun geniş ön yüzey
+• Kompakt ve hafif tasarım
+• Logo ve reklam baskısına uygun
+• Ergonomik tuş dizilimi
+• Uzun ömürlü kullanım
+• Masaüstü ve mobil kullanıma uygun
+• Kurumsal marka görünürlüğünü artırır
+• Günlük kullanıma uygun yapı
+• Etkili promosyon ürünü
 
 KULLANIM ALANLARI
 
-Ofis ve muhasebe kullanımı
-Kurumsal promosyon ürünleri
-Fuar ve etkinlik dağıtımları
-Eğitim kurumları
-Reklam ve tanıtım kampanyaları
-`,
+• Muhasebe ofisleri
+• Finans kuruluşları
+• Bankalar
+• Sigorta şirketleri
+• Eğitim kurumları
+• Kurumsal ofisler
+• Fuar organizasyonları
+• Reklam kampanyaları
+• Marka tanıtım etkinlikleri
+• Promosyon ürün dağıtımları
+
+KİMLER İÇİN UYGUN?
+
+• Muhasebe firmaları
+• Mali müşavirlik ofisleri
+• Finans şirketleri
+• Bankalar
+• Kamu kurumları
+• Sanayi kuruluşları
+• Eğitim kurumları
+• Reklam ajansları
+• Kurumsal firmalar
+• Toptan promosyon alımı yapan işletmeler
+
+PROMOSYON HESAP MAKİNESİ HM-120 FİYATLARI
+
+Promosyon hesap makinesi fiyatları sipariş adedi, uygulanacak baskı tekniği ve üretim planlamasına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal toplu siparişler için uygundur.
+• Tam renk baskı ve logo baskısı uygulanabilmektedir.
+• Güncel stok durumu dönemsel olarak değişebilir.
+• Teslim süresi sipariş miktarına göre planlanmaktadır.
+• Baskı tasarımı üretim öncesinde onayınıza sunulmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Dijital Hesap Makinesi
+Model: HM-120
+Kategori: Hesap Makineleri
+Hane Sayısı: 12 Hane
+Ekran: Geniş LCD Ekran
+Kullanım: Masaüstü / Taşınabilir
+Malzeme: Plastik
+Baskı Türü: Tam Renk Baskı, Serigrafi Baskı
+Baskı Özelliği: Geniş Ön Yüzey Reklam Alanı
+
+Promosyon dijital hesap makinesi HM-120 modeli; 12 haneli geniş ekranı, tam renk baskıya uygun reklam alanı ve modern tasarımı sayesinde kurumsal promosyon ürünleri arasında öne çıkan hesap makinesi modellerinden biridir. Güncel stok durumu, toplu sipariş fiyatları, baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "HM-120 hesap makinesi kaç hanelidir?",
+      a: "HM-120 modeli 12 haneli hesaplama kapasitesine sahiptir ve profesyonel ofis kullanımına uygundur."
+    },
+    {
+      q: "Üzerine tam renk baskı yapılabilir mi?",
+      a: "Evet. Geniş ön yüzeyi sayesinde logo, görsel ve kurumsal tasarımlar tam renk baskı olarak uygulanabilmektedir."
+    },
+    {
+      q: "Hangi sektörlerde kullanılmaktadır?",
+      a: "Muhasebe firmaları, bankalar, finans kuruluşları, eğitim kurumları, sigorta şirketleri ve kurumsal işletmeler tarafından tercih edilmektedir."
+    },
+    {
+      q: "Toplu sipariş verebilir miyim?",
+      a: "Evet. HM-120 modeli kurumsal toplu siparişlere uygundur ve adet bazlı özel fiyat avantajları sunulmaktadır."
+    },
+    {
+      q: "Taşınabilir kullanıma uygun mudur?",
+      a: "Evet. Kompakt ve hafif yapısı sayesinde hem masaüstünde hem de mobil kullanımda rahatlık sağlar."
+    },
+    {
+      q: "Teslim süresi neye göre belirlenmektedir?",
+      a: "Teslim süresi sipariş adedi, baskı uygulaması ve üretim planlamasına göre değişmektedir."
+    }
+  ]
 },
 {
   id: "p603",
+
   slug: "promosyon-dijital-hesap-makinesi-hm-130-egimli-12-haneli",
 
-  title: "Promosyon Dijital Hesap Makinesi HM-130 | 12 Haneli Eğimli Masaüstü Ofis Tipi Hesap Makinesi",
+  title:
+    "Promosyon Dijital Hesap Makinesi HM-130 | Logo Baskılı 12 Haneli Eğimli Masaüstü Hesap Makinesi",
+
   price: 300,
+
   category: "Hesap Makineleri",
+
   image: "/products/promosyon-dijital-hesap-makinesi-hm-130.jpg",
 
   shortDesc:
-    "Promosyon dijital hesap makinesi HM-130, 12 haneli ekranı ve eğimli tasarımı ile ofis kullanımı için ergonomik ve şık bir promosyon ürünüdür.",
+    "Promosyon dijital hesap makinesi HM-130 modeli, 12 haneli geniş LCD ekranı, ergonomik eğimli tasarımı ve logo baskısına uygun yüzeyi ile ofisler, muhasebe departmanları ve kurumsal firmalar için tercih edilen modern promosyon hesap makinesi modellerinden biridir.",
 
   longDesc: `
-Promosyon dijital hesap makinesi HM-130, ergonomik eğimli tasarımı ile masaüstü kullanımda konfor sağlayan modern bir ofis promosyon ürünüdür.
+Promosyon dijital hesap makinesi HM-130 modeli, ergonomik eğimli tasarımı ve 12 haneli geniş ekranı ile günlük hesaplama işlemlerini kolaylaştıran profesyonel masaüstü promosyon ürünleri arasında yer almaktadır. Modern görünümü, rahat kullanım sunan yapısı ve logo baskısına uygun geniş yüzeyi sayesinde kurumsal marka tanıtımlarında uzun süre kullanılan etkili reklam ürünlerinden biridir.
 
-12 haneli geniş ekranı sayesinde büyük rakamları net bir şekilde görüntüleme imkanı sunar ve günlük hesaplamaları kolaylaştırır.
+HM-130 modeli, ekranın kullanıcıya doğru eğimli konumlandırılması sayesinde rakamların daha rahat okunmasını sağlar. Bu tasarım uzun süreli kullanımda göz yorgunluğunu azaltırken muhasebe ve finans işlemlerinde çalışma konforunu artırmaktadır.
 
-Eğimli yapısı sayesinde ekran okunabilirliği artar ve uzun süreli kullanımlarda göz yorgunluğunu azaltır.
+12 haneli LCD ekranı sayesinde büyük rakamlar net şekilde görüntülenebilir. Geniş ve ergonomik tuş dizilimi hızlı işlem yapmayı kolaylaştırırken masaüstünde dengeli yapısı sayesinde günlük ofis kullanımında maksimum verim sağlar.
 
-Minimal ve şık tasarımı ile ofis masalarında modern bir görünüm oluşturur.
+Promosyon hesap makineleri çalışanların gün içerisinde sürekli kullandığı ofis ekipmanlarından biri olduğu için marka görünürlüğünü uzun yıllar devam ettiren promosyon ürünleri arasında yer almaktadır. Üzerine uygulanacak logo baskısı sayesinde firmanız her kullanımda müşterilerinizin ve çalışanlarınızın göz önünde olur.
 
-Kompakt boyutları sayesinde masa üzerinde fazla yer kaplamaz ve düzenli bir çalışma alanı sağlar.
+HM-130 modeli; muhasebe firmaları, mali müşavirlik ofisleri, bankalar, finans kuruluşları, eğitim kurumları, mağazalar ve kurumsal işletmeler tarafından tercih edilen kaliteli promosyon hesap makinesi modellerinden biridir.
 
-UV ve serigraf baskıya uygun yüzeyi ile firmanızın logosu kalıcı ve dikkat çekici şekilde uygulanabilir.
+UV baskı veya serigrafi baskı teknikleri ile ürün üzerine firmanıza özel logo, marka adı veya kurumsal tasarımlar uygulanabilir. Böylece ürün hem işlevsel bir masaüstü ekipmanı hem de uzun ömürlü bir reklam aracı haline gelir.
 
-Dayanıklı plastik yapısı ile uzun ömürlü kullanım sunar ve yoğun ofis kullanımına uygundur.
+NEDEN PROMOSYON HESAP MAKİNESİ HM-130?
 
-Kurumsal promosyon ürünleri arasında hem işlevsel hem de estetik bir alternatif sunar.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Dijital Hesap Makinesi
-Ekran: 12 Haneli
-Tasarım: Eğimli Masaüstü
-Ölçü: 15,5 x 14 x 2 cm
-Baskı Türü: UV Baskı, Serigrafi
-Kullanım: Ofis / Günlük Kullanım
-Malzeme: Plastik
-
-NOT
-
-Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 12 haneli geniş LCD ekran
+• Ergonomik eğimli tasarım
+• Geniş ve konforlu tuş yapısı
+• Masaüstü kullanıma uygun
+• Logo baskısına uygun yüzey
+• Modern ve şık görünüm
+• Dayanıklı plastik gövde
+• Uzun ömürlü kullanım
+• Marka görünürlüğünü artırır
+• Profesyonel ofis kullanımı için ideal
 
 KULLANIM ALANLARI
 
-Ofis ve muhasebe kullanımı
-Kurumsal promosyon ürünleri
-Fuar ve etkinlik dağıtımları
-Eğitim kurumları
-Çalışan ve müşteri hediyeleri
-`,
+• Muhasebe ofisleri
+• Finans kuruluşları
+• Bankalar
+• Sigorta şirketleri
+• Eğitim kurumları
+• Ticari işletmeler
+• Kurumsal ofisler
+• Fuar organizasyonları
+• Marka tanıtım kampanyaları
+• Promosyon ürün dağıtımları
+
+KİMLER İÇİN UYGUN?
+
+• Muhasebe firmaları
+• Mali müşavirler
+• Finans şirketleri
+• Bankalar
+• Kamu kurumları
+• Sanayi kuruluşları
+• Reklam ajansları
+• Eğitim kurumları
+• Kurumsal işletmeler
+• Toptan promosyon alımı yapan firmalar
+
+PROMOSYON HESAP MAKİNESİ HM-130 FİYATLARI
+
+Promosyon hesap makinesi fiyatları sipariş adedi, uygulanacak baskı yöntemi ve üretim planlamasına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal toplu siparişler için uygundur.
+• UV baskı ve serigrafi baskı uygulanabilmektedir.
+• Güncel stok durumu dönemsel olarak değişebilir.
+• Teslim süresi sipariş miktarına göre planlanmaktadır.
+• Baskı tasarımı üretim öncesinde onayınıza sunulmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Dijital Hesap Makinesi
+Model: HM-130
+Kategori: Hesap Makineleri
+Hane Sayısı: 12 Hane
+Ekran: Geniş LCD Ekran
+Tasarım: Eğimli Masaüstü
+Ürün Ölçüsü: 15,5 × 14 × 2 cm
+Malzeme: Plastik
+Baskı Türü: UV Baskı / Serigrafi Baskı
+Kullanım: Ofis, Muhasebe, Finans, Günlük Kullanım
+
+Promosyon dijital hesap makinesi HM-130 modeli; ergonomik eğimli yapısı, 12 haneli geniş ekranı ve logo baskısına uygun modern tasarımı sayesinde kurumsal promosyon ürünleri arasında öne çıkan profesyonel masaüstü hesap makinesi modellerinden biridir. Güncel stok durumu, toplu sipariş fiyatları, baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "HM-130 hesap makinesi kaç hanelidir?",
+      a: "HM-130 modeli 12 haneli hesaplama kapasitesine sahiptir ve profesyonel ofis kullanımı için tasarlanmıştır."
+    },
+    {
+      q: "Üzerine firma logosu basılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı veya serigrafi baskı yöntemi ile firmanıza özel logo uygulanabilmektedir."
+    },
+    {
+      q: "Eğimli tasarımın avantajı nedir?",
+      a: "Eğimli ekran yapısı rakamların daha rahat okunmasını sağlar, kullanım konforunu artırır ve uzun süreli çalışmalarda göz yorgunluğunu azaltmaya yardımcı olur."
+    },
+    {
+      q: "Toplu sipariş verebilir miyim?",
+      a: "Evet. HM-130 modeli kurumsal toplu siparişler için uygundur ve adet bazlı özel fiyat avantajları sunulmaktadır."
+    },
+    {
+      q: "Hangi sektörlerde tercih edilmektedir?",
+      a: "Muhasebe firmaları, bankalar, finans kuruluşları, eğitim kurumları, sigorta şirketleri ve kurumsal işletmeler tarafından yaygın olarak tercih edilmektedir."
+    },
+    {
+      q: "Teslim süresi neye göre belirlenmektedir?",
+      a: "Teslim süresi sipariş adedi, baskı uygulaması ve üretim planlamasına göre değişmektedir."
+    }
+  ]
 },
 {
   id: "p604",
+
   slug: "promosyon-12-haneli-hesap-makinesi-hm-140-yazilabilir-ekranli",
 
-  title: "Promosyon 12 Haneli Hesap Makinesi HM-140 | Yazılabilir LCD Ekranlı Notlu Hesap Makinesi",
+  title:
+    "Promosyon 12 Haneli Hesap Makinesi HM-140 | Logo Baskılı Yazılabilir LCD Ekranlı Notlu Hesap Makinesi",
+
   price: 360,
+
   category: "Hesap Makineleri",
+
   image: "/products/promosyon-12-haneli-hesap-makinesi-hm-140.jpg",
 
   shortDesc:
-    "Promosyon 12 haneli hesap makinesi HM-140, yazılabilir LCD ekranı ve geniş baskı alanı ile hem hesaplama hem not alma imkanı sunan yenilikçi promosyon ürünüdür.",
+    "Promosyon 12 haneli hesap makinesi HM-140 modeli, yazılabilir LCD not ekranı, 12 haneli geniş hesap makinesi ve logo baskısına uygun tasarımı ile ofisler, eğitim kurumları ve kurumsal firmalar için geliştirilen yenilikçi promosyon ürünlerinden biridir.",
 
   longDesc: `
-Promosyon 12 haneli hesap makinesi HM-140, klasik hesap makinesi kullanımını geliştiren yazılabilir ekran özelliği ile öne çıkan yenilikçi bir masaüstü promosyon ürünüdür.
+Promosyon 12 haneli hesap makinesi HM-140 modeli, klasik hesap makinelerinden farklı olarak hesaplama ve dijital not alma özelliklerini tek üründe bir araya getiren yenilikçi promosyon ürünleri arasında yer almaktadır. 12 haneli geniş ekranı ve yazılabilir LCD not paneli sayesinde hem hesaplama işlemlerini kolaylaştırır hem de hızlı not alma imkanı sunar.
 
-12 haneli geniş ekranı sayesinde net ve kolay okunabilir hesaplama imkanı sunar.
+Modern ve katlanabilir tasarımı sayesinde masaüstünde düzenli kullanım sağlarken taşınabilir yapısı ile toplantılar, eğitimler ve saha çalışmalarında da rahatlıkla kullanılabilir. Ürünle birlikte kullanılan dijital kalem sayesinde yazılabilir LCD ekran üzerine notlar alınabilir, çizimler yapılabilir, hesaplamalar kaydedilebilir ve tek tuşla ekran kolayca temizlenebilir.
 
-Yan kısmında yer alan yazılabilir LCD panel ile not alma, çizim yapma ve hızlı hesaplamaları kaydetme imkanı sağlar.
+HM-140 modeli özellikle muhasebe departmanları, finans ekipleri, mühendislik ofisleri, eğitim kurumları, mimarlık firmaları, bankalar ve kurumsal işletmeler tarafından tercih edilen fonksiyonel promosyon ürünlerinden biridir. Gün içerisinde sürekli kullanılan bir masaüstü ekipmanı olması sayesinde markanızın uzun süre görünür kalmasına katkı sağlar.
 
-Kalem destekli ekranı sayesinde özellikle ofis, eğitim ve teknik kullanım alanlarında büyük kolaylık sunar.
+Promosyon hesap makinesi üzerine uygulanacak UV baskı, tampon baskı veya serigrafi baskı teknikleri ile firmanıza ait logo, marka adı veya kurumsal tasarımlar kalıcı şekilde uygulanabilir. Böylece ürün yalnızca hesap makinesi olarak değil aynı zamanda etkili bir reklam ve kurumsal tanıtım aracı olarak da kullanılmaktadır.
 
-Katlanabilir yapısı ile taşınabilir kullanım imkanı sağlar ve masaüstünde düzenli bir görünüm oluşturur.
+Yazılabilir LCD ekran özelliği sayesinde telefon numarası, kısa notlar, toplantı bilgileri, teknik çizimler, formüller ve günlük hatırlatmalar kolayca kaydedilebilir. Bu özellik ürünü klasik promosyon hesap makinelerinden ayıran en önemli avantajlardan biridir.
 
-Geniş baskı alanı sayesinde firmanızın logosu dikkat çekici şekilde uygulanabilir ve uzun süre görünürlük sağlar.
+NEDEN PROMOSYON HESAP MAKİNESİ HM-140?
 
-UV, serigrafi ve tampon baskı teknikleri ile farklı baskı seçenekleri sunar.
-
-Kurumsal promosyon ürünleri arasında yenilikçi ve dikkat çekici bir alternatif olarak öne çıkar.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Dijital Hesap Makinesi
-Ekran: 12 Haneli + Yazılabilir LCD Panel
-Tasarım: Katlanabilir / Not Alma Özellikli
-Ölçü: 12,8 x 14 x 7 cm
-Baskı Alanı: 125 x 55 mm
-Baskı Türü: Serigrafi, Tampon Baskı, UV Baskı
-Koli Adedi: 100
-
-NOT
-
-Ürün görselleri temsili olup tasarım ve renk detaylarında farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 12 haneli geniş LCD hesap makinesi
+• Yazılabilir dijital LCD not ekranı
+• Kalem destekli kullanım
+• Katlanabilir kompakt tasarım
+• Tek tuşla ekran temizleme özelliği
+• Logo baskısına uygun geniş yüzey
+• Hafif ve taşınabilir yapı
+• Günlük kullanım için ergonomik tasarım
+• Uzun süre marka görünürlüğü sağlar
+• Modern ve yenilikçi promosyon ürünü
 
 KULLANIM ALANLARI
 
-Ofis ve muhasebe kullanımı
-Eğitim ve okul kullanımı
-Kurumsal promosyon ürünleri
-Fuar ve etkinlik dağıtımları
-Teknik çizim ve not alma işlemleri
-`,
+• Muhasebe ofisleri
+• Finans departmanları
+• Eğitim kurumları
+• Üniversiteler
+• Mimarlık ofisleri
+• Mühendislik firmaları
+• Bankalar
+• Kurumsal işletmeler
+• Fuar organizasyonları
+• Marka tanıtım kampanyaları
+
+KİMLER İÇİN UYGUN?
+
+• Muhasebe firmaları
+• Mali müşavirler
+• Finans kuruluşları
+• Eğitim kurumları
+• Bankalar
+• Kamu kurumları
+• Mimarlık ve mühendislik firmaları
+• Reklam ajansları
+• Kurumsal şirketler
+• Toptan promosyon alımı yapan işletmeler
+
+PROMOSYON HESAP MAKİNESİ HM-140 FİYATLARI
+
+Promosyon hesap makinesi fiyatları sipariş adedi, uygulanacak baskı yöntemi, üretim planlaması ve teslim süresine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal toplu siparişler için uygundur.
+• UV baskı, tampon baskı ve serigrafi baskı uygulanabilmektedir.
+• Logo ve kurumsal tasarım üretim öncesinde onaya sunulur.
+• Güncel stok durumu dönemsel olarak değişebilir.
+• Teslim süresi sipariş miktarına göre planlanmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Dijital Hesap Makinesi
+Model: HM-140
+Kategori: Hesap Makineleri
+Hane Sayısı: 12 Hane
+Ek Özellik: Yazılabilir LCD Not Ekranı
+Tasarım: Katlanabilir
+Kalem: LCD Yazım Kalemi
+Ürün Ölçüsü: 12,8 × 14 × 7 cm
+Baskı Alanı: 125 × 55 mm
+Baskı Türü: UV Baskı / Serigrafi Baskı / Tampon Baskı
+Kolideki Adet: 100
+
+Promosyon 12 haneli hesap makinesi HM-140 modeli; hesap makinesi ve dijital not alma özelliklerini tek üründe buluşturan yenilikçi tasarımı, yazılabilir LCD ekranı ve logo baskısına uygun geniş yüzeyi sayesinde kurumsal promosyon ürünleri arasında dikkat çeken modern hesap makinesi modellerinden biridir. Güncel stok durumu, toplu sipariş fiyatları, baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "HM-140 hesap makinesi kaç hanelidir?",
+      a: "HM-140 modeli 12 haneli geniş LCD hesaplama ekranına sahiptir."
+    },
+    {
+      q: "Yazılabilir ekran nasıl çalışır?",
+      a: "Ürün üzerindeki LCD not ekranına özel kalemi ile not alabilir, çizim yapabilir ve tek tuşla ekranı silebilirsiniz."
+    },
+    {
+      q: "Üzerine firma logosu basılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı, serigrafi veya tampon baskı teknikleri ile firmanıza özel logo uygulanabilmektedir."
+    },
+    {
+      q: "Kimler için uygundur?",
+      a: "Muhasebe ofisleri, eğitim kurumları, mühendislik firmaları, bankalar, finans kuruluşları ve tüm kurumsal işletmeler için ideal bir promosyon ürünüdür."
+    },
+    {
+      q: "Toplu sipariş verilebilir mi?",
+      a: "Evet. HM-140 modeli kurumsal toplu siparişlere uygundur ve adet bazlı özel fiyat avantajları sunulmaktadır."
+    },
+    {
+      q: "Not ekranı tekrar kullanılabilir mi?",
+      a: "Evet. LCD not ekranı silinerek defalarca kullanılabilir ve günlük not alma işlemleri için pratik bir çözüm sunar."
+    }
+  ]
 },
 {
   id: "p605",
+
   slug: "promosyon-dijital-hesap-makinesi-hm-150-egimli-slim-tasarim",
 
-  title: "Promosyon Dijital Hesap Makinesi HM-150 | 12 Haneli Eğimli Slim Tasarım Ofis Tipi Hesap Makinesi",
+  title:
+    "Promosyon Dijital Hesap Makinesi HM-150 | Logo Baskılı 12 Haneli Slim Masaüstü Hesap Makinesi",
+
   price: 180,
+
   category: "Hesap Makineleri",
+
   image: "/products/promosyon-dijital-hesap-makinesi-hm-150.jpg",
 
   shortDesc:
-    "Promosyon dijital hesap makinesi HM-150, slim tasarımı ve eğimli yapısı ile modern ofisler için şık ve kullanışlı bir promosyon ürünüdür.",
+    "Promosyon dijital hesap makinesi HM-150 modeli, 12 haneli geniş ekranı, modern slim tasarımı ve logo baskısına uygun geniş yüzeyi ile ofisler, muhasebe departmanları ve kurumsal firmalar için tercih edilen kullanışlı promosyon hesap makinesi modellerinden biridir.",
 
   longDesc: `
-Promosyon dijital hesap makinesi HM-150, modern ve ince tasarımı ile ofis masalarında şık bir görünüm sunan premium bir masaüstü promosyon ürünüdür.
+Promosyon dijital hesap makinesi HM-150 modeli, modern tasarımı, ince gövde yapısı ve ergonomik eğimli ekranı ile günlük ofis kullanımına uygun profesyonel promosyon ürünleri arasında yer almaktadır. Minimal görünümü sayesinde çalışma masalarında şık bir duruş sergilerken fonksiyonel yapısıyla günlük hesaplama işlemlerini kolaylaştırmaktadır.
 
-12 haneli geniş ekranı sayesinde büyük rakamları net bir şekilde görüntüleme imkanı sağlar ve günlük hesaplamaları kolaylaştırır.
+12 haneli geniş LCD ekranı sayesinde büyük rakamlar net şekilde görüntülenebilir. Geniş ve yumuşak tuş yapısı hızlı veri girişine imkan tanırken muhasebe, finans, satış ve ofis personellerinin yoğun kullanımına uygun konforlu bir deneyim sunar.
 
-Eğimli yapısı ile ekran okunabilirliğini artırır ve uzun süreli kullanımlarda konfor sağlar.
+İnce (slim) gövde tasarımı sayesinde masa üzerinde minimum alan kaplar. Hafif yapısı sayesinde kolay taşınabilir ve farklı çalışma alanlarında rahatlıkla kullanılabilir. Modern çizgilere sahip beyaz tasarımı ise kurumsal çalışma ortamlarına estetik bir görünüm kazandırmaktadır.
 
-Slim tasarımı sayesinde masa üzerinde minimum yer kaplar ve düzenli bir çalışma alanı oluşturur.
+Promosyon hesap makinesi HM-150 üzerine UV baskı, tampon baskı veya serigrafi baskı teknikleri ile firmanızın logosu, marka adı veya kurumsal görseller uygulanabilir. Gün içerisinde sürekli kullanılan bir masaüstü ürünü olması sayesinde markanız uzun yıllar boyunca görünür kalır ve etkili bir reklam alanı oluşturur.
 
-Şık yüzey tasarımı, ürüne modern ve profesyonel bir görünüm kazandırır.
+Kurumsal promosyon ürünleri arasında özellikle muhasebe firmaları, bankalar, finans kuruluşları, sigorta şirketleri, eğitim kurumları ve kurumsal işletmeler tarafından sıklıkla tercih edilmektedir. Fuarlar, seminerler, bayi toplantıları ve müşteri hediyelerinde hem kullanışlı hem de prestijli bir promosyon ürünü olarak öne çıkar.
 
-UV, serigrafi ve tampon baskı teknikleri ile logo uygulaması yapılabilir ve markanız uzun süre görünürlük kazanır.
+NEDEN PROMOSYON HESAP MAKİNESİ HM-150?
 
-Dayanıklı yapısı ile uzun ömürlü kullanım sunar ve yoğun ofis kullanımına uygundur.
-
-Kurumsal promosyon ürünleri arasında hem estetik hem de işlevsel bir alternatif sunar.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Dijital Hesap Makinesi
-Ekran: 12 Haneli
-Tasarım: Eğimli / Slim
-Ölçü: 23 x 10 x 12 cm
-Baskı Alanı: 80 x 25 mm
-Baskı Türü: Serigrafi, Tampon Baskı
-Koli Adedi: 100
-
-NOT
-
-Ürün görselleri temsili olup tasarım detaylarında farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 12 haneli geniş LCD ekran
+• Modern ve ince slim tasarım
+• Ergonomik eğimli kullanım açısı
+• Geniş ve rahat tuş yapısı
+• Hafif ve taşınabilir gövde
+• Logo baskısına uygun geniş yüzey
+• Masaüstü kullanım için ideal yapı
+• Uzun ömürlü dayanıklı kullanım
+• Günlük ofis çalışmalarına uygun
+• Kurumsal promosyonlar için yüksek reklam değeri
 
 KULLANIM ALANLARI
 
-Ofis ve muhasebe kullanımı
-Kurumsal promosyon ürünleri
-Fuar ve etkinlik dağıtımları
-Eğitim kurumları
-Çalışan ve müşteri hediyeleri
-`,
+• Muhasebe ofisleri
+• Finans departmanları
+• Bankalar
+• Sigorta şirketleri
+• Eğitim kurumları
+• Üniversiteler
+• Kamu kurumları
+• Kurumsal işletmeler
+• Fuar organizasyonları
+• Marka tanıtım kampanyaları
+
+KİMLER İÇİN UYGUN?
+
+• Muhasebe firmaları
+• Mali müşavirler
+• Finans kuruluşları
+• Bankalar
+• Eğitim kurumları
+• Kurumsal şirketler
+• Kamu kuruluşları
+• Reklam ajansları
+• Toptan promosyon alımı yapan firmalar
+• Ofis ekipmanlarını kurumsal kimliğiyle kullanmak isteyen işletmeler
+
+PROMOSYON HESAP MAKİNESİ HM-150 FİYATLARI
+
+Promosyon hesap makinesi fiyatları sipariş adedi, baskı yöntemi, üretim planlaması ve teslim süresine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal toplu siparişlere uygundur.
+• UV baskı, tampon baskı ve serigrafi baskı uygulanabilir.
+• Logo ve tasarım çalışmaları üretim öncesinde onaya sunulur.
+• Güncel stok durumu dönemsel olarak değişebilir.
+• Teslim süresi sipariş miktarına göre planlanmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Dijital Hesap Makinesi
+Model: HM-150
+Kategori: Hesap Makineleri
+Hane Sayısı: 12 Hane
+Tasarım: Slim Masaüstü
+Kullanım Tipi: Eğimli Masaüstü
+Ürün Ölçüsü: 23 × 10 × 12 cm
+Baskı Alanı: 80 × 25 mm
+Baskı Türü: UV Baskı / Serigrafi Baskı / Tampon Baskı
+Kolideki Adet: 100
+
+Promosyon dijital hesap makinesi HM-150 modeli; modern slim tasarımı, 12 haneli geniş ekranı, ergonomik kullanım yapısı ve logo baskısına uygun geniş yüzeyi sayesinde kurumsal promosyon ürünleri arasında en çok tercih edilen masaüstü hesap makinesi modellerinden biridir. Güncel stok durumu, toplu sipariş fiyatları, baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "HM-150 hesap makinesi kaç hanelidir?",
+      a: "HM-150 modeli 12 haneli geniş LCD ekrana sahiptir ve günlük profesyonel hesaplama işlemleri için uygundur."
+    },
+    {
+      q: "Üzerine firma logosu basılabilir mi?",
+      a: "Evet. Ürün üzerine UV baskı, tampon baskı ve serigrafi baskı teknikleri ile firmanıza özel logo uygulanabilmektedir."
+    },
+    {
+      q: "Hangi sektörler için uygundur?",
+      a: "Muhasebe, finans, bankacılık, eğitim, sigorta, kamu kurumları ve tüm kurumsal işletmeler tarafından rahatlıkla kullanılabilir."
+    },
+    {
+      q: "Toplu sipariş verilebilir mi?",
+      a: "Evet. HM-150 modeli kurumsal toplu siparişlere uygundur ve yüksek adetlerde özel fiyat avantajı sunulmaktadır."
+    },
+    {
+      q: "Slim tasarımın avantajı nedir?",
+      a: "İnce ve hafif gövdesi sayesinde masa üzerinde daha az yer kaplar, kolay taşınır ve modern bir görünüm sunar."
+    },
+    {
+      q: "Promosyon amaçlı kullanıma uygun mudur?",
+      a: "Evet. Günlük kullanımda sürekli masa üzerinde bulunduğu için marka görünürlüğünü uzun süre artıran etkili promosyon ürünlerinden biridir."
+    }
+  ]
 },
 {
   id: "p606",
