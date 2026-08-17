@@ -14704,51 +14704,169 @@ Promosyon sekreterlik siparişleri toplu üretim olarak hazırlanmakta olup mini
 },
 {
   id: "p129",
+
   slug: "promosyon-cetvel-cesitleri-ct-200",
-  title: "Promosyon Cetvel Çeşitleri CT-200 | Logo Baskılı Promosyon Cetvel",
+
+  title:
+    "Promosyon Cetvel CT-200 | 15 cm Logo Baskılı Plastik Cetvel",
 
   category: "Kırtasiye Ürünleri",
 
   image: "/products/promosyon-cetvel-cesitleri-ct-200.jpg",
 
   shortDesc:
-    "Promosyon cetvel çeşitleri CT-200 modeli okul, ofis ve kurumsal promosyon kullanımı için tercih edilen dayanıklı plastik cetvel modellerinden biridir. Logo baskıya uygun yapısı sayesinde marka tanıtımı için etkili bir promosyon ürünüdür.",
+    "Promosyon cetvel CT-200, 15 cm ölçüm kapasitesi, sade plastik tasarımı ve geniş logo baskı alanı ile okul, eğitim, ofis ve kurumsal tanıtım çalışmalarında kullanılabilecek ekonomik promosyon kırtasiye ürünüdür.",
 
   longDesc: `
-Promosyon cetvel çeşitleri CT-200 modeli hem eğitim kurumları hem de kurumsal firmalar tarafından tercih edilen kullanışlı kırtasiye promosyon ürünleri arasında yer almaktadır. Okullarda, ofislerde ve günlük kullanımda pratik ölçüm aracı olarak kullanılabilir.
+Promosyon cetvel CT-200 modeli, günlük ölçüm ihtiyaçlarının yanı sıra marka tanıtımı amacıyla kullanılabilecek pratik ve ekonomik promosyon kırtasiye ürünlerinden biridir.
 
-Promosyon cetvel ürünleri özellikle eğitim kurumları, kırtasiye kampanyaları, öğrenci promosyonları ve kurumsal marka tanıtım faaliyetlerinde tercih edilmektedir. Günlük kullanımda sürekli kullanılan bir ürün olduğu için marka görünürlüğünü artıran etkili promosyon ürünlerinden biridir.
+15 cm ölçüm kapasitesine sahip kompakt yapısı sayesinde kalem kutularında, çantalarda, masa çekmecelerinde ve kırtasiye setlerinde kolaylıkla taşınabilir.
 
-CT-200 modeli dayanıklı plastik malzemeden üretilmiş olup uzun süreli kullanım sağlar. Ürün üzerine firmanıza ait logo veya marka tasarımı baskı uygulanarak cetvel güçlü bir reklam ve tanıtım aracı haline getirilebilir.
+Üzerinde bulunan milimetre ve santimetre ölçekleri sayesinde okul, ofis, çizim ve günlük ölçüm işlemlerinde pratik kullanım sağlar.
 
-Promosyon cetveller özellikle okullar, kurs merkezleri, eğitim kurumları, ofisler ve kurumsal etkinliklerde sık tercih edilen promosyon ürünleri arasında yer almaktadır.
+Sade ve geniş yüzey tasarımı, firma logosu, marka adı, iletişim bilgileri veya kurumsal tasarımların uygulanması için uygun bir alan oluşturur.
 
-TEKNİK ÖZELLİKLER
+Promosyon cetveller özellikle öğrenciler tarafından uzun süre kullanılabilen kırtasiye ürünleri arasında yer aldığı için eğitim odaklı reklam ve tanıtım kampanyalarında etkili bir promosyon alternatifi oluşturabilir.
 
-Ürün Tipi: Promosyon Cetvel  
-Kategori: Kırtasiye Ürünleri  
-Malzeme: Plastik  
-Ölçü: 15 cm  
+Okullar, özel eğitim kurumları, kurs merkezleri, belediyeler, yayınevleri, kırtasiye firmaları ve çocuklara yönelik kampanya düzenleyen markalar tarafından toplu promosyon ürünü olarak tercih edilebilir.
 
-BASKI BİLGİLERİ
+CT-200 modeli tek başına dağıtılabileceği gibi kalem, silgi, kalemtıraş, defter ve benzeri ürünlerle birlikte promosyon kırtasiye setlerinin içerisinde de kullanılabilir.
 
-Logo Baskı: Kurumsal logo baskıya uygundur  
-Baskı Türü: Serigraf veya UV baskı uygulanabilir  
+Plastik malzemeden üretilen yapısı hafif ve günlük kullanıma uygundur. Kompakt ölçüsü sayesinde yüksek adetli kurumsal dağıtımlar ve etkinlikler için de pratik bir seçenektir.
+
+Ürün üzerine serigrafi veya UV baskı teknikleri kullanılarak firmanıza özel logo uygulaması yapılabilir.
+
+Logo baskılı promosyon cetveller, günlük kullanım sırasında markanın tekrar tekrar görülmesini sağlayarak uzun süreli marka görünürlüğünü destekler.
+
+NEDEN PROMOSYON CETVEL CT-200?
+
+• 15 cm ölçüm kapasitesi
+• Santimetre ve milimetre ölçeği
+• Hafif plastik yapı
+• Kompakt ve taşınabilir tasarım
+• Logo baskısına uygun geniş yüzey
+• Serigrafi baskıya uygun
+• UV baskıya uygun
+• Okul ve eğitim kampanyalarına uygun
+• Ofis kullanımına uygun
+• Kırtasiye setlerine eklenebilir
+• Yüksek adetli dağıtımlar için uygun
+• Ekonomik promosyon alternatifi
+• Günlük kullanımla marka görünürlüğünü destekler
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Okul ve eğitim promosyonları  
-Kırtasiye promosyon ürünleri  
-Fuar ve etkinlik promosyonları  
-Ofis promosyon ürünleri  
+• Okullar
+• Özel eğitim kurumları
+• Kurs merkezleri
+• Üniversiteler
+• Belediyeler
+• Kamu kurumları
+• Kırtasiye firmaları
+• Yayınevleri
+• Ofisler
+• Öğrenci etkinlikleri
+• Eğitim kampanyaları
+• Fuar ve organizasyonlar
+• Çocuklara yönelik etkinlikler
+• Kurumsal promosyon dağıtımları
+• Kırtasiye hediye setleri
+
+KİMLER İÇİN UYGUN?
+
+• Eğitim kurumları
+• Okullar
+• Dershaneler ve kurs merkezleri
+• Belediyeler
+• Kamu kurumları
+• Yayınevleri
+• Kırtasiye markaları
+• Eğitim teknolojisi şirketleri
+• Kurumsal firmalar
+• Öğrencilere yönelik kampanya düzenleyen markalar
+• Fuar ve etkinlik organizatörleri
+
+PROMOSYON CETVEL CT-200 FİYATLARI
+
+Promosyon cetvel fiyatları sipariş adedi, uygulanacak baskı yöntemi, baskı renk sayısı, güncel stok durumu ve teslim süresine göre değişiklik gösterebilir.
+
+Yüksek adetli CT-200 promosyon cetvel siparişlerinde kurumsal firmalara özel fiyatlandırma yapılabilir. Güncel fiyat, stok durumu ve logo baskı seçenekleri için teklif alabilirsiniz.
+
+BASKI BİLGİLERİ
+
+CT-200 promosyon cetvel üzerine firma logosu, marka adı, slogan, internet adresi veya kurumsal tasarım uygulanabilir.
+
+Baskı Türleri: Serigrafi Baskı / UV Baskı
+Logo Baskı: Kurumsal logo uygulamasına uygundur
+
+Uygulanacak baskı yöntemi logo tasarımı, baskı renkleri, sipariş miktarı ve istenilen baskı alanına göre belirlenmektedir.
 
 RENK VE STOK BİLGİSİ
 
-Promosyon cetvel ürünleri farklı renk seçenekleri ile üretilebilmektedir. Stok durumu ve üretim detayları sipariş öncesinde teyit edilmelidir.
+Ürün görselinde beyaz renk gösterilmektedir.
 
-Promosyon cetvel siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
-`
+Farklı renk seçeneklerinin bulunabilirliği ve güncel stok miktarı dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde renk ve stok durumunun kontrol edilmesi önerilmektedir.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal toplu siparişlere uygundur.
+• Logo baskısı firmanıza özel hazırlanabilir.
+• Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir.
+• Baskı yöntemi logo ve sipariş miktarına göre belirlenmektedir.
+• Minimum sipariş adedi güncel stok ve üretim durumuna göre değişebilir.
+• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
+• Güncel fiyat ve stok bilgisi için teklif alabilirsiniz.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Cetvel
+Model: CT-200
+Kategori: Kırtasiye Ürünleri
+Malzeme: Plastik
+Ölçüm Uzunluğu: 15 cm
+Ölçek: Santimetre / Milimetre
+Renk: Beyaz
+Baskı Türleri: Serigrafi Baskı / UV Baskı
+Logo Baskı: Uygun
+Kullanım Tipi: Okul / Eğitim / Ofis / Kırtasiye / Kurumsal Promosyon
+
+Promosyon cetvel CT-200; 15 cm ölçüm kapasitesi, kompakt plastik yapısı ve logo baskısına uygun geniş yüzeyi ile özellikle eğitim kampanyaları, okul promosyonları ve yüksek adetli kurumsal dağıtımlar için ekonomik bir promosyon ürünüdür. Güncel fiyat, stok durumu, minimum sipariş adedi ve logo baskı seçenekleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "CT-200 promosyon cetvel kaç santimetredir?",
+      a: "CT-200 modeli 15 cm ölçüm kapasitesine sahiptir."
+    },
+    {
+      q: "CT-200 hangi malzemeden üretilmiştir?",
+      a: "CT-200 promosyon cetvel plastik malzemeden üretilmektedir."
+    },
+    {
+      q: "CT-200 cetvel üzerine logo basılabilir mi?",
+      a: "Evet. CT-200 üzerine firma logosu, marka adı veya kurumsal tasarım uygulanabilir."
+    },
+    {
+      q: "Promosyon cetvele hangi baskılar uygulanabilir?",
+      a: "CT-200 modeli serigrafi ve UV baskı uygulamalarına uygundur."
+    },
+    {
+      q: "CT-200 okul promosyonları için uygun mudur?",
+      a: "Evet. 15 cm kompakt yapısı sayesinde okul, kurs, eğitim kampanyaları ve öğrenci promosyonları için uygundur."
+    },
+    {
+      q: "CT-200 kırtasiye setlerinde kullanılabilir mi?",
+      a: "Evet. Kalem, silgi, kalemtıraş ve defter gibi ürünlerle birlikte promosyon kırtasiye setlerine dahil edilebilir."
+    },
+    {
+      q: "CT-200 toplu siparişe uygun mudur?",
+      a: "Evet. Ürün kurumsal ve yüksek adetli toplu siparişlere uygundur. Sipariş miktarına göre özel fiyatlandırma yapılabilir."
+    },
+    {
+      q: "Promosyon cetvel fiyatları nasıl belirlenir?",
+      a: "Fiyatlandırma sipariş adedi, baskı yöntemi, baskı detayları, güncel stok durumu ve teslim süresine göre belirlenmektedir."
+    }
+  ]
 },
 {
   id: "p130",
@@ -67630,262 +67748,752 @@ Promosyon organizer ORG-210 modeli; termo deri kapak yapısı, metal tokalı kap
 },
 {
   id: "p584",
+
   slug: "promosyon-organizer-org-220-termodei-metal-tokali",
 
-  title: "Promosyon Organizer ORG-220 | Metal Tokalı Termoderi Organizer (15x21 cm Ajanda)",
+  title:
+    "Promosyon Organizer ORG-220 | Metal Tokalı Termo Deri Kurumsal Organizer 15x21 cm",
+
   price: 540,
+
   category: "Organizerler",
+
   image: "/products/promosyon-organizer-org-220.jpg",
 
   shortDesc:
-    "Promosyon organizer ORG-220, metal tokalı tasarımı ve geniş sayfa kapasitesi ile kurumsal promosyonlar için ideal organizer modelidir.",
+    "Promosyon organizer ORG-220 modeli; termo deri kapak, metal tokalı kapanış, 352 sayfalık 70 gr krem kağıt ajanda içeriği ve hesap makinesi özelliği ile ofis, toplantı ve kurumsal hediye kullanımı için tasarlanmış fonksiyonel organizer modellerinden biridir.",
 
   longDesc: `
-Promosyon organizer ORG-220, sade ve modern tasarımı ile kurumsal promosyon ürünleri arasında geniş kullanım alanına sahip bir organizer modelidir.
+Promosyon organizer ORG-220 modeli, sade ve modern tasarımı, termo deri kapak yapısı ve metal tokalı kapanış sistemi ile kurumsal promosyon organizer modelleri arasında öne çıkan profesyonel seçeneklerden biridir.
 
-Termoderi kapak yapısı sayesinde hem dayanıklı hem de profesyonel bir görünüm sunar.
+15 x 21 cm ajanda iç bloğu sayesinde günlük planlama, toplantı notları, müşteri görüşmeleri, iş takibi ve yapılacaklar listeleri için kullanışlı bir yazım alanı sunar.
 
-Metal toka kapama sistemi, organizerin güvenli şekilde kapanmasını sağlarken aynı zamanda şık bir tasarım detayı oluşturur.
+Termo deri kapak yapısı ürüne şık ve profesyonel bir görünüm kazandırırken günlük yoğun kullanıma uygun dayanıklı bir dış yüzey oluşturur. Kapak üzerindeki dikiş detayları ise organizerın kurumsal görünümünü tamamlar.
 
-İç kısmında yer alan 352 sayfa ajanda, uzun süreli kullanım avantajı sunar ve yoğun iş temposuna sahip kullanıcılar için ideal bir çözümdür.
+ORG-220 modelinde kullanılan metal tokalı kapanış sistemi organizerın düzenli şekilde kapalı tutulmasına yardımcı olur. İnce ve modern toka tasarımı ürüne sade fakat prestijli bir görünüm kazandırır.
 
-70 gr. krem kağıt yapısı sayesinde kaliteli ve konforlu bir yazım deneyimi sağlar.
+İç kısmında bulunan 352 sayfalık ajanda, uzun süreli kullanım avantajı sağlar. Yüksek sayfa kapasitesi sayesinde yoğun iş temposuna sahip yöneticiler, ofis çalışanları ve saha ekipleri için ideal bir kullanım sunar.
 
-Organizer içerisinde bulunan hesap makinesi, günlük iş süreçlerinde pratik kullanım imkanı sunar.
+70 gr krem kağıt yapısı günlük not alma ve planlama işlemleri için konforlu bir yazım yüzeyi sağlar. Krem renkli sayfalar profesyonel ajanda kullanımına uygun klasik ve şık bir görünüm oluşturur.
 
-Gofre, lazer ve dijital baskı teknikleri ile logo uygulamaları yapılabilir ve markanız uzun süre görünür hale getirilir.
+Organizer içerisinde bulunan hesap makinesi günlük temel hesaplamaların hızlı şekilde yapılmasına yardımcı olur. Bu özellik özellikle finans, muhasebe, satış, satın alma ve yönetim departmanlarında organizerın kullanım değerini artırır.
 
-Farklı renk seçenekleri ile kurumsal kimliğinize uygun tercihler yapılabilir.
+Promosyon organizer ORG-220 üzerine firmanızın logosu, marka adı veya kurumsal tasarımı gofre baskı, lazer baskı ve dijital baskı yöntemleri ile uygulanabilir.
 
-TEKNİK ÖZELLİKLER
+Logo baskılı organizer modelleri günlük iş hayatında uzun süre kullanıldığı için markanın ofislerde, toplantılarda, müşteri görüşmelerinde ve iş seyahatlerinde sürekli görünür kalmasına yardımcı olur.
 
-Ürün Tipi: Organizer / Ajanda
-Kapak: Termoderi
-Kapama: Metal Toka
-İç Blok: 15 x 21 cm Ajanda
-Sayfa Sayısı: 352
-Kağıt: 70 gr. Krem
-Ek Özellikler: Hesap Makinesi
-Baskı Türü: Gofre, Lazer, Dijital
-Koli Adeti: 30
+Mavi, kırmızı, siyah ve gri renk alternatifleri sayesinde firmanızın kurumsal renklerine veya promosyon kampanyasına uygun seçenek tercih edilebilir. Güncel renk ve stok durumu sipariş öncesinde kontrol edilmelidir.
 
-NOT
+ORG-220; şirket çalışanları, yöneticiler, müşteriler ve iş ortakları için hazırlanabilecek kurumsal hediye çalışmalarında kullanılabileceği gibi fuar, kongre, bayi toplantısı ve şirket organizasyonlarında da tercih edilebilir.
 
-Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+NEDEN PROMOSYON ORGANIZER ORG-220?
 
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Termo deri kapak tasarımı
+• Metal tokalı kapanış sistemi
+• 352 sayfalık geniş ajanda içeriği
+• 70 gr krem kağıt
+• 15 x 21 cm ajanda iç bloğu
+• Hesap makinesi özelliği
+• Modern ve profesyonel tasarım
+• Farklı renk alternatifleri
+• Gofre, lazer ve dijital baskıya uygun
+• Günlük iş planlamasına uygun
+• Toplantı ve müşteri görüşmelerinde kullanışlı
+• Yönetici ve çalışan hediyesi olarak uygun
+• Uzun süreli marka görünürlüğünü destekler
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri
-Kamu kurumları ve şirket hediyeleri
-Ofis ve iş hayatı kullanımı
-Yönetici ve çalışan hediyeleri
-Fuar ve etkinlik dağıtımları
-Günlük planlama ve ajanda kullanımı
-`,
+• Günlük iş planlaması
+• Toplantı notları
+• Müşteri görüşmeleri
+• Proje ve iş takibi
+• Yönetici kullanımı
+• Ofis çalışanları
+• Finans ve muhasebe ekipleri
+• Satış ekipleri
+• Satın alma departmanları
+• Saha çalışanları
+• İş seyahatleri
+• Bayi toplantıları
+• Kurumsal etkinlikler
+• Fuar ve kongreler
+• Çalışan hediyeleri
+• Müşteri hediyeleri
+
+KİMLER İÇİN UYGUN?
+
+• Kurumsal firmalar
+• Holdingler
+• Bankalar
+• Finans kuruluşları
+• Sigorta şirketleri
+• Muhasebe firmaları
+• Danışmanlık şirketleri
+• Hukuk büroları
+• Kamu kurumları
+• Belediyeler
+• Eğitim kurumları
+• Satış ve saha ekipleri
+• Yönetici ve ofis çalışanları
+• Kurumsal hediye arayan işletmeler
+
+PROMOSYON ORGANIZER ORG-220 FİYATLARI
+
+Promosyon organizer fiyatları sipariş adedi, uygulanacak logo baskı yöntemi, renk tercihi, güncel stok durumu ve teslim süresine göre değişiklik gösterebilir.
+
+Toplu ORG-220 organizer siparişlerinde kurumsal firmalara özel fiyatlandırma yapılabilir. Güncel stok durumu, renk seçenekleri, logo baskı alternatifleri ve toplu sipariş fiyatları için teklif alabilirsiniz.
+
+BASKI BİLGİLERİ
+
+ORG-220 organizer üzerine firma logosu, marka adı veya kurumsal tasarım uygulanabilmektedir.
+
+Baskı Türleri: Gofre Baskı / Lazer Baskı / Dijital Baskı
+Logo Baskı: Kurumsal logo uygulamasına uygundur
+
+Uygulanacak baskı yöntemi logo tasarımı, baskı alanı, organizer yüzeyi ve sipariş miktarına göre belirlenmektedir.
+
+RENK VE STOK BİLGİSİ
+
+Görselde yer alan renk alternatifleri:
+
+• Mavi
+• Kırmızı
+• Siyah
+• Gri
+
+Renk ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde mevcut renk seçenekleri ve stok miktarı kontrol edilmelidir.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal toplu siparişlere uygundur.
+• Logo baskısı firmanıza özel hazırlanabilir.
+• Baskı çalışması üretim öncesinde onaya sunulabilir.
+• Minimum sipariş adedi stok ve üretim durumuna göre belirlenmektedir.
+• Güncel renk seçenekleri sipariş öncesinde kontrol edilmelidir.
+• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
+• Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Organizer / Ajanda
+Model: ORG-220
+Kategori: Organizerler
+Kapak Malzemesi: Termo Deri
+Kapanış: Metal Toka
+İç Blok Ölçüsü: 15 x 21 cm
+Sayfa Sayısı: 352 Sayfa
+Kağıt: 70 gr Krem Kağıt
+Hesap Makinesi: Var
+Baskı Türleri: Gofre Baskı / Lazer Baskı / Dijital Baskı
+Koli Adedi: 30 Adet
+Renkler: Mavi / Kırmızı / Siyah / Gri
+Kullanım Tipi: Ofis / Toplantı / Planlama / Kurumsal Hediye
+
+Promosyon organizer ORG-220 modeli; termo deri kapak yapısı, metal tokalı kapanışı, 352 sayfalık ajanda içeriği, hesap makinesi ve kurumsal logo baskı seçenekleri ile günlük iş hayatında uzun süre kullanılabilecek fonksiyonel promosyon organizer modellerinden biridir. Güncel stok durumu, renk seçenekleri, toplu sipariş fiyatları, logo baskısı ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "ORG-220 organizer kaç sayfadır?",
+      a: "ORG-220 modeli 352 sayfalık geniş ajanda içeriğine sahiptir."
+    },
+    {
+      q: "ORG-220 organizer iç blok ölçüsü nedir?",
+      a: "Organizer içerisinde 15 x 21 cm ölçüsünde ajanda iç bloğu bulunmaktadır."
+    },
+    {
+      q: "ORG-220 hesap makineli midir?",
+      a: "Evet. Organizer içerisinde günlük temel hesaplamalarda kullanılabilecek hesap makinesi bulunmaktadır."
+    },
+    {
+      q: "ORG-220 üzerine firma logosu basılabilir mi?",
+      a: "Evet. Ürün üzerine gofre baskı, lazer baskı veya dijital baskı yöntemleri ile firma logosu ve marka adı uygulanabilmektedir."
+    },
+    {
+      q: "ORG-220 hangi renklerde bulunmaktadır?",
+      a: "Görselde mavi, kırmızı, siyah ve gri renk alternatifleri bulunmaktadır. Güncel renk stokları sipariş öncesinde kontrol edilmelidir."
+    },
+    {
+      q: "ORG-220 hangi kağıt türünü kullanmaktadır?",
+      a: "Organizer içerisinde 70 gr krem kağıt kullanılmaktadır."
+    },
+    {
+      q: "ORG-220 kimler için uygundur?",
+      a: "Yöneticiler, ofis çalışanları, satış ekipleri, finans ve muhasebe personeli ile kurumsal müşterilere verilecek promosyon hediyeleri için uygundur."
+    },
+    {
+      q: "ORG-220 toplu siparişe uygun mudur?",
+      a: "Evet. Ürün kurumsal toplu siparişlere uygundur. Sipariş miktarı, logo baskısı, renk tercihi ve teslim süresine göre özel fiyatlandırma yapılabilir."
+    }
+  ]
 },
 {
   id: "p585",
+
   slug: "promosyon-organizer-org-230-termodei-metal-kilitli",
 
-  title: "Promosyon Organizer ORG-230 | Metal Kilitli Termoderi Organizer (17x21 cm)",
+  title:
+    "Promosyon Organizer ORG-230 | Metal Kilitli Termo Deri Kurumsal Organizer 17x21 cm",
+
   price: 524,
+
   category: "Organizerler",
+
   image: "/products/promosyon-organizer-org-230.jpg",
 
   shortDesc:
-    "Promosyon organizer ORG-230, metal kilitli tasarımı ve hesap makinesi özelliği ile kurumsal promosyonlar için ideal organizer modelidir.",
+    "Promosyon organizer ORG-230 modeli; termo deri kapak, metal kilitli kapanış, 8 haneli hesap makinesi, kartvizitlik ve 70 gr ivory kağıt yapısı ile yönetici, ofis ve kurumsal hediye kullanımı için tasarlanmış premium organizer modellerinden biridir.",
 
   longDesc: `
-Promosyon organizer ORG-230, şık termoderi kapak yapısı ve fonksiyonel tasarımı ile kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir.
+Promosyon organizer ORG-230 modeli, şık termo deri kapak yapısı, metal kilitli kapanış sistemi ve fonksiyonel iç tasarımı ile kurumsal promosyon organizer modelleri arasında öne çıkan premium seçeneklerden biridir.
 
-17 x 21 cm ölçüsü sayesinde hem taşınabilir hem de geniş kullanım alanı sunarak günlük planlama ve not alma işlemlerini kolaylaştırır.
+17 x 21 cm dış ölçüsü sayesinde günlük kullanım için kompakt ve taşınabilir bir yapı sunarken, 15 x 21 cm iç blok ölçüsü not alma, günlük planlama, toplantı kayıtları ve iş takibi için yeterli kullanım alanı sağlar.
 
-Metal kilitli kapama sistemi, ürüne hem güvenli hem de prestijli bir kullanım sunar.
+Termo deri kapak yapısı ürüne profesyonel ve prestijli bir görünüm kazandırır. Kapak çevresindeki dikiş detayları organizerın tasarımını tamamlayarak özellikle yönetici ve kurumsal hediye çalışmalarına uygun bir görünüm oluşturur.
 
-İç kısmında bulunan 8 haneli hesap makinesi, iş hayatında pratik kullanım sağlar.
+ORG-230 modelinin metal kilitli kapanış sistemi organizerın düzenli şekilde kapalı tutulmasını sağlarken ürüne modern ve premium bir tasarım detayı kazandırır.
 
-Kartvizitlik bölmesi sayesinde organizer aynı zamanda işlevsel bir ofis aracı olarak kullanılabilir.
+Organizer içerisinde bulunan 8 haneli hesap makinesi günlük temel hesaplamaların hızlı şekilde yapılmasına yardımcı olur. Bu özellik ürünü yalnızca bir ajanda olmaktan çıkararak iş hayatında kullanılabilecek fonksiyonel bir ofis aracına dönüştürür.
 
-70 gr. ivory kağıt yapısı sayesinde konforlu yazım deneyimi sunar.
+Kartvizitlik bölmesi sayesinde kullanıcılar iş kartlarını ve önemli kartlarını organizer içerisinde düzenli şekilde taşıyabilir. Bu özellik özellikle yöneticiler, satış temsilcileri, danışmanlar ve müşteri görüşmeleri gerçekleştiren çalışanlar için kullanım avantajı sağlar.
 
-Özel kutulu ambalajı ile birlikte sunulan ürün, doğrudan kurumsal hediye olarak kullanılabilecek premium bir yapıdadır.
+İç bölümde kullanılan 70 gr ivory kağıt, günlük not alma ve planlama işlemleri için konforlu bir yazım yüzeyi sunar. Ivory kağıdın yumuşak tonu profesyonel organizer kullanımına uygun klasik ve kaliteli bir görünüm oluşturur.
 
-Gofre, UV ve serigraf baskı teknikleri ile logo uygulamaları yapılabilir ve markanız uzun süre görünür hale getirilir.
+ORG-230 özel sunum kutusu ile birlikte sunulmaktadır. Kutulu yapısı sayesinde çalışan, yönetici, müşteri ve iş ortaklarına verilecek kurumsal hediyelerde ayrıca paketleme ihtiyacını azaltan prestijli bir sunum sağlar.
 
-TEKNİK ÖZELLİKLER
+Promosyon organizer ORG-230 üzerine firmanızın logosu, marka adı veya kurumsal tasarımı gofre baskı, UV baskı ve serigrafi baskı yöntemleri ile uygulanabilir.
 
-Ürün Tipi: Organizer / Ajanda
-Kapak: Termoderi
-Ölçü: 17 x 21 cm
-İç Blok: 15 x 21 cm
-Kağıt: 70 gr. Ivory
-Ek Özellikler: 8 Hane Hesap Makinesi, Kartvizitlik
-Kapama: Metal Kilit
-Ambalaj: Özel Kutulu
-Baskı Türü: Gofre, UV, Serigrafi
+Logo baskılı organizer modelleri uzun süre kullanıldığı için marka görünürlüğünün ofislerde, toplantılarda, müşteri görüşmelerinde ve iş seyahatlerinde devam etmesine katkı sağlar.
 
-NOT
+Görselde yer alan kırmızı, lacivert, taba ve siyah renk alternatifleri sayesinde firmanızın kurumsal kimliğine veya hazırlanacak promosyon kampanyasına uygun renk seçimi yapılabilir.
 
-Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+ORG-230; bankalar, finans kuruluşları, sigorta şirketleri, danışmanlık firmaları, hukuk büroları, kamu kurumları ve kurumsal şirketlerin yönetici, çalışan ve müşteri hediyeleri için tercih edebileceği işlevsel bir promosyon ürünüdür.
 
-SİPARİŞ BİLGİSİ
+NEDEN PROMOSYON ORGANIZER ORG-230?
 
-Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Şık termo deri kapak
+• Metal kilitli kapanış sistemi
+• 17 x 21 cm kompakt organizer ölçüsü
+• 15 x 21 cm iç blok
+• 70 gr ivory kağıt
+• 8 haneli hesap makinesi
+• Kartvizitlik bölmesi
+• Özel sunum kutusu
+• Gofre, UV ve serigrafi baskıya uygun
+• Farklı renk alternatifleri
+• Günlük planlama ve not almaya uygun
+• Toplantı ve müşteri görüşmelerinde kullanışlı
+• Yönetici ve VIP hediyesi olarak uygun
+• Uzun süreli marka görünürlüğünü destekler
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri
-Kamu kurumları ve şirket hediyeleri
-Ofis ve iş hayatı kullanımı
-Yönetici ve çalışan hediyeleri
-Fuar ve etkinlik dağıtımları
-Günlük planlama ve ajanda kullanımı
-`,
+• Günlük iş planlaması
+• Toplantı notları
+• Müşteri görüşmeleri
+• İş ve proje takibi
+• Yönetici kullanımı
+• Finans ve muhasebe işlemleri
+• Satış ekipleri
+• Danışmanlık hizmetleri
+• Ofis çalışanları
+• İş seyahatleri
+• Bayi toplantıları
+• Kurumsal organizasyonlar
+• Fuar ve etkinlikler
+• Çalışan hediyeleri
+• Müşteri ve VIP hediyeleri
+
+KİMLER İÇİN UYGUN?
+
+• Kurumsal firmalar
+• Holdingler
+• Bankalar
+• Finans kuruluşları
+• Sigorta şirketleri
+• Muhasebe firmaları
+• Danışmanlık şirketleri
+• Hukuk büroları
+• Kamu kurumları
+• Belediyeler
+• Eğitim kurumları
+• Satış ve saha ekipleri
+• Yöneticiler
+• Ofis çalışanları
+• Kurumsal hediye arayan işletmeler
+
+PROMOSYON ORGANIZER ORG-230 FİYATLARI
+
+Promosyon organizer fiyatları sipariş adedi, uygulanacak logo baskı yöntemi, renk tercihi, güncel stok durumu ve teslim süresine göre değişiklik gösterebilir.
+
+Toplu ORG-230 organizer siparişlerinde kurumsal firmalara özel fiyatlandırma yapılabilir. Güncel stok durumu, renk seçenekleri, baskı alternatifleri ve toplu sipariş fiyatları için teklif alabilirsiniz.
+
+BASKI BİLGİLERİ
+
+ORG-230 organizer üzerine firma logosu, marka adı veya kurumsal tasarım uygulanabilmektedir.
+
+Baskı Türleri: Gofre Baskı / UV Baskı / Serigrafi Baskı
+Logo Baskı: Kurumsal logo uygulamasına uygundur
+
+Uygulanacak baskı yöntemi logo tasarımı, baskı alanı, ürün yüzeyi ve sipariş miktarına göre belirlenmektedir.
+
+RENK VE STOK BİLGİSİ
+
+Görselde yer alan renk alternatifleri:
+
+• Kırmızı
+• Lacivert
+• Taba
+• Siyah
+
+Renk ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde mevcut renk seçenekleri ve stok miktarı kontrol edilmelidir.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal toplu siparişlere uygundur.
+• Logo baskısı firmanıza özel hazırlanabilir.
+• Baskı çalışması üretim öncesinde onaya sunulabilir.
+• Özel sunum kutusu ile sunulmaktadır.
+• Minimum sipariş adedi stok ve üretim durumuna göre belirlenmektedir.
+• Güncel renk seçenekleri sipariş öncesinde kontrol edilmelidir.
+• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
+• Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Organizer / Ajanda
+Model: ORG-230
+Kategori: Organizerler
+Kapak Malzemesi: Termo Deri
+Organizer Ölçüsü: 17 x 21 cm
+İç Blok Ölçüsü: 15 x 21 cm
+Kağıt: 70 gr Ivory
+Kapanış: Metal Kilit
+Hesap Makinesi: 8 Haneli
+Kartvizitlik: Var
+Ambalaj: Özel Sunum Kutusu
+Baskı Türleri: Gofre Baskı / UV Baskı / Serigrafi Baskı
+Renkler: Kırmızı / Lacivert / Taba / Siyah
+Kullanım Tipi: Ofis / Yönetici / Toplantı / Planlama / Kurumsal Hediye
+
+Promosyon organizer ORG-230 modeli; termo deri kapak yapısı, metal kilitli kapanışı, 8 haneli hesap makinesi, kartvizitlik bölmesi, özel sunum kutusu ve kurumsal logo baskı seçenekleri ile çalışan, yönetici ve müşterilere yönelik promosyon çalışmalarında kullanılabilecek fonksiyonel organizer modellerinden biridir. Güncel stok durumu, renk seçenekleri, toplu sipariş fiyatları, logo baskısı ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "ORG-230 organizer ölçüsü nedir?",
+      a: "ORG-230 modelinin dış ölçüsü 17 x 21 cm, iç blok ölçüsü ise 15 x 21 cm'dir."
+    },
+    {
+      q: "ORG-230 hesap makineli midir?",
+      a: "Evet. Organizer içerisinde 8 haneli hesap makinesi bulunmaktadır."
+    },
+    {
+      q: "ORG-230 içerisinde kartvizitlik var mı?",
+      a: "Evet. Model içerisinde kartvizitlerin düzenli şekilde taşınabilmesi için kartvizitlik bölmesi bulunmaktadır."
+    },
+    {
+      q: "ORG-230 üzerine firma logosu basılabilir mi?",
+      a: "Evet. Ürün üzerine gofre baskı, UV baskı veya serigrafi baskı yöntemleri ile firma logosu ve marka bilgileri uygulanabilmektedir."
+    },
+    {
+      q: "ORG-230 hangi renklerde bulunmaktadır?",
+      a: "Görselde kırmızı, lacivert, taba ve siyah renk alternatifleri bulunmaktadır. Güncel stoklar sipariş öncesinde kontrol edilmelidir."
+    },
+    {
+      q: "ORG-230 kutulu mudur?",
+      a: "Evet. ORG-230 özel sunum kutusu ile sunulmaktadır ve bu nedenle kurumsal hediye çalışmalarına uygundur."
+    },
+    {
+      q: "ORG-230 hangi kağıt türünü kullanmaktadır?",
+      a: "Organizer içerisinde 70 gr ivory kağıt kullanılmaktadır."
+    },
+    {
+      q: "ORG-230 toplu siparişe uygun mudur?",
+      a: "Evet. Ürün kurumsal toplu siparişlere uygundur. Sipariş miktarı, renk seçimi, logo baskısı ve teslim süresine göre özel fiyatlandırma yapılabilir."
+    }
+  ]
 },
 {
   id: "p586",
+
   slug: "promosyon-organizer-org-240-cift-termodei-manyetik",
 
-  title: "Promosyon Organizer ORG-240 | Çift Kat Termoderi Manyetik Kilitli Organizer",
+  title:
+    "Promosyon Organizer ORG-240 | Çift Kat Termo Deri Manyetik Kilitli Premium Organizer",
+
   price: 590,
+
   category: "Organizerler",
+
   image: "/products/promosyon-organizer-org-240.jpg",
 
   shortDesc:
-    "Promosyon organizer ORG-240, iç ve dış termoderi kaplama ve manyetik kilit sistemi ile kurumsal VIP hediyeler için tasarlanmış premium organizer modelidir.",
+    "Promosyon organizer ORG-240; iç ve dış termo deri kaplaması, metal detaylı manyetik kilidi, kartvizitlik bölmesi ve 70 gr ivory kağıt yapısı ile yönetici, VIP müşteri ve kurumsal hediye çalışmalarına uygun premium organizer modelidir.",
 
   longDesc: `
-Promosyon organizer ORG-240, iç ve dış yüzeyi tamamen termoderi kaplama olan yapısı ile üst segment kurumsal promosyon ürünleri arasında yer almaktadır.
+Promosyon organizer ORG-240 modeli, iç ve dış yüzeyinde kullanılan termo deri kaplama, modern manyetik kilit sistemi ve profesyonel tasarımı ile kurumsal promosyon organizer modelleri arasında premium bir alternatif sunmaktadır.
 
-Manyetik kilitli kapama sistemi, hem kullanım kolaylığı hem de şık bir tasarım sunarak ürüne modern ve prestijli bir görünüm kazandırır.
+17 x 21 cm genel ölçüsü sayesinde günlük kullanım için ideal boyutlara sahip olan ORG-240, 15 x 21 cm iç blok yapısı ile not alma, günlük planlama, toplantı kayıtları ve iş takibi gibi birçok kullanım ihtiyacını karşılar.
 
-17 x 21 cm ölçüsü sayesinde ideal kullanım alanı sunarken, iç blok yapısı ile günlük planlama, not alma ve iş takibi işlemlerini kolaylaştırır.
+İç ve dış yüzeyde kullanılan termo deri kaplama, organizerın hem dayanıklılığını hem de kalite algısını artırır. Yumuşak dokulu ve profesyonel görünümlü kapak yapısı özellikle yönetici ve VIP müşteri hediyeleri için ürüne prestijli bir görünüm kazandırır.
 
-Kartvizitlik bölmesi sayesinde organizer aynı zamanda işlevsel bir ofis aracı olarak kullanılabilir.
+Metal detaylı manyetik kilit sistemi organizerın kolay ve güvenli şekilde açılıp kapanmasını sağlar. Manyetik kapanış mekanizması klasik organizer modellerine kıyasla daha modern ve kullanışlı bir deneyim sunar.
 
-70 gr. ivory kağıt yapısı ile konforlu ve kaliteli bir yazım deneyimi sunar.
+Organizer içerisinde bulunan kartvizitlik bölmesi, kartvizit ve benzeri kartların düzenli şekilde taşınmasına imkan tanır. Bu özellik özellikle yöneticiler, satış ekipleri, danışmanlar ve yoğun müşteri görüşmeleri gerçekleştiren profesyoneller için kullanım avantajı sağlar.
 
-Özel kutulu ambalajı ile birlikte sunulan ürün, doğrudan hediye olarak verilebilecek premium bir yapıdadır.
+70 gr ivory kağıt yapısı günlük yazım, planlama ve toplantı notları için konforlu bir kullanım sunar. Ivory kağıdın doğal ve yumuşak tonu organizerın premium tasarımını tamamlar.
 
-Gofre, UV ve serigraf baskı teknikleri ile logo uygulamaları yapılabilir ve markanız uzun süre görünür hale getirilir.
+Özel sunum kutusu ile birlikte sunulan ORG-240, ayrıca hediye paketi hazırlamaya gerek kalmadan çalışanlara, yöneticilere, müşterilere ve iş ortaklarına sunulabilecek prestijli bir kurumsal hediye alternatifidir.
 
-İç ve dış yüzeyde kullanılan termoderi kaplama, ürüne ekstra dayanıklılık ve yüksek kalite algısı kazandırır.
+Promosyon organizer ORG-240 üzerine firmanızın logosu, marka adı veya kurumsal tasarımı gofre baskı, UV baskı ve serigrafi baskı teknikleri ile uygulanabilir.
 
-TEKNİK ÖZELLİKLER
+Logo baskılı organizer modellerinin iş hayatında uzun süre kullanılması, markanızın ofislerde, toplantılarda, müşteri görüşmelerinde ve iş seyahatlerinde sürekli görünür kalmasına katkı sağlar.
 
-Ürün Tipi: Organizer / Ajanda
-Kapak: İç & Dış Termoderi
-Kapama: Metal & Manyetik Kilit
-Ölçü: 17 x 21 cm (Genel) / 15 x 21 cm (İç Blok)
-Kağıt: 70 gr. Ivory
-Ek Özellikler: Kartvizitlik
-Ambalaj: Özel Kutulu
-Baskı Türü: Gofre, UV, Serigrafi
+Görselde bulunan kırmızı, siyah ve gri renk seçenekleri sayesinde farklı kurumsal kimliklere ve promosyon projelerine uygun alternatifler oluşturulabilir.
 
-NOT
+ORG-240; bankalar, finans kuruluşları, sigorta şirketleri, danışmanlık firmaları, hukuk büroları, kamu kurumları, holdingler ve kurumsal şirketlerin yönetici, çalışan, müşteri ve iş ortaklarına yönelik promosyon çalışmalarında tercih edebileceği prestijli bir organizer modelidir.
 
-Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+NEDEN PROMOSYON ORGANIZER ORG-240?
 
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• İç ve dış termo deri kaplama
+• Premium ve profesyonel tasarım
+• Metal detaylı manyetik kilit
+• 17 x 21 cm organizer ölçüsü
+• 15 x 21 cm iç blok
+• 70 gr ivory kağıt
+• Kartvizitlik bölmesi
+• Özel sunum kutusu
+• Gofre baskıya uygun
+• UV baskıya uygun
+• Serigrafi baskıya uygun
+• Farklı renk alternatifleri
+• Günlük planlama ve not almaya uygun
+• Yönetici ve VIP hediyesi olarak ideal
+• Uzun süreli marka görünürlüğünü destekleyen yapı
 
 KULLANIM ALANLARI
 
-VIP müşteri hediyeleri
-Yönetici ve üst düzey hediyeler
-Kurumsal promosyon ürünleri
-Prestijli marka sunumları
-Özel gün ve etkinlik hediyeleri
-Ofis ve iş hayatı kullanımı
-`,
+• Günlük iş planlaması
+• Toplantı notları
+• Müşteri görüşmeleri
+• Proje ve iş takibi
+• Yönetici kullanımı
+• Satış ekipleri
+• Danışmanlık hizmetleri
+• Ofis çalışanları
+• İş seyahatleri
+• Bayi toplantıları
+• Kurumsal organizasyonlar
+• Fuar ve etkinlikler
+• Çalışan hediyeleri
+• Yönetici hediyeleri
+• VIP müşteri hediyeleri
+• İş ortağı hediyeleri
+
+KİMLER İÇİN UYGUN?
+
+• Kurumsal firmalar
+• Holdingler
+• Bankalar
+• Finans kuruluşları
+• Sigorta şirketleri
+• Danışmanlık firmaları
+• Hukuk büroları
+• Muhasebe firmaları
+• Kamu kurumları
+• Belediyeler
+• Eğitim kurumları
+• Satış ekipleri
+• Yöneticiler
+• Ofis çalışanları
+• Kurumsal hediye arayan işletmeler
+
+PROMOSYON ORGANIZER ORG-240 FİYATLARI
+
+Promosyon organizer fiyatları sipariş miktarı, uygulanacak logo baskı yöntemi, renk seçimi, güncel stok durumu ve teslim süresine göre değişiklik gösterebilir.
+
+Toplu ORG-240 organizer siparişlerinde kurumsal firmalara özel fiyatlandırma yapılabilir. Güncel stok durumu, renk alternatifleri, baskı seçenekleri ve toplu sipariş fiyatları için teklif alabilirsiniz.
+
+BASKI BİLGİLERİ
+
+ORG-240 organizer üzerine firma logosu, marka adı, slogan veya kurumsal tasarım uygulanabilmektedir.
+
+Baskı Türleri: Gofre Baskı / UV Baskı / Serigrafi Baskı
+Logo Baskı: Kurumsal logo uygulamasına uygundur
+
+Uygulanacak baskı yöntemi logo tasarımı, baskı alanı, ürün yüzeyi ve sipariş miktarına göre belirlenmektedir.
+
+RENK VE STOK BİLGİSİ
+
+Görselde yer alan renk alternatifleri:
+
+• Kırmızı
+• Siyah
+• Gri
+
+Renk seçenekleri ve stok miktarları dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde güncel stok durumunun kontrol edilmesi önerilmektedir.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal toplu siparişlere uygundur.
+• Logo baskısı firmanıza özel hazırlanabilir.
+• Baskı çalışması üretim öncesinde onaya sunulabilir.
+• Özel sunum kutusu ile sunulmaktadır.
+• Minimum sipariş adedi stok ve üretim durumuna göre belirlenmektedir.
+• Güncel renk seçenekleri sipariş öncesinde kontrol edilmelidir.
+• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
+• Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Organizer / Ajanda
+Model: ORG-240
+Kategori: Organizerler
+Kapak Malzemesi: İç ve Dış Termo Deri
+Organizer Ölçüsü: 17 x 21 cm
+İç Blok Ölçüsü: 15 x 21 cm
+Kağıt: 70 gr Ivory
+Kapanış: Metal Detaylı Manyetik Kilit
+Kartvizitlik: Var
+Ambalaj: Özel Sunum Kutusu
+Baskı Türleri: Gofre Baskı / UV Baskı / Serigrafi Baskı
+Renkler: Kırmızı / Siyah / Gri
+Kullanım Tipi: Ofis / Yönetici / Toplantı / Planlama / VIP Hediye / Kurumsal Hediye
+
+Promosyon organizer ORG-240 modeli; çift kat termo deri kaplaması, metal detaylı manyetik kilidi, kartvizitlik bölmesi, 70 gr ivory kağıdı, özel sunum kutusu ve kurumsal logo baskı seçenekleri ile premium promosyon organizer arayan firmalar için güçlü bir alternatiftir. Güncel stok durumu, renk seçenekleri, toplu sipariş fiyatları, logo baskısı ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "ORG-240 organizer ölçüsü nedir?",
+      a: "ORG-240 modelinin genel ölçüsü 17 x 21 cm, iç blok ölçüsü ise 15 x 21 cm'dir."
+    },
+    {
+      q: "ORG-240 organizer hangi malzemeden üretilmiştir?",
+      a: "Modelin iç ve dış yüzeyinde termo deri kaplama kullanılmaktadır."
+    },
+    {
+      q: "ORG-240 manyetik kilitli midir?",
+      a: "Evet. ORG-240 metal detaylı manyetik kilit sistemine sahiptir."
+    },
+    {
+      q: "ORG-240 içerisinde kartvizitlik var mı?",
+      a: "Evet. Organizer içerisinde kartvizitlerin ve benzeri kartların düzenli şekilde taşınabilmesi için kartvizitlik bölmesi bulunmaktadır."
+    },
+    {
+      q: "ORG-240 üzerine firma logosu basılabilir mi?",
+      a: "Evet. Ürün üzerine gofre baskı, UV baskı veya serigrafi baskı yöntemleri ile firma logosu ve kurumsal tasarımlar uygulanabilir."
+    },
+    {
+      q: "ORG-240 hangi renklerde bulunmaktadır?",
+      a: "Görselde kırmızı, siyah ve gri renk seçenekleri bulunmaktadır. Güncel renk ve stok durumu sipariş öncesinde kontrol edilmelidir."
+    },
+    {
+      q: "ORG-240 kutulu mudur?",
+      a: "Evet. ORG-240 özel sunum kutusu ile sunulmaktadır ve bu nedenle yönetici, müşteri ve VIP kurumsal hediye çalışmalarına uygundur."
+    },
+    {
+      q: "ORG-240 hangi kağıt türünü kullanmaktadır?",
+      a: "Organizer içerisinde 70 gr ivory kağıt kullanılmaktadır."
+    },
+    {
+      q: "ORG-240 toplu siparişe uygun mudur?",
+      a: "Evet. ORG-240 kurumsal toplu siparişler için uygundur. Sipariş adedi, baskı yöntemi ve teslim süresine göre özel fiyatlandırma yapılabilir."
+    }
+  ]
 },
 {
   id: "p587",
+
   slug: "promosyon-organizer-org-250-termodei-metal-tokali",
 
-  title: "Promosyon Organizer ORG-250 | Metal Tokalı Termoderi Organizer (15x21 cm Ajanda)",
+  title:
+    "Promosyon Organizer ORG-250 | Metal Tokalı Termo Deri Organizer (15x21 cm Ajanda)",
+
   price: 530,
+
   category: "Organizerler",
+
   image: "/products/promosyon-organizer-org-250.jpg",
 
   shortDesc:
-    "Promosyon organizer ORG-250, şık yüzey tasarımı ve metal tokalı yapısı ile kurumsal promosyonlar için ideal premium organizer modelidir.",
+    "Promosyon organizer ORG-250; termo deri kapak yapısı, metal tokalı tasarımı, 352 sayfalık ajandası ve kurumsal logo baskı seçenekleri ile ofis, yönetici ve kurumsal hediye kullanımı için ideal premium organizer modelidir.",
 
   longDesc: `
-Promosyon organizer ORG-250, modern yüzey dokusu ve şık tasarım detayları ile kurumsal promosyon ürünleri arasında dikkat çeken premium bir organizer modelidir.
+Promosyon organizer ORG-250 modeli, modern yüzey dokusu, termo deri kapak yapısı ve şık metal toka detayı ile kurumsal promosyon organizer modelleri arasında dikkat çeken premium bir alternatiftir.
 
-Termoderi kapak yapısı sayesinde hem dayanıklı hem de prestijli bir görünüm sunar.
+15 x 21 cm iç blok ölçüsü sayesinde günlük planlama, toplantı notları, müşteri görüşmeleri ve iş takibi gibi profesyonel kullanım ihtiyaçları için ideal bir alan sunar.
 
-Metal toka kapama sistemi, organizerin güvenli şekilde kapanmasını sağlarken ürüne estetik bir tasarım kazandırır.
+Termo deri kapak yapısı ürüne hem dayanıklı hem de prestijli bir görünüm kazandırır. Özel yüzey dokusu klasik organizer modellerinden farklı bir görünüm oluşturarak kurumsal hediye çalışmalarında ürünün kalite algısını yükseltir.
 
-İç kısmında yer alan 352 sayfa ajanda, uzun süreli kullanım avantajı sunar ve yoğun iş temposuna sahip kullanıcılar için ideal bir çözümdür.
+Metal toka kapama sistemi organizerın düzenli ve güvenli şekilde kapalı tutulmasına yardımcı olurken aynı zamanda tasarımı tamamlayan şık bir detay oluşturur.
 
-70 gr. krem kağıt yapısı sayesinde konforlu ve kaliteli bir yazım deneyimi sağlar.
+ORG-250 içerisinde bulunan 352 sayfalık ajanda, uzun süreli ve yoğun kullanım için geniş bir yazım alanı sağlar. Günlük iş planlarının, toplantı notlarının, görevlerin ve önemli bilgilerin düzenli şekilde kaydedilmesine imkan tanır.
 
-Organizer içerisinde bulunan hesap makinesi, iş hayatında pratik kullanım imkanı sunar.
+70 gr krem kağıt yapısı, günlük yazım için konforlu bir kullanım deneyimi sunar. Krem renkli sayfalar profesyonel ajanda tasarımını tamamlayan sade ve kaliteli bir görünüm oluşturur.
 
-Gofre ve lazer baskı teknikleri ile logo uygulamaları yapılabilir ve markanız uzun süre görünür hale getirilir.
+Organizer içerisinde yer alan hesap makinesi özelliği, özellikle ofis, finans, satış ve muhasebe alanlarında çalışan kullanıcıların günlük işlemlerinde pratik kullanım avantajı sağlar.
 
-Farklı renk seçenekleri ile kurumsal kimliğinize uygun tercihler yapılabilir.
+Promosyon organizer ORG-250 üzerine firmanızın logosu veya marka bilgileri lazer ve gofre baskı teknikleri ile uygulanabilir.
 
-TEKNİK ÖZELLİKLER
+Logo baskılı organizerların ofislerde, toplantılarda ve iş hayatında uzun süre kullanılması sayesinde markanız kullanıcıların günlük çalışma ortamında sürekli görünür kalabilir.
 
-Ürün Tipi: Organizer / Ajanda
-Kapak: Termoderi
-Kapama: Metal Toka
-İç Blok: 15 x 21 cm Ajanda
-Sayfa Sayısı: 352
-Kağıt: 70 gr. Krem
-Ek Özellikler: Hesap Makinesi
-Baskı Türü: Lazer, Gofre
-Koli Adeti: 30
+Görselde yer alan kırmızı, siyah ve mavi renk alternatifleri sayesinde farklı kurumsal kimliklere ve promosyon projelerine uygun seçenekler oluşturulabilir.
 
-NOT
+ORG-250 modeli; şirketler, kamu kurumları, finans kuruluşları, danışmanlık firmaları, satış ekipleri ve kurumsal işletmeler tarafından çalışan, yönetici, müşteri ve iş ortaklarına yönelik promosyon çalışmalarında tercih edilebilir.
 
-Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+NEDEN PROMOSYON ORGANIZER ORG-250?
 
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Termo deri kapak
+• Modern yüzey dokusu
+• Metal tokalı kapama sistemi
+• 15 x 21 cm ajanda iç bloğu
+• 352 sayfa geniş kullanım alanı
+• 70 gr krem kağıt
+• Hesap makinesi özelliği
+• Lazer baskıya uygun
+• Gofre baskıya uygun
+• Kurumsal logo uygulamasına uygun
+• Farklı renk alternatifleri
+• Günlük planlama ve not almaya uygun
+• Ofis ve yönetici kullanımına uygun
+• Kurumsal hediye çalışmalarına uygun
+• Uzun süreli marka görünürlüğünü destekleyen yapı
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri
-Kamu kurumları ve şirket hediyeleri
-Ofis ve iş hayatı kullanımı
-Yönetici ve çalışan hediyeleri
-Fuar ve etkinlik dağıtımları
-Günlük planlama ve ajanda kullanımı
-`,
+• Günlük iş planlaması
+• Toplantı notları
+• Müşteri görüşmeleri
+• Proje ve görev takibi
+• Yönetici kullanımı
+• Ofis çalışanları
+• Satış ekipleri
+• Finans ve muhasebe çalışanları
+• Danışmanlık firmaları
+• İş seyahatleri
+• Bayi toplantıları
+• Kurumsal organizasyonlar
+• Fuar ve etkinlikler
+• Çalışan hediyeleri
+• Yönetici hediyeleri
+• Müşteri hediyeleri
+• İş ortağı hediyeleri
+
+KİMLER İÇİN UYGUN?
+
+• Kurumsal firmalar
+• Kamu kurumları
+• Belediyeler
+• Bankalar
+• Finans kuruluşları
+• Sigorta şirketleri
+• Muhasebe firmaları
+• Danışmanlık şirketleri
+• Hukuk büroları
+• Eğitim kurumları
+• Satış ekipleri
+• Yöneticiler
+• Ofis çalışanları
+• Kurumsal hediye arayan işletmeler
+
+PROMOSYON ORGANIZER ORG-250 FİYATLARI
+
+Promosyon organizer fiyatları sipariş miktarı, uygulanacak logo baskı yöntemi, renk seçimi, güncel stok durumu ve teslim süresine göre değişiklik gösterebilir.
+
+Toplu ORG-250 organizer siparişlerinde kurumsal firmalara özel fiyatlandırma yapılabilir. Güncel stok durumu, renk seçenekleri, logo baskısı ve toplu sipariş fiyatları için teklif alabilirsiniz.
+
+BASKI BİLGİLERİ
+
+ORG-250 organizer üzerine firma logosu, marka adı veya kurumsal tasarım uygulanabilmektedir.
+
+Baskı Türleri: Lazer Baskı / Gofre Baskı
+Logo Baskı: Kurumsal logo uygulamasına uygundur
+
+Uygulanacak baskı yöntemi logo tasarımı, ürün yüzeyi, baskı alanı ve sipariş miktarına göre belirlenmektedir.
+
+RENK VE STOK BİLGİSİ
+
+Görselde yer alan renk alternatifleri:
+
+• Kırmızı
+• Siyah
+• Mavi
+
+Renk seçenekleri ve stok miktarları dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde güncel stok durumunun kontrol edilmesi önerilmektedir.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal toplu siparişlere uygundur.
+• Logo baskısı firmanıza özel hazırlanabilir.
+• Baskı çalışması üretim öncesinde onaya sunulabilir.
+• Minimum sipariş adedi stok durumuna göre belirlenmektedir.
+• Güncel renk seçenekleri sipariş öncesinde kontrol edilmelidir.
+• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
+• Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Organizer / Ajanda
+Model: ORG-250
+Kategori: Organizerler
+Kapak Malzemesi: Termo Deri
+Kapama: Metal Toka
+İç Blok Ölçüsü: 15 x 21 cm
+Sayfa Sayısı: 352 Sayfa
+Kağıt: 70 gr Krem Kağıt
+Ek Özellik: Hesap Makinesi
+Baskı Türleri: Lazer Baskı / Gofre Baskı
+Koli Adedi: 30
+Kullanım Tipi: Ofis / Yönetici / Toplantı / Planlama / Kurumsal Hediye
+
+Promosyon organizer ORG-250 modeli; termo deri kapak yapısı, modern yüzey dokusu, metal toka detayı, 352 sayfalık ajandası, hesap makinesi ve kurumsal logo baskı seçenekleri ile işlevsel ve prestijli promosyon organizer arayan firmalar için güçlü bir alternatiftir. Güncel stok durumu, renk seçenekleri, toplu sipariş fiyatları, logo baskısı ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "ORG-250 organizer iç blok ölçüsü nedir?",
+      a: "ORG-250 modelinin ajanda iç blok ölçüsü 15 x 21 cm'dir."
+    },
+    {
+      q: "ORG-250 kaç sayfadır?",
+      a: "ORG-250 organizer içerisinde 352 sayfalık ajanda bulunmaktadır."
+    },
+    {
+      q: "ORG-250 hangi kağıdı kullanmaktadır?",
+      a: "Organizer içerisinde 70 gr krem kağıt kullanılmaktadır."
+    },
+    {
+      q: "ORG-250 hesap makineli midir?",
+      a: "Evet. ORG-250 modelinde günlük ofis işlemlerinde kullanılabilecek hesap makinesi özelliği bulunmaktadır."
+    },
+    {
+      q: "ORG-250 üzerine logo basılabilir mi?",
+      a: "Evet. Ürün üzerine lazer baskı veya gofre baskı yöntemleri ile firma logosu ve kurumsal tasarımlar uygulanabilir."
+    },
+    {
+      q: "ORG-250 hangi kapak malzemesine sahiptir?",
+      a: "ORG-250 modelinde termo deri kapak kullanılmaktadır."
+    },
+    {
+      q: "ORG-250 nasıl kapanır?",
+      a: "Organizer metal toka kapama sistemine sahiptir."
+    },
+    {
+      q: "ORG-250 hangi renklerde bulunmaktadır?",
+      a: "Görselde kırmızı, siyah ve mavi renk alternatifleri bulunmaktadır. Güncel renk ve stok durumu sipariş öncesinde kontrol edilmelidir."
+    },
+    {
+      q: "ORG-250 toplu siparişe uygun mudur?",
+      a: "Evet. ORG-250 kurumsal toplu siparişlere uygundur. Sipariş adedi ve baskı detaylarına göre özel fiyatlandırma yapılabilir."
+    }
+  ]
 },
 {
   id: "p588",
@@ -73046,333 +73654,1023 @@ Yüksek adetli promosyon kampanyaları
 },
 {
   id: "p656",
+
   slug: "promosyon-fosforlu-kalem-fk-550-5li-set-renkli",
 
-  title: "Promosyon Fosforlu Kalem FK-550 | 5’li Renkli Fosforlu Kalem Seti",
+  title:
+    "Promosyon Fosforlu Kalem FK-550 | 5'li Renkli Logo Baskılı Fosforlu Kalem Seti",
 
   category: "Kırtasiye Ürünleri",
+
   image: "/products/promosyon-fosforlu-kalem-fk-550.jpg",
 
   shortDesc:
-    "Promosyon fosforlu kalem FK-550, 5 farklı renk içeren pratik ve dikkat çekici tasarımıyla kurumsal promosyonlar için ideal bir üründür.",
+    "Promosyon fosforlu kalem FK-550; sarı, yeşil, mavi, pembe ve turuncu olmak üzere 5 farklı renk içeren, kompakt çiçek tasarımı ve geniş logo baskı alanı ile okul, ofis, fuar ve kurumsal tanıtımlar için ideal 5'li fosforlu kalem setidir.",
 
   longDesc: `
-Promosyon fosforlu kalem FK-550, 5 farklı renk seçeneği ile not alma ve işaretleme işlemlerini kolaylaştıran pratik ve kullanışlı bir promosyon ürünüdür.
+Promosyon fosforlu kalem FK-550 modeli, beş farklı fosforlu kalemi tek bir kompakt gövdede bir araya getiren dikkat çekici ve kullanışlı bir promosyon kırtasiye ürünüdür.
 
-Yuvarlak ve kompakt tasarımı sayesinde masaüstünde az yer kaplar ve taşınabilir yapısı ile her ortamda rahatlıkla kullanılabilir.
+Çiçek formunu andıran yuvarlak tasarımı sayesinde klasik fosforlu kalem setlerinden ayrılır. Renkli kalem uçlarının merkezi beyaz gövdenin çevresine yerleştirilmesi ürüne hem eğlenceli hem de modern bir görünüm kazandırır.
 
-Set içerisinde sarı, yeşil, mavi, pembe ve turuncu olmak üzere 5 farklı fosforlu kalem bulunmaktadır.
+Set içerisinde sarı, yeşil, mavi, pembe ve turuncu olmak üzere 5 farklı fosforlu renk bulunmaktadır. Farklı renkler sayesinde önemli bilgiler, ders notları, toplantı kayıtları ve belgeler kategorilere ayrılarak kolaylıkla işaretlenebilir.
 
-Canlı renkleri sayesinde önemli notların vurgulanmasını sağlar ve günlük kullanımda büyük kolaylık sunar.
+Her fosforlu kalem kendi koruyucu kapağına sahiptir. Kullanılmak istenen renk seçilerek kapağı çıkarılabilir ve işlem sonrasında tekrar kapatılabilir.
 
-Ürün, geniş baskı alanı ile firmanıza özel logo uygulamaları için uygundur ve marka görünürlüğünü artıran etkili bir reklam ürünüdür.
+Kompakt yapısı sayesinde beş ayrı fosforlu kalem taşımak yerine tek bir ürün içerisinde farklı renk seçeneklerine ulaşma avantajı sağlar.
 
-Özellikle ofisler, eğitim kurumları, fuarlar ve etkinliklerde dağıtım için ideal bir promosyon ürünüdür.
+Masaüstünde az yer kaplayan tasarımı sayesinde ofislerde, okullarda, çalışma masalarında ve eğitim ortamlarında günlük kullanım için uygundur.
 
-Ekonomik fiyat yapısı sayesinde yüksek adetli siparişlerde avantaj sağlar ve geniş kitlelere ulaşmanıza yardımcı olur.
+Ürünün merkezinde bulunan geniş beyaz yüzey, firma logosu, marka adı veya kurumsal tasarımların uygulanması için dikkat çekici bir baskı alanı oluşturur.
 
-TEKNİK ÖZELLİKLER
+FK-550 üzerine UV baskı veya tampon baskı teknikleri kullanılarak firmanıza özel logo uygulaması yapılabilir.
 
-Ürün Tipi:
-- 5’li Fosforlu Kalem Seti
+Logo baskısının ürünün merkezi ve görünür bölümünde bulunması, kullanım sırasında markanızın sürekli dikkat çekmesine yardımcı olur.
 
-Renkler:
-- Sarı
-- Yeşil
-- Mavi
-- Pembe
-- Turuncu
+Promosyon fosforlu kalemler özellikle eğitim kurumları, kurs merkezleri, yayınevleri, bankalar, sigorta şirketleri, ofisler ve kurumsal firmaların reklam ve tanıtım kampanyalarında kullanılabilecek işlevsel promosyon ürünleri arasında yer almaktadır.
 
-Baskı:
-- UV Baskı
-- Tampon Baskı
+Fuar, seminer, kongre, eğitim organizasyonu ve toplu kurumsal dağıtımlarda kullanılabilecek FK-550, işlevsel yapısı sayesinde dağıtıldıktan sonra uzun süre kullanılabilecek promosyon ürünlerinden biridir.
 
-NOT
+Öğrenciler için ders çalışırken önemli bölümlerin işaretlenmesinde, ofis çalışanları için belgelerin ve notların vurgulanmasında, toplantılarda ise farklı konuların renklerle sınıflandırılmasında pratik kullanım sağlar.
 
-Ürün görselleri temsili olup renk tonlarında farklılık olabilir.
+NEDEN PROMOSYON FOSFORLU KALEM FK-550?
 
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• Tek gövdede 5 farklı fosforlu renk
+• Sarı fosforlu kalem
+• Yeşil fosforlu kalem
+• Mavi fosforlu kalem
+• Pembe fosforlu kalem
+• Turuncu fosforlu kalem
+• Kompakt çiçek tasarımı
+• Ayrı koruyucu kapaklar
+• Geniş merkezi baskı alanı
+• UV baskıya uygun
+• Tampon baskıya uygun
+• Logo ve marka uygulamasına uygun
+• Kolay taşınabilir yapı
+• Masaüstünde az yer kaplayan tasarım
+• Okul ve eğitim promosyonlarına uygun
+• Ofis kullanımına uygun
+• Fuar ve etkinlik dağıtımlarına uygun
+• Yüksek adetli kurumsal siparişlere uygun
+• Uzun süreli marka görünürlüğünü destekleyen kullanım
 
 KULLANIM ALANLARI
 
-Ofis kullanımı
-Eğitim kurumları
-Fuar ve etkinlik promosyonları
-Toplu dağıtım ürünleri
-Marka tanıtım çalışmaları
-`,
+• Ders notlarını işaretleme
+• Kitap ve dokümanlarda önemli bölümleri vurgulama
+• Toplantı notları
+• Ofis çalışmaları
+• Günlük planlama
+• Eğitim ve seminerler
+• Okullar
+• Üniversiteler
+• Kurs merkezleri
+• Ofisler
+• Fuarlar
+• Kongreler
+• Seminerler
+• Kurumsal etkinlikler
+• Öğrenci promosyonları
+• Çalışan hediyeleri
+• Müşteri promosyonları
+• Marka tanıtım kampanyaları
+
+KİMLER İÇİN UYGUN?
+
+• Okullar
+• Üniversiteler
+• Eğitim kurumları
+• Kurs merkezleri
+• Yayınevleri
+• Kırtasiye firmaları
+• Bankalar
+• Finans kuruluşları
+• Sigorta şirketleri
+• Danışmanlık firmaları
+• Kamu kurumları
+• Belediyeler
+• Ofis çalışanları
+• Öğrenciler
+• Kurumsal firmalar
+• Etkinlik ve organizasyon şirketleri
+
+PROMOSYON FOSFORLU KALEM FK-550 FİYATLARI
+
+Promosyon fosforlu kalem fiyatları sipariş miktarı, uygulanacak logo baskı yöntemi, baskı detayları, güncel stok durumu ve teslim süresine göre değişiklik gösterebilir.
+
+Yüksek adetli FK-550 fosforlu kalem seti siparişlerinde kurumsal firmalara özel fiyatlandırma yapılabilir.
+
+Güncel fiyat, stok durumu, minimum sipariş adedi ve logo baskı seçenekleri için teklif alabilirsiniz.
+
+BASKI BİLGİLERİ
+
+FK-550 fosforlu kalem setinin merkezi beyaz yüzeyi kurumsal logo ve marka baskısı için uygundur.
+
+Baskı Türleri: UV Baskı / Tampon Baskı
+Logo Baskı: Kurumsal logo uygulamasına uygundur
+Baskı Konumu: Merkezi Beyaz Gövde
+
+Ürün üzerine firma logosu, marka adı, slogan veya kurumsal tasarım uygulanabilir.
+
+Uygulanacak baskı yöntemi logo tasarımı, baskı renkleri, baskı alanı ve sipariş miktarına göre belirlenmektedir.
+
+RENK BİLGİSİ
+
+Set içerisinde 5 farklı fosforlu renk bulunmaktadır:
+
+• Sarı
+• Yeşil
+• Mavi
+• Pembe
+• Turuncu
+
+Ürün ve baskı renk tonlarında üretim dönemlerine bağlı küçük farklılıklar görülebilir.
+
+SİPARİŞ BİLGİSİ
+
+• Kurumsal toplu siparişlere uygundur.
+• Firma logosuna özel baskı yapılabilir.
+• UV ve tampon baskı seçenekleri uygulanabilir.
+• Minimum sipariş adedi stok durumuna göre belirlenmektedir.
+• Güncel stok durumu sipariş öncesinde kontrol edilmelidir.
+• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
+• Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Fosforlu Kalem Seti
+Model: FK-550
+Kategori: Kırtasiye Ürünleri
+Kalem Sayısı: 5
+Renk Sayısı: 5
+Renkler: Sarı / Yeşil / Mavi / Pembe / Turuncu
+Tasarım: Yuvarlak / Çiçek Formlu
+Kapak: Her Renk İçin Ayrı Koruyucu Kapak
+Baskı Alanı: Merkezi Beyaz Yüzey
+Baskı Türleri: UV Baskı / Tampon Baskı
+Logo Baskı: Uygun
+Kullanım Tipi: Okul / Eğitim / Ofis / Fuar / Etkinlik / Kurumsal Promosyon
+
+Promosyon fosforlu kalem FK-550; tek gövdede sunduğu 5 farklı fosforlu renk, kompakt çiçek tasarımı ve geniş logo baskı yüzeyi ile eğitim, ofis ve kurumsal tanıtım çalışmalarında kullanılabilecek dikkat çekici bir promosyon ürünüdür. Güncel stok durumu, toplu sipariş fiyatları, minimum sipariş adedi ve logo baskı seçenekleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+`.trim(),
+
+  faq: [
+    {
+      q: "FK-550 fosforlu kalem setinde kaç renk bulunur?",
+      a: "FK-550 içerisinde sarı, yeşil, mavi, pembe ve turuncu olmak üzere toplam 5 farklı fosforlu renk bulunmaktadır."
+    },
+    {
+      q: "FK-550 üzerine firma logosu basılabilir mi?",
+      a: "Evet. Ürünün merkezi beyaz yüzeyine firma logosu, marka adı veya kurumsal tasarım uygulanabilir."
+    },
+    {
+      q: "FK-550 için hangi baskı yöntemleri kullanılabilir?",
+      a: "Ürüne UV baskı ve tampon baskı yöntemleri uygulanabilir."
+    },
+    {
+      q: "FK-550 okul ve eğitim promosyonları için uygun mudur?",
+      a: "Evet. Beş farklı işaretleme rengi sayesinde öğrenciler, okullar, kurs merkezleri ve eğitim kurumları için oldukça kullanışlı bir promosyon ürünüdür."
+    },
+    {
+      q: "FK-550 ofis kullanımına uygun mudur?",
+      a: "Evet. Belgelerin, toplantı notlarının ve önemli bilgilerin farklı renklerle işaretlenmesi için ofis kullanımına uygundur."
+    },
+    {
+      q: "Fosforlu kalemlerin ayrı kapakları var mı?",
+      a: "Evet. Beş farklı fosforlu kalem bölümünün her biri kendi koruyucu kapağına sahiptir."
+    },
+    {
+      q: "FK-550 fuarlarda dağıtılabilir mi?",
+      a: "Evet. Kompakt ve dikkat çekici tasarımı sayesinde fuar, seminer, kongre ve kurumsal etkinliklerde promosyon ürünü olarak dağıtılabilir."
+    },
+    {
+      q: "FK-550 toplu siparişe uygun mudur?",
+      a: "Evet. Ürün kurumsal toplu siparişlere uygundur ve yüksek adetli alımlarda sipariş miktarına göre özel fiyatlandırma yapılabilir."
+    }
+  ]
 },
 {
   id: "p657",
+
   slug: "promosyon-sinav-seti-kk-620-kalem-silgi-kalemtras-seti",
 
-  title: "Promosyon Sınav Seti KK-620 | Kalem, Silgi ve Kalemtıraşlı Pratik Öğrenci Seti",
+  title:
+    "Promosyon Sınav Seti KK-620 | Kalem, Silgi ve Kalemtıraşlı Logo Baskılı Öğrenci Seti",
 
   category: "Kırtasiye Ürünleri",
+
   image: "/products/promosyon-sinav-seti-kk-620.jpg",
 
   shortDesc:
-    "Promosyon sınav seti KK-620, kurşun kalem, silgi ve kalemtıraş içeren pratik yapısı ile öğrenci ve eğitim odaklı promosyonlar için ideal settir.",
+    "Promosyon sınav seti KK-620; 1 adet siyah uçlu kurşun kalem, 1 adet kırmızı uçlu kurşun kalem, kapaksız kalemtıraş ve 30x20x10 mm silgiden oluşan, şeffaf taşıma kutulu ve logo baskıya uygun ekonomik öğrenci kırtasiye setidir.",
 
   longDesc: `
-Promosyon sınav seti KK-620, öğrencilerin sınav ve günlük kullanım ihtiyaçlarını karşılamak üzere hazırlanmış pratik ve ekonomik bir kırtasiye setidir.
+Promosyon sınav seti KK-620 modeli, öğrencilerin sınav, ders ve günlük kırtasiye ihtiyaçlarını tek bir kutu içerisinde karşılamak amacıyla hazırlanmış pratik bir promosyon kırtasiye setidir.
 
-Set içerisinde 1 adet kutu, 2 adet kurşun kalem, 1 adet silgi ve 1 adet kalemtıraş yer almaktadır.
+Kompakt ve kullanışlı yapısı sayesinde özellikle okullar, eğitim kurumları, kurs merkezleri, belediyeler ve öğrencilere yönelik tanıtım kampanyaları için tercih edilebilecek promosyon ürünlerinden biridir.
 
-18.5 x 5 cm ölçülerine sahip şeffaf kutu, ürünlerin düzenli ve kolay taşınabilir şekilde saklanmasını sağlar.
+Set içerisinde 1 adet siyah uçlu kurşun kalem, 1 adet kırmızı uçlu kurşun kalem, 1 adet kapaksız kalemtıraş ve 1 adet silgi bulunmaktadır.
 
-Kurşun kalemler, akıcı yazım sunarak sınav ve not alma işlemlerinde rahat kullanım sağlar.
+Tüm kırtasiye ürünleri şeffaf plastik set kutusu içerisinde bir arada sunulur. Böylece kalem, silgi ve kalemtıraşın düzenli şekilde saklanması ve kolay taşınması sağlanır.
 
-Silgi, temiz ve iz bırakmadan silme özelliği ile pratik bir kullanım sunar.
+SİYAH UÇLU KURŞUN KALEM
 
-Kalemtıraş ise kalemlerin her zaman kullanıma hazır olmasını sağlar.
+Set içerisinde bulunan siyah uçlu kurşun kalem; sınavlarda, derslerde, test çözümlerinde, not alma işlemlerinde ve günlük yazım ihtiyaçlarında kullanılabilir.
 
-Ürün, geniş baskı alanı sayesinde firmanıza özel logo uygulamaları için uygundur ve özellikle eğitim kurumları için etkili bir promosyon ürünüdür.
+KIRMIZI UÇLU KURŞUN KALEM
 
-Ekonomik yapısı sayesinde yüksek adetli dağıtımlarda avantaj sağlar ve geniş kitlelere ulaşmanıza yardımcı olur.
+Kırmızı uçlu kurşun kalem; kontrol, işaretleme, düzeltme ve önemli noktaların vurgulanması gibi farklı kullanım ihtiyaçlarına yönelik olarak sete dahil edilmiştir.
 
-TEKNİK ÖZELLİKLER
+KALEMTIRAŞ
 
-Set İçeriği:
-- 1 Adet Kutu
-- 2 Adet Kurşun Kalem
-- 1 Adet Silgi
-- 1 Adet Kalemtıraş
+Set içerisinde bulunan kompakt kapaksız kalemtıraş sayesinde kurşun kalemler ihtiyaç duyulduğunda kolaylıkla açılabilir.
 
-Ölçü:
-- 18.5 x 5 cm
+Kalemtıraşın küçük yapısı, set kutusu içerisinde fazla yer kaplamadan taşınmasına imkan tanır.
 
-Baskı:
-- UV Baskı
-- Tampon Baskı
+SİLGİ
 
-NOT
+KK-620 sınav setinde 30 x 20 x 10 mm ölçülerinde silgi bulunmaktadır.
 
-Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
+Silginin geniş yüzeyi firma logosu veya kurumsal tasarım uygulaması için kullanılabilir. Böylece küçük ve sürekli kullanılan bir kırtasiye ürünü etkili bir marka tanıtım aracına dönüştürülebilir.
 
-SİPARİŞ BİLGİSİ
+ŞEFFAF SET KUTUSU
 
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+Set içerisindeki ürünler şeffaf plastik kutu içerisinde sunulmaktadır.
 
-Firma logonuza özel baskı yapılmaktadır.
+Şeffaf kutu sayesinde ürünler dışarıdan görülebilir ve tüm parçalar tek bir yerde düzenli şekilde saklanabilir.
 
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
+Kompakt yapısı sayesinde okul çantalarında, sırt çantalarında, çekmecelerde ve çalışma masalarında rahatlıkla muhafaza edilebilir.
 
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+PROMOSYON SINAV SETİ NEDEN TERCİH EDİLİR?
+
+Sınav setleri özellikle öğrencilere doğrudan fayda sağlayan promosyon ürünleri arasında yer almaktadır.
+
+Kalem, silgi ve kalemtıraş gibi temel kırtasiye ürünlerinin aynı set içerisinde bulunması sayesinde ürün dağıtıldıktan sonra günlük hayatta aktif olarak kullanılabilir.
+
+Firma logosunun ürün üzerine uygulanması ile eğitim ve öğrenci odaklı kampanyalarda marka görünürlüğünün desteklenmesi mümkündür.
+
+KK-620 modeli ekonomik ve kullanışlı yapısı sayesinde yüksek adetli promosyon dağıtımları için de değerlendirilebilir.
+
+Özellikle okul açılış dönemleri, eğitim kampanyaları, sınav organizasyonları, öğrenci etkinlikleri ve sosyal sorumluluk projelerinde kullanıma uygundur.
+
+NEDEN PROMOSYON SINAV SETİ KK-620?
+
+• Temel kırtasiye ihtiyaçlarını tek sette toplar
+• Siyah uçlu kurşun kalem içerir
+• Kırmızı uçlu kurşun kalem içerir
+• Silgi içerir
+• Kalemtıraş içerir
+• Şeffaf taşıma kutusuna sahiptir
+• Kompakt ve kolay taşınabilir
+• Öğrencilere yönelik dağıtımlara uygundur
+• Eğitim kurumları için kullanışlıdır
+• Logo baskısına uygundur
+• Yüksek adetli promosyon çalışmalarında kullanılabilir
+• Okul açılış kampanyalarına uygundur
+• Sınav organizasyonlarında dağıtılabilir
+• Eğitim etkinliklerinde kullanılabilir
+• Kurumsal marka tanıtımını destekler
+
+SET İÇERİĞİ
+
+• 1 Adet Set Kutusu
+• 1 Adet Siyah Uçlu Kurşun Kalem
+• 1 Adet Kırmızı Uçlu Kurşun Kalem
+• 1 Adet Kapaksız Kalemtıraş
+• 1 Adet Silgi
+
+SİLGİ ÖLÇÜSÜ
+
+30 x 20 x 10 mm
+
+BASKI BİLGİLERİ
+
+Promosyon sınav seti KK-620 üzerine firma logosu, marka adı veya kurumsal tasarım uygulanabilir.
+
+Baskı Türleri:
+
+• UV Baskı
+• Tampon Baskı
+
+Uygulanacak baskı yöntemi logo tasarımına, baskı alanına, renk sayısına ve sipariş miktarına göre belirlenebilir.
+
+Logo baskısı sayesinde KK-620 sınav seti, öğrenciler tarafından kullanılan işlevsel bir kırtasiye ürünü olmasının yanında kurumsal marka tanıtım aracı olarak da değerlendirilebilir.
+
+KİMLER İÇİN UYGUN?
+
+• İlkokullar
+• Ortaokullar
+• Liseler
+• Üniversiteler
+• Özel okullar
+• Eğitim kurumları
+• Dershaneler
+• Kurs merkezleri
+• Etüt merkezleri
+• Belediyeler
+• Kamu kurumları
+• Vakıflar
+• Dernekler
+• Eğitim organizasyonları
+• Yayınevleri
+• Kırtasiye firmaları
+• Kurumsal şirketler
+• Sosyal sorumluluk projeleri
 
 KULLANIM ALANLARI
 
-Okul ve eğitim kurumları
-Sınav dağıtım setleri
-Fuar ve etkinlik promosyonları
-Toplu öğrenci hediyeleri
-Marka tanıtım çalışmaları
-`,
+• Okul promosyonları
+• Öğrenci promosyonları
+• Sınav organizasyonları
+• Eğitim kampanyaları
+• Okul açılış etkinlikleri
+• Öğrenci karşılama paketleri
+• Kurs ve eğitim merkezi dağıtımları
+• Belediye eğitim projeleri
+• Sosyal sorumluluk projeleri
+• Fuar ve etkinlikler
+• Seminerler
+• Eğitim organizasyonları
+• Kurumsal tanıtım kampanyaları
+• Toplu öğrenci hediyeleri
+
+PROMOSYON SINAV SETİ FİYATLARI
+
+Promosyon sınav seti fiyatları sipariş miktarı, uygulanacak logo baskı yöntemi, baskı renkleri, güncel stok durumu ve teslim süresine göre değişiklik gösterebilir.
+
+Yüksek adetli KK-620 sınav seti siparişlerinde kurumsal firmalar ve eğitim kurumları için özel fiyatlandırma yapılabilir.
+
+Güncel fiyat, minimum sipariş adedi, stok durumu ve logo baskı seçenekleri için teklif alabilirsiniz.
+
+SİPARİŞ BİLGİSİ
+
+• Ürün kurumsal toplu siparişlere uygundur.
+• Firma logosuna özel baskı uygulanabilir.
+• UV ve tampon baskı seçenekleri değerlendirilebilir.
+• Minimum sipariş adedi stok durumuna göre belirlenmektedir.
+• Güncel stok bilgisi sipariş öncesinde kontrol edilmelidir.
+• Teslim süresi sipariş miktarı ve baskı işlemine göre belirlenmektedir.
+• Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+TEKNİK ÖZELLİKLER
+
+Ürün Tipi: Promosyon Sınav / Kırtasiye Seti
+Model: KK-620
+Kategori: Kırtasiye Ürünleri
+Kutu: Şeffaf Set Kutusu
+Siyah Kalem: 1 Adet Siyah Uçlu Kurşun Kalem
+Kırmızı Kalem: 1 Adet Kırmızı Uçlu Kurşun Kalem
+Kalemtıraş: 1 Adet Kapaksız Kalemtıraş
+Silgi: 1 Adet
+Silgi Ölçüsü: 30 x 20 x 10 mm
+Baskı Türleri: UV Baskı / Tampon Baskı
+Logo Baskı: Uygun
+Kullanım: Okul / Eğitim / Sınav / Etkinlik / Kurumsal Promosyon
+
+Promosyon sınav seti KK-620; kurşun kalemleri, silgisi, kalemtıraşı ve şeffaf taşıma kutusu ile öğrencilerin temel kırtasiye ihtiyaçlarını tek sette bir araya getiren kullanışlı bir promosyon ürünüdür. Eğitim kurumları, belediyeler, kurs merkezleri ve öğrencilere yönelik kurumsal kampanyalarda logo baskılı olarak tercih edilebilir.
+`.trim(),
+
+  faq: [
+    {
+      q: "KK-620 promosyon sınav setinin içerisinde neler bulunur?",
+      a: "Set içerisinde 1 adet şeffaf set kutusu, 1 adet siyah uçlu kurşun kalem, 1 adet kırmızı uçlu kurşun kalem, 1 adet kapaksız kalemtıraş ve 1 adet silgi bulunmaktadır."
+    },
+    {
+      q: "KK-620 sınav setinde kaç adet kurşun kalem bulunur?",
+      a: "Set içerisinde biri siyah uçlu, diğeri kırmızı uçlu olmak üzere toplam 2 adet kurşun kalem bulunmaktadır."
+    },
+    {
+      q: "KK-620 üzerine firma logosu basılabilir mi?",
+      a: "Evet. Ürüne firma logosu, marka adı veya kurumsal tasarım uygulanabilir."
+    },
+    {
+      q: "KK-620 için hangi baskı yöntemleri kullanılabilir?",
+      a: "Logo tasarımı ve baskı alanına bağlı olarak UV baskı veya tampon baskı uygulanabilir."
+    },
+    {
+      q: "KK-620 silgisinin ölçüsü nedir?",
+      a: "Set içerisinde bulunan silginin ölçüsü 30 x 20 x 10 mm'dir."
+    },
+    {
+      q: "KK-620 okul promosyonları için uygun mudur?",
+      a: "Evet. Kalem, silgi ve kalemtıraş gibi temel kırtasiye ürünlerini bir arada sunduğu için okul ve öğrenci promosyonlarında kullanılabilir."
+    },
+    {
+      q: "KK-620 sınavlarda dağıtılabilir mi?",
+      a: "Evet. Sınav organizasyonları, eğitim etkinlikleri, kurslar ve öğrencilere yönelik toplu dağıtımlar için uygundur."
+    },
+    {
+      q: "KK-620 toplu siparişe uygun mudur?",
+      a: "Evet. Kurumsal ve yüksek adetli toplu siparişlere uygundur. Sipariş miktarına göre özel fiyatlandırma yapılabilir."
+    }
+  ]
 },
 {
   id: "p658",
+
   slug: "promosyon-kalemtras-kt-300-renkli-pratik",
 
-  title: "Promosyon Kalemtıraş KT-300 | Renkli Pratik Kalemtıraş",
+  title:
+    "Promosyon Kalemtıraş KT-300 | Renkli Plastik Pratik Kalemtıraş",
 
   category: "Kırtasiye Ürünleri",
+
   image: "/products/promosyon-kalemtras-kt-300.jpg",
 
   shortDesc:
-    "Promosyon kalemtıraş KT-300, renkli tasarımı ve pratik kullanımı ile öğrenci ve toplu dağıtımlar için ideal ekonomik üründür.",
+    "Promosyon kalemtıraş KT-300, kompakt yuvarlak tasarımı, dayanıklı plastik gövdesi ve farklı renk seçenekleri ile okul, eğitim ve yüksek adetli toplu dağıtımlar için uygun ekonomik bir kırtasiye ürünüdür.",
 
   longDesc: `
-Promosyon kalemtıraş KT-300, kompakt yapısı ve dayanıklı tasarımı ile günlük kullanım için pratik ve ekonomik bir kırtasiye ürünüdür.
+Promosyon kalemtıraş KT-300 modeli, kompakt tasarımı ve pratik kullanımı ile okul, eğitim ve kurumsal promosyon çalışmalarında tercih edilebilecek ekonomik kırtasiye ürünlerinden biridir.
 
-Farklı renk seçenekleri ile dikkat çeken bu ürün, özellikle öğrenci ve eğitim odaklı dağıtımlarda tercih edilmektedir.
+Kurşun kalemlerin günlük kullanım sırasında kolay ve hızlı şekilde açılmasını sağlayan kalemtıraş, özellikle öğrencilerin temel kırtasiye ihtiyaçları arasında yer almaktadır.
 
-Keskin bıçak yapısı sayesinde kurşun kalemleri kolayca açar ve uzun süreli kullanım sunar.
+Yuvarlak ve kompakt gövde tasarımı sayesinde kalem kutusu, okul çantası, kırtasiye seti ve promosyon paketleri içerisinde fazla yer kaplamadan taşınabilir.
 
-Küçük boyutu sayesinde çanta ve kalemliklerde rahatlıkla taşınabilir.
+RENKLİ VE DİKKAT ÇEKİCİ TASARIM
 
-Ekonomik yapısı sayesinde yüksek adetli siparişlerde avantaj sağlar ve geniş kitlelere ulaşmanıza yardımcı olur.
+KT-300 promosyon kalemtıraş farklı renk seçenekleri ile sunulmaktadır.
+
+Canlı renkleri sayesinde özellikle çocuklara ve öğrencilere yönelik promosyon kampanyalarında dikkat çekici bir kırtasiye ürünü olarak değerlendirilebilir.
+
+Ürün görselinde mor, sarı, mavi, kırmızı ve yeşil renk seçenekleri bulunmaktadır.
+
+Renk seçenekleri stok durumuna göre değişiklik gösterebileceğinden sipariş öncesinde güncel stok bilgisinin kontrol edilmesi önerilmektedir.
+
+KOMPAKT YAPI
+
+KT-300 küçük ve hafif yapısı sayesinde günlük kullanıma uygundur.
+
+Kalemliklerde ve çantalarda kolaylıkla taşınabilir. Küçük boyutu aynı zamanda promosyon kırtasiye setlerinin içerisinde tamamlayıcı ürün olarak kullanılmasına imkan tanır.
+
+DAYANIKLI PLASTİK GÖVDE
+
+Kalemtıraşın dış gövdesi plastik malzemeden üretilmiştir.
+
+Plastik gövde hafif ve pratik bir kullanım sağlarken ürünün okul, kurs, etkinlik ve günlük kırtasiye kullanımına uygun olmasına yardımcı olur.
+
+METAL BIÇAK
+
+KT-300 üzerinde kurşun kalemlerin açılması için metal kalemtıraş bıçağı bulunmaktadır.
+
+Tek delikli tasarımı sayesinde standart kurşun kalemlerin açılmasında kullanılabilir.
+
+Basit ve kullanışlı yapısı sayesinde öğrencilerin günlük kırtasiye ihtiyaçlarını karşılayan temel ürünlerden biridir.
+
+PROMOSYON KALEMTIRAŞ NEDEN TERCİH EDİLİR?
+
+Kalemtıraş, özellikle öğrenciler tarafından düzenli olarak kullanılan temel kırtasiye ürünlerinden biridir.
+
+Küçük, hafif ve ekonomik yapısı sayesinde yüksek adetli promosyon kampanyalarında dağıtılabilecek ürünler arasında değerlendirilebilir.
+
+Okullar, kurs merkezleri, eğitim kurumları, belediyeler, yayınevleri ve öğrencilere yönelik kampanya düzenleyen firmalar tarafından toplu dağıtım ürünü olarak kullanılabilir.
+
+Kalem, silgi, cetvel ve benzeri kırtasiye ürünleriyle birlikte hazırlanacak promosyon setlerinin içerisinde de kullanılabilir.
+
+NEDEN PROMOSYON KALEMTIRAŞ KT-300?
+
+• Kompakt ve hafif tasarıma sahiptir
+• Tek delikli kalemtıraş yapısındadır
+• Plastik gövdelidir
+• Metal bıçaklıdır
+• Farklı renk seçenekleri bulunur
+• Kalemlik içerisinde kolaylıkla taşınabilir
+• Öğrenci kullanımına uygundur
+• Okul promosyonlarında kullanılabilir
+• Eğitim kampanyalarına uygundur
+• Kırtasiye setlerine eklenebilir
+• Yüksek adetli dağıtımlara uygundur
+• Ekonomik promosyon alternatifi sunar
+• Fuar ve etkinliklerde dağıtılabilir
+• Toplu kırtasiye dağıtımları için uygundur
+
+RENK SEÇENEKLERİ
+
+• Mor
+• Sarı
+• Mavi
+• Kırmızı
+• Yeşil
+
+Renk seçenekleri güncel stok durumuna göre değişiklik gösterebilir.
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi:
-- Kalemtıraş
+Ürün Tipi: Promosyon Kalemtıraş
+Model: KT-300
+Kategori: Kırtasiye Ürünleri
+Gövde: Plastik
+Kalemtıraş Tipi: Tek Delikli
+Bıçak: Metal
+Tasarım: Yuvarlak / Kompakt
+Kullanım: Kurşun Kalem
+Renkler: Mor / Sarı / Mavi / Kırmızı / Yeşil
+Kullanım Alanı: Okul / Eğitim / Kırtasiye / Promosyon
 
-Özellikler:
-- Tekli kullanım
-- Dayanıklı plastik gövde
-- Keskin metal bıçak
+PROMOSYON AMAÇLI KULLANIM
 
-Renkler:
-- Mor
-- Sarı
-- Mavi
-- Kırmızı
-- Yeşil
+KT-300 kalemtıraş, öğrencilere ve eğitim kurumlarına yönelik promosyon çalışmalarında kullanılabilecek pratik ürünlerden biridir.
 
-NOT
+Özellikle yüksek adetli dağıtım yapılması gereken kampanyalarda küçük boyutu ve temel bir kırtasiye ihtiyacını karşılaması önemli avantaj sağlar.
 
-Ürün görselleri temsili olup renklerde farklılık olabilir.
+Kalemtıraş tek başına dağıtılabileceği gibi kurşun kalem, silgi, cetvel ve diğer kırtasiye ürünleriyle birlikte promosyon seti içerisinde de sunulabilir.
 
-SİPARİŞ BİLGİSİ
+KİMLER İÇİN UYGUN?
 
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• İlkokullar
+• Ortaokullar
+• Liseler
+• Özel okullar
+• Eğitim kurumları
+• Dershaneler
+• Kurs merkezleri
+• Etüt merkezleri
+• Belediyeler
+• Kamu kurumları
+• Yayınevleri
+• Kırtasiye firmaları
+• Vakıflar ve dernekler
+• Eğitim organizasyonları
+• Kurumsal şirketler
+• Sosyal sorumluluk projeleri
 
 KULLANIM ALANLARI
 
-Okul ve eğitim kurumları
-Toplu dağıtım ürünleri
-Fuar ve etkinlik promosyonları
-Öğrenci kullanımı
-Ekonomik promosyon kampanyaları
-`,
+• Okul promosyonları
+• Öğrenci promosyonları
+• Eğitim kampanyaları
+• Kırtasiye promosyon setleri
+• Okul açılış etkinlikleri
+• Öğrenci karşılama paketleri
+• Kurs ve eğitim merkezi dağıtımları
+• Belediye eğitim projeleri
+• Sosyal sorumluluk projeleri
+• Fuar ve etkinlikler
+• Toplu öğrenci hediyeleri
+• Yüksek adetli kırtasiye dağıtımları
+
+PROMOSYON KALEMTIRAŞ FİYATLARI
+
+Promosyon kalemtıraş fiyatları sipariş miktarı, güncel stok durumu ve renk seçeneklerine göre değişiklik gösterebilir.
+
+Yüksek adetli KT-300 kalemtıraş siparişlerinde kurumsal firmalar, eğitim kurumları ve toplu alımlar için özel fiyatlandırma yapılabilir.
+
+Güncel fiyat, minimum sipariş adedi ve stok bilgisi için teklif alabilirsiniz.
+
+SİPARİŞ BİLGİSİ
+
+• Ürün kurumsal toplu siparişlere uygundur.
+• Minimum sipariş adedi stok durumuna göre belirlenmektedir.
+• Renk seçenekleri stok durumuna göre değişebilir.
+• Sipariş öncesinde güncel stok bilgisi kontrol edilmelidir.
+• Teslim süresi sipariş miktarına göre belirlenmektedir.
+• Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+NOT
+
+Ürün görselleri temsili olup renk tonları ekran, üretim ve stok durumuna bağlı olarak farklılık gösterebilir.
+
+Promosyon kalemtıraş KT-300; renkli plastik gövdesi, kompakt tasarımı ve metal bıçaklı yapısı ile öğrencilerin günlük kırtasiye ihtiyaçlarında kullanılabilecek ekonomik bir üründür. Okullar, eğitim kurumları, belediyeler, kurs merkezleri ve yüksek adetli promosyon kampanyalarında tercih edilebilir.
+`.trim(),
+
+  faq: [
+    {
+      q: "KT-300 promosyon kalemtıraş hangi malzemeden üretilmiştir?",
+      a: "KT-300 modeli plastik dış gövdeye ve kurşun kalemleri açmak için metal bıçağa sahiptir."
+    },
+    {
+      q: "KT-300 kalemtıraş hangi renklerde bulunur?",
+      a: "Ürün görselinde mor, sarı, mavi, kırmızı ve yeşil renk seçenekleri bulunmaktadır. Güncel renk seçenekleri stok durumuna göre değişebilir."
+    },
+    {
+      q: "KT-300 tek delikli mi?",
+      a: "Evet. KT-300 standart kurşun kalem kullanımına uygun tek delikli bir kalemtıraş modelidir."
+    },
+    {
+      q: "KT-300 okul promosyonları için uygun mudur?",
+      a: "Evet. Kompakt ve pratik yapısı sayesinde okul, kurs, eğitim kurumu ve öğrencilere yönelik toplu dağıtımlarda kullanılabilir."
+    },
+    {
+      q: "KT-300 kırtasiye setlerine eklenebilir mi?",
+      a: "Evet. Kurşun kalem, silgi, cetvel ve benzeri ürünlerle birlikte promosyon kırtasiye veya sınav setlerinde kullanılabilir."
+    },
+    {
+      q: "KT-300 toplu siparişe uygun mudur?",
+      a: "Evet. Özellikle okul, eğitim ve kurumsal kampanyalardaki yüksek adetli toplu dağıtımlar için uygundur."
+    },
+    {
+      q: "KT-300 kalemtıraş kimler için uygundur?",
+      a: "Öğrenciler, okullar, eğitim kurumları, kurs merkezleri, belediyeler, yayınevleri ve eğitim odaklı toplu dağıtımlar için uygundur."
+    },
+    {
+      q: "KT-300 kalemtıraş fiyatı nasıl belirlenir?",
+      a: "Fiyat; sipariş adedi, güncel stok durumu ve talep edilen ürün miktarına göre belirlenir. Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir."
+    }
+  ]
 },
+
 {
   id: "p659",
+
   slug: "promosyon-kalemtras-kt-360-minik-ekonomik",
 
-  title: "Promosyon Kalemtıraş KT-360 | Minik Boy Ekonomik Kalemtıraş",
+  title:
+    "Promosyon Kalemtıraş KT-360 | Minik Boy Renkli Ekonomik Kalemtıraş",
 
   category: "Kırtasiye Ürünleri",
+
   image: "/products/promosyon-kalemtras-kt-360.jpg",
 
   shortDesc:
-    "Promosyon kalemtıraş KT-360, minik boyutu ve ekonomik yapısı ile toplu dağıtımlar ve promosyon setleri için ideal tamamlayıcı üründür.",
+    "Promosyon kalemtıraş KT-360, 2,5 x 1,5 x 1 cm minik boyutu, renkli plastik gövdesi ve pratik kullanımı ile okul, eğitim, promosyon setleri ve yüksek adetli toplu dağıtımlar için uygun ekonomik bir kırtasiye ürünüdür.",
 
   longDesc: `
-Promosyon kalemtıraş KT-360, kompakt boyutu ve pratik kullanımı ile özellikle yüksek adetli promosyon çalışmalarında tercih edilen ekonomik bir kırtasiye ürünüdür.
+Promosyon kalemtıraş KT-360 modeli, minik boyutu ve pratik kullanımı ile okul, eğitim ve yüksek adetli promosyon çalışmalarında tercih edilebilecek ekonomik kırtasiye ürünlerinden biridir.
 
-2,5 x 1,5 x 1 cm ölçülerine sahip olan bu ürün, küçük yapısı sayesinde kolay taşınabilir ve kalemliklerde minimum yer kaplar.
+2,5 x 1,5 x 1 cm ölçülerindeki kompakt yapısı sayesinde kalem kutularında, okul çantalarında ve kırtasiye setlerinde minimum yer kaplar.
 
-Dayanıklı plastik gövdesi ve keskin metal bıçağı ile kurşun kalemleri kolayca açar ve uzun süreli kullanım sunar.
+Özellikle kurşun kalem, silgi, cetvel ve benzeri kırtasiye ürünleriyle birlikte hazırlanan öğrenci ve eğitim setlerinde tamamlayıcı ürün olarak kullanılabilir.
 
-Farklı renk seçenekleri ile dikkat çeken bu model, özellikle öğrenci ve eğitim odaklı promosyonlarda tamamlayıcı ürün olarak kullanılmaktadır.
+MİNİK VE KOMPAKT TASARIM
 
-Ürün üzerine baskı alanı sınırlı olduğu için genellikle promosyon setleri içerisinde tercih edilmekte olup, marka tanıtımı set içerisindeki diğer ürünler üzerinden sağlanmaktadır.
+KT-360 kalemtıraşın en önemli özelliklerinden biri küçük boyutudur.
 
-Ekonomik fiyat avantajı sayesinde yüksek adetli siparişlerde maliyet açısından avantaj sağlar ve geniş kitlelere ulaşmanıza yardımcı olur.
+2,5 x 1,5 x 1 cm ölçüsü sayesinde kolay taşınabilir ve günlük kullanım sırasında fazla yer kaplamaz.
+
+Kompakt tasarımı ürünü özellikle yüksek adetli öğrenci setleri, sınav setleri ve kırtasiye paketleri için kullanışlı bir seçenek haline getirir.
+
+PLASTİK GÖVDE
+
+KT-360 plastik gövde yapısına sahiptir.
+
+Hafif gövdesi sayesinde öğrenciler tarafından kolaylıkla taşınabilir ve kalemlik içerisinde rahatlıkla muhafaza edilebilir.
+
+Farklı renk seçenekleri ürüne canlı ve dikkat çekici bir görünüm kazandırır.
+
+METAL BIÇAK
+
+Kalemtıraş üzerinde standart kurşun kalemleri açmak için metal bıçak bulunmaktadır.
+
+Tek delikli yapısı sayesinde günlük kullanılan standart kurşun kalemlerin açılmasında kullanılabilir.
+
+Basit ve pratik tasarımı, öğrencilerin temel kırtasiye ihtiyaçlarını karşılamak için uygun bir kullanım sunar.
+
+RENK SEÇENEKLERİ
+
+KT-360 farklı renk alternatifleri ile sunulmaktadır.
+
+• Beyaz
+• Yeşil
+• Sarı
+• Kırmızı
+• Siyah
+
+Renk seçenekleri güncel stok durumuna göre değişiklik gösterebilir.
+
+PROMOSYON KALEMTIRAŞ KT-360 NEDEN TERCİH EDİLİR?
+
+Kalemtıraş, öğrencilerin günlük olarak ihtiyaç duyduğu temel kırtasiye ürünlerinden biridir.
+
+KT-360'ın küçük ve ekonomik yapısı, özellikle çok sayıda kişiye ürün dağıtılması gereken eğitim ve promosyon çalışmalarında avantaj sağlar.
+
+Tek başına toplu dağıtım ürünü olarak kullanılabileceği gibi farklı kırtasiye malzemeleriyle oluşturulan setlerin içerisinde de değerlendirilebilir.
+
+Okullar, eğitim kurumları, kurs merkezleri, belediyeler ve öğrencilere yönelik etkinlik düzenleyen kurumlar için pratik bir kırtasiye seçeneğidir.
+
+NEDEN KT-360?
+
+• 2,5 x 1,5 x 1 cm kompakt ölçü
+• Minik ve hafif tasarım
+• Plastik gövde
+• Metal bıçak
+• Tek delikli kullanım
+• Farklı renk seçenekleri
+• Kolay taşınabilir yapı
+• Kalemliklerde az yer kaplar
+• Öğrenci kullanımına uygundur
+• Okul dağıtımlarında kullanılabilir
+• Eğitim kampanyalarına uygundur
+• Kırtasiye setlerine eklenebilir
+• Sınav setlerinde kullanılabilir
+• Yüksek adetli dağıtımlara uygundur
+• Ekonomik kırtasiye alternatifidir
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi:
-- Kalemtıraş
+Ürün Tipi: Promosyon Kalemtıraş
+Model: KT-360
+Kategori: Kırtasiye Ürünleri
+Ölçü: 2,5 x 1,5 x 1 cm
+Gövde: Plastik
+Bıçak: Metal
+Kalemtıraş Tipi: Tek Delikli
+Tasarım: Minik / Kompakt
+Kullanım: Kurşun Kalem
+Renkler: Beyaz / Yeşil / Sarı / Kırmızı / Siyah
+Kullanım Alanı: Okul / Eğitim / Kırtasiye / Promosyon Setleri
 
-Ölçü:
-- 2,5 x 1,5 x 1 cm
+PROMOSYON SETLERİNDE KULLANIM
 
-Özellikler:
-- Dayanıklı plastik gövde
-- Keskin metal bıçak
-- Kompakt tasarım
+KT-360 kalemtıraş, küçük boyutu nedeniyle kırtasiye ve öğrenci setlerinde tamamlayıcı ürün olarak kullanılabilir.
 
-Renkler:
-- Beyaz
-- Yeşil
-- Sarı
-- Kırmızı
-- Siyah
+Kurşun kalem, silgi, cetvel, not defteri ve benzeri ürünlerle birlikte hazırlanacak setlerin içerisine kolaylıkla yerleştirilebilir.
 
-Baskı:
-- Sınırlı yüzey (genellikle önerilmez)
+Bu özelliği sayesinde okul açılış paketleri, sınav setleri, öğrenci karşılama paketleri ve eğitim projeleri için uygun bir üründür.
 
-NOT
+YÜKSEK ADETLİ DAĞITIMLAR
 
-Ürün görselleri temsili olup renklerde farklılık olabilir.
+Kompakt ve ekonomik kalemtıraş modelleri, çok sayıda öğrenciye veya katılımcıya ürün ulaştırılması gereken organizasyonlarda kullanılabilir.
 
-SİPARİŞ BİLGİSİ
+KT-360 modeli de küçük yapısı sayesinde yüksek adetli toplu sipariş ve dağıtım çalışmaları için değerlendirilebilir.
 
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
+KİMLER İÇİN UYGUN?
 
-Genellikle promosyon setleri içerisinde tercih edilmektedir.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• İlkokullar
+• Ortaokullar
+• Liseler
+• Özel okullar
+• Eğitim kurumları
+• Dershaneler
+• Kurs merkezleri
+• Etüt merkezleri
+• Belediyeler
+• Kamu kurumları
+• Yayınevleri
+• Kırtasiye firmaları
+• Vakıflar
+• Dernekler
+• Eğitim organizasyonları
+• Kurumsal şirketler
+• Sosyal sorumluluk projeleri
 
 KULLANIM ALANLARI
 
-Okul ve eğitim kurumları
-Promosyon setleri
-Toplu dağıtım ürünleri
-Fuar ve etkinlik promosyonları
-Ekonomik promosyon kampanyaları
-`,
+• Okul promosyonları
+• Öğrenci promosyonları
+• Eğitim kampanyaları
+• Kırtasiye setleri
+• Sınav setleri
+• Okul açılış etkinlikleri
+• Öğrenci karşılama paketleri
+• Kurs ve eğitim merkezi dağıtımları
+• Belediye eğitim projeleri
+• Sosyal sorumluluk projeleri
+• Fuar ve etkinlikler
+• Toplu öğrenci hediyeleri
+• Yüksek adetli kırtasiye dağıtımları
+
+PROMOSYON KALEMTIRAŞ FİYATLARI
+
+Promosyon kalemtıraş fiyatları sipariş miktarı, güncel stok durumu ve renk seçeneklerine göre değişiklik gösterebilir.
+
+Yüksek adetli KT-360 kalemtıraş siparişlerinde eğitim kurumları, kurumsal firmalar ve toplu alımlar için özel fiyatlandırma yapılabilir.
+
+Güncel fiyat, minimum sipariş adedi ve stok bilgisi için bizimle iletişime geçebilirsiniz.
+
+SİPARİŞ BİLGİSİ
+
+• Ürün toplu siparişlere uygundur.
+• Minimum sipariş adedi stok durumuna göre belirlenmektedir.
+• Renk seçenekleri stok durumuna göre değişebilir.
+• Sipariş öncesinde güncel stok bilgisi kontrol edilmelidir.
+• Teslim süresi sipariş miktarına göre belirlenmektedir.
+• Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+NOT
+
+Ürün görselleri temsili olup renk tonları ekran, üretim ve stok durumuna bağlı olarak farklılık gösterebilir.
+
+Promosyon kalemtıraş KT-360; 2,5 x 1,5 x 1 cm minik boyutu, renkli plastik gövdesi ve metal bıçaklı yapısı ile okul, eğitim ve kırtasiye setlerinde kullanılabilecek ekonomik bir üründür. Özellikle yüksek adetli toplu dağıtımlar ve öğrenci setleri için pratik bir alternatif sunar.
+`.trim(),
+
+  faq: [
+    {
+      q: "KT-360 kalemtıraşın ölçüsü nedir?",
+      a: "KT-360 kalemtıraş 2,5 x 1,5 x 1 cm ölçülerinde kompakt bir üründür."
+    },
+    {
+      q: "KT-360 kalemtıraş hangi malzemeden üretilmiştir?",
+      a: "KT-360 plastik gövdeye ve kurşun kalemlerin açılmasını sağlayan metal bıçağa sahiptir."
+    },
+    {
+      q: "KT-360 hangi renklerde bulunur?",
+      a: "Ürün beyaz, yeşil, sarı, kırmızı ve siyah renk seçenekleriyle sunulmaktadır. Renklerin stok durumu dönemsel olarak değişebilir."
+    },
+    {
+      q: "KT-360 tek delikli bir kalemtıraş mı?",
+      a: "Evet. KT-360 standart kurşun kalem kullanımına uygun tek delikli bir kalemtıraş modelidir."
+    },
+    {
+      q: "KT-360 okul ve öğrenci kullanımı için uygun mudur?",
+      a: "Evet. Küçük ve hafif yapısı sayesinde öğrencilerin günlük kırtasiye kullanımına uygundur."
+    },
+    {
+      q: "KT-360 promosyon kırtasiye setlerinde kullanılabilir mi?",
+      a: "Evet. Kurşun kalem, silgi, cetvel ve diğer kırtasiye ürünleriyle hazırlanan öğrenci, eğitim ve sınav setlerine eklenebilir."
+    },
+    {
+      q: "KT-360 toplu siparişe uygun mudur?",
+      a: "Evet. Kompakt ve ekonomik yapısı sayesinde özellikle okul, eğitim ve yüksek adetli toplu dağıtımlar için uygundur."
+    },
+    {
+      q: "KT-360 kalemtıraş fiyatı nasıl belirlenir?",
+      a: "Fiyat sipariş miktarı, güncel stok durumu ve talep edilen ürün adedine göre belirlenir. Yüksek adetli alımlarda özel fiyatlandırma yapılabilir."
+    }
+  ]
 },
 {
   id: "p660",
+
   slug: "promosyon-silgi-sg-260-logo-baskili",
 
-  title: "Promosyon Silgi SG-260 | Logo Baskılı Kaliteli Silgi (50x25 mm)",
+  title:
+    "Promosyon Silgi SG-260 | Logo Baskılı Beyaz Silgi (50x25x10 mm)",
 
   category: "Kırtasiye Ürünleri",
+
   image: "/products/promosyon-silgi-sg-260.jpg",
 
   shortDesc:
-    "Promosyon silgi SG-260, geniş baskı alanı ve kaliteli silme özelliği ile kurumsal promosyonlar ve öğrenci dağıtımları için ideal üründür.",
+    "Promosyon silgi SG-260, 50 x 25 x 10 mm ölçüsü, beyaz gövdesi ve logo baskıya uygun geniş yüzeyi ile okul, eğitim ve yüksek adetli kurumsal promosyon çalışmaları için kullanışlı bir kırtasiye ürünüdür.",
 
   longDesc: `
-Promosyon silgi SG-260, geniş yüzey alanı ve yüksek silme performansı ile eğitim ve ofis kullanımı için ideal bir promosyon ürünüdür.
+Promosyon silgi SG-260 modeli, geniş baskı yüzeyi ve kullanışlı ölçüleri ile okul, eğitim ve kurumsal promosyon çalışmalarında tercih edilebilecek kırtasiye ürünlerinden biridir.
 
-50 x 25 x 10 mm ölçülerine sahip olan bu silgi, rahat kullanım sunarken aynı zamanda firmanıza özel logo baskısı için geniş bir alan sağlar.
+50 x 25 x 10 mm ölçülerindeki kompakt yapısı sayesinde öğrencilerin günlük kullanımına uygun olduğu gibi kırtasiye ve sınav setlerinin içerisinde de rahatlıkla kullanılabilir.
 
-Yumuşak yapısı sayesinde kağıda zarar vermeden temiz silme işlemi gerçekleştirir ve iz bırakmadan kullanım sağlar.
+Beyaz ve geniş yüzeyi sayesinde firma, okul, kurum ve organizasyon logolarının uygulanmasına uygun bir promosyon alanı sunar.
 
-Geniş ve düz yüzeyi, logo baskısının net ve dikkat çekici şekilde uygulanmasına imkan tanır, bu da marka görünürlüğünü önemli ölçüde artırır.
+GENİŞ LOGO BASKI ALANI
 
-Özellikle okul, kurs, dershane ve eğitim kurumları tarafından tercih edilen bu ürün, toplu promosyon dağıtımlarında yüksek etki sağlar.
+SG-260 modelinin öne çıkan özelliklerinden biri geniş ve düz yüzey yapısıdır.
 
-Ekonomik fiyat yapısı sayesinde yüksek adetli siparişlerde avantaj sağlar ve geniş kitlelere ulaşmanıza yardımcı olur.
+Silginin beyaz yüzeyi üzerine firma logosu, okul logosu, kurum adı veya farklı kurumsal tasarımlar uygulanabilir.
+
+Bu sayede günlük kullanılan temel bir kırtasiye ürünü aynı zamanda marka ve kurum tanıtımında kullanılabilecek promosyon ürününe dönüştürülebilir.
+
+50 X 25 X 10 MM ÖLÇÜ
+
+SG-260 silgi 50 x 25 x 10 mm ölçülerindedir.
+
+Bu ölçü, silginin elde rahat kullanılmasına ve kalem kutularında kolaylıkla taşınmasına imkan tanır.
+
+Kompakt yapısı sayesinde tek başına dağıtılabileceği gibi farklı kırtasiye ürünleriyle oluşturulan promosyon setlerinin içerisinde de kullanılabilir.
+
+OKUL VE EĞİTİM PROMOSYONLARI
+
+Silgi, öğrencilerin en sık kullandığı temel kırtasiye ürünlerinden biridir.
+
+Bu nedenle SG-260 özellikle okullar, özel eğitim kurumları, kurs merkezleri, dershaneler, belediyeler ve öğrencilere yönelik projeler gerçekleştiren kurumlar için uygun bir promosyon seçeneğidir.
+
+Okul açılış dönemlerinde, eğitim etkinliklerinde ve öğrenci dağıtımlarında yüksek adetlerde kullanılabilir.
+
+PROMOSYON SETLERİ İÇİN UYGUN
+
+SG-260 tek başına kullanılabileceği gibi farklı kırtasiye ürünleriyle birlikte set haline getirilebilir.
+
+Kurşun kalem, kalemtıraş, cetvel, not defteri ve benzeri ürünlerle birlikte öğrenci veya sınav setlerinin içerisinde kullanılabilir.
+
+Bu özelliği sayesinde kurumların farklı bütçelere göre promosyon kırtasiye setleri hazırlamasına imkan tanır.
+
+NEDEN PROMOSYON SİLGİ SG-260?
+
+• 50 x 25 x 10 mm ölçülerindedir
+• Kompakt ve kullanışlı tasarıma sahiptir
+• Beyaz gövdelidir
+• Geniş ve düz baskı yüzeyi bulunur
+• Logo baskısına uygundur
+• Okul promosyonlarında kullanılabilir
+• Öğrenci dağıtımlarına uygundur
+• Eğitim kampanyalarında tercih edilebilir
+• Kırtasiye setlerine eklenebilir
+• Sınav setlerinde kullanılabilir
+• Yüksek adetli siparişlere uygundur
+• Kurumsal tanıtım çalışmalarında kullanılabilir
+• Fuar ve etkinlik dağıtımlarına uygundur
+• Ekonomik promosyon alternatiflerinden biridir
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi:
-- Silgi
+Ürün Tipi: Promosyon Silgi
+Model: SG-260
+Kategori: Kırtasiye Ürünleri
+Ölçü: 50 x 25 x 10 mm
+Renk: Beyaz
+Tasarım: Kompakt / Oval Köşeli
+Baskı Alanı: Geniş Düz Yüzey
+Logo Uygulaması: Uygun
+Kullanım Alanı: Okul / Eğitim / Kırtasiye / Kurumsal Promosyon
 
-Ölçü:
-- 50 x 25 x 10 mm
+LOGO BASKI
 
-Özellikler:
-- Yumuşak ve kaliteli silme
-- Kağıda zarar vermez
-- Geniş baskı alanı
+SG-260 modelinin geniş beyaz yüzeyi kurumsal logo uygulamalarına uygundur.
 
-Baskı:
-- UV Baskı
-- Tampon Baskı
+Firma logosu, okul amblemi, kurum adı veya kampanyaya özel tasarımlar ürün üzerine uygulanabilir.
 
-NOT
+Baskı tekniği, baskı alanı ve uygulanacak tasarım sipariş öncesinde ürün ve logo özelliklerine göre belirlenmektedir.
 
-Ürün görselleri temsili olup baskı detaylarında farklılık olabilir.
+Logo uygulaması sayesinde özellikle yüksek adetli öğrenci dağıtımlarında kurum veya markanın görünürlüğünün artırılması amaçlanabilir.
 
-SİPARİŞ BİLGİSİ
+KİMLER İÇİN UYGUN?
 
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• İlkokullar
+• Ortaokullar
+• Liseler
+• Özel okullar
+• Üniversiteler
+• Eğitim kurumları
+• Dershaneler
+• Kurs merkezleri
+• Etüt merkezleri
+• Belediyeler
+• Kamu kurumları
+• Yayınevleri
+• Kırtasiye firmaları
+• Vakıflar ve dernekler
+• Eğitim organizasyonları
+• Kurumsal şirketler
+• Sosyal sorumluluk projeleri
 
 KULLANIM ALANLARI
 
-Okul ve eğitim kurumları
-Dershane ve kurs merkezleri
-Toplu promosyon dağıtımları
-Fuar ve etkinlik ürünleri
-Marka tanıtım çalışmaları
-`,
+• Okul promosyonları
+• Öğrenci promosyonları
+• Eğitim kampanyaları
+• Kırtasiye promosyon setleri
+• Sınav setleri
+• Okul açılış etkinlikleri
+• Öğrenci karşılama paketleri
+• Kurs ve eğitim merkezi dağıtımları
+• Belediye eğitim projeleri
+• Sosyal sorumluluk projeleri
+• Fuar ve etkinlikler
+• Toplu öğrenci hediyeleri
+• Kurumsal tanıtım çalışmaları
+
+PROMOSYON SİLGİ FİYATLARI
+
+Promosyon silgi fiyatları sipariş miktarı, güncel stok durumu ve uygulanacak logo baskısının özelliklerine göre değişiklik gösterebilir.
+
+Yüksek adetli SG-260 silgi siparişlerinde okullar, eğitim kurumları, kurumsal firmalar ve toplu alımlar için özel fiyatlandırma yapılabilir.
+
+Güncel fiyat, minimum sipariş adedi, baskı ve stok bilgisi için teklif alabilirsiniz.
+
+SİPARİŞ BİLGİSİ
+
+• Ürün kurumsal toplu siparişlere uygundur.
+• Ürün üzerine logo baskısı uygulanabilir.
+• Baskı detayları sipariş öncesinde belirlenmektedir.
+• Minimum sipariş adedi stok durumuna göre belirlenmektedir.
+• Sipariş öncesinde güncel stok bilgisi kontrol edilmelidir.
+• Teslim süresi sipariş miktarı ve baskı işlemine göre belirlenmektedir.
+• Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir.
+• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+
+NOT
+
+Ürün görselleri temsili olup görsel üzerindeki marka ve logolar ürünün baskı uygulamasını göstermek amacıyla kullanılmaktadır. Siparişlerde müşteriye ait logo veya kurumsal tasarım uygulanabilir.
+
+Promosyon silgi SG-260; 50 x 25 x 10 mm ölçüsü, beyaz gövdesi ve geniş logo uygulama yüzeyi ile okul, eğitim ve kurumsal promosyon çalışmalarında kullanılabilecek pratik bir kırtasiye ürünüdür.
+`.trim(),
+
+  faq: [
+    {
+      q: "SG-260 promosyon silginin ölçüsü nedir?",
+      a: "SG-260 silgi 50 x 25 x 10 mm ölçülerindedir."
+    },
+    {
+      q: "SG-260 silgiye logo baskısı yapılabilir mi?",
+      a: "Evet. Ürünün geniş ve düz beyaz yüzeyi firma, okul ve kurum logolarının uygulanmasına uygundur."
+    },
+    {
+      q: "SG-260 üzerine hangi baskı uygulanır?",
+      a: "Uygulanacak baskı tekniği logo, baskı alanı ve sipariş özelliklerine göre teklif aşamasında belirlenmektedir."
+    },
+    {
+      q: "SG-260 okul promosyonları için uygun mudur?",
+      a: "Evet. Öğrencilerin günlük kullandığı temel kırtasiye ürünlerinden biri olması nedeniyle okul ve eğitim promosyonlarında kullanılabilir."
+    },
+    {
+      q: "SG-260 kırtasiye setlerine eklenebilir mi?",
+      a: "Evet. Kurşun kalem, kalemtıraş, cetvel ve diğer kırtasiye ürünleriyle birlikte öğrenci veya sınav setlerinde kullanılabilir."
+    },
+    {
+      q: "SG-260 toplu siparişe uygun mudur?",
+      a: "Evet. Okullar, eğitim kurumları, belediyeler, şirketler ve yüksek adetli promosyon kampanyaları için toplu sipariş verilebilir."
+    },
+    {
+      q: "Görseldeki logo ürünle birlikte mi gelir?",
+      a: "Hayır. Görsel üzerindeki logo baskı uygulamasını göstermek amacıyla örnek olarak yer almaktadır. Siparişlerde müşteriye özel logo veya kurumsal tasarım uygulanabilir."
+    },
+    {
+      q: "SG-260 promosyon silgi fiyatı nasıl belirlenir?",
+      a: "Fiyat; sipariş adedi, güncel stok durumu ve uygulanacak baskının özelliklerine göre belirlenmektedir. Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir."
+    }
+  ]
 },
 {
   id: "p661",
