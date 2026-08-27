@@ -1,4 +1,9 @@
 ﻿import Link from "next/link";
+import { redirect } from "next/navigation";
+import {
+  destroyAdminSession,
+  isAdminAuthenticated,
+} from "@/lib/admin-auth";
 
 export const metadata = {
   title: "FirmaPromosyon Yönetim Paneli",
@@ -19,17 +24,33 @@ const menu = [
   { name: "Ayarlar", href: "/admin/ayarlar" },
 ];
 
-export default function AdminLayout({
+async function logout() {
+  "use server";
+
+  await destroyAdminSession();
+  redirect("/admin-login");
+}
+
+export default async function AdminLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
+  const authenticated = await isAdminAuthenticated();
+
+  if (!authenticated) {
+    redirect("/admin-login");
+  }
+
   return (
     <div className="min-h-screen bg-gray-100 text-gray-900">
       <div className="flex min-h-screen">
         <aside className="w-64 border-r border-gray-200 bg-white">
           <div className="border-b border-gray-200 p-6">
-            <div className="text-xl font-black">FirmaPromosyon</div>
+            <div className="text-xl font-black">
+              FirmaPromosyon
+            </div>
+
             <div className="mt-1 text-xs font-medium text-gray-500">
               Yönetim Paneli
             </div>
@@ -47,13 +68,22 @@ export default function AdminLayout({
             ))}
           </nav>
 
-          <div className="p-4">
+          <div className="space-y-2 p-4">
             <Link
               href="/"
               className="block rounded-xl border border-gray-200 px-4 py-3 text-center text-sm font-semibold hover:bg-gray-50"
             >
               Siteyi Görüntüle
             </Link>
+
+            <form action={logout}>
+              <button
+                type="submit"
+                className="w-full rounded-xl border border-red-200 px-4 py-3 text-sm font-bold text-red-600 transition hover:bg-red-50"
+              >
+                Çıkış Yap
+              </button>
+            </form>
           </div>
         </aside>
 
@@ -63,7 +93,10 @@ export default function AdminLayout({
               <div className="text-sm font-medium text-gray-500">
                 Yönetim Paneli
               </div>
-              <div className="font-bold">FirmaPromosyon</div>
+
+              <div className="font-bold">
+                FirmaPromosyon
+              </div>
             </div>
 
             <div className="rounded-full bg-gray-100 px-4 py-2 text-sm font-semibold">
