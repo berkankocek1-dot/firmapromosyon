@@ -18,9 +18,12 @@ export default function AdminProductsPage() {
           </p>
         </div>
 
-        <button className="rounded-xl bg-black px-5 py-3 text-sm font-bold text-white">
+        <Link
+          href="/admin/urunler/yeni"
+          className="rounded-xl bg-black px-5 py-3 text-center text-sm font-bold text-white"
+        >
           + Yeni Ürün
-        </button>
+        </Link>
       </div>
 
       <div className="mt-8 grid gap-4 md:grid-cols-3">
@@ -171,4 +174,5 @@ export default function AdminProductsPage() {
     </div>
   );
 }
+
 

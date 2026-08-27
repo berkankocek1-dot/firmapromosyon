@@ -1,4 +1,5 @@
 ﻿import Image from "next/image";
+import ProductGallery from "./ProductGallery";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
@@ -234,6 +235,11 @@ export default async function ProductPage({
       ? product.faq
       : [];
 
+  const gallery =
+    Array.isArray(product.gallery)
+      ? product.gallery
+      : [];
+
   const breadcrumbJsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -357,17 +363,11 @@ export default async function ProductPage({
       </nav>
 
       <section className="grid gap-10 md:grid-cols-2 md:items-start">
-        <div className="relative aspect-square w-full overflow-hidden rounded-2xl border bg-white">
-          <Image
-            src={product.image}
-            alt={product.title}
-            fill
-            unoptimized
-            priority
-            sizes="(max-width: 768px) 100vw, 50vw"
-            className="object-contain p-6"
-          />
-        </div>
+        <ProductGallery
+          title={product.title}
+          mainImage={product.image}
+          gallery={gallery}
+        />
 
         <div>
           <h1 className="text-3xl font-extrabold leading-tight">
@@ -570,5 +570,10 @@ export default async function ProductPage({
     </main>
   );
 }
+
+
+
+
+
 
 

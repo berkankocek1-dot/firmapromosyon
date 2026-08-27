@@ -1,12 +1,26 @@
-import type { MetadataRoute } from "next";
-import { products } from "@/data/products";
+﻿import type { MetadataRoute } from "next";
+import { getSupabaseServer } from "@/lib/supabase/server";
+import { categories } from "@/data/categories";
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export const revalidate = 0;
+
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = "https://www.firmapromosyon.com";
+
+  const { data: products, error } = await getSupabaseServer()
+    .from("products")
+    .select("slug, updated_at")
+    .eq("status", "published")
+    .eq("robots_index", true)
+    .order("sort_order", { ascending: true });
+
+  if (error) {
+    throw new Error(`Sitemap ürünleri alınamadı: ${error.message}`);
+  }
 
   const routes: MetadataRoute.Sitemap = [
     {
-      url: `${baseUrl}`,
+      url: baseUrl,
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 1,
@@ -14,7 +28,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     {
       url: `${baseUrl}/urunler`,
       lastModified: new Date(),
-      changeFrequency: "weekly",
+      changeFrequency: "daily",
       priority: 0.9,
     },
     {
@@ -37,7 +51,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  // REHBER SAYFALARI
+  const categoryRoutes: MetadataRoute.Sitemap = categories.map(
+    (category) => ({
+      url: `${baseUrl}/kategori/${category.slug}`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.85,
+    })
+  );
+
   const guideRoutes: MetadataRoute.Sitemap = [
     {
       url: `${baseUrl}/rehber`,
@@ -65,12 +87,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  const productRoutes: MetadataRoute.Sitemap = products.map((p) => ({
-    url: `${baseUrl}/urunler/${p.slug}`,
-    lastModified: new Date(),
-    changeFrequency: "weekly",
-    priority: 0.8,
-  }));
+  const productRoutes: MetadataRoute.Sitemap = (products ?? []).map(
+    (product) => ({
+      url: `${baseUrl}/urunler/${product.slug}`,
+      lastModified: product.updated_at
+        ? new Date(product.updated_at)
+        : new Date(),
+      changeFrequency: "weekly",
+      priority: 0.8,
+    })
+  );
 
-  return [...routes, ...guideRoutes, ...productRoutes];
+  return [
+    ...routes,
+    ...categoryRoutes,
+    ...guideRoutes,
+    ...productRoutes,
+  ];
 }

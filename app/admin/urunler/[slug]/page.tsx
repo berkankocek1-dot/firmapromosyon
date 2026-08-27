@@ -1,10 +1,89 @@
 ﻿import { notFound, redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
 import { getSupabaseServer } from "@/lib/supabase/server";
+import { uploadProductImage } from "@/lib/product-image";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
 };
+
+async function removeGalleryImage(formData: FormData) {
+  "use server";
+
+  const slug = String(formData.get("current_slug") ?? "").trim();
+  const imageUrl = String(
+    formData.get("remove_gallery_url") ?? ""
+  ).trim();
+
+  if (!slug) {
+    throw new Error("Ürün slug bilgisi bulunamadı.");
+  }
+
+  if (!imageUrl) {
+    throw new Error("Silinecek galeri görseli bulunamadı.");
+  }
+
+  const supabase = getSupabaseServer();
+
+  const { data: product, error: fetchError } = await supabase
+    .from("products")
+    .select("gallery")
+    .eq("slug", slug)
+    .single();
+
+  if (fetchError || !product) {
+    throw new Error(
+      `Ürün bilgisi alınamadı: ${fetchError?.message ?? "Ürün bulunamadı."}`
+    );
+  }
+
+  const currentGallery: string[] = Array.isArray(product.gallery)
+    ? product.gallery
+    : [];
+
+  const newGallery = currentGallery.filter(
+    (url: string) => url !== imageUrl
+  );
+
+  const { error: updateError } = await supabase
+    .from("products")
+    .update({
+      gallery: newGallery,
+    })
+    .eq("slug", slug);
+
+  if (updateError) {
+    throw new Error(
+      `Galeri görseli kaldırılamadı: ${updateError.message}`
+    );
+  }
+
+  // Görsel Supabase Storage'dan yüklenmişse fiziksel dosyayı da temizle.
+  try {
+    const marker =
+      "/storage/v1/object/public/product-images/";
+
+    if (imageUrl.includes(marker)) {
+      const storagePath = decodeURIComponent(
+        imageUrl.split(marker)[1]
+      );
+
+      if (storagePath) {
+        await supabase.storage
+          .from("product-images")
+          .remove([storagePath]);
+      }
+    }
+  } catch {
+    // Storage temizliği başarısız olsa bile ürün galerisi bozulmasın.
+  }
+
+  revalidatePath("/admin/urunler");
+  revalidatePath(`/admin/urunler/${slug}`);
+  revalidatePath(`/urunler/${slug}`);
+
+  redirect(`/admin/urunler/${slug}`);
+}
 
 async function updateProduct(formData: FormData) {
   "use server";
@@ -20,7 +99,19 @@ async function updateProduct(formData: FormData) {
   const seoDescription = String(formData.get("seo_description") ?? "").trim();
   const focusKeyword = String(formData.get("focus_keyword") ?? "").trim();
   const canonicalUrl = String(formData.get("canonical_url") ?? "").trim();
-  const image = String(formData.get("image") ?? "").trim();
+  const currentImage = String(formData.get("current_image") ?? "").trim();
+
+  let gallery: string[] = [];
+
+  try {
+    gallery = JSON.parse(
+      String(formData.get("current_gallery") ?? "[]")
+    );
+  } catch {
+    gallery = [];
+  }
+  const imageFile = formData.get("image_file");
+  const galleryFiles = formData.getAll("gallery_files");
   const status = String(formData.get("status") ?? "published");
 
   const robotsIndex = formData.get("robots_index") === "on";
@@ -43,6 +134,19 @@ async function updateProduct(formData: FormData) {
     price = parsedPrice;
   }
 
+  let image = currentImage;
+
+  if (imageFile instanceof File && imageFile.size > 0) {
+    image = await uploadProductImage(imageFile, slug);
+  }
+
+  for (const file of galleryFiles) {
+    if (file instanceof File && file.size > 0) {
+      const uploadedUrl = await uploadProductImage(file, slug);
+      gallery.push(uploadedUrl);
+    }
+  }
+
   const { error } = await getSupabaseServer()
     .from("products")
     .update({
@@ -53,6 +157,7 @@ async function updateProduct(formData: FormData) {
       long_desc: longDesc,
       price,
       image,
+      gallery,
       seo_title: seoTitle || null,
       seo_description: seoDescription || null,
       focus_keyword: focusKeyword || null,
@@ -104,6 +209,19 @@ export default async function AdminProductEditPage({ params }: PageProps) {
 
       <form action={updateProduct}>
         <input type="hidden" name="current_slug" value={product.slug} />
+        <input
+          type="hidden"
+          name="current_image"
+          value={product.image ?? ""}
+        />
+
+        <input
+          type="hidden"
+          name="current_gallery"
+          value={JSON.stringify(
+            Array.isArray(product.gallery) ? product.gallery : []
+          )}
+        />
 
         <div className="grid gap-6 xl:grid-cols-[1fr_340px]">
           <div className="space-y-6">
@@ -154,13 +272,31 @@ export default async function AdminProductEditPage({ params }: PageProps) {
                   </label>
 
                   <label>
-                    <div className="mb-2 text-sm font-bold">Ana Görsel</div>
-                    <input
-                      name="image"
-                      defaultValue={product.image ?? ""}
-                      className="w-full rounded-xl border px-4 py-3"
-                    />
-                  </label>
+  <div className="mb-2 text-sm font-bold">
+    Ana Görsel
+  </div>
+
+  {product.image && (
+    <div className="mb-3 rounded-xl border border-gray-200 bg-gray-50 p-3">
+      <img
+        src={product.image}
+        alt={product.title}
+        className="h-40 w-full object-contain"
+      />
+    </div>
+  )}
+
+  <input
+    type="file"
+    name="image_file"
+    accept="image/jpeg,image/png,image/webp"
+    className="w-full rounded-xl border px-4 py-3"
+  />
+
+  <p className="mt-2 text-xs text-gray-500">
+    Yeni görsel seçmezsen mevcut görsel korunur.
+  </p>
+</label>
                 </div>
 
                 <label>
@@ -182,6 +318,59 @@ export default async function AdminProductEditPage({ params }: PageProps) {
                     className="w-full rounded-xl border px-4 py-3"
                   />
                 </label>
+
+                <div>
+                  <div className="mb-2 text-sm font-bold">
+                    Galeri Görselleri
+                  </div>
+
+                  {Array.isArray(product.gallery) &&
+                    product.gallery.length > 0 && (
+                      <div className="mb-4 grid grid-cols-2 gap-3 md:grid-cols-4">
+                        {product.gallery.map((url: string, index: number) => (
+                          <div
+                            key={`${url}-${index}`}
+                            className="rounded-xl border border-gray-200 bg-gray-50 p-2"
+                          >
+                            <img
+                              src={url}
+                              alt={`${product.title} galeri ${index + 1}`}
+                              className="h-28 w-full object-contain"
+                            />
+
+                            <button
+                              type="submit"
+                              formAction={async () => {
+                                "use server";
+
+                                const data = new FormData();
+                                data.set("current_slug", product.slug);
+                                data.set("remove_gallery_url", url);
+
+                                await removeGalleryImage(data);
+                              }}
+                              className="mt-2 w-full rounded-lg border border-red-200 bg-white px-3 py-2 text-xs font-bold text-red-600 transition hover:bg-red-50"
+                            >
+                              Görseli Sil
+                            </button>
+                          </div>
+                        ))}
+                      </div>
+                    )}
+
+                  <input
+                    type="file"
+                    name="gallery_files"
+                    accept="image/jpeg,image/png,image/webp"
+                    multiple
+                    className="w-full rounded-xl border px-4 py-3"
+                  />
+
+                  <p className="mt-2 text-xs text-gray-500">
+                    Birden fazla görsel seçebilirsin. Yeni görseller mevcut
+                    galerinin sonuna eklenir.
+                  </p>
+                </div>
               </div>
             </section>
 
@@ -304,5 +493,19 @@ export default async function AdminProductEditPage({ params }: PageProps) {
     </div>
   );
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
