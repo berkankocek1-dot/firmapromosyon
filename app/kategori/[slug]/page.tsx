@@ -1,8 +1,8 @@
-﻿import Link from "next/link";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { getSupabaseServer } from "@/lib/supabase/server";
-import { getCategoryBySlug, categories } from "@/data/categories";
+
 import CategoryProductsClient from "./CategoryProductsClient";
 
 const SITE_URL = "https://www.firmapromosyon.com";
@@ -28,18 +28,66 @@ function normalizeCategory(v: string) {
   return v.trim().toLocaleLowerCase("tr-TR");
 }
 
+async function getCategoryBySlugFromDb(slug: string) {
+  const { data, error } = await getSupabaseServer()
+    .from("categories")
+    .select(`
+      id,
+      name,
+      slug,
+      description,
+      seo_title,
+      seo_description,
+      focus_keyword,
+      image,
+      status,
+      sort_order
+    `)
+    .eq("slug", slug)
+    .eq("status", "published")
+    .maybeSingle();
+
+  if (error) {
+    console.error("Kategori alınamadı:", error);
+    return null;
+  }
+
+  return data;
+}
+
+async function getPublishedCategories() {
+  const { data, error } = await getSupabaseServer()
+    .from("categories")
+    .select(`
+      id,
+      name,
+      slug,
+      status,
+      sort_order
+    `)
+    .eq("status", "published")
+    .order("sort_order", { ascending: true });
+
+  if (error) {
+    console.error("Kategori listesi alınamadı:", error);
+    return [];
+  }
+
+  return data ?? [];
+}
+
 function getCategoryDescription(name: string, count: number) {
-  return `${name} kategorisinde yer alan ${count} farklÄ± Ã¼rÃ¼nÃ¼ inceleyebilir, firmanÄ±za uygun logo baskÄ±lÄ± kurumsal promosyon seÃ§enekleri iÃ§in hÄ±zlÄ± teklif alabilirsiniz. Toplu alÄ±m, Ã¶zel baskÄ± ve kurumsal Ã§Ã¶zÃ¼mler iÃ§in kategori detaylarÄ±nÄ± inceleyin.`;
+  return `${name} kategorisinde yer alan ${count} farklı ürünü inceleyebilir, firmanıza uygun logo baskılı kurumsal promosyon seçenekleri için hızlı teklif alabilirsiniz. Toplu alım, özel baskı ve kurumsal çözümler için kategori detaylarını inceleyin.`;
 }
 
 function getCategorySeoContent(name: string) {
   return {
-    title: `${name} Modelleri ve Logo BaskÄ±lÄ± Kurumsal Ã‡Ã¶zÃ¼mler`,
-    intro: `${name} kategorisi, kurumsal tanÄ±tÄ±m Ã§alÄ±ÅŸmalarÄ±, fuar daÄŸÄ±tÄ±mlarÄ±, etkinlik organizasyonlarÄ± ve toplu promosyon ihtiyaÃ§larÄ± iÃ§in tercih edilen Ã¼rÃ¼nleri bir araya getirir. Firma logonuza uygun baskÄ± Ã§Ã¶zÃ¼mleri ile markanÄ±zÄ± gÃ¶rÃ¼nÃ¼r kÄ±labilir, hedef kitlenize uzun sÃ¼re kullanÄ±lacak promosyon Ã¼rÃ¼nleri sunabilirsiniz.`,
-    body1: `${name} Ã¼rÃ¼nleri seÃ§ilirken Ã¼rÃ¼n kalitesi, baskÄ± uygunluÄŸu, kullanÄ±m alanÄ± ve hedef kitle uyumu bÃ¼yÃ¼k Ã¶nem taÅŸÄ±r. DoÄŸru promosyon Ã¼rÃ¼nÃ¼ seÃ§imi, yalnÄ±zca daÄŸÄ±tÄ±m yapmak iÃ§in deÄŸil, markanÄ±zÄ±n akÄ±lda kalÄ±cÄ±lÄ±ÄŸÄ±nÄ± artÄ±rmak iÃ§in de Ã¶nemlidir.`,
+    title: `${name} Modelleri ve Logo Baskılı Kurumsal Çözümler`,
+    intro: `${name} kategorisi, kurumsal tanıtım çalışmaları, fuar dağıtımları, etkinlik organizasyonları ve toplu promosyon ihtiyaçları için tercih edilen ürünleri bir araya getirir. Firma logonuza uygun baskı çözümleri ile markanızı görünür kılabilir, hedef kitlenize uzun süre kullanılacak promosyon ürünleri sunabilirsiniz.`,
+    body1: `${name} ürünleri seçilirken ürün kalitesi, baskı uygunluğu, kullanım alanı ve hedef kitle uyumu büyük önem taşır. Doğru promosyon ürünü seçimi, yalnızca dağıtım yapmak için değil, markanızın akılda kalıcılığını artırmak için de önemlidir.`,
     body2: `FirmaPromosyon olarak ${name.toLocaleLowerCase(
       "tr-TR"
-    )} kategorisinde hem ekonomik hem de premium seÃ§enekler sunuyoruz. Toplu sipariÅŸ, logo baskÄ±, kurumsal teklif ve Ã¼retim sÃ¼reÃ§leri iÃ§in bizimle iletiÅŸime geÃ§ebilir, firmanÄ±za en uygun modeli hÄ±zlÄ± ÅŸekilde belirleyebilirsiniz.`,
+    )} kategorisinde hem ekonomik hem de premium seçenekler sunuyoruz. Toplu sipariş, logo baskı, kurumsal teklif ve üretim süreçleri için bizimle iletişime geçebilir, firmanıza en uygun modeli hızlı şekilde belirleyebilirsiniz.`,
   };
 }
 
@@ -50,34 +98,34 @@ function getFaqItems(categoryName: string, pageUrl: string) {
     mainEntity: [
       {
         "@type": "Question",
-        name: `${categoryName} Ã¼rÃ¼nlerine logo baskÄ± yapÄ±labiliyor mu?`,
+        name: `${categoryName} ürünlerine logo baskı yapılabiliyor mu?`,
         acceptedAnswer: {
           "@type": "Answer",
-          text: `Evet. ${categoryName} kategorisindeki birÃ§ok Ã¼rÃ¼n Ã¼zerine logo baskÄ± uygulanabilmektedir. BaskÄ± yÃ¶ntemi Ã¼rÃ¼n modeline gÃ¶re deÄŸiÅŸebilir.`,
+          text: `Evet. ${categoryName} kategorisindeki birçok ürün üzerine logo baskı uygulanabilmektedir. Baskı yöntemi ürün modeline göre değişebilir.`,
         },
       },
       {
         "@type": "Question",
-        name: `${categoryName} Ã¼rÃ¼nleri toplu sipariÅŸe uygun mu?`,
+        name: `${categoryName} ürünleri toplu siparişe uygun mu?`,
         acceptedAnswer: {
           "@type": "Answer",
-          text: `Evet. ${categoryName} Ã¼rÃ¼nleri kurumsal toplu sipariÅŸler iÃ§in uygundur. Minimum sipariÅŸ adedi Ã¼rÃ¼n modeline gÃ¶re deÄŸiÅŸebilir.`,
+          text: `Evet. ${categoryName} ürünleri kurumsal toplu siparişler için uygundur. Minimum sipariş adedi ürün modeline göre değişebilir.`,
         },
       },
       {
         "@type": "Question",
-        name: `${categoryName} fiyat teklifi nasÄ±l alÄ±nÄ±r?`,
+        name: `${categoryName} fiyat teklifi nasıl alınır?`,
         acceptedAnswer: {
           "@type": "Answer",
-          text: `Bu kategori sayfasÄ±ndaki Ã¼rÃ¼nleri inceleyerek WhatsApp Ã¼zerinden hÄ±zlÄ± fiyat teklifi alabilirsiniz.`,
+          text: `Bu kategori sayfasındaki ürünleri inceleyerek WhatsApp üzerinden hızlı fiyat teklifi alabilirsiniz.`,
         },
       },
       {
         "@type": "Question",
-        name: `${categoryName} sayfasÄ±ndaki Ã¼rÃ¼nler gÃ¼ncel mi?`,
+        name: `${categoryName} sayfasındaki ürünler güncel mi?`,
         acceptedAnswer: {
           "@type": "Answer",
-          text: `Kategori sayfamÄ±z dÃ¼zenli olarak gÃ¼ncellenmektedir. GÃ¼ncel Ã¼rÃ¼n, baskÄ± seÃ§eneÄŸi ve stok bilgisi iÃ§in bizimle iletiÅŸime geÃ§ebilirsiniz.`,
+          text: `Kategori sayfamız düzenli olarak güncellenmektedir. Güncel ürün, baskı seçeneği ve stok bilgisi için bizimle iletişime geçebilirsiniz.`,
         },
       },
     ],
@@ -87,32 +135,28 @@ function getFaqItems(categoryName: string, pageUrl: string) {
 
 function getCategoryWhatsAppUrl(categoryName: string) {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(
-    `${categoryName} kategorisindeki Ã¼rÃ¼nler iÃ§in kurumsal fiyat teklifi almak istiyorum.`
+    `${categoryName} kategorisindeki ürünler için kurumsal fiyat teklifi almak istiyorum.`
   )}`;
-}
-
-export async function generateStaticParams() {
-  return categories.map((c) => ({ slug: c.slug }));
 }
 
 export async function generateMetadata({
   params,
 }: PageProps): Promise<Metadata> {
   const { slug } = await params;
-  const cat = getCategoryBySlug(slug);
+  const cat = await getCategoryBySlugFromDb(slug);
 
   if (!cat) {
     return {
-      title: "Kategori bulunamadÄ±",
+      title: "Kategori bulunamadı",
       robots: { index: false, follow: false },
     };
   }
 
   const canonical = `${SITE_URL}/kategori/${cat.slug}`;
-  const title = cat.seoTitle || `${cat.name} | FirmaPromosyon`;
+  const title = cat.seo_title || `${cat.name} | FirmaPromosyon`;
   const description =
-    cat.seoDescription ||
-    `${cat.name} Ã¼rÃ¼nleri, logo baskÄ±lÄ± kurumsal promosyon ve toplu alÄ±m Ã§Ã¶zÃ¼mleri iÃ§in hÄ±zlÄ± teklif alÄ±n.`;
+    cat.seo_description ||
+    `${cat.name} ürünleri, logo baskılı kurumsal promosyon ve toplu alım çözümleri için hızlı teklif alın.`;
 
   return {
     title,
@@ -156,8 +200,9 @@ export async function generateMetadata({
 
 export default async function CategoryPage({ params }: PageProps) {
   const { slug } = await params;
-  const cat = getCategoryBySlug(slug);
+  const cat = await getCategoryBySlugFromDb(slug);
   if (!cat) return notFound();
+  const categories = await getPublishedCategories();
 
   const { data: productRows, error: productsError } = await getSupabaseServer()
     .from("products")
@@ -201,7 +246,7 @@ export default async function CategoryPage({ params }: PageProps) {
       {
         "@type": "ListItem",
         position: 2,
-        name: "ÃœrÃ¼nler",
+        name: "Ürünler",
         item: `${SITE_URL}/urunler`,
       },
       { "@type": "ListItem", position: 3, name: cat.name, item: pageUrl },
@@ -218,11 +263,11 @@ export default async function CategoryPage({ params }: PageProps) {
   const collectionJsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    name: cat.seoTitle || `${cat.name} | FirmaPromosyon`,
+    name: cat.seo_title || `${cat.name} | FirmaPromosyon`,
     url: pageUrl,
     description:
-      cat.seoDescription ||
-      `${cat.name} Ã¼rÃ¼nleri: kurumsal promosyon, toplu alÄ±m ve logo baskÄ± iÃ§in hÄ±zlÄ± teklif alÄ±n.`,
+      cat.seo_description ||
+      `${cat.name} ürünleri: kurumsal promosyon, toplu alım ve logo baskı için hızlı teklif alın.`,
     mainEntity: {
       "@type": "ItemList",
       numberOfItems: filtered.length,
@@ -246,27 +291,49 @@ export default async function CategoryPage({ params }: PageProps) {
           </Link>
           <span className="px-2">/</span>
           <Link className="hover:text-white hover:underline" href="/urunler">
-            ÃœrÃ¼nler
+            Ürünler
           </Link>
           <span className="px-2">/</span>
           <span className="font-semibold text-white">{cat.name}</span>
         </nav>
 
-        <section className="mb-8 rounded-3xl border border-white/10 bg-white/5 p-6 md:p-8">
-          <div className="flex flex-col gap-5 md:flex-row md:items-end md:justify-between">
-            <div className="max-w-3xl">
+        <section className="mb-8 overflow-hidden rounded-3xl border border-white/10 bg-white/5">
+          <div
+            className={`grid gap-6 p-6 md:p-8 ${
+              cat.image
+                ? "lg:grid-cols-[1fr_300px_240px] lg:items-center"
+                : "md:grid-cols-[1fr_240px] md:items-end"
+            }`}
+          >
+            <div className="min-w-0">
               <h1 className="text-3xl font-extrabold text-white md:text-5xl">
                 {cat.name}
               </h1>
-              <p className="mt-3 text-base leading-7 text-white/80 md:text-lg">
-                {cat.seoDescription ||
+
+              <p className="mt-3 max-w-3xl text-base leading-7 text-white/80 md:text-lg">
+                {cat.seo_description ||
                   getCategoryDescription(cat.name, filtered.length)}
               </p>
             </div>
 
-            <div className="flex flex-col gap-3 md:min-w-[240px]">
+            {cat.image && (
+              <div className="flex items-center justify-center">
+                <div className="w-full overflow-hidden rounded-2xl border border-white/10 bg-white">
+                  <img
+                    src={cat.image}
+                    alt={`${cat.name} kategori görseli`}
+                    className="h-56 w-full object-contain p-4"
+                  />
+                </div>
+              </div>
+            )}
+
+            <div className="flex flex-col gap-3">
               <div className="rounded-2xl border border-white/10 bg-black/30 p-4">
-                <div className="text-sm text-white/60">Kategori ÃœrÃ¼n SayÄ±sÄ±</div>
+                <div className="text-sm text-white/60">
+                  Kategori Ürün Sayısı
+                </div>
+
                 <div className="mt-1 text-3xl font-bold text-white">
                   {filtered.length}
                 </div>
@@ -290,7 +357,7 @@ export default async function CategoryPage({ params }: PageProps) {
               href="/urunler"
               className="whitespace-nowrap rounded-full border border-white/20 bg-white/10 px-4 py-2 text-sm font-semibold text-white transition hover:bg-white/15"
             >
-              TÃ¼m ÃœrÃ¼nler
+              Tüm Ürünler
             </Link>
 
             {categories.map((c) => {
@@ -316,14 +383,14 @@ export default async function CategoryPage({ params }: PageProps) {
         {filtered.length === 0 ? (
           <div className="rounded-2xl border border-white/10 bg-white/5 p-8 text-center">
             <p className="text-white/80">
-              Bu kategoride henÃ¼z Ã¼rÃ¼n yok. YakÄ±nda eklenecek.
+              Bu kategoride henüz ürün yok. Yakında eklenecek.
             </p>
             <div className="mt-4">
               <Link
                 href="/urunler"
                 className="inline-flex rounded-xl bg-white px-5 py-3 font-semibold text-black hover:opacity-90"
               >
-                TÃ¼m Ã¼rÃ¼nleri gÃ¶r
+                Tüm ürünleri gör
               </Link>
             </div>
           </div>
@@ -348,7 +415,7 @@ export default async function CategoryPage({ params }: PageProps) {
               {featuredProducts.length > 0 && (
                 <div className="mt-8">
                   <h3 className="text-xl font-semibold text-white">
-                    Ã–ne Ã‡Ä±kan {cat.name} ÃœrÃ¼nleri
+                    Öne Çıkan {cat.name} Ürünleri
                   </h3>
 
                   <div className="mt-4 flex flex-wrap gap-3">
@@ -370,7 +437,7 @@ export default async function CategoryPage({ params }: PageProps) {
                   href="/urunler"
                   className="inline-flex rounded-xl border border-white/15 bg-white/10 px-5 py-3 font-semibold text-white transition hover:bg-white/15"
                 >
-                  TÃ¼m ÃœrÃ¼nleri Ä°ncele
+                  Tüm Ürünleri İncele
                 </Link>
                 <Link
                   href={whatsappUrl}
@@ -378,56 +445,56 @@ export default async function CategoryPage({ params }: PageProps) {
                   rel="noopener noreferrer"
                   className="inline-flex rounded-xl bg-white px-5 py-3 font-semibold text-black transition hover:opacity-90"
                 >
-                  Bu Kategori Ä°Ã§in Teklif Al
+                  Bu Kategori İçin Teklif Al
                 </Link>
               </div>
             </section>
 
             <section className="mt-10 rounded-3xl border border-white/10 bg-white/5 p-6 md:p-8">
               <h2 className="text-2xl font-bold text-white md:text-3xl">
-                SÄ±k Sorulan Sorular
+                Sık Sorulan Sorular
               </h2>
 
               <div className="mt-6 grid gap-4 md:grid-cols-2">
                 <div className="rounded-2xl border border-white/10 bg-black/20 p-5">
                   <h3 className="font-semibold text-white">
-                    {cat.name} Ã¼rÃ¼nlerine baskÄ± yapÄ±lÄ±r mÄ±?
+                    {cat.name} ürünlerine baskı yapılır mı?
                   </h3>
                   <p className="mt-2 text-sm leading-6 text-white/75">
-                    Evet. ÃœrÃ¼n modeline gÃ¶re lazer baskÄ±, UV baskÄ±, serigrafi,
-                    tampon baskÄ± veya farklÄ± baskÄ± teknikleri uygulanabilir.
+                    Evet. Ürün modeline göre lazer baskı, UV baskı, serigrafi,
+                    tampon baskı veya farklı baskı teknikleri uygulanabilir.
                   </p>
                 </div>
 
                 <div className="rounded-2xl border border-white/10 bg-black/20 p-5">
                   <h3 className="font-semibold text-white">
-                    Minimum sipariÅŸ adedi var mÄ±?
+                    Minimum sipariş adedi var mı?
                   </h3>
                   <p className="mt-2 text-sm leading-6 text-white/75">
-                    Minimum sipariÅŸ adedi Ã¼rÃ¼n modeline gÃ¶re deÄŸiÅŸebilir. Toplu
-                    alÄ±m ve Ã¼retim detaylarÄ± iÃ§in teklif alabilirsiniz.
+                    Minimum sipariş adedi ürün modeline göre değişebilir. Toplu
+                    alım ve üretim detayları için teklif alabilirsiniz.
                   </p>
                 </div>
 
                 <div className="rounded-2xl border border-white/10 bg-black/20 p-5">
                   <h3 className="font-semibold text-white">
-                    Kurumsal teklif sÃ¼reci nasÄ±l ilerliyor?
+                    Kurumsal teklif süreci nasıl ilerliyor?
                   </h3>
                   <p className="mt-2 text-sm leading-6 text-white/75">
-                    ÃœrÃ¼n seÃ§iminizi yaptÄ±ktan sonra adet, baskÄ± talebi ve teslim
-                    detaylarÄ±nÄ± ileterek WhatsApp Ã¼zerinden hÄ±zlÄ± fiyat teklifi
+                    Ürün seçiminizi yaptıktan sonra adet, baskı talebi ve teslim
+                    detaylarını ileterek WhatsApp üzerinden hızlı fiyat teklifi
                     alabilirsiniz.
                   </p>
                 </div>
 
                 <div className="rounded-2xl border border-white/10 bg-black/20 p-5">
                   <h3 className="font-semibold text-white">
-                    ÃœrÃ¼nler gÃ¼ncel mi?
+                    Ürünler güncel mi?
                   </h3>
                   <p className="mt-2 text-sm leading-6 text-white/75">
-                    Kategori iÃ§erikleri dÃ¼zenli olarak gÃ¼ncellenmektedir. GÃ¼ncel
-                    stok, renk ve Ã¼retim bilgisi iÃ§in bizimle iletiÅŸime
-                    geÃ§ebilirsiniz.
+                    Kategori içerikleri düzenli olarak güncellenmektedir. Güncel
+                    stok, renk ve üretim bilgisi için bizimle iletişime
+                    geçebilirsiniz.
                   </p>
                 </div>
               </div>
@@ -438,6 +505,18 @@ export default async function CategoryPage({ params }: PageProps) {
     </main>
   );
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

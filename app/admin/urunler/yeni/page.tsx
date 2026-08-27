@@ -1,4 +1,4 @@
-﻿import { redirect } from "next/navigation";
+import { redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
 import crypto from "crypto";
 
@@ -204,7 +204,23 @@ async function createProduct(formData: FormData) {
   redirect(`/admin/urunler/${slug}`);
 }
 
-export default function NewProductPage() {
+export default async function NewProductPage() {
+  const { data: categoryRows, error: categoryError } =
+    await getSupabaseServer()
+      .from("categories")
+      .select("name, slug, sort_order, status")
+      .eq("status", "published")
+      .order("sort_order", { ascending: true })
+      .order("name", { ascending: true });
+
+  if (categoryError) {
+    throw new Error(
+      `Kategoriler y?klenemedi: ${categoryError.message}`
+    );
+  }
+
+  const categories = categoryRows ?? [];
+
   return (
     <div className="mx-auto max-w-6xl">
       <div className="mb-8">
@@ -529,6 +545,7 @@ export default function NewProductPage() {
     </div>
   );
 }
+
 
 
 

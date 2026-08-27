@@ -1,7 +1,10 @@
-﻿import { notFound, redirect } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
 import { getSupabaseServer } from "@/lib/supabase/server";
 import { uploadProductImage } from "@/lib/product-image";
+import FAQEditor from "./FAQEditor";
+import DeleteProductButton from "./DeleteProductButton";
+import { isAdminAuthenticated } from "@/lib/admin-auth";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -85,6 +88,91 @@ async function removeGalleryImage(formData: FormData) {
   redirect(`/admin/urunler/${slug}`);
 }
 
+async function deleteProduct(formData: FormData) {
+  "use server";
+
+  if (!(await isAdminAuthenticated())) {
+    redirect("/admin-login");
+  }
+
+  const slug = String(
+    formData.get("delete_slug") ?? ""
+  ).trim();
+
+  if (!slug) {
+    throw new Error("Silinecek ürün bulunamadı.");
+  }
+
+  const supabase = getSupabaseServer();
+
+  const { data: product, error: fetchError } =
+    await supabase
+      .from("products")
+      .select("id, image, gallery, category")
+      .eq("slug", slug)
+      .single();
+
+  if (fetchError || !product) {
+    throw new Error(
+      `Ürün bulunamadı: ${
+        fetchError?.message ?? "Bilinmeyen hata"
+      }`
+    );
+  }
+
+  const storageUrls: string[] = [];
+
+  if (product.image) {
+    storageUrls.push(product.image);
+  }
+
+  if (Array.isArray(product.gallery)) {
+    storageUrls.push(...product.gallery);
+  }
+
+  const { error: deleteError } = await supabase
+    .from("products")
+    .delete()
+    .eq("slug", slug);
+
+  if (deleteError) {
+    throw new Error(
+      `Ürün silinemedi: ${deleteError.message}`
+    );
+  }
+
+  // Supabase Storage içindeki ilgili görselleri de temizlemeye çalış.
+  const marker =
+    "/storage/v1/object/public/product-images/";
+
+  const storagePaths = storageUrls
+    .filter((url) => url.includes(marker))
+    .map((url) =>
+      decodeURIComponent(url.split(marker)[1])
+    )
+    .filter(Boolean);
+
+  if (storagePaths.length > 0) {
+    try {
+      await supabase.storage
+        .from("product-images")
+        .remove(storagePaths);
+    } catch {
+      // Storage temizlenemese bile ürün veritabanından silinmiş olur.
+    }
+  }
+
+  revalidatePath("/admin");
+  revalidatePath("/admin/urunler");
+
+  revalidatePath("/urunler");
+  revalidatePath(`/urunler/${slug}`);
+
+  revalidatePath("/sitemap.xml");
+
+  redirect("/admin/urunler");
+}
+
 async function updateProduct(formData: FormData) {
   "use server";
 
@@ -112,6 +200,21 @@ async function updateProduct(formData: FormData) {
   }
   const imageFile = formData.get("image_file");
   const galleryFiles = formData.getAll("gallery_files");
+
+  const faqQuestions = formData
+    .getAll("faq_q")
+    .map((value) => String(value).trim());
+
+  const faqAnswers = formData
+    .getAll("faq_a")
+    .map((value) => String(value).trim());
+
+  const faq = faqQuestions
+    .map((q, index) => ({
+      q,
+      a: faqAnswers[index] ?? "",
+    }))
+    .filter((item) => item.q && item.a);
   const status = String(formData.get("status") ?? "published");
 
   const robotsIndex = formData.get("robots_index") === "on";
@@ -158,6 +261,7 @@ async function updateProduct(formData: FormData) {
       price,
       image,
       gallery,
+      faq,
       seo_title: seoTitle || null,
       seo_description: seoDescription || null,
       focus_keyword: focusKeyword || null,
@@ -194,6 +298,26 @@ export default async function AdminProductEditPage({ params }: PageProps) {
     .single();
 
   if (error || !product) notFound();
+
+  const { data: categoryRows, error: categoryError } =
+    await getSupabaseServer()
+      .from("categories")
+      .select("name, slug, sort_order, status")
+      .eq("status", "published")
+      .order("sort_order", { ascending: true })
+      .order("name", { ascending: true });
+
+  if (categoryError) {
+    throw new Error(
+      `Kategoriler y?klenemedi: ${categoryError.message}`
+    );
+  }
+
+  const categories = categoryRows ?? [];
+
+  const currentCategoryExists = categories.some(
+    (category) => category.name === product.category
+  );
 
   return (
     <div className="mx-auto max-w-6xl">
@@ -251,13 +375,31 @@ export default async function AdminProductEditPage({ params }: PageProps) {
                   </label>
 
                   <label>
-                    <div className="mb-2 text-sm font-bold">Kategori</div>
-                    <input
+                    <div className="mb-2 text-sm font-bold">
+                      Kategori
+                    </div>
+
+                    <select
                       name="category"
                       defaultValue={product.category}
                       required
                       className="w-full rounded-xl border px-4 py-3"
-                    />
+                    >
+                      {!currentCategoryExists && product.category && (
+                        <option value={product.category}>
+                          {product.category} (Mevcut)
+                        </option>
+                      )}
+
+                      {categories.map((category) => (
+                        <option
+                          key={category.slug}
+                          value={category.name}
+                        >
+                          {category.name}
+                        </option>
+                      ))}
+                    </select>
                   </label>
                 </div>
 
@@ -373,6 +515,14 @@ export default async function AdminProductEditPage({ params }: PageProps) {
                 </div>
               </div>
             </section>
+
+            <FAQEditor
+              initialFaq={
+                Array.isArray(product.faq)
+                  ? product.faq
+                  : []
+              }
+            />
 
             <section className="rounded-2xl border bg-white p-6">
               <h2 className="text-xl font-bold">SEO Ayarları</h2>
@@ -490,9 +640,37 @@ export default async function AdminProductEditPage({ params }: PageProps) {
           </aside>
         </div>
       </form>
+
+      <section className="mt-8 rounded-2xl border border-red-200 bg-red-50 p-6">
+        <div className="max-w-xl">
+          <h2 className="text-xl font-bold text-red-800">
+            Tehlikeli İşlemler
+          </h2>
+
+          <p className="mt-2 text-sm leading-6 text-red-700">
+            Bu ürünü silerseniz ürün veritabanından kaldırılır,
+            ürün sayfası yayından çıkar ve ilgili Supabase Storage
+            görselleri de temizlenmeye çalışılır. Bu işlem geri alınamaz.
+          </p>
+
+          <div className="mt-5">
+            <DeleteProductButton
+              slug={product.slug}
+              deleteAction={deleteProduct}
+            />
+          </div>
+        </div>
+      </section>
     </div>
   );
 }
+
+
+
+
+
+
+
 
 
 
