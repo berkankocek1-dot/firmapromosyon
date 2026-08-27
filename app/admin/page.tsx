@@ -1,6 +1,6 @@
 ﻿import Image from "next/image";
 import Link from "next/link";
-import { supabaseServer } from "@/lib/supabase/server";
+import { getSupabaseServer } from "@/lib/supabase/server";
 
 export const dynamic = "force-dynamic";
 
@@ -21,7 +21,7 @@ type ProductRow = {
 };
 
 export default async function AdminProductsPage() {
-  const { data: products, error } = await supabaseServer
+  const { data: products, error } = await getSupabaseServer()
     .from("products")
     .select(
       `
@@ -276,3 +276,4 @@ export default async function AdminProductsPage() {
     </div>
   );
 }
+

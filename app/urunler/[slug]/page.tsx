@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { supabaseServer } from "@/lib/supabase/server";
+import { getSupabaseServer } from "@/lib/supabase/server";
 import { categories } from "@/data/categories";
 
 const SITE_URL = "https://www.firmapromosyon.com";
@@ -85,7 +85,7 @@ function getCategoryHref(categoryName: string) {
 }
 
 async function getProductBySlug(slug: string) {
-  const { data, error } = await supabaseServer
+  const { data, error } = await getSupabaseServer()
     .from("products")
     .select("*")
     .eq("slug", slug)
@@ -104,7 +104,7 @@ async function getRelatedProducts(
   category: string,
   currentSlug: string
 ) {
-  const { data, error } = await supabaseServer
+  const { data, error } = await getSupabaseServer()
     .from("products")
     .select("id, slug, title, image, price, category")
     .eq("category", category)
@@ -570,3 +570,5 @@ export default async function ProductPage({
     </main>
   );
 }
+
+

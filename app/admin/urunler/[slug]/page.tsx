@@ -1,6 +1,6 @@
 ﻿import { notFound, redirect } from "next/navigation";
 import { revalidatePath } from "next/cache";
-import { supabaseServer } from "@/lib/supabase/server";
+import { getSupabaseServer } from "@/lib/supabase/server";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -43,7 +43,7 @@ async function updateProduct(formData: FormData) {
     price = parsedPrice;
   }
 
-  const { error } = await supabaseServer
+  const { error } = await getSupabaseServer()
     .from("products")
     .update({
       slug,
@@ -82,7 +82,7 @@ async function updateProduct(formData: FormData) {
 export default async function AdminProductEditPage({ params }: PageProps) {
   const { slug } = await params;
 
-  const { data: product, error } = await supabaseServer
+  const { data: product, error } = await getSupabaseServer()
     .from("products")
     .select("*")
     .eq("slug", slug)
@@ -304,3 +304,5 @@ export default async function AdminProductEditPage({ params }: PageProps) {
     </div>
   );
 }
+
+
