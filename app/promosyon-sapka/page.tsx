@@ -511,32 +511,6 @@ export default function Page() {
 
           <section className="mt-14 max-w-4xl">
             <h2 className="text-2xl font-bold text-white">
-              Sık Aranan Promosyon Şapka Terimleri
-            </h2>
-
-            <div className="mt-4 flex flex-wrap gap-2">
-              {[
-                "promosyon şapka",
-                "logo baskılı şapka",
-                "nakışlı promosyon şapka",
-                "kurumsal şapka",
-                "toptan promosyon şapka",
-                "firma logolu şapka",
-                "baskılı şapka",
-                "etkinlik şapkası",
-              ].map((item) => (
-                <span
-                  key={item}
-                  className="rounded-full border border-white/10 bg-white/5 px-3 py-2 text-sm text-gray-100"
-                >
-                  {item}
-                </span>
-              ))}
-            </div>
-          </section>
-
-          <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
               Promosyon Şapka Hakkında Sık Sorulan Sorular
             </h2>
 
