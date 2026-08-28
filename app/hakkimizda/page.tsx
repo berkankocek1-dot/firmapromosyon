@@ -1,82 +1,174 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
+import type { ReactNode } from "react";
+import { notFound } from "next/navigation";
+import { getSupabaseServer } from "@/lib/supabase/server";
 
-export const metadata: Metadata = {
-  title: "Hakkımızda | Kurumsal Promosyon Ürünleri | FirmaPromosyon",
-  description:
-    "FirmaPromosyon; logo baskılı promosyon ürünleri, kurumsal hediyelik çözümler, DTF, UV, lazer ve tampon baskı hizmetleri sunan profesyonel promosyon tedarik platformudur.",
-  alternates: {
-    canonical: "https://www.firmapromosyon.com/hakkimizda",
-  },
-};
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
 
-export default function HakkimizdaPage() {
+const SLUG = "hakkimizda";
+const SITE_URL = "https://www.firmapromosyon.com";
+
+async function getPage() {
+  const { data, error } = await getSupabaseServer()
+    .from("pages")
+    .select(`
+      id,
+      slug,
+      title,
+      content,
+      seo_title,
+      seo_description,
+      focus_keyword,
+      status
+    `)
+    .eq("slug", SLUG)
+    .eq("status", "published")
+    .maybeSingle();
+
+  if (error) {
+    throw new Error(
+      `Hakkımızda sayfası alınamadı: ${error.message}`
+    );
+  }
+
+  return data;
+}
+
+export async function generateMetadata(): Promise<Metadata> {
+  const page = await getPage();
+
+  if (!page) {
+    return {
+      title: "Hakkımızda | FirmaPromosyon",
+      alternates: {
+        canonical: `${SITE_URL}/${SLUG}`,
+      },
+    };
+  }
+
+  return {
+    title:
+      page.seo_title ||
+      `${page.title} | FirmaPromosyon`,
+
+    description:
+      page.seo_description || undefined,
+
+    alternates: {
+      canonical: `${SITE_URL}/${page.slug}`,
+    },
+  };
+}
+
+function renderContent(content: string | null) {
+  if (!content) {
+    return null;
+  }
+
+  const lines = content.split(/\r?\n/);
+  const elements: ReactNode[] = [];
+
+  let index = 0;
+
+  while (index < lines.length) {
+    const line = lines[index].trim();
+
+    if (!line) {
+      index++;
+      continue;
+    }
+
+    if (line.startsWith("## ")) {
+      elements.push(
+        <h2
+          key={`heading-${index}`}
+          className="mb-4 mt-8 text-2xl font-semibold text-white"
+        >
+          {line.slice(3).trim()}
+        </h2>
+      );
+
+      index++;
+      continue;
+    }
+
+    if (line.startsWith("- ")) {
+      const items: string[] = [];
+
+      while (
+        index < lines.length &&
+        lines[index].trim().startsWith("- ")
+      ) {
+        items.push(
+          lines[index].trim().slice(2).trim()
+        );
+
+        index++;
+      }
+
+      elements.push(
+        <ul
+          key={`list-${index}`}
+          className="mb-6 list-disc space-y-2 pl-6 text-white/90"
+        >
+          {items.map((item, itemIndex) => (
+            <li key={`${item}-${itemIndex}`}>
+              {item}
+            </li>
+          ))}
+        </ul>
+      );
+
+      continue;
+    }
+
+    const paragraphLines: string[] = [line];
+    index++;
+
+    while (index < lines.length) {
+      const nextLine = lines[index].trim();
+
+      if (
+        !nextLine ||
+        nextLine.startsWith("## ") ||
+        nextLine.startsWith("- ")
+      ) {
+        break;
+      }
+
+      paragraphLines.push(nextLine);
+      index++;
+    }
+
+    elements.push(
+      <p
+        key={`paragraph-${index}`}
+        className="mb-4 leading-7 text-white/80"
+      >
+        {paragraphLines.join(" ")}
+      </p>
+    );
+  }
+
+  return elements;
+}
+
+export default async function HakkimizdaPage() {
+  const page = await getPage();
+
+  if (!page) {
+    notFound();
+  }
+
   return (
     <main className="mx-auto max-w-4xl px-4 py-16">
       <h1 className="mb-6 text-3xl font-bold">
-        Hakkımızda
+        {page.title}
       </h1>
 
-      <p className="mb-4">
-        FirmaPromosyon, Türkiye genelindeki kurumsal firmalara özel logo
-        baskılı promosyon ürünleri, kurumsal hediyelik çözümler ve profesyonel
-        baskı hizmetleri sunan bir promosyon tedarik platformudur.
-      </p>
-
-      <p className="mb-4">
-        Markaların tanıtım süreçlerinde daha görünür, akılda kalıcı ve
-        profesyonel bir izlenim oluşturmasına yardımcı olmak amacıyla geniş ürün
-        yelpazesi, hızlı teklif süreci ve güvenilir tedarik ağı ile hizmet
-        veriyoruz.
-      </p>
-
-      <p className="mb-4">
-        Promosyon kalem, logo baskılı kupa, promosyon anahtarlık, ajanda,
-        defter, termos, USB bellek, powerbank, çakmak, bez çanta, şapka,
-        tekstil ürünleri ve VIP kurumsal hediye setleri gibi birçok kategoride
-        firmalara özel çözümler sunuyoruz.
-      </p>
-
-      <p className="mb-4">
-        Ürünlerimiz; fuarlar, bayi toplantıları, lansmanlar, şirket içi
-        organizasyonlar, müşteri hediyeleri, personel hediyeleri ve marka
-        bilinirliği çalışmalarında tercih edilmektedir.
-      </p>
-
-      <p className="mb-4">
-        Baskı uygulamalarında ürün yapısına ve kullanım amacına göre DTF baskı,
-        UV baskı, lazer baskı, tampon baskı, serigrafi baskı ve dijital baskı
-        gibi farklı teknikler ile profesyonel sonuçlar hedefliyoruz.
-      </p>
-
-      <section className="mb-6">
-        <h2 className="mb-4 text-2xl font-semibold">
-          Hizmet Verdiğimiz Başlıca Ürün Grupları
-        </h2>
-
-        <ul className="list-disc pl-6">
-          <li>Promosyon kalem ve logo baskılı kalem modelleri</li>
-          <li>Promosyon kupa, termos ve matara çeşitleri</li>
-          <li>Promosyon anahtarlık ve metal aksesuar ürünleri</li>
-          <li>Ajanda, defter ve ofis promosyon ürünleri</li>
-          <li>Promosyon çakmak ve masaüstü ürünleri</li>
-          <li>USB bellek, powerbank ve teknolojik promosyon ürünleri</li>
-          <li>DTF baskılı tişört, şapka ve tekstil ürünleri</li>
-          <li>VIP hediye setleri ve kurumsal promosyon kutuları</li>
-        </ul>
-      </section>
-
-      <p className="mb-4">
-        FirmaPromosyon olarak önceliğimiz; her firma için doğru ürünü, doğru
-        baskı tekniği ve uygun fiyat avantajı ile sunmaktır. Sipariş sürecinde
-        ürün seçimi, baskı alternatifi, fiyatlandırma ve teslimat aşamalarında
-        pratik ve kurumsal bir deneyim sağlamayı amaçlıyoruz.
-      </p>
-
-      <p>
-        Güvenilir iletişim, hızlı tekliflendirme ve geniş promosyon ürün
-        seçenekleriyle markaların kurumsal tanıtım ihtiyaçlarını tek noktadan
-        karşılamayı hedefliyoruz.
-      </p>
+      {renderContent(page.content)}
     </main>
   );
 }
+
