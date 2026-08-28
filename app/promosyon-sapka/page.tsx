@@ -297,8 +297,8 @@ export default function Page() {
             </p>
 
             <p>
-              Promosyon şapka çeşitleri; kep şapka, fileli şapka, pamuklu şapka,
-              gabardin şapka ve farklı kurumsal kullanım ihtiyaçlarına uygun
+              Promosyon şapka çeşitleri; polyester şapka, pamuklu şapka,
+              fileli şapka, sandviç siper şapka, gabardin şapka ve farklı
               modellerle sunulabilir. Seçilecek ürün; hedef kitle, kullanım
               alanı, mevsim koşulları ve marka konumlandırmasına göre
               belirlenmelidir.
