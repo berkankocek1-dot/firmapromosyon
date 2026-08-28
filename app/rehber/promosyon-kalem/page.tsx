@@ -66,19 +66,19 @@ export default function Page() {
 
             <p>
               Günümüzde firmalar sadece kalem değil, aynı zamanda{" "}
-              <Link href="/kategori/cakmak" className="text-blue-600 underline">
+              <Link href="/promosyon-cakmak" className="text-blue-600 underline">
                 promosyon çakmak
               </Link>
               ,{" "}
-              <Link href="/kategori/anahtarlik" className="text-blue-600 underline">
+              <Link href="/promosyon-anahtarlik" className="text-blue-600 underline">
                 promosyon anahtarlık
               </Link>
               ,{" "}
-              <Link href="/kategori/termos" className="text-blue-600 underline">
+              <Link href="/promosyon-termos" className="text-blue-600 underline">
                 promosyon termos
               </Link>{" "}
               ve{" "}
-              <Link href="/kategori/usb-bellek" className="text-blue-600 underline">
+              <Link href="/promosyon-usb-bellek" className="text-blue-600 underline">
                 promosyon USB bellek
               </Link>{" "}
               gibi ürünlerle birlikte kampanyalar oluşturarak daha güçlü bir marka
@@ -89,7 +89,7 @@ export default function Page() {
 
             <p>
               Eğer ürün seçeneklerini doğrudan incelemek isterseniz{" "}
-              <Link href="/kategori/kalem" className="text-blue-600 underline">
+              <Link href="/promosyon-kalem" className="text-blue-600 underline">
                 promosyon kalem modelleri
               </Link>{" "}
               sayfasına göz atarak farklı alternatifleri karşılaştırabilirsiniz.
@@ -155,7 +155,7 @@ export default function Page() {
 
               <p>
                 Bu tür organizasyonlarda kalem ile birlikte{" "}
-                <Link href="/kategori/ajanda" className="text-blue-600 underline">
+                <Link href="/promosyon-ajanda" className="text-blue-600 underline">
                   promosyon ajanda
                 </Link>{" "}
                 veya notluk gibi ürünler verilmesi markanın profesyonel algısını
@@ -347,27 +347,27 @@ export default function Page() {
 
               <ul className="list-disc pl-6">
                 <li>
-                  <Link href="/kategori/cakmak" className="underline text-blue-600">
+                  <Link href="/promosyon-cakmak" className="underline text-blue-600">
                     Promosyon çakmak
                   </Link>
                 </li>
                 <li>
-                  <Link href="/kategori/anahtarlik" className="underline text-blue-600">
+                  <Link href="/promosyon-anahtarlik" className="underline text-blue-600">
                     Promosyon anahtarlık
                   </Link>
                 </li>
                 <li>
-                  <Link href="/kategori/usb-bellek" className="underline text-blue-600">
+                  <Link href="/promosyon-usb-bellek" className="underline text-blue-600">
                     USB bellek
                   </Link>
                 </li>
                 <li>
-                  <Link href="/kategori/termos" className="underline text-blue-600">
+                  <Link href="/promosyon-termos" className="underline text-blue-600">
                     Termos
                   </Link>
                 </li>
                 <li>
-                  <Link href="/kategori/ajanda" className="underline text-blue-600">
+                  <Link href="/promosyon-ajanda" className="underline text-blue-600">
                     Ajanda
                   </Link>
                 </li>
@@ -410,7 +410,7 @@ export default function Page() {
 
               <p>
                 Eğer ürün seçeneklerini incelemek istiyorsanız{" "}
-                <Link href="/kategori/kalem" className="text-blue-600 underline">
+                <Link href="/promosyon-kalem" className="text-blue-600 underline">
                   promosyon kalem modelleri
                 </Link>{" "}
                 sayfasını ziyaret edebilir; fiyat yapısını görmek için{" "}

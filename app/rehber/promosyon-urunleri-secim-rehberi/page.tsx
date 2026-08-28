@@ -157,23 +157,23 @@ export default function PromosyonUrunleriSecimRehberiPage() {
               </p>
               <ul className="list-disc space-y-2 pl-6">
                 <li>
-                  <Link href="/kategori/kalem" className="font-semibold text-gray-900 underline">
+                  <Link href="/promosyon-kalem" className="font-semibold text-gray-900 underline">
                     Promosyon Kalem
                   </Link>
                 </li>
                 <li>
-                  <Link href="/kategori/ajanda" className="font-semibold text-gray-900 underline">
+                  <Link href="/promosyon-ajanda" className="font-semibold text-gray-900 underline">
                     Promosyon Ajanda
                   </Link>
                 </li>
                 <li>
-                  <Link href="/kategori/termos" className="font-semibold text-gray-900 underline">
+                  <Link href="/promosyon-termos" className="font-semibold text-gray-900 underline">
                     Promosyon Termos
                   </Link>
                 </li>
                 <li>
                   <Link
-                    href="/kategori/anahtarlik"
+                    href="/promosyon-anahtarlik"
                     className="font-semibold text-gray-900 underline"
                   >
                     Promosyon Anahtarlık
@@ -181,7 +181,7 @@ export default function PromosyonUrunleriSecimRehberiPage() {
                 </li>
                 <li>
                   <Link
-                    href="/kategori/usb-bellek"
+                    href="/promosyon-usb-bellek"
                     className="font-semibold text-gray-900 underline"
                   >
                     Promosyon USB Bellek

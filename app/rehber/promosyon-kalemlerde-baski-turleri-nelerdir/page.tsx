@@ -440,16 +440,16 @@ export default function PromosyonKalemlerdeBaskiTurleriNelerdirPage() {
               </h3>
 
               <div className="mt-4 flex flex-col gap-3 text-sm font-semibold text-gray-800">
-                <Link href="/kategori/kalem" className="hover:underline">
+                <Link href="/promosyon-kalem" className="hover:underline">
                   Promosyon Kalem Modelleri
                 </Link>
-                <Link href="/kategori/cakmak" className="hover:underline">
+                <Link href="/promosyon-cakmak" className="hover:underline">
                   Promosyon Çakmak Modelleri
                 </Link>
-                <Link href="/kategori/termos" className="hover:underline">
+                <Link href="/promosyon-termos" className="hover:underline">
                   Promosyon Termos Modelleri
                 </Link>
-                <Link href="/kategori/usb-bellek" className="hover:underline">
+                <Link href="/promosyon-usb-bellek" className="hover:underline">
                   Promosyon USB Bellek Modelleri
                 </Link>
               </div>

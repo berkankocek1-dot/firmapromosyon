@@ -220,23 +220,23 @@ export default function Page() {
 
             <p>
               Kurumsal kalemler çoğu zaman tek başına değil,{" "}
-              <Link href="/kategori/ajanda" className="text-blue-600 underline">
+              <Link href="/promosyon-ajanda" className="text-blue-600 underline">
                 promosyon ajanda
               </Link>
               ,{" "}
-              <Link href="/kategori/anahtarlik" className="text-blue-600 underline">
+              <Link href="/promosyon-anahtarlik" className="text-blue-600 underline">
                 promosyon anahtarlık
               </Link>
               ,{" "}
-              <Link href="/kategori/termos" className="text-blue-600 underline">
+              <Link href="/promosyon-termos" className="text-blue-600 underline">
                 promosyon termos
               </Link>
               ,{" "}
-              <Link href="/kategori/usb-bellek" className="text-blue-600 underline">
+              <Link href="/promosyon-usb-bellek" className="text-blue-600 underline">
                 promosyon USB bellek
               </Link>{" "}
               ve{" "}
-              <Link href="/kategori/cakmak" className="text-blue-600 underline">
+              <Link href="/promosyon-cakmak" className="text-blue-600 underline">
                 promosyon çakmak
               </Link>{" "}
               gibi ürünlerle birlikte değerlendirilerek daha güçlü bir kurumsal
@@ -536,7 +536,7 @@ export default function Page() {
 
               <p>
                 Farklı ürünleri incelemek için{" "}
-                <Link href="/kategori/kalem" className="text-blue-600 underline">
+                <Link href="/promosyon-kalem" className="text-blue-600 underline">
                   promosyon kalem modelleri
                 </Link>{" "}
                 sayfasını ziyaret ederek markanıza uygun alternatifleri
@@ -565,19 +565,19 @@ export default function Page() {
           </h3>
 
           <div className="mt-4 flex flex-col gap-2 font-semibold text-gray-800">
-            <Link href="/kategori/kalem" className="hover:underline">
+            <Link href="/promosyon-kalem" className="hover:underline">
               Promosyon Kalem
             </Link>
-            <Link href="/kategori/ajanda" className="hover:underline">
+            <Link href="/promosyon-ajanda" className="hover:underline">
               Promosyon Ajanda
             </Link>
-            <Link href="/kategori/anahtarlik" className="hover:underline">
+            <Link href="/promosyon-anahtarlik" className="hover:underline">
               Promosyon Anahtarlık
             </Link>
-            <Link href="/kategori/termos" className="hover:underline">
+            <Link href="/promosyon-termos" className="hover:underline">
               Promosyon Termos
             </Link>
-            <Link href="/kategori/usb-bellek" className="hover:underline">
+            <Link href="/promosyon-usb-bellek" className="hover:underline">
               Promosyon USB Bellek
             </Link>
           </div>

@@ -584,8 +584,8 @@ export default function Page() {
                   promosyon çakmak alırken dikkat edilmesi gerekenler
                 </Link>{" "}
                 içeriğine ve ürün sayfaları için{" "}
-                <Link href="/kategori/kalem">promosyon kalem</Link> ile{" "}
-                <Link href="/kategori/cakmak">promosyon çakmak</Link>{" "}
+                <Link href="/promosyon-kalem">promosyon kalem</Link> ile{" "}
+                <Link href="/promosyon-cakmak">promosyon çakmak</Link>{" "}
                 kategorilerine göz atabilirsiniz.
               </p>
             </section>
@@ -632,31 +632,31 @@ export default function Page() {
 
             <div className="mt-4 flex flex-col gap-2">
               <Link
-                href="/kategori/cakmak"
+                href="/promosyon-cakmak"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon Çakmak
               </Link>
               <Link
-                href="/kategori/kalem"
+                href="/promosyon-kalem"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon Kalem
               </Link>
               <Link
-                href="/kategori/anahtarlik"
+                href="/promosyon-anahtarlik"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon Anahtarlık
               </Link>
               <Link
-                href="/kategori/termos"
+                href="/promosyon-termos"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon Termos
               </Link>
               <Link
-                href="/kategori/usb-bellek"
+                href="/promosyon-usb-bellek"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon USB Bellek

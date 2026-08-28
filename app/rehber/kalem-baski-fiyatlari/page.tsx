@@ -221,7 +221,7 @@ export default function Page() {
 
             <p>
               Eğer ürünleri doğrudan incelemek isterseniz{" "}
-              <Link href="/kategori/kalem" className="text-blue-600 underline">
+              <Link href="/promosyon-kalem" className="text-blue-600 underline">
                 promosyon kalem modelleri
               </Link>{" "}
               sayfasına bakabilirsiniz. Kalemin genel kullanım yapısını, model
@@ -235,19 +235,19 @@ export default function Page() {
 
             <p>
               Baskılı kalemler çoğu zaman tek başına değil,{" "}
-              <Link href="/kategori/cakmak" className="text-blue-600 underline">
+              <Link href="/promosyon-cakmak" className="text-blue-600 underline">
                 promosyon çakmak
               </Link>
               ,{" "}
-              <Link href="/kategori/anahtarlik" className="text-blue-600 underline">
+              <Link href="/promosyon-anahtarlik" className="text-blue-600 underline">
                 promosyon anahtarlık
               </Link>
               ,{" "}
-              <Link href="/kategori/termos" className="text-blue-600 underline">
+              <Link href="/promosyon-termos" className="text-blue-600 underline">
                 promosyon termos
               </Link>{" "}
               ve{" "}
-              <Link href="/kategori/usb-bellek" className="text-blue-600 underline">
+              <Link href="/promosyon-usb-bellek" className="text-blue-600 underline">
                 promosyon USB bellek
               </Link>{" "}
               gibi ürünlerle birlikte tercih edilerek daha güçlü kampanyalar
@@ -459,7 +459,7 @@ export default function Page() {
 
               <p>
                 Ürünleri doğrudan karşılaştırmak isterseniz{" "}
-                <Link href="/kategori/kalem" className="text-blue-600 underline">
+                <Link href="/promosyon-kalem" className="text-blue-600 underline">
                   promosyon kalem modelleri
                 </Link>{" "}
                 sayfası da size yardımcı olacaktır.
@@ -510,7 +510,7 @@ export default function Page() {
 
               <ul className="list-disc pl-6">
                 <li>
-                  <Link href="/kategori/kalem" className="text-blue-600 underline">
+                  <Link href="/promosyon-kalem" className="text-blue-600 underline">
                     Promosyon kalem modelleri
                   </Link>
                 </li>
@@ -566,7 +566,7 @@ export default function Page() {
 
               <p>
                 Ürünleri incelemek için{" "}
-                <Link href="/kategori/kalem" className="text-blue-600 underline">
+                <Link href="/promosyon-kalem" className="text-blue-600 underline">
                   promosyon kalem modelleri
                 </Link>{" "}
                 sayfasını ziyaret edebilir, genel bilgi için{" "}

@@ -40,22 +40,22 @@ export const metadata: Metadata = {
 const relatedCategories = [
   {
     title: "Promosyon Kalem",
-    href: "/kategori/kalem",
+    href: "/promosyon-kalem",
     desc: "Logo baskılı plastik, metal ve roller kalem modellerini inceleyin.",
   },
   {
     title: "Promosyon Anahtarlık",
-    href: "/kategori/anahtarlik",
+    href: "/promosyon-anahtarlik",
     desc: "Kurumsal dağıtım için logo baskılı anahtarlık seçenekleri.",
   },
   {
     title: "Promosyon Termos",
-    href: "/kategori/termos",
+    href: "/promosyon-termos",
     desc: "Prestijli kurumsal hediye için termos ve matara modelleri.",
   },
   {
     title: "Promosyon Defter",
-    href: "/kategori/tarihsiz-defter",
+    href: "/promosyon-defter",
     desc: "Toplantı, fuar ve ofis kullanımı için defter seçenekleri.",
   },
 ];
@@ -449,7 +449,7 @@ export default function PromosyonKalemNedirPage() {
 
                 <div className="mt-6 flex flex-col gap-3 sm:flex-row">
                   <Link
-                    href="/kategori/kalem"
+                    href="/promosyon-kalem"
                     className="inline-flex items-center justify-center rounded-2xl bg-white px-6 py-3 text-sm font-bold text-black transition hover:bg-gray-100"
                   >
                     Promosyon Kalem Modellerini İncele

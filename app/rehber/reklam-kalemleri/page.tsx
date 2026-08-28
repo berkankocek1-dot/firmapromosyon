@@ -220,23 +220,23 @@ export default function Page() {
 
             <p>
               Birçok firma reklam kalemlerini tek başına dağıtmak yerine{" "}
-              <Link href="/kategori/anahtarlik" className="text-blue-600 underline">
+              <Link href="/promosyon-anahtarlik" className="text-blue-600 underline">
                 promosyon anahtarlık
               </Link>
               ,{" "}
-              <Link href="/kategori/cakmak" className="text-blue-600 underline">
+              <Link href="/promosyon-cakmak" className="text-blue-600 underline">
                 promosyon çakmak
               </Link>
               ,{" "}
-              <Link href="/kategori/termos" className="text-blue-600 underline">
+              <Link href="/promosyon-termos" className="text-blue-600 underline">
                 promosyon termos
               </Link>
               ,{" "}
-              <Link href="/kategori/usb-bellek" className="text-blue-600 underline">
+              <Link href="/promosyon-usb-bellek" className="text-blue-600 underline">
                 promosyon USB bellek
               </Link>{" "}
               ve{" "}
-              <Link href="/kategori/ajanda" className="text-blue-600 underline">
+              <Link href="/promosyon-ajanda" className="text-blue-600 underline">
                 promosyon ajanda
               </Link>{" "}
               gibi ürünlerle destekleyerek daha geniş bir promosyon etkisi
@@ -544,7 +544,7 @@ export default function Page() {
 
               <p>
                 Ürün seçeneklerini görmek için{" "}
-                <Link href="/kategori/kalem" className="text-blue-600 underline">
+                <Link href="/promosyon-kalem" className="text-blue-600 underline">
                   promosyon kalem modelleri
                 </Link>{" "}
                 sayfasını inceleyebilir ve markanıza uygun alternatifleri
@@ -572,19 +572,19 @@ export default function Page() {
           </h3>
 
           <div className="mt-4 flex flex-col gap-2 font-semibold text-gray-800">
-            <Link href="/kategori/kalem" className="hover:underline">
+            <Link href="/promosyon-kalem" className="hover:underline">
               Promosyon Kalem
             </Link>
-            <Link href="/kategori/anahtarlik" className="hover:underline">
+            <Link href="/promosyon-anahtarlik" className="hover:underline">
               Promosyon Anahtarlık
             </Link>
-            <Link href="/kategori/cakmak" className="hover:underline">
+            <Link href="/promosyon-cakmak" className="hover:underline">
               Promosyon Çakmak
             </Link>
-            <Link href="/kategori/termos" className="hover:underline">
+            <Link href="/promosyon-termos" className="hover:underline">
               Promosyon Termos
             </Link>
-            <Link href="/kategori/usb-bellek" className="hover:underline">
+            <Link href="/promosyon-usb-bellek" className="hover:underline">
               Promosyon USB Bellek
             </Link>
           </div>

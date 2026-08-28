@@ -376,9 +376,9 @@ export default function Page() {
                 Evet. Logo baskılı promosyon çakmak, tek başına güçlü bir ürün
                 olsa da bazı kampanyalarda diğer promosyon ürünlerle birlikte
                 kullanıldığında daha etkili olabilir. Örneğin{" "}
-                <Link href="/kategori/anahtarlik">promosyon anahtarlık</Link>,{" "}
-                <Link href="/kategori/kalem">promosyon kalem</Link> veya{" "}
-                <Link href="/kategori/termos">promosyon termos</Link>{" "}
+                <Link href="/promosyon-anahtarlik">promosyon anahtarlık</Link>,{" "}
+                <Link href="/promosyon-kalem">promosyon kalem</Link> veya{" "}
+                <Link href="/promosyon-termos">promosyon termos</Link>{" "}
                 gibi ürünlerle tamamlanan setler daha kurumsal bir algı yaratabilir.
               </p>
               <p>
@@ -420,25 +420,25 @@ export default function Page() {
             <h3 className="text-lg font-bold text-gray-900">İlgili Kategoriler</h3>
             <div className="mt-4 flex flex-col gap-2">
               <Link
-                href="/kategori/cakmak"
+                href="/promosyon-cakmak"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon Çakmak
               </Link>
               <Link
-                href="/kategori/kalem"
+                href="/promosyon-kalem"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon Kalem
               </Link>
               <Link
-                href="/kategori/anahtarlik"
+                href="/promosyon-anahtarlik"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon Anahtarlık
               </Link>
               <Link
-                href="/kategori/termos"
+                href="/promosyon-termos"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon Termos

@@ -223,7 +223,7 @@ export default function Page() {
 
             <p>
               Eğer ürünleri doğrudan incelemek isterseniz{" "}
-              <Link href="/kategori/kalem" className="text-blue-600 underline">
+              <Link href="/promosyon-kalem" className="text-blue-600 underline">
                 promosyon kalem modelleri
               </Link>{" "}
               sayfasına göz atabilirsiniz. Ürünün genel kullanım alanlarını ve
@@ -236,19 +236,19 @@ export default function Page() {
 
             <p>
               Baskılı kalemler genellikle{" "}
-              <Link href="/kategori/cakmak" className="text-blue-600 underline">
+              <Link href="/promosyon-cakmak" className="text-blue-600 underline">
                 promosyon çakmak
               </Link>
               ,{" "}
-              <Link href="/kategori/anahtarlik" className="text-blue-600 underline">
+              <Link href="/promosyon-anahtarlik" className="text-blue-600 underline">
                 promosyon anahtarlık
               </Link>
               ,{" "}
-              <Link href="/kategori/termos" className="text-blue-600 underline">
+              <Link href="/promosyon-termos" className="text-blue-600 underline">
                 promosyon termos
               </Link>{" "}
               ve{" "}
-              <Link href="/kategori/usb-bellek" className="text-blue-600 underline">
+              <Link href="/promosyon-usb-bellek" className="text-blue-600 underline">
                 promosyon USB bellek
               </Link>{" "}
               gibi ürünlerle birlikte tercih edilerek daha güçlü kampanyalar
@@ -512,7 +512,7 @@ export default function Page() {
 
               <p>
                 Ürünü doğrudan incelemek için{" "}
-                <Link href="/kategori/kalem" className="text-blue-600 underline">
+                <Link href="/promosyon-kalem" className="text-blue-600 underline">
                   promosyon kalem modelleri
                 </Link>{" "}
                 sayfası da güçlü bir referans olacaktır.
@@ -572,7 +572,7 @@ export default function Page() {
 
               <p>
                 Ürünleri incelemek için{" "}
-                <Link href="/kategori/kalem" className="text-blue-600 underline">
+                <Link href="/promosyon-kalem" className="text-blue-600 underline">
                   promosyon kalem modelleri
                 </Link>{" "}
                 sayfasını ziyaret edebilir, genel bilgi için{" "}

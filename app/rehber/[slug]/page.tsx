@@ -969,31 +969,31 @@ export default async function GuidePage({ params }: PageProps) {
 
           <div className="mt-6 flex flex-wrap gap-3">
             <Link
-              href="/kategori/kalem"
+              href="/promosyon-kalem"
               className="rounded-full border border-gray-300 bg-gray-50 px-4 py-2 text-sm font-semibold text-gray-900 transition hover:border-black hover:bg-white"
             >
               Promosyon Kalem
             </Link>
             <Link
-              href="/kategori/cakmak"
+              href="/promosyon-cakmak"
               className="rounded-full border border-gray-300 bg-gray-50 px-4 py-2 text-sm font-semibold text-gray-900 transition hover:border-black hover:bg-white"
             >
               Promosyon Çakmak
             </Link>
             <Link
-              href="/kategori/anahtarlik"
+              href="/promosyon-anahtarlik"
               className="rounded-full border border-gray-300 bg-gray-50 px-4 py-2 text-sm font-semibold text-gray-900 transition hover:border-black hover:bg-white"
             >
               Promosyon Anahtarlık
             </Link>
             <Link
-              href="/kategori/termos"
+              href="/promosyon-termos"
               className="rounded-full border border-gray-300 bg-gray-50 px-4 py-2 text-sm font-semibold text-gray-900 transition hover:border-black hover:bg-white"
             >
               Promosyon Termos
             </Link>
             <Link
-              href="/kategori/usb-bellek"
+              href="/promosyon-usb-bellek"
               className="rounded-full border border-gray-300 bg-gray-50 px-4 py-2 text-sm font-semibold text-gray-900 transition hover:border-black hover:bg-white"
             >
               Promosyon USB Bellek

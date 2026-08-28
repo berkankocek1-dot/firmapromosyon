@@ -341,18 +341,18 @@ export default function Page() {
 
             <div className="mt-4 space-y-4 text-gray-700 leading-7">
               <p>
-                <Link href="/kategori/anahtarlik" className="font-semibold text-blue-600">
+                <Link href="/promosyon-anahtarlik" className="font-semibold text-blue-600">
                   promosyon anahtarlık
                 </Link>{" "}
                 sürekli taşındığı için en güçlü reklam araçlarından biridir.
               </p>
 
               <p>
-                <Link href="/kategori/cakmak" className="font-semibold text-blue-600">
+                <Link href="/promosyon-cakmak" className="font-semibold text-blue-600">
                   promosyon çakmak
                 </Link>{" "}
                 geniş kitlelere ulaşır.{" "}
-                <Link href="/kategori/kalem" className="font-semibold text-blue-600">
+                <Link href="/promosyon-kalem" className="font-semibold text-blue-600">
                   promosyon kalem
                 </Link>{" "}
                 ise ofis kullanımına uygundur.
@@ -360,11 +360,11 @@ export default function Page() {
 
               <p>
                 Daha premium seçenekler için{" "}
-                <Link href="/kategori/termos" className="font-semibold text-blue-600">
+                <Link href="/promosyon-termos" className="font-semibold text-blue-600">
                   promosyon termos
                 </Link>{" "}
                 ve{" "}
-                <Link href="/kategori/usb-bellek" className="font-semibold text-blue-600">
+                <Link href="/promosyon-usb-bellek" className="font-semibold text-blue-600">
                   promosyon USB bellek
                 </Link>{" "}
                 tercih edilebilir.
@@ -405,19 +405,19 @@ export default function Page() {
           <h3 className="font-bold text-lg">İlgili Kategoriler</h3>
 
           <div className="mt-4 flex flex-col gap-2 font-semibold text-gray-800">
-            <Link href="/kategori/anahtarlik" className="hover:underline">
+            <Link href="/promosyon-anahtarlik" className="hover:underline">
               Promosyon Anahtarlık
             </Link>
-            <Link href="/kategori/cakmak" className="hover:underline">
+            <Link href="/promosyon-cakmak" className="hover:underline">
               Promosyon Çakmak
             </Link>
-            <Link href="/kategori/kalem" className="hover:underline">
+            <Link href="/promosyon-kalem" className="hover:underline">
               Promosyon Kalem
             </Link>
-            <Link href="/kategori/termos" className="hover:underline">
+            <Link href="/promosyon-termos" className="hover:underline">
               Promosyon Termos
             </Link>
-            <Link href="/kategori/usb-bellek" className="hover:underline">
+            <Link href="/promosyon-usb-bellek" className="hover:underline">
               Promosyon USB Bellek
             </Link>
           </div>

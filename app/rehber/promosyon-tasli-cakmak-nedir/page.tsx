@@ -344,12 +344,12 @@ export default function Page() {
               <p>
                 Promosyon taşlı çakmak, düşük maliyetli ve kolay dağıtılabilir ürün
                 olmasıyla öne çıkar. Örneğin{" "}
-                <Link href="/kategori/kalem">promosyon kalem</Link> ofis ve eğitim
+                <Link href="/promosyon-kalem">promosyon kalem</Link> ofis ve eğitim
                 alanlarında daha yoğun kullanılırken, taşlı çakmak bazı sektörlerde
                 daha hızlı görünürlük sağlayabilir.
               </p>
               <p>
-                <Link href="/kategori/anahtarlik">Promosyon anahtarlık</Link>{" "}
+                <Link href="/promosyon-anahtarlik">Promosyon anahtarlık</Link>{" "}
                 sürekli taşınma avantajı sunarken, taşlı çakmak da günlük kullanım
                 alışkanlığı sayesinde benzer şekilde tekrar eden görünürlük
                 oluşturabilir. Bu nedenle ürün seçimi tamamen hedef kitleye ve
@@ -390,16 +390,16 @@ export default function Page() {
           <div className="mt-10 rounded-2xl border border-gray-200 bg-gray-50 p-5">
             <h3 className="text-lg font-bold text-gray-900">İlgili Kategoriler</h3>
             <div className="mt-4 flex flex-col gap-2">
-              <Link href="/kategori/cakmak" className="font-semibold text-gray-800 hover:text-red-600">
+              <Link href="/promosyon-cakmak" className="font-semibold text-gray-800 hover:text-red-600">
                 Promosyon Çakmak
               </Link>
-              <Link href="/kategori/kalem" className="font-semibold text-gray-800 hover:text-red-600">
+              <Link href="/promosyon-kalem" className="font-semibold text-gray-800 hover:text-red-600">
                 Promosyon Kalem
               </Link>
-              <Link href="/kategori/anahtarlik" className="font-semibold text-gray-800 hover:text-red-600">
+              <Link href="/promosyon-anahtarlik" className="font-semibold text-gray-800 hover:text-red-600">
                 Promosyon Anahtarlık
               </Link>
-              <Link href="/kategori/termos" className="font-semibold text-gray-800 hover:text-red-600">
+              <Link href="/promosyon-termos" className="font-semibold text-gray-800 hover:text-red-600">
                 Promosyon Termos
               </Link>
             </div>

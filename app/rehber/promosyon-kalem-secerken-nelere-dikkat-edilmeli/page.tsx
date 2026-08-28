@@ -63,22 +63,22 @@ const faqItems = [
 const relatedCategories = [
   {
     title: "Promosyon Kalem",
-    href: "/kategori/kalem",
+    href: "/promosyon-kalem",
     desc: "Logo baskılı plastik, metal ve roller kalem seçeneklerini inceleyin.",
   },
   {
     title: "Promosyon Anahtarlık",
-    href: "/kategori/anahtarlik",
+    href: "/promosyon-anahtarlik",
     desc: "Kalemle birlikte dağıtılabilecek pratik kurumsal ürünler.",
   },
   {
     title: "Promosyon Termos",
-    href: "/kategori/termos",
+    href: "/promosyon-termos",
     desc: "Daha prestijli kurumsal hediye arayan firmalar için ideal seçenekler.",
   },
   {
     title: "Promosyon USB Bellek",
-    href: "/kategori/usb-bellek",
+    href: "/promosyon-usb-bellek",
     desc: "Teknoloji odaklı kurumsal tanıtım çalışmaları için güçlü alternatif.",
   },
 ];
@@ -489,7 +489,7 @@ export default function PromosyonKalemSecimRehberiPage() {
 
                 <div className="mt-6 flex flex-col gap-3 sm:flex-row">
                   <Link
-                    href="/kategori/kalem"
+                    href="/promosyon-kalem"
                     className="inline-flex items-center justify-center rounded-2xl bg-white px-6 py-3 text-sm font-bold text-black transition hover:bg-gray-100"
                   >
                     Kalem Modellerini İncele

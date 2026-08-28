@@ -525,15 +525,15 @@ export default function Page() {
               <p>
                 Örneğin ofis çalışanlarına, masa başı kullanan kitleye veya kurumsal
                 toplantı ortamına yönelik tanıtım yapılıyorsa{" "}
-                <Link href="/kategori/kalem">promosyon kalem</Link> daha güçlü
+                <Link href="/promosyon-kalem">promosyon kalem</Link> daha güçlü
                 olabilir. Sürekli elde taşınan ürün isteyen firmalar için{" "}
-                <Link href="/kategori/anahtarlik">promosyon anahtarlık</Link>{" "}
+                <Link href="/promosyon-anahtarlik">promosyon anahtarlık</Link>{" "}
                 daha avantajlı olabilir.
               </p>
               <p>
                 Daha prestijli ve uzun ömürlü algı hedefleniyorsa{" "}
-                <Link href="/kategori/termos">promosyon termos</Link> ya da{" "}
-                <Link href="/kategori/usb-bellek">promosyon USB bellek</Link>{" "}
+                <Link href="/promosyon-termos">promosyon termos</Link> ya da{" "}
+                <Link href="/promosyon-usb-bellek">promosyon USB bellek</Link>{" "}
                 gibi ürünler de düşünülebilir. Yani doğru seçim, ürünün popüler
                 olmasına göre değil; hedeflenen etki ve kullanıcı profiline göre
                 yapılmalıdır.
@@ -681,31 +681,31 @@ export default function Page() {
 
             <div className="mt-4 flex flex-col gap-2">
               <Link
-                href="/kategori/cakmak"
+                href="/promosyon-cakmak"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon Çakmak
               </Link>
               <Link
-                href="/kategori/kalem"
+                href="/promosyon-kalem"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon Kalem
               </Link>
               <Link
-                href="/kategori/anahtarlik"
+                href="/promosyon-anahtarlik"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon Anahtarlık
               </Link>
               <Link
-                href="/kategori/termos"
+                href="/promosyon-termos"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon Termos
               </Link>
               <Link
-                href="/kategori/usb-bellek"
+                href="/promosyon-usb-bellek"
                 className="font-semibold text-gray-800 hover:text-red-600"
               >
                 Promosyon USB Bellek

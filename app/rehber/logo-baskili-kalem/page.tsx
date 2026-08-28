@@ -222,7 +222,7 @@ export default function Page() {
 
             <p>
               Eğer ürünleri doğrudan incelemek isterseniz{" "}
-              <Link href="/kategori/kalem" className="text-blue-600 underline">
+              <Link href="/promosyon-kalem" className="text-blue-600 underline">
                 promosyon kalem modelleri
               </Link>{" "}
               sayfasını ziyaret edebilirsiniz. Logo baskılı ürünlerin genel mantığını,
@@ -235,19 +235,19 @@ export default function Page() {
 
             <p>
               Günümüzde firmalar sadece kalem değil; aynı zamanda{" "}
-              <Link href="/kategori/cakmak" className="text-blue-600 underline">
+              <Link href="/promosyon-cakmak" className="text-blue-600 underline">
                 promosyon çakmak
               </Link>
               ,{" "}
-              <Link href="/kategori/anahtarlik" className="text-blue-600 underline">
+              <Link href="/promosyon-anahtarlik" className="text-blue-600 underline">
                 promosyon anahtarlık
               </Link>
               ,{" "}
-              <Link href="/kategori/termos" className="text-blue-600 underline">
+              <Link href="/promosyon-termos" className="text-blue-600 underline">
                 promosyon termos
               </Link>{" "}
               ve{" "}
-              <Link href="/kategori/usb-bellek" className="text-blue-600 underline">
+              <Link href="/promosyon-usb-bellek" className="text-blue-600 underline">
                 promosyon USB bellek
               </Link>{" "}
               gibi ürünlerle birlikte kampanyalar yaparak marka etkisini
@@ -321,11 +321,11 @@ export default function Page() {
 
               <p>
                 Özellikle kalem ile birlikte{" "}
-                <Link href="/kategori/ajanda" className="text-blue-600 underline">
+                <Link href="/promosyon-ajanda" className="text-blue-600 underline">
                   promosyon ajanda
                 </Link>{" "}
                 veya{" "}
-                <Link href="/kategori/termos" className="text-blue-600 underline">
+                <Link href="/promosyon-termos" className="text-blue-600 underline">
                   termos
                 </Link>{" "}
                 gibi ürünler verilmesi, markanın profesyonel algısını artırır.
@@ -490,7 +490,7 @@ export default function Page() {
 
               <p>
                 Ürünleri incelemek için{" "}
-                <Link href="/kategori/kalem" className="text-blue-600 underline">
+                <Link href="/promosyon-kalem" className="text-blue-600 underline">
                   promosyon kalem modelleri
                 </Link>{" "}
                 sayfasına göz atabilirsiniz. Ürünün genel yapısını anlamak için{" "}
@@ -554,7 +554,7 @@ export default function Page() {
 
               <p>
                 Ürünleri incelemek için{" "}
-                <Link href="/kategori/kalem" className="text-blue-600 underline">
+                <Link href="/promosyon-kalem" className="text-blue-600 underline">
                   promosyon kalem modelleri
                 </Link>{" "}
                 sayfasını ziyaret edebilir, genel kullanım mantığını görmek için{" "}

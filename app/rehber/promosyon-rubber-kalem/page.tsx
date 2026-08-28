@@ -366,7 +366,7 @@ export default function PromosyonRubberKalemPage() {
 
               <ul className="list-disc space-y-2 pl-6">
                 <li>
-                  <Link href="/kategori/kalem" className="font-semibold underline">
+                  <Link href="/promosyon-kalem" className="font-semibold underline">
                     Promosyon Kalem Modelleri
                   </Link>
                 </li>
