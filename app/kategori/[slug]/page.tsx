@@ -1,14 +1,11 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { getSupabaseServer } from "@/lib/supabase/server";
-
+import { products } from "@/data/products";
+import { getCategoryBySlug, categories } from "@/data/categories";
 import CategoryProductsClient from "./CategoryProductsClient";
 
 const SITE_URL = "https://www.firmapromosyon.com";
-export const dynamic = "force-dynamic";
-export const revalidate = 0;
-
 const WHATSAPP_NUMBER = "905350509128";
 
 type PageProps = {
@@ -26,54 +23,6 @@ function JsonLd({ data }: { data: Record<string, any> }) {
 
 function normalizeCategory(v: string) {
   return v.trim().toLocaleLowerCase("tr-TR");
-}
-
-async function getCategoryBySlugFromDb(slug: string) {
-  const { data, error } = await getSupabaseServer()
-    .from("categories")
-    .select(`
-      id,
-      name,
-      slug,
-      description,
-      seo_title,
-      seo_description,
-      focus_keyword,
-      image,
-      status,
-      sort_order
-    `)
-    .eq("slug", slug)
-    .eq("status", "published")
-    .maybeSingle();
-
-  if (error) {
-    console.error("Kategori alınamadı:", error);
-    return null;
-  }
-
-  return data;
-}
-
-async function getPublishedCategories() {
-  const { data, error } = await getSupabaseServer()
-    .from("categories")
-    .select(`
-      id,
-      name,
-      slug,
-      status,
-      sort_order
-    `)
-    .eq("status", "published")
-    .order("sort_order", { ascending: true });
-
-  if (error) {
-    console.error("Kategori listesi alınamadı:", error);
-    return [];
-  }
-
-  return data ?? [];
 }
 
 function getCategoryDescription(name: string, count: number) {
@@ -139,11 +88,15 @@ function getCategoryWhatsAppUrl(categoryName: string) {
   )}`;
 }
 
+export async function generateStaticParams() {
+  return categories.map((c) => ({ slug: c.slug }));
+}
+
 export async function generateMetadata({
   params,
 }: PageProps): Promise<Metadata> {
   const { slug } = await params;
-  const cat = await getCategoryBySlugFromDb(slug);
+  const cat = getCategoryBySlug(slug);
 
   if (!cat) {
     return {
@@ -153,9 +106,9 @@ export async function generateMetadata({
   }
 
   const canonical = `${SITE_URL}/kategori/${cat.slug}`;
-  const title = cat.seo_title || `${cat.name} | FirmaPromosyon`;
+  const title = cat.seoTitle || `${cat.name} | FirmaPromosyon`;
   const description =
-    cat.seo_description ||
+    cat.seoDescription ||
     `${cat.name} ürünleri, logo baskılı kurumsal promosyon ve toplu alım çözümleri için hızlı teklif alın.`;
 
   return {
@@ -200,39 +153,12 @@ export async function generateMetadata({
 
 export default async function CategoryPage({ params }: PageProps) {
   const { slug } = await params;
-  const cat = await getCategoryBySlugFromDb(slug);
+  const cat = getCategoryBySlug(slug);
   if (!cat) return notFound();
-  const categories = await getPublishedCategories();
 
-  const { data: productRows, error: productsError } = await getSupabaseServer()
-    .from("products")
-    .select("id, slug, title, category, image, short_desc, price, sort_order")
-    .eq("status", "published")
-    .order("sort_order", { ascending: true });
-
-  if (productsError) {
-    throw new Error(
-      `Kategori ürünleri alınamadı: ${productsError.message}`
-    );
-  }
-
-  const filtered = (productRows ?? [])
-    .filter(
-      (p) =>
-        normalizeCategory(p.category) === normalizeCategory(cat.name)
-    )
-    .map((p) => ({
-      id: p.id,
-      slug: p.slug,
-      title: p.title,
-      category: p.category,
-      image: p.image,
-      shortDesc: p.short_desc ?? "",
-      price:
-        p.price === null || p.price === undefined
-          ? undefined
-          : Number(p.price),
-    }));
+  const filtered = products.filter(
+    (p) => normalizeCategory(p.category) === normalizeCategory(cat.name)
+  );
 
   const pageUrl = `${SITE_URL}/kategori/${cat.slug}`;
   const seoContent = getCategorySeoContent(cat.name);
@@ -263,10 +189,10 @@ export default async function CategoryPage({ params }: PageProps) {
   const collectionJsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    name: cat.seo_title || `${cat.name} | FirmaPromosyon`,
+    name: cat.seoTitle || `${cat.name} | FirmaPromosyon`,
     url: pageUrl,
     description:
-      cat.seo_description ||
+      cat.seoDescription ||
       `${cat.name} ürünleri: kurumsal promosyon, toplu alım ve logo baskı için hızlı teklif alın.`,
     mainEntity: {
       "@type": "ItemList",
@@ -297,43 +223,21 @@ export default async function CategoryPage({ params }: PageProps) {
           <span className="font-semibold text-white">{cat.name}</span>
         </nav>
 
-        <section className="mb-8 overflow-hidden rounded-3xl border border-white/10 bg-white/5">
-          <div
-            className={`grid gap-6 p-6 md:p-8 ${
-              cat.image
-                ? "lg:grid-cols-[1fr_300px_240px] lg:items-center"
-                : "md:grid-cols-[1fr_240px] md:items-end"
-            }`}
-          >
-            <div className="min-w-0">
+        <section className="mb-8 rounded-3xl border border-white/10 bg-white/5 p-6 md:p-8">
+          <div className="flex flex-col gap-5 md:flex-row md:items-end md:justify-between">
+            <div className="max-w-3xl">
               <h1 className="text-3xl font-extrabold text-white md:text-5xl">
                 {cat.name}
               </h1>
-
-              <p className="mt-3 max-w-3xl text-base leading-7 text-white/80 md:text-lg">
-                {cat.seo_description ||
+              <p className="mt-3 text-base leading-7 text-white/80 md:text-lg">
+                {cat.seoDescription ||
                   getCategoryDescription(cat.name, filtered.length)}
               </p>
             </div>
 
-            {cat.image && (
-              <div className="flex items-center justify-center">
-                <div className="w-full overflow-hidden rounded-2xl border border-white/10 bg-white">
-                  <img
-                    src={cat.image}
-                    alt={`${cat.name} kategori görseli`}
-                    className="h-56 w-full object-contain p-4"
-                  />
-                </div>
-              </div>
-            )}
-
-            <div className="flex flex-col gap-3">
+            <div className="flex flex-col gap-3 md:min-w-[240px]">
               <div className="rounded-2xl border border-white/10 bg-black/30 p-4">
-                <div className="text-sm text-white/60">
-                  Kategori Ürün Sayısı
-                </div>
-
+                <div className="text-sm text-white/60">Kategori Ürün Sayısı</div>
                 <div className="mt-1 text-3xl font-bold text-white">
                   {filtered.length}
                 </div>
@@ -505,18 +409,3 @@ export default async function CategoryPage({ params }: PageProps) {
     </main>
   );
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

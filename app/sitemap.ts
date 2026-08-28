@@ -1,26 +1,12 @@
-﻿import type { MetadataRoute } from "next";
-import { getSupabaseServer } from "@/lib/supabase/server";
-import { categories } from "@/data/categories";
+import type { MetadataRoute } from "next";
+import { products } from "@/data/products";
 
-export const revalidate = 0;
-
-export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://www.firmapromosyon.com";
-
-  const { data: products, error } = await getSupabaseServer()
-    .from("products")
-    .select("slug, updated_at")
-    .eq("status", "published")
-    .eq("robots_index", true)
-    .order("sort_order", { ascending: true });
-
-  if (error) {
-    throw new Error(`Sitemap ürünleri alınamadı: ${error.message}`);
-  }
 
   const routes: MetadataRoute.Sitemap = [
     {
-      url: baseUrl,
+      url: `${baseUrl}`,
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 1,
@@ -28,7 +14,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     {
       url: `${baseUrl}/urunler`,
       lastModified: new Date(),
-      changeFrequency: "daily",
+      changeFrequency: "weekly",
       priority: 0.9,
     },
     {
@@ -51,15 +37,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     },
   ];
 
-  const categoryRoutes: MetadataRoute.Sitemap = categories.map(
-    (category) => ({
-      url: `${baseUrl}/kategori/${category.slug}`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.85,
-    })
-  );
-
+  // REHBER SAYFALARI
   const guideRoutes: MetadataRoute.Sitemap = [
     {
       url: `${baseUrl}/rehber`,
@@ -87,21 +65,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     },
   ];
 
-  const productRoutes: MetadataRoute.Sitemap = (products ?? []).map(
-    (product) => ({
-      url: `${baseUrl}/urunler/${product.slug}`,
-      lastModified: product.updated_at
-        ? new Date(product.updated_at)
-        : new Date(),
-      changeFrequency: "weekly",
-      priority: 0.8,
-    })
-  );
+  const productRoutes: MetadataRoute.Sitemap = products.map((p) => ({
+    url: `${baseUrl}/urunler/${p.slug}`,
+    lastModified: new Date(),
+    changeFrequency: "weekly",
+    priority: 0.8,
+  }));
 
-  return [
-    ...routes,
-    ...categoryRoutes,
-    ...guideRoutes,
-    ...productRoutes,
-  ];
+  return [...routes, ...guideRoutes, ...productRoutes];
 }

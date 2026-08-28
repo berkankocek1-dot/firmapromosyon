@@ -1,25 +1,12 @@
 ﻿import { Suspense } from "react";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getSupabaseServer } from "@/lib/supabase/server";
+import { products } from "@/data/products";
 import ProductsClient from "./ProductsClient";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
-export const dynamic = "force-dynamic";
-export const revalidate = 0;
-
-type ClientProduct = {
-  id: string;
-  slug: string;
-  title: string;
-  category: string;
-  image: string;
-  shortDesc: string;
-  price?: number;
-};
-
-function JsonLd({ data }: { data: Record<string, unknown> }) {
+function JsonLd({ data }: { data: Record<string, any> }) {
   return (
     <script
       type="application/ld+json"
@@ -32,9 +19,7 @@ export const metadata: Metadata = {
   title: "Ürünler",
   description:
     "Kurumsal promosyon ürünleri: kalem, çakmak, kupa, ajanda, tişört ve daha fazlası. Hızlı teklif için ürünleri inceleyin.",
-  alternates: {
-    canonical: `${SITE_URL}/urunler`,
-  },
+  alternates: { canonical: `${SITE_URL}/urunler` },
   robots: {
     index: true,
     follow: true,
@@ -49,7 +34,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Ürünler | FirmaPromosyon",
     description:
-      "Kurumsal promosyon ürünleri: kalem, çakmak, kupa, ajanda, tişört ve daha fazlası.",
+      "Kurumsal promosyon ürünleri: kalem, çakmak, kupa, ajanda, tişört ve daha fazlası. Hızlı teklif için ürünleri inceleyin.",
     url: `${SITE_URL}/urunler`,
     siteName: "FirmaPromosyon",
     locale: "tr_TR",
@@ -67,7 +52,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Ürünler | FirmaPromosyon",
     description:
-      "Kurumsal promosyon ürünlerini inceleyin ve hızlı teklif alın.",
+      "Kurumsal promosyon ürünleri: kalem, çakmak, kupa, ajanda, tişört ve daha fazlası. Hızlı teklif için ürünleri inceleyin.",
     images: [`${SITE_URL}/og.jpg`],
   },
 };
@@ -86,50 +71,18 @@ function slugifyCategoryTR(category: string) {
     .replace(/(^-|-$)/g, "");
 }
 
-export default async function ProductsPage() {
-  const { data, error } = await getSupabaseServer()
-    .from("products")
-    .select(`
-      id,
-      slug,
-      title,
-      category,
-      image,
-      short_desc,
-      price,
-      sort_order
-    `)
-    .eq("status", "published")
-    .order("sort_order", { ascending: true });
-
-  if (error) {
-    throw new Error(`Ürünler alınamadı: ${error.message}`);
-  }
-
-  const products: ClientProduct[] = (data ?? []).map((product) => ({
-    id: product.id,
-    slug: product.slug,
-    title: product.title,
-    category: product.category,
-    image: product.image,
-    shortDesc: product.short_desc ?? "",
-    price:
-      product.price === null || product.price === undefined
-        ? undefined
-        : Number(product.price),
-  }));
-
-  const categories = Array.from(
-    new Set(products.map((product) => product.category).filter(Boolean))
-  ).sort((a, b) => a.localeCompare(b, "tr"));
+export default function ProductsPage() {
+  const categories = Array.from(new Set(products.map((p) => p.category))).sort(
+    (a, b) => a.localeCompare(b, "tr")
+  );
 
   const pageUrl = `${SITE_URL}/urunler`;
 
-  const itemListElement = products.map((product, index) => ({
+  const itemListElement = products.map((p, idx) => ({
     "@type": "ListItem",
-    position: index + 1,
-    url: `${SITE_URL}/urunler/${product.slug}`,
-    name: product.title,
+    position: idx + 1,
+    url: `${SITE_URL}/urunler/${p.slug}`,
+    name: p.title,
   }));
 
   return (
@@ -150,7 +103,7 @@ export default async function ProductsPage() {
                 "@type": "ListItem",
                 position: 2,
                 name: "Ürünler",
-                item: pageUrl,
+                item: `${SITE_URL}/urunler`,
               },
             ],
           }}
@@ -176,7 +129,6 @@ export default async function ProductsPage() {
           <h1 className="text-3xl font-extrabold text-white md:text-5xl">
             Ürünler
           </h1>
-
           <p className="mt-2 text-base text-white/80 md:text-lg">
             Kategorilere göre filtreleyin ve hızlı teklif alın.
           </p>
@@ -191,13 +143,13 @@ export default async function ProductsPage() {
               Tümü
             </Link>
 
-            {categories.map((category) => (
+            {categories.map((cat) => (
               <Link
-                key={category}
-                href={`/kategori/${slugifyCategoryTR(category)}`}
+                key={cat}
+                href={`/kategori/${slugifyCategoryTR(cat)}`}
                 className="whitespace-nowrap rounded-full border border-white/20 bg-white/10 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/15"
               >
-                {category}
+                {cat}
               </Link>
             ))}
           </div>
@@ -214,9 +166,9 @@ export default async function ProductsPage() {
 function ProductsLoadingFallback() {
   return (
     <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-      {Array.from({ length: 6 }).map((_, index) => (
+      {Array.from({ length: 6 }).map((_, i) => (
         <div
-          key={index}
+          key={i}
           className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm"
         >
           <div className="aspect-square w-full rounded-xl bg-gray-100" />
@@ -225,6 +177,8 @@ function ProductsLoadingFallback() {
             <div className="h-3 w-24 rounded bg-gray-200" />
             <div className="mt-3 h-5 w-full rounded bg-gray-200" />
             <div className="mt-2 h-4 w-5/6 rounded bg-gray-100" />
+            <div className="mt-2 h-4 w-4/6 rounded bg-gray-100" />
+            <div className="mt-4 h-8 w-28 rounded-full bg-gray-900" />
           </div>
         </div>
       ))}
