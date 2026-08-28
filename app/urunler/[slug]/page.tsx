@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { products } from "@/data/products";
-import { categories } from "@/data/categories";
+import { getCategoryLandingHref } from "@/data/categoryLandingPages";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
@@ -24,30 +24,8 @@ function getProductBySlug(slug: string) {
   return products.find((p) => p.slug === slug);
 }
 
-function normalizeText(value: string) {
-  return value
-    .toLocaleLowerCase("tr-TR")
-    .replace(/ı/g, "i")
-    .replace(/İ/g, "i")
-    .replace(/ğ/g, "g")
-    .replace(/Ğ/g, "g")
-    .replace(/ü/g, "u")
-    .replace(/Ü/g, "u")
-    .replace(/ş/g, "s")
-    .replace(/Ş/g, "s")
-    .replace(/ö/g, "o")
-    .replace(/Ö/g, "o")
-    .replace(/ç/g, "c")
-    .replace(/Ç/g, "c")
-    .trim();
-}
-
 function getCategoryHref(categoryName: string) {
-  const matched = categories.find(
-    (c) => normalizeText(c.name) === normalizeText(categoryName)
-  );
-
-  return matched ? `/kategori/${matched.slug}` : "/urunler";
+  return getCategoryLandingHref(categoryName);
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {

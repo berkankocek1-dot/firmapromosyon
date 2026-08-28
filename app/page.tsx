@@ -1,6 +1,7 @@
 ﻿import Link from "next/link";
 import Image from "next/image";
 import { products } from "@/data/products";
+import { getCategoryLandingHref } from "@/data/categoryLandingPages";
 import { categories } from "@/data/categories";
 import type { Metadata } from "next";
 import HomeSearch from "./HomeSearch";
@@ -173,11 +174,7 @@ function slugify(value: string) {
 }
 
 function getCategoryHref(categoryName: string) {
-  const matched = categories.find(
-    (c: any) => normalizeText(c.name) === normalizeText(categoryName)
-  );
-
-  return matched ? `/kategori/${matched.slug}` : `/kategori/${slugify(categoryName)}`;
+  return getCategoryLandingHref(categoryName);
 }
 
 function getMinOrderText(product: any) {
@@ -666,7 +663,7 @@ export default function Home() {
           <SectionHeader
             title="Promosyon Kalem Modelleri"
             text="Logo baskıya uygun promosyon kalem modellerini inceleyin."
-            href="/kategori/kalem"
+            href="/promosyon-kalem"
             cta="Tüm Kalemler →"
           />
           <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
@@ -682,7 +679,7 @@ export default function Home() {
           <SectionHeader
             title="Promosyon Termos Modelleri"
             text="Logo baskılı promosyon termos çeşitlerini ve kurumsal kullanım için uygun modelleri inceleyin."
-            href="/kategori/termos"
+            href="/promosyon-termos"
             cta="Tüm Termoslar →"
           />
           <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
@@ -714,7 +711,7 @@ export default function Home() {
           <SectionHeader
             title="Geri Dönüşümlü Promosyon Ürünleri"
             text="Çevre dostu, sürdürülebilir ve logo baskıya uygun geri dönüşümlü promosyon ürünlerini inceleyin."
-            href="/kategori/geri-donusumlu-urunler"
+            href="/promosyon-geri-donusumlu-urunler"
             cta="Tüm Ürünler →"
           />
           <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">

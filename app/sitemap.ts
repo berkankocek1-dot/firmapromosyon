@@ -1,6 +1,7 @@
-﻿import type { MetadataRoute } from "next";
+import type { MetadataRoute } from "next";
 import { products } from "@/data/products";
 import { categories } from "@/data/categories";
+import { getCategoryLandingHref } from "@/data/categoryLandingPages";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://www.firmapromosyon.com";
@@ -72,7 +73,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ];
 
   const categoryRoutes: MetadataRoute.Sitemap = categories.map((category) => ({
-    url: `${baseUrl}/kategori/${category.slug}`,
+    url: `${baseUrl}${getCategoryLandingHref(category.name)}`,
     lastModified: new Date(),
     changeFrequency: "weekly",
     priority: 0.8,
