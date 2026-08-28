@@ -1,5 +1,6 @@
-import type { MetadataRoute } from "next";
+﻿import type { MetadataRoute } from "next";
 import { products } from "@/data/products";
+import { categories } from "@/data/categories";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://www.firmapromosyon.com";
@@ -16,6 +17,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/hakkimizda`,
+      lastModified: new Date(),
+      changeFrequency: "yearly",
+      priority: 0.6,
     },
     {
       url: `${baseUrl}/teklif`,
@@ -37,7 +44,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  // REHBER SAYFALARI
   const guideRoutes: MetadataRoute.Sitemap = [
     {
       url: `${baseUrl}/rehber`,
@@ -65,12 +71,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  const productRoutes: MetadataRoute.Sitemap = products.map((p) => ({
-    url: `${baseUrl}/urunler/${p.slug}`,
+  const categoryRoutes: MetadataRoute.Sitemap = categories.map((category) => ({
+    url: `${baseUrl}/kategori/${category.slug}`,
     lastModified: new Date(),
     changeFrequency: "weekly",
     priority: 0.8,
   }));
 
-  return [...routes, ...guideRoutes, ...productRoutes];
+  const productRoutes: MetadataRoute.Sitemap = products.map((product) => ({
+    url: `${baseUrl}/urunler/${product.slug}`,
+    lastModified: new Date(),
+    changeFrequency: "weekly",
+    priority: 0.8,
+  }));
+
+  return [
+    ...routes,
+    ...guideRoutes,
+    ...categoryRoutes,
+    ...productRoutes,
+  ];
 }
