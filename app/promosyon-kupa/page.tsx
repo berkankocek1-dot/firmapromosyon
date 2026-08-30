@@ -1,7 +1,7 @@
 import Link from "next/link";
-import Image from "next/image";
 import type { Metadata } from "next";
 import { products } from "@/data/products";
+import KupaProductGrid from "./KupaProductGrid";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
@@ -166,46 +166,7 @@ export default function Page() {
         </header>
       </section>
 
-      <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {list.map((p) => (
-          <Link
-            key={p.id}
-            href={`/urunler/${p.slug}`}
-            className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
-          >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
-              <Image
-                src={p.image}
-                alt={p.title}
-                fill
-                unoptimized
-loading="lazy"
-                className="object-contain p-4"
-                sizes="(max-width: 768px) 100vw, 33vw"
-              />
-            </div>
-
-            <div className="mt-4">
-              <div className="text-xs font-semibold uppercase tracking-wide text-gray-500">
-                {p.category}
-              </div>
-
-              <h2 className="mt-1 text-lg font-bold text-gray-900">
-                {p.title}
-              </h2>
-
-              <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
-                {p.shortDesc}
-              </p>
-
-              <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
-                Ürünü İncele
-              </div>
-            </div>
-          </Link>
-        ))}
-      </section>
-
+      <KupaProductGrid products={list} />
       {list.length === 0 && (
         <p className="mt-10 text-center text-gray-600">
           Bu kategoride henüz ürün yok.
