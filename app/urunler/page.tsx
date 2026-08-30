@@ -1,5 +1,4 @@
-﻿import { Suspense } from "react";
-import Link from "next/link";
+import { Suspense } from "react";
 import type { Metadata } from "next";
 import { products } from "@/data/products";
 import ProductsClient from "./ProductsClient";
@@ -57,24 +56,7 @@ export const metadata: Metadata = {
   },
 };
 
-function slugifyCategoryTR(category: string) {
-  return category
-    .trim()
-    .toLocaleLowerCase("tr-TR")
-    .replaceAll("ı", "i")
-    .replaceAll("ğ", "g")
-    .replaceAll("ü", "u")
-    .replaceAll("ş", "s")
-    .replaceAll("ö", "o")
-    .replaceAll("ç", "c")
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/(^-|-$)/g, "");
-}
-
 export default function ProductsPage() {
-  const categories = Array.from(new Set(products.map((p) => p.category))).sort(
-    (a, b) => a.localeCompare(b, "tr")
-  );
 
   const pageUrl = `${SITE_URL}/urunler`;
 
@@ -132,27 +114,6 @@ export default function ProductsPage() {
           <p className="mt-2 text-base text-white/80 md:text-lg">
             Kategorilere göre filtreleyin ve hızlı teklif alın.
           </p>
-        </div>
-
-        <div className="mb-8 overflow-x-auto">
-          <div className="flex min-w-max gap-3 pb-1">
-            <Link
-              href="/urunler"
-              className="whitespace-nowrap rounded-full border border-white bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
-            >
-              Tümü
-            </Link>
-
-            {categories.map((cat) => (
-              <Link
-                key={cat}
-                href={`/kategori/${slugifyCategoryTR(cat)}`}
-                className="whitespace-nowrap rounded-full border border-white/20 bg-white/10 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/15"
-              >
-                {cat}
-              </Link>
-            ))}
-          </div>
         </div>
 
         <Suspense fallback={<ProductsLoadingFallback />}>
