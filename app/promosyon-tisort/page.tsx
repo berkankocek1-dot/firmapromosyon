@@ -16,6 +16,33 @@ function JsonLd({ data }: { data: Record<string, any> }) {
 
 const CATEGORY = "Promosyon Tişört";
 const PAGE_URL = `${SITE_URL}/promosyon-tisort`;
+const faqItems = [
+  {
+    question: "Promosyon tişört minimum kaç adet yaptırılır?",
+    answer:
+      "Minimum sipariş adedi seçilen tişört modeli, beden dağılımı, baskı uygulaması ve üretim planına göre değişebilir. Toplu siparişiniz için güncel minimum adet ve fiyat bilgisi teklif aşamasında paylaşılır.",
+  },
+  {
+    question: "Bisiklet yaka mı polo yaka promosyon tişört mü tercih edilmelidir?",
+    answer:
+      "Bisiklet yaka promosyon tişörtler fuar, etkinlik, kampanya ve geniş katılımlı dağıtımlarda sık tercih edilir. Polo yaka promosyon tişörtler ise personel kullanımı ve daha kurumsal bir görünüm istenen organizasyonlar için uygun bir seçenektir.",
+  },
+  {
+    question: "Promosyon tişörtlere logo baskısı yapılabilir mi?",
+    answer:
+      "Evet. Promosyon tişört modellerimiz logo uygulamasına uygundur. Mevcut bisiklet yaka ve polo yaka modellerimizde DTF transfer baskı uygulanabilir. Baskı detayları logo yapısı ve sipariş miktarına göre değerlendirilir.",
+  },
+  {
+    question: "Promosyon tişörtlerin kumaş özellikleri nelerdir?",
+    answer:
+      "Ürün özellikleri modele göre değişmektedir. PN-100 bisiklet yaka modelimiz %100 pamuk 160 gr Suprem kumaşa, PY-110 polo yaka modelimiz ise %100 pamuk 200 gr Open-End kumaşa sahiptir.",
+  },
+  {
+    question: "Promosyon tişört fiyatları nasıl belirlenir?",
+    answer:
+      "Promosyon tişört fiyatları seçilen model, sipariş adedi, beden dağılımı, baskı uygulaması ve diğer üretim detaylarına göre belirlenir. Toplu siparişlerde güncel fiyat için kurumsal teklif alabilirsiniz.",
+  },
+];
 
 export const metadata: Metadata = {
   title:
@@ -115,6 +142,20 @@ export default function Page() {
         }}
       />
 
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqItems.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: item.answer,
+            },
+          })),
+        }}
+      />
       <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
         <nav className="mb-6 text-sm text-gray-300">
           <Link href="/" className="hover:text-white hover:underline">
@@ -316,6 +357,29 @@ export default function Page() {
               </div>
             </div>
           </section>
+          <section className="mt-14 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">
+              Promosyon Tişört Hakkında Sık Sorulan Sorular
+            </h2>
+
+            <div className="mt-6 space-y-4">
+              {faqItems.map((item) => (
+                <div
+                  key={item.question}
+                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                >
+                  <h3 className="text-base font-semibold text-white">
+                    {item.question}
+                  </h3>
+
+                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                    {item.answer}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </section>
+
         </div>
       )}
     </main>
