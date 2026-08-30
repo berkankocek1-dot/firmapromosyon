@@ -1,7 +1,7 @@
 import Link from "next/link";
-import Image from "next/image";
 import type { Metadata } from "next";
 import { products } from "@/data/products";
+import UsbProductGrid from "./UsbProductGrid";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/promosyon-usb-bellek`;
@@ -209,51 +209,7 @@ export default function UsbPage() {
         </header>
       </section>
 
-      <section className="mt-8 grid gap-6 sm:grid-cols-2 md:grid-cols-3">
-        {usbProducts.map((product) => (
-          <Link
-            key={product.id}
-            href={`/urunler/${product.slug}`}
-            className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
-          >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
-              <Image
-                src={product.image}
-                alt={product.title}
-                fill
-                unoptimized
-loading="lazy"
-                className="object-contain p-4"
-                sizes="(max-width: 768px) 100vw, 33vw"
-              />
-            </div>
-
-            <div className="mt-4">
-              <div className="text-xs font-semibold uppercase tracking-wide text-gray-500">
-                {product.category}
-              </div>
-
-              <h2 className="mt-1 text-lg font-bold text-gray-900">
-                {product.title}
-              </h2>
-
-              <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
-                {product.shortDesc}
-              </p>
-
-              <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
-                Ürünü İncele
-              </div>
-            </div>
-          </Link>
-        ))}
-      </section>
-
-      {usbProducts.length === 0 && (
-        <div className="mt-8 rounded-2xl border border-gray-200 bg-white p-8 text-center shadow-sm">
-          <p className="text-gray-700">Bu kategoride henüz ürün yok.</p>
-        </div>
-      )}
+      <UsbProductGrid products={usbProducts} />
 
       {usbProducts.length > 0 && (
         <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
