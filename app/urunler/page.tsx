@@ -1,9 +1,24 @@
 import { Suspense } from "react";
+import Link from "next/link";
 import type { Metadata } from "next";
 import { products } from "@/data/products";
 import ProductsClient from "./ProductsClient";
 
 const SITE_URL = "https://www.firmapromosyon.com";
+
+const categoryLinks = [
+  { href: "/promosyon-kalem", label: "Promosyon Kalem" },
+  { href: "/promosyon-defter", label: "Promosyon Defter" },
+  { href: "/promosyon-ajanda", label: "Promosyon Ajanda" },
+  { href: "/promosyon-powerbank", label: "Promosyon Powerbank" },
+  { href: "/promosyon-usb-bellek", label: "Promosyon USB Bellek" },
+  { href: "/promosyon-termos", label: "Promosyon Termos" },
+  { href: "/promosyon-kalem-setleri", label: "Promosyon Kalem Setleri" },
+  { href: "/promosyon-teknolojik-urunler", label: "Teknolojik Ürünler" },
+  { href: "/promosyon-vip-urunler", label: "VIP Promosyon Ürünleri" },
+  { href: "/promosyon-cakmak", label: "Promosyon Çakmak" },
+  { href: "/promosyon-anahtarlik", label: "Promosyon Anahtarlık" },
+];
 
 function JsonLd({ data }: { data: Record<string, any> }) {
   return (
@@ -119,6 +134,26 @@ export default function ProductsPage() {
         <Suspense fallback={<ProductsLoadingFallback />}>
           <ProductsClient products={products} />
         </Suspense>
+
+        <section className="mb-8 rounded-2xl border border-white/10 bg-white/5 p-5 md:p-6">
+          <h2 className="text-xl font-bold text-white">
+            Popüler Promosyon Kategorileri
+          </h2>
+          <p className="mt-2 text-sm leading-6 text-white/70">
+            İhtiyacınıza uygun promosyon ürünlerini kategori sayfalarından inceleyin.
+          </p>
+          <nav aria-label="Popüler promosyon kategorileri" className="mt-4 flex flex-wrap gap-2">
+            {categoryLinks.map((category) => (
+              <Link
+                key={category.href}
+                href={category.href}
+                className="rounded-full border border-white/20 bg-black/30 px-4 py-2 text-sm font-semibold text-white transition hover:border-white/50 hover:bg-white/10"
+              >
+                {category.label}
+              </Link>
+            ))}
+          </nav>
+        </section>
       </div>
     </main>
   );
