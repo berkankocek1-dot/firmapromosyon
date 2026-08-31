@@ -74677,7 +74677,7 @@ Promosyon silgi SG-260; 50 x 25 x 10 mm ölçüsü, beyaz gövdesi ve geniş log
   slug: "promosyon-pamuklu-fileli-sapka-sp-750",
 
   title:
-    "Promosyon Pamuklu Fileli Şapka ŞP-750 | Logo Baskılı Şapka Modelleri",
+    "Promosyon Fileli Şapka ŞP-750 | Logo Baskılı Pamuklu Şapka",
 
   price: 105,
 
@@ -74686,7 +74686,7 @@ Promosyon silgi SG-260; 50 x 25 x 10 mm ölçüsü, beyaz gövdesi ve geniş log
   image: "/products/promosyon-pamuklu-fileli-sapka-sp-750.jpg",
 
   shortDesc:
-    "Promosyon pamuklu fileli şapka ŞP-750 modeli, kaliteli pamuklu ön paneli, nefes alabilen fileli arka yapısı, ayarlanabilir cırt bantlı tasarımı ve DTF transfer baskıya uygun geniş ön yüzeyi sayesinde yaz aylarında personel kullanımı, fuarlar ve kurumsal etkinlikler için tercih edilen logo baskılı promosyon şapka modellerinden biridir.",
+    "Pamuklu ön panel ve nefes alan fileli arka yapıya sahip ŞP-750 promosyon şapka. Logo baskılı toplu sipariş ve kurumsal fiyat için teklif alın.",
 
   longDesc: `
 Promosyon pamuklu fileli şapka ŞP-750 modeli, yaz aylarında maksimum konfor sunan fileli arka yapısı ve profesyonel görünümü sayesinde kurumsal promosyon şapka modelleri arasında öne çıkan ürünlerden biridir. Günlük kullanım için tasarlanmış yapısı sayesinde markanızı uzun süre görünür kılan etkili bir reklam ürünü olarak kullanılmaktadır.
