@@ -72,11 +72,21 @@ export default async function ProductPage({ params }: PageProps) {
   const productUrl = `${SITE_URL}/urunler/${product.slug}`;
   const categoryHref = getCategoryHref(product.category);
 
-  const relatedProducts = products
-    .filter(
-      (item) => item.category === product.category && item.slug !== product.slug
-    )
-    .slice(0, 8);
+  const categoryProducts = products.filter(
+    (item) => item.category === product.category
+  );
+  const currentProductIndex = categoryProducts.findIndex(
+    (item) => item.slug === product.slug
+  );
+  const relatedProducts = Array.from(
+    {
+      length: Math.min(8, Math.max(0, categoryProducts.length - 1)),
+    },
+    (_, offset) =>
+      categoryProducts[
+        (currentProductIndex + offset + 1) % categoryProducts.length
+      ]
+  );
 
   const longDescText = (product.longDesc ?? "").trim();
   const longDescLines = longDescText
