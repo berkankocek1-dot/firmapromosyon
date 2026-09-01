@@ -47,9 +47,9 @@ const faqItems = [
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Anahtarlık | Logo Baskılı Kurumsal Anahtarlık Modelleri ve Toplu Sipariş",
+    "Promosyon Anahtarlık | Logo Baskılı ve Toptan Modeller",
   description:
-    "Promosyon anahtarlık modelleri, logo baskılı kurumsal anahtarlık çeşitleri ve toptan promosyon ürünleri için hızlı teklif alın. Fuar, etkinlik ve firma tanıtımı için ideal çözümleri inceleyin.",
+    "Logo baskılı metal, deri, açacaklı ve özel tasarım promosyon anahtarlık modellerini inceleyin. Toptan sipariş için hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
