@@ -47,9 +47,9 @@ const faqItems = [
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Termos | Logo Baskılı Kurumsal Promosyon Termos Modelleri",
+    "Promosyon Termos | Logo Baskılı Termos Modelleri",
   description:
-    "Promosyon termos modelleri, logo baskılı kurumsal termos çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Fuar, etkinlik, ofis ve firma tanıtımı için promosyon termos ürünlerini inceleyin.",
+    "Logo baskılı çelik, 500 ml, dijital göstergeli termos ve matara modellerini inceleyin. Toptan sipariş için hızlı kurumsal teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
