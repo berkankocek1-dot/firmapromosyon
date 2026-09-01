@@ -18,9 +18,9 @@ const CATEGORY = "Kupa";
 const PAGE_URL = `${SITE_URL}/promosyon-kupa`;
 
 export const metadata: Metadata = {
-  title: "Promosyon Kupa | Logo Baskılı Kurumsal Promosyon Kupa Modelleri",
+  title: "Promosyon Kupa ve Fincan | Logo Baskılı Modeller",
   description:
-    "Promosyon kupa modelleri, logo baskılı kurumsal kupa çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Ofis, fuar, etkinlik ve firma tanıtımı için promosyon kupa ürünlerini inceleyin.",
+    "Logo baskılı promosyon kupa ve fincan modellerini inceleyin. Ofis, etkinlik ve kurumsal hediyeler için toplu siparişe özel teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
