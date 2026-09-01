@@ -46,9 +46,9 @@ const faqItems = [
 
 export const metadata: Metadata = {
   title:
-    "Promosyon USB Bellek | Logo Baskılı Kurumsal Promosyon USB Bellek Modelleri",
+    "Promosyon USB Bellek | Logo Baskılı Modeller",
   description:
-    "Promosyon USB bellek modelleri, logo baskılı USB bellek çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Kurumsal tanıtım, fuar, etkinlik ve müşteri dağıtımları için promosyon USB bellek ürünlerini inceleyin.",
+    "Logo baskılı metal, ahşap, deri, kart ve USB 3.0 bellek modellerini inceleyin. Toptan sipariş için hızlı kurumsal teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
