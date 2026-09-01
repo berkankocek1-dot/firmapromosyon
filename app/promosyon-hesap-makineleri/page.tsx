@@ -19,9 +19,9 @@ const PAGE_URL = `${SITE_URL}/promosyon-hesap-makineleri`;
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Hesap Makineleri | Logo Baskılı Kurumsal Hesap Makinesi Modelleri",
+    "Promosyon Hesap Makinesi | Logo Baskılı Modeller",
   description:
-    "Promosyon hesap makineleri, logo baskılı kurumsal hesap makinesi çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Ofis ve kurumsal kullanım için promosyon hesap makinelerini inceleyin.",
+    "Logo baskılı promosyon hesap makinesi modellerini inceleyin. Ofis ve kurumsal kullanım için toplu siparişe özel hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
