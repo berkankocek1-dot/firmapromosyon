@@ -19,9 +19,9 @@ const PAGE_URL = `${SITE_URL}/promosyon-vip-urunler`;
 
 export const metadata: Metadata = {
   title:
-    "Promosyon VIP Ürünler | Logo Baskılı Kurumsal VIP Promosyon Ürünleri",
+    "Promosyon VIP Ürünler | Kurumsal Hediye Setleri",
   description:
-    "Promosyon VIP ürünler, logo baskılı kurumsal VIP hediye çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Yönetici hediyesi, özel müşteri promosyonu ve prestijli kurumsal kullanım için VIP ürünleri inceleyin.",
+    "Defter, kalem, termos, powerbank ve USB içeren promosyon VIP hediye setlerini inceleyin. Logo baskılı toplu sipariş için hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
