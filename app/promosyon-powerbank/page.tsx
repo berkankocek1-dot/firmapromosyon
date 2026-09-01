@@ -46,9 +46,9 @@ const faqItems = [
 ];
 
 export const metadata: Metadata = {
-  title: "Promosyon Powerbank | Logo Baskılı Kurumsal Powerbank Modelleri",
+  title: "Promosyon Powerbank | Logo Baskılı Modeller",
   description:
-    "Promosyon powerbank modelleri, logo baskılı kurumsal powerbank çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Fuar, etkinlik, ofis ve firma tanıtımı için promosyon powerbank ürünlerini inceleyin.",
+    "Logo baskılı 5.000, 10.000 ve 20.000 mAh powerbank modellerini inceleyin. MagSafe, wireless ve hızlı şarj seçenekleri için teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
