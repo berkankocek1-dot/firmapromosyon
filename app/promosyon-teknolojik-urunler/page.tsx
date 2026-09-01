@@ -19,9 +19,9 @@ const PAGE_URL = `${SITE_URL}/promosyon-teknolojik-urunler`;
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Teknolojik Ürünler | Logo Baskılı Teknolojik Promosyon Ürünleri",
+    "Promosyon Teknolojik Ürünler | Logo Baskılı Modeller",
   description:
-    "Promosyon teknolojik ürünler, logo baskılı teknolojik promosyon çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Powerbank, USB bellek ve teknolojik promosyon ürünlerini inceleyin.",
+    "Logo baskılı şarj kablosu, Bluetooth hoparlör, wireless şarj ve telefon standı modellerini inceleyin. Toplu sipariş için hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
