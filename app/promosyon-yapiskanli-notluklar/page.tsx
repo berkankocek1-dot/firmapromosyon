@@ -19,9 +19,9 @@ const PAGE_URL = `${SITE_URL}/promosyon-yapiskanli-notluklar`;
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Yapışkanlı Notluklar | Logo Baskılı Kurumsal Notluk Modelleri",
+    "Promosyon Yapışkanlı Notluklar | Logo Baskılı Modeller",
   description:
-    "Promosyon yapışkanlı notluk modelleri, logo baskılı kurumsal notluk çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Ofis, fuar, etkinlik ve firma tanıtımı için promosyon notluk ürünlerini inceleyin.",
+    "Logo baskılı promosyon yapışkanlı notluk modellerini inceleyin. Kraft, spiralli ve kalemli seçeneklerde toplu sipariş için hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
