@@ -51,9 +51,9 @@ const faqItems = [
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Ajanda Modelleri | Logo Baskılı Kurumsal Promosyon Ajanda",
+    "Promosyon Ajanda | Logo Baskılı ve Toptan Modeller",
   description:
-    "Promosyon ajanda modelleri, logo baskılı kurumsal ajanda çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Firma tanıtımı, ofis kullanımı ve kurumsal hediyeler için promosyon ajanda ürünlerini inceleyin.",
+    "Logo baskılı termo deri, spiralli ve sert kapaklı promosyon ajanda modellerini inceleyin. Toptan sipariş için hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
