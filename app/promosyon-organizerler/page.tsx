@@ -19,9 +19,9 @@ const PAGE_URL = `${SITE_URL}/promosyon-organizerler`;
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Organizerler | Logo Baskılı Kurumsal Organizer Modelleri",
+    "Promosyon Organizer | Logo Baskılı Modeller",
   description:
-    "Promosyon organizer modelleri, logo baskılı kurumsal organizer çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Ofis, toplantı ve kurumsal kullanım için promosyon organizer ürünlerini inceleyin.",
+    "Logo baskılı termo deri, ajandalı, hesap makineli ve manyetik kilitli organizer modellerini inceleyin. Toptan sipariş için hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
