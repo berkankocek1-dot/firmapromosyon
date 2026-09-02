@@ -47,9 +47,9 @@ const faqItems = [
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Çakmak | Logo Baskılı Kurumsal Promosyon Çakmak Modelleri",
+    "Promosyon Çakmak | Logo Baskılı Çakmak Modelleri",
   description:
-    "Promosyon çakmak modelleri, logo baskılı kurumsal çakmak çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Fuar, etkinlik, kafe, restoran ve firma tanıtımı için promosyon çakmak ürünlerini inceleyin.",
+    "Logo baskılı taşlı, manyetolu, turbo, rüzgâr ve doldurulabilir promosyon çakmak modellerini inceleyin. Toptan sipariş için hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
