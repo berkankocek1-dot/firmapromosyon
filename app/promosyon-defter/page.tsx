@@ -51,9 +51,9 @@ const faqItems = [
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Defter Modelleri | Tarihsiz Defter & Logo Baskılı Kurumsal Defter",
+    "Promosyon Defter Modelleri | Logo Baskılı ve Tarihsiz",
   description:
-    "Promosyon defter modelleri, tarihsiz defter seçenekleri ve logo baskılı kurumsal defter çeşitleri için hızlı teklif alın. Toplu siparişe uygun promosyon defter ürünlerini inceleyin.",
+    "Logo baskılı tarihsiz, kalem tutuculu, metal detaylı ve premium promosyon defter modellerini inceleyin. Toptan sipariş için hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
