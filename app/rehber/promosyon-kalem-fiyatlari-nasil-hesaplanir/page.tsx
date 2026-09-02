@@ -206,8 +206,9 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
             adet arttıkça birim fiyatın neden düştüğünü, baskı türlerinin
             maliyete nasıl yansıdığını ve sipariş verirken nelere dikkat
             edilmesi gerektiğini detaylı şekilde inceleyebilirsiniz. Eğer
-            firmanız için hem uygun maliyetli hem de etkili bir logo baskılı
-            promosyon kalem arıyorsanız, bu içerik size doğru planlama konusunda
+            firmanız için hem uygun maliyetli hem de etkili bir logo baskılı{" "}
+            <Link href="/promosyon-kalem" className="font-semibold text-gray-900 underline underline-offset-4">promosyon kalem</Link>{" "}
+            arıyorsanız, bu içerik size doğru planlama konusunda
             net bir çerçeve sunacaktır.
           </p>
         </header>
@@ -253,7 +254,7 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
             <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
               <p>
                 Promosyon kalem fiyatlarını belirleyen ilk ve en temel unsur,
-                seçilen modeldir. Plastik promosyon kalemler, genellikle en
+                seçilen modeldir. <Link href="/urunler/promosyon-plastik-kalem-pls-450" className="font-semibold text-gray-900 underline underline-offset-4">Plastik promosyon kalemler</Link>, genellikle en
                 ekonomik ürün grubu içinde yer alır. Bu yüzden fuar, etkinlik,
                 toplu dağıtım ve geniş çaplı kampanyalarda daha sık tercih
                 edilir. Yüksek adetli siparişlerde maliyeti düşük tutmak isteyen
@@ -261,7 +262,7 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
                 noktasıdır.
               </p>
               <p>
-                Metal promosyon kalemler ise daha şık, daha ağır ve daha güçlü
+                <Link href="/urunler/promosyon-metal-kalem-mk-100" className="font-semibold text-gray-900 underline underline-offset-4">Metal promosyon kalemler</Link> ise daha şık, daha ağır ve daha güçlü
                 bir kalite algısı sunduğu için fiyat olarak plastik modellere
                 göre daha yüksektir. Özellikle kurumsal hediye, yönetici
                 sunumu, bayi toplantısı veya prestijli müşteri ziyaretleri gibi
@@ -269,7 +270,7 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
                 yükselirken ürünün bıraktığı etki de değişir.
               </p>
               <p>
-                Dokunmatik kalem, roller kalem, jel kalem veya özel kaplamalı
+                <Link href="/urunler/promosyon-dokunmatik-kalem-dk-500" className="font-semibold text-gray-900 underline underline-offset-4">Dokunmatik kalem</Link>, roller kalem, jel kalem veya özel kaplamalı
                 modeller gibi daha niş ürünlerde ise standart modellere göre
                 farklı maliyetler oluşabilir. Bu yüzden fiyat hesabı yaparken
                 önce ürün sınıfının doğru belirlenmesi gerekir.
