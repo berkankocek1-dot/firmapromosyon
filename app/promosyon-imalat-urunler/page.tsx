@@ -19,9 +19,9 @@ const PAGE_URL = `${SITE_URL}/promosyon-imalat-urunler`;
 
 export const metadata: Metadata = {
   title:
-    "Promosyon İmalat Ürünleri | Özel Üretim Logo Baskılı Promosyon Ürünleri",
+    "Promosyon İmalat Ürünleri | Özel Üretim Modeller",
   description:
-    "Promosyon imalat ürünleri, özel üretim logo baskılı promosyon ürünleri ve toplu sipariş seçenekleri için hızlı teklif alın. Kurumsal tanıtım için özel üretim promosyon ürünlerini inceleyin.",
+    "Logo baskılı açacak, mouse pad, masaüstü, şemsiye ve oto promosyon ürünlerini inceleyin. Özel üretim ve toplu sipariş için hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
