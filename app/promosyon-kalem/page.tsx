@@ -47,9 +47,9 @@ const faqItems = [
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Kalem | Logo Baskılı Kurumsal Kalem Modelleri ve Toplu Sipariş",
+    "Promosyon Kalem | Logo Baskılı Kalem Modelleri",
   description:
-    "Promosyon kalem modelleri, logo baskılı kurumsal kalem çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Fuar, etkinlik, ofis ve firma tanıtımı için promosyon kalem ürünlerini inceleyin.",
+    "Logo baskılı plastik, metal, roller, dokunmatik ve kurşun kalem modellerini inceleyin. Toptan sipariş için hızlı kurumsal teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
