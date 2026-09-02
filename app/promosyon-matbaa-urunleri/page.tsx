@@ -19,9 +19,9 @@ const PAGE_URL = `${SITE_URL}/promosyon-matbaa-urunleri`;
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Matbaa Ürünleri | Logo Baskılı Kurumsal Matbaa Ürünleri",
+    "Promosyon Matbaa Ürünleri | Kurumsal Baskı Çözümleri",
   description:
-    "Promosyon matbaa ürünleri, logo baskılı kurumsal baskı çözümleri ve toplu sipariş seçenekleri için hızlı teklif alın. Kartvizit, broşür, katalog, el ilanı ve kurumsal basılı ürünleri inceleyin.",
+    "Kartvizit, broşür, katalog, el ilanı ve kurumsal matbaa ürünlerini inceleyin. Toplu baskı siparişleri için hızlı ve size özel teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
