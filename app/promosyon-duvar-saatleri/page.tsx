@@ -47,9 +47,9 @@ const faqItems = [
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Duvar Saatleri | Logo Baskılı Kurumsal Duvar Saati Modelleri",
+    "Promosyon Duvar Saati | Logo Baskılı Modeller",
   description:
-    "Promosyon duvar saatleri, logo baskılı kurumsal duvar saati modelleri ve toplu sipariş seçenekleri. Ofis, kurum ve firma tanıtımı için promosyon duvar saatlerini inceleyin.",
+    "Logo baskılı 30, 35 ve 40 cm üzeri promosyon duvar saati modellerini inceleyin. Kurumsal ve özel tasarım toplu siparişler için hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
