@@ -19,9 +19,9 @@ const PAGE_URL = `${SITE_URL}/promosyon-kalem-setleri`;
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Kalem Setleri | Logo Baskılı Kurumsal Kalem Seti Modelleri",
+    "Promosyon Kalem Setleri | Logo Baskılı Modeller",
   description:
-    "Promosyon kalem setleri, logo baskılı kurumsal kalem seti çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Ofis, bayi, müşteri hediyesi ve kurumsal tanıtım için promosyon kalem seti ürünlerini inceleyin.",
+    "Logo baskılı metal, roller, ahşap ve anahtarlıklı promosyon kalem setlerini inceleyin. Kurumsal hediye ve toplu sipariş için hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
