@@ -435,7 +435,58 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
 
           <section>
             <h2 className="text-2xl font-extrabold text-gray-900">
-              7. En Doğru Fiyat Teklifi Nasıl Alınır?
+              7. Sipariş Adedine Göre Promosyon Kalem Fiyatları
+            </h2>
+
+            <div className="mt-4 space-y-6 text-sm leading-7 text-gray-700 md:text-base">
+              <div>
+                <h3 className="text-lg font-bold text-gray-900">
+                  100 Adet Promosyon Kalem Fiyatı
+                </h3>
+                <p className="mt-2">
+                  100 adet gibi düşük miktarlı siparişlerde hazırlık ve baskı
+                  maliyetleri daha az ürüne bölündüğü için birim fiyat genellikle
+                  daha yüksek olur. Bu miktar; küçük organizasyonlar, deneme
+                  siparişleri ve sınırlı dağıtımlar için tercih edilebilir.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-lg font-bold text-gray-900">
+                  500 Adet Promosyon Kalem Fiyatı
+                </h3>
+                <p className="mt-2">
+                  500 adet siparişlerde üretim ve baskı maliyetleri daha dengeli
+                  dağıldığından birim fiyat daha avantajlı hale gelebilir.
+                  Fuarlar, etkinlikler ve dönemsel kampanyalar için bütçe ile
+                  ürün miktarı arasında dengeli bir seçenek sunar.
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-lg font-bold text-gray-900">
+                  1000 Adet Promosyon Kalem Fiyatı
+                </h3>
+                <p className="mt-2">
+                  1000 adet ve üzerindeki toplu kalem siparişlerinde birim
+                  maliyet çoğunlukla daha düşük olur. Kurumsal dağıtım, bayi ağı
+                  ve yoğun müşteri teması bulunan kampanyalarda yüksek adetli
+                  alımlar daha verimli olabilir.
+                </p>
+              </div>
+
+              <p>
+                Her adet seviyesinde kesin fiyat; seçilen kalem modeli, stok
+                durumu, baskı türü, baskı yönü ve renk sayısına göre belirlenir.
+                Bu nedenle sağlıklı karşılaştırma için aynı ürün ve aynı baskı
+                özellikleri üzerinden teklif alınmalıdır.
+              </p>
+            </div>
+          </section>
+
+          <section>
+            <h2 className="text-2xl font-extrabold text-gray-900">
+              8. En Doğru Fiyat Teklifi Nasıl Alınır?
             </h2>
 
             <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">

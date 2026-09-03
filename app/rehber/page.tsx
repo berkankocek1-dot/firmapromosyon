@@ -53,12 +53,7 @@ const guides = [
     desc: "Promosyon kalem fiyatları nasıl belirlenir? Adet, baskı ve model bazlı fiyat hesaplama rehberi.",
     image: "/guides/promosyon-kalem-fiyatlari-nasil-hesaplanir.jpg",
   },
-  {
-    slug: "promosyon-kalem-toptan-fiyatlari",
-    title: "Promosyon Kalem Toptan Fiyatları 2026",
-    desc: "Toptan promosyon kalem fiyatları ne kadar? 100, 500 ve 1000 adet için güncel fiyat rehberi.",
-    image: "/guides/promosyon-kalem-toptan-fiyatlari.jpg",
-  },
+
   {
     slug: "logo-baskili-kalem-fiyatlari",
     title: "Logo Baskılı Kalem Fiyatları 2026",
