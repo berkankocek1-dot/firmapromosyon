@@ -520,6 +520,19 @@ export default function Page() {
                   açısından dikkat edilmesi gereken detayları keşfedin.
                 </p>
               </Link>
+
+              <Link
+                href="/rehber/promosyon-kalem-toptan"
+                className="rounded-2xl border border-white/10 bg-white/5 p-5 transition hover:bg-white/10"
+              >
+                <h3 className="text-lg font-semibold text-white">
+                  Toplu Kalem Siparişi Rehberi
+                </h3>
+                <p className="mt-2 text-sm leading-6 text-gray-200">
+                  Logo baskılı kalemlerde model, baskı ve toplu sipariş
+                  sürecini inceleyin.
+                </p>
+              </Link>
             </div>
           </section>
         </div>
