@@ -316,10 +316,10 @@ Eğer siz de kurumsal tanıtımınızı güçlendirmek ve müşterilerinize kal�
 },
   {
   slug: "promosyon-kalem-toptan",
-  title: "Promosyon Kalem Toptan Satın Alma Rehberi: Fiyatlar, Modeller ve Kurumsal Sipariş",
+  title: "Toplu Kalem Siparişi | Logo Baskılı Promosyon Kalem",
   description:
-    "Promosyon kalem toptan nasıl alınır? Plastik, metal kalem çeşitleri, baskı seçenekleri ve fiyatı etkileyen faktörler hakkında detaylı rehber.",
-  h1: "Promosyon Kalem Toptan Satın Alma Rehberi",
+    "Toplu kalem siparişi için plastik, metal ve dokunmatik modelleri inceleyin. Logo baskı seçeneklerini, sipariş sürecini ve önemli detayları öğrenin.",
+  h1: "Toplu Promosyon Kalem Siparişi Rehberi",
   image: "/guides/promosyon-kalem-toptan.jpg",
   keywords: [
     "promosyon kalem",
