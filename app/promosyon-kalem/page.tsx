@@ -509,19 +509,6 @@ export default function Page() {
               </Link>
 
               <Link
-                href="/rehber/logo-baskili-kalem-fiyatlari"
-                className="rounded-2xl border border-white/10 bg-white/5 p-5 transition hover:bg-white/10"
-              >
-                <h3 className="text-lg font-semibold text-white">
-                  Logo Baskılı Kalem Seçerken Nelere Dikkat Edilmeli?
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Kalem modeli, baskı alanı, kullanım amacı ve kurumsal görünüm
-                  açısından dikkat edilmesi gereken detayları keşfedin.
-                </p>
-              </Link>
-
-              <Link
                 href="/rehber/promosyon-kalem-toptan"
                 className="rounded-2xl border border-white/10 bg-white/5 p-5 transition hover:bg-white/10"
               >

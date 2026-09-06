@@ -423,12 +423,12 @@ export default function Page() {
                   logo baskılı kalem
                 </Link>
                 ,{" "}
-                <Link href="/rehber/baskili-kalem-fiyatlari" className="text-blue-600 underline">
+                <Link href="/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir" className="text-blue-600 underline">
                   baskılı kalem fiyatları
                 </Link>{" "}
                 ve{" "}
-                <Link href="/rehber/kalem-baski-fiyatlari" className="text-blue-600 underline">
-                  kalem baskı fiyatları
+                <Link href="/rehber/promosyon-kalemlerde-baski-turleri-nelerdir" className="text-blue-600 underline">
+                  promosyon kalemlerde baskı türleri
                 </Link>{" "}
                 rehberleri de incelenebilir.
               </p>
@@ -501,7 +501,7 @@ export default function Page() {
 
               <p>
                 Genel fiyat yapısını daha iyi anlamak için{" "}
-                <Link href="/rehber/promosyon-kalem-fiyatlari" className="text-blue-600 underline">
+                <Link href="/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir" className="text-blue-600 underline">
                   promosyon kalem fiyatları
                 </Link>{" "}
                 rehberi de incelenebilir.

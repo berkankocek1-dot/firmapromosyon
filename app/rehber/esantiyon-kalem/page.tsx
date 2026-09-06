@@ -437,14 +437,14 @@ export default function Page() {
                 de doğrudan etkilidir. Bu nedenle uygun ürün ile doğru baskı
                 tekniğini eşleştirmek gerekir. Daha detaylı maliyet yapısı için{" "}
                 <Link
-                  href="/rehber/kalem-baski-fiyatlari"
+                  href="/rehber/promosyon-kalemlerde-baski-turleri-nelerdir"
                   className="text-blue-600 underline"
                 >
-                  kalem baskı fiyatları
+                  promosyon kalemlerde baskı türleri
                 </Link>{" "}
                 ve{" "}
                 <Link
-                  href="/rehber/baskili-kalem-fiyatlari"
+                  href="/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir"
                   className="text-blue-600 underline"
                 >
                   baskılı kalem fiyatları
@@ -485,7 +485,7 @@ export default function Page() {
               <p>
                 Eğer doğrudan fiyat odaklı araştırma yapıyorsanız{" "}
                 <Link
-                  href="/rehber/promosyon-kalem-fiyatlari"
+                  href="/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir"
                   className="text-blue-600 underline"
                 >
                   promosyon kalem fiyatları

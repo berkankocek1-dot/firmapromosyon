@@ -53,13 +53,6 @@ const guides = [
     desc: "Promosyon kalem fiyatları nasıl belirlenir? Adet, baskı ve model bazlı fiyat hesaplama rehberi.",
     image: "/guides/promosyon-kalem-fiyatlari-nasil-hesaplanir.jpg",
   },
-
-  {
-    slug: "logo-baskili-kalem-fiyatlari",
-    title: "Logo Baskılı Kalem Fiyatları 2026",
-    desc: "Logo baskılı promosyon kalem fiyatları ne kadar? Baskı türüne göre detaylı rehber.",
-    image: "/guides/logo-baskili-kalem-fiyatlari.jpg",
-  },
   {
     slug: "en-ucuz-promosyon-kalem",
     title: "En Ucuz Promosyon Kalem Hangisi?",
@@ -102,27 +95,10 @@ const guides = [
     desc: "Promosyon kalem nedir, neden tercih edilir ve firmalara ne kazandırır? Baskı türleri, kullanım alanları ve fiyat detaylarıyla kapsamlı rehber.",
   },
   {
-    slug: "promosyon-kalem-fiyatlari",
-    title: "Promosyon Kalem Fiyatları 2026",
-    desc: "Promosyon kalem fiyatları ne kadar? Adet, baskı ve model bazlı detaylı fiyat rehberi.",
-    image: "/guides/promosyon-kalem-fiyatlari.jpg",
-  },
-  {
-    slug: "baskili-kalem-fiyatlari",
-    title: "Baskılı Kalem Fiyatları 2026",
-    desc: "Baskılı kalem fiyatları ne kadar? Logo baskı, UV baskı ve adet bazlı detaylı rehber.",
-    image: "/guides/baskili-kalem-fiyatlari.jpg",
-  },
-  {
     slug: "logo-baskili-kalem",
     title: "Logo Baskılı Kalem Nedir? 2026 Rehber",
     desc: "Logo baskılı kalem nedir, nasıl yapılır ve firmalara ne kazandırır? Detaylı rehber.",
     image: "/guides/logo-baskili-kalem.jpg",
-  },
-  {
-    slug: "kalem-baski-fiyatlari",
-    title: "Kalem Baskı Fiyatları 2026",
-    desc: "Kalem baskı fiyatları ne kadar? Tampon, UV ve lazer baskı detaylı rehber.",
   },
   {
     slug: "esantiyon-kalem",

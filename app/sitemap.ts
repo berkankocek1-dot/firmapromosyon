@@ -70,6 +70,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly",
       priority: 0.7,
     },
+    {
+      url: `${baseUrl}/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir`,
+      lastModified: new Date(),
+      changeFrequency: "weekly",
+      priority: 0.7,
+    },
   ];
 
   const categoryRoutes: MetadataRoute.Sitemap = categories.map((category) => ({

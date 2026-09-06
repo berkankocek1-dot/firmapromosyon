@@ -422,10 +422,10 @@ export default function Page() {
                 Eğer baskı maliyeti ve teknik detaylar konusunda daha fazla bilgi
                 istiyorsanız{" "}
                 <Link
-                  href="/rehber/kalem-baski-fiyatlari"
+                  href="/rehber/promosyon-kalemlerde-baski-turleri-nelerdir"
                   className="text-blue-600 underline"
                 >
-                  kalem baskı fiyatları
+                  promosyon kalemlerde baskı türleri
                 </Link>
                 ,{" "}
                 <Link
@@ -436,7 +436,7 @@ export default function Page() {
                 </Link>{" "}
                 ve{" "}
                 <Link
-                  href="/rehber/promosyon-kalem-fiyatlari"
+                  href="/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir"
                   className="text-blue-600 underline"
                 >
                   promosyon kalem fiyatları
