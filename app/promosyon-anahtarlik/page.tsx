@@ -449,16 +449,23 @@ export default function Page() {
             </p>
 
             <p>
-              Sayfada yer alan ürünleri inceleyerek ihtiyacınıza uygun modeli
-              belirleyebilir ve doğrudan{" "}
+              Malzeme, baskı türü ve sipariş adedinin maliyete etkisini öğrenmek
+              için{" "}
+              <Link
+                href="/rehber/promosyon-anahtarlik-fiyatlari"
+                className="font-semibold text-white underline underline-offset-4"
+              >
+                promosyon anahtarlık fiyatları
+              </Link>{" "}
+              rehberini inceleyebilirsiniz. Ardından sayfada yer alan ürünlerden
+              ihtiyacınıza uygun modeli belirleyerek doğrudan{" "}
               <Link
                 href="/kurumsal-teklif-al"
                 className="font-semibold text-white underline underline-offset-4"
               >
                 kurumsal teklif
               </Link>{" "}
-              talebinde bulunabilirsiniz. Böylece firmanız için uygun promosyon
-              anahtarlık seçeneklerini daha sağlıklı şekilde karşılaştırabilirsiniz.
+              talebinde bulunabilirsiniz.
             </p>
           </section>
 
