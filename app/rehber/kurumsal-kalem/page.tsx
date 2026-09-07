@@ -419,7 +419,7 @@ export default function Page() {
 
               <p>
                 Daha detaylı maliyet değerlendirmesi için{" "}
-                <Link href="/rehber/logo-baskili-kalem" className="text-blue-600 underline">
+                <Link href="/promosyon-kalem" className="text-blue-600 underline">
                   logo baskılı kalem
                 </Link>
                 ,{" "}

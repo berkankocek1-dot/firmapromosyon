@@ -429,7 +429,7 @@ export default function Page() {
                 </Link>
                 ,{" "}
                 <Link
-                  href="/rehber/logo-baskili-kalem"
+                  href="/promosyon-kalem"
                   className="text-blue-600 underline"
                 >
                   logo baskılı kalem

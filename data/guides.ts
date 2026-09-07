@@ -83,12 +83,6 @@ export const guides = [
     image: "/guides/promosyon-anahtarlik-fiyatlari.jpg",
   },
   {
-    slug: "logo-baskili-kalem",
-    title: "Logo Baskılı Kalem Nedir? 2026 Rehber",
-    desc: "Logo baskılı kalem nedir, nasıl yapılır ve firmalara ne kazandırır? Detaylı rehber.",
-    image: "/guides/logo-baskili-kalem.jpg",
-  },
-  {
     slug: "reklam-kalemleri",
     title: "Reklam Kalemleri Nedir? 2026 Detaylı Rehber",
     desc: "Reklam kalemleri nedir, neden kullanılır ve firmalara ne kazandırır? Logo baskı, model ve kullanım alanlarıyla kapsamlı rehber.",
