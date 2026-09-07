@@ -89,11 +89,6 @@ export const guides = [
     image: "/guides/logo-baskili-kalem.jpg",
   },
   {
-    slug: "esantiyon-kalem",
-    title: "Eşantiyon Kalem Nedir? 2026 Detaylı Rehber",
-    desc: "Eşantiyon kalem nedir, neden tercih edilir ve firmalara ne kazandırır? Baskı, model ve kullanım alanlarıyla kapsamlı rehber.",
-  },
-  {
     slug: "reklam-kalemleri",
     title: "Reklam Kalemleri Nedir? 2026 Detaylı Rehber",
     desc: "Reklam kalemleri nedir, neden kullanılır ve firmalara ne kazandırır? Logo baskı, model ve kullanım alanlarıyla kapsamlı rehber.",
