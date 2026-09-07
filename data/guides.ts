@@ -130,12 +130,6 @@ export const guides = [
     image: "/guides/promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi.jpg",
   },
   {
-    slug: "logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari",
-    title: "Logo Baskılı Promosyon Çakmak Rehberi: Modeller, Fiyatlar ve Kullanım Alanları",
-    desc: "Logo baskılı promosyon çakmak modelleri, fiyatları, baskı seçenekleri, kullanım alanları ve doğru ürün seçimi hakkında detaylı rehber.",
-    image: "/guides/logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari.jpg",
-  },
-  {
     slug: "promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta",
     title: "Promosyon Anahtarlık Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta",
     desc: "Promosyon anahtarlık alırken kalite, malzeme, baskı, model seçimi, adet ve hedef kitle açısından dikkat edilmesi gereken 10 kritik noktayı detaylıca inceleyin.",
