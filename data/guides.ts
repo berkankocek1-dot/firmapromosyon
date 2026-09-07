@@ -118,12 +118,6 @@ export const guides = [
     image: "/guides/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta.jpg",
   },
   {
-    slug: "kurumsal-tanitim-icin-promosyon-cakmak-kullanimi-tam-rehber",
-    title: "Kurumsal Tanıtım İçin Promosyon Çakmak Kullanımı (Tam Rehber)",
-    desc: "Kurumsal tanıtım için promosyon çakmak nasıl kullanılır, hangi firmalar için uygundur, avantajları nelerdir ve seçim sürecinde nelere dikkat edilmelidir sorularına detaylı rehber.",
-    image: "/guides/kurumsal-tanitim-icin-promosyon-cakmak-kullanimi-tam-rehber.jpg",
-  },
-  {
     slug: "promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi",
     title: "Promosyon Çakmak mı Kalem mi? En Doğru Promosyon Ürünü Seçimi",
     desc: "Promosyon çakmak mı yoksa promosyon kalem mi daha mantıklı? Hedef kitle, kullanım alanı, maliyet, görünürlük ve marka etkisi açısından detaylı karşılaştırma rehberi.",

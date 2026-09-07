@@ -576,7 +576,7 @@ export default function Page() {
               </p>
               <p>
                 Daha fazla bilgi için{" "}
-                <Link href="/rehber/kurumsal-tanitim-icin-promosyon-cakmak-kullanimi-tam-rehber">
+                <Link href="/rehber/promosyon-cakmak-kullanim-alanlari">
                   kurumsal tanıtım için promosyon çakmak kullanımı
                 </Link>{" "}
                 rehberine,{" "}
