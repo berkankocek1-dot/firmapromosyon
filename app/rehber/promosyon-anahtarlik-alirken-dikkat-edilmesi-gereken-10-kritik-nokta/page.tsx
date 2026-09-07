@@ -564,11 +564,11 @@ export default function Page() {
               </p>
               <p>
                 Daha fazla bilgi için{" "}
-                <Link href="/rehber/promosyon-anahtarlik-nedir-firmalar-neden-tercih-eder">
+                <Link href="/rehber/promosyon-anahtarlik-nedir">
                   promosyon anahtarlık nedir
                 </Link>{" "}
                 rehberini ve ileride hazırlanacak{" "}
-                <Link href="/rehber/logo-baskili-promosyon-anahtarlik-rehberi-modeller-fiyatlar-ve-kullanim-alanlari">
+                <Link href="/rehber/promosyon-anahtarlik-nedir">
                   logo baskılı promosyon anahtarlık rehberi
                 </Link>{" "}
                 içeriğini de inceleyebilirsiniz.
