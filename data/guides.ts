@@ -106,12 +106,6 @@ export const guides = [
     image: "/guides/promosyon-tasli-cakmak-nedir.jpg",
   },
   {
-    slug: "logo-baskili-promosyon-cakmak-secerken-nelere-dikkat-edilmeli",
-    title: "Logo Baskılı Promosyon Çakmak Seçerken Nelere Dikkat Edilmeli?",
-    desc: "Logo baskılı promosyon çakmak seçerken kalite, baskı alanı, model, adet ve hedef kitle açısından dikkat edilmesi gerekenler.",
-    image: "/guides/logo-baskili-promosyon-cakmak-secerken-nelere-dikkat-edilmeli.jpg",
-  },
-  {
     slug: "promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta",
     title: "Promosyon Çakmak Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta (2026 Rehberi)",
     desc: "Promosyon çakmak alırken nelere dikkat edilmeli? Kalite, baskı türü, model seçimi, sipariş adedi, teslim süresi ve fiyat dengesi açısından 10 kritik noktayı detaylı rehberde öğrenin.",
