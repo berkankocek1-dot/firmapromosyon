@@ -289,7 +289,7 @@ export default function Page() {
                 </Link>{" "}
                 rehberimizi inceleyebilirsiniz. Ayrıca toplu sipariş mantığını daha
                 iyi anlamak için{" "}
-                <Link href="/rehber/promosyon-kalem-toplu-alim" className="text-blue-600 underline">
+                <Link href="/rehber/promosyon-kalem-toptan" className="text-blue-600 underline">
                   promosyon kalem toplu alım
                 </Link>{" "}
                 rehberi de faydalı olabilir.

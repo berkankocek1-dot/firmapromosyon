@@ -110,12 +110,6 @@ export const guides = [
     desc: "Kurumsal kalem nedir, neden tercih edilir ve firmalara ne kazandırır? Logo baskı, model seçimi ve kullanım alanlarıyla kapsamlı rehber.",
   },
   {
-    slug: "promosyon-kalem-toplu-alim",
-    title: "Promosyon Kalem Toplu Alım Rehberi 2026",
-    desc: "Promosyon kalem toplu alırken nelere dikkat edilmeli? Adet, baskı, model seçimi, fiyat avantajı ve toplu sipariş stratejileriyle detaylı rehber.",
-    image: "/guides/promosyon-kalem-toplu-alim.jpg",
-  },
-  {
     slug: "promosyon-rubber-kalem",
     title: "Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?",
     desc: "Promosyon rubber kalem nedir, neden tercih edilir, hangi alanlarda kullanılır ve firmalara ne kazandırır? Logo baskılı rubber kalemler hakkında detaylı rehber.",
