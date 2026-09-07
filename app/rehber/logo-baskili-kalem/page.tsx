@@ -227,7 +227,7 @@ export default function Page() {
               </Link>{" "}
               sayfasını ziyaret edebilirsiniz. Logo baskılı ürünlerin genel mantığını,
               kullanım alanlarını ve model çeşitlerini daha iyi anlamak için ise{" "}
-              <Link href="/rehber/promosyon-kalem" className="text-blue-600 underline">
+              <Link href="/rehber/promosyon-kalem-nedir" className="text-blue-600 underline">
                 promosyon kalem
               </Link>{" "}
               rehberi de oldukça faydalı olacaktır.
@@ -494,7 +494,7 @@ export default function Page() {
                   promosyon kalem modelleri
                 </Link>{" "}
                 sayfasına göz atabilirsiniz. Ürünün genel yapısını anlamak için{" "}
-                <Link href="/rehber/promosyon-kalem" className="text-blue-600 underline">
+                <Link href="/rehber/promosyon-kalem-nedir" className="text-blue-600 underline">
                   promosyon kalem
                 </Link>{" "}
                 rehberi de bu noktada destekleyici olur.
@@ -558,7 +558,7 @@ export default function Page() {
                   promosyon kalem modelleri
                 </Link>{" "}
                 sayfasını ziyaret edebilir, genel kullanım mantığını görmek için{" "}
-                <Link href="/rehber/promosyon-kalem" className="text-blue-600 underline">
+                <Link href="/rehber/promosyon-kalem-nedir" className="text-blue-600 underline">
                   promosyon kalem
                 </Link>{" "}
                 rehberine ve fiyat detayları için{" "}
