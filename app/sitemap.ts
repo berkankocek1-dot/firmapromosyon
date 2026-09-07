@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { products } from "@/data/products";
 import { categories } from "@/data/categories";
 import { getCategoryLandingHref } from "@/data/categoryLandingPages";
+import { guides } from "@/data/guides";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://www.firmapromosyon.com";
@@ -52,30 +53,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly",
       priority: 0.7,
     },
-    {
-      url: `${baseUrl}/rehber/dtf-baski-nedir`,
+    ...guides.map((guide) => ({
+      url: `${baseUrl}/rehber/${guide.slug}`,
       lastModified: new Date(),
-      changeFrequency: "weekly",
+      changeFrequency: "weekly" as const,
       priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/rehber/promosyon-kupa-baski`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/rehber/promosyon-kalem-toptan`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.7,
-    },
-    {
-      url: `${baseUrl}/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir`,
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.7,
-    },
+    })),
   ];
 
   const categoryRoutes: MetadataRoute.Sitemap = categories.map((category) => ({
