@@ -176,7 +176,7 @@ export default function PromosyonKalemSecimRehberiPage() {
         </nav>
 
         <article className="overflow-hidden rounded-[2rem] border border-gray-200 bg-white shadow-sm">
-          <header>
+          <header className="relative">
             <div className="relative h-[240px] w-full overflow-hidden md:h-[430px]">
               <Image
                 src={GUIDE_IMAGE}
@@ -188,34 +188,18 @@ export default function PromosyonKalemSecimRehberiPage() {
               />
 
               <div className="absolute inset-0 hidden bg-gradient-to-t from-black/80 via-black/35 to-transparent md:block" />
-
-              <div className="absolute bottom-0 left-0 right-0 hidden p-10 md:block">
-                <div className="mb-4 inline-flex rounded-full bg-white/90 px-4 py-1.5 text-xs font-bold text-gray-900 shadow-sm">
-                  Satın Alma Rehberi
-                </div>
-
-                <h1 className="max-w-4xl text-5xl font-extrabold leading-tight text-white">
-                  Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?
-                </h1>
-
-                <p className="mt-4 max-w-3xl text-lg leading-7 text-gray-100">
-                  Logo baskılı kalem siparişi verirken yalnızca fiyat değil;
-                  hedef kitle, kalite, baskı alanı, kullanım amacı ve kurumsal
-                  imaj da birlikte değerlendirilmelidir.
-                </p>
-              </div>
             </div>
 
-            <div className="p-6 md:hidden">
-              <div className="mb-4 inline-flex rounded-full bg-gray-100 px-4 py-1.5 text-xs font-bold text-gray-800">
+            <div className="p-6 md:absolute md:bottom-0 md:left-0 md:right-0 md:p-10">
+              <div className="mb-4 inline-flex rounded-full bg-gray-100 px-4 py-1.5 text-xs font-bold text-gray-800 md:bg-white/90 md:text-gray-900 md:shadow-sm">
                 Satın Alma Rehberi
               </div>
 
-              <h1 className="text-3xl font-extrabold leading-tight text-gray-900">
+              <h1 className="text-3xl font-extrabold leading-tight text-gray-900 md:max-w-4xl md:text-5xl md:text-white">
                 Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?
               </h1>
 
-              <p className="mt-4 text-base leading-7 text-gray-700">
+              <p className="mt-4 text-base leading-7 text-gray-700 md:max-w-3xl md:text-lg md:text-gray-100">
                 Logo baskılı kalem siparişi verirken yalnızca fiyat değil;
                 hedef kitle, kalite, baskı alanı, kullanım amacı ve kurumsal
                 imaj da birlikte değerlendirilmelidir.
