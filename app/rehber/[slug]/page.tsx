@@ -319,7 +319,7 @@ Eğer siz de kurumsal tanıtımınızı güçlendirmek ve müşterilerinize kal�
   title: "Toplu Kalem Siparişi | Logo Baskılı Promosyon Kalem",
   description:
     "Toplu kalem siparişi için plastik, metal ve dokunmatik modelleri inceleyin. Logo baskı seçeneklerini, sipariş sürecini ve önemli detayları öğrenin.",
-  h1: "Toplu Promosyon Kalem Siparişi Rehberi",
+  h1: "Toplu Kalem Siparişi: Logo Baskılı Promosyon Kalemler",
   image: "/guides/promosyon-kalem-toptan.jpg",
   keywords: [
     "promosyon kalem",
@@ -327,17 +327,19 @@ Eğer siz de kurumsal tanıtımınızı güçlendirmek ve müşterilerinize kal�
     "logo baskılı kalem",
     "promosyon kalem fiyatları",
     "kalem baskı",
-    "kurumsal kalem"
+    "kurumsal kalem",
+    "toplu kalem siparişi",
+    "toplu kalem yaptırma"
   ],
   sections: [
     {
-      title: "Promosyon Kalem Nedir?",
+      title: "Toplu Kalem Siparişi Nedir?",
       body: `
-Promosyon kalem, firmaların marka bilinirliğini artırmak amacıyla üzerine logo veya slogan basılarak dağıtılan en popüler promosyon ürünlerinden biridir.
+Toplu kalem siparişi, firmaların yüksek adetlerde logo veya slogan baskılı promosyon kalem yaptırmasını sağlayan kurumsal satın alma yöntemidir. Adet yükseldikçe birim ürün ve baskı maliyeti genellikle daha avantajlı hale gelir.
 
 Hem uygun maliyetli hem de günlük kullanım ürünü olması sayesinde en çok tercih edilen kurumsal hediyeler arasında yer alır.
 
-Fuarlar, etkinlikler, müşteri ziyaretleri ve kurumsal dağıtımlar için promosyon kalemler vazgeçilmez bir seçenektir.
+Fuarlar, etkinlikler, müşteri ziyaretleri, eğitimler ve kurumsal dağıtımlar için toplu kalem yaptırma; ekonomik, kullanışlı ve uzun süre görünür kalan bir tanıtım seçeneğidir.
       `,
     },
     {

@@ -250,7 +250,15 @@ export default function PromosyonKalemNedirPage() {
                     Özellikle yüksek adetli dağıtımlarda promosyon kalemler,
                     maliyet-performans açısından oldukça avantajlıdır. Bu nedenle
                     küçük işletmelerden büyük kurumsal firmalara kadar birçok marka
-                    promosyon kalemleri aktif olarak kullanır.
+                    promosyon kalemleri aktif olarak kullanır. Yüksek adetli alım
+                    planlıyorsanız{" "}
+                    <Link
+                      href="/rehber/promosyon-kalem-toptan"
+                      className="font-semibold text-blue-600 underline"
+                    >
+                      toplu kalem siparişi
+                    </Link>{" "}
+                    rehberimizi de inceleyebilirsiniz.
                   </p>
                 </div>
               </section>

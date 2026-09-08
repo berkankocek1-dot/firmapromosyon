@@ -216,7 +216,15 @@ export default function PromosyonKalemSecimRehberiPage() {
                   sadece logo baskılı bir kalem yaptırmak yeterli değildir. Doğru
                   kalem modeli, doğru baskı yöntemi, doğru adet planlaması ve
                   doğru hedef kitle uyumu sağlandığında promosyon kalem gerçek
-                  anlamda güçlü bir reklam aracına dönüşür.
+                  anlamda güçlü bir reklam aracına dönüşür. Sipariş adedini ve
+                  süreci planlamak için{" "}
+                  <Link
+                    href="/rehber/promosyon-kalem-toptan"
+                    className="font-semibold text-blue-600 underline"
+                  >
+                    toplu kalem siparişi rehberimizi
+                  </Link>{" "}
+                  inceleyebilirsiniz.
                 </p>
 
                 <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
