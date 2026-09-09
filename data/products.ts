@@ -11044,7 +11044,7 @@ Promosyon metal kalem MK-190 ile markanızı kaliteli, şık ve prestijli bir pr
   title:
     "Promosyon Cam Matara 500 ml CM-390 | Logo Baskılı Cam Termos Matara",
 
-  price: 112,
+  price: 136,
 
   category: "Termos",
 
@@ -11158,7 +11158,7 @@ Promosyon cam matara 500 ml CM-390, modern tasarımı, logo baskı uygulanabilir
   title:
     "Promosyon Cam Matara 750 ml CM-400 | Logo Baskılı Cam Termos Matara",
 
-  price: 144,
+  price: 150,
 
   category: "Termos",
 
@@ -11392,7 +11392,7 @@ Promosyon termos 500 ml TK-100, modern tasarımı, lazer baskıya uygun yüzeyi 
   title:
     "Promosyon Termos 500 ml TK-110 | UV ve Lazer Baskılı Logo Termos",
 
-  price: 364,
+  price: 412,
 
   category: "Termos",
 
@@ -11512,7 +11512,7 @@ Promosyon termos 500 ml TK-110, UV ve lazer baskıya uygun yapısı, modern tasa
   title:
     "Promosyon Termos 900 ml TK-120 | Lazer Baskılı Logo Termos",
 
-  price: 780,
+  price: 900,
 
   category: "Termos",
 
@@ -11633,7 +11633,7 @@ Promosyon termos 900 ml TK-120, geniş kapasitesi, lazer baskıya uygun yüzeyi 
   title:
     "Promosyon Termos 900 ml TK-125 | Lazer Baskılı Logo Termos",
 
-  price: 780,
+  price: 900,
 
   category: "Termos",
 
@@ -30472,7 +30472,7 @@ Promosyon powerbank 10.000 mAh PB-230 modeli; MagSafe kablosuz şarj teknolojisi
   title:
     "Promosyon Bambu Termos 500 ml TK-111 | Logo Baskılı Termos",
 
-  price: 880,
+  price: 960,
 
   category: "Termos",
 
@@ -30699,7 +30699,7 @@ Promosyon termos 550 ml TK-160, kompakt yapısı, lazer baskıya uygun yüzeyi v
   title:
     "Promosyon Termos 300 ml TK-170 | Logo Baskılı Termos",
 
-  price: 320,
+  price: 350,
 
   category: "Termos",
 
@@ -44758,7 +44758,7 @@ Promosyon roller kalem RK-220, metal gövdesi, renkli üst detayları ve lazer b
   title:
     "Promosyon Termos 500 ml TK-196 | Dijital Isı Göstergeli Süzgeçli Termos",
 
-  price: 460,
+  price: 518,
 
   category: "Termos",
 
@@ -45385,7 +45385,7 @@ Promosyon termos TK-220, dijital ısı göstergesi, kompakt yapısı ve lazer ba
   title:
     "Promosyon Devrilmez Termos 500 ml TK-230 | Vantuzlu Sabit Tabanlı Termos",
 
-  price: 584,
+  price: 686,
 
   category: "Termos",
 
@@ -45755,7 +45755,7 @@ Promosyon termos TK-250, modern tasarımı, lazer baskıya uygun yüzeyi ve gün
   title:
     "Promosyon Termos 240 ml TK-260 | Lazer Baskılı Mini Şık Termos",
 
-  price: 516,
+  price: 596,
 
   category: "Termos",
 
@@ -46395,7 +46395,7 @@ Promosyon termos 500 ml TK-290 modeli; askılı kapağı, lazer baskıya uygun �
   title:
     "Promosyon Termos 500 ml TK-300 | Travel Mug Araç Termosu Lazer Baskılı Çelik Termos",
 
-  price: 860,
+  price: 875,
 
   category: "Termos",
 
@@ -46947,7 +46947,7 @@ Promosyon termos 600 ml TK-330 modeli; geniş iç hacmi, lazer baskıya uygun ç
   title:
     "Promosyon French Press Termos 500 ml TK-340 | Kahve Demlemeli Lazer Baskılı Çelik Termos",
 
-  price: 902,
+  price: 934,
 
   category: "Termos",
 
@@ -47086,7 +47086,7 @@ Promosyon French Press termos 500 ml TK-340 modeli; entegre kahve demleme sistem
   title:
     "Promosyon Termos 500 ml TK-350 | UV ve Lazer Baskılı Çelik Şişe Termos",
 
-  price: 564,
+  price: 546,
 
   category: "Termos",
 
