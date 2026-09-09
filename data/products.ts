@@ -5857,7 +5857,7 @@ Promosyon powerbank 13000 mAh PB-110 modeli; ikinci nesil LCD ekranı, çift USB
   title:
     "Promosyon Ajanda AJ-100 | 17,5 x 23,5 cm Termo Deri Logo Baskılı Ajanda",
 
-  price: 216,
+  price: 270,
 
   category: "Ajanda",
 
@@ -6650,7 +6650,7 @@ Promosyon tarihsiz defter TD-115, termo PU sert kapağı, kalem tutucu detayı v
   title:
     "Promosyon Ajanda AJ-110 | 17 x 24 cm Termo Deri Logo Baskılı Ajanda",
 
-  price: 260,
+  
 
   category: "Ajanda",
 
@@ -6780,7 +6780,7 @@ Promosyon ajanda AJ-110 modeli, termo deri kapak yapısı, kalem tutucu tasarım
   title:
     "Promosyon Ajanda AJ-120 | 17 x 24 cm Termo Deri Logo Baskılı Ajanda",
 
-  price: 208,
+  price: 226,
 
   category: "Ajanda",
 
@@ -6910,7 +6910,7 @@ Promosyon ajanda AJ-120 modeli, termo deri kapak yapısı, kaliteli iç sayfalar
   title:
     "Promosyon Ajanda AJ-130 | 17 x 24 cm Logo Baskılı Termo Deri Ajanda",
 
-  price: 246,
+  price: 290,
 
   category: "Ajanda",
 
@@ -7039,7 +7039,7 @@ Promosyon ajanda AJ-130 modeli, termo deri kapak yapısı, kaliteli iç sayfalar
   title:
     "Promosyon Ajanda AJ-140 | 17 x 24 cm Logo Baskılı Termo Deri Ajanda",
 
-  price: 216,
+  price: 230,
 
   category: "Ajanda",
 
@@ -7165,7 +7165,7 @@ Promosyon ajanda AJ-140 modeli; kaliteli termo deri kapağı, 336 sayfalık iç 
   title:
     "Promosyon Ajanda AJ-150 | 16 x 24 cm Logo Baskılı Termo Deri Ajanda",
 
-  price: 156,
+  
 
   category: "Ajanda",
 
@@ -9685,7 +9685,7 @@ Promosyon powerbank 20.000 mAh PB-150 modeli, yüksek batarya kapasitesi, LED g�
   title:
     "Promosyon Ajanda AJ-160 | 16 x 24 cm Logo Baskılı Termo Deri Ajanda",
 
-  price: 168,
+  price: 208,
 
   category: "Ajanda",
 
@@ -9812,7 +9812,7 @@ Promosyon ajanda AJ-160 modeli; kaliteli termo deri kapağı, profesyonel baskı
   title:
     "Promosyon Ajanda AJ-170 | 16 x 24 cm Logo Baskılı Termo Deri Ajanda",
 
-  price: 164,
+  price: 196,
 
   category: "Ajanda",
 
@@ -9938,7 +9938,7 @@ Promosyon ajanda AJ-170 modeli; kaliteli termo deri kapağı, 320 sayfalık krem
   title:
     "Promosyon Ajanda AJ-180 | 17 x 24 cm Logo Baskılı Termo PU Ajanda",
 
-  price: 246,
+  price: 290,
 
   category: "Ajanda",
 
@@ -10064,7 +10064,7 @@ Promosyon ajanda AJ-180 modeli; ön yüzündeki telefon bölmesi, kaliteli termo
   title:
     "Promosyon Ajanda AJ-190 | 17 x 24 cm Logo Baskılı Termo Deri Kurumsal Ajanda",
 
-  price: 280,
+  price: 340,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-190.jpg",
 
@@ -51721,7 +51721,7 @@ Promosyon tarihsiz defter TD-220, ekonomik yapısı, termo deri kapak tasarımı
   title:
     "Promosyon Ajanda AJ-200 | 17 x 24 cm Logo Baskılı Termo Deri Spiral Ajanda",
 
-  price: 274,
+  price: 344,
   category: "Ajanda",
   image: "/products/promosyon-ajanda-aj-200.jpg",
 
@@ -51836,7 +51836,7 @@ Logo baskılı promosyon ajanda AJ-200 modeli hakkında fiyat teklifi almak, ür
   title:
     "Promosyon Ajanda AJ-210 | 16 x 24 cm Logo Baskılı Termo Deri Kurumsal Ajanda",
 
-  price: 168,
+  price: 198,
 
   category: "Ajanda",
 
@@ -51950,7 +51950,7 @@ Logo baskılı promosyon ajanda AJ-210 modeli hakkında fiyat teklifi almak, bas
   title:
     "Promosyon Ajanda AJ-220 | 16.5 x 22 cm Logo Baskılı Termo Deri Kurumsal Ajanda",
 
-  price: 254,
+  price: 288,
 
   category: "Ajanda",
 
@@ -52064,7 +52064,7 @@ Logo baskılı promosyon ajanda AJ-220 modeli hakkında fiyat teklifi almak, bas
   title:
     "Promosyon Ajanda AJ-230 | 17.5 x 24 cm Logo Baskılı Termo Deri Kurumsal Ajanda",
 
-  price: 290,
+  price: 348,
 
   category: "Ajanda",
 
@@ -52181,7 +52181,7 @@ Logo baskılı promosyon ajanda AJ-230 modeli hakkında fiyat teklifi almak, bas
   title:
     "Promosyon Ajanda AJ-240 | 17.5 x 24 cm Logo Baskılı Termo Deri Kurumsal Ajanda",
 
-  price: 274,
+  price: 324,
 
   category: "Ajanda",
 
@@ -52304,7 +52304,7 @@ Logo baskılı promosyon ajanda AJ-240 modeli hakkında fiyat teklifi almak, bas
   title:
     "Promosyon Ajanda AJ-250 | 17 x 24 cm Logo Baskılı Termo Deri Kurumsal Ajanda",
 
-  price: 256,
+  price: 310,
 
   category: "Ajanda",
 
@@ -52424,7 +52424,7 @@ Logo baskılı promosyon ajanda AJ-250 modeli hakkında fiyat teklifi almak, bas
   title:
     "Promosyon Ajanda AJ-260 | 16.5 x 22 cm Logo Baskılı Termo Deri Kurumsal Ajanda",
 
-  price: 254,
+  
 
   category: "Ajanda",
 
@@ -52546,7 +52546,7 @@ Logo baskılı promosyon ajanda AJ-260 modeli hakkında fiyat teklifi almak, bas
   title:
     "Promosyon Spiralli Ajanda AJ-270 | 17 x 24 cm Logo Baskılı Termo Deri Tarihli Ajanda",
 
-  price: 230,
+  
 
   category: "Ajanda",
 
@@ -52664,7 +52664,7 @@ Logo baskılı promosyon spiralli ajanda AJ-270 modeli hakkında fiyat teklifi a
   title:
     "Promosyon Ajanda AJ-280 | 17 x 24 cm Logo Baskılı Termo PU Sert Kapak Ajanda",
 
-  price: 168,
+  price: 198,
 
   category: "Ajanda",
 
@@ -52785,7 +52785,7 @@ Logo baskılı promosyon ajanda AJ-280 modeli hakkında fiyat teklifi almak, bas
   title:
     "Promosyon Gizli Spiralli Ajanda AJ-290 | 17 x 24 cm Logo Baskılı Termo Deri Ajanda",
 
-  price: 260,
+  
 
   category: "Ajanda",
 
@@ -52905,7 +52905,7 @@ Logo baskılı promosyon gizli spiralli ajanda AJ-290 modeli hakkında fiyat tek
   title:
     "Promosyon Büyük Ajanda AJ-300 | 20 x 28 cm Logo Baskılı Termo PU Sert Kapak Ajanda",
 
-  price: 336,
+  price: 386,
 
   category: "Ajanda",
 
@@ -53023,7 +53023,7 @@ Logo baskılı promosyon büyük ajanda AJ-300 modeli hakkında fiyat teklifi al
   title:
     "Promosyon Ajanda AJ-310 | 17 x 24 cm Logo Baskılı Renkli Kenarlı Termo Deri Ajanda",
 
-  price: 196,
+  
 
   category: "Ajanda",
 
@@ -53151,7 +53151,7 @@ Logo baskılı promosyon ajanda AJ-310 modeli hakkında fiyat teklifi almak, bas
   title:
     "Promosyon Ajanda AJ-320 | 17 x 24 cm Logo Baskılı Termo PU Sert Kapak Ajanda",
 
-  price: 176,
+  price: 226,
 
   category: "Ajanda",
 
