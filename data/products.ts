@@ -7728,7 +7728,6 @@ Promosyon duvar saati DS-120; 37 cm metal kasası, geniş Bristol kadranı, mine
   title:
     "Promosyon Duvar Saati DS-130 | 38 cm Pirinç Kaplama Metal Kasa Logo Baskılı Duvar Saati",
 
-  price: 1058,
 
   category: "Duvar Saatleri",
 
@@ -16083,7 +16082,7 @@ Promosyon kalem seti KS-110 modeli; modern metal tasarımı, kaliteli yazım per
   title:
     "Promosyon Kalem Seti KS-120 | Logo Baskılı Metal Roller ve Tükenmez Kalem Seti",
 
-  price: 584,
+  price: 615,
 
   category: "Kalem Setleri",
 
@@ -33879,7 +33878,7 @@ Masa üstü düzenleyici ürünler
   id: "p303",
   slug: "promosyon-semsiye-sm-100",
   title: "Promosyon Şemsiye ŞM-100 | 8 Telli Baston Şemsiye Kurumsal Promosyon",
-  price: 500,
+  price: 530,
   category: "İmalat Ürünler",
   image: "/products/promosyon-semsiye-sm-100.jpg",
 
@@ -43325,7 +43324,7 @@ Promosyon tarihsiz defter TD-160, termo deri kapak yapısı, kaliteli iç sayfal
   title:
     "Promosyon Kalem Seti KS-130 | Logo Baskılı Metal Roller ve Tükenmez Kalem Seti",
 
-  price: 540,
+  price: 650,
 
   category: "Kalem Setleri",
 
@@ -48948,7 +48947,7 @@ Promosyon duvar saati DS-320; 25,3 x 47 cm dikdörtgen tasarımı, bombeli miner
   title:
     "Promosyon Kutulu Şarj Kablo Seti KBL-360 | Logo Baskılı Çoklu Şarj Kablosu ve Adaptör Seti",
 
-  price: 250,
+  price: 270,
 
   category: "Teknolojik Ürünler",
 
@@ -49180,7 +49179,7 @@ Promosyon kutulu şarj kablo seti KBL-370, katlanabilir kutu tasarımı, çoklu 
   title:
     "Promosyon Çoklu Işıklı Şarj Kablosu KBL-380 | LED Logo Baskılı 3'ü 1 Arada Premium Şarj Kablosu",
 
-  price: 360,
+  price: 380,
 
   category: "Teknolojik Ürünler",
 
@@ -50274,7 +50273,7 @@ Promosyon Bluetooth hoparlör SPK-450, Bluetooth 5.0 bağlantısı, yaklaşık 3
   title:
     "Promosyon Wireless Şarj & Bluetooth Hoparlör SPK-460 | 15W Kablosuz Şarj, LED Logo Baskılı Bluetooth Speaker",
 
-  price: 1310,
+  price: 1500,
 
   category: "Teknolojik Ürünler",
 
@@ -65226,7 +65225,7 @@ Promosyon kalem seti KS-235 modeli; özel desen seçenekleri, kaliteli metal gö
   title:
     "Promosyon Kalem Seti KS-240 | Logo Baskılı Premium Dolma Kalem Görünümlü Metal Kalem Seti",
 
-  price: 396,
+  price: 436,
 
   category: "Kalem Setleri",
 
@@ -68523,7 +68522,7 @@ Promosyon organizer ORG-250 modeli; termo deri kapak yapısı, modern yüzey dok
   title:
     "Promosyon Wireless Şarj İstasyonu TT-476 | 3'ü 1 Arada Telefon, Akıllı Saat ve Kulaklık Şarj Standı",
 
-  price: 1040,
+  price: 1140,
 
   category: "Teknolojik Ürünler",
 
@@ -69019,7 +69018,7 @@ Promosyon araç içi telefon tutucu TT-490, güçlü manyetik yapısı, kompakt 
 
   slug: "promosyon-telefon-standi-tt-500-katlanabilir-masaustu",
 
-  price: 115,
+  price: 120,
 
   title:
     "Promosyon Telefon Standı TT-500 | Katlanabilir Ayarlanabilir Masaüstü Telefon Tutucu",
@@ -69146,7 +69145,7 @@ Promosyon telefon standı TT-500, katlanabilir ve ayarlanabilir yapısı, kaymaz
   title:
     "Promosyon Telefon Standı TT-510 | Katlanabilir Plastik Masaüstü Telefon Tutucu, Renkli Seçenekler",
 
-  price: 38.80,
+  price: 35.30,
 
   category: "Teknolojik Ürünler",
 
@@ -69397,7 +69396,7 @@ Promosyon araç içi telefon tutucu TT-520, 15W kablosuz hızlı şarj desteği,
   title:
     "Promosyon Aynalı Telefon Standı TT-530 | Katlanabilir Masaüstü Telefon Tutucu ve Masa Aynası",
 
-  price: 230,
+  price: 250,
 
   category: "Teknolojik Ürünler",
 
