@@ -233,7 +233,7 @@ Promosyon dokunmatik kalem DK-600 ile markanızı modern, kullanışlı ve premi
   title:
     "Promosyon Taşlı Çakmak ÇM-100 | Cricket Logo Baskılı Promosyon Çakmak (7.8 x 2.2 cm)",
 
-  price: 27,
+  price: 30,
 
   shortDesc:
     "Promosyon taşlı çakmak ÇM-100, Cricket kalitesi, logo baskıya uygun geniş yüzeyi ve ekonomik yapısıyla fuarlar, kampanyalar ve kurumsal tanıtımlar için tercih edilen promosyon çakmak modelidir.",
@@ -578,7 +578,7 @@ Promosyon anahtarlık AN-110, şık tasarımı, kaliteli malzeme yapısı ve laz
   id: "p6",
   slug: "promosyon-tarihsiz-defter-15x21-td-100",
   title: "Promosyon Tarihsiz Defter TD-100 | 15x21 Termo Deri Kapak",
-  price: 194,
+  price: 208,
   shortDesc:
     "Promosyon tarihsiz defter TD-100, 15x21 cm ölçüsü, termo deri kapağı ve 224 sayfalık ivory krem iç yapısı ile kurumsal kullanım için şık ve kullanışlı bir logo baskılı defter modelidir. Fuar, toplantı, eğitim ve müşteri hediyeleri için ideal bir promosyon ürünüdür.",
 
@@ -1337,7 +1337,7 @@ Promosyon taşlı siboplu çakmak CM-200, logo baskıya uygun yapısı, ekonomik
   title:
     "Promosyon Manyetolu Siboplu Çakmak CM-250 | Logo Baskılı Mini Boy Promosyon Çakmak",
 
-  price: 10,
+  price: 11,
 
   category: "Çakmak",
 
@@ -1451,7 +1451,7 @@ Promosyon manyetolu siboplu çakmak CM-250, mini boy tasarımı, doldurulabilir 
   title:
     "Promosyon Manyetolu Siboplu Çakmak CM-300 | Logo Baskılı Promosyon Çakmak",
 
-  price: 20,
+  price: 21,
 
   category: "Çakmak",
 
@@ -1566,7 +1566,7 @@ Promosyon manyetolu siboplu çakmak CM-300, geniş logo baskı alanı, doldurula
   title:
     "Promosyon Manyetolu Turbo Rüzgar Çakmak CM-350 | Logo Baskılı Turbo Çakmak",
 
-  price: 20,
+  price: 14,
 
   category: "Çakmak",
 
@@ -4858,7 +4858,7 @@ Promosyon metal kalem MK-150 ile markanızı modern, kaliteli ve dikkat çekici 
   title:
     "Promosyon Manyetolu Turbo Siboplu Rüzgar Çakmak CM-360 | Logo Baskılı Turbo Çakmak",
 
-  price: 14.50,
+  price: 16,
 
   category: "Çakmak",
 
@@ -6454,7 +6454,7 @@ Promosyon tarihsiz defter TD-104, çizgili desenli şık kapağı ve metal detay
   slug: "promosyon-tarihsiz-defter-14x21-termo-deri-td-110",
   title:
     "Promosyon Tarihsiz Defter TD-110 | 14,5x21 Termo Deri Kenarları Boyalı",
-  price: 168,
+  price: 188,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-110.jpg",
 
@@ -6567,7 +6567,7 @@ Promosyon tarihsiz defter TD-110, termo deri kapağı, kaliteli iç sayfaları v
   slug: "promosyon-tarihsiz-defter-14x21-termo-pu-td-115",
   title:
     "Promosyon Tarihsiz Defter TD-115 | 14,5x21 Termo PU Kalem Tutuculu",
-  price: 156,
+  price: 168,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-115.jpg",
 
@@ -10429,7 +10429,7 @@ Promosyon anahtarlık AN-120, modern metal tasarımı, lazer baskıya uygun yap�
   slug: "promosyon-tarihsiz-defter-14-5x21-td-116",
   title:
     "Promosyon Tarihsiz Defter TD-116 | 14,5x21 Termo Deri Kalem Tutuculu",
-  price: 190,
+  price: 212,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-116.jpg",
 
@@ -10543,7 +10543,7 @@ Promosyon tarihsiz defter TD-116, termo deri kapağı, kalem tutucu detayı ve 2
   slug: "promosyon-tarihsiz-defter-15x21-td-120",
   title:
     "Promosyon Tarihsiz Defter TD-120 | 15x21 Termo Deri Kalem Yuvalı",
-  price: 174,
+  price: 176,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-120.jpg",
 
@@ -20178,7 +20178,7 @@ Promosyon metal kalem MK-250 ile markanızı kaliteli, zarif ve prestijli bir pr
   slug: "promosyon-metal-kalem-mk-260",
   title:
     "Promosyon Metal Kalem MK-260 | Altın Detaylı Logo Baskılı Premium Metal Kalem",
-  price: 33,
+  price: 36,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-260.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-260.jpg"],
@@ -20470,7 +20470,7 @@ Promosyon metal kalem MK-280 ile markanızı kaliteli, zarif ve prestijli bir pr
   slug: "promosyon-metal-jel-kalem-mk-290",
   title:
     "Promosyon Metal Jel Kalem MK-290 | 0.5 mm Uçlu Logo Baskılı Premium Jel Kalem",
-  price: 36.80,
+  price: 38,
   category: "Kalem",
   image: "/products/promosyon-metal-jel-kalem-mk-290.jpg",
   gallery: ["/products/promosyon-metal-jel-kalem-mk-290.jpg"],
@@ -20760,7 +20760,7 @@ Promosyon metal kalem MK-310 ile markanızı kaliteli, şık ve prestijli bir pr
   slug: "promosyon-metal-kalem-mk-320",
   title:
     "Promosyon Metal Kalem MK-320 | Altın Detaylı Logo Baskılı Premium Metal Kalem",
-  price: 90,
+  price: 97,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-320.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-320.jpg"],
@@ -24791,7 +24791,7 @@ Promosyon metal kalem MK-500, gold detaylı premium tasarımı ile markanızı p
   id: "p220",
   slug: "promosyon-metal-kalem-mk-510",
   title: "Promosyon Metal Kalem MK-510 | Işıklı Logo Baskılı Promosyon Kalem",
-  price: 96,
+  price: 108,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-510.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-510.jpg"],
@@ -25339,7 +25339,7 @@ Promosyon plastik kalem PLS-117, akıcı yazım sağlayan jell kalem yapısı il
   id: "p226",
   slug: "promosyon-plastik-kalem-pls-118",
   title: "Promosyon Plastik Kalem PLS-118 | Logo Baskılı Promosyon Kalem",
-  price: 8.80,
+  price: 8.10,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-118.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-118.jpg"],
@@ -26476,7 +26476,7 @@ Promosyon plastik kalem PLS-210, renk çeşitliliği ve ekonomik yapısı ile ma
   id: "p238",
   slug: "promosyon-plastik-kalem-pls-220",
   title: "Promosyon Plastik Kalem PLS-220 | Logo Baskılı Promosyon Kalem",
-  price: 11.50,
+  price: 12.90,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-220.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-220.jpg"],
@@ -26755,7 +26755,7 @@ Promosyon plastik kalem PLS-240, renk çeşitliliği ve baskı seçenekleri ile 
   id: "p241",
   slug: "promosyon-plastik-kalem-pls-250",
   title: "Promosyon Plastik Kalem PLS-250 | Logo Baskılı Promosyon Kalem",
-  price: 8.90,
+  price: 7,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-250.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-250.jpg"],
@@ -26854,7 +26854,7 @@ Promosyon plastik kalem PLS-250, sade tasarımı ve renkli klips seçenekleri il
   id: "p242",
   slug: "promosyon-plastik-kalem-pls-260",
   title: "Promosyon Plastik Kalem PLS-260 | Logo Baskılı Promosyon Kalem",
-  price: 8.9,
+  price: 10.30,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-260.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-260.jpg"],
@@ -27146,7 +27146,7 @@ Promosyon plastik kalem PLS-280, ergonomik üçgen gövde yapısı ve sade tasar
   id: "p245",
   slug: "promosyon-plastik-kalem-pls-290",
   title: "Promosyon Plastik Kalem PLS-290 | Logo Baskılı Promosyon Kalem",
-  price: 8.80,
+  price: 9.60,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-290.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-290.jpg"],
@@ -37918,7 +37918,7 @@ Promosyon plastik kalem PLS-520, modern beyaz gövde tasarımı ve renkli detayl
   id: "p348",
   slug: "promosyon-plastik-kalem-pls-530",
   title: "Promosyon Plastik Kalem PLS-530 | İnce Refil Logo Baskılı Kalem",
-  price: 8.70,
+  price: 9.90,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-530.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-530.jpg"],
@@ -38116,7 +38116,7 @@ Promosyon plastik jel kalem PLS-540, kalın gövdesi ve akıcı yazım performan
   id: "p350",
   slug: "promosyon-plastik-kalem-pls-600",
   title: "Promosyon Plastik Kalem PLS-600 | Logo Baskılı Ekonomik Tükenmez Kalem",
-  price: 9.70,
+  price: 10.70,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-600.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-600.jpg"],
@@ -41011,7 +41011,7 @@ Promosyon duvar saati DS-220; 30 cm çapı, Bristol kadranı, mineral cam koruma
   title:
     "Promosyon Anahtarlık AN-350 | Açacaklı Lazer Baskılı Metal Anahtarlık",
 
-  price: 50,
+  price: 52,
 
   category: "Anahtarlık",
 
@@ -42874,7 +42874,7 @@ Promosyon tarihsiz defter TD-126, ışıklı logo teknolojisi ve premium PU deri
   slug: "promosyon-tarihsiz-defter-195x25-td-130",
   title:
     "Promosyon Tarihsiz Defter TD-130 | 19,5x25 Büyük Boy Kareli",
-  price: 276,
+  price: 304,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-130.jpg",
 
@@ -42986,7 +42986,7 @@ Promosyon tarihsiz defter TD-130, büyük boy ölçüsü, premium termo deri kap
   slug: "promosyon-tarihsiz-defter-17x24-td-140",
   title:
     "Promosyon Tarihsiz Defter TD-140 | 17x24 Termo Deri Çizgili",
-  price: 198,
+  price: 220,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-140.jpg",
 
@@ -43098,7 +43098,7 @@ Promosyon tarihsiz defter TD-140, geniş yazım alanı, premium termo deri kapa�
   slug: "promosyon-tarihsiz-defter-13x21-td-150",
   title:
     "Promosyon Tarihsiz Defter TD-150 | 13x21 Kenar Boyalı Termo Deri",
-  price: 180,
+  price: 194,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-150.jpg",
 
@@ -43213,7 +43213,7 @@ Promosyon tarihsiz defter TD-150, termo deri kapak yapısı, kenar boyalı premi
     "Promosyon Tarihsiz Defter TD-160 | 13x21 Termo Deri Gofre ve Lazer Baskılı",
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-160.jpg",
-  price: 178,
+  price: 190,
 
   shortDesc:
     "Promosyon tarihsiz defter TD-160, 13x21 cm ölçüsü, termo deri kapak yapısı, 224 sayfalık kaliteli iç tasarımı ve gofre ile lazer baskı seçenekleri ile prestijli logo baskılı kurumsal defter modelidir.",
@@ -43853,7 +43853,7 @@ Promosyon termos TK-190, büyük boy yapısı, lazer baskıya uygun yüzeyi ve k
   id: "p392",
   slug: "promosyon-roller-kalem-rk-110",
   title: "Promosyon Roller Kalem RK-110 | Lazer Baskılı Şık Roller Kalem",
-  price: 186,
+  price: 225,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-110.jpg",
 
@@ -50656,7 +50656,7 @@ Promosyon wireless şarj istasyonu TT-475, telefon, akıllı saat ve kablosuz ku
   slug: "promosyon-tarihsiz-defter-td-165",
   title:
     "Promosyon Tarihsiz Defter TD-165 | 13x21 cm Termo PU Metal Tokalı Defter",
-  price: 156,
+  price: 174,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-165.jpg",
 
@@ -50773,7 +50773,7 @@ Promosyon tarihsiz defter TD-165, modern tasarımı, metal toka detayı ve premi
   slug: "promosyon-tarihsiz-defter-td-170",
   title:
     "Promosyon Tarihsiz Defter TD-170 | 15x21,5 cm Gizli Spiralli Termo Deri Defter",
-  price: 246,
+  price: 268,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-170.jpg",
 
@@ -51005,7 +51005,7 @@ Promosyon tarihsiz defter TD-180, geniş yazım alanı, spiralli yapısı ve pre
   slug: "promosyon-tarihsiz-defter-td-190",
   title:
     "Promosyon Tarihsiz Defter TD-190 | 15,5x21,5 cm Metal Tokalı Termo PU Defter",
-  price: 238,
+  price: 260,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-190.jpg",
 
@@ -51131,7 +51131,7 @@ Promosyon tarihsiz defter TD-190, termo PU deri kapak yapısı, metal toka detay
   slug: "promosyon-tarihsiz-defter-td-195",
   title:
     "Promosyon Tarihsiz Defter TD-195 | 13x21 cm Metal Tokalı Termo PU Defter",
-  price: 178,
+  price: 188,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-195.jpg",
 
@@ -51258,7 +51258,7 @@ Promosyon tarihsiz defter TD-195, termo PU deri kapak yapısı, metal toka detay
   slug: "promosyon-tarihsiz-defter-td-196",
   title:
     "Promosyon Tarihsiz Defter TD-196 | 13x21 cm Termo PU Deri Metal Tokalı Defter",
-  price: 142,
+  price: 162,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-196.jpg",
 
@@ -51508,7 +51508,7 @@ Promosyon tarihsiz defter TD-200, ekonomik fiyatı, termo deri kapak yapısı ve
   slug: "promosyon-tarihsiz-defter-td-210",
   title:
     "Promosyon Tarihsiz Defter TD-210 | 15x21 cm Kalem Tutuculu Termo PU Defter",
-  price: 238,
+  price: 260,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-210.jpg",
 
@@ -51632,7 +51632,7 @@ Promosyon tarihsiz defter TD-210, termo PU sert kapak yapısı, kalem tutucu det
   slug: "promosyon-tarihsiz-defter-td-220",
   title:
     "Promosyon Tarihsiz Defter TD-220 | 13x21 cm Termo Deri Ekonomik Defter",
-  price: 111,
+  price: 120,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-220.jpg",
 
@@ -54815,7 +54815,7 @@ NEDEN RZ-520 PROMOSYON ROZET?
   slug: "promosyon-tarihsiz-defter-td-230",
   title:
     "Promosyon Tarihsiz Defter TD-230 | 15,5x21,5 cm Termo PU Deri Logo Baskılı Defter",
-  price: 164,
+  price: 174,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-230.jpg",
 
@@ -54938,7 +54938,7 @@ Promosyon tarihsiz defter TD-230, premium kapak yapısı, metal toka detayı ve 
   slug: "promosyon-tarihsiz-defter-td-240",
   title:
     "Promosyon Tarihsiz Defter TD-240 | 13x21 cm Kenar Boyalı Termo Deri Defter",
-  price: 148,
+  price: 166,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-240.jpg",
 
@@ -55057,7 +55057,7 @@ Promosyon tarihsiz defter TD-240, kenar boyalı özel tasarımı, termo deri kap
   slug: "promosyon-tarihsiz-defter-td-250",
   title:
     "Promosyon Tarihsiz Defter TD-250 | 13x21 cm Kareli Sayfalı Termo Deri Defter",
-  price: 142,
+  price: 156,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-250.jpg",
 
@@ -55176,7 +55176,7 @@ Promosyon tarihsiz defter TD-250, kareli iç sayfa yapısı, kaliteli termo deri
   slug: "promosyon-tarihsiz-defter-td-260",
   title:
     "Promosyon Tarihsiz Defter TD-260 | Termo PU Sert Kapaklı, Bantlı Logo Baskılı Premium Defter",
-  price: 164,
+  price: 174,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-260.jpg",
 
@@ -55281,7 +55281,7 @@ Promosyon tarihsiz defter TD-260, premium tasarımı, kaliteli malzeme yapısı 
   slug: "promosyon-tarihsiz-defter-td-270",
   title:
     "Promosyon Tarihsiz Defter TD-270 | 16x24 cm Büyük Boy Kareli Logo Baskılı Premium Defter",
-  price: 228,
+  price: 248,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-270.jpg",
 
@@ -55390,7 +55390,7 @@ Promosyon tarihsiz defter TD-270, büyük boy yapısı, kareli sayfa düzeni ve 
   slug: "promosyon-tarihsiz-defter-td-280",
   title:
     "Promosyon Tarihsiz Defter TD-280 | 13x21 cm Termo Deri Logo Baskılı Premium Defter",
-  price: 142,
+  price: 156,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-280.jpg",
 
@@ -55497,7 +55497,7 @@ Promosyon tarihsiz defter TD-280, şık tasarımı, kaliteli malzeme yapısı ve
   slug: "promosyon-tarihsiz-defter-td-290",
   title:
     "Promosyon Tarihsiz Defter TD-290 | 13x21 cm Termo Deri Logo Baskılı Kurumsal Defter",
-  price: 125,
+  price: 147,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-290.jpg",
 
@@ -55714,7 +55714,7 @@ Promosyon tarihsiz defter TD-300, kalem yuvalı özel tasarımı, kaliteli malze
   slug: "promosyon-tarihsiz-defter-td-310",
   title:
     "Promosyon Tarihsiz Defter TD-310 | Terzi Dikişli 13x21 cm Logo Baskılı Defter",
-  price: 84.60,
+  price: 93,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-310.jpg",
 
@@ -55932,7 +55932,7 @@ Promosyon tarihsiz defter TD-320, ekonomik yapısı, şık görünümü ve logo 
   slug: "promosyon-tarihsiz-defter-td-330",
   title:
     "Promosyon Tarihsiz Defter TD-330 | Renkli Kenarlı Lazer Kazıma Logo Baskılı Premium Defter",
-  price: 148,
+  price: 164,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-330.jpg",
 
@@ -56041,7 +56041,7 @@ Promosyon tarihsiz defter TD-330, renkli kenar detayları, lazer kazıma logo uy
   slug: "promosyon-tarihsiz-defter-td-340",
   title:
     "Promosyon Tarihsiz Defter TD-340 | Lastikli Kalem Tutuculu Logo Baskılı Defter",
-  price: 106,
+  price: 118,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-340.jpg",
 
@@ -56259,7 +56259,7 @@ Promosyon tarihsiz defter TD-350, cepli kapak yapısı, çift renkli tasarımı 
   slug: "promosyon-tarihsiz-defter-td-360",
   title:
     "Promosyon Tarihsiz Defter TD-360 | Esnek Yumuşak Kapaklı Logo Baskılı Defter",
-  price: 98,
+  price: 110,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-360.jpg",
 
@@ -56472,7 +56472,7 @@ Promosyon tarihsiz defter TD-370, metal detaylı premium tasarımı ve logo bask
   slug: "promosyon-tarihsiz-defter-td-380",
   title:
     "Promosyon Tarihsiz Defter TD-380 | Esnek Yumuşak Kapaklı Siyah Kenarlı Logo Baskılı Defter",
-  price: 144,
+  price: 154,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-380.jpg",
 
@@ -56801,7 +56801,7 @@ Promosyon tarihsiz defter TD-400, manyetik kilitli premium tasarımı, kaliteli 
   slug: "promosyon-tarihsiz-defter-td-410",
   title:
     "Promosyon Tarihsiz Defter TD-410 | Kart ve Telefon Bölmeli Premium Logo Baskılı Defter",
-  price: 216,
+  
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-410.jpg",
 
@@ -56912,7 +56912,7 @@ Promosyon tarihsiz defter TD-410, kart ve telefon bölmeli akıllı tasarımı, 
   slug: "promosyon-tarihsiz-defter-td-420",
   title:
     "Promosyon Tarihsiz Defter TD-420 | Kuşe Taslama Sert Kapak Logo Baskılı Defter",
-  price: 124,
+  price: 138,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-420.jpg",
 
@@ -57020,7 +57020,7 @@ Promosyon tarihsiz defter TD-420, kaliteli kapak yapısı, yüksek baskı perfor
   slug: "promosyon-tarihsiz-defter-td-430",
   title:
     "Promosyon Tarihsiz Defter TD-430 | Cep Boy Kenar Boyalı Logo Baskılı Defter",
-  price: 116,
+  price: 128,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-430.jpg",
 
@@ -57132,7 +57132,7 @@ Promosyon tarihsiz defter TD-430, cep boy yapısı, premium kenar boyalı tasar�
   slug: "promosyon-tarihsiz-defter-td-440",
   title:
     "Promosyon Tarihsiz Defter TD-440 | Mini Boy Taşınabilir Logo Baskılı Defter",
-  price: 88,
+  
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-440.jpg",
 
@@ -57240,7 +57240,7 @@ Promosyon tarihsiz defter TD-440, mini boy tasarımı, kaliteli malzeme yapısı
   slug: "promosyon-tarihsiz-defter-td-450",
   title:
     "Promosyon Tarihsiz Defter TD-450 | Mini Cep Boy Balık Sırtı Logo Baskılı Defter",
-  price: 76,
+  price: 82,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-450.jpg",
 
@@ -57350,7 +57350,7 @@ Promosyon tarihsiz defter TD-450, mini cep boy yapısı, ekonomik maliyet avanta
   slug: "promosyon-tarihsiz-defter-td-460",
   title:
     "Promosyon Tarihsiz Defter TD-460 | Mini Boy 80 gr Logo Baskılı Defter",
-  price: 84,
+  price: 90,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-460.jpg",
 
@@ -57458,7 +57458,7 @@ Promosyon tarihsiz defter TD-460, mini boy tasarımı, kaliteli malzeme yapısı
   slug: "promosyon-tarihsiz-defter-td-470",
   title:
     "Promosyon Tarihsiz Defter TD-470 | Mini Boy Terzi Dikiş Logo Baskılı Defter",
-  price: 62,
+  price: 69,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-470.jpg",
 
@@ -60324,7 +60324,7 @@ Promosyon roller kalem RK-240, zarif tasarımı, metal detayları ve logo baskı
   id: "p526",
   slug: "promosyon-roller-kalem-rk-250-metal-detayli",
   title: "Promosyon Roller Kalem RK-250 | Metal Detaylı Şık Tasarım",
-  price: 45,
+  
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-250.jpg",
 
@@ -62496,7 +62496,7 @@ Promosyon roller kalem RK-450, mat siyah metal gövdesi, minimalist tasarımı v
   slug: "promosyon-tohumlu-kalem-thk-190-ekolojik",
   title:
     "Promosyon Tohumlu Kurşun Kalem THK-190 | Ekolojik Doğa Dostu Kalem",
-  price: 18,
+  price: 16,
   category: "Kalem",
   image: "/products/promosyon-tohumlu-kalem-thk-190.jpg",
 
