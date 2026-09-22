@@ -5734,151 +5734,174 @@ Promosyon Powerbank MagSafe 8000 mAh PB-100; hızlı şarj desteği, gelişmiş 
 {
   id: "p58",
 
-  slug: "promosyon-powerbank-13000mah-pb-110",
+  slug: "promosyon-powerbank-20000mah-pb-110",
 
   title:
-    "Promosyon Powerbank 13000 mAh PB-110 | LCD Ekranlı Çift USB Logo Baskılı Powerbank",
+    "Promosyon Powerbank 20.000 mAh PB-110 | Dijital Göstergeli Logo Baskılı Powerbank",
 
   price: 1200,
 
   category: "Powerbank",
 
-  image: "/products/promosyon-powerbank-13000mah-pb-110.jpg",
+  image: "/products/promosyon-powerbank-20000mah-pb-110.jpg",
 
   shortDesc:
-    "Promosyon powerbank 13000 mAh PB-110, ikinci nesil LCD ekranı, çift USB çıkışı, yüksek kapasiteli bataryası ve logo baskıya uygun rubber yüzeyi sayesinde kurumsal teknoloji hediyesi, fuar promosyonları ve marka tanıtımı için tercih edilen profesyonel powerbank modellerinden biridir.",
+    "Promosyon powerbank PB-110; 20.000 mAh yüksek kapasitesi, dijital şarj göstergesi, çift USB çıkışı ve logo baskısına uygun geniş yüzeyiyle kurumsal hediyeler ve toplu promosyon çalışmaları için kullanışlı bir mobil şarj cihazıdır.",
 
   longDesc: `
-Promosyon powerbank 13000 mAh PB-110 modeli, yüksek kapasiteli bataryası, ikinci nesil LCD ekranı ve çift USB çıkışı ile kurumsal promosyon ürünleri arasında en çok tercih edilen taşınabilir şarj cihazlarından biridir. Mobil cihazların gün içerisinde yoğun şekilde kullanılması nedeniyle powerbank ürünleri hem kullanıcılar hem de markalar için uzun süre değer oluşturan teknolojik promosyon ürünleri arasında yer almaktadır.
+Promosyon Powerbank 20.000 mAh PB-110, yüksek batarya kapasitesi ve dijital şarj göstergesiyle günlük kullanımda mobil cihazların enerji ihtiyacını karşılamaya yardımcı olan kullanışlı bir promosyon ürünüdür.
 
-13000 mAh batarya kapasitesi sayesinde akıllı telefonlar, kablosuz kulaklıklar, tabletler ve diğer USB ile şarj edilebilen mobil cihazlar için güvenilir bir enerji kaynağı sunmaktadır. Özellikle seyahatlerde, fuarlarda, saha çalışmalarında, toplantılarda ve yoğun iş temposunda kullanıcıların mobil cihazlarını gün boyunca desteklemektedir.
+20.000 mAh kapasitesi sayesinde akıllı telefon, kablosuz kulaklık ve USB bağlantısıyla şarj edilebilen uyumlu mobil cihazların gün içerisinde şarj edilmesine destek olur. Yüksek kapasitesi, özellikle seyahatlerde, saha çalışmalarında, fuarlarda, toplantılarda ve yoğun iş temposunda avantaj sağlar.
 
-PB-110 modelinin en dikkat çekici özelliklerinden biri ikinci nesil LCD ekran göstergesidir. Bu ekran sayesinde kalan batarya seviyesi ve şarj durumu kolaylıkla takip edilebilmektedir. Kullanıcılar powerbank kapasitesini anlık olarak görebildiği için daha kontrollü ve güvenli kullanım elde etmektedir.
+PB-110 modelinin ön yüzünde dijital şarj göstergesi bulunmaktadır. Bu gösterge, powerbank içerisinde kalan enerji seviyesinin kolayca takip edilmesini sağlar. Böylece kullanıcı ürünü ne zaman yeniden şarj etmesi gerektiğini daha rahat görebilir.
 
-Çift USB çıkışı sayesinde aynı anda iki farklı mobil cihaz şarj edilebilir. Bu özellik özellikle yoğun çalışan profesyoneller, saha ekipleri ve seyahat eden kullanıcılar için önemli bir avantaj sağlamaktadır.
+Üründe bulunan iki USB çıkışı, uyumlu cihazların kablolu olarak şarj edilmesine imkân tanır. Bağlantı ve şarj performansı kullanılan cihazın ve kablonun teknik özelliklerine göre değişiklik gösterebilir.
 
-Rubber kaplamalı dış yüzeyi ürüne hem modern hem de premium bir görünüm kazandırmaktadır. Aynı zamanda elde daha konforlu tutuş sağlayarak kullanım deneyimini artırmaktadır.
+Geniş ve sade dış yüzeyi, firma logosu ve kurumsal tasarımların uygulanması için uygun bir alan sunar. Logo baskısıyla kişiselleştirilen PB-110, günlük kullanım sırasında markanın uzun süre görünür kalmasına yardımcı olur.
 
-Promosyon powerbank ürünleri kullanıcıların sürekli yanında taşıdığı teknolojik aksesuarlar arasında bulunduğu için marka görünürlüğünü artıran etkili reklam ürünlerinden biridir. Ürün üzerine firma logosu, marka adı veya kurumsal tasarımlar profesyonel şekilde uygulanarak uzun süreli reklam etkisi elde edilmektedir.
-
-PB-110 modeli; fuar organizasyonları, bayi toplantıları, çalışan motivasyon projeleri, müşteri hediyeleri, teknoloji etkinlikleri ve kurumsal promosyon kampanyalarında tercih edilen kaliteli powerbank modelleri arasında yer almaktadır.
+Promosyon Powerbank PB-110; müşteri hediyeleri, çalışan motivasyon projeleri, bayi toplantıları, fuarlar, kongreler, teknoloji etkinlikleri ve kurumsal promosyon kampanyaları için tercih edilebilecek işlevsel bir teknoloji ürünüdür.
 
 NEDEN PROMOSYON POWERBANK PB-110 TERCİH EDİLMELİ?
 
-• 13000 mAh yüksek batarya kapasitesine sahiptir
-• İkinci nesil LCD ekran göstergesi bulunmaktadır
-• Aynı anda iki cihaz şarj edebilir
-• Çift USB çıkışına sahiptir
-• Logo baskıya uygundur
-• Rubber kaplamalı premium yüzeye sahiptir
-• Günlük kullanıma uygundur
-• Kurumsal teknoloji hediyesi olarak tercih edilir
-• Fuar ve organizasyonlar için uygundur
+• 20.000 mAh yüksek batarya kapasitesine sahiptir
+
+• Dijital şarj göstergesi bulunmaktadır
+
+• Kalan enerji seviyesinin takip edilmesini kolaylaştırır
+
+• İki USB çıkışına sahiptir
+
+• Mobil cihazların günlük şarj ihtiyacına destek olur
+
+• Logo baskısına uygun geniş yüzey sunar
+
+• Kurumsal promosyon çalışmalarına uygundur
+
+• Seyahatlerde ve günlük kullanımda taşınabilir
+
+• Müşteri ve çalışan hediyesi olarak değerlendirilebilir
+
 • Marka görünürlüğünü uzun süre destekler
 
 KULLANIM ALANLARI
 
-• Kurumsal promosyon ürünleri
-• Logo baskılı powerbank çalışmaları
-• Fuar ve etkinlik dağıtımları
+• Kurumsal promosyon çalışmaları
+
+• Logo baskılı powerbank siparişleri
+
 • Müşteri hediyeleri
+
 • Çalışan motivasyon projeleri
-• Bayi toplantıları
+
+• Bayi ve satış toplantıları
+
+• Fuar ve kongre organizasyonları
+
 • Teknoloji etkinlikleri
-• Seyahat kullanımı
+
+• Saha çalışmaları
+
+• İş seyahatleri
+
 • Günlük mobil cihaz şarjı
-• Marka tanıtım kampanyaları
 
 KİMLER İÇİN UYGUN?
 
 • Kurumsal firmalar
+
+• Teknoloji şirketleri
+
 • Reklam ajansları
+
 • Organizasyon şirketleri
-• Teknoloji firmaları
+
 • Eğitim kurumları
-• Belediyeler
-• Kamu kurumları
+
+• Belediyeler ve kamu kurumları
+
 • İnsan kaynakları departmanları
-• Satış ekipleri
+
+• Satış ve pazarlama ekipleri
+
+• Fuar katılımcıları
+
 • Promosyon ürün tedarikçileri
 
 PROMOSYON POWERBANK FİYATLARI
 
-Promosyon powerbank fiyatları; sipariş adedi, uygulanacak baskı tekniği, ürün modeli, stok durumu ve üretim detaylarına göre değişiklik gösterebilmektedir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
+Promosyon powerbank fiyatları; sipariş adedi, logo uygulaması, baskı tekniği, stok durumu ve sipariş detaylarına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat teklifleri hazırlanmaktadır.
 
 SİPARİŞ BİLGİSİ
 
-Promosyon powerbank ürünleri toplu sipariş olarak hazırlanmaktadır.
+Promosyon powerbank ürünleri toplu sipariş kapsamında hazırlanmaktadır.
 
-Logo baskısı, baskı alanı ve tasarım onayı üretim öncesinde belirlenmektedir.
+Logo uygulaması ve baskı alanı üretim öncesinde dijital tasarım onayıyla belirlenmektedir.
 
-Ürün lacivert ve siyah renk seçenekleri ile sunulmaktadır. Renk ve stok durumu dönemsel olarak değişebileceği için sipariş öncesinde güncel stok bilgisi alınması önerilmektedir.
+Renk ve stok durumu dönemsel olarak değişebileceği için sipariş öncesinde güncel stok bilgisi alınması önerilmektedir.
 
-Minimum sipariş miktarı, teslim süresi ve fiyatlandırma talepler doğrultusunda sunulmaktadır.
+Minimum sipariş miktarı, logo uygulaması, teslim süresi ve güncel fiyat bilgisi için bizimle iletişime geçebilirsiniz.
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Powerbank
+Ürün Tipi: Mobil Şarj Cihazı
+
+Model: PB-110
 
 Kategori: Powerbank
 
-Batarya: A+ Lithium ION
+Kapasite: 20.000 mAh
 
-Kapasite: 13000 mAh
+Gösterge: Dijital Şarj Göstergesi
 
-Gösterge: İkinci Nesil LCD
+USB Çıkışı: 2 Adet
 
-Giriş: DC5V 1A (MAX) / Micro
+Markalama: Logo Baskısına Uygun
 
-Çıkış: DC5V 2A (MAX) / 2 USB
+Kullanım: Mobil Cihaz Şarjı
 
-Ağırlık: 275 Gram
+ÖZELLİKLER
 
-Materyal: Rubber
+• 20.000 mAh kapasite
 
-Ürün Ölçüsü: 140 x 65 x 23 mm
+• Dijital şarj göstergesi
 
+• Çift USB çıkışı
 
-Özellikler:
+• Taşınabilir tasarım
 
-• 13000 mAh Batarya
-• İkinci Nesil LCD Ekran
-• Çift USB Çıkışı
-• Micro Giriş
-• Rubber Kaplama
-• Logo Baskıya Uygun
-• Premium Tasarım
-• Günlük Kullanım İçin İdeal
+• Geniş logo uygulama alanı
 
-En iyi şarj performansı için telefonunuzu kendi orijinal kablosuyla kullanmanız önerilmektedir.
+• Günlük ve kurumsal kullanıma uygun yapı
 
-Promosyon powerbank 13000 mAh PB-110 modeli; ikinci nesil LCD ekranı, çift USB çıkışı, yüksek batarya kapasitesi ve logo baskıya uygun modern tasarımı sayesinde markanızın görünürlüğünü artıran profesyonel kurumsal teknoloji ürünlerinden biridir. Toplu sipariş, logo baskı ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
+En iyi şarj performansı için cihazınızla uyumlu ve kaliteli bir şarj kablosu kullanılması önerilmektedir.
+
+Promosyon Powerbank 20.000 mAh PB-110; yüksek kapasitesi, dijital şarj göstergesi, çift USB çıkışı ve logo uygulamasına uygun tasarımıyla markanızın görünürlüğünü destekleyen işlevsel bir kurumsal teknoloji ürünüdür. Toplu sipariş, logo baskısı ve güncel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
+  `.trim(),
 
   faq: [
     {
       q: "Promosyon powerbank PB-110 kapasitesi ne kadardır?",
-      a: "PB-110 modeli 13000 mAh batarya kapasitesine sahiptir.",
+      a: "PB-110 modeli 20.000 mAh batarya kapasitesine sahiptir.",
     },
     {
-      q: "Powerbank aynı anda kaç cihaz şarj edebilir?",
-      a: "Çift USB çıkışı sayesinde aynı anda iki mobil cihaz şarj edilebilir.",
+      q: "PB-110 üzerinde şarj göstergesi bulunuyor mu?",
+      a: "Evet. Üründe kalan enerji seviyesinin takip edilmesini sağlayan dijital şarj göstergesi bulunmaktadır.",
     },
     {
-      q: "Powerbank üzerinde şarj göstergesi bulunuyor mu?",
-      a: "Evet. Üründe ikinci nesil LCD ekran göstergesi bulunmaktadır.",
+      q: "PB-110 kaç adet USB çıkışına sahiptir?",
+      a: "PB-110 modelinde iki adet USB çıkışı bulunmaktadır.",
     },
     {
-      q: "Promosyon powerbank üzerine logo baskı yapılabilir mi?",
-      a: "Evet. Firma logosu, marka adı veya kurumsal tasarımlar ürün üzerine profesyonel şekilde uygulanabilmektedir.",
+      q: "PB-110 hangi cihazlarla kullanılabilir?",
+      a: "Ürün; bağlantı özellikleri uyumlu akıllı telefonlar, kablosuz kulaklıklar ve USB üzerinden şarj edilebilen diğer mobil cihazlarla kullanılabilir.",
     },
     {
-      q: "PB-110 hangi renk seçenekleriyle sunulmaktadır?",
-      a: "PB-110 modeli lacivert ve siyah renk seçenekleriyle sunulmaktadır. Güncel renk ve stok durumu sipariş öncesinde kontrol edilmelidir.",
+      q: "PB-110 üzerine firma logosu uygulanabilir mi?",
+      a: "Evet. Ürünün geniş dış yüzeyine uygun baskı yöntemiyle firma logosu veya kurumsal tasarım uygulanabilir.",
     },
     {
       q: "Promosyon powerbank fiyatları neye göre değişmektedir?",
-      a: "Fiyatlar sipariş adedi, baskı uygulaması, ürün modeli ve üretim detaylarına göre değişiklik gösterebilmektedir.",
+      a: "Fiyatlar sipariş adedi, logo uygulaması, baskı tekniği, stok durumu ve sipariş detaylarına göre değişiklik gösterebilir.",
     },
   ],
 },
@@ -8934,7 +8957,7 @@ Promosyon powerbank 10.000 mAh Wireless PB-113 modeli; manyetik kablosuz şarj t
   title:
     "Promosyon Powerbank 10.000 mAh Wireless LED Fenerli PB-115 | Dahili Kablolu Logo Baskılı Powerbank",
 
-  price: 910,
+  price: 950,
 
   category: "Powerbank",
 
@@ -39664,7 +39687,7 @@ Promosyon powerbank 5.000 mAh PB-290 modeli; ekonomik fiyatı, taşınabilir yap
 
   title: "Promosyon Powerbank 20.000 mAh PB-300 | Logo Baskılı Yüksek Kapasiteli Powerbank",
 
-  price: 755,
+  price: 790,
 
   category: "Powerbank",
 
@@ -39853,7 +39876,7 @@ Promosyon powerbank 20.000 mAh PB-300 modeli; yüksek kapasitesi, güvenli şarj
 
   title: "Promosyon Powerbank 10.000 mAh PB-310 | Logo Baskılı İnce Tasarım Powerbank",
 
-  price: 470,
+  price: 510,
 
   category: "Powerbank",
 
@@ -42281,7 +42304,7 @@ Promosyon anahtarlık AN-440, ev şeklindeki özgün tasarımı, lazer baskıya 
 
   title: "Promosyon Powerbank 10.000 mAh PB-330 | Işıklı Logo Özellikli Taşınabilir Şarj Cihazı",
 
-  price: 705,
+  price: 740,
 
   category: "Powerbank",
 
@@ -43480,7 +43503,7 @@ Promosyon kalem seti KS-130 modeli; metal gövdesi, özel hediye kutusu, lazer v
   title:
     "Promosyon Bardak Termos 250 ml TK-180 | Çift Katmanlı Renkli Termos",
 
-  price: 318,
+  price: 340,
 
   category: "Termos",
 
