@@ -5913,7 +5913,7 @@ Promosyon Powerbank 20.000 mAh PB-110; yüksek kapasitesi, dijital şarj göster
   title:
     "Promosyon Ajanda AJ-100 | 17,5 x 23,5 cm Termo Deri Logo Baskılı Ajanda",
 
-  price: 270,
+  price: 286,
 
   category: "Ajanda",
 
@@ -6836,7 +6836,7 @@ Promosyon ajanda AJ-110 modeli, termo deri kapak yapısı, kalem tutucu tasarım
   title:
     "Promosyon Ajanda AJ-120 | 17 x 24 cm Termo Deri Logo Baskılı Ajanda",
 
-  price: 226,
+  price: 240,
 
   category: "Ajanda",
 
@@ -6966,7 +6966,7 @@ Promosyon ajanda AJ-120 modeli, termo deri kapak yapısı, kaliteli iç sayfalar
   title:
     "Promosyon Ajanda AJ-130 | 17 x 24 cm Logo Baskılı Termo Deri Ajanda",
 
-  price: 290,
+  price: 310,
 
   category: "Ajanda",
 
@@ -7095,7 +7095,7 @@ Promosyon ajanda AJ-130 modeli, termo deri kapak yapısı, kaliteli iç sayfalar
   title:
     "Promosyon Ajanda AJ-140 | 17 x 24 cm Logo Baskılı Termo Deri Ajanda",
 
-  price: 230,
+  price: 242,
 
   category: "Ajanda",
 
@@ -34922,7 +34922,7 @@ Promosyon ahşap masa seti AH-120 modeli; çift kalemlik bölmesi, not kağıdı
   title:
     "Promosyon Deri Kalemlik MS-130 | Kartvizit Bölmeli Masaüstü Organizer",
 
-  price: 270,
+  price: 290,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
@@ -35169,7 +35169,7 @@ Promosyon masa üstü deri organizer MS-140 modeli; çok bölmeli yapısı, prem
   title:
     "Promosyon Deri Kalemlik MS-150 | Telefon Standlı Notluklu Masaüstü Organizer",
 
-  price: 340,
+  price: 370,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
@@ -35298,7 +35298,7 @@ Promosyon deri kalemlik MS-150 modeli; telefon standı, kalemlik, kartvizit böl
   title:
     "Promosyon Deri Kalemlik MS-160 | Telefon Standlı Kartvizitlik Masaüstü Organizer",
 
-  price: 250,
+  price: 270,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
@@ -35424,7 +35424,7 @@ Promosyon deri kalemlik MS-160 modeli; telefon standı, geniş kalemlik, kartviz
   title:
     "Promosyon Deri Kalemlik MS-170 | Notluklu Kartvizitlik Masaüstü Organizer",
 
-  price: 230,
+  price: 250,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
@@ -35802,7 +35802,7 @@ Promosyon deri kalemlik MS-180 modeli; kompakt tasarımı, geniş kalem haznesi,
   title:
     "Promosyon Deri Bardak Altlığı MS-190 | Logolu Suni Deri Bardak Altlığı Seti",
 
-  price: 296,
+  price: 330,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
@@ -35933,7 +35933,7 @@ Promosyon deri bardak altlığı MS-190 modeli; kaliteli suni deri kaplaması, �
   title:
     "Promosyon Deri Bardak Altlığı Seti MS-195 | 4'lü Logolu Suni Deri Bardak Altlığı",
 
-  price: 296,
+  price: 330,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
