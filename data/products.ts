@@ -1,4 +1,4 @@
-﻿export type Product = {
+export type Product = {
   id: string;
   slug: string;
   title: string;
@@ -53,7 +53,7 @@ export const products: Product[] = [
   slug: "promosyon-dokunmatik-kalem-dk-500",
   title:
     "Promosyon Dokunmatik Kalem DK-500 | Logo Baskılı Stylus Kalem",
-  price: 31.20,
+  price: 34.8,
   shortDesc:
     "Promosyon dokunmatik kalem DK-500, telefon ve tablet kullanımına uygun stylus ucu ile dikkat çeken şık bir promosyon kalem modelidir. Logo baskıya uygun gövdesi sayesinde kurumsal promosyon, fuar ve etkinliklerde etkili bir reklam ürünüdür.",
   longDesc: `
@@ -142,7 +142,7 @@ Promosyon dokunmatik kalem DK-500 ile markanızı modern, kullanışlı ve prest
   slug: "promosyon-dokunmatik-kalem-dk600",
   title:
     "Promosyon Dokunmatik Kalem DK-600 | Rubber Gövdeli Logo Baskılı Stylus Kalem",
-  price: 33,
+  price: 36,
   shortDesc:
     "Promosyon dokunmatik kalem DK-600, rubber (kauçuk) kaplamalı premium gövdesi ve stylus ucu ile modern bir promosyon kalem modelidir. Logo baskıya uygun yapısı sayesinde fuar, etkinlik ve kurumsal promosyon çalışmalarında şık bir reklam ürünüdür.",
   longDesc: `
@@ -469,7 +469,7 @@ Promosyon Cricket manyetolu sibopsuz çakmak ÇM-150, kaliteli üretimi, logo ba
   slug: "promosyon-anahtarlik-an-110",
   title:
     "Promosyon Anahtarlık AN-110 | Lazer Baskılı Deri Detaylı Kurumsal Anahtarlık",
-  price: 54.20,
+  price: 62,
 
   shortDesc:
     "Promosyon anahtarlık AN-110, deri görünümlü şık tasarımı, metal gövde yapısı ve lazer baskıya uygun yüzeyi ile kurumsal promosyon çalışmalarında tercih edilen premium logo baskılı anahtarlık modelidir.",
@@ -688,7 +688,7 @@ Promosyon tarihsiz defter TD-100, termo deri kapağı, kullanışlı 15 x 21 cm 
   slug: "promosyon-dokunmatik-kalem-dk-650",
   title:
     "Promosyon Dokunmatik Kalem DK-650 | Logo Baskılı Stylus Kalem",
-  price: 31.20,
+  price: 34.8,
   shortDesc:
     "Promosyon dokunmatik kalem DK-650, telefon ve tablet kullanımına uygun stylus ucu ile dikkat çeken şık bir promosyon kalem modelidir. Logo baskıya uygun gövdesi sayesinde fuar, etkinlik ve kurumsal tanıtımlarda etkili bir reklam ürünüdür.",
   longDesc: `
@@ -752,7 +752,7 @@ Promosyon dokunmatik kalem DK-650 ile markanızı modern, kullanışlı ve tekno
   slug: "promosyon-dokunmatik-kalem-dk-750",
   title:
     "Promosyon Dokunmatik Kalem DK-750 | Logo Baskılı Stylus Kalem",
-  price: 32,
+  price: 58,
   shortDesc:
     "Promosyon dokunmatik kalem DK-750, yumuşak tutuş sağlayan ergonomik kauçuk grip alanı ve stylus ucu ile dikkat çeken premium bir promosyon kalem modelidir. Logo baskıya uygun yapısı sayesinde kurumsal tanıtımlar için ideal bir seçenektir.",
   longDesc: `
@@ -817,7 +817,7 @@ Promosyon dokunmatik kalem DK-750 ile markanızı modern, kullanışlı ve prest
   slug: "promosyon-dokunmatik-kalem-dk-800",
   title:
     "Promosyon Dokunmatik Kalem DK-800 | Lazer Baskılı Stylus Kalem",
-  price: 43.40,
+  price: 48.6,
   category: "Kalem",
   image: "/products/promosyon-dokunmatik-kalem-dk800.jpg",
   shortDesc:
@@ -881,7 +881,7 @@ Promosyon dokunmatik kalem DK-800 ile markanızı modern, şık ve prestijli bir
   slug: "promosyon-dokunmatik-kalem-dk-900",
   title:
     "Promosyon Dokunmatik Kalem DK-900 | Lazer Baskılı Stylus Kalem",
-  price: 41.80,
+  price: 46.8,
   category: "Kalem",
   image: "/products/promosyon-dokunmatik-kalem-dk-900.jpg",
   shortDesc:
@@ -948,7 +948,7 @@ Promosyon dokunmatik kalem DK-900 ile markanızı modern, şık ve teknolojik bi
   slug: "promosyon-dokunmatik-kalem-dk-950",
   title:
     "Promosyon Dokunmatik Kalem DK-950 | Çok Fonksiyonlu Logo Baskılı Tool Pen",
-  price: 148.60,
+  price: 166,
   category: "Kalem",
   image: "/products/promosyon-dokunmatik-kalem-dk-950.jpg",
 
@@ -1020,7 +1020,7 @@ Promosyon dokunmatik kalem DK-950 ile markanızı işlevselliği yüksek, presti
   slug: "promosyon-kraft-govde-tukenmez-kalem-gdk-100",
   title:
     "Promosyon Kraft Gövde Tükenmez Kalem GDK-100 | Logo Baskılı Çevreci Kalem",
-  price: 10,
+  price: 11.2,
   category: "Kalem",
   image: "/products/promosyon-kraft-govde-tukenmez-kalem-gdk-100.jpg",
 
@@ -1086,7 +1086,7 @@ Promosyon kraft gövde tükenmez kalem GDK-100 ile markanızı çevreci, ekonomi
   slug: "promosyon-geri-donusumlu-tohumlu-kalem-gdk-110",
   title:
     "Promosyon Geri Dönüşümlü Tohumlu Tükenmez Kalem GDK-110 | Logo Baskılı Çevreci Kalem",
-  price: 32.20,
+  price: 33,
   category: "Kalem",
   image: "/products/promosyon-geri-donusumlu-tohumlu-kalem-gdk-110.jpg",
 
@@ -1153,7 +1153,7 @@ Promosyon geri dönüşümlü tohumlu kalem GDK-110 ile markanızı çevreci, ye
   slug: "promosyon-geri-donusumlu-tohumlu-kalem-gdk-120",
   title:
     "Promosyon Geri Dönüşümlü Tohumlu Tükenmez Kalem GDK-120 | Logo Baskılı Çevreci Kalem",
-  price: 28.10,
+  price: 33,
   category: "Kalem",
   image: "/products/promosyon-geri-donusumlu-tohumlu-kalem-gdk-120.jpg",
 
@@ -1679,7 +1679,7 @@ Promosyon manyetolu turbo rüzgar çakmak CM-350, güçlü turbo alev sistemi, l
   slug: "promosyon-anahtarlik-an-100",
   title:
     "Promosyon Anahtarlık AN-100 | Lazer Baskılı Metal ve Deri Detaylı Kurumsal Anahtarlık",
-  price: 78,
+  price: 92,
 
   category: "Anahtarlık",
 
@@ -1788,7 +1788,7 @@ Promosyon anahtarlık AN-100, modern tasarımı, kaliteli malzeme yapısı ve la
   id: "p20",
   slug: "promosyon-tarihsiz-defter-td-101",
   title: "Promosyon Tarihsiz Defter TD-101 | Metal Plakalı Şık Kapak",
-  price: 220,
+  price: 260,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-101.jpg",
 
@@ -2497,7 +2497,7 @@ Promosyon metal USB bellek UB-130, askılı metal gövde tasarımı, logo baskı
   slug: "promosyon-anahtarlik-an-111",
   title:
     "Promosyon Anahtarlık AN-111 | Metal ve Deri Logo Baskılı Kurumsal Anahtarlık",
-  price: 100,
+  price: 108,
 
   category: "Anahtarlık",
 
@@ -2705,7 +2705,7 @@ Promosyon anahtarlık AN-112, sade ve şık metal tasarımı, dayanıklı yapıs
   slug: "promosyon-anahtarlik-an-113",
   title:
     "Promosyon Anahtarlık AN-113 | Metal ve Deri Detaylı Logo Baskılı Anahtarlık",
-  price: 90,
+  price: 100,
 
   category: "Anahtarlık",
 
@@ -2809,7 +2809,7 @@ Promosyon anahtarlık AN-113, şık metal tasarımı, kaliteli deri detayları v
   slug: "promosyon-anahtarlik-an-114",
   title:
     "Promosyon Anahtarlık AN-114 | Metal ve Deri Detaylı Logo Baskılı Premium Anahtarlık",
-  price: 96,
+  price: 106,
 
   category: "Anahtarlık",
 
@@ -2913,7 +2913,7 @@ Promosyon anahtarlık AN-114, modern metal tasarımı, kaliteli deri detayları 
   slug: "promosyon-anahtarlik-an-115",
   title:
     "Promosyon Anahtarlık AN-115 | Metal ve Deri Detaylı Logo Baskılı Premium Anahtarlık",
-  price: 85,
+  price: 95,
 
   category: "Anahtarlık",
 
@@ -3020,7 +3020,7 @@ Promosyon anahtarlık AN-115, modern metal tasarımı, kaliteli deri detayları 
   slug: "promosyon-anahtarlik-an-116",
   title:
     "Promosyon Anahtarlık AN-116 | Yuvarlak Metal Detaylı Logo Baskılı Premium Anahtarlık",
-  price: 72,
+  price: 82,
 
   category: "Anahtarlık",
 
@@ -3722,7 +3722,7 @@ Promosyon USB bellek UB-180, dayanıklı metal gövdesi, logo baskısına uygun 
   slug: "promosyon-dokunmatik-kalem-dk-700",
   title:
     "Promosyon Dokunmatik Kalem DK-700 | Logo Baskılı Premium Stylus Kalem",
-  price: 42,
+  price: 30,
   category: "Kalem",
   image: "/products/promosyon-dokunmatik-kalem-dk-700.jpg",
   shortDesc:
@@ -4581,7 +4581,7 @@ Promosyon metal kalem MK-110 ile markanızı modern, kaliteli ve prestijli bir p
   slug: "promosyon-metal-kalem-07-uc-jel-kalem-mk-120",
   title:
     "Promosyon Metal Kalem MK-120 | 0.7 Uç Jel Refilli Logo Baskılı İmza Kalemi",
-  price: 32,
+  price: 33,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-120.jpg",
 
@@ -4650,7 +4650,7 @@ Promosyon metal kalem MK-120 ile markanızı kaliteli, prestijli ve uzun ömürl
   id: "p48",
   slug: "promosyon-metal-kalem-mk-130",
   title: "Promosyon Metal Kalem MK-130 | Logo Baskılı Rubber Gövdeli Promosyon Kalem",
-  price: 48,
+  price: 54,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-130.jpg",
 
@@ -4719,7 +4719,7 @@ Promosyon metal kalem MK-130 ile markanızı modern, kaliteli ve prestijli bir p
   id: "p49",
   slug: "promosyon-metal-kalemler-mk-140",
   title: "Promosyon Metal Kalem MK-140 | Logo Baskılı Rubber Gövdeli Promosyon Kalem",
-  price: 36.20,
+  price: 36,
   category: "Kalem",
   image: "/products/promosyon-metal-kalemler-mk-140.jpg",
 
@@ -5555,7 +5555,7 @@ Promosyon manyetolu çakmak Clipper Brio CM-600, kaliteli gövde yapısı, doldu
   title:
     "Promosyon MagSafe Powerbank 8000 mAh PB-100 | 22.5W Hızlı Şarj",
 
-  price: 1580,
+  price: 1778,
 
   category: "Powerbank",
 
@@ -6035,7 +6035,7 @@ Promosyon ajanda AJ-100, termo deri kapak yapısı, kaliteli iç sayfaları ve l
   title:
     "Promosyon Duvar Saati DS-100 | 40 cm Metal Kasa Logo Baskılı Duvar Saati",
 
-  price: 720,
+  price: 770,
 
   category: "Duvar Saatleri",
 
@@ -6154,7 +6154,7 @@ Promosyon duvar saati DS-100, 40 cm geniş kadranı, metal kasa yapısı ve logo
   slug: "promosyon-tarihsiz-defter-15x21-td-102",
   title:
     "Promosyon Tarihsiz Defter TD-102 | 15x21 Kartvizit Cepli Kurumsal Defter",
-  price: 310,
+  price: 360,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-102.jpg",
 
@@ -6262,7 +6262,7 @@ Promosyon tarihsiz defter TD-102, kartvizit cepli iç yapısı, metal plakalı k
   slug: "promosyon-tarihsiz-defter-14x21-td-103",
   title:
     "Promosyon Tarihsiz Defter TD-103 | 14,5x21 Metal Detaylı Kurumsal Defter",
-  price: 270,
+  price: 290,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-103.jpg",
 
@@ -6369,7 +6369,7 @@ Promosyon tarihsiz defter TD-103, metal detaylı zarif kapağı ve profesyonel t
   slug: "promosyon-tarihsiz-defter-14x21-td-104",
   title:
     "Promosyon Tarihsiz Defter TD-104 | 14,5x21 Çizgili Kapak Kurumsal Defter",
-  price: 220,
+  price: 260,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-104.jpg",
 
@@ -7352,7 +7352,7 @@ Promosyon ajanda AJ-150 modeli; kompakt ölçüsü, kaliteli termo deri kapağı
   title:
     "Promosyon Duvar Saati DS-110 | 35 cm Logo Baskılı Alüminyum Metal Kasa Duvar Saati",
 
-  price: 620,
+  price: 670,
 
   category: "Duvar Saatleri",
 
@@ -8146,7 +8146,7 @@ Promosyon duvar saati DS-136; 38 cm krom kaplama kasası, geniş Bristol kadran�
   title:
     "Promosyon Duvar Saati DS-140 | 25 cm Logo Baskılı Kurumsal Duvar Saati",
 
-  price: 374,
+  price: 410,
 
   category: "Duvar Saatleri",
 
@@ -8667,7 +8667,7 @@ Promosyon powerbank 10.000 mAh PB-111 modeli; yüksek batarya kapasitesi, ışı
   title:
     "Promosyon Powerbank 10.000 mAh 22.5W Hızlı Şarj PB-112 | Dahili Kablolu Logo Baskılı Powerbank",
 
-  price: 780,
+  price: 850,
 
   category: "Powerbank",
 
@@ -8809,7 +8809,7 @@ Promosyon powerbank 10.000 mAh PB-112 modeli; 22.5W hızlı şarj desteği, dahi
   title:
     "Promosyon Powerbank 10.000 mAh Wireless PB-113 | Mıknatıslı Kablosuz Şarjlı Logo Baskılı Powerbank",
 
-  price: 1220,
+  price: 1374,
 
   category: "Powerbank",
 
@@ -9115,7 +9115,7 @@ Promosyon powerbank 10.000 mAh Wireless PB-115 modeli; kablosuz şarj desteği, 
   title:
     "Promosyon Powerbank 10.000 mAh Wireless Ayaklı Standlı PB-120 | LED Logo Baskılı Powerbank",
 
-  price: 1100,
+  price: 1120,
 
   category: "Powerbank",
 
@@ -9271,7 +9271,7 @@ Promosyon powerbank 10.000 mAh Wireless PB-120 modeli; kablosuz şarj teknolojis
   title:
     "Promosyon Powerbank 10.000 mAh Wireless PB-130 | Light-Up Logo Baskılı Powerbank",
 
-  price: 920,
+  price: 1036,
 
   category: "Powerbank",
 
@@ -9740,7 +9740,7 @@ Promosyon powerbank 20.000 mAh PB-150 modeli, yüksek batarya kapasitesi, LED g�
   title:
     "Promosyon Ajanda AJ-160 | 16 x 24 cm Logo Baskılı Termo Deri Ajanda",
 
-  price: 208,
+  price: 218,
 
   category: "Ajanda",
 
@@ -9867,7 +9867,7 @@ Promosyon ajanda AJ-160 modeli; kaliteli termo deri kapağı, profesyonel baskı
   title:
     "Promosyon Ajanda AJ-170 | 16 x 24 cm Logo Baskılı Termo Deri Ajanda",
 
-  price: 196,
+  price: 206,
 
   category: "Ajanda",
 
@@ -9993,7 +9993,7 @@ Promosyon ajanda AJ-170 modeli; kaliteli termo deri kapağı, 320 sayfalık krem
   title:
     "Promosyon Ajanda AJ-180 | 17 x 24 cm Logo Baskılı Termo PU Ajanda",
 
-  price: 290,
+  price: 310,
 
   category: "Ajanda",
 
@@ -10230,7 +10230,7 @@ Logo baskılı promosyon ajanda AJ-190 modeli hakkında fiyat teklifi almak içi
   title:
     "Promosyon Anahtarlık AN-117 | Yuvarlak Metal Yüzeyli Logo Baskılı Premium Anahtarlık",
 
-  price: 70,
+  price: 78,
 
   category: "Anahtarlık",
 
@@ -10340,7 +10340,7 @@ Promosyon anahtarlık AN-117, modern yuvarlak metal tasarımı, kaliteli deri de
   title:
     "Promosyon Anahtarlık AN-120 | Dikdörtgen Metal Detaylı Logo Baskılı Anahtarlık",
 
-  price: 49,
+  price: 58,
 
   category: "Anahtarlık",
 
@@ -10451,7 +10451,7 @@ Promosyon anahtarlık AN-120, modern metal tasarımı, lazer baskıya uygun yap�
   slug: "promosyon-tarihsiz-defter-14-5x21-td-116",
   title:
     "Promosyon Tarihsiz Defter TD-116 | 14,5x21 Termo Deri Kalem Tutuculu",
-  price: 212,
+  price: 248,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-116.jpg",
 
@@ -10678,7 +10678,7 @@ Promosyon tarihsiz defter TD-120, termo deri kapağı, kalem yuvalı tasarımı 
   slug: "promosyon-tarihsiz-defter-15x21-td-125",
   title:
     "Promosyon Tarihsiz Defter TD-125 | 15x21 Kalem Yuvalı Premium Defter",
-  price: 190,
+  price: 210,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-125.jpg",
 
@@ -10791,7 +10791,7 @@ Promosyon tarihsiz defter TD-125, kalem yuvalı premium tasarımı ve 224 sayfal
   id: "p97",
   slug: "promosyon-metal-kalem-mk-160",
   title: "Promosyon Metal Kalem MK-160 | Logo Baskılı Kurumsal Metal Kalem",
-  price: 28.40,
+  price: 54,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-160.jpg",
 
@@ -10859,7 +10859,7 @@ Promosyon metal kalem MK-160 ile markanızı zarif, kaliteli ve profesyonel bir 
   id: "p98",
   slug: "promosyon-metal-kalem-mk-170",
   title: "Promosyon Metal Kalem MK-170 | Lazer Baskılı İmza Kalemi",
-  price: 33,
+  price: 35,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-170.jpg",
 
@@ -10997,7 +10997,7 @@ Promosyon metal kalem MK-180 ile markanızı şık, ekonomik ve kaliteli bir pro
   slug: "promosyon-metal-kalem-mk-190",
   title:
     "Promosyon Metal Kalem MK-190 | Siyah Gövdeli Logo Baskılı Premium Metal Kalem",
-  price: 40,
+  price: 43,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-190.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-190.jpg"],
@@ -11326,7 +11326,7 @@ Promosyon cam matara 750 ml CM-400, geniş kapasitesi, logo baskı uygulanabilir
 
   title: "Promosyon Termos 500 ml TK-100 | Lazer Baskılı Logo Termos",
 
-  price: 578,
+  price: 650,
 
   category: "Termos",
 
@@ -11447,7 +11447,7 @@ Promosyon termos 500 ml TK-100, modern tasarımı, lazer baskıya uygun yüzeyi 
   title:
     "Promosyon Termos 500 ml TK-110 | UV ve Lazer Baskılı Logo Termos",
 
-  price: 412,
+  price: 520,
 
   category: "Termos",
 
@@ -11804,7 +11804,7 @@ Promosyon termos 900 ml TK-125, geniş kapasitesi, lazer baskıya uygun yüzeyi 
   title:
     "Promosyon Termos 400 ml TK-130 | Lazer Baskılı Logo Termos",
 
-  price: 820,
+  price: 840,
 
   category: "Termos",
 
@@ -11920,7 +11920,7 @@ Promosyon termos 400 ml TK-130, kompakt tasarımı, lazer baskıya uygun yüzeyi
   title:
     "Promosyon Termos 1300 ml TK-140 | Kilitli Kapak Logo Baskılı Termos",
 
-  price: 896,
+  price: 1000,
 
   category: "Termos",
 
@@ -12036,7 +12036,7 @@ Promosyon termos 1300 ml TK-140, büyük kapasitesi, kilitli kapak sistemi ve lo
   title:
     "Promosyon Termos 1000 ml TK-150 | Kilitli Kapak Logo Baskılı Termos",
 
-  price: 936,
+  price: 1050,
 
   category: "Termos",
 
@@ -12152,7 +12152,7 @@ Promosyon termos 1000 ml TK-150, geniş kapasitesi, kilitli kapak sistemi ve log
   title:
     "Promosyon Termos 900 ml TK-155 | Kilitli Kapak Logo Baskılı Termos",
 
-  price: 908,
+  price: 1020,
 
   category: "Termos",
 
@@ -12994,7 +12994,7 @@ Promosyon renkli yapışkanlı notluk GD-130; sert kraft kapağı, yapışkan no
   title:
     "Promosyon Spiralli Not Defteri GD-140 | Sert Kraft Kapak Geri Dönüşümlü Logo Baskılı Defter",
 
-  price: 180,
+  price: 225,
 
   category: "Geri Dönüşümlü Ürünler",
 
@@ -13148,7 +13148,7 @@ Promosyon spiralli not defteri GD-140; sert kraft kapağı, 100 yaprak krem renk
   title:
     "Promosyon Renkli Yapışkanlı Notluk GD-150 | Logo Baskılı Kraft Kapak Notluk",
 
-  price: 108,
+  price: 78.8,
 
   category: "Yapışkanlı Notluklar",
 
@@ -13748,7 +13748,7 @@ Promosyon yapışkanlı notluk GD-180; spiralli yapısı, yapışkan not bölmes
   title:
     "Promosyon Kalem Seti KS-100 | Logo Baskılı Metal Roller ve Tükenmez Kalem Seti",
 
-  price: 560,
+  price: 660,
 
   category: "Kalem Setleri",
 
@@ -14553,7 +14553,7 @@ Promosyon tişört siparişleri toplu üretim olarak hazırlanmaktadır. Minimum
   title:
     "Promosyon Organizer ORG-100 | Logo Baskılı Termo Deri Kurumsal Organizer",
 
-  price: 530,
+  price: 540,
 
   category: "Organizerler",
 
@@ -14927,7 +14927,7 @@ Promosyon cetvel CT-200; 15 cm ölçüm kapasitesi, kompakt plastik yapısı ve 
   id: "p130",
   slug: "promosyon-vip-set-vip-100",
   title: "Promosyon VIP Set VIP-100 | Logo Baskılı Kurumsal VIP Hediye Seti",
-  price: 2760,
+  price: 2960,
   category: "VIP Ürünler",
 
   image: "/products/promosyon-vip-set-vip-100.jpg",
@@ -15032,7 +15032,7 @@ Promosyon masa seti siparişleri toplu üretim olarak hazırlanmakta olup minimu
   title:
     "Promosyon 12'li Hesap Makinesi HM-100 | Logo Baskılı Masaüstü Promosyon Hesap Makinesi",
 
-  price: 480,
+  price: 330,
 
   category: "Hesap Makineleri",
 
@@ -15711,7 +15711,7 @@ Promosyon çakı seti siparişleri toplu üretim olarak hazırlanmakta olup mini
 
   title: "Promosyon Oto Kokusu OK-750 | Logo Baskılı Oto Kokusu",
 
-  price: 7,
+  price: 7.5,
 
   category: "İmalat Ürünler",
 
@@ -15948,7 +15948,7 @@ Promosyon porselen kupa PK-110, kaliteli porselen yapısı, çift yön renkli ba
   title:
     "Promosyon Kalem Seti KS-110 | Logo Baskılı Metal Roller ve Tükenmez Kalem Seti",
 
-  price: 410,
+  price: 460,
 
   category: "Kalem Setleri",
 
@@ -16105,7 +16105,7 @@ Promosyon kalem seti KS-110 modeli; modern metal tasarımı, kaliteli yazım per
   title:
     "Promosyon Kalem Seti KS-120 | Logo Baskılı Metal Roller ve Tükenmez Kalem Seti",
 
-  price: 615,
+  price: 660,
 
   category: "Kalem Setleri",
 
@@ -17774,7 +17774,7 @@ Promosyon 2'li porselen Nescafe fincanı PK-150, kaliteli porselen yapısı, mod
   slug: "promosyon-metal-versatil-kalem-07-mk-200",
   title:
     "Promosyon Metal Versatil Kalem 0.7 Uç MK-200 | Logo Baskılı Premium Mekanik Kalem",
-  price: 30,
+  price: 33.8,
   category: "Kalem",
   image: "/products/promosyon-metal-versatil-kalem-mk-200.jpg",
   gallery: ["/products/promosyon-metal-versatil-kalem-mk-200.jpg"],
@@ -18259,7 +18259,7 @@ Promosyon metal kalem MK-230 ile markanızı modern, dikkat çekici ve kaliteli 
   title:
     "Promosyon Anahtarlık AN-125 | Çift Halkalı Lazer Baskılı Metal Anahtarlık",
 
-  price: 112,
+  price: 126,
 
   category: "Anahtarlık",
 
@@ -18371,7 +18371,7 @@ Promosyon anahtarlık AN-125, çift halkalı modern yapısı, lazer baskıya uyg
   title:
     "Promosyon Anahtarlık AN-130 | Dikdörtgen Metal Yüzeyli Logo Baskılı Anahtarlık",
 
-  price: 49,
+  price: 58,
 
   category: "Anahtarlık",
 
@@ -18485,7 +18485,7 @@ Promosyon anahtarlık AN-130, modern metal yüzeyi, lazer baskıya uygun yapıs�
   title:
     "Promosyon Anahtarlık AN-140 | Deri Görünümlü Lazer ve Gofre Baskılı Logo Anahtarlık",
 
-  price: 41.60,
+  price: 46.8,
 
   category: "Anahtarlık",
 
@@ -18612,7 +18612,7 @@ Promosyon anahtarlık AN-140, modern tasarımı, çift yön baskı avantajı ve 
   title:
     "Promosyon Anahtarlık AN-150 | Esnek Kayışlı Lazer ve Gofre Baskılı Logo Anahtarlık",
 
-  price: 42.50,
+  price: 48.2,
 
   category: "Anahtarlık",
 
@@ -18868,7 +18868,7 @@ Promosyon anahtarlık AN-160, lazer baskıya uygun metal yüzeyi, şık tasarım
   title:
     "Promosyon Anahtarlık AN-170 | Siyah Metal Gövdeli Lazer Baskılı Logo Anahtarlık",
 
-  price: 47,
+  price: 64,
 
   category: "Anahtarlık",
 
@@ -18997,7 +18997,7 @@ Promosyon anahtarlık AN-170, siyah metal gövdesi, lazer baskıya uygun yapıs�
   title:
     "Promosyon Anahtarlık AN-180 | Uzun Tasarımlı Lazer ve Gofre Baskılı Logo Anahtarlık",
 
-  price: 39,
+  price: 84,
 
   category: "Anahtarlık",
 
@@ -19128,7 +19128,7 @@ Promosyon anahtarlık AN-180, geniş baskı alanı, uzun tasarımı ve lazer ile
   title:
     "Promosyon Anahtarlık AN-190 | Metal Çerçeveli Lazer Baskılı Logo Anahtarlık",
 
-  price: 49,
+  price: 51.2,
 
   category: "Anahtarlık",
 
@@ -19255,7 +19255,7 @@ Promosyon anahtarlık AN-190, lazer baskıya uygun yapısı, şık metal çerçe
   title:
     "Promosyon Anahtarlık AN-200 | Metal Çerçeveli Lazer Baskılı Logo Anahtarlık",
 
-  price: 33,
+  price: 38,
 
   category: "Anahtarlık",
 
@@ -19382,7 +19382,7 @@ Promosyon anahtarlık AN-200, metal çerçeveli şık tasarımı, lazer baskıya
   title:
     "Promosyon Anahtarlık AN-210 | Oval Metal Lazer Baskılı Logo Anahtarlık",
 
-  price: 33,
+  price: 37,
 
   category: "Anahtarlık",
 
@@ -19509,7 +19509,7 @@ Promosyon anahtarlık AN-210, oval metal tasarımı, çift yön baskı avantajı
   title:
     "Promosyon Anahtarlık AN-220 | Uzun Gövdeli Lazer Baskılı Logo Anahtarlık",
 
-  price: 63,
+  price: 72.8,
 
   category: "Anahtarlık",
 
@@ -19637,7 +19637,7 @@ Promosyon anahtarlık AN-220, geniş metal baskı alanı, çift yön baskı avan
   title:
     "Promosyon Anahtarlık AN-230 | Deri Görünümlü Lazer Baskılı Logo Anahtarlık",
 
-  price: 44,
+  price: 51,
 
   category: "Anahtarlık",
 
@@ -19761,7 +19761,7 @@ Promosyon anahtarlık AN-230, deri görünümlü tasarımı, lazer baskıya uygu
   title:
     "Promosyon Anahtarlık AN-240 | Oval Metal Yüzeyli Lazer Baskılı Logo Anahtarlık",
 
-  price: 44,
+  price: 58,
 
   category: "Anahtarlık",
 
@@ -20009,7 +20009,7 @@ Promosyon anahtarlık AN-250, çift yön baskı avantajı, modern metal tasarım
   slug: "promosyon-metal-kalem-mk-240",
   title:
     "Promosyon Metal Kalem MK-240 | Lazer Baskılı Şık Logo Baskılı Metal Kalem",
-  price: 30,
+  price: 33,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-240.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-240.jpg"],
@@ -20297,7 +20297,7 @@ Promosyon metal kalem MK-260 ile markanızı kaliteli, zarif ve prestijli bir pr
   slug: "promosyon-metal-kalem-mk-270",
   title:
     "Promosyon Metal Kalem MK-270 | Telefon Standlı Mat Gövdeli Logo Baskılı Kalem",
-  price: 29.40,
+  price: 32.9,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-270.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-270.jpg"],
@@ -20395,7 +20395,7 @@ Promosyon metal kalem MK-270 ile markanızı yenilikçi, kullanışlı ve dikkat
   slug: "promosyon-metal-kalem-mk-280",
   title:
     "Promosyon Metal Kalem MK-280 | Altın Detaylı Logo Baskılı Premium Metal Kalem",
-  price: 31.50,
+  price: 34.8,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-280.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-280.jpg"],
@@ -20492,7 +20492,7 @@ Promosyon metal kalem MK-280 ile markanızı kaliteli, zarif ve prestijli bir pr
   slug: "promosyon-metal-jel-kalem-mk-290",
   title:
     "Promosyon Metal Jel Kalem MK-290 | 0.5 mm Uçlu Logo Baskılı Premium Jel Kalem",
-  price: 38,
+  price: 41.2,
   category: "Kalem",
   image: "/products/promosyon-metal-jel-kalem-mk-290.jpg",
   gallery: ["/products/promosyon-metal-jel-kalem-mk-290.jpg"],
@@ -20592,7 +20592,7 @@ Promosyon metal jel kalem MK-290 ile markanızı kaliteli, akıcı yazım sunan 
   slug: "promosyon-metal-kalem-mk-300",
   title:
     "Promosyon Metal Kalem MK-300 | Logo Baskılı Premium Metal Kalem",
-  price: 64,
+  price: 72,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-300.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-300.jpg"],
@@ -20878,7 +20878,7 @@ Promosyon metal kalem MK-320 ile markanızı kaliteli, zarif ve prestijli bir pr
   slug: "promosyon-metal-kalem-mk-330",
   title:
     "Promosyon Metal Kalem MK-330 | Siyah Detaylı Logo Baskılı Premium Metal Kalem",
-  price: 102,
+  price: 108,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-330.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-330.jpg"],
@@ -20973,7 +20973,7 @@ Promosyon metal kalem MK-330 ile markanızı kaliteli, modern ve prestijli bir p
   slug: "promosyon-metal-kalem-mk-340",
   title:
     "Promosyon Metal Kalem MK-340 | Telefon Tutuculu Logo Baskılı Metal Kalem",
-  price: 28.40,
+  price: 31.8,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-340.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-340.jpg"],
@@ -21071,7 +21071,7 @@ Promosyon metal kalem MK-340 ile markanızı yenilikçi, kullanışlı ve dikkat
   slug: "promosyon-metal-kalem-mk-350",
   title:
     "Promosyon Metal Kalem MK-350 | Telefon Tutuculu Klips Renginde Logo Baskılı Kalem",
-  price: 31.80,
+  price: 35.6,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-350.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-350.jpg"],
@@ -23531,7 +23531,7 @@ Promosyon metal kalem MK-360 ile markanızı konforlu, kaliteli ve modern bir pr
   slug: "promosyon-metal-kalem-mk-370",
   title:
     "Promosyon Metal Kalem MK-370 | Logo Baskılı Premium Roller Kalem",
-  price: 150,
+  price: 120,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-370.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-370.jpg"],
@@ -24905,7 +24905,7 @@ Promosyon metal kalem MK-510, ışıklı logo baskı özelliği ile markanızı 
   slug: "promosyon-plastik-kalem-pls-100",
   title:
     "Promosyon Plastik Kalem PLS-100 | Telefon Tutuculu Logo Baskılı Kalem",
-  price: 8.5,
+  price: 8.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-100.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-100.jpg"],
@@ -25001,7 +25001,7 @@ Promosyon plastik kalem PLS-100, telefon tutucu özelliği sayesinde markanızı
   slug: "promosyon-plastik-kalem-pls-110",
   title:
     "Promosyon Plastik Kalem PLS-110 | Telefon Tutuculu Logo Baskılı Kalem",
-  price: 8.5,
+  price: 8.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-110.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-110.jpg"],
@@ -25096,7 +25096,7 @@ Promosyon plastik kalem PLS-110, telefon tutucu özelliği ile markanızı kulla
   id: "p223",
   slug: "promosyon-plastik-kalem-pls-115",
   title: "Promosyon Plastik Kalem PLS-115 | Telefon Standlı Logo Baskılı Promosyon Kalem",
-  price: 8.5,
+  price: 8.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-115.jpg",
 
@@ -25166,7 +25166,7 @@ Reklam ve pazarlama kampanyaları
   id: "p224",
   slug: "promosyon-plastik-kalem-pls-116",
   title: "Promosyon Plastik Kalem PLS-116 | Logo Baskılı Promosyon Kalem",
-  price: 8.10,
+  price: 8.4,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-116.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-116.jpg"],
@@ -25264,7 +25264,7 @@ Promosyon plastik kalem PLS-116, ekonomik yapısı ve renk çeşitliliği ile ma
   slug: "promosyon-plastik-kalem-jell-kalem-pls-117",
   title:
     "Promosyon Plastik Kalem (Jell Kalem) PLS-117 | Logo Baskılı Promosyon Kalem",
-  price: 11.80,
+  price: 12.2,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-117.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-117.jpg"],
@@ -25361,7 +25361,7 @@ Promosyon plastik kalem PLS-117, akıcı yazım sağlayan jell kalem yapısı il
   id: "p226",
   slug: "promosyon-plastik-kalem-pls-118",
   title: "Promosyon Plastik Kalem PLS-118 | Logo Baskılı Promosyon Kalem",
-  price: 8.10,
+  price: 8.4,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-118.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-118.jpg"],
@@ -25460,7 +25460,7 @@ Promosyon plastik kalem PLS-118, beyaz klipsli şık tasarımı ve renk seçenek
   slug: "promosyon-plastik-kalem-jell-kalem-pls-119",
   title:
     "Promosyon Plastik Kalem (Jell Kalem) PLS-119 | Logo Baskılı Promosyon Kalem",
-  price: 11.80,
+  price: 12.2,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-119.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-119.jpg"],
@@ -25557,7 +25557,7 @@ Promosyon plastik kalem PLS-119, akıcı yazım sağlayan jell kalem yapısı ve
   id: "p228",
   slug: "promosyon-plastik-kalem-pls-120",
   title: "Promosyon Plastik Kalem PLS-120 | Logo Baskılı Promosyon Kalem",
-  price: 11.80,
+  price: 12.2,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-120.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-120.jpg"],
@@ -25650,7 +25650,7 @@ Promosyon plastik kalem PLS-120, şık detayları ve kullanışlı yapısı ile 
   id: "p229",
   slug: "promosyon-plastik-kalem-pls-130",
   title: "Promosyon Plastik Kalem PLS-130 | Logo Baskılı Promosyon Kalem",
-  price: 9.20,
+  price: 9.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-130.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-130.jpg"],
@@ -25745,7 +25745,7 @@ Promosyon plastik kalem PLS-130, rahat tutuş sağlayan yapısı ve dikkat çeki
   id: "p230",
   slug: "promosyon-plastik-kalem-pls-140",
   title: "Promosyon Plastik Kalem PLS-140 | Logo Baskılı Promosyon Kalem",
-  price: 11,
+  price: 11.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-140.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-140.jpg"],
@@ -25838,7 +25838,7 @@ Promosyon plastik kalem PLS-140, modern görünümü ve kullanışlı yapısı i
   id: "p231",
   slug: "promosyon-plastik-kalem-pls-150",
   title: "Promosyon Plastik Kalem PLS-150 | Logo Baskılı Promosyon Kalem",
-  price: 10.20,
+  price: 10.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-150.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-150.jpg"],
@@ -25931,7 +25931,7 @@ Promosyon plastik kalem PLS-150, sade ve şık tasarımı ile markanızı profes
   id: "p232",
   slug: "promosyon-plastik-kalem-pls-160",
   title: "Promosyon Plastik Kalem PLS-160 | Logo Baskılı Promosyon Kalem",
-  price: 10.20,
+  price: 10.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-160.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-160.jpg"],
@@ -26027,7 +26027,7 @@ Promosyon plastik kalem PLS-160, zarif tasarımı ve renk çeşitliliği ile mar
   id: "p233",
   slug: "promosyon-plastik-kalem-pls-170",
   title: "Promosyon Plastik Kalem PLS-170 | Logo Baskılı Promosyon Kalem",
-  price: 8.4,
+  price: 8.6,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-170.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-170.jpg"],
@@ -26123,7 +26123,7 @@ Promosyon plastik kalem PLS-170, çevirmeli mekanizması ve sade tasarımı ile 
   id: "p234",
   slug: "promosyon-plastik-kalem-pls-180",
   title: "Promosyon Plastik Kalem PLS-180 | Logo Baskılı Promosyon Kalem",
-  price: 6.80,
+  price: 7,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-180.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-180.jpg"],
@@ -26216,7 +26216,7 @@ Promosyon plastik kalem PLS-180, sade tasarımı ve ekonomik yapısı ile markan
   id: "p235",
   slug: "promosyon-plastik-kalem-pls-190",
   title: "Promosyon Plastik Kalem PLS-190 | Logo Baskılı Promosyon Kalem",
-  price: 6.70,
+  price: 6.9,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-190.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-190.jpg"],
@@ -26309,7 +26309,7 @@ Promosyon plastik kalem PLS-190, sade tasarımı ve ekonomik yapısı ile markan
   id: "p236",
   slug: "promosyon-plastik-kalem-pls-200",
   title: "Promosyon Plastik Kalem PLS-200 | Logo Baskılı Promosyon Kalem",
-  price: 6.70,
+  price: 6.9,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-200.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-200.jpg"],
@@ -26402,7 +26402,7 @@ Promosyon plastik kalem PLS-200, sade tasarımı ve ekonomik yapısı ile markan
   id: "p237",
   slug: "promosyon-plastik-kalem-pls-210",
   title: "Promosyon Plastik Kalem PLS-210 | Logo Baskılı Promosyon Kalem",
-  price: 7.20,
+  price: 7.6,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-210.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-210.jpg"],
@@ -26588,7 +26588,7 @@ Promosyon plastik kalem PLS-220, şık detayları ve profesyonel görünümü il
   id: "p239",
   slug: "promosyon-plastik-kalem-pls-230",
   title: "Promosyon Plastik Kalem PLS-230 | Logo Baskılı Promosyon Kalem",
-  price: 8.50,
+  price: 8.9,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-230.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-230.jpg"],
@@ -26681,7 +26681,7 @@ Promosyon plastik kalem PLS-230, özgün klips tasarımı ve renk seçenekleri i
   id: "p240",
   slug: "promosyon-plastik-kalem-pls-240",
   title: "Promosyon Plastik Kalem PLS-240 | Logo Baskılı Promosyon Kalem",
-  price: 9.40,
+  price: 9.6,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-240.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-240.jpg"],
@@ -26777,7 +26777,7 @@ Promosyon plastik kalem PLS-240, renk çeşitliliği ve baskı seçenekleri ile 
   id: "p241",
   slug: "promosyon-plastik-kalem-pls-250",
   title: "Promosyon Plastik Kalem PLS-250 | Logo Baskılı Promosyon Kalem",
-  price: 7,
+  price: 8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-250.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-250.jpg"],
@@ -26972,7 +26972,7 @@ Promosyon plastik kalem PLS-260, modern tasarımı ve şık detayları ile marka
   id: "p243",
   slug: "promosyon-plastik-kalem-pls-270",
   title: "Promosyon Plastik Kalem (Üçgen Gövde) PLS-270 | Logo Baskılı Promosyon Kalem",
-  price: 8.6,
+  price: 8.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-270.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-270.jpg"],
@@ -27070,7 +27070,7 @@ Promosyon plastik kalem PLS-270, ergonomik üçgen gövde yapısı ve modern tas
   id: "p244",
   slug: "promosyon-plastik-kalem-pls-280",
   title: "Promosyon Plastik Kalem (Üçgen Gövde) PLS-280 | Logo Baskılı Promosyon Kalem",
-  price: 8.6,
+  price: 8.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-280.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-280.jpg"],
@@ -27265,7 +27265,7 @@ Promosyon plastik kalem PLS-290, zarif tasarımı ve metal görünümlü detayla
   id: "p246",
   slug: "promosyon-plastik-kalem-pls-300",
   title: "Promosyon Plastik Kalem PLS-300 | Logo Baskılı Promosyon Kalem",
-  price: 7.90,
+  price: 8.2,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-300.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-300.jpg"],
@@ -27363,7 +27363,7 @@ Promosyon plastik kalem PLS-300, konforlu tutuş sağlayan yapısı ve canlı re
   id: "p247",
   slug: "promosyon-plastik-kalem-pls-310",
   title: "Promosyon Plastik Kalem PLS-310 | Logo Baskılı Promosyon Kalem",
-  price: 8.40,
+  price: 8.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-310.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-310.jpg"],
@@ -27461,7 +27461,7 @@ Promosyon plastik kalem PLS-310, dikkat çekici klips tasarımı ve canlı renk 
   id: "p248",
   slug: "promosyon-plastik-kalem-pls-320",
   title: "Promosyon Plastik Kalem PLS-320 | Logo Baskılı Promosyon Kalem",
-  price: 8.10,
+  price: 8.4,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-320.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-320.jpg"],
@@ -27558,7 +27558,7 @@ Promosyon plastik kalem PLS-320, geniş beyaz klips alanı ve sade tasarımı il
   id: "p249",
   slug: "promosyon-plastik-kalem-pls-330",
   title: "Promosyon Plastik Kalem PLS-330 | Logo Baskılı Promosyon Kalem",
-  price: 8.10,
+  price: 8.4,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-330.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-330.jpg"],
@@ -27655,7 +27655,7 @@ Promosyon plastik kalem PLS-330, sade tasarımı ve geniş baskı alanı ile mar
   id: "p250",
   slug: "promosyon-plastik-kalem-pls-340",
   title: "Promosyon Plastik Kalem (Jell Kalem) PLS-340 | Logo Baskılı Promosyon Kalem",
-  price: 11.80,
+  price: 12.2,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-340.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-340.jpg"],
@@ -27753,7 +27753,7 @@ Promosyon plastik jell kalem PLS-340, akıcı yazımı ve geniş baskı alanı i
   id: "p251",
   slug: "promosyon-plastik-kalem-pls-350",
   title: "Promosyon Plastik Kalem PLS-350 | Logo Baskılı Promosyon Kalem",
-  price: 7.20,
+  price: 7.6,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-350.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-350.jpg"],
@@ -29696,7 +29696,7 @@ Promosyon powerbank 10.000 mAh PB-180 modeli, yüksek batarya kapasitesi, çift 
 
   title: "Promosyon Powerbank 5.000 mAh PB-190 | Magsafe Logo Baskılı Powerbank",
 
-  price: 810,
+  price: 912,
 
   category: "Powerbank",
 
@@ -29855,7 +29855,7 @@ Promosyon powerbank 5.000 mAh PB-190 modeli; MagSafe uyumlu kablosuz şarj siste
 
   title: "Promosyon Powerbank 5.000 mAh PB-200 | Magsafe Kablosuz Powerbank",
 
-  price: 537,
+  price: 606,
 
   category: "Powerbank",
 
@@ -30016,7 +30016,7 @@ Promosyon powerbank 5.000 mAh PB-200 modeli; MagSafe uyumlu kablosuz şarj tekno
 
   title: "Promosyon Powerbank 10.000 mAh PB-210 | Magsafe & Kablolu Hızlı Şarj",
 
-  price: 1220,
+  price: 1374,
 
   category: "Powerbank",
 
@@ -30194,7 +30194,7 @@ Promosyon powerbank 10.000 mAh PB-210 modeli; MagSafe kablosuz şarj desteği, d
 
   title: "Promosyon Powerbank 20.000 mAh PB-220 | Logo Baskılı Yüksek Kapasiteli Powerbank",
 
-  price: 1020,
+  price: 1150,
 
   category: "Powerbank",
 
@@ -30358,7 +30358,7 @@ Promosyon powerbank 20.000 mAh PB-220 modeli; yüksek kapasiteli A+ lityum batar
 
   title: "Promosyon Powerbank 10.000 mAh PB-230 | 4 in 1 Magsafe Hızlı Şarj",
 
-  price: 1526,
+  price: 1718,
 
   category: "Powerbank",
 
@@ -30525,7 +30525,7 @@ Promosyon powerbank 10.000 mAh PB-230 modeli; MagSafe kablosuz şarj teknolojisi
   title:
     "Promosyon Bambu Termos 500 ml TK-111 | Logo Baskılı Termos",
 
-  price: 960,
+  price: 1020,
 
   category: "Termos",
 
@@ -30640,7 +30640,7 @@ Promosyon bambu termos 500 ml TK-111, doğal bambu kaplaması, lazer baskıya uy
   title:
     "Promosyon Termos 550 ml TK-160 | Logo Baskılı Termos",
 
-  price: 820,
+  price: 840,
 
   category: "Termos",
 
@@ -30752,7 +30752,7 @@ Promosyon termos 550 ml TK-160, kompakt yapısı, lazer baskıya uygun yüzeyi v
   title:
     "Promosyon Termos 300 ml TK-170 | Logo Baskılı Termos",
 
-  price: 350,
+  price: 360,
 
   category: "Termos",
 
@@ -31003,7 +31003,7 @@ Promosyon anahtarlık AN-260, çift yön baskı avantajı, modern kare tasarım�
   title:
     "Promosyon Anahtarlık AN-270 | Yuvarlak Çift Yön Lazer Baskılı Logo Anahtarlık",
 
-  price: 33,
+  price: 37,
 
   category: "Anahtarlık",
 
@@ -31132,7 +31132,7 @@ Promosyon anahtarlık AN-270, yuvarlak tasarımı, çift yön baskı avantajı v
   title:
     "Promosyon Anahtarlık AN-280 | Deri Görünümlü Lazer Baskılı Logo Anahtarlık",
 
-  price: 37.60,
+  price: 41.6,
 
   category: "Anahtarlık",
 
@@ -31257,7 +31257,7 @@ Promosyon anahtarlık AN-280, deri görünümlü şık tasarımı, lazer baskıy
   title:
     "Promosyon Anahtarlık AN-290 | Oval Metal Yüzeyli Çift Yön Lazer Baskılı Anahtarlık",
 
-  price: 43,
+  price: 102,
 
   category: "Anahtarlık",
 
@@ -31387,7 +31387,7 @@ Promosyon anahtarlık AN-290, oval metal baskı alanı, çift yön baskı avanta
   title:
     "Promosyon Anahtarlık AN-300 | Deri Görünümlü Çift Yön Lazer Baskılı Anahtarlık",
 
-  price: 37.60,
+  price: 41.6,
 
   category: "Anahtarlık",
 
@@ -31516,7 +31516,7 @@ Promosyon anahtarlık AN-300, ince uzun tasarımı, çift yön baskı avantajı 
   title:
     "Promosyon Anahtarlık AN-310 | Ev Şeklinde Domeks ve Lazer Baskılı Logo Anahtarlık",
 
-  price: 41.80,
+  price: 47.6,
 
   category: "Anahtarlık",
 
@@ -31642,7 +31642,7 @@ Promosyon anahtarlık AN-310, ev şeklindeki özgün tasarımı, domeks baskı �
   title:
     "Promosyon Anahtarlık AN-320 | Ev Şeklinde Lazer Baskılı Logo Anahtarlık",
 
-  price: 42.90,
+  price: 43,
 
   category: "Anahtarlık",
 
@@ -31766,7 +31766,7 @@ Promosyon anahtarlık AN-320, ev şeklindeki özgün tasarımı, renkli detaylar
   title:
     "Promosyon Anahtarlık AN-330 | Araba Şeklinde Metal Logo Baskılı Anahtarlık",
 
-  price: 52,
+  price: 55,
 
   category: "Anahtarlık",
 
@@ -31881,7 +31881,7 @@ Promosyon anahtarlık AN-330, araba şeklindeki özel tasarımı, lazer baskıya
   title:
     "Promosyon Anahtarlık AN-340 | Açacaklı Lazer Baskılı Metal Anahtarlık",
 
-  price: 57.80,
+  price: 60.8,
 
   category: "Anahtarlık",
 
@@ -32163,7 +32163,7 @@ Promosyon organizer ORG-110; termo deri kılıflı tasarımı, 160 sayfalık çi
   title:
     "Promosyon Organizer ORG-120 | Logo Baskılı Termo Deri Kılıflı Kurumsal Ajanda",
 
-  price: 460,
+  price: 540,
 
   category: "Organizerler",
 
@@ -32325,7 +32325,7 @@ Promosyon organizer ORG-120 modeli; termo deri kapak yapısı, metal tokalı kap
   title:
     "Promosyon Organizer ORG-130 | Logo Baskılı Termo Deri Kılıflı Ajanda 15x21 cm",
 
-  price: 460,
+  price: 540,
 
   category: "Organizerler",
 
@@ -32484,7 +32484,7 @@ Promosyon organizer ORG-130 modeli; termo deri kapak yapısı, tokalı tasarım�
   title:
     "Promosyon Organizer ORG-140 | Logo Baskılı Termo Deri Ajanda 18x23 cm",
 
-  price: 370,
+  price: 540,
 
   category: "Organizerler",
 
@@ -32646,7 +32646,7 @@ Promosyon organizer ORG-140 modeli; termo deri kapak yapısı, 336 sayfalık çi
   title:
     "Promosyon Organizer ORG-150 | Manyetik Kilitli Logo Baskılı Termo Deri Organizer",
 
-  price: 536,
+  price: 670,
 
   category: "Organizerler",
 
@@ -32818,7 +32818,7 @@ Promosyon organizer ORG-150 modeli; termo deri kapak yapısı, manyetik kilit si
 
   title: "Promosyon Kapak Açacak AÇ-100 | UV Baskılı Logo Baskılı Kapak Açacak",
 
-  price: 12,
+  price: 12.5,
 
   category: "İmalat Ürünler",
 
@@ -32895,7 +32895,7 @@ Promosyon kapak açacak AÇ-100 modeli; UV baskıya uygun geniş yüzeyi, mıkna
 
   title: "Promosyon Uzun Açacak AÇ-110 | UV Baskılı Logo Baskılı Uzun Açacak",
 
-  price: 13,
+  price: 14,
 
   category: "İmalat Ürünler",
 
@@ -33486,7 +33486,7 @@ Müşteri memnuniyeti hediyeleri
   id: "p296",
   slug: "promosyon-para-tabagi-pt-100",
   title: "Promosyon Yuvarlak Para Tabağı PT-100 | Kasa Önü Reklam Ürünü (17.5 cm)",
-  price: 70,
+  price: 90,
   category: "İmalat Ürünler",
   image: "/products/promosyon-para-tabagi-pt-100.jpg",
 
@@ -33539,7 +33539,7 @@ Marka görünürlüğü artırma çalışmaları
   id: "p297",
   slug: "promosyon-kare-para-tabagi-pt-110",
   title: "Promosyon Kare Para Tabağı PT-110 | Kasa Önü Reklam Ürünü (17x20.5 cm)",
-  price: 90,
+  price: 110,
   category: "İmalat Ürünler",
   image: "/products/promosyon-para-tabagi-pt-110.jpg",
 
@@ -36179,7 +36179,7 @@ Promosyon tela çanta TÇ-100, 100 gr nonwoven kumaşı, geniş logo baskı alan
   id: "p329",
   slug: "promosyon-vip-set-vip-110",
   title: "Promosyon VIP Set VIP-110 | Defter, Powerbank, USB ve Kalem Seti",
-  price: 2400,
+  price: 1550,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-110.jpg",
 
@@ -36244,7 +36244,7 @@ Reklam ve marka tanıtımı
   id: "p330",
   slug: "promosyon-vip-set-vip-120",
   title: "Promosyon VIP Set VIP-120 | Powerbank, Termos ve Çakı Fener Seti",
-  price: 3080,
+  price: 3100,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-120.jpg",
 
@@ -36368,7 +36368,7 @@ Reklam ve marka tanıtımı
   id: "p332",
   slug: "promosyon-plastik-kalem-pls-360",
   title: "Promosyon Plastik Kalem PLS-360 | Logo Baskılı Uygun Fiyatlı Kalem",
-  price: 10.90,
+  price: 11,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-360.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-360.jpg"],
@@ -36465,7 +36465,7 @@ Promosyon plastik kalem PLS-360, akıcı yazımı ve geniş baskı alanı ile ma
   id: "p333",
   slug: "promosyon-plastik-kalem-pls-365",
   title: "Promosyon Plastik Kalem PLS-365 | Jel Refil Logo Baskılı Kalem",
-  price: 10.90,
+  price: 11,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-365.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-365.jpg"],
@@ -36562,7 +36562,7 @@ Promosyon plastik kalem PLS-365, akıcı yazımı ve sade tasarımı ile markan�
   id: "p334",
   slug: "promosyon-plastik-kalem-pls-370",
   title: "Promosyon Plastik Kalem PLS-370 | Logo Baskılı Toptan Reklam Kalemi",
-  price: 8.10,
+  price: 8.4,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-370.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-370.jpg"],
@@ -36758,7 +36758,7 @@ Promosyon plastik kalem PLS-380, sade tasarımı ve beyaz gövdesi ile firmanız
   id: "p336",
   slug: "promosyon-plastik-kalem-pls-390",
   title: "Promosyon Plastik Kalem PLS-390 | Logo Baskılı Kurumsal Reklam Kalemi",
-  price: 7.80,
+  price: 8.1,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-390.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-390.jpg"],
@@ -36853,7 +36853,7 @@ Promosyon plastik kalem PLS-390, ekonomik fiyatı ve logo baskıya uygun yapıs�
   id: "p337",
   slug: "promosyon-plastik-kalem-pls-400",
   title: "Promosyon Plastik Jel Kalem PLS-400 | Yarı Jel Refil Logo Baskılı Kalem",
-  price: 15.60,
+  price: 16.2,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-400.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-400.jpg"],
@@ -37044,7 +37044,7 @@ Promosyon plastik kalem PLS-410, modern tasarımı ve logo baskıya uygun yapıs
   id: "p339",
   slug: "promosyon-plastik-kalem-pls-420",
   title: "Promosyon Plastik Kalem PLS-420 | Geniş Baskı Alanlı Logo Baskılı Kalem",
-  price: 8.10,
+  price: 8.4,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-420.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-420.jpg"],
@@ -37145,7 +37145,7 @@ Promosyon plastik kalem PLS-420, geniş baskı alanı ve modern tasarımı ile m
   id: "p340",
   slug: "promosyon-plastik-kalem-pls-430",
   title: "Promosyon Plastik Kalem PLS-430 | Logo Baskılı Toptan Reklam Kalemi",
-  price: 8.10,
+  price: 8.4,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-430.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-430.jpg"],
@@ -37245,7 +37245,7 @@ Promosyon plastik kalem PLS-430, modern tasarımı, beyaz klips detayı ve uygun
   id: "p341",
   slug: "promosyon-plastik-kalem-pls-440",
   title: "Promosyon Plastik Jel Kalem PLS-440 | İmza Kalemi Logo Baskılı Kalem",
-  price: 16.50,
+  price: 16.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-440.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-440.jpg"],
@@ -37342,7 +37342,7 @@ Promosyon plastik jel kalem PLS-440, akıcı yazım performansı ve premium gör
   id: "p342",
   slug: "promosyon-plastik-kalem-pls-450",
   title: "Promosyon Plastik Jel Kalem PLS-450 | İnce Uç Logo Baskılı Kalem",
-  price: 12.40,
+  price: 12.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-450.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-450.jpg"],
@@ -37444,7 +37444,7 @@ Promosyon plastik jel kalem PLS-450, akıcı yazım performansı ve modern tasar
   id: "p343",
   slug: "promosyon-plastik-kalem-pls-460",
   title: "Promosyon Plastik Jel Kalem PLS-460 | Süper Jel Refil Logo Baskılı Kalem",
-  price: 12.40,
+  price: 12.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-460.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-460.jpg"],
@@ -37544,7 +37544,7 @@ Promosyon plastik jel kalem PLS-460, ultra akıcı yazım performansı ve premiu
   id: "p344",
   slug: "promosyon-plastik-kalem-pls-470",
   title: "Promosyon Plastik Jel Kalem PLS-470 | Jumbo Jel Refil Logo Baskılı Kalem",
-  price: 12.40,
+  price: 12.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-470.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-470.jpg"],
@@ -37644,7 +37644,7 @@ Promosyon plastik jel kalem PLS-470, jumbo jel refili ve uzun ömürlü yazım p
   id: "p345",
   slug: "promosyon-plastik-kalem-pls-480",
   title: "Promosyon Plastik Jel Kalem PLS-480 | Jumbo Jel Refil Logo Baskılı Kalem",
-  price: 12.40,
+  price: 12.8,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-480.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-480.jpg"],
@@ -37741,7 +37741,7 @@ Promosyon plastik jel kalem PLS-480, jumbo jel refili ve premium yazım performa
   id: "p346",
   slug: "promosyon-plastik-kalem-pls-510",
   title: "Promosyon Plastik Kalem PLS-510 | Logo Baskılı Ekonomik Reklam Kalemi",
-  price: 7.90,
+  price: 8.2,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-510.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-510.jpg"],
@@ -37841,7 +37841,7 @@ Promosyon plastik kalem PLS-510, ekonomik fiyatı ve dikkat çekici renk seçene
   id: "p347",
   slug: "promosyon-plastik-kalem-pls-520",
   title: "Promosyon Plastik Kalem PLS-520 | Logo Baskılı Renkli Reklam Kalemi",
-  price: 7.90,
+  price: 8.2,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-520.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-520.jpg"],
@@ -38042,7 +38042,7 @@ Promosyon plastik kalem PLS-530, ince refili ve ergonomik yapısı ile markanız
   id: "p349",
   slug: "promosyon-plastik-kalem-pls-540",
   title: "Promosyon Plastik Jel Kalem PLS-540 | Kalın Gövdeli Logo Baskılı Kalem",
-  price: 9.60,
+  price: 12,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-540.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-540.jpg"],
@@ -38236,7 +38236,7 @@ Promosyon plastik kalem PLS-600, zarif beyaz gövdesi ve modern renk detayları 
   id: "p351",
   slug: "promosyon-roller-kalem-rk-100",
   title: "Promosyon Roller Kalem RK-100 | Lazer Baskılı Premium Kalem",
-  price: 52.80,
+  price: 56,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-100.jpg",
 
@@ -38699,7 +38699,7 @@ Promosyon kutulu VIP set UB-330, metal kalem ve USB bellekten oluşan şık içe
 
   title: "Promosyon Powerbank 10.000 mAh PB-240 | Logo Baskılı Hızlı Şarj Powerbank",
 
-  price: 980,
+  price: 1050,
 
   category: "Powerbank",
 
@@ -39031,7 +39031,7 @@ Promosyon powerbank 10.000 mAh PB-250 modeli; MagSafe kablosuz şarj teknolojisi
 
   title: "Promosyon Powerbank 10.000 mAh PB-260 | Işıklı Logo Baskılı Powerbank",
 
-  price: 880,
+  price: 920,
 
   category: "Powerbank",
 
@@ -39361,7 +39361,7 @@ Promosyon powerbank 5.000 mAh PB-270 modeli; LED ışıklı logo teknolojisi, ko
 
   title: "Promosyon Powerbank 10.000 mAh PB-280 | Logo Baskılı Ekonomik Powerbank",
 
-  price: 490,
+  price: 570,
 
   category: "Powerbank",
 
@@ -40363,7 +40363,7 @@ Promosyon duvar saati DS-170; 30 cm ideal ölçüsü, Bristol ve metalize kadran
   title:
     "Promosyon Duvar Saati DS-180 | 40 cm Logo Baskılı Kurumsal Duvar Saati",
 
-  price: 528,
+  price: 564,
 
   category: "Duvar Saatleri",
 
@@ -40497,7 +40497,7 @@ Promosyon duvar saati DS-180; 40 cm geniş çapı, Bristol kadranı, mineral cam
   title:
     "Promosyon Duvar Saati DS-190 | 40 cm Logo Baskılı Kurumsal Duvar Saati",
 
-  price: 470,
+  price: 500,
 
   category: "Duvar Saatleri",
 
@@ -40631,7 +40631,7 @@ Promosyon duvar saati DS-190; 40 cm geniş çapı, Bristol kadranı, mineral cam
   title:
     "Promosyon Duvar Saati DS-200 | 40 cm Logo Baskılı Kurumsal Duvar Saati",
 
-  price: 750,
+  price: 800,
 
   category: "Duvar Saatleri",
 
@@ -40765,7 +40765,7 @@ Promosyon duvar saati DS-200; 40 cm geniş çapı, Bristol kadranı, mineral cam
   title:
     "Promosyon Duvar Saati DS-210 | 35 cm Logo Baskılı Kurumsal Duvar Saati",
 
-  price: 690,
+  price: 746,
 
   category: "Duvar Saatleri",
 
@@ -40899,7 +40899,7 @@ Promosyon duvar saati DS-210; 35 cm çapı, Bristol kadranı, mineral cam koruma
   title:
     "Promosyon Duvar Saati DS-220 | 30 cm Logo Baskılı Kurumsal Duvar Saati",
 
-  price: 586,
+  price: 640,
 
   category: "Duvar Saatleri",
 
@@ -41033,7 +41033,7 @@ Promosyon duvar saati DS-220; 30 cm çapı, Bristol kadranı, mineral cam koruma
   title:
     "Promosyon Anahtarlık AN-350 | Açacaklı Lazer Baskılı Metal Anahtarlık",
 
-  price: 52,
+  price: 60,
 
   category: "Anahtarlık",
 
@@ -41161,7 +41161,7 @@ Promosyon anahtarlık AN-350, açacak fonksiyonu, oval metal baskı alanı ve la
   title:
     "Promosyon Anahtarlık AN-360 | Araba Şeklinde Çift Yön Lazer Baskılı Anahtarlık",
 
-  price: 41.40,
+  price: 43,
 
   category: "Anahtarlık",
 
@@ -41288,7 +41288,7 @@ Promosyon anahtarlık AN-360, araba şeklindeki tasarımı, çift yön baskı av
   title:
     "Promosyon Anahtarlık AN-370 | Metal Yüzeyli Lazer Baskılı Logo Anahtarlık",
 
-  price: 35,
+  price: 40,
 
   category: "Anahtarlık",
 
@@ -41412,7 +41412,7 @@ Promosyon anahtarlık AN-370, metal baskı yüzeyi, lazer baskıya uygun yapıs�
   title:
     "Promosyon Anahtarlık AN-380 | Purjör Açacaklı Lazer Baskılı Anahtarlık",
 
-  price: 44,
+  price: 49,
 
   category: "Anahtarlık",
 
@@ -41664,7 +41664,7 @@ Promosyon metal anahtarlık AN-390, lazer baskı ve plasto etiket uygulamaların
   title:
     "Promosyon Metal Anahtarlık AN-400 | Deri Detaylı Lazer Baskılı Premium Anahtarlık",
 
-  price: 70,
+  price: 80,
 
   category: "Anahtarlık",
 
@@ -41783,7 +41783,7 @@ Promosyon metal anahtarlık AN-400, deri detaylı premium tasarımı, lazer bask
   title:
     "Promosyon Anahtarlık AN-410 | Çift Yön Lazer Baskılı Renkli Deri Anahtarlık",
 
-  price: 45,
+  price: 48.5,
 
   category: "Anahtarlık",
 
@@ -41914,7 +41914,7 @@ Promosyon anahtarlık AN-410, çift yön lazer baskı özelliği, renkli deri ta
   title:
     "Promosyon Anahtarlık AN-420 | Telefon Standlı Lazer Baskılı Anahtarlık",
 
-  price: 55.40,
+  price: 62.4,
 
   category: "Anahtarlık",
 
@@ -42035,7 +42035,7 @@ Promosyon anahtarlık AN-420, telefon standı özelliği, lazer baskıya uygun m
   title:
     "Promosyon Anahtarlık AN-430 | Döner Mekanizmalı Çift Yön Lazer Baskılı Anahtarlık",
 
-  price: 55,
+  price: 59.4,
 
   category: "Anahtarlık",
 
@@ -42171,7 +42171,7 @@ Promosyon anahtarlık AN-430, döner mekanizmalı yapısı, çift yön lazer bas
   title:
     "Promosyon Anahtarlık AN-440 | Ev Şeklinde Lazer Baskılı Promosyon Anahtarlık",
 
-  price: 41.80,
+  price: 47.6,
 
   category: "Anahtarlık",
 
@@ -42304,7 +42304,7 @@ Promosyon anahtarlık AN-440, ev şeklindeki özgün tasarımı, lazer baskıya 
 
   title: "Promosyon Powerbank 10.000 mAh PB-330 | Işıklı Logo Özellikli Taşınabilir Şarj Cihazı",
 
-  price: 740,
+  price: 990,
 
   category: "Powerbank",
 
@@ -42475,7 +42475,7 @@ Promosyon powerbank 10.000 mAh PB-330 modeli; ışıklı logo teknolojisi, güve
 
   title: "Promosyon Powerbank Organizer 6.500 mAh PB-350 | Kablosuz Şarjlı PU Deri Organizer Set",
 
-  price: 3400,
+  price: 3840,
 
   category: "Powerbank",
 
@@ -42635,7 +42635,7 @@ Promosyon powerbank organizer 6.500 mAh PB-350 modeli; şık organizer tasarım�
 
   title: "Promosyon Powerbank Organizer PB-360 | Işıklı Logolu PU Deri Organizer",
 
-  price: 2560,
+  price: 2880,
 
   category: "Powerbank",
 
@@ -42785,7 +42785,7 @@ Promosyon powerbank organizer PB-360 modeli; premium organizer tasarımı, ış�
   slug: "promosyon-tarihsiz-defter-13x21-td-126",
   title:
     "Promosyon Tarihsiz Defter TD-126 | 13x21 Işıklı Logolu PU Deri",
-  price: 210,
+  price: 250,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-126.jpg",
 
@@ -43347,7 +43347,7 @@ Promosyon tarihsiz defter TD-160, termo deri kapak yapısı, kaliteli iç sayfal
   title:
     "Promosyon Kalem Seti KS-130 | Logo Baskılı Metal Roller ve Tükenmez Kalem Seti",
 
-  price: 650,
+  price: 600,
 
   category: "Kalem Setleri",
 
@@ -43503,7 +43503,7 @@ Promosyon kalem seti KS-130 modeli; metal gövdesi, özel hediye kutusu, lazer v
   title:
     "Promosyon Bardak Termos 250 ml TK-180 | Çift Katmanlı Renkli Termos",
 
-  price: 340,
+  price: 358,
 
   category: "Termos",
 
@@ -43633,7 +43633,7 @@ Promosyon bardak termos TK-180, kompakt yapısı, farklı renk seçenekleri ve l
   title:
     "Promosyon Termos 350 ml TK-195 | Dijital Isı Göstergeli Kilitli Kapak Termos",
 
-  price: 666,
+  price: 750,
 
   category: "Termos",
 
@@ -43756,7 +43756,7 @@ Promosyon termos TK-195, dijital ısı göstergesi, kilitli kapak sistemi ve mod
   title:
     "Promosyon Termos 580 ml TK-190 | Lazer Baskılı Büyük Boy Termos",
 
-  price: 668,
+  price: 752,
 
   category: "Termos",
 
@@ -43875,7 +43875,7 @@ Promosyon termos TK-190, büyük boy yapısı, lazer baskıya uygun yüzeyi ve k
   id: "p392",
   slug: "promosyon-roller-kalem-rk-110",
   title: "Promosyon Roller Kalem RK-110 | Lazer Baskılı Şık Roller Kalem",
-  price: 225,
+  price: 190,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-110.jpg",
 
@@ -43968,7 +43968,7 @@ Promosyon roller kalem RK-110, zarif siyah-gold tasarımı, akıcı yazım perfo
   id: "p393",
   slug: "promosyon-roller-kalem-rk-130",
   title: "Promosyon Roller Kalem RK-130 | Lazer Baskılı Şık Roller Kalem",
-  price: 210,
+  price: 240,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-130.jpg",
 
@@ -44152,7 +44152,7 @@ Promosyon roller kalem RK-140, metal gövdesi, akıcı yazım performansı ve la
   id: "p395",
   slug: "promosyon-roller-kalem-rk-160",
   title: "Promosyon Roller Kalem RK-160 | Metal Gövdeli Lazer Baskılı Premium Kalem",
-  price: 110,
+  price: 120,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-160.jpg",
 
@@ -44335,7 +44335,7 @@ Promosyon roller kalem RK-170, farklı renk seçenekleri, zarif gold detayları 
   id: "p397",
   slug: "promosyon-roller-kalem-rk-190",
   title: "Promosyon Roller Kalem RK-190 | Rubber Gövdeli Lazer Baskılı Premium Kalem",
-  price: 62,
+  price: 69,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-190.jpg",
 
@@ -44428,7 +44428,7 @@ Promosyon roller kalem RK-190, rubber gövdesi, metal detayları ve lazer baskı
   id: "p398",
   slug: "promosyon-roller-kalem-rk-180",
   title: "Promosyon Roller Kalem RK-180 | Modern Tasarımlı Lazer Baskılı Kalem",
-  price: 168,
+  price: 186,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-180.jpg",
 
@@ -44523,7 +44523,7 @@ Promosyon roller kalem RK-180, modern çizgili tasarımı, farklı renk seçenek
   id: "p399",
   slug: "promosyon-roller-kalem-rk-200",
   title: "Promosyon Roller Kalem RK-200 | Metal Gövdeli Lazer Baskılı Şık Kalem",
-  price: 93,
+  price: 105,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-200.jpg",
 
@@ -44618,7 +44618,7 @@ Promosyon roller kalem RK-200, metal gövdesi, zarif ince tasarımı ve lazer ba
   id: "p400",
   slug: "promosyon-roller-kalem-rk-210",
   title: "Promosyon Roller Kalem RK-210 | Parlak Gövdeli Lazer Baskılı Şık Kalem",
-  price: 110,
+  price: 120,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-210.jpg",
 
@@ -44712,7 +44712,7 @@ Promosyon roller kalem RK-210, parlak gövdesi, şık krom detayları ve lazer b
   id: "p401",
   slug: "promosyon-roller-kalem-rk-220",
   title: "Promosyon Roller Kalem RK-220 | Metal Gövdeli Lazer Baskılı Kurumsal Kalem",
-  price: 122,
+  price: 136,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-220.jpg",
 
@@ -44811,7 +44811,7 @@ Promosyon roller kalem RK-220, metal gövdesi, renkli üst detayları ve lazer b
   title:
     "Promosyon Termos 500 ml TK-196 | Dijital Isı Göstergeli Süzgeçli Termos",
 
-  price: 518,
+  price: 584,
 
   category: "Termos",
 
@@ -44937,7 +44937,7 @@ Promosyon termos TK-196, dijital ısı göstergesi, süzgeçli yapısı ve moder
   title:
     "Promosyon Termos 1000 ml TK-200 | Dijital Isı Göstergeli Hediye Kutulu Termos",
 
-  price: 770,
+  price: 868,
 
   category: "Termos",
 
@@ -45063,7 +45063,7 @@ Promosyon termos TK-200, dijital ısı göstergesi, hediye kutulu sunumu ve prem
   title:
     "Promosyon Termos 500 ml TK-205 | Deri Kılıflı Lazer Baskılı Şık Termos",
 
-  price: 620,
+  price: 698,
 
   category: "Termos",
 
@@ -45188,7 +45188,7 @@ Promosyon termos TK-205, deri kılıf tasarımı, premium görünümü ve lazer 
   title:
     "Promosyon Termos 750 ml TK-210 | Deri Kılıflı Lazer Baskılı Şık Termos",
 
-  price: 724,
+  price: 816,
 
   category: "Termos",
 
@@ -45314,7 +45314,7 @@ Promosyon termos TK-210, deri kılıf tasarımı, premium görünümü ve lazer 
   title:
     "Promosyon Termos 400 ml TK-220 | Dijital Isı Göstergeli Şık Termos",
 
-  price: 544,
+  price: 612,
 
   category: "Termos",
 
@@ -45438,7 +45438,7 @@ Promosyon termos TK-220, dijital ısı göstergesi, kompakt yapısı ve lazer ba
   title:
     "Promosyon Devrilmez Termos 500 ml TK-230 | Vantuzlu Sabit Tabanlı Termos",
 
-  price: 686,
+  price: 772,
 
   category: "Termos",
 
@@ -45562,7 +45562,7 @@ Promosyon devrilmez termos TK-230, vantuzlu sabit tabanı, lazer baskıya uygun 
   title:
     "Promosyon Termos 400 ml TK-240 | Lazer Baskılı Şık ve Kullanışlı Termos",
 
-  price: 505,
+  price: 580,
 
   category: "Termos",
 
@@ -45808,7 +45808,7 @@ Promosyon termos TK-250, modern tasarımı, lazer baskıya uygun yüzeyi ve gün
   title:
     "Promosyon Termos 240 ml TK-260 | Lazer Baskılı Mini Şık Termos",
 
-  price: 596,
+  price: 672,
 
   category: "Termos",
 
@@ -46311,7 +46311,7 @@ Promosyon termos 500 ml TK-280 modeli; kaymaz silikon tutuş yüzeyi, lazer bask
   title:
     "Promosyon Termos 500 ml TK-290 | Askılı Kapaklı Lazer Baskılı Çelik Termos",
 
-  price: 554,
+  price: 624,
 
   category: "Termos",
 
@@ -46448,7 +46448,7 @@ Promosyon termos 500 ml TK-290 modeli; askılı kapağı, lazer baskıya uygun �
   title:
     "Promosyon Termos 500 ml TK-300 | Travel Mug Araç Termosu Lazer Baskılı Çelik Termos",
 
-  price: 875,
+  price: 986,
 
   category: "Termos",
 
@@ -46724,7 +46724,7 @@ Promosyon termos 350 ml TK-310 modeli; güvenli kilitli kapak sistemi, lazer bas
   title:
     "Promosyon Termos 420 ml TK-320 | Süzgeçli Kilitli Kapaklı Lazer Baskılı Çelik Termos",
 
-  price: 578,
+  price: 650,
 
   category: "Termos",
 
@@ -48547,7 +48547,7 @@ Promosyon duvar saati DS-270; 35 cm çapı, metalize kasası, yaldız kabartmal�
   title:
     "Promosyon Duvar Saati DS-280 | 35 cm Logo Baskılı Kurumsal Duvar Saati",
 
-  price: 410,
+  price: 450,
 
   category: "Duvar Saatleri",
 
@@ -48688,7 +48688,7 @@ Promosyon duvar saati DS-280; 35 cm çapı, zengin renk seçenekleri, plastik ka
   title:
     "Promosyon Duvar Saati DS-310 | 40 cm Logo Baskılı Kurumsal Duvar Saati",
 
-  price: 486,
+  price: 520,
 
   category: "Duvar Saatleri",
 
@@ -48831,7 +48831,7 @@ Promosyon duvar saati DS-310; 40 cm çapı, büyük boy tasarımı, zengin renk 
   title:
     "Promosyon Duvar Saati DS-320 | Dikdörtgen Logo Baskılı Kurumsal Duvar Saati",
 
-  price: 366,
+  price: 374,
 
   category: "Duvar Saatleri",
 
@@ -51409,7 +51409,7 @@ Promosyon tarihsiz defter TD-196, ekonomik fiyatı, termo PU deri kapak yapısı
   slug: "promosyon-tarihsiz-defter-td-200",
   title:
     "Promosyon Tarihsiz Defter TD-200 | 13x21 cm Kalemlikli Termo Deri Defter",
-  price: 100,
+  price: 110,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-200.jpg",
 
@@ -51530,7 +51530,7 @@ Promosyon tarihsiz defter TD-200, ekonomik fiyatı, termo deri kapak yapısı ve
   slug: "promosyon-tarihsiz-defter-td-210",
   title:
     "Promosyon Tarihsiz Defter TD-210 | 15x21 cm Kalem Tutuculu Termo PU Defter",
-  price: 260,
+  price: 248,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-210.jpg",
 
@@ -51889,7 +51889,7 @@ Logo baskılı promosyon ajanda AJ-200 modeli hakkında fiyat teklifi almak, ür
   title:
     "Promosyon Ajanda AJ-210 | 16 x 24 cm Logo Baskılı Termo Deri Kurumsal Ajanda",
 
-  price: 198,
+  price: 210,
 
   category: "Ajanda",
 
@@ -52717,7 +52717,7 @@ Logo baskılı promosyon spiralli ajanda AJ-270 modeli hakkında fiyat teklifi a
   title:
     "Promosyon Ajanda AJ-280 | 17 x 24 cm Logo Baskılı Termo PU Sert Kapak Ajanda",
 
-  price: 198,
+  price: 210,
 
   category: "Ajanda",
 
@@ -52958,7 +52958,7 @@ Logo baskılı promosyon gizli spiralli ajanda AJ-290 modeli hakkında fiyat tek
   title:
     "Promosyon Büyük Ajanda AJ-300 | 20 x 28 cm Logo Baskılı Termo PU Sert Kapak Ajanda",
 
-  price: 386,
+  price: 440,
 
   category: "Ajanda",
 
@@ -53204,7 +53204,7 @@ Logo baskılı promosyon ajanda AJ-310 modeli hakkında fiyat teklifi almak, bas
   title:
     "Promosyon Ajanda AJ-320 | 17 x 24 cm Logo Baskılı Termo PU Sert Kapak Ajanda",
 
-  price: 226,
+  price: 240,
 
   category: "Ajanda",
 
@@ -53334,7 +53334,7 @@ Logo baskılı promosyon ajanda AJ-320 modeli hakkında fiyat teklifi almak, bas
   title:
     "Promosyon Anahtarlık AN-450 | Telefon Standlı Lazer Baskılı Metal Anahtarlık",
 
-  price: 69.20,
+  price: 108,
 
   category: "Anahtarlık",
 
@@ -53462,7 +53462,7 @@ Promosyon anahtarlık AN-450, telefon standı özelliği, lazer baskıya uygun m
   title:
     "Promosyon Anahtarlık AN-460 | Purjörlü Lazer Baskılı Metal Anahtarlık",
 
-  price: 34.80,
+  price: 39.2,
 
   category: "Anahtarlık",
 
@@ -53594,7 +53594,7 @@ Promosyon anahtarlık AN-460, purjörlü yapısı, lazer baskıya uygun metal y�
   title:
     "Promosyon Anahtarlık AN-470 | Çift Yön Lazer Baskılı Metal Anahtarlık",
 
-  price: 48.40,
+  price: 54.2,
 
   category: "Anahtarlık",
 
@@ -53726,7 +53726,7 @@ NEDEN AN-470 PROMOSYON ANAHTARLIK?
   title:
     "Promosyon Anahtarlık AN-480 | Purjörlü Lazer Baskılı Metal Anahtarlık",
 
-  price: 34.80,
+  price: 39.2,
 
   category: "Anahtarlık",
 
@@ -53854,7 +53854,7 @@ NEDEN AN-480 PROMOSYON ANAHTARLIK?
   title:
     "Promosyon Anahtarlık AN-490 | Ev Şeklinde Lazer Baskılı Metal Anahtarlık",
 
-  price: 34.80,
+  price: 39.2,
 
   category: "Anahtarlık",
 
@@ -55519,7 +55519,7 @@ Promosyon tarihsiz defter TD-280, şık tasarımı, kaliteli malzeme yapısı ve
   slug: "promosyon-tarihsiz-defter-td-290",
   title:
     "Promosyon Tarihsiz Defter TD-290 | 13x21 cm Termo Deri Logo Baskılı Kurumsal Defter",
-  price: 147,
+  price: 130,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-290.jpg",
 
@@ -55627,7 +55627,7 @@ Promosyon tarihsiz defter TD-290, şık tasarımı, kaliteli malzeme yapısı ve
   slug: "promosyon-tarihsiz-defter-td-300",
   title:
     "Promosyon Tarihsiz Defter TD-300 | Kalem Yuvalı Kapaklı Logo Baskılı Premium Defter",
-  price: 260,
+  price: 296,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-300.jpg",
 
@@ -55736,7 +55736,7 @@ Promosyon tarihsiz defter TD-300, kalem yuvalı özel tasarımı, kaliteli malze
   slug: "promosyon-tarihsiz-defter-td-310",
   title:
     "Promosyon Tarihsiz Defter TD-310 | Terzi Dikişli 13x21 cm Logo Baskılı Defter",
-  price: 93,
+  price: 92.8,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-310.jpg",
 
@@ -55844,7 +55844,7 @@ Promosyon tarihsiz defter TD-310, ekonomik yapısı, şık görünümü ve logo 
   slug: "promosyon-tarihsiz-defter-td-320",
   title:
     "Promosyon Tarihsiz Defter TD-320 | 13x21 cm Logo Baskılı Ekonomik Kurumsal Defter",
-  price: 104,
+  price: 115,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-320.jpg",
 
@@ -55954,7 +55954,7 @@ Promosyon tarihsiz defter TD-320, ekonomik yapısı, şık görünümü ve logo 
   slug: "promosyon-tarihsiz-defter-td-330",
   title:
     "Promosyon Tarihsiz Defter TD-330 | Renkli Kenarlı Lazer Kazıma Logo Baskılı Premium Defter",
-  price: 164,
+  price: 173,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-330.jpg",
 
@@ -56172,7 +56172,7 @@ Promosyon tarihsiz defter TD-340, fonksiyonel detayları, ekonomik yapısı ve l
   slug: "promosyon-tarihsiz-defter-td-350",
   title:
     "Promosyon Tarihsiz Defter TD-350 | Cepli Kapaklı Çift Renk Logo Baskılı Premium Defter",
-  price: 220,
+  price: 266,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-350.jpg",
 
@@ -56388,7 +56388,7 @@ Promosyon tarihsiz defter TD-360, hafif yapısı, esnek kapağı ve logo baskıy
   slug: "promosyon-tarihsiz-defter-td-370",
   title:
     "Promosyon Tarihsiz Defter TD-370 | Metal Detaylı Premium Logo Baskılı Defter",
-  price: 240,
+  price: 290,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-370.jpg",
 
@@ -56934,7 +56934,7 @@ Promosyon tarihsiz defter TD-410, kart ve telefon bölmeli akıllı tasarımı, 
   slug: "promosyon-tarihsiz-defter-td-420",
   title:
     "Promosyon Tarihsiz Defter TD-420 | Kuşe Taslama Sert Kapak Logo Baskılı Defter",
-  price: 138,
+  price: 144,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-420.jpg",
 
@@ -57372,7 +57372,7 @@ Promosyon tarihsiz defter TD-450, mini cep boy yapısı, ekonomik maliyet avanta
   slug: "promosyon-tarihsiz-defter-td-460",
   title:
     "Promosyon Tarihsiz Defter TD-460 | Mini Boy 80 gr Logo Baskılı Defter",
-  price: 90,
+  price: 89.2,
   category: "Tarihsiz Defter",
   image: "/products/promosyon-tarihsiz-defter-td-460.jpg",
 
@@ -57739,7 +57739,7 @@ Promosyon duvar saati DS-330; 35 cm çapı, renkli Bristol kadranı, mineral cam
   title:
     "Promosyon Duvar Saati DS-340 | 35 cm Kare Logo Baskılı Duvar Saati",
 
-  price: 394,
+  price: 450,
 
   category: "Duvar Saatleri",
 
@@ -57873,7 +57873,7 @@ Promosyon duvar saati DS-340; 35 cm kare tasarımı, Bristol kadranı, bombe min
   title:
     "Promosyon Duvar Saati DS-350 | 35 cm Logo Baskılı Bombe Cam Duvar Saati",
 
-  price: 400,
+  price: 380,
 
   category: "Duvar Saatleri",
 
@@ -58005,7 +58005,7 @@ Promosyon duvar saati DS-350; 35 cm çapı, Bristol kadranı, bombe mineral cam�
   title:
     "Promosyon Duvar Saati DS-360 | 30 cm Logo Baskılı Bombe Cam Duvar Saati",
 
-  price: 358,
+  price: 334,
 
   category: "Duvar Saatleri",
 
@@ -58540,7 +58540,7 @@ Promosyon duvar saati DS-390; 35 cm çapı, metal kadranı, mineral cam korumas�
   title:
     "Promosyon Duvar Saati DS-400 | 28 cm Logo Baskılı Kurumsal Duvar Saati",
 
-  price: 306,
+  price: 320,
 
   category: "Duvar Saatleri",
 
@@ -58674,7 +58674,7 @@ Promosyon duvar saati DS-400; 28 cm çapı, Bristol kadranı, mineral cam koruma
   title:
     "Promosyon Duvar Saati DS-410 | 46 cm Logo Baskılı Büyük Boy Kurumsal Duvar Saati",
 
-  price: 586,
+  price: 596,
 
   category: "Duvar Saatleri",
 
@@ -58809,7 +58809,7 @@ Promosyon duvar saati DS-410; 46 cm büyük çapı, Bristol ve metalize kadran s
   title:
     "Promosyon Duvar Saati DS-420 | 42 cm Logo Baskılı Kurumsal Duvar Saati",
 
-  price: 514,
+  price: 530,
 
   category: "Duvar Saatleri",
 
@@ -58944,7 +58944,7 @@ Promosyon duvar saati DS-420; 42 cm çapı, Bristol ve metal kadran seçenekleri
   title:
     "Promosyon Duvar Saati DS-430 | 40 cm Logo Baskılı Kurumsal Duvar Saati",
 
-  price: 470,
+  price: 500,
 
   category: "Duvar Saatleri",
 
@@ -59079,7 +59079,7 @@ Promosyon duvar saati DS-430; 40 cm çapı, Bristol ve altın varaklı kadran se
   title:
     "Promosyon Duvar Saati DS-440 | 35 cm Logo Baskılı Klasik Kurumsal Duvar Saati",
 
-  price: 406,
+  price: 432,
 
   category: "Duvar Saatleri",
 
@@ -59214,7 +59214,7 @@ Promosyon duvar saati DS-440; 35 cm çapı, Bristol ve metalize kadran seçenekl
   title:
     "Promosyon Duvar Saati DS-450 | 40 cm Logo Baskılı Klasik Kurumsal Duvar Saati",
 
-  price: 436,
+  price: 450,
 
   category: "Duvar Saatleri",
 
@@ -59349,7 +59349,7 @@ Promosyon duvar saati DS-450; 40 cm çapı, Bristol ve metalize kadran seçenekl
   title:
     "Promosyon Duvar Saati DS-460 | 35 cm Logo Baskılı Modern Kurumsal Duvar Saati",
 
-  price: 400,
+  price: 434,
 
   category: "Duvar Saatleri",
 
@@ -59484,7 +59484,7 @@ Promosyon duvar saati DS-460; 35 cm çapı, Bristol ve Bristol Metalize kadran s
   title:
     "Promosyon Duvar Saati DS-470 | 42,5 x 30,5 cm Ay Yıldız Tasarımlı Logo Baskılı Duvar Saati",
 
-  price: 380,
+  price: 412,
 
   category: "Duvar Saatleri",
 
@@ -59618,7 +59618,7 @@ Promosyon duvar saati DS-470; 42,5 x 30,5 cm özel ay yıldız tasarımı, Brist
   title:
     "Promosyon Duvar Saati DS-480 | 30 cm Logo Baskılı Ekonomik Kurumsal Duvar Saati",
 
-  price: 366,
+  price: 386,
 
   category: "Duvar Saatleri",
 
@@ -59753,7 +59753,7 @@ Promosyon duvar saati DS-480; 30 cm çapı, Bristol ve Bristol Metalize kadran s
   title:
     "Promosyon Duvar Saati DS-490 | 42,5 x 30,5 cm Yıldız Figürlü Logo Baskılı Duvar Saati",
 
-  price: 380,
+  price: 412,
 
   category: "Duvar Saatleri",
 
@@ -59890,7 +59890,7 @@ Promosyon duvar saati DS-490; 42,5 x 30,5 cm özel yıldız figürlü tasarımı
   title:
     "Promosyon Duvar Saati DS-500 | 35 cm Metalize Plastik Kasa Logo Baskılı Duvar Saati",
 
-  price: 492,
+  price: 516,
 
   category: "Duvar Saatleri",
 
@@ -60027,7 +60027,7 @@ Promosyon duvar saati DS-500; 35 cm çapı, metalize plastik kasası, Bristol ka
   title:
     "Promosyon Duvar Saati DS-510 | 30 cm Metalize Plastik Kasa Logo Baskılı Duvar Saati",
 
-  price: 450,
+  price: 470,
 
   category: "Duvar Saatleri",
 
@@ -60160,7 +60160,7 @@ Promosyon duvar saati DS-510; 30 cm çapı, metalize plastik kasası, Bristol ka
   id: "p524",
   slug: "promosyon-roller-kalem-rk-230-rubber-govde",
   title: "Promosyon Roller Kalem RK-230 | Rubber Gövde Dokunmatik Kalem",
-  price: 128,
+  price: 144,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-230.jpg",
 
@@ -60441,7 +60441,7 @@ Promosyon roller kalem RK-250, modern tasarımı, metal detayları ve logo bask�
   id: "p527",
   slug: "promosyon-roller-kalem-rk-260-metal-premium",
   title: "Promosyon Roller Kalem RK-260 | Metal Gövde Premium Tasarım",
-  price: 116,
+  price: 128,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-260.jpg",
 
@@ -60825,7 +60825,7 @@ Promosyon kalem RK-290, renkli plastik gövdesi, ekonomik yapısı ve logo bask�
   id: "p531",
   slug: "promosyon-roller-kalem-rk-300-lazer-baski",
   title: "Promosyon Roller Kalem RK-300 | Lazer Baskıya Uygun Şık Tasarım",
-  price: 136,
+  price: 152.4,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-300.jpg",
 
@@ -61108,7 +61108,7 @@ Promosyon roller kalem RK-320, metal gövdesi, rose gold detayları ve mavi mür
   slug: "promosyon-roller-kalem-rk-330-metal-renkli",
   title:
     "Promosyon Roller Kalem RK-330 | Metal Detaylı Renkli Gövde",
-  price: 120,
+  price: 134.4,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-330.jpg",
 
@@ -61430,7 +61430,7 @@ Promosyon roller kalem RK-350, tamamen metal gövdesi, rose gold detayları ve p
   id: "p537",
   slug: "promosyon-roller-kalem-rk-360-metal-renkli",
   title: "Promosyon Roller Kalem RK-360 | Metal Gövde Şık Tasarım",
-  price: 226,
+  price: 240,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-360.jpg",
 
@@ -61647,7 +61647,7 @@ Promosyon roller kalem RK-370, dokulu metal gövdesi, modern tasarımı ve premi
   slug: "promosyon-roller-kalem-rk-380-klasik-metal-sik",
   title:
     "Promosyon Roller Kalem RK-380 | Klasik Metal Tasarım Zarif Seri",
-  price: 160,
+  price: 220,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-380.jpg",
 
@@ -61755,7 +61755,7 @@ Promosyon roller kalem RK-380, klasik metal tasarımı, akıcı yazım performan
   slug: "promosyon-roller-kalem-rk-390-dokunmatik-rubber",
   title:
     "Promosyon Roller Kalem RK-390 | Dokunmatik Uç Rubber Kaplama Modern Seri",
-  price: 106,
+  price: 114,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-390.jpg",
 
@@ -61864,7 +61864,7 @@ Promosyon roller kalem RK-390, dokunmatik ucu, rubber kaplama gövdesi ve modern
   slug: "promosyon-roller-kalem-rk-400-dokulu-metal-modern",
   title:
     "Promosyon Roller Kalem RK-400 | Dokulu Metal Gövde Profesyonel Seri",
-  price: 145,
+  price: 165,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-400.jpg",
 
@@ -61971,7 +61971,7 @@ Promosyon roller kalem RK-400, dokulu metal gövdesi, modern tasarımı ve prest
   id: "p542",
   slug: "promosyon-roller-kalem-rk-410-krom-metal-yonetici",
   title: "Promosyon Roller Kalem RK-410 | Krom Metal Yönetici Kalemi",
-  price: 145,
+  price: 165,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-410.jpg",
 
@@ -62080,7 +62080,7 @@ Promosyon roller kalem RK-410, parlak krom metal gövdesi, dokulu tasarımı ve 
   slug: "promosyon-roller-kalem-rk-420-ahsap-metal-dogal",
   title:
     "Promosyon Roller Kalem RK-420 | Ahşap Gövde Doğal Premium Seri",
-  price: 172,
+  price: 196,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-420.jpg",
 
@@ -62188,7 +62188,7 @@ Promosyon roller kalem RK-420, doğal ahşap gövdesi, rose gold detayları ve p
   slug: "promosyon-roller-kalem-rk-430-klasik-lazer-baski",
   title:
     "Promosyon Roller Kalem RK-430 | Klasik Lazer Baskılı Prestij Kalemi",
-  price: 166,
+  price: 132,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-430.jpg",
 
@@ -62299,7 +62299,7 @@ Promosyon roller kalem RK-430, klasik tasarımı, lazer baskıya uygun yapısı 
   slug: "promosyon-roller-kalem-rk-440-luks-lazer-baski",
   title:
     "Promosyon Roller Kalem RK-440 | Lüks Altın Detaylı Lazer Baskılı",
-  price: 180,
+  price: 96,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-440.jpg",
 
@@ -62410,7 +62410,7 @@ Promosyon roller kalem RK-440, altın detaylı lüks tasarımı, lazer baskıya 
   slug: "promosyon-roller-kalem-rk-450-mat-siyah-metal",
   title:
     "Promosyon Roller Kalem RK-450 | Mat Siyah Metal Modern Tasarım",
-  price: 120,
+  price: 66,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-450.jpg",
 
@@ -63876,7 +63876,7 @@ Promosyon Wireless Stand Set PB-430 modeli; 15W hızlı kablosuz şarj desteği,
   title:
     "Promosyon Kalem Seti KS-140 | Logo Baskılı Lüks Roller ve Tükenmez Kalem Seti",
 
-  price: 418,
+  price: 550,
 
   category: "Kalem Setleri",
 
@@ -64019,7 +64019,7 @@ Promosyon kalem seti KS-140 modeli; metal gövdesi, roller ve tükenmez kalem ko
   title:
     "Promosyon Kalem Seti KS-150 | Logo Baskılı Metal Roller ve Tükenmez Kalem Seti",
 
-  price: 365,
+  price: 388,
 
   category: "Kalem Setleri",
 
@@ -64598,7 +64598,7 @@ Promosyon kalem seti KS-190 modeli; parlak metal gövdesi, roller ve tükenmez k
   title:
     "Promosyon Kalem ve Anahtarlık Seti KS-200 | Logo Baskılı Kurumsal Hediyelik Set",
 
-  price: 340,
+  price: 376,
 
   category: "Kalem Setleri",
 
@@ -64745,7 +64745,7 @@ Promosyon kalem ve anahtarlık seti KS-200 modeli; metal tükenmez kalemi, suni 
   title:
     "Promosyon Kalem ve Anahtarlık Seti KS-210 | Logo Baskılı Deri Detaylı Kurumsal Hediye Seti",
 
-  price: 240,
+  price: 294,
 
   category: "Kalem Setleri",
 
@@ -64872,7 +64872,7 @@ Promosyon kalem ve anahtarlık seti KS-210, uyumlu renklerde hazırlanan metal r
   title:
     "Promosyon Kalem ve Anahtarlık Seti KS-220 | Logo Baskılı Mat Metal Kurumsal Hediye Seti",
 
-  price: 280,
+  price: 312,
 
   category: "Kalem Setleri",
 
@@ -64997,7 +64997,7 @@ Promosyon kalem ve anahtarlık seti KS-220 modeli; mat metal tükenmez kalemi, s
   title:
     "Promosyon Kalem ve Anahtarlık Seti KS-230 | Logo Baskılı Metal VIP Kurumsal Hediye Seti",
 
-  price: 320,
+  price: 380,
 
   category: "Kalem Setleri",
 
@@ -65248,7 +65248,7 @@ Promosyon kalem seti KS-235 modeli; özel desen seçenekleri, kaliteli metal gö
   title:
     "Promosyon Kalem Seti KS-240 | Logo Baskılı Premium Dolma Kalem Görünümlü Metal Kalem Seti",
 
-  price: 436,
+  price: 480,
 
   category: "Kalem Setleri",
 
@@ -65506,7 +65506,7 @@ Promosyon kalem seti KS-250 modeli; piston mekanizmalı dolma kalem sistemi, ah�
   title:
     "Promosyon Kalem Seti KS-260 | Logo Baskılı Ahşap Kutulu Premium Metal Kalem Seti",
 
-  price: 740,
+  price: 520,
 
   category: "Kalem Setleri",
 
@@ -65882,7 +65882,7 @@ Promosyon kalem seti KS-290 modeli; minimal siyah tasarımı, metal gövdesi, ro
   title:
     "Promosyon Kalem Seti KS-310 | Logo Baskılı Tekli Kutulu Metal Promosyon Kalem",
 
-  price: 270,
+  price: 344,
 
   category: "Kalem Setleri",
 
@@ -66006,7 +66006,7 @@ Promosyon kalem seti KS-310 modeli; kaliteli metal gövdesi, tekli şık hediye 
   title:
     "Promosyon Dokunmatik Kalem KS-320 | Logo Baskılı Stylus Uçlu Metal Promosyon Kalem",
 
-  price: 174,
+  price: 200,
 
   category: "Kalem Setleri",
 
@@ -66133,7 +66133,7 @@ Promosyon dokunmatik kalem KS-320 modeli; metal gövdesi, hassas stylus dokunmat
   title:
     "Promosyon Ahşap Kalem Seti KS-330 | Logo Baskılı Ahşap Kutulu Roller & Tükenmez Kalem Seti",
 
-  price: 560,
+  price: 264,
 
   category: "Kalem Setleri",
 
@@ -66753,7 +66753,7 @@ Promosyon tekli kalem kutusu KS-360 modeli; lüks sert gövdesi, profesyonel sun
   title:
     "Promosyon Organizer ORG-160 | Hesap Makineli Termo Deri Kurumsal Organizer",
 
-  price: 520,
+  price: 540,
 
   category: "Organizerler",
 
@@ -66923,7 +66923,7 @@ Promosyon organizer ORG-160 modeli; termo deri kapak yapısı, hesap makinesi, t
   title:
     "Promosyon Organizer ORG-170 | Manyetik Kilitli Termo Deri VIP Organizer",
 
-  price: 606,
+  price: 670,
 
   category: "Organizerler",
 
@@ -67094,7 +67094,7 @@ Promosyon organizer ORG-170 modeli; termo deri kapak yapısı, manyetik kilit si
   title:
     "Promosyon Organizer ORG-180 | Hesap Makineli Termo Deri Kurumsal Organizer 18x23 cm",
 
-  price: 475,
+  price: 670,
 
   category: "Organizerler",
 
@@ -67267,7 +67267,7 @@ Promosyon organizer ORG-180 modeli; termo deri kapak yapısı, 336 sayfalık çi
   title:
     "Promosyon Organizer ORG-190 | Hesap Makineli Termo Deri Kurumsal Organizer 18x23 cm",
 
-  price: 540,
+  price: 670,
 
   category: "Organizerler",
 
@@ -69846,7 +69846,7 @@ Fuar ve etkinlik dağıtımları
   title:
     "Promosyon 12 Haneli Hesap Makinesi HM-110 | Logo Baskılı Masaüstü Promosyon Hesap Makinesi",
 
-  price: 210,
+  price: 220,
 
   category: "Hesap Makineleri",
 
@@ -69970,7 +69970,7 @@ Promosyon 12 haneli hesap makinesi HM-110 modeli; geniş ekranı, ergonomik kull
   title:
     "Promosyon Dijital Hesap Makinesi HM-120 | Logo Baskılı 12 Haneli Renkli Promosyon Hesap Makinesi",
 
-  price: 416,
+  price: 468,
 
   category: "Hesap Makineleri",
 
@@ -70215,7 +70215,7 @@ Promosyon dijital hesap makinesi HM-130 modeli; ergonomik eğimli yapısı, 12 h
   title:
     "Promosyon 12 Haneli Hesap Makinesi HM-140 | Logo Baskılı Yazılabilir LCD Ekranlı Notlu Hesap Makinesi",
 
-  price: 360,
+  price: 420,
 
   category: "Hesap Makineleri",
 
@@ -70338,7 +70338,7 @@ Promosyon 12 haneli hesap makinesi HM-140 modeli; hesap makinesi ve dijital not 
   title:
     "Promosyon Dijital Hesap Makinesi HM-150 | Logo Baskılı 12 Haneli Slim Masaüstü Hesap Makinesi",
 
-  price: 180,
+  price: 228,
 
   category: "Hesap Makineleri",
 
@@ -71198,7 +71198,7 @@ Yeni müşteri kazanım kampanyaları
   slug: "promosyon-vip-set-vip-150-cuzdan-powerbank-usb-kalem-anahtarlik-hediye-seti",
 
   title: "Promosyon VIP Set VIP-150 | Cüzdan, Powerbank, USB, Kalem ve Anahtarlıklı Kurumsal Hediye Seti",
-  price: 2060,
+  price: 2100,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-150.jpg",
 
@@ -71267,7 +71267,7 @@ Yeni müşteri kazanım kampanyaları
   slug: "promosyon-vip-set-vip-160-termos-powerbank-defter-kalem-hediye-seti",
 
   title: "Promosyon VIP Set VIP-160 | Termos, Powerbank, Defter ve Kalemli Kurumsal Hediye Seti",
-  price: 3080,
+  price: 3150,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-160.jpg",
 
@@ -71332,7 +71332,7 @@ Fuar ve etkinlik organizasyonları
   slug: "promosyon-vip-set-vip-170-termos-powerbank-speaker-usb-kalem-hediye-seti",
 
   title: "Promosyon VIP Set VIP-170 | Termos, Powerbank, Bluetooth Speaker, USB ve Kalemli Premium Hediye Seti",
-  price: 3500,
+  price: 2950,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-170.jpg",
 
@@ -71400,7 +71400,7 @@ Fuar ve etkinlik organizasyonları
   slug: "promosyon-vip-set-vip-180-termos-defter-powerbank-usb-hediye-seti",
 
   title: "Promosyon VIP Set VIP-180 | Termos, Defter, Powerbank ve USB’li Kurumsal Hediye Seti",
-  price: 2860,
+  price: 3400,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-180.jpg",
 
@@ -71465,7 +71465,7 @@ Kurumsal tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-190-defter-kalem-usb-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-190 | Defter, Kalem ve USB Bellekli Kurumsal Hediye Seti",
-  price: 910,
+  price: 980,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-190.jpg",
 
@@ -71592,7 +71592,7 @@ Müşteri ve çalışan hediyeleri
   slug: "promosyon-vip-set-vip-210-termos-french-press-speaker-powerbank-hediye-seti",
 
   title: "Promosyon VIP Set VIP-210 | Termos, French Press, Bluetooth Speaker ve Powerbank Hediye Seti",
-  price: 3400,
+  price: 1050,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-210.jpg",
 
@@ -71657,7 +71657,7 @@ Premium yaşam tarzı hediye setleri
   slug: "promosyon-vip-set-vip-220-teknik-hediye-seti-usb-fener-caki-kablo",
 
   title: "Promosyon VIP Set VIP-220 | USB, Fener, Çakı, Kablo ve Kalemli Teknik Hediye Seti",
-  price: 1420,
+  price: 1560,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-220.jpg",
 
@@ -71725,7 +71725,7 @@ Müşteri ve çalışan hediyeleri
   slug: "promosyon-vip-set-vip-230-defter-powerbank-usb-kalem-anahtarlik-seti",
 
   title: "Promosyon VIP Set VIP-230 | Defter, Powerbank, USB, Kalem ve Anahtarlıklı Kurumsal Hediye Seti",
-  price: 1840,
+  price: 2210,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-230.jpg",
 
@@ -71793,7 +71793,7 @@ Günlük kullanım odaklı promosyonlar
   slug: "promosyon-vip-set-vip-240-defter-powerbank-usb-kalem-anahtarlik-kartvizitlik",
 
   title: "Promosyon VIP Set VIP-240 | Defter, Powerbank, USB, Kalem, Anahtarlık ve Kartvizitlik Premium Hediye Seti",
-  price: 3060,
+  price: 2200,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-240.jpg",
 
@@ -71865,7 +71865,7 @@ Premium marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-250-defter-powerbank-usb-kalem-anahtarlik-kartvizitlik",
 
   title: "Promosyon VIP Set VIP-250 | Defter, Powerbank, USB, Kalem, Anahtarlık ve Kartvizitlik Hediye Seti",
-  price: 2760,
+  price: 3200,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-250.jpg",
 
@@ -71937,7 +71937,7 @@ Prestijli marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-260-teknoloji-hediye-seti-powerbank-speaker-magsafe",
 
   title: "Promosyon VIP Set VIP-260 | Powerbank, Bluetooth Speaker, MagSafe Şarj ve Defterli Teknoloji Hediye Seti",
-  price: 4260,
+  price: 1600,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-260.jpg",
 
@@ -72012,7 +72012,7 @@ Fuar ve etkinlik organizasyonları
   slug: "promosyon-vip-set-vip-270-defter-kalem-usb-premium-hediye-seti",
 
   title: "Promosyon VIP Set VIP-270 | Defter, Kalem ve USB Bellekli Premium Kurumsal Hediye Seti",
-  price: 880,
+  price: 980,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-270.jpg",
 
@@ -72265,7 +72265,7 @@ Marka prestij artırma çalışmaları
   slug: "promosyon-vip-set-vip-310-defter-kalem-anahtarlik-kartvizitlik-luks-hediye-seti",
 
   title: "Promosyon VIP Set VIP-310 | Defter, Kalem, Anahtarlık ve Kartvizitlikli Lüks Kurumsal Hediye Seti",
-  price: 1120,
+  price: 1200,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-310.jpg",
 
@@ -72332,7 +72332,7 @@ Prestij odaklı promosyon çözümleri
   slug: "promosyon-vip-set-vip-320-termos-powerbank-speaker-caki-luks-hediye-seti",
 
   title: "Promosyon VIP Set VIP-320 | Termos, Powerbank, Bluetooth Speaker ve Çakılı Lüks Kurumsal Hediye Seti",
-  price: 3900,
+  price: 4200,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-320.jpg",
 
@@ -72404,7 +72404,7 @@ Marka prestij artırma çalışmaları
   slug: "promosyon-vip-set-vip-330-10000mah-powerbank-defter-kalem-anahtarlik-premium-set",
 
   title: "Promosyon VIP Set VIP-330 | 10.000 mAh Powerbank, Defter, Kalem ve Anahtarlıklı Premium Hediye Seti",
-  price: 1600,
+  price: 960,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-330.jpg",
 
@@ -72471,7 +72471,7 @@ Marka prestij artırma çalışmaları
   slug: "promosyon-vip-set-vip-340-termos-powerbank-speaker-defter-premium-hediye-seti",
 
   title: "Promosyon VIP Set VIP-340 | Termos, 10.000 mAh Powerbank, Speaker ve Defterli Premium Hediye Seti",
-  price: 2500,
+  price: 2820,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-340.jpg",
 
@@ -72537,7 +72537,7 @@ Marka prestij artırma çalışmaları
   slug: "promosyon-vip-set-vip-350-defter-kalem-anahtarlik-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-350 | Defter, Metal Kalem Seti ve Anahtarlıklı Şık Kurumsal Hediye Seti",
-  price: 840,
+  price: 1240,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-350.jpg",
 
@@ -72909,7 +72909,7 @@ Ofis kullanımı ve dağıtım ürünleri
   slug: "promosyon-vip-set-vip-410-termo-deri-defter-roller-kalem-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-410 | 15x21 Termo Deri Defter ve Metal Roller Kalemli Şık Kurumsal Set",
-  price: 362,
+  price: 374,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-410.jpg",
 
@@ -72968,7 +72968,7 @@ Marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-420-9x14-defter-metal-kalem-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-420 | 9x14 Defter ve Metal Kalemli Özel Kutulu Kurumsal Hediye Seti",
-  price: 296,
+  price: 380,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-420.jpg",
 
@@ -73027,7 +73027,7 @@ Marka tanıtım çalışmaları
   slug: "promosyon-vip-set-vip-430-termos-powerbank-speaker-kurumsal-luks-hediye-seti",
 
   title: "Promosyon VIP Set VIP-430 | Termos, Powerbank, Bluetooth Speaker ve Premium Kurumsal Hediye Seti",
-  price: 3600,
+  price: 3920,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-430.jpg",
 
@@ -73094,7 +73094,7 @@ Marka prestij artırma çalışmaları
   slug: "promosyon-vip-set-vip-440-termos-powerbank-speaker-luks-kurumsal-hediye-seti",
 
   title: "Promosyon VIP Set VIP-440 | Termos, 10.000 mAh Powerbank ve Bluetooth Speaker İçeren Lüks Hediye Seti",
-  price: 3600,
+  price: 3920,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-440.jpg",
 
@@ -73161,7 +73161,7 @@ Kurumsal promosyon kampanyaları
   slug: "promosyon-vip-set-vip-450-powerbank-defter-kalem-kurumsal-teknolojik-hediye-seti",
 
   title: "Promosyon VIP Set VIP-450 | Powerbank, Defter, Kalem ve Aksesuar İçeren Premium Kurumsal Hediye Seti",
-  price: 2000,
+  price: 1800,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-450.jpg",
 
@@ -73294,7 +73294,7 @@ Marka prestij ve tanıtım çalışmaları
   slug: "promosyon-vip-set-kutusu-vip-470-ozel-kurumsal-hediye-kutusu",
 
   title: "Promosyon VIP Set Kutusu VIP-470 | Özel Ölçü Kurumsal Hediye Kutusu (Set Oluşturulabilir)",
-  price: 160,
+  price: 190,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-470.jpg",
 
@@ -73357,7 +73357,7 @@ Marka tanıtım paketleri
   slug: "promosyon-vip-set-kutusu-vip-480-buyuk-boy-ozel-kurumsal-hediye-kutusu",
 
   title: "Promosyon VIP Set Kutusu VIP-480 | Büyük Boy Özel Kurumsal Hediye Kutusu (33,5x25x10,2 cm)",
-  price: 500,
+  price: 550,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-480.jpg",
 
