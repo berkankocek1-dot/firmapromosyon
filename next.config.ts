@@ -4,6 +4,11 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
+        source: "/urunler/promosyon-kalem-rk-290-renkli-plastik",
+        destination: "/urunler/promosyon-kalem-rk-290",
+        permanent: true,
+      },
+      {
         source: "/promosyon-seramik-porselen-kupalar",
         destination: "/promosyon-kupa",
         permanent: true,

@@ -750,27 +750,32 @@ Promosyon dokunmatik kalem DK-650 ile markanızı modern, kullanışlı ve tekno
 {
   id: "p8",
   slug: "promosyon-dokunmatik-kalem-dk-750",
-  title:
-    "Promosyon Dokunmatik Kalem DK-750 | Logo Baskılı Stylus Kalem",
+  title: "Promosyon Dokunmatik Kalem DK-750 | Lazer Baskılı Jel Kalem",
   price: 58,
+  category: "Kalem",
+  image: "/products/promosyon-dokunmatik-kalem-dk-750-v2.jpg",
+  gallery: ["/products/promosyon-dokunmatik-kalem-dk-750-v2.jpg"],
+
   shortDesc:
-    "Promosyon dokunmatik kalem DK-750, yumuşak tutuş sağlayan ergonomik kauçuk grip alanı ve stylus ucu ile dikkat çeken premium bir promosyon kalem modelidir. Logo baskıya uygun yapısı sayesinde kurumsal tanıtımlar için ideal bir seçenektir.",
+    "Promosyon dokunmatik kalem DK-750, jel refilli ve stylus uçlu bir modeldir. Lazer kazıma alanı dokunmatik ucun rengini alır. Toplu sipariş için teklif alın.",
+
   longDesc: `
-Ergonomik Dokunmatik Promosyon Kalem ile Markanızı Günlük Kullanımın Parçası Yapın
+Lazer Logo Baskılı Dokunmatik Jel Kalem DK-750
 
-Promosyon dokunmatik kalem DK-750, klasik tükenmez kalem kullanımını akıllı telefon ve tablet ekranlarında kullanılabilen stylus uç ile bir araya getiren modern bir promosyon ürünüdür. Alt bölümde yer alan kaymaz kauçuk grip alanı sayesinde konforlu bir yazım deneyimi sunar.
+Promosyon dokunmatik kalem DK-750, jel refil ile yazı yazma işlevini dokunmatik stylus uçla bir araya getirir. Uyumlu telefon ve tablet ekranlarında kullanım sağlayan bu model, kurumsal hediye ve tanıtım çalışmalarında değerlendirilebilir.
 
-Kurumsal promosyon ürünleri arasında premium görünümü ve ergonomik yapısı ile öne çıkan DK-750 modeli, müşterilerinizin ve iş ortaklarınızın uzun süre kullanabileceği kaliteli bir reklam ürünüdür. Fuarlar, seminerler, müşteri ziyaretleri ve promosyon kampanyalarında etkili bir tanıtım çözümü sunar.
+DK-750'nin ayırt edici özelliği lazer kazıma uygulamasıdır. Kazıma yapılan alan, kalemin dokunmatik ucuyla aynı renkte görünür. Bu özellik, firma logosu veya marka adının seçilen renk seçeneğiyle uyumlu biçimde uygulanmasına imkan verir.
 
-Logo baskıya uygun geniş gövde yüzeyi sayesinde firma logosu, marka adı veya reklam mesajı UV baskı, tampon baskı veya lazer baskı yöntemleriyle uygulanabilir. Günlük hayatta sık kullanılan bir ürün olması, markanızın sürekli görünür kalmasına katkı sağlar.
+LOGO BASKISI
+Ürüne lazer baskı uygulanabilir. Logo tasarımı ve uygulama alanı sipariş öncesinde değerlendirilir. Baskılı teklif almak için logonuzu ve sipariş adedinizi paylaşabilirsiniz.
 
 NEDEN PROMOSYON DOKUNMATİK KALEM DK-750 TERCİH EDİLMELİ?
-• Telefon ve tablet kullanımına uygun dokunmatik stylus uç
-• Ergonomik kauçuk grip ile konforlu kullanım
-• Premium ve modern tasarım
-• Logo baskıya uygun geniş baskı alanı
-• Günlük kullanımda yüksek reklam etkisi
-• Kurumsal promosyonlar için ideal
+• Jel refil
+• Dokunmatik stylus uç
+• Lazer kazımada dokunmatik uç rengiyle eşleşen baskı alanı
+• Yedi renk seçeneği
+• Kurumsal logo uygulamasına uygunluk
+• Günlük yazı ve uyumlu ekran kullanımını birleştiren tasarım
 
 KULLANIM ALANLARI
 • Kurumsal promosyon dağıtımları
@@ -789,28 +794,60 @@ KİMLER İÇİN UYGUN?
 • Organizasyon firmaları
 
 PROMOSYON DOKUNMATİK KALEM FİYATLARI
-Promosyon dokunmatik kalem fiyatları; sipariş miktarı, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+Listelenen birim fiyat KDV ve baskı hariçtir. Lazer logo baskılı toplu siparişlerde toplam tutar, sipariş adedi ve baskı uygulamasına göre tekliflendirilir. Güncel stok durumu ve teslim süresi sipariş öncesinde teyit edilir.
 
 RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-Kırmızı, Lacivert ve Siyah.
+• Altın
+• Füme
+• Kırmızı
+• Lacivert
+• Turkuaz
+• Turuncu
+• Yeşil
 
 MİNİMUM SİPARİŞ BİLGİSİ
-• Baskısız minimum sipariş: 50 adet
-• Baskılı minimum sipariş adedi, baskı yöntemine göre değişebilir
+• Minimum sipariş: 50 adet
+• Logo baskılı siparişin uygulama koşulları teklif aşamasında netleştirilir.
 
 TEKNİK ÖZELLİKLER
 • Model: DK-750
-• Ürün Türü: Dokunmatik Stylus Kalem
-• Gövde Özelliği: Ergonomik kauçuk grip
-• Baskı Türü: UV Baskı / Tampon Baskı / Lazer Baskı
-• Minimum Sipariş: 50 adet (baskısız)
+• Ürün Türü: Dokunmatik Jel Kalem
+• Refil: Jel
+• Dokunmatik Uç: Stylus / Touchpen
+• Baskı Türü: Lazer
+• Kazıma Özelliği: Uygulama alanı dokunmatik ucun rengini alır
+• Minimum Sipariş: 50 adet
 • Kategori: Promosyon Kalem
 
-Promosyon dokunmatik kalem DK-750 ile markanızı modern, kullanışlı ve prestijli bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+Promosyon dokunmatik jel kalem DK-750 için sipariş adedinizi ve logonuzu paylaşarak teklif alabilir, WhatsApp üzerinden bizimle iletişime geçebilirsiniz.
 `.trim(),
-  category: "Kalem",
-  image: "/products/promosyon-dokunmatik-kalem-dk-750.jpg",
-  gallery: ["/products/promosyon-dokunmatik-kalem-dk-750.jpg"],
+
+  faq: [
+    {
+      q: "DK-750 jel kalem midir?",
+      a: "Evet. Güncel DK-750 modeli jel refile sahiptir.",
+    },
+    {
+      q: "Dokunmatik ucu ne işe yarar?",
+      a: "Stylus uç, uyumlu telefon ve tablet ekranlarında dokunmatik kullanım sağlar.",
+    },
+    {
+      q: "Lazer baskıda logo hangi renkte görünür?",
+      a: "Lazer kazıma yapılan alan, seçilen kalemin dokunmatik ucunun rengini alır.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Altın, füme, kırmızı, lacivert, turkuaz, turuncu ve yeşil seçenekleri bulunmaktadır. Güncel stok durumu sipariş öncesinde teyit edilir.",
+    },
+    {
+      q: "Minimum sipariş miktarı nedir?",
+      a: "Minimum sipariş miktarı 50 adettir. Logo baskılı siparişin uygulama koşulları teklif aşamasında netleştirilir.",
+    },
+    {
+      q: "Listelenen fiyata KDV ve baskı dahil mi?",
+      a: "Hayır. Listelenen birim fiyat KDV ve baskı hariçtir. Lazer logo baskısı için ayrıca teklif hazırlanır.",
+    },
+  ],
 },
 {
   id: "p9",
@@ -3720,38 +3757,38 @@ Promosyon USB bellek UB-180, dayanıklı metal gövdesi, logo baskısına uygun 
 {
   id: "p37",
   slug: "promosyon-dokunmatik-kalem-dk-700",
-  title:
-    "Promosyon Dokunmatik Kalem DK-700 | Logo Baskılı Premium Stylus Kalem",
-  price: 30,
+  title: "Promosyon Dokunmatik Kalem DK-700 | Kurumsal Stylus Kalem",
+  price: 34,
   category: "Kalem",
-  image: "/products/promosyon-dokunmatik-kalem-dk-700.jpg",
+  image: "/products/promosyon-dokunmatik-kalem-dk-700-v2.jpg",
+
   shortDesc:
-    "Promosyon dokunmatik kalem DK-700, mat yüzeyi ve zarif tasarımı ile premium bir promosyon kalem modelidir. Telefon ve tablet kullanımına uygun stylus ucu sayesinde kurumsal promosyonlar için şık ve modern bir tanıtım ürünüdür.",
+    "Promosyon dokunmatik kalem DK-700, stylus ucu ve farklı renk seçenekleriyle kurumsal tanıtımlarda kullanılabilir. Logo baskılı toplu sipariş için teklif alın.",
 
   longDesc: `
-Premium Dokunmatik Promosyon Kalem ile Markanıza Prestijli Bir Dokunuş Katın
+Promosyon Dokunmatik Kalem DK-700 ile Kurumsal Tanıtım
 
-Promosyon dokunmatik kalem DK-700, sade ve modern tasarımıyla öne çıkan, yüksek algı değerine sahip bir promosyon kalem modelidir. Hem klasik tükenmez kalem olarak kullanılabilir hem de üst kısmındaki dokunmatik stylus uç sayesinde akıllı telefon ve tablet ekranlarında rahat kullanım sağlar.
+Promosyon dokunmatik kalem DK-700, yazı yazma ve dokunmatik ekran kullanımını bir araya getiren bir promosyon kalem modelidir. Farklı renk seçenekleriyle müşteri hediyeleri, fuarlar ve kurumsal tanıtım çalışmalarında değerlendirilebilir.
 
-Mat yüzeyi ve şık metal görünümlü detayları sayesinde DK-700 modeli, kurumsal promosyon ürünleri arasında premium segmentte yer alır. Özellikle profesyonel bir marka imajı oluşturmak isteyen firmalar için etkili ve prestijli bir kurumsal hediye alternatifidir.
+Stylus uç, uyumlu telefon ve tablet ekranlarında dokunmatik kullanım sağlar. Günlük not alma ve ekran kullanımı için aynı kalemi tercih etmek isteyen kullanıcılar için pratik bir seçenektir.
 
-Logo baskıya uygun gövde alanı üzerine firma logosu, marka adı veya reklam mesajı lazer baskı, UV baskı veya tampon baskı yöntemleriyle uygulanabilir. Günlük kullanımda sürekli elde bulunan bir ürün olması, markanızın uzun süre görünür kalmasını sağlar.
+LOGO BASKILI DOKUNMATİK KALEM SİPARİŞİ
+Firma logosu, marka adı veya kurumsal mesaj için uygun baskı yöntemi ve uygulama alanı sipariş öncesinde teyit edilir. Logonuzu ve istediğiniz adedi paylaşarak baskılı sipariş teklifi alabilirsiniz.
 
 NEDEN PROMOSYON DOKUNMATİK KALEM DK-700 TERCİH EDİLMELİ?
-• Telefon ve tablet kullanımına uygun dokunmatik stylus uç
-• Mat yüzeyli premium tasarım
-• Şık ve profesyonel görünüm
-• Logo baskıya uygun geniş yüzey
-• Günlük kullanımda yüksek marka görünürlüğü
-• Kurumsal hediye ve promosyon için ideal
+• Dokunmatik stylus uç
+• Yazı yazma ve ekran kullanımını birleştiren tasarım
+• Farklı renk seçenekleri
+• Kurumsal hediye ve tanıtımlarda kullanım
+• Logo baskılı toplu sipariş için teklif imkanı
 
 KULLANIM ALANLARI
 • Kurumsal promosyon dağıtımları
 • Fuar ve organizasyon etkinlikleri
 • Toplantılar ve müşteri ziyaretleri
 • Eğitim ve seminer organizasyonları
-• Prestij amaçlı kurumsal hediyeler
-• Teknoloji ve finans sektörü tanıtımları
+• Ofis ve çalışan hediyeleri
+• Teknoloji sektörü tanıtımları
 
 KİMLER İÇİN UYGUN?
 • Kurumsal firmalar
@@ -3762,24 +3799,56 @@ KİMLER İÇİN UYGUN?
 • Organizasyon firmaları
 
 PROMOSYON DOKUNMATİK KALEM FİYATLARI
-Promosyon dokunmatik kalem fiyatları; sipariş miktarı, baskı yöntemi, baskı renk sayısı ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+Listelenen birim fiyat KDV ve baskı hariçtir. Logo baskılı toplu siparişlerde toplam bedel, sipariş miktarı ve teyit edilen baskı uygulamasına göre tekliflendirilir. Stok durumu ve teslim süresi sipariş öncesinde netleştirilir.
 
 RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-Antrasit, füme ve metalik gri tonları.
+• Yeşil
+• Füme
+• Turuncu
+• Turkuaz
+• Kırmızı
+• Siyah
+• Lacivert
+• Beyaz
+
+Listelenen renklerin bulunabilirliği güncel stok durumuna göre değişebilir.
 
 MİNİMUM SİPARİŞ BİLGİSİ
-• Baskısız minimum sipariş adedi, stok durumuna göre değişebilir
-• Logo baskılı siparişlerde minimum adet, baskı yöntemine göre belirlenir
+Baskılı ve baskısız minimum sipariş miktarı teklif aşamasında teyit edilir.
 
 TEKNİK ÖZELLİKLER
 • Model: DK-700
 • Ürün Türü: Dokunmatik Stylus Kalem
-• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
-• Gövde Yapısı: Mat yüzeyli premium tasarım
+• Özellik: Dokunmatik uç
 • Kategori: Promosyon Kalem
 
-Promosyon dokunmatik kalem DK-700 ile markanızı modern, prestijli ve uzun ömürlü bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+Gövde malzemesi, ölçüler, mürekkep rengi ve baskı uygulamasının ayrıntıları sipariş öncesinde teyit edilir.
+
+Promosyon dokunmatik kalem DK-700 için sipariş adedinizi ve logonuzu paylaşarak teklif alabilir, WhatsApp üzerinden bizimle iletişime geçebilirsiniz.
 `.trim(),
+
+  faq: [
+    {
+      q: "DK-700 dokunmatik ekranlarda kullanılabilir mi?",
+      a: "Dokunmatik stylus ucu, uyumlu telefon ve tablet ekranlarında kullanım sağlar.",
+    },
+    {
+      q: "DK-700 için logo baskılı sipariş verebilir miyim?",
+      a: "Logonuzu ve sipariş adedinizi paylaşarak teklif alabilirsiniz. Uygun baskı yöntemi ve uygulama alanı sipariş öncesinde teyit edilir.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Yeşil, füme, turuncu, turkuaz, kırmızı, siyah, lacivert ve beyaz seçenekleri listelenmektedir. Güncel stok durumu sipariş öncesinde teyit edilir.",
+    },
+    {
+      q: "Listelenen fiyata baskı ve KDV dahil mi?",
+      a: "Hayır. Listelenen birim fiyat KDV ve baskı hariçtir. Baskılı sipariş için toplam tutar ayrıca tekliflendirilir.",
+    },
+    {
+      q: "Minimum sipariş miktarı nedir?",
+      a: "Baskılı ve baskısız minimum sipariş miktarı teklif aşamasında teyit edilir.",
+    },
+  ],
 },
 {
   id: "p38",
@@ -10928,68 +10997,43 @@ Promosyon metal kalem MK-170 ile markanızı kaliteli, prestijli ve profesyonel 
 {
   id: "p99",
   slug: "promosyon-metal-kalem-mk-180",
-  title: "Promosyon Metal Kalem MK-180 | Logo Baskılı Rubber Gövdeli Metal Kalem",
-  price: 22.50,
+  title: "Promosyon Metal Kalem MK-180 | Lazer Logo Baskılı Metal Kalem",
+  price: 196,
   category: "Kalem",
-  image: "/products/promosyon-metal-kalem-mk-180.jpg",
+  image: "/products/promosyon-metal-kalem-mk-180-v2.jpg",
 
   shortDesc:
-    "Promosyon metal kalem MK-180, rubber kaplamalı yumuşak yüzeyi ve şık metal tasarımı ile dikkat çeken ekonomik bir promosyon kalem modelidir. Logo baskıya uygun yapısı sayesinde fuar, toplantı ve kurumsal promosyon çalışmalarında etkili bir tanıtım ürünüdür.",
+    "Promosyon metal kalem MK-180, mavi mürekkebi ve lazer logo baskısına uygun yüzeyiyle kurumsal tanıtımlarda kullanılabilir. Füme parlak, gri mat, lacivert ve siyah renk seçenekleriyle toplu sipariş verilebilir.",
 
   longDesc: `
-Promosyon Metal Kalem MK-180 ile Markanızı Şık ve Ekonomik Bir Promosyon Ürünüyle Tanıtın
+Promosyon Metal Kalem MK-180 | Kurumsal Logo Baskılı Kalem
 
-Promosyon metal kalem MK-180, yumuşak dokulu rubber kaplaması ve dayanıklı metal gövdesi ile hem konforlu hem de modern bir kullanım sunan kaliteli bir promosyon kalem modelidir. Uygun fiyatı ve prestijli görünümü sayesinde kurumsal promosyon çalışmalarında sık tercih edilmektedir.
+MK-180 metal kalem, firma logosu veya marka adının lazer baskı ile uygulanabildiği bir promosyon ürünüdür. Müşteri ziyaretleri, toplantılar, fuarlar ve kurumsal etkinliklerde tanıtım amacıyla kullanılabilir.
 
-Logo baskılı promosyon metal kalemler, firmaların marka bilinirliğini artırmak ve müşterileri üzerinde profesyonel bir izlenim bırakmak için en çok tercih edilen tanıtım ürünleri arasında yer alır. Günlük kullanımda sık kullanılan bir ürün olması, markanızın uzun süre görünür kalmasına katkı sağlar.
+LAZER LOGO BASKISI
+Ürünün baskı alanı 40 x 5,5 mm'dir. Logo uygulaması, tasarımın bu alana uygunluğu kontrol edilerek hazırlanır. Baskı bedeli sipariş adedi ve uygulama detaylarına göre ayrıca tekliflendirilir.
 
-Promosyon metal kalem MK-180 modeli; fuarlar, seminerler, müşteri ziyaretleri, bayi toplantıları, eğitim organizasyonları ve kurumsal etkinlikler için ideal bir promosyon ürünüdür. Rubber gövde kaplaması sayesinde elde kayma yapmaz ve rahat bir tutuş sunar.
-
-Logo baskıya uygun metal yüzeyi üzerine firma logosu, marka adı veya kurumsal slogan lazer baskı yöntemiyle net ve kalıcı şekilde uygulanabilir. Böylece kalem, hem işlevsel bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
-
-NEDEN PROMOSYON METAL KALEM MK-180 TERCİH EDİLMELİ?
-• Yumuşak dokulu rubber kaplama
-• Dayanıklı metal gövde
-• Modern ve şık tasarım
-• Lazer baskıya uygun kaliteli yüzey
-• Ergonomik ve kaymaz kullanım
-• Uygun fiyatlı ve prestijli promosyon ürünü
-
-KULLANIM ALANLARI
-• Kurumsal promosyon dağıtımları
-• Fuar ve organizasyon etkinlikleri
-• Müşteri ziyaretleri
-• Toplantılar ve seminerler
-• Eğitim organizasyonları
-• Kurumsal tanıtım kampanyaları
-
-KİMLER İÇİN UYGUN?
-• Kurumsal firmalar
-• Reklam ajansları
-• Eğitim kurumları
-• Bankalar ve finans kuruluşları
-• Teknoloji şirketleri
-• Organizasyon firmaları
-
-PROMOSYON METAL KALEM FİYATLARI
-Promosyon metal kalem fiyatları; sipariş miktarı, baskı yöntemi, stok durumu ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
-
-RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-Turkuaz, Kırmızı, Siyah, Turuncu, Füme ve Lacivert.
+RENK SEÇENEKLERİ
+• Füme parlak
+• Gri mat
+• Lacivert
+• Siyah
+Renklerin stok durumu sipariş öncesinde teyit edilir.
 
 TEKNİK ÖZELLİKLER
 • Model: MK-180
-• Ürün Tipi: Metal Tükenmez Kalem
-• Gövde Yapısı: Rubber Kaplama Metal Gövde
+• Ürün Tipi: Metal Kalem
+• Ölçü: 142 x Ø12 mm
 • Mürekkep Rengi: Mavi
 • Baskı Türü: Lazer Baskı
+• Baskı Alanı: 40 x 5,5 mm
+• Koli / Kutu Adedi: 500 / 50
 • Kategori: Promosyon Kalem
 
-MİNİMUM SİPARİŞ BİLGİSİ
-• Baskılı ve baskısız minimum sipariş adetleri stok ve üretim planına göre değişebilir
-• Net minimum sipariş miktarı teklif aşamasında paylaşılır
+FİYAT VE SİPARİŞ
+Listelenen birim fiyat KDV ve baskı hariçtir. Sipariş miktarı, renk stokları, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Koli ve kutu adetleri ambalaj bilgisidir; minimum sipariş miktarı ayrıca teyit edilir.
 
-Promosyon metal kalem MK-180 ile markanızı şık, ekonomik ve kaliteli bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+Logo baskılı MK-180 metal kalem için sipariş adedinizi ve logonuzu paylaşarak teklif alabilirsiniz.
 `.trim(),
 },
 {
@@ -17964,99 +18008,57 @@ Promosyon metal kalem MK-205 ile markanızı şık, kaliteli ve prestijli bir pr
 {
   id: "p159",
   slug: "promosyon-metal-kalem-mk-210",
-  title:
-    "Promosyon Metal Kalem MK-210 | Rubber Gövdeli Logo Baskılı Renkli Metal Kalem",
-  price: 32,
+  title: "Promosyon Metal Kalem MK-210 | Füme Metal Kalem",
+  price: 210,
   category: "Kalem",
-  image: "/products/promosyon-metal-kalem-mk-210.jpg",
-  gallery: ["/products/promosyon-metal-kalem-mk-210.jpg"],
+  image: "/products/promosyon-metal-kalem-mk-210-v2.jpg",
+  gallery: ["/products/promosyon-metal-kalem-mk-210-v2.jpg"],
 
   shortDesc:
-    "Promosyon metal kalem MK-210, rubber kaplama gövdesi ve canlı renk seçenekleri ile kurumsal tanıtımlarda dikkat çeken modern bir promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile markanızın şık ve profesyonel bir şekilde öne çıkmasını sağlar.",
+    "Promosyon metal kalem MK-210, füme rengiyle kurumsal hediye ve tanıtım çalışmalarında değerlendirilebilecek bir metal kalem modelidir. Toplu sipariş ve logonuza uygun baskı seçenekleri için teklif alabilirsiniz.",
 
   longDesc: `
-Renkli Rubber Gövdeli Promosyon Metal Kalem ile Markanızı Daha Dikkat Çekici Hale Getirin
+Promosyon Metal Kalem MK-210 | Füme Renkli Kurumsal Kalem
 
-Promosyon metal kalem MK-210, yumuşak dokulu rubber kaplama gövdesi ve canlı renk seçenekleri ile kurumsal promosyon ürünleri arasında modern tasarımıyla öne çıkan şık bir kalem modelidir. Konforlu tutuş sağlayan yüzeyi ve kaliteli görünümü sayesinde markanızın profesyonel bir şekilde temsil edilmesine yardımcı olur.
+MK-210, füme renk seçeneği sunan bir metal kalem modelidir. Müşteri ziyaretlerinde, iş toplantılarında, fuarlarda ve kurumsal hediye çalışmalarında kullanılabilir.
 
-Rubber kaplama, kalemin elde kaymasını azaltır ve daha rahat bir kullanım sunar. Günlük kullanımda yüksek konfor sağlaması, bu ürünü müşterilerinizin ve iş ortaklarınızın uzun süre tercih edeceği etkili bir reklam aracına dönüştürür.
+LOGO BASKILI SİPARİŞ
+Firma logonuz veya marka adınız için uygun baskı yöntemi ve uygulama alanı sipariş öncesinde teyit edilir. Logonuzu ve istediğiniz adedi paylaşarak baskı dahil teklif alabilirsiniz.
 
-MK-210 modeli metal gövdeye sahiptir ve mavi mürekkep ile yazmaktadır. Gövde üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı, UV baskı ya da tampon baskı teknikleri ile uygulanabilir. Renkli yüzeyi ve parlak metal detayları sayesinde baskılar dikkat çekici bir görünüm kazanır.
-
-NEDEN PROMOSYON METAL KALEM MK-210 TERCİH EDİLMELİ?
-• Rubber kaplama ile yumuşak ve konforlu tutuş
-• Canlı renk seçenekleri ile dikkat çekici tasarım
-• Dayanıklı metal gövde yapısı
-• Logo baskıya uygun geniş baskı alanı
-• Günlük kullanıma uygun kaliteli yapı
-• Kurumsal tanıtımlar için modern seçenek
-
-KULLANIM ALANLARI
-• Fuar ve etkinlik promosyonları
-• Kurumsal müşteri hediyeleri
-• Ofis ve çalışan hediyeleri
-• Marka tanıtım kampanyaları
-• Eğitim kurumları
-• Reklam ve promosyon çalışmaları
-
-KİMLER İÇİN UYGUN?
-• Kurumsal şirketler
-• Reklam ajansları
-• Eğitim kurumları
-• Bankalar ve finans kuruluşları
-• Organizasyon şirketleri
-• Prestijli marka tanıtımı yapan firmalar
-
-PROMOSYON METAL KALEM FİYATLARI
-Promosyon metal kalem fiyatları; sipariş miktarı, baskı yöntemi, renk seçeneği ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
-
-RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-• Mavi
-• Yeşil
-• Sarı
-• Turuncu
-• Kırmızı
-• Siyah
-• Pembe
-• Mor
-• Lacivert
-
-TEKNİK ÖZELLİKLER
+ÜRÜN BİLGİLERİ
 • Model: MK-210
-• Ürün Türü: Metal Tükenmez Kalem
-• Gövde Yapısı: Metal + Rubber Kaplama
-• Mürekkep Rengi: Mavi
-• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
-• Minimum Sipariş: 50 adet (baskısız)
+• Ürün Türü: Metal Kalem
+• Renk: Füme
 • Kategori: Promosyon Kalem
 
-MİNİMUM SİPARİŞ BİLGİSİ
-• Baskısız minimum sipariş: 50 adet
-• Logo baskılı siparişlerde minimum adet, baskı yöntemi ve üretim planına göre değişebilir
+KULLANIM ALANLARI
+• Kurumsal müşteri hediyeleri
+• Fuar ve etkinlik tanıtımları
+• Ofis ve çalışan hediyeleri
+• İş toplantıları ve bayi ziyaretleri
 
-Promosyon metal kalem MK-210 ile markanızı renkli, modern ve konforlu bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+FİYAT VE SİPARİŞ
+Listelenen birim fiyat KDV ve baskı hariçtir. Minimum sipariş miktarı, stok durumu, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir.
+
+MK-210 metal kalem için sipariş adedinizi ve logonuzu paylaşarak WhatsApp üzerinden teklif alabilirsiniz.
 `.trim(),
 
   faq: [
     {
-      q: "Rubber gövde ne avantaj sağlar?",
-      a: "Rubber kaplama, kalemin elde kaymasını azaltır ve daha yumuşak bir tutuş sağlayarak kullanım konforunu artırır.",
+      q: "MK-210 hangi renkte sunuluyor?",
+      a: "MK-210 modeli füme renkte listelenmektedir. Güncel stok durumu sipariş öncesinde teyit edilir.",
     },
     {
-      q: "Hangi renk seçenekleri mevcuttur?",
-      a: "Mavi, yeşil, sarı, turuncu, kırmızı, siyah, pembe, mor ve lacivert gibi farklı renk seçenekleri stok durumuna bağlı olarak sunulmaktadır.",
+      q: "Logo baskılı sipariş verebilir miyim?",
+      a: "Logonuzu paylaşarak baskılı sipariş için teklif alabilirsiniz. Uygun baskı yöntemi ve uygulama alanı sipariş öncesinde teyit edilir.",
     },
     {
-      q: "Üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Lazer baskı, UV baskı veya tampon baskı teknikleri ile firma logosu uygulanabilir.",
+      q: "Listelenen fiyata KDV ve baskı dahil mi?",
+      a: "Hayır. Listelenen birim fiyat KDV ve baskı hariçtir. Baskılı siparişin toplam tutarı teklif aşamasında belirlenir.",
     },
     {
-      q: "Kalem hangi renkte yazar?",
-      a: "MK-210 modeli mavi mürekkep ile yazmaktadır.",
-    },
-    {
-      q: "Minimum sipariş adedi nedir?",
-      a: "Baskısız siparişlerde minimum adet 50’dir. Logo baskılı siparişlerde minimum adet baskı yöntemine göre değişiklik gösterebilir.",
+      q: "Minimum sipariş miktarı nedir?",
+      a: "Minimum sipariş miktarı stok durumu ve baskı uygulamasına göre teklif aşamasında teyit edilir.",
     },
   ],
 },
@@ -23437,39 +23439,37 @@ Promosyon polo yaka tişört siparişleri toplu üretim olarak hazırlanmaktadı
   id: "p205",
   slug: "promosyon-metal-kalem-mk-360",
   title:
-    "Promosyon Metal Kalem MK-360 | Rubber Tutma Alanlı Logo Baskılı Metal Kalem",
-  price: 30,
+    "Promosyon Metal Kalem MK-360 | Lazer Logo Baskılı Metal Kalem",
+  price: 210,
   category: "Kalem",
-  image: "/products/promosyon-metal-kalem-mk-360.jpg",
-  gallery: ["/products/promosyon-metal-kalem-mk-360.jpg"],
+  image: "/products/promosyon-metal-kalem-mk-360-v2.jpg",
+  gallery: ["/products/promosyon-metal-kalem-mk-360-v2.jpg"],
 
   shortDesc:
-    "Promosyon metal kalem MK-360, renkli metal gövdesi ve siyah rubber tutma alanı ile konforlu kullanım sunan şık bir promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile kurumsal tanıtımlar için ideal bir tercihtir.",
+    "Promosyon metal kalem MK-360, gold ve siyah renk seçenekleri, mavi mürekkebi ve lazer logo baskısına uygun yüzeyiyle kurumsal tanıtımlarda kullanılabilir. 140 x Ø13 mm ölçülerindeki model için logo baskılı toplu sipariş teklifi alabilirsiniz.",
 
   longDesc: `
-Rubber Tutma Alanlı Promosyon Metal Kalem ile Markanızı Konforlu ve Şık Bir Ürünle Tanıtın
+Lazer Logo Baskılı Promosyon Metal Kalem MK-360
 
-Promosyon metal kalem MK-360, modern tasarımı ve ergonomik yapısı ile kurumsal promosyon ürünleri arasında dikkat çeken kullanışlı bir kalem modelidir. Alt bölümde yer alan siyah rubber tutma alanı, yazı yazarken daha rahat bir kavrama sağlar ve günlük kullanım konforunu artırır.
+Promosyon metal kalem MK-360, gold ve siyah renk seçenekleriyle kurumsal hediye ve tanıtım çalışmalarında kullanılabilecek bir metal kalem modelidir. Mavi mürekkebiyle günlük yazı ihtiyaçlarına eşlik eder.
 
-Kurumsal promosyon kalemleri, marka bilinirliğini artırmak için en çok tercih edilen reklam ürünleri arasında yer alır. Müşteri ziyaretleri, fuarlar, seminerler, toplantılar ve çalışan hediyelerinde sıkça kullanılan metal kalemler, markanızın uzun süre görünür kalmasına katkı sağlar.
+Müşteri ziyaretleri, fuarlar, seminerler, toplantılar ve çalışan hediyelerinde kullanılabilen promosyon metal kalemler, firma adınızı günlük kullanımda görünür kılmanıza yardımcı olur.
 
-MK-360 modeli dayanıklı metal gövde yapısına sahiptir. Renkli üst gövde ve siyah detaylar ürüne modern bir görünüm kazandırır. Firma logosu, marka adı veya kurumsal mesaj kalem üzerine lazer baskı, UV baskı veya tampon baskı teknikleri ile uygulanabilir.
+MK-360 üzerine firma logosu veya marka adı lazer baskı ile uygulanabilir. 40 x 5,5 mm baskı alanına uygun logo çalışması, sipariş öncesinde değerlendirilir.
 
 NEDEN PROMOSYON METAL KALEM MK-360 TERCİH EDİLMELİ?
-• Rubber tutma alanı ile konforlu kullanım
-• Dayanıklı metal gövde yapısı
-• Modern ve şık tasarım
-• Logo baskıya uygun geniş baskı alanı
-• Günlük kullanıma uygun ergonomik yapı
-• Kurumsal promosyonlar için ideal seçenek
+• Metal kalem tasarımı
+• Gold ve siyah renk seçenekleri
+• Mavi mürekkep
+• Lazer logo baskısına uygun yüzey
+• Kurumsal hediye ve tanıtımlarda kullanım
 
 KULLANIM ALANLARI
 • Kurumsal müşteri hediyeleri
 • Fuar ve etkinlik promosyonları
 • İş toplantıları ve seminerler
 • Ofis ve çalışan hediyeleri
-• Marka bilinirliği kampanyaları
-• Reklam ve promosyon çalışmaları
+• Marka tanıtım kampanyaları
 
 KİMLER İÇİN UYGUN?
 • Kurumsal şirketler
@@ -23477,52 +23477,55 @@ KİMLER İÇİN UYGUN?
 • Eğitim kurumları
 • Reklam ajansları
 • Organizasyon firmaları
-• Günlük kullanıma uygun promosyon ürünleri tercih eden işletmeler
 
 PROMOSYON METAL KALEM FİYATLARI
-Promosyon metal kalem fiyatları; sipariş miktarı, baskı yöntemi, renk seçeneği ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
+Listelenen birim fiyat KDV ve baskı hariçtir. Logo baskılı toplu siparişlerde toplam bedel; sipariş miktarı ve baskı uygulamasına göre tekliflendirilir. Stok durumu ve teslim süresi sipariş öncesinde teyit edilir.
 
 RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-• Lacivert
+• Gold
 • Siyah
-• Pembe
+Renk seçeneklerinin bulunabilirliği güncel stok durumuna göre değişebilir.
 
 TEKNİK ÖZELLİKLER
 • Model: MK-360
-• Ürün Türü: Metal Tükenmez Kalem
-• Gövde Yapısı: Metal
-• Tutma Alanı: Rubber Kaplama
-• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
-• Minimum Sipariş: 50 adet (baskısız)
+• Ürün Türü: Metal Kalem
+• Ölçü: 140 x Ø13 mm
+• Mürekkep Rengi: Mavi
+• Baskı Türü: Lazer Baskı
+• Baskı Alanı: 40 x 5,5 mm
+• Koli / Kutu Adedi: 500 / 50
 • Kategori: Promosyon Kalem
 
 MİNİMUM SİPARİŞ BİLGİSİ
-• Baskısız minimum sipariş: 50 adet
-• Logo baskılı siparişlerde minimum adet, baskı yöntemi ve üretim planına göre değişebilir
+Baskılı ve baskısız minimum sipariş miktarı teklif aşamasında teyit edilir. Koli ve kutu adetleri ambalaj bilgisidir; minimum sipariş miktarını belirtmez.
 
-Promosyon metal kalem MK-360 ile markanızı konforlu, kaliteli ve modern bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+Logo baskılı MK-360 metal kalem için sipariş adedinizi ve logonuzu paylaşarak teklif alabilir, WhatsApp üzerinden bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
     {
-      q: "Kalemin tutma alanı rubber kaplama mı?",
-      a: "Evet. MK-360 modelinin alt bölümünde yer alan rubber tutma alanı daha rahat ve kaymaz bir kullanım sunar.",
+      q: "MK-360 hangi renkte yazar?",
+      a: "MK-360 modeli mavi mürekkep ile yazmaktadır.",
     },
     {
-      q: "Kalemin gövdesi metal mi?",
-      a: "Evet. Ürün dayanıklı metal gövde yapısına sahiptir.",
+      q: "Kalemin ölçüleri nedir?",
+      a: "MK-360 metal kalemin ölçüleri 140 x Ø13 mm'dir.",
     },
     {
       q: "Üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Lazer baskı, UV baskı veya tampon baskı teknikleri ile firma logosu uygulanabilir.",
+      a: "Evet. Firma logosu veya marka adı lazer baskı ile uygulanabilir. Baskı alanı 40 x 5,5 mm'dir.",
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Lacivert, siyah ve pembe renk seçenekleri stok durumuna bağlı olarak sunulmaktadır.",
+      a: "Gold ve siyah renk seçenekleri listelenmektedir. Seçilen rengin güncel stok durumu sipariş öncesinde teyit edilir.",
+    },
+    {
+      q: "Minimum sipariş adedi nedir?",
+      a: "Minimum sipariş miktarı teklif aşamasında teyit edilir. Koli ve kutu adetleri 500/50 olup ambalaj bilgisidir.",
     },
     {
       q: "Bu ürün hangi amaçlarla tercih edilir?",
-      a: "Fuarlar, toplantılar, çalışan hediyeleri ve kurumsal tanıtım kampanyaları için ideal bir seçenektir.",
+      a: "Fuarlar, toplantılar, müşteri ve çalışan hediyeleri ile kurumsal tanıtım kampanyalarında kullanılabilir.",
     },
   ],
 },
@@ -36659,33 +36662,31 @@ Promosyon plastik kalem PLS-370, uygun fiyatı ve logo baskıya uygun tasarımı
 {
   id: "p335",
   slug: "promosyon-plastik-kalem-pls-380",
-  title: "Promosyon Plastik Kalem PLS-380 | Yerli Üretim Logo Baskılı Kalem",
-  price: 7.20,
+  title: "Promosyon Plastik Kalem PLS-380 | Logo Baskılı Kapaklı Jel Kalem",
+  price: 13.20,
   category: "Kalem",
-  image: "/products/promosyon-plastik-kalem-pls-380.jpg",
-  gallery: ["/products/promosyon-plastik-kalem-pls-380.jpg"],
+  image: "/products/promosyon-plastik-kalem-pls-380-v2.jpg",
+  gallery: ["/products/promosyon-plastik-kalem-pls-380-v2.jpg"],
 
   shortDesc:
-    "Promosyon plastik kalem PLS-380, beyaz gövdesi, renkli klips seçenekleri ve logo baskıya uygun yüzeyi ile kurumsal tanıtımlar için tercih edilen yerli üretim ekonomik promosyon kalem modelidir.",
+    "Promosyon plastik kalem PLS-380, kapaklı mekanizması ve jel refiliyle yerli üretim bir modeldir. UV veya tampon logo baskılı toplu sipariş için teklif alın.",
 
   longDesc: `
-Yerli Üretim Beyaz Gövdeli Logo Baskılı Promosyon Kalem
+Yerli Üretim Kapaklı Jel Promosyon Kalem PLS-380
 
-Promosyon plastik kalem PLS-380, beyaz gövdesi ve farklı renklerde sunulan klips detayları ile dikkat çeken şık bir promosyon kalem modelidir. Temiz ve sade görünümü sayesinde logo baskının öne çıkmasını sağlar ve kurumsal promosyon çalışmalarında etkili bir tanıtım ürünü olarak kullanılır.
+Promosyon plastik kalem PLS-380, kapaklı mekanizması ve jel refiliyle günlük yazı ihtiyaçlarında kullanılabilecek yerli üretim bir kalem modelidir. Farklı gövde renkleriyle kurumsal tanıtımlar, fuarlar ve toplu promosyon çalışmaları için değerlendirilebilir.
 
-Promosyon kalemler, markanızı müşterilerinizin günlük yaşamına taşımanın en ekonomik yollarından biridir. Kalem üzerine uygulanan logo baskı sayesinde firmanızın adı ve logosu uzun süre görünür kalır. Bu durum marka bilinirliğinin artmasına ve reklam etkisinin kalıcı olmasına katkı sağlar.
+Logo baskılı promosyon kalemler, firma adının günlük kullanımda görünür olmasına yardımcı olur. PLS-380 üzerine marka adı, firma logosu veya kurumsal mesaj UV baskı ya da tampon baskı yöntemiyle uygulanabilir.
 
-PLS-380 modeli basmalı mekanizmaya sahiptir. Günlük kullanıma uygun yapısı ile ofislerde, eğitim kurumlarında, seminerlerde, fuarlarda ve çeşitli organizasyonlarda rahatlıkla kullanılabilir. Beyaz gövde üzerine yapılan baskılar oldukça net ve dikkat çekici görünür.
-
-Yerli üretim olan bu model, toplu dağıtımlar için uygun maliyetli ve kullanışlı bir çözümdür. Renkli klips seçenekleri sayesinde firmanızın kurumsal renklerine uygun tercihler yapılabilir.
+PLS-380 kapaklı bir modeldir. Jel refili ve plastik gövdesiyle ofislerde, eğitim kurumlarında, seminerlerde ve etkinliklerde kullanılabilir. Baskı tasarımı, seçilen gövde rengi ve uygulama alanı dikkate alınarak hazırlanır.
 
 NEDEN PROMOSYON PLASTİK KALEM PLS-380 TERCİH EDİLMELİ?
-• Beyaz gövde üzerinde net logo baskı
-• Basmalı mekanizma
-• Renkli klips seçenekleri
+• Jel refil
+• Kapaklı mekanizma
+• Farklı gövde renkleri
 • Yerli üretim
-• Hafif ve kullanışlı tasarım
-• Ekonomik promosyon kalem çözümü
+• UV ve tampon logo baskısına uygunluk
+• Kurumsal toplu siparişlerde kullanım
 
 KULLANIM ALANLARI
 • Kurumsal promosyon kampanyaları
@@ -36693,64 +36694,71 @@ KULLANIM ALANLARI
 • Eğitim kurumları
 • Ofis kullanımı
 • Müşteri ve bayi hediyeleri
-• Reklam ve pazarlama çalışmaları
+• Reklam ve tanıtım çalışmaları
 
 KİMLER İÇİN UYGUN?
 • Kurumsal firmalar
 • Reklam ajansları
 • Okullar ve üniversiteler
 • Sağlık kuruluşları
-• Turizm firmaları
-• Ekonomik promosyon ürün arayan işletmeler
+• Turizm ve organizasyon firmaları
 
 PROMOSYON PLASTİK KALEM FİYATLARI
-Promosyon plastik kalem fiyatları; sipariş miktarı, baskı yöntemi ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel avantajlı fiyat seçenekleri sunulmaktadır.
+Listelenen birim fiyat KDV ve baskı hariçtir. Logo baskılı toplu siparişlerde toplam tutar, sipariş miktarı ve baskı uygulamasına göre tekliflendirilir. Stok durumu ve teslim süresi sipariş öncesinde teyit edilir.
 
-RENK SEÇENEKLERİ
-• Kırmızı
-• Lacivert
-• Turkuaz
-• Mor
-• Sarı
-• Siyah
-• Turuncu
+RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
 • Yeşil
+• Turuncu
+• Turkuaz
+• Siyah
+• Lacivert
+• Kırmızı
+• Füme
 • Beyaz
+
+Renklerin bulunabilirliği güncel stok durumuna göre değişebilir. İstenen renk sipariş öncesinde teyit edilir.
 
 TEKNİK ÖZELLİKLER
 • Model: PLS-380
-• Ürün Türü: Promosyon Plastik Kalem
-• Mekanizma: Basmalı
+• Ürün Türü: Promosyon Plastik Jel Kalem
+• Refil: Jel
+• Mekanizma: Kapaklı
 • Üretim: Yerli Üretim
 • Baskı Türleri: UV Baskı / Tampon Baskı
+• Paket Adedi: 100
+• Koli Adedi: 2000
 • Kategori: Promosyon Kalem
 
 SİPARİŞ BİLGİSİ
-Promosyon plastik kalem siparişlerinde logo baskı tasarımı, stok durumu ve teslim süresi teklif aşamasında netleştirilmektedir.
+Minimum sipariş miktarı, logo uygulaması, stok durumu ve teslim süresi teklif aşamasında netleştirilir. Paket ve koli adetleri ambalaj bilgisidir; minimum sipariş miktarını belirtmez.
 
-Promosyon plastik kalem PLS-380, sade tasarımı ve beyaz gövdesi ile firmanızın logosunu ön plana çıkarır. Yerli üretim logo baskılı kalem siparişleri için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+Yerli üretim PLS-380 kapaklı jel kalem için sipariş adedinizi ve logonuzu paylaşarak teklif alabilir, WhatsApp üzerinden bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
     {
       q: "Promosyon plastik kalem PLS-380 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine UV baskı ve tampon baskı uygulanabilmektedir.",
+      a: "Evet. PLS-380 üzerine UV baskı veya tampon baskı ile logo uygulanabilir. Tasarım ve baskı alanı sipariş öncesinde değerlendirilir.",
     },
     {
       q: "PLS-380 yerli üretim midir?",
-      a: "Evet. Bu model yerli üretim promosyon kalem seçenekleri arasında yer almaktadır.",
+      a: "Evet. PLS-380 yerli üretim bir promosyon plastik kalem modelidir.",
     },
     {
-      q: "Bu model hangi mekanizmaya sahiptir?",
-      a: "PLS-380 basmalı mekanizmaya sahiptir ve günlük kullanım için pratik bir yapı sunar.",
+      q: "PLS-380 basmalı mı, kapaklı mı?",
+      a: "Güncel PLS-380 modeli kapaklı mekanizmaya ve jel refile sahiptir.",
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Kırmızı, lacivert, turkuaz, mor, sarı, siyah, turuncu, yeşil ve beyaz renk seçenekleri bulunmaktadır.",
+      a: "Yeşil, turuncu, turkuaz, siyah, lacivert, kırmızı, füme ve beyaz seçenekleri listelenmektedir. Güncel renk stokları sipariş öncesinde teyit edilir.",
+    },
+    {
+      q: "Paket ve koli adetleri nedir?",
+      a: "Paket adedi 100, koli adedi 2000'dir. Bunlar ambalaj bilgileridir; minimum sipariş miktarı ayrıca teyit edilir.",
     },
     {
       q: "Bu model hangi alanlarda tercih edilir?",
-      a: "Fuarlar, seminerler, kurumsal tanıtımlar, müşteri hediyeleri ve reklam kampanyalarında sık tercih edilmektedir.",
+      a: "Fuarlar, seminerler, kurumsal tanıtımlar, müşteri hediyeleri ve günlük ofis kullanımında değerlendirilebilir.",
     },
   ],
 },
@@ -60725,101 +60733,78 @@ Promosyon roller kalem RK-280, metal gövdesi, mavi mürekkep özelliği ve özg
 },
 {
   id: "p530",
-  slug: "promosyon-kalem-rk-290-renkli-plastik",
-  title: "Promosyon Kalem RK-290 | Renkli Plastik Gövde Ekonomik Model",
-  price: 44,
+  slug: "promosyon-kalem-rk-290",
+  title: "Promosyon Kalem RK-290 | Kurumsal Kalem ve Logo Baskı Teklifi",
+  price: 154,
   category: "Kalem",
-  image: "/products/promosyon-kalem-rk-290.jpg",
+  image: "/products/promosyon-kalem-rk-290-v2.jpg",
 
   shortDesc:
-    "Promosyon kalem RK-290, canlı renk seçenekleri ve ekonomik plastik gövdesi ile yüksek adetli dağıtımlar için ideal, dikkat çekici ve kullanışlı bir logo baskılı kalem modelidir.",
+    "Promosyon kalem RK-290, kurumsal hediye ve tanıtım çalışmalarında kullanılabilecek bir kalem modelidir. Toplu sipariş, güncel renk seçenekleri ve logo baskı uygulaması için teklif alabilirsiniz.",
 
   longDesc: `
-Promosyon kalem RK-290, canlı renk seçenekleri ve sade tasarımı ile geniş kitlelere ulaşmak isteyen firmalar için ideal bir kurumsal promosyon kalem modelidir. Ekonomik yapısı, hafif plastik gövdesi ve logo baskısına uygun yüzeyi sayesinde markasını düşük maliyetle etkili şekilde tanıtmak isteyen işletmeler için güçlü bir promosyon çözümü sunar.
+Promosyon Kalem RK-290 ile Kurumsal Tanıtım
 
-Siyah, mor, sarı, mavi, kırmızı, beyaz, turkuaz ve turuncu gibi dikkat çekici renk alternatifleri ile farklı marka kimliklerine uyum sağlar. Canlı renkler, ürünün fuar, etkinlik ve kampanya dağıtımlarında daha fazla dikkat çekmesine yardımcı olur. Renkli bir logo baskılı kalem, markanızın akılda kalıcılığını artırır.
+Promosyon kalem RK-290, müşteri ziyaretleri, iş toplantıları ve kurumsal hediye çalışmalarında değerlendirilebilecek bir kalem modelidir. Planladığınız sipariş adedini paylaşarak ürün ve baskı seçenekleri hakkında teklif alabilirsiniz.
 
-Plastik gövde yapısı, ürünü hafif ve kullanımı kolay hale getirir. Günlük not alma, eğitim faaliyetleri ve ofis kullanımı için uygun olan bu yapı, kullanıcıların kalemi uzun süre rahat şekilde kullanmasına imkan tanır. Hafif tasarım, yüksek adetli dağıtımlar için pratik bir avantaj sunar.
+LOGO BASKILI PROMOSYON KALEM SİPARİŞİ
 
-İnce ve ergonomik formu sayesinde elde rahat bir tutuş sağlar. Sade ve modern çizgileri ile hem estetik hem de işlevsel bir kullanım sunar. Kullanıcıların sık kullandığı bir promosyon kalem, markanızın uzun süre görünür kalmasına yardımcı olur.
+Firma logosu, marka adı veya kurumsal mesaj için uygun baskı yöntemi ve uygulama alanı sipariş öncesinde teyit edilir. Logonuzu paylaşmanız, tasarımın ürün üzerindeki uygulanabilirliğinin değerlendirilmesini sağlar.
 
-Promosyon kalem RK-290, pürüzsüz yüzeyi sayesinde firmanızın logosu, marka adı veya kurumsal mesajının kalem üzerine net ve okunabilir şekilde uygulanmasına imkan tanır. Böylece ürün, günlük kullanımın yanı sıra etkili bir reklam aracına dönüşür.
+ÜRÜN BİLGİLERİ
 
-Ekonomik yapısı sayesinde özellikle yüksek adetli kampanyalarda maliyet avantajı sağlar. Kurumsal promosyon kalem çalışmalarında bütçe dostu bir seçenek arayan firmalar için ideal bir tercihtir. Uygun maliyetli olması, geniş kitlelere ulaşmayı kolaylaştırır.
+• Model: RK-290
+• Ürün Tipi: Promosyon Kalem
+• Kategori: Kalem
 
-Promosyon kalem RK-290; fuarlar, seminerler, okul etkinlikleri, lansmanlar, bayi toplantıları ve reklam kampanyalarında rahatlıkla kullanılabilir. Ayrıca müşteri ziyaretlerinde ve günlük tanıtım faaliyetlerinde dağıtılabilecek pratik bir logo baskılı kalem alternatifidir.
-
-Promosyon kalem ürünleri arasında renk çeşitliliği ve ekonomik yapısıyla öne çıkan RK-290, markanızın daha fazla kişiye ulaşmasına yardımcı olur. Kullanışlı ve dikkat çekici bir ürün olması sayesinde reklam etkisini uzun süre devam ettirir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Kalem
-Kategori: Kalem
-Gövde: Plastik
-Yazım Türü: Tükenmez Kalem
-
-Renk Seçenekleri:
-- Siyah
-- Mor
-- Sarı
-- Mavi
-- Kırmızı
-- Beyaz
-- Turkuaz
-- Turuncu
-
-ÖNE ÇIKAN ÖZELLİKLER
-
-- Canlı ve dikkat çekici renk seçenekleri
-- Hafif plastik gövde
-- Ekonomik ve yüksek adetli dağıtımlara uygun
-- Ergonomik ince tasarım
-- Logo baskısına uygun pürüzsüz yüzey
-- Günlük kullanıma uygun yapı
-- Kurumsal promosyon çalışmalarına uygun
+Gövde malzemesi, yazım türü, mürekkep rengi ve ölçü bilgileri sipariş öncesinde teyit edilir. Renk seçenekleri ve bulunabilirlik güncel stok durumuna göre netleştirilir.
 
 KULLANIM ALANLARI
 
-- Fuar ve etkinlik dağıtımları
-- Toplu kampanya promosyonları
-- Okul ve eğitim kurumları
-- Ofis ve günlük kullanım
-- Müşteri ziyaretleri
-- Reklam ve pazarlama faaliyetleri
-- Bayi toplantıları
-- Lansman organizasyonları
+• Kurumsal müşteri hediyeleri
+• Fuar ve etkinlik tanıtımları
+• İş toplantıları ve seminerler
+• Ofis ve çalışan hediyeleri
+• Bayi ziyaretleri
+• Marka tanıtım kampanyaları
 
-PROMOSYON KALEM RK-290'IN AVANTAJLARI
+KURUMSAL PROMOSYON ÇALIŞMALARI
 
-Promosyon kalem RK-290, yalnızca yazı yazmak için kullanılan bir ürün değil, aynı zamanda markanızı geniş kitlelere ulaştıran etkili bir reklam aracıdır. Canlı renkleri sayesinde dikkat çeker ve müşterileriniz üzerinde olumlu bir ilk izlenim bırakır.
+Günlük kullanımda yer bulan kalemler, firma adının müşteriler ve iş ortakları tarafından hatırlanmasına yardımcı olabilir. RK-290 için hazırlanacak logo uygulaması, marka kimliğiniz ve ürünün baskıya uygun alanı birlikte değerlendirilerek planlanır.
 
-Ekonomik yapısı, özellikle yüksek adetli siparişlerde bütçe avantajı sağlar. Böylece markanızı daha fazla kişiye ulaştırabilir ve tanıtım çalışmalarınızı verimli şekilde sürdürebilirsiniz.
+PROMOSYON KALEM RK-290 FİYATI
 
-NEDEN LOGO BASKILI PROMOSYON KALEM TERCİH EDİLMELİ?
+Listelenen birim fiyat KDV ve baskı hariçtir. Logo baskılı toplu siparişlerde toplam bedel; sipariş adedi ve teyit edilen baskı uygulamasına göre tekliflendirilir.
 
-Logo baskılı kalemler, günlük yaşamda en sık kullanılan promosyon ürünlerinden biridir. Sürekli kullanılan bir kalem, markanızın kullanıcıların masa üzerinde her gün görünmesini sağlar.
+SİPARİŞ VE TESLİMAT
 
-Promosyon kalem RK-290 ise ekonomik fiyatı ve renk çeşitliliği ile bu avantajı daha da güçlü hale getirir. Uygun maliyetle etkili bir kurumsal promosyon kalem çözümü sunar.
+Minimum sipariş miktarı, renk seçenekleri, stok durumu ve teslim süresi teklif aşamasında netleştirilir. Siparişinizi planlarken ihtiyaç duyduğunuz adedi ve teslim tarihini paylaşabilirsiniz.
 
-SIKÇA SORULAN SORULAR
-
-1. Promosyon kalem RK-290 üzerine logo baskısı yapılabilir mi?
-Evet. Ürün logo baskısına uygundur ve firmanızın logosu kalem üzerine net şekilde uygulanabilir.
-
-2. Hangi renk seçenekleri bulunmaktadır?
-Siyah, mor, sarı, mavi, kırmızı, beyaz, turkuaz ve turuncu renk alternatifleri mevcuttur.
-
-3. Bu ürün yüksek adetli siparişler için uygun mu?
-Evet. Ekonomik yapısı sayesinde toplu promosyon dağıtımları için ideal bir seçenektir.
-
-4. Ürün hangi alanlarda kullanılabilir?
-Fuarlar, etkinlikler, eğitim kurumları, reklam kampanyaları ve günlük ofis kullanımı için uygundur.
-
-5. Kurumsal promosyon kalem olarak neden tercih edilmelidir?
-Ekonomik fiyatı, canlı renk seçenekleri ve logo baskısına uygun yapısı sayesinde markanızı geniş kitlelere etkili şekilde ulaştırır.
-
-Promosyon kalem RK-290, renkli plastik gövdesi, ekonomik yapısı ve logo baskısına uygun yüzeyi ile markanızı profesyonel biçimde tanıtmanıza yardımcı olan kullanışlı bir kurumsal promosyon kalem modelidir. Logo baskılı kalem arayan firmalar için bütçe dostu, dikkat çekici ve etkili bir tanıtım çözümü sunar.
+Promosyon kalem RK-290 için sipariş adedinizi ve logonuzu göndererek WhatsApp üzerinden teklif alabilirsiniz.
 `.trim(),
+
+  faq: [
+    {
+      q: "RK-290 için logo baskılı sipariş verebilir miyim?",
+      a: "Logonuzu ve sipariş adedinizi paylaşarak teklif alabilirsiniz. Ürüne uygun baskı yöntemi ve uygulama alanı sipariş öncesinde teyit edilir.",
+    },
+    {
+      q: "Hangi renk seçenekleri bulunmaktadır?",
+      a: "Güncel renk seçenekleri ve stok durumu teklif aşamasında teyit edilir.",
+    },
+    {
+      q: "Listelenen fiyata KDV ve baskı dahil mi?",
+      a: "Hayır. Listelenen birim fiyat KDV ve baskı hariçtir. Baskılı siparişin toplam tutarı ayrıca tekliflendirilir.",
+    },
+    {
+      q: "Minimum sipariş miktarı nedir?",
+      a: "Minimum sipariş miktarı, ürünün stok durumu ve baskı uygulamasına göre teklif aşamasında netleştirilir.",
+    },
+    {
+      q: "RK-290 hangi alanlarda kullanılabilir?",
+      a: "Müşteri ziyaretleri, fuarlar, iş toplantıları, çalışan hediyeleri ve kurumsal tanıtım çalışmalarında kullanılabilir.",
+    },
+  ],
 },
 {
   id: "p531",
