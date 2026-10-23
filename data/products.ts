@@ -26322,7 +26322,7 @@ RENK SEÇENEKLERİ
 • Turuncu
 • Yeşil
 • Turkuaz
-• Füme
+• Siyah
 • Lacivert
 • Kırmızı
 
@@ -26354,7 +26354,7 @@ Promosyon plastik kalem PLS-200, sade tasarımı ve ekonomik yapısı ile markan
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Beyaz, sarı, turuncu, yeşil, turkuaz, füme, lacivert ve kırmızı renk seçenekleri bulunmaktadır.",
+      a: "Beyaz, sarı, turuncu, yeşil, turkuaz, siyah, lacivert ve kırmızı renk seçenekleri bulunmaktadır.",
     },
     {
       q: "Bu model hangi alanlarda tercih edilir?",
@@ -26416,11 +26416,12 @@ RENK SEÇENEKLERİ
 • Sarı
 • Lacivert
 • Turuncu
-• Açık Yeşil
+• Fıstık Yeşili
 • Kırmızı
 • Siyah
-• Mavi
+• Turkuaz
 • Beyaz
+• Gri
 
 TEKNİK ÖZELLİKLER
 • Model: PLS-210
@@ -26450,7 +26451,7 @@ Promosyon plastik kalem PLS-210, renk çeşitliliği ve ekonomik yapısı ile ma
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Pembe, yeşil, mor, sarı, lacivert, turuncu, açık yeşil, kırmızı, siyah, mavi ve beyaz renk seçenekleri bulunmaktadır.",
+      a: "Pembe, yeşil, mor, sarı, lacivert, turuncu, fıstık yeşili, kırmızı, siyah, turkuaz, beyaz ve gri renk seçenekleri bulunmaktadır.",
     },
     {
       q: "Bu model hangi alanlarda tercih edilir?",
@@ -26511,7 +26512,7 @@ RENK SEÇENEKLERİ
 • Beyaz
 • Lacivert
 • Kırmızı
-• Siyah
+• Sarı
 
 TEKNİK ÖZELLİKLER
 • Model: PLS-220
@@ -26536,7 +26537,7 @@ Promosyon plastik kalem PLS-220, şık detayları ve profesyonel görünümü il
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Turuncu, yeşil, beyaz, lacivert, kırmızı ve siyah renk seçenekleri bulunmaktadır.",
+      a: "Turuncu, yeşil, beyaz, lacivert, kırmızı ve sarı renk seçenekleri bulunmaktadır.",
     },
     {
       q: "Bu model hangi alanlarda tercih edilir?",
@@ -26840,7 +26841,7 @@ Promosyon plastik kalem PLS-250, sade tasarımı ve renkli klips seçenekleri il
   id: "p242",
   slug: "promosyon-plastik-kalem-pls-260",
   title: "Promosyon Plastik Kalem PLS-260 | Logo Baskılı Promosyon Kalem",
-  price: 10.30,
+  price: 12.50,
   category: "Kalem",
   image: "/products/promosyon-plastik-kalem-pls-260.jpg",
   gallery: ["/products/promosyon-plastik-kalem-pls-260.jpg"],
@@ -26886,13 +26887,14 @@ Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumu
 RENK SEÇENEKLERİ
 • Beyaz
 • Açık Mavi
-• Açık Yeşil
+• Fıstık Yeşili
 • Yeşil
 • Siyah
 • Kırmızı
 • Lacivert
 • Turuncu
 • Sarı
+• Mor
 
 TEKNİK ÖZELLİKLER
 • Model: PLS-260
@@ -27372,7 +27374,6 @@ Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumu
 
 RENK SEÇENEKLERİ
 • Kırmızı
-• Açık Yeşil
 • Lacivert
 • Mor
 • Pembe
@@ -27478,8 +27479,8 @@ RENK SEÇENEKLERİ
 • Pembe
 • Kırmızı
 • Turuncu
-• Açık Gri
-• Koyu Gri
+• Gri
+• Füme
 • Siyah
 
 TEKNİK ÖZELLİKLER
@@ -27510,7 +27511,7 @@ Promosyon plastik kalem PLS-320, geniş beyaz klips alanı ve sade tasarımı il
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Beyaz, turkuaz, lacivert, mor, yeşil, sarı, pembe, kırmızı, turuncu, açık gri, koyu gri ve siyah renk seçenekleri bulunmaktadır.",
+      a: "Beyaz, turkuaz, lacivert, mor, yeşil, sarı, pembe, kırmızı, turuncu, gri, füme ve siyah renk seçenekleri bulunmaktadır.",
     },
     {
       q: "Bu model hangi alanlarda tercih edilir?",
@@ -27666,13 +27667,13 @@ RENK SEÇENEKLERİ
 • Turuncu
 • Beyaz
 • Turkuaz
-• Açık Gri
+• Gri
 • Mor
 • Lacivert
 • Yeşil
 • Sarı
 • Pembe
-• Koyu Gri
+• Füme
 • Kırmızı
 • Siyah
 
@@ -27763,7 +27764,7 @@ Promosyon plastik kalem fiyatları; baskı yöntemi, renk tercihi ve stok durumu
 RENK SEÇENEKLERİ
 • Turuncu
 • Mor
-• Açık Yeşil
+• Fıstık Yeşili
 • Gri
 • Sarı
 • Siyah
@@ -27801,7 +27802,7 @@ Promosyon plastik kalem PLS-350, geniş baskı alanı ve canlı renk seçenekler
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Turuncu, mor, açık yeşil, gri, sarı, siyah, kırmızı, lacivert, turkuaz, pembe ve yeşil renk seçenekleri bulunmaktadır.",
+      a: "Turuncu, mor, fıstık yeşili, gri, sarı, siyah, kırmızı, lacivert, turkuaz, pembe ve yeşil renk seçenekleri bulunmaktadır.",
     },
     {
       q: "Bu model hangi alanlarda tercih edilir?",
@@ -36574,7 +36575,7 @@ Promosyon plastik kalem fiyatları; sipariş miktarı, baskı yöntemi ve stok d
 
 RENK SEÇENEKLERİ
 • Beyaz
-• Gri
+• Siyah
 • Füme
 • Turkuaz
 • Lacivert
@@ -36612,7 +36613,7 @@ Promosyon plastik kalem PLS-370, uygun fiyatı ve logo baskıya uygun tasarımı
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Beyaz, gri, füme, turkuaz, lacivert, mor, yeşil, sarı, turuncu ve kırmızı renk seçenekleri bulunmaktadır.",
+      a: "Beyaz, siyah, füme, turkuaz, lacivert, mor, yeşil, sarı, turuncu ve kırmızı renk seçenekleri bulunmaktadır.",
     },
     {
       q: "Bu model neden tercih edilmektedir?",
@@ -37261,7 +37262,7 @@ PROMOSYON JEL KALEM FİYATLARI
 Promosyon jel kalem fiyatları; sipariş adedi, baskı yöntemi ve stok durumuna göre değişiklik gösterebilir. Yüksek adetli siparişlerde özel fiyat avantajları sunulmaktadır.
 
 RENK SEÇENEKLERİ
-• Mavi
+• Turkuaz
 • Lacivert
 • Kırmızı
 • Siyah
@@ -37299,7 +37300,7 @@ Promosyon plastik jel kalem PLS-440, akıcı yazım performansı ve premium gör
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Mavi, lacivert, kırmızı, siyah, beyaz ve turuncu renk seçenekleri bulunmaktadır.",
+      a: "Turkuaz, lacivert, kırmızı, siyah, beyaz ve turuncu renk seçenekleri bulunmaktadır.",
     },
     {
       q: "PLS-440 hangi alanlarda tercih edilir?",
@@ -37359,7 +37360,6 @@ Promosyon jel kalem fiyatları; sipariş adedi, baskı yöntemi ve stok durumuna
 
 RENK SEÇENEKLERİ
 • Beyaz
-• Gri
 • Füme
 • Siyah
 • Lacivert
@@ -37401,7 +37401,7 @@ Promosyon plastik jel kalem PLS-450, akıcı yazım performansı ve modern tasar
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Beyaz, gri, füme, siyah, lacivert, turkuaz, mor, pembe, turuncu, kırmızı, yeşil ve sarı renk seçenekleri bulunmaktadır.",
+      a: "Beyaz, füme, siyah, lacivert, turkuaz, mor, pembe, turuncu, kırmızı, yeşil ve sarı renk seçenekleri bulunmaktadır.",
     },
     {
       q: "PLS-450 hangi alanlarda tercih edilir?",
@@ -37460,7 +37460,7 @@ PROMOSYON JEL KALEM FİYATLARI
 Promosyon jel kalem fiyatları; sipariş adedi, baskı yöntemi ve stok durumuna göre değişiklik gösterebilir. Yüksek adetli siparişlerde özel fiyat avantajları sunulmaktadır.
 
 RENK SEÇENEKLERİ
-• Gri
+• Lacivert
 • Füme
 • Siyah
 • Turkuaz
@@ -37501,7 +37501,7 @@ Promosyon plastik jel kalem PLS-460, ultra akıcı yazım performansı ve premiu
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Gri, füme, siyah, turkuaz, yeşil, kırmızı, pembe, mor, sarı ve turuncu renk seçenekleri bulunmaktadır.",
+      a: "Lacivert, füme, siyah, turkuaz, yeşil, kırmızı, pembe, mor, sarı ve turuncu renk seçenekleri bulunmaktadır.",
     },
     {
       q: "PLS-460 hangi alanlarda tercih edilir?",
@@ -37561,11 +37561,12 @@ Promosyon jel kalem fiyatları; sipariş adedi, baskı yöntemi ve stok durumuna
 
 RENK SEÇENEKLERİ
 • Beyaz
-• Gri
+• Siyah
 • Füme
 • Turkuaz
 • Lacivert
-• Lila
+• Mor
+• Pembe
 • Yeşil
 • Sarı
 • Turuncu
@@ -37601,7 +37602,7 @@ Promosyon plastik jel kalem PLS-470, jumbo jel refili ve uzun ömürlü yazım p
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Beyaz, gri, füme, turkuaz, lacivert, lila, yeşil, sarı, turuncu ve kırmızı renk seçenekleri bulunmaktadır.",
+      a: "Beyaz, siyah, füme, turkuaz, lacivert, mor, pembe, yeşil, sarı, turuncu ve kırmızı renk seçenekleri bulunmaktadır.",
     },
     {
       q: "PLS-470 hangi alanlarda tercih edilir?",
@@ -37661,6 +37662,8 @@ Promosyon jel kalem fiyatları; sipariş adedi, baskı yöntemi ve stok durumuna
 
 RENK SEÇENEKLERİ
 • Siyah
+• Füme
+• Mor
 • Turkuaz
 • Lacivert
 • Yeşil
@@ -37698,7 +37701,7 @@ Promosyon plastik jel kalem PLS-480, jumbo jel refili ve premium yazım performa
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Siyah, turkuaz, lacivert, yeşil, sarı, turuncu ve kırmızı renk seçenekleri bulunmaktadır.",
+      a: "Siyah, füme, mor, turkuaz, lacivert, yeşil, sarı, turuncu ve kırmızı renk seçenekleri bulunmaktadır.",
     },
     {
       q: "PLS-480 hangi alanlarda tercih edilir?",
