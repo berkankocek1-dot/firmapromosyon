@@ -23971,7 +23971,6 @@ Promosyon metal kalem MK-410 ile markanızı modern, kaliteli ve prestijli bir p
   slug: "promosyon-metal-kalem-mk-420",
   title:
     "Promosyon Metal Kalem MK-420 | Ahşap Görünümlü Logo Baskılı Premium Kalem",
-  price: 163,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-420.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-420.jpg"],
@@ -24153,7 +24152,6 @@ Promosyon metal kalem MK-430, sade ve premium tasarımı ile markanızı profesy
   slug: "promosyon-metal-kalem-mk-440",
   title:
     "Promosyon Metal Kalem MK-440 | Rose Gold Detaylı Premium Metal Kalem",
-  price: 180,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-440.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-440.jpg"],
@@ -24243,7 +24241,6 @@ Promosyon metal kalem MK-440, rose gold detaylı lüks tasarımı ile markanız�
   slug: "promosyon-metal-kalem-mk-450",
   title:
     "Promosyon Metal Kalem MK-450 | Karbon Desenli Premium Metal Kalem",
-  price: 132,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-450.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-450.jpg"],
@@ -24334,7 +24331,6 @@ Promosyon metal kalem MK-450, karbon desenli premium tasarımı ile markanızı 
   slug: "promosyon-metal-kalem-mk-460",
   title:
     "Promosyon Metal Kalem MK-460 | Özel Dokulu Premium Metal Kalem",
-  price: 132,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-460.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-460.jpg"],
@@ -24424,7 +24420,6 @@ Promosyon metal kalem MK-460, özel dokulu premium tasarımı ile markanızı pr
   slug: "promosyon-metal-kalem-mk-470",
   title:
     "Promosyon Metal Kalem MK-470 | Mat Gövdeli Premium Metal Kalem",
-  price: 94,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-470.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-470.jpg"],
@@ -24689,7 +24684,6 @@ Promosyon metal kalem MK-490, premium tasarımı ve özel desenli metal gövdesi
   id: "p219",
   slug: "promosyon-metal-kalem-mk-500",
   title: "Promosyon Metal Kalem MK-500 | Gold Detaylı Premium Metal Kalem",
-  price: 166,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-500.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-500.jpg"],
@@ -24777,7 +24771,6 @@ Promosyon metal kalem MK-500, gold detaylı premium tasarımı ile markanızı p
   id: "p220",
   slug: "promosyon-metal-kalem-mk-510",
   title: "Promosyon Metal Kalem MK-510 | Işıklı Logo Baskılı Promosyon Kalem",
-  price: 108,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-510.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-510.jpg"],
@@ -43945,12 +43938,12 @@ Promosyon roller kalem RK-110, zarif siyah-gold tasarımı, akıcı yazım perfo
   image: "/products/promosyon-roller-kalem-rk-130.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-130, siyah gövdesi ve gold detaylarıyla dikkat çeken özel tasarımı sayesinde markanızı prestijli şekilde tanıtmanıza yardımcı olan şık ve kaliteli bir logo baskılı kalem modelidir.",
+    "Promosyon roller kalem RK-130, Gold, Silver ve Siyah renk seçenekleri ve şık detaylarıyla dikkat çeken özel tasarımı sayesinde markanızı prestijli şekilde tanıtmanıza yardımcı olan şık ve kaliteli bir logo baskılı kalem modelidir.",
 
   longDesc: `
-Promosyon roller kalem RK-130, klasik siyah gövdesi ile gold renkli dekoratif detayları bir araya getiren dikkat çekici tasarımı sayesinde kurumsal promosyon kalem kategorisinde premium görünümüyle öne çıkan özel modellerden biridir. Zarif çizgileri ve akıcı yazım performansı ile markasını kaliteli bir ürünle temsil etmek isteyen firmalar için etkili bir tanıtım çözümü sunar.
+Promosyon roller kalem RK-130, Gold, Silver ve Siyah seçeneklerini şık dekoratif detaylarla bir araya getiren dikkat çekici tasarımı sayesinde kurumsal promosyon kalem kategorisinde premium görünümüyle öne çıkan özel modellerden biridir. Zarif çizgileri ve akıcı yazım performansı ile markasını kaliteli bir ürünle temsil etmek isteyen firmalar için etkili bir tanıtım çözümü sunar.
 
-Kalemin alt bölümünde yer alan özel desenli gold detaylar, ürüne farklı ve seçkin bir görünüm kazandırır. Bu tasarım, ürünün sıradan promosyon kalem modellerinden ayrılmasını sağlar ve kurumsal hediye olarak daha prestijli bir algı oluşturur. Özellikle detaylara önem veren firmalar için güçlü bir kurumsal promosyon kalem alternatifidir.
+Gold seçeneğinin alt bölümünde yer alan özel desenli detaylar, ürüne farklı ve seçkin bir görünüm kazandırır. Bu tasarım, ürünün sıradan promosyon kalem modellerinden ayrılmasını sağlar ve kurumsal hediye olarak daha prestijli bir algı oluşturur. Özellikle detaylara önem veren firmalar için güçlü bir kurumsal promosyon kalem alternatifidir.
 
 Roller kalem mekanizması, yazı yazarken akıcı ve pürüzsüz bir deneyim sunar. Profesyonel kullanım için ideal olan bu yapı, toplantılarda, ofis çalışmalarında ve günlük not alma süreçlerinde yüksek konfor sağlar. Kullanıcıların severek kullandığı bir promosyon kalem, markanızın daha uzun süre görünür olmasına katkı sağlar.
 
@@ -43966,6 +43959,12 @@ Masa üzerinde uzun süre kullanılabilecek şık bir promosyon kalem olması, m
 
 Promosyon kalem ürünleri arasında premium segmentte yer alan RK-130, kaliteli görünümü ve etkili baskı uygulaması ile markanızın değerini yükseltmeye yardımcı olan seçkin bir logo baskılı kalem modelidir.
 
+RENK SEÇENEKLERİ
+
+- Gold
+- Silver
+- Siyah
+
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Roller Kalem
@@ -43979,7 +43978,7 @@ Baskı Alanı: 40 x 5,5 mm
 ÖNE ÇIKAN ÖZELLİKLER
 
 - Akıcı yazım sağlayan roller kalem yapısı
-- Siyah gövde ve gold detaylı şık tasarım
+- Gold, Silver ve Siyah renk seçenekleri
 - Mavi refil ile kullanıma hazır
 - Lazer baskıya uygun yüzey
 - Premium görünüm
@@ -44026,7 +44025,7 @@ Kurumsal promosyon çalışmaları, müşteri hediyeleri, fuar dağıtımları v
 5. Kurumsal promosyon kalem olarak neden tercih edilmelidir?
 Şık tasarımı, premium görünümü ve kaliteli yazım deneyimi sayesinde markanızı prestijli şekilde temsil eder.
 
-Promosyon roller kalem RK-130, dikkat çekici siyah-gold tasarımı, akıcı yazım performansı ve lazer baskıya uygun yapısı ile markanızı profesyonel biçimde tanıtmanıza yardımcı olan seçkin bir kurumsal promosyon kalem modelidir. Logo baskılı kalem arayan firmalar için prestijli ve etkili bir tanıtım çözümü sunar.
+Promosyon roller kalem RK-130, dikkat çekici tasarımı ve farklı renk seçenekleri, akıcı yazım performansı ve lazer baskıya uygun yapısı ile markanızı profesyonel biçimde tanıtmanıza yardımcı olan seçkin bir kurumsal promosyon kalem modelidir. Logo baskılı kalem arayan firmalar için prestijli ve etkili bir tanıtım çözümü sunar.
 `
 },
 {
@@ -44134,7 +44133,7 @@ Promosyon roller kalem RK-140, metal gövdesi, akıcı yazım performansı ve la
   longDesc: `
 Promosyon roller kalem RK-160, metal gövdesi ve sade çizgileriyle kurumsal promosyon kalem kategorisinde modern tasarımıyla öne çıkan özel modellerden biridir. Dayanıklı yapısı, akıcı yazım performansı ve lazer baskıya uygun yüzeyi sayesinde markanızı profesyonel bir ürünle tanıtmak isteyen firmalar için güçlü bir alternatiftir.
 
-Minimal ve şık tasarımı, ürüne zamansız bir görünüm kazandırır. Gri ve siyah tonlarının uyumlu kullanımı sayesinde hem klasik hem de çağdaş bir kurumsal promosyon kalem olarak değerlendirilebilir. Bu özellik, farklı sektörlerde faaliyet gösteren firmalar için geniş bir kullanım alanı sunar.
+Minimal ve şık tasarımı, ürüne zamansız bir görünüm kazandırır. Füme ve siyah renk seçenekleri sayesinde hem klasik hem de çağdaş bir kurumsal promosyon kalem olarak değerlendirilebilir. Bu özellik, farklı sektörlerde faaliyet gösteren firmalar için geniş bir kullanım alanı sunar.
 
 Metal gövde yapısı, kaleme sağlamlık ve premium bir his kazandırır. Kullanıcıların eline aldığında kalite algısı oluşturması, markanızın daha profesyonel ve güvenilir görünmesine katkı sağlar. Dayanıklı bir promosyon kalem, uzun süre kullanıldığı için logonuzun daha fazla kişiye ulaşmasına yardımcı olur.
 
@@ -44147,6 +44146,11 @@ Promosyon roller kalem RK-160, kurumsal etkinliklerde, fuarlarda, bayi toplantı
 Kurumsal promosyon kalem seçiminde ürünün estetik görünümü kadar günlük kullanıma uygun olması da önemlidir. RK-160 modeli, sağlam metal yapısı ve akıcı yazım performansı ile hem kullanışlı hem de prestijli bir tanıtım ürünü sunar.
 
 Promosyon kalem ürünleri arasında modern ve sade tasarımıyla dikkat çeken RK-160, marka bilinirliğini artırmak ve profesyonel bir izlenim bırakmak isteyen firmalar için ideal bir logo baskılı kalem seçeneğidir.
+
+RENK SEÇENEKLERİ
+
+- Siyah
+- Füme
 
 TEKNİK ÖZELLİKLER
 
@@ -60319,6 +60323,7 @@ Promosyon roller kalem RK-240, zarif tasarımı, metal detayları ve logo baskı
   slug: "promosyon-roller-kalem-rk-250-metal-detayli",
   title: "Promosyon Roller Kalem RK-250 | Metal Detaylı Şık Tasarım",
   
+  price: 140,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-250.jpg",
 
@@ -60328,11 +60333,11 @@ Promosyon roller kalem RK-240, zarif tasarımı, metal detayları ve logo baskı
   longDesc: `
 Promosyon roller kalem RK-250, modern çizgileri ve metal detayları ile kurumsal promosyon kalem kategorisinde şık görünümüyle öne çıkan özel modellerden biridir. Akıcı yazım performansı, dikkat çekici tasarımı ve logo baskısına uygun yapısı sayesinde markasını kaliteli bir ürünle temsil etmek isteyen firmalar için etkili bir tanıtım çözümü sunar.
 
-Beyaz, kırmızı, mavi ve siyah renk seçenekleri sayesinde farklı kurumsal kimliklere uyum sağlayabilir. Firmanızın marka renklerine uygun bir seçim yaparak promosyon çalışmalarınızı daha güçlü ve bütüncül hale getirebilirsiniz. Renk alternatifleri, farklı sektörlerde faaliyet gösteren firmalar için geniş kullanım esnekliği sunar.
+Kahverengi, kırmızı, lacivert, siyah ve turkuaz renk seçenekleri sayesinde farklı kurumsal kimliklere uyum sağlayabilir. Firmanızın marka renklerine uygun bir seçim yaparak promosyon çalışmalarınızı daha güçlü ve bütüncül hale getirebilirsiniz. Renk alternatifleri, farklı sektörlerde faaliyet gösteren firmalar için geniş kullanım esnekliği sunar.
 
 Metal klips ve halka detayları, ürüne daha prestijli ve profesyonel bir görünüm kazandırır. Bu tasarım unsurları, promosyon roller kalem RK-250'nin klasik kalem modellerinden ayrılmasını sağlar ve daha kaliteli bir kurumsal promosyon kalem algısı oluşturur. Şık bir logo baskılı kalem, müşterileriniz üzerinde olumlu bir ilk izlenim bırakmanıza yardımcı olur.
 
-Parlak yüzeyli gövde yapısı, estetik görünüm ile rahat kullanımı bir araya getirir. Ergonomik tasarımı sayesinde elde dengeli bir tutuş sağlar ve günlük kullanımda yüksek konfor sunar. Toplantılar, seminerler ve ofis çalışmaları sırasında sıkça kullanılabilecek bir promosyon kalem olması, markanızın sürekli görünür kalmasına katkı sağlar.
+Krem renkli kapak, renkli gövde ve altın tonlu detaylar ürünün tasarımını tamamlar. Ergonomik tasarımı sayesinde elde dengeli bir tutuş sağlar ve günlük kullanımda yüksek konfor sunar. Toplantılar, seminerler ve ofis çalışmaları sırasında sıkça kullanılabilecek bir promosyon kalem olması, markanızın sürekli görünür kalmasına katkı sağlar.
 
 Roller kalem mekanizması, akıcı ve pürüzsüz bir yazım deneyimi sunar. Kullanıcıların severek kullandığı bir kurumsal promosyon kalem, firmanızın logosunun uzun süre görünür kalmasına yardımcı olur ve reklam etkisini kalıcı hale getirir.
 
@@ -60346,21 +60351,22 @@ TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Roller Kalem
 Kategori: Kalem
-Gövde: Parlak Kaplama
+Tasarım: Krem Renkli Kapak ve Renkli Gövde
 Detaylar: Metal Klips ve Halka
 Yazım Türü: Roller Kalem
 
 Renk Seçenekleri:
-- Beyaz
+- Kahverengi
 - Kırmızı
-- Mavi
+- Lacivert
 - Siyah
+- Turkuaz
 
 ÖNE ÇIKAN ÖZELLİKLER
 
 - Metal detaylı şık tasarım
 - Akıcı yazım sağlayan roller kalem mekanizması
-- Parlak yüzeyli modern gövde
+- Krem renkli kapak ve altın tonlu detaylar
 - Logo baskısına uygun yüzey
 - Ergonomik kullanım
 - Farklı renk seçenekleri
@@ -60395,7 +60401,7 @@ SIKÇA SORULAN SORULAR
 Evet. Ürün logo baskısına uygundur ve firmanızın logosu kalem üzerine profesyonel şekilde uygulanabilir.
 
 2. Hangi renk seçenekleri bulunmaktadır?
-Beyaz, kırmızı, mavi ve siyah renk alternatifleri mevcuttur.
+Kahverengi, kırmızı, lacivert, siyah ve turkuaz renk alternatifleri mevcuttur.
 
 3. Metal detaylar ne avantaj sağlar?
 Kaleme daha şık ve premium bir görünüm kazandırarak kurumsal algıyı güçlendirir.
@@ -60784,7 +60790,7 @@ Promosyon kalem RK-290 için sipariş adedinizi ve logonuzu göndererek WhatsApp
   longDesc: `
 Promosyon roller kalem RK-300, sade çizgileri ve modern mat görünümlü tasarımı ile kurumsal promosyon kalem kategorisinde şıklığı ve işlevselliği bir araya getiren özel modellerden biridir. Lazer baskıya uygun yüzeyi, akıcı yazım performansı ve dikkat çekici renk seçenekleri sayesinde markasını kaliteli bir ürünle temsil etmek isteyen firmalar için etkili bir tanıtım çözümü sunar.
 
-Kırmızı, gri, mavi ve siyah renk seçenekleri ile farklı kurumsal kimliklere uyum sağlayabilir. Canlı ve modern renk alternatifleri, markanızın kurumsal görünümünü destekler ve tanıtım çalışmalarınızı daha dikkat çekici hale getirir. Firmanızın marka renklerine uygun bir seçim yaparak bütüncül bir kurumsal promosyon çalışması gerçekleştirebilirsiniz.
+Kırmızı, füme, lacivert, beyaz ve siyah renk seçenekleri ile farklı kurumsal kimliklere uyum sağlayabilir. Canlı ve modern renk alternatifleri, markanızın kurumsal görünümünü destekler ve tanıtım çalışmalarınızı daha dikkat çekici hale getirir. Firmanızın marka renklerine uygun bir seçim yaparak bütüncül bir kurumsal promosyon çalışması gerçekleştirebilirsiniz.
 
 Mat yüzeyli gövde tasarımı, kaleme modern ve sofistike bir görünüm kazandırır. Sade çizgileri sayesinde hem günlük kullanımda hem de kurumsal etkinliklerde profesyonel bir izlenim bırakır. Minimal tasarımı, promosyon roller kalem RK-300 modelini zamansız bir kurumsal promosyon kalem alternatifi haline getirir.
 
@@ -60807,8 +60813,9 @@ Yazım Türü: Roller Kalem
 
 Renk Seçenekleri:
 - Kırmızı
-- Gri
-- Mavi
+- Füme
+- Lacivert
+- Beyaz
 - Siyah
 
 ÖNE ÇIKAN ÖZELLİKLER
@@ -60850,7 +60857,7 @@ SIKÇA SORULAN SORULAR
 Evet. Ürün lazer baskıya uygundur ve firmanızın logosu kalem üzerine kalıcı olarak uygulanabilir.
 
 2. Hangi renk seçenekleri bulunmaktadır?
-Kırmızı, gri, mavi ve siyah renk alternatifleri mevcuttur.
+Kırmızı, füme, lacivert, beyaz ve siyah renk alternatifleri mevcuttur.
 
 3. Lazer baskının avantajı nedir?
 Baskının kalıcı olmasını sağlar ve profesyonel bir görünüm sunar.
@@ -61002,21 +61009,21 @@ Promosyon roller kalem RK-320 için güncel fiyat, ürün ve teslimat bilgilerin
   image: "/products/promosyon-roller-kalem-rk-330.jpg",
 
   shortDesc:
-    "Promosyon roller kalem RK-330, metal detayları ve modern renkli gövde tasarımı ile dikkat çeken şık bir logo baskılı roller kalem modelidir. Kurumsal promosyon, fuar ve prestijli müşteri hediyeleri için ideal bir seçimdir.",
+    "Promosyon roller kalem RK-330, metal detayları, gümüş tonlu gövdesi ve renkli kapak tasarımı ile dikkat çeken şık bir logo baskılı roller kalem modelidir. Kurumsal promosyon, fuar ve prestijli müşteri hediyeleri için ideal bir seçimdir.",
 
   longDesc: `
-Renkli Gövdeye Sahip Promosyon Roller Kalem ile Markanızı Prestijli Şekilde Tanıtın
+Renkli Kapaklı Promosyon Roller Kalem ile Markanızı Prestijli Şekilde Tanıtın
 
-Promosyon roller kalem RK-330, parlak metal kapak bölümü ve canlı renk seçenekleri ile kurumsal tanıtımlarda profesyonel bir görünüm sunan özel bir roller kalem modelidir. Şık tasarımı, akıcı yazım performansı ve logo baskıya uygun yüzeyi sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünleri arasında yer alır.
+Promosyon roller kalem RK-330, gümüş tonlu gövdesi ve renkli kapak seçenekleri ile kurumsal tanıtımlarda profesyonel bir görünüm sunan özel bir roller kalem modelidir. Şık tasarımı, akıcı yazım performansı ve logo baskıya uygun yüzeyi sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünleri arasında yer alır.
 
 Modern ve dikkat çekici tasarımı ile öne çıkan bu model, müşterilerinize, iş ortaklarınıza ve çalışanlarınıza sunabileceğiniz prestijli bir kurumsal hediyedir. Roller kalem mekanizması sayesinde yumuşak ve akıcı bir yazım deneyimi sunar. Günlük kullanımda sıkça tercih edilmesi, firmanızın logosunun sürekli görünmesini sağlar.
 
-Metal detaylı üst kapak ve klips bölümü ürüne premium bir görünüm kazandırırken, renkli alt gövde tasarımı ürünü daha canlı ve etkileyici hale getirir. Kırmızı, mavi ve koyu gri gibi farklı renk seçenekleri ile kurumsal kimliğinize uygun tercihler yapabilirsiniz.
+Renkli kapak, gümüş tonlu gövde ve metal klips detayları ürünün tasarımını tamamlar. Siyah, lacivert ve kırmızı kapak seçenekleri ile kurumsal kimliğinize uygun tercihler yapabilirsiniz.
 
 Logo baskıya uygun pürüzsüz gövde yüzeyi sayesinde firmanızın logosu, marka adı veya reklam mesajı lazer baskı, UV baskı veya tampon baskı teknikleri ile net ve kalıcı şekilde uygulanabilir. Böylece ürün hem işlevsel hem de güçlü bir reklam aracı haline gelir.
 
 NEDEN PROMOSYON ROLLER KALEM RK-330 TERCİH EDİLMELİ?
-• Şık ve modern renkli gövde tasarımı
+• Gümüş tonlu gövde ve renkli kapak tasarımı
 • Premium görünüm sunan metal detaylar
 • Akıcı ve konforlu roller kalem yazım sistemi
 • Logo baskıya uygun geniş baskı alanı
@@ -61052,7 +61059,7 @@ BASKI SEÇENEKLERİ
 • Tampon Baskı
 
 RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-Kırmızı, Mavi, Koyu Gri ve farklı renk alternatifleri.
+Siyah, Lacivert ve Kırmızı.
 
 MİNİMUM SİPARİŞ BİLGİSİ
 • Baskısız minimum sipariş: 50 adet
@@ -61063,7 +61070,7 @@ TEKNİK ÖZELLİKLER
 • Model: RK-330
 • Ürün Türü: Promosyon Roller Kalem
 • Yazım Tipi: Roller Kalem
-• Gövde Yapısı: Renkli gövde
+• Gövde Yapısı: Gümüş tonlu gövde
 • Detaylar: Metal kapak ve metal klips
 • Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
 • Kullanım Alanı: Kurumsal promosyon ve günlük kullanım
@@ -61086,7 +61093,7 @@ Promosyon roller kalem RK-330, estetik tasarımı, kaliteli yazım performansı 
     },
     {
       q: "Renk seçenekleri mevcut mu?",
-      a: "Evet. Kırmızı, mavi ve koyu gri gibi farklı renk seçenekleri bulunmaktadır. Renkler stok durumuna göre değişebilir.",
+      a: "Evet. Siyah, lacivert ve kırmızı kapak seçenekleri bulunmaktadır. Renkler stok durumuna göre değişebilir.",
     },
     {
       q: "Roller kalem ile tükenmez kalem arasındaki fark nedir?",

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { products } from "@/data/products";
+import { visibleProducts as products } from "@/data/productVisibility";
 import KalemProductGrid from "./KalemProductGrid";
 
 const SITE_URL = "https://www.firmapromosyon.com";

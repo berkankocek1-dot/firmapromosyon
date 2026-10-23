@@ -1,8 +1,9 @@
-﻿import Image from "next/image";
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { products } from "@/data/products";
+import { isProductVisible } from "@/data/productVisibility";
 import { getCategoryLandingHref } from "@/data/categoryLandingPages";
 
 const SITE_URL = "https://www.firmapromosyon.com";
@@ -73,7 +74,7 @@ export default async function ProductPage({ params }: PageProps) {
   const categoryHref = getCategoryHref(product.category);
 
   const categoryProducts = products.filter(
-    (item) => item.category === product.category
+    (item) => item.category === product.category && (item.slug === product.slug || isProductVisible(item))
   );
   const currentProductIndex = categoryProducts.findIndex(
     (item) => item.slug === product.slug
@@ -133,7 +134,7 @@ export default async function ProductPage({ params }: PageProps) {
     url: productUrl,
     brand: { "@type": "Brand", name: "FirmaPromosyon" },
     category: product.category,
-    ...(product.price
+    ...(product.price && isProductVisible(product)
       ? {
           offers: {
             "@type": "Offer",
@@ -204,7 +205,7 @@ export default async function ProductPage({ params }: PageProps) {
             {product.title}
           </h1>
 
-          {product.price && (
+          {product.price && isProductVisible(product) && (
             <div className="mt-4 border-l-4 border-gray-900 pl-4">
               <div className="text-sm font-medium text-gray-500">
                 Ürün Fiyatı
@@ -225,6 +226,13 @@ export default async function ProductPage({ params }: PageProps) {
           )}
 
           <p className="mt-4 text-gray-900">{product.shortDesc}</p>
+
+          {!isProductVisible(product) && (
+            <div className="mt-4 rounded-xl border border-amber-200 bg-amber-50 p-4 text-sm text-gray-900">
+              Bu ürün şu anda temin edilemiyor. Yeniden temin durumu ve
+              alternatif modeller için bizimle iletişime geçebilirsiniz.
+            </div>
+          )}
 
           <div className="mt-5 flex flex-wrap gap-2">
             <Link

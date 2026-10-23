@@ -1,7 +1,7 @@
 import { Suspense } from "react";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { products } from "@/data/products";
+import { visibleProducts as products } from "@/data/productVisibility";
 import ProductsClient from "./ProductsClient";
 
 const SITE_URL = "https://www.firmapromosyon.com";

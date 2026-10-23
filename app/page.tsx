@@ -1,6 +1,6 @@
-﻿import Link from "next/link";
+import Link from "next/link";
 import Image from "next/image";
-import { products } from "@/data/products";
+import { visibleProducts as products } from "@/data/productVisibility";
 import { getCategoryLandingHref } from "@/data/categoryLandingPages";
 import { categories } from "@/data/categories";
 import type { Metadata } from "next";
