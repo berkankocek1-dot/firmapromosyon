@@ -3,6 +3,12 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   async redirects() {
     return [
+      {"source":"/urunler/promosyon-kalem-usb-bellek-ub-290","destination":"/urunler/promosyon-kalem-usb-bellek-ub-200","permanent":true},
+      {"source":"/urunler/promosyon-usb-bellek-ub-200","destination":"/urunler/promosyon-usb-bellek-ub-460","permanent":true},
+      {"source":"/urunler/promosyon-usb-bellek-ub-300","destination":"/urunler/promosyon-metal-usb-bellek-ub-140","permanent":true},
+      {"source":"/urunler/promosyon-usb-bellek-ub-320","destination":"/urunler/promosyon-anahtarlikli-usb-bellek-ub-170","permanent":true},
+      {"source":"/urunler/promosyon-kutulu-vip-set-ub-330","destination":"/urunler/promosyon-kutulu-vip-set-ub-270","permanent":true},
+
       {
         source: "/urunler/promosyon-metal-kalem-mk-440",
         destination: "/urunler/promosyon-metal-kalem-mk-210",

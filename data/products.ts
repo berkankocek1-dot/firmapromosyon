@@ -3163,8 +3163,7 @@ Promosyon anahtarlık AN-116, modern metal tasarımı, kaliteli deri detayları 
 
   slug: "promosyon-usb-bellek-ub-140",
 
-  title:
-    "Promosyon USB Bellek UB-140 | Kristal Gövdeli Logo Baskılı USB Bellek",
+  title: "Promosyon Kristal USB Bellek UB-140 | Logo Baskılı USB Bellek",
 
   category: "USB Bellek",
 
@@ -3519,33 +3518,33 @@ Promosyon metal USB bellek UB-160, dayanıklı metal gövdesi, logo baskısına 
   slug: "promosyon-usb-bellek-ub-170",
 
   title:
-    "Promosyon USB Bellek UB-170 | Sürgülü Logo Baskılı USB Bellek",
+    "Promosyon Sürgülü Işıklı USB Bellek",
 
   category: "USB Bellek",
 
   image: "/products/promosyon-usb-bellek-ub-170.jpg",
 
   shortDesc:
-    "Promosyon USB bellek UB-170, sürgülü mekanizmalı kompakt tasarımı ve farklı renk seçenekleri ile kurumsal promosyon çalışmalarında tercih edilen logo baskılı USB bellek modelidir.",
+    "Promosyon USB bellek , sürgülü mekanizmalı kompakt tasarımı ve farklı renk seçenekleri ile kurumsal promosyon çalışmalarında tercih edilen logo baskılı USB bellek modelidir.",
 
   longDesc: `
-Promosyon USB bellek UB-170, sürgülü mekanizmaya sahip modern tasarımı ve pratik kullanımı ile kurumsal promosyon ürünleri arasında öne çıkan modellerden biridir. Kapaksız yapısı sayesinde kullanım kolaylığı sunarken kompakt tasarımı ile günlük kullanıma uygun etkili bir tanıtım ürünü olarak tercih edilmektedir.
+Promosyon USB bellek , sürgülü mekanizmaya sahip modern tasarımı ve pratik kullanımı ile kurumsal promosyon ürünleri arasında öne çıkan modellerden biridir. Kapaksız yapısı sayesinde kullanım kolaylığı sunarken kompakt tasarımı ile günlük kullanıma uygun etkili bir tanıtım ürünü olarak tercih edilmektedir.
 
 Promosyon USB bellekler, dijital veri paylaşımını kolaylaştırırken markaların kurumsal kimliğini müşterilerine ve iş ortaklarına ulaştırmasına yardımcı olur. Firma katalogları, sunum dosyaları, eğitim materyalleri, fiyat listeleri, tanıtım videoları ve çeşitli dijital dokümanlar USB bellek içerisinde sunularak profesyonel bir tanıtım aracı olarak kullanılabilir.
 
-UB-170 modeli, sürgülü açma-kapama mekanizması sayesinde USB bağlantı noktasını koruyan kullanışlı bir yapıya sahiptir. Kapaksız tasarım sayesinde kapak kaybetme riski bulunmaz ve ürün günlük kullanımda daha pratik hale gelir. Ergonomik yapısı sayesinde cepte, çantada veya ofis kullanımında rahatlıkla taşınabilir.
+modeli, sürgülü açma-kapama mekanizması sayesinde USB bağlantı noktasını koruyan kullanışlı bir yapıya sahiptir. Kapaksız tasarım sayesinde kapak kaybetme riski bulunmaz ve ürün günlük kullanımda daha pratik hale gelir. Ergonomik yapısı sayesinde cepte, çantada veya ofis kullanımında rahatlıkla taşınabilir.
 
-Promosyon USB Bellek UB-170 farklı kapasite seçenekleri ile üretilebilmektedir. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir. Bazı üretim seçeneklerinde USB 3.0 desteği de sunulabilmektedir.
+Promosyon USB Bellek farklı kapasite seçenekleri ile üretilebilmektedir. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir. Bazı üretim seçeneklerinde USB 3.0 desteği de sunulabilmektedir.
 
-UB-170 modeli siyah, kırmızı, mavi ve farklı renk alternatifleriyle üretilebilmektedir. Kurumsal kimliğinize uygun renk seçimi yapılarak markanızın daha güçlü şekilde temsil edilmesi sağlanabilir.
+modeli siyah, kırmızı, mavi ve farklı renk alternatifleriyle üretilebilmektedir. Kurumsal kimliğinize uygun renk seçimi yapılarak markanızın daha güçlü şekilde temsil edilmesi sağlanabilir.
 
 Logo baskılı promosyon USB bellek siparişlerinde firma logosu, marka adı veya kurumsal mesaj ürün üzerine uygulanabilir. Ürünün geniş baskı alanı sayesinde markanız daha görünür hale gelir ve kullanıcı ürünü her kullandığında reklam etkisi devam eder.
 
 Kurumsal promosyon ürünleri arasında sürgülü USB bellek modelleri kullanım kolaylığı ve modern görünümü nedeniyle sıklıkla tercih edilmektedir. Fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek etkili promosyon ürünlerinden biridir.
 
-Uzun süre kullanılabilen yapısı sayesinde marka bilinirliğini destekleyen UB-170 modeli, işlevsel özellikleri ve şık görünümü ile kurumsal hediye çalışmalarında da tercih edilmektedir.
+Uzun süre kullanılabilen yapısı sayesinde marka bilinirliğini destekleyen modeli, işlevsel özellikleri ve şık görünümü ile kurumsal hediye çalışmalarında da tercih edilmektedir.
 
-NEDEN PROMOSYON USB BELLEK UB-170 TERCİH EDİLMELİ?
+NEDEN PROMOSYON USB BELLEK TERCİH EDİLMELİ?
 • Sürgülü açma-kapama mekanizması
 • Kapaksız pratik kullanım
 • Logo baskısına uygun geniş yüzey
@@ -3593,7 +3592,6 @@ SİPARİŞ BİLGİSİ
 • Güncel stok ve termin bilgisi teklif aşamasında paylaşılır
 
 TEKNİK ÖZELLİKLER
-• Model: UB-170
 • Ürün Türü: Promosyon USB Bellek
 • Tasarım: Sürgülü USB Bellek
 • Gövde: Plastik Gövde
@@ -3604,20 +3602,20 @@ TEKNİK ÖZELLİKLER
 • Renk Seçenekleri: Siyah, Kırmızı, Mavi ve Diğer Renkler
 • Kategori: USB Bellek
 
-Promosyon USB bellek UB-170, sürgülü mekanizmalı tasarımı, logo baskısına uygun yüzeyi ve farklı renk seçenekleri ile markanızı profesyonel şekilde temsil eden etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
+Promosyon USB bellek , sürgülü mekanizmalı tasarımı, logo baskısına uygun yüzeyi ve farklı renk seçenekleri ile markanızı profesyonel şekilde temsil eden etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
     {
-      q: "Promosyon USB bellek UB-170 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. UB-170 modeli üzerine firma logosu, marka adı veya kurumsal mesaj uygulanabilmektedir.",
+      q: "Promosyon USB bellek üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. modeli üzerine firma logosu, marka adı veya kurumsal mesaj uygulanabilmektedir.",
     },
     {
-      q: "UB-170 modeli sürgülü mekanizmaya sahip midir?",
+      q: "modeli sürgülü mekanizmaya sahip midir?",
       a: "Evet. Ürün sürgülü açma-kapama sistemi ile tasarlanmıştır ve USB girişini korumaya yardımcı olur.",
     },
     {
-      q: "UB-170 modelinde farklı renk seçenekleri bulunur mu?",
+      q: "modelinde farklı renk seçenekleri bulunur mu?",
       a: "Evet. Siyah, kırmızı, mavi ve farklı renk alternatifleri bulunabilmektedir.",
     },
     {
@@ -27932,34 +27930,34 @@ Promosyon anahtar USB bellek UB-190, özgün anahtar tasarımı, logo baskısın
 {
   id: "p253",
 
-  slug: "promosyon-usb-bellek-ub-200",
+  slug: "promosyon-usb-bellek-ub-460",
 
   title:
-    "Promosyon USB Bellek UB-200 | Metal Gövdeli Logo Baskılı USB Bellek",
+    "Promosyon Işıklı Logo USB Bellek UB-460 | 32 GB ve 64 GB",
 
   category: "USB Bellek",
 
   image: "/products/promosyon-usb-bellek-ub-200.jpg",
 
   shortDesc:
-    "Promosyon USB bellek UB-200, metal gövdeli ince tasarımı, lazer ve UV baskıya uygun yüzeyi ile kurumsal promosyon çalışmalarında tercih edilen logo baskılı USB bellek modelidir.",
+    "Promosyon USB bellek UB-460, metal gövdeli ince tasarımı, lazer ve UV baskıya uygun yüzeyi ile kurumsal promosyon çalışmalarında tercih edilen logo baskılı USB bellek modelidir.",
 
   longDesc: `
-Promosyon USB bellek UB-200, ince ve modern metal gövde tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan şık depolama çözümlerinden biridir. Minimalist görünümü, dayanıklı yapısı ve profesyonel tasarımı sayesinde markaların kurumsal tanıtım çalışmalarında tercih ettiği etkili promosyon ürünleri arasında yer almaktadır.
+Promosyon USB bellek UB-460, ince ve modern metal gövde tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan şık depolama çözümlerinden biridir. Minimalist görünümü, dayanıklı yapısı ve profesyonel tasarımı sayesinde markaların kurumsal tanıtım çalışmalarında tercih ettiği etkili promosyon ürünleri arasında yer almaktadır.
 
 Promosyon USB bellekler, dijital veri paylaşımı ile marka tanıtımını bir araya getiren en işlevsel promosyon ürünlerinden biridir. Firma katalogları, sunum dosyaları, fiyat listeleri, tanıtım videoları, eğitim içerikleri ve çeşitli dijital dokümanlar USB bellek içerisinde müşterilere ve iş ortaklarına profesyonel şekilde ulaştırılabilir.
 
-UB-200 modeli, ince metal gövde yapısı sayesinde kolay taşınabilir ve günlük kullanım için idealdir. Üst kısmında bulunan taşıma boşluğu sayesinde anahtarlık, yaka kartı veya taşıma aparatları ile birlikte kullanılabilir. Kompakt yapısı sayesinde çanta, cep veya evrak çantalarında rahatlıkla taşınabilir.
+UB-460 modeli, ince metal gövde yapısı sayesinde kolay taşınabilir ve günlük kullanım için idealdir. Üst kısmında bulunan taşıma boşluğu sayesinde anahtarlık, yaka kartı veya taşıma aparatları ile birlikte kullanılabilir. Kompakt yapısı sayesinde çanta, cep veya evrak çantalarında rahatlıkla taşınabilir.
 
-Promosyon USB Bellek UB-200; 32 GB ve 64 GB kapasite seçenekleriyle sunulmaktadır. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir. Yüksek depolama kapasitesi sayesinde kataloglar, sunumlar ve çeşitli dijital içerikler güvenli şekilde saklanabilir.
+Promosyon USB Bellek UB-460; 32 GB ve 64 GB kapasite seçenekleriyle sunulmaktadır. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir. Yüksek depolama kapasitesi sayesinde kataloglar, sunumlar ve çeşitli dijital içerikler güvenli şekilde saklanabilir.
 
 Logo baskılı promosyon USB bellek siparişlerinde firma logosu, marka adı veya kurumsal mesaj ürün üzerine uygulanabilir. Ürün yüzeyi lazer baskı ve UV baskı uygulamalarına uygun olup markanızın profesyonel şekilde sergilenmesine olanak tanır. Böylece kullanıcı ürünü her kullandığında markanız görünür olmaya devam eder.
 
-Kurumsal promosyon ürünleri arasında metal USB bellek modelleri şık görünümleri ve uzun ömürlü yapıları sayesinde sıklıkla tercih edilmektedir. UB-200 modeli özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek etkili promosyon ürünlerinden biridir.
+Kurumsal promosyon ürünleri arasında metal USB bellek modelleri şık görünümleri ve uzun ömürlü yapıları sayesinde sıklıkla tercih edilmektedir. UB-460 modeli özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek etkili promosyon ürünlerinden biridir.
 
-Modern tasarımı ve kullanışlı yapısı sayesinde marka görünürlüğünü destekleyen UB-200 modeli, kurumsal tanıtım çalışmalarında profesyonel ve prestijli bir çözüm sunmaktadır.
+Modern tasarımı ve kullanışlı yapısı sayesinde marka görünürlüğünü destekleyen UB-460 modeli, kurumsal tanıtım çalışmalarında profesyonel ve prestijli bir çözüm sunmaktadır.
 
-NEDEN PROMOSYON USB BELLEK UB-200 TERCİH EDİLMELİ?
+NEDEN PROMOSYON USB BELLEK UB-460 TERCİH EDİLMELİ?
 • İnce ve şık metal gövde tasarımı
 • Logo baskısına uygun geniş yüzey
 • Lazer ve UV baskı uygulanabilir
@@ -28008,7 +28006,7 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-• Model: UB-200
+• Model: UB-460
 • Ürün Türü: Promosyon USB Bellek
 • Tasarım: İnce Metal Gövde
 • Gövde: Metal Gövde
@@ -28019,24 +28017,24 @@ TEKNİK ÖZELLİKLER
 • Kullanım Alanı: Kurumsal ve Günlük Kullanım
 • Kategori: USB Bellek
 
-Promosyon USB bellek UB-200, ince metal gövde tasarımı, logo baskısına uygun yüzeyi ve yüksek depolama kapasitesi seçenekleri ile markanızı profesyonel şekilde temsil eden etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
+Promosyon USB bellek UB-460, ince metal gövde tasarımı, logo baskısına uygun yüzeyi ve yüksek depolama kapasitesi seçenekleri ile markanızı profesyonel şekilde temsil eden etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
     {
-      q: "Promosyon USB bellek UB-200 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. UB-200 modeli üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı veya UV baskı yöntemiyle uygulanabilmektedir.",
+      q: "Promosyon USB bellek UB-460 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. UB-460 modeli üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı veya UV baskı yöntemiyle uygulanabilmektedir.",
     },
     {
-      q: "Promosyon USB bellek UB-200 hangi kapasite seçeneklerine sahiptir?",
+      q: "Promosyon USB bellek UB-460 hangi kapasite seçeneklerine sahiptir?",
       a: "Ürün 32 GB ve 64 GB kapasite seçenekleriyle sunulmaktadır.",
     },
     {
-      q: "UB-200 modeli hangi baskı tekniklerini destekler?",
+      q: "UB-460 modeli hangi baskı tekniklerini destekler?",
       a: "Ürün üzerine lazer baskı ve UV baskı uygulamaları yapılabilmektedir.",
     },
     {
-      q: "UB-200 modeli metal gövdeli midir?",
+      q: "UB-460 modeli metal gövdeli midir?",
       a: "Evet. Ürün dayanıklı metal gövde yapısına sahiptir ve uzun ömürlü kullanım sunar.",
     },
     {
@@ -28788,106 +28786,28 @@ Promosyon deri USB bellek UB-260, şık deri kaplama tasarımı, anahtarlıklı 
   slug: "promosyon-usb-bellek-ub-270",
 
   title:
-    "Promosyon USB Bellek UB-270 | Işıklı Logo Baskılı LED USB Bellek",
+    "Promosyon İnce Gövdeli Işıklı USB Bellek",
 
   category: "USB Bellek",
 
   image: "/products/promosyon-usb-bellek-ub-270.jpg",
 
   shortDesc:
-    "Promosyon USB bellek UB-270, LED ışıklı logo özelliği, ince tasarımı ve logo baskıya uygun yüzeyi ile kurumsal promosyon çalışmalarında dikkat çeken USB bellek modelidir.",
+    "Promosyon USB bellek, LED ışıklı logo özelliği, ince tasarımı ve logo baskıya uygun yüzeyi ile kurumsal promosyon çalışmalarında dikkat çeken USB bellek modelidir.",
 
-  longDesc: `
-Promosyon USB bellek UB-270, LED ışıklı logo teknolojisi ve modern tasarımı ile kurumsal promosyon ürünleri arasında dikkat çeken yenilikçi modellerden biridir. USB bağlantısı sırasında ışıklı şekilde görünen logo uygulaması sayesinde markaların daha etkili ve akılda kalıcı tanıtım yapmasına yardımcı olur.
-
-Promosyon USB bellekler, dijital veri paylaşımı ile marka tanıtımını bir araya getiren en etkili promosyon ürünlerinden biridir. Firma katalogları, sunum dosyaları, eğitim içerikleri, fiyat listeleri, tanıtım videoları ve çeşitli dijital dokümanlar USB bellek içerisinde müşterilere ve iş ortaklarına profesyonel şekilde ulaştırılabilir.
-
-UB-270 modeli, ince ve kompakt yapısı sayesinde kolay taşınabilir bir kullanım sunmaktadır. Modern tasarımı ve düz yüzeyi sayesinde hem estetik görünüm hem de geniş baskı alanı avantajı sağlar.
-
-Bu modelin en dikkat çekici özelliği LED logo uygulamasıdır. USB bağlantısı yapıldığında ürün üzerinde bulunan logo veya marka görseli ışıklı şekilde görünür hale gelir. Bu teknoloji markanızın daha profesyonel ve prestijli şekilde algılanmasına katkı sağlar.
-
-Promosyon USB Bellek UB-270 farklı kapasite seçenekleri ile üretilebilmektedir. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir. Dijital kataloglar, sunum dosyaları ve çeşitli kurumsal içerikler güvenli şekilde taşınabilir ve paylaşılabilir.
-
-Logo baskılı promosyon USB bellek siparişlerinde firma logosu, marka adı veya kurumsal mesaj ürün üzerine uygulanabilir. Ürün yüzeyi lazer baskı ve UV baskı uygulamalarına uygun olup LED ışıklı logo teknolojisi ile birlikte kullanılabilmektedir.
-
-Kurumsal promosyon ürünleri arasında LED logolu USB bellek modelleri, teknolojik görünümleri ve dikkat çekici yapıları nedeniyle özellikle teknoloji firmaları, yazılım şirketleri ve kurumsal markalar tarafından tercih edilmektedir.
-
-UB-270 modeli; fuarlar, seminerler, lansman organizasyonları, bayi toplantıları ve özel müşteri etkinliklerinde dağıtılabilecek etkili bir promosyon ürünüdür. Işıklı logo özelliği sayesinde marka bilinirliğini artırırken rakiplerinden ayrışan bir tanıtım çözümü sunar.
-
-NEDEN PROMOSYON USB BELLEK UB-270 TERCİH EDİLMELİ?
-• LED ışıklı logo teknolojisi
-• Dikkat çekici modern tasarım
-• Logo baskısına uygun geniş yüzey
-• Lazer ve UV baskı uygulanabilir
-• Kompakt ve taşınabilir yapı
-• Kurumsal promosyonlar için ideal
-• Teknolojik ve prestijli görünüm
-• Günlük kullanıma uygundur
-• Marka görünürlüğünü artırır
-• Uzun süreli reklam etkisi sağlar
-
-KULLANIM ALANLARI
-• Kurumsal promosyon dağıtımları
-• Fuar ve etkinlik organizasyonları
-• Lansman organizasyonları
-• Bayi toplantıları
-• Eğitim ve seminer çalışmaları
-• Dijital katalog dağıtımları
-• Teknoloji firmalarının tanıtımları
-• Reklam ve tanıtım kampanyaları
-• Müşteri ve çalışan hediyeleri
-• Marka farkındalık çalışmaları
-
-KİMLER İÇİN UYGUN?
-• Kurumsal firmalar
-• Teknoloji şirketleri
-• Yazılım firmaları
-• Reklam ajansları
-• Eğitim kurumları
-• Finans kuruluşları
-• Danışmanlık şirketleri
-• Organizasyon firmaları
-• Üretim işletmeleri
-• Kamu kurumları
-
-PROMOSYON USB BELLEK FİYATLARI
-Promosyon USB bellek fiyatları; tercih edilen kapasite, LED logo uygulaması, baskı yöntemi, sipariş miktarı ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-• LED ışıklı logo uygulanabilir
-• Logo ve marka uygulamaları yapılabilir
-• Lazer baskı ve UV baskı uygulanabilir
-• Baskılı veya baskısız sipariş verilebilir
-• Toplu kurumsal siparişlere uygundur
-• Güncel stok ve termin bilgisi teklif aşamasında paylaşılır
-
-TEKNİK ÖZELLİKLER
-
-• Model: UB-270
-• Ürün Türü: Promosyon USB Bellek
-• Tasarım: İnce Gövdeli LED USB Bellek
-• Bağlantı: USB 2.0
-• Kapasite: Siparişe Göre Değişebilir
-• Baskı Türleri: Lazer Baskı, UV Baskı
-• Logo Özelliği: LED Işıklı Logo Uygulaması
-• Baskı: Logo Baskılı veya Baskısız
-• Kullanım Alanı: Kurumsal ve Günlük Kullanım
-• Kategori: USB Bellek
-
-Promosyon USB bellek UB-270, LED ışıklı logo teknolojisi, modern tasarımı ve logo baskısına uygun yüzeyi ile markanızı profesyonel şekilde temsil eden yenilikçi bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "\nPromosyon USB bellek, LED ışıklı logo teknolojisi ve modern tasarımı ile kurumsal promosyon ürünleri arasında dikkat çeken yenilikçi modellerden biridir. USB bağlantısı sırasında ışıklı şekilde görünen logo uygulaması sayesinde markaların daha etkili ve akılda kalıcı tanıtım yapmasına yardımcı olur.\n\nPromosyon USB bellekler, dijital veri paylaşımı ile marka tanıtımını bir araya getiren en etkili promosyon ürünlerinden biridir. Firma katalogları, sunum dosyaları, eğitim içerikleri, fiyat listeleri, tanıtım videoları ve çeşitli dijital dokümanlar USB bellek içerisinde müşterilere ve iş ortaklarına profesyonel şekilde ulaştırılabilir.\n\n modeli, ince ve kompakt yapısı sayesinde kolay taşınabilir bir kullanım sunmaktadır. Modern tasarımı ve düz yüzeyi sayesinde hem estetik görünüm hem de geniş baskı alanı avantajı sağlar.\n\nBu modelin en dikkat çekici özelliği LED logo uygulamasıdır. USB bağlantısı yapıldığında ürün üzerinde bulunan logo veya marka görseli ışıklı şekilde görünür hale gelir. Bu teknoloji markanızın daha profesyonel ve prestijli şekilde algılanmasına katkı sağlar.\n\nPromosyon USB Bellek farklı kapasite seçenekleri ile üretilebilmektedir. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir. Dijital kataloglar, sunum dosyaları ve çeşitli kurumsal içerikler güvenli şekilde taşınabilir ve paylaşılabilir.\n\nLogo baskılı promosyon USB bellek siparişlerinde firma logosu, marka adı veya kurumsal mesaj ürün üzerine uygulanabilir. Ürün yüzeyi lazer baskı ve UV baskı uygulamalarına uygun olup LED ışıklı logo teknolojisi ile birlikte kullanılabilmektedir.\n\nKurumsal promosyon ürünleri arasında LED logolu USB bellek modelleri, teknolojik görünümleri ve dikkat çekici yapıları nedeniyle özellikle teknoloji firmaları, yazılım şirketleri ve kurumsal markalar tarafından tercih edilmektedir.\n\n modeli; fuarlar, seminerler, lansman organizasyonları, bayi toplantıları ve özel müşteri etkinliklerinde dağıtılabilecek etkili bir promosyon ürünüdür. Işıklı logo özelliği sayesinde marka bilinirliğini artırırken rakiplerinden ayrışan bir tanıtım çözümü sunar.\n\nNEDEN PROMOSYON USB BELLEK TERCİH EDİLMELİ?\n• LED ışıklı logo teknolojisi\n• Dikkat çekici modern tasarım\n• Logo baskısına uygun geniş yüzey\n• Lazer ve UV baskı uygulanabilir\n• Kompakt ve taşınabilir yapı\n• Kurumsal promosyonlar için ideal\n• Teknolojik ve prestijli görünüm\n• Günlük kullanıma uygundur\n• Marka görünürlüğünü artırır\n• Uzun süreli reklam etkisi sağlar\n\nKULLANIM ALANLARI\n• Kurumsal promosyon dağıtımları\n• Fuar ve etkinlik organizasyonları\n• Lansman organizasyonları\n• Bayi toplantıları\n• Eğitim ve seminer çalışmaları\n• Dijital katalog dağıtımları\n• Teknoloji firmalarının tanıtımları\n• Reklam ve tanıtım kampanyaları\n• Müşteri ve çalışan hediyeleri\n• Marka farkındalık çalışmaları\n\nKİMLER İÇİN UYGUN?\n• Kurumsal firmalar\n• Teknoloji şirketleri\n• Yazılım firmaları\n• Reklam ajansları\n• Eğitim kurumları\n• Finans kuruluşları\n• Danışmanlık şirketleri\n• Organizasyon firmaları\n• Üretim işletmeleri\n• Kamu kurumları\n\nPROMOSYON USB BELLEK FİYATLARI\nPromosyon USB bellek fiyatları; tercih edilen kapasite, LED logo uygulaması, baskı yöntemi, sipariş miktarı ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal teklif seçenekleri sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n• LED ışıklı logo uygulanabilir\n• Logo ve marka uygulamaları yapılabilir\n• Lazer baskı ve UV baskı uygulanabilir\n• Baskılı veya baskısız sipariş verilebilir\n• Toplu kurumsal siparişlere uygundur\n• Güncel stok ve termin bilgisi teklif aşamasında paylaşılır\n\nTEKNİK ÖZELLİKLER\n\n• Ürün Türü: Promosyon USB Bellek\n• Tasarım: İnce Gövdeli LED USB Bellek\n• Bağlantı: USB 2.0\n• Kapasite: Siparişe Göre Değişebilir\n• Baskı Türleri: Lazer Baskı, UV Baskı\n• Logo Özelliği: LED Işıklı Logo Uygulaması\n• Baskı: Logo Baskılı veya Baskısız\n• Kullanım Alanı: Kurumsal ve Günlük Kullanım\n• Kategori: USB Bellek\n\nPromosyon USB bellek, LED ışıklı logo teknolojisi, modern tasarımı ve logo baskısına uygun yüzeyi ile markanızı profesyonel şekilde temsil eden yenilikçi bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.\n".trim(),
 
   faq: [
     {
-      q: "Promosyon USB bellek UB-270 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. UB-270 modeli üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı ve UV baskı yöntemleriyle uygulanabilmektedir.",
+      q: "Promosyon USB bellek üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. modeli üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı ve UV baskı yöntemleriyle uygulanabilmektedir.",
     },
     {
-      q: "UB-270 modelinin LED logo özelliği nedir?",
+      q: "modelinin LED logo özelliği nedir?",
       a: "USB bağlantısı yapıldığında ürün üzerinde bulunan logo veya marka görseli ışıklı şekilde görünür hale gelir.",
     },
     {
-      q: "UB-270 modelinde hangi baskı teknikleri uygulanabilir?",
+      q: "modelinde hangi baskı teknikleri uygulanabilir?",
       a: "Ürün üzerine lazer baskı ve UV baskı uygulamaları yapılabilmektedir.",
     },
     {
@@ -28910,109 +28830,32 @@ Promosyon USB bellek UB-270, LED ışıklı logo teknolojisi, modern tasarımı 
   slug: "promosyon-usb-bellek-ub-280",
 
   title:
-    "Promosyon USB Bellek UB-280 | Döner Kapaklı Logo Baskılı USB Bellek",
+    "Promosyon Kompakt Döner Kapaklı USB Bellek",
 
   category: "USB Bellek",
 
   image: "/products/promosyon-usb-bellek-ub-280.jpg",
 
   shortDesc:
-    "Promosyon USB bellek UB-280, döner kapaklı kompakt tasarımı, lazer baskıya uygun yüzeyi ve taşınabilir yapısı ile kurumsal promosyon çalışmalarında tercih edilen USB bellek modelidir.",
+    "Promosyon USB bellek, döner kapaklı kompakt tasarımı, lazer baskıya uygun yüzeyi ve taşınabilir yapısı ile kurumsal promosyon çalışmalarında tercih edilen USB bellek modelidir.",
 
-  longDesc: `
-Promosyon USB bellek UB-280, döner kapaklı kompakt tasarımı ve kullanışlı yapısı ile kurumsal promosyon ürünleri arasında tercih edilen modellerden biridir. Minimal ölçüleri sayesinde kolay taşınabilir olması ve günlük kullanıma uygun yapısı ile marka tanıtımında etkili bir çözüm sunmaktadır.
-
-Promosyon USB bellekler, dijital veri paylaşımı ile marka görünürlüğünü bir araya getiren en işlevsel promosyon ürünlerinden biridir. Firma katalogları, sunum dosyaları, fiyat listeleri, eğitim materyalleri, tanıtım videoları ve çeşitli dijital içerikler USB bellek içerisinde müşterilere ve iş ortaklarına profesyonel şekilde ulaştırılabilir.
-
-UB-280 modeli, döner kapak mekanizması sayesinde USB bağlantı bölümünü koruyan pratik bir yapıya sahiptir. Kapak kaybolma riskini ortadan kaldırırken ürünün daha uzun ömürlü kullanılmasına yardımcı olur. Kompakt tasarımı sayesinde cepte, çantada veya evrak çantasında rahatlıkla taşınabilir.
-
-Dayanıklı gövde yapısı sayesinde günlük kullanıma uygun olan UB-280 modeli, sade görünümü ile hem ekonomik hem de profesyonel bir promosyon ürünü olarak öne çıkmaktadır. Özellikle geniş kitlelere yönelik tanıtım çalışmaları için ideal bir tercihtir.
-
-Logo baskılı promosyon USB bellek siparişlerinde firma logosu, marka adı veya kurumsal mesaj ürün üzerine uygulanabilir. Lazer baskı uygulaması sayesinde uzun ömürlü ve profesyonel görünümlü marka çalışmaları yapılabilmektedir.
-
-Promosyon USB bellek UB-280 modeli, fuarlar, seminerler, lansman organizasyonları, bayi toplantıları ve kurumsal etkinliklerde dağıtılabilecek etkili bir tanıtım ürünüdür. Kullanıcı tarafından sürekli taşınabilmesi sayesinde marka görünürlüğünü uzun süre destekler.
-
-Kurumsal promosyon ürünleri arasında ekonomik ve kullanışlı yapısıyla öne çıkan UB-280 modeli, markanızı profesyonel şekilde temsil eden etkili promosyon çözümlerinden biridir.
-
-NEDEN PROMOSYON USB BELLEK UB-280 TERCİH EDİLMELİ?
-• Döner kapaklı pratik tasarım
-• Kompakt ve taşınabilir yapı
-• Lazer baskıya uygun yüzey
-• Dayanıklı kullanım avantajı
-• Günlük kullanıma uygundur
-• Kurumsal promosyonlar için ideal
-• Profesyonel görünüm sunar
-• Ekonomik promosyon çözümüdür
-• Marka görünürlüğünü artırır
-• Uzun süreli reklam etkisi sağlar
-
-KULLANIM ALANLARI
-• Kurumsal promosyon dağıtımları
-• Fuar ve etkinlik organizasyonları
-• Bayi toplantıları
-• Lansman organizasyonları
-• Eğitim ve seminer çalışmaları
-• Dijital katalog dağıtımları
-• Müşteri ve çalışan hediyeleri
-• Reklam ve tanıtım kampanyaları
-• Teknoloji firmaları
-• Kurumsal pazarlama faaliyetleri
-
-KİMLER İÇİN UYGUN?
-• Kurumsal firmalar
-• Teknoloji şirketleri
-• Yazılım firmaları
-• Reklam ajansları
-• Eğitim kurumları
-• Danışmanlık şirketleri
-• Finans kuruluşları
-• Organizasyon firmaları
-• Üretim işletmeleri
-• Kamu kurumları
-
-PROMOSYON USB BELLEK FİYATLARI
-Promosyon USB bellek fiyatları; tercih edilen kapasite, baskı uygulaması, sipariş miktarı ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-• Logo ve marka uygulamaları yapılabilir
-• Lazer baskı uygulanabilir
-• Baskılı veya baskısız sipariş verilebilir
-• Toplu kurumsal siparişlere uygundur
-• Kapasite seçenekleri siparişe göre belirlenebilir
-• Güncel stok ve termin bilgisi teklif aşamasında paylaşılır
-
-TEKNİK ÖZELLİKLER
-
-• Model: UB-280
-• Ürün Türü: Promosyon USB Bellek
-• Tasarım: Döner Kapaklı USB Bellek
-• Bağlantı: USB 2.0
-• Ürün Ölçüsü: 40 x 14 mm
-• Baskı Türü: Lazer Baskı
-• Baskı Alanı: 28 x 9 mm
-• Baskı: Logo Baskılı veya Baskısız
-• Kullanım Alanı: Kurumsal ve Günlük Kullanım
-• Koli İçi Adet: 100
-• Kategori: USB Bellek
-
-Promosyon USB bellek UB-280, döner kapaklı kompakt tasarımı, lazer baskıya uygun yüzeyi ve taşınabilir yapısı ile markanızı profesyonel şekilde temsil eden etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "\nPromosyon USB bellek, döner kapaklı kompakt tasarımı ve kullanışlı yapısı ile kurumsal promosyon ürünleri arasında tercih edilen modellerden biridir. Minimal ölçüleri sayesinde kolay taşınabilir olması ve günlük kullanıma uygun yapısı ile marka tanıtımında etkili bir çözüm sunmaktadır.\n\nPromosyon USB bellekler, dijital veri paylaşımı ile marka görünürlüğünü bir araya getiren en işlevsel promosyon ürünlerinden biridir. Firma katalogları, sunum dosyaları, fiyat listeleri, eğitim materyalleri, tanıtım videoları ve çeşitli dijital içerikler USB bellek içerisinde müşterilere ve iş ortaklarına profesyonel şekilde ulaştırılabilir.\n\n modeli, döner kapak mekanizması sayesinde USB bağlantı bölümünü koruyan pratik bir yapıya sahiptir. Kapak kaybolma riskini ortadan kaldırırken ürünün daha uzun ömürlü kullanılmasına yardımcı olur. Kompakt tasarımı sayesinde cepte, çantada veya evrak çantasında rahatlıkla taşınabilir.\n\nDayanıklı gövde yapısı sayesinde günlük kullanıma uygun olan modeli, sade görünümü ile hem ekonomik hem de profesyonel bir promosyon ürünü olarak öne çıkmaktadır. Özellikle geniş kitlelere yönelik tanıtım çalışmaları için ideal bir tercihtir.\n\nLogo baskılı promosyon USB bellek siparişlerinde firma logosu, marka adı veya kurumsal mesaj ürün üzerine uygulanabilir. Lazer baskı uygulaması sayesinde uzun ömürlü ve profesyonel görünümlü marka çalışmaları yapılabilmektedir.\n\nPromosyon USB bellek modeli, fuarlar, seminerler, lansman organizasyonları, bayi toplantıları ve kurumsal etkinliklerde dağıtılabilecek etkili bir tanıtım ürünüdür. Kullanıcı tarafından sürekli taşınabilmesi sayesinde marka görünürlüğünü uzun süre destekler.\n\nKurumsal promosyon ürünleri arasında ekonomik ve kullanışlı yapısıyla öne çıkan modeli, markanızı profesyonel şekilde temsil eden etkili promosyon çözümlerinden biridir.\n\nNEDEN PROMOSYON USB BELLEK TERCİH EDİLMELİ?\n• Döner kapaklı pratik tasarım\n• Kompakt ve taşınabilir yapı\n• Lazer baskıya uygun yüzey\n• Dayanıklı kullanım avantajı\n• Günlük kullanıma uygundur\n• Kurumsal promosyonlar için ideal\n• Profesyonel görünüm sunar\n• Ekonomik promosyon çözümüdür\n• Marka görünürlüğünü artırır\n• Uzun süreli reklam etkisi sağlar\n\nKULLANIM ALANLARI\n• Kurumsal promosyon dağıtımları\n• Fuar ve etkinlik organizasyonları\n• Bayi toplantıları\n• Lansman organizasyonları\n• Eğitim ve seminer çalışmaları\n• Dijital katalog dağıtımları\n• Müşteri ve çalışan hediyeleri\n• Reklam ve tanıtım kampanyaları\n• Teknoloji firmaları\n• Kurumsal pazarlama faaliyetleri\n\nKİMLER İÇİN UYGUN?\n• Kurumsal firmalar\n• Teknoloji şirketleri\n• Yazılım firmaları\n• Reklam ajansları\n• Eğitim kurumları\n• Danışmanlık şirketleri\n• Finans kuruluşları\n• Organizasyon firmaları\n• Üretim işletmeleri\n• Kamu kurumları\n\nPROMOSYON USB BELLEK FİYATLARI\nPromosyon USB bellek fiyatları; tercih edilen kapasite, baskı uygulaması, sipariş miktarı ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal teklif seçenekleri sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n• Logo ve marka uygulamaları yapılabilir\n• Lazer baskı uygulanabilir\n• Baskılı veya baskısız sipariş verilebilir\n• Toplu kurumsal siparişlere uygundur\n• Kapasite seçenekleri siparişe göre belirlenebilir\n• Güncel stok ve termin bilgisi teklif aşamasında paylaşılır\n\nTEKNİK ÖZELLİKLER\n\n• Ürün Türü: Promosyon USB Bellek\n• Tasarım: Döner Kapaklı USB Bellek\n• Bağlantı: USB 2.0\n• Ürün Ölçüsü: 40 x 14 mm\n• Baskı Türü: Lazer Baskı\n• Baskı Alanı: 28 x 9 mm\n• Baskı: Logo Baskılı veya Baskısız\n• Kullanım Alanı: Kurumsal ve Günlük Kullanım\n• Koli İçi Adet: 100\n• Kategori: USB Bellek\n\nPromosyon USB bellek, döner kapaklı kompakt tasarımı, lazer baskıya uygun yüzeyi ve taşınabilir yapısı ile markanızı profesyonel şekilde temsil eden etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.\n".trim(),
 
   faq: [
     {
-      q: "Promosyon USB bellek UB-280 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. UB-280 modeli üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı yöntemiyle uygulanabilmektedir.",
+      q: "Promosyon USB bellek üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. modeli üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı yöntemiyle uygulanabilmektedir.",
     },
     {
-      q: "UB-280 modelinin baskı alanı ne kadardır?",
+      q: " modelinin baskı alanı ne kadardır?",
       a: "Ürünün baskı alanı 28 x 9 mm ölçülerindedir.",
     },
     {
-      q: "UB-280 modeli hangi ölçülere sahiptir?",
+      q: " modeli hangi ölçülere sahiptir?",
       a: "Ürün 40 x 14 mm ölçülerindedir ve kompakt yapısıyla kolay taşınabilir.",
     },
     {
-      q: "UB-280 modelinin döner kapaklı tasarımı ne avantaj sağlar?",
+      q: " modelinin döner kapaklı tasarımı ne avantaj sağlar?",
       a: "Döner kapak mekanizması USB bağlantı kısmını korur ve kapağın kaybolma riskini ortadan kaldırır.",
     },
     {
@@ -29028,36 +28871,36 @@ Promosyon USB bellek UB-280, döner kapaklı kompakt tasarımı, lazer baskıya 
 {
   id: "p262",
 
-  slug: "promosyon-kalem-usb-bellek-ub-290",
+  slug: "promosyon-kalem-usb-bellek-ub-200",
 
   title:
-    "Promosyon Kalem USB Bellek UB-290 | Logo Baskılı USB Kalem Bellek",
+    "Promosyon Kalem USB Bellek UB-200 | Logo Baskılı USB Kalem Bellek",
 
   category: "USB Bellek",
 
   image: "/products/promosyon-kalem-usb-bellek-ub-290.jpg",
 
   shortDesc:
-    "Promosyon kalem USB bellek UB-290, kalem ve USB bellek fonksiyonunu bir arada sunan şık tasarımı, farklı kapasite seçenekleri ve logo baskıya uygun yüzeyi ile kurumsal promosyon çalışmalarında tercih edilen özel bir modeldir.",
+    "Promosyon kalem USB bellek UB-200, kalem ve USB bellek fonksiyonunu bir arada sunan şık tasarımı, farklı kapasite seçenekleri ve logo baskıya uygun yüzeyi ile kurumsal promosyon çalışmalarında tercih edilen özel bir modeldir.",
 
   longDesc: `
-Promosyon kalem USB bellek UB-290, yazım aracı ve USB bellek özelliklerini tek üründe birleştiren yenilikçi tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan modellerden biridir. Hem günlük kullanımda pratiklik sağlaması hem de marka görünürlüğünü artırması sayesinde firmaların tanıtım çalışmalarında tercih ettiği etkili promosyon ürünleri arasında yer almaktadır.
+Promosyon kalem USB bellek UB-200, yazım aracı ve USB bellek özelliklerini tek üründe birleştiren yenilikçi tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan modellerden biridir. Hem günlük kullanımda pratiklik sağlaması hem de marka görünürlüğünü artırması sayesinde firmaların tanıtım çalışmalarında tercih ettiği etkili promosyon ürünleri arasında yer almaktadır.
 
 Promosyon USB bellekler, dijital veri paylaşımı ve marka tanıtımını aynı üründe bir araya getiren en işlevsel promosyon ürünlerinden biridir. Firma katalogları, sunum dosyaları, eğitim içerikleri, fiyat listeleri, tanıtım videoları ve çeşitli dijital dokümanlar USB bellek içerisinde güvenli şekilde saklanabilir ve paylaşılabilir.
 
-UB-290 modeli, şık metal detaylara sahip kalem tasarımı ile profesyonel bir görünüm sunmaktadır. Kalem kapağı içerisinde gizlenen USB bellek bölümü sayesinde ürün hem yazım aracı hem de veri depolama çözümü olarak kullanılabilmektedir. Bu çok fonksiyonlu yapı ürünü kullanıcılar için daha değerli hale getirirken markanızın daha uzun süre görünür olmasına katkı sağlar.
+UB-200 modeli, şık metal detaylara sahip kalem tasarımı ile profesyonel bir görünüm sunmaktadır. Kalem kapağı içerisinde gizlenen USB bellek bölümü sayesinde ürün hem yazım aracı hem de veri depolama çözümü olarak kullanılabilmektedir. Bu çok fonksiyonlu yapı ürünü kullanıcılar için daha değerli hale getirirken markanızın daha uzun süre görünür olmasına katkı sağlar.
 
-Promosyon Kalem USB Bellek UB-290; 8 GB, 16 GB, 32 GB, 64 GB ve 128 GB kapasite seçenekleriyle sunulabilmektedir. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir. Farklı kullanım ihtiyaçlarına uygun çözümler sunmaktadır.
+Promosyon Kalem USB Bellek UB-200; 8 GB, 16 GB, 32 GB, 64 GB ve 128 GB kapasite seçenekleriyle sunulabilmektedir. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir. Farklı kullanım ihtiyaçlarına uygun çözümler sunmaktadır.
 
-Siyah ve beyaz renk seçenekleri ile üretilebilen UB-290 modeli, kurumsal kimliğe uygun tercihler yapılmasına olanak tanır. Şık görünümü sayesinde ofislerde, toplantılarda, seminerlerde ve kurumsal etkinliklerde rahatlıkla kullanılabilir.
+Siyah ve beyaz renk seçenekleri ile üretilebilen UB-200 modeli, kurumsal kimliğe uygun tercihler yapılmasına olanak tanır. Şık görünümü sayesinde ofislerde, toplantılarda, seminerlerde ve kurumsal etkinliklerde rahatlıkla kullanılabilir.
 
 Logo baskılı promosyon kalem USB bellek siparişlerinde firma logosu, marka adı veya kurumsal mesaj ürün üzerine uygulanabilir. Ürün yüzeyi lazer baskı ve UV baskı uygulamalarına uygun olup markanızın profesyonel şekilde sergilenmesini sağlar.
 
 Kurumsal promosyon ürünleri arasında kalem USB bellek modelleri, iki farklı kullanım özelliğini bir arada sunmaları nedeniyle dikkat çekmektedir. Özellikle fuarlar, bayi toplantıları, seminerler, lansman organizasyonları ve kurumsal hediye çalışmalarında tercih edilen etkili promosyon ürünlerinden biridir.
 
-Şık tasarımı, çok fonksiyonlu kullanımı ve profesyonel görünümü sayesinde UB-290 modeli markanızı güçlü şekilde temsil eden özel bir kurumsal promosyon çözümü sunmaktadır.
+Şık tasarımı, çok fonksiyonlu kullanımı ve profesyonel görünümü sayesinde UB-200 modeli markanızı güçlü şekilde temsil eden özel bir kurumsal promosyon çözümü sunmaktadır.
 
-NEDEN PROMOSYON KALEM USB BELLEK UB-290 TERCİH EDİLMELİ?
+NEDEN PROMOSYON KALEM USB BELLEK UB-200 TERCİH EDİLMELİ?
 • Kalem ve USB bellek bir arada
 • Şık ve profesyonel tasarım
 • Lazer ve UV baskı uygulanabilir
@@ -29106,7 +28949,7 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-• Model: UB-290
+• Model: UB-200
 • Ürün Türü: Promosyon Kalem USB Bellek
 • Tasarım: Kalem Tipi USB Bellek
 • Fonksiyon: Kalem + USB Bellek
@@ -29118,24 +28961,24 @@ TEKNİK ÖZELLİKLER
 • Kullanım Alanı: Kurumsal ve Günlük Kullanım
 • Kategori: USB Bellek
 
-Promosyon kalem USB bellek UB-290, kalem ve USB bellek fonksiyonunu bir arada sunan şık tasarımı, logo baskısına uygun yapısı ve farklı kapasite seçenekleri ile markanızı profesyonel şekilde temsil eden etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
+Promosyon kalem USB bellek UB-200, kalem ve USB bellek fonksiyonunu bir arada sunan şık tasarımı, logo baskısına uygun yapısı ve farklı kapasite seçenekleri ile markanızı profesyonel şekilde temsil eden etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
     {
-      q: "Promosyon kalem USB bellek UB-290 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. UB-290 modeli üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı veya UV baskı yöntemiyle uygulanabilmektedir.",
+      q: "Promosyon kalem USB bellek UB-200 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. UB-200 modeli üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı veya UV baskı yöntemiyle uygulanabilmektedir.",
     },
     {
-      q: "Promosyon kalem USB bellek UB-290 hangi kapasite seçeneklerine sahiptir?",
+      q: "Promosyon kalem USB bellek UB-200 hangi kapasite seçeneklerine sahiptir?",
       a: "Ürün 8 GB, 16 GB, 32 GB, 64 GB ve 128 GB kapasite seçenekleriyle sunulabilmektedir.",
     },
     {
-      q: "UB-290 modeli hem kalem hem USB bellek olarak kullanılabilir mi?",
+      q: "UB-200 modeli hem kalem hem USB bellek olarak kullanılabilir mi?",
       a: "Evet. Ürün yazım amaçlı kalem ve veri depolama amaçlı USB bellek fonksiyonlarını bir arada sunmaktadır.",
     },
     {
-      q: "UB-290 modelinde hangi baskı teknikleri uygulanabilir?",
+      q: "UB-200 modelinde hangi baskı teknikleri uygulanabilir?",
       a: "Ürün üzerine lazer baskı ve UV baskı uygulamaları yapılabilmektedir.",
     },
     {
@@ -38294,36 +38137,36 @@ Promosyon roller kalem RK-100, modern tasarımı, rubber gövdesi ve kaliteli ya
 {
   id: "p352",
 
-  slug: "promosyon-usb-bellek-ub-300",
+  slug: "promosyon-metal-usb-bellek-ub-140",
 
   title:
-    "Promosyon USB Bellek UB-300 | Metal Gövdeli Logo Baskılı USB 2.0 & USB 3.0 Flash Bellek",
+    "Promosyon USB Bellek UB-140 | Metal Gövdeli Logo Baskılı USB 2.0 & USB 3.0 Flash Bellek",
 
   category: "USB Bellek",
 
   image: "/products/promosyon-usb-bellek-ub-300.jpg",
 
   shortDesc:
-    "Promosyon USB bellek UB-300, metal gövdeli şık tasarımı, USB 2.0 ve USB 3.0 seçenekleri, farklı kapasite alternatifleri ve logo baskıya uygun yüzeyi ile kurumsal promosyon çalışmalarında tercih edilen flash bellek modelidir.",
+    "Promosyon USB bellek UB-140, metal gövdeli şık tasarımı, USB 2.0 ve USB 3.0 seçenekleri, farklı kapasite alternatifleri ve logo baskıya uygun yüzeyi ile kurumsal promosyon çalışmalarında tercih edilen flash bellek modelidir.",
 
   longDesc: `
-Promosyon USB bellek UB-300, metal gövdeli modern tasarımı ve farklı kapasite seçenekleri ile kurumsal promosyon ürünleri arasında öne çıkan şık flash bellek modellerinden biridir. Dayanıklı yapısı, profesyonel görünümü ve logo baskıya uygun yüzeyi sayesinde markaların tanıtım çalışmalarında sık tercih edilen etkili bir promosyon çözümüdür.
+Promosyon USB bellek UB-140, metal gövdeli modern tasarımı ve farklı kapasite seçenekleri ile kurumsal promosyon ürünleri arasında öne çıkan şık flash bellek modellerinden biridir. Dayanıklı yapısı, profesyonel görünümü ve logo baskıya uygun yüzeyi sayesinde markaların tanıtım çalışmalarında sık tercih edilen etkili bir promosyon çözümüdür.
 
 Promosyon USB bellekler, dijital veri paylaşımı ile marka tanıtımını aynı üründe bir araya getiren en işlevsel promosyon ürünlerinden biridir. Firma katalogları, sunum dosyaları, fiyat listeleri, eğitim içerikleri, tanıtım videoları ve çeşitli dijital dokümanlar USB bellek içerisinde müşterilere ve iş ortaklarına profesyonel şekilde ulaştırılabilir.
 
-UB-300 modeli, metal gövde yapısı sayesinde hem dayanıklı hem de prestijli bir kullanım sunar. Kompakt tasarımı sayesinde kolay taşınabilir ve günlük kullanımda rahatlık sağlar. Şık görünümü ile kurumsal hediye ve promosyon dağıtımlarında dikkat çekici bir alternatif oluşturur.
+UB-140 modeli, metal gövde yapısı sayesinde hem dayanıklı hem de prestijli bir kullanım sunar. Kompakt tasarımı sayesinde kolay taşınabilir ve günlük kullanımda rahatlık sağlar. Şık görünümü ile kurumsal hediye ve promosyon dağıtımlarında dikkat çekici bir alternatif oluşturur.
 
-Promosyon USB Bellek UB-300; 8 GB, 16 GB, 32 GB, 64 GB ve 128 GB kapasite seçenekleriyle sunulabilmektedir. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir. USB 2.0 ve USB 3.0 bağlantı alternatifleri sayesinde farklı kullanım ihtiyaçlarına uygun çözümler sunmaktadır.
+Promosyon USB Bellek UB-140; 8 GB, 16 GB, 32 GB, 64 GB ve 128 GB kapasite seçenekleriyle sunulabilmektedir. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir. USB 2.0 ve USB 3.0 bağlantı alternatifleri sayesinde farklı kullanım ihtiyaçlarına uygun çözümler sunmaktadır.
 
 USB 3.0 desteği sayesinde yüksek veri aktarım hızları elde edilebilir. Büyük boyutlu sunum dosyaları, videolar ve dijital içerikler daha kısa sürede aktarılabilir. Bu özellik özellikle profesyonel kullanım amacıyla tercih edilen promosyon USB belleklerde önemli avantaj sağlar.
 
-UB-300 modeli mat siyah, mat gümüş, mat füme ve parlak füme gibi farklı renk seçenekleriyle üretilebilmektedir. Kurumsal kimliğinize uygun renk tercihleri yapılarak markanızın daha güçlü şekilde temsil edilmesi sağlanabilir.
+UB-140 modeli mat siyah, mat gümüş, mat füme ve parlak füme gibi farklı renk seçenekleriyle üretilebilmektedir. Kurumsal kimliğinize uygun renk tercihleri yapılarak markanızın daha güçlü şekilde temsil edilmesi sağlanabilir.
 
 Logo baskılı promosyon USB bellek siparişlerinde firma logosu, marka adı veya kurumsal mesaj ürün üzerine uygulanabilir. Ürün yüzeyi lazer baskı, UV baskı ve tampon baskı uygulamalarına uygun olup markanızın profesyonel şekilde sergilenmesini sağlar.
 
-Kurumsal promosyon ürünleri arasında metal USB bellek modelleri, dayanıklılıkları ve prestijli görünümleri sayesinde en çok tercih edilen ürünler arasında yer almaktadır. UB-300 modeli özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek etkili bir tanıtım ürünüdür.
+Kurumsal promosyon ürünleri arasında metal USB bellek modelleri, dayanıklılıkları ve prestijli görünümleri sayesinde en çok tercih edilen ürünler arasında yer almaktadır. UB-140 modeli özellikle fuarlar, seminerler, bayi toplantıları, lansman organizasyonları ve kurumsal etkinliklerde dağıtılabilecek etkili bir tanıtım ürünüdür.
 
-NEDEN PROMOSYON USB BELLEK UB-300 TERCİH EDİLMELİ?
+NEDEN PROMOSYON USB BELLEK UB-140 TERCİH EDİLMELİ?
 • Metal gövdeli şık tasarım
 • USB 2.0 ve USB 3.0 seçenekleri
 • Yüksek veri aktarım hızı
@@ -38372,7 +38215,7 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-• Model: UB-300
+• Model: UB-140
 • Ürün Türü: Promosyon USB Bellek
 • Tasarım: Metal Gövdeli USB Bellek
 • Gövde: Metal Gövde
@@ -38384,24 +38227,24 @@ TEKNİK ÖZELLİKLER
 • Renk Seçenekleri: Mat Siyah, Mat Gümüş, Mat Füme, Parlak Füme
 • Kategori: USB Bellek
 
-Promosyon USB bellek UB-300, metal gövde tasarımı, USB 3.0 desteği, farklı kapasite seçenekleri ve logo baskısına uygun yüzeyi ile markanızı profesyonel şekilde temsil eden premium bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
+Promosyon USB bellek UB-140, metal gövde tasarımı, USB 3.0 desteği, farklı kapasite seçenekleri ve logo baskısına uygun yüzeyi ile markanızı profesyonel şekilde temsil eden premium bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
     {
-      q: "Promosyon USB bellek UB-300 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. UB-300 modeli üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı, UV baskı veya tampon baskı yöntemleriyle uygulanabilmektedir.",
+      q: "Promosyon USB bellek UB-140 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. UB-140 modeli üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı, UV baskı veya tampon baskı yöntemleriyle uygulanabilmektedir.",
     },
     {
-      q: "Promosyon USB bellek UB-300 hangi kapasite seçeneklerine sahiptir?",
+      q: "Promosyon USB bellek UB-140 hangi kapasite seçeneklerine sahiptir?",
       a: "Ürün 8 GB, 16 GB, 32 GB, 64 GB ve 128 GB kapasite seçenekleriyle sunulabilmektedir.",
     },
     {
-      q: "UB-300 modelinde USB 3.0 desteği bulunur mu?",
+      q: "UB-140 modelinde USB 3.0 desteği bulunur mu?",
       a: "Evet. Ürün USB 2.0 ve USB 3.0 bağlantı seçenekleriyle üretilebilmektedir.",
     },
     {
-      q: "UB-300 modeli metal gövdeli midir?",
+      q: "UB-140 modeli metal gövdeli midir?",
       a: "Evet. Ürün dayanıklı metal gövde yapısına sahiptir ve uzun ömürlü kullanım sunar.",
     },
     {
@@ -38417,38 +38260,38 @@ Promosyon USB bellek UB-300, metal gövde tasarımı, USB 3.0 desteği, farklı 
 {
   id: "p353",
 
-  slug: "promosyon-usb-bellek-ub-320",
+  slug: "promosyon-anahtarlikli-usb-bellek-ub-170",
 
   title:
-    "Promosyon USB Bellek UB-320 | Anahtarlıklı Metal Logo Baskılı Flash Bellek",
+    "Promosyon USB Bellek UB-170 | Anahtarlıklı Metal Logo Baskılı Flash Bellek",
 
   category: "USB Bellek",
 
   image: "/products/promosyon-usb-bellek-ub-320.jpg",
 
   shortDesc:
-    "Promosyon USB bellek UB-320, anahtarlıklı metal gövde tasarımı, farklı kapasite seçenekleri ve logo baskıya uygun yapısı ile kurumsal promosyon çalışmalarında tercih edilen premium flash bellek modelidir.",
+    "Promosyon USB bellek UB-170, anahtarlıklı metal gövde tasarımı, farklı kapasite seçenekleri ve logo baskıya uygun yapısı ile kurumsal promosyon çalışmalarında tercih edilen premium flash bellek modelidir.",
 
   longDesc: `
-Promosyon USB bellek UB-320, anahtarlıklı metal gövde tasarımı ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında öne çıkan premium USB bellek modellerinden biridir. Şık görünümü, uzun ömürlü kullanımı ve taşınabilir yapısı sayesinde marka tanıtımında etkili bir promosyon çözümü sunmaktadır.
+Promosyon USB bellek UB-170, anahtarlıklı metal gövde tasarımı ve dayanıklı yapısı ile kurumsal promosyon ürünleri arasında öne çıkan premium USB bellek modellerinden biridir. Şık görünümü, uzun ömürlü kullanımı ve taşınabilir yapısı sayesinde marka tanıtımında etkili bir promosyon çözümü sunmaktadır.
 
 Promosyon USB bellekler, dijital veri paylaşımı ile marka görünürlüğünü bir araya getiren en kullanışlı promosyon ürünleri arasında yer almaktadır. Firma katalogları, sunum dosyaları, fiyat listeleri, tanıtım videoları, eğitim içerikleri ve çeşitli dijital dokümanlar USB bellek içerisinde müşterilere ve iş ortaklarına profesyonel şekilde ulaştırılabilir.
 
-UB-320 modeli, anahtarlık halkalı tasarımı sayesinde günlük kullanımda kolay taşınabilir. Anahtarlara, çantalara veya aksesuarlara takılarak sürekli kullanıcı ile birlikte bulunabilir. Bu özellik markanızın daha uzun süre görünür olmasına katkı sağlar.
+UB-170 modeli, anahtarlık halkalı tasarımı sayesinde günlük kullanımda kolay taşınabilir. Anahtarlara, çantalara veya aksesuarlara takılarak sürekli kullanıcı ile birlikte bulunabilir. Bu özellik markanızın daha uzun süre görünür olmasına katkı sağlar.
 
 Metal gövde yapısı sayesinde ürün hem dayanıklı hem de prestijli bir görünüm sunmaktadır. Kompakt tasarımı sayesinde cebinizde veya çantanızda rahatlıkla taşınabilir. Kurumsal promosyon ürünleri arasında şık ve profesyonel görünümüyle dikkat çeken modellerden biridir.
 
-Promosyon USB Bellek UB-320; 8 GB, 16 GB, 32 GB, 64 GB ve 128 GB kapasite seçenekleriyle sunulabilmektedir. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir. USB 2.0 ve USB 3.0 bağlantı alternatifleri sayesinde farklı veri aktarım ihtiyaçlarına uygun çözümler sunmaktadır.
+Promosyon USB Bellek UB-170; 8 GB, 16 GB, 32 GB, 64 GB ve 128 GB kapasite seçenekleriyle sunulabilmektedir. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir. USB 2.0 ve USB 3.0 bağlantı alternatifleri sayesinde farklı veri aktarım ihtiyaçlarına uygun çözümler sunmaktadır.
 
 USB 3.0 desteği bulunan modellerde yüksek veri aktarım hızı sağlanabilir. Büyük boyutlu dosyalar, videolar ve sunumlar daha kısa sürede aktarılabilir. Bu özellik özellikle profesyonel kullanım amaçlı promosyon çalışmalarında avantaj sağlamaktadır.
 
-UB-320 modeli füme, mat gümüş ve parlak gümüş renk seçenekleri ile üretilebilmektedir. Kurumsal kimliğinize uygun renk tercihleri yapılarak markanızın daha güçlü şekilde temsil edilmesi sağlanabilir.
+UB-170 modeli füme, mat gümüş ve parlak gümüş renk seçenekleri ile üretilebilmektedir. Kurumsal kimliğinize uygun renk tercihleri yapılarak markanızın daha güçlü şekilde temsil edilmesi sağlanabilir.
 
 Logo baskılı promosyon USB bellek siparişlerinde firma logosu, marka adı veya kurumsal mesaj ürün üzerine uygulanabilir. Ürün yüzeyi lazer baskı, UV baskı ve tampon baskı uygulamalarına uygun olup markanızın profesyonel şekilde sergilenmesini sağlar.
 
 Anahtarlıklı metal USB bellek modelleri; fuarlar, seminerler, bayi toplantıları, lansman organizasyonları, müşteri ziyaretleri ve kurumsal etkinliklerde dağıtılabilecek etkili promosyon ürünleri arasında yer almaktadır.
 
-NEDEN PROMOSYON USB BELLEK UB-320 TERCİH EDİLMELİ?
+NEDEN PROMOSYON USB BELLEK UB-170 TERCİH EDİLMELİ?
 • Anahtarlıklı metal tasarım
 • USB 2.0 ve USB 3.0 seçenekleri
 • Yüksek veri aktarım hızı
@@ -38497,7 +38340,7 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-• Model: UB-320
+• Model: UB-170
 • Ürün Türü: Promosyon USB Bellek
 • Tasarım: Anahtarlıklı Metal USB Bellek
 • Gövde: Metal
@@ -38509,24 +38352,24 @@ TEKNİK ÖZELLİKLER
 • Kullanım Alanı: Kurumsal ve Günlük Kullanım
 • Kategori: USB Bellek
 
-Promosyon USB bellek UB-320, anahtarlıklı metal gövde tasarımı, USB 3.0 desteği, farklı kapasite seçenekleri ve logo baskısına uygun yüzeyi ile markanızı profesyonel şekilde temsil eden premium bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
+Promosyon USB bellek UB-170, anahtarlıklı metal gövde tasarımı, USB 3.0 desteği, farklı kapasite seçenekleri ve logo baskısına uygun yüzeyi ile markanızı profesyonel şekilde temsil eden premium bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
     {
-      q: "Promosyon USB bellek UB-320 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. UB-320 modeli üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı, UV baskı veya tampon baskı yöntemleriyle uygulanabilmektedir.",
+      q: "Promosyon USB bellek UB-170 üzerine logo baskısı yapılabilir mi?",
+      a: "Evet. UB-170 modeli üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı, UV baskı veya tampon baskı yöntemleriyle uygulanabilmektedir.",
     },
     {
-      q: "Promosyon USB bellek UB-320 hangi kapasite seçeneklerine sahiptir?",
+      q: "Promosyon USB bellek UB-170 hangi kapasite seçeneklerine sahiptir?",
       a: "Ürün 8 GB, 16 GB, 32 GB, 64 GB ve 128 GB kapasite seçenekleriyle sunulabilmektedir.",
     },
     {
-      q: "UB-320 modelinde USB 3.0 desteği bulunur mu?",
+      q: "UB-170 modelinde USB 3.0 desteği bulunur mu?",
       a: "Evet. Ürün USB 2.0 ve USB 3.0 bağlantı seçenekleriyle üretilebilmektedir.",
     },
     {
-      q: "UB-320 modeli anahtarlıklı mıdır?",
+      q: "UB-170 modeli anahtarlıklı mıdır?",
       a: "Evet. Ürün anahtarlık halkalı tasarımı sayesinde kolay taşınabilir ve günlük kullanıma uygundur.",
     },
     {
@@ -38542,36 +38385,36 @@ Promosyon USB bellek UB-320, anahtarlıklı metal gövde tasarımı, USB 3.0 des
 {
   id: "p354",
 
-  slug: "promosyon-kutulu-vip-set-ub-330",
+  slug: "promosyon-kutulu-vip-set-ub-270",
 
   title:
-    "Promosyon Kutulu VIP Set UB-330 | Logo Baskılı Kalem ve USB Bellek Hediye Seti",
+    "Promosyon Kutulu VIP Set UB-270 | Logo Baskılı Kalem ve USB Bellek Hediye Seti",
 
   category: "USB Bellek",
 
   image: "/products/promosyon-kutulu-vip-set-ub-330.jpg",
 
   shortDesc:
-    "Promosyon kutulu VIP set UB-330, şık hediye kutusu içerisinde sunulan metal kalem ve USB bellek kombinasyonu ile kurumsal hediyeler, VIP müşteri çalışmaları ve prestijli marka tanıtımları için ideal bir promosyon setidir.",
+    "Promosyon kutulu VIP set UB-270, şık hediye kutusu içerisinde sunulan metal kalem ve USB bellek kombinasyonu ile kurumsal hediyeler, VIP müşteri çalışmaları ve prestijli marka tanıtımları için ideal bir promosyon setidir.",
 
   longDesc: `
-Promosyon kutulu VIP set UB-330, şık tasarımı ve profesyonel sunumu ile kurumsal promosyon ürünleri arasında öne çıkan prestijli hediye setlerinden biridir. Özel tasarım kutusu içerisinde yer alan metal kalem ve USB bellek kombinasyonu sayesinde hem kullanışlı hem de marka değerini yükselten etkili bir kurumsal hediye çözümü sunmaktadır.
+Promosyon kutulu VIP set UB-270, şık tasarımı ve profesyonel sunumu ile kurumsal promosyon ürünleri arasında öne çıkan prestijli hediye setlerinden biridir. Özel tasarım kutusu içerisinde yer alan metal kalem ve USB bellek kombinasyonu sayesinde hem kullanışlı hem de marka değerini yükselten etkili bir kurumsal hediye çözümü sunmaktadır.
 
 Kurumsal promosyon çalışmalarında VIP hediye setleri, markaların müşterileri, iş ortakları ve çalışanları üzerinde güçlü bir etki bırakmasına yardımcı olur. Kaliteli sunum ve fonksiyonel ürünlerin bir araya gelmesi sayesinde marka algısı güçlenirken uzun süreli kullanım avantajı da sağlanır.
 
-UB-330 modeli, özel tasarım hediye kutusu içerisinde sunulan metal kalem ve USB bellekten oluşmaktadır. Günlük kullanımda sıklıkla tercih edilen bu iki ürün sayesinde markanız kullanıcı ile uzun süre temas halinde kalır ve sürekli görünürlük elde eder.
+UB-270 modeli, özel tasarım hediye kutusu içerisinde sunulan metal kalem ve USB bellekten oluşmaktadır. Günlük kullanımda sıklıkla tercih edilen bu iki ürün sayesinde markanız kullanıcı ile uzun süre temas halinde kalır ve sürekli görünürlük elde eder.
 
 Promosyon USB bellek bölümü; firma katalogları, sunum dosyaları, fiyat listeleri, eğitim materyalleri ve dijital içeriklerin profesyonel şekilde paylaşılmasına olanak sağlar. Kurumsal tanıtım çalışmalarında işlevsel ve etkili bir araç olarak kullanılabilir.
 
 Set içerisinde bulunan metal kalem ise toplantılarda, ofis ortamlarında, eğitimlerde ve günlük kullanımda tercih edilen prestijli bir promosyon ürünüdür. Kalem ve USB belleğin birlikte sunulması, setin kurumsal değerini artırmaktadır.
 
-Promosyon Kutulu VIP Set UB-330; 8 GB, 16 GB ve 32 GB USB bellek kapasite seçenekleri ile üretilebilmektedir. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir.
+Promosyon Kutulu VIP Set UB-270; 8 GB, 16 GB ve 32 GB USB bellek kapasite seçenekleri ile üretilebilmektedir. Kapasite seçenekleri sipariş miktarı ve stok durumuna göre değişiklik gösterebilir.
 
 Logo baskılı VIP set siparişlerinde kutu, kalem ve USB bellek üzerine firma logosu, marka adı veya kurumsal mesaj uygulanabilir. Lazer baskı, UV baskı ve tampon baskı seçenekleri sayesinde markanız profesyonel şekilde sergilenebilir.
 
-UB-330 modeli özellikle VIP müşteri hediyeleri, bayi toplantıları, kurumsal organizasyonlar, lansman etkinlikleri, fuarlar ve özel marka çalışmaları için tercih edilen premium promosyon ürünleri arasında yer almaktadır.
+UB-270 modeli özellikle VIP müşteri hediyeleri, bayi toplantıları, kurumsal organizasyonlar, lansman etkinlikleri, fuarlar ve özel marka çalışmaları için tercih edilen premium promosyon ürünleri arasında yer almaktadır.
 
-NEDEN PROMOSYON KUTULU VIP SET UB-330 TERCİH EDİLMELİ?
+NEDEN PROMOSYON KUTULU VIP SET UB-270 TERCİH EDİLMELİ?
 • Şık ve prestijli hediye kutusu
 • Metal kalem ve USB bellek kombinasyonu
 • Kurumsal hediye konsepti
@@ -38620,7 +38463,7 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-• Model: UB-330
+• Model: UB-270
 • Ürün Türü: Promosyon VIP Set
 • İçerik: Metal Kalem + USB Bellek
 • Kutu: Özel Tasarım VIP Hediye Kutusu
@@ -38631,24 +38474,24 @@ TEKNİK ÖZELLİKLER
 • Özellik: Premium Kurumsal Hediye Seti
 • Kategori: USB Bellek
 
-Promosyon kutulu VIP set UB-330, metal kalem ve USB bellekten oluşan şık içeriği, özel tasarım kutusu ve logo baskısına uygun yapısı ile markanızı profesyonel şekilde temsil eden prestijli bir kurumsal hediye çözümüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
+Promosyon kutulu VIP set UB-270, metal kalem ve USB bellekten oluşan şık içeriği, özel tasarım kutusu ve logo baskısına uygun yapısı ile markanızı profesyonel şekilde temsil eden prestijli bir kurumsal hediye çözümüdür. Toplu sipariş ve özel teklif almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
     {
-      q: "Promosyon kutulu VIP set UB-330 üzerine logo baskısı yapılabilir mi?",
+      q: "Promosyon kutulu VIP set UB-270 üzerine logo baskısı yapılabilir mi?",
       a: "Evet. Kutu, kalem ve USB bellek üzerine firma logosu, marka adı veya kurumsal mesaj uygulanabilmektedir.",
     },
     {
-      q: "UB-330 VIP set içerisinde hangi ürünler bulunmaktadır?",
+      q: "UB-270 VIP set içerisinde hangi ürünler bulunmaktadır?",
       a: "Set içerisinde metal kalem ve USB bellek yer almaktadır.",
     },
     {
-      q: "Promosyon VIP set UB-330 hangi kapasite seçeneklerine sahiptir?",
+      q: "Promosyon VIP set UB-270 hangi kapasite seçeneklerine sahiptir?",
       a: "USB bellek bölümü 8 GB, 16 GB ve 32 GB kapasite seçenekleriyle sunulabilmektedir.",
     },
     {
-      q: "UB-330 modelinde hangi baskı teknikleri uygulanabilir?",
+      q: "UB-270 modelinde hangi baskı teknikleri uygulanabilir?",
       a: "Lazer baskı, UV baskı ve tampon baskı uygulamaları yapılabilmektedir.",
     },
     {
@@ -75465,6 +75308,197 @@ Promosyon Seramik Kupa 275 ml SK-110 modeli; kaliteli seramik gövdesi, süblima
                     "q":  "RK-295 fiyatına hediye kutusu dahil mi?"
                 }
             ]
+},
+
+{
+  "id": "p676",
+  "slug": "promosyon-kutulu-kalem-usb-bellek-seti-ub-280",
+  "title": "Promosyon Kutulu Kalem ve USB Bellek Seti UB-280",
+  "category": "USB Bellek",
+  "image": "/products/promosyon-kutulu-kalem-usb-bellek-seti-ub-280.jpg",
+  "gallery": [
+    "/products/promosyon-kutulu-kalem-usb-bellek-seti-ub-280.jpg"
+  ],
+  "shortDesc": "UB-280 kutulu kalem ve USB bellek seti; kırmızı, siyah, beyaz ve lacivert seçenekleriyle kurumsal hediyeler için sunulur. Logo uygulaması ve toplu sipariş için teklif alın.",
+  "longDesc": "Kutulu Kalem ve USB Bellek Seti UB-280\n\nUB-280, kalem ile döner kapaklı USB belleği aynı kutuda bir araya getiren kurumsal hediye setidir. Birbiriyle uyumlu renklerdeki iki parçası, toplantılarda not alma ve dijital dosya taşıma ihtiyaçları için birlikte değerlendirilebilir.\n\nSETİN TASARIMI\n• Kalem ve USB bellekten oluşan iki parçalı set\n• USB bağlantı ucunu örten döner kapak\n• İki ürünü birlikte sunmaya uygun kutu\n• Kırmızı, siyah, beyaz ve lacivert renk alternatifleri\n\nHANGİ ÇALIŞMALARDA KULLANILABİLİR?\nYeni çalışan karşılama paketleri, bayi toplantıları ve kurumsal müşteri ziyaretlerinde tek bir kutu içinde sunulabilir. Kalem, toplantı sırasında not tutmak için; USB bellek ise kullanıcının kendi dosyalarını taşıması için kullanılabilir.\n\nKİMLER İÇİN UYGUN?\n• İnsan kaynakları ekipleri: çalışan karşılama ve kurum içi hediye çalışmaları\n• Danışmanlık ve muhasebe ofisleri: kurumsal müşteri hediyeleri\n• Yazılım ve bilişim firmaları: etkinlik ve iş ortağı ziyaretleri\n• Eğitim ve organizasyon firmaları: seminer ve katılımcı paketleri\n• Satış ekipleri: bayi ve distribütör buluşmaları\n\nTEKNİK VE SİPARİŞ BİLGİLERİ\n• Model: UB-280\n• Set içeriği: Kalem, USB bellek ve kutu\n• USB tasarımı: Döner kapaklı\n• Renkler: Kırmızı, siyah, beyaz, lacivert\nUSB kapasitesi, bağlantı standardı ve istenen renk-adet kombinasyonunun temin durumu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI VE FİYAT\nKalem ve USB üzerindeki uygulama alanları, gönderilen logo tasarımıyla birlikte değerlendirilir. Baskı yöntemi ve yerleşim, seçilen ürün yüzeyine göre netleştirilir. Kutuya uygulama isteniyorsa bu talep ayrıca belirtilmelidir.\nUB-280 için sipariş adedi, USB kapasitesi, renk ve logo uygulamasına göre fiyat teklifi hazırlanır. Teklif almak için ihtiyaç duyduğunuz adedi ve teslim tarihini paylaşabilirsiniz.",
+  "faq": [
+    {
+      "q": "UB-280 setin içinde neler bulunur?",
+      "a": "Set, bir kalem ile döner kapaklı USB belleği kutu içerisinde bir araya getirir."
+    },
+    {
+      "q": "Hangi renkler bulunur?",
+      "a": "Kırmızı, siyah, beyaz ve lacivert alternatifleri vardır. Seçilen renk ve adedin temin durumu sipariş öncesinde teyit edilir."
+    },
+    {
+      "q": "USB belleğin kapasitesi nedir?",
+      "a": "Siparişe uygun kapasite seçeneği ve bağlantı standardı teklif hazırlanırken netleştirilir."
+    },
+    {
+      "q": "Kalem ve USB üzerine logo uygulanabilir mi?",
+      "a": "Logo tasarımı, uygulama alanı ve ürün yüzeyi birlikte değerlendirilerek uygun yöntem belirlenir."
+    },
+    {
+      "q": "Toplu sipariş fiyatı nasıl belirlenir?",
+      "a": "Adet, USB kapasitesi, renk ve logo uygulamasına göre teklif hazırlanır. Teslim süresi de sipariş detaylarıyla birlikte teyit edilir."
+    }
+  ]
+},
+
+{
+  "id": "p677",
+  "slug": "promosyon-ahsap-metal-usb-bellek-ub-390",
+  "title": "Promosyon Ahşap ve Metal USB Bellek UB-390",
+  "category": "USB Bellek",
+  "image": "/products/promosyon-ahsap-metal-usb-bellek-ub-390.jpg",
+  "gallery": [
+    "/products/promosyon-ahsap-metal-usb-bellek-ub-390.jpg"
+  ],
+  "shortDesc": "Ahşap gövdeyi metal döner kapakla birleştiren UB-390, meşe ve ceviz seçenekleriyle sunulur. Logo uygulamalı toplu sipariş için teklif alın.",
+  "longDesc": "Promosyon Ahşap ve Metal USB Bellek UB-390\n\nUB-390, ahşabın doğal görünümünü metal döner kapakla birleştiren bir promosyon USB bellek modelidir. Gövde ve kapak arasındaki malzeme farkı, kurumsal hediyelerde ahşap detay arayan firmalara görsel bir alternatif sunar.\n\nKULLANIM ALANLARI VE MESLEK GRUPLARI\nMimarlık ofisleri, mobilya üreticileri, iç mekân tasarım ekipleri ve konaklama işletmelerinin müşteri hediyeleri için değerlendirilebilir. Proje teslimleri, tasarım sunumları ve iş ortağı ziyaretlerinde kullanılabilecek bir dijital dosya taşıma ürünüdür.\n\nTEKNİK BİLGİLER\n• Gövde: Ahşap\n• Kapak: Döner metal kapak\n• Ahşap seçenekleri: Meşe ve ceviz\n• Bağlantı seçenekleri: Seçili varyantlarda USB 3.0\n• Kapasite, ahşap türü ve metal renk kombinasyonu sipariş öncesinde teyit edilir.\n\nLOGO UYGULAMASI\nLogo yerleşimi hazırlanırken ahşap gövde ve metal kapak ayrı yüzeyler olarak değerlendirilir. Uygulanacak yöntem, seçilen yüzey ve tasarımın detaylarına göre belirlenir. Ahşabın damar ve ton farklılıkları ürünün görünümünde doğal değişiklikler oluşturabilir.\n\nTOPLU SİPARİŞ VE FİYAT\nAdet, kapasite ve logo uygulamasına göre fiyat teklifi hazırlanır. İhtiyaç duyulan teslim tarihi ve tasarım dosyası paylaşılarak sipariş detayları netleştirilebilir.",
+  "faq": [
+    {
+      "q": "UB-390 hangi ahşap seçenekleriyle sunulur?",
+      "a": "Meşe ve ceviz seçenekleri bulunur. Ahşap türü, metal renk ve kapasite kombinasyonunun temin durumu teklif aşamasında teyit edilir."
+    },
+    {
+      "q": "Logo uygulamalı toplu sipariş için nasıl teklif alabilirim?",
+      "a": "İstenen adet, kapasite, varsa renk tercihi ve logo dosyasını iletebilirsiniz. Temin durumu, uygulama yöntemi ve teslim süresi birlikte değerlendirilerek teklif hazırlanır."
+    }
+  ]
+},
+{
+  "id": "p678",
+  "slug": "promosyon-cift-uclu-metal-usb-bellek-ub-400",
+  "title": "Promosyon Çift Uçlu Metal USB Bellek UB-400",
+  "category": "USB Bellek",
+  "image": "/products/promosyon-cift-uclu-metal-usb-bellek-ub-400.jpg",
+  "gallery": [
+    "/products/promosyon-cift-uclu-metal-usb-bellek-ub-400.jpg"
+  ],
+  "shortDesc": "UB-400, iki bağlantı uçlu metal tasarımı ve gümüş rengiyle kurumsal hediyeler için sunulur. 64 GB seçeneği ve logo uygulaması için teklif alın.",
+  "longDesc": "Promosyon Çift Uçlu Metal USB Bellek UB-400\n\nUB-400, iki farklı bağlantı ucunu metal bir gövdede bir araya getiren USB bellek modelidir. Döner metal parçası ve kompakt formu, tasarımın belirgin özellikleridir. Güncel ürün kaydında gümüş renkli 64 GB seçeneği yer alır.\n\nKULLANIM ALANLARI VE MESLEK GRUPLARI\nBilişim firmaları, teknik servisler, mühendislik ofisleri ve saha ekiplerinin dosya taşıma ihtiyaçları için değerlendirilebilir. Kurumsal hediyede bağlantı seçeneklerini önemseyen firmalar için, kullanılacak cihazlar belirtilerek teklif hazırlanabilir.\n\nTEKNİK BİLGİLER\n• Model: UB-400\n• Gövde: Metal\n• Tasarım: İki bağlantı uçlu, döner metal parçalı\n• Güncel seçenek: 64 GB, gümüş renk\n• İkinci bağlantı ucunun tipi ve cihaz uyumluluğu sipariş öncesinde teyit edilir.\n\nLOGO UYGULAMASI\nMetal yüzeyde logo konumu, gövdenin hareketli bölümleri ve kullanılabilir alan dikkate alınarak planlanır. Baskı yöntemi tasarım incelendikten sonra netleştirilir. Telefon veya tabletle kullanım düşünülüyorsa cihaz modeli teklif talebinde belirtilmelidir.\n\nTOPLU SİPARİŞ VE FİYAT\nAdet, kapasite ve logo uygulamasına göre fiyat teklifi hazırlanır. İhtiyaç duyulan teslim tarihi ve tasarım dosyası paylaşılarak sipariş detayları netleştirilebilir.",
+  "faq": [
+    {
+      "q": "UB-400 her telefonla kullanılabilir mi?",
+      "a": "Uyumluluk cihazın bağlantı girişi ve desteklediği işlevlere bağlıdır. Kullanılacak cihaz modeliyle birlikte bağlantı tipi sipariş öncesinde teyit edilmelidir."
+    },
+    {
+      "q": "Logo uygulamalı toplu sipariş için nasıl teklif alabilirim?",
+      "a": "İstenen adet, kapasite, varsa renk tercihi ve logo dosyasını iletebilirsiniz. Temin durumu, uygulama yöntemi ve teslim süresi birlikte değerlendirilerek teklif hazırlanır."
+    }
+  ]
+},
+{
+  "id": "p679",
+  "slug": "promosyon-kalem-usb-bellek-ub-420",
+  "title": "Promosyon Kalem USB Bellek UB-420 | Siyah ve Beyaz",
+  "category": "USB Bellek",
+  "image": "/products/promosyon-kalem-usb-bellek-ub-420.jpg",
+  "gallery": [
+    "/products/promosyon-kalem-usb-bellek-ub-420.jpg"
+  ],
+  "shortDesc": "Kalem ve USB belleği tek üründe birleştiren UB-420, siyah ve beyaz gövde seçenekleriyle sunulur. Kurumsal logo uygulaması ve toplu sipariş için teklif alın.",
+  "longDesc": "Promosyon Kalem USB Bellek UB-420 | Siyah ve Beyaz\n\nUB-420, yazı aracı ile dijital depolama işlevini aynı üründe buluşturan kalem USB bellek modelidir. USB bölümü kalemin gövde parçaları arasında yer alır. Siyah ve beyaz gövdeyi metal görünümlü detaylarla tamamlayan tasarımı, masa başı kullanımına uygun bir kurumsal hediye alternatifi sunar.\n\nKULLANIM ALANLARI VE MESLEK GRUPLARI\nDanışmanlar, muhasebeciler, sigorta acenteleri ve satış temsilcilerinin müşteri ziyaretlerinde değerlendirilebilir. Toplantı sırasında not almak ve sonrasında dijital belgeleri taşımak için iki ayrı işlevi tek üründe isteyen kullanıcılar için düşünülebilir.\n\nTEKNİK BİLGİLER\n• Model: UB-420\n• Ürün tipi: Kalem USB bellek\n• Gövde renkleri: Siyah ve beyaz\n• Kayıtta yer alan kapasiteler: 8, 16, 32, 64 ve 128 GB\n• İstenen renk-kapasite kombinasyonu güncel stokla birlikte teyit edilir.\n\nLOGO UYGULAMASI\nKalem gövdesindeki logo alanı, elde tutuş ve parçaların birleşim noktaları dikkate alınarak seçilir. Küçük yazılar içeren logolarda okunabilirlik değerlendirilir. Uygulama yöntemi ve yerleşim, tasarım dosyası incelendikten sonra siparişe özel netleştirilir.\n\nTOPLU SİPARİŞ VE FİYAT\nAdet, kapasite ve logo uygulamasına göre fiyat teklifi hazırlanır. İhtiyaç duyulan teslim tarihi ve tasarım dosyası paylaşılarak sipariş detayları netleştirilebilir.",
+  "faq": [
+    {
+      "q": "UB-420 kalem ve USB olarak ayrı ürünlerden mi oluşur?",
+      "a": "UB-420, USB bellek bölümünü kalem formunun içinde barındıran bir modeldir. Ayrı kalem ve USB içeren kutulu setlerden farklıdır."
+    },
+    {
+      "q": "Logo uygulamalı toplu sipariş için nasıl teklif alabilirim?",
+      "a": "İstenen adet, kapasite, varsa renk tercihi ve logo dosyasını iletebilirsiniz. Temin durumu, uygulama yöntemi ve teslim süresi birlikte değerlendirilerek teklif hazırlanır."
+    }
+  ]
+},
+{
+  "id": "p680",
+  "slug": "promosyon-kapakli-usb-bellek-ub-430",
+  "title": "Promosyon Kapaklı USB Bellek UB-430 | Renkli Gövde",
+  "category": "USB Bellek",
+  "image": "/products/promosyon-kapakli-usb-bellek-ub-430.jpg",
+  "gallery": [
+    "/products/promosyon-kapakli-usb-bellek-ub-430.jpg"
+  ],
+  "shortDesc": "UB-430 kapaklı USB bellek; farklı renk, kapasite ve seçili USB 3.0 seçenekleriyle sunulur. Logo baskılı kurumsal sipariş için teklif alın.",
+  "longDesc": "Promosyon Kapaklı USB Bellek UB-430 | Renkli Gövde\n\nUB-430, bağlantı ucunu çıkarılabilir bir kapakla örten, renkli gövdeli USB bellek modelidir. Dikdörtgen formu ve gövde ucundaki askı açıklığı, tasarımını tamamlar. Renk ve kapasite seçenekleri, kurumsal dağıtım çalışmasının ihtiyaçlarına göre birlikte değerlendirilebilir.\n\nKULLANIM ALANLARI VE MESLEK GRUPLARI\nEğitim kurumları, kurs merkezleri, organizasyon ajansları ve bayi ağı bulunan işletmelerin etkinlik paketleri için düşünülebilir. Farklı ekipleri veya katılımcı gruplarını ürün rengiyle ayırmak isteyen firmalar için renk alternatifleri sunar.\n\nTEKNİK BİLGİLER\n• Model: UB-430\n• Tasarım: Çıkarılabilir kapaklı USB bellek\n• Güncel varyant renkleri: Siyah, lacivert, kırmızı ve beyaz\n• Kapasite seçenekleri: 8, 16, 32, 64 ve 128 GB\n• USB 3.0 seçenekleri belirli renk ve kapasitelerle sınırlıdır.\n\nLOGO UYGULAMASI\nLogo uygulamasında gövde rengiyle baskı arasındaki kontrast dikkate alınır. İstenen bağlantı standardı ayrıca belirtilmelidir; aynı dış tasarıma sahip bütün varyantların aynı USB standardını taşıdığı varsayılmamalıdır. Renk, kapasite ve bağlantı standardı teklif üzerinde birlikte netleştirilir.\n\nTOPLU SİPARİŞ VE FİYAT\nAdet, kapasite ve logo uygulamasına göre fiyat teklifi hazırlanır. İhtiyaç duyulan teslim tarihi ve tasarım dosyası paylaşılarak sipariş detayları netleştirilebilir.",
+  "faq": [
+    {
+      "q": "UB-430 modelinin bütün seçenekleri USB 3.0 mı?",
+      "a": "Hayır. USB 3.0 belirli varyantlarda bulunur. Seçilen renk, kapasite ve bağlantı standardı sipariş öncesinde birlikte teyit edilmelidir."
+    },
+    {
+      "q": "Logo uygulamalı toplu sipariş için nasıl teklif alabilirim?",
+      "a": "İstenen adet, kapasite, varsa renk tercihi ve logo dosyasını iletebilirsiniz. Temin durumu, uygulama yöntemi ve teslim süresi birlikte değerlendirilerek teklif hazırlanır."
+    }
+  ]
+},
+{
+  "id": "p681",
+  "slug": "promosyon-ince-metal-usb-bellek-ub-440",
+  "title": "Promosyon İnce Metal USB Bellek UB-440",
+  "category": "USB Bellek",
+  "image": "/products/promosyon-ince-metal-usb-bellek-ub-440.jpg",
+  "gallery": [
+    "/products/promosyon-ince-metal-usb-bellek-ub-440.jpg"
+  ],
+  "shortDesc": "Uzun metal gövdesi ve geniş askı açıklığıyla UB-440, mat renk seçenekleri sunar. USB 2.0 veya seçili USB 3.0 varyantları için teklif alın.",
+  "longDesc": "Promosyon İnce Metal USB Bellek UB-440\n\nUB-440, uzun ve düz metal gövdesini geniş bir askı açıklığıyla tamamlayan USB bellek modelidir. Mat yüzey seçenekleri ve sade formu, kurumsal logo yerleşiminde temiz bir görünüm isteyen firmalar için değerlendirilebilir.\n\nKULLANIM ALANLARI VE MESLEK GRUPLARI\nHukuk büroları, finans kuruluşları, gayrimenkul danışmanlık şirketleri ve kurumsal satın alma ekiplerinin müşteri hediyeleri için düşünülebilir. Gövde üzerinde uzun marka adı veya yatay logo yerleşimi isteyen çalışmalarda, kullanılabilir alan tasarım dosyasıyla birlikte incelenebilir.\n\nTEKNİK BİLGİLER\n• Model: UB-440\n• Gövde: İnce ve uzun metal tasarım\n• Renk seçenekleri: Mat gümüş, mat beyaz ve mat siyah\n• Bağlantı seçenekleri: USB 2.0 ve seçili USB 3.0 varyantları\n• Kapasite ve bağlantı standardı renk seçimiyle birlikte teyit edilir.\n\nLOGO UYGULAMASI\nLogo uygulaması için gövdenin düz bölümü değerlendirilir. Askı açıklığına yakın yerleşimler ve küçük metinler, tasarımın okunabilirliğini etkileyebileceğinden baskı öncesinde kontrol edilir. Yüzeye uygun yöntem ve uygulama ölçüsü teklif aşamasında belirlenir.\n\nTOPLU SİPARİŞ VE FİYAT\nAdet, kapasite ve logo uygulamasına göre fiyat teklifi hazırlanır. İhtiyaç duyulan teslim tarihi ve tasarım dosyası paylaşılarak sipariş detayları netleştirilebilir.",
+  "faq": [
+    {
+      "q": "UB-440 hangi renklerle sunulur?",
+      "a": "Mat gümüş, mat beyaz ve mat siyah seçenekleri bulunur. İstenen renk, kapasite ve USB standardının birlikte temin edilebilirliği teyit edilir."
+    },
+    {
+      "q": "Logo uygulamalı toplu sipariş için nasıl teklif alabilirim?",
+      "a": "İstenen adet, kapasite, varsa renk tercihi ve logo dosyasını iletebilirsiniz. Temin durumu, uygulama yöntemi ve teslim süresi birlikte değerlendirilerek teklif hazırlanır."
+    }
+  ]
+},
+{
+  "id": "p682",
+  "slug": "promosyon-metal-kalem-usb-bellek-ub-450",
+  "title": "Promosyon Metal Kalem USB Bellek UB-450",
+  "category": "USB Bellek",
+  "image": "/products/promosyon-metal-kalem-usb-bellek-ub-450.jpg",
+  "gallery": [
+    "/products/promosyon-metal-kalem-usb-bellek-ub-450.jpg"
+  ],
+  "shortDesc": "UB-450, metal kalem formunu USB bellekle birleştirir. Kurumsal logo uygulaması, güncel temin durumu ve toplu sipariş bilgisi için teklif alın.",
+  "longDesc": "Promosyon Metal Kalem USB Bellek UB-450\n\nUB-450, USB bellek bölümünü metal kalem formunda sunan bir promosyon modelidir. Düz gövde, klips ve halka detayları tasarımın belirgin parçalarıdır. Tek bir üründe hem yazı aracı hem de dijital dosya taşıma işlevi isteyen kurumsal çalışmalar için değerlendirilebilir.\n\nKULLANIM ALANLARI VE MESLEK GRUPLARI\nYönetici asistanları, proje yöneticileri, danışmanlar ve müşteri ilişkileri ekiplerinin hediye çalışmalarında düşünülebilir. Toplantı ve iş ortağı ziyaretleri için planlanan siparişlerde ihtiyaç tarihi önceden belirtilerek temin durumu kontrol edilmelidir.\n\nTEKNİK BİLGİLER\n• Model: UB-450\n• Ürün tipi: Metal kalem USB bellek\n• Gövde: Klipsli kalem formu\n• Kayıtta yer alan kapasiteler: 16 ve 32 GB\n• Sipariş öncesinde güncel temin durumu teyit edilmelidir.\n\nLOGO UYGULAMASI\nLogo alanı, klips ve gövde birleşim noktaları dikkate alınarak belirlenir. Baskı yöntemi ve tasarım ölçüsü ürün yüzeyi incelendikten sonra netleştirilir. Sipariş planı, ürünün temin edilebilirliği ve uygulama süresi birlikte değerlendirilerek hazırlanır.\n\nTOPLU SİPARİŞ VE FİYAT\nAdet, kapasite ve logo uygulamasına göre fiyat teklifi hazırlanır. İhtiyaç duyulan teslim tarihi ve tasarım dosyası paylaşılarak sipariş detayları netleştirilebilir.",
+  "faq": [
+    {
+      "q": "UB-450 için hemen sipariş verilebilir mi?",
+      "a": "Güncel temin durumu sipariş öncesinde teyit edilmelidir. İstenen adet, kapasite ve ihtiyaç tarihi paylaşılarak bilgi alınabilir."
+    },
+    {
+      "q": "Logo uygulamalı toplu sipariş için nasıl teklif alabilirim?",
+      "a": "İstenen adet, kapasite, varsa renk tercihi ve logo dosyasını iletebilirsiniz. Temin durumu, uygulama yöntemi ve teslim süresi birlikte değerlendirilerek teklif hazırlanır."
+    }
+  ],
+  "availability": "https://schema.org/OutOfStock"
+},
+{
+  "id": "p683",
+  "slug": "promosyon-oval-govdeli-isikli-usb-bellek",
+  "title": "Promosyon Oval Gövdeli Işıklı USB Bellek",
+  "category": "USB Bellek",
+  "image": "/products/promosyon-oval-govdeli-isikli-usb-bellek.jpg",
+  "gallery": [
+    "/products/promosyon-oval-govdeli-isikli-usb-bellek.jpg"
+  ],
+  "shortDesc": "Oval logo alanına ve ışıklı tasarıma sahip USB bellek, kurumsal hediyeler için değerlendirilebilir. Kapasite ve logo uygulaması için teklif alın.",
+  "longDesc": "Promosyon Oval Gövdeli Işıklı USB Bellek\n\nOval gövdeli ışıklı USB bellek, bağlantı bölümünün üzerinde genişleyen yuvarlatılmış logo alanıyla öne çıkar. Görselde siyah gövde üzerinde ışıklı logo örneği yer alır. Dikdörtgen USB tasarımlarından farklı bir siluet arayan firmalar için görsel bir alternatif sunar.\n\nKULLANIM ALANLARI VE MESLEK GRUPLARI\nEtkinlik ajansları, teknoloji girişimleri, reklam ekipleri ve tanıtım organizasyonları tarafından değerlendirilebilir. Özellikle yuvarlak veya oval amblem kullanan markalarda, logo yerleşimi gövdenin biçimiyle birlikte incelenebilir.\n\nTEKNİK BİLGİLER\n• Ürün tipi: Işıklı logo USB bellek\n• Tasarım: Oval biçimde genişleyen gövde\n• Görseldeki gövde rengi: Siyah\n• Gövde ucunda askı açıklığı bulunur.\n• Kapasite, bağlantı standardı, kutu içeriği ve temin durumu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\nIşıklı logo uygulamasında çizgi kalınlıkları ve küçük yazıların okunabilirliği değerlendirilir. Gönderilen tasarımın oval alana yerleşimi, uygulama yöntemi ve ışıklı görünüm sipariş öncesinde netleştirilir. Görselde kutu da yer alır; kutunun teklife dahil olup olmadığı ayrıca teyit edilir.\n\nTOPLU SİPARİŞ VE FİYAT\nAdet, kapasite ve logo uygulamasına göre fiyat teklifi hazırlanır. İhtiyaç duyulan teslim tarihi ve tasarım dosyası paylaşılarak sipariş detayları netleştirilebilir.",
+  "faq": [
+    {
+      "q": "Bu modele hangi logolar uygulanabilir?",
+      "a": "Logo dosyası incelenerek oval alana yerleşim ve ışıklı uygulamaya uygunluk değerlendirilir. İnce çizgiler ve küçük yazılar için tasarımın düzenlenmesi gerekebilir."
+    },
+    {
+      "q": "Logo uygulamalı toplu sipariş için nasıl teklif alabilirim?",
+      "a": "İstenen adet, kapasite, varsa renk tercihi ve logo dosyasını iletebilirsiniz. Temin durumu, uygulama yöntemi ve teslim süresi birlikte değerlendirilerek teklif hazırlanır."
+    }
+  ]
 },
 ];
 
