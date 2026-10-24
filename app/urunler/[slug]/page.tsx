@@ -140,10 +140,10 @@ export default async function ProductPage({ params }: PageProps) {
             "@type": "Offer",
             price: product.price,
             priceCurrency: "TRY",
-            availability: "https://schema.org/InStock",
+            availability: product.availability ?? "https://schema.org/InStock",
             itemCondition: "https://schema.org/NewCondition",
             url: productUrl,
-            priceValidUntil: "2026-12-31",
+
           },
         }
       : {}),

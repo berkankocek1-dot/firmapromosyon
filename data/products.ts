@@ -1,4 +1,5 @@
 export type Product = {
+  availability?: "https://schema.org/InStock" | "https://schema.org/OutOfStock";
   id: string;
   slug: string;
   title: string;
@@ -75018,6 +75019,452 @@ Promosyon Seramik Kupa 275 ml SK-110 modeli; kaliteli seramik gövdesi, süblima
       a: "Evet. Fuarlar, etkinlikler, müşteri hediyeleri ve çalışan motivasyon projeleri için ideal promosyon kupa modellerinden biridir."
     }
   ]
+},
+{
+    "id":  "p665",
+    "slug":  "promosyon-metal-versatil-kalem-mk-195",
+    "title":  "Promosyon Metal Versatil Kalem MK-195 | 0,7 mm Uçlu",
+    "price":  38,
+    "category":  "Kalem",
+    "image":  "/products/promosyon-metal-versatil-kalem-mk-195.jpg",
+    "gallery":  [
+                    "/products/promosyon-metal-versatil-kalem-mk-195.jpg"
+                ],
+    "shortDesc":  "0,7 mm uçlu promosyon metal versatil kalem MK-195; kırmızı, beyaz, siyah ve lacivert seçenekleriyle sunulur. Logo uygulamalı toplu sipariş için teklif alın.",
+    "longDesc":  "0,7 mm Uçlu Promosyon Metal Versatil Kalem MK-195\n\nPromosyon metal versatil kalem MK-195, değiştirilebilir 0,7 mm uç kullanılan bir kalem modelidir. Renkli metal gövdesi ve klipsli tasarımıyla günlük not alma, ofis çalışmaları ve eğitim ihtiyaçlarında değerlendirilebilir.\n\nVersatil kalem tercih eden kullanıcılar için hazırlanan kurumsal hediyelerde ürünün kullanım amacı önemlidir. MK-195; çalışanlara sunulacak ofis ürünlerinde, eğitim etkinliklerinde ve müşteri ziyaretlerinde değerlendirilebilecek bir promosyon kalem alternatifidir. Firma logosu veya marka adı için uygulama alanı, ürün yüzeyi ve tasarım birlikte değerlendirilir.\n\nMETAL GÖVDE VE TASARIM\nMK-195\u0027in renkli gövdesine siyah klips, üst bölüm ve uç detayları eşlik eder. Gövde üzerindeki ince metal tonlu halkalar tasarımı tamamlar. Kalemin klipsli yapısı, defter veya dosya yanında taşımak isteyen kullanıcılar için kullanışlı bir detaydır.\n\nTEKNİK ÖZELLİKLER\n• Model: MK-195\n• Ürün türü: Metal versatil kalem\n• Uç kalınlığı: 0,7 mm\n• Gövde: Metal\n• Tasarım: Renkli gövde, siyah klips ve uç detayları\n\nRENK SEÇENEKLERİ\n• Kırmızı\n• Beyaz\n• Siyah\n• Lacivert\n\nRenklerin siparişe uygunluğu, istenen adet ve güncel stok durumuna göre teyit edilir.\n\nLOGO UYGULAMASI\nFirma logosu, marka adı veya kurumsal mesaj için uygun uygulama yöntemi ve baskı alanı sipariş öncesinde belirlenir. Logonuzun detayları, gövde rengi ve sipariş miktarı dikkate alınarak teklif hazırlanır.\n\nKULLANIM ALANLARI\n• Ofis ve günlük not alma\n• Eğitim kurumları ve seminerler\n• Çalışan hediyeleri\n• Müşteri ve bayi ziyaretleri\n• Kurumsal tanıtım etkinlikleri\n\nTOPLU SİPARİŞ VE FİYAT\nPromosyon metal versatil kalem MK-195 için gösterilen ürün fiyatına baskı dahil değildir. Logo uygulaması, sipariş adedi ve teslimat detayları üzerinden toplam teklif hazırlanır. Minimum sipariş adedi ve teslim süresi teklif aşamasında netleştirilir.\n\n0,7 mm uçlu logo baskılı versatil kalem siparişi için tercih ettiğiniz rengi, adedi ve logonuzu ileterek bizimle iletişime geçebilirsiniz.",
+    "faq":  [
+                {
+                    "a":  "MK-195, 0,7 mm uç kullanılan bir versatil kalem modelidir.",
+                    "q":  "MK-195 hangi uç kalınlığıyla kullanılır?"
+                },
+                {
+                    "a":  "MK-195 metal gövdeye sahiptir. Siyah klips ve uç detayları renkli gövde tasarımını tamamlar.",
+                    "q":  "Kalemin gövdesi hangi malzemeden üretilmiştir?"
+                },
+                {
+                    "a":  "Kırmızı, beyaz, siyah ve lacivert seçenekleri bulunur. İstenen renk ve adedin temin durumu sipariş öncesinde teyit edilir.",
+                    "q":  "Hangi renk seçenekleri bulunmaktadır?"
+                },
+                {
+                    "a":  "Logo uygulaması için uygun yöntem ve baskı alanı, ürün yüzeyi ve tasarım değerlendirilerek sipariş öncesinde netleştirilir.",
+                    "q":  "Üzerine firma logosu uygulanabilir mi?"
+                },
+                {
+                    "a":  "Gösterilen ürün fiyatı baskı hariçtir. Logo uygulaması, adet ve teslimat detaylarına göre toplam teklif hazırlanır.",
+                    "q":  "Gösterilen fiyata logo baskısı dahil mi?"
+                }
+            ]
+},
+{
+    "id":  "p666",
+    "slug":  "promosyon-metal-kalem-mk-365",
+    "title":  "Promosyon Metal Kalem MK-365 | Uzun Klipsli Tasarım",
+    "category":  "Kalem",
+    "image":  "/products/promosyon-metal-kalem-mk-365.jpg",
+    "gallery":  [
+                    "/products/promosyon-metal-kalem-mk-365.jpg"
+                ],
+    "shortDesc":  "Promosyon metal kalem MK-365, koyu gövdesi ve uzun klips tasarımıyla kurumsal hediyelerde değerlendirilebilir. Logo uygulaması ve toplu sipariş için teklif alın.",
+    "longDesc":  "Uzun Klipsli Promosyon Metal Kalem MK-365\n\nPromosyon metal kalem MK-365, koyu gövdesi, uzun klipsi ve metal tonlu halka detayıyla sade bir tasarıma sahiptir. Ofis kullanımı, müşteri ziyaretleri ve kurumsal hediye çalışmaları için değerlendirilebilecek bir metal kalem modelidir.\n\nKalemin düz hatları ve koyu yüzeyi, gösterişsiz bir kurumsal ürün tercih eden firmalar için görsel bir alternatif sunar. Üst bölüm boyunca uzanan klips ve gövdeyi ayıran ince halka, tasarımın belirgin parçalarıdır.\n\nTASARIM VE ÜRÜN BİLGİLERİ\n• Model: MK-365\n• Ürün türü: Promosyon metal kalem\n• Koyu renkli gövde\n• Uzun klips tasarımı\n• Metal tonlu halka detayı\n• Konik uç görünümü\n\nGörsel ürünün tasarımını gösterir. Siparişe açık renkler, temin durumu ve ayrıntılı teknik bilgiler teklif aşamasında teyit edilir.\n\nKURUMSAL LOGO UYGULAMASI\nMK-365 üzerine firma logosu, marka adı veya kurumsal mesaj uygulanması için uygun yöntem ve baskı alanı sipariş öncesinde belirlenir. Logo detayları, kalemin yüzeyi ve istenen adet birlikte değerlendirilerek uygulama seçenekleri hakkında bilgi verilir.\n\nKULLANIM ALANLARI\n• Kurumsal müşteri hediyeleri\n• Çalışanlara yönelik ofis ürünleri\n• Bayi ve iş ortağı ziyaretleri\n• Toplantı ve seminerler\n• Fuar ve tanıtım organizasyonları\n\nTOPLU SİPARİŞ VE FİYAT\nPromosyon metal kalem MK-365 için fiyat teklif üzerinden belirlenir. Sipariş miktarı, logo uygulaması ve teslimat detayları toplam tutarı etkileyebilir. İstenen adet ve logonuz üzerinden güncel fiyat çalışması talep edebilirsiniz.\n\nSİPARİŞ ÖNCESİ BİLGİLENDİRME\nGüncel temin durumu, minimum sipariş adedi, baskı alanı ve teslim süresi sipariş öncesinde netleştirilir. MK-365 hakkında bilgi almak veya alternatif metal kalem modellerini değerlendirmek için bizimle iletişime geçebilirsiniz.",
+    "faq":  [
+                {
+                    "a":  "MK-365; koyu gövde, uzun klips ve metal tonlu halka detaylarına sahip bir promosyon metal kalem modelidir.",
+                    "q":  "MK-365 nasıl bir kalem modelidir?"
+                },
+                {
+                    "a":  "Logo uygulaması için uygun yöntem ve baskı alanı, ürün yüzeyi ve tasarım değerlendirilerek sipariş öncesinde netleştirilir.",
+                    "q":  "Üzerine firma logosu uygulanabilir mi?"
+                },
+                {
+                    "a":  "Güncel ürün fiyatı ve logo uygulama bedeli, sipariş adedi ve teslimat detaylarına göre teklif üzerinden belirlenir.",
+                    "q":  "MK-365 fiyatı nasıl belirlenir?"
+                },
+                {
+                    "a":  "Minimum adet ve teslim süresi, güncel temin durumu ve logo uygulamasına göre teklif aşamasında bildirilir.",
+                    "q":  "Minimum sipariş adedi ve teslim süresi nedir?"
+                }
+            ]
+},
+{
+    "id":  "p667",
+    "slug":  "promosyon-plastik-kalem-pls-225",
+    "title":  "Promosyon Plastik Kalem PLS-225 | İnce Uçlu, Logo Baskılı",
+    "price":  12.2,
+    "category":  "Kalem",
+    "image":  "/products/promosyon-plastik-kalem-pls-225.jpg",
+    "gallery":  [
+                    "/products/promosyon-plastik-kalem-pls-225.jpg"
+                ],
+    "shortDesc":  "İnce uçlu, basmalı promosyon plastik kalem PLS-225; yerli üretim, UV ve tampon baskı seçenekleriyle sunulur. Renk ve toplu sipariş için teklif alın.",
+    "longDesc":  "İnce Uçlu, Basmalı Promosyon Plastik Kalem PLS-225\n\nPromosyon plastik kalem PLS-225, ince uçlu yazım yapısı ve basmalı mekanizmasıyla günlük not alma ihtiyaçlarında değerlendirilebilecek yerli üretim bir modeldir. Renkli gövdesi, klipsli tasarımı ve logo uygulama seçenekleriyle kurumsal tanıtım çalışmalarına uyarlanabilir.\n\nFirma logosu, marka adı veya iletişim bilgisini kullanışlı bir ürün üzerinde sunmak isteyen işletmeler için promosyon kalem seçimi; hedef kitle, kullanım alanı ve sipariş miktarı birlikte değerlendirilerek yapılır. PLS-225, ofis içi dağıtımlardan fuar ziyaretçilerine verilecek ürünlere kadar farklı çalışmalarda kullanılabilir.\n\nTASARIM VE GÜNLÜK KULLANIM\nBasmalı mekanizma, kalemi ayrı bir kapak taşımadan kullanmaya olanak tanır. İnce uçlu yapısı; not alma, form doldurma ve toplantılarda yazı yazma gibi günlük işler için değerlendirilebilir. Gövde üzerindeki klips, kalemi defter veya dosya yanında taşımaya yardımcı olur.\n\nKİMLER İÇİN UYGUN?\n• Müşterilerine kullanışlı bir tanıtım ürünü vermek isteyen işletmeler\n• Çalışanları için kurumsal ofis kalemi arayan firmalar\n• Fuar ve etkinlik dağıtımı planlayan pazarlama ekipleri\n• Öğrenci ve kursiyerlerine kalem sunmak isteyen eğitim kurumları\n• Bayi ziyaretlerinde marka kimliğini yansıtmak isteyen şirketler\n\nHANGİ MESLEK GRUPLARINDA DEĞERLENDİRİLEBİLİR?\n• Emlak danışmanları: Portföy sunumları, müşteri görüşmeleri ve ofis kullanımı\n• Mali müşavirler ve muhasebe ofisleri: Evrak takibi, günlük notlar ve müşteri ziyaretleri\n• Sigorta acenteleri: Teklif görüşmeleri ve müşterilere sunulan tanıtım ürünleri\n• Avukatlar ve danışmanlar: Toplantılar, dosya notları ve kurumsal ofis kullanımı\n• Öğretmenler ve eğitmenler: Kurs, seminer ve eğitim materyallerine eşlik eden kalemler\n• Satış temsilcileri: Bayi görüşmeleri, saha ziyaretleri ve müşteri tanıtım setleri\n• Otel ve turizm işletmeleri: Resepsiyon, toplantı salonu ve misafir kullanım alanları\n\nBu örnekler kullanım önerileridir. Logo tasarımı, renk seçimi ve dağıtım adedi kurumun ihtiyacına göre planlanabilir.\n\nTEKNİK ÖZELLİKLER\n• Model: PLS-225\n• Ürün türü: Promosyon plastik kalem\n• Uç özelliği: İnce uçlu\n• Mekanizma: Basmalı\n• Baskı seçenekleri: UV baskı ve tampon baskı\n• Üretim: Yerli üretim\n• Paket adedi: 100\n• Koli adedi: 2.000\n\nRENK SEÇENEKLERİ\n• Yeşil\n• Kırmızı\n• Siyah\n• Sarı\n• Turkuaz\n• Turuncu\n• Füme\n• Lacivert\n• Beyaz\n\nKurumsal renklere uygun seçim yapılırken logonun gövde üzerinde nasıl görüneceği de dikkate alınmalıdır. Renklerin siparişe uygunluğu, istenen adet ve güncel stok üzerinden teyit edilir.\n\nUV VE TAMPON LOGO BASKISI\nPLS-225 üzerine UV veya tampon baskı uygulanabilir. Uygun yöntem; logonun çizgileri, renk sayısı, gövde rengi ve uygulanacak alan değerlendirilerek belirlenir. Firma logosu, marka adı veya kısa bir kurumsal mesaj için tasarım çalışması talep edebilirsiniz.\n\nKULLANIM ALANLARI\n• Fuar ve tanıtım organizasyonları\n• Kurumsal ofis kullanımı\n• Seminer ve eğitim etkinlikleri\n• Müşteri ve bayi ziyaretleri\n• Açılış ve kampanya dağıtımları\n• Defter ve dosya içeren kurumsal tanıtım paketleri\n\nFİYAT VE TOPLU SİPARİŞ\nGösterilen ürün fiyatı baskı hariçtir. Toplam teklif; sipariş adedi, baskı yöntemi, logo renkleri ve teslimat detaylarına göre hazırlanır. Paket ve koli adetleri ambalaj bilgisidir; minimum sipariş miktarı teklif aşamasında ayrıca netleştirilir.\n\nSİPARİŞ NASIL VERİLİR?\nTercih ettiğiniz kalem rengini, adedi ve logonuzu ileterek teklif talep edebilirsiniz. Baskı tasarımı ve güncel stok kontrolünden sonra teslim süresi bildirilir. Logo baskılı PLS-225 siparişiniz için WhatsApp veya teklif formu üzerinden bizimle iletişime geçebilirsiniz.",
+    "faq":  [
+                {
+                    "a":  "PLS-225, basmalı mekanizmaya sahip ince uçlu bir promosyon plastik kalemdir.",
+                    "q":  "PLS-225 hangi mekanizmaya sahiptir?"
+                },
+                {
+                    "a":  "Evet. PLS-225 yerli üretim bir kalem modelidir.",
+                    "q":  "PLS-225 yerli üretim mi?"
+                },
+                {
+                    "a":  "UV ve tampon baskı uygulanabilir. Yöntem ve baskı alanı, logo tasarımı ve gövde rengine göre sipariş öncesinde belirlenir.",
+                    "q":  "Kaleme hangi baskı yöntemleri uygulanabilir?"
+                },
+                {
+                    "a":  "Yeşil, kırmızı, siyah, sarı, turkuaz, turuncu, füme, lacivert ve beyaz seçenekleri bulunur. İstenen renk ve adet için güncel stok teyit edilir.",
+                    "q":  "Hangi renk seçenekleri bulunmaktadır?"
+                },
+                {
+                    "a":  "Paket adedi 100, koli adedi 2.000\u0027dir. Bu rakamlar ambalaj bilgisidir; minimum sipariş miktarı ayrıca teklif aşamasında netleştirilir.",
+                    "q":  "Paket ve koli adetleri kaçtır?"
+                },
+                {
+                    "a":  "Ofisler, eğitim kurumları, emlak ve sigorta acenteleri, muhasebe ve danışmanlık ofisleri ile fuar dağıtımı planlayan firmalar tarafından değerlendirilebilir.",
+                    "q":  "PLS-225 hangi işletmeler için uygundur?"
+                },
+                {
+                    "a":  "Gösterilen ürün fiyatı baskı hariçtir. Logo uygulaması, sipariş adedi ve teslimat detaylarına göre toplam teklif hazırlanır.",
+                    "q":  "Ürün fiyatına logo baskısı dahil mi?"
+                }
+            ]
+},
+{
+    "id":  "p668",
+    "slug":  "promosyon-plastik-kalem-pls-285",
+    "title":  "Promosyon Jel Kalem PLS-285 | Üçgen Gövdeli, İnce Uçlu",
+    "price":  12.4,
+    "availability":  "https://schema.org/OutOfStock",
+    "category":  "Kalem",
+    "image":  "/products/promosyon-plastik-kalem-pls-285.jpg",
+    "gallery":  [
+                    "/products/promosyon-plastik-kalem-pls-285.jpg"
+                ],
+    "shortDesc":  "Üçgen gövdeli, ince uçlu promosyon jel kalem PLS-285; basmalı mekanizmalı, yerli üretimdir. UV ve tampon logo baskısı için temin durumunu sorunuz.",
+    "longDesc":  "Üçgen Gövdeli İnce Uçlu Promosyon Jel Kalem PLS-285\n\nPromosyon plastik jel kalem PLS-285, üçgen gövdesi ve basmalı mekanizmasıyla günlük yazı ihtiyaçları için değerlendirilebilecek bir modeldir. İnce uçlu jel refili; not alma, toplantı kayıtları ve masa başı yazışmalarında kullanılabilir. Renkli gövdesi üzerine uygulanacak firma logosu, ürünü kurumsal tanıtım çalışmalarına uygun bir hediyeye dönüştürür.\n\nÜÇGEN GÖVDE VE GÜNLÜK KULLANIM\n\nPLS-285\u0027in belirgin tasarım özelliği üçgen gövdesidir. Yuvarlak gövdeden farklı bir tutuş formu arayan kullanıcılar için alternatif sunar. Basmalı mekanizma, ayrı bir kapak taşımadan kalemin ucunun açılıp kapanmasını sağlar. İnce uçlu jel kalem tercih edenler; ajanda notları, eğitim çalışmaları ve ofis içi kayıtlar için bu modeli değerlendirebilir.\n\nKİMLER İÇİN UYGUN?\n\n• Çalışanlarına günlük kullanım ürünü sunmak isteyen işletmeler\n• Fuar, seminer ve bayi toplantıları düzenleyen firmalar\n• Eğitim etkinlikleri için logo baskılı kalem hazırlatan kurumlar\n• Müşteri ziyaretlerinde kullanışlı bir tanıtım hediyesi sunmak isteyen ekipler\n• Kurumsal kimliğine uygun renklerde promosyon ürünü arayan markalar\n\nHANGİ MESLEK GRUPLARINDA DEĞERLENDİRİLEBİLİR?\n\n• Muhasebeciler ve mali müşavirler: Görüşme notları ve ofis kullanımı için\n• Sigorta danışmanları: Müşteri görüşmeleri ve tanıtım dağıtımları için\n• Emlak danışmanları: Portföy sunumları ve müşteri ziyaretleri için\n• Avukatlar ve danışmanlar: Toplantı ve randevu notları için\n• Öğretmenler ve eğitim danışmanları: Seminer ve eğitim organizasyonları için\n• Satış temsilcileri: Bayi ziyaretleri ve müşteri toplantıları için\n• Otel ve etkinlik ekipleri: Karşılama masaları ve organizasyon dosyaları için\n\nBu örnekler kullanım önerisidir. Belirli bir belge üzerinde kullanılacak mürekkep özellikleri gerekiyorsa sipariş öncesinde ayrıca teyit edilmelidir.\n\nTEKNİK BİLGİLER\n\n• Model: PLS-285\n• Ürün türü: Promosyon plastik jel kalem\n• Gövde formu: Üçgen\n• Mekanizma: Basmalı\n• Refil: İnce uçlu jel refil\n• Baskı seçenekleri: UV baskı ve tampon baskı\n• Üretim: Yerli üretim\n• Paket içi miktar: 100 adet\n• Koli içi miktar: 2000 adet\n\nPaket ve koli miktarları ambalaj bilgisidir; minimum sipariş adedi olarak değerlendirilmemelidir. Mürekkep rengi, sayısal uç kalınlığı ve ürün ölçüleri sipariş öncesinde teyit edilir.\n\nRENK ALTERNATİFLERİ VE TEMİN DURUMU\n\nModelin renk alternatifleri siyah, pembe, lacivert, kırmızı, füme, turuncu, mor, yeşil, gri, turkuaz, beyaz ve sarıdır. Bu seçenekler modelin renk çeşitlerini belirtir; tüm renklerin siparişe hazır olduğu anlamına gelmez. Ürünün mevcut temin durumu, istenen renk ve adet için teklif aşamasında doğrulanır.\n\nLOGO BASKISI NASIL PLANLANIR?\n\nPLS-285 üzerine UV baskı veya tampon baskı uygulanabilir. Yöntem seçilirken logonun renkleri, ince detayları, seçilen gövde rengi ve uygulama alanı birlikte değerlendirilir. Tasarımın okunaklı olması için logo dosyası üzerinden baskı yerleşimi hazırlanması önerilir. Baskı alanının ölçüsü ve uygulama bedeli teklif sırasında netleştirilir.\n\nKULLANIM ALANLARI\n\n• Fuar ve kongre katılımcı dosyaları\n• Eğitim ve seminer setleri\n• Kurumsal toplantılar\n• Müşteri ve bayi ziyaretleri\n• Çalışan karşılama paketleri\n• Ofis içi günlük kullanım\n• Marka tanıtım kampanyaları\n\nPLS-285 FİYATI VE TOPLU SİPARİŞ\n\nGösterilen fiyat ürünün baskısız birim fiyatıdır. KDV, logo uygulaması ve teslimat koşulları teklif aşamasında ayrıca netleştirilir. Sipariş adedi, renk seçimi, baskı yöntemi ve temin durumu toplam tutarı etkileyebilir.\n\nPromosyon jel kalem PLS-285 için firma logonuzu, istediğiniz adedi ve renk tercihinizi ileterek teklif isteyebilirsiniz. Temin durumu ve teslim süresi doğrulanmadan etkinlik tarihi için kesin planlama yapılmamalıdır.",
+    "faq":  [
+                {
+                    "a":  "Evet. PLS-285, ince uçlu jel refil kullanılan bir promosyon plastik kalem modelidir.",
+                    "q":  "PLS-285 jel kalem mi?"
+                },
+                {
+                    "a":  "PLS-285 üçgen gövdeli ve basmalı mekanizmalıdır. Kullanım sırasında ayrı bir kapak taşınması gerekmez.",
+                    "q":  "Kalemin gövde ve mekanizma özellikleri nelerdir?"
+                },
+                {
+                    "a":  "UV baskı ve tampon baskı uygulanabilir. Baskı alanı, yöntem ve tasarım yerleşimi sipariş öncesinde netleştirilir.",
+                    "q":  "Üzerine hangi yöntemlerle logo baskısı yapılabilir?"
+                },
+                {
+                    "a":  "Siyah, pembe, lacivert, kırmızı, füme, turuncu, mor, yeşil, gri, turkuaz, beyaz ve sarı modelin renk alternatifleridir. Siparişe açık renkler ayrıca teyit edilir.",
+                    "q":  "Hangi renk seçenekleri vardır?"
+                },
+                {
+                    "a":  "Ürünün temin durumu istenen renk ve adet için teklif aşamasında doğrulanır. Listelenmesi, hemen teslim edilebileceği anlamına gelmez.",
+                    "q":  "PLS-285 şu anda temin edilebilir mi?"
+                },
+                {
+                    "a":  "Hayır. Paket içi miktar 100, koli içi miktar 2000 adettir. Minimum sipariş ve baskı koşulları ayrıca netleştirilir.",
+                    "q":  "100 adet paket bilgisi minimum sipariş anlamına mı gelir?"
+                },
+                {
+                    "a":  "Gösterilen birim fiyat baskı hariçtir. Logo uygulaması, KDV ve teslimat koşulları teklif aşamasında ayrıca netleştirilir.",
+                    "q":  "Gösterilen fiyata logo baskısı dahil mi?"
+                }
+            ]
+},
+{
+    "id":  "p669",
+    "slug":  "promosyon-plastik-kalem-pls-490",
+    "title":  "Promosyon Plastik Kalem PLS-490 | Geniş Köşeli Klips",
+    "price":  8.7,
+    "category":  "Kalem",
+    "image":  "/products/promosyon-plastik-kalem-pls-490.jpg",
+    "gallery":  [
+                    "/products/promosyon-plastik-kalem-pls-490.jpg"
+                ],
+    "shortDesc":  "Geniş köşeli klipsli promosyon plastik kalem PLS-490; 11 renk alternatifiyle fuar, mağaza açılışı ve kurumsal setler için logo uygulamalı teklif alın.",
+    "longDesc":  "Geniş Köşeli Klipsiyle Dikkat Çeken Promosyon Plastik Kalem PLS-490\n\nPLS-490, üst bölümündeki geniş ve köşeli klipsi renkli plastik gövdeyle birleştiren bir promosyon kalem modelidir. Gövde ve klipsin aynı renk ailesinde devam etmesi, tasarıma bütünlük kazandırır. Beyaz ve siyah gibi sade seçeneklerin yanında pembe, mor ve fıstık yeşili gibi canlı alternatifler de sunar.\n\nBu model, etkinlikte dağıtılacak kalemin görünümünü kurumsal renklerle birlikte değerlendirmek isteyen işletmeler için düşünülebilir. Ajanda, dosya veya not defteriyle hazırlanacak tanıtım paketlerinde renk uyumu kurulmasına olanak verir.\n\nPLS-490\u0027IN TASARIMINI ÖNE ÇIKARAN DETAYLAR\n\nKalemin görsel karakterini geniş klips yüzeyi ve aşağı doğru daralan gövde formu oluşturur. Klips üzerindeki düz görünüm, logo yerleşimi hazırlanırken değerlendirilebilecek bir alandır. Bununla birlikte kullanılabilecek gerçek baskı ölçüsü, yüzey yapısı ve uygulama yöntemi üretim öncesinde kontrol edilmelidir.\n\nAz sayıda öğe içeren bir tasarımda firma logosu ön plana çıkarılabilir. Logo, telefon numarası ve uzun bir sloganın aynı alanda kullanılması ise okunabilirliği azaltabilir. Bu nedenle yerleşimin kalem üzerindeki gerçek ölçekte incelenmesi, sipariş kararını kolaylaştırır.\n\nHANGİ TANITIM ÇALIŞMALARINDA KULLANILABİLİR?\n\n• Mağaza açılışlarında alışveriş çantasına eklenecek küçük hediyeler\n• Kurs kayıt dönemlerinde tanıtım dosyaları\n• Bayi toplantılarında defter ve katalogla hazırlanan setler\n• Fuar stantlarında ziyaretçilere sunulan marka ürünleri\n• Yeni çalışanlar için hazırlanan karşılama paketleri\n• Yerel işletmelerin müşteri ziyaretleri\n\nKİMLER İÇİN UYGUN?\n\nPLS-490, özellikle farklı kampanyalarda farklı renk kullanmayı planlayan markalar için değerlendirilebilir. Bir eğitim kurumunun bölümlerini, bir işletmenin şubelerini veya bir etkinliğin katılımcı gruplarını renklerle ayırmak isteyen ekipler, modelin renk çeşitliliğinden yararlanabilir.\n\nMESLEK VE SEKTÖRLERE GÖRE KULLANIM ÖNERİLERİ\n\nEğitim danışmanları ve kurs yöneticileri, kayıt görüşmelerinde verilen tanıtım dosyalarını kalemle tamamlayabilir. Otomotiv satış danışmanları, araç tanıtım kataloglarının yanında kurumsal bir hediye olarak sunabilir.\n\nTurizm acenteleri, seyahat bilgilendirme dosyalarında marka renklerine uygun bir kalem tercih edebilir. Perakende mağazaları ve franchise işletmeleri ise şube açılışları veya dönemsel kampanyalar için değerlendirebilir.\n\nİnsan kaynakları uzmanları, çalışanlara hazırlanan başlangıç setlerinde; etkinlik ajansları da katılımcı paketlerinde kullanabilir. Bu örneklerde renk ve logo yerleşimi, kalemin hangi amaçla dağıtılacağına göre planlanır.\n\nÜRÜN BİLGİLERİ\n\n• Ürün kodu: PLS-490\n• Ürün grubu: Promosyon plastik kalem\n• Gövde görünümü: Renkli plastik gövde\n• Klips tasarımı: Geniş ve köşeli form\n• Renk çeşitliliği: 11 alternatif\n• Kategori: Kalem\n\nMürekkep rengi, refil türü, sayısal uç kalınlığı, ürün ölçüleri ve ambalaj miktarı sipariş öncesinde teyit edilir. Belirli bir teknik özellik arayan müşterilerimizin bu bilgiyi teklif talebinde belirtmesi önerilir.\n\nRENK SEÇENEKLERİ\n\nBeyaz, siyah, lacivert, turkuaz, pembe, kırmızı, yeşil, fıstık yeşili, mor, sarı ve turuncu.\n\nGövde rengi seçilirken yalnızca kurumsal renge yakınlık değil, uygulanacak logonun görünürlüğü de dikkate alınmalıdır. Ekrandaki ürün fotoğrafı ile fiziksel ürünün tonu arasında fark olabileceğinden, renk hassasiyeti bulunan çalışmalarda numune değerlendirmesi yapılabilir. İstenen renk ve miktarın temin durumu sipariş sırasında doğrulanır.\n\nLOGO UYGULAMASI VE SİPARİŞ HAZIRLIĞI\n\nFirma logonuzu mümkünse vektörel dosya olarak iletebilirsiniz. Kullanılabilecek uygulama yöntemi, baskı alanı ve renk sayısı ürün yüzeyi üzerinden değerlendirilerek belirlenir. Kalem gövdesi ve klips için farklı yerleşimler düşünülüyorsa her alanın uygunluğu ayrıca kontrol edilir.\n\nPLS-490 FİYATI\n\nGösterilen tutar baskısız ürünün birim fiyatıdır. Logo uygulaması, KDV ve teslimat koşulları teklif aşamasında ayrıca belirtilir. Toplam sipariş bedeli; adet, seçilen uygulama ve sevkiyat detaylarına göre hazırlanır.\n\nTeklif talebinizde PLS-490 ürün kodunu, istediğiniz rengi, adedi ve kullanım tarihini paylaşmanız yeterlidir. Böylece tasarım çalışması ve teslimat planı aynı ihtiyaç üzerinden değerlendirilebilir.",
+    "faq":  [
+                {
+                    "a":  "Geniş, köşeli klipsi ve renkli plastik gövdesi modelin belirgin tasarım özellikleridir.",
+                    "q":  "PLS-490\u0027ın tasarımında hangi özellik öne çıkar?"
+                },
+                {
+                    "a":  "Beyaz, siyah, lacivert, turkuaz, pembe, kırmızı, yeşil, fıstık yeşili, mor, sarı ve turuncu seçenekleri bulunur. İstenen renk ve miktar sipariş sırasında teyit edilir.",
+                    "q":  "PLS-490 hangi renklerde sunulur?"
+                },
+                {
+                    "a":  "Klips için logo yerleşimi değerlendirilebilir. Uygulanabilecek alan, yöntem ve baskı ölçüsü ürün yüzeyi incelenerek kesinleştirilir.",
+                    "q":  "Logo klips üzerine uygulanabilir mi?"
+                },
+                {
+                    "a":  "Ajanda, not defteri veya tanıtım dosyasıyla hazırlanacak setlerde değerlendirilebilir. Kalem rengi, setin diğer parçaları ve logo tasarımıyla birlikte seçilebilir.",
+                    "q":  "PLS-490 kurumsal hediye setlerinde kullanılabilir mi?"
+                },
+                {
+                    "a":  "Mürekkep rengi ve sayısal uç kalınlığı sipariş öncesinde teyit edilir. Belirli bir özellik gerekiyorsa teklif talebinde belirtilmelidir.",
+                    "q":  "Mürekkep rengi ve uç kalınlığı nedir?"
+                },
+                {
+                    "a":  "Gösterilen fiyat baskısız ürünün birim fiyatıdır. Logo uygulaması, KDV ve teslimat koşulları ayrıca tekliflendirilir.",
+                    "q":  "Kalem fiyatına baskı dahil mi?"
+                }
+            ]
+},
+{
+    "id":  "p670",
+    "slug":  "promosyon-plastik-kalem-pls-500",
+    "title":  "Promosyon Plastik Kalem PLS-500 | Beyaz Klipsli Renkli Gövde",
+    "price":  8.7,
+    "category":  "Kalem",
+    "image":  "/products/promosyon-plastik-kalem-pls-500.jpg",
+    "gallery":  [
+                    "/products/promosyon-plastik-kalem-pls-500.jpg"
+                ],
+    "shortDesc":  "Beyaz klipsi ve renkli gövdesiyle promosyon plastik kalem PLS-500; müşteri ziyaretleri ve ofis kullanımı için logo uygulamalı toplu sipariş teklifi alın.",
+    "longDesc":  "Beyaz Detaylı Renkli Promosyon Plastik Kalem PLS-500\n\nPromosyon plastik kalem PLS-500, renkli gövdesini beyaz klips ve beyaz uç bölümüyle tamamlayan bir modeldir. Gövdenin üst kısmından aşağıya uzanan geniş klips, kalemin belirgin tasarım öğesidir. Beyaz parçalarla renkli yüzeylerin bir arada kullanılması, iki tonlu bir görünüm oluşturur.\n\nKurumsal tanıtım çalışmasında hem açık renkli bir logo zemini hem de markaya uygun gövde rengi arayan işletmeler, PLS-500\u0027ü değerlendirebilir. Özellikle beyazın kurumsal tasarımda yer aldığı çalışmalarda kalemin görünümü; broşür, kartvizit ve dosya gibi diğer materyallerle birlikte planlanabilir.\n\nBEYAZ KLİPS TASARIMI NE SUNAR?\n\nRenkli bir kalemde logo yerleştirilecek yüzeyin tonu, tasarımın görünümünü etkiler. PLS-500\u0027ün beyaz klipsi, logo yerleşimi açısından incelenebilecek açık renkli bir alan sunar. Klips üzerine uygulama yapılabilmesi, kullanılabilir ölçü ve uygun yöntem ürün üzerinden teyit edilir.\n\nUzun firma adlarında yazı boyutunun fazla küçülmemesi için logo ile iletişim bilgisinin yerleşimi ayrı ayrı değerlendirilmelidir. Kalem üzerinde tek bir ana mesaj kullanılması, tasarımın daha kolay okunmasına yardımcı olabilir. Gövdeye uygulama düşünülüyorsa seçilen gövde rengiyle logo arasındaki kontrast da kontrol edilir.\n\nHANGİ İŞLETMELER İÇİN DEĞERLENDİRİLEBİLİR?\n\nPLS-500, müşterisiyle yüz yüze temas eden ve görüşme sonrasında küçük bir marka hediyesi sunmak isteyen işletmeler için bir seçenektir. Danışma masasında, randevu görüşmesinde veya hizmet dosyası tesliminde kullanılacak kalemler arasında değerlendirilebilir.\n\n• Seyahat acenteleri: Tur programı ve rezervasyon bilgilendirme dosyalarında\n• Sigorta ofisleri: Poliçe görüşmeleri ve müşteri ziyaretlerinde\n• Emlak ofisleri: Gayrimenkul sunumları ve portföy tanıtımlarında\n• Sürücü kursları: Kursiyer kayıt dosyaları ve eğitim paketlerinde\n• Teknik servis işletmeleri: Müşteriye verilen servis evraklarının yanında\n• Otel ve konaklama işletmeleri: Resepsiyon ve toplantı organizasyonlarında\n\nMESLEK GRUPLARINA GÖRE KULLANIM\n\nSatış danışmanları ve saha temsilcileri, görüşmede kullandıkları kalemi müşteriye hediye edebilir. Sigorta danışmanları ile emlak danışmanları, kurumsal iletişimlerini destekleyen bir tanıtım ürünü olarak değerlendirebilir.\n\nOfis yöneticileri ve satın alma sorumluları ise çalışan kullanımı ile dış dağıtım ihtiyacını aynı model üzerinden planlayabilir. Organizasyon sorumluları için beyaz klipsli renkli tasarım, katılımcı dosyalarındaki diğer basılı materyallerle görsel uyum kurmaya yardımcı olabilir.\n\nTEKNİK VE GÖRSEL ÖZELLİKLER\n\n• Model kodu: PLS-500\n• Ürün türü: Promosyon plastik kalem\n• Gövde görünümü: Renkli\n• Klips: Geniş, beyaz renkli\n• Uç bölümü: Beyaz renkli\n• Tasarım: Beyaz detaylarla tamamlanan iki tonlu görünüm\n• Kategori: Kalem\n\nMürekkep rengi, uç kalınlığı, refil yapısı, mekanizma, ürün boyutları ve paket miktarı için sipariş öncesinde bilgi alınmalıdır. Belirli bir yazım özelliği gerekiyorsa talebin teklif aşamasında belirtilmesi uygun ürün seçimini kolaylaştırır.\n\nGÖVDE RENKLERİ\n\nTuruncu, kırmızı, lacivert, turkuaz, siyah, yeşil, pembe, sarı, fıstık yeşili ve mor modelin renk alternatifleridir. Beyaz, klips ve uç bölümünde kullanılan detay rengidir.\n\nRenk alternatiflerinin listelenmesi, her rengin her miktarda hemen temin edilebildiği anlamına gelmez. Siparişe uygun renkler, istenen adet ve teslim tarihine göre kontrol edilir. Renk uyumunun kritik olduğu projelerde fiziksel numune üzerinden değerlendirme yapılabilir.\n\nLOGO DOSYASI VE UYGULAMA HAZIRLIĞI\n\nLogo dosyasıyla birlikte kullanılmasını istediğiniz firma adı veya iletişim bilgisini iletebilirsiniz. Uygulama yöntemi ve baskı alanı ürün yüzeyine göre belirlenir. Tasarım onayında yazıların okunabilirliği, yerleşim ve renk uyumu birlikte incelenmelidir.\n\nTOPLU SİPARİŞ VE FİYATLANDIRMA\n\nPLS-500 için gösterilen fiyat baskısız ürünün birim bedelidir. KDV, logo uygulaması ve teslimat koşulları teklif sırasında ayrıca netleştirilir. Sipariş adedi, kullanılacak uygulama ve sevkiyat planı toplam tutarın hazırlanmasında dikkate alınır.\n\nTeklif almak için istediğiniz gövde rengini, adedi, logo dosyanızı ve ihtiyaç tarihinizi paylaşabilirsiniz. Temin durumu kontrol edildikten sonra tasarım ve teslim süreci planlanır.",
+    "faq":  [
+                {
+                    "a":  "Modelin klipsi ve uç bölümü beyazdır. Renk seçenekleri kalemin gövde rengine göre sunulur.",
+                    "q":  "PLS-500\u0027ün beyaz olan bölümleri hangileridir?"
+                },
+                {
+                    "a":  "Turuncu, kırmızı, lacivert, turkuaz, siyah, yeşil, pembe, sarı, fıstık yeşili ve mor renk alternatifleri bulunur. İstenen rengin temin durumu sipariş öncesinde kontrol edilir.",
+                    "q":  "PLS-500 hangi gövde renklerine sahiptir?"
+                },
+                {
+                    "a":  "Logo yerleşimi için beyaz klips değerlendirilebilir. Uygulama yöntemi ve kullanılabilecek alan ürün üzerinden teyit edilerek tasarım hazırlanır.",
+                    "q":  "Beyaz klips üzerine firma logosu uygulanabilir mi?"
+                },
+                {
+                    "a":  "Mürekkep rengi ve uç kalınlığı sipariş öncesinde teyit edilir. Belirli bir yazım özelliği aranıyorsa teklif talebinde belirtilmelidir.",
+                    "q":  "Kalemin mürekkep rengi ve uç kalınlığı nedir?"
+                },
+                {
+                    "a":  "Sigorta, emlak, turizm, sürücü kursu ve teknik servis gibi müşteri görüşmesi yapılan işletmelerde; ayrıca ofis ve etkinlik çalışmalarında değerlendirilebilir.",
+                    "q":  "PLS-500 hangi işlerde tanıtım hediyesi olarak kullanılabilir?"
+                },
+                {
+                    "a":  "Gösterilen tutar baskısız ürünün birim fiyatıdır. KDV, logo uygulaması ve teslimat koşulları teklif aşamasında ayrıca netleştirilir.",
+                    "q":  "Listelenen fiyata neler dahildir?"
+                }
+            ]
+},
+{
+    "id":  "p671",
+    "slug":  "promosyon-roller-kalem-rk-120",
+    "title":  "Promosyon Roller Kalem RK-120 | Temalı Desenli Tasarım",
+    "price":  200,
+    "availability":  "https://schema.org/OutOfStock",
+    "category":  "Kalem",
+    "image":  "/products/promosyon-roller-kalem-rk-120.jpg",
+    "gallery":  [
+                    "/products/promosyon-roller-kalem-rk-120.jpg"
+                ],
+    "shortDesc":  "Atatürk, İstanbul ve Osmanlı temalı tasarımlarıyla promosyon roller kalem RK-120. Kapaklı, desenli model için güncel temin ve toplu sipariş bilgisi alın.",
+    "longDesc":  "Temalı Desenleriyle Kurumsal Hediyelik Roller Kalem RK-120\n\nPromosyon roller kalem RK-120, gövdesindeki figürlü desenleri siyah kapak ve altın tonlu detaylarla birleştiren kapaklı bir modeldir. Ürün görselinde Atatürk, İstanbul ve Osmanlı temalı üç farklı tasarım yer alır. Açık gümüş tonlu gövde üzerindeki koyu desenler, kalemin görünümünde belirleyici rol oynar.\n\nRK-120, hediye seçiminde tasarımın taşıdığı anlamı da dikkate alan kurumlar için değerlendirilebilir. Bir ziyaretin, etkinliğin veya iş ilişkisinin hatırası olarak sunulacak kalemde, seçilen temanın alıcıyla ve organizasyonla ilişkisi önem kazanır.\n\nATATÜRK, İSTANBUL VE OSMANLI TEMALI GÖRÜNÜM\n\nGörseldeki Atatürk temalı modelde portre ve imza biçimindeki detaylar; İstanbul temalı modelde şehir silüeti ve mimari öğeler; Osmanlı temalı modelde ise arma görünümündeki motifler öne çıkar.\n\nBunlar ürün fotoğrafında gösterilen tasarımlardır. Hangi desenin temin edilebildiği ve siparişe uygun seçenekler teklif sırasında ayrıca doğrulanır. Belirli bir etkinlik için seçim yapılacaksa istenen desenin adı veya referans görseli talebe eklenebilir.\n\nKAPAKLI TASARIM VE GÖRSEL DETAYLAR\n\nSiyah kapak, desenli gövdenin üst bölümünü tamamlar. Uzun klips, kapak halkaları ve uç çevresindeki altın tonlu parçalar tasarımın diğer belirgin öğeleridir. Bu renk ifadeleri ürünün görsel görünümünü tanımlar; kaplama veya malzeme bileşimi hakkında bir taahhüt değildir.\n\nDesenlerin kapladığı yüzey nedeniyle kişiselleştirme düşünülüyorsa yazı veya logo alanı ayrıca incelenmelidir. Hazır motifin üzerine uygulama yapılacağı varsayılmadan, uygun konum ve yöntem ürün üzerinden belirlenir.\n\nKİMLER İÇİN UYGUN?\n\nRK-120, iş ortaklarına veya davetlilerine temalı bir yazı gereci sunmak isteyen işletmeler için düşünülebilir. Özellikle toplantı, ziyaret ve anma organizasyonlarında hediyenin konusu ile etkinliğin amacı arasında bağ kurulmasına olanak verir.\n\n• İş ortaklarına ziyaret hediyesi hazırlayan şirketler\n• Konuklarına İstanbul temalı bir hatıra sunmak isteyen turizm işletmeleri\n• Kültür ve şehir temalı etkinlik düzenleyen kuruluşlar\n• Kurumsal yıl dönümü veya özel gün hediyesi planlayan ekipler\n• Yönetici ve müşteri hediyelerinde desenli kalem tercih eden işletmeler\n\nMESLEK GRUPLARINA GÖRE HEDİYE ÖNERİLERİ\n\nTurizm acenteleri ve otel yöneticileri, İstanbul temalı tasarımı konuk hediyesi olarak değerlendirebilir. Organizasyon sorumluları, seçilen motifi etkinliğin içeriğiyle eşleştirerek davetli hediyeleri hazırlayabilir.\n\nAvukatlar, mali müşavirler ve danışmanlar, iş ilişkilerindeki özel ziyaretler için bu modeli tercih edebilir. Şirket yöneticileri ile insan kaynakları ekipleri de yıl dönümü ve teşekkür hediyelerinde değerlendirebilir. Tasarım tercihi, hediyenin sunulacağı kişinin beğenisi dikkate alınarak yapılmalıdır.\n\nÜRÜN BİLGİLERİ\n\n• Ürün kodu: RK-120\n• Ürün grubu: Promosyon roller kalem\n• Tasarım: Kapaklı, desenli gövde\n• Kapak görünümü: Siyah\n• Gövde görünümü: Açık gümüş tonlu, koyu desenli\n• Detaylar: Altın tonlu klips, halka ve uç çevresi\n• Görseldeki temalar: Atatürk, İstanbul ve Osmanlı\n• Kategori: Kalem\n\nGövde malzemesi, mürekkep rengi, uç kalınlığı, refil uyumluluğu, ürün ölçüleri ve ambalaj içeriği sipariş öncesinde teyit edilir. Ürünün kutuyla birlikte sunulduğu varsayılmamalıdır; hediye kutusu isteniyorsa talepte ayrıca belirtilmelidir.\n\nKİŞİSELLEŞTİRME VE SUNUM\n\nFirma adı, kişi ismi veya logo uygulaması düşünülüyorsa dosyanız üzerinden uygun alan değerlendirilir. Yöntem ve uygulanabilirlik kesinleştirildikten sonra tasarım onayı alınır.\n\nKalemin bir ajanda veya hediye kutusuyla sunulması planlanıyorsa ölçü ve yerleşim uyumu ayrıca kontrol edilir. Set içeriği ve ambalaj bedeli teklif kapsamına göre belirlenir.\n\nRK-120 FİYATI VE TEMİN DURUMU\n\nGösterilen tutar baskısız ürünün birim fiyatıdır. KDV, kişiselleştirme, varsa hediye kutusu ve teslimat koşulları ayrıca netleştirilir.\n\nRK-120 için şu anda temin teyidi gerekmektedir. Ürün sayfasının açık olması, hemen teslim edilebileceği anlamına gelmez. İstediğiniz deseni, adedi ve ihtiyaç tarihini paylaşarak güncel temin bilgisi isteyebilirsiniz.",
+    "faq":  [
+                {
+                    "a":  "Ürün görselinde Atatürk, İstanbul ve Osmanlı temalı üç tasarım yer alır. Siparişe uygun desenler temin durumuna göre ayrıca doğrulanır.",
+                    "q":  "RK-120 görselinde hangi desenler bulunuyor?"
+                },
+                {
+                    "a":  "Evet. Siyah kapaklı, uzun klipsli ve desenli gövdeli bir roller kalem modelidir.",
+                    "q":  "RK-120 kapaklı bir kalem mi?"
+                },
+                {
+                    "a":  "Altın tonlu ifadesi görseldeki rengi tanımlar. Malzeme veya kaplama bileşimi hakkında bilgi için sipariş öncesinde teyit alınmalıdır.",
+                    "q":  "Kalemin altın tonlu parçaları gerçek altın mı?"
+                },
+                {
+                    "a":  "Kişiselleştirme için uygun alan ve yöntem ürün üzerinden değerlendirilir. Hazır desenin üzerine uygulama yapılabileceği önceden garanti edilmez.",
+                    "q":  "Desenli gövdeye isim veya logo eklenebilir mi?"
+                },
+                {
+                    "a":  "Kutu ve ambalaj içeriği sipariş öncesinde netleştirilir. Hediye kutusu isteniyorsa teklif talebinde ayrıca belirtilmelidir.",
+                    "q":  "RK-120 hediye kutusuyla mı gönderilir?"
+                },
+                {
+                    "a":  "Bu model için güncel temin teyidi gerekmektedir. İstenen desen, adet ve ihtiyaç tarihine göre bilgi alınmalıdır.",
+                    "q":  "RK-120 hemen teslim edilebilir mi?"
+                },
+                {
+                    "a":  "Gösterilen tutar baskısız ürünün birim fiyatıdır. KDV, kişiselleştirme, varsa kutu ve teslimat koşulları ayrıca netleştirilir.",
+                    "q":  "Gösterilen fiyata kişiselleştirme dahil mi?"
+                }
+            ]
+},
+{
+    "id":  "p672",
+    "slug":  "promosyon-roller-kalem-rk-125",
+    "title":  "Promosyon Roller Kalem RK-125 | Desenli, Lazer Baskılı",
+    "price":  210,
+    "category":  "Kalem",
+    "image":  "/products/promosyon-roller-kalem-rk-125.jpg",
+    "gallery":  [
+                    "/products/promosyon-roller-kalem-rk-125.jpg"
+                ],
+    "shortDesc":  "Mavi refilli roller kalem RK-125; temalı desenleri ve 40 × 5,5 mm lazer uygulama alanıyla kişiye özel kurumsal hediyeler için teklif alın.",
+    "longDesc":  "İsim ve Logo Uygulamasına Uygun Desenli Roller Kalem RK-125\n\nPromosyon roller kalem RK-125, siyah zemin üzerinde altın tonlu motifleriyle öne çıkan kapaklı bir modeldir. Ata, Ayasofya, Besmele, İstanbul, Tuğra ve Türkiye temaları arasından yapılacak seçim, hediyenin sunulacağı kişiye veya etkinliğe göre planlanabilir. Mavi refilli kalem, kişiselleştirilmiş kurumsal hediye arayan işletmeler için değerlendirilebilir.\n\nBu modelin belirgin avantajlarından biri, lazer uygulaması için ölçüsü belirtilmiş bir alana sahip olmasıdır. 40 × 5,5 mm alan; kişi adı, kısa firma adı veya uygun oranlara sahip bir logo için tasarım hazırlanmasına olanak verir. Seçilen desen ve uygulama konumu birlikte kontrol edilerek yerleşim kesinleştirilir.\n\nDESEN SEÇİMİNİ HEDİYENİN AMACINA GÖRE YAPIN\n\nRK-125 seçenekleri gövde rengiyle değil, taşıdığı temayla ayrılır. İstanbul veya Türkiye temalı modeller, yurt dışından gelen iş ortaklarına sunulacak bir hatıra için düşünülebilir. Ata seçeneği, Atatürk temalı hediye tercih eden alıcılar için değerlendirilebilir.\n\nTuğra, Ayasofya ve Besmele seçeneklerinde ise alıcının beğenisi ve organizasyonun içeriği dikkate alınmalıdır. Toplu sipariş öncesinde seçilen motifin görselinin onaylanması, farklı temaların karışmasını önlemeye yardımcı olur. Her desenin temin durumu ayrıca kontrol edilir.\n\nLAZER UYGULAMASINDA YAZI YERLEŞİMİ\n\n40 mm uzunluğundaki uygulama alanında kısa ve sade bir yerleşim hazırlanabilir. Kişi adı kullanılacaksa harf sayısı ve seçilen yazı karakteri, okunabilirliği doğrudan etkiler. Firma logosunda ise çok küçük ayrıntıların görünümü gerçek baskı ölçüsünde incelenmelidir.\n\nİsim listesiyle hazırlanacak siparişlerde yazım, Türkçe karakterler ve unvanlar üretim öncesinde kontrol edilmelidir. Lazer uygulamasının son görünümü ürün yüzeyi ve seçilen alan üzerinden değerlendirilir; renkli baskı sonucu varsayılmamalıdır.\n\nHANGİ KURUMLAR VE MESLEK GRUPLARI İÇİN UYGUN?\n\n• Şirket yöneticileri: İş ortaklarına teşekkür ve ziyaret hediyesi hazırlamak için\n• İnsan kaynakları ekipleri: Kıdem, görev değişikliği veya yıl dönümü hediyelerinde\n• Avukatlar ve mali müşavirler: Kişiye özel ofis hediyesi olarak\n• Turizm profesyonelleri: Şehir veya ülke temalı konuk hediyelerinde\n• Dernek ve vakıf yöneticileri: Konuşmacı, katılımcı veya destekçi hediyelerinde\n• Organizasyon ajansları: Temalı davetler ve özel toplantılar için\n\nBunlar kullanım önerileridir. Motifin alıcıya uygunluğu, kişiselleştirme ihtiyacı ve sunum biçimi birlikte değerlendirilmelidir.\n\nTEKNİK ÖZELLİKLER\n\n• Model: RK-125\n• Ürün türü: Promosyon roller kalem\n• Tasarım: Kapaklı\n• Uzunluk: 136 mm\n• Çap: 13 mm\n• Refil rengi: Mavi\n• Uygulama yöntemi: Lazer baskı\n• Belirtilen baskı alanı: 40 × 5,5 mm\n• Kutu içi miktar: 50 adet\n• Koli içi miktar: 500 adet\n• Kategori: Kalem\n\nKutu ve koli miktarları sevkiyat ambalajına ilişkin bilgilerdir. Tekli hediye kutusunun fiyata dahil olduğu veya minimum siparişin 50 adet olduğu anlamına gelmez. Minimum adet, tekli ambalaj ve varsa set içeriği teklif sırasında netleştirilir.\n\nGÖRÜNÜM VE TEMALAR\n\nSiyah yüzey üzerindeki altın tonlu desenler, klips ve halka detaylarıyla tamamlanır. Altın tonlu ifadesi görsel rengi tanımlar; gerçek altın içeriği veya belirli bir kaplama türü belirtmez.\n\nModelin tema seçenekleri Ata, Ayasofya, Besmele, İstanbul, Tuğra ve Türkiye olarak listelenir. Siparişe açık seçenekler güncel temin durumuna göre teyit edilir. Ürün fotoğrafında bir desenin bulunması, her adette hemen teslim edilebileceği anlamına gelmez.\n\nHEDİYE SUNUMU NASIL PLANLANIR?\n\nRK-125 tek başına veya ayrıca hazırlanacak bir hediye sunumunun parçası olarak değerlendirilebilir. Kutulu sunum isteniyorsa kutunun kalem ölçülerine uygunluğu, iç yerleşimi ve fiyatı ayrıca kontrol edilir. Ajanda ile set yapılacak çalışmalarda renk ve tasarım uyumu da gözden geçirilebilir.\n\nFİYAT VE SİPARİŞ BİLGİSİ\n\nGösterilen birim fiyat kişiselleştirme hariç ürün bedelidir. KDV, lazer uygulaması, varsa tekli hediye kutusu ve teslimat koşulları teklif aşamasında ayrıca netleştirilir.\n\nTeklif talebinizde RK-125 ürün kodunu, istediğiniz temayı, adedi ve kullanım tarihini iletebilirsiniz. İsim uygulaması yapılacaksa onaylı isim listesi; logo uygulanacaksa uygun logo dosyası üzerinden tasarım hazırlanır.",
+    "faq":  [
+                {
+                    "a":  "Ürün teknik bilgisinde mavi refil belirtilmektedir.",
+                    "q":  "RK-125 hangi mürekkep rengiyle yazıyor?"
+                },
+                {
+                    "a":  "RK-125\u0027in uzunluğu 136 mm, çapı 13 mm olarak belirtilmiştir.",
+                    "q":  "Kalemin ölçüleri nelerdir?"
+                },
+                {
+                    "a":  "Belirtilen lazer uygulama alanı 40 × 5,5 mm\u0027dir. Tasarımın bu alana uygunluğu ve uygulama konumu sipariş öncesinde kontrol edilir.",
+                    "q":  "Lazer baskı alanı ne kadardır?"
+                },
+                {
+                    "a":  "Ata, Ayasofya, Besmele, İstanbul, Tuğra ve Türkiye tema seçenekleri listelenir. Her temanın temin durumu ayrı olarak doğrulanır.",
+                    "q":  "RK-125\u0027in desen seçenekleri nelerdir?"
+                },
+                {
+                    "a":  "Kişi ismiyle lazer uygulaması değerlendirilebilir. İsim listesi, yazı boyutu, yerleşim ve uygulama bedeli üretim öncesinde netleştirilir.",
+                    "q":  "Kaleme farklı kişi isimleri yazdırılabilir mi?"
+                },
+                {
+                    "a":  "Hayır. 50 adet kutu ve 500 adet koli bilgisi sevkiyat ambalaj miktarını belirtir. Tekli hediye kutusu ve minimum sipariş koşulları ayrıca belirlenir.",
+                    "q":  "50 adet kutu bilgisi tekli hediye kutusu dahil demek mi?"
+                },
+                {
+                    "a":  "Gösterilen fiyat kişiselleştirme hariç ürünün birim bedelidir. KDV, lazer uygulaması, varsa hediye kutusu ve teslimat koşulları ayrıca netleştirilir.",
+                    "q":  "RK-125 fiyatına lazer uygulaması dahil mi?"
+                }
+            ]
+},
+{
+    "id":  "p673",
+    "slug":  "promosyon-roller-kalem-rk-135",
+    "title":  "Promosyon Roller Kalem RK-135 | Siyah-Gold, Lazer Baskılı",
+    "price":  240,
+    "category":  "Kalem",
+    "image":  "/products/promosyon-roller-kalem-rk-135.jpg",
+    "gallery":  [
+                    "/products/promosyon-roller-kalem-rk-135.jpg"
+                ],
+    "shortDesc":  "Siyah-Gold desenli roller kalem RK-135; mavi refilli, 142 mm uzunluğunda. İsim veya logo için 40 × 5,5 mm lazer alanıyla kurumsal hediye teklifi alın.",
+    "longDesc":  "Siyah ve Altın Tonlarının Süslemeli Yorumu: Roller Kalem RK-135\n\nPromosyon roller kalem RK-135, siyah yüzey üzerine işlenen altın tonlu süslemeleri ve kırmızı desen ayrıntılarıyla dikkat çeker. Kapak ile gövde boyunca devam eden motifler, kaleme dekoratif bir görünüm kazandırır. Uzun klips ve geniş halka detayları bu görünümü tamamlar.\n\nMavi refilli, kapaklı model; kurumsal hediye seçiminde yazı gerecinin tasarımına önem veren firmalar için değerlendirilebilir. Özellikle kişiye özel isim veya firma logosuyla hazırlanacak hediyelerde, kalemin mevcut süslemeleri ile uygulamanın dengeli biçimde bir araya getirilmesi önemlidir.\n\nRK-135\u0027İN AYIRT EDİCİ TASARIMI\n\nModelin gövdesi ve kapağı üzerindeki kıvrımlı motifler, düz yüzeyli kalemlerden farklı bir görünüm sunar. Siyah zemin üzerindeki altın tonlu çizgiler arasında yer alan kırmızı ayrıntılar, süslemenin bir parçasıdır. Listelenen ürün seçeneği Siyah-Gold olarak adlandırılır.\n\nBu tasarım, hediyenin sunulacağı kişinin klasik veya süslemeli aksesuar tercihleriyle birlikte değerlendirilebilir. Masaüstünde kullanılacak bir kalem seçerken yazım özelliklerinin yanında görünümün de belirleyici olduğu çalışmalarda alternatif oluşturur.\n\nKİŞİYE ÖZEL YÖNETİCİ HEDİYESİ\n\nBir görev değişikliği, iş yıl dönümü veya başarılı bir projenin tamamlanması için kalem hediyesi hazırlanabilir. RK-135 üzerine kişi adı ya da kısa bir kurum adı uygulanması, hediyeyi belirli bir alıcıya özel hale getirmek için değerlendirilebilir.\n\nUygulama öncesinde kalemin süslemeli yüzeyi ve ayrılan alan birlikte incelenir. Uzun unvanlar veya çok ayrıntılı logolar yerine, gerçek ölçekte okunabilir bir yerleşim hazırlanması önerilir. İsim yazımı ve Türkçe karakterler tasarım onayında kontrol edilmelidir.\n\nKİMLER VE HANGİ MESLEK GRUPLARI İÇİN UYGUN?\n\n• Üst düzey yöneticiler ve şirket ortakları için teşekkür hediyelerinde\n• Avukatlar ve hukuk büroları için kişiselleştirilmiş ofis hediyelerinde\n• Mali müşavirler ve finans danışmanları için iş yıl dönümü sunumlarında\n• Mimarlar ve proje yöneticileri için proje teslimi veya iş birliği hediyelerinde\n• Akademisyenler ve eğitim yöneticileri için görev ve başarı kutlamalarında\n• İnsan kaynakları ekiplerinin kıdem ve takdir programlarında\n\nBu kullanım örneklerinde alıcının zevki, kurumun hediye yaklaşımı ve sunum bütçesi birlikte dikkate alınmalıdır.\n\nTEKNİK BİLGİLER\n\n• Model kodu: RK-135\n• Ürün türü: Promosyon roller kalem\n• Yapı: Kapaklı\n• Uzunluk: 142 mm\n• Çap: 13 mm\n• Refil rengi: Mavi\n• Listelenen seçenek: Siyah-Gold\n• Uygulama yöntemi: Lazer baskı\n• Belirtilen baskı alanı: 40 × 5,5 mm\n• Kutu içi miktar: 50 adet\n• Koli içi miktar: 500 adet\n\nAmbalaj miktarları minimum sipariş şartını belirtmez. Ayrıca 50 adet kutu bilgisi, her kalemin tekli hediye kutusunda sunulduğu anlamına gelmez. Tekli kutu, minimum adet ve paketleme talepleri teklif aşamasında ayrıca netleştirilir.\n\n40 × 5,5 MM LAZER ALANI NASIL DEĞERLENDİRİLİR?\n\nBelirtilen alan içinde kişi adı, kısa bir marka adı veya ölçüye uygun logo için tasarım hazırlanabilir. Uygulama konumu ve seçilen tasarımın motiflerle ilişkisi üretim öncesinde kontrol edilir.\n\nLazer işleminin görünümü yüzey özelliklerine bağlı olduğundan, ortaya çıkacak ton ve detay seviyesi tasarım değerlendirmesi sırasında netleştirilmelidir. Altın tonlu görünüm, gerçek altın içeriği ya da belirli bir kaplama bileşimi anlamına gelmez.\n\nKUTULU SUNUM VE HEDİYE SETİ\n\nKalemin bir kutuyla sunulması isteniyorsa 142 mm uzunluk ve 13 mm çap dikkate alınarak uygun kutu seçilir. Defter, ajanda veya masaüstü ürünüyle set hazırlanacaksa parçaların hem renk hem de yerleşim açısından uyumu kontrol edilebilir.\n\nTekli hediye kutusu, setin diğer parçaları ve özel paketleme talebi ayrıca fiyatlandırılır. Ürün fotoğrafından kutunun siparişe dahil olduğu sonucu çıkarılmamalıdır.\n\nRK-135 FİYATI VE TEKLİF SÜRECİ\n\nGösterilen birim fiyat kişiselleştirme hariç ürün bedelidir. KDV, lazer uygulaması, varsa kutu ve sevkiyat koşulları teklif sırasında ayrıca belirtilir.\n\nRK-135 için teklif isterken adet, ihtiyaç tarihi ve uygulanacak isim veya logo bilgisini paylaşabilirsiniz. Güncel temin durumu kontrol edildikten sonra yerleşim, ambalaj ve teslimat planı netleştirilir.",
+    "faq":  [
+                {
+                    "a":  "Listelenen seçenek Siyah-Gold\u0027dur. Görseldeki kırmızı ayrıntılar süslemenin parçasıdır; ayrı bir gövde rengi seçeneği olarak belirtilmemiştir.",
+                    "q":  "RK-135 hangi renk seçeneğiyle sunuluyor?"
+                },
+                {
+                    "a":  "Evet. Ürün teknik bilgisinde mavi refil belirtilmektedir.",
+                    "q":  "RK-135 mavi mürekkepli mi?"
+                },
+                {
+                    "a":  "Kalemin uzunluğu 142 mm, çapı 13 mm olarak belirtilmiştir.",
+                    "q":  "RK-135\u0027in uzunluğu ve çapı nedir?"
+                },
+                {
+                    "a":  "Lazer uygulaması için 40 × 5,5 mm alan belirtilmiştir. İsim veya logonun alana uygunluğu ve uygulama konumu tasarım aşamasında kontrol edilir.",
+                    "q":  "Kaleme isim veya logo lazerle uygulanabilir mi?"
+                },
+                {
+                    "a":  "Altın tonlu ve Gold ifadeleri ürünün görünümünü tanımlar. Belirli bir altın içeriği veya kaplama bileşimi hakkında taahhüt değildir.",
+                    "q":  "Süslemeler gerçek altın içeriyor mu?"
+                },
+                {
+                    "a":  "Tekli hediye kutusu talebi ayrıca netleştirilir. Teknik bilgideki 50 adet kutu ve 500 adet koli değerleri ambalaj miktarlarıdır.",
+                    "q":  "RK-135 tekli hediye kutusuyla mı satılır?"
+                },
+                {
+                    "a":  "Gösterilen fiyat kişiselleştirme hariç ürünün birim bedelidir. Lazer uygulaması, KDV, varsa hediye kutusu ve teslimat koşulları ayrıca tekliflendirilir.",
+                    "q":  "Gösterilen fiyata isim yazdırma dahil mi?"
+                }
+            ]
+},
+{
+    "id":  "p674",
+    "slug":  "promosyon-roller-kalem-rk-150",
+    "title":  "Promosyon Roller Kalem RK-150 | Kapaklı, Sade Tasarım",
+    "price":  82.6,
+    "category":  "Kalem",
+    "image":  "/products/promosyon-roller-kalem-rk-150.jpg",
+    "gallery":  [
+                    "/products/promosyon-roller-kalem-rk-150.jpg"
+                ],
+    "shortDesc":  "Kapaklı roller kalem RK-150; siyah, lacivert, kırmızı ve füme seçenekleriyle toplantı ve eğitim setleri için kişiselleştirmeli toplu sipariş teklifi alın.",
+    "longDesc":  "Toplantı Masalarına Uygun Sade Roller Kalem RK-150\n\nPromosyon roller kalem RK-150, düz renkli gövde ve kapağını gümüş tonlu klips, halka ve uç ayrıntılarıyla tamamlayan bir modeldir. Desensiz yüzeyi ve kapaklı formu, kurumsal toplantılarda kullanılacak sade bir yazı gereci arayan işletmeler için değerlendirilebilir.\n\nSiyah, lacivert, kırmızı ve füme seçenekleri; toplantı dosyası, ajanda veya not defteriyle birlikte renk uyumu kurmayı kolaylaştırır. Kalemin görünümü, hem çalışan kullanımında hem de müşteriye sunulacak bir tanıtım hediyesinde tercih edilebilecek yalın bir çizgi taşır.\n\nTOPLANTI VE EĞİTİM DOSYALARINDA KULLANIM\n\nRK-150, katılımcıların not alacağı toplantı ve eğitim organizasyonlarında dosya içeriğine eklenebilir. Ürün seçimi yapılırken yalnızca dağıtılacak adet değil, etkinlik boyunca beklenen yazım ihtiyacı da dikkate alınmalıdır.\n\nBelirli bir mürekkep rengi veya uç kalınlığı gerekiyorsa bu özellikler siparişten önce teyit edilmelidir. Düzenli kullanım için toplu alım planlayan işletmeler, numune üzerinden tutuş ve yazım değerlendirmesi yapabilir.\n\nGÖVDE VE KAPAK ARASINDAKİ TASARIM BÜTÜNLÜĞÜ\n\nModelin kapağı ve gövdesi aynı renk ailesinde devam eder. Ortadaki geniş gümüş tonlu halka iki bölümü ayırırken, uzun klips kapağın üzerinde belirgin bir çizgi oluşturur. Uç çevresindeki açık tonlu ayrıntı da bu görünümü tamamlar.\n\nBu sade yüzey düzeni, kişiselleştirme hazırlanırken logo veya firma adı için değerlendirilebilir. Uygulanabilecek yöntem, alan ve gerçek ölçü ürün üzerinden kontrol edilir. Gümüş tonlu ifadesi parçaların görünümünü belirtir; malzeme veya kaplama bileşimi hakkında taahhüt değildir.\n\nHANGİ MESLEK GRUPLARI İÇİN DEĞERLENDİRİLEBİLİR?\n\n• Kurumsal eğitmenler: Seminer ve atölye katılımcı dosyalarında\n• Proje yöneticileri: Çalışma toplantıları ve proje başlangıç setlerinde\n• Satın alma ve satış ekipleri: Tedarikçi veya müşteri görüşmelerinde\n• Bankacılık ve sigorta çalışanları: Ofis içi toplantılar ve müşteri sunumlarında\n• Danışmanlık ekipleri: Çalıştay ve değerlendirme oturumlarında\n• İnsan kaynakları uzmanları: Oryantasyon ve çalışan eğitimlerinde\n\nBu örnekler kullanım önerisidir. Kurumun yazım gereksinimleri, marka tasarımı ve hediye bütçesi ürün seçimi sırasında birlikte değerlendirilir.\n\nRENK TERCİHİ NASIL YAPILABİLİR?\n\nSiyah ve füme, farklı renkte dosya ve ajandalarla birlikte kullanılabilecek seçeneklerdir. Lacivert, kurumsal tasarımında bu renge yer veren işletmeler için düşünülebilir. Kırmızı ise organizasyon materyallerinde daha belirgin bir renk tercih eden ekipler tarafından değerlendirilebilir.\n\nModelin sipariş seçenekleri siyah, lacivert, kırmızı ve fümedir. İstenen rengin ve miktarın temin durumu sipariş aşamasında kontrol edilir. Ürün fotoğrafındaki renkler ile fiziksel ürün arasında ekran ve ışık kaynaklı ton farkları oluşabilir.\n\nÜRÜN BİLGİLERİ\n\n• Ürün kodu: RK-150\n• Ürün grubu: Promosyon roller kalem\n• Tasarım: Kapaklı, desensiz gövde\n• Renk seçenekleri: Siyah, lacivert, kırmızı ve füme\n• Görsel ayrıntılar: Gümüş tonlu klips, orta halka ve uç bölümü\n• Kategori: Kalem\n\nGövde malzemesi, mürekkep rengi, uç kalınlığı, refil uyumluluğu, boyutlar ve ambalaj miktarı sipariş öncesinde teyit edilir. Teknik gereksinimi bulunan çalışmalarda bu bilgilerin teklif talebine eklenmesi önerilir.\n\nLOGO VE FİRMA ADI UYGULAMASI\n\nKurumsal logo veya kısa firma adıyla kişiselleştirme düşünülüyorsa uygun dosya üzerinden yerleşim hazırlanır. Seçilen kalem rengi, logonun ayrıntıları ve uygulanabilir yüzey birlikte incelenerek yöntem belirlenir.\n\nLogo ile uzun bir iletişim metninin aynı alana yerleştirilmesi yerine, okunabilirliğin gerçek ürün ölçüsünde değerlendirilmesi gerekir. Uygulama konumu ve tasarım onayı üretim öncesinde netleştirilir.\n\nTOPLU SİPARİŞ VE FİYAT\n\nRK-150 için gösterilen fiyat baskısız ürünün birim bedelidir. KDV, kişiselleştirme ve teslimat koşulları teklif sırasında ayrıca belirtilir. Tekli kutu veya özel paketleme isteniyorsa bu talepler de teklif kapsamına eklenir.\n\nİstediğiniz renk, adet ve kullanım tarihini paylaşarak toplu sipariş teklifi alabilirsiniz. Toplantı veya eğitim tarihi belli olan işlerde temin, uygulama ve sevkiyat planı birlikte hazırlanır.",
+    "faq":  [
+                {
+                    "a":  "Evet. Düz renkli gövde ve kapağı, gümüş tonlu klips ve halka ayrıntılarıyla tamamlanan kapaklı bir roller kalem modelidir.",
+                    "q":  "RK-150 kapaklı bir roller kalem mi?"
+                },
+                {
+                    "a":  "Siyah, lacivert, kırmızı ve füme seçenekleri listelenmektedir. İstenen renk ve adedin temin durumu sipariş öncesinde kontrol edilir.",
+                    "q":  "RK-150 hangi renklerde sipariş edilebilir?"
+                },
+                {
+                    "a":  "Ürün fotoğrafında beyaz görünse de güncel sipariş seçenekleri arasında listelenmemektedir. Beyaz talebi varsa ayrıca temin bilgisi alınmalıdır.",
+                    "q":  "RK-150\u0027nin beyaz seçeneği var mı?"
+                },
+                {
+                    "a":  "Toplantı, eğitim ve çalıştay katılımcı dosyalarında değerlendirilebilir. Dosya yerleşimi, yazım ihtiyacı ve kalem rengi birlikte planlanabilir.",
+                    "q":  "Toplantı dosyalarıyla birlikte kullanılabilir mi?"
+                },
+                {
+                    "a":  "Mürekkep rengi, uç kalınlığı ve refil uyumluluğu sipariş öncesinde teyit edilir. Belirli bir özellik gerekiyorsa teklif talebinde belirtilmelidir.",
+                    "q":  "Mürekkep rengi ve refil bilgisi nedir?"
+                },
+                {
+                    "a":  "Kişiselleştirme için uygun yöntem ve alan ürün yüzeyi üzerinden değerlendirilir. Logo dosyasına göre uygulama konumu ve tasarım netleştirilir.",
+                    "q":  "RK-150 üzerine logo uygulanabilir mi?"
+                },
+                {
+                    "a":  "Gösterilen tutar baskısız ürün bedelidir. Kişiselleştirme, varsa tekli kutu, KDV ve teslimat koşulları ayrıca netleştirilir.",
+                    "q":  "Gösterilen birim fiyata kutu ve baskı dahil mi?"
+                }
+            ]
+},
+{
+    "id":  "p675",
+    "slug":  "promosyon-roller-kalem-rk-295",
+    "title":  "Promosyon Roller Kalem RK-295 | Siyah, Uzun Klipsli",
+    "price":  165,
+    "category":  "Kalem",
+    "image":  "/products/promosyon-roller-kalem-rk-295.jpg",
+    "gallery":  [
+                    "/products/promosyon-roller-kalem-rk-295.jpg"
+                ],
+    "shortDesc":  "Siyah, kapaklı roller kalem RK-295; uzun klipsi ve sade gövdesiyle bayi ve iş ortağı hediyeleri için kişiselleştirmeli toplu sipariş teklifi alın.",
+    "longDesc":  "İş Ortağı Hediyelerinde Sade Bir Seçim: Roller Kalem RK-295\n\nPromosyon roller kalem RK-295, desensiz gövdesi ve kapağın üst bölümünden aşağıya uzanan klipsiyle sade bir görünüm sunar. Siyah yüzey, açık metal tonlu klips ve orta halka ile tamamlanır. Kapaklı formu, kurumsal hediyesinde belirgin motifler yerine yalın çizgiler tercih eden işletmeler için değerlendirilebilir.\n\nYeni bir iş birliğinin başlangıcında, bayi ziyaretinde veya proje tesliminde sunulacak hediyenin kurum kimliğiyle uyumlu olması önemlidir. RK-295, siyah renkli tasarımıyla farklı kurumsal sunumlara eşlik edebilecek bir yazı gereci seçeneğidir.\n\nUZUN KLİPS VE DÜZ GÖVDE TASARIMI\n\nModelin görsel karakterini uzun klips, geniş orta halka ve aşağı doğru daralan uç bölümü oluşturur. Kapak ile gövdenin aynı renkte devam etmesi tasarıma bütünlük kazandırır. Yüzeyde hazır bir motif bulunmaması, kişiselleştirme yerleşimi değerlendirilirken sade bir başlangıç sunar.\n\nFirma adı veya logo uygulanması düşünülüyorsa kullanılabilecek gerçek alan ve yöntem ürün üzerinden kontrol edilir. Klipsin konumu, kapak yüzeyi ve logonun oranları birlikte değerlendirilerek tasarım hazırlanır.\n\nBAYİ VE İŞ ORTAĞI ZİYARETLERİNDE\n\nRK-295, bayi toplantılarında veya iş ortağı ziyaretlerinde verilecek kurumsal hediyeler arasında düşünülebilir. Hediye, şirketi tanıtan bir dosyayla birlikte sunulabileceği gibi ayrıca hazırlanacak bir kutunun içinde de değerlendirilebilir.\n\nBelirli kişilere özel sunum yapılacaksa firma logosuna ek olarak isim uygulamasının uygunluğu incelenebilir. Çok sayıda alıcıya dağıtılacak siparişlerde ise tek bir kurumsal tasarım üzerinden ilerlemek, tasarım onayı ve paketleme planını kolaylaştırabilir.\n\nHANGİ MESLEK GRUPLARI İÇİN UYGUN?\n\n• İş geliştirme yöneticileri: Yeni iş ortaklığı ve kurumsal ziyaret hediyelerinde\n• Bayi ve bölge satış yöneticileri: Bayi toplantıları ve teşekkür sunumlarında\n• Gayrimenkul danışmanları: Proje tanıtımı ve müşteri teslim hediyelerinde\n• Mühendislik ve proje ofisleri: Tamamlanan işlerin ardından hazırlanan sunumlarda\n• Finans ve yönetim danışmanları: Müşteri ilişkileri kapsamında seçilen ofis hediyelerinde\n• Şirket satın alma ekipleri: Kurumsal hediye programları ve toplu alımlarda\n\nBu örnekler ürünün kullanımına yönelik önerilerdir. Hediye seçimi yapılırken alıcının tercihi, kurumun yaklaşımı ve bütçe birlikte dikkate alınmalıdır.\n\nSİYAH RENK VE SUNUM UYUMU\n\nRK-295 için güncel olarak listelenen seçenek siyahtır. Ürün fotoğrafında farklı gövde renkleri de yer alsa da bunların siparişe açık olduğu varsayılmamalıdır. Başka bir renk isteniyorsa temin durumu ayrıca sorulmalıdır.\n\nSiyah kalem; koyu renkli ajanda, açık renkli not defteri veya kurumsal dosyayla bir arada değerlendirilebilir. Set hazırlanırken yalnızca renkler değil, kutunun iç ölçüsü ve ürünlerin yerleşimi de kontrol edilir.\n\nÜRÜN BİLGİLERİ\n\n• Model kodu: RK-295\n• Ürün grubu: Roller kalem\n• Tasarım: Kapaklı, desensiz gövde\n• Güncel listelenen renk: Siyah\n• Belirgin ayrıntılar: Uzun klips ve açık metal tonlu orta halka\n• Kategori: Kalem\n\nGövde malzemesi, mürekkep rengi, uç kalınlığı, refil yapısı, ölçüler ve ambalaj miktarı sipariş öncesinde teyit edilir. Açık metal tonlu ifadesi görünümü tanımlar; belirli bir malzeme veya kaplama bileşimi belirtmez.\n\nKİŞİSELLEŞTİRME İÇİN HANGİ BİLGİLER GEREKİR?\n\nFirma logosunu mümkünse vektörel dosya olarak paylaşabilirsiniz. Kişi adı veya kısa bir mesaj isteniyorsa metin, yazımı onaylanmış şekilde iletilmelidir. Uygulama yöntemi ve alanı doğrulandıktan sonra gerçek ölçekte yerleşim hazırlanır.\n\nLogonun küçük ayrıntıları ve uzun metinlerin okunabilirliği üretim öncesinde incelenir. Tasarımın kalem üzerinde nasıl görüneceği netleştirildikten sonra uygulama ve teslimat planı oluşturulur.\n\nRK-295 FİYATI VE TOPLU ALIM\n\nGösterilen fiyat baskısız ürünün birim bedelidir. KDV, kişiselleştirme, varsa tekli hediye kutusu ve teslimat koşulları teklif sırasında ayrıca belirtilir. Ürün görseli, kutunun fiyata dahil olduğunu göstermez.\n\nTeklif almak için RK-295 ürün kodunu, istediğiniz adedi, logo veya isim uygulaması talebinizi ve ihtiyaç tarihinizi iletebilirsiniz. Güncel temin durumu kontrol edilerek siparişin tasarım, paketleme ve sevkiyat ayrıntıları netleştirilir.",
+    "faq":  [
+                {
+                    "a":  "Güncel olarak siyah seçeneği listelenmektedir. İstenen adedin temin durumu sipariş öncesinde kontrol edilir.",
+                    "q":  "RK-295\u0027in güncel renk seçeneği nedir?"
+                },
+                {
+                    "a":  "Fotoğrafta farklı renkler görünse de güncel seçeneklerde yalnızca siyah listelenmektedir. Diğer renkler için ayrıca temin bilgisi alınmalıdır.",
+                    "q":  "Fotoğraftaki diğer renkler sipariş edilebilir mi?"
+                },
+                {
+                    "a":  "Kapaklı formu, uzun klipsi, desensiz gövdesi ve açık metal tonlu orta halkası modelin belirgin görsel özellikleridir.",
+                    "q":  "RK-295\u0027in tasarımında hangi ayrıntılar öne çıkar?"
+                },
+                {
+                    "a":  "Bayi toplantıları, iş ortağı ziyaretleri ve kurumsal teşekkür hediyelerinde değerlendirilebilir. Sunum ve kişiselleştirme ihtiyacına göre teklif hazırlanır.",
+                    "q":  "Bayi toplantılarında hediye olarak kullanılabilir mi?"
+                },
+                {
+                    "a":  "Kişiselleştirme için kullanılabilecek alan ve yöntem ürün üzerinden doğrulanır. Logo veya isim bilgisine göre tasarım ve uygulama koşulları netleştirilir.",
+                    "q":  "RK-295\u0027e logo veya kişi adı uygulanabilir mi?"
+                },
+                {
+                    "a":  "Mürekkep rengi, uç kalınlığı ve refil bilgisi sipariş öncesinde teyit edilir. Belirli bir teknik özellik gerekiyorsa teklif talebinde belirtilmelidir.",
+                    "q":  "Mürekkep rengi ve uç kalınlığı nedir?"
+                },
+                {
+                    "a":  "Gösterilen tutar baskısız ürünün birim bedelidir. Varsa tekli hediye kutusu, kişiselleştirme, KDV ve teslimat koşulları ayrıca netleştirilir.",
+                    "q":  "RK-295 fiyatına hediye kutusu dahil mi?"
+                }
+            ]
 },
 ];
 
