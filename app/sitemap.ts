@@ -68,7 +68,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  const productRoutes: MetadataRoute.Sitemap = products.map((product) => ({
+  const redirectedProductSlugs = new Set([
+    "promosyon-metal-kalem-mk-440",
+    "promosyon-metal-kalem-mk-500",
+    "promosyon-metal-kalem-mk-510",
+  ]);
+
+  const productRoutes: MetadataRoute.Sitemap = products
+    .filter((product) => !redirectedProductSlugs.has(product.slug))
+    .map((product) => ({
     url: `${baseUrl}/urunler/${product.slug}`,
     lastModified: new Date(),
     changeFrequency: "weekly",

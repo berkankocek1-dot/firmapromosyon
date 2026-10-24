@@ -4,6 +4,21 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
+        source: "/urunler/promosyon-metal-kalem-mk-440",
+        destination: "/urunler/promosyon-metal-kalem-mk-210",
+        permanent: true,
+      },
+      {
+        source: "/urunler/promosyon-metal-kalem-mk-500",
+        destination: "/urunler/promosyon-metal-kalem-mk-360",
+        permanent: true,
+      },
+      {
+        source: "/urunler/promosyon-metal-kalem-mk-510",
+        destination: "/urunler/promosyon-metal-kalem-mk-330",
+        permanent: true,
+      },
+      {
         source: "/urunler/promosyon-kalem-rk-290-renkli-plastik",
         destination: "/urunler/promosyon-kalem-rk-290",
         permanent: true,

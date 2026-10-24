@@ -23970,24 +23970,24 @@ Promosyon metal kalem MK-410 ile markanızı modern, kaliteli ve prestijli bir p
   id: "p211",
   slug: "promosyon-metal-kalem-mk-420",
   title:
-    "Promosyon Metal Kalem MK-420 | Ahşap Görünümlü Logo Baskılı Premium Kalem",
+    "Promosyon Metal Kalem MK-366 | Ahşap Görünümlü Logo Baskılı Premium Kalem",
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-420.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-420.jpg"],
 
   shortDesc:
-    "Promosyon metal kalem MK-420, ahşap görünümlü gövdesi ve koyu metal kapak tasarımı ile doğal ve prestijli bir görünüm sunan premium promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile kurumsal tanıtımlar için ideal bir seçenektir.",
+    "Promosyon metal kalem MK-366, ahşap görünümlü gövdesi ve koyu metal kapak tasarımı ile doğal ve prestijli bir görünüm sunan premium promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile kurumsal tanıtımlar için ideal bir seçenektir.",
 
   longDesc: `
 Doğal Ahşap Görünümlü Premium Promosyon Kalem ile Prestijli Tanıtım
 
-Promosyon metal kalem MK-420, ahşap desenli alt gövdesi ve koyu renk metal üst bölümü ile klasik ve modern tasarımı bir araya getiren premium bir promosyon kalem modelidir. Doğal görünümlü yapısı sayesinde markanıza kaliteli, seçkin ve güven veren bir kurumsal imaj kazandırır.
+Promosyon metal kalem MK-366, ahşap desenli alt gövdesi ve koyu renk metal üst bölümü ile klasik ve modern tasarımı bir araya getiren premium bir promosyon kalem modelidir. Doğal görünümlü yapısı sayesinde markanıza kaliteli, seçkin ve güven veren bir kurumsal imaj kazandırır.
 
 Promosyon kalemler, günlük kullanımda sürekli elde bulunduğu için marka bilinirliğini artıran en etkili promosyon ürünleri arasında yer almaktadır. Ahşap görünümlü özel tasarıma sahip metal kalemler ise yalnızca reklam amacıyla değil, aynı zamanda prestijli bir kurumsal hediye olarak da tercih edilmektedir.
 
-MK-420 modeli, ahşap görünümlü gövdesi ile doğal bir estetik sunarken, metal detayları sayesinde sağlam ve dayanıklı bir kullanım sağlar. Firma logosu, marka adı veya kurumsal mesaj kalem üzerine lazer baskı, UV baskı veya tampon baskı yöntemleri ile uygulanabilir.
+MK-366 modeli, ahşap görünümlü gövdesi ile doğal bir estetik sunarken, metal detayları sayesinde sağlam ve dayanıklı bir kullanım sağlar. Firma logosu, marka adı veya kurumsal mesaj kalem üzerine lazer baskı, UV baskı veya tampon baskı yöntemleri ile uygulanabilir.
 
-NEDEN PROMOSYON METAL KALEM MK-420 TERCİH EDİLMELİ?
+NEDEN PROMOSYON METAL KALEM MK-366 TERCİH EDİLMELİ?
 • Ahşap görünümlü özel tasarım
 • Premium ve prestijli görünüm
 • Dayanıklı metal detaylar
@@ -24018,7 +24018,7 @@ RENK SEÇENEĞİ
 • Koyu metal kapak detayları
 
 TEKNİK ÖZELLİKLER
-• Model: MK-420
+• Model: MK-366
 • Ürün Türü: Premium Metal Kalem
 • Gövde Yapısı: Ahşap Görünümlü Gövde
 • Üst Bölüm: Metal
@@ -24030,7 +24030,7 @@ MİNİMUM SİPARİŞ BİLGİSİ
 • Baskısız minimum sipariş: 50 adet
 • Logo baskılı siparişlerde minimum adet, baskı yöntemi ve üretim planına göre değişebilir
 
-Promosyon metal kalem MK-420, doğal ahşap görünümü ve premium tasarımı ile markanızı prestijli bir şekilde temsil eder. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+Promosyon metal kalem MK-366, doğal ahşap görünümü ve premium tasarımı ile markanızı prestijli bir şekilde temsil eder. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
@@ -24240,24 +24240,25 @@ Promosyon metal kalem MK-440, rose gold detaylı lüks tasarımı ile markanız�
   id: "p214",
   slug: "promosyon-metal-kalem-mk-450",
   title:
-    "Promosyon Metal Kalem MK-450 | Karbon Desenli Premium Metal Kalem",
+    "Promosyon Metal Kalem MK-211 | Karbon Desenli Premium Metal Kalem",
+  price: 145,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-450.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-450.jpg"],
 
   shortDesc:
-    "Promosyon metal kalem MK-450, karbon desenli alt gövdesi ve parlak krom detayları ile premium bir görünüm sunan şık promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile kurumsal tanıtımlar ve prestijli hediyeler için ideal bir tercihtir.",
+    "Promosyon metal kalem MK-211, karbon desenli alt gövdesi ve parlak krom detayları ile premium bir görünüm sunan şık promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile kurumsal tanıtımlar ve prestijli hediyeler için ideal bir tercihtir.",
 
   longDesc: `
 Karbon Desenli Premium Promosyon Metal Kalem
 
-Promosyon metal kalem MK-450, karbon fiber görünümlü alt gövdesi ve parlak metal detayları ile modern ve güçlü bir tasarım sunan premium promosyon kalem modellerinden biridir. Dikkat çekici yüzey yapısı ve kaliteli görünümü sayesinde markanızın prestijini artırmaya yardımcı olur.
+Promosyon metal kalem MK-211, karbon fiber görünümlü alt gövdesi ve parlak metal detayları ile modern ve güçlü bir tasarım sunan premium promosyon kalem modellerinden biridir. Dikkat çekici yüzey yapısı ve kaliteli görünümü sayesinde markanızın prestijini artırmaya yardımcı olur.
 
 Promosyon kalemler, günlük kullanımda sıkça tercih edilen ürünler olduğu için marka bilinirliğini artıran en etkili promosyon ürünleri arasında yer almaktadır. Premium metal kalem modelleri ise özellikle VIP müşteri hediyeleri, yönetici hediyeleri ve özel kurumsal organizasyonlarda tercih edilmektedir.
 
-MK-450 modeli, sağlam metal yapısı ile uzun ömürlü kullanım sunar. Alt gövdesindeki karbon desenli yüzey, ürüne sportif ve teknolojik bir görünüm kazandırırken aynı zamanda modern bir stil oluşturur. Üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı, UV baskı veya tampon baskı yöntemleri ile uygulanabilir.
+MK-211 modeli, sağlam metal yapısı ile uzun ömürlü kullanım sunar. Alt gövdesindeki karbon desenli yüzey, ürüne sportif ve teknolojik bir görünüm kazandırırken aynı zamanda modern bir stil oluşturur. Üzerine firma logosu, marka adı veya kurumsal mesaj lazer baskı, UV baskı veya tampon baskı yöntemleri ile uygulanabilir.
 
-NEDEN PROMOSYON METAL KALEM MK-450 TERCİH EDİLMELİ?
+NEDEN PROMOSYON METAL KALEM MK-211 TERCİH EDİLMELİ?
 • Karbon desenli özel tasarım
 • Premium ve modern görünüm
 • Dayanıklı metal gövde
@@ -24289,7 +24290,7 @@ RENK ÖZELLİĞİ
 • Parlak krom detaylar
 
 TEKNİK ÖZELLİKLER
-• Model: MK-450
+• Model: MK-211
 • Ürün Türü: Premium Metal Kalem
 • Gövde Yapısı: Metal
 • Yüzey Özelliği: Karbon Desenli Alt Gövde
@@ -24300,12 +24301,12 @@ TEKNİK ÖZELLİKLER
 SİPARİŞ BİLGİSİ
 Promosyon metal kalem siparişlerinde logo baskı tasarımı, renk tercihleri ve teslim süresi teklif aşamasında netleştirilmektedir. Stok durumu dönemsel olarak değişebileceği için sipariş öncesinde güncel bilgi alınması önerilir.
 
-Promosyon metal kalem MK-450, karbon desenli premium tasarımı ile markanızı güçlü ve profesyonel bir şekilde temsil eder. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+Promosyon metal kalem MK-211, karbon desenli premium tasarımı ile markanızı güçlü ve profesyonel bir şekilde temsil eder. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
     {
-      q: "Promosyon metal kalem MK-450 üzerine logo baskısı yapılabilir mi?",
+      q: "Promosyon metal kalem MK-211 üzerine logo baskısı yapılabilir mi?",
       a: "Evet. Ürün üzerine lazer baskı, UV baskı veya tampon baskı yöntemleri ile logo uygulanabilir.",
     },
     {
@@ -24330,24 +24331,25 @@ Promosyon metal kalem MK-450, karbon desenli premium tasarımı ile markanızı 
   id: "p215",
   slug: "promosyon-metal-kalem-mk-460",
   title:
-    "Promosyon Metal Kalem MK-460 | Özel Dokulu Premium Metal Kalem",
+    "Promosyon Metal Kalem MK-212 | Özel Dokulu Premium Metal Kalem",
+  price: 145,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-460.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-460.jpg"],
 
   shortDesc:
-    "Promosyon metal kalem MK-460, özel dokulu alt gövdesi ve parlak krom tasarımı ile premium bir görünüm sunan şık promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile kurumsal tanıtımlar ve prestijli hediyeler için ideal bir tercihtir.",
+    "Promosyon metal kalem MK-212, özel dokulu alt gövdesi ve parlak krom tasarımı ile premium bir görünüm sunan şık promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile kurumsal tanıtımlar ve prestijli hediyeler için ideal bir tercihtir.",
 
   longDesc: `
 Özel Dokulu Premium Promosyon Metal Kalem
 
-Promosyon metal kalem MK-460, alt bölümündeki özel desenli dokusu ve parlak krom gövde detayları ile dikkat çeken premium promosyon kalem modellerinden biridir. Modern ve zarif tasarımı sayesinde markanıza prestijli ve profesyonel bir görünüm kazandırır.
+Promosyon metal kalem MK-212, alt bölümündeki özel desenli dokusu ve parlak krom gövde detayları ile dikkat çeken premium promosyon kalem modellerinden biridir. Modern ve zarif tasarımı sayesinde markanıza prestijli ve profesyonel bir görünüm kazandırır.
 
 Promosyon kalemler, günlük hayatta sıkça kullanılan ürünler olduğu için marka bilinirliğini artıran en etkili promosyon ürünleri arasında yer almaktadır. Premium metal kalem modelleri ise özellikle VIP müşteri hediyeleri, yönetici hediyeleri ve özel kurumsal organizasyonlarda tercih edilmektedir.
 
-MK-460 modeli, dayanıklı metal yapısı sayesinde uzun ömürlü kullanım sunar. Alt gövdesindeki özel dokulu yüzey ürüne şık bir karakter kazandırırken, aynı zamanda kaliteli bir kullanım hissi oluşturur. Firma logosu, marka adı veya kurumsal mesaj lazer baskı, UV baskı veya tampon baskı yöntemleri ile uygulanabilir.
+MK-212 modeli, dayanıklı metal yapısı sayesinde uzun ömürlü kullanım sunar. Alt gövdesindeki özel dokulu yüzey ürüne şık bir karakter kazandırırken, aynı zamanda kaliteli bir kullanım hissi oluşturur. Firma logosu, marka adı veya kurumsal mesaj lazer baskı, UV baskı veya tampon baskı yöntemleri ile uygulanabilir.
 
-NEDEN PROMOSYON METAL KALEM MK-460 TERCİH EDİLMELİ?
+NEDEN PROMOSYON METAL KALEM MK-212 TERCİH EDİLMELİ?
 • Özel dokulu premium tasarım
 • Parlak krom görünüm
 • Dayanıklı metal gövde
@@ -24378,7 +24380,7 @@ RENK ÖZELLİĞİ
 • Özel desenli alt yüzey
 
 TEKNİK ÖZELLİKLER
-• Model: MK-460
+• Model: MK-212
 • Ürün Türü: Premium Metal Kalem
 • Gövde Yapısı: Metal
 • Yüzey Özelliği: Özel Dokulu Alt Gövde
@@ -24389,12 +24391,12 @@ TEKNİK ÖZELLİKLER
 SİPARİŞ BİLGİSİ
 Promosyon metal kalem siparişlerinde logo baskı tasarımı, renk tercihleri ve teslim süresi teklif aşamasında netleştirilmektedir. Stok durumu dönemsel olarak değişebileceği için sipariş öncesinde güncel bilgi alınması önerilir.
 
-Promosyon metal kalem MK-460, özel dokulu premium tasarımı ile markanızı profesyonel ve prestijli bir şekilde temsil eder. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+Promosyon metal kalem MK-212, özel dokulu premium tasarımı ile markanızı profesyonel ve prestijli bir şekilde temsil eder. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
     {
-      q: "Promosyon metal kalem MK-460 üzerine logo baskısı yapılabilir mi?",
+      q: "Promosyon metal kalem MK-212 üzerine logo baskısı yapılabilir mi?",
       a: "Evet. Ürün üzerine lazer baskı, UV baskı veya tampon baskı yöntemleri ile logo uygulanabilir.",
     },
     {
@@ -24419,24 +24421,25 @@ Promosyon metal kalem MK-460, özel dokulu premium tasarımı ile markanızı pr
   id: "p216",
   slug: "promosyon-metal-kalem-mk-470",
   title:
-    "Promosyon Metal Kalem MK-470 | Mat Gövdeli Premium Metal Kalem",
+    "Promosyon Metal Kalem MK-213 | Mat Gövdeli Premium Metal Kalem",
+  price: 100,
   category: "Kalem",
   image: "/products/promosyon-metal-kalem-mk-470.jpg",
   gallery: ["/products/promosyon-metal-kalem-mk-470.jpg"],
 
   shortDesc:
-    "Promosyon metal kalem MK-470, mat siyah ve füme renk seçenekleri ile modern bir görünüm sunan premium promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile kurumsal tanıtımlar ve prestijli müşteri hediyeleri için ideal bir tercihtir.",
+    "Promosyon metal kalem MK-213, mat siyah ve füme renk seçenekleri ile modern bir görünüm sunan premium promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile kurumsal tanıtımlar ve prestijli müşteri hediyeleri için ideal bir tercihtir.",
 
   longDesc: `
 Minimal Tasarımlı Premium Promosyon Metal Kalem
 
-Promosyon metal kalem MK-470, yuvarlatılmış üst formu, mat yüzeyi ve sade çizgileri ile modern bir görünüm sunan premium promosyon kalem modellerinden biridir. Minimal tasarımı sayesinde markanıza güçlü, sade ve profesyonel bir kurumsal imaj kazandırır.
+Promosyon metal kalem MK-213, yuvarlatılmış üst formu, mat yüzeyi ve sade çizgileri ile modern bir görünüm sunan premium promosyon kalem modellerinden biridir. Minimal tasarımı sayesinde markanıza güçlü, sade ve profesyonel bir kurumsal imaj kazandırır.
 
 Promosyon kalemler günlük yaşamda en çok kullanılan promosyon ürünleri arasında yer aldığı için marka bilinirliğini artırmanın en etkili yollarından biridir. Premium metal kalem modelleri ise özellikle VIP müşteri hediyeleri, yönetici hediyeleri ve prestij odaklı tanıtım çalışmalarında tercih edilmektedir.
 
-MK-470 modeli, dayanıklı metal gövdesi sayesinde uzun ömürlü kullanım sunar. Mat yüzeyi, kaleme modern bir karakter kazandırırken logo uygulamaları için de ideal bir baskı alanı sağlar. Firma logosu, marka adı veya kurumsal mesaj lazer baskı, UV baskı veya tampon baskı yöntemleri ile uygulanabilir.
+MK-213 modeli, dayanıklı metal gövdesi sayesinde uzun ömürlü kullanım sunar. Mat yüzeyi, kaleme modern bir karakter kazandırırken logo uygulamaları için de ideal bir baskı alanı sağlar. Firma logosu, marka adı veya kurumsal mesaj lazer baskı, UV baskı veya tampon baskı yöntemleri ile uygulanabilir.
 
-NEDEN PROMOSYON METAL KALEM MK-470 TERCİH EDİLMELİ?
+NEDEN PROMOSYON METAL KALEM MK-213 TERCİH EDİLMELİ?
 • Minimal ve modern tasarım
 • Mat yüzeyli premium görünüm
 • Dayanıklı metal gövde
@@ -24467,7 +24470,7 @@ RENK SEÇENEKLERİ
 • Füme
 
 TEKNİK ÖZELLİKLER
-• Model: MK-470
+• Model: MK-213
 • Ürün Türü: Premium Metal Kalem
 • Gövde Yapısı: Metal
 • Yüzey Özelliği: Mat Kaplama
@@ -24478,12 +24481,12 @@ TEKNİK ÖZELLİKLER
 SİPARİŞ BİLGİSİ
 Promosyon metal kalem siparişlerinde logo baskı tasarımı, renk tercihleri ve teslim süresi teklif aşamasında netleştirilmektedir. Stok durumu dönemsel olarak değişebileceği için sipariş öncesinde güncel bilgi alınması önerilir.
 
-Promosyon metal kalem MK-470, sade ve premium tasarımı ile markanızı profesyonel bir şekilde temsil eder. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
+Promosyon metal kalem MK-213, sade ve premium tasarımı ile markanızı profesyonel bir şekilde temsil eder. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
     {
-      q: "Promosyon metal kalem MK-470 üzerine logo baskısı yapılabilir mi?",
+      q: "Promosyon metal kalem MK-213 üzerine logo baskısı yapılabilir mi?",
       a: "Evet. Ürün üzerine lazer baskı, UV baskı veya tampon baskı yöntemleri ile logo uygulanabilir.",
     },
     {
