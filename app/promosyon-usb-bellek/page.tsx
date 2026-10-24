@@ -98,7 +98,7 @@ export default function UsbPage() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-5 py-10">
+    <main className="mx-auto max-w-6xl px-5 py-6">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -157,8 +157,8 @@ export default function UsbPage() {
         }}
       />
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
+      <section className="rounded-3xl bg-black px-6 py-5 text-white md:px-8 md:py-6">
+        <nav className="mb-3 text-sm text-gray-300">
           <Link href="/" className="hover:text-white hover:underline">
             Ana Sayfa
           </Link>
@@ -171,27 +171,15 @@ export default function UsbPage() {
         </nav>
 
         <header>
-          <h1 className="mb-4 text-3xl font-extrabold text-white md:text-4xl">
+          <h1 className="mb-2 text-3xl font-extrabold text-white md:text-4xl">
             Promosyon USB Bellek
           </h1>
 
-          <p className="max-w-3xl text-base leading-7 text-gray-200">
-            Promosyon USB bellek modelleri, firmaların marka tanıtımı için en çok
-            tercih ettiği kurumsal promosyon ürünleri arasında yer alır. Logo
-            baskılı USB bellek ürünleri; fuar, seminer, bayi toplantısı, lansman,
-            eğitim organizasyonları ve kurumsal etkinliklerde dağıtılarak marka
-            bilinirliğini artırır.
-          </p>
+          <p className="max-w-3xl text-sm leading-6 text-gray-200">Logo baskılı USB bellek modellerini inceleyin; kapasite ve toplu sipariş için teklif alın.</p>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            FirmaPromosyon’da yer alan promosyon USB bellek çeşitleri; farklı
-            kapasite, gövde tasarımı ve baskı seçenekleri ile kurumsal ihtiyaçlara
-            uygun şekilde sunulmaktadır. Baskılı veya baskısız sipariş, kapasite
-            alternatifi, renk uygunluğu ve minimum adet gibi detaylar ürün bazında
-            değişebileceği için sipariş öncesinde bilgi alınması önerilir.
-          </p>
+          
 
-          <div className="mt-5 flex flex-wrap gap-3">
+          <div className="mt-3 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
               className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
@@ -210,6 +198,23 @@ export default function UsbPage() {
       </section>
 
       <UsbProductGrid products={usbProducts} />
+
+      <section aria-label="USB bellek kategori bilgileri" className="mt-10 space-y-4 rounded-3xl bg-black px-6 py-6 md:px-8">
+        <p className="max-w-3xl text-base leading-7 text-gray-200">
+            Promosyon USB bellek modelleri, firmaların marka tanıtımı için en çok
+            tercih ettiği kurumsal promosyon ürünleri arasında yer alır. Logo
+            baskılı USB bellek ürünleri; fuar, seminer, bayi toplantısı, lansman,
+            eğitim organizasyonları ve kurumsal etkinliklerde dağıtılarak marka
+            bilinirliğini artırır.
+          </p>
+        <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+            FirmaPromosyon’da yer alan promosyon USB bellek çeşitleri; farklı
+            kapasite, gövde tasarımı ve baskı seçenekleri ile kurumsal ihtiyaçlara
+            uygun şekilde sunulmaktadır. Baskılı veya baskısız sipariş, kapasite
+            alternatifi, renk uygunluğu ve minimum adet gibi detaylar ürün bazında
+            değişebileceği için sipariş öncesinde bilgi alınması önerilir.
+          </p>
+      </section>
 
       {usbProducts.length > 0 && (
         <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">

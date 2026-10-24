@@ -87,7 +87,7 @@ export default function UsbProductGrid({
 
   return (
     <>
-      <section className="mt-8 rounded-2xl border border-gray-200 bg-white p-5 md:p-6">
+      <section className="mt-4 rounded-2xl border border-gray-200 bg-white p-4 md:p-4">
         <h2 className="text-xl font-bold text-gray-900">
           Promosyon USB Bellek Seçenekleri
         </h2>
@@ -146,7 +146,7 @@ export default function UsbProductGrid({
               href={`/urunler/${product.slug}`}
               className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
             >
-              <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
+              <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
                 <Image
                   src={product.image}
                   alt={product.title}
