@@ -3,6 +3,12 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   async redirects() {
     return [
+      {"source":"/urunler/promosyon-powerbank-20000mah-led-fenerli-pb-140","destination":"/urunler/promosyon-powerbank-10000mah-pb-140","permanent":true},
+      {"source":"/urunler/promosyon-powerbank-20000mah-pb-150","destination":"/urunler/promosyon-powerbank-10000mah-pb-150","permanent":true},
+      {"source":"/urunler/promosyon-powerbank-5000mah-pb-270","destination":"/urunler/promosyon-powerbank-10000mah-pb-270","permanent":true},
+      {"source":"/urunler/promosyon-powerbank-organizer-pb-370-6500mah-logolu","destination":"/urunler/promosyon-powerbank-organizer-pb-370-8000mah-logolu","permanent":true},
+      {"source":"/urunler/promosyon-powerbank-organizer-pb-380-6000mah-logolu","destination":"/urunler/promosyon-powerbank-organizer-pb-380-6500mah-logolu","permanent":true},
+
       {"source":"/urunler/promosyon-kalem-usb-bellek-ub-290","destination":"/urunler/promosyon-kalem-usb-bellek-ub-200","permanent":true},
       {"source":"/urunler/promosyon-usb-bellek-ub-200","destination":"/urunler/promosyon-usb-bellek-ub-460","permanent":true},
       {"source":"/urunler/promosyon-usb-bellek-ub-300","destination":"/urunler/promosyon-metal-usb-bellek-ub-140","permanent":true},

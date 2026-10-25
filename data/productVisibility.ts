@@ -17,6 +17,12 @@ const hiddenProductSlugs = new Set<string>([
   "promosyon-ince-metal-usb-bellek-ub-440",
   "promosyon-metal-kalem-usb-bellek-ub-450",
   "promosyon-oval-govdeli-isikli-usb-bellek",
+  "promosyon-powerbank-organizer-pb-390-8000mah-isikli-logolu",
+  "promosyon-wireless-stand-set-pb-400-15w-hizli-sarj",
+  "promosyon-standli-wireless-sarj-pb-410-isikli-logolu",
+  "promosyon-wireless-sarj-standi-pb-420-15w-typec",
+  "promosyon-wireless-stand-set-pb-425-3lu-15w-typec",
+  "promosyon-wireless-stand-set-pb-430-isikli-logolu-15w",
 ]);
 
 export function isProductVisible(product: { slug: string }): boolean {
