@@ -2,6 +2,8 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { visibleProducts } from "@/data/productVisibility";
 import UsbProductGrid from "./UsbProductGrid";
+import { sortProductsByCode } from "@/data/productSorting";
+
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/promosyon-usb-bellek`;
@@ -88,7 +90,7 @@ export const metadata: Metadata = {
 };
 
 export default function UsbPage() {
-  const usbProducts = visibleProducts.filter((p) => p.category === CATEGORY);
+  const usbProducts = sortProductsByCode(visibleProducts.filter((p) => p.category === CATEGORY));
 
   const itemListElement = usbProducts.map((product, idx) => ({
     "@type": "ListItem",

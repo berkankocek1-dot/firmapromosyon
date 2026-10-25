@@ -3,6 +3,8 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useMemo, useState } from "react";
+import { sortProductsByCode } from "@/data/productSorting";
+
 
 type UsbProduct = {
   id: string;
@@ -81,7 +83,7 @@ export default function UsbProductGrid({
   const [activeFilter, setActiveFilter] = useState("Tümü");
 
   const filteredProducts = useMemo(
-    () => products.filter((product) => matchesFilter(product, activeFilter)),
+    () => sortProductsByCode(products.filter((product) => matchesFilter(product, activeFilter))),
     [products, activeFilter]
   );
 

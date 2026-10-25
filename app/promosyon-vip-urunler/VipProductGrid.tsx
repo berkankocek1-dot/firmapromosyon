@@ -3,6 +3,8 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useMemo, useState } from "react";
+import { sortProductsByCode } from "@/data/productSorting";
+
 
 type VipProduct = {
   id: string;
@@ -90,9 +92,9 @@ export default function VipProductGrid({
 
   const filteredProducts = useMemo(
     () =>
-      products.filter((product) =>
+      sortProductsByCode(products.filter((product) =>
         matchesFilter(product, activeFilter)
-      ),
+      )),
     [products, activeFilter]
   );
 

@@ -2,6 +2,8 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { products } from "@/data/products";
 import TermosProductGrid from "./TermosProductGrid";
+import { sortProductsByCode } from "@/data/productSorting";
+
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
@@ -89,7 +91,7 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-  const list = products.filter((p) => p.category === CATEGORY);
+  const list = sortProductsByCode(products.filter((p) => p.category === CATEGORY));
 
   const itemListElement = list.map((p, idx) => ({
     "@type": "ListItem",

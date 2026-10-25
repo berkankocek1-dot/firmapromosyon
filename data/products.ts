@@ -38268,7 +38268,7 @@ category: "Powerbank",
 
   title: "Promosyon Powerbank 20.000 mAh PB-300 | Logo Baskılı Yüksek Kapasiteli Powerbank",
 
-  price: 790,
+  price: 840,
 
   category: "Powerbank",
 
@@ -38457,7 +38457,7 @@ Promosyon powerbank 20.000 mAh PB-300 modeli; yüksek kapasitesi, güvenli şarj
 
   title: "Promosyon Powerbank 10.000 mAh PB-310 | Logo Baskılı İnce Tasarım Powerbank",
 
-  price: 510,
+  price: 550,
 
   category: "Powerbank",
 
@@ -38649,7 +38649,7 @@ Promosyon powerbank 10.000 mAh PB-310 modeli; ince tasarımı, yüksek kapasites
 
   title: "Promosyon Powerbank 10.000 mAh PB-320 | Magsafe & Wireless Şarjlı Premium Powerbank",
 
-  price: 1300,
+  price: 1590,
 
   category: "Powerbank",
 

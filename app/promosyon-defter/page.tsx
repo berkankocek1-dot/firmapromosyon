@@ -2,6 +2,8 @@ import Link from "next/link";
 import DefterProductGrid from "./DefterProductGrid";
 import type { Metadata } from "next";
 import { products } from "@/data/products";
+import { sortProductsByCode } from "@/data/productSorting";
+
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
@@ -93,9 +95,9 @@ export const metadata: Metadata = {
 };
 
 export default function PromosyonDefterPage() {
-  const filtered = products.filter(
+  const filtered = sortProductsByCode(products.filter(
     (p) => normalizeTR(p.category) === normalizeTR(CATEGORY_NAME)
-  );
+  ));
 
   const itemListElement = filtered.map((p, idx) => ({
     "@type": "ListItem",

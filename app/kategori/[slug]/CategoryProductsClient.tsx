@@ -3,6 +3,8 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
+import { sortProductsByCode } from "@/data/productSorting";
+
 
 type Product = {
   id: string;
@@ -53,7 +55,7 @@ export default function CategoryProductsClient({
     if (!isKalemCategory) return products;
     if (activeFilter === "Tüm Kalemler") return products;
 
-    return products.filter((p) => {
+    return sortProductsByCode(products.filter((p) => {
       const title = normalizeText(p.title);
 
       if (activeFilter === "Plastik Kalem") {
@@ -69,7 +71,7 @@ export default function CategoryProductsClient({
       }
 
       return true;
-    });
+    }));
   }, [products, activeFilter, isKalemCategory]);
 
   return (

@@ -3,6 +3,8 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useMemo, useState } from "react";
+import { sortProductsByCode } from "@/data/productSorting";
+
 
 type ImalatProduct = {
   id: string;
@@ -74,9 +76,9 @@ export default function ImalatProductGrid({
   const filteredProducts = useMemo(() => {
     if (activeFilter === "Tümü") return products;
 
-    return products.filter(
+    return sortProductsByCode(products.filter(
       (product) => getGroup(product) === activeFilter
-    );
+    ));
   }, [products, activeFilter]);
 
   return (

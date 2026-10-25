@@ -4,6 +4,8 @@ import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { useSearchParams } from "next/navigation";
+import { sortProductsByCode } from "@/data/productSorting";
+
 
 type Product = {
   id: string;
@@ -287,7 +289,7 @@ export default function ProductsClient({ products }: { products: Product[] }) {
   const availableSubfilters = categorySubfilters[activeCategory] || [];  const filteredProducts = useMemo(() => {
     const query = normalizeText(search);
 
-    return products.filter((product) => {
+    return sortProductsByCode(products.filter((product) => {
       const matchesCategory =
         activeCategory === "Tümü" || product.category === activeCategory;
 
@@ -304,7 +306,7 @@ export default function ProductsClient({ products }: { products: Product[] }) {
         category.includes(query) ||
         slug.includes(query)
       );
-    });
+    }));
   }, [search, activeCategory, activeSubfilter, products]);
 
   function changeCategory(category: string) {    setActiveCategory(category);    setActiveSubfilter("Tümü");  }  function clearFilters() {
