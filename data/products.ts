@@ -228,17 +228,12 @@ Promosyon dokunmatik kalem DK-600 ile markanızı modern, kullanışlı ve premi
 
   {
   id: "p3",
-
   slug: "promosyon-tasli-cakmak-cricket-cm-100",
-
   title:
     "Promosyon Taşlı Çakmak ÇM-100 | Cricket Logo Baskılı Promosyon Çakmak (7.8 x 2.2 cm)",
-
   price: 30,
-
   shortDesc:
     "Promosyon taşlı çakmak ÇM-100, Cricket kalitesi, logo baskıya uygun geniş yüzeyi ve ekonomik yapısıyla fuarlar, kampanyalar ve kurumsal tanıtımlar için tercih edilen promosyon çakmak modelidir.",
-
   longDesc: `
 Promosyon taşlı çakmak ÇM-100, Cricket kalitesiyle üretilen dayanıklı yapısı ve logo baskısına uygun geniş yüzeyi sayesinde kurumsal tanıtım çalışmalarında en çok tercih edilen promosyon çakmak modellerinden biridir. Günlük yaşamda sık kullanılan bir ürün olması sayesinde markanızın uzun süre görünür kalmasına katkı sağlayan etkili reklam ürünleri arasında yer almaktadır.
 
@@ -309,15 +304,7 @@ Kategori: Çakmak
 
 Promosyon taşlı çakmak ÇM-100, Cricket kalitesi, logo baskıya uygun yapısı ve ekonomik maliyetiyle kurumsal tanıtımlar için en çok tercih edilen promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
 `.trim(),
-
   category: "Çakmak",
-
-  image: "/products/promosyon-tasli-cakmak-cm-100.jpg",
-
-  gallery: [
-    "/products/promosyon-tasli-cakmak-cm-100.jpg"
-  ],
-
   faq: [
     {
       q: "Promosyon taşlı çakmak ÇM-100 üzerine logo baskısı yapılabilir mi?",
@@ -344,6 +331,8 @@ Promosyon taşlı çakmak ÇM-100, Cricket kalitesi, logo baskıya uygun yapıs�
       a: "Teslim süresi sipariş adedi, baskı yöntemi ve üretim yoğunluğuna göre planlanarak teklif aşamasında bildirilmektedir.",
     },
   ],
+  image: "/products/promosyon-tasli-cakmak-cm-100-v2.jpg",
+  gallery: ["/products/promosyon-tasli-cakmak-cm-100-v2.jpg"]
 },
  {
   id: "p4",
@@ -5275,21 +5264,13 @@ Promosyon taşlı siboplu çakmak CM-450, klasik tasarımı, geniş logo baskı 
 },
 {
   id: "p54",
-
   slug: "promosyon-telefon-tutuculu-standli-tasli-cakmak-cm-500",
-
   title:
     "Promosyon Telefon Tutuculu Standlı Taşlı Çakmak CM-500 | Logo Baskılı Çakmak",
-
   price: 12.5,
-
   category: "Çakmak",
-
-  image: "/products/promosyon-standli-tasli-cakmak-cm-500.jpg",
-
   shortDesc:
     "Promosyon telefon tutuculu standlı taşlı çakmak CM-500, telefon standı özelliği, logo baskıya uygun geniş yüzeyi ve çok amaçlı tasarımıyla fuarlar, kampanyalar ve kurumsal promosyon çalışmaları için tercih edilen fonksiyonel çakmak modelidir.",
-
   longDesc: `
 Promosyon telefon tutuculu standlı taşlı çakmak CM-500, hem çakmak hem de telefon standı olarak kullanılabilen fonksiyonel yapısıyla klasik promosyon çakmak modellerinden ayrılan yenilikçi bir promosyon ürünüdür. Günlük yaşamda sık kullanılan iki farklı ihtiyacı tek üründe birleştirerek markanızın daha uzun süre görünür olmasını sağlar.
 
@@ -5362,7 +5343,6 @@ Kategori: Çakmak
 
 Promosyon telefon tutuculu standlı taşlı çakmak CM-500, çok amaçlı tasarımı, logo baskıya uygun yapısı ve telefon standı özelliğiyle markanızı günlük yaşamın bir parçası haline getiren yenilikçi promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
 `.trim(),
-
   faq: [
     {
       q: "Promosyon telefon tutuculu standlı çakmak CM-500 üzerine logo baskısı yapılabilir mi?",
@@ -5389,24 +5369,18 @@ Promosyon telefon tutuculu standlı taşlı çakmak CM-500, çok amaçlı tasar�
       a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim planlamasına göre belirlenerek teklif aşamasında paylaşılmaktadır.",
     },
   ],
+  image: "/products/promosyon-standli-tasli-cakmak-cm-500-v2.jpg",
+  gallery: ["/products/promosyon-standli-tasli-cakmak-cm-500-v2.jpg"]
 },
 {
   id: "p55",
-
   slug: "promosyon-manyetolu-mini-turbo-ruzgar-cakmak-cm-550",
-
   title:
     "Promosyon Manyetolu Mini Turbo Rüzgar Çakmak CM-550 | Logo Baskılı Mini Çakmak",
-
-  price: 12.5,
-
   category: "Çakmak",
-
   image: "/products/promosyon-manyetolu-mini-turbo-cakmak-cm-550.jpg",
-
   shortDesc:
     "Promosyon manyetolu mini turbo rüzgar çakmak CM-550, mini boy tasarımı, güçlü turbo alev sistemi ve logo baskıya uygun yüzeyiyle fuarlar, kampanyalar ve kurumsal promosyon çalışmaları için tercih edilen kullanışlı çakmak modelidir.",
-
   longDesc: `
 Promosyon manyetolu mini turbo rüzgar çakmak CM-550, kompakt boyutları, güçlü turbo alev sistemi ve modern tasarımıyla kurumsal promosyon çalışmalarında öne çıkan fonksiyonel promosyon çakmak modellerinden biridir. Mini boy yapısı sayesinde kolay taşınabilir ve günlük kullanımda rahatlıkla tercih edilebilir.
 
@@ -5478,7 +5452,6 @@ Kategori: Çakmak
 
 Promosyon manyetolu mini turbo rüzgar çakmak CM-550, kompakt tasarımı, güçlü turbo alev sistemi ve logo baskıya uygun yapısıyla markanızı günlük yaşamda görünür kılan dikkat çekici promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
 `.trim(),
-
   faq: [
     {
       q: "Promosyon manyetolu mini turbo rüzgar çakmak CM-550 üzerine logo baskısı yapılabilir mi?",
@@ -5505,24 +5478,17 @@ Promosyon manyetolu mini turbo rüzgar çakmak CM-550, kompakt tasarımı, güç
       a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim planlamasına göre belirlenerek teklif aşamasında tarafınıza bildirilmektedir.",
     },
   ],
+  price: 13.5
 },
 {
   id: "p56",
-
   slug: "promosyon-manyetolu-cakmak-clipper-brio-cm-600",
-
   title:
     "Promosyon Manyetolu Çakmak Clipper Brio CM-600 | Logo Baskılı Clipper Tip Çakmak",
-
-  price: 42,
-
   category: "Çakmak",
-
   image: "/products/promosyon-manyetolu-cakmak-cm-600.jpg",
-
   shortDesc:
     "Promosyon manyetolu çakmak CM-600, Clipper Brio tipi tasarımı, doldurulabilir yapısı ve logo baskıya uygun geniş yüzeyiyle fuarlar, kurumsal etkinlikler ve marka tanıtımları için tercih edilen kaliteli promosyon çakmak modelidir.",
-
   longDesc: `
 Promosyon manyetolu çakmak Clipper Brio CM-600, modern Clipper tipi tasarımı, kaliteli gövde yapısı ve doldurulabilir özelliğiyle uzun süre kullanılabilen premium promosyon çakmak modellerinden biridir. Günlük kullanım için tasarlanan ergonomik yapısı sayesinde markanızın uzun süre görünür kalmasına katkı sağlayan etkili promosyon ürünleri arasında yer almaktadır.
 
@@ -5595,7 +5561,6 @@ Kategori: Çakmak
 
 Promosyon manyetolu çakmak Clipper Brio CM-600, kaliteli gövde yapısı, doldurulabilir tasarımı ve logo baskıya uygun yüzeyiyle markanızı uzun süre görünür kılan prestijli promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
 `.trim(),
-
   faq: [
     {
       q: "Promosyon manyetolu çakmak CM-600 üzerine logo baskısı yapılabilir mi?",
@@ -5622,6 +5587,7 @@ Promosyon manyetolu çakmak Clipper Brio CM-600, kaliteli gövde yapısı, doldu
       a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim planlamasına göre belirlenerek teklif aşamasında paylaşılmaktadır.",
     },
   ],
+  price: 45
 },
 {
   id: "p57",
@@ -72604,6 +72570,46 @@ Promosyon Seramik Kupa 275 ml SK-110 modeli; kaliteli seramik gövdesi, süblima
     {
       "q": "Gösterilen fiyata logo baskısı dahil mi?",
       "a": "Gösterilen ürün fiyatı baskı hariçtir. Sipariş adedi, logo uygulaması ve paketleme ayrıntılarına göre toplam teklif hazırlanır."
+    }
+  ]
+},
+
+{
+  "id": "p687",
+  "slug": "promosyon-manyetolu-siboplu-cakmak-cm-260",
+  "title": "Promosyon Manyetolu Siboplu Çakmak ÇM-260 | Koko",
+  "price": 12.5,
+  "category": "Çakmak",
+  "image": "/products/promosyon-manyetolu-siboplu-cakmak-cm-260.jpg",
+  "gallery": [
+    "/products/promosyon-manyetolu-siboplu-cakmak-cm-260.jpg"
+  ],
+  "shortDesc": "Koko ÇM-260 manyetolu siboplu promosyon çakmak; 78x24 mm ölçüsü ve 50x14 mm baskı alanıyla sunulur. Siyah veya beyaz gövdeye logo baskılı toplu sipariş için teklif alın.",
+  "longDesc": "Koko ÇM-260 Manyetolu Siboplu Promosyon Çakmak\n\nÇM-260, siyah üst mekanizmayı siyah veya beyaz gövdeyle birleştiren Koko model promosyon çakmaktır. 78 x 24 mm ölçüsündeki gövdesi, firma adı ve logo uygulaması için değerlendirilebilecek sade bir yüzey sunar.\n\nLOGO YERLEŞİMİ VE BASKI ALANI\nBelirtilen baskı alanı 50 x 14 mm'dir. Bu alanda firma logosu, marka adı veya kısa bir iletişim bilgisi kullanılabilir. Tasarım hazırlanırken yazıların okunabilirliği, amblemin ayrıntıları ve seçilen gövdeyle oluşturduğu renk farkı birlikte değerlendirilir.\n\nSerigrafi, tampon ve UV baskı seçenekleri bulunur. Hangi yöntemin kullanılacağı; logonun renk sayısı, çizgi ayrıntıları ve sipariş miktarına göre belirlenir. İki yüz baskı veya farklı tasarımlar isteniyorsa çalışma kapsamı teklif aşamasında netleştirilir.\n\nHANGİ İŞLETMELER İÇİN DEĞERLENDİRİLEBİLİR?\n• Restoran ve kafeler: İşletme adı ve iletişim bilgisi içeren müşteri promosyonları için\n• Otel ve konaklama işletmeleri: Kurumsal tanıtım ürünleri arasında değerlendirmek için\n• Reklam ajansları: Müşterilerine yönelik toplu logo baskılı ürün çalışmaları için\n• Etkinlik ve organizasyon firmaları: Kampanya ve açılış promosyonları hazırlamak için\n• Yerel işletmeler: Marka adı veya kısa tanıtım mesajı taşıyan dağıtım ürünleri için\n\nSİYAH VE BEYAZ GÖVDE SEÇİMİ\nBeyaz gövde üzerinde koyu renkli tasarımlar, siyah gövde üzerinde ise kontrast oluşturan logo çalışmaları değerlendirilebilir. Baskının görünümü seçilen yöntem ve tasarıma bağlıdır; uygulama öncesinde yerleşim ve renkler netleştirilir.\n\nTEKNİK BİLGİLER\n• Model: ÇM-260\n• Model adı: Koko\n• Ürün türü: Manyetolu siboplu çakmak\n• Ürün ölçüsü: 78 x 24 mm\n• Baskı alanı: 50 x 14 mm\n• Baskı seçenekleri: Serigrafi / Tampon / UV\n• Gövde renkleri: Siyah ve beyaz\n• Koli içi adet: 1.000\n• Kutu içi adet: 50\n\nTOPLU SİPARİŞ VE TEKLİF\nSipariş adedi, gövde rengi ve logo dosyanızı paylaşarak teklif alabilirsiniz. Gösterilen ürün fiyatı baskı hariçtir. Baskı yönü, uygulama yöntemi ve teslimat ayrıntılarına göre toplam teklif hazırlanır. Koli ve kutu içi adetler, minimum sipariş miktarı anlamına gelmez.",
+  "faq": [
+    {
+      "q": "ÇM-260 hangi mekanizmaya sahiptir?",
+      "a": "Koko ÇM-260, manyetolu siboplu bir çakmak modelidir."
+    },
+    {
+      "q": "Ürünün ölçüsü ve baskı alanı nedir?",
+      "a": "Ürün 78 x 24 mm ölçüsündedir. Belirtilen baskı alanı 50 x 14 mm'dir."
+    },
+    {
+      "q": "Hangi baskı yöntemleri uygulanabilir?",
+      "a": "Serigrafi, tampon ve UV baskı seçenekleri bulunur. Yöntem logo dosyası ve sipariş ayrıntılarına göre belirlenir."
+    },
+    {
+      "q": "Hangi renk seçenekleri bulunur?",
+      "a": "Siyah ve beyaz gövde seçenekleri bulunur."
+    },
+    {
+      "q": "Koli ve kutu içi adetler nedir?",
+      "a": "Koli içi adet 1.000, kutu içi adet 50'dir. Minimum sipariş miktarı teklif aşamasında netleştirilir."
+    },
+    {
+      "q": "Gösterilen fiyata logo baskısı dahil mi?",
+      "a": "Gösterilen ürün fiyatı baskı hariçtir. Adet, logo uygulaması ve baskı yönüne göre toplam teklif hazırlanır."
     }
   ]
 },
