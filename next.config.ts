@@ -3,6 +3,10 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   async redirects() {
     return [
+      {"source":"/urunler/promosyon-organizer-org-200-kilifli-defter","destination":"/urunler/promosyon-organizer-defter-td-135","permanent":true},
+      {"source":"/urunler/promosyon-organizer-org-110","destination":"/urunler/promosyon-organizer-defter-td-136","permanent":true},
+      {"source":"/urunler/promosyon-tarihsiz-defter-14-5x21-td-116","destination":"/urunler/promosyon-tarihsiz-defter-15-5x21-5-td-116","permanent":true},
+      {"source":"/urunler/promosyon-tarihsiz-defter-13x21-td-126","destination":"/urunler/promosyon-tarihsiz-defter-15x21-td-126","permanent":true},
       {"source":"/urunler/promosyon-powerbank-20000mah-led-fenerli-pb-140","destination":"/urunler/promosyon-powerbank-10000mah-pb-140","permanent":true},
       {"source":"/urunler/promosyon-powerbank-20000mah-pb-150","destination":"/urunler/promosyon-powerbank-10000mah-pb-150","permanent":true},
       {"source":"/urunler/promosyon-powerbank-5000mah-pb-270","destination":"/urunler/promosyon-powerbank-10000mah-pb-270","permanent":true},
