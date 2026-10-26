@@ -3,6 +3,18 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   async redirects() {
     return [
+      {"source":"/urunler/promosyon-duvar-saati-37cm-aluminyum-kasa-ds-115","destination":"/urunler/promosyon-duvar-saati-ds-115-37cm","permanent":true},
+      {"source":"/urunler/promosyon-duvar-saati-37cm-metal-kasa-ds-120","destination":"/urunler/promosyon-duvar-saati-ds-120-37cm","permanent":true},
+      {"source":"/urunler/promosyon-duvar-saati-38cm-metal-kasa-ds-130","destination":"/urunler/promosyon-duvar-saati-ds-130-30cm-metal-kasa","permanent":true},
+      {"source":"/urunler/promosyon-duvar-saati-35cm-plastik-kasa-ds-135","destination":"/urunler/promosyon-duvar-saati-ds-135-33cm-metal-kasa","permanent":true},
+      {"source":"/urunler/promosyon-duvar-saati-35cm-plastik-kasa-ds-150","destination":"/urunler/promosyon-duvar-saati-ds-150-31cm-metal-kasa","permanent":true},
+      {"source":"/urunler/promosyon-duvar-saati-35cm-plastik-kasa-ds-160","destination":"/urunler/promosyon-duvar-saati-ds-160-40cm-plastik-kasa","permanent":true},
+      {"source":"/urunler/promosyon-duvar-saati-metal-kasa-ds-170","destination":"/urunler/promosyon-duvar-saati-ds-170-40cm-plastik-kasa","permanent":true},
+      {"source":"/urunler/promosyon-duvar-saati-31-cm-metal-kasa-ds-230","destination":"/urunler/promosyon-duvar-saati-ds-230-35cm-abs-kasa","permanent":true},
+      {"source":"/urunler/promosyon-duvar-saati-33-cm-metal-kasa-ds-240","destination":"/urunler/promosyon-duvar-saati-ds-240-35cm-abs-kasa","permanent":true},
+      {"source":"/urunler/promosyon-duvar-saati-37-cm-aluminyum-kasa-ds-250","destination":"/urunler/promosyon-duvar-saati-ds-250-40cm-metalize-plastik","permanent":true},
+      {"source":"/urunler/promosyon-duvar-saati-35-cm-plastik-kasa-metalize-ds-260","destination":"/urunler/promosyon-duvar-saati-ds-260-40cm-metalize-plastik","permanent":true},
+      {"source":"/urunler/promosyon-duvar-saati-ds-340-35cm-bombe-cam","destination":"/urunler/promosyon-duvar-saati-ds-340-35cm-plastik-kasa","permanent":true},
       {"source":"/urunler/promosyon-organizer-org-200-kilifli-defter","destination":"/urunler/promosyon-organizer-defter-td-135","permanent":true},
       {"source":"/urunler/promosyon-organizer-org-110","destination":"/urunler/promosyon-organizer-defter-td-136","permanent":true},
       {"source":"/urunler/promosyon-tarihsiz-defter-14-5x21-td-116","destination":"/urunler/promosyon-tarihsiz-defter-15-5x21-5-td-116","permanent":true},

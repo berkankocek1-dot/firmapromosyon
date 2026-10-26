@@ -6067,23 +6067,15 @@ Promosyon ajanda AJ-100, termo deri kapak yapısı, kaliteli iç sayfaları ve l
   gallery: ["/products/promosyon-ajanda-aj-100-v2.jpg"]
 },
 {
-  id: "p60",
-
-  slug: "promosyon-duvar-saati-40cm-metal-kasa-ds-100",
-
-  title:
+id: "p60",
+slug: "promosyon-duvar-saati-40cm-metal-kasa-ds-100",
+title:
     "Promosyon Duvar Saati DS-100 | 40 cm Metal Kasa Logo Baskılı Duvar Saati",
-
-  price: 770,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-100.jpg",
-
-  shortDesc:
+price: 770,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-100, 40 cm geniş çapı, metal kasa yapısı, mineral camı ve logo baskıya uygun kadran tasarımı ile kurumsal promosyon çalışmaları için tercih edilen kaliteli duvar saati modelidir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-100 modeli, 40 cm geniş çapı, metal kasa yapısı ve şık kadran tasarımı ile kurumsal promosyon ürünleri arasında prestijli bir seçenek sunar. Ofis, fabrika, mağaza, showroom, okul ve kurumsal alanlarda rahatlıkla kullanılabilecek profesyonel bir duvar saati modelidir.
 
 Geniş kadran yapısı sayesinde saat uzaktan kolayca okunabilir. Bu özellik özellikle kalabalık iş yerleri, üretim alanları, toplantı odaları ve müşteri bekleme alanları için önemli bir kullanım avantajı sağlar.
@@ -6160,8 +6152,7 @@ Promosyon duvar saatleri iç mekan kullanımı için uygundur. Ürün tasarımı
 
 Promosyon duvar saati DS-100, 40 cm geniş kadranı, metal kasa yapısı ve logo baskıya uygun tasarımıyla markanızı uzun süre görünür kılan dekoratif ve etkili promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "Promosyon duvar saati DS-100 üzerine logo baskısı yapılabilir mi?",
       a: "Evet. Firma logosu, marka adı veya özel tasarım kadran üzerine uygulanabilmektedir.",
@@ -6187,6 +6178,7 @@ Promosyon duvar saati DS-100, 40 cm geniş kadranı, metal kasa yapısı ve logo
       a: "Fiyatlar sipariş miktarı, kadran tasarımı, baskı detayı ve üretim planına göre değişiklik gösterebilir.",
     },
   ],
+"image": "/products/promosyon-duvar-saati-ds-100-v2.jpg"
 },
 {
   id: "p61",
@@ -7235,23 +7227,15 @@ Promosyon ajanda AJ-150 modeli; kompakt ölçüsü, kaliteli termo deri kapağı
   price: 200
 },
 {
-  id: "p71",
-
-  slug: "promosyon-duvar-saati-35cm-metal-kasa-ds-110",
-
-  title:
+id: "p71",
+slug: "promosyon-duvar-saati-35cm-metal-kasa-ds-110",
+title:
     "Promosyon Duvar Saati DS-110 | 35 cm Logo Baskılı Alüminyum Metal Kasa Duvar Saati",
-
-  price: 670,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-110.jpg",
-
-  shortDesc:
+price: 670,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-110, 35 cm çapı, alüminyum metal kasa yapısı, mineral cam koruması ve logo baskıya uygun geniş kadranı ile kurumsal promosyon ürünleri arasında öne çıkan kaliteli duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-110 modeli, 35 cm çapı ve şık alüminyum metal kasa tasarımı ile kurumsal promosyon ürünleri arasında estetik görünümü ve dayanıklılığı bir araya getiren profesyonel bir duvar saati modelidir. Günlük kullanım için tasarlanan bu ürün; ofisler, mağazalar, fabrikalar, showroomlar ve kurumsal çalışma alanlarında uzun yıllar kullanılabilecek kaliteli bir reklam ürünüdür.
 
 35 cm çapındaki geniş kadranı sayesinde saat bilgisi uzaktan rahatlıkla okunabilir. Yoğun çalışma alanlarında, toplantı odalarında ve müşteri bekleme salonlarında hem dekoratif hem de işlevsel bir kullanım sunar.
@@ -7339,8 +7323,7 @@ Promosyon duvar saati DS-110 iç mekan kullanımı için tasarlanmıştır. Kasa
 
 Promosyon duvar saati DS-110, 35 cm geniş kadranı, alüminyum metal kasa yapısı, mineral cam koruması ve logo baskıya uygun tasarımıyla markanızı uzun yıllar görünür kılan prestijli promosyon ürünlerinden biridir. Kurumsal promosyon projeleri ve toplu siparişler için bizimle iletişime geçebilirsiniz.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-110 duvar saatinin çapı kaç cm'dir?",
       a: "DS-110 modeli 35 cm çap ölçüsüne sahiptir."
@@ -7365,26 +7348,19 @@ Promosyon duvar saati DS-110, 35 cm geniş kadranı, alüminyum metal kasa yapı
       q: "Kurumsal promosyon çalışmaları için uygun mudur?",
       a: "Evet. Ofisler, fabrikalar, mağazalar, eğitim kurumları, sağlık kuruluşları ve kurumsal tanıtım projeleri için tercih edilen profesyonel promosyon duvar saati modellerinden biridir."
     }
-  ]
+  ],
+"image": "/products/promosyon-duvar-saati-ds-110-v2.jpg"
 },
 {
-  id: "p72",
-
-  slug: "promosyon-duvar-saati-37cm-aluminyum-kasa-ds-115",
-
-  title:
+id: "p72",
+title:
     "Promosyon Duvar Saati DS-115 | 37 cm Logo Baskılı ABS Kasa Duvar Saati",
-
-  price: 690,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-115.jpg",
-
-  shortDesc:
+price: 750,
+category: "Duvar Saatleri",
+image: "/products/promosyon-duvar-saati-ds-115.jpg",
+shortDesc:
     "Promosyon duvar saati DS-115, 37 cm kasa çapı, dayanıklı ABS gövdesi, mineral cam koruması ve logo baskısına uygun geniş kadranı ile kurumsal tanıtımlar için tercih edilen kaliteli promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-115 modeli, modern tasarımı, geniş okunabilir kadranı ve kaliteli malzeme yapısıyla kurumsal tanıtım çalışmalarında uzun yıllardır tercih edilen promosyon duvar saati modelleri arasında yer almaktadır. Günlük kullanım için tasarlanan bu model; ofisler, fabrikalar, mağazalar, kamu kurumları ve ticari işletmeler için hem dekoratif hem de işlevsel bir çözümdür.
 
 37 cm kasa çapına sahip olan DS-115 modeli, geniş görünümü sayesinde saatin uzaktan kolay okunmasını sağlar. 308 mm çapındaki Bristol kadranı, firma logosu ve kurumsal tasarımlar için geniş bir baskı alanı sunarak markanızın gün boyunca görünür olmasına katkı sağlar.
@@ -7473,8 +7449,7 @@ DS-115 modeli iç mekan kullanımına uygundur. Kasa ve kadran seçenekleri stok
 
 Promosyon duvar saati DS-115; 37 cm geniş kasa yapısı, dayanıklı ABS gövdesi, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş kadranı sayesinde markanızı uzun yıllar görünür kılan kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-115 duvar saatinin kasa çapı kaçtır?",
       a: "DS-115 modeli 370 mm (37 cm) kasa çapına sahiptir."
@@ -7499,421 +7474,135 @@ Promosyon duvar saati DS-115; 37 cm geniş kasa yapısı, dayanıklı ABS gövde
       q: "Kurumsal promosyon çalışmaları için uygun mudur?",
       a: "Evet. Ofisler, fabrikalar, mağazalar, kamu kurumları, eğitim kurumları ve kurumsal tanıtım organizasyonlarında tercih edilen profesyonel promosyon duvar saati modellerinden biridir."
     }
-  ]
+  ],
+"slug": "promosyon-duvar-saati-ds-115-37cm"
 },
 {
-  id: "p73",
-
-  slug: "promosyon-duvar-saati-37cm-metal-kasa-ds-120",
-
-  title:
-    "Promosyon Duvar Saati DS-120 | 37 cm Logo Baskılı Metal Kasa Duvar Saati",
-
-  price: 920,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-120.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-120, 37 cm metal kasa yapısı, mineral cam koruması ve logo baskısına uygun geniş kadranı ile kurumsal tanıtımlar için tercih edilen kaliteli promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-120 modeli, şık metal kasası, geniş okunabilir kadranı ve kaliteli malzeme yapısıyla kurumsal tanıtım çalışmalarında uzun yıllar kullanılabilecek prestijli promosyon ürünlerinden biridir. Modern tasarımı sayesinde ofislerden mağazalara, fabrikalardan eğitim kurumlarına kadar birçok farklı ortamda dekoratif ve işlevsel kullanım sunar.
-
-37 cm kasa çapına sahip olan DS-120 modeli, uzaktan rahat okunabilen geniş kadranı ile dikkat çeker. 308 mm çapındaki Bristol kadranı üzerine firmanızın logosu, kurumsal renkleri, iletişim bilgileri veya özel tasarımları yüksek baskı kalitesiyle uygulanabilir. Böylece ürün yalnızca zamanı göstermekle kalmaz, aynı zamanda markanızın gün boyunca görünür olmasını sağlar.
-
-Akrilik boyalı ABS kasa yapısı sayesinde sağlam, hafif ve uzun ömürlü bir kullanım sunar. Mineral cam yüzeyi ise kadranı çizilmelere ve dış etkenlere karşı koruyarak ürünün estetik görünümünü uzun süre muhafaza eder.
-
-DS-120 modeli akar saniyeli mekanizması sayesinde saniye kolunun akıcı hareket etmesini sağlar. Sessiz çalışma özelliğiyle toplantı odaları, yönetici ofisleri, resepsiyonlar, bekleme salonları ve eğitim kurumlarında konforlu kullanım sunmaktadır.
-
-Logo baskılı promosyon duvar saatleri, kullanıcıların gün içerisinde sürekli gördüğü reklam ürünleri arasında yer aldığı için marka bilinirliğini artıran en etkili kurumsal promosyon ürünlerinden biridir. Uzun ömürlü yapısı sayesinde reklam yatırımınız yıllarca görünürlüğünü korur.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-120?
-
-• 37 cm geniş kasa çapı
-• Şık metal kasa tasarımı
-• Dayanıklı akrilik boyalı ABS gövde
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Geniş logo baskı alanı
-• Hafif ve kolay montaj
-• Uzun ömürlü kurumsal kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-120
-
-Kategori: Duvar Saatleri
-
-Kasa Çapı: Ø 370 mm
-
-Kadran Çapı: Ø 308 mm
-
-Kasa: Akrilik Boyalı ABS Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Ambalaj: Shrink İç Ambalaj + Mikro Kutu
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Fabrikalar
-• Mağazalar
-• Marketler
-• Showroomlar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Belediyeler
-• Oteller
-• Bekleme salonları
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Kamu kurumları
-• Sanayi kuruluşları
-• Zincir mağazalar
-• Bayilik organizasyonları
-• Promosyon ürün tedarikçileri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş miktarı, logo baskısı, özel kadran tasarımı ve üretim planlamasına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Firmanıza özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu ve teslim süresi sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-120 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Kasa ve kadran seçenekleri stok durumuna göre değişiklik gösterebilir. Sipariş öncesinde teknik özelliklerin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-120; 37 cm metal kasası, geniş Bristol kadranı, mineral cam koruması, akar saniyeli mekanizması ve logo baskısına uygun tasarımı sayesinde markanızı uzun yıllar görünür kılan kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-120 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-120 modeli 37 cm (Ø370 mm) kasa çapına sahiptir."
-    },
-    {
-      q: "Saat üzerine firma logosu basılabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı ve kurumsal tasarımlar yüksek kaliteli baskı ile uygulanabilmektedir."
-    },
-    {
-      q: "Kasa yapısı nasıldır?",
-      a: "Ürün akrilik boyalı ABS kasa yapısına sahiptir. Sağlam, hafif ve uzun ömürlü kullanım sunar."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. DS-120 modeli akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Cam koruması mevcut mudur?",
-      a: "Evet. Ürün mineral cam ile üretilmiştir ve kadranı dış etkenlere karşı korur."
-    },
-    {
-      q: "Kurumsal promosyon çalışmaları için uygun mudur?",
-      a: "Evet. Ofisler, fabrikalar, mağazalar, eğitim kurumları, kamu kuruluşları ve kurumsal tanıtım organizasyonları için tercih edilen profesyonel promosyon duvar saati modellerinden biridir."
-    }
-  ]
+id: "p73",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-120 | 37 cm Mineral Cam",
+"price": 1020,
+"image": "/products/promosyon-duvar-saati-ds-120-v2.jpg",
+"shortDesc": "37 cm çapındaki DS-120 promosyon duvar saati; Bristol kadranı, mineral camı ve akar saniyeli mekanizmasıyla ofis ve iş ortaklarına yönelik logo uygulamalı hediye çalışmalarında değerlendirilebilir.",
+"longDesc": "Sade Kadranlı 37 cm Promosyon Duvar Saati DS-120\n\nDS-120, açık renk kadranı ve yuvarlak çerçevesiyle sade bir duvar saati arayan işletmeler için değerlendirilebilecek bir modeldir. 37 cm kasa çapı ve 308 mm kadran çapı bulunan ürün, ofis, toplantı odası ve müşteri karşılama bölümlerinde kullanılabilecek kurumsal hediyeler arasında yer alabilir.\n\nBristol kadranı mineral cam tamamlar. Akar saniyeli mekanizma, saniye kolunun akıcı hareket etmesini sağlar. Güncel ürün görselindeki belirgin rakam düzeni, firma tasarımı hazırlanırken korunabilecek temel unsurlardan biridir.\n\nTEKNİK ÖZELLİKLER\n• Model: DS-120\n• Kasa çapı: 370 mm / 37 cm\n• Kadran çapı: 308 mm\n• Kadran: Bristol\n• Cam: Mineral cam\n• Mekanizma: Akar saniyeli\n• Ambalaj: Shrink iç ambalaj ve mikro kutu\n\nFİRMA TASARIMI NASIL PLANLANIR?\nLogo, firma adı ve gerekiyorsa kısa bir iletişim bilgisi kadran düzeni üzerinden değerlendirilir. Tasarımın rakamları kapatmaması ve ibrelerin hareket alanında okunabilir kalması önemlidir. Baskı yöntemi ile uygulanabilecek alan, logo dosyası incelenerek sipariş öncesinde belirlenir.\n\nKİMLER İÇİN UYGUN?\n• Denetim ve muhasebe şirketleri: Görüşme odaları ve iş ortaklarına yönelik hediyeler için.\n• Endüstriyel ekipman satıcıları: Bayi ve kurumsal müşteri ziyaretlerinde sunulabilecek ürünler için.\n• Özel eğitim ve danışmanlık merkezleri: İdari ofisler ve personel alanları için.\n• İş merkezi ve tesis yönetimleri: Ortak çalışma ve yönetim ofisleri için.\n• Reklam ajansları: Müşterilerinin ofis hediyesi projelerinde değerlendirilmek üzere.\n\nYERLEŞİM VE DAĞITIM\nSaatin asılacağı duvarın boyutu, izleme mesafesi ve ortam ışığı birlikte dikkate alınabilir. Toplu hediye dağıtımı planlanıyorsa ambalaj ve sevkiyat ayrıntıları adet bilgisiyle birlikte değerlendirilir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\nLogo dosyası ve sipariş miktarı paylaşılmasıyla toplam teklif hazırlanabilir. Gösterilen ürün fiyatı baskı ve KDV hariçtir. Uygulama, paketleme ve teslimat detayları sipariş öncesinde netleştirilir.",
+"faq": [
+  {
+    "q": "DS-120 duvar saatinin ölçüleri nelerdir?",
+    "a": "Kasa çapı 37 cm, kadran çapı 308 mm'dir."
+  },
+  {
+    "q": "Hangi cam ve kadran kullanılır?",
+    "a": "Modelde mineral cam ve Bristol kadran bulunur."
+  },
+  {
+    "q": "Mekanizması nasıldır?",
+    "a": "DS-120 akar saniyeli mekanizmaya sahiptir."
+  },
+  {
+    "q": "Logo tasarımı nasıl hazırlanır?",
+    "a": "Logo ve firma bilgileri kadran düzeni dikkate alınarak yerleştirilir. Uygulama alanı ve baskı yöntemi tasarım değerlendirmesiyle belirlenir."
+  },
+  {
+    "q": "Ambalaj bilgisi nedir?",
+    "a": "Ürün özelliklerinde shrink iç ambalaj ve mikro kutu belirtilmektedir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı ve KDV dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı ve KDV hariçtir. Adet ve logo uygulamasına göre toplam teklif hazırlanır."
+  }
+],
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-120-v2.jpg"
+],
+"slug": "promosyon-duvar-saati-ds-120-37cm"
 },
 {
-  id: "p74",
-
-  slug: "promosyon-duvar-saati-38cm-metal-kasa-ds-130",
-
-  title:
-    "Promosyon Duvar Saati DS-130 | 38 cm Pirinç Kaplama Metal Kasa Logo Baskılı Duvar Saati",
-
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-130.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-130, 38 cm pirinç kaplama metal kasası, yaldız kabartmalı kadranı ve mineral cam koruması ile prestijli kurumsal promosyon çalışmaları için tercih edilen şık duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-130 modeli, pirinç kaplama metal kasası ve yaldız kabartmalı özel kadran tasarımı ile klasik şıklığı modern kaliteyle buluşturan prestijli promosyon duvar saati modellerinden biridir. Kurumsal firmalar, kamu kurumları, oteller ve yönetici ofisleri için hem dekoratif hem de uzun ömürlü bir tanıtım ürünü olarak tercih edilmektedir.
-
-38 cm kasa çapına sahip olan DS-130 modeli, büyük ve dikkat çekici yapısıyla geniş alanlarda rahatlıkla kullanılabilir. 288 mm çapındaki yaldız kabartmalı kadranı, firmanızın logosu veya kurumsal tasarımlarının estetik şekilde uygulanmasına olanak tanırken bulunduğu ortamda markanızın sürekli görünür olmasını sağlar.
-
-Pirinç kaplama metal kasa, ürüne zarif ve premium bir görünüm kazandırırken dayanıklı yapısıyla uzun yıllar kullanım avantajı sunar. Mineral cam yüzeyi ise kadranı çizilmelere ve dış etkenlere karşı koruyarak ilk günkü şıklığını uzun süre muhafaza etmesine yardımcı olur.
-
-Akar saniyeli mekanizması sayesinde saniye kolu akıcı ve sessiz şekilde hareket eder. Bu özelliği sayesinde yönetici odaları, toplantı salonları, resepsiyon alanları ve çalışma ofislerinde konforlu kullanım sağlar.
-
-Logo baskılı promosyon duvar saatleri, kullanıcıların gün içerisinde sürekli gördüğü reklam ürünleri arasında yer aldığı için marka bilinirliğini artıran en etkili kurumsal promosyon ürünlerinden biridir. Şık tasarımı sayesinde hem fonksiyonel hem de prestijli bir kurumsal hediye olarak öne çıkar.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-130?
-
-• 38 cm geniş kasa çapı
-• Pirinç kaplama metal kasa
-• Yaldız kabartmalı dekoratif kadran
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Geniş logo baskı alanı
-• Premium ve klasik tasarım
-• Uzun ömürlü kurumsal kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-130
-
-Kategori: Duvar Saatleri
-
-Kasa Çapı: Ø 380 mm
-
-Kadran Çapı: Ø 288 mm
-
-Kasa: Pirinç Kaplama Metal Kasa
-
-Cam: Mineral Cam
-
-Kadran: Yaldız Kabartmalı Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Ambalaj: Shrink İç Ambalaj + Mikro Kutu
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-KULLANIM ALANLARI
-
-• Yönetici ofisleri
-• Kurumsal şirketler
-• Oteller
-• Bankalar
-• Belediyeler
-• Kamu kurumları
-• Fabrikalar
-• Showroomlar
-• Resepsiyon alanları
-• Toplantı salonları
-• Kurumsal bekleme alanları
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Reklam ajansları
-• Sanayi kuruluşları
-• Zincir mağazalar
-• Oteller
-• Promosyon ürün tedarikçileri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, logo baskısı, özel kadran tasarımı ve üretim planlamasına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Kurumsal kimliğinize uygun özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu ve teslim süresi sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyatlandırma uygulanmaktadır.
-
-KULLANIM NOTU
-
-DS-130 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Kasa ve kadran seçenekleri stok durumuna göre değişiklik gösterebilir. Sipariş öncesinde teknik özelliklerin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-130; 38 cm pirinç kaplama metal kasası, yaldız kabartmalı özel kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun tasarımı sayesinde markanızı uzun yıllar görünür kılan prestijli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-130 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-130 modeli 38 cm (Ø380 mm) kasa çapına sahiptir."
-    },
-    {
-      q: "Saat üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı ve kurumsal tasarımlar yüksek kaliteli baskı ile uygulanabilmektedir."
-    },
-    {
-      q: "Kasa hangi malzemeden üretilmiştir?",
-      a: "Ürün pirinç kaplama metal kasaya sahiptir ve şık, prestijli bir görünüm sunmaktadır."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Cam koruması bulunuyor mu?",
-      a: "Evet. Ürün mineral cam ile üretilmiştir ve kadranı dış etkenlere karşı korur."
-    },
-    {
-      q: "Kurumsal promosyon çalışmaları için uygun mudur?",
-      a: "Evet. Yönetici ofisleri, kurumsal firmalar, kamu kurumları, oteller ve prestijli tanıtım organizasyonları için tercih edilen premium promosyon duvar saati modellerinden biridir."
-    }
-  ]
+id: "p74",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-130 | 30 cm Metal Kasa",
+"price": 640,
+"image": "/products/promosyon-duvar-saati-ds-130-v2.jpg",
+"shortDesc": "30 cm çapındaki DS-130 promosyon duvar saati; paslanmaz metal çerçevesi, mineral camı ve akar saniyeli mekanizmasıyla ofis ve iş yerleri için logo baskılı bir hediye seçeneğidir.",
+"longDesc": "30 cm Metal Kasalı Promosyon Duvar Saati DS-130\n\nDS-130, paslanmaz metal çerçeve ile yuvarlak kadranı bir araya getiren 30 cm çapında bir promosyon duvar saatidir. Mineral camı ve akar saniyeli mekanizması bulunan model, çalışma alanlarında zamanı takip etmek ve firma kimliğini kadran üzerinde sergilemek için değerlendirilebilir.\n\nOfis masasına bırakılan hediyelerden farklı olarak duvar saati, yerleştirildiği alanın düzenine katılır. Bu nedenle tasarım hazırlanırken yalnızca logonun büyüklüğü değil, rakamların okunabilirliği ve kadrandaki boşlukların dengesi de önem taşır. DS-130 için kurumsal tasarım, saatin günlük işlevi gözetilerek planlanabilir.\n\nTEKNİK ÖZELLİKLER\n• Model: DS-130\n• Ürün türü: Promosyon duvar saati\n• Çap: 30 cm\n• Çerçeve: Paslanmaz metal\n• Cam: Mineral cam\n• Mekanizma: Akar saniyeli\n• Baskı seçenekleri: Ofset, dijital, serigrafi ve UV\n• Koli adedi: 20\n\nLOGO VE KADRAN TASARIMI\nFirma logosu, marka adı veya iletişim bilgileri için hazırlanan çalışma, saat göstergeleriyle birlikte değerlendirilir. İnce yazılar ve küçük ayrıntılar yerine, kullanılacağı mesafeden seçilebilen sade bir tasarım tercih edilebilir. Baskı yöntemi; tasarımın renkleri, sipariş miktarı ve uygulama detaylarına göre belirlenir.\n\nKİMLER VE HANGİ MESLEK GRUPLARI İÇİN UYGUN?\n• Mali müşavirlik ve muhasebe ofisleri: Müşteri görüşme odaları için.\n• Sigorta acenteleri ve emlak danışmanları: Ofis veya bayi hediyeleri için.\n• Servisler ve yedek parça firmaları: İş ortaklarının çalışma alanlarında kullanılabilecek kurumsal hediyeler için.\n• Toptancılar ve dağıtım firmaları: Bayi ziyaretlerinde sunulabilecek logo baskılı ürünler için.\n• Eğitim ve danışmanlık şirketleri: Personel odaları ve toplantı alanları için.\n\nKULLANIM ALANLARI\nDS-130; resepsiyon, toplantı odası, mağaza, servis kabul alanı ve ofis gibi iç mekanlarda değerlendirilebilir. Yerleştirileceği duvarın boyutu ve saatin izleneceği mesafe, model seçimi sırasında dikkate alınmalıdır.\n\nSİPARİŞ VE FİYAT BİLGİSİ\nGösterilen ürün fiyatı baskı ve KDV hariçtir. Sipariş adedi, logo dosyası ve istenen uygulama belirtilerek toplam teklif alınabilir. Koli adedi 20 olup bu bilgi tek başına minimum sipariş miktarını ifade etmez. Baskı çalışması ve teslimat detayları sipariş öncesinde netleştirilir.",
+"faq": [
+  {
+    "q": "DS-130 duvar saatinin çapı nedir?",
+    "a": "Güncel DS-130 modeli 30 cm çapındadır."
+  },
+  {
+    "q": "Çerçeve ve cam hangi malzemeden üretilmiştir?",
+    "a": "Modelde paslanmaz metal çerçeve ve mineral cam bulunur."
+  },
+  {
+    "q": "Hangi mekanizma kullanılır?",
+    "a": "DS-130, akar saniyeli mekanizmaya sahiptir."
+  },
+  {
+    "q": "Hangi baskı yöntemleri uygulanabilir?",
+    "a": "Ofset, dijital, serigrafi ve UV baskı seçenekleri bulunur. Uygulanacak yöntem tasarım ve sipariş detaylarına göre belirlenir."
+  },
+  {
+    "q": "Koli adedi minimum sipariş miktarı mı?",
+    "a": "Koli adedi 20'dir. Minimum sipariş miktarı ve paketleme koşulları teklif sırasında ayrıca netleştirilir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı ve KDV dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı ve KDV hariçtir. Logo uygulaması ve sipariş adedine göre toplam teklif hazırlanır."
+  }
+],
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-130-v2.jpg"
+],
+"slug": "promosyon-duvar-saati-ds-130-30cm-metal-kasa"
 },
 {
-  id: "p75",
-
-  slug: "promosyon-duvar-saati-35cm-plastik-kasa-ds-135",
-
-  title:
-    "Promosyon Duvar Saati DS-135 | 35 cm Logo Baskılı Plastik Kasa Duvar Saati",
-
-  price: 410,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-135.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-135, 35 cm plastik kasası, mineral cam koruması, renk seçenekleri ve logo baskısına uygun geniş kadranı ile kurumsal tanıtımlar için ideal promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-135 modeli, modern tasarımı, canlı renk seçenekleri ve dayanıklı plastik kasası ile kurumsal promosyon ürünleri arasında en çok tercih edilen duvar saati modellerinden biridir. Günlük kullanıma uygun yapısı sayesinde ofisler, mağazalar, okullar, kamu kurumları ve iş yerlerinde uzun yıllar kullanılabilecek etkili bir reklam ürünüdür.
-
-35 cm kasa çapına sahip olan DS-135 modeli, geniş ve okunabilir kadranı sayesinde saatin uzaktan rahatlıkla görülmesini sağlar. 308 mm çapındaki Bristol kadranı üzerine firmanızın logosu, kurumsal kimliği veya reklam tasarımı yüksek baskı kalitesiyle uygulanabilir. Böylece markanız gün boyunca görünür olarak akılda kalıcılığını artırır.
-
-Dayanıklı akrilik boyalı ABS plastik kasa yapısı hafifliği ve sağlamlığı bir arada sunarken, mineral cam yüzeyi kadranı çizilmelere ve dış etkenlere karşı koruyarak uzun ömürlü kullanım sağlar.
-
-DS-135 modeli akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunar. Bu özelliği sayesinde çalışma ofisleri, toplantı odaları, sınıflar, bekleme salonları ve mağazalarda konforlu kullanım sağlar.
-
-Farklı kasa renkleri ile üretilebilen bu model, firmanızın kurumsal renklerine uygun seçim yapma imkanı sunar. Logo baskısı ile birleştirildiğinde hem dekoratif hem de yüksek reklam değerine sahip kurumsal bir promosyon ürününe dönüşmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-135?
-
-• 35 cm geniş kasa çapı
-• Dayanıklı plastik kasa
-• Farklı renk seçenekleri
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Geniş logo baskı alanı
-• Hafif ve kolay montaj
-• Uzun ömürlü kurumsal kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-135
-
-Kategori: Duvar Saatleri
-
-Kasa Çapı: Ø 350 mm
-
-Kadran Çapı: Ø 308 mm
-
-Kasa: Akrilik Boyalı ABS Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Ambalaj: Shrink İç Ambalaj + Mikro Kutu
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Mağazalar
-• Marketler
-• Fabrikalar
-• Okullar
-• Hastaneler
-• Belediyeler
-• Bankalar
-• Bekleme salonları
-• Showroomlar
-• Fuar organizasyonları
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Reklam ajansları
-• Eğitim kurumları
-• Sanayi kuruluşları
-• Zincir mağazalar
-• Promosyon ürün tedarikçileri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş miktarı, logo baskısı, tercih edilen kasa rengi ve üretim planlamasına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Farklı kasa renkleri arasından seçim yapılabilmektedir.
-• Güncel stok durumu ve teslim süresi sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-135 modeli iç mekan kullanımına uygundur. Kasa renkleri stok durumuna göre değişiklik gösterebilir. Sipariş öncesinde tercih edilen renk ve teknik özelliklerin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-135; 35 cm plastik kasası, geniş Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun tasarımı sayesinde markanızı uzun yıllar görünür kılan ekonomik ve kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-135 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-135 modeli 35 cm (Ø350 mm) kasa çapına sahiptir."
-    },
-    {
-      q: "Saat üzerine firma logosu basılabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı ve kurumsal tasarımlar yüksek kaliteli baskı ile uygulanabilmektedir."
-    },
-    {
-      q: "Farklı kasa renkleri mevcut mudur?",
-      a: "Evet. DS-135 modeli farklı kasa renkleri ile üretilebilmektedir. Güncel renk seçenekleri stok durumuna göre değişiklik gösterebilir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Ürün akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Cam koruması bulunuyor mu?",
-      a: "Evet. Ürün mineral cam ile üretilmiştir ve kadranı dış etkenlere karşı korumaktadır."
-    },
-    {
-      q: "Kurumsal promosyon çalışmaları için uygun mudur?",
-      a: "Evet. Ofisler, mağazalar, okullar, kamu kurumları, fabrikalar ve kurumsal tanıtım organizasyonları için tercih edilen promosyon duvar saati modellerinden biridir."
-    }
-  ]
+id: "p75",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-135 | 33 cm Metal Kasa",
+"price": 680,
+"image": "/products/promosyon-duvar-saati-ds-135-v2.jpg",
+"shortDesc": "DS-135 promosyon duvar saati; 33 cm çapı, paslanmaz metal kasası, mineral camı ve Bristol kadranıyla bayi, mağaza ve ofisler için logo baskılı kurumsal hediye seçeneğidir.",
+"longDesc": "Bayi ve İş Yerleri İçin Metal Kasalı Duvar Saati DS-135\n\nBir bayi hediyesinin kullanılacağı mekana uyum sağlaması, ürün seçiminde önemli bir ölçüttür. DS-135; 33 cm çapındaki yuvarlak formu ve metal çerçevesiyle mağaza, ofis veya servis kabul alanlarında değerlendirilebilecek bir promosyon duvar saatidir. Firma kimliğiyle hazırlanan kadran tasarımı, saati iş ortaklarına sunulabilecek kişiselleştirilmiş bir hediyeye dönüştürür.\n\nModelde paslanmaz metal kasa, mineral cam ve Bristol kadran bulunur. Akar saniyeli mekanizma, saniye kolunun akıcı hareket etmesini sağlar. Ürün görselinde açık ve koyu kadran örnekleri yer alır; sipariş tasarımı hazırlanırken logo ile kadran arasındaki renk uyumu birlikte değerlendirilir.\n\nTEKNİK BİLGİLER\n• Model: DS-135\n• Ürün türü: Promosyon duvar saati\n• Kasa çapı: 33 cm\n• Kasa malzemesi: Paslanmaz metal\n• Cam: Mineral cam\n• Kadran: Bristol\n• Mekanizma: Akar saniyeli\n\nKADRAN TASARIMINDA NELERE DİKKAT EDİLMELİ?\nSaatin rakamları ile firma logosunun birbirini kapatmaması gerekir. Kadran çalışmasında marka adı, logo ve gerekiyorsa kısa bir iletişim bilgisi kullanılabilir. Küçük yazılarla alanı doldurmak yerine, saatin görüleceği mesafeye uygun bir yerleşim hazırlanması önerilir. Uygulama yöntemi ve baskı alanı tasarım aşamasında netleştirilir.\n\nHANGİ MESLEK GRUPLARI İÇİN UYGUN?\n• Otomotiv servisleri ve yedek parça satıcıları: Servis noktalarına veya iş ortaklarına hediye olarak.\n• Yapı malzemesi ve hırdavat firmaları: Bayi ağına yönelik kurumsal çalışmalar için.\n• Eczane ve medikal tedarikçileri: İş yerlerinin iç mekanlarında kullanılabilecek hediyeler için.\n• Emlak ve sigorta ofisleri: Şube, acente ve müşteri karşılama alanları için.\n• Üretici ve toptancı firmalar: Bayi toplantıları ve müşteri ziyaretlerinde sunulabilecek ürünler için.\n\nSİPARİŞ HAZIRLIĞI\nTeklif için adet bilgisi, logo dosyası ve istenen kadran çalışması paylaşılabilir. Tasarım hazırlanırken firmanın renkleri ve kullanım alanı dikkate alınır. Gösterilen ürün fiyatı baskı ve KDV hariçtir; logo uygulaması, paketleme ve teslimat detaylarına göre toplam teklif oluşturulur.",
+"faq": [
+  {
+    "q": "DS-135 duvar saatinin ölçüsü nedir?",
+    "a": "Güncel DS-135 modeli 33 cm kasa çapına sahiptir."
+  },
+  {
+    "q": "DS-135 plastik kasalı mı?",
+    "a": "Hayır. Güncel model paslanmaz metal kasalıdır."
+  },
+  {
+    "q": "Cam ve kadran özellikleri nelerdir?",
+    "a": "Üründe mineral cam ve Bristol kadran bulunur."
+  },
+  {
+    "q": "Hangi mekanizma kullanılır?",
+    "a": "DS-135 akar saniyeli mekanizmaya sahiptir."
+  },
+  {
+    "q": "Firma logosuyla özel kadran hazırlanabilir mi?",
+    "a": "Logo ve marka bilgileriyle kadran çalışması değerlendirilebilir. Yerleşim, uygulama yöntemi ve baskı alanı sipariş öncesinde netleştirilir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı dahil mi?",
+    "a": "Gösterilen fiyat baskı ve KDV hariçtir. Sipariş adedi ve logo uygulamasına göre toplam teklif hazırlanır."
+  }
+],
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-135-v2.jpg"
+],
+"slug": "promosyon-duvar-saati-ds-135-33cm-metal-kasa"
 },
 {
-  id: "p76",
-
-  slug: "promosyon-duvar-saati-38cm-krom-kasa-ds-136",
-
-  title:
+id: "p76",
+slug: "promosyon-duvar-saati-38cm-krom-kasa-ds-136",
+title:
     "Promosyon Duvar Saati DS-136 | 38 cm Krom Kasa Logo Baskılı Duvar Saati",
-
-  price: 920,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-136.jpg",
-
-  shortDesc:
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-136, 38 cm krom kaplama kasası, mineral cam koruması ve logo baskısına uygun geniş kadranı ile kurumsal tanıtımlar için tercih edilen şık promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-136 modeli, krom kaplama kasası ve sade tasarımıyla kurumsal mekanlara modern bir görünüm kazandıran kaliteli promosyon duvar saati modelleri arasında yer almaktadır. Geniş kadranı, dayanıklı yapısı ve uzun ömürlü mekanizması sayesinde ofisler, mağazalar, fabrikalar ve resmi kurumlarda yıllarca güvenle kullanılabilir.
 
 38 cm kasa çapına sahip olan DS-136 modeli, uzaktan rahat okunabilen geniş göstergeleri ile günlük kullanım için yüksek konfor sağlar. 288 mm çapındaki Bristol kadranı üzerine firmanızın logosu, kurumsal renkleri veya özel tasarımları yüksek baskı kalitesiyle uygulanabilir. Böylece ürün hem işlevsel bir duvar saati hem de markanızı sürekli görünür kılan etkili bir reklam aracına dönüşür.
@@ -8000,8 +7689,7 @@ DS-136 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. K
 
 Promosyon duvar saati DS-136; 38 cm krom kaplama kasası, geniş Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun tasarımı sayesinde markanızı uzun yıllar görünür kılan kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-136 duvar saatinin çapı kaç santimetredir?",
       a: "DS-136 modeli 38 cm (Ø380 mm) kasa çapına sahiptir."
@@ -8026,26 +7714,23 @@ Promosyon duvar saati DS-136; 38 cm krom kaplama kasası, geniş Bristol kadran�
       q: "Kurumsal promosyon çalışmaları için uygun mudur?",
       a: "Evet. Ofisler, mağazalar, fabrikalar, kamu kurumları, eğitim kurumları ve kurumsal tanıtım organizasyonları için tercih edilen profesyonel promosyon duvar saati modellerinden biridir."
     }
-  ]
+  ],
+"price": 1020,
+"image": "/products/promosyon-duvar-saati-ds-136-v2.jpg",
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-136-v2.jpg"
+]
 },
 {
-  id: "p77",
-
-  slug: "promosyon-duvar-saati-25cm-metal-kasa-ds-140",
-
-  title:
+id: "p77",
+slug: "promosyon-duvar-saati-25cm-metal-kasa-ds-140",
+title:
     "Promosyon Duvar Saati DS-140 | 25 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 410,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-140.jpg",
-
-  shortDesc:
+price: 410,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-140, 25 cm çapı, mineral cam koruması ve logo baskısına uygun geniş kadranı ile ofisler ve kurumsal işletmeler için tercih edilen kompakt promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-140 modeli, kompakt ölçüsü ve sade tasarımı sayesinde küçük ve orta ölçekli çalışma alanları için ideal çözümler sunan promosyon duvar saati modellerinden biridir. 25 cm çapı sayesinde dar alanlarda dahi rahatlıkla kullanılabilirken, şık görünümüyle bulunduğu ortama estetik bir dokunuş kazandırır.
 
 Logo baskısına uygun Bristol kadranı sayesinde firmanızın logosu, kurumsal renkleri veya reklam tasarımları yüksek baskı kalitesiyle uygulanabilmektedir. Böylece günlük yaşamın bir parçası haline gelen duvar saati, markanızın yıl boyunca görünürlüğünü artıran etkili bir reklam ürününe dönüşür.
@@ -8128,8 +7813,7 @@ DS-140 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-140; 25 cm kompakt yapısı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş kadranı sayesinde markanızı uzun yıllar görünür kılan kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-140 duvar saatinin çapı kaç santimetredir?",
       a: "DS-140 modeli 25 cm çapındadır."
@@ -8154,267 +7838,86 @@ Promosyon duvar saati DS-140; 25 cm kompakt yapısı, mineral cam koruması, ses
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"image": "/products/promosyon-duvar-saati-ds-140-v2.jpg"
 },
 {
-  id: "p78",
-
-  slug: "promosyon-duvar-saati-35cm-plastik-kasa-ds-150",
-
-  title:
-    "Promosyon Duvar Saati DS-150 | 35 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 430,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-150.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-150, 35 cm çapı, alüminyum görünümlü dekoratif kadranı ve logo baskısına uygun geniş yüzeyi ile kurumsal tanıtımlar için tercih edilen modern promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-150 modeli, modern çizgilere sahip dekoratif tasarımı ve dikkat çekici kadranı ile kurumsal promosyon ürünleri arasında öne çıkan duvar saati modellerinden biridir. 35 cm çapındaki geniş yapısı sayesinde ofisler, mağazalar, showroomlar ve kurumsal çalışma alanlarında hem işlevsel hem de estetik bir kullanım sunar.
-
-Model üzerinde yer alan dekoratif alüminyum görünümlü kadran detayı ürüne modern bir görünüm kazandırırken, logo baskısına uygun geniş baskı alanı sayesinde firmanızın kurumsal kimliği yüksek baskı kalitesiyle uygulanabilmektedir. Böylece marka görünürlüğünüz uzun yıllar boyunca devam eder.
-
-Mineral cam yüzeyi kadranı dış etkenlere karşı korurken, kaliteli mekanizması sayesinde saat hassas ve sessiz şekilde çalışır. Akar saniyeli mekanizma özellikle ofis, toplantı salonu ve çalışma alanlarında konforlu kullanım sağlar.
-
-Promosyon duvar saatleri uzun süre kullanılan kurumsal promosyon ürünleri arasında yer aldığı için marka bilinirliğini artıran en etkili reklam araçlarından biridir. Gün içerisinde sürekli görülebilen yapısı sayesinde firmanızın logosu müşterileriniz ve çalışanlarınız tarafından her zaman fark edilir.
-
-DS-150 modeli farklı renk seçenekleri ile kurumsal dekorasyona kolayca uyum sağlar. Modern tasarımı sayesinde klasik duvar saatlerinden ayrılarak ofis dekorasyonuna şık bir görünüm kazandırır.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-150?
-
-• 35 cm geniş çap
-• Modern dekoratif kadran tasarımı
-• Logo baskısına uygun geniş yüzey
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Dayanıklı gövde yapısı
-• Kurumsal tanıtımlar için ideal
-• Uzun ömürlü kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-150
-
-Kategori: Duvar Saatleri
-
-Kasa Çapı: Ø 350 mm
-
-Kadran Çapı: Ø 308 mm
-
-Kadran: Alüminyum Kabartma Kadran
-
-Cam: Mineral Cam
-
-Kasa: Plastik Kasa
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Ambalaj: Shrink İç Ambalaj + Mikro Kutu
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Mağazalar
-• Showroomlar
-• Fabrikalar
-• Eğitim kurumları
-• Hastaneler
-• Oteller
-• Bankalar
-• Bekleme salonları
-• Kurumsal çalışma alanları
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Reklam ajansları
-• Bayiler
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-• Eğitim kurumları
-• Promosyon ürün tedarikçileri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş miktarı, baskı uygulaması ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Kurumsal kimliğinize uygun özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu ve teslim süresi sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-150 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve teknik özelliklerin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-150; 35 cm geniş çapı, dekoratif alüminyum görünümlü kadranı, mineral cam koruması ve logo baskısına uygun geniş yüzeyi sayesinde markanızı uzun yıllar görünür kılan modern promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-150 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-150 modeli 35 cm çapındadır."
-    },
-    {
-      q: "Saat üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka veya reklam tasarımı uygulanabilmektedir."
-    },
-    {
-      q: "Saat hangi cam ile üretilmektedir?",
-      a: "Ürün mineral cam ile üretilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanılabilir?",
-      a: "Ofisler, mağazalar, showroomlar, fabrikalar, eğitim kurumları, oteller, bankalar ve diğer kurumsal işletmelerde rahatlıkla kullanılabilir."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p78",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-150 | 31 cm Metal Kasa",
+"price": 640,
+"image": "/products/promosyon-duvar-saati-ds-150-v2.jpg",
+"shortDesc": "31 cm çapındaki DS-150 promosyon duvar saati, paslanmaz metal kasası, mineral camı ve Bristol kadranıyla mağaza ve ofislere yönelik logo baskılı hediye çalışmalarında değerlendirilebilir.",
+"longDesc": "Mağaza ve Ofisler İçin 31 cm Metal Duvar Saati DS-150\n\nDuvar saati seçerken ürünün çapı kadar yerleştirileceği duvardaki görünümü de önemlidir. DS-150, 31 cm çapında yuvarlak formu ve metal kasasıyla müşteri karşılama alanları, mağaza içleri ve çalışma odaları için değerlendirilebilecek bir modeldir. Logo uygulamalı bir kadran çalışmasıyla, firmanızın iş ortaklarına sunabileceği kurumsal hediyeler arasında yer alabilir.\n\nPaslanmaz metal kasa, mineral cam ve Bristol kadran modelin temel yapı özellikleridir. Akar saniyeli mekanizması, saniye kolunun akıcı hareket etmesini sağlar. Kadran tasarımında firma logosunun konumu ile rakamların görünürlüğü birlikte ele alınarak günlük kullanıma uygun bir yerleşim hazırlanabilir.\n\nTEKNİK ÖZELLİKLER\n• Model: DS-150\n• Ürün türü: Promosyon duvar saati\n• Kasa çapı: 31 cm\n• Kasa malzemesi: Paslanmaz metal\n• Cam: Mineral cam\n• Kadran: Bristol\n• Mekanizma: Akar saniyeli\n\nKURUMSAL TASARIM NASIL HAZIRLANIR?\nSaat üzerindeki marka alanı, bir ilan panosu gibi çok sayıda mesajla doldurulmak yerine temel firma bilgilerine ayrılabilir. Logo ve kısa bir marka ifadesi, rakamların okunmasını engellemeyecek şekilde konumlandırılır. Kurumsal renklerin kadran zeminiyle ilişkisi ve saatin görüleceği mesafe dikkate alınır. Baskı yöntemi ve uygulanabilecek alan, tasarım değerlendirilerek belirlenir.\n\nHANGİ MESLEK GRUPLARINA UYGUN?\n• Optik mağazaları ve perakende işletmeleri: Satış alanı veya kasa arkası için.\n• Kuaförler ve güzellik salonları: Randevu ve müşteri karşılama alanları için.\n• Seyahat acenteleri ve turizm ofisleri: Danışma bölümleri ve şubeler için.\n• Mali müşavirler ve hukuk büroları: Görüşme odalarında kullanılabilecek kurumsal hediyeler için.\n• Yerel üreticiler ve dağıtım firmaları: Bayi ziyaretleri ve müşteri ilişkileri çalışmalarında sunulabilecek ürünler için.\n\nYERLEŞİM VE SİPARİŞ NOTLARI\n31 cm çapın kullanılacak alana uygunluğu, duvarın genişliği ve izleme mesafesiyle birlikte değerlendirilmelidir. Ofis, mağaza ve showroom gibi iç mekanlarda kullanılacak saatler için logo dosyası ve adet bilgisiyle teklif istenebilir.\n\nGösterilen fiyat baskı ve KDV hariç ürün fiyatıdır. Kadran uygulaması, sipariş miktarı, paketleme ve teslimat detayları toplam teklif hazırlanırken ayrıca netleştirilir.",
+"faq": [
+  {
+    "q": "DS-150 duvar saatinin çapı nedir?",
+    "a": "Güncel DS-150 modeli 31 cm çapındadır."
+  },
+  {
+    "q": "DS-150 hangi kasa malzemesine sahiptir?",
+    "a": "Model paslanmaz metal kasalıdır."
+  },
+  {
+    "q": "Kadran ve cam özellikleri nelerdir?",
+    "a": "DS-150 üzerinde Bristol kadran ve mineral cam bulunur."
+  },
+  {
+    "q": "Saatin mekanizması nasıldır?",
+    "a": "Akar saniyeli mekanizma kullanılır; saniye kolu akıcı hareket eder."
+  },
+  {
+    "q": "Logo yerleşimi nasıl belirlenir?",
+    "a": "Logo dosyası, kadran zemini ve rakamların okunabilirliği birlikte değerlendirilir. Uygulama alanı ve baskı yöntemi tasarım aşamasında netleştirilir."
+  },
+  {
+    "q": "640 TL fiyata baskı ve KDV dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı ve KDV hariçtir. Sipariş adedi ve istenen uygulamaya göre toplam teklif hazırlanır."
+  }
+],
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-150-v2.jpg"
+],
+"slug": "promosyon-duvar-saati-ds-150-31cm-metal-kasa"
 },
 {
-  id: "p79",
-
-  slug: "promosyon-duvar-saati-35cm-plastik-kasa-ds-160",
-
-  title:
-    "Promosyon Duvar Saati DS-160 | 35 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 368,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-160.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-160, 35 cm çapı, klasik desenli dekoratif çerçevesi, mineral cam koruması ve logo baskısına uygun kadranı ile kurumsal tanıtımlar için tercih edilen şık promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-160 modeli, klasik motiflerle zenginleştirilmiş dekoratif çerçevesi sayesinde bulunduğu ortama estetik bir görünüm kazandıran özel tasarımlı promosyon duvar saati modellerinden biridir. 35 cm çapındaki yapısı sayesinde ofisler, yönetici odaları, oteller, restoranlar ve kurumsal çalışma alanlarında hem dekoratif hem de işlevsel olarak kullanılabilir.
-
-Logo baskısına uygun kadran yapısı sayesinde firmanızın logosu, marka adı veya kurumsal tasarımları yüksek baskı kalitesiyle uygulanabilmektedir. Uzun yıllar kullanılan bir promosyon ürünü olması sayesinde markanız sürekli görünür kalarak kurumsal bilinirliğinizi destekler.
-
-DS-160 modeli Bristol veya metalize kadran seçenekleriyle üretilebilmektedir. Farklı çerçeve renkleri ve kadran alternatifleri sayesinde kurumsal kimliğinize en uygun tasarım tercih edilebilir.
-
-Mineral cam yüzeyi saati dış etkenlere karşı korurken, akar saniyeli mekanizması sessiz ve akıcı çalışma performansı sunar. Böylece toplantı salonları, ofisler ve bekleme alanlarında konforlu kullanım sağlar.
-
-Promosyon duvar saatleri, uzun ömürlü kullanımları sayesinde en etkili kurumsal reklam ürünleri arasında yer almaktadır. Gün boyunca sürekli görülebilen yapıları sayesinde firmanızın marka değerine katkı sağlar.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-160?
-
-• 35 cm geniş çap
-• Dekoratif klasik çerçeve tasarımı
-• Bristol ve metalize kadran seçenekleri
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Uzun ömürlü kullanım
-• Kurumsal promosyonlar için ideal
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-160
-
-Kategori: Duvar Saatleri
-
-Çap: 35 cm
-
-Kasa: Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran / Metalize Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Yönetici odaları
-• Toplantı salonları
-• Mağazalar
-• Oteller
-• Restoranlar
-• Eğitim kurumları
-• Kamu kurumları
-• Bekleme salonları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Belediyeler
-• Eğitim kurumları
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Sağlık kuruluşları
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, tercih edilen kadran tipi, uygulanacak logo baskısı ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Bristol veya metalize kadran seçenekleri tercih edilebilmektedir.
-• Güncel stok durumu ve teslim süresi sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-160 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde renk, kadran seçeneği ve stok durumunun teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-160; dekoratif klasik çerçevesi, 35 cm geniş çapı, Bristol ve metalize kadran seçenekleri, mineral cam koruması ve logo baskısına uygun yapısıyla markanızı uzun yıllar görünür kılan şık promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-160 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-160 modeli 35 cm çapındadır."
-    },
-    {
-      q: "Saat üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya reklam baskısı uygulanabilmektedir."
-    },
-    {
-      q: "Hangi kadran seçenekleri bulunmaktadır?",
-      a: "Model Bristol kadran ve metalize kadran seçenekleri ile üretilebilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, yönetici odaları, oteller, restoranlar, eğitim kurumları, mağazalar ve diğer kurumsal işletmeler için uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p79",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-160 | 40 cm Renkli Plastik Kasa",
+"price": 540,
+"image": "/products/promosyon-duvar-saati-ds-160-v2.jpg",
+"shortDesc": "40 cm çapındaki DS-160 promosyon duvar saati; renkli plastik kasası, Bristol kadranı, mineral camı ve akar saniyeli mekanizmasıyla kurumsal hediye çalışmalarında değerlendirilebilir.",
+"longDesc": "Renk Seçimiyle Mekana Uyum Sağlayan Promosyon Duvar Saati DS-160\n\nDS-160, sade yuvarlak tasarımı ve farklı gövde renkleriyle öne çıkan 40 cm çapında bir promosyon duvar saatidir. İş yerinin dekorasyonuna veya markanın kurumsal renklerine göre seçilebilecek model, logo uygulamalı hediyeler hazırlamak isteyen firmalar için bir alternatif sunar.\n\nPlastik çerçeveyi Bristol kadran ve mineral cam tamamlar. Akar saniyeli mekanizma bulunan saatin güncel görselinde farklı renklerde gövde ve kadran örnekleri yer alır. Tasarım seçilirken kadran zemini, rakamlar ve logo arasındaki kontrast birlikte değerlendirilmelidir.\n\nTEKNİK BİLGİLER\n• Model: DS-160\n• Kasa çapı: 40 cm\n• Çerçeve: Plastik\n• Kadran: Bristol\n• Cam: Mineral cam\n• Mekanizma: Akar saniyeli\n• Baskı seçenekleri: Ofset ve dijital\n• Koli adedi: 10\n\nRENK SEÇENEKLERİ\nKırmızı, füme, haki yeşil, lacivert, sarı, siyah ve turuncu seçenekleri bulunur. Kurumsal tasarım hazırlanırken seçilen gövde rengi ile kadran çalışmasının uyumu dikkate alınır.\n\nHANGİ ALANLARDA DEĞERLENDİRİLEBİLİR?\n40 cm çap, küçük saatlerden daha büyük bir duvar alanı gerektirir. Mağaza içi, ortak çalışma bölümü, personel dinlenme odası veya eğitim alanı için seçim yapılırken duvarın genişliği ve izleme mesafesi göz önünde bulundurulabilir. Rakamların ve logonun görünürlüğü, yerleştirme yüksekliğiyle birlikte değerlendirilmelidir.\n\nKİMLER VE HANGİ MESLEK GRUPLARI İÇİN UYGUN?\n• Spor salonları ve spor okulları: Salonun renkleriyle uyumlu iç mekan düzenlemeleri için.\n• Eğitim merkezleri ve kurs işletmeleri: Öğretmen odaları ve ortak kullanım alanları için.\n• Kafe ve restoran işletmecileri: Personel alanları veya müşteri bölümleri için.\n• Teknik servisler ve atölyeler: Çalışma alanlarında kullanılabilecek kurumsal hediyeler için.\n• Bayi ağı bulunan markalar: Farklı şubelere aynı kurumsal tasarımla sunulabilecek ürünler için.\n\nLOGO UYGULAMASI VE TOPLU SİPARİŞ\nOfset veya dijital baskı için hazırlanan kadran çalışmasında, marka mesajı ile saatin okunabilirliği arasında denge kurulmalıdır. Logo dosyası, renk tercihi ve sipariş adedi paylaşılınca uygulama detayları belirlenebilir.\n\nGösterilen ürün fiyatı baskı ve KDV hariçtir. Koli adedi 10 olup minimum sipariş miktarı anlamına gelmez. Adet, tasarım, paketleme ve teslimat detayları teklif sırasında ayrıca netleştirilir.",
+"faq": [
+  {
+    "q": "DS-160 duvar saatinin çapı nedir?",
+    "a": "Güncel DS-160 modeli 40 cm çapındadır."
+  },
+  {
+    "q": "Kasa, kadran ve cam özellikleri nelerdir?",
+    "a": "Modelde plastik çerçeve, Bristol kadran ve mineral cam bulunur."
+  },
+  {
+    "q": "Hangi renk seçenekleri bulunmaktadır?",
+    "a": "Kırmızı, füme, haki yeşil, lacivert, sarı, siyah ve turuncu seçenekleri bulunur."
+  },
+  {
+    "q": "Hangi baskı yöntemleri belirtilmektedir?",
+    "a": "DS-160 için ofset ve dijital baskı seçenekleri belirtilmektedir. Tasarım ve uygulama detayları sipariş öncesinde netleştirilir."
+  },
+  {
+    "q": "Koli adedi minimum sipariş miktarı mı?",
+    "a": "Koli adedi 10'dur. Minimum sipariş miktarı teklif aşamasında ayrıca belirlenir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı ve KDV dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı ve KDV hariçtir. Sipariş miktarı ve kadran uygulamasına göre toplam teklif hazırlanır."
+  }
+],
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-160-v2.jpg"
+],
+"slug": "promosyon-duvar-saati-ds-160-40cm-plastik-kasa"
 },
 {
   id: "p80",
@@ -38341,157 +37844,54 @@ Promosyon powerbank 10.000 mAh PB-320 modeli; MagSafe uyumluluğu, kablosuz hız
   ]
 },
 {
-  id: "p364",
-
-  slug: "promosyon-duvar-saati-metal-kasa-ds-170",
-
-  title:
-    "Promosyon Duvar Saati DS-170 | 30 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 580,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-metal-kasa-ds-170.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-170, 30 cm çapı, mineral cam koruması, Bristol ve metalize kadran seçenekleri ile kurumsal tanıtımlar için tercih edilen logo baskılı promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-170 modeli, modern tasarımı ve kaliteli yapısıyla kurumsal promosyon ürünleri arasında öne çıkan duvar saati modellerinden biridir. 30 cm çapındaki ideal ölçüsü sayesinde ofisler, mağazalar, kamu kurumları ve çalışma alanlarında hem dekoratif hem de işlevsel bir kullanım sunar.
-
-Model, Bristol ve metalize kadran seçenekleri ile üretilebilmektedir. Geniş baskı alanına sahip kadranı sayesinde firmanızın logosu, kurumsal kimliği veya özel tasarımlar yüksek baskı kalitesiyle uygulanabilir. Böylece markanız yıl boyunca sürekli görünür kalarak kurumsal bilinirliğinizi destekler.
-
-Mineral cam yüzeyi saati dış etkenlere karşı korurken, sessiz çalışan akar saniyeli mekanizması ofis ve çalışma ortamlarında konforlu kullanım sağlar. Dayanıklı gövde yapısı sayesinde uzun yıllar güvenle kullanılabilecek kaliteli bir promosyon ürünüdür.
-
-Promosyon duvar saatleri, günlük yaşamın ayrılmaz bir parçası olmaları sayesinde en uzun ömürlü reklam ürünleri arasında yer almaktadır. Sürekli göz önünde bulunmaları sayesinde markanızın müşterileriniz tarafından hatırlanmasına katkı sağlar.
-
-DS-170 modeli; sade tasarımı, farklı kadran alternatifleri ve kaliteli üretim yapısıyla kurumsal hediyeler, bayi organizasyonları ve marka tanıtım kampanyaları için ideal çözümler sunmaktadır.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-170?
-
-• 30 cm ideal kullanım ölçüsü
-• Bristol ve metalize kadran seçenekleri
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Dayanıklı gövde yapısı
-• Kurumsal tanıtımlar için ideal
-• Uzun ömürlü kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-170
-
-Kategori: Duvar Saatleri
-
-Çap: 30 cm
-
-Kasa: Metal Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran / Metalize Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Kamu kurumları
-• Mağazalar
-• Showroomlar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Oteller
-• Bekleme salonları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Belediyeler
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-• Eğitim kurumları
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş miktarı, tercih edilen kadran tipi, uygulanacak baskı ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Bristol veya metalize kadran seçenekleri tercih edilebilmektedir.
-• Güncel stok durumu ve teslim süresi sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-170 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve teknik özelliklerin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-170; 30 cm ideal ölçüsü, Bristol ve metalize kadran seçenekleri, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş yüzeyi sayesinde markanızı uzun yıllar görünür kılan kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-170 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-170 modeli 30 cm çapındadır."
-    },
-    {
-      q: "Saat üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya reklam tasarımı uygulanabilmektedir."
-    },
-    {
-      q: "Hangi kadran seçenekleri bulunmaktadır?",
-      a: "Model Bristol kadran ve metalize kadran seçenekleri ile üretilebilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, kamu kurumları, eğitim kurumları, bankalar, oteller ve diğer kurumsal işletmeler için uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p364",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-170 | 40 cm Plastik Kasa",
+"price": 520,
+"image": "/products/promosyon-duvar-saati-ds-170-v2.jpg",
+"shortDesc": "DS-170 promosyon duvar saati; 40 cm plastik kasası, Bristol kadranı, mineral camı ve farklı çerçeve renkleriyle şube, mağaza ve eğitim alanlarına yönelik logo baskılı hediye seçeneğidir.",
+"longDesc": "Farklı Şubelere Ortak Bir Tasarım: Promosyon Duvar Saati DS-170\n\nBirden fazla şubesi veya bayisi bulunan işletmeler, çalışma alanlarında ortak bir kurumsal görünüm oluşturmak isteyebilir. DS-170, aynı kadran tasarımını farklı mekanlarda kullanmak için değerlendirilebilecek 40 cm çapında plastik kasalı bir duvar saatidir. Çerçeve rengi, duvarın tonu ve firma kimliğiyle birlikte seçilebilir.\n\nGüncel modelin görselinde açık renk kadran ile farklı renklerde yuvarlak çerçeveler bir araya gelir. Mineral camın arkasında Bristol kadran bulunur. Akar saniyeli mekanizmasıyla zamanı gösterirken, kadrana hazırlanacak kurumsal çalışma için de bir uygulama yüzeyi sunar.\n\nTEKNİK ÖZELLİKLER\n• Model: DS-170\n• Çap: 40 cm\n• Çerçeve: Plastik\n• Kadran: Bristol\n• Cam: Mineral cam\n• Mekanizma: Akar saniyeli\n• Baskı seçenekleri: Ofset ve dijital\n• Koli adedi: 10\n\nÇERÇEVE RENKLERİ\nFüme, lacivert, sarı, siyah, turuncu, gümüş, haki yeşil, kırmızı, beyaz ve altın seçenekleri bulunur. Altın ve gümüş ifadeleri renk seçeneğini belirtir; kasa malzemesi plastiktir.\n\nHANGİ İŞLETMELER VE MESLEK GRUPLARI İÇİN UYGUN?\n• Lojistik ve kargo işletmeleri: Şube ofisleri ve personel alanları için.\n• Tarım bayileri ve kooperatifler: Bayi ziyaretlerinde sunulabilecek kurumsal hediyeler için.\n• Dil kursları ve etüt merkezleri: Derslik, öğretmen odası ve ortak alanlar için.\n• Mobilya ve beyaz eşya mağazaları: Satış ofisleri ve müşteri görüşme bölümleri için.\n• Franchise işletmeleri: Şubelerde ortak marka tasarımını tamamlayan ürünler için.\n\nLOGO TASARIMI VE YERLEŞİM\nŞubelere dağıtılacak saatlerde logo ölçüsü, kadran zemini ve yazı karakteri aynı tasarım üzerinden planlanabilir. Rakamların üzerine taşan veya küçük yazılarla dolu bir çalışma yerine, saatin işlevini koruyan bir düzen tercih edilmelidir. Ofset ya da dijital baskı seçimi, adet ve tasarım detayları değerlendirilerek yapılır.\n\nKULLANIM ALANI SEÇİMİ\n40 cm çapındaki modelin yerleştirileceği duvarda yeterli alan bulunmalıdır. Saatin görüleceği mesafe, asılacağı yükseklik ve ortamın aydınlatması seçim sırasında dikkate alınabilir. Logo çalışması, ürünün kullanılacağı iç mekana göre hazırlanabilir.\n\nTOPLU SİPARİŞ VE FİYAT\nTeklif için adet, çerçeve rengi ve logo dosyası paylaşılabilir. Gösterilen ürün fiyatı baskı ve KDV hariçtir. Koli adedi 10 olup minimum sipariş miktarı olarak değerlendirilmemelidir. Baskı, paketleme ve teslimat ayrıntıları toplam teklif hazırlanırken netleştirilir.",
+"faq": [
+  {
+    "q": "DS-170 duvar saatinin çapı nedir?",
+    "a": "Güncel DS-170 modeli 40 cm çapındadır."
+  },
+  {
+    "q": "Altın veya gümüş renkli kasa metal mi?",
+    "a": "Hayır. DS-170 plastik kasalıdır. Altın ve gümüş, çerçeve renklerini ifade eder."
+  },
+  {
+    "q": "Cam, kadran ve mekanizma özellikleri nelerdir?",
+    "a": "Modelde mineral cam, Bristol kadran ve akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Hangi baskı seçenekleri bulunur?",
+    "a": "Ofset ve dijital baskı seçenekleri belirtilmektedir. Logo yerleşimi ve uygulama detayları tasarım aşamasında netleştirilir."
+  },
+  {
+    "q": "Koli adedi kaçtır?",
+    "a": "Koli adedi 10'dur. Minimum sipariş miktarı ayrıca teklif aşamasında belirlenir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı ve KDV hariçtir. Sipariş miktarı ve kadran çalışmasına göre toplam teklif hazırlanır."
+  }
+],
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-170-v2.jpg"
+],
+"slug": "promosyon-duvar-saati-ds-170-40cm-plastik-kasa"
 },
 {
-  id: "p365",
-
-  slug: "promosyon-duvar-saati-40cm-plastik-kasa-ds-180",
-
-  title:
+id: "p365",
+slug: "promosyon-duvar-saati-40cm-plastik-kasa-ds-180",
+title:
     "Promosyon Duvar Saati DS-180 | 40 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 564,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-40cm-ds-180.jpg",
-
-  shortDesc:
+price: 564,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-180, 40 cm geniş çapı, Bristol kadranı, mineral cam koruması ve logo baskısına uygun geniş yüzeyi ile kurumsal tanıtımlar için tercih edilen promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-180 modeli, 40 cm geniş çapı ve sade tasarımıyla kurumsal promosyon ürünleri arasında dikkat çeken modellerden biridir. Geniş kadranı sayesinde uzak mesafelerden rahatlıkla okunabilir ve ofislerden showroomlara kadar birçok farklı alanda dekoratif bir kullanım sunar.
 
 Bristol kadran yapısı, firmanızın logosu, kurumsal renkleri veya reklam tasarımlarının yüksek baskı kalitesiyle uygulanmasına olanak sağlar. Gün içerisinde sürekli görülebilen bir noktada yer aldığı için markanızın uzun yıllar görünür kalmasına katkıda bulunur.
@@ -38580,8 +37980,7 @@ DS-180 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-180; 40 cm geniş çapı, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş yüzeyi sayesinde markanızı uzun yıllar görünür kılan kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-180 duvar saatinin çapı kaç santimetredir?",
       a: "DS-180 modeli 40 cm çapındadır."
@@ -38606,26 +38005,19 @@ Promosyon duvar saati DS-180; 40 cm geniş çapı, Bristol kadranı, mineral cam
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"image": "/products/promosyon-duvar-saati-ds-180-v2.jpg"
 },
 {
-  id: "p366",
-
-  slug: "promosyon-duvar-saati-40cm-plastik-kasa-ds-190",
-
-  title:
+id: "p366",
+slug: "promosyon-duvar-saati-40cm-plastik-kasa-ds-190",
+title:
     "Promosyon Duvar Saati DS-190 | 40 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 500,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-40cm-ds-190.jpg",
-
-  shortDesc:
+price: 500,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-190, 40 cm geniş çapı, Bristol kadranı, mineral cam koruması ve logo baskısına uygun tasarımıyla kurumsal promosyon çalışmaları için tercih edilen duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-190 modeli, 40 cm geniş çapı ve farklı renk seçenekleriyle kurumsal kullanım için tasarlanmış şık promosyon duvar saati modelleri arasında yer almaktadır. Geniş kadranı sayesinde saat bilgisi uzak mesafelerden kolaylıkla okunabilir ve çalışma alanlarına dekoratif bir görünüm kazandırır.
 
 Bristol kadran yapısı, firma logosu, marka adı veya kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına imkan tanır. Geniş baskı alanı sayesinde markanız ofislerde, mağazalarda ve bekleme alanlarında yıl boyunca görünürlüğünü korur.
@@ -38714,8 +38106,7 @@ DS-190 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-190; 40 cm geniş çapı, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-190 duvar saatinin çapı kaç santimetredir?",
       a: "DS-190 modeli 40 cm çapındadır."
@@ -38740,26 +38131,19 @@ Promosyon duvar saati DS-190; 40 cm geniş çapı, Bristol kadranı, mineral cam
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"image": "/products/promosyon-duvar-saati-ds-190-v2.jpg"
 },
 {
-  id: "p367",
-
-  slug: "promosyon-duvar-saati-40cm-metal-kasa-ds-200",
-
-  title:
+id: "p367",
+slug: "promosyon-duvar-saati-40cm-metal-kasa-ds-200",
+title:
     "Promosyon Duvar Saati DS-200 | 40 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 800,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-40cm-metal-ds-200.jpg",
-
-  shortDesc:
+price: 800,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-200, 40 cm geniş çapı, Bristol kadranı, mineral cam koruması ve logo baskısına uygun yapısıyla kurumsal tanıtımlar için tercih edilen kaliteli duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-200 modeli, 40 cm geniş çapı ve zarif tasarımıyla kurumsal promosyon ürünleri arasında öne çıkan duvar saati modellerinden biridir. Büyük kadranı sayesinde saat bilgisi uzak mesafelerden rahatlıkla okunabilir ve çalışma alanlarına estetik bir görünüm kazandırır.
 
 Bristol kadran yapısı, firma logosu, marka adı veya kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Geniş baskı alanı sayesinde markanız yıl boyunca müşterilerinizin ve çalışanlarınızın sürekli karşısında yer alır.
@@ -38848,8 +38232,7 @@ DS-200 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-200; 40 cm geniş çapı, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-200 duvar saatinin çapı kaç santimetredir?",
       a: "DS-200 modeli 40 cm çapa sahiptir."
@@ -38874,26 +38257,19 @@ Promosyon duvar saati DS-200; 40 cm geniş çapı, Bristol kadranı, mineral cam
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"image": "/products/promosyon-duvar-saati-ds-200-v2.jpg"
 },
 {
-  id: "p368",
-
-  slug: "promosyon-duvar-saati-35cm-metal-kasa-ds-210",
-
-  title:
+id: "p368",
+slug: "promosyon-duvar-saati-35cm-metal-kasa-ds-210",
+title:
     "Promosyon Duvar Saati DS-210 | 35 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 746,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-35cm-metal-ds-210.jpg",
-
-  shortDesc:
+price: 746,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-210, 35 cm geniş çapı, Bristol kadranı, mineral cam koruması ve logo baskısına uygun yapısıyla kurumsal promosyon çalışmaları için tercih edilen duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-210 modeli, 35 cm çapı ve sade tasarımıyla kurumsal kullanım için geliştirilen promosyon duvar saati modelleri arasında yer almaktadır. Dengeli ölçüsü sayesinde ofislerden mağazalara kadar birçok iç mekanda rahatlıkla kullanılabilir.
 
 Bristol kadran yapısı, firma logosu, marka adı veya kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Geniş baskı alanı sayesinde markanız çalışma ortamlarında yıl boyunca görünürlüğünü korur.
@@ -38982,8 +38358,7 @@ DS-210 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-210; 35 cm çapı, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-210 duvar saatinin çapı kaç santimetredir?",
       a: "DS-210 modeli 35 cm çapa sahiptir."
@@ -39008,26 +38383,19 @@ Promosyon duvar saati DS-210; 35 cm çapı, Bristol kadranı, mineral cam koruma
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"image": "/products/promosyon-duvar-saati-ds-210-v2.jpg"
 },
 {
-  id: "p369",
-
-  slug: "promosyon-duvar-saati-30cm-metal-kasa-ds-220",
-
-  title:
+id: "p369",
+slug: "promosyon-duvar-saati-30cm-metal-kasa-ds-220",
+title:
     "Promosyon Duvar Saati DS-220 | 30 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 640,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-30cm-metal-ds-220.jpg",
-
-  shortDesc:
+price: 640,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-220, 30 cm çapı, Bristol kadranı, mineral cam koruması ve logo baskısına uygun yapısıyla kurumsal promosyon çalışmaları için tercih edilen duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-220 modeli, 30 cm çapı ve sade tasarımıyla ofislerden mağazalara kadar birçok farklı kullanım alanına uygun olarak üretilen kurumsal promosyon duvar saati modelleri arasında yer almaktadır. Standart ölçüsü sayesinde hem dekoratif hem de işlevsel bir kullanım sunar.
 
 Bristol kadran yapısı, firma logosu, marka adı veya kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına imkan tanır. Geniş baskı alanı sayesinde markanız çalışma alanlarında yıl boyunca görünürlüğünü koruyabilir.
@@ -39116,8 +38484,7 @@ DS-220 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-220; 30 cm çapı, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-220 duvar saatinin çapı kaç santimetredir?",
       a: "DS-220 modeli 30 cm çapa sahiptir."
@@ -39142,7 +38509,8 @@ Promosyon duvar saati DS-220; 30 cm çapı, Bristol kadranı, mineral cam koruma
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"image": "/products/promosyon-duvar-saati-ds-220-v2.jpg"
 },
 {
   id: "p370",
@@ -45637,696 +45005,199 @@ Promosyon emzikli matara 1500 ml TK-385 modeli; BPA içermeyen dayanıklı yapı
   ],
 },
 {
-  id: "p425",
-
-  slug: "promosyon-duvar-saati-31-cm-metal-kasa-ds-230",
-
-  title:
-    "Promosyon Duvar Saati DS-230 | 31 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 570,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-31-cm-metal-kasa-ds-230.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-230, 31 cm çapı, Bristol kadranı, mineral cam koruması ve logo baskısına uygun yapısıyla kurumsal promosyon çalışmaları için tercih edilen duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-230 modeli, 31 cm çapı ve dengeli tasarımıyla kurumsal kullanım için geliştirilen promosyon duvar saati modelleri arasında yer almaktadır. Kompakt ölçüsü sayesinde ofislerden mağazalara kadar birçok farklı iç mekanda rahatlıkla kullanılabilir.
-
-Bristol kadran yapısı, firma logosu, marka adı veya kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Geniş baskı alanı sayesinde markanız çalışma ortamlarında yıl boyunca görünürlüğünü koruyabilir.
-
-Mineral cam yüzeyi dış etkenlere karşı koruma sağlarken, kaliteli akar saniyeli mekanizması sessiz ve akıcı çalışma performansı sunar. Bu özelliği sayesinde ofisler, toplantı odaları, showroomlar ve bekleme alanlarında konforlu kullanım sağlar.
-
-Promosyon duvar saatleri uzun ömürlü kullanım sunmaları ve sürekli görünür olmaları sayesinde en etkili kurumsal tanıtım ürünleri arasında yer almaktadır. Günlük kullanımın bir parçası olması marka bilinirliğinin güçlenmesine katkı sağlar.
-
-DS-230 modeli farklı kadran tasarımlarıyla üretilebilmekte olup firmanızın kurumsal kimliğine uygun logo uygulamalarıyla kişiselleştirilebilmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-230?
-
-• 31 cm çap
-• Bristol kadran yapısı
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Dekoratif ve sade tasarım
-• Uzun ömürlü kullanım
-• Kurumsal kullanım için ideal
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-230
-
-Kategori: Duvar Saatleri
-
-Çap: 31 cm
-
-Kasa: Metal Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Mağazalar
-• Showroomlar
-• Fabrikalar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Kamu kurumları
-• Bekleme alanları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Eğitim kurumları
-• Kamu kuruluşları
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-230 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve kadran seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-230; 31 cm çapı, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-230 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-230 modeli 31 cm çapa sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Saat hangi kadran yapısıyla üretilmektedir?",
-      a: "DS-230 modeli Bristol kadran yapısıyla üretilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, showroomlar, eğitim kurumları, hastaneler, bankalar ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p425",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-230 | 35 cm Kabartma Kadran",
+"price": 490,
+"image": "/products/promosyon-duvar-saati-ds-230-v2.jpg",
+"shortDesc": "DS-230 promosyon duvar saati; 35 cm ABS kasası, alüminyum kabartma kadranı, mineral camı ve akar saniyeli mekanizmasıyla mağaza ve ofisler için kurumsal hediye seçeneğidir.",
+"longDesc": "Kabartma Kadranlı Promosyon Duvar Saati DS-230\n\nDS-230, kadranın çevresindeki rakam kuşağı ile merkez bölümünü görsel olarak ayıran tasarıma sahiptir. Güncel ürün görselinde kırmızı, siyah ve açık tonlu örnekler yer alır. Kadran ile rakamlar arasındaki renk farkı, modelin belirgin tasarım özelliklerinden biridir.\n\n35 cm kasa çapındaki saat, akrilik boyalı ABS gövdeye sahiptir. Alüminyum kabartma kadran, metal görünümlü tasarımı tamamlar; bu özellik kasanın metal olduğu anlamına gelmez. Kadranı mineral cam örter ve modelde akar saniyeli mekanizma bulunur.\n\nTEKNİK ÖZELLİKLER\n• Model: DS-230\n• Kasa çapı: 350 mm / 35 cm\n• Kadran çapı: 308 mm\n• Kasa: Akrilik boyalı ABS\n• Kadran: Alüminyum kabartma\n• Cam: Mineral cam\n• Mekanizma: Akar saniyeli\n• Ambalaj: Shrink iç ambalaj ve mikro kutu\n\nLOGO YERLEŞİMİNDE TASARIMIN ÖNEMİ\nKabartmalı ve renk geçişli bir kadranda logo hazırlamak, düz zeminli bir tasarımdan farklı değerlendirme gerektirir. Merkez alanın rengi, ibrelerin hareketi ve rakam kuşağı birlikte ele alınmalıdır. Firma logosunun uygun konumu ve kullanılabilecek uygulama yöntemi, ürün yüzeyi değerlendirilerek sipariş öncesinde belirlenir.\n\nHANGİ MESLEK GRUPLARI İÇİN DEĞERLENDİRİLEBİLİR?\n• Otomobil galerileri ve araç kiralama işletmeleri: Müşteri görüşme ofisleri için.\n• Elektronik ve bilgisayar mağazaları: Satış ve teknik destek bölümleri için.\n• Mimarlık ve iç mimarlık ofisleri: Çalışma alanının renklerine göre seçilebilecek hediyeler için.\n• Gayrimenkul danışmanları: Ofis açılışları ve iş ortaklarına yönelik kurumsal çalışmalar için.\n• Sanayi firmaları: Bayi ve tedarikçi ilişkileri kapsamında sunulabilecek ürünler için.\n\nKULLANIM VE AMBALAJ\nModel, ofis, showroom ve mağaza gibi iç mekanlarda değerlendirilebilir. Yerleştirme sırasında saatin çapı kadar duvarın rengi ve ortam ışığı da dikkate alınmalıdır. Shrink iç ambalaj ve mikro kutu bilgisi, toplu dağıtım planı hazırlanırken göz önünde bulundurulabilir.\n\nTOPLU SİPARİŞ VE TEKLİF\nGörseldeki tasarım örneklerinden tercih edilen seçenek, sipariş öncesinde netleştirilir. Adet bilgisi ve logo dosyasıyla birlikte uygulama talebi paylaşılabilir. Gösterilen ürün fiyatı baskı ve KDV hariçtir. Logo uygulaması, paketleme ve teslimat ayrıntılarına göre toplam teklif hazırlanır.",
+"faq": [
+  {
+    "q": "DS-230 duvar saatinin ölçüleri nelerdir?",
+    "a": "Kasa çapı 35 cm, kadran çapı ise 308 mm'dir."
+  },
+  {
+    "q": "DS-230 metal kasalı mı?",
+    "a": "Hayır. Güncel model akrilik boyalı ABS kasalıdır. Alüminyum kabartma özelliği kadrana aittir."
+  },
+  {
+    "q": "Cam ve mekanizma özellikleri nelerdir?",
+    "a": "DS-230 mineral cam ve akar saniyeli mekanizmaya sahiptir."
+  },
+  {
+    "q": "Logo uygulaması nasıl belirlenir?",
+    "a": "Kabartmalı kadranın yüzeyi ve tasarım dikkate alınarak uygun alan ve uygulama yöntemi sipariş öncesinde netleştirilir."
+  },
+  {
+    "q": "Ürünün ambalajı nasıldır?",
+    "a": "Ürün özelliklerinde shrink iç ambalaj ve mikro kutu belirtilmektedir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı ve KDV dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı ve KDV hariçtir. Sipariş adedi ve logo uygulamasına göre toplam teklif hazırlanır."
+  }
+],
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-230-v2.jpg"
+],
+"slug": "promosyon-duvar-saati-ds-230-35cm-abs-kasa"
 },
 {
-  id: "p426",
-
-  slug: "promosyon-duvar-saati-33-cm-metal-kasa-ds-240",
-
-  title:
-    "Promosyon Duvar Saati DS-240 | 33 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 634,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-33-cm-metal-kasa-ds-240.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-240, 33 cm çapı, Bristol kadranı, mineral cam koruması ve logo baskısına uygun yapısıyla kurumsal promosyon çalışmaları için tercih edilen duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-240 modeli, 33 cm çapı ve dengeli tasarımıyla kurumsal kullanım için geliştirilen promosyon duvar saati modelleri arasında yer almaktadır. Orta boy yapısı sayesinde ofisler, mağazalar, showroomlar ve birçok farklı çalışma alanında rahatlıkla kullanılabilir.
-
-Bristol kadran yapısı, firma logosu, marka adı veya kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Geniş baskı alanı sayesinde markanız çalışma ortamlarında yıl boyunca görünürlüğünü koruyabilir.
-
-Mineral cam yüzeyi dış etkenlere karşı koruma sağlarken, kaliteli akar saniyeli mekanizması sessiz ve akıcı çalışma performansı sunar. Bu özelliği sayesinde toplantı odaları, bekleme alanları ve ofislerde konforlu kullanım sağlar.
-
-Promosyon duvar saatleri uzun ömürlü kullanımları ve sürekli görünür olmaları sayesinde kurumsal tanıtım çalışmalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımın bir parçası olması marka bilinirliğinin artırılmasına katkı sağlar.
-
-DS-240 modeli farklı kadran tasarımlarıyla üretilebilmekte olup firmanızın kurumsal kimliğine uygun logo uygulamalarıyla kişiselleştirilebilmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-240?
-
-• 33 cm çap
-• Bristol kadran yapısı
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Dekoratif ve sade tasarım
-• Uzun ömürlü kullanım
-• Kurumsal kullanım için ideal
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-240
-
-Kategori: Duvar Saatleri
-
-Çap: 33 cm
-
-Kasa: Metal Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Mağazalar
-• Showroomlar
-• Fabrikalar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Kamu kurumları
-• Bekleme alanları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Eğitim kurumları
-• Kamu kuruluşları
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-240 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve kadran seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-240; 33 cm çapı, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-240 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-240 modeli 33 cm çapa sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Saat hangi kadran yapısıyla üretilmektedir?",
-      a: "DS-240 modeli Bristol kadran yapısıyla üretilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, showroomlar, eğitim kurumları, hastaneler, bankalar ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p426",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-240 | 35 cm Renkli ABS Kasa",
+"price": 480,
+"image": "/products/promosyon-duvar-saati-ds-240-v2.jpg",
+"shortDesc": "35 cm çapındaki DS-240 promosyon duvar saati; renkli ABS çerçevesi, Bristol kadranı, mineral camı ve akar saniyeli mekanizmasıyla logo uygulamalı kurumsal hediyeler için değerlendirilebilir.",
+"longDesc": "Sade Kadran ve Renkli Çerçeve: Promosyon Duvar Saati DS-240\n\nDS-240, açık renk kadranı çevreleyen renkli çerçevesiyle dikkat çeken bir promosyon duvar saatidir. 35 cm çapındaki modelin görselinde sarı, beyaz, kırmızı, turkuaz, siyah ve lacivert çerçeve örnekleri bulunur. Sade rakam düzeni, saatin genel görünümünde belirgin bir yer tutar.\n\nGüncel ürün akrilik boyalı ABS kasalıdır. 308 mm çapındaki Bristol kadranı mineral cam örter. Akar saniyeli mekanizma, saniye kolunun akıcı hareket etmesini sağlar. Çerçeve ve kadran tasarımı, ürün seçilirken birlikte değerlendirilmelidir.\n\nTEKNİK ÖZELLİKLER\n• Model: DS-240\n• Kasa çapı: 350 mm / 35 cm\n• Kadran çapı: 308 mm\n• Kasa: Akrilik boyalı ABS\n• Kadran: Bristol\n• Cam: Mineral cam\n• Mekanizma: Akar saniyeli\n• Ambalaj: Shrink iç ambalaj ve mikro kutu\n\nLOGO TASARIMI İÇİN YAKLAŞIM\nAçık zeminli kadranda firma logosu hazırlanırken rakamlarla yarışmayan bir yerleşim tercih edilebilir. Küçük iletişim bilgilerini çoğaltmak yerine, markayı tanımlayan temel unsurlara yer verilmesi tasarımı sade tutar. Logo ölçüsü ve uygulanabilecek alan, kadran düzeni üzerinden değerlendirilir; baskı yöntemi sipariş öncesinde netleştirilir.\n\nKİMLER İÇİN UYGUN?\n• Kırtasiye ve kitap mağazaları: Satış bölümleri veya müşteri hediyeleri için.\n• Çocuk eğitim merkezleri ve kurslar: Ortak alanların renklerine göre seçilebilecek ürünler için.\n• Gıda üreticileri ve toptancılar: Market ve satış noktalarına yönelik bayi hediyeleri için.\n• Temizlik ve bakım firmaları: İş ortaklarının ofislerinde kullanılabilecek kurumsal çalışmalar için.\n• Reklam ajansları: Müşterilerinin marka renkleriyle hazırlanacak promosyon projeleri için.\n\nRENK VE MEKAN UYUMU\nÇerçeve rengi seçilirken yalnızca logo rengi değil, saatin asılacağı duvar da dikkate alınabilir. Beyaz duvarda belirginleşen bir renk, koyu bir yüzeyde farklı görünebilir. Görseldeki örnekler üzerinden tercih edilen seçenek sipariş öncesinde netleştirilir.\n\nTOPLU SİPARİŞ VE FİYAT\nAdet bilgisi, logo dosyası ve renk tercihiyle teklif talep edilebilir. Ürün için shrink iç ambalaj ve mikro kutu belirtilmektedir. Gösterilen fiyat baskı ve KDV hariçtir. Logo uygulaması, paketleme talepleri ve teslimat ayrıntıları toplam teklif hazırlanırken değerlendirilir.",
+"faq": [
+  {
+    "q": "DS-240 duvar saatinin kasa ve kadran ölçüsü nedir?",
+    "a": "Kasa çapı 35 cm, kadran çapı 308 mm'dir."
+  },
+  {
+    "q": "DS-240 metal kasalı mı?",
+    "a": "Hayır. Güncel model akrilik boyalı ABS kasaya sahiptir."
+  },
+  {
+    "q": "Hangi kadran ve cam kullanılır?",
+    "a": "Modelde Bristol kadran ve mineral cam bulunur."
+  },
+  {
+    "q": "Görselde hangi çerçeve renkleri bulunuyor?",
+    "a": "Sarı, beyaz, kırmızı, turkuaz, siyah ve lacivert örnekler görülür. Tercih edilen seçenek sipariş öncesinde netleştirilir."
+  },
+  {
+    "q": "Logo uygulaması nasıl hazırlanır?",
+    "a": "Logo yerleşimi kadran düzeni dikkate alınarak hazırlanır. Uygulama alanı ve baskı yöntemi tasarım değerlendirmesi sırasında belirlenir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı ve KDV dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı ve KDV hariçtir. Adet ve logo uygulamasına göre toplam teklif hazırlanır."
+  }
+],
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-240-v2.jpg"
+],
+"slug": "promosyon-duvar-saati-ds-240-35cm-abs-kasa"
 },
 {
-  id: "p427",
-
-  slug: "promosyon-duvar-saati-37-cm-aluminyum-kasa-ds-250",
-
-  title:
-    "Promosyon Duvar Saati DS-250 | 37 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 730,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-37-cm-aluminyum-kasa-ds-250.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-250, 37 cm çapı, alüminyum çerçevesi, Bristol kadranı, mineral cam koruması ve logo baskısına uygun yapısıyla kurumsal promosyon çalışmaları için tercih edilen duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-250 modeli, 37 cm çapı ve renkli alüminyum çerçevesiyle kurumsal kullanım için geliştirilen promosyon duvar saati modelleri arasında yer almaktadır. Modern tasarımı sayesinde ofisler, mağazalar, showroomlar, eğitim kurumları ve birçok farklı çalışma alanında dekoratif ve kullanışlı bir çözüm sunmaktadır.
-
-Bristol kadran yapısı, firma logosu, marka adı veya kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Geniş baskı alanı sayesinde markanız çalışma ortamlarında yıl boyunca görünürlüğünü koruyabilir.
-
-Mineral cam yüzeyi dış etkenlere karşı koruma sağlarken, kaliteli akar saniyeli mekanizması sessiz ve akıcı çalışma performansı sunar. Bu özelliği sayesinde toplantı odaları, bekleme alanları, ofisler ve eğitim kurumlarında konforlu kullanım sağlar.
-
-Alüminyum çerçevesi modern ve şık bir görünüm kazandırırken sağlam ABS gövdesi sayesinde uzun ömürlü kullanım sunmaktadır. Farklı renk seçenekleri sayesinde firmanızın kurumsal kimliğine uygun promosyon çalışmaları hazırlanabilmektedir.
-
-Promosyon duvar saatleri uzun ömürlü kullanımları ve sürekli görünür olmaları sayesinde kurumsal tanıtım çalışmalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımın bir parçası olması marka bilinirliğinin artırılmasına katkı sağlar.
-
-DS-250 modeli farklı renk seçenekleriyle üretilebilmekte olup firmanızın kurumsal kimliğine uygun logo uygulamalarıyla kişiselleştirilebilmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-250?
-
-• 37 cm çap
-• Alüminyum çerçeve
-• Sağlam ABS gövde
-• Bristol kadran yapısı
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Modern ve dekoratif tasarım
-• Uzun ömürlü kullanım
-• Kurumsal kullanım için ideal
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-250
-
-Kategori: Duvar Saatleri
-
-Kasa Çapı: Ø 370 mm
-
-Kadran Çapı: Ø 308 mm
-
-Çerçeve: Alüminyum
-
-Gövde: ABS
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Ambalaj:
-
-Shrink İç Ambalaj
-
-Mikro Kutu
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Mağazalar
-• Showroomlar
-• Fabrikalar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Kamu kurumları
-• Bekleme alanları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Eğitim kurumları
-• Kamu kuruluşları
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-250 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve renk seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-250; 37 cm çapı, alüminyum çerçevesi, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-250 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-250 modeli 37 cm çapa sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Saat hangi kadran yapısıyla üretilmektedir?",
-      a: "DS-250 modeli Bristol kadran yapısıyla üretilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, showroomlar, eğitim kurumları, hastaneler, bankalar ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p427",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-250 | 40 cm Metalize Plastik Kasa",
+"price": 580,
+"image": "/products/promosyon-duvar-saati-ds-250-v2.jpg",
+"shortDesc": "DS-250 promosyon duvar saati; 40 cm metalize plastik çerçevesi, Bristol–varak kadranı ve mineral camıyla bronz, gümüş veya altın tonlarında kurumsal hediye seçeneği sunar.",
+"longDesc": "Metalik Tonlarla Dekoratif Bir Seçim: Duvar Saati DS-250\n\nDS-250, metalik tonlu çerçeveyi koyu renk kadran örnekleriyle birleştiren 40 cm çapında bir promosyon duvar saatidir. Bronz, gümüş ve altın seçenekleri, mekanın mobilyaları ve aksesuarlarıyla birlikte değerlendirilebilir. Metal görünümüne rağmen çerçeve malzemesi metalize plastiktir.\n\nGüncel modelde Bristol–varak kadran, mineral cam ve akar saniyeli mekanizma bulunur. Kadranın dekoratif görünümü, ürünün yalnızca zaman takibi için değil, iç mekan düzenlemesinin bir parçası olarak da değerlendirilmesine olanak tanır.\n\nTEKNİK ÖZELLİKLER\n• Model: DS-250\n• Çap: 40 cm\n• Çerçeve: Metalize plastik\n• Kadran: Bristol–varak\n• Cam: Mineral cam\n• Mekanizma: Akar saniyeli\n• Renkler: Bronz, gümüş ve altın\n• Baskı seçenekleri: UV ve serigrafi\n• Koli adedi: 10\n\nHANGİ MEKANLARDA DEĞERLENDİRİLEBİLİR?\nAhşap, koyu renk veya metalik aksesuarların bulunduğu ofislerde çerçevenin tonu dekorasyonla birlikte seçilebilir. Resepsiyon, yönetici odası, toplantı bölümü ve müşteri karşılama alanları için düşünülebilecek modelin 40 cm çapı, yerleştirileceği duvarın ölçüsüyle karşılaştırılmalıdır.\n\nKİMLER VE HANGİ MESLEK GRUPLARI İÇİN UYGUN?\n• Otel ve konaklama işletmeleri: Resepsiyon veya idari ofisler için.\n• Mobilya ve dekorasyon mağazaları: Showroom içindeki çalışma bölümleri için.\n• Avukatlık ve danışmanlık büroları: Görüşme odalarında kullanılabilecek kurumsal hediyeler için.\n• İnşaat ve gayrimenkul firmaları: Satış ofisleri ve proje tanıtım alanları için.\n• Kuyumculuk ve saatçilik işletmeleri: İş ortaklarına yönelik hediye çalışmalarında değerlendirilmek üzere.\n\nKOYU KADRANDA LOGO TASARIMI\nLogo hazırlanırken kadranın rengi, varak görünümü ve ibrelerin konumu birlikte dikkate alınır. Karmaşık grafikler yerine uygun kontrast sağlayan sade bir marka yerleşimi seçilebilir. UV veya serigrafi baskı yöntemi, tasarımın renkleri ve uygulama alanı değerlendirilerek belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\nTeklif için adet, çerçeve rengi ve logo dosyası paylaşılabilir. Gösterilen ürün fiyatı baskı ve KDV hariçtir. Koli adedi 10 olup minimum sipariş miktarı olarak değerlendirilmez. Baskı çalışması, paketleme ve teslimat detayları toplam teklif hazırlanırken netleştirilir.",
+"faq": [
+  {
+    "q": "DS-250 duvar saatinin çapı nedir?",
+    "a": "Güncel DS-250 modeli 40 cm çapındadır."
+  },
+  {
+    "q": "DS-250 alüminyum çerçeveli mi?",
+    "a": "Hayır. Güncel modelin çerçevesi metalize plastiktir."
+  },
+  {
+    "q": "Kadran, cam ve mekanizma özellikleri nelerdir?",
+    "a": "Modelde Bristol–varak kadran, mineral cam ve akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Hangi renk ve baskı seçenekleri bulunur?",
+    "a": "Bronz, gümüş ve altın renk seçenekleri; UV ve serigrafi baskı yöntemleri belirtilmektedir."
+  },
+  {
+    "q": "Koli adedi kaçtır?",
+    "a": "Koli adedi 10'dur. Minimum sipariş miktarı teklif sırasında ayrıca netleştirilir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı ve KDV hariçtir. Sipariş miktarı ve logo uygulamasına göre toplam teklif hazırlanır."
+  }
+],
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-250-v2.jpg"
+],
+"slug": "promosyon-duvar-saati-ds-250-40cm-metalize-plastik"
 },
 {
-  id: "p428",
-
-  slug: "promosyon-duvar-saati-35-cm-plastik-kasa-metalize-ds-260",
-
-  title:
-    "Promosyon Duvar Saati DS-260 | 35 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 528,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-35-cm-plastik-kasa-ds-260.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-260, 35 cm çapı, metalize plastik kasası, Bristol kadranı, mineral cam koruması ve logo baskısına uygun yapısıyla kurumsal promosyon çalışmaları için tercih edilen duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-260 modeli, 35 cm çapı ve metalize kasa tasarımıyla kurumsal kullanım için geliştirilen promosyon duvar saati modelleri arasında yer almaktadır. Şık görünümü sayesinde ofisler, mağazalar, showroomlar, eğitim kurumları ve birçok farklı çalışma alanında dekoratif ve kullanışlı bir çözüm sunmaktadır.
-
-Metalize plastik kasa yapısı, klasik plastik saatlere göre daha prestijli bir görünüm kazandırırken hafif ve dayanıklı yapısıyla uzun süreli kullanım avantajı sağlar. Altın, gümüş ve bakır tonlarındaki farklı kasa seçenekleri sayesinde firmanızın kurumsal kimliğine uygun promosyon çalışmaları hazırlanabilir.
-
-Bristol kadran yapısı, firma logosu, marka adı veya kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Geniş baskı alanı sayesinde markanız çalışma ortamlarında yıl boyunca görünürlüğünü koruyabilir.
-
-Mineral cam yüzeyi dış etkenlere karşı koruma sağlarken, kaliteli akar saniyeli mekanizması sessiz ve akıcı çalışma performansı sunar. Bu özelliği sayesinde toplantı odaları, bekleme alanları, ofisler ve eğitim kurumlarında konforlu kullanım sağlar.
-
-Promosyon duvar saatleri uzun ömürlü kullanımları ve sürekli görünür olmaları sayesinde kurumsal tanıtım çalışmalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımın bir parçası olması marka bilinirliğinin artırılmasına katkı sağlar.
-
-DS-260 modeli farklı kasa renkleriyle üretilebilmekte olup firmanızın kurumsal kimliğine uygun logo uygulamalarıyla kişiselleştirilebilmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-260?
-
-• 35 cm çap
-• Metalize plastik kasa
-• Bristol kadran yapısı
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Modern ve dekoratif tasarım
-• Hafif ve dayanıklı yapı
-• Uzun ömürlü kullanım
-• Kurumsal kullanım için ideal
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-260
-
-Kategori: Duvar Saatleri
-
-Çap: 35 cm
-
-Kasa: Metalize Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Mağazalar
-• Showroomlar
-• Fabrikalar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Kamu kurumları
-• Bekleme alanları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Eğitim kurumları
-• Kamu kuruluşları
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-260 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve kasa renk seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-260; 35 cm çapı, metalize plastik kasası, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-260 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-260 modeli 35 cm çapa sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Saat hangi kadran yapısıyla üretilmektedir?",
-      a: "DS-260 modeli Bristol kadran yapısıyla üretilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, showroomlar, eğitim kurumları, hastaneler, bankalar ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p428",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-260 | 40 cm Metalize Plastik Kasa",
+"price": 564,
+"image": "/products/promosyon-duvar-saati-ds-260-v2.jpg",
+"shortDesc": "40 cm çapındaki DS-260 promosyon duvar saati; bronz, gümüş ve altın renkli metalize plastik kasası, Bristol kadranı ve mineral camıyla logo uygulamalı kurumsal hediyeler için değerlendirilebilir.",
+"longDesc": "Açık Kadranlı Metalize Promosyon Duvar Saati DS-260\n\nDS-260, açık renk kadranı metalik tonlu yuvarlak çerçeveyle birleştiren 40 cm çapında bir duvar saatidir. Bronz, gümüş ve altın seçenekleri bulunan model, ofis dekorasyonunda kullanılan aksesuarlarla birlikte değerlendirilebilir. Metalize görünüm çerçevenin yüzey özelliğidir; kasa malzemesi plastiktir.\n\nModelde Bristol kadran, mineral cam ve akar saniyeli mekanizma bulunur. Güncel ürün görselinde açık zemin üzerinde rakamlar ve örnek kurumsal uygulamalar yer alır. Firma logosu hazırlanırken kadrandaki boşluklar, ibrelerin hareket alanı ve rakamların görünürlüğü birlikte dikkate alınmalıdır.\n\nTEKNİK ÖZELLİKLER\n• Model: DS-260\n• Çap: 40 cm\n• Kasa: Metalize plastik\n• Kadran: Bristol\n• Cam: Mineral cam\n• Mekanizma: Akar saniyeli\n• Renkler: Bronz, gümüş ve altın\n\nKURUMSAL HEDİYE OLARAK NASIL DEĞERLENDİRİLİR?\nDuvar saati, dağıtılacağı işletmenin kullanım alanı düşünülerek seçilmelidir. DS-260'ın 40 cm çapı için yeterli duvar alanı ayrılması gerekir. Müşteri karşılama bölümü, toplantı odası, satış ofisi veya showroom gibi alanlarda çerçevenin tonu, duvar ve mobilya renkleriyle birlikte değerlendirilebilir.\n\nKİMLER VE HANGİ MESLEK GRUPLARI İÇİN UYGUN?\n• İnşaat malzemesi üreticileri: Bayi ve uygulama firmalarına yönelik hediye çalışmaları için.\n• Mühendislik ve proje ofisleri: Toplantı ve ortak çalışma alanları için.\n• Otomotiv tedarikçileri: Servis ve satış noktalarına sunulabilecek kurumsal ürünler için.\n• Sağlık sektörüne ürün sağlayan firmalar: İş ortaklarının idari ofislerinde kullanılabilecek hediyeler için.\n• Otel ekipmanı ve mobilya satıcıları: Müşteri ziyaretleri ve showroom projeleri için.\n\nKADRAN ÜZERİNDE MARKA YERLEŞİMİ\nAçık kadran zemininde logo rengi ile rakamların dengesi korunmalıdır. Firma adı, logo ve kısa bir iletişim bilgisi kullanılacaksa her öğenin okunacağı mesafe dikkate alınabilir. Uygulama yöntemi ve kullanılabilecek alan, tasarım değerlendirilerek sipariş öncesinde netleştirilir.\n\nTOPLU SİPARİŞ VE FİYAT BİLGİSİ\nSipariş adedi, çerçeve rengi ve logo dosyasıyla teklif talep edilebilir. Gösterilen ürün fiyatı baskı ve KDV hariçtir. Logo uygulaması, paketleme talepleri ve teslimat ayrıntıları toplam teklif hazırlanırken ayrıca değerlendirilir.",
+"faq": [
+  {
+    "q": "DS-260 duvar saatinin çapı nedir?",
+    "a": "Güncel DS-260 modeli 40 cm çapındadır."
+  },
+  {
+    "q": "Metalize kasa metal malzemeden mi üretilmiştir?",
+    "a": "Hayır. Model metalize plastik kasalıdır; metalize ifadesi yüzey görünümünü belirtir."
+  },
+  {
+    "q": "Hangi renk seçenekleri bulunur?",
+    "a": "Bronz, gümüş ve altın renk seçenekleri bulunur."
+  },
+  {
+    "q": "Cam, kadran ve mekanizma özellikleri nelerdir?",
+    "a": "Üründe mineral cam, Bristol kadran ve akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Firma logosu için uygulama nasıl belirlenir?",
+    "a": "Logo dosyası ve kadran düzeni değerlendirilerek uygun yerleşim, uygulama alanı ve baskı yöntemi sipariş öncesinde netleştirilir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı ve KDV dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı ve KDV hariçtir. Sipariş adedi ve logo uygulamasına göre toplam teklif hazırlanır."
+  }
+],
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-260-v2.jpg"
+],
+"slug": "promosyon-duvar-saati-ds-260-40cm-metalize-plastik"
 },
 {
-  id: "p429",
-
-  slug: "promosyon-duvar-saati-35-cm-metalize-yaldiz-kadran-ds-270",
-
-  title:
-    "Promosyon Duvar Saati DS-270 | 35 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 530,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-35-cm-metalize-ds-270.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-270, 35 cm çapı, metalize kasası, yaldız kabartmalı kadranı, mineral cam koruması ve logo baskısına uygun yapısıyla kurumsal promosyon çalışmaları için tercih edilen duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-270 modeli, 35 cm çapı ve şık metalize kasa tasarımıyla kurumsal kullanım için geliştirilen promosyon duvar saati modelleri arasında yer almaktadır. Modern çizgileri sayesinde ofisler, mağazalar, showroomlar, eğitim kurumları ve birçok farklı çalışma alanında dekoratif bir görünüm sunmaktadır.
-
-Metalize kasa yapısı ürüne prestijli bir görünüm kazandırırken hafif ve dayanıklı yapısıyla uzun ömürlü kullanım sağlar. Altın ve gümüş renk seçenekleri sayesinde firmanızın kurumsal kimliğine uygun promosyon çalışmaları hazırlanabilir.
-
-Yaldız kabartmalı kadran tasarımı, klasik duvar saatlerinden farklı olarak daha dikkat çekici ve premium bir görünüm sunmaktadır. Firma logosu, marka adı veya kurumsal tasarımlar kaliteli baskı uygulamalarıyla kadran üzerine uygulanabilmektedir.
-
-Mineral cam yüzeyi dış etkenlere karşı koruma sağlarken, kaliteli akar saniyeli mekanizması sessiz ve akıcı çalışma performansı sunar. Bu özelliği sayesinde toplantı odaları, bekleme alanları ve ofislerde konforlu kullanım sağlar.
-
-Promosyon duvar saatleri uzun ömürlü kullanımları ve sürekli görünür olmaları sayesinde kurumsal tanıtım çalışmalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Günlük kullanımın bir parçası olması marka bilinirliğinin artırılmasına katkı sağlar.
-
-DS-270 modeli farklı kasa renkleri ve kadran tasarımlarıyla üretilebilmekte olup firmanızın kurumsal kimliğine uygun logo uygulamalarıyla kişiselleştirilebilmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-270?
-
-• 35 cm çap
-• Metalize kasa
-• Yaldız kabartmalı kadran
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Modern ve dekoratif tasarım
-• Hafif ve dayanıklı yapı
-• Uzun ömürlü kullanım
-• Kurumsal kullanım için ideal
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-270
-
-Kategori: Duvar Saatleri
-
-Çap: 35 cm
-
-Kasa: Metalize Kasa
-
-Cam: Mineral Cam
-
-Kadran: Yaldız Kabartmalı Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Mağazalar
-• Showroomlar
-• Fabrikalar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Kamu kurumları
-• Bekleme alanları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Eğitim kurumları
-• Kamu kuruluşları
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-270 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve kasa renk seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-270; 35 cm çapı, metalize kasası, yaldız kabartmalı kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-270 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-270 modeli 35 cm çapa sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Saat hangi kadran yapısıyla üretilmektedir?",
-      a: "DS-270 modeli yaldız kabartmalı kadran yapısıyla üretilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, showroomlar, eğitim kurumları, hastaneler, bankalar ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p429",
+slug: "promosyon-duvar-saati-35-cm-metalize-yaldiz-kadran-ds-270",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-270 | 35 cm Yaldız Kabartma Kadran",
+"price": 610,
+"image": "/products/promosyon-duvar-saati-ds-270-v2.jpg",
+"shortDesc": "DS-270 promosyon duvar saati; 35 cm metalize ABS kasası, yaldız kabartmalı kadranı ve mineral camıyla ofis ve müşteri görüşme alanlarına yönelik kurumsal hediye seçeneğidir.",
+"longDesc": "Yaldız Kabartmalı Kadranıyla Promosyon Duvar Saati DS-270\n\nDS-270, metalize çerçevesiyle kadranındaki kabartmalı detayları bir araya getiren 35 cm çapında bir duvar saatidir. Güncel ürün görselinde altın ve gümüş tonlarında örnekler yer alır. Sade bir duvar üzerinde dekoratif bir unsur olarak değerlendirilebilecek model, ofis ve müşteri görüşme alanlarına yönelik kurumsal hediye çalışmalarında kullanılabilir.\n\nSaatin kasası ABS malzemeden üretilmiştir; metalize ifadesi yüzey görünümünü tanımlar. 308 mm çapındaki yaldız kabartmalı kadranı mineral cam tamamlar. Modelde akar saniyeli mekanizma bulunur.\n\nTEKNİK ÖZELLİKLER\n• Model: DS-270\n• Kasa çapı: 350 mm / 35 cm\n• Kadran çapı: 308 mm\n• Kasa malzemesi: ABS\n• Yüzey: Metalize görünüm\n• Kadran: Yaldız kabartmalı\n• Cam: Mineral cam\n• Mekanizma: Akar saniyeli\n• Ambalaj: Shrink iç ambalaj ve mikro kutu\n\nDEKORASYONLA BİRLİKTE ÜRÜN SEÇİMİ\nÇerçeve tonu seçilirken odadaki kapı kolları, aydınlatmalar veya mobilya aksesuarları dikkate alınabilir. Altın ve gümüş tonları aynı mekanda farklı bir etki oluşturabilir. Saatin asılacağı duvarın rengi ve ortam ışığı da kadranın görünümünü etkileyebileceği için seçim bu unsurlarla birlikte yapılmalıdır.\n\nHANGİ MESLEK GRUPLARI İÇİN UYGUN?\n• Finans ve yatırım danışmanlığı ofisleri: Müşteri kabul odaları için.\n• Hukuk ve arabuluculuk büroları: Toplantı veya görüşme alanları için.\n• Otel ve konaklama işletmeleri: İdari ofisler ve resepsiyon çevresi için.\n• Mimarlık ve dekorasyon firmaları: Kurumsal müşterilere yönelik hediye projeleri için.\n• Bayi ağı bulunan üreticiler: İş ortaklarının ofislerinde kullanılabilecek ürünler için.\n\nKABARTMALI KADRANDA LOGO UYGULAMASI\nKabartmalı yüzey üzerinde hazırlanacak marka çalışması, düz bir kadrandan farklı değerlendirilmelidir. Logonun konumu, çizgi kalınlıkları ve uygulama alanı ürün yüzeyi üzerinden kontrol edilir. Uygun baskı yöntemi ve tasarım ayrıntıları sipariş öncesinde netleştirilir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\nAdet, tercih edilen görsel seçenek ve logo dosyasıyla teklif istenebilir. Ürün özelliklerinde shrink iç ambalaj ve mikro kutu belirtilmektedir. Gösterilen ürün fiyatı baskı ve KDV hariçtir. Logo uygulaması, paketleme talepleri ve teslimat ayrıntılarına göre toplam teklif hazırlanır.",
+"faq": [
+  {
+    "q": "DS-270 duvar saatinin ölçüleri nelerdir?",
+    "a": "Kasa çapı 35 cm, kadran çapı 308 mm'dir."
+  },
+  {
+    "q": "Metalize kasa metal malzemeden mi üretilmiştir?",
+    "a": "Hayır. Model ABS kasalıdır. Metalize ifadesi yüzey görünümünü belirtir."
+  },
+  {
+    "q": "Kadranın özelliği nedir?",
+    "a": "DS-270 yaldız kabartmalı kadrana sahiptir."
+  },
+  {
+    "q": "Cam ve mekanizma özellikleri nelerdir?",
+    "a": "Modelde mineral cam ve akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Kabartmalı kadrana logo uygulaması nasıl belirlenir?",
+    "a": "Yüzey ve logo tasarımı değerlendirilerek uygun konum, uygulama alanı ve baskı yöntemi sipariş öncesinde netleştirilir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı ve KDV dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı ve KDV hariçtir. Adet ve uygulama detaylarına göre toplam teklif hazırlanır."
+  }
+],
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-270-v2.jpg"
+]
 },
 {
   id: "p430",
@@ -46470,23 +45341,15 @@ Promosyon duvar saati DS-280; 35 cm çapı, zengin renk seçenekleri, plastik ka
   ]
 },
 {
-  id: "p431",
-
-  slug: "promosyon-duvar-saati-40-cm-plastik-kasa-renkli-ds-310",
-
-  title:
+id: "p431",
+slug: "promosyon-duvar-saati-40-cm-plastik-kasa-renkli-ds-310",
+title:
     "Promosyon Duvar Saati DS-310 | 40 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 520,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-40-cm-plastik-kasa-ds-310.jpg",
-
-  shortDesc:
+price: 520,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-310, 40 cm çapı, renkli plastik kasası, Bristol kadranı, mineral cam koruması ve logo baskısına uygun yapısıyla kurumsal promosyon çalışmaları için tercih edilen büyük boy duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-310 modeli, 40 cm çapı ve geniş renk seçenekleriyle kurumsal kullanım için geliştirilen büyük boy promosyon duvar saati modelleri arasında yer almaktadır. Geniş kadranı sayesinde ofisler, fabrikalar, mağazalar, showroomlar, eğitim kurumları ve birçok farklı çalışma alanında yüksek görünürlük sunmaktadır.
 
 40 cm çapındaki büyük yapısı sayesinde marka logosu ve kurumsal tasarımlar uzaktan dahi rahatlıkla fark edilebilir. Bu özelliği sayesinde marka bilinirliğini artırmayı hedefleyen kurumsal firmalar için etkili bir promosyon ürünüdür.
@@ -46584,8 +45447,7 @@ DS-310 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-310; 40 cm çapı, büyük boy tasarımı, zengin renk seçenekleri, plastik kasası, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-310 duvar saatinin çapı kaç santimetredir?",
       a: "DS-310 modeli 40 cm çapa sahiptir."
@@ -46610,7 +45472,8 @@ Promosyon duvar saati DS-310; 40 cm çapı, büyük boy tasarımı, zengin renk 
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"image": "/products/promosyon-duvar-saati-ds-310-v2.jpg"
 },
 {
   id: "p432",
@@ -54775,7 +53638,7 @@ Promosyon tarihsiz defter TD-470, mini boy tasarımı, ekonomik maliyet avantaj�
   title:
     "Promosyon Duvar Saati DS-330 | 35 cm Logo Baskılı Renkli Duvar Saati",
 
-  price: 440,
+  price: 470,
 
   category: "Duvar Saatleri",
 
@@ -54914,157 +53777,54 @@ Promosyon duvar saati DS-330; 35 cm çapı, renkli Bristol kadranı, mineral cam
   ]
 },
 {
-  id: "p506",
-
-  slug: "promosyon-duvar-saati-ds-340-35cm-bombe-cam",
-
-  title:
-    "Promosyon Duvar Saati DS-340 | 35 cm Kare Logo Baskılı Duvar Saati",
-
-  price: 450,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-340-35cm.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-340, 35 cm kare tasarımı, Bristol kadranı, bombe mineral camı ve logo baskısına uygun geniş yüzeyiyle kurumsal tanıtımlar için tercih edilen promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-340 modeli, kare formu ve modern çizgileriyle klasik yuvarlak duvar saatlerinden ayrılan dikkat çekici promosyon ürünleri arasında yer almaktadır. 35 cm ölçüsü sayesinde ofislerde, showroomlarda, mağazalarda ve kurumsal işletmelerde dekoratif olduğu kadar etkili bir reklam aracı olarak da kullanılmaktadır.
-
-Kare tasarımı sayesinde logo, firma adı ve kurumsal görseller için geniş bir baskı alanı sunmaktadır. Bristol kadran yapısı yüksek baskı kalitesi sağlayarak markanızın uzun yıllar net şekilde görünmesine yardımcı olur.
-
-Bombe mineral cam yüzeyi saate estetik bir derinlik kazandırırken aynı zamanda kadranı dış etkenlere karşı korur. Kaliteli akar saniyeli mekanizması sessiz ve akıcı çalışma performansı sunduğundan toplantı salonları, ofisler ve bekleme alanlarında konforlu kullanım sağlar.
-
-Promosyon duvar saatleri uzun ömürlü kullanım sunmaları ve sürekli görünür olmaları sayesinde en etkili kurumsal reklam ürünleri arasında yer almaktadır. DS-340 modeli ise kare tasarımı sayesinde dekoratif görünümü ve geniş baskı alanını bir araya getirerek markanızın profesyonel şekilde temsil edilmesine katkı sağlar.
-
-DS-340 modeli farklı kadran tasarımları ve kurumsal logo uygulamalarıyla firmaya özel olarak üretilebilmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-340?
-
-• 35 cm kare tasarım
-• Bristol kadran yapısı
-• Bombe mineral cam
-• Logo baskısına uygun geniş yüzey
-• Sessiz akar saniyeli mekanizma
-• Dekoratif ve modern görünüm
-• Dayanıklı yapı
-• Kurumsal kullanım için ideal
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-340
-
-Kategori: Duvar Saatleri
-
-Ölçü: 35 cm
-
-Form: Kare
-
-Cam: Bombe Mineral Cam
-
-Kadran: Bristol Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Showroomlar
-• Mağazalar
-• Fabrikalar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Kamu kurumları
-• Bekleme salonları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Eğitim kurumları
-• Kamu kuruluşları
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-340 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve kadran seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-340; 35 cm kare tasarımı, Bristol kadranı, bombe mineral camı, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş yüzeyi sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-340 duvar saatinin ölçüsü nedir?",
-      a: "DS-340 modeli 35 cm ölçüsünde kare tasarıma sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Saat hangi kadran yapısıyla üretilmektedir?",
-      a: "DS-340 modeli Bristol kadran yapısıyla üretilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Bombe camın avantajı nedir?",
-      a: "Bombe mineral cam saate estetik bir görünüm kazandırırken kadranı dış etkenlere karşı korumaya yardımcı olur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p506",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-340 | 35 cm Yuvarlak Plastik Kasa",
+"price": 450,
+"image": "/products/promosyon-duvar-saati-ds-340-v2.jpg",
+"shortDesc": "DS-340 promosyon duvar saati; 35 cm yuvarlak plastik kasası, Bristol kadranı ve mineral camıyla ofis, mağaza ve bayi hediyelerinde değerlendirilebilir. Ofset ve dijital baskı seçenekleri bulunur.",
+"longDesc": "Yuvarlak Tasarımlı Promosyon Duvar Saati DS-340\n\nDS-340, ince görünümlü yuvarlak çerçevesi ve sade kadran düzeniyle çalışma alanlarında kullanılabilecek 35 cm çapında bir duvar saatidir. Plastik kasalı model, farklı çerçeve renkleriyle kurumsal hediye projelerinde değerlendirilebilir. Kadran üzerinde hazırlanacak firma tasarımı, saatin yerleştirileceği ortam ve markanın renkleri birlikte düşünülerek planlanır.\n\nBristol kadran, mineral cam ve akar saniyeli mekanizma ürünün temel teknik özellikleridir. Güncel görselde açık renk kadranı çevreleyen farklı renklerde çerçeveler bulunur. Renk seçimi yapılırken mobilya, duvar ve diğer aksesuarlarla uyum dikkate alınabilir.\n\nTEKNİK ÖZELLİKLER\n• Model: DS-340\n• Çap: 35 cm\n• Form: Yuvarlak\n• Çerçeve: Plastik\n• Kadran: Bristol\n• Cam: Mineral cam\n• Mekanizma: Akar saniyeli\n• Baskı seçenekleri: Ofset ve dijital\n• Koli adedi: 20\n\nÇERÇEVE RENKLERİ\nHaki yeşil, kırmızı, lacivert, sarı, siyah, turuncu, gümüş, füme, beyaz ve altın seçenekleri bulunur. Altın ve gümüş ifadeleri renkleri belirtir; kasa malzemesi plastiktir.\n\nKURUMSAL DAĞITIM İÇİN NASIL PLANLANIR?\nBir kampanyada farklı şubelere veya müşterilere saat gönderilecekse ortak bir kadran tasarımı hazırlanabilir. Böylece firma adı, logo oranı ve kullanılan renkler ürünler arasında tutarlı kalır. Tasarım onayından önce yazıların okunabilirliği ve rakamlarla ilişkisi kontrol edilir. Ofset veya dijital baskı seçimi, adet ve tasarım özelliklerine göre değerlendirilir.\n\nHANGİ MESLEK GRUPLARI İÇİN UYGUN?\n• İnsan kaynakları ekipleri: Yeni ofis ve şube açılışlarına yönelik kurumsal çalışmalar için.\n• Eğitim danışmanları ve kurs işletmeleri: Danışma ofisleri veya personel odaları için.\n• Sigorta ve finans acenteleri: İş ortaklarına sunulabilecek ofis hediyeleri için.\n• E-ticaret ve dağıtım işletmeleri: Operasyon ofisleri ve bayi ilişkileri için.\n• Hizmet sektöründeki küçük işletmeler: Marka kimliğiyle hazırlanacak müşteri hediyeleri için.\n\nSİPARİŞ VE FİYAT BİLGİSİ\nTeklif hazırlanabilmesi için adet, çerçeve rengi ve logo dosyası paylaşılabilir. Gösterilen ürün fiyatı baskı ve KDV hariçtir. Koli adedi 20 olup minimum sipariş miktarı anlamına gelmez. Uygulama alanı, paketleme ve teslimat ayrıntıları sipariş öncesinde netleştirilir.",
+"faq": [
+  {
+    "q": "DS-340 kare mi, yuvarlak mı?",
+    "a": "Güncel DS-340 modeli yuvarlak formdadır ve 35 cm çapındadır."
+  },
+  {
+    "q": "Kasa, cam ve kadran özellikleri nelerdir?",
+    "a": "Modelde plastik çerçeve, mineral cam ve Bristol kadran bulunur."
+  },
+  {
+    "q": "Hangi baskı seçenekleri bulunur?",
+    "a": "Ofset ve dijital baskı seçenekleri belirtilmektedir. Tasarım ve uygulama detayları sipariş öncesinde değerlendirilir."
+  },
+  {
+    "q": "Altın ve gümüş seçenekleri metal kasalı mı?",
+    "a": "Hayır. Bunlar çerçeve renkleridir; DS-340 plastik kasalıdır."
+  },
+  {
+    "q": "Koli adedi kaçtır?",
+    "a": "Koli adedi 20'dir. Minimum sipariş miktarı teklif aşamasında ayrıca belirlenir."
+  },
+  {
+    "q": "Gösterilen fiyata logo baskısı dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı ve KDV hariçtir. Adet ve tasarım bilgilerine göre toplam teklif hazırlanır."
+  }
+],
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-340-v2.jpg"
+],
+"slug": "promosyon-duvar-saati-ds-340-35cm-plastik-kasa"
 },
 {
-  id: "p507",
-
-  slug: "promosyon-duvar-saati-ds-350-35cm-bombe-cam",
-
-  title:
+id: "p507",
+slug: "promosyon-duvar-saati-ds-350-35cm-bombe-cam",
+title:
     "Promosyon Duvar Saati DS-350 | 35 cm Logo Baskılı Bombe Cam Duvar Saati",
-
-  price: 380,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-350-35cm.jpg",
-
-  shortDesc:
+price: 380,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-350, 35 cm çapı, Bristol kadranı, bombe mineral camı ve logo baskısına uygun geniş yüzeyiyle kurumsal promosyon çalışmaları için tercih edilen modern duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-350 modeli, 35 cm çapı ve dikkat çekici bombe cam tasarımıyla kurumsal tanıtımlarda öne çıkan promosyon duvar saati modelleri arasında yer almaktadır. Modern çizgileri sayesinde ofisler, mağazalar, showroomlar ve kurumsal çalışma alanlarında dekoratif bir görünüm sunarken markanızın görünürlüğünü de artırmaktadır.
 
 Bristol kadran yapısı; firma logosu, marka adı ve kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Geniş baskı alanı sayesinde logonuz gün boyunca görünür kalarak uzun süreli reklam avantajı sağlar.
@@ -55151,8 +53911,7 @@ DS-350 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-350; 35 cm çapı, Bristol kadranı, bombe mineral camı, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-350 duvar saatinin çapı kaç santimetredir?",
       a: "DS-350 modeli 35 cm çapa sahiptir."
@@ -55177,26 +53936,19 @@ Promosyon duvar saati DS-350; 35 cm çapı, Bristol kadranı, bombe mineral cam�
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"image": "/products/promosyon-duvar-saati-ds-350-v2.jpg"
 },
 {
-  id: "p508",
-
-  slug: "promosyon-duvar-saati-ds-360-30cm-bombe-cam",
-
-  title:
+id: "p508",
+slug: "promosyon-duvar-saati-ds-360-30cm-bombe-cam",
+title:
     "Promosyon Duvar Saati DS-360 | 30 cm Logo Baskılı Bombe Cam Duvar Saati",
-
-  price: 334,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-360-30cm.jpg",
-
-  shortDesc:
+price: 334,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-360, 30 cm çapı, Bristol ve metalize kadran seçenekleri, bombe mineral camı ve logo baskısına uygun yapısıyla kurumsal promosyon çalışmaları için tercih edilen duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-360 modeli, 30 cm çapı ve şık bombe cam tasarımıyla kurumsal tanıtımlarda estetik görünüm sunan promosyon duvar saati modelleri arasında yer almaktadır. Kompakt ölçüsü sayesinde ofisler, mağazalar, showroomlar, eğitim kurumları ve bekleme alanlarında rahatlıkla kullanılabilir.
 
 Model; Bristol, metal ve metalize kadran seçenekleriyle üretilebilmektedir. Bu sayede firmanızın kurumsal kimliğine ve tasarım anlayışına uygun farklı alternatifler sunar. Geniş baskı alanı üzerine firma logosu, marka adı ve kurumsal grafikler yüksek baskı kalitesiyle uygulanabilmektedir.
@@ -55284,8 +54036,7 @@ DS-360 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-360; 30 cm çapı, bombe mineral camı, Bristol, metal ve metalize kadran seçenekleri, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-360 duvar saatinin çapı kaç santimetredir?",
       a: "DS-360 modeli 30 cm çapa sahiptir."
@@ -55310,26 +54061,18 @@ Promosyon duvar saati DS-360; 30 cm çapı, bombe mineral camı, Bristol, metal 
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"image": "/products/promosyon-duvar-saati-ds-360-v2.jpg"
 },
 {
-  id: "p509",
-
-  slug: "promosyon-duvar-saati-ds-370-46cm-metal-kadran",
-
-  title:
+id: "p509",
+slug: "promosyon-duvar-saati-ds-370-46cm-metal-kadran",
+title:
     "Promosyon Duvar Saati DS-370 | 46 cm Logo Baskılı Metal Kadran Duvar Saati",
-
-  price: 644,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-370-46cm.jpg",
-
-  shortDesc:
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-370, 46 cm büyük çapı, metal kadranı, mineral cam koruması ve logo baskısına uygun geniş yüzeyiyle kurumsal tanıtımlar için tercih edilen premium duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-370 modeli, 46 cm büyük çapı ve metal kadran tasarımıyla kurumsal alanlarda maksimum görünürlük sağlayan premium promosyon duvar saati modelleri arasında yer almaktadır. Geniş ölçüsü sayesinde fabrika, showroom, yönetim ofisi, konferans salonu ve geniş çalışma alanlarında dikkat çekici bir görünüm sunmaktadır.
 
 Metal kadran yapısı, firma logosu ve kurumsal tasarımların daha prestijli bir görünüm kazanmasını sağlar. Parlak yüzeyi sayesinde logo baskıları canlı ve kaliteli görünürken markanızın profesyonel imajını destekler.
@@ -55418,8 +54161,7 @@ DS-370 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-370; 46 cm büyük çapı, metal kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen premium promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-370 duvar saatinin çapı kaç santimetredir?",
       a: "DS-370 modeli 46 cm çapa sahiptir."
@@ -55444,7 +54186,12 @@ Promosyon duvar saati DS-370; 46 cm büyük çapı, metal kadranı, mineral cam 
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"price": 650,
+"image": "/products/promosyon-duvar-saati-ds-370-v2.jpg",
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-370-v2.jpg"
+]
 },
 {
   id: "p510",
@@ -55454,7 +54201,7 @@ Promosyon duvar saati DS-370; 46 cm büyük çapı, metal kadranı, mineral cam 
   title:
     "Promosyon Duvar Saati DS-380 | 35 cm Logo Baskılı Renkli Kadran Duvar Saati",
 
-  price: 450,
+  price: 500,
 
   category: "Duvar Saatleri",
 
@@ -55581,23 +54328,14 @@ Promosyon duvar saati DS-380; 35 cm çapı, renkli Bristol kadranı, mineral cam
   ]
 },
 {
-  id: "p511",
-
-  slug: "promosyon-duvar-saati-ds-390-35cm-metal-kadran",
-
-  title:
+id: "p511",
+slug: "promosyon-duvar-saati-ds-390-35cm-metal-kadran",
+title:
     "Promosyon Duvar Saati DS-390 | 35 cm Metal Kadran Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 440,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-390-35cm.jpg",
-
-  shortDesc:
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-390, 35 cm çapı, metal kadranı, mineral cam koruması ve logo baskısına uygun yapısıyla kurumsal tanıtımlar için tercih edilen şık promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-390 modeli, 35 cm çapı ve metal kadran tasarımıyla kurumsal mekanlarda estetik görünüm ve uzun ömürlü kullanım sunan promosyon duvar saati modelleri arasında yer almaktadır. Modern çizgilere sahip tasarımı sayesinde ofisler, mağazalar, showroomlar ve çeşitli ticari alanlarda dekoratif bir görünüm oluştururken markanızın sürekli görünür kalmasına katkı sağlar.
 
 Metal kadran yapısı, firma logosu, marka adı ve kurumsal tasarımların daha prestijli ve dikkat çekici görünmesini sağlar. Metalik yüzey üzerine uygulanan baskılar kaliteli bir görünüm sunarak markanızın kurumsal imajını güçlendirir.
@@ -55686,8 +54424,7 @@ DS-390 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-390; 35 cm çapı, metal kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-390 duvar saatinin çapı kaç santimetredir?",
       a: "DS-390 modeli 35 cm çapa sahiptir."
@@ -55712,26 +54449,23 @@ Promosyon duvar saati DS-390; 35 cm çapı, metal kadranı, mineral cam korumas�
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"price": 470,
+"image": "/products/promosyon-duvar-saati-ds-390-v2.jpg",
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-390-v2.jpg"
+]
 },
 {
-  id: "p512",
-
-  slug: "promosyon-duvar-saati-ds-400-28cm-plastik-kasa",
-
-  title:
+id: "p512",
+slug: "promosyon-duvar-saati-ds-400-28cm-plastik-kasa",
+title:
     "Promosyon Duvar Saati DS-400 | 28 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 320,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-400-28cm.jpg",
-
-  shortDesc:
+price: 320,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-400, 28 cm çapı, Bristol kadranı, mineral cam koruması ve logo baskısına uygun yapısıyla ekonomik ve şık promosyon duvar saati modelleri arasında yer almaktadır.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-400 modeli, 28 cm çapı ve kompakt tasarımıyla ofisler, mağazalar, eğitim kurumları ve kurumsal işletmeler için geliştirilen ekonomik promosyon duvar saati modellerinden biridir. Küçük ve orta ölçekli alanlarda rahatlıkla kullanılabilen yapısı sayesinde hem dekoratif hem de işlevsel bir kullanım sunar.
 
 Bristol kadran yapısı, firma logosu, marka adı ve kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Geniş baskı yüzeyi sayesinde firmanızın reklamı uzun yıllar boyunca görünürlüğünü koruyabilir.
@@ -55820,8 +54554,7 @@ DS-400 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-400; 28 cm çapı, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen ekonomik ve kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-400 duvar saatinin çapı kaç santimetredir?",
       a: "DS-400 modeli 28 cm çapa sahiptir."
@@ -55846,296 +54579,90 @@ Promosyon duvar saati DS-400; 28 cm çapı, Bristol kadranı, mineral cam koruma
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"image": "/products/promosyon-duvar-saati-ds-400-v2.jpg",
+"gallery": [
+  "/products/promosyon-duvar-saati-ds-400-v2.jpg"
+]
 },
 {
-  id: "p513",
-
-  slug: "promosyon-duvar-saati-ds-410-46cm-plastik-kasa",
-
-  title:
-    "Promosyon Duvar Saati DS-410 | 46 cm Logo Baskılı Büyük Boy Kurumsal Duvar Saati",
-
-  price: 596,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-410-46cm.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-410, 46 cm büyük çapı, Bristol ve metalize kadran seçenekleri, mineral cam koruması ve logo baskısına uygun yapısıyla geniş alanlar için tercih edilen kurumsal promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-410 modeli, 46 cm büyük çapı sayesinde markanızı geniş alanlarda etkili şekilde sergileyen dikkat çekici promosyon duvar saati modelleri arasında yer almaktadır. Büyük ebatlı yapısı sayesinde fabrikalar, üretim tesisleri, showroomlar, mağazalar, hastaneler ve kurumsal ofislerde rahatlıkla kullanılabilir.
-
-DS-410 modeli hem Bristol kadran hem de metalize kadran seçenekleriyle üretilebilmektedir. Böylece firmanızın kurumsal kimliğine uygun tasarım tercih edilerek daha prestijli ve dikkat çekici logo uygulamaları hazırlanabilmektedir.
-
-Geniş baskı alanı, firma logosu, marka adı, slogan veya kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına imkan tanır. Sürekli göz önünde bulunan yapısı sayesinde markanız uzun yıllar boyunca görünürlüğünü korur.
-
-Mineral cam koruması kadranı dış etkenlere karşı korurken kaliteli akar saniyeli mekanizması sessiz ve akıcı çalışma performansı sunmaktadır. Özellikle çalışma alanları, toplantı odaları ve bekleme salonlarında rahatsız edici tik tak sesi oluşturmaz.
-
-Dayanıklı plastik kasası büyük çapına rağmen hafif kullanım avantajı sunarken farklı kasa renk seçenekleriyle firmanızın kurumsal renklerine uygun üretim yapılabilmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-410?
-
-• 46 cm ekstra büyük çap
-• Bristol ve metalize kadran seçenekleri
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Dayanıklı plastik kasa
-• Farklı kasa renk alternatifleri
-• Büyük alanlarda yüksek görünürlük
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-410
-
-Kategori: Duvar Saatleri
-
-Çap: 46 cm
-
-Kasa: Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran / Metalize Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Fabrikalar
-• Üretim tesisleri
-• Showroomlar
-• Büyük mağazalar
-• Ofisler
-• Hastaneler
-• Eğitim kurumları
-• Bankalar
-• Kamu kurumları
-• Bekleme alanları
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Kamu kuruluşları
-• Üretim firmaları
-• Eğitim kurumları
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, tercih edilen kadran tipi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Bristol veya metalize kadran seçenekleri sunulmaktadır.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-410 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu, kasa renkleri ve kadran seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-410; 46 cm büyük çapı, Bristol ve metalize kadran seçenekleri, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-410 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-410 modeli 46 cm çapa sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Hangi kadran seçenekleri bulunmaktadır?",
-      a: "DS-410 modeli Bristol kadran ve metalize kadran seçenekleriyle üretilebilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Fabrikalar, showroomlar, mağazalar, ofisler, eğitim kurumları, hastaneler, bankalar ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p513",
+slug: "promosyon-duvar-saati-ds-410-46cm-plastik-kasa",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-410 | 46 cm Bristol Kadran",
+"price": 596,
+"image": "/products/promosyon-duvar-saati-ds-410-v2.jpg",
+"shortDesc": "46 cm çapındaki DS-410 promosyon duvar saati; plastik kasa, Bristol kadran, mineral cam ve akar saniyeli mekanizmayı bir araya getirir. Geniş iç mekanlara yönelik logo uygulamalı toplu siparişler için teklif alın.",
+"longDesc": "Geniş İç Mekanlar İçin 46 cm Promosyon Duvar Saati DS-410\n\nDS-410, duvarda büyük boy bir saat tercih eden işletmeler için 46 cm çapında bir promosyon duvar saati modelidir. Plastik kasası, Bristol kadranı ve mineral camıyla ofis, mağaza ve kurumsal çalışma alanlarında değerlendirilebilir. Mekanizması akar saniyelidir.\n\nKURUMSAL TASARIM VE LOGO UYGULAMASI\n\nKadran tasarımında firma logosu, marka adı veya iletişim bilgileri değerlendirilebilir. Saatin temel işlevini korumak için rakamlar ile kurumsal tasarım arasında okunabilir bir düzen kurulması önerilir. Uygulama yöntemi, kullanılabilir baskı alanı ve tasarım detayları teklif aşamasında netleştirilir.\n\nHANGİ ALANLARDA DEĞERLENDİRİLEBİLİR?\n\n• Fabrika idari ofisleri ve personel ortak alanları\n• Showroomlar ve mağaza içleri\n• Okul, kurs ve eğitim merkezi ortak alanları\n• Şirket girişleri ve bekleme bölümleri\n• Bayi ve iş ortağı hediye çalışmaları\n\nKİMLER İÇİN UYGUN?\n\nTesis yöneticileri, idari işler sorumluları ve satın alma ekipleri, ortak alanların saat ihtiyacı için bu modeli değerlendirebilir. Mağaza işletmecileri ve bayi ağı bulunan firmalar için kurumsal kimlikle hazırlanabilecek bir hediye seçeneğidir. Eğitim merkezi yöneticileri de sınıf dışındaki ortak kullanım alanlarında büyük boy saat tercih edebilir.\n\nTEKNİK BİLGİLER\n\n• Model: DS-410\n• Ürün türü: Promosyon duvar saati\n• Çap: 46 cm\n• Kasa: Plastik\n• Kadran: Bristol\n• Cam: Mineral cam\n• Mekanizma: Akar saniye\n\nSİPARİŞ VE FİYATLANDIRMA\n\nGösterilen ürün fiyatı baskı hariçtir. Sipariş adedi, logo uygulaması ve teslimat detaylarına göre toplam teklif hazırlanır. Yerleşim yapılacak duvarın ölçüsü ve saatin izleneceği mesafe, model seçimi sırasında birlikte değerlendirilmelidir.\n\nDS-410 için kurumsal tasarım, toplu sipariş ve teslim süresi bilgilerini teklif talebinizde paylaşabilirsiniz.",
+"faq": [
+  {
+    "q": "DS-410 duvar saatinin çapı nedir?",
+    "a": "DS-410 modelinin çapı 46 cm'dir."
+  },
+  {
+    "q": "Kasa, cam ve kadran özellikleri nelerdir?",
+    "a": "Model plastik kasa, mineral cam ve Bristol kadrana sahiptir."
+  },
+  {
+    "q": "Hangi mekanizma kullanılır?",
+    "a": "DS-410 modelinde akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Firma logosuyla hazırlanabilir mi?",
+    "a": "Kurumsal logo uygulaması için tasarım, kullanılabilir baskı alanı ve uygulama yöntemi teklif aşamasında netleştirilir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı hariçtir. Sipariş adedi ve logo uygulamasına göre toplam teklif hazırlanır."
+  }
+]
 },
 {
-  id: "p514",
-
-  slug: "promosyon-duvar-saati-ds-420-42cm-plastik-kasa",
-
-  title:
-    "Promosyon Duvar Saati DS-420 | 42 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 530,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-420-42cm.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-420, 42 cm çapı, Bristol ve metal kadran seçenekleri, mineral cam koruması ve logo baskısına uygun yapısıyla kurumsal tanıtımlar için tercih edilen büyük boy promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-420 modeli, 42 cm çapı ve modern tasarımıyla geniş iç mekanlarda yüksek görünürlük sağlayan promosyon duvar saati modelleri arasında yer almaktadır. Büyük boy yapısı sayesinde ofisler, mağazalar, showroomlar, fabrikalar ve kurumsal işletmelerde hem dekoratif hem de etkili bir reklam ürünü olarak kullanılmaktadır.
-
-DS-420 modeli Bristol kadran ve metal kadran seçenekleriyle üretilebilmektedir. Bu sayede firmanızın kurumsal kimliğine uygun tasarımlar hazırlanabilir ve markanız daha prestijli bir görünüm kazanabilir.
-
-Geniş baskı alanı; firma logosu, marka adı, slogan ve kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Sürekli göz önünde bulunan yapısı sayesinde markanızın bilinirliği uzun yıllar boyunca desteklenir.
-
-Mineral cam yüzeyi kadranı dış etkenlere karşı korurken kaliteli akar saniyeli mekanizması sessiz ve akıcı çalışma performansı sunmaktadır. Bu özellik özellikle toplantı odaları, bekleme salonları, yönetici ofisleri ve çalışma alanlarında konforlu kullanım sağlar.
-
-Dayanıklı plastik kasası hafif yapısıyla uzun ömürlü kullanım sunarken farklı kasa renkleri sayesinde firmanızın kurumsal renklerine uygun üretim yapılabilmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-420?
-
-• 42 cm büyük çap
-• Bristol ve metal kadran seçenekleri
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Hafif ve dayanıklı plastik kasa
-• Farklı kasa renk alternatifleri
-• Kurumsal kullanım için ideal
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-420
-
-Kategori: Duvar Saatleri
-
-Çap: 42 cm
-
-Kasa: Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran / Metal Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Showroomlar
-• Mağazalar
-• Fabrikalar
-• Üretim tesisleri
-• Hastaneler
-• Eğitim kurumları
-• Bankalar
-• Bekleme alanları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Kamu kuruluşları
-• Eğitim kurumları
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, tercih edilen kadran tipi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Bristol veya metal kadran seçenekleri sunulmaktadır.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-420 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu, kasa renkleri ve kadran seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-420; 42 cm çapı, Bristol ve metal kadran seçenekleri, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-420 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-420 modeli 42 cm çapa sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Hangi kadran seçenekleri bulunmaktadır?",
-      a: "DS-420 modeli Bristol kadran ve metal kadran seçenekleriyle üretilebilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, showroomlar, fabrikalar, eğitim kurumları, hastaneler, bankalar ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p514",
+slug: "promosyon-duvar-saati-ds-420-42cm-plastik-kasa",
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-420 | 42 cm Plastik Kasa",
+"price": 530,
+"image": "/products/promosyon-duvar-saati-ds-420-v2.jpg",
+"shortDesc": "DS-420 promosyon duvar saati; 42 cm çapı, plastik kasası, Bristol kadranı ve mineral camıyla kurumsal mekanlar için değerlendirilebilir. Akar saniyeli modelin logo uygulaması ve toplu siparişi için teklif alın.",
+"longDesc": "42 cm Plastik Kasa Promosyon Duvar Saati DS-420\n\nDS-420, iş yerlerinde kullanılabilecek 42 cm çapında bir promosyon duvar saati modelidir. Plastik kasa içerisinde Bristol kadran ve mineral cam bulunur. Akar saniyeli mekanizması, modelin teknik özellikleri arasındadır.\n\nMEKANA VE KURUMSAL KİMLİĞE GÖRE SEÇİM\n\nDuvar saati seçerken yalnızca ürünün çapı değil, asılacağı duvarın genişliği ve kullanıcıların saate bakacağı mesafe de değerlendirilmelidir. DS-420, mağaza içi yerleşimlerden şirket ortak alanlarına kadar farklı mekanlar için düşünülebilir. Rakamların okunmasını güçleştirmeyen bir logo yerleşimi, saatin günlük kullanımını destekler.\n\nLOGO UYGULAMASI\n\nFirma logosu ve marka adı için kadran üzerinde hazırlanacak tasarım, sipariş öncesinde değerlendirilir. Kullanılabilir baskı alanı, uygulama yöntemi ve renk uyumu teklif aşamasında netleştirilir. Kurumsal tasarımın saat üzerindeki yerleşimini belirlemek için logo dosyanızı teklif talebinize ekleyebilirsiniz.\n\nKULLANIM ALANLARI\n\n• Mağaza ve servis kabul noktaları\n• Şirket girişleri ve danışma bölümleri\n• Toplantı ve personel odaları\n• Bayi ofisleri ve satış noktaları\n• Eğitim merkezlerinin ortak alanları\n\nHANGİ MESLEK GRUPLARI İÇİN UYGUN?\n\nMağaza yöneticileri ve işletme sahipleri, çalışma alanlarının saat ihtiyacı için bu modeli değerlendirebilir. İdari işler ve satın alma sorumluları, farklı şubelere yönelik kurumsal ürün siparişlerinde DS-420'yi seçeneklerine ekleyebilir. Pazarlama ekipleri için de bayi veya iş ortağı hediye çalışmalarında kullanılabilecek bir alternatiftir.\n\nTEKNİK ÖZELLİKLER\n\n• Model: DS-420\n• Ürün türü: Promosyon duvar saati\n• Çap: 42 cm\n• Kasa malzemesi: Plastik\n• Kadran: Bristol\n• Cam: Mineral cam\n• Mekanizma: Akar saniye\n\nTOPLU SİPARİŞ BİLGİSİ\n\nGösterilen ürün fiyatı baskı hariçtir. Adet, logo uygulaması ve teslimat detayları birlikte değerlendirilerek toplam teklif hazırlanır. Birden fazla şube için sipariş planlanıyorsa adet dağılımını ve ihtiyaç duyulan teslim tarihini teklif talebinizde belirtebilirsiniz.",
+"faq": [
+  {
+    "q": "DS-420 duvar saatinin ölçüsü nedir?",
+    "a": "DS-420 modelinin çapı 42 cm'dir."
+  },
+  {
+    "q": "DS-420 hangi kadrana sahiptir?",
+    "a": "Model Bristol kadrana sahiptir."
+  },
+  {
+    "q": "Kasa ve cam malzemesi nedir?",
+    "a": "DS-420 plastik kasa ve mineral camla sunulur."
+  },
+  {
+    "q": "Mekanizma tipi nedir?",
+    "a": "Üründe akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Logo uygulaması nasıl planlanır?",
+    "a": "Logo dosyası ve sipariş adedi değerlendirilerek tasarım yerleşimi, kullanılabilir baskı alanı ve uygulama yöntemi teklif aşamasında netleştirilir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı hariçtir. Logo uygulaması ve sipariş adedine göre toplam teklif hazırlanır."
+  }
+]
 },
 {
-  id: "p515",
-
-  slug: "promosyon-duvar-saati-ds-430-40cm-plastik-kasa",
-
-  title:
+id: "p515",
+slug: "promosyon-duvar-saati-ds-430-40cm-plastik-kasa",
+title:
     "Promosyon Duvar Saati DS-430 | 40 cm Logo Baskılı Kurumsal Duvar Saati",
-
-  price: 500,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-430-40cm.jpg",
-
-  shortDesc:
+price: 500,
+category: "Duvar Saatleri",
+shortDesc:
     "Promosyon duvar saati DS-430, 40 cm çapı, Bristol ve altın varaklı kadran seçenekleri, mineral cam koruması ve logo baskısına uygun yapısıyla kurumsal tanıtımlar için tercih edilen promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
+longDesc: `
 Promosyon duvar saati DS-430 modeli, 40 cm çapı ve modern tasarımıyla ofisler, mağazalar, showroomlar ve kurumsal işletmeler için geliştirilen şık promosyon duvar saati modelleri arasında yer almaktadır. Geniş kadranı sayesinde firma logonuzun ve kurumsal tasarımlarınızın dikkat çekici şekilde sergilenmesine olanak tanır.
 
 DS-430 modeli Bristol kadran ve altın varak detaylı Bristol kadran seçenekleriyle üretilebilmektedir. Böylece firmanızın kurumsal kimliğine uygun farklı tasarım alternatifleri hazırlanabilir ve markanız daha prestijli bir görünüm kazanabilir.
@@ -56225,8 +54752,7 @@ DS-430 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. S
 
 Promosyon duvar saati DS-430; 40 cm çapı, Bristol ve altın varaklı kadran seçenekleri, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
 `.trim(),
-
-  faq: [
+faq: [
     {
       q: "DS-430 duvar saatinin çapı kaç santimetredir?",
       a: "DS-430 modeli 40 cm çapa sahiptir."
@@ -56251,1092 +54777,300 @@ Promosyon duvar saati DS-430; 40 cm çapı, Bristol ve altın varaklı kadran se
       q: "Toplu sipariş verilebilir mi?",
       a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
     }
-  ]
+  ],
+"image": "/products/promosyon-duvar-saati-ds-430-v2.jpg"
 },
 {
-  id: "p516",
-
-  slug: "promosyon-duvar-saati-ds-440-35cm-plastik-kasa",
-
-  title:
-    "Promosyon Duvar Saati DS-440 | 35 cm Logo Baskılı Klasik Kurumsal Duvar Saati",
-
-  price: 432,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-440-35cm.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-440, 35 cm çapı, Bristol ve metalize kadran seçenekleri, mineral cam koruması ve logo baskısına uygun geniş yüzeyiyle kurumsal tanıtımlar için tercih edilen promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-440 modeli, 35 cm çapı ve zamansız tasarımıyla kurumsal işletmeler için geliştirilen şık promosyon duvar saati modelleri arasında yer almaktadır. Klasik çizgilere sahip yapısı sayesinde ofislerden mağazalara, showroomlardan eğitim kurumlarına kadar birçok farklı mekânda dekoratif ve işlevsel kullanım sunar.
-
-DS-440 modeli Bristol kadran ve metalize kadran seçenekleriyle üretilebilmektedir. Firmanızın kurumsal kimliğine uygun olarak farklı kasa renkleri ve kadran tasarımları hazırlanabilir. Böylece hem sade hem de daha prestijli görünüme sahip alternatifler sunulabilir.
-
-Geniş baskı alanı; firma logosu, marka adı, iletişim bilgileri veya kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Günlük kullanımda sürekli göz önünde bulunması sayesinde markanız uzun yıllar görünürlüğünü korur.
-
-Mineral cam yüzeyi kadranı dış etkenlere karşı korurken sessiz akar saniyeli mekanizması çalışma alanlarında konforlu kullanım sağlar. Sessiz çalışma özelliği özellikle toplantı odaları, yönetici ofisleri ve bekleme salonlarında önemli avantaj sunmaktadır.
-
-Dayanıklı plastik kasası hafif yapısıyla uzun ömürlü kullanım sağlarken farklı renk seçenekleri sayesinde kurumunuzun kurumsal renklerine uygun üretim yapılabilmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-440?
-
-• 35 cm ideal kullanım ölçüsü
-• Bristol ve metalize kadran seçenekleri
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Hafif ve dayanıklı plastik kasa
-• Farklı kasa renk alternatifleri
-• Uzun ömürlü kurumsal kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-440
-
-Kategori: Duvar Saatleri
-
-Çap: 35 cm
-
-Kasa: Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran / Metalize Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Mağazalar
-• Showroomlar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Fabrikalar
-• Bekleme salonları
-• Kamu kurumları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Kamu kuruluşları
-• Eğitim kurumları
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, tercih edilen kadran tipi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Bristol ve metalize kadran seçenekleri sunulmaktadır.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-440 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu, kasa renkleri ve kadran seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-440; 35 cm çapı, Bristol ve metalize kadran seçenekleri, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-440 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-440 modeli 35 cm çapa sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Hangi kadran seçenekleri bulunmaktadır?",
-      a: "DS-440 modeli Bristol kadran ve metalize kadran seçenekleriyle üretilebilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, showroomlar, eğitim kurumları, hastaneler, bankalar, fabrikalar ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p516",
+slug: "promosyon-duvar-saati-ds-440-35cm-plastik-kasa",
+price: 432,
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-440 | 35 cm Bristol Kadran",
+"shortDesc": "DS-440 promosyon duvar saati; 35 cm çapı, plastik kasası, Bristol kadranı ve mineral camıyla ofis ve satış noktalarında değerlendirilebilir. Logo uygulaması ve toplu sipariş için teklif alın.",
+"longDesc": "Sade Kadranlı Promosyon Duvar Saati DS-440\n\nDS-440, 35 cm çapındaki plastik kasası ve Bristol kadranıyla kurumsal mekanlarda kullanılabilecek bir duvar saati modelidir. Mineral cam ve akar saniyeli mekanizma, ürünün teknik özelliklerini tamamlar.\n\nTASARIMDA ÖNE ÇIKAN DETAYLAR\n\nGüncel ürün görselinde beyaz zemin üzerinde 12, 3, 6 ve 9 rakamlarının vurgulandığı bir kadran düzeni bulunur. Çevredeki dakika işaretleri ve kırmızı saniye kolu bu sade görünümü tamamlar. Görselde farklı kasa renkleri gösterilir; siparişe uygun renkler teklif aşamasında netleştirilir.\n\nLOGOLU DUVAR SAATİ ÇALIŞMASI\n\nKurumsal tasarım hazırlanırken logo ile saat göstergelerinin birbirini örtmemesi önemlidir. Firma adı, logo veya iletişim bilgileri için yerleşim değerlendirilerek uygulama alanı belirlenir. Baskı yöntemi ve tasarım detayları sipariş öncesinde netleştirilir.\n\nKULLANIM ALANLARI VE MESLEK GRUPLARI\n\n• Emlak danışmanları için müşteri görüşme ofisleri\n• Sigorta acenteleri için çalışma ve karşılama alanları\n• Muhasebe büroları için ofis içi kullanım\n• Mağaza işletmecileri için kasa ve satış bölümleri\n• Servis işletmeleri için müşteri bekleme alanları\n• İdari işler ekipleri için şube ve ortak alan ihtiyaçları\n\nBayi veya iş ortaklarına yönelik hediye planlayan pazarlama ve satın alma ekipleri de DS-440 modelini değerlendirebilir. Seçim sırasında duvarın ölçüsü, saatin yerleşimi ve izleme mesafesi birlikte düşünülmelidir.\n\nTEKNİK ÖZELLİKLER\n\n• Model: DS-440\n• Ürün türü: Promosyon duvar saati\n• Çap: 35 cm\n• Kasa: Plastik\n• Kadran: Bristol\n• Cam: Mineral cam\n• Mekanizma: Akar saniye\n\nTOPLU SİPARİŞ VE FİYAT\n\nGösterilen ürün fiyatı baskı hariçtir. Sipariş adedi, logo uygulaması ve teslimat detaylarına göre toplam teklif hazırlanır. Teklif talebinizde ihtiyaç duyduğunuz adedi, logo dosyanızı ve teslim tarihini paylaşabilirsiniz.",
+"faq": [
+  {
+    "q": "DS-440 duvar saatinin çapı nedir?",
+    "a": "DS-440 modeli 35 cm çapındadır."
+  },
+  {
+    "q": "Kadran ve kasa malzemesi nedir?",
+    "a": "Model Bristol kadran ve plastik kasaya sahiptir. Camı mineral camdır."
+  },
+  {
+    "q": "Hangi mekanizma kullanılır?",
+    "a": "DS-440 modelinde akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Görseldeki tasarımın belirgin özelliği nedir?",
+    "a": "Beyaz kadranda 12, 3, 6 ve 9 rakamları vurgulanır. Çevrede dakika işaretleri ve kırmızı saniye kolu bulunur."
+  },
+  {
+    "q": "Firma logosu uygulanabilir mi?",
+    "a": "Logo yerleşimi, uygulama alanı ve baskı yöntemi tasarım değerlendirilerek sipariş öncesinde netleştirilir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı hariçtir. Adet ve logo uygulamasına göre toplam teklif hazırlanır."
+  }
+],
+"image": "/products/promosyon-duvar-saati-ds-440-v2.jpg"
 },
 {
-  id: "p517",
-
-  slug: "promosyon-duvar-saati-ds-450-40cm-plastik-kasa",
-
-  title:
-    "Promosyon Duvar Saati DS-450 | 40 cm Logo Baskılı Klasik Kurumsal Duvar Saati",
-
-  price: 450,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-450-40cm.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-450, 40 cm çapı, Bristol ve metalize kadran seçenekleri, mineral cam koruması ve logo baskısına uygun geniş baskı alanıyla kurumsal tanıtımlar için tercih edilen promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-450 modeli, 40 cm geniş çapı ve klasik tasarımıyla kurumsal işletmelerin en çok tercih ettiği promosyon duvar saati modelleri arasında yer almaktadır. Geniş kadranı sayesinde logo ve kurumsal tasarımlar daha dikkat çekici şekilde sergilenebilir.
-
-DS-450 modeli Bristol kadran ve metalize kadran seçenekleriyle üretilebilmektedir. Farklı kasa renkleri ve kadran alternatifleri sayesinde firmanızın kurumsal kimliğine uygun özel tasarımlar hazırlanabilir.
-
-Logo baskısına uygun geniş yüzeyi; firma logosu, marka adı, slogan veya iletişim bilgilerinin yüksek baskı kalitesiyle uygulanmasına olanak tanır. Sürekli kullanılan bir ürün olması sayesinde markanız yıl boyunca görünürlüğünü korur.
-
-Mineral cam yüzeyi kadranı çizilmelere ve dış etkenlere karşı korurken sessiz akar saniyeli mekanizması ofis, toplantı odası ve bekleme alanlarında konforlu kullanım sunar. Sessiz çalışma özelliği sayesinde çalışma ortamlarında rahatsızlık oluşturmaz.
-
-Dayanıklı plastik kasa yapısı hafifliği ve uzun ömürlü kullanımı bir araya getirir. Kurumsal promosyon çalışmaları, bayi organizasyonları ve toplu dağıtımlar için ekonomik ve kaliteli bir çözümdür.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-450?
-
-• 40 cm geniş çap
-• Bristol ve metalize kadran seçenekleri
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Dayanıklı plastik kasa
-• Farklı kasa renk alternatifleri
-• Uzun ömürlü kurumsal kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-450
-
-Kategori: Duvar Saatleri
-
-Çap: 40 cm
-
-Kasa: Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran / Metalize Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Mağazalar
-• Showroomlar
-• Fabrikalar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Kamu kurumları
-• Bekleme salonları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Kamu kuruluşları
-• Eğitim kurumları
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, tercih edilen kadran tipi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Bristol ve metalize kadran seçenekleri sunulmaktadır.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-450 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu, kasa renkleri ve kadran seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-450; 40 cm çapı, Bristol ve metalize kadran seçenekleri, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-450 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-450 modeli 40 cm çapa sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Hangi kadran seçenekleri bulunmaktadır?",
-      a: "DS-450 modeli Bristol kadran ve metalize kadran seçenekleriyle üretilebilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, showroomlar, fabrikalar, eğitim kurumları, hastaneler, bankalar ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p517",
+slug: "promosyon-duvar-saati-ds-450-40cm-plastik-kasa",
+price: 450,
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-450 | 40 cm Plastik Kasa",
+"shortDesc": "40 cm çapındaki DS-450 promosyon duvar saati; plastik kasa, Bristol kadran, mineral cam ve akar saniyeli mekanizmaya sahiptir. Kurumsal logo uygulaması ve toplu sipariş için teklif alın.",
+"longDesc": "İş Yerleri İçin 40 cm Promosyon Duvar Saati DS-450\n\nDS-450, iş yerinin günlük kullanım ihtiyacı ile kurumsal hediye çalışmalarını bir araya getirmek isteyen firmaların değerlendirebileceği bir duvar saati modelidir. 40 cm çapındaki plastik kasasında Bristol kadran, mineral cam ve akar saniyeli mekanizma bulunur.\n\nŞUBE VE BAYİ ÇALIŞMALARINDA KULLANIM\n\nBirden fazla satış noktası bulunan işletmeler, mekanlarında ortak bir kurumsal görünüm oluşturmak için logolu duvar saatlerini tercih edebilir. DS-450; bayi ofisi, servis kabul bölümü veya mağaza gibi alanlar için planlanan ürün çalışmalarında değerlendirilebilir. Model seçilirken duvarın genişliği ve saatin izleneceği mesafe dikkate alınmalıdır.\n\nKURUMSAL TASARIMIN HAZIRLANMASI\n\nKadran üzerinde firma logosu veya marka adı için yerleşim çalışması yapılabilir. Logonun rakamları ve saat göstergelerini örtmemesi, tasarımın kullanım açısından önemli noktalarından biridir. Uygulanabilir baskı alanı, yöntem ve renk detayları sipariş öncesinde netleştirilir.\n\nKİMLER İÇİN UYGUN?\n\n• Bayi geliştirme ekipleri: İş ortaklarına yönelik kurumsal hediye çalışmaları\n• Servis işletmecileri: Müşteri kabul ve bekleme alanları\n• Mağaza yöneticileri: Satış noktalarının saat ihtiyacı\n• İnsan kaynakları ve idari işler ekipleri: Personel ortak alanları\n• Satın alma sorumluları: Şubeler için toplu ürün tedariki\n\nTEKNİK BİLGİLER\n\n• Model: DS-450\n• Ürün türü: Promosyon duvar saati\n• Çap: 40 cm\n• Kasa: Plastik\n• Kadran: Bristol\n• Cam: Mineral cam\n• Mekanizma: Akar saniye\n\nSİPARİŞ PLANLAMASI\n\nTeklif talebinde sipariş adedini, logo dosyasını ve ihtiyaç duyulan teslim tarihini paylaşabilirsiniz. Birden fazla noktaya yönelik çalışma hazırlanıyorsa adet dağılımının önceden belirlenmesi sipariş planlamasını kolaylaştırır.\n\nGösterilen ürün fiyatı baskı hariçtir. Logo uygulaması, sipariş miktarı ve teslimat detaylarına göre toplam teklif hazırlanır.",
+"faq": [
+  {
+    "q": "DS-450 modelinin çapı nedir?",
+    "a": "DS-450 duvar saati 40 cm çapındadır."
+  },
+  {
+    "q": "Kasa ve kadran malzemesi nedir?",
+    "a": "Model plastik kasa ve Bristol kadrana sahiptir. Camı mineral camdır."
+  },
+  {
+    "q": "Hangi mekanizma kullanılır?",
+    "a": "DS-450 modelinde akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Bayi ve şubeler için toplu sipariş hazırlanabilir mi?",
+    "a": "Adet ve kurumsal tasarım bilgileri paylaşılarak bayi veya şubelere yönelik toplu sipariş için teklif alınabilir."
+  },
+  {
+    "q": "Logo uygulaması nasıl belirlenir?",
+    "a": "Logo dosyası değerlendirilerek kadran yerleşimi, baskı alanı ve uygulama yöntemi sipariş öncesinde netleştirilir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı hariçtir. Logo uygulaması ve sipariş adedine göre toplam teklif hazırlanır."
+  }
+],
+"image": "/products/promosyon-duvar-saati-ds-450-v2.jpg"
 },
 {
-  id: "p518",
-
-  slug: "promosyon-duvar-saati-ds-460-35cm-plastik-kasa",
-
-  title:
-    "Promosyon Duvar Saati DS-460 | 35 cm Logo Baskılı Modern Kurumsal Duvar Saati",
-
-  price: 434,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-460-35cm.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-460, 35 cm çapı, Bristol ve Bristol Metalize kadran seçenekleri, mineral cam koruması ve logo baskısına uygun geniş yüzeyiyle kurumsal promosyon çalışmalarında tercih edilen modern duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-460 modeli, 35 cm çapı ve modern tasarım anlayışıyla kurumsal firmaların uzun süre kullanabileceği kaliteli promosyon duvar saati modelleri arasında yer almaktadır. Sade çizgilere sahip yapısı sayesinde ofislerden mağazalara, showroomlardan kamu kurumlarına kadar birçok farklı alanda dekoratif görünüm sunar.
-
-DS-460 modeli Bristol kadran ve Bristol Metalize kadran seçenekleriyle üretilebilmektedir. Metalize yüzey tercih edilen modeller daha prestijli bir görünüm sunarken, Bristol kadranlar ise canlı ve yüksek kaliteli logo baskıları için ideal bir zemin oluşturur.
-
-Geniş baskı alanı; firma logosu, marka adı, slogan ve kurumsal görsellerin profesyonel baskı kalitesiyle uygulanmasına olanak tanır. Gün içerisinde sürekli görünen bir ürün olması sayesinde markanız uzun yıllar boyunca görünürlüğünü koruyabilir.
-
-Mineral cam yüzeyi kadranı dış etkenlere karşı korurken sessiz akar saniyeli mekanizması çalışma ortamlarında konforlu kullanım sağlar. Sessiz çalışma özelliği sayesinde toplantı salonları, yönetici odaları, resepsiyonlar ve bekleme alanlarında rahatlıkla kullanılabilir.
-
-Dayanıklı plastik kasa yapısı hafifliği ve uzun ömürlü kullanımı bir araya getirirken farklı kasa renkleri sayesinde kurumsal kimliğinize uygun özel üretimler gerçekleştirilebilmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-460?
-
-• 35 cm ideal kullanım ölçüsü
-• Bristol ve Bristol Metalize kadran seçenekleri
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Hafif ve dayanıklı plastik kasa
-• Farklı kasa renk alternatifleri
-• Uzun ömürlü kurumsal kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-460
-
-Kategori: Duvar Saatleri
-
-Çap: 35 cm
-
-Kasa: Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran / Bristol Metalize Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Mağazalar
-• Showroomlar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Belediyeler
-• Kamu kurumları
-• Bekleme salonları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Kamu kuruluşları
-• Eğitim kurumları
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, tercih edilen kadran tipi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Bristol ve Bristol Metalize kadran seçenekleri sunulmaktadır.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-460 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu, kasa renkleri ve kadran seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-460; 35 cm çapı, Bristol ve Bristol Metalize kadran seçenekleri, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-460 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-460 modeli 35 cm çapa sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Hangi kadran seçenekleri bulunmaktadır?",
-      a: "DS-460 modeli Bristol kadran ve Bristol Metalize kadran seçenekleriyle üretilebilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, showroomlar, eğitim kurumları, hastaneler, bankalar, belediyeler ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p518",
+slug: "promosyon-duvar-saati-ds-460-35cm-plastik-kasa",
+price: 434,
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-460 | 35 cm Logo Baskılı Saat",
+"shortDesc": "DS-460 promosyon duvar saati; 35 cm plastik kasası, Bristol kadranı, mineral camı ve akar saniyeli mekanizmasıyla sunulur. İş yeri kullanımı ve kurumsal hediye siparişleri için teklif alın.",
+"longDesc": "Kurumsal Hediye Çalışmaları İçin Promosyon Duvar Saati DS-460\n\nDS-460, müşterilerine veya iş ortaklarına günlük kullanımda yer bulabilecek bir hediye sunmak isteyen işletmelerin değerlendirebileceği 35 cm çapında bir duvar saatidir. Plastik kasası içerisinde Bristol kadran ve mineral cam bulunur. Model akar saniyeli mekanizmaya sahiptir.\n\nHEDİYE SEÇİMİNDE MEKANI DÜŞÜNÜN\n\nDuvar saati siparişinde ürünün kullanılacağı alanı bilmek, model seçimini kolaylaştırır. DS-460; müşteri görüşme odası, danışma bölümü veya işletme ofisi gibi alanlar için değerlendirilebilir. Saatin duvardaki konumu, çevresindeki diğer görseller ve izleme mesafesi seçim sırasında birlikte ele alınmalıdır.\n\nLOGO VE İLETİŞİM BİLGİLERİNİN YERLEŞİMİ\n\nKadran tasarımına firma logosu veya marka adı eklenmesi için yerleşim çalışması yapılabilir. Çok sayıda bilgi kullanmak yerine okunabilir bir düzen hazırlanması önerilir. Tasarıma iletişim bilgisi eklenecekse yazı boyutu ve saat göstergeleriyle ilişkisi ayrıca değerlendirilir. Baskı yöntemi ve kullanılabilir alan sipariş öncesinde netleştirilir.\n\nKİMLER İÇİN DEĞERLENDİRİLEBİLİR?\n\n• Teknik servis işletmeleri: Müşteri kabul ve ofis alanları\n• Toptancılar ve distribütörler: Bayilere yönelik hediye çalışmaları\n• Lojistik firmaları: Operasyon ve idari ofisler\n• Danışmanlık büroları: Görüşme ve çalışma odaları\n• Eğitim işletmeleri: Personel ve ortak kullanım alanları\n\nSatış temsilcileri ve pazarlama ekipleri, müşteri ziyaretleri için hazırladıkları kurumsal hediye planlarında bu modeli seçeneklerine ekleyebilir. Satın alma sorumluları ise ihtiyaç duyulan adet ve tasarım bilgisiyle toplu sipariş teklifi talep edebilir.\n\nTEKNİK ÖZELLİKLER\n\n• Model: DS-460\n• Ürün türü: Promosyon duvar saati\n• Çap: 35 cm\n• Kasa: Plastik\n• Kadran: Bristol\n• Cam: Mineral cam\n• Mekanizma: Akar saniye\n\nFİYAT VE SİPARİŞ\n\nGösterilen ürün fiyatı baskı hariçtir. Logo uygulaması, sipariş adedi ve teslimat detaylarına göre toplam teklif hazırlanır. Teklif talebinizde logo dosyasını, istediğiniz adedi ve teslim tarihini paylaşabilirsiniz.",
+"faq": [
+  {
+    "q": "DS-460 hangi ölçüdedir?",
+    "a": "DS-460 duvar saatinin çapı 35 cm'dir."
+  },
+  {
+    "q": "Kadran ve kasa özellikleri nelerdir?",
+    "a": "Model Bristol kadran, plastik kasa ve mineral cama sahiptir."
+  },
+  {
+    "q": "Mekanizma tipi nedir?",
+    "a": "DS-460 modelinde akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Müşteri hediyesi olarak sipariş verilebilir mi?",
+    "a": "Müşteri veya bayi hediye çalışmaları için adet ve logo bilgileri paylaşılarak toplu sipariş teklifi alınabilir."
+  },
+  {
+    "q": "Kadrana iletişim bilgileri eklenebilir mi?",
+    "a": "İletişim bilgilerinin tasarıma eklenmesi, kullanılabilir alan ve okunabilirlik değerlendirilerek sipariş öncesinde netleştirilir."
+  },
+  {
+    "q": "Gösterilen fiyat baskı dahil midir?",
+    "a": "Gösterilen ürün fiyatı baskı hariçtir. Logo uygulaması ve sipariş adedine göre toplam teklif hazırlanır."
+  }
+],
+"image": "/products/promosyon-duvar-saati-ds-460-v2.jpg"
 },
 {
-  id: "p519",
-
-  slug: "promosyon-duvar-saati-ds-470-42x30cm-ozel-tasarim",
-
-  title:
+id: "p519",
+slug: "promosyon-duvar-saati-ds-470-42x30cm-ozel-tasarim",
+title:
     "Promosyon Duvar Saati DS-470 | 42,5 x 30,5 cm Ay Yıldız Tasarımlı Logo Baskılı Duvar Saati",
-
-  price: 412,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-470-42x30cm.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-470, ay yıldız figürlü özel tasarımı, 42,5 x 30,5 cm ölçüsü ve logo baskısına uygun Bristol kadranı ile kurumsal tanıtımlar için dikkat çeken promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-470 modeli, klasik yuvarlak duvar saatlerinden farklı olarak ay ve yıldız figürüyle tasarlanmış özel görünümü sayesinde markanızı çok daha dikkat çekici şekilde sergileyen promosyon duvar saati modelleri arasında yer almaktadır.
-
-42,5 x 30,5 cm ölçüsündeki özgün tasarımı sayesinde standart modellerden ayrılır ve bulunduğu ortamda güçlü bir görsel etki oluşturur. Özellikle kamu kurumları, belediyeler, dernekler, eğitim kurumları, savunma sanayi firmaları ve kurumsal organizasyonlar için prestijli bir promosyon ürünü olarak tercih edilmektedir.
-
-DS-470 modeli Bristol kadran yapısıyla üretilmektedir. Geniş baskı alanı; firma logosu, kurum amblemi, marka adı, slogan veya özel tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Uzun süre kullanılan bir ürün olması sayesinde markanız yıllarca görünürlüğünü koruyabilir.
-
-Mineral cam yüzeyi saati çizilmelere ve dış etkenlere karşı korurken sessiz akar saniyeli mekanizması çalışma ortamlarında konforlu kullanım sunar. Sessiz çalışma özelliği sayesinde yönetici odaları, toplantı salonları, makam odaları ve bekleme alanlarında rahatlıkla kullanılabilir.
-
-Dayanıklı plastik kasa yapısı hafifliği ve sağlamlığı bir araya getirirken özel ay yıldız formu ürüne dekoratif ve prestijli bir görünüm kazandırmaktadır. Farklı logo uygulamalarıyla tamamen kurumsal kimliğinize uygun üretim gerçekleştirilebilmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-470?
-
-• 42,5 x 30,5 cm özel tasarım ölçüsü
-• Ay yıldız dekoratif kasa tasarımı
-• Bristol kadran yapısı
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Dayanıklı plastik kasa
-• Kurumsal ve resmi kurumlar için prestijli görünüm
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-470
-
-Kategori: Duvar Saatleri
-
-Ölçü: 42,5 x 30,5 cm
-
-Kasa: Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Kamu kurumları
-• Belediyeler
-• Resmi kurumlar
-• Eğitim kurumları
-• Dernek ve vakıflar
-• Ofisler
-• Makam odaları
-• Toplantı salonları
-• Kurumsal işletmeler
-• Organizasyon merkezleri
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Belediyeler
-• Kamu kuruluşları
-• Eğitim kurumları
-• Dernekler
-• Vakıflar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara ve resmi kurumlara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-470 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve tasarım seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-470; 42,5 x 30,5 cm özel ay yıldız tasarımı, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş yüzeyi sayesinde markanızın uzun yıllar görünürlüğünü destekleyen dikkat çekici promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-470 duvar saatinin ölçüleri nedir?",
-      a: "DS-470 modeli 42,5 x 30,5 cm ölçülerine sahiptir."
-    },
-    {
-      q: "Üzerine firma veya kurum logosu uygulanabilir mi?",
-      a: "Evet. Bristol kadran üzerine firma logosu, kurum amblemi veya kurumsal tasarım profesyonel şekilde uygulanabilmektedir."
-    },
-    {
-      q: "Saat hangi kadran yapısıyla üretilmektedir?",
-      a: "DS-470 modeli Bristol kadran yapısıyla üretilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Belediyeler, kamu kurumları, eğitim kurumları, ofisler, makam odaları, toplantı salonları ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalar ve resmi kurumlara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+price: 412,
+category: "Duvar Saatleri",
+image: "/products/promosyon-duvar-saati-ds-470-42x30cm.jpg",
+"shortDesc": "Promosyon duvar saati DS-470, ay yıldız figürlü özel tasarımı, 42,5 x 30,5 cm ölçüsü ve logo baskısına uygun Bristol kadranı ile kurumsal tanıtımlar için dikkat çeken promosyon duvar saati modellerinden biridir.",
+"longDesc": "Promosyon duvar saati DS-470 modeli, klasik yuvarlak duvar saatlerinden farklı olarak ay ve yıldız figürüyle tasarlanmış özel görünümü sayesinde markanızı çok daha dikkat çekici şekilde sergileyen promosyon duvar saati modelleri arasında yer almaktadır.\n\n42,5 x 30,5 cm ölçüsündeki özgün tasarımı sayesinde standart modellerden ayrılır ve bulunduğu ortamda güçlü bir görsel etki oluşturur. Özellikle kamu kurumları, belediyeler, dernekler, eğitim kurumları, savunma sanayi firmaları ve kurumsal organizasyonlar için prestijli bir promosyon ürünü olarak tercih edilmektedir.\n\nDS-470 modeli Bristol kadran yapısıyla üretilmektedir. Geniş baskı alanı; firma logosu, kurum amblemi, marka adı, slogan veya özel tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Uzun süre kullanılan bir ürün olması sayesinde markanız yıllarca görünürlüğünü koruyabilir.\n\nDayanıklı plastik kasa yapısı hafifliği ve sağlamlığı bir araya getirirken özel ay yıldız formu ürüne dekoratif ve prestijli bir görünüm kazandırmaktadır. Farklı logo uygulamalarıyla tamamen kurumsal kimliğinize uygun üretim gerçekleştirilebilmektedir.\n\nNEDEN PROMOSYON DUVAR SAATİ DS-470?\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Duvar Saati\n\nModel: DS-470\n\nKategori: Duvar Saatleri\n\nÖlçü: 42,5 x 30,5 cm\n\nKasa: Plastik Kasa\n\nCam: Mineral Cam\n\nKadran: Bristol Kadran\n\nMekanizma: Akar Saniyeli Mekanizma\n\nBaskı Alanı: Kadran Üzeri Logo Baskısı\n\nBaskı yöntemi sipariş öncesinde netleştirilir.\n\nKULLANIM ALANLARI\n\n• Kamu kurumları\n• Belediyeler\n• Resmi kurumlar\n• Eğitim kurumları\n• Dernek ve vakıflar\n• Ofisler\n• Makam odaları\n• Toplantı salonları\n• Kurumsal işletmeler\n• Organizasyon merkezleri\n\nKİMLER İÇİN UYGUNDUR?\n\n• Kurumsal firmalar\n• Belediyeler\n• Kamu kuruluşları\n• Eğitim kurumları\n• Dernekler\n• Vakıflar\n• Reklam ajansları\n• Promosyon ürün tedarikçileri\n\nPROMOSYON DUVAR SAATİ FİYATLARI\n\nPromosyon duvar saati fiyatları; sipariş adedi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara ve resmi kurumlara özel fiyat avantajları sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskılı veya baskısız üretim yapılabilmektedir.\n• Firmaya özel kadran tasarımı hazırlanabilmektedir.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.\n\nKULLANIM NOTU\n\nDS-470 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve tasarım seçeneklerinin teyit edilmesi tavsiye edilir.",
+"faq": [
+  {
+    "q": "DS-470 duvar saatinin ölçüleri nedir?",
+    "a": "DS-470 modeli 42,5 x 30,5 cm ölçülerine sahiptir."
+  },
+  {
+    "q": "Üzerine firma veya kurum logosu uygulanabilir mi?",
+    "a": "Evet. Bristol kadran üzerine firma logosu, kurum amblemi veya kurumsal tasarım profesyonel şekilde uygulanabilmektedir."
+  },
+  {
+    "q": "Saat hangi kadran yapısıyla üretilmektedir?",
+    "a": "DS-470 modeli Bristol kadran yapısıyla üretilmektedir."
+  },
+  {
+    "q": "Mekanizma tipi nedir?",
+    "a": "DS-470 modelinde akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Hangi alanlarda kullanıma uygundur?",
+    "a": "Belediyeler, kamu kurumları, eğitim kurumları, ofisler, makam odaları, toplantı salonları ve diğer kurumsal işletmelerde kullanıma uygundur."
+  },
+  {
+    "q": "Toplu sipariş verilebilir mi?",
+    "a": "Evet. Logo baskılı toplu siparişlerde kurumsal firmalar ve resmi kurumlara özel fiyat avantajları sunulmaktadır."
+  }
+]
 },
 {
-  id: "p520",
-
-  slug: "promosyon-duvar-saati-ds-480-30cm-plastik-kasa",
-
-  title:
-    "Promosyon Duvar Saati DS-480 | 30 cm Logo Baskılı Ekonomik Kurumsal Duvar Saati",
-
-  price: 386,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-480-30cm.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-480, 30 cm çapı, Bristol ve Bristol Metalize kadran seçenekleri, mineral cam koruması ve logo baskısına uygun geniş yüzeyiyle kurumsal tanıtımlar ve toplu promosyon çalışmaları için tercih edilen duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-480 modeli, 30 cm çapı ve ekonomik yapısıyla kurumsal tanıtım çalışmalarında yüksek adetli siparişler için geliştirilen kaliteli promosyon duvar saati modelleri arasında yer almaktadır. Kompakt ölçüsü sayesinde ofislerden mağazalara, eğitim kurumlarından sağlık kuruluşlarına kadar birçok farklı alanda rahatlıkla kullanılabilir.
-
-DS-480 modeli Bristol kadran ve Bristol Metalize kadran seçenekleriyle üretilebilmektedir. Metalize kadran tercih edilen modeller daha prestijli ve dikkat çekici bir görünüm sunarken, Bristol kadranlar yüksek baskı kalitesiyle logo ve kurumsal tasarımların canlı şekilde uygulanmasına olanak tanır.
-
-Geniş baskı alanı sayesinde firma logosu, marka adı, slogan ve iletişim bilgileri profesyonel baskı kalitesiyle uygulanabilir. Günlük kullanımın bir parçası olması sayesinde markanız uzun yıllar boyunca müşterilerinizin ve iş ortaklarınızın göz önünde kalmaya devam eder.
-
-Mineral cam yüzeyi saati çizilmelere karşı korurken sessiz akar saniyeli mekanizması çalışma ortamlarında konfor sağlar. Sessiz çalışma özelliği sayesinde ofisler, toplantı odaları, bekleme salonları ve danışma alanlarında rahatlıkla kullanılabilir.
-
-Dayanıklı plastik kasa yapısı hafifliği ve uzun ömürlü kullanımı bir araya getirirken farklı kasa renk seçenekleri sayesinde kurumsal kimliğinize uygun özel üretimler gerçekleştirilebilmektedir.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-480?
-
-• 30 cm ideal kullanım ölçüsü
-• Bristol ve Bristol Metalize kadran seçenekleri
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Hafif ve dayanıklı plastik kasa
-• Farklı kasa renk alternatifleri
-• Ekonomik ve uzun ömürlü kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-480
-
-Kategori: Duvar Saatleri
-
-Çap: 30 cm
-
-Kasa: Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran / Bristol Metalize Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Mağazalar
-• Showroomlar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Kamu kurumları
-• Bekleme salonları
-• Kurumsal işletmeler
-• Fuar ve organizasyon alanları
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Kamu kuruluşları
-• Eğitim kurumları
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, tercih edilen kadran tipi, uygulanacak logo baskısı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Bristol ve Bristol Metalize kadran seçenekleri sunulmaktadır.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-480 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu, kasa renkleri ve kadran seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-480; 30 cm çapı, Bristol ve Bristol Metalize kadran seçenekleri, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş baskı alanı sayesinde markanızın uzun yıllar görünürlüğünü destekleyen kaliteli promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-480 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-480 modeli 30 cm çapa sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Hangi kadran seçenekleri bulunmaktadır?",
-      a: "DS-480 modeli Bristol kadran ve Bristol Metalize kadran seçenekleriyle üretilebilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, showroomlar, eğitim kurumları, hastaneler, bankalar ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+id: "p520",
+slug: "promosyon-duvar-saati-ds-480-30cm-plastik-kasa",
+price: 386,
+category: "Duvar Saatleri",
+"title": "Promosyon Duvar Saati DS-480 | 30 cm Plastik Kasa",
+"shortDesc": "DS-480 promosyon duvar saati; 30 cm çapı, plastik kasası, Bristol kadranı, mineral camı ve akar saniyeli mekanizmasıyla sunulur. Logo uygulamalı toplu siparişler için teklif alın.",
+"longDesc": "30 cm Promosyon Duvar Saati DS-480\n\nDS-480, duvarda daha sınırlı yer ayırmak isteyen işletmelerin değerlendirebileceği 30 cm çapında bir promosyon duvar saatidir. Plastik kasa, Bristol kadran ve mineral camdan oluşan modelde akar saniyeli mekanizma bulunur.\n\nKÜÇÜK OFİSLERDE ÜRÜN SEÇİMİ\n\nMüşteri görüşme odaları, danışma noktaları ve bağımsız çalışma odalarında saat seçerken duvardaki kullanılabilir alan önemlidir. DS-480, 30 cm ölçüsünde bir model arayan işletmeler için seçenek oluşturur. Yerleşim yapılacak noktanın aydınlatması ve saatin izleneceği mesafe de seçim sırasında değerlendirilmelidir.\n\nKURUMSAL LOGONUN YERLEŞİMİ\n\nKadran üzerinde firma logosu veya marka adı için tasarım çalışması yapılabilir. Kullanılabilir alan belirlenirken saat göstergelerinin okunabilirliği korunmalıdır. Logo dosyanız değerlendirilerek yerleşim, baskı yöntemi ve uygulama detayları sipariş öncesinde netleştirilir.\n\nHANGİ İŞLETMELER İÇİN UYGUN?\n\n• Emlak ofisleri: Müşteri görüşme ve çalışma odaları\n• Sigorta acenteleri: Danışma ve teklif hazırlama alanları\n• Muhasebe büroları: Günlük ofis kullanımı\n• Küçük mağazalar: Kasa arkası ve personel bölümleri\n• Teknik servisler: Kabul ve idari çalışma alanları\n\nİşletme sahipleri, ofis yöneticileri ve satın alma sorumluları kendi mekanları için bu modeli değerlendirebilir. Satış ekipleri de müşteri ziyaretlerinde sunulacak logolu hediye çalışmalarında DS-480'i seçeneklerine ekleyebilir.\n\nTEKNİK ÖZELLİKLER\n\n• Model: DS-480\n• Ürün türü: Promosyon duvar saati\n• Çap: 30 cm\n• Kasa: Plastik\n• Kadran: Bristol\n• Cam: Mineral cam\n• Mekanizma: Akar saniye\n\nTOPLU SİPARİŞ VE TEKLİF\n\nGösterilen ürün fiyatı baskı hariçtir. Sipariş miktarı, logo uygulaması ve teslimat detaylarına göre toplam teklif hazırlanır. Teklif talebinizde adet bilgisini, logo dosyanızı ve ihtiyaç duyduğunuz teslim tarihini paylaşabilirsiniz.",
+"faq": [
+  {
+    "q": "DS-480 duvar saatinin çapı nedir?",
+    "a": "DS-480 modelinin çapı 30 cm'dir."
+  },
+  {
+    "q": "Kasa ve kadran malzemesi nedir?",
+    "a": "Model plastik kasa, Bristol kadran ve mineral cama sahiptir."
+  },
+  {
+    "q": "Hangi mekanizma kullanılır?",
+    "a": "DS-480 modelinde akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Küçük ofislerde kullanılabilir mi?",
+    "a": "30 cm çapında bir saat aranan ofislerde değerlendirilebilir. Duvar ölçüsü ve izleme mesafesi seçim sırasında dikkate alınmalıdır."
+  },
+  {
+    "q": "Logo uygulaması nasıl hazırlanır?",
+    "a": "Logo dosyası değerlendirilerek kadran yerleşimi, kullanılabilir baskı alanı ve uygulama yöntemi sipariş öncesinde netleştirilir."
+  },
+  {
+    "q": "Gösterilen fiyata baskı dahil mi?",
+    "a": "Gösterilen ürün fiyatı baskı hariçtir. Adet ve logo uygulamasına göre toplam teklif hazırlanır."
+  }
+],
+"image": "/products/promosyon-duvar-saati-ds-480-v2.jpg"
 },
 {
-  id: "p521",
-
-  slug: "promosyon-duvar-saati-ds-490-42x30cm-ozel-kesim",
-
-  title:
+id: "p521",
+slug: "promosyon-duvar-saati-ds-490-42x30cm-ozel-kesim",
+title:
     "Promosyon Duvar Saati DS-490 | 42,5 x 30,5 cm Yıldız Figürlü Logo Baskılı Duvar Saati",
-
-  price: 412,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-490-42x30cm.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-490, yıldız figürlü özel tasarımı, 42,5 x 30,5 cm ölçüsü ve logo baskısına uygun Bristol kadranı ile kurumsal tanıtımlar için dikkat çeken promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-490 modeli, klasik yuvarlak saat tasarımlarından farklı olarak üst kısmında yer alan yıldız figürüyle dikkat çeken özel tasarımlı promosyon duvar saati modelleri arasında yer almaktadır. Farklı formu sayesinde markanızın bulunduğu ortamda daha güçlü şekilde fark edilmesini sağlar.
-
-42,5 x 30,5 cm ölçüsündeki özel tasarımı geniş bir reklam alanı oluştururken dekoratif görünümüyle ofisler, kamu kurumları, eğitim kuruluşları, fuarlar ve kurumsal organizasyonlarda estetik bir kullanım sunar.
-
-DS-490 modeli Bristol kadran yapısıyla üretilmektedir. Geniş baskı alanı; firma logosu, marka adı, kurum amblemi, slogan ve kurumsal görsellerin yüksek baskı kalitesiyle uygulanmasına olanak tanır. Sürekli kullanılan bir ürün olması sayesinde markanız uzun yıllar görünürlüğünü koruyabilir.
-
-Ofset ve dijital baskı teknikleri sayesinde kadran üzerinde canlı renkler ve yüksek çözünürlüklü baskılar elde edilir. Böylece kurumsal kimliğinizi en doğru şekilde yansıtan tasarımlar hazırlanabilir.
-
-Mineral cam yüzeyi saati dış etkenlere karşı korurken sessiz akar saniyeli mekanizması çalışma ortamlarında konfor sağlar. Sessiz çalışma özelliği sayesinde toplantı odaları, yönetici ofisleri ve bekleme alanlarında rahatlıkla kullanılabilir.
-
-Dayanıklı plastik kasa yapısı hafifliği ve sağlamlığı bir araya getirirken yıldız figürlü özel formu ürüne dekoratif ve prestijli bir görünüm kazandırmaktadır. Standart modellerden farklı tasarımı sayesinde promosyon çalışmalarınızın daha akılda kalıcı olmasına katkı sağlar.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-490?
-
-• 42,5 x 30,5 cm özel tasarım ölçüsü
-• Dekoratif yıldız figürlü kasa
-• Bristol kadran yapısı
-• Logo baskısına uygun geniş baskı alanı
-• Ofset ve dijital baskıya uygun
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Uzun ömürlü kurumsal kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-490
-
-Kategori: Duvar Saatleri
-
-Ölçü: 42,5 x 30,5 cm
-
-Kasa: Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-Ofset Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Kamu kurumları
-• Belediyeler
-• Eğitim kurumları
-• Dernekler
-• Vakıflar
-• Toplantı salonları
-• Fuar ve organizasyon alanları
-• Kurumsal işletmeler
-• Dekoratif iç mekanlar
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Kamu kuruluşları
-• Eğitim kurumları
-• Dernek ve vakıflar
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, uygulanacak baskı tekniği, logo tasarımı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Ofset veya dijital baskı uygulanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-490 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve tasarım seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-490; 42,5 x 30,5 cm özel yıldız figürlü tasarımı, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş yüzeyi sayesinde markanızın uzun yıllar görünürlüğünü destekleyen özgün promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-490 duvar saatinin ölçüleri nedir?",
-      a: "DS-490 modeli 42,5 x 30,5 cm ölçülerine sahiptir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Bristol kadran üzerine firmanıza özel logo, kurum amblemi veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Saat hangi baskı tekniklerini desteklemektedir?",
-      a: "DS-490 modeli ofset baskı ve dijital baskı teknikleriyle üretilebilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, kamu kurumları, belediyeler, eğitim kurumları, fuar alanları ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara ve resmi kurumlara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+price: 412,
+category: "Duvar Saatleri",
+image: "/products/promosyon-duvar-saati-ds-490-42x30cm.jpg",
+"shortDesc": "Promosyon duvar saati DS-490, yıldız figürlü özel tasarımı, 42,5 x 30,5 cm ölçüsü ve logo baskısına uygun Bristol kadranı ile kurumsal tanıtımlar için dikkat çeken promosyon duvar saati modellerinden biridir.",
+"longDesc": "Promosyon duvar saati DS-490 modeli, klasik yuvarlak saat tasarımlarından farklı olarak üst kısmında yer alan yıldız figürüyle dikkat çeken özel tasarımlı promosyon duvar saati modelleri arasında yer almaktadır. Farklı formu sayesinde markanızın bulunduğu ortamda daha güçlü şekilde fark edilmesini sağlar.\n\n42,5 x 30,5 cm ölçüsündeki özel tasarımı geniş bir reklam alanı oluştururken dekoratif görünümüyle ofisler, kamu kurumları, eğitim kuruluşları, fuarlar ve kurumsal organizasyonlarda estetik bir kullanım sunar.\n\nDS-490 modeli Bristol kadran yapısıyla üretilmektedir. Geniş baskı alanı; firma logosu, marka adı, kurum amblemi, slogan ve kurumsal görsellerin yüksek baskı kalitesiyle uygulanmasına olanak tanır. Sürekli kullanılan bir ürün olması sayesinde markanız uzun yıllar görünürlüğünü koruyabilir.\n\nOfset ve dijital baskı teknikleri sayesinde kadran üzerinde canlı renkler ve yüksek çözünürlüklü baskılar elde edilir. Böylece kurumsal kimliğinizi en doğru şekilde yansıtan tasarımlar hazırlanabilir.\n\nDayanıklı plastik kasa yapısı hafifliği ve sağlamlığı bir araya getirirken yıldız figürlü özel formu ürüne dekoratif ve prestijli bir görünüm kazandırmaktadır. Standart modellerden farklı tasarımı sayesinde promosyon çalışmalarınızın daha akılda kalıcı olmasına katkı sağlar.\n\nNEDEN PROMOSYON DUVAR SAATİ DS-490?\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Duvar Saati\n\nModel: DS-490\n\nKategori: Duvar Saatleri\n\nÖlçü: 42,5 x 30,5 cm\n\nKasa: Plastik Kasa\n\nCam: Mineral Cam\n\nKadran: Bristol Kadran\n\nMekanizma: Akar Saniyeli Mekanizma\n\nBaskı Alanı: Kadran Üzeri Logo Baskısı\n\nBaskı Türleri:\n\nOfset Baskı\n\nDijital Baskı\n\nKULLANIM ALANLARI\n\n• Ofisler\n• Kamu kurumları\n• Belediyeler\n• Eğitim kurumları\n• Dernekler\n• Vakıflar\n• Toplantı salonları\n• Fuar ve organizasyon alanları\n• Kurumsal işletmeler\n• Dekoratif iç mekanlar\n\nKİMLER İÇİN UYGUNDUR?\n\n• Kurumsal firmalar\n• Reklam ajansları\n• Promosyon ürün tedarikçileri\n• Belediyeler\n• Kamu kuruluşları\n• Eğitim kurumları\n• Dernek ve vakıflar\n• Hizmet sektörü işletmeleri\n\nPROMOSYON DUVAR SAATİ FİYATLARI\n\nPromosyon duvar saati fiyatları; sipariş adedi, uygulanacak baskı tekniği, logo tasarımı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskılı veya baskısız üretim yapılabilmektedir.\n• Firmaya özel kadran tasarımı hazırlanabilmektedir.\n• Ofset veya dijital baskı uygulanabilmektedir.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.\n\nKULLANIM NOTU\n\nDS-490 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve tasarım seçeneklerinin teyit edilmesi tavsiye edilir.",
+"faq": [
+  {
+    "q": "DS-490 duvar saatinin ölçüleri nedir?",
+    "a": "DS-490 modeli 42,5 x 30,5 cm ölçülerine sahiptir."
+  },
+  {
+    "q": "Üzerine firma logosu uygulanabilir mi?",
+    "a": "Evet. Bristol kadran üzerine firmanıza özel logo, kurum amblemi veya kurumsal tasarım uygulanabilmektedir."
+  },
+  {
+    "q": "Saat hangi baskı tekniklerini desteklemektedir?",
+    "a": "DS-490 modeli ofset baskı ve dijital baskı teknikleriyle üretilebilmektedir."
+  },
+  {
+    "q": "Mekanizma tipi nedir?",
+    "a": "DS-490 modelinde akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Hangi alanlarda kullanıma uygundur?",
+    "a": "Ofisler, kamu kurumları, belediyeler, eğitim kurumları, fuar alanları ve diğer kurumsal işletmelerde kullanıma uygundur."
+  },
+  {
+    "q": "Toplu sipariş verilebilir mi?",
+    "a": "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara ve resmi kurumlara özel fiyat avantajları sunulmaktadır."
+  }
+]
 },
 {
-  id: "p522",
-
-  slug: "promosyon-duvar-saati-ds-500-35cm-metalize-plastik",
-
-  title:
+id: "p522",
+slug: "promosyon-duvar-saati-ds-500-35cm-metalize-plastik",
+title:
     "Promosyon Duvar Saati DS-500 | 35 cm Metalize Plastik Kasa Logo Baskılı Duvar Saati",
-
-  price: 516,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-500-35cm.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-500, 35 cm çapı, metalize plastik kasası, Bristol kadranı ve sessiz mekanizmasıyla kurumsal tanıtımlar için modern görünümlü promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-500 modeli, metalize plastik kasa tasarımı ve modern çizgileriyle kurumsal tanıtım çalışmalarında tercih edilen şık promosyon duvar saati modelleri arasında yer almaktadır. Metal görünüm sunan kasası sayesinde bulunduğu ortama prestijli bir hava kazandırırken ekonomik ve hafif yapısını da korumaktadır.
-
-35 cm çapındaki ideal ölçüsü sayesinde ofisler, mağazalar, showroomlar, toplantı odaları ve birçok kurumsal alanda rahatlıkla kullanılabilir. Gün içerisinde sürekli görülebilen yapısı sayesinde markanızın görünürlüğünü uzun yıllar boyunca destekler.
-
-Bristol kadran yapısı; firma logosu, marka adı, slogan ve kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Geniş baskı yüzeyi sayesinde kurumsal kimliğinizi etkili şekilde yansıtan özel tasarımlar hazırlanabilir.
-
-Metalize plastik kasa, klasik plastik modellere göre daha premium bir görünüm sunarken hafif yapısı sayesinde kolay montaj avantajı sağlar. Farklı metalize renk seçenekleriyle firmanızın kurumsal renklerine uygun üretim gerçekleştirilebilir.
-
-Mineral cam yüzeyi çizilmelere karşı dayanıklılık sağlarken kaliteli akar saniyeli mekanizması sessiz ve akıcı çalışma performansı sunmaktadır. Bu sayede yönetici odaları, toplantı salonları ve çalışma alanlarında rahatsız edici tik tak sesi oluşturmaz.
-
-Promosyon duvar saatleri uzun ömürlü kullanımları ve sürekli görünür olmaları sayesinde marka bilinirliğini artıran en etkili kurumsal promosyon ürünleri arasında yer almaktadır. DS-500 modeli estetik görünümü ve kaliteli yapısıyla hem dekoratif hem de reklam amaçlı kullanıma uygundur.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-500?
-
-• 35 cm çap
-• Metalize plastik kasa
-• Bristol kadran yapısı
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Hafif ve dayanıklı yapı
-• Modern metal görünümü
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-500
-
-Kategori: Duvar Saatleri
-
-Çap: 35 cm
-
-Kasa: Metalize Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Showroomlar
-• Mağazalar
-• Toplantı salonları
-• Fabrikalar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Kamu kurumları
-• Kurumsal işletmeler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Eğitim kurumları
-• Kamu kuruluşları
-• Üretim tesisleri
-• Hizmet sektörü işletmeleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, uygulanacak logo baskısı, kadran tasarımı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Metalize kasa renk seçenekleri sunulmaktadır.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-500 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve kasa renk seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-500; 35 cm çapı, metalize plastik kasası, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş yüzeyi sayesinde markanızın uzun yıllar görünürlüğünü destekleyen modern promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-500 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-500 modeli 35 cm çapa sahiptir."
-    },
-    {
-      q: "Metalize kasa gerçek metal midir?",
-      a: "Hayır. Metal görünümü sağlayan kaliteli metalize plastik kasa ile üretilmektedir. Böylece hem hafif hem de dayanıklı bir yapı sunmaktadır."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Bristol kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, showroomlar, toplantı salonları, eğitim kurumları, hastaneler ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+price: 516,
+category: "Duvar Saatleri",
+image: "/products/promosyon-duvar-saati-ds-500-35cm.jpg",
+"shortDesc": "Promosyon duvar saati DS-500, 35 cm çapı, metalize plastik kasası, Bristol kadranı ve akar saniyeli mekanizmasıyla kurumsal tanıtımlar için modern görünümlü promosyon duvar saati modellerinden biridir.",
+"longDesc": "Promosyon duvar saati DS-500 modeli, metalize plastik kasa tasarımı ve modern çizgileriyle kurumsal tanıtım çalışmalarında tercih edilen şık promosyon duvar saati modelleri arasında yer almaktadır. Metal görünüm sunan kasası sayesinde bulunduğu ortama prestijli bir hava kazandırırken ekonomik ve hafif yapısını da korumaktadır.\n\n35 cm çapındaki ideal ölçüsü sayesinde ofisler, mağazalar, showroomlar, toplantı odaları ve birçok kurumsal alanda rahatlıkla kullanılabilir. Gün içerisinde sürekli görülebilen yapısı sayesinde markanızın görünürlüğünü uzun yıllar boyunca destekler.\n\nBristol kadran yapısı; firma logosu, marka adı, slogan ve kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına olanak tanır. Geniş baskı yüzeyi sayesinde kurumsal kimliğinizi etkili şekilde yansıtan özel tasarımlar hazırlanabilir.\n\nMetalize plastik kasa, klasik plastik modellere göre daha premium bir görünüm sunarken hafif yapısı sayesinde kolay montaj avantajı sağlar. Farklı metalize renk seçenekleriyle firmanızın kurumsal renklerine uygun üretim gerçekleştirilebilir.\n\nPromosyon duvar saatleri uzun ömürlü kullanımları ve sürekli görünür olmaları sayesinde marka bilinirliğini artıran en etkili kurumsal promosyon ürünleri arasında yer almaktadır. DS-500 modeli estetik görünümü ve kaliteli yapısıyla hem dekoratif hem de reklam amaçlı kullanıma uygundur.\n\nNEDEN PROMOSYON DUVAR SAATİ DS-500?\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Duvar Saati\n\nModel: DS-500\n\nKategori: Duvar Saatleri\n\nÇap: 35 cm\n\nKasa: Metalize Plastik Kasa\n\nCam: Mineral Cam\n\nKadran: Bristol Kadran\n\nMekanizma: Akar Saniyeli Mekanizma\n\nBaskı Alanı: Kadran Üzeri Logo Baskısı\n\nBaskı yöntemi sipariş öncesinde netleştirilir.\n\nKULLANIM ALANLARI\n\n• Ofisler\n• Showroomlar\n• Mağazalar\n• Toplantı salonları\n• Fabrikalar\n• Eğitim kurumları\n• Hastaneler\n• Bankalar\n• Kamu kurumları\n• Kurumsal işletmeler\n\nKİMLER İÇİN UYGUNDUR?\n\n• Kurumsal firmalar\n• Reklam ajansları\n• Promosyon ürün tedarikçileri\n• Belediyeler\n• Eğitim kurumları\n• Kamu kuruluşları\n• Üretim tesisleri\n• Hizmet sektörü işletmeleri\n\nPROMOSYON DUVAR SAATİ FİYATLARI\n\nPromosyon duvar saati fiyatları; sipariş adedi, uygulanacak logo baskısı, kadran tasarımı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskılı veya baskısız üretim yapılabilmektedir.\n• Firmaya özel kadran tasarımı hazırlanabilmektedir.\n• Metalize kasa renk seçenekleri sunulmaktadır.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.\n\nKULLANIM NOTU\n\nDS-500 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve kasa renk seçeneklerinin teyit edilmesi tavsiye edilir.",
+"faq": [
+  {
+    "q": "DS-500 duvar saatinin çapı kaç santimetredir?",
+    "a": "DS-500 modeli 35 cm çapa sahiptir."
+  },
+  {
+    "q": "Metalize kasa gerçek metal midir?",
+    "a": "Hayır. Metal görünümü sağlayan kaliteli metalize plastik kasa ile üretilmektedir. Böylece hem hafif hem de dayanıklı bir yapı sunmaktadır."
+  },
+  {
+    "q": "Üzerine firma logosu uygulanabilir mi?",
+    "a": "Evet. Bristol kadran üzerine firmanıza özel logo, marka adı veya kurumsal tasarım uygulanabilmektedir."
+  },
+  {
+    "q": "Mekanizma tipi nedir?",
+    "a": "DS-500 modelinde akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Hangi alanlarda kullanıma uygundur?",
+    "a": "Ofisler, mağazalar, showroomlar, toplantı salonları, eğitim kurumları, hastaneler ve diğer kurumsal işletmelerde kullanıma uygundur."
+  },
+  {
+    "q": "Toplu sipariş verilebilir mi?",
+    "a": "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
+  }
+]
 },
 {
-  id: "p523",
-
-  slug: "promosyon-duvar-saati-ds-510-30cm-metalize-plastik",
-
-  title:
+id: "p523",
+slug: "promosyon-duvar-saati-ds-510-30cm-metalize-plastik",
+title:
     "Promosyon Duvar Saati DS-510 | 30 cm Metalize Plastik Kasa Logo Baskılı Duvar Saati",
-
-  price: 470,
-
-  category: "Duvar Saatleri",
-
-  image: "/products/promosyon-duvar-saati-ds-510-30cm.jpg",
-
-  shortDesc:
-    "Promosyon duvar saati DS-510, 30 cm çapı, metalize plastik kasası, Bristol kadranı ve sessiz mekanizmasıyla kurumsal tanıtımlar için şık ve ekonomik promosyon duvar saati modellerinden biridir.",
-
-  longDesc: `
-Promosyon duvar saati DS-510 modeli, kompakt ölçüsü ve metalize plastik kasa tasarımıyla estetik görünümü ekonomik kullanım avantajıyla buluşturan promosyon duvar saati modelleri arasında yer almaktadır. Metal görünüm kazandırılan kasası sayesinde modern ofis dekorasyonuna uyum sağlarken hafif yapısıyla uzun ömürlü kullanım sunmaktadır.
-
-30 cm çapındaki yapısı; ofisler, mağazalar, danışma alanları, showroomlar, eğitim kurumları ve çeşitli kurumsal işletmeler için ideal kullanım ölçüsü sunmaktadır. Günlük yaşamın sürekli kullanılan ürünlerinden biri olması sayesinde markanızın görünürlüğünü uzun yıllar desteklemektedir.
-
-Bristol kadran yapısı; firma logosu, marka adı, slogan ve kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına imkan tanır. Geniş baskı alanı sayesinde kurumsal kimliğinizi yansıtan profesyonel çalışmalar hazırlanabilir.
-
-Metalize plastik kasa, klasik plastik modellere göre daha prestijli bir görünüm oluştururken hafifliği sayesinde kolay montaj avantajı sağlar. Altın, gümüş ve farklı metalize renk seçenekleri ile firmanızın kurumsal renklerine uygun üretim gerçekleştirilebilir.
-
-Mineral cam yüzeyi çizilmelere karşı dayanıklılık sağlarken kaliteli akar saniyeli mekanizması sessiz ve akıcı çalışma performansı sunmaktadır. Bu sayede toplantı odaları, yönetici ofisleri ve çalışma alanlarında rahatsız edici ses oluşturmaz.
-
-Promosyon duvar saatleri uzun ömürlü kullanımları ve sürekli görünür olmaları sayesinde kurumsal tanıtım çalışmalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır. DS-510 modeli modern görünümü, kaliteli yapısı ve ekonomik ölçüsü ile hem dekoratif hem de reklam amaçlı kullanıma uygundur.
-
-NEDEN PROMOSYON DUVAR SAATİ DS-510?
-
-• 30 cm çap
-• Metalize plastik kasa
-• Bristol kadran yapısı
-• Logo baskısına uygun geniş baskı alanı
-• Mineral cam koruması
-• Sessiz akar saniyeli mekanizma
-• Hafif ve dayanıklı yapı
-• Modern metal görünümü
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Duvar Saati
-
-Model: DS-510
-
-Kategori: Duvar Saatleri
-
-Çap: 30 cm
-
-Kasa: Metalize Plastik Kasa
-
-Cam: Mineral Cam
-
-Kadran: Bristol Kadran
-
-Mekanizma: Akar Saniyeli Mekanizma
-
-Baskı Alanı: Kadran Üzeri Logo Baskısı
-
-Baskı Türleri:
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofisler
-• Mağazalar
-• Showroomlar
-• Eğitim kurumları
-• Hastaneler
-• Bankalar
-• Danışma alanları
-• Bekleme salonları
-• Kurumsal işletmeler
-• Kamu kurumları
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Belediyeler
-• Eğitim kurumları
-• Kamu kuruluşları
-• Hizmet sektörü işletmeleri
-• Üretim tesisleri
-
-PROMOSYON DUVAR SAATİ FİYATLARI
-
-Promosyon duvar saati fiyatları; sipariş adedi, uygulanacak logo baskısı, kadran tasarımı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Firmaya özel kadran tasarımı hazırlanabilmektedir.
-• Metalize kasa renk seçenekleri sunulmaktadır.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-DS-510 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve metalize kasa renk seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon duvar saati DS-510; 30 cm çapı, metalize plastik kasası, Bristol kadranı, mineral cam koruması, sessiz akar saniyeli mekanizması ve logo baskısına uygun geniş yüzeyi sayesinde markanızın uzun yıllar görünürlüğünü destekleyen modern promosyon duvar saati modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "DS-510 duvar saatinin çapı kaç santimetredir?",
-      a: "DS-510 modeli 30 cm çapa sahiptir."
-    },
-    {
-      q: "Metalize kasa gerçek metal midir?",
-      a: "Hayır. Metal görünümü sağlayan kaliteli metalize plastik kasa ile üretilmektedir. Hafif ve dayanıklı bir kullanım sunmaktadır."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Bristol kadran üzerine firmanıza özel logo, marka adı, slogan veya kurumsal tasarım uygulanabilmektedir."
-    },
-    {
-      q: "Saat sessiz çalışır mı?",
-      a: "Evet. Akar saniyeli mekanizması sayesinde sessiz ve akıcı çalışma performansı sunmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanıma uygundur?",
-      a: "Ofisler, mağazalar, showroomlar, eğitim kurumları, bankalar, hastaneler ve diğer kurumsal işletmelerde kullanıma uygundur."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
-    }
-  ]
+price: 470,
+category: "Duvar Saatleri",
+image: "/products/promosyon-duvar-saati-ds-510-30cm.jpg",
+"shortDesc": "Promosyon duvar saati DS-510, 30 cm çapı, metalize plastik kasası, Bristol kadranı ve akar saniyeli mekanizmasıyla kurumsal tanıtımlar için şık ve ekonomik promosyon duvar saati modellerinden biridir.",
+"longDesc": "Promosyon duvar saati DS-510 modeli, kompakt ölçüsü ve metalize plastik kasa tasarımıyla estetik görünümü ekonomik kullanım avantajıyla buluşturan promosyon duvar saati modelleri arasında yer almaktadır. Metal görünüm kazandırılan kasası sayesinde modern ofis dekorasyonuna uyum sağlarken hafif yapısıyla uzun ömürlü kullanım sunmaktadır.\n\n30 cm çapındaki yapısı; ofisler, mağazalar, danışma alanları, showroomlar, eğitim kurumları ve çeşitli kurumsal işletmeler için ideal kullanım ölçüsü sunmaktadır. Günlük yaşamın sürekli kullanılan ürünlerinden biri olması sayesinde markanızın görünürlüğünü uzun yıllar desteklemektedir.\n\nBristol kadran yapısı; firma logosu, marka adı, slogan ve kurumsal tasarımların yüksek baskı kalitesiyle uygulanmasına imkan tanır. Geniş baskı alanı sayesinde kurumsal kimliğinizi yansıtan profesyonel çalışmalar hazırlanabilir.\n\nMetalize plastik kasa, klasik plastik modellere göre daha prestijli bir görünüm oluştururken hafifliği sayesinde kolay montaj avantajı sağlar. Altın, gümüş ve farklı metalize renk seçenekleri ile firmanızın kurumsal renklerine uygun üretim gerçekleştirilebilir.\n\nPromosyon duvar saatleri uzun ömürlü kullanımları ve sürekli görünür olmaları sayesinde kurumsal tanıtım çalışmalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır. DS-510 modeli modern görünümü, kaliteli yapısı ve ekonomik ölçüsü ile hem dekoratif hem de reklam amaçlı kullanıma uygundur.\n\nNEDEN PROMOSYON DUVAR SAATİ DS-510?\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Duvar Saati\n\nModel: DS-510\n\nKategori: Duvar Saatleri\n\nÇap: 30 cm\n\nKasa: Metalize Plastik Kasa\n\nCam: Mineral Cam\n\nKadran: Bristol Kadran\n\nMekanizma: Akar Saniyeli Mekanizma\n\nBaskı Alanı: Kadran Üzeri Logo Baskısı\n\nBaskı yöntemi sipariş öncesinde netleştirilir.\n\nKULLANIM ALANLARI\n\n• Ofisler\n• Mağazalar\n• Showroomlar\n• Eğitim kurumları\n• Hastaneler\n• Bankalar\n• Danışma alanları\n• Bekleme salonları\n• Kurumsal işletmeler\n• Kamu kurumları\n\nKİMLER İÇİN UYGUNDUR?\n\n• Kurumsal firmalar\n• Reklam ajansları\n• Promosyon ürün tedarikçileri\n• Belediyeler\n• Eğitim kurumları\n• Kamu kuruluşları\n• Hizmet sektörü işletmeleri\n• Üretim tesisleri\n\nPROMOSYON DUVAR SAATİ FİYATLARI\n\nPromosyon duvar saati fiyatları; sipariş adedi, uygulanacak logo baskısı, kadran tasarımı ve üretim özelliklerine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskılı veya baskısız üretim yapılabilmektedir.\n• Firmaya özel kadran tasarımı hazırlanabilmektedir.\n• Metalize kasa renk seçenekleri sunulmaktadır.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.\n\nKULLANIM NOTU\n\nDS-510 modeli iç mekan kullanımına uygundur. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve metalize kasa renk seçeneklerinin teyit edilmesi tavsiye edilir.",
+"faq": [
+  {
+    "q": "DS-510 duvar saatinin çapı kaç santimetredir?",
+    "a": "DS-510 modeli 30 cm çapa sahiptir."
+  },
+  {
+    "q": "Metalize kasa gerçek metal midir?",
+    "a": "Hayır. Metal görünümü sağlayan kaliteli metalize plastik kasa ile üretilmektedir. Hafif ve dayanıklı bir kullanım sunmaktadır."
+  },
+  {
+    "q": "Üzerine firma logosu uygulanabilir mi?",
+    "a": "Evet. Bristol kadran üzerine firmanıza özel logo, marka adı, slogan veya kurumsal tasarım uygulanabilmektedir."
+  },
+  {
+    "q": "Mekanizma tipi nedir?",
+    "a": "DS-510 modelinde akar saniyeli mekanizma bulunur."
+  },
+  {
+    "q": "Hangi alanlarda kullanıma uygundur?",
+    "a": "Ofisler, mağazalar, showroomlar, eğitim kurumları, bankalar, hastaneler ve diğer kurumsal işletmelerde kullanıma uygundur."
+  },
+  {
+    "q": "Toplu sipariş verilebilir mi?",
+    "a": "Evet. Logo baskılı toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır."
+  }
+]
 },
 {
   id: "p524",
