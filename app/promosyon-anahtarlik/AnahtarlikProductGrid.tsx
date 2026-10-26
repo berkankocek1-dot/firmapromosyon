@@ -22,6 +22,7 @@ const filters = [
   "Metal",
   "Deri",
   "Açacaklı",
+  "Purjörlü",
   "Ev & Araba",
   "Telefon Standlı",
   "Özel Tasarım",
@@ -37,50 +38,50 @@ function normalize(value: string) {
 function matchesFilter(product: AnahtarlikProduct, filter: string) {
   if (filter === "Tümü") return true;
 
-  const text = normalize(
-    `${product.title} ${product.shortDesc} ${product.longDesc || ""}`
-  );
+  const code = product.slug.match(/(?:^|-)(an-\d+)(?:-|$)/i)?.[1]
+    .toLowerCase();
+
+  const text = normalize(`${product.title} ${product.shortDesc}`);
+  const isPurjor =
+    code === "an-380" ||
+    code === "an-460" ||
+    /purjör|purjor/.test(text);
 
   if (filter === "Metal") {
-    return text.includes("metal");
+    return /metal|alüminyum|aluminyum/.test(text);
   }
 
   if (filter === "Deri") {
     return text.includes("deri");
   }
 
+  if (filter === "Purjörlü") {
+    return isPurjor;
+  }
+
   if (filter === "Açacaklı") {
-    return (
-      text.includes("açacak") ||
-      text.includes("purjör") ||
-      text.includes("purjor")
-    );
+    if (isPurjor) return false;
+    if (code === "an-160" || code === "an-450") return true;
+    return /açacak|açacağı/.test(text);
   }
 
   if (filter === "Ev & Araba") {
-    return (
-      text.includes("ev şeklinde") ||
-      text.includes("araba şeklinde")
-    );
+    if (code === "an-165" || code === "an-170") return true;
+    return /(?:ev|araba|otomobil) şeklinde/.test(text);
   }
 
   if (filter === "Telefon Standlı") {
-    return (
-      text.includes("telefon standlı") ||
-      text.includes("telefon standı")
-    );
+    if (isPurjor || code === "an-160" || code === "an-450") {
+      return false;
+    }
+    return /telefon stand(?:lı|ı)/.test(text);
   }
 
   if (filter === "Özel Tasarım") {
-    return (
-      text.includes("özel tasarım") ||
-      text.includes("3d") ||
-      text.includes("baret anahtarlık") ||
-      text.includes("rozet")
-    );
+    return /özel tasarım|3d|baret|rozet/.test(text);
   }
 
-  return true;
+  return false;
 }
 
 export default function AnahtarlikProductGrid({

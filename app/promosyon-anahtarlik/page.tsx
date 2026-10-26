@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { products } from "@/data/products";
+import { visibleProducts as products } from "@/data/productVisibility";
 import AnahtarlikProductGrid from "./AnahtarlikProductGrid";
 import { sortProductsByCode } from "@/data/productSorting";
 
