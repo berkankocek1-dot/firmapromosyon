@@ -69,10 +69,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   const redirectedProductSlugs = new Set([
-    "promosyon-metal-kalem-mk-440",
-    "promosyon-metal-kalem-mk-500",
-    "promosyon-metal-kalem-mk-510",
-  ]);
+  "promosyon-metal-kalem-mk-440",
+  "promosyon-metal-kalem-mk-500",
+  "promosyon-metal-kalem-mk-510",
+  "promosyon-kalem-seti-ks-235-ozel-tasarim-lazer-baski",
+  "promosyon-ahsap-kalem-ks-335-tekli-roller",
+  "promosyon-tekli-kalem-kutusu-ks-360-luks"
+]);
 
   const productRoutes: MetadataRoute.Sitemap = products
     .filter((product) => !redirectedProductSlugs.has(product.slug) && product.slug !== "promosyon-anahtarlik-an-540")

@@ -19,69 +19,35 @@ type KalemSetiProduct = {
 
 const filters = [
   "Tümü",
-  "Roller & Tükenmez",
+  "Lazer Baskı",
+  "Kutu Serigraf Baskısı",
+  "Dolma Kalem",
   "Kalem & Anahtarlık",
-  "Premium",
-  "Ahşap",
-  "Tekli & Kutulu",
-  "Özel Kalemler",
+  "Renk Seçenekli",
+  "Kalem Kutusu"
 ];
 
-function normalize(value: string) {
-  return value
-    .toLocaleLowerCase("tr-TR")
-    .replace(/\s+/g, " ")
-    .trim();
-}
+
 
 function matchesFilter(product: KalemSetiProduct, filter: string) {
   if (filter === "Tümü") return true;
+  const code = product.slug.match(/(?:^|-)ks-(\d+)(?:-|$)/i)?.[1];
+  if (!code) return false;
 
-  const text = normalize(
-    `${product.title} ${product.shortDesc} ${product.longDesc || ""}`
-  );
-
-  if (filter === "Roller & Tükenmez") {
-    return (
-      text.includes("roller") &&
-      text.includes("tükenmez")
-    );
+  if (filter === "Lazer Baskı") {
+    return ["100","110","120","130","140","170","240","250"].includes(code);
   }
-
-  if (filter === "Kalem & Anahtarlık") {
-    return text.includes("kalem ve anahtarlık");
+  if (filter === "Kutu Serigraf Baskısı") {
+    return ["100","110","120","130","140","170","240"].includes(code);
   }
-
-  if (filter === "Premium") {
-    return (
-      text.includes("premium") ||
-      text.includes("vip") ||
-      text.includes("lüks")
-    );
+  if (filter === "Dolma Kalem") return ["240","250"].includes(code);
+  if (filter === "Kalem & Anahtarlık") return code === "210";
+  if (filter === "Renk Seçenekli") {
+    return ["100","110","140","150","160","170","200","210",
+            "310","320","330","340"].includes(code);
   }
-
-  if (filter === "Ahşap") {
-    return text.includes("ahşap");
-  }
-
-  if (filter === "Tekli & Kutulu") {
-    return (
-      text.includes("tekli") ||
-      text.includes("kalem kutusu")
-    );
-  }
-
-  if (filter === "Özel Kalemler") {
-    return (
-      text.includes("özel tasarım") ||
-      text.includes("dolma kalem") ||
-      text.includes("piston") ||
-      text.includes("dokunmatik") ||
-      text.includes("stylus")
-    );
-  }
-
-  return true;
+  if (filter === "Kalem Kutusu") return code === "355";
+  return false;
 }
 
 export default function KalemSetiProductGrid({
@@ -107,8 +73,7 @@ export default function KalemSetiProductGrid({
         </h2>
 
         <p className="mt-2 max-w-3xl text-sm leading-6 text-gray-600">
-          Roller, tükenmez, anahtarlıklı, premium ve özel tasarım promosyon
-          kalem setlerini özelliklerine göre inceleyebilirsiniz.
+          Dolma kalem, anahtarlıklı set, kutu baskısı ve renk seçeneklerine göre modelleri inceleyebilirsiniz.
         </p>
 
         <div className="mt-5 flex flex-wrap gap-3">

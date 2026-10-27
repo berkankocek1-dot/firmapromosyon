@@ -1,7 +1,7 @@
 import Link from "next/link";
 import KalemSetiProductGrid from "./KalemSetiProductGrid";
 import type { Metadata } from "next";
-import { products } from "@/data/products";
+import { visibleProducts as products } from "@/data/productVisibility";
 import { sortProductsByCode } from "@/data/productSorting";
 
 
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   title:
     "Promosyon Kalem Setleri | Logo Baskılı Modeller",
   description:
-    "Logo baskılı metal, roller, ahşap ve anahtarlıklı promosyon kalem setlerini inceleyin. Kurumsal hediye ve toplu sipariş için hızlı teklif alın.",
+    "Promosyon kalem setleri, dolma kalem ve anahtarlıklı hediye modellerini inceleyin. Kurumsal sipariş ve logo uygulaması için teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,

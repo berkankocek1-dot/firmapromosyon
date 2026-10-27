@@ -23,8 +23,10 @@ const hiddenProductSlugs = new Set<string>([
   "promosyon-wireless-sarj-standi-pb-420-15w-typec",
   "promosyon-wireless-stand-set-pb-425-3lu-15w-typec",
   "promosyon-wireless-stand-set-pb-430-isikli-logolu-15w",
-
   "promosyon-anahtarlik-an-540",
+  "promosyon-kalem-seti-ks-235-ozel-tasarim-lazer-baski",
+  "promosyon-ahsap-kalem-ks-335-tekli-roller",
+  "promosyon-tekli-kalem-kutusu-ks-360-luks"
 ]);
 
 export function isProductVisible(product: { slug: string }): boolean {
