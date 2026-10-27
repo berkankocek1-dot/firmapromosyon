@@ -75,7 +75,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ]);
 
   const productRoutes: MetadataRoute.Sitemap = products
-    .filter((product) => !redirectedProductSlugs.has(product.slug))
+    .filter((product) => !redirectedProductSlugs.has(product.slug) && product.slug !== "promosyon-anahtarlik-an-540")
     .map((product) => ({
     url: `${baseUrl}/urunler/${product.slug}`,
     lastModified: new Date(),

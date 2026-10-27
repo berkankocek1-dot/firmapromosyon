@@ -464,72 +464,7 @@ Promosyon Cricket manyetolu sibopsuz çakmak ÇM-150, kaliteli üretimi, logo ba
   shortDesc:
     "Promosyon anahtarlık AN-110, deri görünümlü şık tasarımı, metal gövde yapısı ve lazer baskıya uygun yüzeyi ile kurumsal promosyon çalışmalarında tercih edilen premium logo baskılı anahtarlık modelidir.",
 
-  longDesc: `
-Promosyon anahtarlık AN-110, modern tasarımı ve kaliteli malzeme yapısı ile markasını prestijli şekilde tanıtmak isteyen firmalar için geliştirilmiş şık bir promosyon ürünüdür. Metal detaylı gövdesi ve deri görünümlü askı bölümü sayesinde premium bir görünüm sunar.
-
-Günlük yaşamda sürekli kullanılan anahtarlıklar, markanızın kullanıcıların yanında her an görünür olmasını sağlayan etkili reklam ürünleri arasında yer alır. Bu nedenle promosyon anahtarlık modelleri, uzun süreli marka görünürlüğü sağlayan güçlü kurumsal tanıtım ürünlerinden biridir.
-
-Promosyon anahtarlık AN-110 modeli, lazer baskıya uygun metal yüzeyi sayesinde firmanızın logosunun net, kalıcı ve profesyonel şekilde uygulanmasına imkan tanır. Lazer baskı tekniği, silinmeye karşı dayanıklı yapısı ile uzun ömürlü kullanım avantajı sağlar.
-
-Metal gövde ve deri detay kombinasyonu, ürüne modern ve estetik bir görünüm kazandırır. Bu sayede hem günlük kullanım hem de kurumsal promosyon dağıtımları için ideal bir seçenek haline gelir.
-
-Çift yön baskıya uygun yapısı sayesinde marka logosu, slogan veya firma bilgileri ürünün her iki tarafına uygulanabilir. Böylece marka görünürlüğü daha güçlü hale gelir.
-
-Fuar organizasyonları, müşteri ziyaretleri, bayi toplantıları, kurumsal etkinlikler ve promosyon kampanyalarında sıkça tercih edilen bu model, şık görünümü sayesinde kullanıcılar tarafından uzun süre kullanılabilir.
-
-NEDEN PROMOSYON ANAHTARLIK AN-110 TERCİH EDİLMELİ?
-• Şık ve modern metal tasarım
-• Deri görünümlü premium detay
-• Lazer baskıya uygun yüzey
-• Çift yön baskı uygulanabilir yapı
-• Günlük kullanıma uygun dayanıklı tasarım
-• Uzun süreli marka görünürlüğü sağlar
-• Kurumsal promosyon çalışmaları için ideal
-• Hafif ve taşınabilir kullanım
-
-KULLANIM ALANLARI
-• Kurumsal promosyon dağıtımları
-• Fuar ve etkinlik organizasyonları
-• Bayi ve müşteri hediyeleri
-• Marka tanıtım kampanyaları
-• Kurumsal reklam çalışmaları
-• Otomotiv sektörü promosyonları
-• Teknoloji ve finans şirketleri promosyonları
-
-KİMLER İÇİN UYGUN?
-• Kurumsal firmalar
-• Otomotiv şirketleri
-• Reklam ajansları
-• Bankalar ve finans kuruluşları
-• Sigorta şirketleri
-• Teknoloji firmaları
-• Eğitim kurumları
-• Organizasyon şirketleri
-
-PROMOSYON ANAHTARLIK FİYATLARI
-Promosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, logo uygulaması, renk tercihi ve üretim planına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.
-
-RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-Mavi, kırmızı, siyah ve taba başta olmak üzere farklı renk alternatifleri stok durumuna göre sunulabilir.
-
-SİPARİŞ BİLGİSİ
-• Logo ve baskı detayları firmanıza özel hazırlanır
-• Kurumsal toplu siparişlere uygundur
-• Çift taraflı logo baskı uygulanabilir
-• Güncel stok ve termin bilgisi teklif aşamasında paylaşılır
-
-TEKNİK ÖZELLİKLER
-• Model: AN-110
-• Ürün Türü: Promosyon Anahtarlık
-• Ölçü: 13 x 2 cm
-• Malzeme: Metal Gövde + Deri Görünümlü Askı
-• Baskı Türü: Lazer Baskı
-• Baskı Özelliği: Çift Yön Baskı Uygulanabilir
-• Paketleme: Şeffaf Poşet
-• Kategori: Anahtarlık
-
-Promosyon anahtarlık AN-110, şık tasarımı, kaliteli malzeme yapısı ve lazer baskıya uygun yüzeyi ile markanızı günlük yaşamda sürekli görünür hale getiren etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel fiyat teklifleri için hemen bizimle iletişime geçebilir, WhatsApp üzerinden hızlı teklif alabilirsiniz.
-`.trim(),
+  longDesc: "Promosyon anahtarlık AN-110, modern tasarımı ve kaliteli malzeme yapısı ile markasını prestijli şekilde tanıtmak isteyen firmalar için geliştirilmiş şık bir promosyon ürünüdür. Metal detaylı gövdesi ve deri görünümlü askı bölümü sayesinde premium bir görünüm sunar.\n\nGünlük yaşamda sürekli kullanılan anahtarlıklar, markanızın kullanıcıların yanında her an görünür olmasını sağlayan etkili reklam ürünleri arasında yer alır. Bu nedenle promosyon anahtarlık modelleri, uzun süreli marka görünürlüğü sağlayan güçlü kurumsal tanıtım ürünlerinden biridir.\n\nPromosyon anahtarlık AN-110 modeli, lazer baskıya uygun metal yüzeyi sayesinde firmanızın logosunun net, kalıcı ve profesyonel şekilde uygulanmasına imkan tanır. Lazer baskı tekniği, silinmeye karşı dayanıklı yapısı ile uzun ömürlü kullanım avantajı sağlar.\n\nMetal gövde ve deri detay kombinasyonu, ürüne modern ve estetik bir görünüm kazandırır. Bu sayede hem günlük kullanım hem de kurumsal promosyon dağıtımları için ideal bir seçenek haline gelir.\n\nÇift yön baskıya uygun yapısı sayesinde marka logosu, slogan veya firma bilgileri ürünün her iki tarafına uygulanabilir. Böylece marka görünürlüğü daha güçlü hale gelir.\n\nFuar organizasyonları, müşteri ziyaretleri, bayi toplantıları, kurumsal etkinlikler ve promosyon kampanyalarında sıkça tercih edilen bu model, şık görünümü sayesinde kullanıcılar tarafından uzun süre kullanılabilir.\n\nNEDEN PROMOSYON ANAHTARLIK AN-110 TERCİH EDİLMELİ?\n• Şık ve modern metal tasarım\n• Deri görünümlü premium detay\n• Lazer baskıya uygun yüzey\n• Çift yön baskı uygulanabilir yapı\n• Günlük kullanıma uygun dayanıklı tasarım\n• Uzun süreli marka görünürlüğü sağlar\n• Kurumsal promosyon çalışmaları için ideal\n• Hafif ve taşınabilir kullanım\n\nKULLANIM ALANLARI\n• Kurumsal promosyon dağıtımları\n• Fuar ve etkinlik organizasyonları\n• Bayi ve müşteri hediyeleri\n• Marka tanıtım kampanyaları\n• Kurumsal reklam çalışmaları\n• Otomotiv sektörü promosyonları\n• Teknoloji ve finans şirketleri promosyonları\n\nKİMLER İÇİN UYGUN?\n• Kurumsal firmalar\n• Otomotiv şirketleri\n• Reklam ajansları\n• Bankalar ve finans kuruluşları\n• Sigorta şirketleri\n• Teknoloji firmaları\n• Eğitim kurumları\n• Organizasyon şirketleri\n\nPROMOSYON ANAHTARLIK FİYATLARI\nPromosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, logo uygulaması, renk tercihi ve üretim planına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.\n\nRENK SEÇENEKLERİ\n\n• Kırmızı\n• Lacivert\n• Siyah\n• Taba\n• Turkuaz\n\nSİPARİŞ BİLGİSİ\n• Logo ve baskı detayları firmanıza özel hazırlanır\n• Kurumsal toplu siparişlere uygundur\n• Çift taraflı logo baskı uygulanabilir\n• Güncel stok ve termin bilgisi teklif aşamasında paylaşılır\n\nTEKNİK ÖZELLİKLER\n• Model: AN-110\n• Ürün Türü: Promosyon Anahtarlık\n• Ölçü: 13 x 2 cm\n• Malzeme: Metal Gövde + Deri Görünümlü Askı\n• Baskı Türü: Lazer Baskı\n• Baskı Özelliği: Çift Yön Baskı Uygulanabilir\n• Paketleme: Şeffaf Poşet\n• Kategori: Anahtarlık\n\nPromosyon anahtarlık AN-110, şık tasarımı, kaliteli malzeme yapısı ve lazer baskıya uygun yüzeyi ile markanızı günlük yaşamda sürekli görünür hale getiren etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel fiyat teklifleri için hemen bizimle iletişime geçebilir, WhatsApp üzerinden hızlı teklif alabilirsiniz.",
 
   category: "Anahtarlık",
 
@@ -552,7 +487,7 @@ Promosyon anahtarlık AN-110, şık tasarımı, kaliteli malzeme yapısı ve laz
     },
     {
       q: "Renk seçenekleri mevcut mu?",
-      a: "Evet. Mavi, kırmızı, siyah ve taba gibi farklı renk seçenekleri stok durumuna göre sunulmaktadır.",
+      a: "Renk seçenekleri: Kırmızı, Lacivert, Siyah, Taba, Turkuaz.",
     },
     {
       q: "Anahtarlığın malzeme yapısı nasıldır?",
@@ -1712,72 +1647,7 @@ Promosyon manyetolu turbo rüzgar çakmak CM-350, güçlü turbo alev sistemi, l
   shortDesc:
     "Promosyon anahtarlık AN-100, lazer baskıya uygun metal yüzeyi, deri görünümlü askı detayı ve modern tasarımı ile kurumsal promosyon çalışmalarında tercih edilen şık logo baskılı anahtarlık modelidir.",
 
-  longDesc: `
-Promosyon anahtarlık AN-100, modern çizgilere sahip tasarımı ve kaliteli malzeme yapısı ile markasını profesyonel şekilde tanıtmak isteyen firmalar için geliştirilmiş şık bir promosyon ürünüdür. Metal yüzeyi ve deri görünümlü askı detayı sayesinde premium bir görünüm sunarak kurumsal promosyon çalışmalarında dikkat çekici bir etki oluşturur.
-
-Promosyon anahtarlıklar, günlük yaşamda sürekli kullanılan ürünler arasında yer aldığı için markanızın kullanıcıların yanında uzun süre görünür kalmasını sağlar. Araç anahtarı, ofis anahtarı ve ev anahtarı kullanımında tercih edilen bu ürünler, markanızın günlük hayatta sürekli hatırlanmasına yardımcı olur.
-
-AN-100 modeli, lazer baskıya uygun metal yüzeyi sayesinde firmanızın logosunun net, estetik ve kalıcı şekilde uygulanmasına imkan tanır. Lazer baskı yöntemi, silinmeye karşı dayanıklı yapısı ile uzun ömürlü marka görünürlüğü sağlar.
-
-Metal gövde ile birleşen renkli deri görünümlü askı bölümü, ürüne hem modern hem de kurumsal bir görünüm kazandırır. Farklı renk alternatifleri sayesinde marka kimliğinize uygun seçimler yapılabilir.
-
-Çift yön baskıya uygun yapısı sayesinde firma logosu, slogan veya marka mesajı ürünün her iki tarafına uygulanabilir. Böylece promosyon çalışmaları daha etkili hale gelir ve marka görünürlüğü artırılır.
-
-Kurumsal etkinlikler, fuarlar, bayi toplantıları, müşteri ziyaretleri ve promosyon kampanyalarında sıkça tercih edilen bu model, şık görünümü sayesinde kullanıcılar tarafından uzun süre kullanılabilir.
-
-NEDEN PROMOSYON ANAHTARLIK AN-100 TERCİH EDİLMELİ?
-• Şık metal ve deri görünümlü tasarım
-• Lazer baskıya uygun dayanıklı yüzey
-• Çift taraflı baskı uygulanabilir yapı
-• Günlük kullanıma uygun hafif tasarım
-• Uzun süreli marka görünürlüğü sağlar
-• Premium kurumsal promosyon görünümü
-• Farklı renk seçenekleri
-• Fuar ve etkinlik dağıtımları için ideal
-
-KULLANIM ALANLARI
-• Kurumsal promosyon dağıtımları
-• Fuar ve organizasyon etkinlikleri
-• Bayi ve müşteri hediyeleri
-• Marka tanıtım kampanyaları
-• Otomotiv sektörü promosyonları
-• Teknoloji ve finans şirketleri promosyonları
-• Günlük kurumsal kullanım
-
-KİMLER İÇİN UYGUN?
-• Kurumsal şirketler
-• Otomotiv firmaları
-• Reklam ajansları
-• Bankalar ve finans kuruluşları
-• Sigorta şirketleri
-• Teknoloji firmaları
-• Eğitim kurumları
-• Organizasyon şirketleri
-
-PROMOSYON ANAHTARLIK FİYATLARI
-Promosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, logo uygulaması, renk tercihi ve üretim planına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.
-
-RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-Mavi, turkuaz, taba, kırmızı ve siyah başta olmak üzere farklı renk alternatifleri stok durumuna göre sunulabilir.
-
-SİPARİŞ BİLGİSİ
-• Logo ve baskı detayları firmanıza özel hazırlanır
-• Kurumsal toplu siparişlere uygundur
-• Çift taraflı logo baskı uygulanabilir
-• Güncel stok ve termin bilgisi teklif aşamasında paylaşılır
-
-TEKNİK ÖZELLİKLER
-• Model: AN-100
-• Ürün Türü: Promosyon Anahtarlık
-• Ölçü: 11.6 x 1.8 cm
-• Malzeme: Metal Gövde + Deri Görünümlü Askı
-• Baskı Türü: Lazer Baskı
-• Baskı Özelliği: Çift Yön Baskıya Uygun
-• Ambalaj: Şeffaf Poşet
-• Kategori: Anahtarlık
-
-Promosyon anahtarlık AN-100, modern tasarımı, kaliteli malzeme yapısı ve lazer baskıya uygun yüzeyi ile markanızı günlük yaşamda sürekli görünür hale getiren etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel fiyat teklifleri için hemen bizimle iletişime geçebilir, WhatsApp üzerinden hızlı teklif alabilirsiniz.
-`.trim(),
+  longDesc: "Promosyon anahtarlık AN-100, modern çizgilere sahip tasarımı ve kaliteli malzeme yapısı ile markasını profesyonel şekilde tanıtmak isteyen firmalar için geliştirilmiş şık bir promosyon ürünüdür. Metal yüzeyi ve deri görünümlü askı detayı sayesinde premium bir görünüm sunarak kurumsal promosyon çalışmalarında dikkat çekici bir etki oluşturur.\n\nPromosyon anahtarlıklar, günlük yaşamda sürekli kullanılan ürünler arasında yer aldığı için markanızın kullanıcıların yanında uzun süre görünür kalmasını sağlar. Araç anahtarı, ofis anahtarı ve ev anahtarı kullanımında tercih edilen bu ürünler, markanızın günlük hayatta sürekli hatırlanmasına yardımcı olur.\n\nAN-100 modeli, lazer baskıya uygun metal yüzeyi sayesinde firmanızın logosunun net, estetik ve kalıcı şekilde uygulanmasına imkan tanır. Lazer baskı yöntemi, silinmeye karşı dayanıklı yapısı ile uzun ömürlü marka görünürlüğü sağlar.\n\nMetal gövde ile birleşen renkli deri görünümlü askı bölümü, ürüne hem modern hem de kurumsal bir görünüm kazandırır. Farklı renk alternatifleri sayesinde marka kimliğinize uygun seçimler yapılabilir.\n\nÇift yön baskıya uygun yapısı sayesinde firma logosu, slogan veya marka mesajı ürünün her iki tarafına uygulanabilir. Böylece promosyon çalışmaları daha etkili hale gelir ve marka görünürlüğü artırılır.\n\nKurumsal etkinlikler, fuarlar, bayi toplantıları, müşteri ziyaretleri ve promosyon kampanyalarında sıkça tercih edilen bu model, şık görünümü sayesinde kullanıcılar tarafından uzun süre kullanılabilir.\n\nNEDEN PROMOSYON ANAHTARLIK AN-100 TERCİH EDİLMELİ?\n• Şık metal ve deri görünümlü tasarım\n• Lazer baskıya uygun dayanıklı yüzey\n• Çift taraflı baskı uygulanabilir yapı\n• Günlük kullanıma uygun hafif tasarım\n• Uzun süreli marka görünürlüğü sağlar\n• Premium kurumsal promosyon görünümü\n• Farklı renk seçenekleri\n• Fuar ve etkinlik dağıtımları için ideal\n\nKULLANIM ALANLARI\n• Kurumsal promosyon dağıtımları\n• Fuar ve organizasyon etkinlikleri\n• Bayi ve müşteri hediyeleri\n• Marka tanıtım kampanyaları\n• Otomotiv sektörü promosyonları\n• Teknoloji ve finans şirketleri promosyonları\n• Günlük kurumsal kullanım\n\nKİMLER İÇİN UYGUN?\n• Kurumsal şirketler\n• Otomotiv firmaları\n• Reklam ajansları\n• Bankalar ve finans kuruluşları\n• Sigorta şirketleri\n• Teknoloji firmaları\n• Eğitim kurumları\n• Organizasyon şirketleri\n\nPROMOSYON ANAHTARLIK FİYATLARI\nPromosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, logo uygulaması, renk tercihi ve üretim planına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.\n\nRENK SEÇENEKLERİ\n\n• Siyah\n• Lacivert\n• Turkuaz\n• Taba\n• Kırmızı\n\nSİPARİŞ BİLGİSİ\n• Logo ve baskı detayları firmanıza özel hazırlanır\n• Kurumsal toplu siparişlere uygundur\n• Çift taraflı logo baskı uygulanabilir\n• Güncel stok ve termin bilgisi teklif aşamasında paylaşılır\n\nTEKNİK ÖZELLİKLER\n• Model: AN-100\n• Ürün Türü: Promosyon Anahtarlık\n• Ölçü: 11.6 x 1.8 cm\n• Malzeme: Metal Gövde + Deri Görünümlü Askı\n• Baskı Türü: Lazer Baskı\n• Baskı Özelliği: Çift Yön Baskıya Uygun\n• Ambalaj: Şeffaf Poşet\n• Kategori: Anahtarlık\n\nPromosyon anahtarlık AN-100, modern tasarımı, kaliteli malzeme yapısı ve lazer baskıya uygun yüzeyi ile markanızı günlük yaşamda sürekli görünür hale getiren etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel fiyat teklifleri için hemen bizimle iletişime geçebilir, WhatsApp üzerinden hızlı teklif alabilirsiniz.",
 
   gallery: ["/products/promosyon-anahtarlik-an-100-v2.jpg"],
 
@@ -1796,7 +1666,7 @@ Promosyon anahtarlık AN-100, modern tasarımı, kaliteli malzeme yapısı ve la
     },
     {
       q: "Renk seçenekleri mevcut mu?",
-      a: "Evet. Mavi, turkuaz, taba, kırmızı ve siyah gibi farklı renk seçenekleri stok durumuna göre sunulmaktadır.",
+      a: "Renk seçenekleri: Siyah, Lacivert, Turkuaz, Taba, Kırmızı.",
     },
     {
       q: "Anahtarlığın malzeme yapısı nasıldır?",
@@ -2877,71 +2747,7 @@ Promosyon anahtarlık AN-114, modern metal tasarımı, kaliteli deri detayları 
   shortDesc:
     "Promosyon anahtarlık AN-115, metal gövdesi, deri detaylı tasarımı ve farklı renk seçenekleri ile kurumsal promosyon çalışmalarında tercih edilen şık logo baskılı premium anahtarlık modelidir.",
 
-  longDesc: `
-Promosyon anahtarlık AN-115, modern metal tasarımı ve deri detaylı yapısı ile markasını profesyonel şekilde temsil etmek isteyen firmalar için geliştirilmiş şık bir promosyon ürünüdür. Premium görünümü ve dayanıklı yapısı sayesinde hem günlük kullanım hem de kurumsal dağıtımlar için ideal bir çözüm sunar.
-
-Promosyon anahtarlıklar, kullanıcıların gün boyunca yanında taşıdığı ürünler arasında yer aldığı için marka görünürlüğü açısından oldukça güçlü reklam araçlarıdır. Araç, ofis ve ev anahtarlarında kullanılan anahtarlıklar sayesinde markanız sürekli olarak kullanıcı ile temas halinde kalır.
-
-AN-115 modeli, geniş metal yüzeyi sayesinde logo baskı uygulamaları için profesyonel bir alan sunar. Lazer baskı ve farklı kurumsal baskı teknikleri ile firmanızın logosu ürün üzerine net ve estetik şekilde uygulanabilir. Kalıcı baskı uygulamaları sayesinde marka görünürlüğü uzun süre korunur.
-
-Metal gövde ile birleşen deri detaylı alt bölüm, ürüne modern ve prestijli bir görünüm kazandırır. Yuvarlak bağlantı detayı ise anahtarlığa farklı ve dikkat çekici bir tasarım karakteri katmaktadır.
-
-Siyah, lacivert ve kırmızı gibi farklı renk alternatifleri sayesinde marka kimliğinize uygun seçimler yapılabilir. Kurumsal renklerle uyumlu promosyon çalışmaları için ideal bir modeldir.
-
-Şık kutulu sunumu sayesinde ürün, yalnızca promosyon dağıtımları için değil aynı zamanda yönetici hediyeleri ve VIP müşteri çalışmaları için de tercih edilmektedir. Günlük kullanımda sürekli elde bulunması, markanızın akılda kalıcılığını artırmaya yardımcı olur.
-
-NEDEN PROMOSYON ANAHTARLIK AN-115 TERCİH EDİLMELİ?
-• Metal ve deri detaylı premium tasarım
-• Logo baskıya uygun geniş metal yüzey
-• Modern ve dikkat çekici görünüm
-• Dayanıklı ve uzun ömürlü kullanım
-• Günlük kullanıma uygun ergonomik yapı
-• Farklı renk seçenekleri
-• Şık kutulu sunum avantajı
-• Kurumsal etkinlikler için ideal kullanım
-
-KULLANIM ALANLARI
-• Kurumsal promosyon dağıtımları
-• Fuar ve organizasyon etkinlikleri
-• Bayi toplantıları
-• Yönetici ve VIP müşteri hediyeleri
-• Lansman ve reklam kampanyaları
-• Otomotiv sektörü promosyonları
-• Teknoloji ve finans şirketleri promosyonları
-
-KİMLER İÇİN UYGUN?
-• Kurumsal şirketler
-• Otomotiv firmaları
-• Reklam ajansları
-• Bankalar ve finans kuruluşları
-• Sigorta şirketleri
-• Teknoloji firmaları
-• Organizasyon şirketleri
-• Eğitim kurumları
-
-PROMOSYON ANAHTARLIK FİYATLARI
-Promosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, logo uygulaması ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.
-
-RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-Siyah, lacivert ve kırmızı başta olmak üzere farklı renk alternatifleri stok durumuna göre sunulabilir.
-
-SİPARİŞ BİLGİSİ
-• Logo ve baskı detayları firmanıza özel hazırlanır
-• Kurumsal toplu siparişlere uygundur
-• Şık kutulu sunum seçeneği bulunmaktadır
-• Güncel stok ve termin bilgisi teklif aşamasında paylaşılır
-
-TEKNİK ÖZELLİKLER
-• Model: AN-115
-• Ürün Türü: Promosyon Anahtarlık
-• Malzeme: Metal Gövde + Deri Detay
-• Baskı Türü: Lazer Baskı
-• Kullanım Alanı: Günlük ve Kurumsal Kullanım
-• Ambalaj: Özel Kutulu Sunum
-• Kategori: Anahtarlık
-
-Promosyon anahtarlık AN-115, modern metal tasarımı, kaliteli deri detayları ve logo baskıya uygun yüzeyi ile markanızı profesyonel şekilde temsil eden etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel fiyat teklifleri için hemen bizimle iletişime geçebilir, WhatsApp üzerinden hızlı teklif alabilirsiniz.
-`.trim(),
+  longDesc: "Promosyon anahtarlık AN-115, modern metal tasarımı ve deri detaylı yapısı ile markasını profesyonel şekilde temsil etmek isteyen firmalar için geliştirilmiş şık bir promosyon ürünüdür. Premium görünümü ve dayanıklı yapısı sayesinde hem günlük kullanım hem de kurumsal dağıtımlar için ideal bir çözüm sunar.\n\nPromosyon anahtarlıklar, kullanıcıların gün boyunca yanında taşıdığı ürünler arasında yer aldığı için marka görünürlüğü açısından oldukça güçlü reklam araçlarıdır. Araç, ofis ve ev anahtarlarında kullanılan anahtarlıklar sayesinde markanız sürekli olarak kullanıcı ile temas halinde kalır.\n\nAN-115 modeli, geniş metal yüzeyi sayesinde logo baskı uygulamaları için profesyonel bir alan sunar. Lazer baskı ve farklı kurumsal baskı teknikleri ile firmanızın logosu ürün üzerine net ve estetik şekilde uygulanabilir. Kalıcı baskı uygulamaları sayesinde marka görünürlüğü uzun süre korunur.\n\nMetal gövde ile birleşen deri detaylı alt bölüm, ürüne modern ve prestijli bir görünüm kazandırır. Yuvarlak bağlantı detayı ise anahtarlığa farklı ve dikkat çekici bir tasarım karakteri katmaktadır.\n\nKırmızı ve lacivert gibi farklı renk alternatifleri sayesinde marka kimliğinize uygun seçimler yapılabilir. Kurumsal renklerle uyumlu promosyon çalışmaları için ideal bir modeldir.\n\nŞık kutulu sunumu sayesinde ürün, yalnızca promosyon dağıtımları için değil aynı zamanda yönetici hediyeleri ve VIP müşteri çalışmaları için de tercih edilmektedir. Günlük kullanımda sürekli elde bulunması, markanızın akılda kalıcılığını artırmaya yardımcı olur.\n\nNEDEN PROMOSYON ANAHTARLIK AN-115 TERCİH EDİLMELİ?\n• Metal ve deri detaylı premium tasarım\n• Logo baskıya uygun geniş metal yüzey\n• Modern ve dikkat çekici görünüm\n• Dayanıklı ve uzun ömürlü kullanım\n• Günlük kullanıma uygun ergonomik yapı\n• Farklı renk seçenekleri\n• Şık kutulu sunum avantajı\n• Kurumsal etkinlikler için ideal kullanım\n\nKULLANIM ALANLARI\n• Kurumsal promosyon dağıtımları\n• Fuar ve organizasyon etkinlikleri\n• Bayi toplantıları\n• Yönetici ve VIP müşteri hediyeleri\n• Lansman ve reklam kampanyaları\n• Otomotiv sektörü promosyonları\n• Teknoloji ve finans şirketleri promosyonları\n\nKİMLER İÇİN UYGUN?\n• Kurumsal şirketler\n• Otomotiv firmaları\n• Reklam ajansları\n• Bankalar ve finans kuruluşları\n• Sigorta şirketleri\n• Teknoloji firmaları\n• Organizasyon şirketleri\n• Eğitim kurumları\n\nPROMOSYON ANAHTARLIK FİYATLARI\nPromosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, logo uygulaması ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.\n\nRENK SEÇENEKLERİ\n\n• Kırmızı\n• Lacivert\n\nSİPARİŞ BİLGİSİ\n• Logo ve baskı detayları firmanıza özel hazırlanır\n• Kurumsal toplu siparişlere uygundur\n• Şık kutulu sunum seçeneği bulunmaktadır\n• Güncel stok ve termin bilgisi teklif aşamasında paylaşılır\n\nTEKNİK ÖZELLİKLER\n• Model: AN-115\n• Ürün Türü: Promosyon Anahtarlık\n• Malzeme: Metal Gövde + Deri Detay\n• Baskı Türü: Lazer Baskı\n• Kullanım Alanı: Günlük ve Kurumsal Kullanım\n• Ambalaj: Özel Kutulu Sunum\n• Kategori: Anahtarlık\n\nPromosyon anahtarlık AN-115, modern metal tasarımı, kaliteli deri detayları ve logo baskıya uygun yüzeyi ile markanızı profesyonel şekilde temsil eden etkili bir kurumsal promosyon ürünüdür. Toplu sipariş ve özel fiyat teklifleri için hemen bizimle iletişime geçebilir, WhatsApp üzerinden hızlı teklif alabilirsiniz.",
 
   faq: [
     {
@@ -2954,7 +2760,7 @@ Promosyon anahtarlık AN-115, modern metal tasarımı, kaliteli deri detayları 
     },
     {
       q: "Ürün hangi renk seçenekleriyle sunuluyor?",
-      a: "Siyah, lacivert ve kırmızı başta olmak üzere farklı renk seçenekleri stok durumuna göre sunulabilmektedir.",
+      a: "Renk seçenekleri: Kırmızı, Lacivert.",
     },
     {
       q: "Kurumsal logo uygulaması yapılabiliyor mu?",
@@ -16883,88 +16689,7 @@ Promosyon anahtarlık AN-130, modern metal yüzeyi, lazer baskıya uygun yapıs�
   shortDesc:
     "Promosyon anahtarlık AN-140, deri görünümlü modern tasarımı, çift yön baskı imkanı ve lazer ile gofre baskıya uygun yapısı sayesinde kurumsal promosyon çalışmalarında tercih edilen şık logo baskılı anahtarlık modelidir.",
 
-  longDesc: `
-Promosyon anahtarlık AN-140, modern tasarımı, dayanıklı yapısı ve çift yön baskı uygulanabilen özel yüzeyi ile kurumsal promosyon ürünleri arasında öne çıkan şık anahtarlık modellerinden biridir. Günlük kullanımda sürekli taşınan ürünler arasında yer aldığı için marka bilinirliğini artıran etkili promosyon ürünlerinden biri olarak tercih edilmektedir.
-
-Deri görünümlü esnek askı bölümü ve metal bağlantı detayı sayesinde estetik bir görünüm sunan AN-140 modeli, hem kurumsal dağıtımlarda hem de müşteri hediyesi olarak kullanılabilecek profesyonel bir promosyon ürünüdür. Şık tasarımı sayesinde kullanıcıların günlük hayatında uzun süre yer alarak markanızın görünürlüğünü artırır.
-
-Promosyon anahtarlık AN-140 modeli lazer baskı ve gofre baskı uygulamalarına uygundur. Firma logosu, marka adı, slogan veya kurumsal tasarımlar ürün üzerine yüksek kaliteli şekilde uygulanabilir. Çift yön baskı özelliği sayesinde markanızın görünürlüğü artırılabilir ve promosyon çalışmaları daha etkili hale getirilebilir.
-
-Anahtarlıklar reklam maliyeti düşük ancak kullanım süresi oldukça uzun olan promosyon ürünleri arasında yer almaktadır. Bu nedenle fuarlar, bayi toplantıları, lansman organizasyonları, seminerler, kurumsal etkinlikler ve reklam kampanyalarında sıklıkla tercih edilmektedir.
-
-AN-140 modeli özellikle otomotiv firmaları, teknoloji şirketleri, finans kuruluşları, emlak ofisleri, sağlık kuruluşları, eğitim kurumları ve kurumsal markalar tarafından tercih edilen promosyon ürünleri arasında bulunmaktadır.
-
-NEDEN PROMOSYON ANAHTARLIK AN-140 TERCİH EDİLMELİ?
-
-• Çift yön baskı uygulanabilir
-• Lazer baskıya uygun yüzey
-• Gofre baskı uygulanabilir
-• Şık deri görünümlü tasarım
-• Dayanıklı metal bağlantı bölümü
-• Hafif ve taşınabilir kullanım
-• Marka görünürlüğünü artıran promosyon ürünü
-• Kurumsal etkinlikler için ideal
-• Uzun ömürlü kullanım sağlar
-• Farklı sektörlerde kullanılabilir
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Fuar ve etkinlik dağıtımları
-• Marka tanıtım kampanyaları
-• Bayi toplantıları
-• Lansman organizasyonları
-• Ofis ve çalışan hediyeleri
-• Reklam ve pazarlama faaliyetleri
-• Müşteri sadakat kampanyaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Otomotiv şirketleri
-• Emlak danışmanlık ofisleri
-• Finans kuruluşları
-• Teknoloji markaları
-• Eğitim kurumları
-• Organizasyon şirketleri
-
-PROMOSYON ANAHTARLIK FİYATLARI
-
-Promosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, üretim detayları ve tercih edilen uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.
-
-RENK SEÇENEKLERİ
-
-• Kırmızı
-• Mavi
-• Siyah
-• Turuncu
-• Turkuaz
-• Kahverengi
-
-Renk seçenekleri stok durumuna göre dönemsel olarak değişiklik gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskı çalışmaları firmaya özel hazırlanır
-• Toplu sipariş üretimine uygundur
-• Kurumsal promosyon dağıtımları için idealdir
-• Baskı onayı sonrası üretim başlatılır
-• Güncel stok bilgisi teklif aşamasında paylaşılır
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Anahtarlık
-Model: AN-140
-Malzeme: Metal Gövde + Deri Görünümlü Esnek Askı
-Baskı Türü: Lazer Baskı / Gofre Baskı
-Baskı Yönü: Çift Yön
-Ambalaj: Şeffaf Poşet
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-Kategori: Anahtarlık
-
-Promosyon anahtarlık AN-140, modern tasarımı, çift yön baskı avantajı ve lazer ile gofre baskıya uygun yapısı sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon anahtarlık AN-140, modern tasarımı, dayanıklı yapısı ve çift yön baskı uygulanabilen özel yüzeyi ile kurumsal promosyon ürünleri arasında öne çıkan şık anahtarlık modellerinden biridir. Günlük kullanımda sürekli taşınan ürünler arasında yer aldığı için marka bilinirliğini artıran etkili promosyon ürünlerinden biri olarak tercih edilmektedir.\n\nDeri görünümlü esnek askı bölümü ve metal bağlantı detayı sayesinde estetik bir görünüm sunan AN-140 modeli, hem kurumsal dağıtımlarda hem de müşteri hediyesi olarak kullanılabilecek profesyonel bir promosyon ürünüdür. Şık tasarımı sayesinde kullanıcıların günlük hayatında uzun süre yer alarak markanızın görünürlüğünü artırır.\n\nPromosyon anahtarlık AN-140 modeli lazer baskı ve gofre baskı uygulamalarına uygundur. Firma logosu, marka adı, slogan veya kurumsal tasarımlar ürün üzerine yüksek kaliteli şekilde uygulanabilir. Çift yön baskı özelliği sayesinde markanızın görünürlüğü artırılabilir ve promosyon çalışmaları daha etkili hale getirilebilir.\n\nAnahtarlıklar reklam maliyeti düşük ancak kullanım süresi oldukça uzun olan promosyon ürünleri arasında yer almaktadır. Bu nedenle fuarlar, bayi toplantıları, lansman organizasyonları, seminerler, kurumsal etkinlikler ve reklam kampanyalarında sıklıkla tercih edilmektedir.\n\nAN-140 modeli özellikle otomotiv firmaları, teknoloji şirketleri, finans kuruluşları, emlak ofisleri, sağlık kuruluşları, eğitim kurumları ve kurumsal markalar tarafından tercih edilen promosyon ürünleri arasında bulunmaktadır.\n\nNEDEN PROMOSYON ANAHTARLIK AN-140 TERCİH EDİLMELİ?\n\n• Çift yön baskı uygulanabilir\n• Lazer baskıya uygun yüzey\n• Gofre baskı uygulanabilir\n• Şık deri görünümlü tasarım\n• Dayanıklı metal bağlantı bölümü\n• Hafif ve taşınabilir kullanım\n• Marka görünürlüğünü artıran promosyon ürünü\n• Kurumsal etkinlikler için ideal\n• Uzun ömürlü kullanım sağlar\n• Farklı sektörlerde kullanılabilir\n\nKULLANIM ALANLARI\n\n• Kurumsal promosyon çalışmaları\n• Fuar ve etkinlik dağıtımları\n• Marka tanıtım kampanyaları\n• Bayi toplantıları\n• Lansman organizasyonları\n• Ofis ve çalışan hediyeleri\n• Reklam ve pazarlama faaliyetleri\n• Müşteri sadakat kampanyaları\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Reklam ajansları\n• Otomotiv şirketleri\n• Emlak danışmanlık ofisleri\n• Finans kuruluşları\n• Teknoloji markaları\n• Eğitim kurumları\n• Organizasyon şirketleri\n\nPROMOSYON ANAHTARLIK FİYATLARI\n\nPromosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, üretim detayları ve tercih edilen uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.\n\nRENK SEÇENEKLERİ\n\n• Turuncu\n• Kırmızı\n• Lacivert\n• Siyah\n• Taba\n• Turkuaz\n\nRenk seçenekleri stok durumuna göre dönemsel olarak değişiklik gösterebilir.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı çalışmaları firmaya özel hazırlanır\n• Toplu sipariş üretimine uygundur\n• Kurumsal promosyon dağıtımları için idealdir\n• Baskı onayı sonrası üretim başlatılır\n• Güncel stok bilgisi teklif aşamasında paylaşılır\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Anahtarlık\nModel: AN-140\nMalzeme: Metal Gövde + Deri Görünümlü Esnek Askı\nBaskı Türü: Lazer Baskı / Gofre Baskı\nBaskı Yönü: Çift Yön\nAmbalaj: Şeffaf Poşet\nKullanım Alanı: Günlük ve Kurumsal Kullanım\nKategori: Anahtarlık\n\nPromosyon anahtarlık AN-140, modern tasarımı, çift yön baskı avantajı ve lazer ile gofre baskıya uygun yapısı sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
@@ -16985,7 +16710,7 @@ Promosyon anahtarlık AN-140, modern tasarımı, çift yön baskı avantajı ve 
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Kırmızı, mavi, siyah, turuncu, turkuaz ve kahverengi renk seçenekleri bulunmaktadır. Stok durumuna göre değişiklik gösterebilir.",
+      a: "Renk seçenekleri: Turuncu, Kırmızı, Lacivert, Siyah, Taba, Turkuaz.",
     },
     {
       q: "Promosyon anahtarlık fiyatları neye göre değişmektedir?",
@@ -17010,88 +16735,7 @@ Promosyon anahtarlık AN-140, modern tasarımı, çift yön baskı avantajı ve 
   shortDesc:
     "Promosyon anahtarlık AN-150, esnek kayış tasarımı, çift yön baskı özelliği ve lazer ile gofre baskıya uygun yüzeyi sayesinde kurumsal promosyon çalışmalarında tercih edilen şık ve kullanışlı logo baskılı anahtarlık modelidir.",
 
-  longDesc: `
-Promosyon anahtarlık AN-150, modern görünümü, esnek kayış yapısı ve dayanıklı metal bağlantı bölümü ile kurumsal promosyon ürünleri arasında öne çıkan şık anahtarlık modellerinden biridir. Günlük yaşamda sürekli kullanılan ürünler arasında yer aldığı için marka bilinirliğini artıran ve uzun süre görünürlük sağlayan etkili promosyon ürünleri arasında bulunmaktadır.
-
-Kurumsal tanıtım faaliyetlerinde kullanılan promosyon anahtarlıklar, kullanıcıların her gün yanında taşıdığı ürünler olması nedeniyle reklam etkisini uzun süre devam ettirmektedir. Bu nedenle fuarlar, organizasyonlar, bayi toplantıları, müşteri ziyaretleri ve reklam kampanyalarında sıklıkla tercih edilmektedir.
-
-Promosyon anahtarlık AN-150 modeli lazer baskı ve gofre baskı uygulamalarına uygundur. Firma logosu, marka adı, internet sitesi veya kurumsal slogan ürün üzerine kaliteli ve kalıcı şekilde uygulanabilmektedir. Çift yön baskı özelliği sayesinde markanızın görünürlüğü artırılarak daha etkili bir tanıtım çalışması gerçekleştirilebilir.
-
-Esnek kayış tasarımı ürüne modern bir görünüm kazandırırken aynı zamanda rahat kullanım sunmaktadır. Dayanıklı halka yapısı ise anahtarların güvenli şekilde taşınmasına yardımcı olur. Şık ve sade tasarımı sayesinde farklı sektörlerde faaliyet gösteren firmalar tarafından rahatlıkla tercih edilebilmektedir.
-
-AN-150 modeli özellikle otomotiv firmaları, emlak danışmanlık ofisleri, teknoloji şirketleri, finans kuruluşları, eğitim kurumları, sağlık sektörü firmaları ve reklam ajansları tarafından tercih edilen promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON ANAHTARLIK AN-150 TERCİH EDİLMELİ?
-
-• Çift yön baskı uygulanabilir
-• Lazer baskıya uygun yüzey
-• Gofre baskı uygulanabilir
-• Modern ve şık tasarım
-• Esnek kayış yapısı
-• Dayanıklı metal bağlantı bölümü
-• Günlük kullanıma uygun yapı
-• Marka görünürlüğünü artırır
-• Kurumsal dağıtımlar için uygundur
-• Uzun ömürlü kullanım sağlar
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Fuar ve etkinlik dağıtımları
-• Marka tanıtım kampanyaları
-• Bayi toplantıları
-• Lansman organizasyonları
-• Müşteri hediyeleri
-• Ofis ve çalışan hediyeleri
-• Reklam ve pazarlama faaliyetleri
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Otomotiv şirketleri
-• Emlak danışmanları
-• Finans kuruluşları
-• Teknoloji markaları
-• Eğitim kurumları
-• Organizasyon firmaları
-
-PROMOSYON ANAHTARLIK FİYATLARI
-
-Promosyon anahtarlık fiyatları; sipariş adedi, baskı yöntemi, üretim detayları ve tercih edilen uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.
-
-RENK SEÇENEKLERİ
-
-• Siyah
-• Bej
-• Mavi
-• Kırmızı
-• Kahverengi
-• Turkuaz
-
-Renk seçenekleri stok durumuna göre dönemsel olarak değişiklik gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskı çalışmaları firmaya özel hazırlanır
-• Toplu sipariş üretimine uygundur
-• Kurumsal promosyon dağıtımları için idealdir
-• Baskı onayı sonrası üretim başlatılır
-• Güncel stok bilgisi teklif aşamasında paylaşılır
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Anahtarlık
-Model: AN-150
-Malzeme: Metal Gövde + Esnek Kayış
-Baskı Türü: Lazer Baskı / Gofre Baskı
-Baskı Yönü: Çift Yön
-Ambalaj: Şeffaf Poşet
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-Kategori: Anahtarlık
-
-Promosyon anahtarlık AN-150, lazer ve gofre baskıya uygun yüzeyi, çift yön baskı avantajı ve modern tasarımı sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon anahtarlık AN-150, modern görünümü, esnek kayış yapısı ve dayanıklı metal bağlantı bölümü ile kurumsal promosyon ürünleri arasında öne çıkan şık anahtarlık modellerinden biridir. Günlük yaşamda sürekli kullanılan ürünler arasında yer aldığı için marka bilinirliğini artıran ve uzun süre görünürlük sağlayan etkili promosyon ürünleri arasında bulunmaktadır.\n\nKurumsal tanıtım faaliyetlerinde kullanılan promosyon anahtarlıklar, kullanıcıların her gün yanında taşıdığı ürünler olması nedeniyle reklam etkisini uzun süre devam ettirmektedir. Bu nedenle fuarlar, organizasyonlar, bayi toplantıları, müşteri ziyaretleri ve reklam kampanyalarında sıklıkla tercih edilmektedir.\n\nPromosyon anahtarlık AN-150 modeli lazer baskı ve gofre baskı uygulamalarına uygundur. Firma logosu, marka adı, internet sitesi veya kurumsal slogan ürün üzerine kaliteli ve kalıcı şekilde uygulanabilmektedir. Çift yön baskı özelliği sayesinde markanızın görünürlüğü artırılarak daha etkili bir tanıtım çalışması gerçekleştirilebilir.\n\nEsnek kayış tasarımı ürüne modern bir görünüm kazandırırken aynı zamanda rahat kullanım sunmaktadır. Dayanıklı halka yapısı ise anahtarların güvenli şekilde taşınmasına yardımcı olur. Şık ve sade tasarımı sayesinde farklı sektörlerde faaliyet gösteren firmalar tarafından rahatlıkla tercih edilebilmektedir.\n\nAN-150 modeli özellikle otomotiv firmaları, emlak danışmanlık ofisleri, teknoloji şirketleri, finans kuruluşları, eğitim kurumları, sağlık sektörü firmaları ve reklam ajansları tarafından tercih edilen promosyon ürünleri arasında yer almaktadır.\n\nNEDEN PROMOSYON ANAHTARLIK AN-150 TERCİH EDİLMELİ?\n\n• Çift yön baskı uygulanabilir\n• Lazer baskıya uygun yüzey\n• Gofre baskı uygulanabilir\n• Modern ve şık tasarım\n• Esnek kayış yapısı\n• Dayanıklı metal bağlantı bölümü\n• Günlük kullanıma uygun yapı\n• Marka görünürlüğünü artırır\n• Kurumsal dağıtımlar için uygundur\n• Uzun ömürlü kullanım sağlar\n\nKULLANIM ALANLARI\n\n• Kurumsal promosyon çalışmaları\n• Fuar ve etkinlik dağıtımları\n• Marka tanıtım kampanyaları\n• Bayi toplantıları\n• Lansman organizasyonları\n• Müşteri hediyeleri\n• Ofis ve çalışan hediyeleri\n• Reklam ve pazarlama faaliyetleri\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Reklam ajansları\n• Otomotiv şirketleri\n• Emlak danışmanları\n• Finans kuruluşları\n• Teknoloji markaları\n• Eğitim kurumları\n• Organizasyon firmaları\n\nPROMOSYON ANAHTARLIK FİYATLARI\n\nPromosyon anahtarlık fiyatları; sipariş adedi, baskı yöntemi, üretim detayları ve tercih edilen uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.\n\nRENK SEÇENEKLERİ\n\n• Lacivert\n• Siyah\n• Taba\n• Turkuaz\n• Turuncu\n• Kırmızı\n\nRenk seçenekleri stok durumuna göre dönemsel olarak değişiklik gösterebilir.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı çalışmaları firmaya özel hazırlanır\n• Toplu sipariş üretimine uygundur\n• Kurumsal promosyon dağıtımları için idealdir\n• Baskı onayı sonrası üretim başlatılır\n• Güncel stok bilgisi teklif aşamasında paylaşılır\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Anahtarlık\nModel: AN-150\nMalzeme: Metal Gövde + Esnek Kayış\nBaskı Türü: Lazer Baskı / Gofre Baskı\nBaskı Yönü: Çift Yön\nAmbalaj: Şeffaf Poşet\nKullanım Alanı: Günlük ve Kurumsal Kullanım\nKategori: Anahtarlık\n\nPromosyon anahtarlık AN-150, lazer ve gofre baskıya uygun yüzeyi, çift yön baskı avantajı ve modern tasarımı sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
@@ -17108,7 +16752,7 @@ Promosyon anahtarlık AN-150, lazer ve gofre baskıya uygun yüzeyi, çift yön 
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Siyah, bej, mavi, kırmızı, kahverengi ve turkuaz renk seçenekleri bulunmaktadır. Stok durumuna göre değişiklik gösterebilir.",
+      a: "Renk seçenekleri: Lacivert, Siyah, Taba, Turkuaz, Turuncu, Kırmızı.",
     },
     {
       q: "Kurumsal promosyon dağıtımları için uygun mudur?",
@@ -28579,90 +28223,7 @@ category: "Anahtarlık",
   shortDesc:
     "Promosyon anahtarlık AN-300, ince uzun tasarımı, deri görünümlü kayış yapısı ve çift yön lazer baskı özelliği sayesinde kurumsal promosyon çalışmalarında tercih edilen şık logo baskılı anahtarlık modelidir.",
 
-  longDesc: `
-Promosyon anahtarlık AN-300, ince ve uzun tasarımı ile kurumsal promosyon ürünleri arasında dikkat çeken modern anahtarlık modellerinden biridir. Günlük yaşamda sürekli kullanılan ürünlerden biri olması sayesinde markaların görünürlüğünü artıran ve uzun süre reklam etkisi sağlayan etkili promosyon ürünleri arasında yer almaktadır.
-
-Kurumsal promosyon çalışmalarında kullanılan anahtarlıklar, kullanıcıların her gün yanında taşıdığı ürünlerden biri olduğu için marka bilinirliğini artıran etkili reklam araçları arasında bulunmaktadır. Bu nedenle fuarlar, bayi toplantıları, lansman organizasyonları, müşteri etkinlikleri ve reklam kampanyalarında sıklıkla tercih edilmektedir.
-
-Promosyon anahtarlık AN-300 modeli lazer baskıya uygundur. Firma logosu, marka adı, internet sitesi veya kurumsal slogan ürün üzerine yüksek kaliteli ve kalıcı şekilde uygulanabilmektedir. Lazer baskı teknolojisi sayesinde baskılar uzun süre netliğini koruyarak markanızın görünürlüğünü desteklemektedir.
-
-Çift yön baskı uygulanabilen yapısı sayesinde ürünün her iki yüzeyinde de marka uygulamaları yapılabilmektedir. Bu özellik özellikle kurumsal promosyon dağıtımlarında daha yüksek reklam etkisi elde edilmesine yardımcı olmaktadır.
-
-Üst bölümde bulunan metal detay ve deri görünümlü kayış yapısı ürüne modern ve profesyonel bir görünüm kazandırmaktadır. Dekoratif dikiş detayları ise tasarımı tamamlayarak daha prestijli bir görünüm sunmaktadır.
-
-İnce ve uzun formu sayesinde cepte, çantada ve anahtarlıkta rahatlıkla taşınabilir. Hafif yapısı sayesinde günlük kullanım için uygundur ve kullanıcıların yanında sürekli bulunarak markanızın görünürlüğünü artırır.
-
-AN-300 modeli; otomotiv firmaları, teknoloji şirketleri, finans kuruluşları, eğitim kurumları, sağlık sektörü firmaları, reklam ajansları ve perakende markaları tarafından tercih edilen promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON ANAHTARLIK AN-300 TERCİH EDİLMELİ?
-
-• İnce ve uzun tasarım
-• Çift yön lazer baskı uygulanabilir
-• Deri görünümlü şık kayış
-• Dekoratif dikiş detayları
-• Modern metal üst parça
-• Hafif ve kullanışlı yapı
-• Günlük kullanıma uygundur
-• Marka görünürlüğünü artırır
-• Kurumsal promosyonlar için idealdir
-• Uzun ömürlü kullanım sağlar
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Fuar ve etkinlik dağıtımları
-• Marka tanıtım kampanyaları
-• Bayi toplantıları
-• Lansman organizasyonları
-• Müşteri hediyeleri
-• Çalışan motivasyon hediyeleri
-• Reklam ve pazarlama faaliyetleri
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Otomotiv şirketleri
-• Teknoloji markaları
-• Finans kuruluşları
-• Eğitim kurumları
-• Organizasyon firmaları
-• Perakende markaları
-
-PROMOSYON ANAHTARLIK FİYATLARI
-
-Promosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, üretim detayları ve tercih edilen uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.
-
-RENK SEÇENEKLERİ
-
-• Lacivert
-• Siyah
-• Taba
-• Kırmızı
-
-Renk seçenekleri stok durumuna göre dönemsel olarak değişiklik gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskı çalışmaları firmaya özel hazırlanır
-• Toplu sipariş üretimine uygundur
-• Kurumsal promosyon dağıtımları için idealdir
-• Baskı onayı sonrası üretim başlatılır
-• Güncel stok bilgisi teklif aşamasında paylaşılır
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Anahtarlık
-Model: AN-300
-Ürün Ölçüsü: 10 x 1.2 cm
-Özellik: Çift Yön Kullanım
-Tasarım: İnce ve Uzun Gövde
-Baskı Türü: Lazer Baskı
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-Kategori: Anahtarlık
-
-Promosyon anahtarlık AN-300, ince uzun tasarımı, çift yön baskı avantajı ve lazer baskıya uygun yapısı sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon anahtarlık AN-300, ince ve uzun tasarımı ile kurumsal promosyon ürünleri arasında dikkat çeken modern anahtarlık modellerinden biridir. Günlük yaşamda sürekli kullanılan ürünlerden biri olması sayesinde markaların görünürlüğünü artıran ve uzun süre reklam etkisi sağlayan etkili promosyon ürünleri arasında yer almaktadır.\n\nKurumsal promosyon çalışmalarında kullanılan anahtarlıklar, kullanıcıların her gün yanında taşıdığı ürünlerden biri olduğu için marka bilinirliğini artıran etkili reklam araçları arasında bulunmaktadır. Bu nedenle fuarlar, bayi toplantıları, lansman organizasyonları, müşteri etkinlikleri ve reklam kampanyalarında sıklıkla tercih edilmektedir.\n\nPromosyon anahtarlık AN-300 modeli lazer baskıya uygundur. Firma logosu, marka adı, internet sitesi veya kurumsal slogan ürün üzerine yüksek kaliteli ve kalıcı şekilde uygulanabilmektedir. Lazer baskı teknolojisi sayesinde baskılar uzun süre netliğini koruyarak markanızın görünürlüğünü desteklemektedir.\n\nÇift yön baskı uygulanabilen yapısı sayesinde ürünün her iki yüzeyinde de marka uygulamaları yapılabilmektedir. Bu özellik özellikle kurumsal promosyon dağıtımlarında daha yüksek reklam etkisi elde edilmesine yardımcı olmaktadır.\n\nÜst bölümde bulunan metal detay ve deri görünümlü kayış yapısı ürüne modern ve profesyonel bir görünüm kazandırmaktadır. Dekoratif dikiş detayları ise tasarımı tamamlayarak daha prestijli bir görünüm sunmaktadır.\n\nİnce ve uzun formu sayesinde cepte, çantada ve anahtarlıkta rahatlıkla taşınabilir. Hafif yapısı sayesinde günlük kullanım için uygundur ve kullanıcıların yanında sürekli bulunarak markanızın görünürlüğünü artırır.\n\nAN-300 modeli; otomotiv firmaları, teknoloji şirketleri, finans kuruluşları, eğitim kurumları, sağlık sektörü firmaları, reklam ajansları ve perakende markaları tarafından tercih edilen promosyon ürünleri arasında yer almaktadır.\n\nNEDEN PROMOSYON ANAHTARLIK AN-300 TERCİH EDİLMELİ?\n\n• İnce ve uzun tasarım\n• Çift yön lazer baskı uygulanabilir\n• Deri görünümlü şık kayış\n• Dekoratif dikiş detayları\n• Modern metal üst parça\n• Hafif ve kullanışlı yapı\n• Günlük kullanıma uygundur\n• Marka görünürlüğünü artırır\n• Kurumsal promosyonlar için idealdir\n• Uzun ömürlü kullanım sağlar\n\nKULLANIM ALANLARI\n\n• Kurumsal promosyon çalışmaları\n• Fuar ve etkinlik dağıtımları\n• Marka tanıtım kampanyaları\n• Bayi toplantıları\n• Lansman organizasyonları\n• Müşteri hediyeleri\n• Çalışan motivasyon hediyeleri\n• Reklam ve pazarlama faaliyetleri\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Reklam ajansları\n• Otomotiv şirketleri\n• Teknoloji markaları\n• Finans kuruluşları\n• Eğitim kurumları\n• Organizasyon firmaları\n• Perakende markaları\n\nPROMOSYON ANAHTARLIK FİYATLARI\n\nPromosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, üretim detayları ve tercih edilen uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.\n\nRENK SEÇENEKLERİ\n\n• Taba\n• Lacivert\n• Bordo\n• Siyah\n\nRenk seçenekleri stok durumuna göre dönemsel olarak değişiklik gösterebilir.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı çalışmaları firmaya özel hazırlanır\n• Toplu sipariş üretimine uygundur\n• Kurumsal promosyon dağıtımları için idealdir\n• Baskı onayı sonrası üretim başlatılır\n• Güncel stok bilgisi teklif aşamasında paylaşılır\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Anahtarlık\nModel: AN-300\nÜrün Ölçüsü: 10 x 1.2 cm\nÖzellik: Çift Yön Kullanım\nTasarım: İnce ve Uzun Gövde\nBaskı Türü: Lazer Baskı\nKullanım Alanı: Günlük ve Kurumsal Kullanım\nKategori: Anahtarlık\n\nPromosyon anahtarlık AN-300, ince uzun tasarımı, çift yön baskı avantajı ve lazer baskıya uygun yapısı sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
@@ -28744,85 +28305,7 @@ image: "/products/promosyon-anahtarlik-an-310-v2.jpg",
   shortDesc:
     "Promosyon anahtarlık AN-320, ev şeklindeki modern tasarımı, renkli çerçeve detayları ve lazer baskıya uygun yapısı sayesinde kurumsal tanıtımlarda tercih edilen dikkat çekici logo baskılı anahtarlık modelidir.",
 
-  longDesc: `
-Promosyon anahtarlık AN-320, ev formundaki özgün tasarımı ve renkli çerçeve detayları ile kurumsal promosyon ürünleri arasında dikkat çeken özel anahtarlık modellerinden biridir. Günlük yaşamda sürekli kullanılan ürünlerden biri olması sayesinde markaların görünürlüğünü artıran ve uzun süre reklam etkisi sağlayan etkili promosyon ürünleri arasında yer almaktadır.
-
-Kurumsal promosyon çalışmalarında kullanılan anahtarlıklar, kullanıcıların her gün yanında taşıdığı ürünlerden biri olduğu için marka bilinirliğini artıran etkili reklam araçları arasında bulunmaktadır. Bu nedenle fuarlar, müşteri etkinlikleri, bayi toplantıları, reklam kampanyaları ve kurumsal organizasyonlarda sıklıkla tercih edilmektedir.
-
-Promosyon anahtarlık AN-320 modeli lazer baskıya uygundur. Firma logosu, marka adı, internet sitesi veya kurumsal slogan ürün üzerine yüksek kaliteli ve kalıcı şekilde uygulanabilmektedir. Lazer baskı teknolojisi sayesinde baskılar uzun süre silinmeden kullanılabilmekte ve markanızın görünürlüğünü desteklemektedir.
-
-Ev şeklindeki tasarımı sayesinde özellikle emlak ofisleri, gayrimenkul danışmanları, inşaat firmaları, yapı şirketleri ve konut projeleri için dikkat çekici bir promosyon ürünü olarak öne çıkmaktadır. Bununla birlikte farklı sektörlerde faaliyet gösteren kurumsal firmalar tarafından da tercih edilmektedir.
-
-Siyah gövde üzerine uygulanan renkli çerçeve detayları ürüne modern ve premium bir görünüm kazandırmaktadır. Hafif ve kullanışlı yapısı sayesinde günlük kullanım için uygundur.
-
-NEDEN PROMOSYON ANAHTARLIK AN-320 TERCİH EDİLMELİ?
-
-• Ev şeklinde özgün tasarım
-• Lazer baskıya uygun yüzey
-• Renkli çerçeve detayları
-• Modern ve dikkat çekici görünüm
-• Hafif ve kullanışlı yapı
-• Günlük kullanıma uygundur
-• Marka görünürlüğünü artırır
-• Kurumsal promosyonlar için idealdir
-• Şık ve profesyonel tasarım
-• Uzun ömürlü kullanım sağlar
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Emlak ve gayrimenkul sektörü
-• İnşaat firmaları
-• Konut projeleri tanıtımları
-• Fuar ve etkinlik dağıtımları
-• Marka tanıtım kampanyaları
-• Müşteri hediyeleri
-• Reklam ve pazarlama faaliyetleri
-
-KİMLER İÇİN UYGUN?
-
-• Emlak danışmanları
-• Gayrimenkul şirketleri
-• İnşaat firmaları
-• Yapı şirketleri
-• Kurumsal markalar
-• Reklam ajansları
-• Organizasyon firmaları
-• Perakende işletmeler
-
-PROMOSYON ANAHTARLIK FİYATLARI
-
-Promosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, üretim detayları ve tercih edilen uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.
-
-RENK SEÇENEKLERİ
-
-• Sarı
-• Kırmızı
-• Lacivert
-• Turkuaz
-
-Renk seçenekleri stok durumuna göre dönemsel olarak değişiklik gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskı çalışmaları firmaya özel hazırlanır
-• Toplu sipariş üretimine uygundur
-• Kurumsal promosyon dağıtımları için idealdir
-• Baskı onayı sonrası üretim başlatılır
-• Güncel stok bilgisi teklif aşamasında paylaşılır
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Anahtarlık
-Model: AN-320
-Tasarım: Ev Şeklinde
-Özellik: Renkli Çerçeve Tasarımı
-Baskı Türü: Lazer Baskı
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-Kategori: Anahtarlık
-
-Promosyon anahtarlık AN-320, ev şeklindeki özgün tasarımı, renkli detayları ve lazer baskıya uygun yapısı sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon anahtarlık AN-320, ev formundaki özgün tasarımı ve renkli çerçeve detayları ile kurumsal promosyon ürünleri arasında dikkat çeken özel anahtarlık modellerinden biridir. Günlük yaşamda sürekli kullanılan ürünlerden biri olması sayesinde markaların görünürlüğünü artıran ve uzun süre reklam etkisi sağlayan etkili promosyon ürünleri arasında yer almaktadır.\n\nKurumsal promosyon çalışmalarında kullanılan anahtarlıklar, kullanıcıların her gün yanında taşıdığı ürünlerden biri olduğu için marka bilinirliğini artıran etkili reklam araçları arasında bulunmaktadır. Bu nedenle fuarlar, müşteri etkinlikleri, bayi toplantıları, reklam kampanyaları ve kurumsal organizasyonlarda sıklıkla tercih edilmektedir.\n\nPromosyon anahtarlık AN-320 modeli lazer baskıya uygundur. Firma logosu, marka adı, internet sitesi veya kurumsal slogan ürün üzerine yüksek kaliteli ve kalıcı şekilde uygulanabilmektedir. Lazer baskı teknolojisi sayesinde baskılar uzun süre silinmeden kullanılabilmekte ve markanızın görünürlüğünü desteklemektedir.\n\nEv şeklindeki tasarımı sayesinde özellikle emlak ofisleri, gayrimenkul danışmanları, inşaat firmaları, yapı şirketleri ve konut projeleri için dikkat çekici bir promosyon ürünü olarak öne çıkmaktadır. Bununla birlikte farklı sektörlerde faaliyet gösteren kurumsal firmalar tarafından da tercih edilmektedir.\n\nSiyah gövde üzerine uygulanan renkli çerçeve detayları ürüne modern ve premium bir görünüm kazandırmaktadır. Hafif ve kullanışlı yapısı sayesinde günlük kullanım için uygundur.\n\nNEDEN PROMOSYON ANAHTARLIK AN-320 TERCİH EDİLMELİ?\n\n• Ev şeklinde özgün tasarım\n• Lazer baskıya uygun yüzey\n• Renkli çerçeve detayları\n• Modern ve dikkat çekici görünüm\n• Hafif ve kullanışlı yapı\n• Günlük kullanıma uygundur\n• Marka görünürlüğünü artırır\n• Kurumsal promosyonlar için idealdir\n• Şık ve profesyonel tasarım\n• Uzun ömürlü kullanım sağlar\n\nKULLANIM ALANLARI\n\n• Kurumsal promosyon çalışmaları\n• Emlak ve gayrimenkul sektörü\n• İnşaat firmaları\n• Konut projeleri tanıtımları\n• Fuar ve etkinlik dağıtımları\n• Marka tanıtım kampanyaları\n• Müşteri hediyeleri\n• Reklam ve pazarlama faaliyetleri\n\nKİMLER İÇİN UYGUN?\n\n• Emlak danışmanları\n• Gayrimenkul şirketleri\n• İnşaat firmaları\n• Yapı şirketleri\n• Kurumsal markalar\n• Reklam ajansları\n• Organizasyon firmaları\n• Perakende işletmeler\n\nPROMOSYON ANAHTARLIK FİYATLARI\n\nPromosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, üretim detayları ve tercih edilen uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.\n\nRENK SEÇENEKLERİ\n\n• Turuncu\n• Sarı\n• Kırmızı\n• Lacivert\n• Turkuaz\n\nRenk seçenekleri stok durumuna göre dönemsel olarak değişiklik gösterebilir.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı çalışmaları firmaya özel hazırlanır\n• Toplu sipariş üretimine uygundur\n• Kurumsal promosyon dağıtımları için idealdir\n• Baskı onayı sonrası üretim başlatılır\n• Güncel stok bilgisi teklif aşamasında paylaşılır\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Anahtarlık\nModel: AN-320\nTasarım: Ev Şeklinde\nÖzellik: Renkli Çerçeve Tasarımı\nBaskı Türü: Lazer Baskı\nKullanım Alanı: Günlük ve Kurumsal Kullanım\nKategori: Anahtarlık\n\nPromosyon anahtarlık AN-320, ev şeklindeki özgün tasarımı, renkli detayları ve lazer baskıya uygun yapısı sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
@@ -28839,7 +28322,7 @@ Promosyon anahtarlık AN-320, ev şeklindeki özgün tasarımı, renkli detaylar
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Sarı, kırmızı, lacivert ve turkuaz renk seçenekleri bulunmaktadır.",
+      a: "Renk seçenekleri: Turuncu, Sarı, Kırmızı, Lacivert, Turkuaz.",
     },
     {
       q: "Kurumsal promosyon çalışmaları için uygun mudur?",
@@ -37160,88 +36643,7 @@ Promosyon anahtarlık AN-350, açacak fonksiyonu, oval metal baskı alanı ve la
   shortDesc:
     "Promosyon anahtarlık AN-360, araba şeklindeki özgün tasarımı ve çift yön lazer baskı özelliği sayesinde otomotiv sektörü başta olmak üzere kurumsal tanıtımlarda tercih edilen logo baskılı anahtarlık modelidir.",
 
-  longDesc: `
-Promosyon anahtarlık AN-360, araba formundaki dikkat çekici tasarımı ve çift yön baskı avantajı ile kurumsal promosyon ürünleri arasında öne çıkan özel anahtarlık modellerinden biridir. Günlük yaşamda sürekli kullanılan ürünlerden biri olması sayesinde markaların görünürlüğünü artıran ve uzun süre reklam etkisi sağlayan etkili promosyon ürünleri arasında yer almaktadır.
-
-Kurumsal promosyon çalışmalarında kullanılan anahtarlıklar, kullanıcıların her gün yanında taşıdığı ürünlerden biri olduğu için marka bilinirliğini artıran etkili reklam araçları arasında bulunmaktadır. Bu nedenle fuarlar, bayi toplantıları, müşteri etkinlikleri ve reklam kampanyalarında sıklıkla tercih edilmektedir.
-
-Promosyon anahtarlık AN-360 modeli lazer baskıya uygundur. Firma logosu, marka adı, internet sitesi veya kurumsal slogan ürün üzerine yüksek kaliteli ve kalıcı şekilde uygulanabilmektedir. Lazer baskı teknolojisi sayesinde baskılar uzun süre netliğini koruyarak profesyonel bir görünüm sunmaktadır.
-
-Çift yön baskı uygulanabilen yapısı sayesinde ürünün her iki yüzeyinde de marka uygulamaları yapılabilmektedir. Bu özellik özellikle kurumsal promosyon dağıtımlarında daha yüksek reklam görünürlüğü sağlamaktadır.
-
-Araba şeklindeki tasarımı sayesinde özellikle otomotiv firmaları, oto galeriler, araç kiralama şirketleri, sigorta firmaları, oto servisler ve filo yönetim şirketleri için ideal promosyon ürünlerinden biridir. Sektöre özel görünümü sayesinde marka mesajını daha etkili şekilde yansıtmaktadır.
-
-Kompakt ve hafif yapısı sayesinde günlük kullanıma uygundur. Anahtarlık üzerinde rahatlıkla taşınabilir ve uzun süre kullanılabilir. Bu sayede markanız kullanıcıların yanında sürekli görünür kalmaktadır.
-
-NEDEN PROMOSYON ANAHTARLIK AN-360 TERCİH EDİLMELİ?
-
-• Araba şeklinde özgün tasarım
-• Çift yön lazer baskı uygulanabilir
-• Otomotiv sektörü için ideal
-• Kompakt ve kullanışlı yapı
-• Hafif ve dayanıklı tasarım
-• Günlük kullanıma uygundur
-• Marka görünürlüğünü artırır
-• Kurumsal promosyonlar için uygundur
-• Şık ve dikkat çekici görünüm
-• Uzun ömürlü kullanım sağlar
-
-KULLANIM ALANLARI
-
-• Otomotiv firmaları
-• Oto galeriler
-• Araç kiralama şirketleri
-• Sigorta şirketleri
-• Oto servisler
-• Fuar ve etkinlik dağıtımları
-• Marka tanıtım kampanyaları
-• Kurumsal promosyon çalışmaları
-
-KİMLER İÇİN UYGUN?
-
-• Otomotiv şirketleri
-• Araç kiralama firmaları
-• Oto ekspertiz firmaları
-• Sigorta şirketleri
-• Kurumsal markalar
-• Reklam ajansları
-• Organizasyon firmaları
-• Bayi ağı bulunan işletmeler
-
-PROMOSYON ANAHTARLIK FİYATLARI
-
-Promosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, üretim detayları ve tercih edilen uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.
-
-RENK SEÇENEKLERİ
-
-• Siyah
-• Sarı
-• Beyaz
-
-Renk seçenekleri stok durumuna göre dönemsel olarak değişiklik gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskı çalışmaları firmaya özel hazırlanır
-• Toplu sipariş üretimine uygundur
-• Kurumsal promosyon dağıtımları için idealdir
-• Baskı onayı sonrası üretim başlatılır
-• Güncel stok bilgisi teklif aşamasında paylaşılır
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Anahtarlık
-Model: AN-360
-Ürün Ölçüsü: 6.7 x 4.5 cm
-Tasarım: Araba Şeklinde
-Baskı Türü: Lazer Baskı
-Baskı Seçenekleri: Tek Yön / Çift Yön
-Ambalaj: Şeffaf Poşet
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-Kategori: Anahtarlık
-
-Promosyon anahtarlık AN-360, araba şeklindeki tasarımı, çift yön baskı avantajı ve lazer baskıya uygun yapısı sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon anahtarlık AN-360, araba formundaki dikkat çekici tasarımı ve çift yön baskı avantajı ile kurumsal promosyon ürünleri arasında öne çıkan özel anahtarlık modellerinden biridir. Günlük yaşamda sürekli kullanılan ürünlerden biri olması sayesinde markaların görünürlüğünü artıran ve uzun süre reklam etkisi sağlayan etkili promosyon ürünleri arasında yer almaktadır.\n\nKurumsal promosyon çalışmalarında kullanılan anahtarlıklar, kullanıcıların her gün yanında taşıdığı ürünlerden biri olduğu için marka bilinirliğini artıran etkili reklam araçları arasında bulunmaktadır. Bu nedenle fuarlar, bayi toplantıları, müşteri etkinlikleri ve reklam kampanyalarında sıklıkla tercih edilmektedir.\n\nPromosyon anahtarlık AN-360 modeli lazer baskıya uygundur. Firma logosu, marka adı, internet sitesi veya kurumsal slogan ürün üzerine yüksek kaliteli ve kalıcı şekilde uygulanabilmektedir. Lazer baskı teknolojisi sayesinde baskılar uzun süre netliğini koruyarak profesyonel bir görünüm sunmaktadır.\n\nÇift yön baskı uygulanabilen yapısı sayesinde ürünün her iki yüzeyinde de marka uygulamaları yapılabilmektedir. Bu özellik özellikle kurumsal promosyon dağıtımlarında daha yüksek reklam görünürlüğü sağlamaktadır.\n\nAraba şeklindeki tasarımı sayesinde özellikle otomotiv firmaları, oto galeriler, araç kiralama şirketleri, sigorta firmaları, oto servisler ve filo yönetim şirketleri için ideal promosyon ürünlerinden biridir. Sektöre özel görünümü sayesinde marka mesajını daha etkili şekilde yansıtmaktadır.\n\nKompakt ve hafif yapısı sayesinde günlük kullanıma uygundur. Anahtarlık üzerinde rahatlıkla taşınabilir ve uzun süre kullanılabilir. Bu sayede markanız kullanıcıların yanında sürekli görünür kalmaktadır.\n\nNEDEN PROMOSYON ANAHTARLIK AN-360 TERCİH EDİLMELİ?\n\n• Araba şeklinde özgün tasarım\n• Çift yön lazer baskı uygulanabilir\n• Otomotiv sektörü için ideal\n• Kompakt ve kullanışlı yapı\n• Hafif ve dayanıklı tasarım\n• Günlük kullanıma uygundur\n• Marka görünürlüğünü artırır\n• Kurumsal promosyonlar için uygundur\n• Şık ve dikkat çekici görünüm\n• Uzun ömürlü kullanım sağlar\n\nKULLANIM ALANLARI\n\n• Otomotiv firmaları\n• Oto galeriler\n• Araç kiralama şirketleri\n• Sigorta şirketleri\n• Oto servisler\n• Fuar ve etkinlik dağıtımları\n• Marka tanıtım kampanyaları\n• Kurumsal promosyon çalışmaları\n\nKİMLER İÇİN UYGUN?\n\n• Otomotiv şirketleri\n• Araç kiralama firmaları\n• Oto ekspertiz firmaları\n• Sigorta şirketleri\n• Kurumsal markalar\n• Reklam ajansları\n• Organizasyon firmaları\n• Bayi ağı bulunan işletmeler\n\nPROMOSYON ANAHTARLIK FİYATLARI\n\nPromosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, üretim detayları ve tercih edilen uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.\n\nRENK SEÇENEKLERİ\n\n• Beyaz\n• Sarı\n\nRenk seçenekleri stok durumuna göre dönemsel olarak değişiklik gösterebilir.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı çalışmaları firmaya özel hazırlanır\n• Toplu sipariş üretimine uygundur\n• Kurumsal promosyon dağıtımları için idealdir\n• Baskı onayı sonrası üretim başlatılır\n• Güncel stok bilgisi teklif aşamasında paylaşılır\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Anahtarlık\nModel: AN-360\nÜrün Ölçüsü: 6.7 x 4.5 cm\nTasarım: Araba Şeklinde\nBaskı Türü: Lazer Baskı\nBaskı Seçenekleri: Tek Yön / Çift Yön\nAmbalaj: Şeffaf Poşet\nKullanım Alanı: Günlük ve Kurumsal Kullanım\nKategori: Anahtarlık\n\nPromosyon anahtarlık AN-360, araba şeklindeki tasarımı, çift yön baskı avantajı ve lazer baskıya uygun yapısı sayesinde markanızı uzun süre görünür kılan etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
@@ -37854,97 +37256,7 @@ Promosyon anahtarlık AN-420, telefon standı özelliği, lazer baskıya uygun m
   shortDesc:
     "Promosyon anahtarlık AN-430, döner mekanizmalı yapısı ve çift yön lazer baskı özelliği ile kurumsal promosyon çalışmalarında dikkat çeken şık ve fonksiyonel anahtarlık modellerinden biridir.",
 
-  longDesc: `
-Promosyon anahtarlık AN-430, döner mekanizmalı tasarımı sayesinde klasik promosyon anahtarlık modellerinden ayrılan modern ve dikkat çekici bir promosyon ürünüdür. Hareketli yapısı kullanıcıların ürünle daha fazla etkileşim kurmasını sağlarken marka görünürlüğünü de artırmaktadır.
-
-Kurumsal promosyon ürünleri arasında yer alan döner mekanizmalı anahtarlık modelleri, standart anahtarlıklara göre daha dikkat çekici yapıları sayesinde fuarlar, etkinlikler ve reklam kampanyalarında sıklıkla tercih edilmektedir.
-
-Promosyon anahtarlık AN-430 modeli çift yön lazer baskıya uygundur. Firma logosu, marka adı, slogan veya iletişim bilgileri ürünün her iki yüzeyine uygulanabilmektedir. Böylece daha geniş bir reklam alanı elde edilerek marka bilinirliği artırılmaktadır.
-
-Metal gövde yapısı dayanıklılık sağlarken lazer baskı uygulamaları uzun süre kalıcılığını korur. Silinmeye karşı dayanıklı baskı yüzeyi sayesinde ürün uzun yıllar kullanılabilir.
-
-Döner mekanizmalı tasarımı ürüne estetik bir görünüm kazandırırken aynı zamanda farklı ve premium bir kullanım deneyimi sunmaktadır. Kompakt ölçüleri sayesinde cepte, çantada veya anahtarlık üzerinde rahatlıkla taşınabilir.
-
-Kurumsal promosyon çalışmaları, bayi toplantıları, lansman organizasyonları ve müşteri hediyeleri için ideal promosyon ürünlerinden biridir.
-
-NEDEN PROMOSYON ANAHTARLIK AN-430 TERCİH EDİLMELİ?
-
-• Döner mekanizmalı tasarım
-• Çift yön lazer baskı uygulanabilir
-• Dikkat çekici hareketli yapı
-• Dayanıklı metal gövde
-• Şık ve modern görünüm
-• Marka görünürlüğünü artırır
-• Günlük kullanıma uygundur
-• Kurumsal promosyonlar için idealdir
-• Hafif ve taşınabilir yapı
-• Uzun ömürlü kullanım sağlar
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Fuar ve etkinlik dağıtımları
-• Marka tanıtım kampanyaları
-• Bayi toplantıları
-• Lansman organizasyonları
-• Müşteri hediyeleri
-• Reklam ve pazarlama faaliyetleri
-• Kurumsal etkinlikler
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Organizasyon şirketleri
-• Otomotiv firmaları
-• Teknoloji şirketleri
-• Finans kuruluşları
-• Eğitim kurumları
-• Perakende markaları
-
-PROMOSYON ANAHTARLIK FİYATLARI
-
-Promosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, üretim detayları ve uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.
-
-RENK SEÇENEKLERİ
-
-• Kırmızı
-• Lacivert
-• Füme
-
-Renk seçenekleri stok durumuna göre değişiklik gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskı çalışmaları firmaya özel hazırlanır
-• Toplu sipariş üretimine uygundur
-• Kurumsal promosyon dağıtımları için idealdir
-• Çift yön baskı uygulanabilir
-• Güncel stok bilgisi teklif aşamasında paylaşılır
-• Baskı onayı sonrası üretim başlatılır
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Anahtarlık
-
-Model: AN-430
-
-Ürün Ebatı: 7 x 3.7 cm
-
-Mekanizma: Döner Mekanizma
-
-Malzeme: Metal Gövde
-
-Baskı Türü: Lazer Baskı
-
-Baskı Yönü: Çift Yön
-
-Ambalaj: Şeffaf Poşet
-
-Kategori: Anahtarlık
-
-Promosyon anahtarlık AN-430, döner mekanizmalı yapısı, çift yön lazer baskı özelliği ve modern tasarımı sayesinde markanızı profesyonel şekilde temsil eden etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon anahtarlık AN-430, döner mekanizmalı tasarımı sayesinde klasik promosyon anahtarlık modellerinden ayrılan modern ve dikkat çekici bir promosyon ürünüdür. Hareketli yapısı kullanıcıların ürünle daha fazla etkileşim kurmasını sağlarken marka görünürlüğünü de artırmaktadır.\n\nKurumsal promosyon ürünleri arasında yer alan döner mekanizmalı anahtarlık modelleri, standart anahtarlıklara göre daha dikkat çekici yapıları sayesinde fuarlar, etkinlikler ve reklam kampanyalarında sıklıkla tercih edilmektedir.\n\nPromosyon anahtarlık AN-430 modeli çift yön lazer baskıya uygundur. Firma logosu, marka adı, slogan veya iletişim bilgileri ürünün her iki yüzeyine uygulanabilmektedir. Böylece daha geniş bir reklam alanı elde edilerek marka bilinirliği artırılmaktadır.\n\nMetal gövde yapısı dayanıklılık sağlarken lazer baskı uygulamaları uzun süre kalıcılığını korur. Silinmeye karşı dayanıklı baskı yüzeyi sayesinde ürün uzun yıllar kullanılabilir.\n\nDöner mekanizmalı tasarımı ürüne estetik bir görünüm kazandırırken aynı zamanda farklı ve premium bir kullanım deneyimi sunmaktadır. Kompakt ölçüleri sayesinde cepte, çantada veya anahtarlık üzerinde rahatlıkla taşınabilir.\n\nKurumsal promosyon çalışmaları, bayi toplantıları, lansman organizasyonları ve müşteri hediyeleri için ideal promosyon ürünlerinden biridir.\n\nNEDEN PROMOSYON ANAHTARLIK AN-430 TERCİH EDİLMELİ?\n\n• Döner mekanizmalı tasarım\n• Çift yön lazer baskı uygulanabilir\n• Dikkat çekici hareketli yapı\n• Dayanıklı metal gövde\n• Şık ve modern görünüm\n• Marka görünürlüğünü artırır\n• Günlük kullanıma uygundur\n• Kurumsal promosyonlar için idealdir\n• Hafif ve taşınabilir yapı\n• Uzun ömürlü kullanım sağlar\n\nKULLANIM ALANLARI\n\n• Kurumsal promosyon çalışmaları\n• Fuar ve etkinlik dağıtımları\n• Marka tanıtım kampanyaları\n• Bayi toplantıları\n• Lansman organizasyonları\n• Müşteri hediyeleri\n• Reklam ve pazarlama faaliyetleri\n• Kurumsal etkinlikler\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Reklam ajansları\n• Organizasyon şirketleri\n• Otomotiv firmaları\n• Teknoloji şirketleri\n• Finans kuruluşları\n• Eğitim kurumları\n• Perakende markaları\n\nPROMOSYON ANAHTARLIK FİYATLARI\n\nPromosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, üretim detayları ve uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.\n\nRENK SEÇENEKLERİ\n\n• Füme\n• Kırmızı\n• Mavi\n\nRenk seçenekleri stok durumuna göre değişiklik gösterebilir.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı çalışmaları firmaya özel hazırlanır\n• Toplu sipariş üretimine uygundur\n• Kurumsal promosyon dağıtımları için idealdir\n• Çift yön baskı uygulanabilir\n• Güncel stok bilgisi teklif aşamasında paylaşılır\n• Baskı onayı sonrası üretim başlatılır\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Anahtarlık\n\nModel: AN-430\n\nÜrün Ebatı: 7 x 3.7 cm\n\nMekanizma: Döner Mekanizma\n\nMalzeme: Metal Gövde\n\nBaskı Türü: Lazer Baskı\n\nBaskı Yönü: Çift Yön\n\nAmbalaj: Şeffaf Poşet\n\nKategori: Anahtarlık\n\nPromosyon anahtarlık AN-430, döner mekanizmalı yapısı, çift yön lazer baskı özelliği ve modern tasarımı sayesinde markanızı profesyonel şekilde temsil eden etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
@@ -37990,95 +37302,7 @@ Promosyon anahtarlık AN-430, döner mekanizmalı yapısı, çift yön lazer bas
   shortDesc:
     "Promosyon anahtarlık AN-440, ev şeklindeki tasarımı ve lazer baskıya uygun yüzeyi ile emlak, gayrimenkul ve inşaat sektörüne yönelik tercih edilen şık promosyon anahtarlık modelidir.",
 
-  longDesc: `
-Promosyon anahtarlık AN-440, ev şeklindeki özel tasarımı sayesinde özellikle emlak, gayrimenkul ve inşaat sektörüne hitap eden dikkat çekici promosyon ürünlerinden biridir. Tematik yapısı sayesinde hedef kitle ile doğrudan bağlantı kurarak marka bilinirliğini artırmaya yardımcı olur.
-
-Kurumsal promosyon ürünleri arasında yer alan ev şeklinde anahtarlık modelleri, konut projeleri, emlak ofisleri, yapı firmaları ve satış ofisleri tarafından sıklıkla tercih edilmektedir. Yeni ev teslimlerinde, proje tanıtımlarında ve müşteri ziyaretlerinde etkili bir kurumsal hediye olarak kullanılabilmektedir.
-
-Promosyon anahtarlık AN-440 modeli lazer baskıya uygundur. Firma logosu, marka adı, iletişim bilgileri veya kurumsal mesajlar ürün yüzeyine net ve kalıcı şekilde uygulanabilmektedir. Lazer baskı teknolojisi uzun ömürlü kullanım sağlarken profesyonel görünümünü uzun süre korumaktadır.
-
-Ev formundaki tasarımı sayesinde standart anahtarlıklardan ayrılan ürün, müşterilerin dikkatini çekerek markanın daha akılda kalıcı olmasına katkı sağlar.
-
-Şeffaf kutulu ambalajı sayesinde kurumsal dağıtımlarda daha prestijli ve düzenli bir sunum imkanı sunmaktadır. Kompakt yapısı sayesinde günlük kullanım için uygundur ve uzun süre marka görünürlüğü sağlar.
-
-NEDEN PROMOSYON ANAHTARLIK AN-440 TERCİH EDİLMELİ?
-
-• Ev şeklinde özel tasarım
-• Lazer baskıya uygun yüzey
-• Emlak ve inşaat sektörüne uygun
-• Şeffaf kutulu sunum
-• Hafif ve kullanışlı yapı
-• Günlük kullanıma uygundur
-• Marka görünürlüğünü artırır
-• Kurumsal hediye olarak idealdir
-• Uzun ömürlü kullanım sağlar
-• Dikkat çekici promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Emlak ofisleri
-• Gayrimenkul danışmanlık firmaları
-• İnşaat şirketleri
-• Konut projeleri
-• Satış ofisleri
-• Kurumsal promosyon çalışmaları
-• Fuar ve etkinlik dağıtımları
-• Müşteri teslim organizasyonları
-• Marka tanıtım kampanyaları
-• Kurumsal hediyeler
-
-KİMLER İÇİN UYGUN?
-
-• Emlak danışmanları
-• Gayrimenkul firmaları
-• İnşaat şirketleri
-• Yapı firmaları
-• Konut proje geliştiricileri
-• Mimarlık ofisleri
-• Reklam ajansları
-• Kurumsal markalar
-
-PROMOSYON ANAHTARLIK FİYATLARI
-
-Promosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, üretim detayları ve uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.
-
-RENK SEÇENEKLERİ
-
-• Kırmızı
-• Mavi
-• Füme
-
-Renk seçenekleri stok durumuna göre değişiklik gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskı çalışmaları firmaya özel hazırlanır
-• Toplu sipariş üretimine uygundur
-• Kurumsal promosyon dağıtımları için idealdir
-• Lazer baskı uygulanabilir
-• Güncel stok bilgisi teklif aşamasında paylaşılır
-• Baskı onayı sonrası üretim başlatılır
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Anahtarlık
-
-Model: AN-440
-
-Ürün Ebatı: 8 x 4.4 cm
-
-Tasarım: Ev Şeklinde
-
-Baskı Türü: Lazer Baskı
-
-Baskı Yönü: Tek Yön
-
-Ambalaj: Şeffaf Kutu
-
-Kategori: Anahtarlık
-
-Promosyon anahtarlık AN-440, ev şeklindeki özgün tasarımı, lazer baskıya uygun yapısı ve kurumsal kullanım avantajları sayesinde özellikle emlak ve inşaat sektöründe markanızı profesyonel şekilde temsil eden etkili promosyon ürünlerinden biridir.
-`.trim(),
+  longDesc: "Promosyon anahtarlık AN-440, ev şeklindeki özel tasarımı sayesinde özellikle emlak, gayrimenkul ve inşaat sektörüne hitap eden dikkat çekici promosyon ürünlerinden biridir. Tematik yapısı sayesinde hedef kitle ile doğrudan bağlantı kurarak marka bilinirliğini artırmaya yardımcı olur.\n\nKurumsal promosyon ürünleri arasında yer alan ev şeklinde anahtarlık modelleri, konut projeleri, emlak ofisleri, yapı firmaları ve satış ofisleri tarafından sıklıkla tercih edilmektedir. Yeni ev teslimlerinde, proje tanıtımlarında ve müşteri ziyaretlerinde etkili bir kurumsal hediye olarak kullanılabilmektedir.\n\nPromosyon anahtarlık AN-440 modeli lazer baskıya uygundur. Firma logosu, marka adı, iletişim bilgileri veya kurumsal mesajlar ürün yüzeyine net ve kalıcı şekilde uygulanabilmektedir. Lazer baskı teknolojisi uzun ömürlü kullanım sağlarken profesyonel görünümünü uzun süre korumaktadır.\n\nEv formundaki tasarımı sayesinde standart anahtarlıklardan ayrılan ürün, müşterilerin dikkatini çekerek markanın daha akılda kalıcı olmasına katkı sağlar.\n\nŞeffaf kutulu ambalajı sayesinde kurumsal dağıtımlarda daha prestijli ve düzenli bir sunum imkanı sunmaktadır. Kompakt yapısı sayesinde günlük kullanım için uygundur ve uzun süre marka görünürlüğü sağlar.\n\nNEDEN PROMOSYON ANAHTARLIK AN-440 TERCİH EDİLMELİ?\n\n• Ev şeklinde özel tasarım\n• Lazer baskıya uygun yüzey\n• Emlak ve inşaat sektörüne uygun\n• Şeffaf kutulu sunum\n• Hafif ve kullanışlı yapı\n• Günlük kullanıma uygundur\n• Marka görünürlüğünü artırır\n• Kurumsal hediye olarak idealdir\n• Uzun ömürlü kullanım sağlar\n• Dikkat çekici promosyon ürünü\n\nKULLANIM ALANLARI\n\n• Emlak ofisleri\n• Gayrimenkul danışmanlık firmaları\n• İnşaat şirketleri\n• Konut projeleri\n• Satış ofisleri\n• Kurumsal promosyon çalışmaları\n• Fuar ve etkinlik dağıtımları\n• Müşteri teslim organizasyonları\n• Marka tanıtım kampanyaları\n• Kurumsal hediyeler\n\nKİMLER İÇİN UYGUN?\n\n• Emlak danışmanları\n• Gayrimenkul firmaları\n• İnşaat şirketleri\n• Yapı firmaları\n• Konut proje geliştiricileri\n• Mimarlık ofisleri\n• Reklam ajansları\n• Kurumsal markalar\n\nPROMOSYON ANAHTARLIK FİYATLARI\n\nPromosyon anahtarlık fiyatları; sipariş miktarı, baskı yöntemi, üretim detayları ve uygulama seçeneklerine göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.\n\nRENK SEÇENEKLERİ\n\n• Kırmızı\n• Lacivert\n\nRenk seçenekleri stok durumuna göre değişiklik gösterebilir.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı çalışmaları firmaya özel hazırlanır\n• Toplu sipariş üretimine uygundur\n• Kurumsal promosyon dağıtımları için idealdir\n• Lazer baskı uygulanabilir\n• Güncel stok bilgisi teklif aşamasında paylaşılır\n• Baskı onayı sonrası üretim başlatılır\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Anahtarlık\n\nModel: AN-440\n\nÜrün Ebatı: 8 x 4.4 cm\n\nTasarım: Ev Şeklinde\n\nBaskı Türü: Lazer Baskı\n\nBaskı Yönü: Tek Yön\n\nAmbalaj: Şeffaf Kutu\n\nKategori: Anahtarlık\n\nPromosyon anahtarlık AN-440, ev şeklindeki özgün tasarımı, lazer baskıya uygun yapısı ve kurumsal kullanım avantajları sayesinde özellikle emlak ve inşaat sektöründe markanızı profesyonel şekilde temsil eden etkili promosyon ürünlerinden biridir.",
 
   faq: [
     {
@@ -47963,83 +47187,7 @@ image: "/products/promosyon-anahtarlik-an-480.jpg",
   shortDesc:
     "Promosyon anahtarlık AN-490, ev şeklindeki özel tasarımı ve lazer baskıya uygun metal yüzeyi ile özellikle emlak, gayrimenkul ve inşaat sektörleri için ideal promosyon ürünlerinden biridir.",
 
-  longDesc: `
-Promosyon anahtarlık AN-490 modeli, ev şeklindeki özel tasarımı ile dikkat çeken ve kurumsal tanıtımlarda etkili şekilde kullanılabilen promosyon anahtarlık modellerinden biridir.
-
-Anahtarlıklar günlük yaşamda sürekli kullanılan ürünler arasında yer aldığı için marka bilinirliğini artıran en etkili promosyon ürünlerinden biridir. Firmanızın logosu kullanıcıların yanında uzun süre taşınarak kalıcı reklam avantajı sağlar.
-
-Promosyon anahtarlık AN-490 modeli özellikle emlak, gayrimenkul, inşaat ve yapı sektörleri için tasarlanmış ev formundaki görünümü ile hedef kitleye doğrudan hitap etmektedir.
-
-Metal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunmaktadır. Şık görünümü sayesinde müşteri teslimlerinde, fuarlarda ve kurumsal etkinliklerde dikkat çekici bir promosyon ürünü olarak tercih edilmektedir.
-
-Lazer baskı teknolojisi sayesinde firma logosu, marka adı veya iletişim bilgileri ürün üzerine kalıcı ve silinmeye karşı dayanıklı şekilde uygulanabilmektedir.
-
-Kompakt yapısı sayesinde cepte, çantada veya anahtarlık üzerinde rahatlıkla taşınabilmektedir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Anahtarlık
-
-Kategori: Promosyon Anahtarlık
-
-Tasarım: Ev Şeklinde
-
-Baskı Türü: Lazer Baskı
-
-Malzeme: Metal Gövde
-
-Ambalaj: Şeffaf Poşet
-
-RENK SEÇENEKLERİ
-
-Lacivert
-
-Kırmızı
-
-Siyah
-
-Gümüş
-
-Not: Renk seçenekleri sipariş sırasında stok durumuna göre belirlenmektedir.
-
-SİPARİŞ BİLGİSİ
-
-Promosyon anahtarlık siparişleri toplu üretim olarak hazırlanmaktadır.
-
-Logo baskı çalışmaları, renk tercihleri ve teslim süresi teklif aşamasında netleştirilmektedir.
-
-Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri
-
-Emlak ve gayrimenkul firmaları
-
-İnşaat ve yapı firmaları
-
-Tapu ve danışmanlık ofisleri
-
-Fuar ve etkinlik promosyonları
-
-Marka tanıtım kampanyaları
-
-Müşteri ve bayi hediyeleri
-
-Reklam ve promosyon çalışmaları
-
-NEDEN AN-490 PROMOSYON ANAHTARLIK?
-
-• Ev şeklinde dikkat çekici tasarım
-• Dayanıklı metal gövde
-• Lazer baskıya uygundur
-• Uzun ömürlü kullanım
-• Kalıcı reklam etkisi sağlar
-• Emlak sektörüne özel konsept
-• Şık ve profesyonel görünüm
-• Hafif ve taşınabilir yapı
-• Toplu dağıtımlar için idealdir
-`.trim(),
+  longDesc: "Promosyon anahtarlık AN-490 modeli, ev şeklindeki özel tasarımı ile dikkat çeken ve kurumsal tanıtımlarda etkili şekilde kullanılabilen promosyon anahtarlık modellerinden biridir.\n\nAnahtarlıklar günlük yaşamda sürekli kullanılan ürünler arasında yer aldığı için marka bilinirliğini artıran en etkili promosyon ürünlerinden biridir. Firmanızın logosu kullanıcıların yanında uzun süre taşınarak kalıcı reklam avantajı sağlar.\n\nPromosyon anahtarlık AN-490 modeli özellikle emlak, gayrimenkul, inşaat ve yapı sektörleri için tasarlanmış ev formundaki görünümü ile hedef kitleye doğrudan hitap etmektedir.\n\nMetal gövde yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunmaktadır. Şık görünümü sayesinde müşteri teslimlerinde, fuarlarda ve kurumsal etkinliklerde dikkat çekici bir promosyon ürünü olarak tercih edilmektedir.\n\nLazer baskı teknolojisi sayesinde firma logosu, marka adı veya iletişim bilgileri ürün üzerine kalıcı ve silinmeye karşı dayanıklı şekilde uygulanabilmektedir.\n\nKompakt yapısı sayesinde cepte, çantada veya anahtarlık üzerinde rahatlıkla taşınabilmektedir.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Anahtarlık\n\nKategori: Promosyon Anahtarlık\n\nTasarım: Ev Şeklinde\n\nBaskı Türü: Lazer Baskı\n\nMalzeme: Metal Gövde\n\nAmbalaj: Şeffaf Poşet\n\nRENK SEÇENEKLERİ\n\n• Siyah\n• Lacivert\n• Metalik\n• Kırmızı\n\nNot: Renk seçenekleri sipariş sırasında stok durumuna göre belirlenmektedir.\n\nSİPARİŞ BİLGİSİ\n\nPromosyon anahtarlık siparişleri toplu üretim olarak hazırlanmaktadır.\n\nLogo baskı çalışmaları, renk tercihleri ve teslim süresi teklif aşamasında netleştirilmektedir.\n\nToplu siparişlerde özel fiyat avantajları sunulabilmektedir.\n\nKULLANIM ALANLARI\n\nKurumsal promosyon ürünleri\n\nEmlak ve gayrimenkul firmaları\n\nİnşaat ve yapı firmaları\n\nTapu ve danışmanlık ofisleri\n\nFuar ve etkinlik promosyonları\n\nMarka tanıtım kampanyaları\n\nMüşteri ve bayi hediyeleri\n\nReklam ve promosyon çalışmaları\n\nNEDEN AN-490 PROMOSYON ANAHTARLIK?\n\n• Ev şeklinde dikkat çekici tasarım\n• Dayanıklı metal gövde\n• Lazer baskıya uygundur\n• Uzun ömürlü kullanım\n• Kalıcı reklam etkisi sağlar\n• Emlak sektörüne özel konsept\n• Şık ve profesyonel görünüm\n• Hafif ve taşınabilir yapı\n• Toplu dağıtımlar için idealdir",
 
   faq: [
     {
@@ -48064,7 +47212,7 @@ NEDEN AN-490 PROMOSYON ANAHTARLIK?
     },
     {
       q: "Promosyon Anahtarlık AN-490 hangi renk seçeneklerine sahiptir?",
-      a: "Ürün lacivert, kırmızı, siyah ve gümüş renk seçenekleri ile sunulmaktadır. Güncel stok durumu sipariş sırasında teyit edilmektedir.",
+      a: "Renk seçenekleri: Siyah, Lacivert, Metalik, Kırmızı.",
     },
     {
       q: "Promosyon Anahtarlık AN-490 kurumsal hediye olarak kullanılabilir mi?",
@@ -48129,87 +47277,7 @@ image: "/products/promosyon-anahtarlik-an-500.jpg",
   shortDesc:
     "Promosyon baret anahtarlık AN-510, baret şeklindeki özel tasarımı ve logo baskıya uygun yüzeyi ile inşaat, mühendislik ve yapı sektörüne yönelik dikkat çekici promosyon anahtarlık modellerinden biridir.",
 
-  longDesc: `
-Promosyon baret anahtarlık AN-510 modeli, inşaat ve yapı sektörüne özel tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan dikkat çekici anahtarlık modellerinden biridir.
-
-Baret formundaki tasarımı sayesinde özellikle inşaat firmaları, müteahhitlik şirketleri, mühendislik ofisleri, mimarlık firmaları ve yapı malzemeleri sektöründe faaliyet gösteren işletmeler için etkili bir reklam ürünü olarak tercih edilmektedir.
-
-Anahtarlıklar günlük yaşamda sürekli kullanılan promosyon ürünleri arasında yer aldığı için marka bilinirliğini artıran en etkili reklam araçlarından biridir. Firmanızın logosu kullanıcıların yanında uzun süre taşınarak kalıcı reklam avantajı sağlar.
-
-Promosyon baret anahtarlık AN-510 modeli hafif plastik malzemeden üretilmiştir. Dayanıklı yapısı sayesinde uzun süre kullanılabilir ve günlük kullanıma uygundur.
-
-Ürün üzerinde yer alan baskı alanına firma logosu, marka adı veya kurumsal bilgiler uygulanabilmektedir. Böylece sektöre özel ve hedef odaklı bir promosyon çalışması gerçekleştirilebilir.
-
-Farklı renk seçenekleri sayesinde kurumsal kimliğinize uygun tercihler yapılabilmektedir. Şantiye organizasyonları, fuarlar, iş güvenliği etkinlikleri ve kurumsal dağıtımlar için ideal promosyon ürünlerinden biridir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Anahtarlık
-
-Kategori: Promosyon Anahtarlık
-
-Tasarım: Baret Şeklinde
-
-Malzeme: Plastik
-
-Baskı Türü: Logo Baskı
-
-Kullanım: Tek Yön Baskıya Uygun
-
-RENK SEÇENEKLERİ
-
-Sarı
-
-Turuncu
-
-Beyaz
-
-Kırmızı
-
-Not: Renk seçenekleri sipariş sırasında stok durumuna göre belirlenmektedir.
-
-SİPARİŞ BİLGİSİ
-
-Promosyon baret anahtarlık siparişleri toplu üretim olarak hazırlanmaktadır.
-
-Logo baskı çalışmaları, renk tercihleri ve teslim süresi teklif aşamasında netleştirilmektedir.
-
-Toplu siparişlerde özel fiyat avantajları sunulabilmektedir.
-
-KULLANIM ALANLARI
-
-İnşaat firmaları
-
-Müteahhitlik şirketleri
-
-Mühendislik firmaları
-
-Mimarlık ofisleri
-
-Yapı ve yapı malzemeleri firmaları
-
-İş güvenliği organizasyonları
-
-Fuar ve etkinlik promosyonları
-
-Marka tanıtım kampanyaları
-
-Şantiye organizasyonları
-
-Kurumsal promosyon çalışmaları
-
-NEDEN AN-510 PROMOSYON BARET ANAHTARLIK?
-
-• İnşaat sektörüne özel tasarım
-• Baret şeklinde dikkat çekici görünüm
-• Logo baskıya uygun yüzey
-• Hafif ve kullanışlı yapı
-• Günlük kullanıma uygundur
-• Kalıcı reklam etkisi sağlar
-• Kurumsal marka bilinirliğini artırır
-• Fuar ve organizasyonlar için idealdir
-• Ekonomik promosyon çözümü sunar
-`.trim(),
+  longDesc: "Promosyon baret anahtarlık AN-510 modeli, inşaat ve yapı sektörüne özel tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan dikkat çekici anahtarlık modellerinden biridir.\n\nBaret formundaki tasarımı sayesinde özellikle inşaat firmaları, müteahhitlik şirketleri, mühendislik ofisleri, mimarlık firmaları ve yapı malzemeleri sektöründe faaliyet gösteren işletmeler için etkili bir reklam ürünü olarak tercih edilmektedir.\n\nAnahtarlıklar günlük yaşamda sürekli kullanılan promosyon ürünleri arasında yer aldığı için marka bilinirliğini artıran en etkili reklam araçlarından biridir. Firmanızın logosu kullanıcıların yanında uzun süre taşınarak kalıcı reklam avantajı sağlar.\n\nPromosyon baret anahtarlık AN-510 modeli hafif plastik malzemeden üretilmiştir. Dayanıklı yapısı sayesinde uzun süre kullanılabilir ve günlük kullanıma uygundur.\n\nÜrün üzerinde yer alan baskı alanına firma logosu, marka adı veya kurumsal bilgiler uygulanabilmektedir. Böylece sektöre özel ve hedef odaklı bir promosyon çalışması gerçekleştirilebilir.\n\nFarklı renk seçenekleri sayesinde kurumsal kimliğinize uygun tercihler yapılabilmektedir. Şantiye organizasyonları, fuarlar, iş güvenliği etkinlikleri ve kurumsal dağıtımlar için ideal promosyon ürünlerinden biridir.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Anahtarlık\n\nKategori: Promosyon Anahtarlık\n\nTasarım: Baret Şeklinde\n\nMalzeme: Plastik\n\nBaskı Türü: Logo Baskı\n\nKullanım: Tek Yön Baskıya Uygun\n\nRENK SEÇENEKLERİ\n\n• Beyaz\n• Kırmızı\n• Turuncu\n• Sarı\n• Krom\n\nNot: Renk seçenekleri sipariş sırasında stok durumuna göre belirlenmektedir.\n\nSİPARİŞ BİLGİSİ\n\nPromosyon baret anahtarlık siparişleri toplu üretim olarak hazırlanmaktadır.\n\nLogo baskı çalışmaları, renk tercihleri ve teslim süresi teklif aşamasında netleştirilmektedir.\n\nToplu siparişlerde özel fiyat avantajları sunulabilmektedir.\n\nKULLANIM ALANLARI\n\nİnşaat firmaları\n\nMüteahhitlik şirketleri\n\nMühendislik firmaları\n\nMimarlık ofisleri\n\nYapı ve yapı malzemeleri firmaları\n\nİş güvenliği organizasyonları\n\nFuar ve etkinlik promosyonları\n\nMarka tanıtım kampanyaları\n\nŞantiye organizasyonları\n\nKurumsal promosyon çalışmaları\n\nNEDEN AN-510 PROMOSYON BARET ANAHTARLIK?\n\n• İnşaat sektörüne özel tasarım\n• Baret şeklinde dikkat çekici görünüm\n• Logo baskıya uygun yüzey\n• Hafif ve kullanışlı yapı\n• Günlük kullanıma uygundur\n• Kalıcı reklam etkisi sağlar\n• Kurumsal marka bilinirliğini artırır\n• Fuar ve organizasyonlar için idealdir\n• Ekonomik promosyon çözümü sunar",
 
   faq: [
     {
@@ -48226,7 +47294,7 @@ NEDEN AN-510 PROMOSYON BARET ANAHTARLIK?
     },
     {
       q: "Promosyon Baret Anahtarlık AN-510 renk seçenekleri nelerdir?",
-      a: "Sarı, turuncu, beyaz ve kırmızı renk seçenekleri bulunmaktadır. Stok durumuna göre farklı renkler tercih edilebilir.",
+      a: "Renk seçenekleri: Beyaz, Kırmızı, Turuncu, Sarı, Krom.",
     },
     {
       q: "Promosyon Baret Anahtarlık AN-510 toplu sipariş verilebilir mi?",
