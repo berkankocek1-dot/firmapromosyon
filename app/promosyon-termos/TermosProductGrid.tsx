@@ -16,14 +16,7 @@ type TermosProduct = {
   price?: number;
 };
 
-const filters = [
-  "Tümü",
-  "500 ml",
-  "Büyük Hacim",
-  "Dijital Göstergeli",
-  "Çelik",
-  "Matara",
-];
+const filters = ["Tümü","500 ml","Büyük Hacim","Dijital Göstergeli","French Press","Bambu","Termos Seti"];
 
 function normalize(value: string) {
   return value
@@ -41,36 +34,16 @@ function getCapacity(text: string) {
 }
 
 function matchesFilter(product: TermosProduct, filter: string) {
-  const text = normalize(`${product.title} ${product.shortDesc}`);
-
   if (filter === "Tümü") return true;
-
-  if (filter === "500 ml") {
-    return getCapacity(text) === 500;
-  }
-
-  if (filter === "Büyük Hacim") {
-    const capacity = getCapacity(text);
-    return capacity !== null && capacity >= 700;
-  }
-
-  if (filter === "Dijital Göstergeli") {
-    return (
-      text.includes("dijital ısı") ||
-      text.includes("ısı gösterg") ||
-      text.includes("dijital gösterg")
-    );
-  }
-
-  if (filter === "Çelik") {
-    return text.includes("çelik");
-  }
-
-  if (filter === "Matara") {
-    return text.includes("matara");
-  }
-
-  return true;
+  const title = normalize(product.title);
+  const code = /\bTK-\d+\b/i.exec(product.title)?.[0].toUpperCase();
+  if (filter === "500 ml") return getCapacity(title) === 500;
+  if (filter === "Büyük Hacim") { const capacity = getCapacity(title); return capacity !== null && capacity >= 700; }
+  if (filter === "Dijital Göstergeli") return ["TK-195", "TK-196", "TK-200"].includes(code ?? "");
+  if (filter === "French Press") return code === "TK-310";
+  if (filter === "Bambu") return code === "TK-111";
+  if (filter === "Termos Seti") return code === "TK-135";
+  return false;
 }
 
 export default function TermosProductGrid({
@@ -93,7 +66,7 @@ export default function TermosProductGrid({
         </h2>
 
         <p className="mt-2 max-w-3xl text-sm leading-6 text-gray-600">
-          Logo baskılı promosyon termos ve matara modellerini kapasite ve
+          Logo baskılı promosyon termos modellerini kapasite ve
           ürün özelliklerine göre filtreleyerek ihtiyacınıza uygun modeli
           daha kolay bulabilirsiniz.
         </p>

@@ -5,6 +5,13 @@ import { getCategoryLandingHref } from "@/data/categoryLandingPages";
 import { categories } from "@/data/categories";
 import type { Metadata } from "next";
 import HomeSearch from "./HomeSearch";
+import { visibleProducts as homeVisibleMataraProducts } from "@/data/productVisibility";
+import { sortProductsByCode as sortHomeMataraProducts } from "@/data/productSorting";
+
+const homeMataraPreviewProducts = sortHomeMataraProducts(
+  homeVisibleMataraProducts.filter(p => p.category === "Matara")
+).slice(0, 4);
+
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
@@ -15,6 +22,7 @@ const CATEGORY_ORDER = [
   "Kupa",
   "USB Bellek",
   "Termos",
+  "Matara",
   "Ajanda",
   "Tarihsiz Defter",
   "Powerbank",
@@ -689,6 +697,23 @@ export default function Home() {
           </div>
         </section>
       )}
+
+      {homeMataraPreviewProducts.length > 0 && (
+        <section className="mx-auto max-w-7xl px-5 py-12">
+          <SectionHeader
+            title="Promosyon Matara Modelleri"
+            text="Logo baskılı cam ve plastik matara modellerini inceleyin."
+            href="/promosyon-matara"
+            cta="Tüm Mataralar →"
+          />
+          <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {homeMataraPreviewProducts.map((p) => (
+              <MiniProductCard key={pickSlug(p)} product={p} />
+            ))}
+          </div>
+        </section>
+      )}
+
 
       {ajandaProducts.length > 0 && (
         <section className="mx-auto max-w-7xl px-5 py-12">

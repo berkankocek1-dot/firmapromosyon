@@ -13,6 +13,7 @@ const categoryLinks = [
   { href: "/promosyon-powerbank", label: "Promosyon Powerbank" },
   { href: "/promosyon-usb-bellek", label: "Promosyon USB Bellek" },
   { href: "/promosyon-termos", label: "Promosyon Termos" },
+  { href: "/promosyon-matara", label: "Promosyon Matara" },
   { href: "/promosyon-kalem-setleri", label: "Promosyon Kalem Setleri" },
   { href: "/promosyon-teknolojik-urunler", label: "Teknolojik Ürünler" },
   { href: "/promosyon-vip-urunler", label: "VIP Promosyon Ürünleri" },

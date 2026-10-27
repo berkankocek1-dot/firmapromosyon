@@ -29,6 +29,7 @@ const categoryNames = [
   "Duvar Saatleri",
   "Kalem Setleri",
   "Termos",
+  "Matara",
   "Geri Dönüşümlü Ürünler",
   "Yapışkanlı Notluklar",
   "Matbaa Ürünleri",

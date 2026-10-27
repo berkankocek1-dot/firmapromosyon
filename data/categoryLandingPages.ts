@@ -9,6 +9,7 @@ const categoryLandingPages: Record<string, string> = {
   "duvar-saatleri": "/promosyon-duvar-saatleri",
   "kalem-setleri": "/promosyon-kalem-setleri",
   "termos": "/promosyon-termos",
+  "matara": "/promosyon-matara",
   "geri-donusumlu-urunler": "/promosyon-geri-donusumlu-urunler",
   "yapiskanli-notluklar": "/promosyon-yapiskanli-notluklar",
   "matbaa-urunleri": "/promosyon-matbaa-urunleri",

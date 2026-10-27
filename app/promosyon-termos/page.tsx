@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { products } from "@/data/products";
+import { visibleProducts as products } from "@/data/productVisibility";
 import TermosProductGrid from "./TermosProductGrid";
 import { sortProductsByCode } from "@/data/productSorting";
 
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
   title:
     "Promosyon Termos | Logo Baskılı Termos Modelleri",
   description:
-    "Logo baskılı çelik, 500 ml, dijital göstergeli termos ve matara modellerini inceleyin. Toptan sipariş için hızlı kurumsal teklif alın.",
+    "Logo baskılı çelik, farklı kapasiteli ve dijital göstergeli termos modellerini inceleyin. Toptan sipariş için hızlı kurumsal teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
@@ -201,6 +201,10 @@ export default function Page() {
           </div>
         </header>
       </section>
+
+      <div className="mt-8 rounded-2xl border border-gray-200 bg-white p-5 text-gray-800">
+        <p>Cam ve plastik su mataraları için <Link href="/promosyon-matara" className="font-semibold text-black underline underline-offset-4">promosyon matara modellerini inceleyin</Link>.</p>
+      </div>
 
       <TermosProductGrid products={list} />
       {list.length === 0 && (

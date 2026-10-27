@@ -27,6 +27,10 @@ const hiddenProductSlugs = new Set<string>([
   "promosyon-kalem-seti-ks-235-ozel-tasarim-lazer-baski",
   "promosyon-ahsap-kalem-ks-335-tekli-roller",
   "promosyon-tekli-kalem-kutusu-ks-360-luks"
+,
+  "promosyon-termos-600-ml-tk-330",
+  "promosyon-french-press-termos-500-ml-tk-340",
+  "promosyon-termos-500-ml-uv-lazer-baskili-tk-350",
 ]);
 
 export function isProductVisible(product: { slug: string }): boolean {
