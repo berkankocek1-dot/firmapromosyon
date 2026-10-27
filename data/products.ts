@@ -9544,136 +9544,20 @@ Promosyon metal kalem MK-190 ile markanızı kaliteli, şık ve prestijli bir pr
   slug: "promosyon-ahsap-telefon-tutucu-att-230",
 
   title:
-    "Promosyon Ahşap Telefon Tutucu ATT-230 | Logo Baskılı Ahşap Telefon Standı",
+    "Promosyon Ahşap Telefon Tutucu ATT-230 | Kayın Ağacı Telefon Standı",
 
   price: 50,
 
   category: "Geri Dönüşümlü Ürünler",
 
-  image: "/products/promosyon-ahsap-telefon-tutucu-att-230.jpg",
+  image: "/products/promosyon-ahsap-telefon-tutucu-att-230-v2.jpg",
 
   shortDesc:
-    "Promosyon ahşap telefon tutucu ATT-230, doğal kayın ağacından üretilen çevre dostu yapısı, masaüstünde pratik kullanım sağlayan tasarımı ve logo baskısına uygun yüzeyiyle kurumsal tanıtımlar için tercih edilen sürdürülebilir promosyon ürünlerinden biridir.",
+    "Kayın ağacından üretilen ATT-230, kaydırmaz tabanlı bir masaüstü telefon tutucudur.",
 
-  longDesc: `
-Promosyon ahşap telefon tutucu ATT-230 modeli, doğal kayın ağacından üretilen çevre dostu yapısı ve minimal tasarımıyla masaüstü kullanımını daha konforlu hale getiren geri dönüşümlü promosyon ürünleri arasında yer almaktadır. Günümüzde hem iş hem de günlük yaşamda akıllı telefonların sürekli kullanılması nedeniyle masaüstü telefon standı ihtiyacı giderek artmaktadır. ATT-230 modeli ise şık görünümü ve doğal dokusuyla bu ihtiyacı estetik bir şekilde karşılamaktadır.
+  longDesc: "Kayın ağacından üretilen ATT-230, kaydırmaz tabanlı bir masaüstü telefon tutucudur.\n\nTEKNİK ÖZELLİKLER\n\nModel: ATT-230\nKategori: Geri Dönüşümlü Ürünler\nÜrün ölçüsü: 6,4 x 8 x 1,8 cm / 8 x 8,5 x 1,4 cm\nMalzeme: Kayın ağacı\nTaban: Kaydırmaz\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasının yöntemi ve yeri teklif aşamasında netleştirilir. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-Doğal ahşap yüzeyi sayesinde sıcak ve kaliteli bir görünüm sunan ürün, ofis masalarında, çalışma alanlarında, resepsiyonlarda ve ev ortamlarında rahatlıkla kullanılabilir. Telefonun dik konumda sabit durmasını sağlayan özel yuva tasarımı sayesinde görüntülü görüşme yapmak, video izlemek, online toplantılara katılmak veya telefonu şarj sırasında masa üzerinde kullanmak oldukça pratiktir.
-
-Promosyon ahşap telefon standı ATT-230 modeli üzerine firmanızın logosu, marka adı veya kurumsal mesajı lazer kazıma ya da UV baskı teknikleri ile uygulanabilmektedir. Ahşabın doğal dokusu üzerine yapılan kaliteli baskılar uzun yıllar kalıcılığını koruyarak markanızın sürekli görünür olmasını sağlar.
-
-Geri dönüştürülebilir doğal malzemeden üretilmesi sayesinde sürdürülebilirlik anlayışını benimseyen firmalar için güçlü bir kurumsal imaj oluşturur. Çevre dostu promosyon ürünleri, özellikle son yıllarda markaların sosyal sorumluluk projelerinde ve yeşil pazarlama çalışmalarında önemli bir yere sahiptir.
-
-ATT-230 modeli kompakt ölçüleri sayesinde çantada kolayca taşınabilir ve masa üzerinde çok az yer kaplar. Hafif yapısına rağmen sağlam kayın ağacı gövdesi sayesinde uzun yıllar güvenle kullanılabilir. Minimal tasarımı sayesinde farklı telefon modelleri ile uyumlu şekilde kullanılabilmektedir.
-
-Kurumsal hediyeler, fuarlar, seminerler, lansman organizasyonları, eğitim etkinlikleri ve müşteri promosyonlarında tercih edilen ürünlerden biri olan ATT-230, günlük hayatta sürekli kullanılan bir aksesuar olduğu için markanızın görünürlüğünü uzun süre destekler.
-
-NEDEN PROMOSYON AHŞAP TELEFON TUTUCU ATT-230?
-
-• Doğal kayın ağacından üretilmiştir.
-• Çevre dostu ve geri dönüştürülebilir yapı
-• Masaüstünde ergonomik kullanım
-• Telefonu dik ve sabit tutan tasarım
-• Logo baskısına uygun geniş yüzey
-• Hafif ve dayanıklı yapı
-• Modern ve doğal görünüm
-• Uzun ömürlü kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Ahşap Telefon Tutucu
-
-Model: ATT-230
-
-Kategori: Geri Dönüşümlü Ürünler
-
-Malzeme: 1. Sınıf Kayın Ağacı
-
-Taban: Kaydırmaz Taban
-
-Ürün Ölçüsü:
-
-6,4 x 8 x 1,8 cm
-
-8 x 8,5 x 1,4 cm
-
-Baskı Alanı: Ön Yüzey Logo Baskısı
-
-Baskı Türleri:
-
-Lazer Kazıma
-
-UV Baskı
-
-KULLANIM ALANLARI
-
-• Ofis masaları
-• Çalışma odaları
-• Ev kullanımı
-• Kurumsal ofisler
-• Fuar ve etkinlikler
-• Eğitim kurumları
-• Bankalar
-• Resepsiyon alanları
-• Kurumsal promosyon kampanyaları
-• Çevre dostu marka çalışmaları
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Eğitim kurumları
-• Belediyeler
-• Kamu kuruluşları
-• Teknoloji firmaları
-• Çevre dostu marka projeleri yürüten işletmeler
-
-PROMOSYON AHŞAP TELEFON TUTUCU FİYATLARI
-
-Promosyon ahşap telefon tutucu fiyatları; sipariş adedi, uygulanacak baskı tekniği ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Lazer kazıma ve UV baskı seçenekleri sunulmaktadır.
-• Kurumsal tasarımlar firmanıza özel hazırlanabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-ATT-230 modeli doğal ahşap malzemeden üretildiği için her üründe ahşap damar yapısı ve renk tonlarında küçük farklılıklar görülebilir. Bu durum ürünün doğallığını göstermektedir. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve baskı detaylarının teyit edilmesi tavsiye edilir.
-
-Promosyon ahşap telefon tutucu ATT-230; doğal kayın ağacı gövdesi, çevre dostu yapısı, logo baskısına uygun yüzeyi, ergonomik tasarımı ve uzun ömürlü kullanımı sayesinde markanızın sürdürülebilirlik anlayışını yansıtan kaliteli geri dönüşümlü promosyon ürünleri arasında yer almaktadır.
-`.trim(),
-
-  faq: [
-    {
-      q: "ATT-230 hangi malzemeden üretilmektedir?",
-      a: "ATT-230 modeli doğal 1. sınıf kayın ağacından üretilmektedir."
-    },
-    {
-      q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine lazer kazıma veya UV baskı yöntemiyle firmanıza özel logo ve marka baskısı uygulanabilmektedir."
-    },
-    {
-      q: "Hangi telefon modelleriyle uyumludur?",
-      a: "Standart ölçülerdeki birçok akıllı telefon modeli ile uyumlu olarak kullanılabilmektedir."
-    },
-    {
-      q: "Ürün masa üzerinde kayar mı?",
-      a: "Hayır. Kaydırmaz tabanı sayesinde masa üzerinde dengeli ve güvenli kullanım sunmaktadır."
-    },
-    {
-      q: "Çevre dostu bir ürün müdür?",
-      a: "Evet. Doğal kayın ağacından üretildiği için geri dönüştürülebilir ve çevre dostu promosyon ürünleri arasında yer almaktadır."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel logo baskılı toplu üretim ve avantajlı fiyat seçenekleri sunulmaktadır."
-    }
-  ]
+  faq: [{"q":"ATT-230 hangi özelliklere sahiptir?","a":"Malzeme: Kayın ağacı; Taban: Kaydırmaz."},{"q":"ATT-230 ölçüleri nedir?","a":"6,4 x 8 x 1,8 cm / 8 x 8,5 x 1,4 cm."},{"q":"ATT-230 üzerine hangi baskı uygulanabilir?","a":"Uygun logo uygulaması ürün yüzeyi ve tasarıma göre teklif aşamasında belirlenir."},{"q":"ATT-230 renk veya varyantı nasıl seçilir?","a":"Mevcut renk ve varyant seçenekleri teklif aşamasında teyit edilir."},{"q":"ATT-230 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"ATT-230 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p112",
@@ -9681,146 +9565,20 @@ Promosyon ahşap telefon tutucu ATT-230; doğal kayın ağacı gövdesi, çevre 
   slug: "promosyon-dikisli-defter-gd-100",
 
   title:
-    "Promosyon Dikişli Defter GD-100 | Geri Dönüşümlü Kraft Kapak Logo Baskılı Defter",
+    "Promosyon Dikişli Defter GD-100 | 12,5 x 20 cm Kraft Kapak",
 
-  price: 44.80,
+  price: 44.8,
 
   category: "Geri Dönüşümlü Ürünler",
 
-  image: "/products/promosyon-dikisli-defter-gd-100.jpg",
+  image: "/products/promosyon-dikisli-defter-gd-100-v2.jpg",
 
   shortDesc:
-    "Promosyon dikişli defter GD-100, geri dönüştürülmüş kraft kapağı, 80 sayfalık krem kağıdı, çizgili ve kareli sayfa seçenekleri ile çevre dostu kurumsal tanıtımlar için tercih edilen logo baskılı promosyon defter modellerinden biridir.",
+    "GD-100, kraft kapak ve terzi dikiş cildi bir araya getiren not defteridir.",
 
-  longDesc: `
-Promosyon dikişli defter GD-100 modeli, geri dönüştürülmüş kraft kapak tasarımı ve çevre dostu üretim anlayışıyla sürdürülebilir promosyon ürünleri arasında yer almaktadır. Doğal görünümü, kaliteli kağıdı ve sağlam dikişli cilt yapısı sayesinde günlük kullanım için uzun ömürlü bir çözüm sunmaktadır.
+  longDesc: "GD-100, kraft kapak ve terzi dikiş cildi bir araya getiren not defteridir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-100\nKategori: Geri Dönüşümlü Ürünler\nÜrün ölçüsü: 12,5 x 20 cm\nKapak: Kraft\nKağıt: 70 gr krem, geri dönüşüm kağıdı\nİçerik: 40 yaprak / 80 sayfa\nCilt: Terzi dikiş\nBaskı: UV ve serigrafi\n\nİç sayfa düzeni sipariş öncesinde seçilen varyanta göre teyit edilir.\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında uv ve serigrafi seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-Kurumsal firmalar tarafından fuarlar, seminerler, eğitim organizasyonları, bayi toplantıları ve müşteri ziyaretlerinde sıklıkla tercih edilen promosyon defterler, markaların uzun süre görünür kalmasını sağlayan en etkili tanıtım ürünleri arasında bulunmaktadır. Kullanıcıların her gün not aldığı bir ürün olması sayesinde marka bilinirliğini sürekli destekler.
-
-GD-100 modeli, geri dönüştürülmüş kraft kapağı sayesinde doğallığı ön plana çıkarırken çevreye duyarlı kurumsal kimliğinizi de güçlendirir. Minimal tasarımı sayesinde farklı sektörlerde faaliyet gösteren firmalar için profesyonel ve sade bir görünüm sunmaktadır.
-
-Terzi dikiş sistemi ile üretilen sağlam cilt yapısı, sayfaların uzun süre güvenli şekilde kullanılmasını sağlar. Spiral kullanılmaması ürüne daha ince ve şık bir görünüm kazandırırken taşıma kolaylığı da sunmaktadır.
-
-İç bölümde kullanılan 70 gram krem renkli geri dönüşüm kağıdı yazı yazarken konfor sağlar. Kareli ve çizgili sayfa seçenekleri sayesinde hem teknik notlar hem de günlük kullanım için farklı ihtiyaçlara hitap eder.
-
-Kapak üzerine firmanızın logosu, sloganı veya kurumsal tasarımları UV baskı ya da serigrafi baskı teknikleriyle uygulanabilmektedir. Baskılar kraft zemin üzerinde doğal ve kaliteli bir görünüm oluşturarak markanızın prestijini artırmaktadır.
-
-12,5 x 20 cm ölçüsü sayesinde çantalarda kolay taşınabilir ve masa üzerinde fazla yer kaplamaz. Toplantılar, eğitimler, saha çalışmaları ve günlük kullanım için oldukça pratik bir defter modelidir.
-
-Geri dönüşümlü promosyon ürünleri tercih eden firmalar için GD-100 modeli hem çevreye duyarlı yaklaşımı hem de uzun ömürlü kullanımıyla güçlü bir kurumsal hediye alternatifi oluşturmaktadır.
-
-NEDEN PROMOSYON DİKİŞLİ DEFTER GD-100?
-
-• Geri dönüştürülmüş kraft kapak
-• Doğal ve çevre dostu tasarım
-• Terzi dikişli sağlam cilt
-• 80 sayfa kaliteli krem kağıt
-• Kareli ve çizgili sayfa seçenekleri
-• Logo baskısına uygun kapak yüzeyi
-• Hafif ve kolay taşınabilir yapı
-• Uzun ömürlü günlük kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Dikişli Defter
-
-Model: GD-100
-
-Kategori: Geri Dönüşümlü Ürünler
-
-Ürün Ölçüsü: 12,5 x 20 cm
-
-Kapak: Geri Dönüştürülmüş Kraft Kapak
-
-Kağıt: 70 gr Krem Geri Dönüşüm Kağıdı
-
-Yaprak Sayısı: 40 Yaprak
-
-Sayfa Sayısı: 80 Sayfa
-
-Cilt Tipi: Terzi Dikiş
-
-İç Sayfa:
-
-Çizgili
-
-Kareli
-
-Baskı Türleri:
-
-UV Baskı
-
-Serigrafi Baskı
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Eğitim kurumları
-• Seminerler
-• Fuar organizasyonları
-• Bayi toplantıları
-• Personel hediyeleri
-• Müşteri promosyonları
-• Çevre dostu kampanyalar
-• Günlük not alma
-• Kurumsal etkinlikler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Promosyon ürün tedarikçileri
-• Eğitim kurumları
-• Belediyeler
-• Kamu kuruluşları
-• Çevre dostu projeler yürüten işletmeler
-• Sürdürülebilirlik odaklı markalar
-
-PROMOSYON DİKİŞLİ DEFTER FİYATLARI
-
-Promosyon dikişli defter fiyatları; sipariş adedi, uygulanacak baskı tekniği ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• UV baskı ve serigrafi baskı seçenekleri sunulmaktadır.
-• Kareli veya çizgili iç sayfa tercih edilebilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM NOTU
-
-GD-100 modeli geri dönüştürülmüş kraft kapak kullanılarak üretildiği için her üründe doğal ton ve doku farklılıkları görülebilir. Bu durum ürünün doğal yapısından kaynaklanmaktadır. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve baskı seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon dikişli defter GD-100; geri dönüştürülmüş kraft kapağı, kaliteli krem kağıdı, sağlam terzi dikişli cildi, çevre dostu yapısı ve logo baskısına uygun yüzeyi sayesinde kurumsal tanıtımlarda uzun yıllar kullanılabilecek sürdürülebilir promosyon defter modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-100 defter kaç sayfadır?",
-      a: "GD-100 modeli toplam 80 sayfa (40 yaprak) olarak üretilmektedir."
-    },
-    {
-      q: "İç sayfa seçenekleri nelerdir?",
-      a: "Ürün çizgili ve kareli iç sayfa seçenekleriyle üretilebilmektedir."
-    },
-    {
-      q: "Kapak üzerine firma logosu basılabilir mi?",
-      a: "Evet. Kraft kapak üzerine UV baskı veya serigrafi baskı teknikleriyle firmanıza özel logo uygulanabilmektedir."
-    },
-    {
-      q: "Defter hangi malzemeden üretilmektedir?",
-      a: "Ürün geri dönüştürülmüş kraft kapak ve geri dönüşüm kağıdı kullanılarak üretilmektedir."
-    },
-    {
-      q: "Defter çevre dostu bir ürün müdür?",
-      a: "Evet. Geri dönüştürülebilir malzemeler kullanılarak üretildiği için çevre dostu promosyon ürünleri arasında yer almaktadır."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel logo baskılı toplu üretim ve avantajlı fiyat seçenekleri sunulmaktadır."
-    }
-  ]
+  faq: [{"q":"GD-100 hangi özelliklere sahiptir?","a":"Kapak: Kraft; Kağıt: 70 gr krem, geri dönüşüm kağıdı; İçerik: 40 yaprak / 80 sayfa; Cilt: Terzi dikiş."},{"q":"GD-100 ölçüleri nedir?","a":"12,5 x 20 cm."},{"q":"GD-100 üzerine hangi baskı uygulanabilir?","a":"UV ve serigrafi baskı seçenekleri bulunur."},{"q":"GD-100 iç sayfa düzeni nasıl seçilir?","a":"Çizgili veya kareli varyant seçimi sipariş öncesinde teyit edilir."},{"q":"GD-100 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-100 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p113",
@@ -9828,142 +9586,20 @@ Promosyon dikişli defter GD-100; geri dönüştürülmüş kraft kapağı, kali
   slug: "promosyon-spiralli-notluk-gd-110",
 
   title:
-    "Promosyon Spiralli Notluk GD-110 | Geri Dönüşümlü Logo Baskılı Spiralli Defter",
+    "Promosyon Spiralli Notluk GD-110 | 140 Sayfa Çizgili Not Defteri",
 
   price: 80,
 
   category: "Geri Dönüşümlü Ürünler",
 
-  image: "/products/promosyon-spiralli-notluk-gd-110.jpg",
+  image: "/products/promosyon-spiralli-notluk-gd-110-v2.jpg",
 
   shortDesc:
-    "Promosyon spiralli notluk GD-110, geri dönüştürülmüş kraft kapağı, 140 sayfalık çizgili iç yapısı, kalem bölmesi ve logo baskısına uygun tasarımı ile kurumsal tanıtımlar için tercih edilen çevre dostu promosyon defter modellerinden biridir.",
+    "GD-110, 140 çizgili sayfası ve kalem tutucusuyla toplantı ve eğitimlerde not almak için değerlendirilebilir.",
 
-  longDesc: `
-Promosyon spiralli notluk GD-110 modeli, geri dönüştürülmüş kraft kapak tasarımı, kullanışlı spiral cildi ve entegre kalem bölmesi ile günlük kullanım için geliştirilmiş çevre dostu promosyon ürünleri arasında yer almaktadır.
+  longDesc: "GD-110, 140 çizgili sayfası ve kalem tutucusuyla toplantı ve eğitimlerde not almak için değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-110\nKategori: Geri Dönüşümlü Ürünler\nİçerik: 140 sayfa, çizgili\nKağıt: 60 gr krem\nCilt: Spiral\nKalem tutucu: Var\nBaskı: UV ve serigrafi\n\nÖlçü sipariş öncesinde teyit edilmelidir; ürün başlığında 11,5 x 16,5 cm, teknik açıklamada 11,5 x 16 cm belirtilmektedir.\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında uv ve serigrafi seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-Kompakt ölçüleri sayesinde çanta, evrak çantası veya sırt çantasında kolayca taşınabilir. Toplantılar, eğitimler, saha çalışmaları ve günlük not alma ihtiyaçları için pratik bir kullanım sunmaktadır.
-
-Geri dönüştürülebilir malzemeler kullanılarak üretilen GD-110 modeli, sürdürülebilirlik anlayışını benimseyen firmalar için güçlü bir kurumsal promosyon alternatifidir. Doğal kraft kapak görünümü çevreci marka imajını desteklerken sade ve modern bir tasarım sunmaktadır.
-
-Spiral cilt sistemi sayesinde sayfalar kolayca çevrilir ve tamamen açılarak rahat yazım imkanı sağlar. Uzun süreli kullanımlarda formunu koruyan sağlam yapısı sayesinde kullanıcı deneyimini artırmaktadır.
-
-Ürünün yan kısmında bulunan kalem bölmesi sayesinde not defteri ve kalem birlikte taşınabilir. Bu özellik toplantılar, fuarlar ve eğitim organizasyonlarında kullanım kolaylığı sağlar. Görsellerde yer alan kalem aksesuar amaçlıdır.
-
-140 sayfalık çizgili iç yapısı günlük notlar, toplantı kayıtları, eğitim notları ve planlamalar için yeterli yazım alanı sunmaktadır. 60 gram krem renkli kağıdı göz yormayan yapısıyla uzun süreli kullanım konforu sağlar.
-
-Kapak üzerine firmanızın logosu, sloganı veya kurumsal tasarımları UV baskı veya serigrafi baskı teknikleri ile uygulanabilmektedir. Doğal kraft yüzey üzerinde yapılan baskılar estetik ve profesyonel bir görünüm oluşturur.
-
-Promosyon spiralli notluklar; fuarlar, seminerler, bayi toplantıları, eğitim organizasyonları, personel hediyeleri ve müşteri promosyonlarında en çok tercih edilen kurumsal tanıtım ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON SPİRALLİ NOTLUK GD-110?
-
-• Geri dönüştürülmüş kraft kapak
-• Kullanışlı spiral cilt sistemi
-• Kalem taşıma bölmesi
-• 140 sayfa çizgili iç tasarım
-• Kompakt ve hafif yapı
-• Logo baskısına uygun geniş kapak alanı
-• Günlük kullanıma uygun ergonomik tasarım
-• Çevre dostu promosyon ürünü
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Spiralli Notluk
-
-Model: GD-110
-
-Kategori: Geri Dönüşümlü Ürünler
-
-Ürün Ölçüsü: 11,5 x 16 cm
-
-Kapak: Geri Dönüştürülmüş Kraft Kapak
-
-Kağıt: 60 gr Krem Kağıt
-
-Sayfa Sayısı: 140 Sayfa
-
-İç Sayfa: Çizgili
-
-Cilt Tipi: Spiral
-
-Kalem Bölmesi: Var
-
-Baskı Türleri:
-
-UV Baskı
-
-Serigrafi Baskı
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Fuar organizasyonları
-• Eğitim kurumları
-• Seminerler
-• Toplantılar
-• Personel hediyeleri
-• Bayi toplantıları
-• Müşteri promosyonları
-• Günlük not alma
-• Çevre dostu kampanyalar
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Eğitim kurumları
-• Belediyeler
-• Kamu kuruluşları
-• Sürdürülebilirlik odaklı markalar
-• Promosyon ürün tedarikçileri
-• Çevre dostu projeler yürüten işletmeler
-
-PROMOSYON SPİRALLİ NOTLUK FİYATLARI
-
-Promosyon spiralli notluk fiyatları; sipariş adedi, uygulanacak baskı tekniği ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• UV baskı ve serigrafi baskı seçenekleri sunulmaktadır.
-• Toplu siparişler için özel fiyatlandırma uygulanmaktadır.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Kurumsal projeler için hızlı üretim planlaması yapılabilmektedir.
-
-KULLANIM NOTU
-
-Ürün görsellerinde bulunan kalem aksesuar amaçlıdır ve standart ürün içeriğine dahil değildir. Geri dönüştürülmüş kraft kapak doğal malzemeden üretildiği için renk ve doku farklılıkları görülebilir. Ürün görselleri temsilidir. Sipariş öncesinde stok ve baskı seçeneklerinin teyit edilmesi tavsiye edilir.
-
-Promosyon spiralli notluk GD-110; geri dönüştürülmüş kraft kapağı, kullanışlı spiral cildi, 140 sayfalık çizgili yapısı, kalem bölmesi ve logo baskısına uygun geniş yüzeyi sayesinde çevre dostu kurumsal tanıtımlar için tercih edilen profesyonel promosyon defter modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-110 notluk kaç sayfadır?",
-      a: "GD-110 modeli toplam 140 sayfa çizgili iç yapıya sahiptir."
-    },
-    {
-      q: "Üründe kalem bulunuyor mu?",
-      a: "Hayır. Görsellerde bulunan kalem aksesuar amaçlıdır ve standart ürün içeriğine dahil değildir."
-    },
-    {
-      q: "Kapak üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Kraft kapak üzerine UV baskı veya serigrafi baskı uygulanabilmektedir."
-    },
-    {
-      q: "Notluk geri dönüştürülmüş malzemeden mi üretilmektedir?",
-      a: "Evet. Ürün geri dönüştürülmüş kraft kapak kullanılarak üretilmektedir."
-    },
-    {
-      q: "Kalem bölmesi bulunuyor mu?",
-      a: "Evet. Yan kısmında kalem taşıma bölmesi bulunmaktadır."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel logo baskılı toplu üretim ve avantajlı fiyat seçenekleri sunulmaktadır."
-    }
-  ]
+  faq: [{"q":"GD-110 hangi özelliklere sahiptir?","a":"İçerik: 140 sayfa, çizgili; Kağıt: 60 gr krem; Cilt: Spiral; Kalem tutucu: Var."},{"q":"GD-110 ölçüleri nedir?","a":"Ölçü sipariş öncesinde teyit edilmelidir; ürün başlığında 11,5 x 16,5 cm, teknik açıklamada 11,5 x 16 cm belirtilmektedir."},{"q":"GD-110 üzerine hangi baskı uygulanabilir?","a":"UV ve serigrafi baskı seçenekleri bulunur."},{"q":"GD-110 renk veya varyantı nasıl seçilir?","a":"Mevcut renk ve varyant seçenekleri teklif aşamasında teyit edilir."},{"q":"GD-110 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-110 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p114",
@@ -9971,142 +9607,20 @@ Promosyon spiralli notluk GD-110; geri dönüştürülmüş kraft kapağı, kull
   slug: "promosyon-spiralli-notluk-gd-120",
 
   title:
-    "Promosyon Spiralli Notluk GD-120 | Sert Kraft Kapak Geri Dönüşümlü Logo Baskılı Defter",
+    "Promosyon Spiralli Notluk GD-120 | 16 x 22 cm Sert Kraft Kapak",
 
   price: 176,
 
   category: "Geri Dönüşümlü Ürünler",
 
-  image: "/products/promosyon-spiralli-notluk-gd-120.jpg",
+  image: "/products/promosyon-spiralli-notluk-gd-120-v2.jpg",
 
   shortDesc:
-    "Promosyon spiralli notluk GD-120, sert kraft kapağı, 90 yaprak geri dönüştürülmüş krem kağıdı, spiral cilt yapısı ve logo baskısına uygun geniş yüzeyi ile çevre dostu kurumsal promosyon ürünleri arasında öne çıkan kaliteli defter modellerinden biridir.",
+    "GD-120, 16 x 22 cm ölçüsünde, sert kraft kapaklı spiralli notluk modelidir.",
 
-  longDesc: `
-Promosyon spiralli notluk GD-120 modeli, doğal kraft kapak tasarımı, dayanıklı spiral cilt sistemi ve geri dönüştürülmüş kağıt yapısıyla sürdürülebilir kurumsal tanıtımlar için geliştirilmiş çevre dostu promosyon ürünlerinden biridir.
+  longDesc: "GD-120, 16 x 22 cm ölçüsünde, sert kraft kapaklı spiralli notluk modelidir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-120\nKategori: Geri Dönüşümlü Ürünler\nÜrün ölçüsü: 16 x 22 cm\nKapak: Sert kraft\nKağıt: 70 gr krem, geri dönüşüm kağıdı\nİçerik: 90 yaprak\nBaskı: Serigrafi ve dijital\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında serigrafi ve dijital seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-16 x 22 cm ölçüsü sayesinde toplantılar, eğitimler, seminerler ve günlük ofis kullanımı için geniş ve rahat bir yazım alanı sunar. Masaüstünde şık görünümüyle dikkat çekerken çanta içerisinde de kolay taşınabilir.
-
-Sert kraft kapak yapısı ürüne dayanıklılık kazandırırken doğal görünümü sayesinde çevreci marka kimliğini destekler. Geri dönüştürülebilir malzemelerden üretilmiş olması sürdürülebilirlik projeleri yürüten firmalar için önemli bir avantaj sağlar.
-
-90 yaprak krem renkli iç sayfalar uzun süreli kullanım imkanı sunmaktadır. Bir sayfası çizgili, diğer sayfası kareli kullanım yapısı sayesinde hem yazı hem de teknik çizim, tablo ve planlama ihtiyaçlarına uygun esnek kullanım sağlar.
-
-Spiral cilt sistemi sayfaların tam açılmasını sağlayarak konforlu yazım deneyimi oluşturur. Dayanıklı metal spiral yapısı uzun süreli kullanımlarda formunu koruyarak sayfaların rahat çevrilmesine imkan tanır.
-
-Kapak yüzeyine firmanızın logosu, sloganı veya kurumsal tasarımları serigrafi baskı ya da dijital baskı teknikleri ile uygulanabilmektedir. Geniş baskı alanı markanızın profesyonel şekilde sergilenmesine katkı sağlar.
-
-Promosyon spiralli notluklar; fuarlar, kongreler, eğitim organizasyonları, bayi toplantıları, müşteri ziyaretleri, çalışan hediyeleri ve kurumsal etkinliklerde en çok tercih edilen promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON SPİRALLİ NOTLUK GD-120?
-
-• Sert ve dayanıklı kraft kapak
-• Geri dönüştürülmüş çevre dostu kağıt
-• 90 yaprak geniş kullanım alanı
-• Çizgili ve kareli sayfa kombinasyonu
-• Spiral cilt sistemi
-• Geniş logo baskı alanı
-• Şık ve doğal tasarım
-• Uzun ömürlü kullanım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Spiralli Notluk
-
-Model: GD-120
-
-Kategori: Geri Dönüşümlü Ürünler
-
-Ürün Ölçüsü: 16 x 22 cm
-
-Kapak: Sert Kraft Kapak
-
-Kağıt Türü: Geri Dönüştürülmüş Krem Kağıt
-
-Kağıt Gramajı: 70 gr
-
-Yaprak Sayısı: 90 Yaprak
-
-İç Sayfa:
-Çizgili Sayfa
-Kareli Sayfa
-
-Cilt Tipi: Spiral
-
-Baskı Türleri:
-
-Serigrafi Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Kurumsal firmalar
-• Ofis kullanımı
-• Eğitim kurumları
-• Seminer ve konferanslar
-• Fuar organizasyonları
-• Bayi toplantıları
-• Personel hediyeleri
-• Müşteri promosyonları
-• Çevre dostu kampanyalar
-• Günlük not alma
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal işletmeler
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Üniversiteler
-• Eğitim merkezleri
-• Sürdürülebilirlik odaklı markalar
-• Çevre dostu projeler geliştiren firmalar
-
-PROMOSYON SPİRALLİ NOTLUK FİYATLARI
-
-Promosyon spiralli notluk fiyatları; sipariş adedi, uygulanacak baskı tekniği, üretim detayları ve teslim süresine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Serigrafi ve dijital baskı seçenekleri sunulmaktadır.
-• Kurumsal toplu siparişler kabul edilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Özel üretim ve hızlı teslim seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Geri dönüştürülmüş kraft kapak doğal malzemeden üretildiği için yüzey dokusu ve renk tonlarında küçük farklılıklar görülebilir. Ürün görselleri temsilidir. Baskı alanı ve üretim detayları sipariş öncesinde netleştirilmektedir.
-
-Promosyon spiralli notluk GD-120; sert kraft kapağı, 90 yaprak geri dönüştürülmüş krem kağıdı, çizgili ve kareli sayfa yapısı, dayanıklı spiral cildi ve logo baskısına uygun geniş kapak yüzeyi sayesinde çevre dostu kurumsal promosyon ürünleri arasında öne çıkan profesyonel defter modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-120 notluk kaç yapraktır?",
-      a: "GD-120 modeli toplam 90 yaprak geri dönüştürülmüş krem kağıttan oluşmaktadır."
-    },
-    {
-      q: "İç sayfalar çizgili mi kareli mi?",
-      a: "Defterde hem çizgili hem de kareli sayfa seçenekleri birlikte bulunmaktadır."
-    },
-    {
-      q: "Kapak üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Sert kraft kapak üzerine serigrafi baskı veya dijital baskı uygulanabilmektedir."
-    },
-    {
-      q: "Ürün geri dönüştürülmüş malzemeden mi üretilmektedir?",
-      a: "Evet. Kraft kapak ve kağıt yapısı çevre dostu geri dönüştürülmüş malzemelerden üretilmektedir."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalar için logo baskılı toplu üretim ve özel fiyatlandırma yapılmaktadır."
-    },
-    {
-      q: "Hangi alanlarda tercih edilmektedir?",
-      a: "Fuarlar, eğitim organizasyonları, ofis kullanımı, seminerler, bayi toplantıları ve kurumsal promosyon çalışmalarında yaygın olarak tercih edilmektedir."
-    }
-  ]
+  faq: [{"q":"GD-120 hangi özelliklere sahiptir?","a":"Kapak: Sert kraft; Kağıt: 70 gr krem, geri dönüşüm kağıdı; İçerik: 90 yaprak."},{"q":"GD-120 ölçüleri nedir?","a":"16 x 22 cm."},{"q":"GD-120 üzerine hangi baskı uygulanabilir?","a":"Serigrafi ve dijital baskı seçenekleri bulunur."},{"q":"GD-120 renk veya varyantı nasıl seçilir?","a":"Mevcut renk ve varyant seçenekleri teklif aşamasında teyit edilir."},{"q":"GD-120 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-120 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p115",
@@ -10114,155 +9628,20 @@ Promosyon spiralli notluk GD-120; sert kraft kapağı, 90 yaprak geri dönüşt�
   slug: "promosyon-renkli-yapiskanli-notluk-gd-130",
 
   title:
-    "Promosyon Renkli Yapışkanlı Notluk GD-130 | Logo Baskılı Kraft Kapak Notluk",
+    "Promosyon Yapışkanlı Notluk GD-130 | 17,5 x 12 x 1,5 cm Kraft Kapak",
 
   price: 124,
 
   category: "Yapışkanlı Notluklar",
 
-  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-130.jpg",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-130-v2.jpg",
 
   shortDesc:
-    "Promosyon renkli yapışkanlı notluk GD-130, sert kraft kapağı, yapışkan not kağıtları, renkli indeks ayraçları, kalem bölmesi ve logo baskısına uygun yapısıyla kurumsal promosyon çalışmalarında tercih edilen fonksiyonel masaüstü notluk modellerinden biridir.",
+    "GD-130, sert kraft kapaklı yapışkanlı notluk modelidir.",
 
-  longDesc: `
-Promosyon renkli yapışkanlı notluk GD-130 modeli, günlük ofis kullanımını kolaylaştıran çok fonksiyonlu yapısı ve çevre dostu kraft kapak tasarımıyla kurumsal promosyon ürünleri arasında öne çıkan kullanışlı masaüstü notluk modellerinden biridir.
+  longDesc: "GD-130, sert kraft kapaklı yapışkanlı notluk modelidir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-130\nKategori: Yapışkanlı Notluklar\nÜrün ölçüsü: 17,5 x 12 x 1,5 cm\nKapak: Sert kraft\nNot kağıdı: 70’li\nKoli adedi: 40\nBaskı: Serigrafi ve dijital\nRenk seçenekleri: Turuncu, Kırmızı, Lacivert, Siyah\n\nKalem aksesuardır; standart notluk içeriğine dahil değildir.\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında serigrafi ve dijital seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-17,5 x 12 x 1,5 cm ölçüsü sayesinde çanta içerisinde kolay taşınabilirken toplantılar, eğitimler, seminerler ve günlük iş hayatında pratik kullanım sunar. Katlanabilir tasarımı sayesinde tüm not alma ihtiyaçlarını tek üründe bir araya getirir.
-
-İç bölümünde bulunan büyük yapışkan not kağıtları, renkli indeks ayraçları ve çizgili not sayfaları sayesinde not alma, sayfa işaretleme ve planlama işlemleri kolaylıkla yapılabilir. Günlük organizasyon için oldukça kullanışlı bir masaüstü yardımcısıdır.
-
-Ürün üzerinde bulunan kalem yuvası sayesinde kalem her zaman notluk ile birlikte taşınabilir. Görsellerde yer alan kalem aksesuar amaçlı kullanılabilmekte olup ürün içeriği üretim serisine göre değişiklik gösterebilir.
-
-Sert kraft kapak doğal görünümüyle çevreci kurumsal kimliği desteklerken aynı zamanda ürünü dış etkenlere karşı koruyarak uzun ömürlü kullanım sağlar.
-
-Kapak üzerine firmanıza ait logo, marka adı veya kurumsal tasarımlar serigrafi baskı ya da dijital baskı teknikleri ile uygulanabilmektedir. Geniş baskı alanı sayesinde markanız uzun süre görünürlüğünü korur.
-
-Kırmızı, siyah, lacivert, yeşil ve turuncu renk seçenekleri sayesinde firmanızın kurumsal renklerine uygun alternatifler sunulabilmektedir.
-
-Promosyon yapışkanlı notluklar; fuarlar, seminerler, eğitim organizasyonları, bayi toplantıları, müşteri ziyaretleri ve çalışan hediyeleri için en çok tercih edilen masaüstü promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON YAPIŞKANLI NOTLUK GD-130?
-
-• Sert kraft kapak
-• Büyük yapışkan not kağıtları
-• Renkli indeks ayraçları
-• Çizgili iç not sayfaları
-• Kalem bölmesi
-• Katlanabilir kompakt tasarım
-• Logo baskısına uygun geniş yüzey
-• Günlük kullanıma uygun fonksiyonel yapı
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Yapışkanlı Notluk
-
-Model: GD-130
-
-Kategori: Yapışkanlı Notluklar
-
-Ürün Ölçüsü: 17,5 x 12 x 1,5 cm
-
-Kapak: Sert Kraft Kapak
-
-Not Kağıdı: 70 Yaprak
-
-İç Sayfa: Çizgili
-
-Ek Özellikler:
-
-Yapışkan Not Kağıtları
-
-Renkli İndeks Ayraçları
-
-Kalem Bölmesi
-
-Baskı Türleri:
-
-Serigrafi Baskı
-
-Dijital Baskı
-
-Koli İçi Miktar: 40 Adet
-
-Renk Seçenekleri:
-
-• Kırmızı
-• Siyah
-• Lacivert
-• Yeşil
-• Turuncu
-
-KULLANIM ALANLARI
-
-• Kurumsal firmalar
-• Ofis kullanımı
-• Eğitim kurumları
-• Seminer ve konferanslar
-• Fuar organizasyonları
-• Bayi toplantıları
-• Personel hediyeleri
-• Müşteri promosyonları
-• Günlük planlama
-• Masaüstü organizasyonu
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal işletmeler
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Üniversiteler
-• Eğitim merkezleri
-• Bankalar
-• Sigorta şirketleri
-• Çevre dostu projeler geliştiren firmalar
-
-PROMOSYON YAPIŞKANLI NOTLUK FİYATLARI
-
-Promosyon yapışkanlı notluk fiyatları; sipariş adedi, uygulanacak baskı tekniği, üretim detayları ve teslim süresine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Serigrafi ve dijital baskı seçenekleri sunulmaktadır.
-• Kurumsal toplu siparişler kabul edilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Özel üretim ve hızlı teslim seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Kalem ürün görsellerinde aksesuar olarak kullanılabilir ve standart ürün içeriğine dahil olmayabilir. Renk seçenekleri ve stok durumu üretim dönemine göre değişiklik gösterebilir. Ürün görselleri temsilidir.
-
-Promosyon renkli yapışkanlı notluk GD-130; sert kraft kapağı, yapışkan not kağıtları, renkli indeks ayraçları, çizgili iç sayfaları, kalem bölmesi ve logo baskısına uygun geniş yüzeyi sayesinde kurumsal promosyon çalışmalarında uzun süre kullanılan fonksiyonel masaüstü notluk modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-130 modelinde yapışkan not kağıdı bulunuyor mu?",
-      a: "Evet. Ürün içerisinde büyük yapışkan not kağıtları ve renkli indeks ayraçları bulunmaktadır."
-    },
-    {
-      q: "Kapak üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Sert kraft kapak üzerine serigrafi baskı veya dijital baskı uygulanabilmektedir."
-    },
-    {
-      q: "Üründe kalem bölmesi bulunuyor mu?",
-      a: "Evet. Günlük kullanım kolaylığı sağlayan entegre kalem bölmesi bulunmaktadır."
-    },
-    {
-      q: "Hangi renk seçenekleri mevcuttur?",
-      a: "Kırmızı, siyah, lacivert, yeşil ve turuncu renk seçenekleri sunulmaktadır."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel logo baskılı toplu üretim ve avantajlı fiyatlandırma yapılmaktadır."
-    },
-    {
-      q: "Hangi alanlarda tercih edilmektedir?",
-      a: "Fuarlar, seminerler, eğitim organizasyonları, ofis kullanımı, bayi toplantıları ve kurumsal promosyon çalışmalarında yaygın olarak tercih edilmektedir."
-    }
-  ]
+  faq: [{"q":"GD-130 hangi özelliklere sahiptir?","a":"Kapak: Sert kraft; Not kağıdı: 70’li; Koli adedi: 40."},{"q":"GD-130 ölçüleri nedir?","a":"17,5 x 12 x 1,5 cm."},{"q":"GD-130 üzerine hangi baskı uygulanabilir?","a":"Serigrafi ve dijital baskı seçenekleri bulunur."},{"q":"GD-130 ile kalem birlikte mi verilir?","a":"Kalem aksesuardır; standart ürün içeriğine dahil değildir."},{"q":"GD-130 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-130 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p116",
@@ -10270,153 +9649,20 @@ Promosyon renkli yapışkanlı notluk GD-130; sert kraft kapağı, yapışkan no
   slug: "promosyon-spiralli-not-defteri-gd-140",
 
   title:
-    "Promosyon Spiralli Not Defteri GD-140 | Sert Kraft Kapak Geri Dönüşümlü Logo Baskılı Defter",
+    "Promosyon Spiralli Not Defteri GD-140 | 16,5 x 21,5 cm Sert Kraft Kapak",
 
   price: 225,
 
   category: "Geri Dönüşümlü Ürünler",
 
-  image: "/products/promosyon-spiralli-not-defteri-gd-140.jpg",
+  image: "/products/promosyon-spiralli-not-defteri-gd-140-v2.jpg",
 
   shortDesc:
-    "Promosyon spiralli not defteri GD-140, sert kraft kapağı, 100 yaprak krem renkli kağıdı, renkli elastik kapama bandı ve logo baskısına uygun geniş yüzeyi ile çevre dostu kurumsal promosyon ürünleri arasında öne çıkan kaliteli defter modellerinden biridir.",
+    "GD-140, 100 yaprak krem kağıt ve sert kraft kapakla sunulan spiralli not defteridir.",
 
-  longDesc: `
-Promosyon spiralli not defteri GD-140 modeli, doğal kraft kapak tasarımı, dayanıklı spiral cilt yapısı ve fonksiyonel detaylarıyla günlük kullanıma uygun çevre dostu promosyon ürünlerinden biridir. Modern görünümü sayesinde kurumsal etkinliklerde ve ofis kullanımında profesyonel bir izlenim oluşturur.
+  longDesc: "GD-140, 100 yaprak krem kağıt ve sert kraft kapakla sunulan spiralli not defteridir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-140\nKategori: Geri Dönüşümlü Ürünler\nÜrün ölçüsü: 16,5 x 21,5 cm\nKapak: Sert kraft\nKağıt: 70 gr krem\nİçerik: 100 yaprak\nKoli adedi: 40\nBaskı: Serigrafi ve dijital\nRenk seçenekleri: Turuncu, Kırmızı\n\nKalem aksesuardır; standart notluk içeriğine dahil değildir.\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında serigrafi ve dijital seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-16,5 x 21,5 cm ölçüsü sayesinde toplantılar, eğitimler, seminerler ve günlük not alma ihtiyaçları için geniş yazım alanı sunar. Hem masaüstünde hem de çanta içerisinde rahatlıkla taşınabilecek ideal boyutlara sahiptir.
-
-Dayanıklı sert kraft kapak defteri dış etkenlere karşı korurken doğal görünümü sayesinde çevreci kurumsal kimliği destekler. Kraft kapak ile renkli spiral ve elastik bant kombinasyonu ürüne modern bir tasarım kazandırmaktadır.
-
-100 yaprak 70 gram krem renkli kağıdı uzun süreli kullanım imkanı sunar. Krem renkli sayfalar göz yormayan yapısıyla toplantılar, planlama çalışmaları ve günlük notlar için konforlu bir kullanım sağlar.
-
-Spiral cilt sistemi sayfaların tam açılmasına olanak tanırken elastik kapama bandı defterin düzenli şekilde kapanmasını sağlar. Yan bölümde bulunan kalem tutucu ise kalemin her zaman defterle birlikte taşınmasına yardımcı olur.
-
-Kapak üzerine firmanıza ait logo, marka adı veya kurumsal tasarımlar serigrafi baskı ya da dijital baskı teknikleri ile uygulanabilmektedir. Geniş baskı alanı sayesinde markanız uzun süre görünürlüğünü korur.
-
-Siyah, kırmızı, lacivert, yeşil ve turuncu gibi farklı renk detayları ile sunulan model, firmanızın kurumsal renklerine uygun seçim yapma imkanı sağlamaktadır.
-
-Promosyon spiralli not defterleri; fuarlar, eğitim organizasyonları, seminerler, bayi toplantıları, müşteri ziyaretleri ve çalışan hediyelerinde en çok tercih edilen kurumsal promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON SPİRALLİ NOT DEFTERİ GD-140?
-
-• Sert kraft kapak
-• Dayanıklı spiral cilt
-• 100 yaprak kullanım alanı
-• 70 gr krem renkli kağıt
-• Renkli elastik kapama bandı
-• Kalem tutucu bölmesi
-• Geniş logo baskı alanı
-• Modern ve çevre dostu tasarım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Spiralli Not Defteri
-
-Model: GD-140
-
-Kategori: Geri Dönüşümlü Ürünler
-
-Ürün Ölçüsü: 16,5 x 21,5 cm
-
-Kapak: Sert Kraft Kapak
-
-Kağıt: 70 gr Krem Kağıt
-
-Yaprak Sayısı: 100 Yaprak
-
-Cilt Tipi: Spiral
-
-Kapama Sistemi: Elastik Lastik Bant
-
-Kalem Tutucu: Var
-
-Baskı Türleri:
-
-Serigrafi Baskı
-
-Dijital Baskı
-
-Koli İçi Miktar: 40 Adet
-
-Renk Seçenekleri:
-
-• Siyah
-• Kırmızı
-• Lacivert
-• Yeşil
-• Turuncu
-
-KULLANIM ALANLARI
-
-• Kurumsal firmalar
-• Ofis kullanımı
-• Eğitim kurumları
-• Seminer ve konferanslar
-• Fuar organizasyonları
-• Bayi toplantıları
-• Personel hediyeleri
-• Müşteri promosyonları
-• Günlük not alma
-• Kurumsal etkinlikler
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal işletmeler
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Üniversiteler
-• Eğitim merkezleri
-• Bankalar
-• Sigorta şirketleri
-• Sanayi kuruluşları
-
-PROMOSYON SPİRALLİ NOT DEFTERİ FİYATLARI
-
-Promosyon spiralli not defteri fiyatları; sipariş adedi, uygulanacak baskı tekniği, üretim detayları ve teslim süresine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Serigrafi ve dijital baskı seçenekleri sunulmaktadır.
-• Kurumsal toplu siparişler kabul edilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Özel üretim ve hızlı teslim seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Kalem ürün görsellerinde aksesuar olarak kullanılabilir ve standart ürün içeriğine dahil olmayabilir. Ürün görselleri temsilidir. Sipariş öncesinde renk seçenekleri ve stok durumu teyit edilmesi tavsiye edilir.
-
-Promosyon spiralli not defteri GD-140; sert kraft kapağı, 100 yaprak krem renkli kağıdı, spiral cilt sistemi, elastik kapama bandı, kalem tutucu bölmesi ve logo baskısına uygun geniş yüzeyi sayesinde çevre dostu kurumsal promosyon ürünleri arasında uzun ömürlü ve kullanışlı defter modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-140 not defteri kaç yapraktır?",
-      a: "GD-140 modeli 100 yaprak 70 gram krem renkli kağıttan oluşmaktadır."
-    },
-    {
-      q: "Kapak üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Sert kraft kapak üzerine serigrafi baskı veya dijital baskı uygulanabilmektedir."
-    },
-    {
-      q: "Defterde kalem tutucu bulunuyor mu?",
-      a: "Evet. Üründe pratik kullanım sağlayan entegre kalem tutucu bulunmaktadır."
-    },
-    {
-      q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Siyah, kırmızı, lacivert, yeşil ve turuncu renk detaylarına sahip seçenekler bulunmaktadır."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel logo baskılı toplu üretim ve avantajlı fiyatlandırma sunulmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanılmaktadır?",
-      a: "Fuarlar, seminerler, eğitim organizasyonları, ofis kullanımı, bayi toplantıları ve kurumsal promosyon çalışmalarında yaygın olarak tercih edilmektedir."
-    }
-  ]
+  faq: [{"q":"GD-140 hangi özelliklere sahiptir?","a":"Kapak: Sert kraft; Kağıt: 70 gr krem; İçerik: 100 yaprak; Koli adedi: 40."},{"q":"GD-140 ölçüleri nedir?","a":"16,5 x 21,5 cm."},{"q":"GD-140 üzerine hangi baskı uygulanabilir?","a":"Serigrafi ve dijital baskı seçenekleri bulunur."},{"q":"GD-140 ile kalem birlikte mi verilir?","a":"Kalem aksesuardır; standart ürün içeriğine dahil değildir."},{"q":"GD-140 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-140 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p117",
@@ -10424,152 +9670,20 @@ Promosyon spiralli not defteri GD-140; sert kraft kapağı, 100 yaprak krem renk
   slug: "promosyon-renkli-yapiskanli-notluk-gd-150",
 
   title:
-    "Promosyon Renkli Yapışkanlı Notluk GD-150 | Logo Baskılı Kraft Kapak Notluk",
+    "Promosyon Yapışkanlı Notluk GD-150 | 10 x 15 cm Spiralli Kraft Notluk",
 
   price: 78.8,
 
   category: "Yapışkanlı Notluklar",
 
-  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-150.jpg",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-150-v2.jpg",
 
   shortDesc:
-    "Promosyon renkli yapışkanlı notluk GD-150, sert kraft kapağı, yapışkan not kağıtları, renkli indeks ayraçları, çizgili not sayfaları ve logo baskısına uygun yapısıyla kurumsal tanıtımlar için tercih edilen fonksiyonel promosyon notluk modellerinden biridir.",
+    "GD-150, 10 x 15 cm ölçüsü, 150 çizgili sayfası ve yapışkanlı notluğuyla not alma ve hatırlatma ihtiyaçları için kullanılabilir.",
 
-  longDesc: `
-Promosyon renkli yapışkanlı notluk GD-150 modeli, günlük not alma ihtiyaçlarını tek üründe birleştiren fonksiyonel tasarımı ve çevre dostu kraft kapağıyla kurumsal promosyon ürünleri arasında öne çıkan kullanışlı masaüstü notluk modellerinden biridir.
+  longDesc: "GD-150, 10 x 15 cm ölçüsü, 150 çizgili sayfası ve yapışkanlı notluğuyla not alma ve hatırlatma ihtiyaçları için kullanılabilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-150\nKategori: Yapışkanlı Notluklar\nÜrün ölçüsü: 10 x 15 cm\nKapak: Kraft\nKağıt: 70 gr krem\nİçerik: 150 sayfa, çizgili\nCilt: Spiral\nYapışkanlı notluk: Var\nBaskı: UV ve serigrafi\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında uv ve serigrafi seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-11 x 16 x 1,3 cm ölçüsü sayesinde çanta içerisinde rahatlıkla taşınabilir. Hafif ve kompakt yapısı sayesinde ofislerde, toplantılarda, eğitimlerde ve saha çalışmalarında pratik kullanım sunar.
-
-İç bölümünde bulunan büyük yapışkan not kağıdı, renkli indeks ayraçları ve çizgili not sayfaları sayesinde önemli notlar almak, sayfaları işaretlemek ve günlük planlama yapmak oldukça kolaydır.
-
-Ürün içerisinde yer alan elastik bant kapağın güvenli şekilde kapanmasını sağlarken kullanım sırasında sayfaların düzenli kalmasına yardımcı olur.
-
-Kalem bölmesi sayesinde kalem notluk ile birlikte kolayca taşınabilir. Görsellerde yer alan kalem aksesuar amaçlı kullanılmış olup standart ürün içeriğine dahil olmayabilir.
-
-Sert sıvama kraft kapak hem doğal hem de şık bir görünüm sunarken geri dönüşümlü malzeme kullanımı sayesinde çevre dostu kurumsal promosyon projeleri için ideal bir tercih oluşturur.
-
-Kapak üzerine firmanıza ait logo, marka adı veya kurumsal tasarımlar UV baskı ve serigrafi baskı teknikleriyle uygulanabilmektedir. Böylece ürün uzun süre kullanılan etkili bir reklam aracına dönüşmektedir.
-
-Promosyon yapışkanlı notluklar; fuarlar, seminerler, eğitim organizasyonları, bayi toplantıları, müşteri ziyaretleri, kurumsal etkinlikler ve çalışan hediyeleri için en çok tercih edilen promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON YAPIŞKANLI NOTLUK GD-150?
-
-• Sert sıvama kraft kapak
-• Büyük yapışkan not kağıdı
-• Renkli indeks ayraçları
-• Çizgili not sayfaları
-• Kalem bölmesi
-• Elastik kapatma bandı
-• Logo baskısına uygun geniş yüzey
-• Çevre dostu geri dönüşümlü malzeme
-• Günlük kullanıma uygun kompakt tasarım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Yapışkanlı Notluk
-
-Model: GD-150
-
-Kategori: Yapışkanlı Notluklar
-
-Ürün Ölçüsü: 11 x 16 x 1,3 cm
-
-Kapak: Sert Sıvama Kraft Kapak
-
-Kağıt: 70 gr Krem
-
-Not Sayfası: 70 Yaprak
-
-İç Sayfa: Çizgili
-
-Kağıt Türü: Geri Dönüşüm Kağıdı
-
-Ek Özellikler:
-
-Yapışkan Not Kağıdı
-
-Renkli İndeks Ayraçları
-
-Kalem Bölmesi
-
-Elastik Kapatma Bandı
-
-Baskı Türleri:
-
-UV Baskı
-
-Serigrafi Baskı
-
-KULLANIM ALANLARI
-
-• Kurumsal firmalar
-• Ofis kullanımı
-• Eğitim kurumları
-• Seminer ve konferanslar
-• Fuar organizasyonları
-• Bayi toplantıları
-• Personel hediyeleri
-• Müşteri promosyonları
-• Günlük planlama
-• Masaüstü organizasyonu
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal işletmeler
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Üniversiteler
-• Eğitim merkezleri
-• Bankalar
-• Sigorta şirketleri
-• Çevre dostu projeler geliştiren firmalar
-
-PROMOSYON YAPIŞKANLI NOTLUK FİYATLARI
-
-Promosyon yapışkanlı notluk fiyatları; sipariş adedi, baskı yöntemi, üretim detayları ve teslim süresine göre değişiklik göstermektedir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• UV baskı ve serigrafi baskı seçenekleri sunulmaktadır.
-• Kurumsal toplu siparişler kabul edilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Özel üretim ve hızlı teslim seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Kalem ürün görsellerinde aksesuar olarak kullanılabilir ve standart ürün içeriğine dahil olmayabilir. Ürün renkleri ve stok durumu üretim dönemine göre değişiklik gösterebilir. Ürün görselleri temsilidir.
-
-Promosyon renkli yapışkanlı notluk GD-150; sert kraft kapağı, yapışkan not kağıdı, renkli indeks ayraçları, çizgili not sayfaları, elastik kapatma bandı ve logo baskısına uygun geniş yüzeyi sayesinde uzun süre kullanılan, çevre dostu ve fonksiyonel kurumsal promosyon ürünlerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-150 modelinde yapışkan not kağıdı bulunuyor mu?",
-      a: "Evet. Üründe büyük yapışkan not kağıdı ve renkli indeks ayraçları bulunmaktadır."
-    },
-    {
-      q: "Kapak üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Sert kraft kapak üzerine UV baskı veya serigrafi baskı uygulanabilmektedir."
-    },
-    {
-      q: "Üründe kalem bölmesi mevcut mu?",
-      a: "Evet. Kalemin notluk ile birlikte taşınmasını sağlayan entegre kalem bölmesi bulunmaktadır."
-    },
-    {
-      q: "Üründe elastik kapatma bandı bulunuyor mu?",
-      a: "Evet. Elastik bant sayesinde notluk güvenli şekilde kapatılarak kolay taşınabilir."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel logo baskılı toplu üretim ve avantajlı fiyat seçenekleri sunulmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanılmaktadır?",
-      a: "Ofisler, eğitim kurumları, fuarlar, seminerler, kurumsal etkinlikler, bayi toplantıları ve müşteri promosyonlarında yaygın olarak tercih edilmektedir."
-    }
-  ]
+  faq: [{"q":"GD-150 hangi özelliklere sahiptir?","a":"Kapak: Kraft; Kağıt: 70 gr krem; İçerik: 150 sayfa, çizgili; Cilt: Spiral; Yapışkanlı notluk: Var."},{"q":"GD-150 ölçüleri nedir?","a":"10 x 15 cm."},{"q":"GD-150 üzerine hangi baskı uygulanabilir?","a":"UV ve serigrafi baskı seçenekleri bulunur."},{"q":"GD-150 renk veya varyantı nasıl seçilir?","a":"Mevcut renk ve varyant seçenekleri teklif aşamasında teyit edilir."},{"q":"GD-150 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-150 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p118",
@@ -10577,150 +9691,20 @@ Promosyon renkli yapışkanlı notluk GD-150; sert kraft kapağı, yapışkan no
   slug: "promosyon-spiralli-not-defteri-gd-160",
 
   title:
-    "Promosyon Spiralli Not Defteri GD-160 | Yapışkan Notluklu Logo Baskılı Kraft Defter",
+    "Promosyon Spiralli Not Defteri GD-160 | 8,5 x 14 cm Kraft Kapak",
 
   price: 70,
 
   category: "Yapışkanlı Notluklar",
 
-  image: "/products/promosyon-spiralli-not-defteri-gd-160.jpg",
+  image: "/products/promosyon-spiralli-not-defteri-gd-160-v2.jpg",
 
   shortDesc:
-    "Promosyon spiralli not defteri GD-160, kraft kapağı, yapışkan not kağıtları, renkli indeks ayraçları, kalem tutucu ve logo baskısına uygun yüzeyi ile kurumsal promosyonlarda tercih edilen çok amaçlı masaüstü notluk modellerinden biridir.",
+    "GD-160, 8,5 x 14 cm ölçüsünde, kraft kapaklı spiralli not defteridir.",
 
-  longDesc: `
-Promosyon spiralli not defteri GD-160 modeli, kompakt yapısı ve çok fonksiyonlu tasarımı sayesinde günlük kullanım için geliştirilen çevre dostu promosyon ürünleri arasında yer almaktadır. Yapışkan not kağıtları, renkli indeks ayraçları, çizgili not sayfaları ve kalem tutucu özelliklerini tek üründe buluşturarak pratik kullanım sunmaktadır.
+  longDesc: "GD-160, 8,5 x 14 cm ölçüsünde, kraft kapaklı spiralli not defteridir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-160\nKategori: Yapışkanlı Notluklar\nÜrün ölçüsü: 8,5 x 14 cm\nKapak: Kraft\nKağıt: 70 gr, çizgili\nNot kağıdı: 70’li\nBaskı: Serigrafi ve dijital\n\nKalem aksesuardır; standart notluk içeriğine dahil değildir.\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında serigrafi ve dijital seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-8,5 x 14 cm ölçüsü sayesinde cepte, çantada veya masa üzerinde kolaylıkla kullanılabilir. Küçük boyutuna rağmen sunduğu fonksiyonlar sayesinde toplantılar, eğitimler, fuarlar, seminerler ve saha çalışmaları için oldukça kullanışlıdır.
-
-Ürünün ön kapağı üzerine firmanıza ait logo, slogan veya kurumsal tasarımlar uygulanabilmektedir. Logo baskısı sayesinde uzun süre kullanılan etkili bir reklam ürünü haline gelir ve marka görünürlüğünü artırır.
-
-İç kısmında büyük yapışkan not kağıdı ve renkli indeks ayraçları yer almaktadır. Bu sayede önemli sayfalar kolayca işaretlenebilir ve kısa notlar pratik şekilde alınabilir.
-
-Çizgili not sayfaları günlük not alma, yapılacaklar listesi hazırlama, toplantı notları ve planlama işlemleri için idealdir.
-
-Entegre kalem tutucu bölmesi sayesinde kalem ile birlikte rahatlıkla taşınabilir. Görsellerde bulunan kalem aksesuar amaçlı kullanılmış olup standart ürün içeriğine dahil olmayabilir.
-
-Spiralli cilt yapısı sayfaların rahat çevrilmesini sağlarken dayanıklı kraft kapak ürüne doğal ve çevreci bir görünüm kazandırmaktadır.
-
-Promosyon spiralli not defterleri; eğitim kurumları, belediyeler, bankalar, sigorta şirketleri, fuar organizasyonları ve kurumsal firmalar tarafından en çok tercih edilen promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON SPİRALLİ NOT DEFTERİ GD-160?
-
-• Kompakt ve taşınabilir tasarım
-• Yapışkan not kağıdı
-• Renkli indeks ayraçları
-• Çizgili not sayfaları
-• Spiralli kullanım
-• Kalem tutucu bölmesi
-• Logo baskısına uygun geniş kapak
-• Çevre dostu kraft tasarım
-• Günlük kullanıma uygun fonksiyonel yapı
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Spiralli Not Defteri
-
-Model: GD-160
-
-Kategori: Yapışkanlı Notluklar
-
-Ürün Ölçüsü: 8,5 x 14 cm
-
-Kapak: Kraft Kapak
-
-Cilt Tipi: Spiralli
-
-Kağıt: 70 gr Krem
-
-İç Sayfa: Çizgili
-
-Yaprak Sayısı: 70 Yaprak
-
-Ek Özellikler:
-
-Yapışkan Not Kağıdı
-
-Renkli İndeks Ayraçları
-
-Kalem Tutucu
-
-Baskı Türleri:
-
-Serigrafi Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Ofis kullanımı
-• Toplantılar
-• Eğitim kurumları
-• Seminerler
-• Fuar organizasyonları
-• Kurumsal etkinlikler
-• Müşteri hediyeleri
-• Personel promosyonları
-• Günlük planlama
-• Masaüstü not alma
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Üniversiteler
-• Eğitim merkezleri
-• Bankalar
-• Sigorta şirketleri
-• Çevre dostu projeler geliştiren işletmeler
-
-PROMOSYON SPİRALLİ NOT DEFTERİ FİYATLARI
-
-Promosyon spiralli not defteri fiyatları; sipariş adedi, baskı yöntemi, üretim detayları ve teslim süresine göre değişmektedir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• Serigrafi ve dijital baskı seçenekleri sunulmaktadır.
-• Kurumsal toplu siparişler kabul edilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Hızlı üretim ve özel fiyat seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Kalem ürün görsellerinde aksesuar olarak kullanılabilir ve standart ürün içeriğine dahil olmayabilir. Ürün renkleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Ürün görselleri temsilidir.
-
-Promosyon spiralli not defteri GD-160; yapışkan not kağıtları, renkli indeks ayraçları, çizgili not sayfaları, kalem tutucu ve logo baskısına uygun kraft kapağı sayesinde hem çevre dostu hem de uzun süre kullanılan fonksiyonel promosyon ürünleri arasında yer almaktadır.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-160 modelinde yapışkan not kağıtları bulunuyor mu?",
-      a: "Evet. Üründe büyük yapışkan not kağıdı ve renkli indeks ayraçları bulunmaktadır."
-    },
-    {
-      q: "Kalem tutucu özelliği var mı?",
-      a: "Evet. Üründe entegre kalem tutucu bulunmaktadır. Görsellerde yer alan kalem aksesuar amaçlıdır ve standart ürün içeriğine dahil olmayabilir."
-    },
-    {
-      q: "Kapak üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Kraft kapak üzerine serigrafi veya dijital baskı uygulanabilmektedir."
-    },
-    {
-      q: "İç sayfalar çizgili midir?",
-      a: "Evet. Ürün 70 yaprak çizgili krem kağıttan oluşmaktadır."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel logo baskılı toplu üretim ve avantajlı fiyat seçenekleri sunulmaktadır."
-    },
-    {
-      q: "Hangi alanlarda tercih edilmektedir?",
-      a: "Ofislerde, eğitim kurumlarında, fuarlarda, seminerlerde, toplantılarda, müşteri hediyesi ve kurumsal promosyon çalışmalarında yaygın olarak kullanılmaktadır."
-    }
-  ]
+  faq: [{"q":"GD-160 hangi özelliklere sahiptir?","a":"Kapak: Kraft; Kağıt: 70 gr, çizgili; Not kağıdı: 70’li."},{"q":"GD-160 ölçüleri nedir?","a":"8,5 x 14 cm."},{"q":"GD-160 üzerine hangi baskı uygulanabilir?","a":"Serigrafi ve dijital baskı seçenekleri bulunur."},{"q":"GD-160 ile kalem birlikte mi verilir?","a":"Kalem aksesuardır; standart ürün içeriğine dahil değildir."},{"q":"GD-160 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-160 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p119",
@@ -10728,147 +9712,20 @@ Promosyon spiralli not defteri GD-160; yapışkan not kağıtları, renkli indek
   slug: "promosyon-spiralli-defter-yapiskanli-notluk-gd-170",
 
   title:
-    "Promosyon Spiralli Defter Yapışkanlı Notluk GD-170 | Logo Baskılı Kraft Kapak Not Defteri",
+    "Promosyon Spiralli Defter ve Yapışkanlı Notluk GD-170 | 12,5 x 20,5 cm",
 
   price: 124,
 
   category: "Yapışkanlı Notluklar",
 
-  image: "/products/promosyon-spiralli-defter-yapiskanli-notluk-gd-170.jpg",
+  image: "/products/promosyon-spiralli-defter-yapiskanli-notluk-gd-170-v2.jpg",
 
   shortDesc:
-    "Promosyon spiralli defter GD-170, kraft kapak tasarımı, yapışkan not kağıtları, renkli indeks ayraçları ve logo baskısına uygun yüzeyi ile kurumsal tanıtımlarda tercih edilen çevre dostu promosyon not defteri modellerinden biridir.",
+    "GD-170, spiralli defter ile yapışkanlı notluğu bir araya getirir; 100 yaprak 80 gr ivory kağıt içerir.",
 
-  longDesc: `
-Promosyon spiralli defter yapışkanlı notluk GD-170 modeli, not defteri ve yapışkan notluk özelliklerini tek üründe buluşturan fonksiyonel promosyon ürünleri arasında yer almaktadır. Günlük kullanım kolaylığı sağlayan tasarımı sayesinde ofis çalışanları, öğrenciler, satış ekipleri ve kurumsal firmalar tarafından sıklıkla tercih edilmektedir.
+  longDesc: "GD-170, spiralli defter ile yapışkanlı notluğu bir araya getirir; 100 yaprak 80 gr ivory kağıt içerir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-170\nKategori: Yapışkanlı Notluklar\nÜrün ölçüsü: 12,5 x 20,5 cm\nKağıt: 80 gr ivory, geri dönüşüm kağıdı\nİçerik: 100 yaprak\nCilt: Spiral\nYapışkanlı notluk: Var\nBaskı: UV ve serigrafi\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında uv ve serigrafi seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-12,5 x 20,5 cm ölçüsü ile çanta içerisinde rahat taşınabilirken masaüstünde de konforlu kullanım sunmaktadır. Spiralli cilt yapısı sayfaların kolay çevrilmesini sağlarken sağlam kapağı uzun süreli kullanım avantajı sunmaktadır.
-
-İç bölümde bulunan büyük yapışkan not kağıdı ve renkli indeks ayraçları; önemli notların işaretlenmesini, sayfaların düzenlenmesini ve hızlı hatırlatmalar oluşturulmasını kolaylaştırmaktadır.
-
-100 yaprak 80 gr Ivory iç sayfası günlük not alma, toplantı kayıtları, eğitim notları, proje planlamaları ve ajanda amaçlı kullanımlar için idealdir.
-
-Kapak yüzeyi üzerine firmanıza ait logo, slogan veya kurumsal tasarımlar UV baskı ya da serigrafi baskı yöntemleri ile uygulanabilmektedir. Böylece uzun süre kullanılan etkili bir reklam ve kurumsal tanıtım ürünü elde edilir.
-
-Geri dönüştürülebilir kraft kapak yapısı çevre dostu kurumsal promosyon projeleri için önemli avantaj sağlarken doğal görünümü sayesinde modern ve şık bir tasarım sunmaktadır.
-
-Promosyon spiralli defter GD-170 modeli; fuarlar, seminerler, eğitim organizasyonları, bayi toplantıları, lansman etkinlikleri ve kurumsal hediye çalışmalarında en çok tercih edilen promosyon defter modellerinden biridir.
-
-NEDEN PROMOSYON SPİRALLİ DEFTER GD-170?
-
-• Yapışkan not kağıdı bölmesi
-• Renkli indeks ayraçları
-• Spiralli kullanım kolaylığı
-• Dayanıklı kraft kapak
-• 100 yaprak kaliteli iç sayfa
-• Logo baskısına uygun geniş kapak
-• Çevre dostu tasarım
-• Uzun ömürlü kullanım
-• Kurumsal promosyonlar için ideal
-• Günlük kullanıma uygun ergonomik yapı
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Spiralli Defter
-
-Model: GD-170
-
-Kategori: Yapışkanlı Notluklar
-
-Ürün Ölçüsü: 12,5 x 20,5 cm
-
-Kapak: Kraft Kapak
-
-Cilt Tipi: Spiralli
-
-Kağıt: 80 gr Ivory
-
-Yaprak Sayısı: 100 Yaprak
-
-İç Sayfa: Çizgili
-
-Ek Özellikler:
-
-Yapışkan Not Kağıdı
-
-Renkli İndeks Ayraçları
-
-Baskı Türleri:
-
-UV Baskı
-
-Serigrafi Baskı
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Eğitim kurumları
-• Üniversiteler
-• Fuar organizasyonları
-• Seminerler
-• Toplantılar
-• Satış ekipleri
-• Müşteri hediyeleri
-• Personel promosyonları
-• Günlük not alma
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Eğitim merkezleri
-• Bankalar
-• Sigorta şirketleri
-• Teknoloji firmaları
-• Çevre dostu projeler geliştiren işletmeler
-
-PROMOSYON SPİRALLİ DEFTER FİYATLARI
-
-Promosyon spiralli defter fiyatları; sipariş adedi, baskı yöntemi, üretim süreci ve teslim süresine göre değişmektedir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı üretim yapılabilmektedir.
-• UV ve serigrafi baskı seçenekleri sunulmaktadır.
-• Toplu kurumsal siparişler kabul edilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Özel üretim ve hızlı teslim seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Ürün renkleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Ürün görselleri temsilidir.
-
-Promosyon spiralli defter yapışkanlı notluk GD-170; yapışkan not kağıtları, renkli indeks ayraçları, kaliteli Ivory iç sayfaları ve logo baskısına uygun kraft kapağı sayesinde hem çevre dostu hem de uzun süre kullanılan profesyonel promosyon ürünleri arasında yer almaktadır.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-170 modelinde yapışkan not kağıdı bulunuyor mu?",
-      a: "Evet. Üründe büyük yapışkan not kağıdı ve renkli indeks ayraçları bulunmaktadır."
-    },
-    {
-      q: "Kapak üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. UV baskı ve serigrafi baskı yöntemleri ile logo uygulanabilmektedir."
-    },
-    {
-      q: "İç sayfalar kaç yapraktır?",
-      a: "Ürün 100 yaprak 80 gr Ivory çizgili iç sayfaya sahiptir."
-    },
-    {
-      q: "Defter geri dönüşümlü malzemeden mi üretilmiştir?",
-      a: "Evet. Kraft kapak yapısı sayesinde çevre dostu promosyon ürünleri arasında yer almaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanılmaktadır?",
-      a: "Ofislerde, toplantılarda, eğitim kurumlarında, fuarlarda, seminerlerde ve kurumsal promosyon çalışmalarında tercih edilmektedir."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel logo baskılı toplu üretim ve avantajlı fiyat seçenekleri sunulmaktadır."
-    }
-  ]
+  faq: [{"q":"GD-170 hangi özelliklere sahiptir?","a":"Kağıt: 80 gr ivory, geri dönüşüm kağıdı; İçerik: 100 yaprak; Cilt: Spiral; Yapışkanlı notluk: Var."},{"q":"GD-170 ölçüleri nedir?","a":"12,5 x 20,5 cm."},{"q":"GD-170 üzerine hangi baskı uygulanabilir?","a":"UV ve serigrafi baskı seçenekleri bulunur."},{"q":"GD-170 renk veya varyantı nasıl seçilir?","a":"Mevcut renk ve varyant seçenekleri teklif aşamasında teyit edilir."},{"q":"GD-170 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-170 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p120",
@@ -10876,147 +9733,20 @@ Promosyon spiralli defter yapışkanlı notluk GD-170; yapışkan not kağıtlar
   slug: "promosyon-renkli-yapiskanli-notluk-gd-180",
 
   title:
-    "Promosyon Yapışkanlı Notluk GD-180 | Spiralli Kraft Defter ve Kalem Tutuculu Notluk",
+    "Promosyon Yapışkanlı Notluk GD-180 | 10,5 x 14,7 cm Çizgili Notluk",
 
   price: 90,
 
   category: "Yapışkanlı Notluklar",
 
-  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-180.jpg",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-180-v2.jpg",
 
   shortDesc:
-    "Promosyon yapışkanlı notluk GD-180, spiralli yapısı, kraft kapak tasarımı, yapışkan not kağıdı, kalem tutucu ve logo baskısına uygun yüzeyi ile kurumsal tanıtımlar için tercih edilen fonksiyonel promosyon notluk modellerinden biridir.",
+    "GD-180, 120 çizgili sayfası ve kraft kapağıyla kurumsal not alma ihtiyaçlarında değerlendirilebilecek yapışkanlı notluk modelidir.",
 
-  longDesc: `
-Promosyon yapışkanlı notluk GD-180 modeli, günlük not alma ihtiyaçlarını karşılayan fonksiyonel tasarımı ve çevre dostu görünümü ile öne çıkan promosyon ürünleri arasında yer almaktadır. Spiralli defter, yapışkan not kağıdı, kalem tutucu ve sert kraft kapak özelliklerini tek üründe bir araya getirerek pratik kullanım sunmaktadır.
+  longDesc: "GD-180, 120 çizgili sayfası ve kraft kapağıyla kurumsal not alma ihtiyaçlarında değerlendirilebilecek yapışkanlı notluk modelidir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-180\nKategori: Yapışkanlı Notluklar\nÜrün ölçüsü: 10,5 x 14,7 cm\nKapak: Kraft\nKağıt: 70 gr krem\nİçerik: 120 sayfa, çizgili\nBaskı: Serigrafi\nRenk seçenekleri: Kırmızı, Lacivert, Yeşil\n\nKalem aksesuardır; standart notluk içeriğine dahil değildir.\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında serigrafi seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-10,5 x 14,7 cm ölçüsü sayesinde çanta içerisinde kolay taşınabilir ve masa üzerinde rahatlıkla kullanılabilir. Kompakt yapısı sayesinde ofis çalışanları, öğrenciler, satış ekipleri ve saha personelleri için ideal bir yardımcıdır.
-
-120 sayfa çizgili iç yapısı toplantı notları, günlük planlamalar, eğitim notları ve yapılacaklar listeleri oluşturmak için geniş kullanım alanı sunmaktadır.
-
-İç bölümde bulunan yapışkan not kağıdı sayesinde kısa notlar, hatırlatmalar ve önemli bilgiler kolayca işaretlenebilir. Böylece hem not defteri hem de masaüstü notluk olarak kullanılabilir.
-
-Kapakta bulunan elastik kalem tutucu bölmesi kalemin güvenli şekilde taşınmasını sağlar. Görsellerde bulunan kalem aksesuar amaçlı kullanılmış olup standart ürün içeriğine dahil olmayabilir.
-
-Kraft kapak tasarımı doğal görünümü ile çevre dostu kurumsal promosyon çalışmalarına uyum sağlarken farklı renk kombinasyonları sayesinde firmanızın kurumsal kimliğine uygun alternatifler sunmaktadır.
-
-Kapak üzerine serigrafi baskı yöntemi ile firmanıza ait logo, marka adı veya slogan uygulanabilmektedir. Böylece uzun süre kullanılan etkili bir reklam ürünü elde edilir.
-
-Promosyon yapışkanlı notluk GD-180 modeli; fuarlar, seminerler, eğitim organizasyonları, bayi toplantıları, kurumsal etkinlikler ve müşteri hediyeleri için tercih edilen kullanışlı promosyon ürünlerinden biridir.
-
-NEDEN PROMOSYON YAPIŞKANLI NOTLUK GD-180?
-
-• Spiralli kullanım kolaylığı
-• Yapışkan not kağıdı bölmesi
-• 120 sayfa çizgili iç yapı
-• Dayanıklı kraft kapak
-• Kalem tutucu elastik bant
-• Logo baskısına uygun geniş kapak
-• Çevre dostu tasarım
-• Hafif ve taşınabilir yapı
-• Kurumsal promosyonlar için ideal
-• Günlük kullanıma uygun ergonomik tasarım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Yapışkanlı Notluk
-
-Model: GD-180
-
-Kategori: Yapışkanlı Notluklar
-
-Ürün Ölçüsü: 10,5 x 14,7 cm
-
-Kapak: Kraft Kapak
-
-Cilt Tipi: Spiralli
-
-Kağıt: 70 gr Krem
-
-İç Sayfa: Çizgili
-
-Sayfa Sayısı: 120 Sayfa
-
-Ek Özellikler:
-
-Yapışkan Not Kağıdı
-
-Kalem Tutucu Elastik Bant
-
-Baskı Türü:
-
-Serigrafi Baskı
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Eğitim kurumları
-• Üniversiteler
-• Fuar organizasyonları
-• Seminerler
-• Toplantılar
-• Satış ekipleri
-• Müşteri hediyeleri
-• Personel promosyonları
-• Günlük planlama
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Eğitim merkezleri
-• Bankalar
-• Sigorta şirketleri
-• Sağlık kuruluşları
-• Çevre dostu projeler geliştiren işletmeler
-
-PROMOSYON YAPIŞKANLI NOTLUK FİYATLARI
-
-Promosyon yapışkanlı notluk fiyatları; sipariş adedi, baskı yöntemi, üretim süreci ve teslim süresine göre değişmektedir. Toplu siparişlerde kurumsal firmalara özel avantajlı fiyat seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı üretim yapılabilmektedir.
-• Serigrafi baskı uygulanabilmektedir.
-• Kurumsal toplu siparişler kabul edilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Özel üretim ve hızlı teslim seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Kalem ürün görsellerinde aksesuar olarak kullanılabilir ve standart ürün içeriğine dahil olmayabilir. Ürün renkleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Ürün görselleri temsilidir.
-
-Promosyon yapışkanlı notluk GD-180; spiralli yapısı, yapışkan not bölmesi, kalem tutucu, çevre dostu kraft kapağı ve logo baskısına uygun tasarımı sayesinde uzun süre kullanılan fonksiyonel promosyon ürünleri arasında yer almaktadır.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-180 modelinde yapışkan not kağıdı bulunuyor mu?",
-      a: "Evet. Üründe yapışkan not kağıdı bölmesi bulunmaktadır."
-    },
-    {
-      q: "Kalem tutucu özelliği var mı?",
-      a: "Evet. Kapak üzerinde elastik kalem tutucu yer almaktadır. Görsellerdeki kalem aksesuar amaçlıdır ve standart ürün içeriğine dahil olmayabilir."
-    },
-    {
-      q: "Kapak üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine serigrafi baskı yöntemi ile logo ve kurumsal tasarımlar uygulanabilmektedir."
-    },
-    {
-      q: "Defter kaç sayfadır?",
-      a: "Ürün 120 sayfa çizgili iç yapıya sahiptir."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel logo baskılı toplu üretim ve avantajlı fiyat seçenekleri sunulmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanılmaktadır?",
-      a: "Ofislerde, eğitim kurumlarında, fuarlarda, toplantılarda, seminerlerde ve kurumsal promosyon organizasyonlarında yaygın olarak tercih edilmektedir."
-    }
-  ]
+  faq: [{"q":"GD-180 hangi özelliklere sahiptir?","a":"Kapak: Kraft; Kağıt: 70 gr krem; İçerik: 120 sayfa, çizgili."},{"q":"GD-180 ölçüleri nedir?","a":"10,5 x 14,7 cm."},{"q":"GD-180 üzerine hangi baskı uygulanabilir?","a":"Serigrafi baskı seçenekleri bulunur."},{"q":"GD-180 ile kalem birlikte mi verilir?","a":"Kalem aksesuardır; standart ürün içeriğine dahil değildir."},{"q":"GD-180 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-180 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p121",
@@ -13134,157 +11864,20 @@ Promosyon porselen kupa PK-110, kaliteli porselen yapısı, çift yön renkli ba
   slug: "promosyon-renkli-yapiskanli-notluk-9x14-gd-190",
 
   title:
-    "Promosyon Yapışkanlı Notluk GD-190 | 9x14 cm Spiralli Logo Baskılı Kraft Notluk",
+    "Promosyon Yapışkanlı Notluk GD-190 | 9 x 14 cm Geri Dönüşümlü Notluk",
 
-  price: 82,
+  price: 100,
 
   category: "Yapışkanlı Notluklar",
 
-  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-190.jpg",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-190-v2.jpg",
 
   shortDesc:
-    "Promosyon yapışkanlı notluk GD-190, 9 x 14 cm kompakt ölçüsü, spiralli not defteri, yapışkan not kağıtları ve logo baskısına uygun kraft kapağı ile kurumsal tanıtımlarda tercih edilen kullanışlı promosyon notluk modellerinden biridir.",
+    "GD-190, renkli yapışkanlı not kağıdı içeren 9 x 14 cm ölçüsünde geri dönüşümlü notluktur.",
 
-  longDesc: `
-Promosyon yapışkanlı notluk GD-190 modeli, kompakt yapısı ve çok amaçlı kullanım özellikleri sayesinde günlük ofis hayatında sık tercih edilen fonksiyonel promosyon ürünleri arasında yer almaktadır. Spiralli not defteri, yapışkan not kağıtları ve geri dönüştürülebilir kraft kapağı ile hem kullanışlı hem de çevre dostu bir çözümdür.
+  longDesc: "GD-190, renkli yapışkanlı not kağıdı içeren 9 x 14 cm ölçüsünde geri dönüşümlü notluktur.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-190\nKategori: Yapışkanlı Notluklar\nÜrün ölçüsü: 9 x 14 cm\nÜrün tipi: Geri dönüşümlü notluk\nİçerik: Renkli yapışkanlı not kağıdı\nRenk seçenekleri: Yeşil, Kraft, Kırmızı, Mavi\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasının yöntemi ve yeri teklif aşamasında netleştirilir. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-9 x 14 cm ölçüsü sayesinde cepte, çantada veya masa üzerinde rahatlıkla kullanılabilir. Küçük boyutu sayesinde satış ekipleri, öğrenciler, ofis çalışanları ve saha personelleri için pratik kullanım sunmaktadır.
-
-Kapak içerisinde büyük yapışkan not kağıdı ile birlikte farklı boyutlarda renkli indeks ayraçları yer almaktadır. Bu sayede önemli notlar kolayca işaretlenebilir, sayfalar düzenlenebilir ve günlük planlamalar daha verimli hale getirilebilir.
-
-Alt bölümde bulunan spiralli çizgili not defteri günlük not alma, toplantı kayıtları, eğitim notları ve yapılacaklar listeleri oluşturmak için idealdir.
-
-Kapak üzerine firmanıza ait logo, marka adı veya kurumsal tasarımlar uygulanabilmektedir. Böylece uzun süre kullanılan etkili bir reklam ürünü elde edilir ve marka görünürlüğü sürekli devam eder.
-
-Geri dönüştürülebilir karton kapak doğal görünümüyle çevre dostu kurumsal projelere uyum sağlarken farklı renk alternatifleri sayesinde firmanızın kurumsal kimliğine uygun seçim yapılabilmektedir.
-
-Promosyon yapışkanlı notluk GD-190 modeli; fuarlar, seminerler, eğitim organizasyonları, bayi toplantıları, lansman etkinlikleri ve kurumsal promosyon kampanyalarında en çok tercih edilen masaüstü promosyon ürünlerinden biridir.
-
-NEDEN PROMOSYON YAPIŞKANLI NOTLUK GD-190?
-
-• Kompakt ve taşınabilir tasarım
-• Spiralli çizgili not defteri
-• Yapışkan not kağıdı
-• Renkli indeks ayraçları
-• Geri dönüştürülebilir kraft kapak
-• Logo baskısına uygun geniş baskı alanı
-• Günlük kullanıma uygun ergonomik yapı
-• Hafif ve dayanıklı tasarım
-• Kurumsal promosyonlar için ideal
-• Uzun süre marka görünürlüğü sağlar
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Yapışkanlı Notluk
-
-Model: GD-190
-
-Kategori: Yapışkanlı Notluklar
-
-Ürün Ölçüsü: 9 x 14 cm
-
-Kapak: Geri Dönüştürülebilir Kraft Karton
-
-Cilt Tipi: Spiralli
-
-İç Sayfa: Çizgili
-
-Ek Özellikler:
-
-Büyük Yapışkan Not Kağıdı
-
-Renkli İndeks Ayraçları
-
-Logo Baskısına Uygun Kapak
-
-Renk Seçenekleri:
-
-Kraft
-
-Kırmızı
-
-Yeşil
-
-Mavi
-
-Baskı Türleri:
-
-Serigrafi Baskı
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Eğitim kurumları
-• Üniversiteler
-• Fuar organizasyonları
-• Seminerler
-• Toplantılar
-• Satış ekipleri
-• Müşteri hediyeleri
-• Personel promosyonları
-• Günlük planlama
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Eğitim merkezleri
-• Bankalar
-• Sigorta şirketleri
-• Sağlık kuruluşları
-• Çevre dostu projeler geliştiren işletmeler
-
-PROMOSYON YAPIŞKANLI NOTLUK FİYATLARI
-
-Promosyon yapışkanlı notluk fiyatları; sipariş adedi, baskı yöntemi, üretim süreci ve teslim süresine göre değişmektedir. Toplu siparişlerde kurumsal firmalara özel avantajlı fiyat teklifleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı üretim yapılabilmektedir.
-• Serigrafi, UV ve dijital baskı seçenekleri sunulmaktadır.
-• Kurumsal toplu siparişler kabul edilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Özel üretim ve hızlı teslim seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Ürün renkleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Ürün görselleri temsilidir.
-
-Promosyon yapışkanlı notluk GD-190; spiralli not defteri, yapışkan not kağıdı, renkli indeks ayraçları ve logo baskısına uygun çevre dostu kraft kapağı sayesinde hem kullanışlı hem de uzun ömürlü reklam değeri sunan profesyonel promosyon ürünleri arasında yer almaktadır.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-190 modelinde yapışkan not kağıdı bulunuyor mu?",
-      a: "Evet. Üründe büyük yapışkan not kağıdı ve farklı renklerde indeks ayraçları bulunmaktadır."
-    },
-    {
-      q: "Kapak üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine serigrafi, UV veya dijital baskı yöntemleri ile logo uygulanabilmektedir."
-    },
-    {
-      q: "Defter spiralli midir?",
-      a: "Evet. Ürün kolay kullanım sağlayan spiralli cilt yapısına sahiptir."
-    },
-    {
-      q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "Kraft, kırmızı, yeşil ve mavi renk seçenekleri bulunmaktadır. Stok durumuna göre değişiklik gösterebilir."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel logo baskılı toplu üretim ve avantajlı fiyat seçenekleri sunulmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanılmaktadır?",
-      a: "Ofislerde, fuarlarda, seminerlerde, eğitim kurumlarında, toplantılarda ve kurumsal promosyon organizasyonlarında yaygın olarak tercih edilmektedir."
-    }
-  ]
+  faq: [{"q":"GD-190 hangi özelliklere sahiptir?","a":"Ürün tipi: Geri dönüşümlü notluk; İçerik: Renkli yapışkanlı not kağıdı."},{"q":"GD-190 ölçüleri nedir?","a":"9 x 14 cm."},{"q":"GD-190 üzerine hangi baskı uygulanabilir?","a":"Uygun logo uygulaması ürün yüzeyi ve tasarıma göre teklif aşamasında belirlenir."},{"q":"GD-190 renk seçenekleri nelerdir?","a":"Yeşil, Kraft, Kırmızı, Mavi. Güncel stok sipariş öncesinde teyit edilir."},{"q":"GD-190 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-190 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p145",
@@ -13292,147 +11885,20 @@ Promosyon yapışkanlı notluk GD-190; spiralli not defteri, yapışkan not kağ
   slug: "promosyon-renkli-yapiskanli-notluk-14x10-gd-200",
 
   title:
-    "Promosyon Yapışkanlı Notluk GD-200 | 14 x 10,7 cm Logo Baskılı Kalemli Notluk",
+    "Promosyon Yapışkanlı Notluk GD-200 | 10,7 x 14 cm Kraft Kapak",
 
-  price: 106,
+  price: 118,
 
   category: "Yapışkanlı Notluklar",
 
-  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-200.jpg",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-200-v2.jpg",
 
   shortDesc:
-    "Promosyon yapışkanlı notluk GD-200, 14 x 10,7 cm ölçüsü, günlük planlama sayfaları, yapışkan not kağıtları, kalem tutucu ve logo baskısına uygun kraft kapağı ile kurumsal promosyonlarda tercih edilen fonksiyonel masaüstü notluk modellerinden biridir.",
+    "GD-200, 10,7 x 14 cm ölçüsünde, kalem tutuculu ve kraft kapaklı yapışkanlı notluk modelidir.",
 
-  longDesc: `
-Promosyon yapışkanlı notluk GD-200 modeli, günlük planlama, not alma ve hatırlatma ihtiyaçlarını tek üründe buluşturan çok fonksiyonlu promosyon ürünlerinden biridir. Geri dönüştürülebilir kraft kapak tasarımı, yapışkan not kağıtları ve günlük ajanda sayfası sayesinde hem ofis hem de saha kullanımında büyük kolaylık sağlar.
+  longDesc: "GD-200, 10,7 x 14 cm ölçüsünde, kalem tutuculu ve kraft kapaklı yapışkanlı notluk modelidir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-200\nKategori: Yapışkanlı Notluklar\nÜrün ölçüsü: 10,7 x 14 cm\nKapak: Kraft\nKalem tutucu: Var\nYapışkanlı notluk: Var\nBaskı: UV ve serigrafi\n\nKalem aksesuardır; standart notluk içeriğine dahil değildir.\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında uv ve serigrafi seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-14 x 10,7 cm ölçüsü sayesinde masa üzerinde rahat kullanım sunarken çanta içerisinde de kolay taşınabilir. Toplantılar, fuarlar, eğitim organizasyonları ve günlük çalışma hayatında pratik kullanım sağlamaktadır.
-
-Ürün içerisinde büyük ve küçük boy yapışkan not kağıtları, renkli indeks ayraçları ve saat planlamalı günlük not sayfası bulunmaktadır. Bu sayede günlük program oluşturma, önemli notları işaretleme ve görev takibi oldukça kolay hale gelir.
-
-Kalem tutucu bölmesi sayesinde kalem her zaman ürün ile birlikte taşınabilir. Ürün görsellerindeki kalem aksesuar amaçlı olup isteğe bağlı olarak farklı promosyon kalemlerle birlikte de sunulabilmektedir.
-
-Kapak üzerine firmanıza ait logo, marka adı veya kurumsal tasarımlar uygulanabilmektedir. Böylece uzun süre kullanılan etkili bir reklam ürünü elde edilir ve marka bilinirliği sürekli desteklenmiş olur.
-
-Doğal kraft görünümü ve geri dönüştürülebilir yapısı çevre dostu kurumsal projeler için ideal bir tercih oluştururken, masaüstünde şık ve profesyonel bir görünüm sunmaktadır.
-
-Promosyon yapışkanlı notluk GD-200 modeli; kurumsal firmalar, eğitim kurumları, bankalar, belediyeler, fuarlar, seminerler ve promosyon kampanyaları için en çok tercih edilen masaüstü promosyon ürünlerinden biridir.
-
-NEDEN PROMOSYON YAPIŞKANLI NOTLUK GD-200?
-
-• Günlük planlama sayfaları
-• Büyük ve küçük yapışkan not kağıtları
-• Renkli indeks ayraçları
-• Kalem tutucu bölmesi
-• Geri dönüştürülebilir kraft kapak
-• Logo baskısına uygun geniş yüzey
-• Taşınabilir kompakt tasarım
-• Uzun ömürlü kullanım
-• Kurumsal promosyonlar için ideal
-• Marka görünürlüğünü artırır
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Yapışkanlı Notluk
-
-Model: GD-200
-
-Kategori: Yapışkanlı Notluklar
-
-Ürün Ölçüsü: 14 x 10,7 cm
-
-Malzeme: Geri Dönüştürülebilir Kraft Karton
-
-İçerik:
-
-Günlük Planlama Sayfası
-
-Büyük Yapışkan Not Kağıdı
-
-Küçük Yapışkan Not Kağıdı
-
-Renkli İndeks Ayraçları
-
-Kalem Tutucu
-
-Baskı Türleri:
-
-Serigrafi Baskı
-
-UV Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Toplantılar
-• Eğitim kurumları
-• Üniversiteler
-• Seminerler
-• Fuar organizasyonları
-• Satış ekipleri
-• Müşteri hediyeleri
-• Personel promosyonları
-• Günlük planlama
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Eğitim merkezleri
-• Bankalar
-• Sigorta şirketleri
-• Sağlık kuruluşları
-• Çevre dostu projeler geliştiren işletmeler
-
-PROMOSYON YAPIŞKANLI NOTLUK FİYATLARI
-
-Promosyon yapışkanlı notluk fiyatları; sipariş adedi, baskı yöntemi, üretim süreci ve teslim süresine göre değişmektedir. Toplu siparişlerde kurumsal firmalara özel avantajlı fiyat teklifleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı üretim yapılabilmektedir.
-• Serigrafi, UV ve dijital baskı seçenekleri sunulmaktadır.
-• Kurumsal toplu siparişler kabul edilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Özel üretim ve hızlı teslim seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Ürün görsellerinde yer alan kalem aksesuar amaçlıdır ve standart ürün içeriğine dahil olmayabilir. Renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir.
-
-Promosyon yapışkanlı notluk GD-200; günlük planlama sayfaları, yapışkan not kağıtları, renkli indeks ayraçları, kalem tutucu ve logo baskısına uygun çevre dostu kraft kapağı sayesinde kurumsal tanıtımlarda uzun süre kullanılan profesyonel promosyon ürünleri arasında yer almaktadır.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-200 modelinde yapışkan not kağıdı bulunuyor mu?",
-      a: "Evet. Üründe büyük ve küçük yapışkan not kağıtları ile renkli indeks ayraçları bulunmaktadır."
-    },
-    {
-      q: "Ürün günlük planlama sayfasına sahip mi?",
-      a: "Evet. İç bölümde saat planlamalı günlük ajanda sayfaları bulunmaktadır."
-    },
-    {
-      q: "Kalem ürünle birlikte geliyor mu?",
-      a: "Kalem görsellerde aksesuar olarak kullanılmaktadır. Talebe göre promosyon kalem ile birlikte hazırlanabilir."
-    },
-    {
-      q: "Logo baskısı yapılabiliyor mu?",
-      a: "Evet. Ürün üzerine serigrafi, UV veya dijital baskı yöntemleri ile firmanıza özel logo uygulanabilmektedir."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel toplu üretim ve avantajlı fiyat seçenekleri sunulmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanılmaktadır?",
-      a: "Ofislerde, toplantılarda, fuarlarda, eğitim organizasyonlarında, seminerlerde ve kurumsal promosyon kampanyalarında tercih edilmektedir."
-    }
-  ]
+  faq: [{"q":"GD-200 hangi özelliklere sahiptir?","a":"Kapak: Kraft; Kalem tutucu: Var; Yapışkanlı notluk: Var."},{"q":"GD-200 ölçüleri nedir?","a":"10,7 x 14 cm."},{"q":"GD-200 üzerine hangi baskı uygulanabilir?","a":"UV ve serigrafi baskı seçenekleri bulunur."},{"q":"GD-200 ile kalem birlikte mi verilir?","a":"Kalem aksesuardır; standart ürün içeriğine dahil değildir."},{"q":"GD-200 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-200 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p146",
@@ -13440,143 +11906,20 @@ Promosyon yapışkanlı notluk GD-200; günlük planlama sayfaları, yapışkan 
   slug: "promosyon-renkli-yapiskanli-notluk-7x8-gd-220",
 
   title:
-    "Promosyon Yapışkanlı Notluk GD-220 | 7,8 x 8 cm Logo Baskılı Kraft Küp Blok Notluk",
+    "Promosyon Yapışkanlı Notluk GD-220 | 7,8 x 8 x 2,5 cm Sert Kraft Kapak",
 
   price: 78,
 
   category: "Yapışkanlı Notluklar",
 
-  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-220.jpg",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-220-v2.jpg",
 
   shortDesc:
-    "Promosyon yapışkanlı notluk GD-220, 7,8 x 8 cm ölçüsü, 250 yaprak küp not bloğu, renkli yapışkanlı indeks ayraçları ve logo baskısına uygun kraft kapağı ile kurumsal promosyonlarda tercih edilen masaüstü notluk modellerinden biridir.",
+    "GD-220, 7,8 x 8 x 2,5 cm ölçüsünde, sert kraft kapaklı yapışkanlı notluk modelidir.",
 
-  longDesc: `
-Promosyon yapışkanlı notluk GD-220 modeli, masaüstünde sürekli kullanılabilen kompakt yapısı sayesinde kurumsal tanıtımlarda en çok tercih edilen promosyon ürünlerinden biridir. Şık kraft kapak tasarımı, yüksek yaprak kapasitesi ve renkli yapışkanlı indeks ayraçları ile günlük kullanımda büyük kolaylık sağlar.
+  longDesc: "GD-220, 7,8 x 8 x 2,5 cm ölçüsünde, sert kraft kapaklı yapışkanlı notluk modelidir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-220\nKategori: Yapışkanlı Notluklar\nÜrün ölçüsü: 7,8 x 8 x 2,5 cm\nKapak: Sert kraft\nKağıt: 80 gr, 250’li\nBaskı: Serigrafi ve dijital\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında serigrafi ve dijital seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-7,8 x 8 cm ölçüsü sayesinde masa üzerinde fazla yer kaplamaz ve çalışma alanlarında düzenli bir kullanım sunar. Kompakt yapısı sayesinde ofislerde, resepsiyonlarda, bankolarda ve toplantı odalarında rahatlıkla kullanılabilir.
-
-Ürün içerisinde yaklaşık 250 yaprak küp not bloğu ile birlikte farklı renklerde yapışkanlı indeks ayraçları bulunmaktadır. Hızlı not alma, önemli sayfaları işaretleme ve günlük planlama işlemleri için oldukça pratik bir çözümdür.
-
-Sert kraft kapak ürüne doğal ve çevre dostu bir görünüm kazandırırken aynı zamanda uzun ömürlü kullanım sağlamaktadır. Geri dönüştürülebilir malzemeden üretilmesi sürdürülebilir kurumsal promosyon projeleri için önemli bir avantaj sunmaktadır.
-
-Kapak üzerine firmanıza ait logo, marka adı veya kurumsal tasarımlar serigrafi veya dijital baskı teknikleriyle uygulanabilmektedir. Günlük kullanım süresi yüksek olduğu için marka görünürlüğünü uzun süre destekleyen etkili reklam ürünlerinden biridir.
-
-Promosyon yapışkanlı notluk GD-220 modeli; şirketler, bankalar, belediyeler, eğitim kurumları, fuarlar, seminerler ve kurumsal etkinliklerde dağıtılabilecek kullanışlı masaüstü promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON YAPIŞKANLI NOTLUK GD-220?
-
-• 250 yaprak küp not bloğu
-• Renkli yapışkanlı indeks ayraçları
-• Sert kraft kapak tasarımı
-• Kompakt masaüstü kullanım
-• Geniş logo baskı alanı
-• Çevre dostu geri dönüştürülebilir malzeme
-• Uzun süreli kullanım
-• Hafif ve taşınabilir yapı
-• Kurumsal promosyonlar için ideal
-• Marka bilinirliğini artıran kullanışlı tasarım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Yapışkanlı Notluk
-
-Model: GD-220
-
-Kategori: Yapışkanlı Notluklar
-
-Ürün Ölçüsü: 7,8 x 8 x 2,5 cm
-
-Malzeme: Geri Dönüştürülebilir Kraft Karton
-
-Kapak: Sert Kraft
-
-Not Bloğu:
-
-250 Yaprak Küp Not Kağıdı
-
-Ek İçerik:
-
-Renkli Yapışkanlı İndeks Ayraçları
-
-Kağıt Gramajı: 80 gr
-
-Baskı Türleri:
-
-Serigrafi Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Toplantılar
-• Eğitim kurumları
-• Fuar organizasyonları
-• Seminerler
-• Resepsiyon alanları
-• Bankolar
-• Satış ekipleri
-• Müşteri hediyeleri
-• Promosyon kampanyaları
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Eğitim merkezleri
-• Bankalar
-• Sigorta şirketleri
-• Sağlık kuruluşları
-• Çevre dostu projeler geliştiren işletmeler
-
-PROMOSYON YAPIŞKANLI NOTLUK FİYATLARI
-
-Promosyon yapışkanlı notluk fiyatları; sipariş adedi, baskı yöntemi, üretim süreci ve teslim süresine göre değişmektedir. Toplu siparişlerde kurumsal firmalara özel avantajlı fiyat teklifleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı üretim yapılabilmektedir.
-• Serigrafi ve dijital baskı seçenekleri sunulmaktadır.
-• Kurumsal toplu siparişler kabul edilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Özel üretim ve hızlı teslim seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Ürün renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde güncel stok ve baskı seçenekleri hakkında bilgi alınması tavsiye edilir.
-
-Promosyon yapışkanlı notluk GD-220; 250 yaprak küp not bloğu, renkli indeks ayraçları, çevre dostu kraft kapağı ve logo baskısına uygun tasarımı sayesinde ofislerde uzun yıllar kullanılan etkili kurumsal promosyon ürünleri arasında yer almaktadır.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-220 modelinde kaç yaprak not kağıdı bulunmaktadır?",
-      a: "Ürün içerisinde yaklaşık 250 yaprak küp not bloğu bulunmaktadır."
-    },
-    {
-      q: "Renkli yapışkanlı ayraçlar bulunuyor mu?",
-      a: "Evet. Ürün içerisinde farklı renklerde yapışkanlı indeks ayraçları yer almaktadır."
-    },
-    {
-      q: "Logo baskısı yapılabiliyor mu?",
-      a: "Evet. Ürün üzerine serigrafi veya dijital baskı teknikleri ile firmanıza özel logo uygulanabilmektedir."
-    },
-    {
-      q: "Kapak malzemesi nedir?",
-      a: "Ürün sert kraft kartondan üretilmiştir ve çevre dostu geri dönüştürülebilir malzeme kullanılmaktadır."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel toplu üretim ve avantajlı fiyat seçenekleri sunulmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanılmaktadır?",
-      a: "Ofislerde, toplantılarda, fuarlarda, eğitim organizasyonlarında, resepsiyonlarda ve kurumsal promosyon kampanyalarında kullanılmaktadır."
-    }
-  ]
+  faq: [{"q":"GD-220 hangi özelliklere sahiptir?","a":"Kapak: Sert kraft; Kağıt: 80 gr, 250’li."},{"q":"GD-220 ölçüleri nedir?","a":"7,8 x 8 x 2,5 cm."},{"q":"GD-220 üzerine hangi baskı uygulanabilir?","a":"Serigrafi ve dijital baskı seçenekleri bulunur."},{"q":"GD-220 renk veya varyantı nasıl seçilir?","a":"Mevcut renk ve varyant seçenekleri teklif aşamasında teyit edilir."},{"q":"GD-220 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-220 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p147",
@@ -13584,144 +11927,20 @@ Promosyon yapışkanlı notluk GD-220; 250 yaprak küp not bloğu, renkli indeks
   slug: "promosyon-renkli-yapiskanli-notluk-5x21-gd-240",
 
   title:
-    "Promosyon Yapışkanlı Notluk GD-240 | 5,6 x 21 cm Cetvelli Logo Baskılı Kraft Notluk",
+    "Promosyon Yapışkanlı Notluk GD-240 | 5,6 x 21 cm Kraft Kapak",
 
   price: 28,
 
   category: "Yapışkanlı Notluklar",
 
-  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-240.jpg",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-240-v2.jpg",
 
   shortDesc:
-    "Promosyon yapışkanlı notluk GD-240, 5,6 x 21 cm ölçüsü, cetvelli kraft tasarımı, renkli yapışkanlı indeks ayraçları ve logo baskısına uygun geniş yüzeyi ile kurumsal promosyonlarda tercih edilen ekonomik notluk modellerinden biridir.",
+    "GD-240, 5,6 x 21 cm ölçüsünde, kraft kapaklı yapışkanlı notluk modelidir.",
 
-  longDesc: `
-Promosyon yapışkanlı notluk GD-240 modeli, cetvel ve yapışkanlı not kağıtlarını tek üründe birleştiren kullanışlı tasarımı sayesinde ofislerde, okullarda ve kurumsal etkinliklerde tercih edilen pratik promosyon ürünlerinden biridir.
+  longDesc: "GD-240, 5,6 x 21 cm ölçüsünde, kraft kapaklı yapışkanlı notluk modelidir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-240\nKategori: Yapışkanlı Notluklar\nÜrün ölçüsü: 5,6 x 21 cm\nKapak: Kraft\nKağıt: 80 gr, 25’li\nBaskı: Serigrafi ve dijital\nRenk seçenekleri: Kırmızı, Lacivert, Siyah\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında serigrafi ve dijital seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-5,6 x 21 cm ölçüsü sayesinde masaüstünde rahatlıkla kullanılabilir ve çanta, ajanda veya dosya içerisinde kolayca taşınabilir. İnce yapısı günlük kullanım için büyük avantaj sağlar.
-
-Ürün üzerinde yer alan cetvel, hızlı ölçüm yapmayı kolaylaştırırken farklı renklerde yapışkanlı indeks ayraçları ve not kağıdı; dosya işaretleme, sayfa ayırma, planlama ve kısa notlar almak için pratik kullanım sunmaktadır.
-
-Doğal kraft kartondan üretilen gövdesi çevre dostu görünümüyle dikkat çeker. Geniş baskı alanı sayesinde firma logosu, marka ismi veya kurumsal tasarımlar serigrafi ya da dijital baskı teknikleriyle uygulanabilmektedir.
-
-Promosyon yapışkanlı notluk GD-240 modeli; düşük maliyeti ve yüksek kullanım değeri sayesinde fuarlar, seminerler, eğitim organizasyonları, ofis dağıtımları ve kurumsal tanıtım kampanyalarında sık tercih edilen promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON YAPIŞKANLI NOTLUK GD-240?
-
-• Entegre cetvel tasarımı
-• Renkli yapışkanlı indeks ayraçları
-• Yapışkanlı not kağıdı
-• İnce ve hafif yapı
-• Çanta ve ajandada kolay taşınabilir
-• Logo baskısına uygun geniş yüzey
-• Çevre dostu kraft karton
-• Ekonomik promosyon çözümü
-• Günlük kullanıma uygun tasarım
-• Marka görünürlüğünü uzun süre artırır
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Yapışkanlı Notluk
-
-Model: GD-240
-
-Kategori: Yapışkanlı Notluklar
-
-Ürün Ölçüsü: 5,6 x 21 cm
-
-Malzeme: Kraft Karton
-
-Kapak: Kraft
-
-Kağıt Gramajı: 80 gr
-
-Not Kağıdı:
-
-25 Yaprak Yapışkanlı Not
-
-Ek Özellikler:
-
-Entegre Cetvel
-
-Renkli Yapışkanlı İndeks Ayraçları
-
-Baskı Türleri:
-
-Serigrafi Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Eğitim kurumları
-• Toplantılar
-• Fuar organizasyonları
-• Seminerler
-• Kongreler
-• Ajanda ve planlayıcı kullanımı
-• Promosyon kampanyaları
-• Müşteri hediyeleri
-• Günlük masaüstü kullanımı
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Okullar
-• Üniversiteler
-• Belediyeler
-• Kamu kurumları
-• Bankalar
-• Sigorta şirketleri
-• Eğitim merkezleri
-• Kırtasiye promosyonu yapan işletmeler
-
-PROMOSYON YAPIŞKANLI NOTLUK FİYATLARI
-
-Promosyon yapışkanlı notluk fiyatları; sipariş adedi, baskı tekniği, üretim süreci ve teslim süresine göre değişiklik göstermektedir. Toplu siparişlerde kurumsal firmalara özel avantajlı fiyat teklifleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı üretim yapılmaktadır.
-• Serigrafi ve dijital baskı uygulanabilmektedir.
-• Kurumsal toplu siparişler kabul edilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Özel üretim ve hızlı teslim seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Ürün renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde güncel stok ve üretim bilgisi alınması tavsiye edilir.
-
-Promosyon yapışkanlı notluk GD-240; cetveli, renkli yapışkanlı indeks ayraçları, not kağıdı ve logo baskısına uygun kraft tasarımı sayesinde hem kullanışlı hem de uzun süre marka görünürlüğü sağlayan ekonomik promosyon ürünleri arasında yer almaktadır.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-240 modelinde cetvel bulunuyor mu?",
-      a: "Evet. Ürün üzerinde günlük kullanıma uygun entegre cetvel bulunmaktadır."
-    },
-    {
-      q: "Yapışkanlı renkli ayraçlar mevcut mu?",
-      a: "Evet. Ürün içerisinde farklı renklerde yapışkanlı indeks ayraçları bulunmaktadır."
-    },
-    {
-      q: "Logo baskısı yapılabiliyor mu?",
-      a: "Evet. Ürün üzerine serigrafi veya dijital baskı teknikleriyle firmanıza özel logo uygulanabilmektedir."
-    },
-    {
-      q: "Ürünün ölçüsü nedir?",
-      a: "Ürün ölçüsü 5,6 x 21 cm'dir."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel toplu üretim ve avantajlı fiyat seçenekleri sunulmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanılmaktadır?",
-      a: "Ofislerde, eğitim kurumlarında, toplantılarda, fuarlarda, seminerlerde ve kurumsal promosyon kampanyalarında kullanılmaktadır."
-    }
-  ]
+  faq: [{"q":"GD-240 hangi özelliklere sahiptir?","a":"Kapak: Kraft; Kağıt: 80 gr, 25’li."},{"q":"GD-240 ölçüleri nedir?","a":"5,6 x 21 cm."},{"q":"GD-240 üzerine hangi baskı uygulanabilir?","a":"Serigrafi ve dijital baskı seçenekleri bulunur."},{"q":"GD-240 renk seçenekleri nelerdir?","a":"Kırmızı, Lacivert, Siyah. Güncel stok sipariş öncesinde teyit edilir."},{"q":"GD-240 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-240 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p148",
@@ -13729,136 +11948,20 @@ Promosyon yapışkanlı notluk GD-240; cetveli, renkli yapışkanlı indeks ayra
   slug: "promosyon-renkli-yapiskanli-notluk-13x6-gd-250",
 
   title:
-    "Promosyon Yapışkanlı Notluk GD-250 | 13 x 6,5 cm Logo Baskılı Masaüstü Notluk",
+    "Promosyon Yapışkanlı Notluk GD-250 | 13 x 6,5 cm Geri Dönüşümlü Notluk",
 
-  price: 82,
+  price: 100,
 
   category: "Yapışkanlı Notluklar",
 
-  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-250.jpg",
+  image: "/products/promosyon-renkli-yapiskanli-notluk-gd-250-v2.jpg",
 
   shortDesc:
-    "Promosyon yapışkanlı notluk GD-250, 13 x 6,5 cm ölçüsü, sert kraft kapaklı kutu tasarımı, geniş not bloğu ve logo baskısına uygun yüzeyi ile kurumsal promosyonlarda tercih edilen şık masaüstü notluk modellerinden biridir.",
+    "GD-250, 13 x 6,5 cm ölçüsüyle masaüstünde değerlendirilebilecek geri dönüşümlü notluk modelidir.",
 
-  longDesc: `
-Promosyon yapışkanlı notluk GD-250 modeli, şık kutu tasarımı ve geniş not bloğu sayesinde ofislerde, resepsiyonlarda ve masaüstü kullanımında tercih edilen prestijli promosyon ürünlerinden biridir.
+  longDesc: "GD-250, 13 x 6,5 cm ölçüsüyle masaüstünde değerlendirilebilecek geri dönüşümlü notluk modelidir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-250\nKategori: Yapışkanlı Notluklar\nÜrün ölçüsü: 13 x 6,5 cm\nÜrün tipi: Geri dönüşümlü notluk\nRenk seçenekleri: Kraft, Yeşil\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasının yöntemi ve yeri teklif aşamasında netleştirilir. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-13 x 6,5 cm ölçüsüne sahip kompakt yapısı sayesinde masa üzerinde düzenli bir kullanım sunarken çalışma alanlarında dekoratif bir görünüm oluşturur. Kapaklı kutu tasarımı not kağıtlarını dış etkenlerden koruyarak uzun süre temiz kullanım sağlar.
-
-Ürün içerisinde yüksek kapasiteli küp not bloğu bulunmaktadır. Günlük not alma, mesaj bırakma, telefon notları, toplantı kayıtları ve hatırlatma amaçlı kullanımlar için ideal bir çözümdür.
-
-Doğal kraft kartondan üretilen sert kapak yapısı çevre dostu görünüm sunarken dayanıklılığı sayesinde uzun ömürlü kullanım sağlar. Geniş kapak yüzeyi üzerine firmanıza ait logo, marka ismi veya kurumsal tasarımlar serigrafi ya da dijital baskı teknikleriyle uygulanabilmektedir.
-
-Promosyon yapışkanlı notluk GD-250 modeli; kurumsal firmalar, bankalar, oteller, eğitim kurumları, fuarlar ve ofis organizasyonlarında marka görünürlüğünü artıran kullanışlı promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON YAPIŞKANLI NOTLUK GD-250?
-
-• Şık kapaklı kutu tasarımı
-• Geniş küp not bloğu
-• Sert kraft karton gövde
-• Masaüstünde düzenli kullanım
-• Logo baskısına uygun geniş kapak alanı
-• Dayanıklı ve uzun ömürlü yapı
-• Çevre dostu kraft tasarım
-• Kompakt ölçüler
-• Kurumsal promosyonlar için ideal
-• Marka bilinirliğini uzun süre destekler
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Yapışkanlı Notluk
-
-Model: GD-250
-
-Kategori: Yapışkanlı Notluklar
-
-Ürün Ölçüsü: 13 x 6,5 cm
-
-Malzeme: Sert Kraft Karton
-
-Kapak: Mıknatıslı / Kapaklı Kutu Tasarımı
-
-İçerik:
-
-Küp Not Bloğu
-
-Baskı Türleri:
-
-Serigrafi Baskı
-
-Dijital Baskı
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Yönetici masaları
-• Resepsiyonlar
-• Bankolar
-• Toplantı salonları
-• Eğitim kurumları
-• Fuar organizasyonları
-• Seminerler
-• Promosyon kampanyaları
-• Müşteri hediyeleri
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Bankalar
-• Sigorta şirketleri
-• Oteller
-• Hastaneler
-• Eğitim kurumları
-• Ofis ürünleri dağıtan işletmeler
-
-PROMOSYON YAPIŞKANLI NOTLUK FİYATLARI
-
-Promosyon yapışkanlı notluk fiyatları; sipariş adedi, baskı yöntemi, üretim süreci ve teslim süresine göre değişmektedir. Toplu siparişlerde kurumsal firmalara özel avantajlı fiyat teklifleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı üretim yapılmaktadır.
-• Serigrafi ve dijital baskı uygulanabilmektedir.
-• Kurumsal toplu siparişler kabul edilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Özel üretim ve hızlı teslim seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Ürün renk seçenekleri ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde güncel stok ve üretim bilgisi alınması tavsiye edilir.
-
-Promosyon yapışkanlı notluk GD-250; şık kutu tasarımı, geniş küp not bloğu, dayanıklı kraft kapağı ve logo baskısına uygun yapısıyla uzun süre kullanılan prestijli masaüstü promosyon ürünleri arasında yer almaktadır.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-250 modelinde küp not bloğu bulunuyor mu?",
-      a: "Evet. Ürün içerisinde yüksek kapasiteli küp not bloğu bulunmaktadır."
-    },
-    {
-      q: "Kapaklı tasarıma sahip mi?",
-      a: "Evet. Ürün not kağıtlarını koruyan şık kapaklı kutu tasarımına sahiptir."
-    },
-    {
-      q: "Logo baskısı yapılabiliyor mu?",
-      a: "Evet. Ürün üzerine serigrafi veya dijital baskı teknikleriyle firmanıza özel logo uygulanabilmektedir."
-    },
-    {
-      q: "Ürünün ölçüsü nedir?",
-      a: "Ürün ölçüsü 13 x 6,5 cm'dir."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalara özel toplu üretim ve avantajlı fiyat seçenekleri sunulmaktadır."
-    },
-    {
-      q: "Hangi alanlarda kullanılmaktadır?",
-      a: "Ofislerde, resepsiyonlarda, toplantı salonlarında, fuarlarda, eğitim kurumlarında ve kurumsal promosyon kampanyalarında kullanılmaktadır."
-    }
-  ]
+  faq: [{"q":"GD-250 hangi özelliklere sahiptir?","a":"Ürün tipi: Geri dönüşümlü notluk."},{"q":"GD-250 ölçüleri nedir?","a":"13 x 6,5 cm."},{"q":"GD-250 üzerine hangi baskı uygulanabilir?","a":"Uygun logo uygulaması ürün yüzeyi ve tasarıma göre teklif aşamasında belirlenir."},{"q":"GD-250 renk seçenekleri nelerdir?","a":"Kraft, Yeşil. Güncel stok sipariş öncesinde teyit edilir."},{"q":"GD-250 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-250 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p149",
@@ -13866,149 +11969,20 @@ Promosyon yapışkanlı notluk GD-250; şık kutu tasarımı, geniş küp not bl
   slug: "promosyon-spiralli-notluk-gd-210",
 
   title:
-    "Promosyon Spiralli Notluk GD-210 | Yapışkan Notluklu Kraft Kapak Logo Baskılı Defter",
+    "Promosyon Spiralli Notluk GD-210 | 11,5 x 15 cm Yapışkanlı Notluk",
 
   price: 76,
 
   category: "Geri Dönüşümlü Ürünler",
 
-  image: "/products/promosyon-spiralli-notluk-gd-210.jpg",
+  image: "/products/promosyon-spiralli-notluk-gd-210-v2.jpg",
 
   shortDesc:
-    "Promosyon spiralli notluk GD-210, kraft kapak tasarımı, 150 sayfa çizgili iç yapısı, renkli yapışkan not kağıtları ve logo baskısına uygun yüzeyi ile çevre dostu kurumsal promosyon ürünleri arasında öne çıkan fonksiyonel notluk modellerinden biridir.",
+    "GD-210, 150 çizgili sayfası, yapışkanlı notluğu ve kalem tutucusuyla günlük not alma işlerini bir araya getirir.",
 
-  longDesc: `
-Promosyon spiralli notluk GD-210 modeli, günlük not alma ihtiyaçlarını pratik hale getiren yapışkan not kağıtları ve çevre dostu kraft kapak tasarımı ile kurumsal promosyon ürünleri arasında öne çıkan çok amaçlı bir masaüstü ürünüdür.
+  longDesc: "GD-210, 150 çizgili sayfası, yapışkanlı notluğu ve kalem tutucusuyla günlük not alma işlerini bir araya getirir.\n\nTEKNİK ÖZELLİKLER\n\nModel: GD-210\nKategori: Geri Dönüşümlü Ürünler\nÜrün ölçüsü: 11,5 x 15 cm\nKapak: Kraft\nKağıt: 70 gr krem\nİçerik: 150 sayfa, çizgili\nCilt: Spiral\nKalem tutucu: Var\nYapışkanlı notluk: Var\nBaskı: UV ve serigrafi\n\nKURUMSAL KULLANIM\n\nOfis kullanımı, toplantılar, eğitimler ve etkinlik dağıtımları için değerlendirilebilir. Ürün kodu, adet ve logonuzu paylaşarak teklif alabilirsiniz.\n\nFİYAT VE SİPARİŞ\n\nGösterilen fiyat baskı ve KDV hariçtir. Logo uygulamasında uv ve serigrafi seçenekleri bulunur. Baskı bedeli, stok durumu, renk veya varyant seçimi ve teslim süresi sipariş öncesinde teyit edilir.",
 
-11,5 x 15 cm kompakt ölçüsü sayesinde çanta içerisinde rahatlıkla taşınabilir ve toplantılar, eğitimler, seminerler ile günlük ofis kullanımında pratik bir yardımcı olarak kullanılabilir.
-
-Doğal görünümlü kraft kapak çevreci bir görünüm sunarken dayanıklı spiral cilt sistemi uzun süreli kullanım sağlar. Defter, sade ve profesyonel tasarımı sayesinde farklı sektörlerde faaliyet gösteren firmalar için ideal bir promosyon ürünüdür.
-
-150 sayfa çizgili iç yapısı günlük notlar, toplantı kayıtları, planlamalar ve iş takibi için geniş kullanım alanı sunmaktadır. 70 gram krem renkli kağıt göz yormayan yapısıyla konforlu yazım deneyimi sağlar.
-
-Kapak içerisinde bulunan farklı renklerde yapışkan not kağıtları ve indeks ayraçları önemli notların işaretlenmesini kolaylaştırır. Böylece ürün yalnızca bir defter değil aynı zamanda pratik bir organizasyon yardımcısı haline gelir.
-
-Yan bölümde bulunan kalem tutucu sayesinde kalem her zaman defterle birlikte taşınabilir. Bu özellik günlük kullanım sırasında ekstra kolaylık sağlar.
-
-Kapak üzerine firmanıza ait logo, marka adı veya kurumsal tasarımlar UV baskı ya da serigrafi baskı teknikleri ile uygulanabilmektedir. Geniş baskı alanı markanızın uzun süre görünürlüğünü destekler.
-
-Promosyon spiralli notluklar; fuarlar, eğitim organizasyonları, seminerler, müşteri ziyaretleri, bayi toplantıları ve çalışan hediyeleri için en çok tercih edilen kurumsal promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON SPİRALLİ NOTLUK GD-210?
-
-• Doğal kraft kapak
-• 150 sayfa kullanım alanı
-• Yapışkan not kağıtları
-• Renkli indeks ayraçları
-• Spiral cilt sistemi
-• Kalem tutucu bölmesi
-• Logo baskısına uygun geniş kapak
-• Çevre dostu ve kullanışlı tasarım
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Spiralli Notluk
-
-Model: GD-210
-
-Kategori: Geri Dönüşümlü Ürünler
-
-Ürün Ölçüsü: 11,5 x 15 cm
-
-Kapak: Kraft Kapak
-
-Kağıt: 70 gr Krem Kağıt
-
-Sayfa Sayısı: 150 Sayfa
-
-İç Sayfa: Çizgili
-
-Cilt Tipi: Spiral
-
-Kalem Tutucu: Var
-
-Ek Özellikler:
-
-Yapışkan Not Kağıtları
-
-Renkli İndeks Ayraçları
-
-Baskı Türleri:
-
-UV Baskı
-
-Serigrafi Baskı
-
-KULLANIM ALANLARI
-
-• Kurumsal firmalar
-• Ofis kullanımı
-• Eğitim kurumları
-• Seminer ve konferanslar
-• Fuar organizasyonları
-• Bayi toplantıları
-• Personel hediyeleri
-• Müşteri promosyonları
-• Günlük planlama
-• Masaüstü organizasyonu
-
-KİMLER İÇİN UYGUNDUR?
-
-• Kurumsal işletmeler
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Üniversiteler
-• Eğitim merkezleri
-• Bankalar
-• Sigorta şirketleri
-• Çevre dostu projeler yürüten firmalar
-
-PROMOSYON SPİRALLİ NOTLUK FİYATLARI
-
-Promosyon spiralli notluk fiyatları; sipariş adedi, uygulanacak baskı tekniği, üretim detayları ve teslim süresine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskılı veya baskısız üretim yapılabilmektedir.
-• UV ve serigrafi baskı seçenekleri sunulmaktadır.
-• Kurumsal toplu siparişler kabul edilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Özel üretim ve hızlı teslim seçenekleri bulunmaktadır.
-
-KULLANIM NOTU
-
-Yapışkan not kağıtlarının renkleri ve adetleri üretim serisine göre değişiklik gösterebilir. Ürün görselleri temsilidir. Sipariş öncesinde stok durumu ve baskı detaylarının teyit edilmesi tavsiye edilir.
-
-Promosyon spiralli notluk GD-210; kraft kapağı, 150 sayfa çizgili iç yapısı, yapışkan not kağıtları, renkli indeks ayraçları, spiral cilt sistemi, kalem tutucu bölmesi ve logo baskısına uygun geniş yüzeyi sayesinde çevre dostu kurumsal promosyon ürünleri arasında fonksiyonelliğiyle öne çıkan notluk modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "GD-210 notluk kaç sayfadır?",
-      a: "GD-210 modeli toplam 150 sayfa 70 gram krem renkli çizgili kağıttan oluşmaktadır."
-    },
-    {
-      q: "Üründe yapışkan not kağıdı bulunuyor mu?",
-      a: "Evet. Kapak içerisinde farklı renklerde yapışkan not kağıtları ve indeks ayraçları bulunmaktadır."
-    },
-    {
-      q: "Kapak üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Kraft kapak üzerine UV baskı veya serigrafi baskı uygulanabilmektedir."
-    },
-    {
-      q: "Kalem tutucu özelliği var mı?",
-      a: "Evet. Üründe kalemin rahat taşınabilmesi için entegre kalem tutucu bulunmaktadır."
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. Kurumsal firmalar için logo baskılı toplu üretim ve özel fiyat avantajları sunulmaktadır."
-    },
-    {
-      q: "Hangi alanlarda tercih edilmektedir?",
-      a: "Fuarlar, seminerler, eğitim organizasyonları, ofis kullanımı, müşteri ziyaretleri ve kurumsal promosyon çalışmalarında yaygın olarak kullanılmaktadır."
-    }
-  ]
+  faq: [{"q":"GD-210 hangi özelliklere sahiptir?","a":"Kapak: Kraft; Kağıt: 70 gr krem; İçerik: 150 sayfa, çizgili; Cilt: Spiral; Kalem tutucu: Var; Yapışkanlı notluk: Var."},{"q":"GD-210 ölçüleri nedir?","a":"11,5 x 15 cm."},{"q":"GD-210 üzerine hangi baskı uygulanabilir?","a":"UV ve serigrafi baskı seçenekleri bulunur."},{"q":"GD-210 renk veya varyantı nasıl seçilir?","a":"Mevcut renk ve varyant seçenekleri teklif aşamasında teyit edilir."},{"q":"GD-210 fiyatına baskı dahil mi?","a":"Gösterilen ürün fiyatına baskı ve KDV dahil değildir."},{"q":"GD-210 için toplu sipariş nasıl verilir?","a":"Adet, logo ve hedef teslim tarihinizi paylaşarak stok ve baskılı fiyat teklifi alabilirsiniz."}]
 },
 {
   id: "p150",

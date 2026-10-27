@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
-import { products } from "@/data/products";
+import { visibleProducts } from "@/data/productVisibility";
 import { sortProductsByCode } from "@/data/productSorting";
 
 
@@ -63,7 +63,7 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-  const list = sortProductsByCode(products.filter((p) => p.category === CATEGORY));
+  const list = sortProductsByCode(visibleProducts.filter((p) => p.category === CATEGORY));
 
   const itemListElement = list.map((p, idx) => ({
     "@type": "ListItem",
@@ -160,6 +160,11 @@ export default function Page() {
           </div>
         </header>
       </section>
+
+      <div className="mt-8 flex flex-wrap items-center justify-between gap-3">
+        <p className="text-sm font-medium text-gray-700">{list.length} ürün gösteriliyor</p>
+        <Link href="/promosyon-yapiskanli-notluklar" className="text-sm font-semibold text-gray-900 hover:underline">Yapışkanlı Notlukları İncele →</Link>
+      </div>
 
       <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((p) => (
