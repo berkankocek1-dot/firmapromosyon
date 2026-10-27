@@ -41,7 +41,7 @@ function matchesFilter(product: KalemSetiProduct, filter: string) {
     return ["100","110","120","130","140","170","240"].includes(code);
   }
   if (filter === "Dolma Kalem") return ["240","250"].includes(code);
-  if (filter === "Kalem & Anahtarlık") return code === "210";
+  if (filter === "Kalem & Anahtarlık") return ["200", "210", "220", "230"].includes(code);
   if (filter === "Renk Seçenekli") {
     return ["100","110","140","150","160","170","200","210",
             "310","320","330","340"].includes(code);
