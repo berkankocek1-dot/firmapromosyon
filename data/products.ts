@@ -9784,100 +9784,12 @@ Promosyon metal kalem MK-190 ile markanızı kaliteli, şık ve prestijli bir pr
   shortDesc:
     "Promosyon karton çanta KÇ-100, 230 gr Amerikan Bristol kağıt, mat veya parlak selefon kaplama, PP kordon ip ve logo baskı seçenekleriyle mağazalar, fuarlar ve kurumsal kullanımlar için üretilen premium karton çanta modelidir.",
 
-  longDesc: `
-Promosyon karton çanta KÇ-100, kurumsal firmalar, mağazalar ve markalar için özel olarak üretilen kaliteli ve dayanıklı karton çanta modellerinden biridir. 230 gram Amerikan Bristol kağıttan üretilen yapısı, estetik görünümü ve profesyonel baskı kalitesi sayesinde kurumsal promosyon çalışmalarında sıklıkla tercih edilmektedir.
-
-Logo baskılı karton çantalar yalnızca ürün taşıma amacıyla değil, aynı zamanda markaların kurumsal kimliğini güçlendiren etkili reklam araçları olarak da kullanılmaktadır. Müşteriye sunulan her ürünle birlikte markanızın görünürlüğünü artırarak uzun süreli tanıtım avantajı sağlar.
-
-KÇ-100 modeli mat veya parlak selefon kaplama seçenekleriyle üretilebilmektedir. Selefon kaplama sayesinde hem baskılar daha canlı görünür hem de çanta dış etkenlere karşı daha dayanıklı hale gelir. Şık yüzeyi sayesinde premium mağaza çantası olarak da tercih edilmektedir.
-
-35 cm uzunluğundaki dayanıklı PP kordon sapı taşıma sırasında kullanım konforu sunarken estetik görünümü tamamlamaktadır. Güçlü gövde yapısı sayesinde tekstil ürünleri, kozmetik ürünleri, promosyon ürünleri, hediyelik ürünler ve kurumsal evrak taşımaya uygundur.
-
-Ürün üzerine firmanıza özel logo, marka adı veya kurumsal tasarımlar yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir. Baskı uygulamaları sayesinde karton çanta firmanızın kurumsal kimliğini yansıtan prestijli bir tanıtım ürününe dönüşmektedir.
-
-Promosyon karton çanta modelleri; tekstil mağazaları, optik mağazaları, kozmetik firmaları, kuyumcular, hediyelik eşya mağazaları, eğitim kurumları, fuar organizasyonları ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.
-
-NEDEN PROMOSYON KARTON ÇANTA KÇ-100 TERCİH EDİLMELİ?
-
-• 230 gr Amerikan Bristol kağıt
-• Mat veya parlak selefon kaplama
-• Dayanıklı PP kordon sap
-• Ofset logo baskısına uygundur
-• Premium mağaza çantası görünümü
-• Şık ve dayanıklı tasarım
-• Farklı ebat seçenekleri
-• Kurumsal marka görünürlüğünü artırır
-• Toplu üretime uygundur
-• Prestijli promosyon ürünüdür
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Mağaza alışveriş çantaları
-• Tekstil mağazaları
-• Kozmetik mağazaları
-• Optik mağazaları
-• Hediyelik ürün mağazaları
-• Fuar ve organizasyonlar
-• Lansman etkinlikleri
-• Kurumsal marka tanıtımları
-• Özel davet ve etkinlikler
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Perakende mağazaları
-• Tekstil markaları
-• Kozmetik markaları
-• Optik mağazaları
-• Reklam ajansları
-• Organizasyon firmaları
-• Promosyon ürünleri satın alan işletmeler
-
-PROMOSYON KARTON ÇANTA FİYATLARI
-
-Promosyon karton çanta fiyatları; sipariş miktarı, tercih edilen ebat, baskı uygulaması, selefon kaplama ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ofset logo baskısı uygulanabilmektedir.
-• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Farklı ölçülerde üretim yapılabilmektedir.
-• Güncel stok ve üretim planı sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Karton Çanta
-Model: KÇ-100
-Kategori: Karton Çantalar
-Kağıt Türü: 230 gr Amerikan Bristol
-Kaplama: Mat Selefon / Parlak Selefon
-Sap: 35 cm PP Kordon
-Baskı Türü: Ofset Baskı
-Kullanım Alanı: Mağaza, Fuar ve Kurumsal Tanıtım
-
-EBAT SEÇENEKLERİ
-
-• 25 x 35 x 8 cm
-• 21,5 x 33 x 12 cm
-• 23 x 31 x 8 cm
-• 23,5 x 27,5 x 10,5 cm
-• 24 x 26 x 8 cm
-• 24 x 34 x 9 cm
-• 24,5 x 35 x 9 cm
-• 25 x 29 x 8 cm
-• 25 x 32 x 8 cm
-• 25 x 39 x 8 cm
-
-Promosyon karton çanta KÇ-100, 230 gr Amerikan Bristol kağıdı, mat veya parlak selefon kaplama seçenekleri, dayanıklı PP kordon sapı ve logo baskıya uygun yapısıyla mağazalar, fuarlar ve kurumsal tanıtımlar için tercih edilen premium karton çanta modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon karton çanta KÇ-100, kurumsal firmalar, mağazalar ve markalar için özel olarak üretilen kaliteli ve dayanıklı karton çanta modellerinden biridir. 230 gram Amerikan Bristol kağıttan üretilen yapısı, estetik görünümü ve profesyonel baskı kalitesi sayesinde kurumsal promosyon çalışmalarında sıklıkla tercih edilmektedir.\n\nLogo baskılı karton çantalar yalnızca ürün taşıma amacıyla değil, aynı zamanda markaların kurumsal kimliğini güçlendiren etkili reklam araçları olarak da kullanılmaktadır. Müşteriye sunulan her ürünle birlikte markanızın görünürlüğünü artırarak uzun süreli tanıtım avantajı sağlar.\n\nKÇ-100 modeli mat veya parlak selefon kaplama seçenekleriyle üretilebilmektedir. Selefon kaplama sayesinde hem baskılar daha canlı görünür hem de çanta dış etkenlere karşı daha dayanıklı hale gelir. Şık yüzeyi sayesinde premium mağaza çantası olarak da tercih edilmektedir.\n\n35 cm uzunluğundaki dayanıklı PP kordon sapı taşıma sırasında kullanım konforu sunarken estetik görünümü tamamlamaktadır. Güçlü gövde yapısı sayesinde tekstil ürünleri, kozmetik ürünleri, promosyon ürünleri, hediyelik ürünler ve kurumsal evrak taşımaya uygundur.\n\nÜrün üzerine firmanıza özel logo, marka adı veya kurumsal tasarımlar uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Baskı uygulamaları sayesinde karton çanta firmanızın kurumsal kimliğini yansıtan prestijli bir tanıtım ürününe dönüşmektedir.\n\nPromosyon karton çanta modelleri; tekstil mağazaları, optik mağazaları, kozmetik firmaları, kuyumcular, hediyelik eşya mağazaları, eğitim kurumları, fuar organizasyonları ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.\n\nNEDEN PROMOSYON KARTON ÇANTA KÇ-100 TERCİH EDİLMELİ?\n\n• 230 gr Amerikan Bristol kağıt\n• Mat veya parlak selefon kaplama\n• Dayanıklı PP kordon sap\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Premium mağaza çantası görünümü\n• Şık ve dayanıklı tasarım\n• Farklı ebat seçenekleri\n• Kurumsal marka görünürlüğünü artırır\n• Toplu üretime uygundur\n• Prestijli promosyon ürünüdür\n\nKULLANIM ALANLARI\n\n• Kurumsal promosyon çalışmaları\n• Mağaza alışveriş çantaları\n• Tekstil mağazaları\n• Kozmetik mağazaları\n• Optik mağazaları\n• Hediyelik ürün mağazaları\n• Fuar ve organizasyonlar\n• Lansman etkinlikleri\n• Kurumsal marka tanıtımları\n• Özel davet ve etkinlikler\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Perakende mağazaları\n• Tekstil markaları\n• Kozmetik markaları\n• Optik mağazaları\n• Reklam ajansları\n• Organizasyon firmaları\n• Promosyon ürünleri satın alan işletmeler\n\nPROMOSYON KARTON ÇANTA FİYATLARI\n\nPromosyon karton çanta fiyatları; sipariş miktarı, tercih edilen ebat, baskı uygulaması, selefon kaplama ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Farklı ölçülerde üretim yapılabilmektedir.\n• Güncel stok ve üretim planı sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Karton Çanta\nModel: KÇ-100\nKategori: Karton Çantalar\nKağıt Türü: 230 gr Amerikan Bristol\nKaplama: Mat Selefon / Parlak Selefon\nSap: 35 cm PP Kordon\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nKullanım Alanı: Mağaza, Fuar ve Kurumsal Tanıtım\n\nEBAT SEÇENEKLERİ\n\n• 25 x 35 x 8 cm\n• 21,5 x 33 x 12 cm\n• 23 x 31 x 8 cm\n• 23,5 x 27,5 x 10,5 cm\n• 24 x 26 x 8 cm\n• 24 x 34 x 9 cm\n• 24,5 x 35 x 9 cm\n• 25 x 29 x 8 cm\n• 25 x 32 x 8 cm\n• 25 x 39 x 8 cm\n\nPromosyon karton çanta KÇ-100, 230 gr Amerikan Bristol kağıdı, mat veya parlak selefon kaplama seçenekleri, dayanıklı PP kordon sapı ve logo baskıya uygun yapısıyla mağazalar, fuarlar ve kurumsal tanıtımlar için tercih edilen premium karton çanta modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon karton çanta KÇ-100 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo ve kurumsal tasarımlar yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir.",
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir.",
     },
     {
       q: "Karton çanta hangi kağıttan üretilmektedir?",
@@ -9916,89 +9828,12 @@ Promosyon karton çanta KÇ-100, 230 gr Amerikan Bristol kağıdı, mat veya par
   shortDesc:
     "Promosyon 250 yapraklı küp bloknot MTB-100, 8 x 8 x 3 cm ölçüsü, 80 gr 1. hamur kağıdı, Amerikan Bristol dış kutusu ve logo baskıya uygun yapısıyla ofis ve masaüstü kullanımı için üretilen kurumsal promosyon notluk modelidir.",
 
-  longDesc: `
-Promosyon 250 yapraklı küp bloknot MTB-100, masaüstü kullanımına uygun kompakt tasarımı ve uzun süre kullanılabilen not kağıdı kapasitesiyle kurumsal promosyon ürünleri arasında en çok tercih edilen ofis aksesuarlarından biridir. Günlük not alma ihtiyacını karşılamasının yanında marka görünürlüğünü uzun süre devam ettiren etkili bir tanıtım ürünüdür.
-
-250 yaprak kapasitesine sahip iç not kağıtları sayesinde kullanıcıya uzun süre kullanım imkanı sunmaktadır. Günlük notlar, telefon mesajları, toplantı notları, hatırlatmalar ve planlamalar için ideal bir masaüstü yardımcıdır.
-
-Dış kutu bölümü 350 gr Amerikan Bristol kağıttan üretilmektedir. Mat veya parlak selefon kaplama seçenekleri sayesinde hem dayanıklılık hem de estetik görünüm kazanmaktadır. Kaliteli dış yüzeyi kurumsal logo baskıları için profesyonel sonuçlar sunmaktadır.
-
-İç bölümde kullanılan 80 gr 1. hamur kağıt rahat yazım deneyimi sunarken günlük ofis kullanımına uygun kaliteli bir yapı sağlamaktadır.
-
-Ürün üzerine firmanıza ait logo, kurumsal renkler ve reklam tasarımları yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir. Masa üzerinde sürekli kullanılan bir promosyon ürünü olması sayesinde markanız gün boyunca görünür kalmaya devam eder.
-
-Promosyon küp bloknot modelleri; bankalar, sigorta şirketleri, hukuk büroları, muhasebe ofisleri, eğitim kurumları, sağlık kuruluşları, reklam ajansları ve kurumsal işletmeler tarafından müşteri hediyesi, fuar dağıtımı ve ofis promosyonu olarak yoğun şekilde tercih edilmektedir.
-
-NEDEN PROMOSYON KÜP BLOKNOT MTB-100 TERCİH EDİLMELİ?
-
-• 250 yaprak not kağıdı
-• 8 x 8 x 3 cm kompakt ölçü
-• 80 gr 1. hamur kağıt
-• 350 gr Amerikan Bristol dış kutu
-• Mat veya parlak selefon kaplama
-• Ofset logo baskısına uygundur
-• Uzun süre masaüstü kullanımı sağlar
-• Günlük not alma için idealdir
-• Marka görünürlüğünü artırır
-• Kurumsal promosyonlar için uygundur
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Ofis masaüstü kullanımı
-• Bankalar
-• Eğitim kurumları
-• Hukuk büroları
-• Muhasebe ofisleri
-• Sağlık kuruluşları
-• Fuar organizasyonları
-• Müşteri karşılama alanları
-• Günlük ofis kullanımı
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Bankalar
-• Sigorta şirketleri
-• Eğitim kurumları
-• Reklam ajansları
-• Ofis çalışanları
-• Kamu kurumları
-• Promosyon ürünleri satın alan işletmeler
-
-PROMOSYON KÜP BLOKNOT FİYATLARI
-
-Promosyon küp bloknot fiyatları; sipariş miktarı, baskı uygulaması, üretim planlaması ve kutu özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ofset logo baskısı uygulanabilmektedir.
-• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Küp Bloknot
-Model: MTB-100
-Kategori: Matbaa Ürünleri
-Ölçü: 8 x 8 x 3 cm
-Yaprak Sayısı: 250 Yaprak
-İç Kağıt: 80 gr 1. Hamur
-Dış Kutu: 350 gr Amerikan Bristol
-Kaplama: Mat Selefon / Parlak Selefon
-Baskı Türü: Ofset Baskı
-Kullanım Alanı: Ofis ve Kurumsal Masaüstü Kullanımı
-
-Promosyon 250 yapraklı küp bloknot MTB-100, 250 yaprak kapasitesi, kaliteli Amerikan Bristol dış kutusu, logo baskıya uygun yapısı ve masaüstü kullanım kolaylığıyla ofislerde uzun süre kullanılan profesyonel promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon 250 yapraklı küp bloknot MTB-100, masaüstü kullanımına uygun kompakt tasarımı ve uzun süre kullanılabilen not kağıdı kapasitesiyle kurumsal promosyon ürünleri arasında en çok tercih edilen ofis aksesuarlarından biridir. Günlük not alma ihtiyacını karşılamasının yanında marka görünürlüğünü uzun süre devam ettiren etkili bir tanıtım ürünüdür.\n\n250 yaprak kapasitesine sahip iç not kağıtları sayesinde kullanıcıya uzun süre kullanım imkanı sunmaktadır. Günlük notlar, telefon mesajları, toplantı notları, hatırlatmalar ve planlamalar için ideal bir masaüstü yardımcıdır.\n\nDış kutu bölümü 350 gr Amerikan Bristol kağıttan üretilmektedir. Mat veya parlak selefon kaplama seçenekleri sayesinde hem dayanıklılık hem de estetik görünüm kazanmaktadır. Kaliteli dış yüzeyi kurumsal logo baskıları için profesyonel sonuçlar sunmaktadır.\n\nİç bölümde kullanılan 80 gr 1. hamur kağıt rahat yazım deneyimi sunarken günlük ofis kullanımına uygun kaliteli bir yapı sağlamaktadır.\n\nÜrün üzerine firmanıza ait logo, kurumsal renkler ve reklam tasarımları uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Masa üzerinde sürekli kullanılan bir promosyon ürünü olması sayesinde markanız gün boyunca görünür kalmaya devam eder.\n\nPromosyon küp bloknot modelleri; bankalar, sigorta şirketleri, hukuk büroları, muhasebe ofisleri, eğitim kurumları, sağlık kuruluşları, reklam ajansları ve kurumsal işletmeler tarafından müşteri hediyesi, fuar dağıtımı ve ofis promosyonu olarak yoğun şekilde tercih edilmektedir.\n\nNEDEN PROMOSYON KÜP BLOKNOT MTB-100 TERCİH EDİLMELİ?\n\n• 250 yaprak not kağıdı\n• 8 x 8 x 3 cm kompakt ölçü\n• 80 gr 1. hamur kağıt\n• 350 gr Amerikan Bristol dış kutu\n• Mat veya parlak selefon kaplama\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Uzun süre masaüstü kullanımı sağlar\n• Günlük not alma için idealdir\n• Marka görünürlüğünü artırır\n• Kurumsal promosyonlar için uygundur\n\nKULLANIM ALANLARI\n\n• Kurumsal promosyon çalışmaları\n• Ofis masaüstü kullanımı\n• Bankalar\n• Eğitim kurumları\n• Hukuk büroları\n• Muhasebe ofisleri\n• Sağlık kuruluşları\n• Fuar organizasyonları\n• Müşteri karşılama alanları\n• Günlük ofis kullanımı\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Bankalar\n• Sigorta şirketleri\n• Eğitim kurumları\n• Reklam ajansları\n• Ofis çalışanları\n• Kamu kurumları\n• Promosyon ürünleri satın alan işletmeler\n\nPROMOSYON KÜP BLOKNOT FİYATLARI\n\nPromosyon küp bloknot fiyatları; sipariş miktarı, baskı uygulaması, üretim planlaması ve kutu özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Küp Bloknot\nModel: MTB-100\nKategori: Matbaa Ürünleri\nÖlçü: 8 x 8 x 3 cm\nYaprak Sayısı: 250 Yaprak\nİç Kağıt: 80 gr 1. Hamur\nDış Kutu: 350 gr Amerikan Bristol\nKaplama: Mat Selefon / Parlak Selefon\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nKullanım Alanı: Ofis ve Kurumsal Masaüstü Kullanımı\n\nPromosyon 250 yapraklı küp bloknot MTB-100, 250 yaprak kapasitesi, kaliteli Amerikan Bristol dış kutusu, logo baskıya uygun yapısı ve masaüstü kullanım kolaylığıyla ofislerde uzun süre kullanılan profesyonel promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon küp bloknot MTB-100 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo ve kurumsal tasarımlar yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir.",
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir.",
     },
     {
       q: "Küp bloknot kaç yapraktan oluşmaktadır?",
@@ -15514,93 +15349,12 @@ Promosyon metal kalem MK-350 ile markanızı fonksiyonel, modern ve dikkat çeki
   shortDesc:
     "Promosyon karton çanta KÇ-110, 230 gr Amerikan Bristol kağıt, mat veya parlak selefon kaplama, PP kordon sap ve logo baskı seçenekleriyle mağazalar, fuarlar ve kurumsal organizasyonlar için üretilen şık karton çanta modelidir.",
 
-  longDesc: `
-Promosyon karton çanta KÇ-110, estetik tasarımı, sağlam yapısı ve kaliteli baskı yüzeyiyle markaların kurumsal kimliğini yansıtan profesyonel promosyon karton çanta modellerinden biridir. Mağazalarda ürün tesliminden fuar organizasyonlarına kadar birçok alanda kullanılan bu model, marka bilinirliğini artıran etkili reklam ürünleri arasında yer almaktadır.
-
-230 gr Amerikan Bristol kağıttan üretilen gövdesi sayesinde dayanıklı bir kullanım sunarken kaliteli yüzeyi ofset baskı uygulamaları için yüksek performans sağlar. Firmanızın logosu, kurumsal renkleri ve özel tasarımları çanta üzerine canlı ve profesyonel şekilde uygulanabilmektedir.
-
-Mat veya parlak selefon kaplama seçenekleri çantaya hem estetik bir görünüm hem de dış etkenlere karşı ekstra dayanıklılık kazandırmaktadır. Premium görünümü sayesinde mağaza alışveriş çantası ve kurumsal hediye çantası olarak da tercih edilmektedir.
-
-35 cm uzunluğundaki PP kordon sap taşıma konforunu artırırken şık görünümü tamamlamaktadır. Dayanıklı sap yapısı sayesinde tekstil ürünleri, kozmetik ürünleri, hediyelik eşyalar ve kurumsal promosyon ürünleri güvenle taşınabilir.
-
-KÇ-110 modeli farklı ölçülerde üretilebilmekte olup kurumsal ihtiyaçlara göre özel üretim seçenekleri sunmaktadır. Logo baskılı karton çantalar mağaza satışlarını desteklemenin yanında fuarlar, lansmanlar ve organizasyonlarda markanızın prestijini artıran tanıtım ürünleri olarak kullanılmaktadır.
-
-Promosyon karton çanta modelleri; tekstil mağazaları, kozmetik markaları, optik mağazaları, kuyumcular, eğitim kurumları, reklam ajansları ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.
-
-NEDEN PROMOSYON KARTON ÇANTA KÇ-110 TERCİH EDİLMELİ?
-
-• 230 gr Amerikan Bristol kağıt
-• Mat veya parlak selefon kaplama
-• Dayanıklı PP kordon sap
-• Ofset logo baskısına uygundur
-• Şık ve profesyonel görünüm
-• Farklı ölçülerde üretilebilir
-• Kurumsal marka görünürlüğünü artırır
-• Premium mağaza çantası
-• Toplu siparişlere uygundur
-• Uzun ömürlü kullanım sunar
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Mağaza alışveriş çantaları
-• Tekstil mağazaları
-• Kozmetik mağazaları
-• Optik mağazaları
-• Hediyelik eşya mağazaları
-• Fuar organizasyonları
-• Lansman etkinlikleri
-• Kurumsal tanıtım faaliyetleri
-• Özel organizasyonlar
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Perakende mağazaları
-• Tekstil markaları
-• Kozmetik firmaları
-• Optik mağazaları
-• Reklam ajansları
-• Organizasyon şirketleri
-• Promosyon ürünleri kullanan işletmeler
-
-PROMOSYON KARTON ÇANTA FİYATLARI
-
-Promosyon karton çanta fiyatları; sipariş adedi, tercih edilen ölçü, baskı uygulaması, selefon kaplama ve üretim planlamasına göre değişiklik gösterebilir. Kurumsal toplu siparişlerde özel fiyat avantajları ve teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ofset logo baskısı uygulanabilmektedir.
-• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Farklı ebatlarda özel üretim yapılabilmektedir.
-• Güncel stok ve üretim planı sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Karton Çanta
-Model: KÇ-110
-Kategori: Karton Çantalar
-Kağıt Türü: 230 gr Amerikan Bristol
-Kaplama: Mat Selefon / Parlak Selefon
-Sap: 35 cm PP Kordon
-Baskı Türü: Ofset Baskı
-Kullanım Alanı: Mağaza, Fuar ve Kurumsal Tanıtım
-
-EBAT SEÇENEKLERİ
-
-• 18 x 26 x 10 cm
-• 19 x 25 x 7 cm
-• 25 x 15 x 8 cm
-
-Promosyon karton çanta KÇ-110, 230 gr Amerikan Bristol kağıdı, mat veya parlak selefon kaplama seçenekleri, dayanıklı PP kordon sapı ve logo baskıya uygun yapısıyla mağazalar, fuarlar ve kurumsal organizasyonlar için tercih edilen kaliteli karton çanta modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon karton çanta KÇ-110, estetik tasarımı, sağlam yapısı ve kaliteli baskı yüzeyiyle markaların kurumsal kimliğini yansıtan profesyonel promosyon karton çanta modellerinden biridir. Mağazalarda ürün tesliminden fuar organizasyonlarına kadar birçok alanda kullanılan bu model, marka bilinirliğini artıran etkili reklam ürünleri arasında yer almaktadır.\n\n230 gr Amerikan Bristol kağıttan üretilen gövdesi kurumsal tasarımlar için kullanılabilir. Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Firmanızın logosu, kurumsal renkleri ve özel tasarımları çanta üzerine canlı ve profesyonel şekilde uygulanabilmektedir.\n\nMat veya parlak selefon kaplama seçenekleri çantaya hem estetik bir görünüm hem de dış etkenlere karşı ekstra dayanıklılık kazandırmaktadır. Premium görünümü sayesinde mağaza alışveriş çantası ve kurumsal hediye çantası olarak da tercih edilmektedir.\n\n35 cm uzunluğundaki PP kordon sap taşıma konforunu artırırken şık görünümü tamamlamaktadır. Dayanıklı sap yapısı sayesinde tekstil ürünleri, kozmetik ürünleri, hediyelik eşyalar ve kurumsal promosyon ürünleri güvenle taşınabilir.\n\nKÇ-110 modeli farklı ölçülerde üretilebilmekte olup kurumsal ihtiyaçlara göre özel üretim seçenekleri sunmaktadır. Logo baskılı karton çantalar mağaza satışlarını desteklemenin yanında fuarlar, lansmanlar ve organizasyonlarda markanızın prestijini artıran tanıtım ürünleri olarak kullanılmaktadır.\n\nPromosyon karton çanta modelleri; tekstil mağazaları, kozmetik markaları, optik mağazaları, kuyumcular, eğitim kurumları, reklam ajansları ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.\n\nNEDEN PROMOSYON KARTON ÇANTA KÇ-110 TERCİH EDİLMELİ?\n\n• 230 gr Amerikan Bristol kağıt\n• Mat veya parlak selefon kaplama\n• Dayanıklı PP kordon sap\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Şık ve profesyonel görünüm\n• Farklı ölçülerde üretilebilir\n• Kurumsal marka görünürlüğünü artırır\n• Premium mağaza çantası\n• Toplu siparişlere uygundur\n• Uzun ömürlü kullanım sunar\n\nKULLANIM ALANLARI\n\n• Kurumsal promosyon çalışmaları\n• Mağaza alışveriş çantaları\n• Tekstil mağazaları\n• Kozmetik mağazaları\n• Optik mağazaları\n• Hediyelik eşya mağazaları\n• Fuar organizasyonları\n• Lansman etkinlikleri\n• Kurumsal tanıtım faaliyetleri\n• Özel organizasyonlar\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Perakende mağazaları\n• Tekstil markaları\n• Kozmetik firmaları\n• Optik mağazaları\n• Reklam ajansları\n• Organizasyon şirketleri\n• Promosyon ürünleri kullanan işletmeler\n\nPROMOSYON KARTON ÇANTA FİYATLARI\n\nPromosyon karton çanta fiyatları; sipariş adedi, tercih edilen ölçü, baskı uygulaması, selefon kaplama ve üretim planlamasına göre değişiklik gösterebilir. Kurumsal toplu siparişlerde özel fiyat avantajları ve teklif seçenekleri sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Farklı ebatlarda özel üretim yapılabilmektedir.\n• Güncel stok ve üretim planı sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Karton Çanta\nModel: KÇ-110\nKategori: Karton Çantalar\nKağıt Türü: 230 gr Amerikan Bristol\nKaplama: Mat Selefon / Parlak Selefon\nSap: 35 cm PP Kordon\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nKullanım Alanı: Mağaza, Fuar ve Kurumsal Tanıtım\n\nEBAT SEÇENEKLERİ\n\n• 18 x 26 x 10 cm\n• 19 x 25 x 7 cm\n• 25 x 15 x 8 cm\n\nPromosyon karton çanta KÇ-110, 230 gr Amerikan Bristol kağıdı, mat veya parlak selefon kaplama seçenekleri, dayanıklı PP kordon sapı ve logo baskıya uygun yapısıyla mağazalar, fuarlar ve kurumsal organizasyonlar için tercih edilen kaliteli karton çanta modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon karton çanta KÇ-110 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo ve kurumsal tasarımlar yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir.",
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir.",
     },
     {
       q: "KÇ-110 hangi kağıttan üretilmektedir?",
@@ -15639,97 +15393,12 @@ Promosyon karton çanta KÇ-110, 230 gr Amerikan Bristol kağıdı, mat veya par
   shortDesc:
     "Promosyon karton çanta KÇ-120, 230 gr Amerikan Bristol kağıt, mat veya parlak selefon kaplama, PP kordon sap ve logo baskı seçenekleriyle mağazalar, fuarlar ve kurumsal organizasyonlar için üretilen dayanıklı karton çanta modelidir.",
 
-  longDesc: `
-Promosyon karton çanta KÇ-120, güçlü taşıma kapasitesi, kaliteli baskı yüzeyi ve şık tasarımıyla kurumsal markaların tercih ettiği profesyonel karton çanta modellerinden biridir. Logo baskılı yapısı sayesinde yalnızca ürün taşıma amacıyla değil, aynı zamanda markaların kurumsal görünürlüğünü artıran etkili bir tanıtım ürünü olarak da kullanılmaktadır.
-
-230 gr Amerikan Bristol kağıttan üretilen sağlam gövdesi sayesinde günlük kullanıma uygun dayanıklı bir yapı sunmaktadır. Kaliteli yüzeyi ofset baskı uygulamalarında canlı renkler ve yüksek baskı kalitesi elde edilmesini sağlar.
-
-Mat veya parlak selefon kaplama seçenekleri karton çantaya estetik bir görünüm kazandırırken yüzeyin çizilmelere ve dış etkenlere karşı daha dayanıklı olmasına katkı sağlar. Bu sayede ürün uzun süre ilk günkü görünümünü koruyabilir.
-
-35 cm PP kordon sapı ergonomik taşıma kolaylığı sunarken çantanın premium görünümünü tamamlamaktadır. Güçlü sap yapısı sayesinde tekstil ürünleri, kozmetik ürünleri, promosyon ürünleri, hediyelik eşyalar ve kurumsal sunum dosyaları güvenle taşınabilir.
-
-KÇ-120 modeli farklı ölçülerde üretilebilmekte olup kurumsal ihtiyaçlara göre özel üretim seçenekleri sunmaktadır. Firmanıza özel logo, kurumsal renkler ve tasarımlar yüksek kaliteli ofset baskı tekniğiyle uygulanabilmektedir.
-
-Promosyon karton çanta modelleri; tekstil mağazaları, kozmetik markaları, optik mağazaları, kuyumcular, reklam ajansları, eğitim kurumları, fuar organizasyonları ve kurumsal işletmeler tarafından mağaza paketlemelerinde, lansmanlarda ve marka tanıtım çalışmalarında yoğun olarak tercih edilmektedir.
-
-NEDEN PROMOSYON KARTON ÇANTA KÇ-120 TERCİH EDİLMELİ?
-
-• 230 gr Amerikan Bristol kağıt
-• Mat veya parlak selefon kaplama
-• Dayanıklı PP kordon sap
-• Ofset logo baskısına uygundur
-• Premium mağaza çantası görünümü
-• Farklı ölçülerde üretilebilir
-• Güçlü gövde yapısı
-• Kurumsal marka görünürlüğünü artırır
-• Toplu siparişlere uygundur
-• Uzun ömürlü kullanım sunar
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Mağaza alışveriş çantaları
-• Tekstil mağazaları
-• Kozmetik mağazaları
-• Optik mağazaları
-• Hediyelik eşya mağazaları
-• Fuar organizasyonları
-• Lansman etkinlikleri
-• Kurumsal tanıtım faaliyetleri
-• Özel organizasyonlar
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Perakende mağazaları
-• Tekstil markaları
-• Kozmetik firmaları
-• Reklam ajansları
-• Organizasyon şirketleri
-• Eğitim kurumları
-• Promosyon ürünleri kullanan işletmeler
-
-PROMOSYON KARTON ÇANTA FİYATLARI
-
-Promosyon karton çanta fiyatları; sipariş miktarı, tercih edilen ölçü, baskı uygulaması, selefon kaplama ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ofset logo baskısı uygulanabilmektedir.
-• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Farklı ölçülerde özel üretim yapılabilmektedir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Karton Çanta
-Model: KÇ-120
-Kategori: Karton Çantalar
-Kağıt Türü: 230 gr Amerikan Bristol
-Kaplama: Mat Selefon / Parlak Selefon
-Sap: 35 cm PP Kordon
-Baskı Türü: Ofset Baskı
-Kullanım Alanı: Mağaza, Fuar ve Kurumsal Tanıtım
-
-EBAT SEÇENEKLERİ
-
-• 35 x 24 x 12 cm
-• 35 x 25,5 x 8 cm
-• 36 x 24 x 12 cm
-• 28 x 17 x 9 cm
-• 31 x 23 x 5,5 cm
-• 32 x 24 x 6 cm
-
-Promosyon karton çanta KÇ-120, 230 gr Amerikan Bristol kağıdı, mat veya parlak selefon kaplama seçenekleri, dayanıklı PP kordon sapı ve logo baskıya uygun yapısıyla mağazalar, fuarlar ve kurumsal organizasyonlar için tercih edilen kaliteli karton çanta modellerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon karton çanta KÇ-120, güçlü taşıma kapasitesi, kaliteli baskı yüzeyi ve şık tasarımıyla kurumsal markaların tercih ettiği profesyonel karton çanta modellerinden biridir. Logo baskılı yapısı sayesinde yalnızca ürün taşıma amacıyla değil, aynı zamanda markaların kurumsal görünürlüğünü artıran etkili bir tanıtım ürünü olarak da kullanılmaktadır.\n\n230 gr Amerikan Bristol kağıttan üretilen sağlam gövdesi sayesinde günlük kullanıma uygun dayanıklı bir yapı sunmaktadır. Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n\nMat veya parlak selefon kaplama seçenekleri karton çantaya estetik bir görünüm kazandırırken yüzeyin çizilmelere ve dış etkenlere karşı daha dayanıklı olmasına katkı sağlar. Bu sayede ürün uzun süre ilk günkü görünümünü koruyabilir.\n\n35 cm PP kordon sapı ergonomik taşıma kolaylığı sunarken çantanın premium görünümünü tamamlamaktadır. Güçlü sap yapısı sayesinde tekstil ürünleri, kozmetik ürünleri, promosyon ürünleri, hediyelik eşyalar ve kurumsal sunum dosyaları güvenle taşınabilir.\n\nKÇ-120 modeli farklı ölçülerde üretilebilmekte olup kurumsal ihtiyaçlara göre özel üretim seçenekleri sunmaktadır. Firmanıza özel logo, kurumsal renkler ve tasarımlar uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n\nPromosyon karton çanta modelleri; tekstil mağazaları, kozmetik markaları, optik mağazaları, kuyumcular, reklam ajansları, eğitim kurumları, fuar organizasyonları ve kurumsal işletmeler tarafından mağaza paketlemelerinde, lansmanlarda ve marka tanıtım çalışmalarında yoğun olarak tercih edilmektedir.\n\nNEDEN PROMOSYON KARTON ÇANTA KÇ-120 TERCİH EDİLMELİ?\n\n• 230 gr Amerikan Bristol kağıt\n• Mat veya parlak selefon kaplama\n• Dayanıklı PP kordon sap\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Premium mağaza çantası görünümü\n• Farklı ölçülerde üretilebilir\n• Güçlü gövde yapısı\n• Kurumsal marka görünürlüğünü artırır\n• Toplu siparişlere uygundur\n• Uzun ömürlü kullanım sunar\n\nKULLANIM ALANLARI\n\n• Kurumsal promosyon çalışmaları\n• Mağaza alışveriş çantaları\n• Tekstil mağazaları\n• Kozmetik mağazaları\n• Optik mağazaları\n• Hediyelik eşya mağazaları\n• Fuar organizasyonları\n• Lansman etkinlikleri\n• Kurumsal tanıtım faaliyetleri\n• Özel organizasyonlar\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Perakende mağazaları\n• Tekstil markaları\n• Kozmetik firmaları\n• Reklam ajansları\n• Organizasyon şirketleri\n• Eğitim kurumları\n• Promosyon ürünleri kullanan işletmeler\n\nPROMOSYON KARTON ÇANTA FİYATLARI\n\nPromosyon karton çanta fiyatları; sipariş miktarı, tercih edilen ölçü, baskı uygulaması, selefon kaplama ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Farklı ölçülerde özel üretim yapılabilmektedir.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Karton Çanta\nModel: KÇ-120\nKategori: Karton Çantalar\nKağıt Türü: 230 gr Amerikan Bristol\nKaplama: Mat Selefon / Parlak Selefon\nSap: 35 cm PP Kordon\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nKullanım Alanı: Mağaza, Fuar ve Kurumsal Tanıtım\n\nEBAT SEÇENEKLERİ\n\n• 35 x 24 x 12 cm\n• 35 x 25,5 x 8 cm\n• 36 x 24 x 12 cm\n• 28 x 17 x 9 cm\n• 31 x 23 x 5,5 cm\n• 32 x 24 x 6 cm\n\nPromosyon karton çanta KÇ-120, 230 gr Amerikan Bristol kağıdı, mat veya parlak selefon kaplama seçenekleri, dayanıklı PP kordon sapı ve logo baskıya uygun yapısıyla mağazalar, fuarlar ve kurumsal organizasyonlar için tercih edilen kaliteli karton çanta modellerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon karton çanta KÇ-120 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo ve kurumsal tasarımlar yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir.",
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir.",
     },
     {
       q: "KÇ-120 hangi kağıttan üretilmektedir?",
@@ -15768,91 +15437,12 @@ Promosyon karton çanta KÇ-120, 230 gr Amerikan Bristol kağıdı, mat veya par
   shortDesc:
     "Promosyon 375 yapraklı küp bloknot MTB-110, 8 x 8 x 4 cm ölçüsü, 80 gr 1. hamur kağıdı ve logo baskılı Amerikan Bristol dış kutusuyla ofislerde uzun süre kullanılan kurumsal promosyon masaüstü notluk modelidir.",
 
-  longDesc: `
-Promosyon 375 yapraklı küp bloknot MTB-110, yüksek yaprak kapasitesi ve dayanıklı dış kutu tasarımı sayesinde masaüstü kullanımında uzun ömür sunan kurumsal promosyon ürünlerinden biridir. Günlük not alma ihtiyacını karşılayan yapısı ile ofislerde sürekli kullanılan etkili bir reklam ve tanıtım ürünüdür.
-
-375 yaprak kapasitesine sahip iç not kağıtları sayesinde uzun süre kullanım imkanı sunmaktadır. Telefon mesajları, toplantı notları, günlük planlamalar ve önemli hatırlatmalar için pratik bir masaüstü yardımcıdır.
-
-8 x 8 x 4 cm ölçülerindeki kompakt tasarımı masa üzerinde fazla yer kaplamadan kullanım kolaylığı sağlar. Sürekli göz önünde bulunması sayesinde firmanızın logosu gün boyunca görünürlüğünü korur.
-
-Dış kutu kısmında kullanılan 300 gr Amerikan Bristol kağıt ürüne dayanıklılık kazandırırken mat veya parlak selefon kaplama seçenekleriyle profesyonel ve prestijli bir görünüm sunmaktadır.
-
-İç bölümde kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunar. Pürüzsüz yüzeyi sayesinde kalem kullanımında rahatlık sağlar ve günlük ofis kullanımına uygundur.
-
-Ürün üzerine firmanıza ait logo, kurumsal renkler ve reklam tasarımları yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir. Bu sayede ürün yalnızca bir notluk değil, aynı zamanda uzun süre marka tanıtımı yapan kurumsal bir promosyon ürününe dönüşmektedir.
-
-Promosyon küp bloknot modelleri; bankalar, finans kuruluşları, sigorta şirketleri, hukuk büroları, muhasebe ofisleri, eğitim kurumları, sağlık kuruluşları, reklam ajansları ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.
-
-NEDEN PROMOSYON KÜP BLOKNOT MTB-110 TERCİH EDİLMELİ?
-
-• 375 yaprak yüksek kapasite
-• 8 x 8 x 4 cm ölçü
-• 80 gr 1. hamur kağıt
-• 300 gr Amerikan Bristol dış kutu
-• Mat veya parlak selefon kaplama
-• Ofset logo baskısına uygundur
-• Masaüstünde uzun süre kullanım sağlar
-• Profesyonel kurumsal görünüm sunar
-• Marka görünürlüğünü artırır
-• Kurumsal promosyon çalışmaları için idealdir
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Bankalar
-• Sigorta şirketleri
-• Hukuk büroları
-• Muhasebe ofisleri
-• Eğitim kurumları
-• Sağlık kuruluşları
-• Fuar ve organizasyonlar
-• Müşteri karşılama alanları
-• Günlük masaüstü kullanımı
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Bankalar
-• Finans kuruluşları
-• Eğitim kurumları
-• Reklam ajansları
-• Kamu kurumları
-• Ofis çalışanları
-• Promosyon ürünleri satın alan işletmeler
-
-PROMOSYON KÜP BLOKNOT FİYATLARI
-
-Promosyon küp bloknot fiyatları; sipariş miktarı, baskı uygulaması, üretim planlaması ve kutu özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ofset logo baskısı uygulanabilmektedir.
-• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Küp Bloknot
-Model: MTB-110
-Kategori: Matbaa Ürünleri
-Ölçü: 8 x 8 x 4 cm
-Yaprak Sayısı: 375 Yaprak
-İç Kağıt: 80 gr 1. Hamur
-Dış Kutu: 300 gr Amerikan Bristol
-Kaplama: Mat Selefon / Parlak Selefon
-Baskı Türü: Ofset Baskı
-Kullanım Alanı: Ofis ve Kurumsal Masaüstü Kullanımı
-
-Promosyon 375 yapraklı küp bloknot MTB-110, yüksek yaprak kapasitesi, kaliteli Amerikan Bristol dış kutusu, profesyonel logo baskısı ve uzun süreli masaüstü kullanımıyla markanızın görünürlüğünü artıran kurumsal promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon 375 yapraklı küp bloknot MTB-110, yüksek yaprak kapasitesi ve dayanıklı dış kutu tasarımı sayesinde masaüstü kullanımında uzun ömür sunan kurumsal promosyon ürünlerinden biridir. Günlük not alma ihtiyacını karşılayan yapısı ile ofislerde sürekli kullanılan etkili bir reklam ve tanıtım ürünüdür.\n\n375 yaprak kapasitesine sahip iç not kağıtları sayesinde uzun süre kullanım imkanı sunmaktadır. Telefon mesajları, toplantı notları, günlük planlamalar ve önemli hatırlatmalar için pratik bir masaüstü yardımcıdır.\n\n8 x 8 x 4 cm ölçülerindeki kompakt tasarımı masa üzerinde fazla yer kaplamadan kullanım kolaylığı sağlar. Sürekli göz önünde bulunması sayesinde firmanızın logosu gün boyunca görünürlüğünü korur.\n\nDış kutu kısmında kullanılan 300 gr Amerikan Bristol kağıt ürüne dayanıklılık kazandırırken mat veya parlak selefon kaplama seçenekleriyle profesyonel ve prestijli bir görünüm sunmaktadır.\n\nİç bölümde kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunar. Pürüzsüz yüzeyi sayesinde kalem kullanımında rahatlık sağlar ve günlük ofis kullanımına uygundur.\n\nÜrün üzerine firmanıza ait logo, kurumsal renkler ve reklam tasarımları uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Bu sayede ürün yalnızca bir notluk değil, aynı zamanda uzun süre marka tanıtımı yapan kurumsal bir promosyon ürününe dönüşmektedir.\n\nPromosyon küp bloknot modelleri; bankalar, finans kuruluşları, sigorta şirketleri, hukuk büroları, muhasebe ofisleri, eğitim kurumları, sağlık kuruluşları, reklam ajansları ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.\n\nNEDEN PROMOSYON KÜP BLOKNOT MTB-110 TERCİH EDİLMELİ?\n\n• 375 yaprak yüksek kapasite\n• 8 x 8 x 4 cm ölçü\n• 80 gr 1. hamur kağıt\n• 300 gr Amerikan Bristol dış kutu\n• Mat veya parlak selefon kaplama\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Masaüstünde uzun süre kullanım sağlar\n• Profesyonel kurumsal görünüm sunar\n• Marka görünürlüğünü artırır\n• Kurumsal promosyon çalışmaları için idealdir\n\nKULLANIM ALANLARI\n\n• Kurumsal ofisler\n• Bankalar\n• Sigorta şirketleri\n• Hukuk büroları\n• Muhasebe ofisleri\n• Eğitim kurumları\n• Sağlık kuruluşları\n• Fuar ve organizasyonlar\n• Müşteri karşılama alanları\n• Günlük masaüstü kullanımı\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Bankalar\n• Finans kuruluşları\n• Eğitim kurumları\n• Reklam ajansları\n• Kamu kurumları\n• Ofis çalışanları\n• Promosyon ürünleri satın alan işletmeler\n\nPROMOSYON KÜP BLOKNOT FİYATLARI\n\nPromosyon küp bloknot fiyatları; sipariş miktarı, baskı uygulaması, üretim planlaması ve kutu özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Küp Bloknot\nModel: MTB-110\nKategori: Matbaa Ürünleri\nÖlçü: 8 x 8 x 4 cm\nYaprak Sayısı: 375 Yaprak\nİç Kağıt: 80 gr 1. Hamur\nDış Kutu: 300 gr Amerikan Bristol\nKaplama: Mat Selefon / Parlak Selefon\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nKullanım Alanı: Ofis ve Kurumsal Masaüstü Kullanımı\n\nPromosyon 375 yapraklı küp bloknot MTB-110, yüksek yaprak kapasitesi, kaliteli Amerikan Bristol dış kutusu, profesyonel logo baskısı ve uzun süreli masaüstü kullanımıyla markanızın görünürlüğünü artıran kurumsal promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon küp bloknot MTB-110 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo ve kurumsal tasarımlar yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir.",
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir.",
     },
     {
       q: "MTB-110 kaç yaprak kapasitesine sahiptir?",
@@ -15891,91 +15481,12 @@ Promosyon 375 yapraklı küp bloknot MTB-110, yüksek yaprak kapasitesi, kalitel
   shortDesc:
     "Promosyon 500 yapraklı küp bloknot MTB-120, 8 x 8 x 5 cm ölçüsü, 80 gr 1. hamur kağıdı ve 350 gr Amerikan Bristol dış kutusuyla uzun süre masaüstü kullanım sağlayan logo baskılı kurumsal promosyon notluk modelidir.",
 
-  longDesc: `
-Promosyon 500 yapraklı küp bloknot MTB-120, yüksek yaprak kapasitesi ve dayanıklı yapısıyla kurumsal ofislerde uzun süre kullanılan masaüstü promosyon ürünleri arasında yer almaktadır. Günlük not alma ihtiyacını karşılayan yapısı sayesinde marka görünürlüğünü uzun süre devam ettiren etkili reklam ve tanıtım ürünlerinden biridir.
-
-500 yaprak kapasitesi sayesinde standart küp bloknot modellerine göre çok daha uzun kullanım ömrü sunmaktadır. Telefon notları, toplantı kayıtları, günlük planlamalar, müşteri notları ve ofis içi yazışmalar için pratik kullanım sağlamaktadır.
-
-8 x 8 x 5 cm ölçülerindeki kompakt yapısı masa üzerinde düzenli bir görünüm sunarken yüksek yaprak kapasitesi sayesinde sık sık notluk değiştirme ihtiyacını ortadan kaldırmaktadır.
-
-Dış kutu kısmında kullanılan 350 gr Amerikan Bristol kağıt ürüne sağlamlık kazandırırken mat veya parlak selefon kaplama seçenekleri kurumsal görünümü güçlendirmektedir. Kaliteli dış yüzeyi logo ve kurumsal tasarımların profesyonel şekilde uygulanmasına olanak tanımaktadır.
-
-İç bölümde kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunar. Pürüzsüz yüzeyi sayesinde günlük kullanımda rahat yazım imkanı sağlar ve ofis ortamları için ideal bir yapı oluşturur.
-
-Ürün üzerine firmanıza ait logo, kurumsal renkler ve reklam tasarımları yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir. Masaüstünde sürekli kullanılan bir ürün olması sayesinde markanız uzun yıllar görünürlüğünü koruyabilir.
-
-Promosyon 500 yapraklı küp bloknot modelleri; bankalar, finans kuruluşları, sigorta şirketleri, hukuk büroları, muhasebe ofisleri, eğitim kurumları, kamu kuruluşları, sağlık sektörü ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.
-
-NEDEN PROMOSYON KÜP BLOKNOT MTB-120 TERCİH EDİLMELİ?
-
-• 500 yaprak ekstra yüksek kapasite
-• 8 x 8 x 5 cm ölçü
-• 80 gr 1. hamur kağıt
-• 350 gr Amerikan Bristol dış kutu
-• Mat veya parlak selefon kaplama
-• Ofset logo baskısına uygundur
-• Uzun süre masaüstü kullanımı sağlar
-• Profesyonel kurumsal görünüm sunar
-• Marka görünürlüğünü uzun süre artırır
-• Kurumsal promosyon çalışmaları için idealdir
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Bankalar
-• Finans kuruluşları
-• Sigorta şirketleri
-• Hukuk büroları
-• Muhasebe ofisleri
-• Eğitim kurumları
-• Sağlık kuruluşları
-• Fuar ve organizasyonlar
-• Günlük masaüstü kullanımı
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Bankalar
-• Finans kuruluşları
-• Reklam ajansları
-• Eğitim kurumları
-• Ofis çalışanları
-• Promosyon ürünleri satın alan işletmeler
-
-PROMOSYON 500 YAPRAKLI KÜP BLOKNOT FİYATLARI
-
-Promosyon 500 yapraklı küp bloknot fiyatları; sipariş miktarı, baskı uygulaması, üretim planlaması ve kutu özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ofset logo baskısı uygulanabilmektedir.
-• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Küp Bloknot
-Model: MTB-120
-Kategori: Matbaa Ürünleri
-Ölçü: 8 x 8 x 5 cm
-Yaprak Sayısı: 500 Yaprak
-İç Kağıt: 80 gr 1. Hamur
-Dış Kutu: 350 gr Amerikan Bristol
-Kaplama: Mat Selefon / Parlak Selefon
-Baskı Türü: Ofset Baskı
-Kullanım Alanı: Ofis ve Kurumsal Masaüstü Kullanımı
-
-Promosyon 500 yapraklı küp bloknot MTB-120, ekstra yüksek yaprak kapasitesi, kaliteli Amerikan Bristol dış kutusu, profesyonel logo baskısı ve uzun süre masaüstü kullanım avantajıyla markanızın görünürlüğünü artıran kurumsal promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon 500 yapraklı küp bloknot MTB-120, yüksek yaprak kapasitesi ve dayanıklı yapısıyla kurumsal ofislerde uzun süre kullanılan masaüstü promosyon ürünleri arasında yer almaktadır. Günlük not alma ihtiyacını karşılayan yapısı sayesinde marka görünürlüğünü uzun süre devam ettiren etkili reklam ve tanıtım ürünlerinden biridir.\n\n500 yaprak kapasitesi sayesinde standart küp bloknot modellerine göre çok daha uzun kullanım ömrü sunmaktadır. Telefon notları, toplantı kayıtları, günlük planlamalar, müşteri notları ve ofis içi yazışmalar için pratik kullanım sağlamaktadır.\n\n8 x 8 x 5 cm ölçülerindeki kompakt yapısı masa üzerinde düzenli bir görünüm sunarken yüksek yaprak kapasitesi sayesinde sık sık notluk değiştirme ihtiyacını ortadan kaldırmaktadır.\n\nDış kutu kısmında kullanılan 350 gr Amerikan Bristol kağıt ürüne sağlamlık kazandırırken mat veya parlak selefon kaplama seçenekleri kurumsal görünümü güçlendirmektedir. Kaliteli dış yüzeyi logo ve kurumsal tasarımların profesyonel şekilde uygulanmasına olanak tanımaktadır.\n\nİç bölümde kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunar. Pürüzsüz yüzeyi sayesinde günlük kullanımda rahat yazım imkanı sağlar ve ofis ortamları için ideal bir yapı oluşturur.\n\nÜrün üzerine firmanıza ait logo, kurumsal renkler ve reklam tasarımları uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Masaüstünde sürekli kullanılan bir ürün olması sayesinde markanız uzun yıllar görünürlüğünü koruyabilir.\n\nPromosyon 500 yapraklı küp bloknot modelleri; bankalar, finans kuruluşları, sigorta şirketleri, hukuk büroları, muhasebe ofisleri, eğitim kurumları, kamu kuruluşları, sağlık sektörü ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.\n\nNEDEN PROMOSYON KÜP BLOKNOT MTB-120 TERCİH EDİLMELİ?\n\n• 500 yaprak ekstra yüksek kapasite\n• 8 x 8 x 5 cm ölçü\n• 80 gr 1. hamur kağıt\n• 350 gr Amerikan Bristol dış kutu\n• Mat veya parlak selefon kaplama\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Uzun süre masaüstü kullanımı sağlar\n• Profesyonel kurumsal görünüm sunar\n• Marka görünürlüğünü uzun süre artırır\n• Kurumsal promosyon çalışmaları için idealdir\n\nKULLANIM ALANLARI\n\n• Kurumsal ofisler\n• Bankalar\n• Finans kuruluşları\n• Sigorta şirketleri\n• Hukuk büroları\n• Muhasebe ofisleri\n• Eğitim kurumları\n• Sağlık kuruluşları\n• Fuar ve organizasyonlar\n• Günlük masaüstü kullanımı\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Kamu kurumları\n• Bankalar\n• Finans kuruluşları\n• Reklam ajansları\n• Eğitim kurumları\n• Ofis çalışanları\n• Promosyon ürünleri satın alan işletmeler\n\nPROMOSYON 500 YAPRAKLI KÜP BLOKNOT FİYATLARI\n\nPromosyon 500 yapraklı küp bloknot fiyatları; sipariş miktarı, baskı uygulaması, üretim planlaması ve kutu özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Küp Bloknot\nModel: MTB-120\nKategori: Matbaa Ürünleri\nÖlçü: 8 x 8 x 5 cm\nYaprak Sayısı: 500 Yaprak\nİç Kağıt: 80 gr 1. Hamur\nDış Kutu: 350 gr Amerikan Bristol\nKaplama: Mat Selefon / Parlak Selefon\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nKullanım Alanı: Ofis ve Kurumsal Masaüstü Kullanımı\n\nPromosyon 500 yapraklı küp bloknot MTB-120, ekstra yüksek yaprak kapasitesi, kaliteli Amerikan Bristol dış kutusu, profesyonel logo baskısı ve uzun süre masaüstü kullanım avantajıyla markanızın görünürlüğünü artıran kurumsal promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon küp bloknot MTB-120 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo ve kurumsal tasarımlar yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir.",
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir.",
     },
     {
       q: "MTB-120 kaç yaprak kapasitesine sahiptir?",
@@ -16014,91 +15525,12 @@ Promosyon 500 yapraklı küp bloknot MTB-120, ekstra yüksek yaprak kapasitesi, 
   shortDesc:
     "Promosyon 750 yapraklı küp bloknot MTB-130, 8 x 8 x 8 cm ölçüsü, 80 gr 1. hamur kağıdı ve 350 gr Amerikan Bristol dış kutusuyla yoğun ofis kullanımı için üretilen yüksek kapasiteli logo baskılı kurumsal masaüstü notluk modelidir.",
 
-  longDesc: `
-Promosyon 750 yapraklı küp bloknot MTB-130, ekstra yüksek yaprak kapasitesi sayesinde uzun süre masaüstünde kullanılabilen profesyonel promosyon ürünleri arasında yer almaktadır. Günlük not alma alışkanlığının vazgeçilmez yardımcılarından biri olan bu model, kurumsal firmaların marka görünürlüğünü uzun süre artıran etkili reklam ürünlerinden biridir.
-
-750 yaprak kapasitesi sayesinde standart küp bloknotlara göre çok daha uzun kullanım ömrü sunmaktadır. Toplantı notları, müşteri görüşmeleri, telefon mesajları, günlük planlamalar ve ofis içi notlar için ideal bir kullanım sağlamaktadır.
-
-8 x 8 x 8 cm ölçülerindeki yüksek hacimli tasarımı sayesinde masaüstünde düzenli bir görünüm oluştururken uzun süre yeni bloknot ihtiyacı oluşturmadan kullanılabilir. Sürekli masa üzerinde bulunması markanızın her gün görünür kalmasını sağlar.
-
-Dış kutu kısmında kullanılan 350 gr Amerikan Bristol kağıt dayanıklılığı artırırken mat veya parlak selefon kaplama seçenekleri ürüne estetik ve profesyonel bir görünüm kazandırmaktadır. Kaliteli dış yüzey logo ve kurumsal tasarımların canlı şekilde uygulanmasına imkan tanımaktadır.
-
-İç bölümde kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunmaktadır. Pürüzsüz yüzeyi kalem kullanımını kolaylaştırırken günlük ofis çalışmalarında konforlu kullanım sağlamaktadır.
-
-Ürün üzerine firmanıza ait logo, kurumsal renkler ve reklam tasarımları yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir. Böylece ürün yalnızca bir masaüstü notluğu değil, aynı zamanda yıllarca kullanılabilen güçlü bir kurumsal reklam aracına dönüşmektedir.
-
-Promosyon 750 yapraklı küp bloknot modelleri; bankalar, finans kuruluşları, sigorta şirketleri, hukuk büroları, muhasebe ofisleri, eğitim kurumları, sağlık kuruluşları, kamu kurumları ve büyük ölçekli kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.
-
-NEDEN PROMOSYON KÜP BLOKNOT MTB-130 TERCİH EDİLMELİ?
-
-• 750 yaprak ekstra yüksek kapasite
-• 8 x 8 x 8 cm ölçü
-• 80 gr 1. hamur kağıt
-• 350 gr Amerikan Bristol dış kutu
-• Mat veya parlak selefon kaplama
-• Ofset logo baskısına uygundur
-• Uzun yıllar masaüstü kullanım sağlar
-• Profesyonel kurumsal görünüm sunar
-• Marka görünürlüğünü maksimum seviyeye çıkarır
-• Kurumsal promosyon çalışmaları için idealdir
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Bankalar
-• Finans kuruluşları
-• Sigorta şirketleri
-• Hukuk büroları
-• Muhasebe ofisleri
-• Eğitim kurumları
-• Sağlık kuruluşları
-• Fuar ve organizasyonlar
-• Günlük masaüstü kullanımı
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Bankalar
-• Finans kuruluşları
-• Reklam ajansları
-• Eğitim kurumları
-• Büyük ölçekli işletmeler
-• Promosyon ürünleri satın alan firmalar
-
-PROMOSYON 750 YAPRAKLI KÜP BLOKNOT FİYATLARI
-
-Promosyon 750 yapraklı küp bloknot fiyatları; sipariş miktarı, baskı uygulaması, üretim planlaması ve kutu özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ofset logo baskısı uygulanabilmektedir.
-• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Küp Bloknot
-Model: MTB-130
-Kategori: Matbaa Ürünleri
-Ölçü: 8 x 8 x 8 cm
-Yaprak Sayısı: 750 Yaprak
-İç Kağıt: 80 gr 1. Hamur
-Dış Kutu: 350 gr Amerikan Bristol
-Kaplama: Mat Selefon / Parlak Selefon
-Baskı Türü: Ofset Baskı
-Kullanım Alanı: Ofis ve Kurumsal Masaüstü Kullanımı
-
-Promosyon 750 yapraklı küp bloknot MTB-130, ekstra yüksek yaprak kapasitesi, kaliteli Amerikan Bristol dış kutusu, profesyonel logo baskısı ve uzun ömürlü masaüstü kullanımıyla markanızın görünürlüğünü yıllarca sürdüren prestijli kurumsal promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon 750 yapraklı küp bloknot MTB-130, ekstra yüksek yaprak kapasitesi sayesinde uzun süre masaüstünde kullanılabilen profesyonel promosyon ürünleri arasında yer almaktadır. Günlük not alma alışkanlığının vazgeçilmez yardımcılarından biri olan bu model, kurumsal firmaların marka görünürlüğünü uzun süre artıran etkili reklam ürünlerinden biridir.\n\n750 yaprak kapasitesi sayesinde standart küp bloknotlara göre çok daha uzun kullanım ömrü sunmaktadır. Toplantı notları, müşteri görüşmeleri, telefon mesajları, günlük planlamalar ve ofis içi notlar için ideal bir kullanım sağlamaktadır.\n\n8 x 8 x 8 cm ölçülerindeki yüksek hacimli tasarımı sayesinde masaüstünde düzenli bir görünüm oluştururken uzun süre yeni bloknot ihtiyacı oluşturmadan kullanılabilir. Sürekli masa üzerinde bulunması markanızın her gün görünür kalmasını sağlar.\n\nDış kutu kısmında kullanılan 350 gr Amerikan Bristol kağıt dayanıklılığı artırırken mat veya parlak selefon kaplama seçenekleri ürüne estetik ve profesyonel bir görünüm kazandırmaktadır. Kaliteli dış yüzey logo ve kurumsal tasarımların canlı şekilde uygulanmasına imkan tanımaktadır.\n\nİç bölümde kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunmaktadır. Pürüzsüz yüzeyi kalem kullanımını kolaylaştırırken günlük ofis çalışmalarında konforlu kullanım sağlamaktadır.\n\nÜrün üzerine firmanıza ait logo, kurumsal renkler ve reklam tasarımları uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Böylece ürün yalnızca bir masaüstü notluğu değil, aynı zamanda yıllarca kullanılabilen güçlü bir kurumsal reklam aracına dönüşmektedir.\n\nPromosyon 750 yapraklı küp bloknot modelleri; bankalar, finans kuruluşları, sigorta şirketleri, hukuk büroları, muhasebe ofisleri, eğitim kurumları, sağlık kuruluşları, kamu kurumları ve büyük ölçekli kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.\n\nNEDEN PROMOSYON KÜP BLOKNOT MTB-130 TERCİH EDİLMELİ?\n\n• 750 yaprak ekstra yüksek kapasite\n• 8 x 8 x 8 cm ölçü\n• 80 gr 1. hamur kağıt\n• 350 gr Amerikan Bristol dış kutu\n• Mat veya parlak selefon kaplama\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Uzun yıllar masaüstü kullanım sağlar\n• Profesyonel kurumsal görünüm sunar\n• Marka görünürlüğünü maksimum seviyeye çıkarır\n• Kurumsal promosyon çalışmaları için idealdir\n\nKULLANIM ALANLARI\n\n• Kurumsal ofisler\n• Bankalar\n• Finans kuruluşları\n• Sigorta şirketleri\n• Hukuk büroları\n• Muhasebe ofisleri\n• Eğitim kurumları\n• Sağlık kuruluşları\n• Fuar ve organizasyonlar\n• Günlük masaüstü kullanımı\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Kamu kurumları\n• Bankalar\n• Finans kuruluşları\n• Reklam ajansları\n• Eğitim kurumları\n• Büyük ölçekli işletmeler\n• Promosyon ürünleri satın alan firmalar\n\nPROMOSYON 750 YAPRAKLI KÜP BLOKNOT FİYATLARI\n\nPromosyon 750 yapraklı küp bloknot fiyatları; sipariş miktarı, baskı uygulaması, üretim planlaması ve kutu özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Küp Bloknot\nModel: MTB-130\nKategori: Matbaa Ürünleri\nÖlçü: 8 x 8 x 8 cm\nYaprak Sayısı: 750 Yaprak\nİç Kağıt: 80 gr 1. Hamur\nDış Kutu: 350 gr Amerikan Bristol\nKaplama: Mat Selefon / Parlak Selefon\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nKullanım Alanı: Ofis ve Kurumsal Masaüstü Kullanımı\n\nPromosyon 750 yapraklı küp bloknot MTB-130, ekstra yüksek yaprak kapasitesi, kaliteli Amerikan Bristol dış kutusu, profesyonel logo baskısı ve uzun ömürlü masaüstü kullanımıyla markanızın görünürlüğünü yıllarca sürdüren prestijli kurumsal promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon küp bloknot MTB-130 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo ve kurumsal tasarımlar yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir.",
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir.",
     },
     {
       q: "MTB-130 kaç yaprak kapasitesine sahiptir?",
@@ -16135,94 +15567,14 @@ Promosyon 750 yapraklı küp bloknot MTB-130, ekstra yüksek yaprak kapasitesi, 
   image: "/products/promosyon-100-yaprakli-dik-bloknot-mtb-140.jpg",
 
   shortDesc:
-    "Promosyon 100 yapraklı dik bloknot MTB-140, 9 x 13 cm dış kutusu, 120 gr 1. hamur iç kağıdı ve logo baskılı Amerikan Bristol kapağıyla masaüstü kullanım için tasarlanmış kurumsal promosyon bloknot modelidir.",
+    "Promosyon 100 yapraklı dik bloknot MTB-140, 120 gr 1. hamur iç kağıdı ve Amerikan Bristol dış kutusuyla masaüstü kullanım için değerlendirilebilir. Ürün ölçüleri sipariş öncesinde teyit edilmelidir.",
 
-  longDesc: `
-Promosyon 100 yapraklı dik bloknot MTB-140, masaüstünde düzenli kullanım sağlayan dik tasarımı ve kaliteli baskı özellikleriyle kurumsal promosyon ürünleri arasında öne çıkan notluk modellerinden biridir. Günlük not alma ihtiyacını karşılayan yapısı sayesinde markanızın uzun süre görünür kalmasına katkı sağlayan etkili bir reklam ürünüdür.
-
-100 yaprak kapasitesine sahip olan bloknot modeli; telefon mesajları, toplantı notları, günlük planlamalar, müşteri görüşmeleri ve ofis içi notlar için pratik kullanım sunmaktadır. Kompakt yapısı sayesinde masa üzerinde fazla yer kaplamadan düzenli bir çalışma alanı oluşturur.
-
-Dik formdaki tasarımı klasik küp bloknot modellerinden farklı olarak hem masaüstünde hem de resepsiyon, danışma ve müşteri karşılama alanlarında estetik bir görünüm sunmaktadır. Bu sayede kurumsal firmalar tarafından yoğun olarak tercih edilmektedir.
-
-Dış kutu kısmında kullanılan 350 gr Amerikan Bristol kağıt ürüne sağlamlık kazandırırken mat veya parlak selefon kaplama seçenekleri profesyonel bir görünüm oluşturmaktadır. Kaliteli dış yüzey logo ve kurumsal tasarımların canlı şekilde uygulanmasına imkan vermektedir.
-
-İç bölümde kullanılan 120 gr 1. hamur kağıt standart notluklara göre daha kaliteli bir yazım deneyimi sunmaktadır. Kalın yapısı sayesinde günlük kullanımda konforlu yazım sağlar ve profesyonel bir kullanım hissi oluşturur.
-
-Ürün üzerine firmanıza ait logo, kurumsal renkler ve reklam tasarımları yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir. Masa üzerinde sürekli kullanılan yapısı sayesinde markanız her gün kullanıcıların karşısında yer almaya devam eder.
-
-Promosyon dik bloknot modelleri; bankalar, finans kuruluşları, hukuk büroları, muhasebe ofisleri, eğitim kurumları, sağlık kuruluşları, kamu kurumları, oteller, resepsiyon alanları ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.
-
-NEDEN PROMOSYON DİK BLOKNOT MTB-140 TERCİH EDİLMELİ?
-
-• 100 yaprak kapasite
-• Şık ve dik masaüstü tasarım
-• 120 gr 1. hamur iç kağıt
-• 350 gr Amerikan Bristol dış kutu
-• Mat veya parlak selefon kaplama
-• Ofset logo baskısına uygundur
-• Masaüstünde düzenli kullanım sağlar
-• Profesyonel kurumsal görünüm sunar
-• Marka görünürlüğünü artırır
-• Kurumsal promosyon çalışmaları için idealdir
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Resepsiyon masaları
-• Bankalar
-• Eğitim kurumları
-• Hukuk büroları
-• Muhasebe ofisleri
-• Sağlık kuruluşları
-• Fuar ve organizasyonlar
-• Müşteri karşılama alanları
-• Günlük masaüstü kullanımı
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Bankalar
-• Finans kuruluşları
-• Reklam ajansları
-• Eğitim kurumları
-• Oteller
-• Promosyon ürünleri satın alan işletmeler
-
-PROMOSYON DİK BLOKNOT FİYATLARI
-
-Promosyon dik bloknot fiyatları; sipariş miktarı, baskı uygulaması, üretim planlaması ve kutu özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ofset logo baskısı uygulanabilmektedir.
-• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Dik Bloknot
-Model: MTB-140
-Kategori: Matbaa Ürünleri
-Dış Kutu Ölçüsü: 9 x 13 cm
-İç Sayfa Ölçüsü: 8.8 x 14 cm
-Yaprak Sayısı: 100 Yaprak
-İç Kağıt: 120 gr 1. Hamur
-Dış Kutu: 350 gr Amerikan Bristol
-Kaplama: Mat Selefon / Parlak Selefon
-Baskı Türü: Ofset Baskı
-Kullanım Alanı: Ofis, Resepsiyon ve Kurumsal Masaüstü Kullanımı
-
-Promosyon 100 yapraklı dik bloknot MTB-140, kaliteli 120 gr iç kağıdı, dayanıklı Amerikan Bristol dış kutusu, logo baskıya uygun yapısı ve modern dik tasarımıyla kurumsal firmaların uzun süre tercih ettiği profesyonel promosyon bloknot modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon 100 yapraklı dik bloknot MTB-140, masaüstünde düzenli kullanım sağlayan dik tasarımı ve kaliteli baskı özellikleriyle kurumsal promosyon ürünleri arasında öne çıkan notluk modellerinden biridir. Günlük not alma ihtiyacını karşılayan yapısı sayesinde markanızın uzun süre görünür kalmasına katkı sağlayan etkili bir reklam ürünüdür.\n\n100 yaprak kapasitesine sahip olan bloknot modeli; telefon mesajları, toplantı notları, günlük planlamalar, müşteri görüşmeleri ve ofis içi notlar için pratik kullanım sunmaktadır. Kompakt yapısı sayesinde masa üzerinde fazla yer kaplamadan düzenli bir çalışma alanı oluşturur.\n\nDik formdaki tasarımı klasik küp bloknot modellerinden farklı olarak hem masaüstünde hem de resepsiyon, danışma ve müşteri karşılama alanlarında estetik bir görünüm sunmaktadır. Bu sayede kurumsal firmalar tarafından yoğun olarak tercih edilmektedir.\n\nDış kutu kısmında kullanılan 350 gr Amerikan Bristol kağıt ürüne sağlamlık kazandırırken mat veya parlak selefon kaplama seçenekleri profesyonel bir görünüm oluşturmaktadır. Kaliteli dış yüzey logo ve kurumsal tasarımların canlı şekilde uygulanmasına imkan vermektedir.\n\nİç bölümde kullanılan 120 gr 1. hamur kağıt standart notluklara göre daha kaliteli bir yazım deneyimi sunmaktadır. Kalın yapısı sayesinde günlük kullanımda konforlu yazım sağlar ve profesyonel bir kullanım hissi oluşturur.\n\nÜrün üzerine firmanıza ait logo, kurumsal renkler ve reklam tasarımları uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Masa üzerinde sürekli kullanılan yapısı sayesinde markanız her gün kullanıcıların karşısında yer almaya devam eder.\n\nPromosyon dik bloknot modelleri; bankalar, finans kuruluşları, hukuk büroları, muhasebe ofisleri, eğitim kurumları, sağlık kuruluşları, kamu kurumları, oteller, resepsiyon alanları ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.\n\nNEDEN PROMOSYON DİK BLOKNOT MTB-140 TERCİH EDİLMELİ?\n\n• 100 yaprak kapasite\n• Şık ve dik masaüstü tasarım\n• 120 gr 1. hamur iç kağıt\n• 350 gr Amerikan Bristol dış kutu\n• Mat veya parlak selefon kaplama\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Masaüstünde düzenli kullanım sağlar\n• Profesyonel kurumsal görünüm sunar\n• Marka görünürlüğünü artırır\n• Kurumsal promosyon çalışmaları için idealdir\n\nKULLANIM ALANLARI\n\n• Kurumsal ofisler\n• Resepsiyon masaları\n• Bankalar\n• Eğitim kurumları\n• Hukuk büroları\n• Muhasebe ofisleri\n• Sağlık kuruluşları\n• Fuar ve organizasyonlar\n• Müşteri karşılama alanları\n• Günlük masaüstü kullanımı\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Kamu kurumları\n• Bankalar\n• Finans kuruluşları\n• Reklam ajansları\n• Eğitim kurumları\n• Oteller\n• Promosyon ürünleri satın alan işletmeler\n\nPROMOSYON DİK BLOKNOT FİYATLARI\n\nPromosyon dik bloknot fiyatları; sipariş miktarı, baskı uygulaması, üretim planlaması ve kutu özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve teklif seçenekleri sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Mat veya parlak selefon kaplama seçenekleri bulunmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Dik Bloknot\nModel: MTB-140\nKategori: Matbaa Ürünleri\nDış Kutu Ölçüsü: 9 x 13 cm (sipariş öncesinde teyit edilmelidir)\nİç Sayfa Ölçüsü: 8,8 x 14 cm (sipariş öncesinde teyit edilmelidir)\nYaprak Sayısı: 100 Yaprak\nİç Kağıt: 120 gr 1. Hamur\nDış Kutu: 350 gr Amerikan Bristol\nKaplama: Mat Selefon / Parlak Selefon\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nKullanım Alanı: Ofis, Resepsiyon ve Kurumsal Masaüstü Kullanımı\n\nPromosyon 100 yapraklı dik bloknot MTB-140, kaliteli 120 gr iç kağıdı, dayanıklı Amerikan Bristol dış kutusu, logo baskıya uygun yapısı ve modern dik tasarımıyla kurumsal firmaların uzun süre tercih ettiği profesyonel promosyon bloknot modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.\n\nÖLÇÜ TEYİDİ\n\nÜrün bilgilerinde dış kutu için 9 x 13 cm, iç sayfa için 8,8 x 14 cm belirtilmektedir. Ölçülerin birlikte uygunluğu sipariş öncesinde teyit edilmelidir.",
 
   faq: [
     {
       q: "Promosyon dik bloknot MTB-140 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo ve kurumsal tasarımlar yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir.",
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir.",
     },
     {
       q: "MTB-140 kaç yaprak kapasitesine sahiptir?",
@@ -16261,91 +15613,12 @@ Promosyon 100 yapraklı dik bloknot MTB-140, kaliteli 120 gr iç kağıdı, daya
   shortDesc:
     "Promosyon 50 yaprak üstten tutkallı bloknot A5 MTB-150, 14 x 21 cm A5 ölçüsü, 80 gr 1. hamur kağıdı ve logo baskılı yapısıyla fuarlar, ofisler ve kurumsal tanıtımlar için tercih edilen profesyonel promosyon bloknot modelidir.",
 
-  longDesc: `
-Promosyon 50 yaprak üstten tutkallı bloknot A5 MTB-150, günlük not alma ihtiyaçlarına pratik çözüm sunan ve kurumsal marka görünürlüğünü artıran en çok tercih edilen promosyon bloknot modellerinden biridir. A5 boyutu sayesinde hem ofis kullanımında hem de saha çalışmalarında rahatlıkla taşınabilir ve kullanılabilir.
-
-50 yaprak kapasitesi günlük notlar, toplantı kayıtları, sipariş bilgileri, müşteri görüşmeleri ve eğitim notları için ideal kullanım sunmaktadır. Üstten tutkallı yapısı sayesinde sayfalar kolayca koparılarak düzenli kullanım sağlanmaktadır.
-
-A5 ölçüsü (14 x 21 cm), yazı yazmak için geniş bir alan sunarken çanta, dosya veya evrak çantasında kolay taşınabilecek kompakt bir boyuta sahiptir. Günlük iş hayatında sık kullanılan bu yapı, markanızın sürekli görünür olmasına katkı sağlar.
-
-İç sayfalarda kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunmaktadır. Kalem kullanımında mürekkep dağılımını destekleyen yapısıyla günlük kullanıma uygun profesyonel bir bloknot oluşturmaktadır.
-
-Bloknotun alt kısmında bulunan dayanıklı karton destek yazım sırasında sağlam bir zemin oluşturur. Bu özellik özellikle saha çalışanları, satış ekipleri ve fuar organizasyonlarında büyük kullanım kolaylığı sağlamaktadır.
-
-Ürün üzerine firmanıza ait logo, iletişim bilgileri, kurumsal renkler ve reklam tasarımları yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir. Sürekli kullanılan bir promosyon ürünü olması sayesinde markanız uzun süre kullanıcıların çalışma masalarında yer almaktadır.
-
-Promosyon A5 tutkallı bloknot modelleri; bankalar, sigorta şirketleri, eğitim kurumları, sağlık kuruluşları, kamu kurumları, reklam ajansları, üretim firmaları, fuar organizasyonları ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.
-
-NEDEN PROMOSYON A5 TUTKALLI BLOKNOT MTB-150 TERCİH EDİLMELİ?
-
-• A5 (14 x 21 cm) ölçü
-• 50 yaprak kapasite
-• Üstten tutkallı tasarım
-• 80 gr 1. hamur kağıt
-• Dayanıklı karton alt destek
-• Ofset logo baskısına uygundur
-• Günlük kullanım için idealdir
-• Kolay taşınabilir yapı
-• Marka görünürlüğünü artırır
-• Kurumsal promosyon çalışmaları için uygundur
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Fuar ve organizasyonlar
-• Eğitim kurumları
-• Bankalar
-• Sigorta şirketleri
-• Saha satış ekipleri
-• Toplantılar
-• Seminerler
-• Günlük not alma
-• Kurumsal tanıtım çalışmaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Eğitim kuruluşları
-• Reklam ajansları
-• Satış ekipleri
-• Organizasyon firmaları
-• Ofis çalışanları
-• Promosyon ürünleri satın alan işletmeler
-
-PROMOSYON A5 BLOKNOT FİYATLARI
-
-Promosyon A5 tutkallı bloknot fiyatları; sipariş miktarı, baskı uygulaması, üretim planlaması ve kağıt özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ofset logo baskısı uygulanabilmektedir.
-• Tek yön baskılı olarak üretilebilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Üstten Tutkallı Bloknot
-Model: MTB-150
-Kategori: Matbaa Ürünleri
-Bloknot Türü: Üstten Tutkallı
-Ölçü: A5 (14 x 21 cm)
-Yaprak Sayısı: 50 Yaprak
-İç Kağıt: 80 gr 1. Hamur
-Baskı Türü: Tek Yön Ofset Baskı
-Alt Destek: Dayanıklı Karton
-Kullanım Alanı: Ofis, Eğitim, Fuar ve Kurumsal Tanıtım
-
-Promosyon 50 yaprak üstten tutkallı bloknot A5 MTB-150, kaliteli 80 gr kağıdı, dayanıklı karton alt desteği, logo baskıya uygun yapısı ve pratik A5 ölçüsüyle kurumsal firmaların en çok tercih ettiği promosyon bloknot modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon 50 yaprak üstten tutkallı bloknot A5 MTB-150, günlük not alma ihtiyaçlarına pratik çözüm sunan ve kurumsal marka görünürlüğünü artıran en çok tercih edilen promosyon bloknot modellerinden biridir. A5 boyutu sayesinde hem ofis kullanımında hem de saha çalışmalarında rahatlıkla taşınabilir ve kullanılabilir.\n\n50 yaprak kapasitesi günlük notlar, toplantı kayıtları, sipariş bilgileri, müşteri görüşmeleri ve eğitim notları için ideal kullanım sunmaktadır. Üstten tutkallı yapısı sayesinde sayfalar kolayca koparılarak düzenli kullanım sağlanmaktadır.\n\nA5 ölçüsü (14 x 21 cm), yazı yazmak için geniş bir alan sunarken çanta, dosya veya evrak çantasında kolay taşınabilecek kompakt bir boyuta sahiptir. Günlük iş hayatında sık kullanılan bu yapı, markanızın sürekli görünür olmasına katkı sağlar.\n\nİç sayfalarda kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunmaktadır. Kalem kullanımında mürekkep dağılımını destekleyen yapısıyla günlük kullanıma uygun profesyonel bir bloknot oluşturmaktadır.\n\nBloknotun alt kısmında bulunan dayanıklı karton destek yazım sırasında sağlam bir zemin oluşturur. Bu özellik özellikle saha çalışanları, satış ekipleri ve fuar organizasyonlarında büyük kullanım kolaylığı sağlamaktadır.\n\nÜrün üzerine firmanıza ait logo, iletişim bilgileri, kurumsal renkler ve reklam tasarımları uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Sürekli kullanılan bir promosyon ürünü olması sayesinde markanız uzun süre kullanıcıların çalışma masalarında yer almaktadır.\n\nPromosyon A5 tutkallı bloknot modelleri; bankalar, sigorta şirketleri, eğitim kurumları, sağlık kuruluşları, kamu kurumları, reklam ajansları, üretim firmaları, fuar organizasyonları ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.\n\nNEDEN PROMOSYON A5 TUTKALLI BLOKNOT MTB-150 TERCİH EDİLMELİ?\n\n• A5 (14 x 21 cm) ölçü\n• 50 yaprak kapasite\n• Üstten tutkallı tasarım\n• 80 gr 1. hamur kağıt\n• Dayanıklı karton alt destek\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Günlük kullanım için idealdir\n• Kolay taşınabilir yapı\n• Marka görünürlüğünü artırır\n• Kurumsal promosyon çalışmaları için uygundur\n\nKULLANIM ALANLARI\n\n• Kurumsal ofisler\n• Fuar ve organizasyonlar\n• Eğitim kurumları\n• Bankalar\n• Sigorta şirketleri\n• Saha satış ekipleri\n• Toplantılar\n• Seminerler\n• Günlük not alma\n• Kurumsal tanıtım çalışmaları\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Kamu kurumları\n• Eğitim kuruluşları\n• Reklam ajansları\n• Satış ekipleri\n• Organizasyon firmaları\n• Ofis çalışanları\n• Promosyon ürünleri satın alan işletmeler\n\nPROMOSYON A5 BLOKNOT FİYATLARI\n\nPromosyon A5 tutkallı bloknot fiyatları; sipariş miktarı, baskı uygulaması, üretim planlaması ve kağıt özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve teklif seçenekleri sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Tek yön baskılı olarak üretilebilmektedir.\n• Kurumsal toplu siparişlere uygundur.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Üstten Tutkallı Bloknot\nModel: MTB-150\nKategori: Matbaa Ürünleri\nBloknot Türü: Üstten Tutkallı\nÖlçü: A5 (14 x 21 cm)\nYaprak Sayısı: 50 Yaprak\nİç Kağıt: 80 gr 1. Hamur\nBaskı yönü: Tek yön\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nAlt Destek: Dayanıklı Karton\nKullanım Alanı: Ofis, Eğitim, Fuar ve Kurumsal Tanıtım\n\nPromosyon 50 yaprak üstten tutkallı bloknot A5 MTB-150, kaliteli 80 gr kağıdı, dayanıklı karton alt desteği, logo baskıya uygun yapısı ve pratik A5 ölçüsüyle kurumsal firmaların en çok tercih ettiği promosyon bloknot modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon A5 bloknot MTB-150 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo, iletişim bilgileri ve kurumsal tasarımlar yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir.",
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir.",
     },
     {
       q: "MTB-150 kaç yaprak kapasitesine sahiptir?",
@@ -16384,95 +15657,12 @@ Promosyon 50 yaprak üstten tutkallı bloknot A5 MTB-150, kaliteli 80 gr kağıd
   shortDesc:
     "Promosyon 50 yaprak taç kapak bloknot MTB-160, 14 x 21 cm A5 ölçüsü, 80 gr 1. hamur kağıdı ve taç kapak tasarımıyla kurumsal firmalar, fuarlar ve ofis kullanımı için tercih edilen logo baskılı promosyon bloknot modelidir.",
 
-  longDesc: `
-Promosyon 50 yaprak taç kapak bloknot MTB-160, şık taç kapak tasarımı ve kaliteli baskı yüzeyiyle kurumsal tanıtım çalışmalarında en çok tercih edilen promosyon bloknot modellerinden biridir. Günlük not alma ihtiyaçlarını karşılamanın yanı sıra markanızın uzun süre görünür olmasını sağlayan etkili bir reklam ürünüdür.
-
-14 x 21 cm (A5) ölçüsüne sahip olan bloknot, toplantılar, eğitimler, seminerler, fuarlar ve saha çalışmalarında rahat kullanım sunar. Kompakt yapısı sayesinde evrak çantasında veya masa üzerinde kolaylıkla kullanılabilir.
-
-50 yaprak kapasitesi günlük notlar, müşteri görüşmeleri, sipariş kayıtları, eğitim notları ve toplantı notları için ideal kullanım sağlar. Üstten perforajlı yapısı sayesinde sayfalar kolay ve düzgün şekilde koparılarak pratik kullanım sunmaktadır.
-
-Taç kapak tasarımı hem estetik bir görünüm oluşturur hem de iç sayfaların korunmasına yardımcı olur. Ürün profesyonel görünümü sayesinde kurumsal firmalar tarafından prestijli promosyon ürünü olarak tercih edilmektedir.
-
-Kapakta kullanılan 350 gr mat kuşe kağıt dayanıklılığı artırırken mat veya parlak selefon kaplama seçenekleri ile daha kaliteli ve premium bir görünüm elde edilmektedir.
-
-İç sayfalarda kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunar. Mürekkep dağılımını destekleyen yapısı sayesinde günlük ofis kullanımında rahat yazım imkanı sağlar.
-
-Ürün üzerine firmanıza ait logo, kurumsal renkler, iletişim bilgileri ve reklam tasarımları yüksek kaliteli ofset baskı yöntemi ile uygulanabilmektedir. Masaüstünde sürekli kullanılan bir promosyon ürünü olması sayesinde markanız uzun süre görünür kalmaktadır.
-
-Promosyon taç kapak bloknot modelleri; bankalar, sigorta şirketleri, eğitim kurumları, sağlık kuruluşları, kamu kurumları, reklam ajansları, üretim firmaları, fuar organizasyonları ve kurumsal işletmeler tarafından yoğun şekilde tercih edilmektedir.
-
-NEDEN PROMOSYON TAÇ KAPAK BLOKNOT MTB-160 TERCİH EDİLMELİ?
-
-• A5 (14 x 21 cm) ölçü
-• 50 yaprak kapasite
-• Taç kapak tasarım
-• Üstten perforajlı yapı
-• 350 gr mat kuşe kapak
-• 80 gr 1. hamur kağıt
-• Ofset logo baskısına uygundur
-• Premium görünüm
-• Kolay taşınabilir
-• Kurumsal promosyonlar için idealdir
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Toplantılar
-• Eğitim kurumları
-• Fuar ve organizasyonlar
-• Seminerler
-• Bankalar
-• Sigorta şirketleri
-• Satış ekipleri
-• Günlük not alma
-• Marka tanıtım çalışmaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Eğitim kuruluşları
-• Reklam ajansları
-• Sağlık kuruluşları
-• Satış ekipleri
-• Organizasyon firmaları
-• Ofis çalışanları
-
-PROMOSYON TAÇ KAPAK BLOKNOT FİYATLARI
-
-Promosyon taç kapak bloknot fiyatları; sipariş adedi, baskı özellikleri, üretim planlaması ve selefon tercihine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat teklifleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ofset logo baskısı uygulanabilmektedir.
-• Mat veya parlak selefon seçenekleri bulunmaktadır.
-• Üstten perforajlı cilt sistemi kullanılmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Taç Kapak Bloknot
-Model: MTB-160
-Kategori: Matbaa Ürünleri
-Ölçü: 14 x 21 cm (A5)
-Yaprak Sayısı: 50 Yaprak
-Kapak: 350 gr Mat Kuşe
-Kaplama: Mat Selefon / Parlak Selefon
-İç Kağıt: 80 gr 1. Hamur
-Baskı Türü: Tek Yön Ofset Baskı
-Cilt: Üstten Perforajlı Taç Kapak
-Kullanım Alanı: Ofis, Eğitim, Toplantı ve Kurumsal Tanıtım
-
-Promosyon 50 yaprak taç kapak bloknot MTB-160, A5 ölçüsü, dayanıklı 350 gr mat kuşe kapağı, 80 gr kaliteli iç kağıdı ve logo baskıya uygun yapısıyla kurumsal firmaların en çok tercih ettiği promosyon bloknot modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon 50 yaprak taç kapak bloknot MTB-160, şık taç kapak tasarımı ve kaliteli baskı yüzeyiyle kurumsal tanıtım çalışmalarında en çok tercih edilen promosyon bloknot modellerinden biridir. Günlük not alma ihtiyaçlarını karşılamanın yanı sıra markanızın uzun süre görünür olmasını sağlayan etkili bir reklam ürünüdür.\n\n14 x 21 cm (A5) ölçüsüne sahip olan bloknot, toplantılar, eğitimler, seminerler, fuarlar ve saha çalışmalarında rahat kullanım sunar. Kompakt yapısı sayesinde evrak çantasında veya masa üzerinde kolaylıkla kullanılabilir.\n\n50 yaprak kapasitesi günlük notlar, müşteri görüşmeleri, sipariş kayıtları, eğitim notları ve toplantı notları için ideal kullanım sağlar. Üstten perforajlı yapısı sayesinde sayfalar kolay ve düzgün şekilde koparılarak pratik kullanım sunmaktadır.\n\nTaç kapak tasarımı hem estetik bir görünüm oluşturur hem de iç sayfaların korunmasına yardımcı olur. Ürün profesyonel görünümü sayesinde kurumsal firmalar tarafından prestijli promosyon ürünü olarak tercih edilmektedir.\n\nKapakta kullanılan 350 gr mat kuşe kağıt dayanıklılığı artırırken mat veya parlak selefon kaplama seçenekleri ile daha kaliteli ve premium bir görünüm elde edilmektedir.\n\nİç sayfalarda kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunar. Mürekkep dağılımını destekleyen yapısı sayesinde günlük ofis kullanımında rahat yazım imkanı sağlar.\n\nÜrün üzerine firmanıza ait logo, kurumsal renkler, iletişim bilgileri ve reklam tasarımları uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Masaüstünde sürekli kullanılan bir promosyon ürünü olması sayesinde markanız uzun süre görünür kalmaktadır.\n\nPromosyon taç kapak bloknot modelleri; bankalar, sigorta şirketleri, eğitim kurumları, sağlık kuruluşları, kamu kurumları, reklam ajansları, üretim firmaları, fuar organizasyonları ve kurumsal işletmeler tarafından yoğun şekilde tercih edilmektedir.\n\nNEDEN PROMOSYON TAÇ KAPAK BLOKNOT MTB-160 TERCİH EDİLMELİ?\n\n• A5 (14 x 21 cm) ölçü\n• 50 yaprak kapasite\n• Taç kapak tasarım\n• Üstten perforajlı yapı\n• 350 gr mat kuşe kapak\n• 80 gr 1. hamur kağıt\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Premium görünüm\n• Kolay taşınabilir\n• Kurumsal promosyonlar için idealdir\n\nKULLANIM ALANLARI\n\n• Kurumsal ofisler\n• Toplantılar\n• Eğitim kurumları\n• Fuar ve organizasyonlar\n• Seminerler\n• Bankalar\n• Sigorta şirketleri\n• Satış ekipleri\n• Günlük not alma\n• Marka tanıtım çalışmaları\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Kamu kurumları\n• Eğitim kuruluşları\n• Reklam ajansları\n• Sağlık kuruluşları\n• Satış ekipleri\n• Organizasyon firmaları\n• Ofis çalışanları\n\nPROMOSYON TAÇ KAPAK BLOKNOT FİYATLARI\n\nPromosyon taç kapak bloknot fiyatları; sipariş adedi, baskı özellikleri, üretim planlaması ve selefon tercihine göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat teklifleri sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Mat veya parlak selefon seçenekleri bulunmaktadır.\n• Üstten perforajlı cilt sistemi kullanılmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Taç Kapak Bloknot\nModel: MTB-160\nKategori: Matbaa Ürünleri\nÖlçü: 14 x 21 cm (A5)\nYaprak Sayısı: 50 Yaprak\nKapak: 350 gr Mat Kuşe\nKaplama: Mat Selefon / Parlak Selefon\nİç Kağıt: 80 gr 1. Hamur\nBaskı yönü: Tek yön\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nCilt: Üstten Perforajlı Taç Kapak\nKullanım Alanı: Ofis, Eğitim, Toplantı ve Kurumsal Tanıtım\n\nPromosyon 50 yaprak taç kapak bloknot MTB-160, A5 ölçüsü, dayanıklı 350 gr mat kuşe kapağı, 80 gr kaliteli iç kağıdı ve logo baskıya uygun yapısıyla kurumsal firmaların en çok tercih ettiği promosyon bloknot modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon taç kapak bloknot MTB-160 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo, iletişim bilgileri ve kurumsal tasarımlar yüksek kaliteli ofset baskı yöntemiyle uygulanabilmektedir."
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir."
     },
     {
       q: "MTB-160 kaç yaprak kapasitesine sahiptir?",
@@ -16511,92 +15701,7 @@ Promosyon 50 yaprak taç kapak bloknot MTB-160, A5 ölçüsü, dayanıklı 350 g
   shortDesc:
     "Promosyon 50 yaprak taç kapak bloknot MTB-170, 14 x 21 cm A5 ölçüsü, yandan koruyucu kapak tasarımı ve logo baskıya uygun yapısıyla kurumsal firmalar için şık ve profesyonel promosyon bloknot modelidir.",
 
-  longDesc: `
-Promosyon 50 yaprak taç kapak bloknot MTB-170, taç kapak ve yandan koruyucu kapak tasarımıyla klasik promosyon bloknotlardan ayrılan, kurumsal kullanıma yönelik premium promosyon ürünlerinden biridir. Şık görünümü ve fonksiyonel yapısı sayesinde markanızı profesyonel şekilde temsil eder.
-
-14 x 21 cm (A5) ölçüsüne sahip olan bloknot; toplantılar, eğitimler, seminerler, müşteri ziyaretleri, saha çalışmaları ve günlük ofis kullanımı için ideal ölçüler sunmaktadır. Taşınabilir yapısı sayesinde çanta içerisinde rahatlıkla taşınabilir.
-
-Ürünün en önemli özelliklerinden biri taç kapak ile birlikte kullanılan yandan koruyucu kapak tasarımıdır. Bu yapı hem iç sayfaları dış etkenlerden korur hem de bloknota daha prestijli ve kurumsal bir görünüm kazandırır.
-
-50 yaprak kapasitesi günlük not alma, toplantı notları, sipariş kayıtları ve eğitim dokümanları için yeterli kullanım sunar. Üstten perforajlı cilt sistemi sayesinde sayfalar kolay ve düzgün şekilde koparılarak kullanılabilir.
-
-Kapakta kullanılan 350 gr mat kuşe kağıt dayanıklılığı artırırken mat veya parlak selefon kaplama seçenekleri sayesinde ürün uzun süre ilk günkü görünümünü korur.
-
-İç sayfalarda kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunar. Kalem kullanımında mürekkebin rahat dağılmasını sağlayan yapısıyla günlük kullanıma uygundur.
-
-Ürün üzerine firmanıza ait logo, slogan, iletişim bilgileri ve kurumsal tasarımlar yüksek kaliteli ofset baskı ile uygulanabilmektedir. Sürekli kullanılan masaüstü ürünü olması sayesinde markanız uzun süre görünür kalır.
-
-Promosyon taç kapak bloknot MTB-170 modeli; bankalar, sigorta şirketleri, eğitim kurumları, sağlık kuruluşları, kamu kurumları, otomotiv firmaları, sanayi kuruluşları, reklam ajansları ve kurumsal işletmeler tarafından yoğun şekilde tercih edilmektedir.
-
-NEDEN PROMOSYON TAÇ KAPAK BLOKNOT MTB-170 TERCİH EDİLMELİ?
-
-• A5 (14 x 21 cm) ölçü
-• 50 yaprak kapasite
-• Taç kapak + yandan koruyucu kapak
-• Üstten perforajlı yapı
-• 350 gr mat kuşe kapak
-• 80 gr 1. hamur kağıt
-• Ofset logo baskısına uygundur
-• Profesyonel ve kurumsal görünüm
-• Dayanıklı yapı
-• Toplu promosyon siparişleri için idealdir
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Toplantılar
-• Eğitim kurumları
-• Fuar organizasyonları
-• Seminerler
-• Bankalar
-• Sigorta şirketleri
-• Satış ekipleri
-• Kurumsal eğitimler
-• Marka tanıtım çalışmaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Eğitim kuruluşları
-• Reklam ajansları
-• Sağlık sektörü
-• Finans kuruluşları
-• Sanayi firmaları
-• Organizasyon şirketleri
-
-PROMOSYON TAÇ KAPAK BLOKNOT FİYATLARI
-
-Promosyon taç kapak bloknot fiyatları; sipariş adedi, baskı özellikleri, selefon tercihi ve üretim planlamasına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Firmanıza özel logo baskısı uygulanmaktadır.
-• Mat veya parlak selefon seçenekleri sunulmaktadır.
-• Yandan koruyucu kapak tasarımı bulunmaktadır.
-• Üstten perforajlı cilt sistemi kullanılmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu alımlarda özel fiyat avantajları sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Taç Kapak Bloknot
-Model: MTB-170
-Kategori: Matbaa Ürünleri
-Ölçü: 14 x 21 cm (A5)
-Yaprak Sayısı: 50 Yaprak
-Kapak: 350 gr Mat Kuşe
-Kaplama: Mat Selefon / Parlak Selefon
-Kapak Tipi: Taç Kapak + Yandan Kapak
-İç Kağıt: 80 gr 1. Hamur
-Baskı Türü: Tek Yön Ofset Baskı
-Cilt: Üstten Perforajlı
-Kullanım Alanı: Ofis, Toplantı, Eğitim ve Kurumsal Tanıtım
-
-Promosyon 50 yaprak taç kapak bloknot MTB-170, A5 ölçüsü, yandan koruyucu kapak tasarımı, kaliteli 80 gr iç kağıdı ve logo baskıya uygun yapısıyla kurumsal firmaların tercih ettiği prestijli promosyon bloknot modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon 50 yaprak taç kapak bloknot MTB-170, taç kapak ve yandan koruyucu kapak tasarımıyla klasik promosyon bloknotlardan ayrılan, kurumsal kullanıma yönelik premium promosyon ürünlerinden biridir. Şık görünümü ve fonksiyonel yapısı sayesinde markanızı profesyonel şekilde temsil eder.\n\n14 x 21 cm (A5) ölçüsüne sahip olan bloknot; toplantılar, eğitimler, seminerler, müşteri ziyaretleri, saha çalışmaları ve günlük ofis kullanımı için ideal ölçüler sunmaktadır. Taşınabilir yapısı sayesinde çanta içerisinde rahatlıkla taşınabilir.\n\nÜrünün en önemli özelliklerinden biri taç kapak ile birlikte kullanılan yandan koruyucu kapak tasarımıdır. Bu yapı hem iç sayfaları dış etkenlerden korur hem de bloknota daha prestijli ve kurumsal bir görünüm kazandırır.\n\n50 yaprak kapasitesi günlük not alma, toplantı notları, sipariş kayıtları ve eğitim dokümanları için yeterli kullanım sunar. Üstten perforajlı cilt sistemi sayesinde sayfalar kolay ve düzgün şekilde koparılarak kullanılabilir.\n\nKapakta kullanılan 350 gr mat kuşe kağıt dayanıklılığı artırırken mat veya parlak selefon kaplama seçenekleri sayesinde ürün uzun süre ilk günkü görünümünü korur.\n\nİç sayfalarda kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunar. Kalem kullanımında mürekkebin rahat dağılmasını sağlayan yapısıyla günlük kullanıma uygundur.\n\nÜrün üzerine firmanıza ait logo, slogan, iletişim bilgileri ve kurumsal tasarımlar uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Sürekli kullanılan masaüstü ürünü olması sayesinde markanız uzun süre görünür kalır.\n\nPromosyon taç kapak bloknot MTB-170 modeli; bankalar, sigorta şirketleri, eğitim kurumları, sağlık kuruluşları, kamu kurumları, otomotiv firmaları, sanayi kuruluşları, reklam ajansları ve kurumsal işletmeler tarafından yoğun şekilde tercih edilmektedir.\n\nNEDEN PROMOSYON TAÇ KAPAK BLOKNOT MTB-170 TERCİH EDİLMELİ?\n\n• A5 (14 x 21 cm) ölçü\n• 50 yaprak kapasite\n• Taç kapak + yandan koruyucu kapak\n• Üstten perforajlı yapı\n• 350 gr mat kuşe kapak\n• 80 gr 1. hamur kağıt\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Profesyonel ve kurumsal görünüm\n• Dayanıklı yapı\n• Toplu promosyon siparişleri için idealdir\n\nKULLANIM ALANLARI\n\n• Kurumsal ofisler\n• Toplantılar\n• Eğitim kurumları\n• Fuar organizasyonları\n• Seminerler\n• Bankalar\n• Sigorta şirketleri\n• Satış ekipleri\n• Kurumsal eğitimler\n• Marka tanıtım çalışmaları\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Kamu kurumları\n• Eğitim kuruluşları\n• Reklam ajansları\n• Sağlık sektörü\n• Finans kuruluşları\n• Sanayi firmaları\n• Organizasyon şirketleri\n\nPROMOSYON TAÇ KAPAK BLOKNOT FİYATLARI\n\nPromosyon taç kapak bloknot fiyatları; sipariş adedi, baskı özellikleri, selefon tercihi ve üretim planlamasına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Firmanıza özel logo baskısı uygulanmaktadır.\n• Mat veya parlak selefon seçenekleri sunulmaktadır.\n• Yandan koruyucu kapak tasarımı bulunmaktadır.\n• Üstten perforajlı cilt sistemi kullanılmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Toplu alımlarda özel fiyat avantajları sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Taç Kapak Bloknot\nModel: MTB-170\nKategori: Matbaa Ürünleri\nÖlçü: 14 x 21 cm (A5)\nYaprak Sayısı: 50 Yaprak\nKapak: 350 gr Mat Kuşe\nKaplama: Mat Selefon / Parlak Selefon\nKapak Tipi: Taç Kapak + Yandan Kapak\nİç Kağıt: 80 gr 1. Hamur\nBaskı yönü: Tek yön\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nCilt: Üstten Perforajlı\nKullanım Alanı: Ofis, Toplantı, Eğitim ve Kurumsal Tanıtım\n\nPromosyon 50 yaprak taç kapak bloknot MTB-170, A5 ölçüsü, yandan koruyucu kapak tasarımı, kaliteli 80 gr iç kağıdı ve logo baskıya uygun yapısıyla kurumsal firmaların tercih ettiği prestijli promosyon bloknot modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
@@ -16605,7 +15710,7 @@ Promosyon 50 yaprak taç kapak bloknot MTB-170, A5 ölçüsü, yandan koruyucu k
     },
     {
       q: "Ürün üzerine firma logosu basılabiliyor mu?",
-      a: "Evet. Ürün üzerine logo, kurumsal renkler ve iletişim bilgileri yüksek kaliteli ofset baskı ile uygulanabilmektedir."
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir."
     },
     {
       q: "Sayfalar kolay koparılabiliyor mu?",
@@ -16640,95 +15745,12 @@ Promosyon 50 yaprak taç kapak bloknot MTB-170, A5 ölçüsü, yandan koruyucu k
   shortDesc:
     "Promosyon 50 yaprak üstten spiralli bloknot MTB-180, 14 x 21 cm A5 ölçüsü, dayanıklı spiralli cilt yapısı ve logo baskıya uygun kapağı ile ofis, fuar ve kurumsal promosyonlar için ideal bloknot modelidir.",
 
-  longDesc: `
-Promosyon 50 yaprak üstten spiralli bloknot MTB-180, modern tasarımı ve pratik kullanımı ile kurumsal firmaların en çok tercih ettiği promosyon bloknot modellerinden biridir. Üstten spiral cilt sistemi sayesinde rahat kullanım sunarken marka tanıtımında uzun süreli reklam avantajı sağlar.
-
-14 x 21 cm (A5) ölçüsüne sahip olan bloknot; toplantılar, eğitimler, müşteri ziyaretleri, seminerler, saha çalışmaları ve günlük ofis kullanımı için ideal boyutlara sahiptir. Hafif ve taşınabilir yapısı sayesinde çanta içerisinde kolaylıkla taşınabilir.
-
-Üstten spiralli cilt sistemi sayfaların kolay çevrilmesini sağlar ve bloknotun tek elle rahat kullanılmasına imkan verir. Not alma sırasında sayfaların düz durmasını sağlayarak kullanım konforunu artırır.
-
-50 yaprak kapasitesi günlük not alma, toplantı kayıtları, sipariş notları, eğitim notları ve planlama işlemleri için ideal kullanım sunmaktadır.
-
-Kapakta kullanılan 350 gr Amerikan Bristol kağıt sağlam ve kaliteli bir yapı oluşturur. Mat veya parlak selefon kaplama seçenekleri sayesinde ürün daha estetik ve kurumsal bir görünüm kazanır.
-
-İç sayfalarda kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunar. Mürekkebin dağılmasını önleyen yapısıyla uzun süreli kullanım için uygundur.
-
-Ürün üzerine firmanıza ait logo, kurumsal renkler, slogan ve iletişim bilgileri yüksek kaliteli ofset baskı ile uygulanabilmektedir. Sürekli kullanılan masaüstü ürünü olması sayesinde markanız uzun süre görünür kalır.
-
-Promosyon üstten spiralli bloknot MTB-180 modeli; bankalar, eğitim kurumları, sağlık kuruluşları, kamu kurumları, otomotiv firmaları, reklam ajansları, üretim tesisleri, fuar organizasyonları ve kurumsal işletmeler tarafından yoğun şekilde tercih edilmektedir.
-
-NEDEN PROMOSYON SPİRALLİ BLOKNOT MTB-180 TERCİH EDİLMELİ?
-
-• A5 (14 x 21 cm) ölçü
-• 50 yaprak kapasite
-• Üstten spiralli cilt sistemi
-• Kolay sayfa çevirme
-• 350 gr Amerikan Bristol kapak
-• 80 gr 1. hamur kağıt
-• Ofset logo baskısına uygundur
-• Hafif ve taşınabilir tasarım
-• Dayanıklı kullanım
-• Kurumsal promosyonlar için idealdir
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Toplantılar
-• Eğitim kurumları
-• Fuar organizasyonları
-• Seminerler
-• Bankalar
-• Satış ekipleri
-• Saha personeli
-• Günlük not alma
-• Marka tanıtım çalışmaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Eğitim kuruluşları
-• Sağlık sektörü
-• Reklam ajansları
-• Finans kuruluşları
-• Organizasyon firmaları
-• Ofis çalışanları
-
-PROMOSYON SPİRALLİ BLOKNOT FİYATLARI
-
-Promosyon spiralli bloknot fiyatları; sipariş adedi, baskı özellikleri, kaplama seçenekleri ve üretim planlamasına göre değişiklik göstermektedir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Firmanıza özel logo baskısı uygulanmaktadır.
-• Mat veya parlak selefon seçenekleri sunulmaktadır.
-• Üstten spiralli cilt sistemi kullanılmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Spiralli Bloknot
-Model: MTB-180
-Kategori: Matbaa Ürünleri
-Ölçü: 14 x 21 cm (A5)
-Yaprak Sayısı: 50 Yaprak
-Kapak: 350 gr Amerikan Bristol
-Kaplama: Mat Selefon / Parlak Selefon
-İç Kağıt: 80 gr 1. Hamur
-Baskı Türü: Tek Yön Ofset Baskı
-Cilt: Üstten Spiralli
-Kullanım Alanı: Ofis, Eğitim, Toplantı ve Kurumsal Tanıtım
-
-Promosyon 50 yaprak üstten spiralli bloknot MTB-180, A5 ölçüsü, dayanıklı spiral cilt sistemi, kaliteli iç kağıdı ve logo baskıya uygun yapısıyla kurumsal firmaların tercih ettiği kullanışlı promosyon bloknot modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon 50 yaprak üstten spiralli bloknot MTB-180, modern tasarımı ve pratik kullanımı ile kurumsal firmaların en çok tercih ettiği promosyon bloknot modellerinden biridir. Üstten spiral cilt sistemi sayesinde rahat kullanım sunarken marka tanıtımında uzun süreli reklam avantajı sağlar.\n\n14 x 21 cm (A5) ölçüsüne sahip olan bloknot; toplantılar, eğitimler, müşteri ziyaretleri, seminerler, saha çalışmaları ve günlük ofis kullanımı için ideal boyutlara sahiptir. Hafif ve taşınabilir yapısı sayesinde çanta içerisinde kolaylıkla taşınabilir.\n\nÜstten spiralli cilt sistemi sayfaların kolay çevrilmesini sağlar ve bloknotun tek elle rahat kullanılmasına imkan verir. Not alma sırasında sayfaların düz durmasını sağlayarak kullanım konforunu artırır.\n\n50 yaprak kapasitesi günlük not alma, toplantı kayıtları, sipariş notları, eğitim notları ve planlama işlemleri için ideal kullanım sunmaktadır.\n\nKapakta kullanılan 350 gr Amerikan Bristol kağıt sağlam ve kaliteli bir yapı oluşturur. Mat veya parlak selefon kaplama seçenekleri sayesinde ürün daha estetik ve kurumsal bir görünüm kazanır.\n\nİç sayfalarda kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunar. Mürekkebin dağılmasını önleyen yapısıyla uzun süreli kullanım için uygundur.\n\nÜrün üzerine firmanıza ait logo, kurumsal renkler, slogan ve iletişim bilgileri uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Sürekli kullanılan masaüstü ürünü olması sayesinde markanız uzun süre görünür kalır.\n\nPromosyon üstten spiralli bloknot MTB-180 modeli; bankalar, eğitim kurumları, sağlık kuruluşları, kamu kurumları, otomotiv firmaları, reklam ajansları, üretim tesisleri, fuar organizasyonları ve kurumsal işletmeler tarafından yoğun şekilde tercih edilmektedir.\n\nNEDEN PROMOSYON SPİRALLİ BLOKNOT MTB-180 TERCİH EDİLMELİ?\n\n• A5 (14 x 21 cm) ölçü\n• 50 yaprak kapasite\n• Üstten spiralli cilt sistemi\n• Kolay sayfa çevirme\n• 350 gr Amerikan Bristol kapak\n• 80 gr 1. hamur kağıt\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Hafif ve taşınabilir tasarım\n• Dayanıklı kullanım\n• Kurumsal promosyonlar için idealdir\n\nKULLANIM ALANLARI\n\n• Kurumsal ofisler\n• Toplantılar\n• Eğitim kurumları\n• Fuar organizasyonları\n• Seminerler\n• Bankalar\n• Satış ekipleri\n• Saha personeli\n• Günlük not alma\n• Marka tanıtım çalışmaları\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Kamu kurumları\n• Eğitim kuruluşları\n• Sağlık sektörü\n• Reklam ajansları\n• Finans kuruluşları\n• Organizasyon firmaları\n• Ofis çalışanları\n\nPROMOSYON SPİRALLİ BLOKNOT FİYATLARI\n\nPromosyon spiralli bloknot fiyatları; sipariş adedi, baskı özellikleri, kaplama seçenekleri ve üretim planlamasına göre değişiklik göstermektedir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Firmanıza özel logo baskısı uygulanmaktadır.\n• Mat veya parlak selefon seçenekleri sunulmaktadır.\n• Üstten spiralli cilt sistemi kullanılmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Spiralli Bloknot\nModel: MTB-180\nKategori: Matbaa Ürünleri\nÖlçü: 14 x 21 cm (A5)\nYaprak Sayısı: 50 Yaprak\nKapak: 350 gr Amerikan Bristol\nKaplama: Mat Selefon / Parlak Selefon\nİç Kağıt: 80 gr 1. Hamur\nBaskı yönü: Tek yön\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nCilt: Üstten Spiralli\nKullanım Alanı: Ofis, Eğitim, Toplantı ve Kurumsal Tanıtım\n\nPromosyon 50 yaprak üstten spiralli bloknot MTB-180, A5 ölçüsü, dayanıklı spiral cilt sistemi, kaliteli iç kağıdı ve logo baskıya uygun yapısıyla kurumsal firmaların tercih ettiği kullanışlı promosyon bloknot modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon spiralli bloknot MTB-180 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo, kurumsal renkler ve iletişim bilgileri yüksek kaliteli ofset baskı ile uygulanabilmektedir."
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir."
     },
     {
       q: "MTB-180 kaç yaprak kapasitesine sahiptir?",
@@ -16767,95 +15789,12 @@ Promosyon 50 yaprak üstten spiralli bloknot MTB-180, A5 ölçüsü, dayanıklı
   shortDesc:
     "Promosyon 100 yaprak taslama kapak defter MTB-190, 15 x 21 cm ölçüsü, dayanıklı 2 mm mukavva kapağı ve spiralli cilt yapısıyla kurumsal firmalar için şık ve uzun ömürlü logo baskılı promosyon defter modelidir.",
 
-  longDesc: `
-Promosyon 100 yaprak taslama kapak defter MTB-190, sağlam taslama kapağı, kaliteli spiralli cilt sistemi ve profesyonel görünümü ile kurumsal firmaların en çok tercih ettiği promosyon defter modellerinden biridir. Günlük kullanım için tasarlanan bu ürün, marka tanıtımını uzun yıllar sürdüren prestijli promosyon ürünleri arasında yer almaktadır.
-
-15 x 21 cm ölçüsüne sahip olan defter; toplantılar, eğitimler, seminerler, müşteri ziyaretleri, saha çalışmaları ve günlük ofis kullanımı için ideal boyut sunmaktadır. Kompakt yapısı sayesinde çanta içerisinde rahatlıkla taşınabilir.
-
-Dayanıklı spiralli cilt sistemi sayfaların kolay çevrilmesini sağlar ve defterin tamamen açılarak rahat kullanılmasına imkan tanır. Günlük kullanım sırasında not alma konforunu artırırken uzun ömürlü kullanım avantajı sağlar.
-
-100 yaprak kapasitesi sayesinde toplantı notları, proje planlamaları, eğitim içerikleri, müşteri görüşmeleri ve günlük not alma işlemleri için geniş kullanım alanı sunmaktadır.
-
-Kapakta kullanılan 2 mm mukavva üzerine kuşe kaplama uygulanarak ürünün dayanıklılığı artırılmıştır. Mat veya parlak selefon seçenekleri sayesinde defter estetik ve premium bir görünüm kazanır.
-
-İç sayfalarda kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunmaktadır. Çift yön baskıya uygun yapısı sayesinde sayfalar verimli şekilde kullanılabilir.
-
-Ürün üzerine firmanıza ait logo, kurumsal renkler, iletişim bilgileri ve reklam tasarımları yüksek kaliteli ofset baskı ile uygulanabilmektedir. Sürekli kullanılan bir ofis ürünü olması sayesinde markanız uzun süre görünür kalır.
-
-Promosyon taslama kapak defter MTB-190 modeli; bankalar, eğitim kurumları, sağlık kuruluşları, kamu kurumları, reklam ajansları, otomotiv firmaları, üretim tesisleri, finans kuruluşları ve kurumsal işletmeler tarafından yoğun şekilde tercih edilmektedir.
-
-NEDEN PROMOSYON TASLAMA KAPAK DEFTER MTB-190 TERCİH EDİLMELİ?
-
-• 15 x 21 cm ideal kullanım ölçüsü
-• 100 yaprak kapasite
-• Dayanıklı spiralli cilt sistemi
-• 2 mm mukavva taslama kapak
-• Mat veya parlak selefon seçeneği
-• 80 gr 1. hamur kağıt
-• Çift yön baskılı iç sayfalar
-• Ofset logo baskısına uygundur
-• Uzun ömürlü kullanım
-• Prestijli kurumsal promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Toplantılar
-• Eğitim kurumları
-• Seminerler
-• Fuar organizasyonları
-• Satış ekipleri
-• Kamu kurumları
-• Finans kuruluşları
-• Günlük not alma
-• Marka tanıtım çalışmaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Eğitim kuruluşları
-• Sağlık sektörü
-• Reklam ajansları
-• Üretim firmaları
-• Finans şirketleri
-• Organizasyon firmaları
-
-PROMOSYON TASLAMA KAPAK DEFTER FİYATLARI
-
-Promosyon taslama kapak defter fiyatları; sipariş adedi, baskı özellikleri, selefon tercihi ve üretim planlamasına göre değişiklik göstermektedir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Firmanıza özel logo baskısı uygulanmaktadır.
-• Mat veya parlak selefon seçenekleri sunulmaktadır.
-• Dayanıklı spiralli cilt sistemi kullanılmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Taslama Kapak Defter
-Model: MTB-190
-Kategori: Matbaa Ürünleri
-Ölçü: 15 x 21 cm
-Yaprak Sayısı: 100 Yaprak
-Kapak: 2 mm Mukavva + Kuşe Kaplama
-Kaplama: Mat Selefon / Parlak Selefon
-İç Kağıt: 80 gr 1. Hamur
-Baskı Türü: Çift Yön Ofset Baskı
-Cilt: Spiralli
-Kullanım Alanı: Ofis, Eğitim, Toplantı ve Kurumsal Tanıtım
-
-Promosyon 100 yaprak taslama kapak defter MTB-190, dayanıklı 2 mm mukavva kapağı, kaliteli spiralli cilt sistemi, 100 yaprak kapasitesi ve logo baskıya uygun yapısıyla kurumsal firmaların en çok tercih ettiği promosyon defter modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon 100 yaprak taslama kapak defter MTB-190, sağlam taslama kapağı, kaliteli spiralli cilt sistemi ve profesyonel görünümü ile kurumsal firmaların en çok tercih ettiği promosyon defter modellerinden biridir. Günlük kullanım için tasarlanan bu ürün, marka tanıtımını uzun yıllar sürdüren prestijli promosyon ürünleri arasında yer almaktadır.\n\n15 x 21 cm ölçüsüne sahip olan defter; toplantılar, eğitimler, seminerler, müşteri ziyaretleri, saha çalışmaları ve günlük ofis kullanımı için ideal boyut sunmaktadır. Kompakt yapısı sayesinde çanta içerisinde rahatlıkla taşınabilir.\n\nDayanıklı spiralli cilt sistemi sayfaların kolay çevrilmesini sağlar ve defterin tamamen açılarak rahat kullanılmasına imkan tanır. Günlük kullanım sırasında not alma konforunu artırırken uzun ömürlü kullanım avantajı sağlar.\n\n100 yaprak kapasitesi sayesinde toplantı notları, proje planlamaları, eğitim içerikleri, müşteri görüşmeleri ve günlük not alma işlemleri için geniş kullanım alanı sunmaktadır.\n\nKapakta kullanılan 2 mm mukavva üzerine kuşe kaplama uygulanarak ürünün dayanıklılığı artırılmıştır. Mat veya parlak selefon seçenekleri sayesinde defter estetik ve premium bir görünüm kazanır.\n\nİç sayfalarda kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sunmaktadır. Çift yön baskıya uygun yapısı sayesinde sayfalar verimli şekilde kullanılabilir.\n\nÜrün üzerine firmanıza ait logo, kurumsal renkler, iletişim bilgileri ve reklam tasarımları uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Sürekli kullanılan bir ofis ürünü olması sayesinde markanız uzun süre görünür kalır.\n\nPromosyon taslama kapak defter MTB-190 modeli; bankalar, eğitim kurumları, sağlık kuruluşları, kamu kurumları, reklam ajansları, otomotiv firmaları, üretim tesisleri, finans kuruluşları ve kurumsal işletmeler tarafından yoğun şekilde tercih edilmektedir.\n\nNEDEN PROMOSYON TASLAMA KAPAK DEFTER MTB-190 TERCİH EDİLMELİ?\n\n• 15 x 21 cm ideal kullanım ölçüsü\n• 100 yaprak kapasite\n• Dayanıklı spiralli cilt sistemi\n• 2 mm mukavva taslama kapak\n• Mat veya parlak selefon seçeneği\n• 80 gr 1. hamur kağıt\n• Çift yön baskılı iç sayfalar\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Uzun ömürlü kullanım\n• Prestijli kurumsal promosyon ürünü\n\nKULLANIM ALANLARI\n\n• Kurumsal ofisler\n• Toplantılar\n• Eğitim kurumları\n• Seminerler\n• Fuar organizasyonları\n• Satış ekipleri\n• Kamu kurumları\n• Finans kuruluşları\n• Günlük not alma\n• Marka tanıtım çalışmaları\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Kamu kurumları\n• Eğitim kuruluşları\n• Sağlık sektörü\n• Reklam ajansları\n• Üretim firmaları\n• Finans şirketleri\n• Organizasyon firmaları\n\nPROMOSYON TASLAMA KAPAK DEFTER FİYATLARI\n\nPromosyon taslama kapak defter fiyatları; sipariş adedi, baskı özellikleri, selefon tercihi ve üretim planlamasına göre değişiklik göstermektedir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Firmanıza özel logo baskısı uygulanmaktadır.\n• Mat veya parlak selefon seçenekleri sunulmaktadır.\n• Dayanıklı spiralli cilt sistemi kullanılmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Taslama Kapak Defter\nModel: MTB-190\nKategori: Matbaa Ürünleri\nÖlçü: 15 x 21 cm\nYaprak Sayısı: 100 Yaprak\nKapak: 2 mm Mukavva + Kuşe Kaplama\nKaplama: Mat Selefon / Parlak Selefon\nİç Kağıt: 80 gr 1. Hamur\nBaskı yönü: Çift yön\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nCilt: Spiralli\nKullanım Alanı: Ofis, Eğitim, Toplantı ve Kurumsal Tanıtım\n\nPromosyon 100 yaprak taslama kapak defter MTB-190, dayanıklı 2 mm mukavva kapağı, kaliteli spiralli cilt sistemi, 100 yaprak kapasitesi ve logo baskıya uygun yapısıyla kurumsal firmaların en çok tercih ettiği promosyon defter modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon taslama kapak defter MTB-190 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo, kurumsal tasarım ve iletişim bilgileri yüksek kaliteli ofset baskı ile uygulanabilmektedir."
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir."
     },
     {
       q: "MTB-190 kaç yaprak kapasitesine sahiptir?",
@@ -16894,95 +15833,12 @@ Promosyon 100 yaprak taslama kapak defter MTB-190, dayanıklı 2 mm mukavva kapa
   shortDesc:
     "Promosyon 80 yaprak karton kapak defter MTB-200, 15 x 21 cm ölçüsü, spiralli cilt yapısı ve 300 gr Amerikan Bristol kapağı ile kurumsal firmalar için ekonomik ve kullanışlı logo baskılı promosyon defter modelidir.",
 
-  longDesc: `
-Promosyon 80 yaprak karton kapak defter MTB-200, dayanıklı karton kapağı, kaliteli spiralli cilt sistemi ve ekonomik yapısıyla kurumsal promosyon ürünleri arasında en çok tercih edilen defter modellerinden biridir. Günlük kullanım için tasarlanan bu ürün, markanızın uzun süre görünür kalmasını sağlayan etkili bir reklam aracıdır.
-
-15 x 21 cm ölçüsüne sahip olan defter; toplantılar, eğitimler, seminerler, müşteri ziyaretleri, fuarlar ve günlük ofis kullanımı için ideal boyut sunmaktadır. Hafif yapısı sayesinde çanta içerisinde kolaylıkla taşınabilir.
-
-Üstten spiralli cilt sistemi sayfaların rahat çevrilmesini sağlar ve defterin tamamen açılarak konforlu şekilde kullanılmasına imkan verir. Günlük not alma sırasında kullanım kolaylığı sağlayarak uzun ömürlü performans sunar.
-
-80 yaprak kapasitesi; toplantı notları, proje planlamaları, eğitim içerikleri, müşteri görüşmeleri ve günlük not alma işlemleri için yeterli kullanım alanı oluşturur.
-
-Kapakta kullanılan 300 gr Amerikan Bristol kağıt sağlam ve kaliteli bir yapı sunmaktadır. Mat veya parlak selefon kaplama seçenekleri sayesinde ürün hem daha dayanıklı hale gelir hem de kurumsal görünüm kazanır.
-
-İç sayfalarda kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sağlar. Çift yön baskıya uygun yapısı sayesinde sayfalar verimli şekilde kullanılabilir.
-
-Ürün üzerine firmanıza ait logo, slogan, kurumsal renkler ve iletişim bilgileri yüksek kaliteli ofset baskı ile uygulanabilmektedir. Günlük kullanılan bir ofis ürünü olması sayesinde markanız uzun süre kullanıcıların masaüstünde görünür kalmaktadır.
-
-Promosyon karton kapak defter MTB-200 modeli; bankalar, eğitim kurumları, sağlık kuruluşları, kamu kurumları, reklam ajansları, üretim firmaları, otomotiv sektörü, finans kuruluşları ve kurumsal işletmeler tarafından yoğun şekilde tercih edilmektedir.
-
-NEDEN PROMOSYON KARTON KAPAK DEFTER MTB-200 TERCİH EDİLMELİ?
-
-• 15 x 21 cm ideal kullanım ölçüsü
-• 80 yaprak kapasite
-• Dayanıklı spiralli cilt sistemi
-• 300 gr Amerikan Bristol kapak
-• Mat veya parlak selefon seçeneği
-• 80 gr 1. hamur kağıt
-• Çift yön baskılı iç sayfalar
-• Ofset logo baskısına uygundur
-• Hafif ve ekonomik yapı
-• Kurumsal promosyonlar için idealdir
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Toplantılar
-• Eğitim kurumları
-• Seminerler
-• Fuar organizasyonları
-• Satış ekipleri
-• Kamu kurumları
-• Finans kuruluşları
-• Günlük not alma
-• Marka tanıtım çalışmaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Eğitim kuruluşları
-• Sağlık sektörü
-• Reklam ajansları
-• Üretim firmaları
-• Finans şirketleri
-• Organizasyon firmaları
-
-PROMOSYON KARTON KAPAK DEFTER FİYATLARI
-
-Promosyon karton kapak defter fiyatları; sipariş adedi, baskı özellikleri, selefon tercihi ve üretim planlamasına göre değişiklik göstermektedir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Firmanıza özel logo baskısı uygulanmaktadır.
-• Mat veya parlak selefon seçenekleri sunulmaktadır.
-• Dayanıklı spiralli cilt sistemi kullanılmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Karton Kapak Defter
-Model: MTB-200
-Kategori: Matbaa Ürünleri
-Ölçü: 15 x 21 cm
-Yaprak Sayısı: 80 Yaprak
-Kapak: 300 gr Amerikan Bristol
-Kaplama: Mat Selefon / Parlak Selefon
-İç Kağıt: 80 gr 1. Hamur
-Baskı Türü: Çift Yön Ofset Baskı
-Cilt: Spiralli
-Kullanım Alanı: Ofis, Eğitim, Toplantı ve Kurumsal Tanıtım
-
-Promosyon 80 yaprak karton kapak defter MTB-200, kaliteli 300 gr Amerikan Bristol kapağı, 80 yaprak kapasitesi, spiralli cilt sistemi ve logo baskıya uygun yapısıyla kurumsal firmalar için ekonomik, şık ve uzun ömürlü promosyon defter modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon 80 yaprak karton kapak defter MTB-200, dayanıklı karton kapağı, kaliteli spiralli cilt sistemi ve ekonomik yapısıyla kurumsal promosyon ürünleri arasında en çok tercih edilen defter modellerinden biridir. Günlük kullanım için tasarlanan bu ürün, markanızın uzun süre görünür kalmasını sağlayan etkili bir reklam aracıdır.\n\n15 x 21 cm ölçüsüne sahip olan defter; toplantılar, eğitimler, seminerler, müşteri ziyaretleri, fuarlar ve günlük ofis kullanımı için ideal boyut sunmaktadır. Hafif yapısı sayesinde çanta içerisinde kolaylıkla taşınabilir.\n\nÜstten spiralli cilt sistemi sayfaların rahat çevrilmesini sağlar ve defterin tamamen açılarak konforlu şekilde kullanılmasına imkan verir. Günlük not alma sırasında kullanım kolaylığı sağlayarak uzun ömürlü performans sunar.\n\n80 yaprak kapasitesi; toplantı notları, proje planlamaları, eğitim içerikleri, müşteri görüşmeleri ve günlük not alma işlemleri için yeterli kullanım alanı oluşturur.\n\nKapakta kullanılan 300 gr Amerikan Bristol kağıt sağlam ve kaliteli bir yapı sunmaktadır. Mat veya parlak selefon kaplama seçenekleri sayesinde ürün hem daha dayanıklı hale gelir hem de kurumsal görünüm kazanır.\n\nİç sayfalarda kullanılan 80 gr 1. hamur kağıt kaliteli yazım deneyimi sağlar. Çift yön baskıya uygun yapısı sayesinde sayfalar verimli şekilde kullanılabilir.\n\nÜrün üzerine firmanıza ait logo, slogan, kurumsal renkler ve iletişim bilgileri uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Günlük kullanılan bir ofis ürünü olması sayesinde markanız uzun süre kullanıcıların masaüstünde görünür kalmaktadır.\n\nPromosyon karton kapak defter MTB-200 modeli; bankalar, eğitim kurumları, sağlık kuruluşları, kamu kurumları, reklam ajansları, üretim firmaları, otomotiv sektörü, finans kuruluşları ve kurumsal işletmeler tarafından yoğun şekilde tercih edilmektedir.\n\nNEDEN PROMOSYON KARTON KAPAK DEFTER MTB-200 TERCİH EDİLMELİ?\n\n• 15 x 21 cm ideal kullanım ölçüsü\n• 80 yaprak kapasite\n• Dayanıklı spiralli cilt sistemi\n• 300 gr Amerikan Bristol kapak\n• Mat veya parlak selefon seçeneği\n• 80 gr 1. hamur kağıt\n• Çift yön baskılı iç sayfalar\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• Hafif ve ekonomik yapı\n• Kurumsal promosyonlar için idealdir\n\nKULLANIM ALANLARI\n\n• Kurumsal ofisler\n• Toplantılar\n• Eğitim kurumları\n• Seminerler\n• Fuar organizasyonları\n• Satış ekipleri\n• Kamu kurumları\n• Finans kuruluşları\n• Günlük not alma\n• Marka tanıtım çalışmaları\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Kamu kurumları\n• Eğitim kuruluşları\n• Sağlık sektörü\n• Reklam ajansları\n• Üretim firmaları\n• Finans şirketleri\n• Organizasyon firmaları\n\nPROMOSYON KARTON KAPAK DEFTER FİYATLARI\n\nPromosyon karton kapak defter fiyatları; sipariş adedi, baskı özellikleri, selefon tercihi ve üretim planlamasına göre değişiklik göstermektedir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Firmanıza özel logo baskısı uygulanmaktadır.\n• Mat veya parlak selefon seçenekleri sunulmaktadır.\n• Dayanıklı spiralli cilt sistemi kullanılmaktadır.\n• Kurumsal toplu siparişlere uygundur.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Karton Kapak Defter\nModel: MTB-200\nKategori: Matbaa Ürünleri\nÖlçü: 15 x 21 cm\nYaprak Sayısı: 80 Yaprak\nKapak: 300 gr Amerikan Bristol\nKaplama: Mat Selefon / Parlak Selefon\nİç Kağıt: 80 gr 1. Hamur\nBaskı yönü: Çift yön\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nCilt: Spiralli\nKullanım Alanı: Ofis, Eğitim, Toplantı ve Kurumsal Tanıtım\n\nPromosyon 80 yaprak karton kapak defter MTB-200, kaliteli 300 gr Amerikan Bristol kapağı, 80 yaprak kapasitesi, spiralli cilt sistemi ve logo baskıya uygun yapısıyla kurumsal firmalar için ekonomik, şık ve uzun ömürlü promosyon defter modellerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon karton kapak defter MTB-200 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo, kurumsal renkler ve iletişim bilgileri yüksek kaliteli ofset baskı ile uygulanabilmektedir."
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir."
     },
     {
       q: "MTB-200 kaç yaprak kapasitesine sahiptir?",
@@ -17021,92 +15877,12 @@ Promosyon 80 yaprak karton kapak defter MTB-200, kaliteli 300 gr Amerikan Bristo
   shortDesc:
     "Promosyon cepli dosya MTB-210, 350 gr mat kuşe veya Amerikan Bristol kağıt seçenekleri, logo baskılı tasarımı ve kurumsal evrak sunumuna uygun yapısıyla toplantı, fuar ve şirket tanıtımları için ideal promosyon dosya modelidir.",
 
-  longDesc: `
-Promosyon cepli dosya MTB-210 modeli, kurumsal sunumlar, toplantılar, fuarlar ve müşteri görüşmeleri için profesyonel görünüm sunan kaliteli promosyon matbaa ürünlerinden biridir. Evrakların düzenli şekilde taşınmasını sağlarken firmanızın kurumsal kimliğini de güçlü biçimde yansıtır.
-
-Kurumsal firmalar tarafından teklif dosyası, katalog sunumu, sözleşme, broşür, fiyat listesi ve tanıtım dokümanlarının düzenli şekilde teslim edilmesi amacıyla tercih edilen cepli dosyalar, marka prestijini artıran etkili reklam ürünleri arasında yer almaktadır.
-
-Ürün üzerine firmanıza özel logo, kurumsal renkler, iletişim bilgileri ve tasarımlar yüksek kaliteli ofset baskı ile uygulanabilmektedir. Böylece cepli dosya yalnızca belge taşıma amacıyla değil, aynı zamanda uzun süre kullanılan güçlü bir marka tanıtım aracına dönüşmektedir.
-
-350 gr mat kuşe veya 300-350 gr Amerikan Bristol kağıt seçenekleri sayesinde sağlam ve kaliteli bir yapı sunmaktadır. Mat veya parlak selefon kaplama uygulaması ise hem dayanıklılığı artırır hem de ürüne premium bir görünüm kazandırır.
-
-İç kısmında bulunan cep tasarımı; katalog, teklif dosyası, broşür, sözleşme ve çeşitli kurumsal belgelerin güvenli şekilde muhafaza edilmesini sağlar. Belgelerin düzenli sunulmasına yardımcı olarak profesyonel bir kurumsal imaj oluşturur.
-
-Promosyon cepli dosya MTB-210 modeli; bankalar, eğitim kurumları, sağlık kuruluşları, hukuk büroları, inşaat firmaları, sigorta şirketleri, otomotiv firmaları, reklam ajansları ve birçok kurumsal işletme tarafından yoğun olarak tercih edilmektedir.
-
-NEDEN PROMOSYON CEPLİ DOSYA MTB-210 TERCİH EDİLMELİ?
-
-• Profesyonel kurumsal görünüm
-• Geniş logo baskı alanı
-• Teklif ve katalog sunumuna uygundur
-• Dayanıklı karton yapısı
-• Mat veya parlak selefon seçeneği
-• Ofset baskıya uygundur
-• İç cepli pratik kullanım
-• Belgeleri düzenli taşır
-• Marka prestijini artırır
-• Kurumsal promosyonlar için idealdir
-
-KULLANIM ALANLARI
-
-• Kurumsal sunum dosyaları
-• Teklif dosyaları
-• Fuar organizasyonları
-• Seminer ve eğitim programları
-• Bayi toplantıları
-• Şirket tanıtımları
-• Broşür ve katalog sunumları
-• Kurumsal evrak teslimleri
-• Reklam kampanyaları
-• Müşteri görüşmeleri
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Eğitim kurumları
-• Sağlık kuruluşları
-• Bankalar
-• Sigorta şirketleri
-• Hukuk büroları
-• İnşaat firmaları
-• Otomotiv sektörü
-• Kamu kurumları
-
-PROMOSYON CEPLİ DOSYA FİYATLARI
-
-Promosyon cepli dosya fiyatları; sipariş adedi, kullanılan kağıt türü, selefon tercihi, baskı özellikleri ve üretim detaylarına göre değişiklik göstermektedir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Firmanıza özel logo baskısı uygulanmaktadır.
-• Mat veya parlak selefon seçenekleri sunulmaktadır.
-• Özel tasarım ve kurumsal renk uygulamaları yapılabilmektedir.
-• Toplu sipariş üretimine uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Kurumsal siparişlerde özel fiyat avantajları sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Cepli Dosya
-Model: MTB-210
-Kategori: Matbaa Ürünleri
-Kağıt Türü:
-• 350 gr Mat Kuşe
-• 300-350 gr Amerikan Bristol
-Kaplama: Mat Selefon / Parlak Selefon
-Baskı: Ofset Logo Baskı
-Tasarım: İç Cepli Dosya
-Kullanım Alanı: Kurumsal Sunum, Evrak ve Teklif Dosyası
-
-Promosyon cepli dosya MTB-210 modeli; dayanıklı karton yapısı, profesyonel tasarımı, geniş logo baskı alanı ve kurumsal sunumlara uygun iç cepli yapısıyla markanızın prestijini artıran en kullanışlı promosyon matbaa ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Promosyon cepli dosya MTB-210 modeli, kurumsal sunumlar, toplantılar, fuarlar ve müşteri görüşmeleri için profesyonel görünüm sunan kaliteli promosyon matbaa ürünlerinden biridir. Evrakların düzenli şekilde taşınmasını sağlarken firmanızın kurumsal kimliğini de güçlü biçimde yansıtır.\n\nKurumsal firmalar tarafından teklif dosyası, katalog sunumu, sözleşme, broşür, fiyat listesi ve tanıtım dokümanlarının düzenli şekilde teslim edilmesi amacıyla tercih edilen cepli dosyalar, marka prestijini artıran etkili reklam ürünleri arasında yer almaktadır.\n\nÜrün üzerine firmanıza özel logo, kurumsal renkler, iletişim bilgileri ve tasarımlar uygulanabilir; baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir. Böylece cepli dosya yalnızca belge taşıma amacıyla değil, aynı zamanda uzun süre kullanılan güçlü bir marka tanıtım aracına dönüşmektedir.\n\n350 gr mat kuşe veya 300-350 gr Amerikan Bristol kağıt seçenekleri sayesinde sağlam ve kaliteli bir yapı sunmaktadır. Mat veya parlak selefon dahil kaplama seçenekleri sipariş öncesinde teyit edilir.\n\nİç kısmında bulunan cep tasarımı; katalog, teklif dosyası, broşür, sözleşme ve çeşitli kurumsal belgelerin güvenli şekilde muhafaza edilmesini sağlar. Belgelerin düzenli sunulmasına yardımcı olarak profesyonel bir kurumsal imaj oluşturur.\n\nPromosyon cepli dosya MTB-210 modeli; bankalar, eğitim kurumları, sağlık kuruluşları, hukuk büroları, inşaat firmaları, sigorta şirketleri, otomotiv firmaları, reklam ajansları ve birçok kurumsal işletme tarafından yoğun olarak tercih edilmektedir.\n\nNEDEN PROMOSYON CEPLİ DOSYA MTB-210 TERCİH EDİLMELİ?\n\n• Profesyonel kurumsal görünüm\n• Geniş logo baskı alanı\n• Teklif ve katalog sunumuna uygundur\n• Dayanıklı karton yapısı\n• Kaplama seçenekleri sipariş öncesinde teyit edilir.\n• Logo baskı yöntemi ve uygulama detayları teklif aşamasında netleştirilir.\n• İç cepli pratik kullanım\n• Belgeleri düzenli taşır\n• Marka prestijini artırır\n• Kurumsal promosyonlar için idealdir\n\nKULLANIM ALANLARI\n\n• Kurumsal sunum dosyaları\n• Teklif dosyaları\n• Fuar organizasyonları\n• Seminer ve eğitim programları\n• Bayi toplantıları\n• Şirket tanıtımları\n• Broşür ve katalog sunumları\n• Kurumsal evrak teslimleri\n• Reklam kampanyaları\n• Müşteri görüşmeleri\n\nKİMLER İÇİN UYGUN?\n\n• Kurumsal firmalar\n• Reklam ajansları\n• Eğitim kurumları\n• Sağlık kuruluşları\n• Bankalar\n• Sigorta şirketleri\n• Hukuk büroları\n• İnşaat firmaları\n• Otomotiv sektörü\n• Kamu kurumları\n\nPROMOSYON CEPLİ DOSYA FİYATLARI\n\nPromosyon cepli dosya fiyatları; sipariş adedi, kullanılan kağıt türü, teyit edilen kaplama tercihi, baskı özellikleri ve üretim detaylarına göre değişiklik göstermektedir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.\n\nSİPARİŞ BİLGİSİ\n\n• Firmanıza özel logo baskısı uygulanmaktadır.\n• Kaplama seçimi teklif aşamasında netleştirilir.\n• Özel tasarım ve kurumsal renk uygulamaları yapılabilmektedir.\n• Toplu sipariş üretimine uygundur.\n• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.\n• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.\n• Kurumsal siparişlerde özel fiyat avantajları sunulmaktadır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Tipi: Promosyon Cepli Dosya\nModel: MTB-210\nKategori: Matbaa Ürünleri\nKağıt Türü:\n• 350 gr Mat Kuşe\n• 300-350 gr Amerikan Bristol\nKaplama: Sipariş öncesinde teyit edilir.\nBaskı yöntemi: Teklif aşamasında netleştirilir.\nTasarım: İç Cepli Dosya\nKullanım Alanı: Kurumsal Sunum, Evrak ve Teklif Dosyası\n\nPromosyon cepli dosya MTB-210 modeli; dayanıklı karton yapısı, profesyonel tasarımı, geniş logo baskı alanı ve kurumsal sunumlara uygun iç cepli yapısıyla markanızın prestijini artıran en kullanışlı promosyon matbaa ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.",
 
   faq: [
     {
       q: "Promosyon cepli dosya üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo, kurumsal renkler ve tasarımlar yüksek kaliteli ofset baskı ile uygulanabilmektedir."
+      a: "Logo ve kurumsal tasarım uygulamasının yöntemi teklif aşamasında netleştirilir."
     },
     {
       q: "Cepli dosya hangi belgeler için kullanılabilir?",
@@ -17118,7 +15894,7 @@ Promosyon cepli dosya MTB-210 modeli; dayanıklı karton yapısı, profesyonel t
     },
     {
       q: "Selefon kaplama seçenekleri mevcut mudur?",
-      a: "Evet. Mat selefon ve parlak selefon kaplama seçenekleri sunulmaktadır."
+      a: "Mat veya parlak selefon dahil kaplama seçenekleri sipariş öncesinde teyit edilir."
     },
     {
       q: "Cepli dosya hangi sektörler için uygundur?",
