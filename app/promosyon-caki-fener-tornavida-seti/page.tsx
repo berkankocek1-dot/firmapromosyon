@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
-import { products } from "@/data/products";
+import { visibleProducts } from "@/data/productVisibility";
 import { sortProductsByCode } from "@/data/productSorting";
 
 
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-  const list = sortProductsByCode(products.filter((p) => p.category === CATEGORY));
+  const list = sortProductsByCode(visibleProducts.filter((p) => p.category === CATEGORY));
 
   const itemListElement = list.map((p, idx) => ({
     "@type": "ListItem",
@@ -169,21 +169,23 @@ export default function Page() {
         </header>
       </section>
 
-      <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <p className="mt-8 text-sm font-medium text-gray-700">{list.length} ürün gösteriliyor</p>
+
+      <section className="mt-4 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((p) => (
           <Link
             key={p.id}
             href={`/urunler/${p.slug}`}
             className="rounded-2xl border bg-white p-4 shadow-sm hover:shadow-md"
           >
-            <div className="relative aspect-square rounded-xl bg-gray-50">
+            <div className="relative aspect-square rounded-xl bg-white">
               <Image
   src={p.image}
   alt={p.title}
   fill
   unoptimized
   loading="lazy"
-  className="object-contain p-4"
+  className="object-contain bg-white p-4"
   sizes="(max-width: 768px) 100vw, 33vw"
 />
             </div>
@@ -193,11 +195,18 @@ export default function Page() {
                 {p.category}
               </div>
 
-              <h2 className="mt-1 text-lg font-bold">{p.title}</h2>
+              <h2 className="mt-1 text-lg font-bold text-black">{p.title}</h2>
 
               <p className="mt-2 text-sm text-gray-700 line-clamp-3">
                 {p.shortDesc}
               </p>
+
+              {typeof p.price === "number" && p.price > 0 && (
+                <div className="mt-3">
+                  <p className="text-base font-bold text-gray-900">{p.price.toLocaleString("tr-TR")} TL + KDV</p>
+                  <p className="mt-1 text-xs text-gray-600">Fiyatlar baskı hariçtir. Güncel teklif için iletişime geçin.</p>
+                </div>
+              )}
 
               <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
                 Ürünü İncele

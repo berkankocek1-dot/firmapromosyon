@@ -10537,56 +10537,13 @@ Promosyon makam bayrağı siparişleri toplu üretim olarak hazırlanmakta olup 
 {
   id: "p139",
   slug: "promosyon-cok-amacli-caki-seti-7-fonksiyonlu-ck-100",
-  title: "Promosyon Çok Amaçlı Çakı Seti 7 Fonksiyonlu ÇK-100 | Logo Baskılı Çakı",
-
+  title: "Promosyon 7 Fonksiyonlu Çakı ÇK-100",
   category: "Çakı, Fener ve Tornavida Seti",
-
   image: "/products/promosyon-cok-amacli-caki-seti-ck-100.jpg",
-
-  shortDesc:
-    "Promosyon çok amaçlı çakı seti ÇK-100 modeli 7 fonksiyonlu yapısı, kompakt tasarımı ve lazer baskıya uygun yüzeyi ile kurumsal promosyon kampanyalarında tercih edilen pratik çok amaçlı araç setlerinden biridir.",
-
-  longDesc: `
-Promosyon çok amaçlı çakı seti ÇK-100 modeli günlük kullanım ve outdoor aktiviteleri için tasarlanmış pratik promosyon ürünleri arasında yer almaktadır. Kompakt yapısı sayesinde kolay taşınabilir ve farklı kullanım alanları sunar.
-
-Promosyon çok amaçlı çakı ürünleri özellikle kamp aktiviteleri, outdoor etkinlikler, promosyon kampanyaları ve kurumsal tanıtım faaliyetlerinde tercih edilen fonksiyonel promosyon ürünleri arasında yer almaktadır.
-
-ÇK-100 modeli 7 farklı fonksiyona sahip çok amaçlı bir araçtır. Günlük kullanımda küçük tamirat işlemleri ve pratik ihtiyaçlar için kullanılabilir.
-
-Promosyon çakı seti üzerine firmanıza ait logo veya marka baskısı lazer baskı yöntemi ile uygulanabilir. Bu sayede ürün hem kullanışlı bir araç hem de etkili bir marka tanıtım ürünü haline gelir.
-
-Promosyon çok amaçlı çakı ürünleri özellikle outdoor etkinlikler, fuarlar, promosyon kampanyaları ve marka tanıtım organizasyonlarında tercih edilmektedir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Çok Amaçlı Çakı  
-Kategori: Çakı, Fener ve Tornavida Seti  
-Fonksiyon Sayısı: 7 Fonksiyon  
-Ürün Ölçüsü: 88 x 25 mm  
-
-BASKI BİLGİLERİ
-
-Baskı Türü: Lazer Baskı  
-Baskı Alanı: 30 x 10 mm  
-
-KOLİ BİLGİSİ
-
-Koli / Kutu Adedi: 1000 / 100  
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Outdoor ve kamp promosyonları  
-Fuar ve etkinlik promosyonları  
-Marka tanıtım kampanyaları  
-Pratik çok amaçlı araç ürünleri  
-
-RENK VE STOK BİLGİSİ
-
-Promosyon çakı ürünlerinde renk ve üretim seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde stok durumunun teyit edilmesi önerilmektedir.
-
-Promosyon çakı seti siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
-`
+  shortDesc: "ÇK-100, yedi fonksiyonu kompakt bir çakı formunda sunar. 88 x 25 mm gövde üzerinde 30 x 10 mm lazer baskı alanı bulunur.",
+  longDesc: "ÇK-100, yedi fonksiyonu kompakt bir çakı formunda sunar. 88 x 25 mm gövde üzerinde 30 x 10 mm lazer baskı alanı bulunur.\n\nTEKNİK ÖZELLİKLER\nModel: ÇK-100\nFonksiyon: 7\nÖlçü: 88 x 25 mm\nBaskı: Lazer\nBaskı Alanı: 30 x 10 mm\nKoli / Kutu: 1000 / 100\n\nLOGO UYGULAMASI\nLazer baskı alanı 30 x 10 mm’dir.\n\nRENK SEÇENEKLERİ\nKırmızı, Krom, Mavi, Siyah\nRenklerin güncel stok durumu sipariş öncesinde kontrol edilir.\n\nSİPARİŞ VE FİYAT\nListe fiyatı baskı hariçtir; KDV ayrıca eklenir. Logo çalışması, stok ve sipariş miktarına göre nihai teklif hazırlanır. Teslim süresi sipariş onayından önce netleştirilir. Koli / kutu adetleri minimum sipariş koşulu değildir.",
+  price: 188,
+  faq: [{"q":"ÇK-100 nasıl bir üründür?","a":"ÇK-100, yedi fonksiyonu kompakt bir çakı formunda sunar. 88 x 25 mm gövde üzerinde 30 x 10 mm lazer baskı alanı bulunur."},{"q":"ÇK-100 teknik özellikleri nelerdir?","a":"Fonksiyon: 7; Ölçü: 88 x 25 mm; Baskı: Lazer; Baskı Alanı: 30 x 10 mm; Koli / Kutu: 1000 / 100"},{"q":"ÇK-100 üzerine logo uygulanabilir mi?","a":"Lazer baskı alanı 30 x 10 mm’dir."},{"q":"ÇK-100 renk seçenekleri nelerdir?","a":"Kırmızı, Krom, Mavi, Siyah Stok durumu sipariş öncesinde kontrol edilir."},{"q":"ÇK-100 minimum sipariş miktarı nedir?","a":"Minimum sipariş miktarı teklif aşamasında belirlenir."},{"q":"ÇK-100 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması ve teslim süresi nihai teklifte belirtilir."}]
 },
 {
   id: "p140",
@@ -22545,334 +22502,68 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
 {
   id: "p311",
   slug: "promosyon-cok-fonksiyonlu-caki-seti-11-fonksiyonlu-ck-200",
-  title: "Promosyon Çok Fonksiyonlu Çakı Seti ÇK-200 | 11 Fonksiyonlu Logolu Çakı",
-
+  title: "Promosyon 11 Fonksiyonlu Çakı ÇK-200",
   category: "Çakı, Fener ve Tornavida Seti",
   image: "/products/promosyon-caki-seti-ck-200.jpg",
-
-  shortDesc:
-    "Promosyon çok fonksiyonlu çakı seti ÇK-200, 11 fonksiyonlu yapısı ve lazer baskı imkanı ile outdoor ve kurumsal kullanım için ideal promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon çok fonksiyonlu çakı seti ÇK-200 modeli, 11 farklı fonksiyonu bir arada sunan pratik ve kullanışlı bir promosyon ürünüdür.
-
-Kompakt yapısı sayesinde kolay taşınabilir ve günlük kullanımda, kamp aktivitelerinde ve outdoor ortamlarda rahatlıkla kullanılabilir.
-
-Birden fazla fonksiyonu sayesinde kullanıcıya pratik çözümler sunar ve bu sayede uzun süre kullanılan bir ürün haline gelir. Bu da markanızın sürekli görünür olmasını sağlar.
-
-Metal yüzeyi sayesinde lazer baskı için uygundur. Logo ve marka baskısı uzun süre kalıcı şekilde uygulanabilir.
-
-Kurumsal firmalar için hem fonksiyonel hem de dikkat çekici bir promosyon ürünü olarak öne çıkar.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Çok Fonksiyonlu Çakı  
-Kategori: Çakı, Fener ve Tornavida Seti  
-
-Özellikler:
-
-11 Fonksiyonlu Tasarım  
-Kompakt ve Taşınabilir  
-Dayanıklı Metal Gövde  
-Günlük ve Outdoor Kullanıma Uygun  
-
-Baskı Bilgisi:
-
-Lazer Baskı  
-Baskı Alanı: 30 x 10 mm  
-
-Ürün Ölçüsü:
-
-88 x 25 mm  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon çakı seti siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Outdoor ve kamp aktiviteleri  
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Şirket hediyeleri  
-`
+  shortDesc: "ÇK-200, 11 fonksiyonlu çakı modelidir. 88 x 25 mm ölçüsü ve 30 x 10 mm lazer baskı alanıyla kurumsal logo uygulaması için sunulur.",
+  longDesc: "ÇK-200, 11 fonksiyonlu çakı modelidir. 88 x 25 mm ölçüsü ve 30 x 10 mm lazer baskı alanıyla kurumsal logo uygulaması için sunulur.\n\nTEKNİK ÖZELLİKLER\nModel: ÇK-200\nFonksiyon: 11\nÖlçü: 88 x 25 mm\nBaskı: Lazer\nBaskı Alanı: 30 x 10 mm\nKoli / Kutu: 1000 / 100\n\nLOGO UYGULAMASI\nLazer baskı alanı 30 x 10 mm’dir.\n\nRENK SEÇENEKLERİ\nKırmızı, Krom, Mavi, Siyah\nRenklerin güncel stok durumu sipariş öncesinde kontrol edilir.\n\nSİPARİŞ VE FİYAT\nListe fiyatı baskı hariçtir; KDV ayrıca eklenir. Logo çalışması, stok ve sipariş miktarına göre nihai teklif hazırlanır. Teslim süresi sipariş onayından önce netleştirilir. Koli / kutu adetleri minimum sipariş koşulu değildir.",
+  price: 225,
+  faq: [{"q":"ÇK-200 nasıl bir üründür?","a":"ÇK-200, 11 fonksiyonlu çakı modelidir. 88 x 25 mm ölçüsü ve 30 x 10 mm lazer baskı alanıyla kurumsal logo uygulaması için sunulur."},{"q":"ÇK-200 teknik özellikleri nelerdir?","a":"Fonksiyon: 11; Ölçü: 88 x 25 mm; Baskı: Lazer; Baskı Alanı: 30 x 10 mm; Koli / Kutu: 1000 / 100"},{"q":"ÇK-200 üzerine logo uygulanabilir mi?","a":"Lazer baskı alanı 30 x 10 mm’dir."},{"q":"ÇK-200 renk seçenekleri nelerdir?","a":"Kırmızı, Krom, Mavi, Siyah Stok durumu sipariş öncesinde kontrol edilir."},{"q":"ÇK-200 minimum sipariş miktarı nedir?","a":"Minimum sipariş miktarı teklif aşamasında belirlenir."},{"q":"ÇK-200 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması ve teslim süresi nihai teklifte belirtilir."}]
 },
 {
   id: "p312",
   slug: "promosyon-el-feneri-fn-100",
-  title: "Promosyon El Feneri FN-100 | Logolu Taşınabilir LED Fener",
-
+  title: "Promosyon El Feneri FN-100",
   category: "Çakı, Fener ve Tornavida Seti",
   image: "/products/promosyon-el-feneri-fn-100.jpg",
-
-  shortDesc:
-    "Promosyon el feneri FN-100, taşınabilir yapısı ve güçlü ışık performansı ile markanızı her ortamda görünür kılan kullanışlı promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon el feneri FN-100 modeli, günlük kullanım ve outdoor aktiviteler için pratik çözümler sunan etkili promosyon ürünlerinden biridir.
-
-Kompakt ve taşınabilir yapısı sayesinde kolayca taşınabilir ve ihtiyaç duyulan her an kullanılabilir. Bu sayede markanız kullanıcı ile sürekli temas halinde olur.
-
-Güçlü ışık performansı ile karanlık ortamlarda yüksek verim sağlar. Özellikle kamp, seyahat ve acil durumlar için ideal bir üründür.
-
-Ürün, logo baskısına uygun yüzeyi sayesinde firmanıza özel tasarımlar ile markanızı ön plana çıkarır.
-
-Kurumsal firmalar için hem kullanışlı hem de dikkat çekici bir promosyon ürünü olarak öne çıkar.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon El Feneri  
-Kategori: Çakı, Fener ve Tornavida Seti  
-
-Özellikler:
-
-Taşınabilir Kompakt Tasarım  
-Güçlü Işık Performansı  
-Günlük ve Outdoor Kullanıma Uygun  
-Dayanıklı Gövde  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon el feneri siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Outdoor ve kamp aktiviteleri  
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Şirket hediyeleri  
-`
+  shortDesc: "FN-100 el feneri; gri, kırmızı, mavi ve siyah renk seçenekleriyle sunulur. Günlük kullanım aksesuarı veya kurumsal dağıtım ürünü olarak değerlendirilebilir.",
+  longDesc: "FN-100 el feneri; gri, kırmızı, mavi ve siyah renk seçenekleriyle sunulur. Günlük kullanım aksesuarı veya kurumsal dağıtım ürünü olarak değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\nModel: FN-100\nÜrün: El Feneri\nMinimum Sipariş: 20 Adet\n\nLOGO UYGULAMASI\nLogo uygulama tekniği, alanı ve tasarım yerleşimi teklif aşamasında belirlenir.\n\nRENK SEÇENEKLERİ\nGri, Kırmızı, Mavi, Siyah\nRenklerin güncel stok durumu sipariş öncesinde kontrol edilir.\n\nSİPARİŞ VE FİYAT\nListe fiyatı baskı hariçtir; KDV ayrıca eklenir. Logo çalışması, stok ve sipariş miktarına göre nihai teklif hazırlanır. Teslim süresi sipariş onayından önce netleştirilir. Koli / kutu adetleri minimum sipariş koşulu değildir.",
+  price: 102,
+  faq: [{"q":"FN-100 nasıl bir üründür?","a":"FN-100 el feneri; gri, kırmızı, mavi ve siyah renk seçenekleriyle sunulur. Günlük kullanım aksesuarı veya kurumsal dağıtım ürünü olarak değerlendirilebilir."},{"q":"FN-100 teknik özellikleri nelerdir?","a":"Ürün: El Feneri"},{"q":"FN-100 üzerine logo uygulanabilir mi?","a":"Logo uygulama tekniği, alanı ve tasarım yerleşimi teklif aşamasında belirlenir."},{"q":"FN-100 renk seçenekleri nelerdir?","a":"Gri, Kırmızı, Mavi, Siyah Stok durumu sipariş öncesinde kontrol edilir."},{"q":"FN-100 minimum sipariş miktarı nedir?","a":"Minimum sipariş 20 adettir."},{"q":"FN-100 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması ve teslim süresi nihai teklifte belirtilir."}]
 },
 {
   id: "p313",
   slug: "promosyon-hediyelik-set-caki-led-el-feneri-fn-150",
-  title: "Promosyon Hediyelik Set FN-150 | Çakı ve LED El Feneri Seti",
-
+  title: "Promosyon Çakı ve LED El Feneri Seti FN-150",
   category: "Çakı, Fener ve Tornavida Seti",
   image: "/products/promosyon-set-fn-150.jpg",
-
-  shortDesc:
-    "Promosyon hediyelik set FN-150, 7 fonksiyonlu çakı ve LED el fenerinden oluşan şık kutulu yapısı ile kurumsal hediyeler için ideal promosyon setidir.",
-
-  longDesc: `
-Promosyon hediyelik set FN-150 modeli, 7 fonksiyonlu çakı ve LED el fenerinden oluşan kullanışlı ve şık bir promosyon setidir.
-
-Set içeriğinde yer alan ürünler, günlük kullanım ve outdoor aktiviteler için pratik çözümler sunar. Bu sayede uzun süre kullanılan ve markanızı sürekli görünür kılan bir promosyon ürünüdür.
-
-Şık kutulu tasarımı sayesinde kurumsal hediyeler için oldukça uygundur. Fuar, etkinlik ve özel organizasyonlarda prestijli bir dağıtım ürünü olarak tercih edilir.
-
-Çakı ve fener ürünlerinin metal yüzeyi lazer baskı için uygundur. Ayrıca kutu üzerine serigraf baskı uygulanarak marka görünürlüğü artırılabilir.
-
-Kurumsal firmalar için hem fonksiyonel hem de dikkat çekici bir promosyon seti olarak öne çıkar.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Hediyelik Set  
-Kategori: Çakı, Fener ve Tornavida Seti  
-
-Set İçeriği:
-
-7 Fonksiyonlu Çakı  
-LED El Feneri  
-Özel Kutu  
-
-Çakı Özellikleri:
-
-Ürün Ölçüsü: 88 x 25 mm  
-Baskı Türü: Lazer Baskı  
-Baskı Alanı: 30 x 10 mm  
-
-Fener Özellikleri:
-
-Ürün Ölçüsü: 85 x 25,5 mm  
-Baskı Türü: Lazer Baskı  
-Baskı Alanı: 20 x 8 mm  
-
-Kutu Özellikleri:
-
-Kutu Ölçüsü: 135 x 95 mm  
-Baskı Türü: Serigraf Baskı  
-Baskı Alanı: 100 x 50 mm  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon set siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Outdoor ve kamp aktiviteleri  
-Reklam ve marka tanıtımı  
-Şirket hediyeleri  
-`
+  shortDesc: "FN-150, yedi fonksiyonlu çakı ve LED el fenerini kutulu bir hediye setinde birleştirir. Çakı ve fenerde lazer, kutuda serigraf baskı için ayrı uygulama alanları bulunur.",
+  longDesc: "FN-150, yedi fonksiyonlu çakı ve LED el fenerini kutulu bir hediye setinde birleştirir. Çakı ve fenerde lazer, kutuda serigraf baskı için ayrı uygulama alanları bulunur.\n\nTEKNİK ÖZELLİKLER\nModel: FN-150\nİçerik: 7 Fonksiyonlu Çakı, LED El Feneri, Kutu\nÇakı Ölçüsü: 88 x 25 mm\nÇakı Lazer Baskı Alanı: 30 x 10 mm\nFener Ölçüsü: 85 x 25,5 mm\nFener Lazer Baskı Alanı: 20 x 8 mm\nKutu Ölçüsü: 135 x 95 mm\nKutu Serigraf Baskı Alanı: 100 x 50 mm\nMinimum Sipariş: 10 Adet\n\nLOGO UYGULAMASI\nÇakı ve fener için lazer baskı, kutu için serigraf baskı uygulanabilir. Alanlar teknik özelliklerde ayrı ayrı belirtilmiştir.\n\nRENK SEÇENEKLERİ\nKırmızı, Mavi, Silver, Siyah\nRenklerin güncel stok durumu sipariş öncesinde kontrol edilir.\n\nSİPARİŞ VE FİYAT\nListe fiyatı baskı hariçtir; KDV ayrıca eklenir. Logo çalışması, stok ve sipariş miktarına göre nihai teklif hazırlanır. Teslim süresi sipariş onayından önce netleştirilir. Koli / kutu adetleri minimum sipariş koşulu değildir.",
+  price: 450,
+  faq: [{"q":"FN-150 nasıl bir üründür?","a":"FN-150, yedi fonksiyonlu çakı ve LED el fenerini kutulu bir hediye setinde birleştirir. Çakı ve fenerde lazer, kutuda serigraf baskı için ayrı uygulama alanları bulunur."},{"q":"FN-150 teknik özellikleri nelerdir?","a":"İçerik: 7 Fonksiyonlu Çakı, LED El Feneri, Kutu; Çakı Ölçüsü: 88 x 25 mm; Çakı Lazer Baskı Alanı: 30 x 10 mm; Fener Ölçüsü: 85 x 25,5 mm; Fener Lazer Baskı Alanı: 20 x 8 mm; Kutu Ölçüsü: 135 x 95 mm; Kutu Serigraf Baskı Alanı: 100 x 50 mm"},{"q":"FN-150 üzerine logo uygulanabilir mi?","a":"Çakı ve fener için lazer baskı, kutu için serigraf baskı uygulanabilir. Alanlar teknik özelliklerde ayrı ayrı belirtilmiştir."},{"q":"FN-150 renk seçenekleri nelerdir?","a":"Kırmızı, Mavi, Silver, Siyah Stok durumu sipariş öncesinde kontrol edilir."},{"q":"FN-150 minimum sipariş miktarı nedir?","a":"Minimum sipariş 10 adettir."},{"q":"FN-150 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması ve teslim süresi nihai teklifte belirtilir."}]
 },
 {
   id: "p314",
   slug: "promosyon-el-feneri-fn-200",
-  title: "Promosyon El Feneri FN-200 | Güçlü Işık Performanslı Logolu Fener",
-
+  title: "Promosyon El Feneri FN-200",
   category: "Çakı, Fener ve Tornavida Seti",
   image: "/products/promosyon-el-feneri-fn-200.jpg",
-
-  shortDesc:
-    "Promosyon el feneri FN-200, güçlü ışık performansı ve dayanıklı yapısı ile outdoor ve günlük kullanım için ideal promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon el feneri FN-200 modeli, güçlü ışık performansı ve dayanıklı yapısı ile öne çıkan kullanışlı promosyon ürünlerinden biridir.
-
-Kompakt tasarımı sayesinde kolay taşınabilir ve günlük kullanımda rahatlıkla tercih edilir. Bu sayede markanız kullanıcı ile sürekli temas halinde olur.
-
-Yüksek ışık gücü sayesinde karanlık ortamlarda etkili aydınlatma sağlar. Özellikle outdoor aktiviteler, seyahat ve acil durumlar için ideal bir üründür.
-
-Dayanıklı gövde yapısı sayesinde uzun ömürlü kullanım sunar ve kullanıcı memnuniyetini artırır.
-
-Ürün, logo baskısına uygun yüzeyi ile firmanıza özel tasarım uygulamalarına imkan tanır ve marka bilinirliğini artırır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon El Feneri  
-Kategori: Çakı, Fener ve Tornavida Seti  
-
-Özellikler:
-
-Güçlü Işık Performansı  
-Kompakt ve Taşınabilir  
-Dayanıklı Gövde  
-Günlük ve Outdoor Kullanıma Uygun  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon el feneri siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Outdoor ve kamp aktiviteleri  
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Şirket hediyeleri  
-`
+  shortDesc: "FN-200, dört renk alternatifiyle sunulan el feneri modelidir. Kurumsal hediye çalışmalarında ürün rengi ve logo uygulama ayrıntıları birlikte değerlendirilir.",
+  longDesc: "FN-200, dört renk alternatifiyle sunulan el feneri modelidir. Kurumsal hediye çalışmalarında ürün rengi ve logo uygulama ayrıntıları birlikte değerlendirilir.\n\nTEKNİK ÖZELLİKLER\nModel: FN-200\nÜrün: El Feneri\nMinimum Sipariş: 20 Adet\n\nLOGO UYGULAMASI\nLogo uygulama tekniği, alanı ve tasarım yerleşimi teklif aşamasında belirlenir.\n\nRENK SEÇENEKLERİ\nGri, Kırmızı, Mavi, Siyah\nRenklerin güncel stok durumu sipariş öncesinde kontrol edilir.\n\nSİPARİŞ VE FİYAT\nListe fiyatı baskı hariçtir; KDV ayrıca eklenir. Logo çalışması, stok ve sipariş miktarına göre nihai teklif hazırlanır. Teslim süresi sipariş onayından önce netleştirilir. Koli / kutu adetleri minimum sipariş koşulu değildir.",
+  price: 150,
+  faq: [{"q":"FN-200 nasıl bir üründür?","a":"FN-200, dört renk alternatifiyle sunulan el feneri modelidir. Kurumsal hediye çalışmalarında ürün rengi ve logo uygulama ayrıntıları birlikte değerlendirilir."},{"q":"FN-200 teknik özellikleri nelerdir?","a":"Ürün: El Feneri"},{"q":"FN-200 üzerine logo uygulanabilir mi?","a":"Logo uygulama tekniği, alanı ve tasarım yerleşimi teklif aşamasında belirlenir."},{"q":"FN-200 renk seçenekleri nelerdir?","a":"Gri, Kırmızı, Mavi, Siyah Stok durumu sipariş öncesinde kontrol edilir."},{"q":"FN-200 minimum sipariş miktarı nedir?","a":"Minimum sipariş 20 adettir."},{"q":"FN-200 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması ve teslim süresi nihai teklifte belirtilir."}]
 },
 {
   id: "p315",
   slug: "promosyon-el-feneri-fn-300",
-  title: "Promosyon El Feneri FN-300 | 2 Fonksiyonlu Logolu Fener",
-
+  title: "Promosyon 2 Fonksiyonlu El Feneri FN-300",
   category: "Çakı, Fener ve Tornavida Seti",
   image: "/products/promosyon-el-feneri-fn-300.jpg",
-
-  shortDesc:
-    "Promosyon el feneri FN-300, 2 fonksiyonlu yapısı ve pratik kullanımı ile günlük ihtiyaçlara uygun ekonomik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon el feneri FN-300 modeli, kompakt yapısı ve 2 fonksiyonlu kullanım özelliği ile pratik çözümler sunan promosyon ürünlerinden biridir.
-
-Küçük ve taşınabilir yapısı sayesinde cepte ve çantada kolaylıkla taşınabilir. Bu sayede kullanıcı ile sürekli temas halinde olan bir promosyon ürünü olarak öne çıkar.
-
-2 fonksiyonlu yapısı sayesinde temel aydınlatma ihtiyaçlarını karşılar ve günlük kullanım için ideal bir çözüm sunar.
-
-Ekonomik yapısı sayesinde yüksek adetli promosyon dağıtımları için oldukça uygundur. Bu da markanızın geniş kitlelere ulaşmasını sağlar.
-
-Ürün, logo baskısına uygun yüzeyi ile firmanıza özel tasarımlar uygulanmasına imkan tanır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon El Feneri  
-Kategori: Çakı, Fener ve Tornavida Seti  
-
-Özellikler:
-
-2 Fonksiyonlu Tasarım  
-Kompakt ve Taşınabilir  
-Günlük Kullanıma Uygun  
-Ekonomik Promosyon Ürünü  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon el feneri siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Outdoor ve günlük kullanım  
-Reklam ve marka tanıtımı  
-Şirket dağıtım ürünleri  
-`
+  shortDesc: "FN-300 el feneri, 1,7 x 8 cm ölçüsü ve iki fonksiyonlu tasarımıyla sunulur. Taşınabilir bir aydınlatma aksesuarı olarak promosyon çalışmalarında değerlendirilebilir.",
+  longDesc: "FN-300 el feneri, 1,7 x 8 cm ölçüsü ve iki fonksiyonlu tasarımıyla sunulur. Taşınabilir bir aydınlatma aksesuarı olarak promosyon çalışmalarında değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\nModel: FN-300\nÖlçü: 1,7 x 8 cm\nFonksiyon: 2\n\nLOGO UYGULAMASI\nLogo uygulama tekniği, alanı ve tasarım yerleşimi teklif aşamasında belirlenir.\n\nRENK SEÇENEKLERİ\nStandart\nRenklerin güncel stok durumu sipariş öncesinde kontrol edilir.\n\nSİPARİŞ VE FİYAT\nListe fiyatı baskı hariçtir; KDV ayrıca eklenir. Logo çalışması, stok ve sipariş miktarına göre nihai teklif hazırlanır. Teslim süresi sipariş onayından önce netleştirilir. Koli / kutu adetleri minimum sipariş koşulu değildir.",
+  price: 292,
+  faq: [{"q":"FN-300 nasıl bir üründür?","a":"FN-300 el feneri, 1,7 x 8 cm ölçüsü ve iki fonksiyonlu tasarımıyla sunulur. Taşınabilir bir aydınlatma aksesuarı olarak promosyon çalışmalarında değerlendirilebilir."},{"q":"FN-300 teknik özellikleri nelerdir?","a":"Ölçü: 1,7 x 8 cm; Fonksiyon: 2"},{"q":"FN-300 üzerine logo uygulanabilir mi?","a":"Logo uygulama tekniği, alanı ve tasarım yerleşimi teklif aşamasında belirlenir."},{"q":"FN-300 renk seçenekleri nelerdir?","a":"Standart Stok durumu sipariş öncesinde kontrol edilir."},{"q":"FN-300 minimum sipariş miktarı nedir?","a":"Minimum sipariş miktarı teklif aşamasında belirlenir."},{"q":"FN-300 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması ve teslim süresi nihai teklifte belirtilir."}]
 },
 {
   id: "p316",
   slug: "promosyon-penlight-pnl-100",
-  title: "Promosyon Penlight PNL-100 | Logolu Muayene Kalem Fener",
-
+  title: "Promosyon Penlight Kalem Fener PNL-100",
   category: "Çakı, Fener ve Tornavida Seti",
   image: "/products/promosyon-penlight-pnl-100.jpg",
-
-  shortDesc:
-    "Promosyon penlight PNL-100, kompakt yapısı ve hassas aydınlatma özelliği ile özellikle sağlık ve teknik kullanım için ideal promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon penlight PNL-100 modeli, ince ve kalem formundaki tasarımı ile hassas aydınlatma gerektiren alanlar için geliştirilmiş özel bir promosyon ürünüdür.
-
-Kompakt ve hafif yapısı sayesinde cepte kolay taşınabilir ve pratik kullanım sunar. Bu sayede kullanıcı ile sürekli temas halinde olur.
-
-Penlight ürünler özellikle sağlık sektörü, teknik servisler ve detaylı inceleme gerektiren alanlarda sıkça tercih edilmektedir.
-
-Odaklı ışık yapısı sayesinde dar alanlarda etkili aydınlatma sağlar ve kullanım kolaylığı sunar.
-
-Ürün, logo baskısına uygun yüzeyi ile firmanıza özel tasarım uygulanmasına imkan tanır ve marka bilinirliğini artırır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Penlight (Muayene Feneri)  
-Kategori: Çakı, Fener ve Tornavida Seti  
-
-Özellikler:
-
-Kalem Tipi Tasarım  
-Kompakt ve Taşınabilir  
-Hassas Aydınlatma  
-Hafif ve Kullanışlı  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon penlight siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Sağlık ve medikal sektör  
-Teknik servis ve bakım ekipleri  
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-`
+  shortDesc: "PNL-100 penlight, kalem formundaki fener tasarımıyla sunulur. Logo uygulaması ve sipariş koşulları kurumsal ihtiyaca göre teklif aşamasında belirlenir.",
+  longDesc: "PNL-100 penlight, kalem formundaki fener tasarımıyla sunulur. Logo uygulaması ve sipariş koşulları kurumsal ihtiyaca göre teklif aşamasında belirlenir.\n\nTEKNİK ÖZELLİKLER\nModel: PNL-100\nÜrün: Penlight / Kalem Fener\n\nLOGO UYGULAMASI\nLogo uygulama tekniği, alanı ve tasarım yerleşimi teklif aşamasında belirlenir.\n\nRENK SEÇENEKLERİ\nRenk bilgisi teklif aşamasında paylaşılır.\nRenklerin güncel stok durumu sipariş öncesinde kontrol edilir.\n\nSİPARİŞ VE FİYAT\nListe fiyatı baskı hariçtir; KDV ayrıca eklenir. Logo çalışması, stok ve sipariş miktarına göre nihai teklif hazırlanır. Teslim süresi sipariş onayından önce netleştirilir. Koli / kutu adetleri minimum sipariş koşulu değildir.",
+  price: 46,
+  faq: [{"q":"PNL-100 nasıl bir üründür?","a":"PNL-100 penlight, kalem formundaki fener tasarımıyla sunulur. Logo uygulaması ve sipariş koşulları kurumsal ihtiyaca göre teklif aşamasında belirlenir."},{"q":"PNL-100 teknik özellikleri nelerdir?","a":"Ürün: Penlight / Kalem Fener"},{"q":"PNL-100 üzerine logo uygulanabilir mi?","a":"Logo uygulama tekniği, alanı ve tasarım yerleşimi teklif aşamasında belirlenir."},{"q":"PNL-100 renk seçenekleri nelerdir?","a":"Renk bilgisi teklif aşamasında paylaşılır. Stok durumu sipariş öncesinde kontrol edilir."},{"q":"PNL-100 minimum sipariş miktarı nedir?","a":"Minimum sipariş miktarı teklif aşamasında belirlenir."},{"q":"PNL-100 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması ve teslim süresi nihai teklifte belirtilir."}]
 },
 {
   id: "p317",
