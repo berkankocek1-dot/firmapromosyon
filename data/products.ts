@@ -10417,46 +10417,10 @@ Promosyon cetvel CT-200; 15 cm ölçüm kapasitesi, kompakt plastik yapısı ve 
   title: "Promosyon Kristal Masa Seti KMS-130 | Logo Baskılı Kristal Masa Sümeni",
   price: 3150,
   category: "Masa Sümeni",
-
   image: "/products/promosyon-kristal-masa-seti-kms-130.jpg",
-
-  shortDesc:
-    "Promosyon kristal masa seti KMS-130 modeli 15 x 40 cm ölçüsü ve logo baskıya uygun kristal yüzeyi ile yönetici masaları ve kurumsal ofisler için tercih edilen prestijli promosyon masa sümeni ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon kristal masa seti KMS-130 modeli şık ve modern tasarımı ile kurumsal masaüstü promosyon ürünleri arasında yer almaktadır. Kristal görünümlü yapısı sayesinde ofis masalarında hem dekoratif hem de işlevsel bir kullanım sunar.
-
-Promosyon masa sümeni ve masa setleri özellikle yönetici masaları, kurumsal ofisler ve prestijli şirket hediyeleri arasında tercih edilen promosyon ürünleri arasında yer almaktadır.
-
-KMS-130 modeli 15 x 40 cm ölçüsünde tasarlanmıştır ve masa üzerinde düzenli bir kullanım sağlar. Ürün üzerine firmanıza ait logo veya marka baskısı uygulanarak güçlü bir marka tanıtım aracı haline getirilebilir.
-
-Promosyon masa setleri özellikle bankalar, finans kuruluşları, holdingler ve kurumsal şirketler tarafından yönetici masa hediyesi veya kurumsal promosyon ürünü olarak tercih edilmektedir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Kristal Masa Seti  
-Kategori: Masa Sümeni  
-Ürün Ölçüsü: 15 x 40 cm  
-
-BASKI BİLGİLERİ
-
-Baskı Alanı: 60 x 150 mm  
-Logo Baskı: Kurumsal logo baskıya uygundur  
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Yönetici masaüstü ürünleri  
-Ofis masa sümeni  
-Kurumsal hediye ürünleri  
-Prestij promosyon ürünleri  
-
-RENK VE STOK BİLGİSİ
-
-Promosyon kristal masa setleri farklı üretim seçenekleri ve baskı uygulamaları ile hazırlanabilmektedir. Sipariş öncesinde stok ve üretim detaylarının teyit edilmesi önerilmektedir.
-
-Promosyon masa seti siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
-`
+  shortDesc: "KMS-130 kristal masa seti; 15 x 40 cm ürün ölçüsü ve 60 x 150 mm baskı alanıyla kurumsal masaüstü sunumları için bir seçenektir.",
+  longDesc: "KMS-130 kristal masa seti, 15 x 40 cm taban ölçüsüyle çalışma masasında yatay bir sunum alanı oluşturur. 60 x 150 mm baskı alanı, kurum adı veya logo yerleşiminin ölçüye göre hazırlanmasına olanak verir.\n\nTEKNİK ÖZELLİKLER\n\nModel: KMS-130\nÜrün Tipi: Kristal masa seti\nÜrün Ölçüsü: 15 x 40 cm\nBaskı Alanı: 60 x 150 mm\n\nMASA YERLEŞİMİ VE TASARIM\n\n40 cm genişlikteki ürünün yerleşimi, masadaki ekran ve çalışma alanıyla birlikte değerlendirilmelidir. Baskı tasarımında 60 x 150 mm sınırı esas alınır.\n\nLOGO UYGULAMASI\n\nBaskı alanı 60 x 150 mm olarak belirtilmiştir. Uygulama yöntemi ve logo yerleşimi tasarım dosyasına göre teklif aşamasında netleştirilir.\n\nSİPARİŞ VE TESLİM KAPSAMI\n\nKMS-130 için adet ve logo dosyanızı ileterek teklif alabilirsiniz. Güncel stok, baskı bedeli, teslim kapsamı ve teslim süresi sipariş öncesinde netleştirilir. Setin aksesuar listesi, renk ve yüzey ayrıntıları sipariş onayında netleştirilir.",
+  faq: [{"q":"KMS-130 kristal masa setinin ölçüsü nedir?","a":"Ürün ölçüsü 15 x 40 cm olarak belirtilmiştir."},{"q":"KMS-130 için logo baskı alanı ne kadardır?","a":"Baskı alanı 60 x 150 mm olarak belirtilmiştir. Logo tasarımı bu alanın ölçüsüne göre hazırlanır."},{"q":"KMS-130 hangi masa yerleşimi için değerlendirilebilir?","a":"40 cm genişlikteki ürünün yerleşimi, masadaki ekran ve çalışma alanıyla birlikte değerlendirilmelidir. Baskı tasarımında 60 x 150 mm sınırı esas alınır."},{"q":"KMS-130 üzerine hangi baskı uygulanabilir?","a":"Baskı alanı 60 x 150 mm olarak belirtilmiştir. Uygulama yöntemi ve logo yerleşimi tasarım dosyasına göre teklif aşamasında netleştirilir."},{"q":"KMS-130 setinin aksesuar ve renk seçenekleri nelerdir?","a":"Aksesuarların kesin listesi, renk ve yüzey ayrıntıları sipariş öncesinde teyit edilir. "},{"q":"KMS-130 için toplu sipariş nasıl verilir?","a":"KMS-130 için adet ve logo dosyanızı ileterek teklif alabilirsiniz. Güncel stok, baskı bedeli, teslim kapsamı ve teslim süresi sipariş öncesinde netleştirilir."}]
 },
 {
   id: "p132",
@@ -45744,305 +45708,57 @@ Promosyon telefon standı TT-510, katlanabilir plastik yapısı, farklı renk se
 {
   id: "p596",
   slug: "promosyon-kristal-masa-seti-kms-140-vip-ofis",
-
   title: "Promosyon Kristal Masa Seti KMS-140 | VIP Ofis Masaüstü Kristal Yönetici Seti",
   price: 2200,
   category: "Masa Sümeni",
-  image: "/products/promosyon-kristal-masa-seti-kms-140.jpg",
-
-  shortDesc:
-    "Promosyon kristal masa seti KMS-140, şık kristal tasarımı ve ofis düzenleyici yapısı ile yönetici masaları için prestijli bir promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon kristal masa seti KMS-140, estetik ve şıklığı bir araya getiren tasarımı ile yönetici masaları için özel olarak tasarlanmış premium bir ofis promosyon ürünüdür.
-
-Kristal cam taban yapısı sayesinde modern ve prestijli bir görünüm sunar ve ofis ortamına değer katar.
-
-Set içerisinde yer alan kalemlikler, saat ve aksesuar bölmeleri ile masaüstü düzenini sağlar ve işlevsel kullanım sunar.
-
-Altın detaylı kalemler ve şık saat tasarımı, ürüne lüks bir görünüm kazandırarak VIP promosyon kategorisinde öne çıkar.
-
-Geniş baskı alanı sayesinde firmanızın logosu kristal yüzey üzerine uygulanabilir ve markanız prestijli bir şekilde sergilenir.
-
-Dayanıklı ve kaliteli malzeme yapısı ile uzun ömürlü kullanım sunar ve kurumsal hediye seçenekleri arasında fark yaratır.
-
-Yönetici hediyesi, özel günler ve kurumsal prestij ürünleri için ideal bir tercihtir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Masa Seti / Masa Sümeni
-Malzeme: Kristal Cam
-Set İçeriği: Saat, Kalemlik, Aksesuar Bölmeleri
-Baskı Alanı: 60 x 150 mm
-Tasarım: Şeffaf Kristal + Altın Detaylar
-Kullanım: Ofis / Yönetici Masası
-
-NOT
-
-Ürün görselleri temsili olup tasarım detaylarında farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve özel hediyelik amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-VIP kurumsal promosyon ürünleri
-Yönetici ve ofis hediyeleri
-Özel gün ve plaket alternatifleri
-Kurumsal prestij ürünleri
-Ofis masaüstü düzenleyici kullanım
-`,
+  image: "/products/promosyon-kristal-masa-seti-kms-140-v2.jpg",
+  shortDesc: "KMS-140 kristal masa seti; 12 x 24 cm kompakt ölçü ve 60 x 150 mm baskı alanı sunar. Masa üzerindeki yerleşime göre kurumsal hediye olarak değerlendirilebilir.",
+  longDesc: "KMS-140, 12 x 24 cm ölçüsüyle bu üç kristal masa seti arasındaki en kompakt modeldir. Daha sınırlı masa alanlarında kristal bir kurumsal hediye tercih edenler için ölçüsü ve 60 x 150 mm baskı alanıyla karşılaştırılabilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: KMS-140\nÜrün Tipi: Kristal masa seti\nÜrün Ölçüsü: 12 x 24 cm\nBaskı Alanı: 60 x 150 mm\n\nMASA YERLEŞİMİ VE TASARIM\n\n12 x 24 cm ürün ölçüsü ile 60 x 150 mm baskı alanı farklı bilgilerdir. Masa yerleşimi ürün ölçüsüne, logo tasarımı baskı alanına göre hazırlanır.\n\nLOGO UYGULAMASI\n\nBaskı alanı 60 x 150 mm olarak belirtilmiştir. Uygulama yöntemi ve logo yerleşimi tasarım dosyasına göre teklif aşamasında netleştirilir.\n\nSİPARİŞ VE TESLİM KAPSAMI\n\nKMS-140 için adet ve logo dosyanızı ileterek teklif alabilirsiniz. Güncel stok, baskı bedeli, teslim kapsamı ve teslim süresi sipariş öncesinde netleştirilir. Setin aksesuar listesi, renk ve yüzey ayrıntıları sipariş onayında netleştirilir.",
+  faq: [{"q":"KMS-140 kristal masa setinin ölçüsü nedir?","a":"Ürün ölçüsü 12 x 24 cm olarak belirtilmiştir."},{"q":"KMS-140 için logo baskı alanı ne kadardır?","a":"Baskı alanı 60 x 150 mm olarak belirtilmiştir. Logo tasarımı bu alanın ölçüsüne göre hazırlanır."},{"q":"KMS-140 hangi masa yerleşimi için değerlendirilebilir?","a":"12 x 24 cm ürün ölçüsü ile 60 x 150 mm baskı alanı farklı bilgilerdir. Masa yerleşimi ürün ölçüsüne, logo tasarımı baskı alanına göre hazırlanır."},{"q":"KMS-140 üzerine hangi baskı uygulanabilir?","a":"Baskı alanı 60 x 150 mm olarak belirtilmiştir. Uygulama yöntemi ve logo yerleşimi tasarım dosyasına göre teklif aşamasında netleştirilir."},{"q":"KMS-140 setinin aksesuar ve renk seçenekleri nelerdir?","a":"Aksesuarların kesin listesi, renk ve yüzey ayrıntıları sipariş öncesinde teyit edilir. "},{"q":"KMS-140 için toplu sipariş nasıl verilir?","a":"KMS-140 için adet ve logo dosyanızı ileterek teklif alabilirsiniz. Güncel stok, baskı bedeli, teslim kapsamı ve teslim süresi sipariş öncesinde netleştirilir."}]
 },
 {
   id: "p597",
   slug: "promosyon-kristal-masa-seti-kms-150-vip-genis",
-
   title: "Promosyon Kristal Masa Seti KMS-150 | Geniş Ebatlı VIP Ofis Masaüstü Yönetici Seti",
   price: 4400,
   category: "Masa Sümeni",
-  image: "/products/promosyon-kristal-masa-seti-kms-150.jpg",
-
-  shortDesc:
-    "Promosyon kristal masa seti KMS-150, geniş yüzeyi ve zengin set içeriği ile yönetici masaları için prestijli ve dikkat çekici bir promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon kristal masa seti KMS-150, geniş ebatları ve çok parçalı yapısı ile üst düzey ofis kullanımı için tasarlanmış premium bir masaüstü promosyon ürünüdür.
-
-20 x 50 cm ölçülerindeki geniş kristal tabanı sayesinde masa üzerinde düzenli ve şık bir görünüm sunar.
-
-Set içerisinde yer alan saat, kalemlik, notluk alanı ve aksesuar bölmeleri ile ofis düzenini maksimum seviyeye çıkarır.
-
-Altın detaylı aksesuarları ile lüks bir tasarım sunar ve yönetici masalarında prestijli bir duruş sergiler.
-
-Kristal cam yüzey, ışığı yansıtan yapısı ile estetik bir görünüm oluşturur ve ofis dekorasyonuna değer katar.
-
-Geniş baskı alanı sayesinde firmanızın logosu net ve dikkat çekici şekilde uygulanabilir.
-
-Kurumsal hediyelik ürünler arasında üst segmentte yer alır ve özel müşteriler için ideal bir promosyon seçeneğidir.
-
-Dayanıklı ve kaliteli yapısı sayesinde uzun yıllar kullanılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Masa Seti / Masa Sümeni
-Malzeme: Kristal Cam
-Ebat: 20 x 50 cm
-Baskı Alanı: 60 x 200 mm
-Set İçeriği: Saat, Kalemlik, Notluk Alanı, Aksesuar Bölmeleri
-Tasarım: Şeffaf Kristal + Altın Detaylar
-Kullanım: Ofis / Yönetici Masası
-
-NOT
-
-Ürün görselleri temsili olup tasarım detaylarında farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve özel hediyelik amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-VIP kurumsal promosyon ürünleri
-Yönetici ve ofis hediyeleri
-Özel gün ve plaket alternatifleri
-Kurumsal prestij ürünleri
-Ofis masaüstü düzenleyici kullanım
-`,
+  image: "/products/promosyon-kristal-masa-seti-kms-150-v2.jpg",
+  shortDesc: "KMS-150 kristal masa seti; 20 x 50 cm ürün ölçüsü ve 60 x 200 mm baskı alanıyla geniş masaüstü sunumlarına uygundur.",
+  longDesc: "KMS-150 kristal masa seti, 20 x 50 cm ürün ölçüsüyle bu serinin geniş yerleşim alanı isteyen modelidir. 60 x 200 mm baskı alanı, diğer iki kristal modele göre daha uzun bir logo veya kurum adı düzenlemesi için değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: KMS-150\nÜrün Tipi: Kristal masa seti\nÜrün Ölçüsü: 20 x 50 cm\nBaskı Alanı: 60 x 200 mm\n\nMASA YERLEŞİMİ VE TASARIM\n\n50 cm uzunluğundaki ürün için masadaki kullanılabilir alan kontrol edilmelidir. 60 x 200 mm baskı alanına sığacak logo ve yazı yerleşimi sipariş öncesinde hazırlanır.\n\nLOGO UYGULAMASI\n\nBaskı alanı 60 x 200 mm olarak belirtilmiştir. Uygulama yöntemi ve logo yerleşimi tasarım dosyasına göre teklif aşamasında netleştirilir.\n\nSİPARİŞ VE TESLİM KAPSAMI\n\nKMS-150 için adet ve logo dosyanızı ileterek teklif alabilirsiniz. Güncel stok, baskı bedeli, teslim kapsamı ve teslim süresi sipariş öncesinde netleştirilir. Setin aksesuar listesi, renk ve yüzey ayrıntıları sipariş onayında netleştirilir.",
+  faq: [{"q":"KMS-150 kristal masa setinin ölçüsü nedir?","a":"Ürün ölçüsü 20 x 50 cm olarak belirtilmiştir."},{"q":"KMS-150 için logo baskı alanı ne kadardır?","a":"Baskı alanı 60 x 200 mm olarak belirtilmiştir. Logo tasarımı bu alanın ölçüsüne göre hazırlanır."},{"q":"KMS-150 hangi masa yerleşimi için değerlendirilebilir?","a":"50 cm uzunluğundaki ürün için masadaki kullanılabilir alan kontrol edilmelidir. 60 x 200 mm baskı alanına sığacak logo ve yazı yerleşimi sipariş öncesinde hazırlanır."},{"q":"KMS-150 üzerine hangi baskı uygulanabilir?","a":"Baskı alanı 60 x 200 mm olarak belirtilmiştir. Uygulama yöntemi ve logo yerleşimi tasarım dosyasına göre teklif aşamasında netleştirilir."},{"q":"KMS-150 setinin aksesuar ve renk seçenekleri nelerdir?","a":"Aksesuarların kesin listesi, renk ve yüzey ayrıntıları sipariş öncesinde teyit edilir. "},{"q":"KMS-150 için toplu sipariş nasıl verilir?","a":"KMS-150 için adet ve logo dosyanızı ileterek teklif alabilirsiniz. Güncel stok, baskı bedeli, teslim kapsamı ve teslim süresi sipariş öncesinde netleştirilir."}]
 },
 {
   id: "p598",
   slug: "promosyon-masa-sumeni-msn-100-6-parca-deri-set",
-
-  title: "Promosyon Masa Sümeni MSN-100 | 6 Parça Deri Ofis Masa Seti (Kalemlik, Telefon Standı, Notluk)",
+  title: "Promosyon Masa Sümeni MSN-100 | 6 Parça Telefon Standlı Ofis Seti",
   price: 4150,
   category: "Masa Sümeni",
-  image: "/products/promosyon-masa-sumeni-msn-100.jpg",
-
-  shortDesc:
-    "Promosyon masa sümeni MSN-100, 6 parçadan oluşan zengin içeriği ve şık deri tasarımı ile ofisler için prestijli ve kullanışlı bir promosyon setidir.",
-
-  longDesc: `
-Promosyon masa sümeni MSN-100, ofis düzenini sağlamak ve masaüstüne şık bir görünüm kazandırmak için tasarlanmış çok parçalı premium bir promosyon setidir.
-
-6 parçadan oluşan set içeriği sayesinde masa üzerinde ihtiyaç duyulan tüm aksesuarları tek bir üründe sunar.
-
-Geniş masa sümeni, çalışma alanını korurken aynı zamanda konforlu bir kullanım sağlar.
-
-Set içerisinde yer alan kalemlik, telefon standı, küp notluk ve bardak altlığı gibi aksesuarlar ile masa düzeni maksimum seviyeye çıkarılır.
-
-Şık ve modern deri kaplama yüzeyi sayesinde hem estetik hem de profesyonel bir görünüm sunar.
-
-Yönetici ve ofis çalışanları için ideal bir kullanım sunan bu set, kurumsal promosyon ürünleri arasında dikkat çekici bir alternatiftir.
-
-Ürün üzerine uygulanabilen logo baskı seçenekleri ile markanız sürekli görünür hale gelir ve güçlü bir reklam etkisi oluşturur.
-
-Dayanıklı malzeme yapısı sayesinde uzun ömürlü kullanım sunar.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Masa Sümeni / Masa Seti
-Set İçeriği: 6 Parça
-Parçalar: Masa Sümeni, Kalemlik, Telefon Standı, Küp Notluk, Kalem Seti, Bardak Altlığı
-Kaplama: Deri
-Kullanım: Ofis / Yönetici Masası
-
-NOT
-
-Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri
-Ofis masaüstü düzenleyici setler
-Yönetici ve çalışan hediyeleri
-Fuar ve etkinlik dağıtımları
-Kurumsal prestij ürünleri
-`,
+  image: "/products/promosyon-masa-sumeni-msn-100-v2.jpg",
+  shortDesc: "MSN-100 altı parçalık set; masa sümeni, kalemlik, telefon standı, küp notluk, kalem seti ve bardak altlığını bir araya getirir.",
+  longDesc: "MSN-100, telefon standı ve kalem setini masa sümeniyle aynı takımda sunan altı parçalık ofis setidir. Telefonunu masa üzerinde ayrı bir alana yerleştirmek ve kalem, notluk, bardak altlığını bir arada kullanmak isteyenler için içerik odaklı bir seçenektir.\n\nSET İÇERİĞİ\n\n• Masa sümeni\n• Kalemlik\n• Telefon standı\n• Küp notluk\n• Kalem seti\n• Bardak altlığı\n\nTEKNİK BİLGİLER\n\nModel: MSN-100\nÜrün Tipi: Masa sümeni / ofis masa seti\nSet: 6 parça\n\nMODELİN İÇERİK FARKI\n\nTelefon standı ve kalem seti isteyenler için MSN-100; dosyalık ve takvimlik içeren MSN-110 ile, mouse pad içeren MSN-120’den set kapsamı açısından ayrılır.\n\nLOGO UYGULAMASI\n\nLogo uygulanacak parça, baskı yöntemi ve baskı alanı set bileşenine ve tasarıma göre teklif aşamasında belirlenir. Baskı kapsamı seçilen parçalara göre tekliflendirilir.\n\nMALZEME VE SİPARİŞ\n\nMalzeme ve kaplama türü, parça ölçüleri ve renk seçenekleri sipariş öncesinde netleştirilir. \n\nMSN-100 için adet ve logo dosyanızı ileterek teklif alabilirsiniz. Güncel stok, baskı bedeli, teslim kapsamı ve teslim süresi sipariş öncesinde netleştirilir.",
+  faq: [{"q":"MSN-100 seti kaç parçadan oluşur ve neler içerir?","a":"Set 6 parçadan oluşur: Masa sümeni; Kalemlik; Telefon standı; Küp notluk; Kalem seti; Bardak altlığı."},{"q":"MSN-100 modelinin diğer sümen setlerinden farkı nedir?","a":"Telefon standı ve kalem seti isteyenler için MSN-100; dosyalık ve takvimlik içeren MSN-110 ile, mouse pad içeren MSN-120’den set kapsamı açısından ayrılır."},{"q":"MSN-100 setinin malzemesi ve kaplaması nedir?","a":"Malzeme ve kaplama türü sipariş öncesinde netleştirilir. "},{"q":"MSN-100 setine logo uygulanabilir mi?","a":"Logo uygulanacak parça, baskı yöntemi ve baskı alanı set bileşenine ve tasarıma göre teklif aşamasında belirlenir. Baskı kapsamı seçilen parçalara göre tekliflendirilir."},{"q":"MSN-100 setinin ölçü ve renk seçenekleri nelerdir?","a":"Parça ölçüleri, renk ve güncel stok seçenekleri teklif aşamasında paylaşılır. Set içeriği ürün açıklamasındaki altı parçalık listeye göre değerlendirilir."},{"q":"MSN-100 için toplu sipariş nasıl verilir?","a":"MSN-100 için adet ve logo dosyanızı ileterek teklif alabilirsiniz. Güncel stok, baskı bedeli, teslim kapsamı ve teslim süresi sipariş öncesinde netleştirilir."}]
 },
 {
   id: "p599",
   slug: "promosyon-masa-sumeni-msn-110-6-parca-deri-ofis-seti",
-
-  title: "Promosyon Masa Sümeni MSN-110 | 6 Parça Deri Ofis Masa Seti (Takvimlik, Dosyalık, Kalemlik)",
+  title: "Promosyon Masa Sümeni MSN-110 | 6 Parça Dosyalık ve Takvimlikli Ofis Seti",
   price: 3700,
   category: "Masa Sümeni",
   image: "/products/promosyon-masa-sumeni-msn-110.jpg",
-
-  shortDesc:
-    "Promosyon masa sümeni MSN-110, 6 parçadan oluşan fonksiyonel yapısı ve şık deri tasarımı ile ofisler için ideal kurumsal promosyon setidir.",
-
-  longDesc: `
-Promosyon masa sümeni MSN-110, ofis düzenini sağlamak ve profesyonel bir çalışma alanı oluşturmak için tasarlanmış çok parçalı bir masaüstü promosyon setidir.
-
-6 parçadan oluşan zengin set içeriği ile masa üzerinde ihtiyaç duyulan tüm aksesuarları tek bir üründe sunar.
-
-Geniş masa sümeni, çalışma alanını korurken konforlu ve düzenli bir kullanım sağlar.
-
-Set içerisinde yer alan kalem seti, kalemlik, notluk, dosyalık ve takvimlik ile masa organizasyonu maksimum seviyeye çıkarılır.
-
-Şık deri kaplama yüzeyi sayesinde ofis ortamına prestijli ve profesyonel bir görünüm kazandırır.
-
-Fonksiyonel tasarımı ile hem yöneticiler hem de ofis çalışanları için ideal bir kullanım sunar.
-
-Ürün üzerine uygulanabilen logo baskı seçenekleri ile markanız sürekli görünür hale gelir ve kurumsal imajınızı güçlendirir.
-
-Dayanıklı malzeme yapısı sayesinde uzun ömürlü kullanım sunar.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Masa Sümeni / Masa Seti
-Set İçeriği: 6 Parça
-Parçalar: Masa Sümeni, Kalem Seti, Kalemlik, Notluk, Dosyalık, Takvimlik
-Kaplama: Deri
-Kullanım: Ofis / Yönetici Masası
-
-NOT
-
-Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri
-Ofis masaüstü düzenleyici setler
-Yönetici ve çalışan hediyeleri
-Kurumsal prestij ürünleri
-Fuar ve etkinlik dağıtımları
-`,
+  shortDesc: "MSN-110 altı parçalık set; masa sümeni, kalem seti, kalemlik, notluk, dosyalık ve takvimlik içerir. Evrak ve masa düzenine odaklanan bir ofis setidir.",
+  longDesc: "MSN-110, dosyalık ve takvimlik bulunan altı parçalık masa sümeni setidir. Evraklarını, notlarını ve kalemlerini çalışma masasında belirli alanlarda toplamak isteyen kullanıcılar için set içeriği bu iki aksesuar etrafında şekillenir.\n\nSET İÇERİĞİ\n\n• Masa sümeni\n• Kalem seti\n• Kalemlik\n• Notluk\n• Dosyalık\n• Takvimlik\n\nTEKNİK BİLGİLER\n\nModel: MSN-110\nÜrün Tipi: Masa sümeni / ofis masa seti\nSet: 6 parça\n\nMODELİN İÇERİK FARKI\n\nDosyalık ve takvimlik MSN-110’un ayırt edici parçalarıdır. Set listesinde telefon standı veya mouse pad yer almadığından bu aksesuarlar dahil olarak sunulmaz.\n\nLOGO UYGULAMASI\n\nLogo uygulanacak parça, baskı yöntemi ve baskı alanı set bileşenine ve tasarıma göre teklif aşamasında belirlenir. Baskı kapsamı seçilen parçalara göre tekliflendirilir.\n\nMALZEME VE SİPARİŞ\n\nMalzeme ve kaplama türü, parça ölçüleri ve renk seçenekleri sipariş öncesinde netleştirilir. \n\nMSN-110 için adet ve logo dosyanızı ileterek teklif alabilirsiniz. Güncel stok, baskı bedeli, teslim kapsamı ve teslim süresi sipariş öncesinde netleştirilir.",
+  faq: [{"q":"MSN-110 seti kaç parçadan oluşur ve neler içerir?","a":"Set 6 parçadan oluşur: Masa sümeni; Kalem seti; Kalemlik; Notluk; Dosyalık; Takvimlik."},{"q":"MSN-110 modelinin diğer sümen setlerinden farkı nedir?","a":"Dosyalık ve takvimlik MSN-110’un ayırt edici parçalarıdır. Set listesinde telefon standı veya mouse pad yer almadığından bu aksesuarlar dahil olarak sunulmaz."},{"q":"MSN-110 setinin malzemesi ve kaplaması nedir?","a":"Malzeme ve kaplama türü sipariş öncesinde netleştirilir. "},{"q":"MSN-110 setine logo uygulanabilir mi?","a":"Logo uygulanacak parça, baskı yöntemi ve baskı alanı set bileşenine ve tasarıma göre teklif aşamasında belirlenir. Baskı kapsamı seçilen parçalara göre tekliflendirilir."},{"q":"MSN-110 setinin ölçü ve renk seçenekleri nelerdir?","a":"Parça ölçüleri, renk ve güncel stok seçenekleri teklif aşamasında paylaşılır. Set içeriği ürün açıklamasındaki altı parçalık listeye göre değerlendirilir."},{"q":"MSN-110 için toplu sipariş nasıl verilir?","a":"MSN-110 için adet ve logo dosyanızı ileterek teklif alabilirsiniz. Güncel stok, baskı bedeli, teslim kapsamı ve teslim süresi sipariş öncesinde netleştirilir."}]
 },
 {
   id: "p600",
   slug: "promosyon-masa-sumeni-msn-120-6-parca-deri-mousepadli-set",
-
-  title: "Promosyon Masa Sümeni MSN-120 | 6 Parça Deri Ofis Masa Seti (Mouse Pad, Kalemlik, Notluk)",
+  title: "Promosyon Masa Sümeni MSN-120 | 6 Parça Mouse Padli Ofis Seti",
   price: 1800,
   category: "Masa Sümeni",
   image: "/products/promosyon-masa-sumeni-msn-120.jpg",
-
-  shortDesc:
-    "Promosyon masa sümeni MSN-120, 6 parçadan oluşan modern tasarımı ve mouse pad içeren yapısı ile ofisler için pratik ve şık bir promosyon setidir.",
-
-  longDesc: `
-Promosyon masa sümeni MSN-120, çalışma alanınızı düzenlemek ve verimliliği artırmak için tasarlanmış çok parçalı modern bir masaüstü promosyon setidir.
-
-6 parçadan oluşan set içeriği sayesinde masa üzerinde ihtiyaç duyulan tüm aksesuarları tek bir çözümde sunar.
-
-Geniş masa sümeni, çalışma yüzeyini korurken konforlu bir kullanım sağlar.
-
-Set içerisinde yer alan mouse pad, bilgisayar kullanımında ekstra rahatlık sunar ve günlük ofis çalışmalarını kolaylaştırır.
-
-Kalemlik, kağıtlık, küp notluk ve bardak altlığı gibi parçalar ile masa organizasyonu maksimum seviyeye çıkarılır.
-
-Şık deri kaplama yüzeyi sayesinde ofis ortamına modern ve profesyonel bir görünüm kazandırır.
-
-Hem yöneticiler hem de ofis çalışanları için ideal bir kullanım sunar.
-
-Ürün üzerine uygulanabilen logo baskı seçenekleri ile markanız sürekli görünür hale gelir ve kurumsal imajınızı güçlendirir.
-
-Dayanıklı malzeme yapısı ile uzun ömürlü kullanım sunar.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Masa Sümeni / Masa Seti
-Set İçeriği: 6 Parça
-Parçalar: Masa Sümeni, Kalemlik, Kağıtlık, Küp Notluk, Mouse Pad, Bardak Altlığı
-Kaplama: Deri
-Kullanım: Ofis / Masaüstü
-
-NOT
-
-Ürün görselleri temsili olup renk ve tasarım detaylarında farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon amaçlı toplu siparişler için uygundur.
-
-Logo baskı ve tasarım süreçleri firmanıza özel olarak uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri
-Ofis masaüstü düzenleyici setler
-Bilgisayar kullanımına uygun çalışma alanları
-Çalışan ve yönetici hediyeleri
-Fuar ve etkinlik dağıtımları
-`,
+  shortDesc: "MSN-120 altı parçalık set; masa sümeni, kalemlik, kağıtlık, küp notluk, mouse pad ve bardak altlığı içerir.",
+  longDesc: "MSN-120, mouse pad ve kağıtlık içeren altı parçalık masa sümeni setidir. Bilgisayarla çalışan masalarda fare kullanım alanı ile not ve kağıt düzenini aynı takımda değerlendirmek isteyenlere yönelik bir içerik sunar.\n\nSET İÇERİĞİ\n\n• Masa sümeni\n• Kalemlik\n• Kağıtlık\n• Küp notluk\n• Mouse pad\n• Bardak altlığı\n\nTEKNİK BİLGİLER\n\nModel: MSN-120\nÜrün Tipi: Masa sümeni / ofis masa seti\nSet: 6 parça\n\nMODELİN İÇERİK FARKI\n\nMouse pad ve kağıtlık bu modelin içerik farkını oluşturur. Set listesinde kalem seti bulunmadığından ayrıca belirtilmeyen kalemler teslim kapsamına dahil kabul edilmez.\n\nLOGO UYGULAMASI\n\nLogo uygulanacak parça, baskı yöntemi ve baskı alanı set bileşenine ve tasarıma göre teklif aşamasında belirlenir. Baskı kapsamı seçilen parçalara göre tekliflendirilir.\n\nMALZEME VE SİPARİŞ\n\nMalzeme ve kaplama türü, parça ölçüleri ve renk seçenekleri sipariş öncesinde netleştirilir. \n\nMSN-120 için adet ve logo dosyanızı ileterek teklif alabilirsiniz. Güncel stok, baskı bedeli, teslim kapsamı ve teslim süresi sipariş öncesinde netleştirilir.",
+  faq: [{"q":"MSN-120 seti kaç parçadan oluşur ve neler içerir?","a":"Set 6 parçadan oluşur: Masa sümeni; Kalemlik; Kağıtlık; Küp notluk; Mouse pad; Bardak altlığı."},{"q":"MSN-120 modelinin diğer sümen setlerinden farkı nedir?","a":"Mouse pad ve kağıtlık bu modelin içerik farkını oluşturur. Set listesinde kalem seti bulunmadığından ayrıca belirtilmeyen kalemler teslim kapsamına dahil kabul edilmez."},{"q":"MSN-120 setinin malzemesi ve kaplaması nedir?","a":"Malzeme ve kaplama türü sipariş öncesinde netleştirilir. "},{"q":"MSN-120 setine logo uygulanabilir mi?","a":"Logo uygulanacak parça, baskı yöntemi ve baskı alanı set bileşenine ve tasarıma göre teklif aşamasında belirlenir. Baskı kapsamı seçilen parçalara göre tekliflendirilir."},{"q":"MSN-120 setinin ölçü ve renk seçenekleri nelerdir?","a":"Parça ölçüleri, renk ve güncel stok seçenekleri teklif aşamasında paylaşılır. Set içeriği ürün açıklamasındaki altı parçalık listeye göre değerlendirilir."},{"q":"MSN-120 için toplu sipariş nasıl verilir?","a":"MSN-120 için adet ve logo dosyanızı ileterek teklif alabilirsiniz. Güncel stok, baskı bedeli, teslim kapsamı ve teslim süresi sipariş öncesinde netleştirilir."}]
 },
 {
   id: "p601",
