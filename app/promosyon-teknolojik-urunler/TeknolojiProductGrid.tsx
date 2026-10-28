@@ -17,73 +17,13 @@ type TeknolojiProduct = {
   price?: number;
 };
 
-const filters = [
-  "Tümü",
-  "Şarj Kabloları",
-  "Bluetooth Hoparlör",
-  "Wireless Şarj",
-  "Telefon Standı",
-  "Araç İçi",
-  "LED Logolu",
-];
+const filters = ["Tümü", "Şarj Kabloları", "Type-C Çoklayıcı", "Hoparlör", "Wireless Şarj", "Telefon Standı", "Araç İçi", "LED Logolu"];
 
-function normalize(value: string) {
-  return value
-    .toLocaleLowerCase("tr-TR")
-    .replace(/\s+/g, " ")
-    .trim();
-}
+const verifiedFeatures: Record<string, string[]> = {"promosyon-kutulu-sarj-kablo-seti-kbl-350": ["Şarj Kabloları"], "promosyon-kutulu-sarj-kablo-seti-kbl-360": ["Şarj Kabloları"], "promosyon-kutulu-sarj-kablo-seti-kbl-370": ["Şarj Kabloları"], "promosyon-coklu-sarj-kablosu-eva-kutulu-kbl-375": ["Şarj Kabloları", "LED Logolu"], "promosyon-coklu-isikli-kablo-kbl-380": ["Şarj Kabloları", "LED Logolu"], "promosyon-coklu-sarj-kablosu-kbl-390": ["Şarj Kabloları"], "promosyon-8-fonksiyonlu-type-c-cogaltici-kbl-400": ["Type-C Çoklayıcı"], "promosyon-ios-micro-usb-type-c-led-isikli-kablo-kbl-420": ["Şarj Kabloları", "LED Logolu"], "promosyon-bluetooth-speaker-spk-435": ["Hoparlör"], "promosyon-bluetooth-hoparlor-spk-440": ["Hoparlör"], "promosyon-bluetooth-hoparlor-spk-445": ["Hoparlör"], "promosyon-bluetooth-speaker-spk-450": ["Hoparlör"], "promosyon-wireless-sarj-hoparlor-spk-460": ["Hoparlör", "Wireless Şarj"], "promosyon-wireless-sarj-hoparlor-spk-470": ["Hoparlör", "Wireless Şarj", "LED Logolu"], "promosyon-arac-ici-telefon-tutucu-tt-480-magsafe-wireless-sarjli": ["Wireless Şarj", "Araç İçi", "Telefon Standı"], "promosyon-arac-ici-telefon-tutucu-tt-490-manyetik-kompakt": ["Araç İçi", "Telefon Standı"], "promosyon-telefon-standi-tt-500-katlanabilir-masaustu": ["Telefon Standı"], "promosyon-wireless-sarj-istasyonu-tt-475": ["Wireless Şarj", "Telefon Standı"], "promosyon-wireless-sarj-istasyonu-tt-476-coklu-cihaz-standli": ["Wireless Şarj", "Telefon Standı", "LED Logolu"], "promosyon-wireless-sarj-cihazi-tt-477-standli-hizli-sarj": ["Wireless Şarj", "Hoparlör", "LED Logolu"], "promosyon-arac-ici-telefon-tutucu-tt-520-15w-magsafe-wireless": ["Wireless Şarj", "Araç İçi", "Telefon Standı"], "promosyon-ayakli-aynali-telefon-standi-tt-530-katlanabilir": ["Telefon Standı"], "promosyon-teknolojik-spk-100": ["Hoparlör"], "promosyon-teknolojik-spk-110": ["Hoparlör"], "promosyon-teknolojik-spk-180": ["Hoparlör", "Wireless Şarj"], "promosyon-teknolojik-tt-160": ["Wireless Şarj", "Telefon Standı", "LED Logolu"], "promosyon-teknolojik-tt-170": ["Wireless Şarj", "Telefon Standı", "LED Logolu"], "promosyon-teknolojik-tt-180": ["Wireless Şarj", "Telefon Standı"], "promosyon-teknolojik-tt-190": ["Telefon Standı"]};
 
 function matchesFilter(product: TeknolojiProduct, filter: string) {
   if (filter === "Tümü") return true;
-
-  const text = normalize(
-    `${product.title} ${product.shortDesc} ${product.longDesc || ""}`
-  );
-
-  if (filter === "Şarj Kabloları") {
-    return (
-      text.includes("şarj kablosu") ||
-      text.includes("kablo seti") ||
-      text.includes("çoklu şarj kablosu")
-    );
-  }
-
-  if (filter === "Bluetooth Hoparlör") {
-    return (
-      text.includes("bluetooth hoparlör") ||
-      text.includes("bluetooth speaker")
-    );
-  }
-
-  if (filter === "Wireless Şarj") {
-    return (
-      text.includes("wireless şarj") ||
-      text.includes("kablosuz şarj") ||
-      text.includes("magsafe")
-    );
-  }
-
-  if (filter === "Telefon Standı") {
-    return (
-      text.includes("telefon standı") ||
-      text.includes("telefon tutucu") ||
-      text.includes("telefon sabitleyici")
-    );
-  }
-
-  if (filter === "Araç İçi") {
-    return text.includes("araç içi");
-  }
-
-  if (filter === "LED Logolu") {
-    return (
-      text.includes("led logo") ||
-      text.includes("led ışıklı")
-    );
-  }
-
-  return true;
+  return (verifiedFeatures[product.slug] || []).includes(filter);
 }
 
 export default function TeknolojiProductGrid({
@@ -135,7 +75,7 @@ export default function TeknolojiProductGrid({
         </div>
       </section>
 
-      <p className="mb-4 text-sm font-medium text-white">
+      <p className="mb-4 text-sm font-medium text-gray-700">
         {activeFilter === "Tümü"
           ? `${filteredProducts.length} ürün gösteriliyor`
           : `${activeFilter} filtresinde ${filteredProducts.length} ürün gösteriliyor`}
@@ -156,7 +96,7 @@ export default function TeknolojiProductGrid({
                   fill
                   unoptimized
                   loading="lazy"
-                  className="object-contain p-4"
+                  className="object-contain bg-white p-4"
                   sizes="(max-width: 768px) 100vw, 33vw"
                 />
               </div>
@@ -174,7 +114,7 @@ export default function TeknolojiProductGrid({
                   {product.shortDesc}
                 </p>
 
-                {product.price && (
+                {product.price != null ? (
                   <div className="mt-3">
                     <div className="text-base font-bold text-gray-900">
                       {product.price.toLocaleString("tr-TR")} TL + KDV
@@ -184,6 +124,8 @@ export default function TeknolojiProductGrid({
                       Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.
                     </div>
                   </div>
+                ) : (
+                  <p className="mt-3 text-sm font-semibold text-gray-900">Güncel fiyat için teklif alın.</p>
                 )}
 
                 <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">

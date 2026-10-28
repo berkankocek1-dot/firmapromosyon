@@ -10871,119 +10871,14 @@ Promosyon makam bayrağı siparişleri toplu üretim olarak hazırlanmakta olup 
 },
 {
   id: "p136",
-
   slug: "promosyon-kutulu-sarj-kablo-seti-kbl-350",
-
-  title:
-    "Promosyon Kutulu Şarj Kablo Seti KBL-350 | Logo Baskılı Çoklu Şarj Kablosu Seti",
-
-  price: 350,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon Kutulu Çoklu Şarj Kablo Seti KBL-100",
   image: "/products/promosyon-kutulu-sarj-kablo-seti-kbl-350.jpg",
-
-  shortDesc:
-    "Promosyon kutulu şarj kablo seti KBL-350, çoklu bağlantı seçenekleri, kompakt taşıma kutusu ve logo baskıya uygun tasarımıyla kurumsal promosyon teknolojik ürünler arasında öne çıkan kullanışlı bir aksesuardır.",
-
-  longDesc: `
-Promosyon kutulu şarj kablo seti KBL-350, mobil cihaz kullanıcılarının günlük ihtiyaçlarını karşılamak amacıyla tasarlanmış pratik ve modern teknolojik promosyon ürünlerinden biridir. Kompakt taşıma kutusu içerisinde sunulan çoklu bağlantı kabloları sayesinde farklı cihazlarla uyumlu kullanım imkanı sağlayarak hem iş hayatında hem de günlük yaşamda büyük kolaylık sunar.
-
-Teknolojik promosyon ürünleri, uzun süre kullanılan yapıları sayesinde markaların görünürlüğünü artıran etkili reklam araçları arasında yer almaktadır. Şarj kablo setleri ise sürekli ihtiyaç duyulan aksesuarlar olduğu için kullanıcı tarafından düzenli olarak kullanılmakta ve marka bilinirliğinin kalıcı şekilde desteklenmesine katkı sağlamaktadır.
-
-KBL-350 modeli, düzenli şekilde saklanabilen kutulu tasarımı sayesinde kabloların karışmasını önlerken taşıma kolaylığı da sunmaktadır. Seyahatlerde, ofis ortamlarında, toplantılarda ve günlük kullanımda rahatlıkla tercih edilebilecek kompakt yapıya sahiptir.
-
-Ürün üzerinde yer alan baskı alanına firmanızın logosu veya kurumsal marka çalışması uygulanabilmektedir. Logo baskısı sayesinde ürün, uzun süre kullanılan profesyonel bir kurumsal promosyon hediyesine dönüşmektedir.
-
-Farklı bağlantı uçlarını tek bir ürün içerisinde sunan bu model, mobil telefonlar, tabletler ve uyumlu elektronik cihazlar için pratik kullanım avantajı sağlar. Günümüzde teknolojik aksesuarların yoğun olarak kullanılması sayesinde marka tanıtımı açısından yüksek geri dönüş sağlayabilecek promosyon ürünleri arasında yer almaktadır.
-
-Promosyon kutulu şarj kablo seti; fuarlar, bayi toplantıları, lansman organizasyonları, teknoloji etkinlikleri, müşteri ziyaretleri ve kurumsal hediye çalışmaları için tercih edilen modern promosyon çözümlerinden biridir.
-
-NEDEN PROMOSYON KUTULU ŞARJ KABLO SETİ KBL-350 TERCİH EDİLMELİ?
-
-• Kompakt ve şık taşıma kutusu
-• Çoklu bağlantı kablo sistemi
-• Logo baskısına uygun yüzey
-• Günlük kullanıma uygun pratik tasarım
-• Seyahatlerde kolay taşınabilir yapı
-• Teknolojik promosyon kategorisinde modern çözüm
-• Kurumsal marka tanıtımını destekler
-• Uzun süre kullanılabilen promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Teknoloji fuarları
-• Lansman organizasyonları
-• Bayi toplantıları
-• Müşteri hediye çalışmaları
-• Şirket içi promosyon dağıtımları
-• Ofis kullanımı
-• Teknoloji firmaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji şirketleri
-• Yazılım firmaları
-• Reklam ajansları
-• Telekomünikasyon firmaları
-• Bankalar
-• Eğitim kurumları
-• Organizasyon şirketleri
-
-PROMOSYON ŞARJ KABLO SETİ FİYATLARI
-
-Promosyon şarj kablo seti fiyatları; sipariş miktarı, baskı uygulaması, ürün özellikleri ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Kurumsal logo baskısı uygulanabilmektedir.
-• Toplu siparişler için üretim yapılmaktadır.
-• Siyah ve beyaz renk seçenekleri bulunmaktadır.
-• Güncel stok durumu sipariş öncesinde teyit edilmektedir.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Şarj Kablo Seti  
-Model: KBL-350  
-Kategori: Teknolojik Ürünler  
-Kutu Tipi: Taşınabilir Koruyucu Kutu  
-Bağlantı Özelliği: Çoklu Şarj Kablo Sistemi  
-Baskı Türü: Logo Baskı  
-Renk Seçenekleri: Siyah, Beyaz  
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-
-Promosyon kutulu şarj kablo seti KBL-350, çoklu bağlantı seçenekleri, kompakt kutulu tasarımı ve logo baskıya uygun yapısıyla markanızı teknolojiyle buluşturan profesyonel promosyon ürünlerinden biridir. Kurumsal toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon kutulu şarj kablo seti KBL-350 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo veya kurumsal marka baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "Şarj kablo seti hangi cihazlarla kullanılabilir?",
-      a: "Ürün, sahip olduğu çoklu bağlantı sistemi sayesinde uyumlu mobil telefonlar, tabletler ve diğer elektronik cihazlarla kullanılabilecek şekilde tasarlanmıştır.",
-    },
-    {
-      q: "Ürün hangi renk seçenekleriyle sunulmaktadır?",
-      a: "KBL-350 modeli siyah ve beyaz renk seçenekleriyle temin edilebilmektedir. Güncel stok durumu sipariş öncesinde paylaşılmaktadır.",
-    },
-    {
-      q: "Şarj kabloları koruyucu kutu içerisinde mi sunuluyor?",
-      a: "Evet. Ürün, kabloların düzenli şekilde saklanmasını sağlayan kompakt ve koruyucu taşıma kutusu ile birlikte sunulmaktadır.",
-    },
-    {
-      q: "Kurumsal promosyon olarak kullanıma uygun mudur?",
-      a: "Evet. Teknoloji fuarları, bayi toplantıları, lansman organizasyonları ve kurumsal müşteri hediyeleri için ideal bir promosyon ürünüdür.",
-    },
-    {
-      q: "Teslim süresi nasıl belirlenmektedir?",
-      a: "Teslim süresi sipariş miktarı, baskı uygulaması ve üretim yoğunluğuna göre planlanarak teklif aşamasında bildirilmektedir.",
-    },
-  ],
+  shortDesc: "Kablo ve bağlantı parçalarını tek kutuda taşımak isteyenler için hazırlanan KBL-100, ofis çantasında veya çalışma masasında düzenli bir şarj aksesuarı sunumu sağlar.. Ürün tipi: Kutulu şarj kablo seti.",
+  longDesc: "Kablo ve bağlantı parçalarını tek kutuda taşımak isteyenler için hazırlanan KBL-100, ofis çantasında veya çalışma masasında düzenli bir şarj aksesuarı sunumu sağlar.\n\nTEKNİK ÖZELLİKLER\n\nModel: KBL-100\nÜrün tipi: Kutulu şarj kablo seti\nRenkler: Siyah, beyaz\n\nKULLANIM VE UYUMLULUK\n\nKutudaki kablo ve adaptör uçlarının cihazınızın bağlantısına uygun olması gerekir. Kesin uç listesi ve veri aktarım desteği sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nKBL-100 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon kutulu şarj kablo seti KBL-100 üzerine logo baskısı yapılabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"Şarj kablo seti hangi cihazlarla kullanılabilir?","a":"Kutudaki kablo ve adaptör uçlarının cihazınızın bağlantısına uygun olması gerekir. Kesin uç listesi ve veri aktarım desteği sipariş öncesinde netleştirilir."},{"q":"Ürün hangi renk seçenekleriyle sunulmaktadır?","a":"Listelenen renkler: Siyah, beyaz. Güncel renk ve stok uygunluğu sipariş öncesinde kontrol edilir."},{"q":"Şarj kabloları koruyucu kutu içerisinde mi sunuluyor?","a":"Ürün tipi: Kutulu şarj kablo seti; Renkler: Siyah, beyaz. Teslim kapsamı sipariş onayında netleştirilir."},{"q":"Kurumsal promosyon olarak kullanıma uygun mudur?","a":"KBL-100 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Teslim süresi nasıl belirlenmektedir?","a":"KBL-100 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 350
 },
 {
   id: "p137",
@@ -34086,583 +33981,58 @@ image: "/products/promosyon-duvar-saati-dikdortgen-cam-bombeli-ds-320.jpg",
 },
 {
   id: "p433",
-
   slug: "promosyon-kutulu-sarj-kablo-seti-kbl-360",
-
-  title:
-    "Promosyon Kutulu Şarj Kablo Seti KBL-360 | Logo Baskılı Çoklu Şarj Kablosu ve Adaptör Seti",
-
-  price: 270,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon İnce Kutulu Şarj Kablo Seti KBL-110",
   image: "/products/promosyon-kutulu-sarj-kablo-seti-kbl-360.jpg",
-
-  shortDesc:
-    "Promosyon kutulu şarj kablo seti KBL-360, çoklu bağlantı uçları, kompakt silindirik taşıma kutusu ve logo baskıya uygun tasarımıyla kurumsal promosyon teknolojik ürünler arasında öne çıkan modern bir aksesuardır.",
-
-  longDesc: `
-Promosyon kutulu şarj kablo seti KBL-360, günlük teknoloji kullanımını kolaylaştıran fonksiyonel yapısı ve modern tasarımıyla kurumsal promosyon ürünleri arasında dikkat çeken modellerden biridir. Silindirik taşıma kutusu içerisinde sunulan çok amaçlı bağlantı ekipmanları sayesinde kullanıcıların ihtiyaç duyduğu temel teknolojik aksesuarları tek bir üründe bir araya getirir.
-
-Şık ve kompakt gövdesi sayesinde cebinizde, çantanızda veya çalışma masanızda rahatlıkla taşınabilir. Düzenli saklama imkanı sunan kutu tasarımı kabloların ve adaptörlerin kaybolmasını önlerken günlük kullanımda büyük kolaylık sağlar.
-
-KBL-360 modeli; Type-C, Micro USB ve Lightning bağlantı seçenekleriyle farklı mobil cihazlarla uyumlu kullanım sunmaktadır. Ayrıca SIM kart çıkarma iğnesi ve adaptör aparatları sayesinde yalnızca bir şarj kablosu değil, çok amaçlı bir mobil aksesuar seti olarak da kullanılabilmektedir.
-
-Ürün üzerinde yer alan baskı alanına firmanızın logosu uygulanarak uzun süre kullanılan profesyonel bir kurumsal promosyon hediyesine dönüştürülebilir. Sürekli kullanılan teknolojik ürünler arasında yer alması sayesinde markanız kullanıcıların günlük yaşamında düzenli olarak görünür olur.
-
-Promosyon şarj kablo setleri özellikle teknoloji firmaları, yazılım şirketleri, telekomünikasyon sektörü, bankalar ve kurumsal işletmeler tarafından tercih edilen modern promosyon çözümleri arasında yer almaktadır. Fuarlarda, lansman organizasyonlarında ve müşteri ziyaretlerinde prestijli bir kurumsal hediye olarak değerlendirilebilir.
-
-Minimal tasarımı ve kaliteli görünümü sayesinde hem çalışanlara hem de müşterilere dağıtılabilecek kullanışlı bir promosyon ürünüdür. Fonksiyonelliği sayesinde uzun süre kullanılmaya devam ederek marka bilinirliğine katkı sağlar.
-
-NEDEN PROMOSYON KUTULU ŞARJ KABLO SETİ KBL-360 TERCİH EDİLMELİ?
-
-• Silindirik ve kompakt taşıma kutusu
-• Çoklu bağlantı uçları ile geniş uyumluluk
-• Adaptör aparatları ve SIM kart iğnesi içerir
-• Logo baskısı uygulanabilen modern tasarım
-• Günlük kullanıma uygun fonksiyonel yapı
-• Seyahatlerde kolay taşınabilir
-• Kurumsal promosyon çalışmaları için idealdir
-• Teknolojik ve prestijli promosyon çözümü sunar
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Teknoloji fuarları
-• Lansman organizasyonları
-• Şirket içi çalışan hediyeleri
-• Müşteri karşılama kitleri
-• Telekomünikasyon sektörü
-• Yazılım ve bilişim firmaları
-• Günlük mobil cihaz kullanımı
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji şirketleri
-• Yazılım firmaları
-• Reklam ajansları
-• Bankalar
-• Telekom operatörleri
-• Eğitim kurumları
-• Organizasyon şirketleri
-
-PROMOSYON ŞARJ KABLO SETİ FİYATLARI
-
-Promosyon şarj kablo seti fiyatları; sipariş miktarı, baskı uygulaması, ürün özellikleri ve üretim planlamasına göre değişiklik gösterebilir. Kurumsal toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Firma logonuza özel baskı uygulanabilmektedir.
-• Toplu kurumsal siparişlere uygundur.
-• Baskı uygulaması siparişe özel hazırlanmaktadır.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Şarj Kablo Seti  
-Model: KBL-360  
-Kategori: Teknolojik Ürünler  
-Bağlantılar: Type-C, Micro USB, Lightning  
-Ek Aksesuarlar: Adaptör Uçları, SIM Kart İğnesi  
-Kutu Tipi: Silindirik Taşıma Kutusu  
-Baskı Türü: Logo Baskı  
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-
-Promosyon kutulu şarj kablo seti KBL-360, çoklu bağlantı seçenekleri, kompakt tasarımı ve logo baskıya uygun yapısıyla markanızı teknolojiyle buluşturan modern promosyon ürünlerinden biridir. Kurumsal toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon kutulu şarj kablo seti KBL-360 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerindeki uygun baskı alanına firmanıza özel logo veya kurumsal marka baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "KBL-360 hangi bağlantı türlerini desteklemektedir?",
-      a: "Set içerisinde Type-C, Micro USB ve Lightning bağlantı seçenekleri yer almakta olup birçok mobil cihazla uyumlu kullanım sunmaktadır.",
-    },
-    {
-      q: "Ürün içerisinde hangi aksesuarlar bulunmaktadır?",
-      a: "Şarj kablosunun yanı sıra adaptör uçları, SIM kart çıkarma iğnesi ve düzenli saklama sağlayan taşıma kutusu bulunmaktadır.",
-    },
-    {
-      q: "Şarj kablo seti taşımaya uygun mudur?",
-      a: "Evet. Kompakt silindirik kutusu sayesinde çantada, cepte veya masa üzerinde rahatlıkla taşınabilir ve saklanabilir.",
-    },
-    {
-      q: "Kurumsal promosyon olarak kullanıma uygun mudur?",
-      a: "Evet. Teknoloji fuarları, lansman organizasyonları, müşteri hediyeleri ve kurumsal etkinliklerde dağıtım için ideal bir promosyon ürünüdür.",
-    },
-    {
-      q: "Teslim süresi nasıl belirlenmektedir?",
-      a: "Teslim süresi sipariş miktarı, baskı uygulaması ve üretim yoğunluğuna göre planlanarak teklif aşamasında paylaşılmaktadır.",
-    },
-  ],
+  shortDesc: "KBL-110, ince ve uzun taşıma kutusuyla diğer kutulu kablo setlerinden ayrılır. Ürün tipi: Kutulu şarj kablo seti.",
+  longDesc: "KBL-110, ince ve uzun taşıma kutusuyla diğer kutulu kablo setlerinden ayrılır. Çantada az yer kaplayan bir teknoloji hediyesi arayan kurumsal siparişler için değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: KBL-110\nÜrün tipi: Kutulu şarj kablo seti\nKutu formu: İnce, uzun gövde\nRenkler: Beyaz, siyah\n\nKULLANIM VE UYUMLULUK\n\nKablo setindeki bağlantı uçları, cihazın girişine göre değerlendirilir. Kesin uç sayısı, adaptör listesi ve şarj hızı sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nKBL-110 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon kutulu şarj kablo seti KBL-110 üzerine logo baskısı yapılabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"KBL-110 hangi bağlantı türlerini desteklemektedir?","a":"Kablo setindeki bağlantı uçları, cihazın girişine göre değerlendirilir. Kesin uç sayısı, adaptör listesi ve şarj hızı sipariş öncesinde netleştirilir."},{"q":"Ürün içerisinde hangi aksesuarlar bulunmaktadır?","a":"Ürün tipi: Kutulu şarj kablo seti; Kutu formu: İnce, uzun gövde; Renkler: Beyaz, siyah. Kutu içindeki uç ve adaptörlerin kesin listesi sipariş öncesinde netleştirilir."},{"q":"Şarj kablo seti taşımaya uygun mudur?","a":"Ürün tipi: Kutulu şarj kablo seti; Kutu formu: İnce, uzun gövde; Renkler: Beyaz, siyah. Taşıma ve kullanım biçimi modelin gövde formuna göre değerlendirilir."},{"q":"Kurumsal promosyon olarak kullanıma uygun mudur?","a":"KBL-110 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Teslim süresi nasıl belirlenmektedir?","a":"KBL-110 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 300
 },
 {
   id: "p434",
-
   slug: "promosyon-kutulu-sarj-kablo-seti-kbl-370",
-
-  title:
-    "Promosyon Kutulu Şarj Kablo Seti KBL-370 | Logo Baskılı Katlanabilir Çoklu Şarj Kablosu Seti",
-
-  price: 240,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon Kapaklı Kutulu Şarj Kablo Seti KBL-120",
   image: "/products/promosyon-kutulu-sarj-kablo-seti-kbl-370.jpg",
-
-  shortDesc:
-    "Promosyon kutulu şarj kablo seti KBL-370, katlanabilir kapaklı kutusu, çoklu bağlantı uçları ve logo baskıya uygun tasarımıyla kurumsal promosyon teknolojik ürünler arasında tercih edilen kullanışlı bir aksesuardır.",
-
-  longDesc: `
-Promosyon kutulu şarj kablo seti KBL-370, kompakt tasarımı ve çok amaçlı kullanım özellikleriyle günlük yaşamı kolaylaştıran modern teknolojik promosyon ürünlerinden biridir. Katlanabilir kapaklı kutusu sayesinde tüm bağlantı aparatlarını tek bir noktada düzenli şekilde muhafaza ederek hem kullanım kolaylığı hem de estetik bir görünüm sunmaktadır.
-
-Kart formuna yakın ince yapısı sayesinde çanta, evrak çantası, sırt çantası veya masa çekmecesinde rahatlıkla taşınabilir. Düzenli iç yerleşimi sayesinde kablo ve bağlantı uçları güvenli şekilde saklanırken ihtiyaç duyulduğunda hızlıca kullanılabilir.
-
-KBL-370 modeli; Type-C, Micro USB ve Lightning bağlantı seçenekleriyle farklı mobil cihazlarla uyumlu çalışmaktadır. USB adaptörü ile birlikte sunulan pratik yapısı sayesinde tek bir set üzerinden birçok elektronik cihazın şarj ihtiyacı karşılanabilmektedir.
-
-Kapaklı kutunun geniş dış yüzeyi, firmanıza ait logo ve kurumsal kimlik çalışmalarının uygulanabilmesi için uygun baskı alanı sunmaktadır. UV baskı veya tampon baskı teknikleriyle hazırlanan logo uygulamaları sayesinde ürün, uzun süre kullanılan profesyonel bir kurumsal promosyon hediyesine dönüşmektedir.
-
-Teknolojik promosyon ürünleri arasında yer alan KBL-370 modeli; çalışanlara dağıtılacak kurumsal hediyelerde, müşteri ziyaretlerinde, fuarlarda ve lansman organizasyonlarında markanızı prestijli şekilde temsil eden kullanışlı bir çözümdür. Günlük kullanım sıklığı sayesinde marka görünürlüğünü uzun süre destekler.
-
-Minimal çizgilere sahip modern tasarımı hem bireysel hem de kurumsal kullanıcıların beğenisini kazanırken, kompakt yapısı ürünü seyahatlerde de ideal bir mobil aksesuar haline getirmektedir.
-
-NEDEN PROMOSYON KUTULU ŞARJ KABLO SETİ KBL-370 TERCİH EDİLMELİ?
-
-• Katlanabilir kapaklı koruyucu kutu
-• Düzenli iç ekipman yerleşimi
-• Type-C, Micro USB ve Lightning desteği
-• USB adaptörü ile pratik kullanım
-• Logo baskısına uygun geniş dış yüzey
-• İnce ve kolay taşınabilir tasarım
-• Günlük kullanıma uygun teknolojik aksesuar
-• Kurumsal promosyon ve hediye çalışmaları için idealdir
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Teknoloji fuarları
-• Lansman organizasyonları
-• Çalışan motivasyon hediyeleri
-• Müşteri ziyaretleri
-• Şirket tanıtım kampanyaları
-• Seyahatlerde mobil kullanım
-• Günlük ofis kullanımı
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji şirketleri
-• Yazılım firmaları
-• Reklam ajansları
-• Bankalar ve finans kuruluşları
-• Telekomünikasyon firmaları
-• Eğitim kurumları
-• Organizasyon şirketleri
-
-PROMOSYON ŞARJ KABLO SETİ FİYATLARI
-
-Promosyon şarj kablo seti fiyatları; sipariş miktarı, baskı uygulaması, ürün özellikleri ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde avantajlı fiyat seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Kurumsal logo baskısı uygulanabilmektedir.
-• Toplu sipariş üretimine uygundur.
-• Baskı çalışmaları firmanıza özel hazırlanmaktadır.
-• Güncel stok bilgisi teklif aşamasında paylaşılmaktadır.
-• Teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Şarj Kablo Seti  
-Model: KBL-370  
-Kategori: Teknolojik Ürünler  
-Kutu Tipi: Katlanabilir Kapaklı Taşıma Kutusu  
-Bağlantılar: Type-C, Micro USB, Lightning  
-Ek Donanım: USB Adaptörü  
-Baskı Türü: UV Baskı, Tampon Baskı  
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-
-Promosyon kutulu şarj kablo seti KBL-370, katlanabilir kutu tasarımı, çoklu bağlantı seçenekleri ve logo baskıya uygun yapısıyla markanızı teknolojik çözümlerle buluşturan kaliteli promosyon ürünlerinden biridir. Kurumsal toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon kutulu şarj kablo seti KBL-370 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürünün dış yüzeyine UV baskı veya tampon baskı teknikleriyle firmanıza özel logo uygulanabilmektedir.",
-    },
-    {
-      q: "KBL-370 hangi bağlantı tiplerini desteklemektedir?",
-      a: "Set içerisinde Type-C, Micro USB ve Lightning bağlantı seçenekleri bulunmaktadır. Bu sayede birçok mobil cihazla uyumlu kullanım sunmaktadır.",
-    },
-    {
-      q: "Ürün içerisinde USB adaptörü bulunuyor mu?",
-      a: "Evet. KBL-370 modeli, çoklu bağlantı aparatlarının yanında USB adaptörü ile birlikte sunulmaktadır.",
-    },
-    {
-      q: "Katlanabilir kutunun avantajı nedir?",
-      a: "Kapaklı tasarım sayesinde tüm aksesuarlar düzenli şekilde saklanır, taşınması kolaylaşır ve parçaların kaybolma riski azalır.",
-    },
-    {
-      q: "Kurumsal promosyon olarak kullanıma uygun mudur?",
-      a: "Evet. Teknoloji fuarları, lansmanlar, müşteri hediyeleri ve çalışan promosyonlarında tercih edilen modern teknolojik promosyon ürünlerinden biridir.",
-    },
-    {
-      q: "Teslim süresi nasıl belirlenmektedir?",
-      a: "Teslim süresi sipariş miktarı, baskı uygulaması ve üretim planlamasına göre belirlenerek teklif aşamasında paylaşılmaktadır.",
-    },
-  ],
+  shortDesc: "KBL-120 modelinde kablo seti kapaklı bir kutu içinde sunulur. Ürün tipi: Kutulu şarj kablo seti.",
+  longDesc: "KBL-120 modelinde kablo seti kapaklı bir kutu içinde sunulur. Açılır kapaklı yerleşimi, küçük bağlantı parçalarını ayrı ayrı taşımak yerine aynı yerde saklamak isteyen kullanıcılara hitap eder.\n\nTEKNİK ÖZELLİKLER\n\nModel: KBL-120\nÜrün tipi: Kutulu şarj kablo seti\nKutu formu: Açılır kapaklı\nRenkler: Siyah, beyaz\n\nKULLANIM VE UYUMLULUK\n\nKutu içindeki kablo ve adaptörlerin cihazınızın girişine uygunluğu kontrol edilmelidir. Bağlantı uçları ve USB adaptörünün teslim kapsamı teklif aşamasında netleştirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nKBL-120 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon kutulu şarj kablo seti KBL-120 üzerine logo baskısı yapılabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"KBL-120 hangi bağlantı tiplerini desteklemektedir?","a":"Kutu içindeki kablo ve adaptörlerin cihazınızın girişine uygunluğu kontrol edilmelidir. Bağlantı uçları ve USB adaptörünün teslim kapsamı teklif aşamasında netleştirilir."},{"q":"Ürün içerisinde USB adaptörü bulunuyor mu?","a":"Kutu içindeki kablo ve adaptörlerin cihazınızın girişine uygunluğu kontrol edilmelidir. Bağlantı uçları ve USB adaptörünün teslim kapsamı teklif aşamasında netleştirilir."},{"q":"Katlanabilir kutunun avantajı nedir?","a":"Ürün tipi: Kutulu şarj kablo seti; Kutu formu: Açılır kapaklı; Renkler: Siyah, beyaz. Teslim kapsamı sipariş onayında netleştirilir."},{"q":"Kurumsal promosyon olarak kullanıma uygun mudur?","a":"KBL-120 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Teslim süresi nasıl belirlenmektedir?","a":"KBL-120 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 240
 },
 {
   id: "p435",
-
   slug: "promosyon-coklu-isikli-kablo-kbl-380",
-
-  title:
-    "Promosyon Çoklu Işıklı Şarj Kablosu KBL-380 | LED Logo Baskılı 3'ü 1 Arada Premium Şarj Kablosu",
-
-  price: 380,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon Taşıma Çantalı Işıklı Çoklu Kablo KBL-140",
   image: "/products/promosyon-coklu-isikli-kablo-kbl-380.jpg",
-
-  shortDesc:
-    "Promosyon çoklu ışıklı şarj kablosu KBL-380, LED logo aydınlatması, örgü kablo yapısı, 3'ü 1 arada bağlantı sistemi ve taşıma çantasıyla markanızı öne çıkaran premium teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon çoklu ışıklı şarj kablosu KBL-380, yenilikçi LED logo teknolojisi ve premium tasarımıyla kurumsal marka tanıtımlarında fark oluşturan teknolojik promosyon ürünlerinden biridir. Günlük kullanımda sık tercih edilen şarj aksesuarlarını estetik bir görünümle birleştirerek markanızın sürekli görünür kalmasına katkı sağlar.
-
-Ürünün merkez bölümünde bulunan LED aydınlatmalı logo alanı, şarj sırasında firmanızın logosunu ışıklı şekilde ön plana çıkarır. Özellikle ofislerde, toplantılarda ve düşük ışıklı ortamlarda dikkat çekici bir görünüm oluşturarak klasik promosyon ürünlerinden ayrılmasını sağlar.
-
-KBL-380 modeli; Type-C, Micro USB ve Lightning bağlantı uçlarını tek kabloda bir araya getirerek farklı mobil cihazlarla uyumlu kullanım sunmaktadır. Akıllı telefonlar, tabletler ve desteklenen diğer elektronik cihazlar için pratik bir şarj çözümü oluşturur.
-
-Dayanıklı örgü kablo yapısı bükülmelere ve günlük kullanıma karşı daha yüksek direnç gösterirken uzun ömürlü kullanım avantajı sağlar. Esnek kablo yapısı sayesinde taşınması kolaydır ve yoğun kullanım koşullarına uygun olarak tasarlanmıştır.
-
-Ürün, koruyucu fermuarlı taşıma çantası ile birlikte sunulmaktadır. Böylece kablonun düzenli şekilde muhafaza edilmesi sağlanırken kurumsal hediye sunumuna da daha profesyonel bir görünüm kazandırılır.
-
-LED logolu promosyon şarj kabloları; teknoloji şirketleri, telekomünikasyon firmaları, bankalar, yazılım şirketleri ve kurumsal işletmeler tarafından prestijli promosyon ürünleri arasında tercih edilmektedir. Modern tasarımı sayesinde fuarlar, lansman organizasyonları ve VIP müşteri hediyelerinde etkili bir tanıtım aracıdır.
-
-NEDEN PROMOSYON ÇOKLU IŞIKLI ŞARJ KABLOSU KBL-380 TERCİH EDİLMELİ?
-
-• LED aydınlatmalı logo alanı
-• 3'ü 1 arada bağlantı sistemi
-• Type-C, Micro USB ve Lightning desteği
-• Dayanıklı örgü kablo tasarımı
-• Koruyucu fermuarlı taşıma çantası
-• Premium kurumsal hediye görünümü
-• Logo baskısıyla yüksek marka görünürlüğü
-• Günlük kullanıma uygun uzun ömürlü yapı
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon kampanyaları
-• Teknoloji fuarları
-• Lansman organizasyonları
-• VIP müşteri hediyeleri
-• Şirket çalışanlarına özel hediyeler
-• Telekomünikasyon sektörü
-• Yazılım ve teknoloji firmaları
-• Günlük mobil cihaz kullanımı
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Yazılım şirketleri
-• Reklam ajansları
-• Telekom operatörleri
-• Bankalar ve finans kuruluşları
-• Organizasyon şirketleri
-• Kurumsal satın alma departmanları
-
-PROMOSYON LED IŞIKLI ŞARJ KABLOSU FİYATLARI
-
-Promosyon LED ışıklı şarj kablosu fiyatları; sipariş adedi, logo uygulaması, ürün özellikleri ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• LED logo uygulaması firmanıza özel hazırlanmaktadır.
-• Kurumsal toplu siparişler için uygundur.
-• Logo baskısı yüksek kalite standartlarında uygulanmaktadır.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Çoklu Şarj Kablosu  
-Model: KBL-380  
-Kategori: Teknolojik Ürünler  
-Bağlantılar: Type-C, Micro USB, Lightning  
-Özellik: LED Işıklı Logo Alanı  
-Kablo Yapısı: Dayanıklı Örgü Kablo  
-Taşıma: Fermuarlı Koruyucu Çanta  
-Baskı Türü: LED Logo Baskı  
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-
-Promosyon çoklu ışıklı şarj kablosu KBL-380, LED logo teknolojisi, dayanıklı örgü kablo yapısı ve çoklu bağlantı sistemiyle markanızı modern teknolojiyle buluşturan premium promosyon ürünlerinden biridir. Kurumsal toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon çoklu ışıklı şarj kablosu KBL-380 üzerinde LED logo nasıl çalışır?",
-      a: "Şarj sırasında merkez bölümde bulunan logo alanı LED ışık ile aydınlanarak markanızın dikkat çekici şekilde görünmesini sağlar.",
-    },
-    {
-      q: "KBL-380 hangi bağlantı tiplerini desteklemektedir?",
-      a: "Ürün Type-C, Micro USB ve Lightning bağlantı uçlarıyla birçok akıllı telefon, tablet ve uyumlu mobil cihazla kullanılabilmektedir.",
-    },
-    {
-      q: "Örgü kablo yapısının avantajı nedir?",
-      a: "Örgü kablo yapısı günlük kullanıma karşı daha dayanıklıdır, bükülmelere karşı direnç sağlar ve uzun ömürlü kullanım sunar.",
-    },
-    {
-      q: "Ürün taşıma çantası ile birlikte mi gönderilmektedir?",
-      a: "Evet. KBL-380 modeli koruyucu fermuarlı taşıma çantası ile birlikte sunulmaktadır ve düzenli taşımaya imkan verir.",
-    },
-    {
-      q: "Kurumsal promosyon olarak kullanıma uygun mudur?",
-      a: "Evet. Teknoloji fuarları, lansman organizasyonları, müşteri hediyeleri ve kurumsal tanıtım kampanyalarında tercih edilen premium promosyon ürünlerinden biridir.",
-    },
-    {
-      q: "Teslim süresi nasıl belirlenmektedir?",
-      a: "Teslim süresi sipariş miktarı, logo uygulaması ve üretim planlamasına göre belirlenerek teklif aşamasında paylaşılmaktadır.",
-    },
-  ],
+  shortDesc: "KBL-140, taşıma çantası ve ışıklı logo alanıyla sunulan çoklu kablo modelidir. Ürün tipi: Çoklu ışıklı kablo.",
+  longDesc: "KBL-140, taşıma çantası ve ışıklı logo alanıyla sunulan çoklu kablo modelidir. Kablonun kullanım sonrası aynı çantada saklanabilmesi, seyahat ve mobil çalışma odaklı hediye seçimlerinde ayırt edici bir özelliktir.\n\nTEKNİK ÖZELLİKLER\n\nModel: KBL-140\nÜrün tipi: Çoklu ışıklı kablo\nSunum: Taşıma çantalı\nRenk: Siyah\nLogo alanı: Işıklı gövde\n\nKULLANIM VE UYUMLULUK\n\nÇoklu kablonun uçları, cihaz girişine göre seçilmelidir. Kesin uç listesi, kablo malzemesi ve hızlı şarj desteği sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nKBL-140 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon çoklu ışıklı şarj kablosu KBL-140 üzerinde LED logo nasıl çalışır?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"KBL-140 hangi bağlantı tiplerini desteklemektedir?","a":"Çoklu kablonun uçları, cihaz girişine göre seçilmelidir. Kesin uç listesi, kablo malzemesi ve hızlı şarj desteği sipariş öncesinde netleştirilir."},{"q":"Örgü kablo yapısının avantajı nedir?","a":"KBL-140 taşıma çantalı çoklu ışıklı kablo olarak sunulur. Kablo kaplamasının malzemesi belirtilmediğinden sipariş öncesinde netleştirilir."},{"q":"Ürün taşıma çantası ile birlikte mi gönderilmektedir?","a":"Ürün tipi: Çoklu ışıklı kablo; Sunum: Taşıma çantalı; Renk: Siyah; Logo alanı: Işıklı gövde. Teslim kapsamı sipariş onayında netleştirilir."},{"q":"Kurumsal promosyon olarak kullanıma uygun mudur?","a":"KBL-140 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Teslim süresi nasıl belirlenmektedir?","a":"KBL-140 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 420
 },
 {
   id: "p436",
-
   slug: "promosyon-coklu-sarj-kablosu-kbl-390",
-
-  title:
-    "Promosyon Çoklu Şarj Kablosu KBL-390 | Logo Baskılı Anahtarlıklı 3'ü 1 Arada Şarj Kablosu",
-
-  price: 96,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon Anahtarlık Halkalı Çoklu Şarj Kablosu KBL-150",
   image: "/products/promosyon-coklu-sarj-kablosu-kbl-390.jpg",
-
-  shortDesc:
-    "Promosyon çoklu şarj kablosu KBL-390, anahtarlık tasarımı, 3'ü 1 arada bağlantı sistemi ve logo baskıya uygun gövdesiyle markanızı günlük yaşamda sürekli görünür kılan pratik teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon çoklu şarj kablosu KBL-390, kompakt anahtarlık tasarımı sayesinde kullanıcıların her an yanında taşıyabileceği kullanışlı teknolojik promosyon ürünlerinden biridir. Günlük yaşamın vazgeçilmez aksesuarlarından biri olan bu model, fonksiyonelliği ile marka tanıtımını bir araya getirerek uzun süreli reklam avantajı sunmaktadır.
-
-Anahtarlık formundaki yapısı sayesinde çanta, anahtar, sırt çantası veya araç anahtarlığına kolayca takılabilir. Böylece kullanıcı ihtiyaç duyduğu her an şarj kablosuna ulaşabilirken markanız da gün içerisinde sürekli görünür olmaya devam eder.
-
-KBL-390 modeli; Type-C, Micro USB ve Lightning bağlantı uçlarını tek bir kabloda birleştirerek farklı mobil cihazlarla uyumlu kullanım sunmaktadır. Akıllı telefonlar, tabletler, powerbank cihazları ve desteklenen diğer elektronik ürünlerle pratik şekilde kullanılabilir.
-
-Esnek kablo yapısı günlük kullanıma uygun olarak tasarlanmıştır. Hafif yapısı sayesinde cepte veya çantada fazladan yer kaplamazken sürekli taşınabilecek ideal bir teknolojik aksesuar haline gelir.
-
-Anahtarlık gövdesi üzerinde bulunan metal yüzey, firmanıza özel logo uygulamaları için uygundur. UV baskı veya lazer baskı teknikleriyle hazırlanan kurumsal logo çalışmaları sayesinde ürün, uzun süre kullanılan etkili bir promosyon aracına dönüşmektedir.
-
-Promosyon çoklu şarj kablosu KBL-390; fuarlar, seminerler, lansman organizasyonları, bayi toplantıları, müşteri ziyaretleri ve kurumsal tanıtım kampanyalarında dağıtılabilecek ekonomik ve kullanışlı promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON ÇOKLU ŞARJ KABLOSU KBL-390 TERCİH EDİLMELİ?
-
-• Anahtarlık formunda kompakt tasarım
-• 3'ü 1 arada bağlantı sistemi
-• Type-C, Micro USB ve Lightning desteği
-• Logo baskısına uygun metal gövde
-• Hafif ve kolay taşınabilir yapı
-• Günlük kullanıma uygun esnek kablo
-• Ekonomik ve etkili promosyon çözümü
-• Marka görünürlüğünü sürekli destekler
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Fuar ve organizasyonlar
-• Lansman etkinlikleri
-• Bayi toplantıları
-• Müşteri promosyon hediyeleri
-• Günlük mobil cihaz kullanımı
-• Reklam kampanyaları
-• Şirket içi dağıtımlar
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji şirketleri
-• Telekomünikasyon firmaları
-• Reklam ajansları
-• Yazılım şirketleri
-• Bankalar ve finans kuruluşları
-• Organizasyon firmaları
-• Perakende markaları
-
-PROMOSYON ÇOKLU ŞARJ KABLOSU FİYATLARI
-
-Promosyon çoklu şarj kablosu fiyatları; sipariş miktarı, baskı uygulaması, üretim detayları ve tercih edilen logo çalışmasına göre değişiklik gösterebilir. Kurumsal toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskısı firmanıza özel uygulanmaktadır.
-• Toplu kurumsal siparişlere uygundur.
-• UV baskı veya lazer baskı seçenekleri sunulmaktadır.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Çoklu Şarj Kablosu  
-Model: KBL-390  
-Kategori: Teknolojik Ürünler  
-Bağlantılar: Type-C, Micro USB, Lightning  
-Tasarım: Anahtarlıklı Taşınabilir Gövde  
-Baskı Türü: UV Baskı, Lazer Baskı  
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-
-Promosyon çoklu şarj kablosu KBL-390, anahtarlık tasarımı, çoklu bağlantı sistemi ve logo baskıya uygun yapısıyla markanızı kullanıcıların her gün yanında taşımasını sağlayan etkili teknolojik promosyon ürünlerinden biridir. Kurumsal toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon çoklu şarj kablosu KBL-390 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Anahtarlık gövdesi üzerine UV baskı veya lazer baskı teknikleriyle firmanıza özel logo uygulanabilmektedir.",
-    },
-    {
-      q: "KBL-390 hangi bağlantı tiplerini desteklemektedir?",
-      a: "Ürün Type-C, Micro USB ve Lightning bağlantı uçları sayesinde birçok akıllı telefon, tablet ve uyumlu elektronik cihazla kullanılabilmektedir.",
-    },
-    {
-      q: "Anahtarlık tasarımının avantajı nedir?",
-      a: "Anahtarlık formu sayesinde ürün sürekli kullanıcıyla birlikte taşınabilir. Bu da hem kullanım kolaylığı hem de markanızın sürekli görünürlüğü açısından önemli avantaj sağlar.",
-    },
-    {
-      q: "Ürün günlük kullanım için uygun mudur?",
-      a: "Evet. Hafif ve kompakt yapısı sayesinde çanta, cep veya anahtarlık üzerinde rahatlıkla taşınabilir ve günlük kullanıma uygundur.",
-    },
-    {
-      q: "Kurumsal promosyon olarak tercih edilebilir mi?",
-      a: "Evet. Fuarlar, lansman organizasyonları, müşteri hediyeleri ve kurumsal tanıtım kampanyalarında sık tercih edilen ekonomik ve kullanışlı promosyon ürünlerinden biridir.",
-    },
-    {
-      q: "Teslim süresi nasıl belirlenmektedir?",
-      a: "Teslim süresi sipariş adedi, baskı uygulaması ve üretim planlamasına göre belirlenerek teklif aşamasında paylaşılmaktadır.",
-    },
-  ],
+  shortDesc: "KBL-150, anahtarlık halkası sayesinde anahtarlarla birlikte taşınabilen çoklu şarj kablosudur. Ürün tipi: Çoklu şarj kablosu.",
+  longDesc: "KBL-150, anahtarlık halkası sayesinde anahtarlarla birlikte taşınabilen çoklu şarj kablosudur. Siyah, kırmızı ve lacivert seçenekleriyle kurumsal renk tercihine göre seçilebilecek kompakt bir teknoloji aksesuarıdır.\n\nTEKNİK ÖZELLİKLER\n\nModel: KBL-150\nÜrün tipi: Çoklu şarj kablosu\nTaşıma: Anahtarlık halkalı\nRenkler: Siyah, kırmızı, lacivert\n\nKULLANIM VE UYUMLULUK\n\nÇoklu kablo uçlarının cihazınızın girişine uygunluğu kontrol edilmelidir. Uç listesi, veri aktarımı ve şarj gücü teklif aşamasında netleştirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nKBL-150 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon çoklu şarj kablosu KBL-150 üzerine logo baskısı yapılabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"KBL-150 hangi bağlantı tiplerini desteklemektedir?","a":"Çoklu kablo uçlarının cihazınızın girişine uygunluğu kontrol edilmelidir. Uç listesi, veri aktarımı ve şarj gücü teklif aşamasında netleştirilir."},{"q":"Anahtarlık tasarımının avantajı nedir?","a":"Ürün tipi: Çoklu şarj kablosu; Taşıma: Anahtarlık halkalı; Renkler: Siyah, kırmızı, lacivert. Taşıma ve kullanım biçimi modelin gövde formuna göre değerlendirilir."},{"q":"Ürün günlük kullanım için uygun mudur?","a":"Ürün tipi: Çoklu şarj kablosu; Taşıma: Anahtarlık halkalı; Renkler: Siyah, kırmızı, lacivert. Çoklu kablo uçlarının cihazınızın girişine uygunluğu kontrol edilmelidir. Uç listesi, veri aktarımı ve şarj gücü teklif aşamasında netleştirilir."},{"q":"Kurumsal promosyon olarak tercih edilebilir mi?","a":"KBL-150 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Teslim süresi nasıl belirlenmektedir?","a":"KBL-150 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 120
 },
 {
   id: "p437",
-
   slug: "promosyon-8-fonksiyonlu-type-c-cogaltici-kbl-400",
-
-  title:
-    "Promosyon 8 Fonksiyonlu Type-C Hub KBL-400 | Logo Baskılı USB-C Çoklayıcı, HDMI ve Kart Okuyucu",
-
-  price: 948,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon 8 Fonksiyonlu Type-C Çoğaltıcı KBL-160",
   image: "/products/promosyon-8-fonksiyonlu-type-c-cogaltici-kbl-400.jpg",
-
-  shortDesc:
-    "Promosyon 8 fonksiyonlu Type-C Hub KBL-400, HDMI, USB 3.0, SD kart okuyucu ve Type-C bağlantılarıyla profesyonel kullanıma uygun, logo baskılı premium teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon 8 fonksiyonlu Type-C Hub KBL-400, modern dizüstü bilgisayarlar ve Type-C girişine sahip mobil cihazlar için geliştirilen çok amaçlı bağlantı çözümüdür. Birden fazla bağlantı noktasını tek gövdede bir araya getiren yapısıyla hem profesyonel kullanıcıların hem de kurumsal firmaların tercih ettiği prestijli teknolojik promosyon ürünleri arasında yer almaktadır.
-
-Yeni nesil notebook ve ultrabook modellerinde bağlantı girişlerinin azalmasıyla birlikte Type-C Hub ürünleri günlük kullanımın vazgeçilmez teknolojik aksesuarlarından biri haline gelmiştir. KBL-400 modeli; veri aktarımı, görüntü aktarımı, hafıza kartı okuma ve çevre birimlerini aynı anda kullanabilme imkanı sunarak çalışma verimliliğini artırır.
-
-Ürün üzerinde bulunan HDMI çıkışı sayesinde harici monitör, televizyon veya projeksiyon cihazlarına görüntü aktarımı yapılabilir. USB 3.0 portları yüksek hızlı veri transferi ve çevre birimlerinin bağlantısını desteklerken, SD ve Micro SD kart okuyucu girişleri fotoğraf, video ve diğer dosyaların kolayca aktarılmasına yardımcı olur.
-
-Alüminyum gövde yapısı ürüne hem modern hem de profesyonel bir görünüm kazandırmaktadır. Dayanıklı metal kasası uzun süreli kullanım sunarken hafif yapısı sayesinde dizüstü bilgisayar çantasında rahatlıkla taşınabilir.
-
-KBL-400 modeli, geniş logo baskı alanı sayesinde firmanızın kurumsal kimliğini şık bir şekilde yansıtmanıza olanak tanır. Lazer baskı uygulamasıyla hazırlanan logolar uzun ömürlü kullanım sunarken premium ürün algısını da güçlendirir.
-
-Promosyon Type-C Hub ürünleri özellikle teknoloji şirketleri, yazılım firmaları, mimarlık ofisleri, finans kuruluşları ve kurumsal işletmeler tarafından yönetici hediyesi veya VIP müşteri promosyonu olarak tercih edilmektedir. Günlük çalışma hayatında aktif olarak kullanılması sayesinde marka görünürlüğü uzun yıllar devam eder.
-
-NEDEN PROMOSYON TYPE-C HUB KBL-400 TERCİH EDİLMELİ?
-
-• 8 fonksiyonlu bağlantı çözümü
-• HDMI görüntü aktarımı desteği
-• USB 3.0 yüksek hızlı veri transferi
-• SD ve Micro SD kart okuyucu
-• Type-C bağlantılı modern cihazlarla uyumludur
-• Dayanıklı alüminyum gövde
-• Lazer logo baskısına uygun yüzey
-• Premium kurumsal hediye seçeneği
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Teknoloji firmaları
-• Yazılım şirketleri
-• Mimarlık ve tasarım ofisleri
-• Finans kuruluşları
-• Eğitim kurumları
-• Fuar ve lansman organizasyonları
-• Yönetici ve VIP müşteri hediyeleri
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Yazılım geliştiricileri
-• Grafik tasarımcılar
-• Fotoğrafçılar
-• İçerik üreticileri
-• Reklam ajansları
-• Profesyonel bilgisayar kullanıcıları
-
-PROMOSYON TYPE-C HUB FİYATLARI
-
-Promosyon Type-C Hub fiyatları; sipariş miktarı, logo uygulaması, teknik özellikler ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve teklif avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Lazer logo baskısı uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Premium kutulu sunum seçenekleri değerlendirilebilir.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Type-C Hub  
-Model: KBL-400  
-Kategori: Teknolojik Ürünler  
-Bağlantılar: Type-C, HDMI, USB 3.0, SD Kart, Micro SD Kart  
-Fonksiyon: 8 Fonksiyonlu USB-C Çoklayıcı  
-Gövde: Alüminyum Metal Kasa  
-Baskı Türü: Lazer Baskı  
-Kullanım Alanı: Profesyonel ve Kurumsal Kullanım
-
-Promosyon 8 fonksiyonlu Type-C Hub KBL-400, çoklu bağlantı desteği, dayanıklı alüminyum gövdesi ve logo baskıya uygun premium tasarımıyla kurumsal markalar için yüksek prestij sağlayan teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon Type-C Hub KBL-400 hangi cihazlarla uyumludur?",
-      a: "Type-C bağlantı girişine sahip dizüstü bilgisayarlar, tabletler ve uyumlu mobil cihazlarla kullanılabilmektedir.",
-    },
-    {
-      q: "KBL-400 üzerinde hangi bağlantılar bulunmaktadır?",
-      a: "Model üzerinde HDMI çıkışı, USB 3.0 portları, SD kart, Micro SD kart okuyucu ve Type-C bağlantıları yer almaktadır.",
-    },
-    {
-      q: "HDMI çıkışı ne amaçla kullanılmaktadır?",
-      a: "HDMI bağlantısı sayesinde harici monitör, televizyon veya projeksiyon cihazlarına görüntü aktarımı yapılabilmektedir.",
-    },
-    {
-      q: "Ürün üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Alüminyum gövde üzerine firmanıza özel lazer logo baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "Kurumsal hediye olarak tercih edilebilir mi?",
-      a: "Evet. Özellikle yönetici hediyeleri, VIP müşteri çalışmaları ve teknoloji odaklı kurumsal promosyon projeleri için ideal bir üründür.",
-    },
-    {
-      q: "Teslim süresi nasıl belirlenmektedir?",
-      a: "Teslim süresi sipariş miktarı, baskı uygulaması ve üretim planlamasına göre belirlenerek teklif aşamasında paylaşılmaktadır.",
-    },
-  ],
+  shortDesc: "KBL-160, tek Type-C bağlantısından farklı çevre birimlerine erişim ihtiyacı olan çalışma düzenleri için sunulan 8 fonksiyonlu çoğaltıcıdır. Fonksiyon sayısı: 8.",
+  longDesc: "KBL-160, tek Type-C bağlantısından farklı çevre birimlerine erişim ihtiyacı olan çalışma düzenleri için sunulan 8 fonksiyonlu çoğaltıcıdır. Şarj kablosu modellerinden farklı olarak bağlantı genişletme amacıyla değerlendirilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: KBL-160\nÜrün tipi: Type-C çoğaltıcı\nFonksiyon sayısı: 8\nAna bağlantı: Type-C\n\nKULLANIM VE UYUMLULUK\n\nBilgisayarınızın Type-C portunun desteklediği veri, görüntü ve güç işlevleri kontrol edilmelidir. Çoğaltıcının kesin port listesi, HDMI çözünürlüğü, USB sürümü ve şarj gücü sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nKBL-160 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon Type-C Hub KBL-160 hangi cihazlarla uyumludur?","a":"KBL-160 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"KBL-160 üzerinde hangi bağlantılar bulunmaktadır?","a":"Bilgisayarınızın Type-C portunun desteklediği veri, görüntü ve güç işlevleri kontrol edilmelidir. Çoğaltıcının kesin port listesi, HDMI çözünürlüğü, USB sürümü ve şarj gücü sipariş öncesinde netleştirilir."},{"q":"HDMI çıkışı ne amaçla kullanılmaktadır?","a":"HDMI, uyumlu cihazlarda harici ekrana görüntü aktarımı için kullanılır. KBL-160 modelinin kesin port listesi ve desteklediği görüntü çözünürlüğü sipariş öncesinde netleştirilir."},{"q":"Ürün üzerine logo baskısı yapılabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"Kurumsal hediye olarak tercih edilebilir mi?","a":"KBL-160 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Teslim süresi nasıl belirlenmektedir?","a":"KBL-160 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 948
 },
 {
   id: "p438",
@@ -34790,1010 +34160,91 @@ Promosyon kablo çoğaltıcı KBL-410, LED ışıklı logo alanı, üç farklı 
 },
 {
   id: "p439",
-
   slug: "promosyon-ios-micro-usb-type-c-led-isikli-kablo-kbl-420",
-
-  title:
-    "Promosyon LED Işıklı Çoklu Şarj Kablosu KBL-420 | Logo Baskılı 3'ü 1 Arada Anahtarlıklı Type-C, Lightning ve Micro USB Kablo",
-
-  price: 160,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon Beyaz LED Işıklı Çoklu Şarj Kablosu KBL-170",
   image: "/products/promosyon-ios-micro-usb-type-c-led-isikli-kablo-kbl-420.jpg",
-
-  shortDesc:
-    "Promosyon LED ışıklı çoklu şarj kablosu KBL-420, Type-C, Lightning ve Micro USB bağlantıları, anahtarlıklı taşınabilir tasarımı ve logo baskıya uygun LED aydınlatmalı yüzeyiyle günlük kullanıma uygun teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon LED ışıklı çoklu şarj kablosu KBL-420, kompakt yapısı, anahtarlıklı tasarımı ve üç farklı bağlantı desteği sayesinde günlük kullanımda yüksek fayda sağlayan teknolojik promosyon ürünlerinden biridir. Sürekli kullanılan pratik bir aksesuar olması sayesinde markanızın uzun süre görünür kalmasına katkı sağlayarak kurumsal tanıtım çalışmalarında etkili çözümler sunmaktadır.
-
-KBL-420 modeli; Type-C, Lightning (iOS) ve Micro USB bağlantı uçlarını tek gövdede buluşturan 3'ü 1 arada şarj kablosudur. Farklı marka ve model mobil cihazlarla uyumlu yapısı sayesinde kullanıcıların birden fazla kablo taşıma ihtiyacını ortadan kaldırır ve günlük kullanım kolaylığı sağlar.
-
-Ürünün merkez bölümünde yer alan yuvarlak logo alanı beyaz LED ışık ile aydınlatılarak firmanızın logosunun dikkat çekici şekilde görünmesini sağlar. Özellikle fuarlar, organizasyonlar, lansman etkinlikleri ve kurumsal promosyon çalışmalarında markanızın akılda kalıcılığını artıran modern bir tanıtım çözümüdür.
-
-Anahtarlık tasarımı sayesinde kullanıcılar ürünü anahtarlarında, çantalarında veya araçlarında kolaylıkla taşıyabilir. Sürekli yanında taşınan bir promosyon ürünü olması marka görünürlüğünü klasik promosyon ürünlerine göre çok daha uzun süre devam ettirir.
-
-Esnek ve dayanıklı kablo yapısı günlük kullanıma uygun olarak tasarlanmıştır. Güçlendirilmiş kablo yapısı bükülmelere karşı dayanıklılık sağlayarak uzun süre güvenli kullanım sunmaktadır.
-
-Minimal boyutları sayesinde cebinizde, çantanızda veya masaüstünüzde rahatlıkla taşınabilir. Hafif yapısı kullanıcı konforunu artırırken modern görünümü sayesinde premium teknolojik promosyon ürünleri arasında yer almaktadır.
-
-Promosyon LED ışıklı çoklu şarj kabloları; teknoloji firmaları, otomotiv sektörü, bankalar, telekomünikasyon şirketleri, reklam ajansları, eğitim kurumları ve kurumsal işletmeler tarafından çalışan hediyesi, fuar promosyonu, müşteri kazanım kampanyaları ve VIP kurumsal hediye projelerinde sıklıkla tercih edilmektedir.
-
-NEDEN PROMOSYON LED IŞIKLI KABLO KBL-420 TERCİH EDİLMELİ?
-
-• 3'ü 1 arada çoklu bağlantı sistemi
-• Type-C, Lightning ve Micro USB desteği
-• Beyaz LED ışıklı logo alanı
-• Anahtarlıklı taşınabilir tasarım
-• Dayanıklı ve esnek kablo yapısı
-• Günlük kullanıma uygun kompakt yapı
-• Logo baskısına uygun geniş yüzey
-• Hafif ve modern tasarım
-• Uzun süre marka görünürlüğü sağlar
-• Premium teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Fuar ve organizasyonlar
-• Teknoloji firmaları
-• Reklam kampanyaları
-• Ofis kullanımı
-• Çalışan hediyeleri
-• Müşteri promosyonları
-• Bayi toplantıları
-• Lansman etkinlikleri
-• Günlük mobil kullanım
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Reklam ajansları
-• Satış ekipleri
-• Saha personelleri
-• Mobil cihaz kullanıcıları
-• Yazılım şirketleri
-• Kurumsal satın alma ekipleri
-
-PROMOSYON LED IŞIKLI KABLO FİYATLARI
-
-Promosyon LED ışıklı çoklu şarj kablosu fiyatları; sipariş miktarı, logo uygulaması ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve teklif avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• LED ışıklı logo baskısı uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Farklı logo çalışmaları hazırlanabilmektedir.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon LED Işıklı Çoklu Şarj Kablosu
-Model: KBL-420
-Kategori: Teknolojik Ürünler
-Bağlantılar: Type-C, Lightning (iOS), Micro USB
-Bağlantı Sayısı: 3'ü 1 Arada
-Tasarım: Anahtarlıklı
-Logo Alanı: Beyaz LED Işıklı
-Kablo Yapısı: Dayanıklı ve Esnek
-Baskı Türü: Logo Baskıya Uygun
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-
-Promosyon LED ışıklı çoklu şarj kablosu KBL-420, üç farklı bağlantı seçeneği, anahtarlıklı taşınabilir yapısı ve LED aydınlatmalı logo alanıyla markaların uzun süre görünür olmasını sağlayan kullanışlı teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon KBL-420 hangi bağlantıları desteklemektedir?",
-      a: "KBL-420 modeli Type-C, Lightning (iOS) ve Micro USB bağlantı uçlarını tek üründe sunmaktadır.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürünün merkez bölümüne firmanıza özel beyaz LED ışıklı logo baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "Anahtarlıklı tasarımın avantajı nedir?",
-      a: "Anahtarlık formu sayesinde ürün kolay taşınır ve kullanıcı tarafından sürekli yanında bulundurularak marka görünürlüğünü artırır.",
-    },
-    {
-      q: "LED ışıklı logo ne zaman görünür?",
-      a: "Ürün kullanım sırasında LED aydınlatma aktif olarak logonun dikkat çekici şekilde görünmesini sağlar.",
-    },
-    {
-      q: "Kablo günlük kullanıma uygun mudur?",
-      a: "Evet. Esnek ve dayanıklı kablo yapısı yoğun günlük kullanıma uygun olarak tasarlanmıştır.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. KBL-420 modeli kurumsal promosyon projeleri, fuarlar, etkinlikler ve toplu firma siparişleri için uygundur.",
-    },
-  ],
+  shortDesc: "KBL-170, iOS, Micro USB ve Type-C uçlarını beyaz LED ışıklı baskı alanıyla bir araya getirir. Bağlantılar: iOS, Micro USB, Type-C.",
+  longDesc: "KBL-170, iOS, Micro USB ve Type-C uçlarını beyaz LED ışıklı baskı alanıyla bir araya getirir. Anahtarlık halkalı gövdesi, kabloyu gün içinde yanında taşıyan kullanıcılar için düşünülmüştür.\n\nTEKNİK ÖZELLİKLER\n\nModel: KBL-170\nÜrün tipi: Çoklu şarj kablosu\nBağlantılar: iOS, Micro USB, Type-C\nLogo alanı: Beyaz LED ışıklı baskı\nTaşıma: Anahtarlık halkalı\n\nKULLANIM VE UYUMLULUK\n\niOS, Micro USB ve Type-C bağlantıları belirtilmiştir. Uç uyumluluğu cihaz girişine bağlıdır; veri aktarımı ve hızlı şarj protokolü ayrıca değerlendirilir.\n\nLOGO UYGULAMASI\n\nBeyaz LED ışıklı baskı alanı bulunmaktadır. Logo uygulamasının alanı ve yöntemi tasarıma göre netleştirilir.\n\nSİPARİŞ\n\nKBL-170 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon KBL-170 hangi bağlantıları desteklemektedir?","a":"KBL-170 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Beyaz LED ışıklı baskı alanı bulunmaktadır. Logo uygulamasının alanı ve yöntemi tasarıma göre netleştirilir."},{"q":"Anahtarlıklı tasarımın avantajı nedir?","a":"Ürün tipi: Çoklu şarj kablosu; Bağlantılar: iOS, Micro USB, Type-C; Logo alanı: Beyaz LED ışıklı baskı; Taşıma: Anahtarlık halkalı. Taşıma ve kullanım biçimi modelin gövde formuna göre değerlendirilir."},{"q":"LED ışıklı logo ne zaman görünür?","a":"Beyaz LED ışıklı baskı alanı bulunmaktadır. Logo uygulamasının alanı ve yöntemi tasarıma göre netleştirilir."},{"q":"Kablo günlük kullanıma uygun mudur?","a":"Ürün tipi: Çoklu şarj kablosu; Bağlantılar: iOS, Micro USB, Type-C; Logo alanı: Beyaz LED ışıklı baskı; Taşıma: Anahtarlık halkalı. iOS, Micro USB ve Type-C bağlantıları belirtilmiştir. Uç uyumluluğu cihaz girişine bağlıdır; veri aktarımı ve hızlı şarj protokolü ayrıca değerlendirilir."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"KBL-170 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 180
 },
 {
   id: "p440",
-
   slug: "promosyon-bluetooth-speaker-spk-435",
-
-  title:
-    "Promosyon Bluetooth Hoparlör SPK-435 | Bluetooth 5.3 Taşınabilir Speaker, Lazer Logo Baskılı",
-
-  price: 430,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon Bluetooth 5.3 Taşıma Saplı Hoparlör SPK-120",
   image: "/products/promosyon-bluetooth-speaker-spk-435.jpg",
-
-  shortDesc:
-    "Promosyon Bluetooth hoparlör SPK-435, Bluetooth 5.3 bağlantısı, taşınabilir askılı tasarımı, TF kart, USB, AUX ve FM radyo desteği ile logo baskıya uygun premium teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon Bluetooth hoparlör SPK-435, kompakt tasarımı, güçlü ses performansı ve çoklu medya desteği sayesinde kurumsal firmaların tercih ettiği teknolojik promosyon ürünleri arasında yer almaktadır. Günlük yaşamda, ofiste, seyahatte ve açık alanlarda rahatlıkla kullanılabilen yapısıyla markanızın uzun süre görünür kalmasını sağlayan prestijli promosyon çözümlerinden biridir.
-
-Bluetooth 5.3 teknolojisi sayesinde akıllı telefonlar, tabletler ve Bluetooth destekli diğer cihazlarla hızlı ve stabil bağlantı kurar. Kablosuz kullanım kolaylığı sunarak kullanıcı deneyimini artırırken kesintisiz müzik dinleme keyfi sağlar.
-
-SPK-435 modeli yalnızca Bluetooth bağlantısıyla sınırlı değildir. TF kart, USB bellek, AUX girişi ve FM radyo desteği sayesinde farklı müzik kaynaklarından ses oynatabilir. Bu çok yönlü kullanım özelliği ürünü günlük hayatın vazgeçilmez teknolojik aksesuarlarından biri haline getirmektedir.
-
-Ürünün üst bölümünde yer alan kontrol tuşları sayesinde ses seviyesi, parça geçişleri ve oynatma işlemleri kolayca yönetilebilir. Kullanıcı dostu tasarımı sayesinde ek bir uygulamaya ihtiyaç duymadan pratik kullanım sunmaktadır.
-
-Dayanıklı taşıma askısı sayesinde hoparlör kolayca taşınabilir. Ofiste, evde, piknikte, seyahatte veya açık hava etkinliklerinde rahatlıkla kullanılabilir. Hafif ve kompakt yapısı çantalarda minimum yer kaplayarak taşıma kolaylığı sağlar.
-
-Minimal ve modern tasarımı kurumsal promosyon projelerinde şık bir görünüm sunarken lazer logo baskısına uygun yüzeyi sayesinde firmanızın logosu kalıcı ve profesyonel şekilde uygulanabilmektedir. Sürekli kullanılan bir ürün olması nedeniyle marka bilinirliğinin uzun süre desteklenmesine katkı sağlar.
-
-Promosyon Bluetooth hoparlör modelleri; teknoloji firmaları, otomotiv sektörü, bankalar, telekomünikasyon şirketleri, reklam ajansları, eğitim kurumları ve kurumsal işletmeler tarafından çalışan hediyesi, VIP müşteri hediyesi, bayi organizasyonları, lansmanlar ve fuar etkinliklerinde sıklıkla tercih edilmektedir.
-
-NEDEN PROMOSYON BLUETOOTH HOPARLÖR SPK-435 TERCİH EDİLMELİ?
-
-• Bluetooth 5.3 teknolojisi
-• Güçlü ve kaliteli ses performansı
-• TF kart desteği
-• USB bellek desteği
-• AUX bağlantısı
-• FM radyo özelliği
-• Taşınabilir askılı tasarım
-• Lazer logo baskısına uygun yüzey
-• Kompakt ve modern görünüm
-• Günlük kullanıma uygun teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Teknoloji firmaları
-• Fuar ve organizasyonlar
-• Lansman etkinlikleri
-• Ofis kullanımı
-• Ev kullanımı
-• Açık hava etkinlikleri
-• Seyahatler
-• Çalışan hediyeleri
-• VIP müşteri promosyonları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Reklam ajansları
-• Satış ekipleri
-• Saha personelleri
-• Müzik dinlemeyi seven kullanıcılar
-• Eğitim kurumları
-• Kurumsal satın alma ekipleri
-
-PROMOSYON BLUETOOTH HOPARLÖR FİYATLARI
-
-Promosyon Bluetooth hoparlör fiyatları; sipariş miktarı, logo uygulaması ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ürün üzerine lazer logo baskısı uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu alımlarda özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Bluetooth Hoparlör
-Model: SPK-435
-Kategori: Teknolojik Ürünler
-Bağlantı Teknolojisi: Bluetooth 5.3
-Desteklenen Medyalar: Bluetooth, TF Kart, USB, AUX, FM Radyo
-Tasarım: Taşınabilir Askılı
-Kontrol: Fiziksel Kontrol Tuşları
-Baskı Türü: Lazer Logo Baskı
-Kutu İçeriği: Şarj Kablosu
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-
-Promosyon Bluetooth hoparlör SPK-435, Bluetooth 5.3 bağlantısı, çoklu medya desteği, taşınabilir askılı tasarımı ve lazer logo baskısına uygun gövdesiyle markaların uzun süre görünür olmasını sağlayan premium teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon Bluetooth hoparlör SPK-435 hangi bağlantıları desteklemektedir?",
-      a: "SPK-435 modeli Bluetooth 5.3 bağlantısının yanı sıra TF kart, USB bellek, AUX girişi ve FM radyo desteği sunmaktadır.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürünün gövdesine firmanıza özel lazer logo baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "Bluetooth 5.3 teknolojisinin avantajı nedir?",
-      a: "Bluetooth 5.3 daha stabil bağlantı, hızlı eşleşme ve günlük kullanımda güvenilir kablosuz ses aktarımı sağlar.",
-    },
-    {
-      q: "Hoparlör taşımaya uygun mudur?",
-      a: "Evet. Üzerindeki taşıma askısı sayesinde ürün kolayca taşınabilir ve seyahatlerde rahatlıkla kullanılabilir.",
-    },
-    {
-      q: "SPK-435 kurumsal promosyon olarak tercih edilebilir mi?",
-      a: "Evet. Özellikle çalışan hediyeleri, VIP müşteri promosyonları, fuarlar ve kurumsal etkinliklerde tercih edilen premium teknolojik promosyon ürünlerinden biridir.",
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. SPK-435 modeli kurumsal toplu siparişlere uygundur ve sipariş miktarına göre özel fiyat teklifleri sunulmaktadır.",
-    },
-  ],
+  shortDesc: "SPK-120, taşıma sapı ve Bluetooth 5.3 bağlantısıyla farklı mekânlara götürülebilen bir hoparlördür. Bluetooth sürümü: 5.3.",
+  longDesc: "SPK-120, taşıma sapı ve Bluetooth 5.3 bağlantısıyla farklı mekânlara götürülebilen bir hoparlördür. TF, FM, USB ve AUX destekleri, yalnızca Bluetooth bağlantısıyla sınırlı kalmak istemeyen kullanıcılara alternatifler sunar.\n\nTEKNİK ÖZELLİKLER\n\nModel: SPK-120\nÜrün tipi: Bluetooth hoparlör\nBluetooth sürümü: 5.3\nDestekler: TF, FM, USB, BT, AUX\nBatarya: 800 mAh\nBaskı: Lazer kazıma\nKutu içeriği: Hoparlör ve şarj kablosu\n\nKULLANIM VE UYUMLULUK\n\nBluetooth 5.3 bağlantısı ve TF, FM, USB, AUX destekleri belirtilmiştir. Telefonun Bluetooth bağlantısı ve kullanılacak ses kaynağıyla uyumluluk kontrol edilmelidir.\n\nLOGO UYGULAMASI\n\nLazer kazıma uygulanabilir. Logo ölçüsü ve yerleşimi sipariş tasarımıyla birlikte değerlendirilir.\n\nSİPARİŞ\n\nSPK-120 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon Bluetooth hoparlör SPK-120 hangi bağlantıları desteklemektedir?","a":"SPK-120 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Lazer kazıma uygulanabilir. Logo ölçüsü ve yerleşimi sipariş tasarımıyla birlikte değerlendirilir."},{"q":"Bluetooth 5.3 teknolojisinin avantajı nedir?","a":"SPK-120 modelinde Bluetooth 5.3 sürümü belirtilmiştir. Kullanılacak cihazın bağlantı uyumu kontrol edilmelidir."},{"q":"Hoparlör taşımaya uygun mudur?","a":"Ürün tipi: Bluetooth hoparlör; Bluetooth sürümü: 5.3; Destekler: TF, FM, USB, BT, AUX; Batarya: 800 mAh; Baskı: Lazer kazıma; Kutu içeriği: Hoparlör ve şarj kablosu. Taşıma ve kullanım biçimi modelin gövde formuna göre değerlendirilir."},{"q":"SPK-120 kurumsal promosyon olarak tercih edilebilir mi?","a":"SPK-120 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Toplu sipariş verilebilir mi?","a":"SPK-120 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 484
 },
 {
   id: "p441",
-
   slug: "promosyon-bluetooth-hoparlor-spk-440",
-
-  title:
-    "Promosyon Bluetooth Hoparlör SPK-440 | Logo Baskılı Taşınabilir Bluetooth Speaker, Kompakt Tasarım",
-
-  price: 410,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon Kompakt Siyah Bluetooth Hoparlör SPK-130",
   image: "/products/promosyon-bluetooth-hoparlor-spk-440.jpg",
-
-  shortDesc:
-    "Promosyon Bluetooth hoparlör SPK-440, kompakt ve taşınabilir tasarımı, güçlü ses performansı ve logo baskıya uygun yüzeyi ile kurumsal tanıtımlar için ideal teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon Bluetooth hoparlör SPK-440, kompakt boyutları, modern görünümü ve güçlü ses performansı sayesinde kurumsal promosyon çalışmalarında sık tercih edilen teknolojik ürünlerden biridir. Günlük yaşamda kolay taşınabilmesi ve pratik kullanımı sayesinde markanızın uzun süre görünür olmasına katkı sağlayan prestijli promosyon çözümleri arasında yer almaktadır.
-
-Bluetooth bağlantısı sayesinde akıllı telefonlar, tabletler ve Bluetooth destekli diğer cihazlarla hızlı şekilde eşleşebilir. Kablosuz kullanım özelliği sayesinde kullanıcılar istedikleri ortamda rahatlıkla müzik dinleyebilir ve ürünün sunduğu kullanım kolaylığından faydalanabilir.
-
-Minimal tasarımı masaüstünde, ofiste, evde veya seyahatlerde rahat kullanım sunarken kompakt gövdesi sayesinde çanta içerisinde kolaylıkla taşınabilir. Hafif yapısı kullanıcı konforunu artırırken şık görünümü sayesinde modern teknolojik aksesuarlar arasında yer almaktadır.
-
-Ürünün ön yüzeyi firmanıza özel logo uygulamaları için uygun olarak tasarlanmıştır. Lazer kazıma veya UV baskı seçenekleriyle uygulanabilen kurumsal logo çalışmaları uzun süre kalıcılığını koruyarak markanızın profesyonel şekilde temsil edilmesine katkı sağlar.
-
-SPK-440 modeli günlük kullanım alışkanlıklarının bir parçası haline gelen taşınabilir hoparlörler arasında yer aldığı için promosyon amacıyla dağıtıldığında uzun süre reklam değeri oluşturmaktadır. Kullanıcıların ofislerinde, evlerinde veya seyahatlerinde ürünü sürekli kullanmaları marka bilinirliğinin doğal şekilde artmasına yardımcı olur.
-
-Promosyon Bluetooth hoparlör modelleri; teknoloji firmaları, otomotiv sektörü, bankalar, reklam ajansları, telekomünikasyon şirketleri, eğitim kurumları ve kurumsal işletmeler tarafından çalışan hediyesi, müşteri promosyonu, fuar organizasyonları, bayi toplantıları ve lansman etkinliklerinde sıklıkla tercih edilmektedir.
-
-NEDEN PROMOSYON BLUETOOTH HOPARLÖR SPK-440 TERCİH EDİLMELİ?
-
-• Kompakt ve taşınabilir tasarım
-• Bluetooth bağlantı desteği
-• Güçlü ses performansı
-• Kablosuz kullanım kolaylığı
-• Modern ve şık görünüm
-• Logo baskıya uygun yüzey
-• Dayanıklı gövde yapısı
-• Günlük kullanıma uygun tasarım
-• Uzun süre marka görünürlüğü sağlar
-• Premium teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Teknoloji firmaları
-• Fuar ve organizasyonlar
-• Lansman etkinlikleri
-• Ofis kullanımı
-• Ev kullanımı
-• Seyahatler
-• Çalışan hediyeleri
-• Müşteri promosyonları
-• Reklam kampanyaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Reklam ajansları
-• Satış ekipleri
-• Saha personelleri
-• Kurumsal satın alma ekipleri
-• Mobil cihaz kullanıcıları
-• Günlük müzik dinlemeyi seven kullanıcılar
-
-PROMOSYON BLUETOOTH HOPARLÖR FİYATLARI
-
-Promosyon Bluetooth hoparlör fiyatları; sipariş adedi, logo uygulaması ve üretim planlamasına göre değişiklik gösterebilir. Kurumsal toplu siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ürün üzerine lazer kazıma veya UV logo baskısı uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu alımlarda özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Bluetooth Hoparlör
-Model: SPK-440
-Kategori: Teknolojik Ürünler
-Bağlantı Teknolojisi: Bluetooth
-Tasarım: Kompakt ve Taşınabilir
-Kullanım: Kablosuz
-Baskı Türü: Lazer Kazıma ve UV Logo Baskı
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-
-Promosyon Bluetooth hoparlör SPK-440, kompakt tasarımı, kablosuz Bluetooth bağlantısı, güçlü ses performansı ve logo baskıya uygun modern gövdesiyle markaların kurumsal tanıtımlarında uzun süre değer oluşturan premium teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon Bluetooth hoparlör SPK-440 hangi cihazlarla kullanılabilir?",
-      a: "Bluetooth destekleyen akıllı telefonlar, tabletler ve uyumlu diğer cihazlarla kolayca eşleştirilerek kullanılabilir.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. SPK-440 modeli üzerine firmanıza özel lazer kazıma veya UV logo baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "Hoparlör taşımaya uygun mudur?",
-      a: "Evet. Kompakt ve hafif tasarımı sayesinde çanta içerisinde kolayca taşınabilir ve günlük kullanıma uygundur.",
-    },
-    {
-      q: "SPK-440 kurumsal promosyon olarak tercih edilir mi?",
-      a: "Evet. Çalışan hediyeleri, VIP müşteri çalışmaları, fuarlar ve kurumsal etkinliklerde sık tercih edilen teknolojik promosyon ürünlerinden biridir.",
-    },
-    {
-      q: "Bluetooth bağlantısı kullanım kolaylığı sağlar mı?",
-      a: "Evet. Kablosuz bağlantı sayesinde uyumlu cihazlarla hızlı eşleşme yaparak pratik kullanım sunmaktadır.",
-    },
-    {
-      q: "Toplu sipariş verilebilir mi?",
-      a: "Evet. SPK-440 modeli kurumsal toplu siparişlere uygundur ve sipariş miktarına göre özel fiyat teklifleri sunulmaktadır.",
-    },
-  ],
+  shortDesc: "SPK-130, siyah renkli kompakt gövdesiyle sade bir taşınabilir hoparlör isteyenlere hitap eder. Ürün tipi: Bluetooth hoparlör.",
+  longDesc: "SPK-130, siyah renkli kompakt gövdesiyle sade bir taşınabilir hoparlör isteyenlere hitap eder. Küçük teknoloji hediyeleri arasında renk ve form açısından yalın bir sunum seçeneğidir.\n\nTEKNİK ÖZELLİKLER\n\nModel: SPK-130\nÜrün tipi: Bluetooth hoparlör\nRenk: Siyah\nGövde: Kompakt tasarım\n\nKULLANIM VE UYUMLULUK\n\nBluetooth bağlantılı ses kaynağıyla kullanım için cihaz modeli kontrol edilmelidir. Bluetooth sürümü, ses gücü, batarya kapasitesi, çalma süresi ve şarj girişi sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nSPK-130 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon Bluetooth hoparlör SPK-130 hangi cihazlarla kullanılabilir?","a":"SPK-130 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"Hoparlör taşımaya uygun mudur?","a":"Ürün tipi: Bluetooth hoparlör; Renk: Siyah; Gövde: Kompakt tasarım. Taşıma ve kullanım biçimi modelin gövde formuna göre değerlendirilir."},{"q":"SPK-130 kurumsal promosyon olarak tercih edilir mi?","a":"SPK-130 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Bluetooth bağlantısı kullanım kolaylığı sağlar mı?","a":"Bluetooth bağlantılı ses kaynağıyla kullanım için cihaz modeli kontrol edilmelidir. Bluetooth sürümü, ses gücü, batarya kapasitesi, çalma süresi ve şarj girişi sipariş öncesinde netleştirilir."},{"q":"Toplu sipariş verilebilir mi?","a":"SPK-130 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 480
 },
 {
   id: "p442",
-
   slug: "promosyon-bluetooth-hoparlor-spk-445",
-
-  title:
-    "Promosyon Bluetooth Hoparlör SPK-445 | Mini 3W Taşınabilir Bluetooth Speaker, Logo Baskılı",
-
-  price: 840,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon 3 W Mini Bluetooth Hoparlör SPK-140",
   image: "/products/promosyon-bluetooth-hoparlor-spk-445.jpg",
-
-  shortDesc:
-    "Promosyon Bluetooth hoparlör SPK-445, 3W ses gücü, 10 metre Bluetooth çekim mesafesi, kompakt tasarımı ve logo baskıya uygun gövdesiyle günlük kullanıma uygun premium teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon Bluetooth hoparlör SPK-445, kompakt boyutları, taşınabilir yapısı ve kaliteli ses performansı sayesinde kurumsal promosyon çalışmalarında öne çıkan teknolojik ürünlerden biridir. Günlük yaşamda rahatlıkla kullanılabilen tasarımı sayesinde markanızın uzun süre görünür olmasına katkı sağlayan modern promosyon çözümleri arasında yer almaktadır.
-
-Sadece 4 x 4 x 4,5 cm ölçülerindeki kompakt gövdesi sayesinde çanta, masa, araç içi veya cepte kolaylıkla taşınabilir. Hafif yapısı kullanıcıya pratik kullanım sunarken minimal tasarımı sayesinde her ortamda şık bir görünüm oluşturur.
-
-3W ses çıkışı günlük kullanım için dengeli ve kaliteli bir ses deneyimi sunmaktadır. Ofis ortamında, evde, seyahat sırasında veya açık alanlarda müzik dinlemek isteyen kullanıcılar için ideal kullanım sağlamaktadır.
-
-Bluetooth bağlantısı sayesinde akıllı telefonlar, tabletler ve Bluetooth destekli diğer cihazlarla hızlı şekilde eşleşebilir. Yaklaşık 10 metreye kadar kablosuz kullanım mesafesi sunarak hareket özgürlüğü sağlar.
-
-Ürün üzerinde bulunan taşıma askısı sayesinde hoparlör kolayca taşınabilir ve kullanıcıların ürünü sürekli yanında bulundurmasına imkan tanır. Bu özellik, promosyon ürününün uzun süre kullanılmasını sağlayarak marka bilinirliğinin doğal şekilde artmasına katkıda bulunur.
-
-Modern ve sade tasarımı sayesinde kurumsal promosyon projelerinde şık bir görünüm sunan SPK-445 modeli, logo baskıya uygun yüzeyi ile firmanızın kurumsal kimliğini profesyonel şekilde yansıtmanıza yardımcı olur. Lazer kazıma veya UV baskı uygulamaları ile kalıcı logo çalışmaları gerçekleştirilebilmektedir.
-
-Promosyon Bluetooth hoparlör modelleri; teknoloji firmaları, reklam ajansları, bankalar, otomotiv sektörü, eğitim kurumları ve kurumsal işletmeler tarafından çalışan hediyesi, müşteri promosyonu, fuar organizasyonları, lansman etkinlikleri ve bayi toplantılarında sıklıkla tercih edilmektedir.
-
-NEDEN PROMOSYON BLUETOOTH HOPARLÖR SPK-445 TERCİH EDİLMELİ?
-
-• Kompakt ve taşınabilir tasarım
-• 3W ses çıkış gücü
-• Bluetooth kablosuz bağlantı
-• 10 metreye kadar kullanım mesafesi
-• Taşıma askısı
-• Günlük kullanıma uygun yapı
-• Logo baskıya uygun yüzey
-• Modern ve şık görünüm
-• Uzun süre marka görünürlüğü sağlar
-• Premium teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Fuar ve organizasyonlar
-• Teknoloji firmaları
-• Reklam kampanyaları
-• Ofis kullanımı
-• Ev kullanımı
-• Seyahatler
-• Çalışan hediyeleri
-• Müşteri promosyonları
-• Lansman etkinlikleri
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Reklam ajansları
-• Satış ekipleri
-• Saha personelleri
-• Kurumsal satın alma ekipleri
-• Mobil cihaz kullanıcıları
-• Günlük müzik dinlemeyi seven kullanıcılar
-
-PROMOSYON BLUETOOTH HOPARLÖR FİYATLARI
-
-Promosyon Bluetooth hoparlör fiyatları; sipariş adedi, logo uygulaması ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ürün üzerine lazer kazıma veya UV logo baskısı uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu alımlarda özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Bluetooth Hoparlör
-Model: SPK-445
-Kategori: Teknolojik Ürünler
-Bağlantı Teknolojisi: Bluetooth
-Ses Çıkış Gücü: 3W
-Bluetooth Çekim Mesafesi: 10 Metre
-Ölçüler: 4 x 4 x 4,5 cm
-Tasarım: Mini ve Taşınabilir
-Taşıma Özelliği: Taşıma Askısı
-Baskı Türü: Lazer Kazıma ve UV Logo Baskı
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-
-Promosyon Bluetooth hoparlör SPK-445, kompakt boyutları, 3W ses gücü, 10 metre Bluetooth bağlantı mesafesi ve logo baskıya uygun modern tasarımıyla markaların kurumsal tanıtımlarında uzun süre değer oluşturan teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon Bluetooth hoparlör SPK-445 hangi cihazlarla uyumludur?",
-      a: "SPK-445 modeli Bluetooth destekleyen akıllı telefonlar, tabletler ve diğer uyumlu cihazlarla kolayca kullanılabilir.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürünün gövdesine firmanıza özel lazer kazıma veya UV logo baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "Bluetooth çekim mesafesi ne kadardır?",
-      a: "SPK-445 modeli yaklaşık 10 metreye kadar Bluetooth bağlantı mesafesi sunmaktadır.",
-    },
-    {
-      q: "3W ses gücü günlük kullanım için yeterli midir?",
-      a: "Evet. 3W ses çıkışı ofis, ev, seyahat ve kişisel kullanım için dengeli ve kaliteli bir ses performansı sunmaktadır.",
-    },
-    {
-      q: "Taşıma askısı ne avantaj sağlar?",
-      a: "Taşıma askısı sayesinde hoparlör kolayca taşınabilir ve kullanıcı tarafından sürekli yanında bulundurulabilir.",
-    },
-    {
-      q: "Toplu kurumsal sipariş verilebilir mi?",
-      a: "Evet. SPK-445 modeli kurumsal promosyon projeleri, fuarlar ve toplu firma siparişleri için uygundur. Sipariş miktarına göre özel fiyat teklifleri sunulmaktadır.",
-    },
-  ],
+  shortDesc: "SPK-140, 4 x 4 x 4,5 cm ölçüsüyle serinin küçük hoparlörlerinden biridir. Ses gücü: 3 W.",
+  longDesc: "SPK-140, 4 x 4 x 4,5 cm ölçüsüyle serinin küçük hoparlörlerinden biridir. 3 W ses gücü ve belirtilen 10 metre bağlantı mesafesi, kompakt boyutta bir ses aksesuarı arayanların karşılaştırabileceği temel özellikleridir.\n\nTEKNİK ÖZELLİKLER\n\nModel: SPK-140\nÜrün tipi: Bluetooth hoparlör\nSes gücü: 3 W\nBelirtilen bağlantı mesafesi: 10 m\nÖlçü: 4 x 4 x 4,5 cm\nRenkler: Siyah, gümüş\n\nKULLANIM VE UYUMLULUK\n\nBluetooth bağlantılı ses kaynağıyla kullanılabilir. Belirtilen 10 metre mesafe ortam ve engellere göre değişebilir; ses seviyesi tercihi kullanım alanına göre değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nSPK-140 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon Bluetooth hoparlör SPK-140 hangi cihazlarla uyumludur?","a":"SPK-140 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"Bluetooth çekim mesafesi ne kadardır?","a":"SPK-140 için 10 metre bağlantı mesafesi belirtilmiştir. Engel ve ortam koşulları mesafeyi etkileyebilir."},{"q":"3W ses gücü günlük kullanım için yeterli midir?","a":"SPK-140 için belirtilen ses gücü 3 W, ölçü 4 x 4 x 4,5 cm’dir. Yeterli ses seviyesi beklentisi kullanım alanına göre değerlendirilir."},{"q":"Taşıma askısı ne avantaj sağlar?","a":"Ürün tipi: Bluetooth hoparlör; Ses gücü: 3 W; Belirtilen bağlantı mesafesi: 10 m; Ölçü: 4 x 4 x 4,5 cm; Renkler: Siyah, gümüş. Taşıma ve kullanım biçimi modelin gövde formuna göre değerlendirilir."},{"q":"Toplu kurumsal sipariş verilebilir mi?","a":"SPK-140 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 1050
 },
 {
   id: "p443",
-
   slug: "promosyon-bluetooth-speaker-spk-450",
-
-  title:
-    "Promosyon Bluetooth Hoparlör SPK-450 | Bluetooth 5.0 Taşınabilir Speaker, Lazer ve UV Logo Baskılı",
-
-  price: 680,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon 400 mAh Bluetooth 5.0 Hoparlör SPK-150",
   image: "/products/promosyon-bluetooth-speaker-spk-450.jpg",
-
-  shortDesc:
-    "Promosyon Bluetooth hoparlör SPK-450, Bluetooth 5.0 bağlantısı, 400 mAh bataryası, yaklaşık 3 saat çalma süresi ve lazer veya UV logo baskı seçenekleriyle kurumsal kullanıma uygun premium teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon Bluetooth hoparlör SPK-450, modern tasarımı, Bluetooth 5.0 bağlantı teknolojisi ve şık görünümüyle kurumsal firmalar için prestijli teknolojik promosyon ürünleri arasında yer almaktadır. Günlük kullanımda tercih edilen kompakt yapısı sayesinde markanızın uzun süre görünür kalmasına katkı sağlayan kullanışlı promosyon çözümlerinden biridir.
-
-Bluetooth 5.0 teknolojisi sayesinde akıllı telefonlar, tabletler ve Bluetooth destekli diğer cihazlarla hızlı ve stabil bağlantı kurar. Kablosuz kullanım özelliği kullanıcıya hareket özgürlüğü sunarken müzik dinleme deneyimini daha konforlu hale getirir.
-
-400 mAh batarya kapasitesi ile yaklaşık 3 saat kesintisiz müzik dinleme imkanı sunmaktadır. Günlük kullanım, ofis ortamı, kısa toplantılar, seyahatler ve kişisel kullanım için ideal performans sağlamaktadır.
-
-Handsfree (eller serbest) özelliği sayesinde uyumlu mobil cihazlardan gelen telefon görüşmeleri hoparlör üzerinden gerçekleştirilebilir. Bu fonksiyon ürünü yalnızca müzik dinlemek için değil, günlük iletişim ihtiyaçları için de kullanışlı hale getirmektedir.
-
-Dayanıklı ABS gövde yapısı darbelere karşı dayanıklılık sağlarken modern ve sade tasarımı ürüne premium bir görünüm kazandırmaktadır. Metalik gri, siyah ve beyaz renk seçenekleri farklı kurumsal konseptlere uyum sağlamaktadır.
-
-Ürün üzerine lazer kazıma veya UV renkli baskı uygulanabilmektedir. Kurumsal logo uygulamaları uzun ömürlü kullanım sağlayarak markanızın profesyonel şekilde temsil edilmesine katkıda bulunur.
-
-Şık siyah hediye kutusu içerisinde sunulması sayesinde çalışan hediyeleri, VIP müşteri çalışmaları, bayi toplantıları ve kurumsal organizasyonlarda prestijli bir hediye alternatifi oluşturmaktadır.
-
-Promosyon Bluetooth hoparlör modelleri; teknoloji firmaları, bankalar, otomotiv sektörü, reklam ajansları, telekomünikasyon şirketleri, eğitim kurumları ve kurumsal işletmeler tarafından fuar organizasyonları, lansmanlar, çalışan motivasyon projeleri ve müşteri sadakat kampanyalarında sıklıkla tercih edilmektedir.
-
-NEDEN PROMOSYON BLUETOOTH HOPARLÖR SPK-450 TERCİH EDİLMELİ?
-
-• Bluetooth 5.0 bağlantı teknolojisi
-• Yaklaşık 3 saat müzik çalma süresi
-• 400 mAh batarya kapasitesi
-• Handsfree telefon görüşmesi desteği
-• Dayanıklı ABS gövde
-• Kompakt ve taşınabilir tasarım
-• Lazer kazıma ve UV logo baskısına uygun
-• Şık hediye kutusu ile sunulmaktadır
-• Günlük kullanıma uygun modern tasarım
-• Premium teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Fuar ve organizasyonlar
-• Teknoloji firmaları
-• Reklam kampanyaları
-• Ofis kullanımı
-• Ev kullanımı
-• Seyahatler
-• Çalışan hediyeleri
-• VIP müşteri hediyeleri
-• Lansman etkinlikleri
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Reklam ajansları
-• Satış ekipleri
-• Saha personelleri
-• Kurumsal satın alma ekipleri
-• Mobil cihaz kullanıcıları
-• Günlük müzik dinlemeyi seven kullanıcılar
-
-PROMOSYON BLUETOOTH HOPARLÖR FİYATLARI
-
-Promosyon Bluetooth hoparlör fiyatları; sipariş adedi, logo baskı uygulaması ve üretim planlamasına göre değişiklik gösterebilir. Kurumsal toplu siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Lazer kazıma ve UV renkli logo baskısı uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok bilgisi sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu alımlarda özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Bluetooth Hoparlör
-Model: SPK-450
-Kategori: Teknolojik Ürünler
-Bağlantı Teknolojisi: Bluetooth 5.0
-Batarya Kapasitesi: 400 mAh
-Çalma Süresi: Yaklaşık 3 Saat
-Şarj Girişi: Micro USB
-Desteklenen Özellik: Handsfree (Eller Serbest)
-Materyal: ABS
-Renk Seçenekleri: Metalik Gri, Siyah, Beyaz
-Baskı Türü: Lazer Kazıma ve UV Renkli Baskı
-Kutu İçeriği: Siyah Hediye Kutusu, Micro USB Şarj Kablosu
-Kullanım Alanı: Günlük ve Kurumsal Kullanım
-
-Promosyon Bluetooth hoparlör SPK-450, Bluetooth 5.0 bağlantısı, yaklaşık 3 saat kullanım süresi, handsfree görüşme desteği, dayanıklı ABS gövdesi ve lazer veya UV logo baskısına uygun premium tasarımıyla kurumsal markalar için yüksek değer sunan teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon Bluetooth hoparlör SPK-450 hangi cihazlarla uyumludur?",
-      a: "Bluetooth destekleyen akıllı telefonlar, tabletler ve diğer uyumlu cihazlarla kolayca eşleştirilebilir.",
-    },
-    {
-      q: "Bluetooth 5.0 teknolojisinin avantajı nedir?",
-      a: "Bluetooth 5.0 daha stabil bağlantı, hızlı eşleşme ve kablosuz kullanım kolaylığı sağlayarak kesintisiz ses deneyimi sunmaktadır.",
-    },
-    {
-      q: "Batarya kullanım süresi ne kadardır?",
-      a: "400 mAh bataryası ile kullanım koşullarına bağlı olarak yaklaşık 3 saat müzik çalma süresi sunmaktadır.",
-    },
-    {
-      q: "Handsfree özelliği ne işe yarar?",
-      a: "Handsfree desteği sayesinde uyumlu mobil cihazlardan gelen telefon görüşmeleri hoparlör üzerinden gerçekleştirilebilir.",
-    },
-    {
-      q: "Ürün üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. SPK-450 modeli üzerine firmanıza özel lazer kazıma veya UV renkli logo baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. SPK-450 modeli fuarlar, kurumsal etkinlikler, çalışan hediyeleri ve müşteri promosyonları için toplu siparişe uygundur. Sipariş miktarına göre özel fiyat teklifleri sunulmaktadır.",
-    },
-  ],
+  shortDesc: "SPK-150, 400 mAh bataryası ve üretici tarafından belirtilen 3 saat çalma süresiyle kişisel kullanım için sunulan Bluetooth 5.0 hoparlördür. Bluetooth sürümü: 5.0.",
+  longDesc: "SPK-150, 400 mAh bataryası ve üretici tarafından belirtilen 3 saat çalma süresiyle kişisel kullanım için sunulan Bluetooth 5.0 hoparlördür. Handsfree desteği ve lazer veya UV baskı seçenekleri modelin öne çıkan ayrıntılarıdır.\n\nTEKNİK ÖZELLİKLER\n\nModel: SPK-150\nBluetooth sürümü: 5.0\nBatarya: 400 mAh\nBelirtilen çalma süresi: 3 saat; kullanım koşullarına göre değişebilir\nŞarj girişi: Micro USB\nDestek: BT 5.0, handsfree\nMalzeme: ABS\nRenkler: Metalik gri, siyah, beyaz\nBaskı: Lazer, UV renkli baskı\nAmbalaj: Siyah hediye kutusu\nKutu içeriği: Micro USB şarj kablosu dahil\n\nKULLANIM VE UYUMLULUK\n\nBluetooth 5.0 ve handsfree desteği belirtilmiştir. Şarj girişi Micro USB olup kullanım süresi ses seviyesi ve bağlantı koşullarına göre değişebilir.\n\nLOGO UYGULAMASI\n\nLazer ve UV renkli baskı seçenekleri belirtilmiştir. Tasarıma uygun yöntem teklif aşamasında seçilir.\n\nSİPARİŞ\n\nSPK-150 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon Bluetooth hoparlör SPK-150 hangi cihazlarla uyumludur?","a":"SPK-150 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Bluetooth 5.0 teknolojisinin avantajı nedir?","a":"SPK-150, Bluetooth 5.0 bağlantısı sunar. Cihaz ve kullanım ortamına göre bağlantı performansı değişebilir."},{"q":"Batarya kullanım süresi ne kadardır?","a":"Batarya: 400 mAh Belirtilen çalma süresi: 3 saat; kullanım koşullarına göre değişebilir"},{"q":"Handsfree özelliği ne işe yarar?","a":"Handsfree, uyumlu telefonla görüşmelerde kullanılabilen özelliktir. SPK-150 modelinde BT 5.0 ve handsfree desteği belirtilmektedir."},{"q":"Ürün üzerine logo baskısı yapılabilir mi?","a":"Lazer ve UV renkli baskı seçenekleri belirtilmiştir. Tasarıma uygun yöntem teklif aşamasında seçilir."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"SPK-150 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 766
 },
 {
   id: "p444",
-
   slug: "promosyon-wireless-sarj-hoparlor-spk-460",
-
-  title:
-    "Promosyon Wireless Şarj & Bluetooth Hoparlör SPK-460 | 15W Kablosuz Şarj, LED Logo Baskılı Bluetooth Speaker",
-
-  price: 1500,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon Wireless Şarj ve Hoparlör SPK-160",
   image: "/products/promosyon-wireless-sarj-hoparlor-spk-460.jpg",
-
-  shortDesc:
-    "Promosyon wireless şarj ve Bluetooth hoparlör SPK-460, 15W hızlı kablosuz şarj, Bluetooth 5.0 bağlantısı, LED ışıklı logo alanı ve modern standlı tasarımıyla kurumsal kullanıma uygun premium teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon wireless şarj ve Bluetooth hoparlör SPK-460, kablosuz şarj ünitesi ile Bluetooth hoparlörü tek gövdede bir araya getiren yenilikçi tasarımı sayesinde kurumsal firmalar için yüksek prestij sunan teknolojik promosyon ürünleri arasında yer almaktadır. Masaüstünde hem telefon şarj ünitesi hem de taşınabilir hoparlör olarak kullanılabilmesi sayesinde günlük kullanım değeri oldukça yüksektir.
-
-15W kablosuz şarj özelliği sayesinde Qi destekli uyumlu akıllı telefonların pratik şekilde şarj edilmesini sağlar. Kablo kullanımını azaltan yapısı masa düzenini korurken çalışma alanlarında modern ve düzenli bir görünüm oluşturur.
-
-Bluetooth 5.0 teknolojisi sayesinde akıllı telefonlar, tabletler ve Bluetooth destekli diğer cihazlarla hızlı ve stabil bağlantı kurabilir. Kablosuz ses aktarımı sayesinde ofis, ev veya çalışma alanlarında müzik dinleme deneyimini kolaylaştırmaktadır.
-
-Ürünün ön bölümünde bulunan LED ışıklı logo alanı, firmanıza ait logonun dikkat çekici şekilde aydınlatılmasını sağlar. Özellikle masaüstünde sürekli görünür olması sayesinde markanızın gün boyunca fark edilmesine katkıda bulunur.
-
-1200 mAh batarya kapasitesi taşınabilir kullanım avantajı sunarken, Type-C şarj girişi sayesinde kolay ve hızlı şekilde yeniden şarj edilebilir. Ürünle birlikte 1 metre Type-C şarj kablosu da sunulmaktadır.
-
-Modern standlı tasarımı sayesinde telefonunuzu kablosuz olarak şarj ederken aynı zamanda masa üzerinde dekoratif ve profesyonel bir görünüm oluşturur. Çalışma masaları, toplantı odaları ve yönetici ofisleri için şık bir teknolojik aksesuar olarak tercih edilmektedir.
-
-Dayanıklı ABS gövde yapısı uzun ömürlü kullanım sunarken lazer baskıya uygun yüzeyi sayesinde firmanıza ait logo profesyonel şekilde uygulanabilmektedir. LED aydınlatmalı logo uygulaması ürünün premium algısını daha da güçlendirmektedir.
-
-Promosyon wireless şarj hoparlör modelleri; teknoloji firmaları, bankalar, otomotiv sektörü, reklam ajansları, telekomünikasyon şirketleri, eğitim kurumları ve kurumsal işletmeler tarafından yönetici hediyesi, VIP müşteri çalışmaları, lansman organizasyonları, fuarlar ve prestij odaklı promosyon kampanyalarında sıklıkla tercih edilmektedir.
-
-NEDEN PROMOSYON WIRELESS ŞARJ HOPARLÖR SPK-460 TERCİH EDİLMELİ?
-
-• 15W hızlı kablosuz şarj desteği
-• Bluetooth 5.0 bağlantı teknolojisi
-• Bluetooth hoparlör ve şarj ünitesi bir arada
-• LED ışıklı logo alanı
-• Modern standlı masaüstü tasarımı
-• 1200 mAh batarya kapasitesi
-• Type-C şarj girişi
-• Dayanıklı ABS gövde
-• Lazer logo baskısına uygun yüzey
-• Premium teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Yönetici ofisleri
-• Teknoloji firmaları
-• Fuar ve organizasyonlar
-• Lansman etkinlikleri
-• Çalışan hediyeleri
-• VIP müşteri hediyeleri
-• Masaüstü kullanım
-• Reklam kampanyaları
-• Kurumsal tanıtım projeleri
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Reklam ajansları
-• Kurumsal satın alma ekipleri
-• Yönetici kadroları
-• Satış ekipleri
-• Mobil cihaz kullanıcıları
-• Premium kurumsal hediye arayan işletmeler
-
-PROMOSYON WIRELESS ŞARJ HOPARLÖR FİYATLARI
-
-Promosyon wireless şarj hoparlör fiyatları; sipariş miktarı, logo uygulaması, üretim planlaması ve kurumsal taleplere göre değişiklik gösterebilir. Toplu siparişlerde özel fiyatlandırma ve kurumsal teklif avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Lazer logo baskısı uygulanabilmektedir.
-• LED ışıklı logo uygulaması yapılabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Wireless Şarj ve Bluetooth Hoparlör
-Model: SPK-460
-Kategori: Teknolojik Ürünler
-Kablosuz Şarj Gücü: 15W
-Bağlantı Teknolojisi: Bluetooth 5.0
-Batarya Kapasitesi: 1200 mAh
-Şarj Girişi: Type-C
-Materyal: ABS
-Ölçüler: 110 x 92 x 138 mm
-Baskı Türü: Lazer Baskı
-Logo Özelliği: LED Işıklı Logo Alanı
-Baskı Alanı: 42 x 50 mm
-Koli İçi Miktar: 30 Adet
-Kutu İçeriği: 1 Metre Type-C Şarj Kablosu
-Kullanım Alanı: Masaüstü ve Kurumsal Kullanım
-
-Promosyon wireless şarj ve Bluetooth hoparlör SPK-460, 15W kablosuz şarj özelliği, Bluetooth 5.0 bağlantısı, LED ışıklı logo alanı ve modern standlı tasarımıyla markaların prestijini yükselten premium teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon SPK-460 kablosuz şarj özelliğine sahip midir?",
-      a: "Evet. SPK-460 modeli uyumlu cihazlar için 15W kablosuz şarj desteği sunmaktadır.",
-    },
-    {
-      q: "Bluetooth hoparlör olarak da kullanılabilir mi?",
-      a: "Evet. Bluetooth 5.0 bağlantısı sayesinde akıllı telefonlar, tabletler ve diğer Bluetooth destekli cihazlarla kablosuz olarak kullanılabilir.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine lazer baskı uygulanabilmekte olup LED ışıklı logo alanı sayesinde marka görünürlüğü artırılabilmektedir.",
-    },
-    {
-      q: "Batarya kapasitesi ne kadardır?",
-      a: "SPK-460 modeli 1200 mAh batarya kapasitesine sahiptir.",
-    },
-    {
-      q: "Ürün hangi cihazlarla uyumludur?",
-      a: "Qi destekli kablosuz şarj uyumlu akıllı telefonlar ile Bluetooth destekleyen mobil cihazlarda kullanılabilmektedir.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. SPK-460 modeli yönetici hediyeleri, fuarlar, VIP müşteri çalışmaları ve kurumsal promosyon projeleri için toplu siparişe uygundur.",
-    },
-  ],
+  shortDesc: "SPK-160, dairesel wireless şarj yüzeyini hoparlör gövdesiyle birleştiren bir masaüstü modelidir. Ürün tipi: Wireless şarj ve hoparlör.",
+  longDesc: "SPK-160, dairesel wireless şarj yüzeyini hoparlör gövdesiyle birleştiren bir masaüstü modelidir. Ayrı şarj ve ses aksesuarları yerine iki işlevi aynı ürün formunda değerlendirmek isteyenler için sunulur.\n\nTEKNİK ÖZELLİKLER\n\nModel: SPK-160\nÜrün tipi: Wireless şarj ve hoparlör\nRenk: Siyah\nTasarım: Dairesel şarj yüzeyi ve masaüstü gövde\n\nKULLANIM VE UYUMLULUK\n\nWireless şarj uyumu telefon, kılıf ve güç kaynağına göre değerlendirilir. Şarj gücü, hoparlör bağlantı ayrıntıları, batarya ve çalma süresi belirtilmediğinden sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nSPK-160 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon SPK-160 kablosuz şarj özelliğine sahip midir?","a":"SPK-160 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Bluetooth hoparlör olarak da kullanılabilir mi?","a":"Ürün tipi: Wireless şarj ve hoparlör; Renk: Siyah; Tasarım: Dairesel şarj yüzeyi ve masaüstü gövde. Hoparlörün bağlantı ayrıntıları sipariş öncesinde netleştirilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"Batarya kapasitesi ne kadardır?","a":"Batarya kapasitesi belirtilmemiştir; güncel teknik bilgi teklif aşamasında netleştirilir. Çalma süresi kullanım koşullarına bağlıdır; belirtilmeyen süreler sipariş öncesinde netleştirilir."},{"q":"Ürün hangi cihazlarla uyumludur?","a":"Wireless şarj uyumu telefon, kılıf ve güç kaynağına göre değerlendirilir. Şarj gücü, hoparlör bağlantı ayrıntıları, batarya ve çalma süresi belirtilmediğinden sipariş öncesinde netleştirilir."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"SPK-160 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 1600
 },
 {
   id: "p445",
-
   slug: "promosyon-wireless-sarj-hoparlor-spk-470",
-
-  title:
-    "Promosyon Wireless Şarj & Bluetooth Hoparlör SPK-470 | 3'ü 1 Arada Telefon, Akıllı Saat ve Kulaklık Şarj Ünitesi",
-
-  price: 1860,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon Çok Yüzeyli Wireless Şarj ve Hoparlör SPK-170",
   image: "/products/promosyon-wireless-sarj-hoparlor-spk-470.jpg",
-
-  shortDesc:
-    "Promosyon wireless şarj ve Bluetooth hoparlör SPK-470, telefon, akıllı saat ve kablosuz kulaklık için 3'lü kablosuz şarj desteği, Bluetooth 5.0 bağlantısı ve LED ışıklı logo alanıyla premium teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon wireless şarj ve Bluetooth hoparlör SPK-470, kablosuz şarj teknolojisini güçlü Bluetooth hoparlör fonksiyonu ile bir araya getiren premium masaüstü teknolojik promosyon ürünlerinden biridir. Aynı anda telefon, akıllı saat ve kablosuz kulaklık şarj edebilmesi sayesinde günlük kullanım kolaylığı sunarken kurumsal markalar için yüksek prestij sağlayan özel promosyon çözümleri arasında yer almaktadır.
-
-SPK-470 modeli, 15W kablosuz şarj desteği sayesinde Qi uyumlu akıllı telefonları hızlı ve pratik şekilde şarj edebilmektedir. Bunun yanında akıllı saat ve kablosuz kulaklık için ayrılmış özel şarj alanları sayesinde üç farklı cihaz aynı anda şarj edilebilir. Böylece masa üzerinde kablo karmaşasını azaltırken düzenli ve modern bir çalışma alanı oluşturur.
-
-Bluetooth 5.0 teknolojisi sayesinde akıllı telefonlar, tabletler ve diğer Bluetooth destekli cihazlarla hızlı ve stabil bağlantı kurar. Dahili hoparlörü sayesinde müzik dinleme, ses aktarımı ve günlük kullanım ihtiyaçlarını tek cihaz üzerinden karşılayabilir.
-
-Ürün üzerinde bulunan LED ışıklı logo alanı firmanızın kurumsal kimliğini dikkat çekici şekilde sergilemektedir. Masa üzerinde sürekli görünür olması sayesinde marka bilinirliğini artırırken özellikle yönetici masalarında ve ofis ortamlarında prestijli bir görünüm sunmaktadır.
-
-1200 mAh batarya kapasitesi taşınabilir kullanım avantajı sunarken Type-C şarj girişi sayesinde hızlı ve kolay şarj edilebilir. Ürünle birlikte 1 metre uzunluğunda Type-C şarj kablosu da sunulmaktadır.
-
-Dayanıklı ABS gövde yapısı uzun ömürlü kullanım sağlarken modern ve kompakt tasarımı sayesinde çalışma masalarına estetik bir görünüm kazandırmaktadır. Lazer baskı ve LED aydınlatmalı logo uygulamaları ürünün premium algısını güçlendirerek markanızın profesyonel şekilde temsil edilmesine katkı sağlar.
-
-Promosyon wireless şarj hoparlör modelleri; teknoloji firmaları, bankalar, otomotiv sektörü, reklam ajansları, telekomünikasyon şirketleri, eğitim kurumları ve kurumsal işletmeler tarafından yönetici hediyesi, VIP müşteri çalışmaları, bayi toplantıları, lansman organizasyonları ve prestij odaklı kurumsal promosyon projelerinde sıklıkla tercih edilmektedir.
-
-NEDEN PROMOSYON WIRELESS ŞARJ HOPARLÖR SPK-470 TERCİH EDİLMELİ?
-
-• 3'lü kablosuz şarj sistemi
-• Telefon, akıllı saat ve kulaklığı aynı anda şarj edebilir
-• 15W hızlı kablosuz şarj desteği
-• Bluetooth 5.0 bağlantısı
-• Bluetooth hoparlör özelliği
-• LED ışıklı logo alanı
-• Modern masaüstü tasarımı
-• 1200 mAh batarya kapasitesi
-• Dayanıklı ABS gövde
-• Premium teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Yönetici masaları
-• Teknoloji firmaları
-• Fuar ve organizasyonlar
-• Lansman etkinlikleri
-• VIP müşteri hediyeleri
-• Çalışan ödüllendirme projeleri
-• Masaüstü kullanım
-• Reklam kampanyaları
-• Premium kurumsal tanıtım çalışmaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Reklam ajansları
-• Kurumsal satın alma ekipleri
-• Yönetici kadroları
-• Satış ekipleri
-• Mobil cihaz kullanıcıları
-• Premium kurumsal hediye arayan işletmeler
-
-PROMOSYON WIRELESS ŞARJ HOPARLÖR FİYATLARI
-
-Promosyon wireless şarj hoparlör fiyatları; sipariş adedi, logo uygulaması, üretim planlaması ve kurumsal taleplere göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Lazer logo baskısı uygulanabilmektedir.
-• LED ışıklı logo uygulaması yapılabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Wireless Şarj ve Bluetooth Hoparlör
-Model: SPK-470
-Kategori: Teknolojik Ürünler
-Kablosuz Şarj Gücü: 15W
-Şarj Sistemi: Telefon, Akıllı Saat ve Kablosuz Kulaklık İçin 3'lü Kablosuz Şarj
-Bağlantı Teknolojisi: Bluetooth 5.0
-Batarya Kapasitesi: 1200 mAh
-Şarj Girişi: Type-C
-Materyal: ABS
-Ölçüler: 100 x 80 x 100 mm
-Baskı Türü: Lazer Baskı
-Logo Özelliği: LED Işıklı Logo Alanı
-Baskı Alanı: 45 x 25 mm
-Koli İçi Miktar: 30 Adet
-Kutu İçeriği: 1 Metre Type-C Şarj Kablosu
-Kullanım Alanı: Masaüstü ve Kurumsal Kullanım
-
-Promosyon wireless şarj ve Bluetooth hoparlör SPK-470, telefon, akıllı saat ve kablosuz kulaklık için aynı anda şarj desteği sunan 3'lü kablosuz şarj sistemi, Bluetooth 5.0 bağlantısı ve LED ışıklı logo alanıyla markaların prestijini artıran premium teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "SPK-470 aynı anda kaç cihazı kablosuz olarak şarj edebilir?",
-      a: "SPK-470 modeli; uyumlu telefon, akıllı saat ve kablosuz kulaklığı aynı anda şarj edebilen 3'lü kablosuz şarj sistemine sahiptir.",
-    },
-    {
-      q: "Kablosuz şarj gücü ne kadardır?",
-      a: "Ürün, uyumlu cihazlar için 15W kablosuz şarj desteği sunmaktadır.",
-    },
-    {
-      q: "Bluetooth hoparlör olarak kullanılabilir mi?",
-      a: "Evet. Bluetooth 5.0 teknolojisi sayesinde akıllı telefonlar, tabletler ve diğer Bluetooth destekli cihazlarla kablosuz olarak kullanılabilir.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine lazer baskı uygulanabilir ve LED ışıklı logo alanı sayesinde marka görünürlüğü artırılabilir.",
-    },
-    {
-      q: "Batarya kapasitesi ne kadardır?",
-      a: "SPK-470 modeli 1200 mAh batarya kapasitesine sahiptir.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. SPK-470 modeli yönetici hediyeleri, VIP müşteri projeleri, fuarlar ve kurumsal promosyon çalışmaları için toplu siparişe uygundur.",
-    },
-  ],
+  shortDesc: "SPK-170, farklı yüzeylere yerleştirilmiş şarj alanları ve hoparlör gövdesiyle daha kapsamlı bir masaüstü teknoloji ürünü arayanlara yöneliktir. Ürün tipi: Wireless şarj ve hoparlör.",
+  longDesc: "SPK-170, farklı yüzeylere yerleştirilmiş şarj alanları ve hoparlör gövdesiyle daha kapsamlı bir masaüstü teknoloji ürünü arayanlara yöneliktir. Telefon, saat ve kulaklık modelleriyle uyumluluk sipariş kapsamıyla birlikte netleştirilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: SPK-170\nÜrün tipi: Wireless şarj ve hoparlör\nRenk: Siyah\nTasarım: Çok yüzeyli masaüstü gövde\n\nKULLANIM VE UYUMLULUK\n\nWireless şarj uyumu telefon, kılıf ve güç kaynağına göre değerlendirilir. Şarj gücü, hoparlör bağlantı ayrıntıları, batarya ve çalma süresi belirtilmediğinden sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nGörselde light-up logo alanı bulunmaktadır. Logo uygulama yöntemi, alanı ve bedeli tasarımınıza göre teklif aşamasında netleştirilir.\n\nSİPARİŞ\n\nSPK-170 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"SPK-170 aynı anda kaç cihazı kablosuz olarak şarj edebilir?","a":"Wireless şarj uyumu telefon, kılıf ve güç kaynağına göre değerlendirilir. Şarj gücü, hoparlör bağlantı ayrıntıları, batarya ve çalma süresi belirtilmediğinden sipariş öncesinde netleştirilir."},{"q":"Kablosuz şarj gücü ne kadardır?","a":"Wireless şarj uyumu telefon, kılıf ve güç kaynağına göre değerlendirilir. Şarj gücü, hoparlör bağlantı ayrıntıları, batarya ve çalma süresi belirtilmediğinden sipariş öncesinde netleştirilir."},{"q":"Bluetooth hoparlör olarak kullanılabilir mi?","a":"Ürün tipi: Wireless şarj ve hoparlör; Renk: Siyah; Tasarım: Çok yüzeyli masaüstü gövde. Hoparlörün bağlantı ayrıntıları sipariş öncesinde netleştirilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Görselde light-up logo alanı bulunmaktadır. Logo uygulama yöntemi, alanı ve bedeli tasarımınıza göre teklif aşamasında netleştirilir."},{"q":"Batarya kapasitesi ne kadardır?","a":"Batarya kapasitesi belirtilmemiştir; güncel teknik bilgi teklif aşamasında netleştirilir. Çalma süresi kullanım koşullarına bağlıdır; belirtilmeyen süreler sipariş öncesinde netleştirilir."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"SPK-170 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 2350
 },
 {
   id: "p446",
-
   slug: "promosyon-wireless-sarj-istasyonu-tt-475",
-
-  title:
-    "Promosyon Wireless Şarj İstasyonu TT-475 | 3'ü 1 Arada Telefon, Akıllı Saat ve Kulaklık Şarj Standı",
-
-  price: 1580,
-
   category: "Teknolojik Ürünler",
-
-  image: "/products/promosyon-wireless-sarj-istasyonu-tt-475.jpg",
-
-  shortDesc:
-    "Promosyon wireless şarj istasyonu TT-475, telefon, akıllı saat ve kablosuz kulaklık için 3'lü kablosuz şarj desteği, LED ışıklı logo alanı ve masaüstü stand tasarımıyla premium teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon wireless şarj istasyonu TT-475, aynı anda telefon, akıllı saat ve kablosuz kulaklık şarj edebilen 3'ü 1 arada yapısıyla modern çalışma alanları için geliştirilen premium teknolojik promosyon ürünlerinden biridir. Günlük kullanım kolaylığı sağlayan fonksiyonel tasarımı sayesinde kurumsal firmalar için yüksek prestij sunan masaüstü promosyon çözümleri arasında yer almaktadır.
-
-TT-475 modeli, Qi uyumlu akıllı telefonlar, kablosuz şarj destekli kulaklıklar ve uyumlu akıllı saatler için ayrı şarj alanları sunmaktadır. Üç farklı cihazın aynı anda şarj edilebilmesi masa üzerindeki kablo karmaşasını azaltırken daha düzenli ve profesyonel bir çalışma ortamı oluşturur.
-
-Dikey telefon standı sayesinde cihaz şarj olurken ekran rahatlıkla kullanılabilir. Video görüşmeleri, bildirim takibi veya masa başında çalışma sırasında telefonu dik konumda kullanabilmek kullanıcı deneyimini önemli ölçüde artırmaktadır.
-
-Ürünün ön bölümünde yer alan LED ışıklı logo alanı firmanızın kurumsal kimliğini dikkat çekici şekilde öne çıkarır. Masa üzerinde sürekli görünür olması sayesinde marka bilinirliğini artırırken premium bir görünüm kazandırır.
-
-Kompakt ve katlanabilir tasarımı sayesinde masaüstünde minimum alan kaplar. Ev, ofis ve çalışma alanlarında düzenli kullanım sunarken modern görünümüyle dekoratif bir teknoloji aksesuarı olarak da tercih edilmektedir.
-
-Dayanıklı ABS gövde yapısı uzun ömürlü kullanım sağlarken logo baskıya uygun yüzeyi sayesinde firmanıza özel kurumsal uygulamalar profesyonel şekilde gerçekleştirilebilmektedir.
-
-Promosyon wireless şarj istasyonu modelleri; teknoloji firmaları, bankalar, otomotiv sektörü, telekomünikasyon şirketleri, reklam ajansları, eğitim kurumları ve kurumsal işletmeler tarafından yönetici hediyesi, VIP müşteri çalışmaları, bayi toplantıları, lansman organizasyonları ve prestij odaklı promosyon projelerinde sıklıkla tercih edilmektedir.
-
-NEDEN PROMOSYON WIRELESS ŞARJ İSTASYONU TT-475 TERCİH EDİLMELİ?
-
-• 3'lü kablosuz şarj sistemi
-• Telefon, akıllı saat ve kulaklığı aynı anda şarj edebilir
-• Dikey telefon standı
-• LED ışıklı logo alanı
-• Masaüstü kullanım için modern tasarım
-• Kompakt ve katlanabilir yapı
-• Dayanıklı ABS gövde
-• Logo baskıya uygun yüzey
-• Düzenli çalışma alanı oluşturur
-• Premium teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Yönetici ofisleri
-• Teknoloji firmaları
-• Masaüstü kullanım
-• Fuar ve organizasyonlar
-• VIP müşteri hediyeleri
-• Çalışan ödüllendirme projeleri
-• Lansman etkinlikleri
-• Reklam kampanyaları
-• Premium kurumsal tanıtım çalışmaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Reklam ajansları
-• Kurumsal satın alma ekipleri
-• Yönetici kadroları
-• Satış ekipleri
-• Mobil cihaz kullanıcıları
-• Premium kurumsal hediye arayan işletmeler
-
-PROMOSYON WIRELESS ŞARJ İSTASYONU FİYATLARI
-
-Promosyon wireless şarj istasyonu fiyatları; sipariş miktarı, logo uygulaması, üretim planlaması ve kurumsal taleplere göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• LED ışıklı logo uygulaması yapılabilmektedir.
-• Logo baskısı uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Wireless Şarj İstasyonu
-Model: TT-475
-Kategori: Teknolojik Ürünler
-Şarj Sistemi: Telefon, Akıllı Saat ve Kablosuz Kulaklık İçin 3'lü Kablosuz Şarj
-Tasarım: Dikey Telefon Standı
-Logo Özelliği: LED Işıklı Logo Alanı
-Materyal: ABS
-Kullanım Şekli: Masaüstü
-Baskı Türü: Logo Baskıya Uygun
-Kullanım Alanı: Kurumsal ve Profesyonel Masaüstü Kullanımı
-
-Promosyon wireless şarj istasyonu TT-475, telefon, akıllı saat ve kablosuz kulaklık için aynı anda şarj desteği sunan 3'lü kablosuz şarj sistemi, LED ışıklı logo alanı ve modern masaüstü tasarımıyla kurumsal markalar için yüksek prestij sağlayan teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "TT-475 aynı anda kaç cihazı şarj edebilir?",
-      a: "TT-475 modeli uyumlu telefon, akıllı saat ve kablosuz kulaklığı aynı anda şarj edebilen 3'lü kablosuz şarj sistemine sahiptir.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo baskısı uygulanabilir ve LED ışıklı logo alanı sayesinde marka görünürlüğü artırılabilir.",
-    },
-    {
-      q: "Telefon şarj olurken kullanılabilir mi?",
-      a: "Evet. Dikey stand tasarımı sayesinde telefon şarj olurken ekran rahatlıkla kullanılabilir.",
-    },
-    {
-      q: "Hangi cihazlarla uyumludur?",
-      a: "Qi destekli akıllı telefonlar, uyumlu akıllı saatler ve kablosuz şarj destekli kulaklıklarla kullanılabilir.",
-    },
-    {
-      q: "Wireless şarj istasyonu masaüstü kullanımına uygun mudur?",
-      a: "Evet. Kompakt ve modern tasarımı sayesinde ofis, ev ve çalışma masalarında düzenli kullanım sunmaktadır.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. TT-475 modeli yönetici hediyeleri, fuarlar, kurumsal etkinlikler ve VIP müşteri projeleri için toplu siparişe uygundur.",
-    },
-  ],
+  title: "Promosyon Wireless Şarj İstasyonu TT-130",
+  image: "/products/promosyon-teknolojik-tt-130-v2.jpg",
+  shortDesc: "TT-130, telefon ve diğer taşınabilir cihazları masa üzerinde konumlandırmaya yönelik wireless şarj istasyonudur. Ürün tipi: Wireless şarj istasyonu.",
+  longDesc: "TT-130, telefon ve diğer taşınabilir cihazları masa üzerinde konumlandırmaya yönelik wireless şarj istasyonudur. Güncel gövde tasarımıyla sunulan bu modelde desteklenen cihazlar ve eş zamanlı şarj kapsamı teklif aşamasında netleştirilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-130\nÜrün tipi: Wireless şarj istasyonu\nRenk: Siyah\nYerleşim: Masaüstü\n\nKULLANIM VE UYUMLULUK\n\nTelefon, akıllı saat ve kulaklığın modeline göre şarj uyumluluğu kontrol edilmelidir. Eş zamanlı cihaz sayısı, şarj gücü, güç girişi ve adaptör kapsamı sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nTT-130 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"TT-130 aynı anda kaç cihazı şarj edebilir?","a":"Telefon, akıllı saat ve kulaklığın modeline göre şarj uyumluluğu kontrol edilmelidir. Eş zamanlı cihaz sayısı, şarj gücü, güç girişi ve adaptör kapsamı sipariş öncesinde netleştirilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"Telefon şarj olurken kullanılabilir mi?","a":"Ürün tipi: Wireless şarj istasyonu; Renk: Siyah; Yerleşim: Masaüstü. Telefon, akıllı saat ve kulaklığın modeline göre şarj uyumluluğu kontrol edilmelidir. Eş zamanlı cihaz sayısı, şarj gücü, güç girişi ve adaptör kapsamı sipariş öncesinde netleştirilir."},{"q":"Hangi cihazlarla uyumludur?","a":"Telefon, akıllı saat ve kulaklığın modeline göre şarj uyumluluğu kontrol edilmelidir. Eş zamanlı cihaz sayısı, şarj gücü, güç girişi ve adaptör kapsamı sipariş öncesinde netleştirilir."},{"q":"Wireless şarj istasyonu masaüstü kullanımına uygun mudur?","a":"Telefon, akıllı saat ve kulaklığın modeline göre şarj uyumluluğu kontrol edilmelidir. Eş zamanlı cihaz sayısı, şarj gücü, güç girişi ve adaptör kapsamı sipariş öncesinde netleştirilir."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"TT-130 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 1800
 },
 {
   id: "p447",
@@ -47090,626 +45541,58 @@ Promosyon organizer ORG-250 modeli; termo deri kapak yapısı, modern yüzey dok
 },
 {
   id: "p588",
-
   slug: "promosyon-wireless-sarj-istasyonu-tt-476-coklu-cihaz-standli",
-
-  title:
-    "Promosyon Wireless Şarj İstasyonu TT-476 | 3'ü 1 Arada Telefon, Akıllı Saat ve Kulaklık Şarj Standı",
-
-  price: 1140,
-
   category: "Teknolojik Ürünler",
-
-  image: "/products/promosyon-wireless-sarj-istasyonu-tt-476.jpg",
-
-  shortDesc:
-    "Promosyon wireless şarj istasyonu TT-476, telefon, akıllı saat ve kablosuz kulaklık için 3'ü 1 arada kablosuz şarj desteği, LED logo alanı ve standlı masaüstü tasarımıyla premium teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon wireless şarj istasyonu TT-476, aynı anda telefon, akıllı saat ve kablosuz kulaklık şarj edebilen 3'ü 1 arada yapısıyla kurumsal firmalar için geliştirilen premium teknolojik promosyon ürünlerinden biridir. Modern masaüstü tasarımı sayesinde çalışma alanlarını daha düzenli hale getirirken markanızın uzun süre görünür olmasına katkı sağlar.
-
-Standlı telefon bölümü sayesinde uyumlu akıllı telefonlar dik konumda şarj edilebilir. Bu yapı; görüntülü görüşme, bildirim takibi, video izleme ve masa başında çalışma sırasında kullanıcıya önemli bir kullanım kolaylığı sunmaktadır.
-
-Ürün üzerinde bulunan ayrı şarj alanları sayesinde telefon, akıllı saat ve kablosuz kulaklık aynı anda şarj edilebilir. Tek bir istasyon üzerinden birden fazla cihazın şarj edilebilmesi masa üzerinde kablo karmaşasını azaltarak daha düzenli bir çalışma ortamı oluşturur.
-
-Ön bölümde yer alan LED logo alanı firmanızın kurumsal kimliğini dikkat çekici şekilde sergiler. Aydınlatmalı logo uygulaması özellikle ofis ortamlarında ve yönetici masalarında markanızın profesyonel görünümünü güçlendirmektedir.
-
-Type-C giriş yapısı sayesinde kolay bağlantı sunan TT-476 modeli, modern mobil cihaz ekosistemine uyum sağlayan pratik bir masaüstü çözümüdür. Şık ve kompakt tasarımı sayesinde çalışma masalarında fazla yer kaplamadan fonksiyonel kullanım sunmaktadır.
-
-Dayanıklı ABS gövde yapısı uzun ömürlü kullanım sağlarken UV baskı ve LED logo uygulamalarına uygun yüzeyi sayesinde kurumsal logo çalışmaları profesyonel şekilde gerçekleştirilebilmektedir.
-
-Promosyon wireless şarj istasyonu modelleri; teknoloji firmaları, finans kuruluşları, otomotiv sektörü, reklam ajansları, eğitim kurumları ve kurumsal işletmeler tarafından yönetici hediyesi, VIP müşteri projeleri, fuarlar, lansman organizasyonları ve prestij odaklı promosyon kampanyalarında tercih edilmektedir.
-
-NEDEN PROMOSYON WIRELESS ŞARJ İSTASYONU TT-476 TERCİH EDİLMELİ?
-
-• 3'ü 1 arada kablosuz şarj sistemi
-• Telefon, akıllı saat ve kulaklık için ayrı şarj alanları
-• Standlı telefon tasarımı
-• LED logo alanı
-• Type-C bağlantı girişi
-• Kompakt masaüstü tasarımı
-• Dayanıklı ABS gövde
-• UV baskıya uygun yüzey
-• Düzenli çalışma alanı oluşturur
-• Premium teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Yönetici masaları
-• Teknoloji firmaları
-• Ofis kullanımı
-• Fuar ve organizasyonlar
-• VIP müşteri hediyeleri
-• Çalışan ödüllendirme projeleri
-• Lansman etkinlikleri
-• Reklam kampanyaları
-• Kurumsal marka tanıtımları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Reklam ajansları
-• Kurumsal satın alma ekipleri
-• Yönetici kadroları
-• Satış ekipleri
-• Mobil cihaz kullanıcıları
-• Premium kurumsal hediye arayan işletmeler
-
-PROMOSYON WIRELESS ŞARJ İSTASYONU FİYATLARI
-
-Promosyon wireless şarj istasyonu fiyatları; sipariş miktarı, logo uygulaması, üretim planlaması ve kurumsal taleplere göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• UV baskı uygulanabilmektedir.
-• LED ışıklı logo uygulaması yapılabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu alımlarda özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Wireless Şarj İstasyonu
-Model: TT-476
-Kategori: Teknolojik Ürünler
-Şarj Sistemi: Telefon, Akıllı Saat ve Kablosuz Kulaklık İçin 3'ü 1 Arada Kablosuz Şarj
-Şarj Türü: Wireless (Kablosuz)
-Tasarım: Standlı Masaüstü Tasarım
-Bağlantı Girişi: Type-C
-Logo Özelliği: LED Işıklı Logo Alanı
-Baskı Türü: UV Baskı ve LED Logo Uygulaması
-Materyal: ABS
-Kullanım Alanı: Kurumsal ve Profesyonel Masaüstü Kullanımı
-
-Promosyon wireless şarj istasyonu TT-476, telefon, akıllı saat ve kablosuz kulaklık için aynı anda şarj desteği sunan 3'ü 1 arada yapısı, LED logo alanı, Type-C bağlantısı ve modern standlı tasarımıyla markaların prestijini artıran premium teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "TT-476 aynı anda kaç cihazı şarj edebilir?",
-      a: "TT-476 modeli uyumlu telefon, akıllı saat ve kablosuz kulaklık olmak üzere üç farklı cihazı aynı anda şarj edebilmektedir.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine UV baskı uygulanabilir ve LED ışıklı logo alanı sayesinde marka görünürlüğü artırılabilir.",
-    },
-    {
-      q: "Telefon standı kullanım kolaylığı sağlar mı?",
-      a: "Evet. Standlı tasarımı sayesinde telefon şarj olurken ekran rahatlıkla kullanılabilir ve masaüstünde konforlu kullanım sunar.",
-    },
-    {
-      q: "Hangi cihazlarla uyumludur?",
-      a: "Qi destekli akıllı telefonlar, uyumlu akıllı saatler ve kablosuz şarj destekli kulaklıklarla kullanılabilmektedir.",
-    },
-    {
-      q: "TT-476 masaüstü kullanımı için uygun mudur?",
-      a: "Evet. Kompakt ve modern tasarımı sayesinde ofis, ev ve çalışma masalarında düzenli kullanım sunmaktadır.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. TT-476 modeli yönetici hediyeleri, VIP müşteri projeleri, fuarlar ve kurumsal promosyon çalışmaları için toplu siparişe uygundur.",
-    },
-  ],
+  title: "Promosyon Masaüstü Wireless Şarj İstasyonu TT-140",
+  image: "/products/promosyon-teknolojik-tt-140-v2.jpg",
+  shortDesc: "TT-140, dikey telefon alanı ve taban üzerinde ek şarj yüzeyi bulunan wireless istasyon seçeneğidir. Ürün tipi: Wireless şarj istasyonu.",
+  longDesc: "TT-140, dikey telefon alanı ve taban üzerinde ek şarj yüzeyi bulunan wireless istasyon seçeneğidir. Masa üzerinde cihazlarını tek sunumda toplamak isteyenler için gövde yerleşimi bakımından TT-130 modeline alternatif oluşturur.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-140\nÜrün tipi: Wireless şarj istasyonu\nRenk: Siyah\nTasarım: Dikey telefon alanı ve taban şarj yüzeyi\n\nKULLANIM VE UYUMLULUK\n\nTelefon, akıllı saat ve kulaklığın modeline göre şarj uyumluluğu kontrol edilmelidir. Eş zamanlı cihaz sayısı, şarj gücü, güç girişi ve adaptör kapsamı sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nGörselde light-up logo alanı bulunmaktadır. Logo uygulama yöntemi, alanı ve bedeli tasarımınıza göre teklif aşamasında netleştirilir.\n\nSİPARİŞ\n\nTT-140 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"TT-140 aynı anda kaç cihazı şarj edebilir?","a":"Telefon, akıllı saat ve kulaklığın modeline göre şarj uyumluluğu kontrol edilmelidir. Eş zamanlı cihaz sayısı, şarj gücü, güç girişi ve adaptör kapsamı sipariş öncesinde netleştirilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Görselde light-up logo alanı bulunmaktadır. Logo uygulama yöntemi, alanı ve bedeli tasarımınıza göre teklif aşamasında netleştirilir."},{"q":"Telefon standı kullanım kolaylığı sağlar mı?","a":"Ürün tipi: Wireless şarj istasyonu; Renk: Siyah; Tasarım: Dikey telefon alanı ve taban şarj yüzeyi. Telefon, akıllı saat ve kulaklığın modeline göre şarj uyumluluğu kontrol edilmelidir. Eş zamanlı cihaz sayısı, şarj gücü, güç girişi ve adaptör kapsamı sipariş öncesinde netleştirilir."},{"q":"Hangi cihazlarla uyumludur?","a":"Telefon, akıllı saat ve kulaklığın modeline göre şarj uyumluluğu kontrol edilmelidir. Eş zamanlı cihaz sayısı, şarj gücü, güç girişi ve adaptör kapsamı sipariş öncesinde netleştirilir."},{"q":"TT-140 masaüstü kullanımı için uygun mudur?","a":"Ürün tipi: Wireless şarj istasyonu; Renk: Siyah; Tasarım: Dikey telefon alanı ve taban şarj yüzeyi. Telefon, akıllı saat ve kulaklığın modeline göre şarj uyumluluğu kontrol edilmelidir. Eş zamanlı cihaz sayısı, şarj gücü, güç girişi ve adaptör kapsamı sipariş öncesinde netleştirilir."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"TT-140 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 1180
 },
 {
   id: "p589",
-
   slug: "promosyon-wireless-sarj-cihazi-tt-477-standli-hizli-sarj",
-
-  title:
-    "Promosyon Wireless Şarj Cihazı TT-477 | Standlı Hızlı Kablosuz Telefon Şarj Standı, LED Logo",
-
-  price: 520,
-
   category: "Teknolojik Ürünler",
-
-  image: "/products/promosyon-wireless-sarj-cihazi-tt-477.jpg",
-
-  shortDesc:
-    "Promosyon wireless şarj cihazı TT-477, standlı masaüstü tasarımı, hızlı kablosuz şarj desteği ve LED ışıklı logo alanıyla kurumsal tanıtımlar için ideal teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon wireless şarj cihazı TT-477, akıllı telefonlar için geliştirilen standlı kablosuz şarj çözümüyle modern çalışma alanlarına uyum sağlayan premium teknolojik promosyon ürünlerinden biridir. Kompakt yapısı, şık tasarımı ve günlük kullanım kolaylığı sayesinde kurumsal markaların uzun süre görünür olmasına katkı sağlayan prestijli masaüstü promosyon ürünleri arasında yer almaktadır.
-
-Standlı tasarımı sayesinde telefon hem dikey hem de yatay konumda kullanılabilir. Şarj işlemi devam ederken görüntülü görüşme yapmak, bildirimleri takip etmek veya video izlemek mümkün olduğu için kullanıcı deneyimini önemli ölçüde artırmaktadır.
-
-Kablosuz hızlı şarj teknolojisi sayesinde uyumlu akıllı telefonlara pratik enerji aktarımı sağlar. Masa üzerinde kablo karmaşasını azaltarak daha düzenli ve profesyonel bir çalışma alanı oluşturur.
-
-Ön bölümde bulunan LED ışıklı logo alanı firmanızın kurumsal kimliğini dikkat çekici şekilde sergiler. Özellikle masaüstünde sürekli görünür olması sayesinde marka bilinirliğini artırırken modern ve prestijli bir görünüm sunmaktadır.
-
-Katlanabilir yapısı sayesinde kullanılmadığında kolayca taşınabilir ve minimum yer kaplar. Hafif ve kompakt tasarımı ofis, ev ve seyahatlerde rahat kullanım imkanı sunmaktadır.
-
-Dayanıklı ABS gövde yapısı uzun ömürlü kullanım sağlarken UV baskı ve LED logo uygulamalarına uygun yüzeyi sayesinde firmanıza özel kurumsal logo çalışmaları profesyonel şekilde uygulanabilmektedir.
-
-Promosyon wireless şarj cihazları; teknoloji firmaları, bankalar, otomotiv sektörü, reklam ajansları, eğitim kurumları ve kurumsal işletmeler tarafından çalışan hediyesi, müşteri promosyonu, fuar organizasyonları, lansman etkinlikleri ve kurumsal marka tanıtımlarında sıklıkla tercih edilmektedir.
-
-NEDEN PROMOSYON WIRELESS ŞARJ CİHAZI TT-477 TERCİH EDİLMELİ?
-
-• Standlı kablosuz şarj tasarımı
-• Dikey ve yatay telefon kullanımına uygundur
-• Hızlı kablosuz şarj desteği
-• LED ışıklı logo alanı
-• Katlanabilir kompakt yapı
-• Type-C bağlantı girişi
-• Dayanıklı ABS gövde
-• UV baskıya uygun yüzey
-• Masaüstünde düzenli kullanım sağlar
-• Premium teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Ofis masaüstü kullanımı
-• Teknoloji firmaları
-• Fuar ve organizasyonlar
-• Çalışan hediyeleri
-• Müşteri promosyonları
-• Lansman etkinlikleri
-• Reklam kampanyaları
-• Yönetici masaları
-• Kurumsal marka tanıtımları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Reklam ajansları
-• Kurumsal satın alma ekipleri
-• Yönetici kadroları
-• Satış ekipleri
-• Mobil cihaz kullanıcıları
-• Premium kurumsal hediye arayan işletmeler
-
-PROMOSYON WIRELESS ŞARJ CİHAZI FİYATLARI
-
-Promosyon wireless şarj cihazı fiyatları; sipariş miktarı, logo uygulaması ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• UV baskı uygulanabilmektedir.
-• LED ışıklı logo uygulaması yapılabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu alımlarda özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Wireless Şarj Cihazı
-Model: TT-477
-Kategori: Teknolojik Ürünler
-Şarj Türü: Kablosuz (Wireless)
-Kullanım: Akıllı Telefonlar
-Tasarım: Standlı ve Katlanabilir Masaüstü Tasarım
-Bağlantı Girişi: Type-C
-Logo Özelliği: LED Işıklı Logo Alanı
-Baskı Türü: UV Baskı ve LED Logo Uygulaması
-Materyal: ABS Plastik
-Kullanım Alanı: Kurumsal ve Profesyonel Masaüstü Kullanımı
-
-Promosyon wireless şarj cihazı TT-477, standlı masaüstü tasarımı, hızlı kablosuz şarj desteği, LED ışıklı logo alanı ve katlanabilir yapısıyla markaların kurumsal görünürlüğünü artıran premium teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "TT-477 hangi cihazlar için uygundur?",
-      a: "TT-477 modeli kablosuz şarj desteğine sahip uyumlu akıllı telefonlar için tasarlanmıştır.",
-    },
-    {
-      q: "Telefon şarj olurken kullanılabilir mi?",
-      a: "Evet. Standlı tasarımı sayesinde telefon hem dikey hem de yatay konumda şarj edilirken rahatlıkla kullanılabilir.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine UV baskı uygulanabilir ve LED ışıklı logo alanı sayesinde marka görünürlüğü artırılabilir.",
-    },
-    {
-      q: "TT-477 masaüstü kullanımına uygun mudur?",
-      a: "Evet. Kompakt ve katlanabilir yapısı sayesinde ofis, ev ve çalışma masalarında pratik kullanım sunmaktadır.",
-    },
-    {
-      q: "Bağlantı tipi nedir?",
-      a: "TT-477 modeli Type-C giriş üzerinden güç bağlantısı sağlamaktadır.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. TT-477 modeli fuarlar, kurumsal etkinlikler, çalışan hediyeleri ve müşteri promosyonları için toplu siparişe uygundur.",
-    },
-  ],
+  title: "Promosyon 15 W Wireless Şarjlı Bluetooth Hoparlör ve LED Lamba TT-150",
+  image: "/products/promosyon-teknolojik-tt-150-v2.jpg",
+  shortDesc: "TT-150, 25 x 13 x 43 cm ölçüsüyle şarj cihazı, Bluetooth hoparlör ve LED aydınlatmayı masa üzerinde birleştiren modeldir. Kablosuz şarj: 15 W.",
+  longDesc: "TT-150, 25 x 13 x 43 cm ölçüsüyle şarj cihazı, Bluetooth hoparlör ve LED aydınlatmayı masa üzerinde birleştiren modeldir. 15 W kablosuz şarjı ve üç renk LED ışığı, bu ürünü basit telefon standlarından ayırır.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-150\nÖlçü: 25 x 13 x 43 cm\nKablosuz şarj: 15 W\nBluetooth sürümü: 5.1\nAydınlatma: 3 renk LED ışık\nLogo alanı: Işıklı LED baskı alanı\nRenk: Siyah\n\nKULLANIM VE UYUMLULUK\n\nKablosuz şarj için uyumlu telefon ve uygun güç kaynağı gerekir. Bluetooth 5.1 hoparlör, LED aydınlatma ve şarj işlevlerinin bağlantı ayrıntıları sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nIşıklı LED baskı alanı bulunmaktadır. Logo alanı ve uygulama yöntemi sipariş tasarımıyla birlikte netleştirilir.\n\nSİPARİŞ\n\nTT-150 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"TT-150 hangi cihazlar için uygundur?","a":"Kablosuz şarj için uyumlu telefon ve uygun güç kaynağı gerekir. Bluetooth 5.1 hoparlör, LED aydınlatma ve şarj işlevlerinin bağlantı ayrıntıları sipariş öncesinde netleştirilir."},{"q":"Telefon şarj olurken kullanılabilir mi?","a":"Ölçü: 25 x 13 x 43 cm; Kablosuz şarj: 15 W; Bluetooth sürümü: 5.1; Aydınlatma: 3 renk LED ışık; Logo alanı: Işıklı LED baskı alanı; Renk: Siyah. Kablosuz şarj için uyumlu telefon ve uygun güç kaynağı gerekir. Bluetooth 5.1 hoparlör, LED aydınlatma ve şarj işlevlerinin bağlantı ayrıntıları sipariş öncesinde netleştirilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Işıklı LED baskı alanı bulunmaktadır. Logo alanı ve uygulama yöntemi sipariş tasarımıyla birlikte netleştirilir."},{"q":"TT-150 masaüstü kullanımına uygun mudur?","a":"Ölçü: 25 x 13 x 43 cm; Kablosuz şarj: 15 W; Bluetooth sürümü: 5.1; Aydınlatma: 3 renk LED ışık; Logo alanı: Işıklı LED baskı alanı; Renk: Siyah. Kablosuz şarj için uyumlu telefon ve uygun güç kaynağı gerekir. Bluetooth 5.1 hoparlör, LED aydınlatma ve şarj işlevlerinin bağlantı ayrıntıları sipariş öncesinde netleştirilir."},{"q":"Bağlantı tipi nedir?","a":"Kablosuz şarj için uyumlu telefon ve uygun güç kaynağı gerekir. Bluetooth 5.1 hoparlör, LED aydınlatma ve şarj işlevlerinin bağlantı ayrıntıları sipariş öncesinde netleştirilir."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"TT-150 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 2200
 },
 {
   id: "p590",
-
   slug: "promosyon-arac-ici-telefon-tutucu-tt-480-magsafe-wireless-sarjli",
-
-  price: 640,
-
-  title:
-    "Promosyon Araç İçi Telefon Tutucu TT-480 | 22.5W MagSafe Wireless Şarjlı Manyetik Telefon Tutucu",
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon 22,5 W MagSafe Araç İçi Telefon Tutucu TT-100",
   image: "/products/promosyon-arac-ici-telefon-tutucu-tt-480.jpg",
-
-  shortDesc:
-    "Promosyon araç içi telefon tutucu TT-480, 22.5W kablosuz şarj desteği, MagSafe uyumlu manyetik yapısı ve havalandırma ızgarasına kolay montaj özelliğiyle kurumsal tanıtımlar için premium teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon araç içi telefon tutucu TT-480, güçlü manyetik tutuş sistemi ve kablosuz hızlı şarj özelliğini tek gövdede birleştiren modern teknolojik promosyon ürünlerinden biridir. Araç içerisinde telefonun güvenli şekilde sabitlenmesini sağlarken aynı anda kablosuz şarj imkanı sunarak sürüş konforunu artırmaktadır.
-
-MagSafe uyumlu manyetik sistemi sayesinde telefon güvenli şekilde tutucuya sabitlenir. Güçlü mıknatıs yapısı sayesinde günlük kullanımda telefonun dengeli şekilde konumlandırılmasına yardımcı olur ve sürüş sırasında kullanım kolaylığı sağlar.
-
-22.5W kablosuz hızlı şarj desteği sayesinde uyumlu cihazlar araç kullanımı sırasında pratik şekilde şarj edilebilir. Navigasyon uygulamaları, müzik dinleme ve telefon görüşmeleri sırasında batarya seviyesinin korunmasına katkı sağlar.
-
-Havalandırma ızgarasına monte edilen kompakt tasarımı sayesinde araç içerisinde fazla yer kaplamaz. Modern görünümü araç içi dekorasyonla uyum sağlarken kolay montaj özelliği sayesinde ek aparata ihtiyaç duyulmadan kullanılabilir.
-
-Tek elle kullanım sağlayan ergonomik yapısı sayesinde telefon kolayca yerleştirilebilir ve çıkarılabilir. Bu özellik günlük kullanımda hem pratiklik hem de sürüş güvenliği açısından önemli avantaj sunmaktadır.
-
-Dayanıklı ABS gövde yapısı uzun ömürlü kullanım sağlarken ön yüzey logo baskısına uygundur. Kurumsal logo uygulamaları sayesinde marka görünürlüğü araç içerisinde uzun süre devam ederek etkili reklam değeri oluşturur.
-
-Promosyon araç içi telefon tutucu modelleri; otomotiv firmaları, teknoloji şirketleri, lojistik işletmeleri, filo yönetim firmaları, reklam ajansları ve kurumsal markalar tarafından çalışan hediyesi, müşteri promosyonu, bayi organizasyonları ve fuar etkinliklerinde sıklıkla tercih edilmektedir.
-
-NEDEN PROMOSYON ARAÇ İÇİ TELEFON TUTUCU TT-480 TERCİH EDİLMELİ?
-
-• 22.5W kablosuz hızlı şarj desteği
-• MagSafe uyumlu manyetik sistem
-• Güçlü telefon tutuşu
-• Havalandırma ızgarasına kolay montaj
-• Tek elle kullanım kolaylığı
-• Kompakt ve modern tasarım
-• Dayanıklı ABS gövde
-• Logo baskıya uygun yüzey
-• Araç içerisinde düzenli kullanım sağlar
-• Premium teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Otomotiv sektörü
-• Filo yönetim firmaları
-• Teknoloji şirketleri
-• Saha ekipleri
-• Araç kullanan satış ekipleri
-• Fuar ve organizasyonlar
-• Müşteri hediyeleri
-• Reklam kampanyaları
-• Kurumsal marka tanıtımları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Otomotiv markaları
-• Teknoloji şirketleri
-• Reklam ajansları
-• Satış ekipleri
-• Saha personelleri
-• Profesyonel sürücüler
-• Premium kurumsal hediye arayan işletmeler
-
-PROMOSYON ARAÇ İÇİ TELEFON TUTUCU FİYATLARI
-
-Promosyon araç içi telefon tutucu fiyatları; sipariş miktarı, logo uygulaması ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ürün üzerine firma logosu uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Araç İçi Telefon Tutucu
-Model: TT-480
-Kategori: Teknolojik Ürünler
-Şarj Türü: Kablosuz (Wireless)
-Şarj Gücü: 22.5W
-Uyumluluk: MagSafe Uyumlu Cihazlar
-Montaj Şekli: Havalandırma Izgarası
-Tasarım: Manyetik Araç İçi Telefon Tutucu
-Bağlantı Girişi: Type-C
-Materyal: ABS + Manyetik Sistem
-Baskı Türü: Logo Baskıya Uygun
-Kullanım Alanı: Araç İçi ve Kurumsal Kullanım
-
-Promosyon araç içi telefon tutucu TT-480, 22.5W kablosuz hızlı şarj desteği, MagSafe uyumlu güçlü manyetik sistemi ve araç içi kullanıma uygun kompakt tasarımıyla markaların prestijini artıran premium teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "TT-480 hangi telefonlarla uyumludur?",
-      a: "TT-480, MagSafe uyumlu cihazlarla kullanılmak üzere tasarlanmıştır. Kablosuz şarj destekleyen uyumlu telefonlarla da kullanılabilir.",
-    },
-    {
-      q: "Araç içerisine nasıl monte edilir?",
-      a: "Ürün, havalandırma ızgarasına kolayca takılarak kısa sürede kullanıma hazır hale gelir.",
-    },
-    {
-      q: "Kablosuz şarj gücü ne kadardır?",
-      a: "TT-480 modeli 22.5W kablosuz hızlı şarj desteği sunmaktadır.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "Manyetik sistem telefonu güvenli şekilde tutar mı?",
-      a: "Evet. Güçlü manyetik yapısı sayesinde uyumlu cihazların araç kullanımı sırasında dengeli şekilde sabitlenmesine yardımcı olur.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. TT-480 modeli otomotiv firmaları, teknoloji şirketleri, fuarlar ve kurumsal promosyon projeleri için toplu siparişe uygundur.",
-    },
-  ],
+  shortDesc: "TT-100, araç içi telefon tutucu işlevini 22,5 W olarak belirtilen wireless şarj özelliğiyle birleştirir. Kablosuz şarj: 22,5 W olarak belirtilmiştir.",
+  longDesc: "TT-100, araç içi telefon tutucu işlevini 22,5 W olarak belirtilen wireless şarj özelliğiyle birleştirir. MagSafe yapısını kullanmak isteyenler için telefon ve kılıf uyumu, araçtaki montaj noktasıyla birlikte değerlendirilmelidir.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-100\nÜrün tipi: Araç içi telefon tutucu\nKablosuz şarj: 22,5 W olarak belirtilmiştir\nManyetik sistem: MagSafe\n\nKULLANIM VE UYUMLULUK\n\nMagSafe ve kablosuz şarj uyumu, telefon ve kılıf modeline bağlıdır. Belirtilen 22,5 W değeri her telefonun bu güçte şarj olacağı anlamına gelmez; güç kaynağı ve montaj uyumu ayrıca değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nTT-100 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"TT-100 hangi telefonlarla uyumludur?","a":"MagSafe ve kablosuz şarj uyumu, telefon ve kılıf modeline bağlıdır. Belirtilen 22,5 W değeri her telefonun bu güçte şarj olacağı anlamına gelmez; güç kaynağı ve montaj uyumu ayrıca değerlendirilir."},{"q":"Araç içerisine nasıl monte edilir?","a":"MagSafe ve kablosuz şarj uyumu, telefon ve kılıf modeline bağlıdır. Belirtilen 22,5 W değeri her telefonun bu güçte şarj olacağı anlamına gelmez; güç kaynağı ve montaj uyumu ayrıca değerlendirilir."},{"q":"Kablosuz şarj gücü ne kadardır?","a":"MagSafe ve kablosuz şarj uyumu, telefon ve kılıf modeline bağlıdır. Belirtilen 22,5 W değeri her telefonun bu güçte şarj olacağı anlamına gelmez; güç kaynağı ve montaj uyumu ayrıca değerlendirilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"Manyetik sistem telefonu güvenli şekilde tutar mı?","a":"MagSafe ve kablosuz şarj uyumu, telefon ve kılıf modeline bağlıdır. Belirtilen 22,5 W değeri her telefonun bu güçte şarj olacağı anlamına gelmez; güç kaynağı ve montaj uyumu ayrıca değerlendirilir."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"TT-100 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 720
 },
 {
   id: "p591",
-
   slug: "promosyon-arac-ici-telefon-tutucu-tt-490-manyetik-kompakt",
-
-  price: 128,
-
-  title:
-    "Promosyon Araç İçi Telefon Tutucu TT-490 | Manyetik Kompakt Telefon Sabitleyici, Logo Baskılı",
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon Kompakt Araç İçi Telefon Tutucu TT-110",
   image: "/products/promosyon-arac-ici-telefon-tutucu-tt-490.jpg",
-
-  shortDesc:
-    "Promosyon araç içi telefon tutucu TT-490, güçlü manyetik sistemi, kompakt tasarımı ve logo baskıya uygun yüzeyiyle araç kullanımında pratiklik sunan teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon araç içi telefon tutucu TT-490, kompakt tasarımı ve güçlü manyetik tutuş sistemi sayesinde araç içerisinde telefonun güvenli şekilde sabitlenmesini sağlayan kullanışlı teknolojik promosyon ürünlerinden biridir. Günlük sürüşlerde telefonun kolay erişilebilir konumda tutulmasına yardımcı olurken kurumsal markalar için uzun süreli görünürlük sağlayan etkili promosyon çözümleri arasında yer almaktadır.
-
-Minimal tasarımı sayesinde araç içerisinde fazla yer kaplamaz ve modern araç içi dekorasyonuyla uyumlu bir görünüm sunar. Küçük boyutlarına rağmen güçlü manyetik yapısı sayesinde uyumlu telefonların dengeli şekilde sabitlenmesine yardımcı olur.
-
-Kolay montaj özelliği sayesinde araç içerisinde kısa sürede kullanıma hazır hale gelir. Pratik yapısı sayesinde günlük kullanım sırasında telefonu kolayca yerleştirme ve çıkarma imkanı sunarak sürüş konforunu artırır.
-
-Dayanıklı ABS gövde yapısı uzun ömürlü kullanım sağlarken günlük kullanımda oluşabilecek aşınmalara karşı dayanıklılık sunmaktadır. Hafif yapısı sayesinde araç içerisinde ek ağırlık oluşturmaz.
-
-Ürünün ön yüzeyi firmanıza özel logo baskısı uygulanmasına uygundur. Araç içerisinde sürekli görünür konumda bulunması sayesinde markanızın uzun süre dikkat çekmesini sağlayarak etkili kurumsal tanıtım imkanı sunmaktadır.
-
-Promosyon araç içi telefon tutucu modelleri; otomotiv firmaları, filo yönetim şirketleri, lojistik firmaları, teknoloji markaları, reklam ajansları ve kurumsal işletmeler tarafından müşteri hediyesi, çalışan promosyonu, bayi organizasyonları ve fuar etkinliklerinde tercih edilmektedir.
-
-NEDEN PROMOSYON ARAÇ İÇİ TELEFON TUTUCU TT-490 TERCİH EDİLMELİ?
-
-• Güçlü manyetik telefon tutuşu
-• Kompakt ve hafif tasarım
-• Araç içerisinde minimum yer kaplar
-• Kolay montaj özelliği
-• Tek elle pratik kullanım
-• Dayanıklı ABS gövde
-• Logo baskıya uygun yüzey
-• Günlük araç kullanımına uygundur
-• Uzun süre marka görünürlüğü sağlar
-• Ekonomik teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Otomotiv sektörü
-• Filo yönetim firmaları
-• Saha satış ekipleri
-• Kurye ve lojistik firmaları
-• Fuar ve organizasyonlar
-• Müşteri hediyeleri
-• Reklam kampanyaları
-• Araç içi kullanım
-• Kurumsal marka tanıtımları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Otomotiv markaları
-• Reklam ajansları
-• Satış ekipleri
-• Saha personelleri
-• Profesyonel sürücüler
-• Filo yöneticileri
-• Promosyon ürünleri satın alan işletmeler
-
-PROMOSYON ARAÇ İÇİ TELEFON TUTUCU FİYATLARI
-
-Promosyon araç içi telefon tutucu fiyatları; sipariş miktarı, logo baskı uygulaması ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ürün üzerine firma logosu uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Araç İçi Telefon Tutucu
-Model: TT-490
-Kategori: Teknolojik Ürünler
-Tasarım: Manyetik Telefon Tutucu
-Montaj Şekli: Yapıştırma / Sabitleme
-Uyumluluk: Akıllı Telefonlar
-Materyal: ABS Plastik + Manyetik Sistem
-Baskı Türü: Logo Baskıya Uygun
-Kullanım Alanı: Araç İçi ve Kurumsal Kullanım
-
-Promosyon araç içi telefon tutucu TT-490, güçlü manyetik yapısı, kompakt tasarımı ve logo baskıya uygun modern gövdesiyle araç içerisinde güvenli telefon kullanımı sunan ekonomik teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon araç içi telefon tutucu TT-490 hangi telefonlarla kullanılabilir?",
-      a: "TT-490 modeli uygun manyetik aparat kullanılan akıllı telefonlarla kullanılabilmektedir.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürünün ön yüzeyine firmanıza özel logo baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "Araç içerisine montajı kolay mıdır?",
-      a: "Evet. Yapıştırma ve sabitleme sistemi sayesinde araç içerisine pratik şekilde monte edilebilir.",
-    },
-    {
-      q: "Manyetik sistem telefonu güvenli şekilde tutar mı?",
-      a: "Evet. Güçlü manyetik yapısı sayesinde uyumlu telefonların günlük sürüş sırasında dengeli şekilde sabitlenmesine yardımcı olur.",
-    },
-    {
-      q: "TT-490 kablosuz şarj özelliğine sahip midir?",
-      a: "Hayır. TT-490 modeli telefon sabitleme amacıyla tasarlanmış manyetik araç içi telefon tutucudur ve kablosuz şarj özelliği bulunmamaktadır.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. TT-490 modeli otomotiv firmaları, filo yönetim şirketleri, fuarlar ve kurumsal promosyon projeleri için toplu siparişe uygundur.",
-    },
-  ],
+  shortDesc: "TT-110, araçta telefon sabitleme amacıyla sunulan kompakt bir tutucudur. Ürün tipi: Araç içi telefon tutucu.",
+  longDesc: "TT-110, araçta telefon sabitleme amacıyla sunulan kompakt bir tutucudur. Şarj ünitesi aramayan ve önceliğini tutucu formuna veren kullanıcılar için diğer araç içi modellerden ayrı değerlendirilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-110\nÜrün tipi: Araç içi telefon tutucu\nGövde: Kompakt tasarım\n\nKULLANIM VE UYUMLULUK\n\nTelefonun boyutu, kılıfı ve araçtaki montaj noktası birlikte değerlendirilir. Kablosuz şarj özelliği belirtilmediğinden bu model için şarj desteği taahhüt edilmez.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nTT-110 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon araç içi telefon tutucu TT-110 hangi telefonlarla kullanılabilir?","a":"TT-110 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"Araç içerisine montajı kolay mıdır?","a":"Telefonun boyutu, kılıfı ve araçtaki montaj noktası birlikte değerlendirilir. Kablosuz şarj özelliği belirtilmediğinden bu model için şarj desteği taahhüt edilmez."},{"q":"Manyetik sistem telefonu güvenli şekilde tutar mı?","a":"Telefonun boyutu, kılıfı ve araçtaki montaj noktası birlikte değerlendirilir. Kablosuz şarj özelliği belirtilmediğinden bu model için şarj desteği taahhüt edilmez."},{"q":"TT-110 kablosuz şarj özelliğine sahip midir?","a":"Telefonun boyutu, kılıfı ve araçtaki montaj noktası birlikte değerlendirilir. Kablosuz şarj özelliği belirtilmediğinden bu model için şarj desteği taahhüt edilmez."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"TT-110 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 144
 },
 {
   id: "p592",
-
   slug: "promosyon-telefon-standi-tt-500-katlanabilir-masaustu",
-
-  price: 120,
-
-  title:
-    "Promosyon Telefon Standı TT-500 | Katlanabilir Ayarlanabilir Masaüstü Telefon Tutucu",
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon Siyah Masaüstü Telefon Standı TT-120",
   image: "/products/promosyon-telefon-standi-tt-500.jpg",
-
-  shortDesc:
-    "Promosyon telefon standı TT-500, katlanabilir ve ayarlanabilir masaüstü tasarımı, kaymaz destek yüzeyi ve logo baskıya uygun yapısıyla günlük kullanıma uygun pratik teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon telefon standı TT-500, masaüstü kullanım için geliştirilen katlanabilir ve ayarlanabilir yapısıyla günlük kullanım kolaylığı sağlayan teknolojik promosyon ürünlerinden biridir. Ofislerde, ev çalışma alanlarında ve eğitim ortamlarında telefonun ergonomik şekilde kullanılmasına yardımcı olurken markanızın uzun süre görünür kalmasını sağlayan etkili promosyon çözümleri arasında yer almaktadır.
-
-Katlanabilir tasarımı sayesinde kullanılmadığında minimum alan kaplar ve çanta içerisinde kolaylıkla taşınabilir. Hafif yapısı sayesinde ofis, ev, seyahat ve farklı çalışma ortamlarında pratik kullanım sunmaktadır.
-
-Ayarlanabilir gövde yapısı sayesinde telefon farklı açılarda konumlandırılabilir. Görüntülü toplantılar, video izleme, canlı yayın, online eğitim ve günlük masaüstü kullanımı sırasında ergonomik bir kullanım deneyimi sağlar.
-
-Kaymaz destek yüzeyi telefonun güvenli şekilde sabitlenmesine yardımcı olur. Destek noktaları cihazın dengeli şekilde durmasını sağlayarak kullanım sırasında konfor sunmaktadır.
-
-Modern ve sade tasarımı sayesinde çalışma masalarına estetik bir görünüm kazandırırken kompakt yapısı masa üzerinde gereksiz yer kaplamaz. Minimal tasarımı farklı dekorasyonlara kolaylıkla uyum sağlar.
-
-Dayanıklı ABS gövde yapısı uzun ömürlü kullanım sunarken ürün üzerine uygulanabilen logo baskısı sayesinde markanız her kullanımda görünür olmaya devam eder. Sürekli masa üzerinde bulunan bir ürün olması nedeniyle kurumsal tanıtım açısından uzun vadeli reklam değeri oluşturmaktadır.
-
-Promosyon telefon standı modelleri; teknoloji firmaları, eğitim kurumları, bankalar, reklam ajansları, kurumsal işletmeler ve ofis çalışanları için fuarlar, seminerler, çalışan hediyeleri, müşteri promosyonları ve marka tanıtım kampanyalarında tercih edilen kullanışlı masaüstü aksesuarları arasında yer almaktadır.
-
-NEDEN PROMOSYON TELEFON STANDI TT-500 TERCİH EDİLMELİ?
-
-• Katlanabilir tasarım
-• Ayarlanabilir telefon açısı
-• Kaymaz destek yüzeyi
-• Masaüstü kullanım için ideal yapı
-• Hafif ve taşınabilir tasarım
-• Dayanıklı ABS gövde
-• Logo baskıya uygun yüzey
-• Ergonomik kullanım sağlar
-• Uzun süre marka görünürlüğü oluşturur
-• Ekonomik teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Ofis masaüstü kullanımı
-• Ev çalışma alanları
-• Uzaktan eğitim
-• Online toplantılar
-• Video izleme
-• Fuar ve organizasyonlar
-• Çalışan hediyeleri
-• Müşteri promosyonları
-• Kurumsal marka tanıtımları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Eğitim kurumları
-• Reklam ajansları
-• Ofis çalışanları
-• Satış ekipleri
-• Mobil cihaz kullanıcıları
-• Promosyon ürünleri satın alan işletmeler
-
-PROMOSYON TELEFON STANDI FİYATLARI
-
-Promosyon telefon standı fiyatları; sipariş miktarı, logo baskısı ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ürün üzerine firma logosu uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Telefon Standı
-Model: TT-500
-Kategori: Teknolojik Ürünler
-Tasarım: Katlanabilir ve Ayarlanabilir
-Kullanım: Masaüstü
-Uyumluluk: Akıllı Telefonlar
-Destek Yüzeyi: Kaymaz
-Materyal: ABS Plastik
-Baskı Türü: Logo Baskıya Uygun
-Kullanım Alanı: Ofis, Ev ve Kurumsal Masaüstü Kullanımı
-
-Promosyon telefon standı TT-500, katlanabilir ve ayarlanabilir yapısı, kaymaz destek yüzeyi ve logo baskıya uygun modern tasarımıyla kurumsal markaların uzun süre görünür olmasını sağlayan kullanışlı teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon telefon standı TT-500 hangi telefonlarla uyumludur?",
-      a: "TT-500 modeli, farklı boyutlardaki akıllı telefonlarla uyumlu olarak kullanılabilmektedir.",
-    },
-    {
-      q: "Telefon standının açısı ayarlanabilir mi?",
-      a: "Evet. Ayarlanabilir gövde yapısı sayesinde telefonu farklı açılarda konumlandırabilirsiniz.",
-    },
-    {
-      q: "Ürün katlanabilir mi?",
-      a: "Evet. TT-500 katlanabilir tasarımı sayesinde kolay taşınabilir ve kullanılmadığında minimum yer kaplar.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "Telefon standı masaüstü kullanımı için uygun mudur?",
-      a: "Evet. Ofis, ev, eğitim ve çalışma alanlarında günlük masaüstü kullanımı için tasarlanmıştır.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. TT-500 modeli fuarlar, çalışan hediyeleri, müşteri promosyonları ve kurumsal tanıtım projeleri için toplu siparişe uygundur.",
-    },
-  ],
+  shortDesc: "TT-120, siyah renkli ayaklı tasarımıyla telefonu masa üzerinde konumlandırmak için sunulan bir standdır. Ürün tipi: Telefon standı.",
+  longDesc: "TT-120, siyah renkli ayaklı tasarımıyla telefonu masa üzerinde konumlandırmak için sunulan bir standdır. Görüntülü görüşme ve masa başında ekran takibi gibi kullanım amaçları için cihazın ölçüsüne göre seçilebilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-120\nÜrün tipi: Telefon standı\nRenk: Siyah\nKullanım: Masaüstü\n\nKULLANIM VE UYUMLULUK\n\nTelefon ve kılıf ölçüsünün standın taşıma alanına uygunluğu kontrol edilmelidir. Bu model, şarj ünitesi yerine telefon standı olarak sunulmaktadır.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nTT-120 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon telefon standı TT-120 hangi telefonlarla uyumludur?","a":"TT-120 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Telefon standının açısı ayarlanabilir mi?","a":"Ürün tipi: Telefon standı; Renk: Siyah; Kullanım: Masaüstü. Katlama ve açı aralığının kullanım ihtiyacınıza uygunluğu sipariş öncesinde kontrol edilir."},{"q":"Ürün katlanabilir mi?","a":"Ürün tipi: Telefon standı; Renk: Siyah; Kullanım: Masaüstü. Katlama ve açı aralığının kullanım ihtiyacınıza uygunluğu sipariş öncesinde kontrol edilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"Telefon standı masaüstü kullanımı için uygun mudur?","a":"Ürün tipi: Telefon standı; Renk: Siyah; Kullanım: Masaüstü. Telefon ve kılıf ölçüsünün standın taşıma alanına uygunluğu kontrol edilmelidir. Bu model, şarj ünitesi yerine telefon standı olarak sunulmaktadır."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"TT-120 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 120
 },
 {
   id: "p593",
@@ -47838,253 +45721,25 @@ Promosyon telefon standı TT-510, katlanabilir plastik yapısı, farklı renk se
 },
 {
   id: "p594",
-
   slug: "promosyon-arac-ici-telefon-tutucu-tt-520-15w-magsafe-wireless",
-
-  title:
-    "Promosyon Araç İçi Telefon Tutucu TT-520 | 15W MagSafe Wireless Şarjlı Manyetik Telefon Tutucu",
-
-  price: 520,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon 15 W MagSafe Araç İçi Telefon Tutucu TT-200",
   image: "/products/promosyon-arac-ici-telefon-tutucu-tt-520.jpg",
-
-  shortDesc:
-    "Promosyon araç içi telefon tutucu TT-520, 15W kablosuz şarj desteği, MagSafe uyumlu manyetik sistemi ve kompakt tasarımıyla araç kullanımını kolaylaştıran premium teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon araç içi telefon tutucu TT-520, MagSafe uyumlu manyetik yapısı ve 15W kablosuz hızlı şarj özelliğiyle sürüş sırasında güvenli ve konforlu kullanım sunan teknolojik promosyon ürünlerinden biridir. Kompakt tasarımı sayesinde araç içerisinde minimum yer kaplarken telefonun güvenli şekilde sabitlenmesini ve aynı anda kablosuz olarak şarj edilmesini sağlar.
-
-Güçlü manyetik sistemi sayesinde MagSafe uyumlu telefonlar kolayca tutucuya yerleştirilebilir. Dengeli tutuş sağlayan yapısı günlük sürüşlerde telefonun sabit kalmasına yardımcı olur ve navigasyon kullanımını daha konforlu hale getirir.
-
-15W kablosuz hızlı şarj desteği sayesinde uyumlu akıllı telefonlar araç kullanımı sırasında pratik şekilde şarj edilebilir. Böylece navigasyon, müzik dinleme, telefon görüşmeleri ve diğer uygulamalar kullanılmaya devam ederken batarya seviyesi korunabilir.
-
-Havalandırma ızgarasına kolay monte edilen kompakt tasarımı araç içerisinde fazla yer kaplamaz. Modern görünümü sayesinde farklı araç içi tasarımlarla uyum sağlar ve estetik bir kullanım sunar.
-
-Tek elle kullanım sağlayan ergonomik yapısı sayesinde telefon kolayca yerleştirilebilir ve çıkarılabilir. Bu kullanım kolaylığı sürüş sırasında dikkat dağınıklığını azaltmaya yardımcı olur.
-
-Dayanıklı ABS gövde yapısı uzun ömürlü kullanım sunarken ön yüzeyi firma logosu uygulanmasına uygundur. Logo baskısı sayesinde markanız araç içerisinde sürekli görünür olarak uzun süre reklam değeri oluşturur.
-
-Promosyon araç içi telefon tutucu modelleri; otomotiv firmaları, teknoloji markaları, filo yönetim şirketleri, lojistik firmaları, reklam ajansları ve kurumsal işletmeler tarafından müşteri hediyesi, çalışan promosyonu, bayi organizasyonları ve fuar etkinliklerinde tercih edilen teknolojik promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON ARAÇ İÇİ TELEFON TUTUCU TT-520 TERCİH EDİLMELİ?
-
-• 15W kablosuz hızlı şarj desteği
-• MagSafe uyumlu manyetik sistem
-• Güçlü telefon tutuşu
-• Havalandırma ızgarasına kolay montaj
-• Tek elle kullanım kolaylığı
-• Kompakt ve modern tasarım
-• Dayanıklı ABS gövde
-• Logo baskıya uygun yüzey
-• Araç içerisinde düzenli kullanım sağlar
-• Premium teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Otomotiv sektörü
-• Teknoloji firmaları
-• Filo yönetim şirketleri
-• Satış ekipleri
-• Saha personelleri
-• Fuar ve organizasyonlar
-• Müşteri hediyeleri
-• Reklam kampanyaları
-• Kurumsal marka tanıtımları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Otomotiv markaları
-• Teknoloji şirketleri
-• Reklam ajansları
-• Satış ekipleri
-• Profesyonel sürücüler
-• Mobil cihaz kullanıcıları
-• Premium kurumsal hediye arayan işletmeler
-
-PROMOSYON ARAÇ İÇİ TELEFON TUTUCU FİYATLARI
-
-Promosyon araç içi telefon tutucu fiyatları; sipariş miktarı, logo uygulaması ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ürün üzerine firma logosu uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Araç İçi Telefon Tutucu
-Model: TT-520
-Kategori: Teknolojik Ürünler
-Şarj Türü: Kablosuz (Wireless)
-Şarj Gücü: 15W
-Uyumluluk: MagSafe Uyumlu Cihazlar
-Montaj Şekli: Havalandırma Izgarası
-Tasarım: Manyetik Araç İçi Telefon Tutucu
-Bağlantı Girişi: Type-C
-Materyal: ABS + Manyetik Sistem
-Baskı Türü: Logo Baskıya Uygun
-Kullanım Alanı: Araç İçi ve Kurumsal Kullanım
-
-Promosyon araç içi telefon tutucu TT-520, 15W kablosuz hızlı şarj desteği, MagSafe uyumlu güçlü manyetik sistemi ve kompakt araç içi tasarımıyla markaların görünürlüğünü artıran premium teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon araç içi telefon tutucu TT-520 hangi telefonlarla uyumludur?",
-      a: "TT-520 modeli MagSafe uyumlu telefonlarla kullanılmak üzere tasarlanmıştır. Kablosuz şarj destekleyen uyumlu cihazlarla da kullanılabilir.",
-    },
-    {
-      q: "TT-520 kablosuz şarj desteği sunuyor mu?",
-      a: "Evet. Ürün 15W kablosuz hızlı şarj desteği sunmaktadır.",
-    },
-    {
-      q: "Araç içerisine nasıl monte edilir?",
-      a: "TT-520 havalandırma ızgarasına kolayca monte edilerek kısa sürede kullanıma hazır hale gelir.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürünün ön yüzeyine firmanıza özel logo baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "Manyetik sistem telefonu güvenli şekilde tutar mı?",
-      a: "Evet. Güçlü manyetik yapısı sayesinde uyumlu telefonların araç kullanımı sırasında dengeli şekilde sabitlenmesine yardımcı olur.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. TT-520 modeli otomotiv firmaları, teknoloji şirketleri, fuarlar ve kurumsal promosyon projeleri için toplu siparişe uygundur.",
-    },
-  ],
+  shortDesc: "TT-200, 15 W wireless şarj özelliğine sahip MagSafe araç içi telefon tutucudur. Kablosuz şarj: 15 W.",
+  longDesc: "TT-200, 15 W wireless şarj özelliğine sahip MagSafe araç içi telefon tutucudur. Telefonu araç içinde konumlandırırken kablosuz şarjdan yararlanmak isteyenler için TT-100 ile güç değeri açısından karşılaştırılabilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-200\nÜrün tipi: Araç içi telefon tutucu\nKablosuz şarj: 15 W\nManyetik sistem: MagSafe\n\nKULLANIM VE UYUMLULUK\n\nMagSafe ve wireless şarj uyumluluğu telefon ve kılıf modeline bağlıdır. 15 W değeri, cihaz ve adaptöre göre değişen şarj performansı kapsamında değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nTT-200 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon araç içi telefon tutucu TT-200 hangi telefonlarla uyumludur?","a":"TT-200 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"TT-200 kablosuz şarj desteği sunuyor mu?","a":"MagSafe ve wireless şarj uyumluluğu telefon ve kılıf modeline bağlıdır. 15 W değeri, cihaz ve adaptöre göre değişen şarj performansı kapsamında değerlendirilir."},{"q":"Araç içerisine nasıl monte edilir?","a":"MagSafe ve wireless şarj uyumluluğu telefon ve kılıf modeline bağlıdır. 15 W değeri, cihaz ve adaptöre göre değişen şarj performansı kapsamında değerlendirilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"Manyetik sistem telefonu güvenli şekilde tutar mı?","a":"MagSafe ve wireless şarj uyumluluğu telefon ve kılıf modeline bağlıdır. 15 W değeri, cihaz ve adaptöre göre değişen şarj performansı kapsamında değerlendirilir."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"TT-200 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 586
 },
 {
   id: "p595",
-
   slug: "promosyon-ayakli-aynali-telefon-standi-tt-530-katlanabilir",
-
-  title:
-    "Promosyon Aynalı Telefon Standı TT-530 | Katlanabilir Masaüstü Telefon Tutucu ve Masa Aynası",
-
-  price: 250,
-
   category: "Teknolojik Ürünler",
-
-  image: "/products/promosyon-ayakli-aynali-telefon-standi-tt-530.jpg",
-
-  shortDesc:
-    "Promosyon aynalı telefon standı TT-530, katlanabilir tasarımı, masa aynası özelliği ve logo baskıya uygun yapısıyla günlük kullanıma uygun çok amaçlı teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon aynalı telefon standı TT-530, telefon standı ve masa aynasını tek üründe buluşturan çok fonksiyonlu yapısıyla günlük kullanım kolaylığı sunan teknolojik promosyon ürünlerinden biridir. Katlanabilir tasarımı sayesinde hem masaüstünde pratik kullanım sağlar hem de çanta içerisinde rahatlıkla taşınabilir.
-
-Telefon standı olarak kullanıldığında akıllı telefonu ideal görüntüleme açısında sabit tutar. Video izleme, görüntülü görüşme, canlı yayın, çevrim içi eğitim ve günlük masaüstü kullanım sırasında konfor sağlayarak kullanıcı deneyimini artırır.
-
-Ürünün arka bölümünde bulunan ayna yüzeyi günlük kişisel bakım, makyaj kontrolü veya hızlı görünüm kontrolü için pratik kullanım sunmaktadır. Telefon standı ve masa aynasını aynı üründe buluşturması sayesinde klasik telefon standlarından ayrılmaktadır.
-
-Katlanabilir yapısı sayesinde kullanılmadığında düz şekilde kapanabilir ve minimum alan kaplar. Hafif gövdesi sayesinde ofiste, evde, seyahatte veya fuar organizasyonlarında kolayca taşınabilir.
-
-Minimal ve modern tasarımı masa üzerinde şık bir görünüm oluştururken dayanıklı plastik gövdesi uzun ömürlü kullanım sunmaktadır. Günlük kullanıma uygun sağlam yapısı sayesinde uzun süre sorunsuz şekilde kullanılabilir.
-
-Ürün üzerine uygulanabilen logo baskısı sayesinde markanız her kullanımda görünür olmaya devam eder. Masa üzerinde sürekli kullanılan bir aksesuar olması nedeniyle uzun vadeli reklam değeri sağlayan etkili promosyon ürünleri arasında yer almaktadır.
-
-Promosyon aynalı telefon standı modelleri; kozmetik firmaları, sağlık kuruluşları, güzellik merkezleri, teknoloji şirketleri, reklam ajansları, eğitim kurumları ve kurumsal işletmeler tarafından fuarlar, lansman organizasyonları, çalışan hediyeleri, müşteri promosyonları ve marka tanıtım kampanyalarında tercih edilmektedir.
-
-NEDEN PROMOSYON AYNALI TELEFON STANDI TT-530 TERCİH EDİLMELİ?
-
-• Telefon standı ve masa aynası bir arada
-• Katlanabilir kompakt tasarım
-• Hafif ve taşınabilir yapı
-• Video izleme ve görüntülü görüşmeler için idealdir
-• Günlük kişisel bakım kullanımına uygundur
-• Dayanıklı plastik gövde
-• Logo baskıya uygun yüzey
-• Masaüstünde minimum yer kaplar
-• Uzun süre marka görünürlüğü sağlar
-• Çok amaçlı teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Kozmetik sektörü
-• Güzellik merkezleri
-• Ofis masaüstü kullanımı
-• Ev kullanımı
-• Fuar ve organizasyonlar
-• Eğitim kurumları
-• Çalışan hediyeleri
-• Müşteri promosyonları
-• Kurumsal marka tanıtımları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Kozmetik markaları
-• Reklam ajansları
-• Teknoloji şirketleri
-• Ofis çalışanları
-• Mobil cihaz kullanıcıları
-• Eğitim kurumları
-• Promosyon ürünleri satın alan işletmeler
-
-PROMOSYON AYNALI TELEFON STANDI FİYATLARI
-
-Promosyon aynalı telefon standı fiyatları; sipariş miktarı, logo baskısı ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyatlandırma ve avantajlı teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Ürün üzerine firma logosu uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Aynalı Telefon Standı
-Model: TT-530
-Kategori: Teknolojik Ürünler
-Tasarım: Katlanabilir Masaüstü Telefon Standı
-Ek Özellik: Ayna Yüzeyi
-Kullanım: Masaüstü ve Taşınabilir
-Uyumluluk: Akıllı Telefonlar
-Materyal: Plastik
-Baskı Türü: Logo Baskıya Uygun
-Kullanım Alanı: Ofis, Ev ve Kurumsal Masaüstü Kullanımı
-
-Promosyon aynalı telefon standı TT-530, telefon standı ve masa aynasını tek üründe buluşturan katlanabilir tasarımı, logo baskıya uygun yapısı ve çok amaçlı kullanımıyla markaların görünürlüğünü artıran yenilikçi teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon aynalı telefon standı TT-530 hangi telefonlarla uyumludur?",
-      a: "TT-530 modeli farklı boyutlardaki akıllı telefonlarla uyumlu olarak kullanılabilmektedir.",
-    },
-    {
-      q: "Ürün hem telefon standı hem de ayna olarak kullanılabilir mi?",
-      a: "Evet. TT-530 modeli telefon standı olarak kullanılmasının yanı sıra arka bölümündeki ayna yüzeyi sayesinde günlük kullanım için pratik bir masa aynası işlevi de sunmaktadır.",
-    },
-    {
-      q: "Ürün katlanabilir mi?",
-      a: "Evet. Katlanabilir tasarımı sayesinde kolay taşınabilir ve kullanılmadığında minimum yer kaplar.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "Telefon standı hangi kullanım alanları için uygundur?",
-      a: "Video izleme, görüntülü görüşme, çevrim içi eğitim, canlı yayın ve günlük masaüstü telefon kullanımı için uygundur.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. TT-530 modeli fuarlar, kozmetik etkinlikleri, çalışan hediyeleri, müşteri promosyonları ve kurumsal tanıtım projeleri için toplu siparişe uygundur.",
-    },
-  ],
+  title: "Promosyon Ayaklı Aynalı Telefon Standı TT-210",
+  image: "/products/promosyon-teknolojik-tt-210-v2.jpg",
+  shortDesc: "TT-210, telefon standı ile aynayı aynı üründe bir araya getiren ayaklı modeldir. Ürün tipi: Ayaklı, aynalı telefon standı.",
+  longDesc: "TT-210, telefon standı ile aynayı aynı üründe bir araya getiren ayaklı modeldir. Masa üzerinde telefon konumlandırma ve ayna kullanımını birlikte isteyenler için elektronik şarj ürünlerinden farklı bir hediye seçeneğidir.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-210\nÜrün tipi: Ayaklı, aynalı telefon standı\nRenk: Siyah\nKullanım: Masaüstü\n\nKULLANIM VE UYUMLULUK\n\nTelefonun boyutu ve kılıfı, standın tutma alanıyla karşılaştırılmalıdır. Ürün, aynalı telefon standı olarak sunulur; kablosuz şarj özelliği belirtilmemiştir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nTT-210 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon aynalı telefon standı TT-210 hangi telefonlarla uyumludur?","a":"TT-210 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Ürün hem telefon standı hem de ayna olarak kullanılabilir mi?","a":"TT-210, ayaklı aynalı telefon standı olarak sunulmaktadır; hem telefon konumlandırma hem ayna kullanımı için değerlendirilebilir."},{"q":"Ürün katlanabilir mi?","a":"Ürün tipi: Ayaklı, aynalı telefon standı; Renk: Siyah; Kullanım: Masaüstü. Katlama ve açı aralığının kullanım ihtiyacınıza uygunluğu sipariş öncesinde kontrol edilir."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"Telefon standı hangi kullanım alanları için uygundur?","a":"Ürün tipi: Ayaklı, aynalı telefon standı; Renk: Siyah; Kullanım: Masaüstü. Telefonun boyutu ve kılıfı, standın tutma alanıyla karşılaştırılmalıdır. Ürün, aynalı telefon standı olarak sunulur; kablosuz şarj özelliği belirtilmemiştir."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"TT-210 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 300
 },
 {
   id: "p596",
@@ -51098,127 +48753,14 @@ Toplu teklif için ürün kodunu, adedi ve logo dosyanızı iletebilirsiniz. Bas
 },
 {
   id: "p662",
-
   slug: "promosyon-coklu-sarj-kablosu-eva-kutulu-kbl-375",
-
-  title:
-    "Promosyon Çoklu Şarj Kablosu KBL-375 | EVA Kutulu, 3'ü 1 Arada Logolu Şarj Kablosu",
-
-  price: 300,
-
   category: "Teknolojik Ürünler",
-
+  title: "Promosyon EVA Kutulu Işıklı Çoklu Şarj Kablosu KBL-130",
   image: "/products/promosyon-coklu-sarj-kablosu-eva-kutulu-kbl-375.jpg",
-
-  shortDesc:
-    "Promosyon çoklu şarj kablosu KBL-375, Android, Lightning ve Type-C uyumluluğu, EVA taşıma kutusu, anahtarlıklı tasarımı ve ışıklı lazer logo baskısıyla premium teknolojik promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon çoklu şarj kablosu KBL-375, farklı mobil cihazlarla uyumlu bağlantıları, anahtarlıklı taşınabilir tasarımı ve EVA taşıma kutusuyla kurumsal promosyon çalışmalarında tercih edilen premium teknolojik promosyon ürünlerinden biridir. Günlük kullanım kolaylığı sunarken firmanızın uzun süre görünür olmasını sağlayan yüksek değerli promosyon çözümleri arasında yer almaktadır.
-
-Android (Micro USB), Lightning ve Type-C bağlantı uçlarını tek kabloda buluşturan yapısı sayesinde farklı mobil cihazlarla uyumlu kullanım sunar. Tek kablo üzerinden birden fazla cihazın şarj edilebilmesi kullanıcıya büyük kolaylık sağlar ve günlük kullanım sırasında ihtiyaç duyulan pratikliği artırır.
-
-5V / 2.4A şarj desteği sayesinde uyumlu cihazların güvenli ve verimli şekilde şarj edilmesine yardımcı olur. Dayanıklı örgü kablo yapısı uzun ömürlü kullanım sunarken günlük taşımaya uygun sağlam bir yapı oluşturmaktadır.
-
-Ürün üzerinde bulunan yuvarlak logo alanına çift yön ışıklı lazer baskı uygulanabilmektedir. LED aydınlatmalı logo uygulaması markanızın dikkat çekmesini sağlayarak uzun süreli reklam etkisi oluşturur ve premium kurumsal hediye algısını güçlendirir.
-
-Anahtarlıklı tasarımı sayesinde çanta, sırt çantası, evrak çantası veya anahtarlık ile birlikte rahatlıkla taşınabilir. Sürekli kullanıcı yanında bulunması sayesinde markanızın görünürlüğü günlük yaşam boyunca devam eder.
-
-Birlikte sunulan EVA taşıma kutusu ürünün güvenli şekilde muhafaza edilmesini sağlar. Premium kutu sunumu sayesinde yönetici hediyeleri, VIP müşteri çalışmaları ve prestij odaklı kurumsal promosyon projeleri için şık bir alternatif oluşturmaktadır.
-
-Promosyon çoklu şarj kablosu modelleri; teknoloji firmaları, bankalar, otomotiv şirketleri, telekomünikasyon markaları, reklam ajansları, eğitim kurumları ve kurumsal işletmeler tarafından fuarlar, bayi toplantıları, lansman organizasyonları, çalışan hediyeleri ve VIP müşteri projelerinde sıklıkla tercih edilmektedir.
-
-NEDEN PROMOSYON ÇOKLU ŞARJ KABLOSU KBL-375 TERCİH EDİLMELİ?
-
-• Android, Lightning ve Type-C uyumludur
-• 3'ü 1 arada çoklu şarj sistemi
-• 5V / 2.4A şarj desteği
-• Çift yön ışıklı lazer logo baskısı
-• Premium EVA taşıma kutusu
-• Anahtarlıklı taşınabilir tasarım
-• Dayanıklı örgü kablo
-• Logo baskıya uygun geniş yüzey
-• Günlük kullanıma uygundur
-• Premium teknolojik promosyon ürünü
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Teknoloji firmaları
-• Bankalar
-• Otomotiv sektörü
-• Fuar ve organizasyonlar
-• Lansman etkinlikleri
-• Bayi toplantıları
-• Çalışan hediyeleri
-• VIP müşteri hediyeleri
-• Kurumsal marka tanıtımları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Teknoloji markaları
-• Reklam ajansları
-• Kurumsal satın alma ekipleri
-• Satış ekipleri
-• Mobil cihaz kullanıcıları
-• Bayi organizasyonları düzenleyen işletmeler
-• Premium kurumsal hediye arayan firmalar
-
-PROMOSYON ÇOKLU ŞARJ KABLOSU FİYATLARI
-
-Promosyon çoklu şarj kablosu fiyatları; sipariş miktarı, logo uygulaması, kutu seçeneği ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve kurumsal teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Çift yön ışıklı lazer logo baskısı uygulanabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Premium EVA taşıma kutusu ile sunulmaktadır.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Çoklu Şarj Kablosu
-Model: KBL-375
-Kategori: Teknolojik Ürünler
-Bağlantılar: Micro USB, Lightning, Type-C
-Şarj Desteği: 5V / 2.4A
-Tasarım: Anahtarlıklı Taşınabilir Kablo
-Kutu: EVA Taşıma Kutusu
-Baskı Türü: Çift Yön Işıklı Lazer Baskı
-Kullanım Alanı: Kurumsal ve Günlük Mobil Kullanım
-
-Promosyon çoklu şarj kablosu KBL-375, Android, Lightning ve Type-C uyumluluğu, 5V / 2.4A şarj desteği, premium EVA taşıma kutusu, anahtarlıklı taşınabilir tasarımı ve çift yön ışıklı lazer logo baskısıyla markaların görünürlüğünü artıran prestijli teknolojik promosyon ürünlerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon çoklu şarj kablosu KBL-375 hangi cihazlarla uyumludur?",
-      a: "KBL-375 modeli Micro USB, Lightning ve Type-C bağlantısına sahip uyumlu akıllı telefonlar, tabletler ve diğer mobil cihazlarla kullanılabilmektedir.",
-    },
-    {
-      q: "Ürün hızlı şarj desteği sunuyor mu?",
-      a: "Evet. KBL-375 modeli 5V / 2.4A şarj desteği sunmaktadır.",
-    },
-    {
-      q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine çift yön ışıklı lazer logo baskısı uygulanabilmektedir.",
-    },
-    {
-      q: "EVA taşıma kutusu ürünle birlikte geliyor mu?",
-      a: "Evet. Ürün premium EVA taşıma kutusu ile birlikte sunulmaktadır.",
-    },
-    {
-      q: "Anahtarlıklı tasarım ne avantaj sağlar?",
-      a: "Anahtarlıklı yapısı sayesinde ürün çanta veya anahtarlıkla birlikte kolayca taşınabilir ve günlük kullanımda her zaman erişilebilir olur.",
-    },
-    {
-      q: "Kurumsal toplu sipariş verilebilir mi?",
-      a: "Evet. KBL-375 modeli fuarlar, bayi toplantıları, çalışan hediyeleri ve kurumsal promosyon projeleri için toplu siparişe uygundur.",
-    },
-  ],
+  shortDesc: "KBL-130, anahtarlık halkalı çoklu kablo yapısını EVA taşıma kutusuyla birleştirir. Elektrik değeri: 5 V / 2,4 A.",
+  longDesc: "KBL-130, anahtarlık halkalı çoklu kablo yapısını EVA taşıma kutusuyla birleştirir. Çift yönlü ışıklı lazer uygulaması desteklenen model, logosunu kablo gövdesinde göstermek isteyen firmalar için bir seçenektir.\n\nTEKNİK ÖZELLİKLER\n\nModel: KBL-130\nÜrün tipi: EVA kutulu çoklu şarj kablosu\nBağlantı uyumluluğu: Android, iOS, Type-C\nElektrik değeri: 5 V / 2,4 A\nLogo uygulaması: Çift yön ışıklı lazer baskı\nTaşıma: Anahtarlık halkası ve EVA kutu\n\nKULLANIM VE UYUMLULUK\n\nAndroid, iOS ve Type-C uyumu belirtilmiştir. Belirtilen 5 V / 2,4 A değeri, her cihazda aynı hızın veya belirli bir hızlı şarj protokolünün desteklendiği anlamına gelmez.\n\nLOGO UYGULAMASI\n\nÇift yön ışıklı lazer baskı desteklenmektedir. Logo dosyası ve yerleşimi baskı öncesinde değerlendirilir.\n\nSİPARİŞ\n\nKBL-130 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"Promosyon çoklu şarj kablosu KBL-130 hangi cihazlarla uyumludur?","a":"KBL-130 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."},{"q":"Ürün hızlı şarj desteği sunuyor mu?","a":"Android, iOS ve Type-C uyumu belirtilmiştir. Belirtilen 5 V / 2,4 A değeri, her cihazda aynı hızın veya belirli bir hızlı şarj protokolünün desteklendiği anlamına gelmez."},{"q":"Ürün üzerine firma logosu uygulanabilir mi?","a":"Çift yön ışıklı lazer baskı desteklenmektedir. Logo dosyası ve yerleşimi baskı öncesinde değerlendirilir."},{"q":"EVA taşıma kutusu ürünle birlikte geliyor mu?","a":"Ürün tipi: EVA kutulu çoklu şarj kablosu; Bağlantı uyumluluğu: Android, iOS, Type-C; Elektrik değeri: 5 V / 2,4 A; Logo uygulaması: Çift yön ışıklı lazer baskı; Taşıma: Anahtarlık halkası ve EVA kutu. Teslim kapsamı sipariş onayında netleştirilir."},{"q":"Anahtarlıklı tasarım ne avantaj sağlar?","a":"Ürün tipi: EVA kutulu çoklu şarj kablosu; Bağlantı uyumluluğu: Android, iOS, Type-C; Elektrik değeri: 5 V / 2,4 A; Logo uygulaması: Çift yön ışıklı lazer baskı; Taşıma: Anahtarlık halkası ve EVA kutu. Taşıma ve kullanım biçimi modelin gövde formuna göre değerlendirilir."},{"q":"Kurumsal toplu sipariş verilebilir mi?","a":"KBL-130 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 330
 },
 {
   id: "p663",
@@ -52627,6 +50169,81 @@ Promosyon Seramik Kupa 275 ml SK-110 modeli; kaliteli seramik gövdesi, süblima
   shortDesc: "Promosyon VIP set kutusu VIP-485, kurumsal hediye setlerinin hazırlanmasında kullanılabilecek kutu seçeneğidir. Dış ölçü: 380 x 280 x 70 mm. Kutuya sünger dahil değildir.",
   longDesc: "Promosyon VIP set kutusu VIP-485, katalog ürünleriyle özel bir kurumsal hediye sunumu hazırlamak için değerlendirilebilir. Bu ürün kutudur; hediye setinin içine yerleştirilecek ürünler ayrıca seçilir ve fiyatlandırılır.\n\nTEKNİK BİLGİLER\n\nModel: VIP-485\nKategori: VIP Ürünler\nDış Ölçü: 380 x 280 x 70 mm\nİç Ölçü: 370 x 270 x 63 mm\nBaskı Alanı: 100 x 100 mm\n\nKUTU VE SET KAPSAMI\n\nKutuya sünger dahil değildir. Kutuya yerleştirilecek kalem, defter, termos ve diğer ürünler kutu fiyatına dahil değildir. İstenen ürünlerle oluşturulacak setin yerleşimi ve toplam bedeli ayrıca değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nBelirtilen baskı seçenekleri: Serigrafi, tampon, UV. Baskı alanı: 100 x 100 mm. Uygun yöntem ve bedel teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
   faq: [{"q":"VIP-485 kutusunun ölçüleri nedir?","a":"Dış ölçü: 380 x 280 x 70 mm. İç ölçü: 370 x 270 x 63 mm."},{"q":"VIP-485 fiyatına hediye ürünleri dahil midir?","a":"Hayır. Bu kayıt set kutusuna aittir. İçine yerleştirilecek hediye ürünleri ayrıca seçilir ve fiyatlandırılır."},{"q":"VIP-485 kutusunda sünger veya dolgu malzemesi bulunur mu?","a":"Kutuya sünger dahil değildir."},{"q":"VIP-485 kutusuna hangi logo baskıları uygulanabilir?","a":"Belirtilen baskı seçenekleri: Serigrafi, tampon, UV. Baskı alanı 100 x 100 mm. Uygunluk ve bedel teklif aşamasında netleştirilir."},{"q":"VIP-485 kutusuyla özel hediye seti hazırlanabilir mi?","a":"Evet. İstenen ürünlerin kutuya uygunluğu, yerleşimi, dolgu gereksinimi ve toplam maliyeti teklif aşamasında değerlendirilir."},{"q":"VIP-485 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
+},
+
+{
+  id: "p704",
+  slug: "promosyon-teknolojik-spk-100",
+  category: "Teknolojik Ürünler",
+  title: "Promosyon Masaüstü Bluetooth Hoparlör SPK-100",
+  image: "/products/promosyon-teknolojik-spk-100-v2.jpg",
+  shortDesc: "SPK-100, yatay gövde tasarımına sahip masaüstü Bluetooth hoparlör seçeneğidir. Ürün tipi: Bluetooth hoparlör.",
+  longDesc: "SPK-100, yatay gövde tasarımına sahip masaüstü Bluetooth hoparlör seçeneğidir. Kurumsal teknoloji hediyelerinde bu formu tercih eden firmalar için ürün ve logo uygulaması birlikte tekliflendirilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: SPK-100\nÜrün tipi: Bluetooth hoparlör\nSunum formu: Yatay masaüstü gövde\n\nKULLANIM VE UYUMLULUK\n\nBluetooth bağlantılı ses kaynağıyla kullanım için cihaz modeli kontrol edilmelidir. Bluetooth sürümü, ses gücü, batarya kapasitesi, çalma süresi ve şarj girişi sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nSPK-100 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"SPK-100 modelinin öne çıkan özellikleri nelerdir?","a":"Ürün tipi: Bluetooth hoparlör; Sunum formu: Yatay masaüstü gövde."},{"q":"SPK-100 hangi cihazlarla kullanılabilir?","a":"Bluetooth bağlantılı ses kaynağıyla kullanım için cihaz modeli kontrol edilmelidir. Bluetooth sürümü, ses gücü, batarya kapasitesi, çalma süresi ve şarj girişi sipariş öncesinde netleştirilir."},{"q":"SPK-100 üzerine hangi logo uygulaması yapılabilir?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"SPK-100 hangi renklerde sunulur?","a":"Renk ve güncel stok seçenekleri teklif aşamasında paylaşılır."},{"q":"SPK-100 fiyatı nasıl belirlenir?","a":"Güncel fiyat için teklif alın. Baskı ve teslim kapsamına göre fiyatlandırma yapılır."},{"q":"SPK-100 için toplu sipariş nasıl verilir?","a":"SPK-100 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}]
+},
+{
+  id: "p705",
+  slug: "promosyon-teknolojik-spk-110",
+  category: "Teknolojik Ürünler",
+  title: "Promosyon Kompakt Bluetooth Hoparlör SPK-110",
+  image: "/products/promosyon-teknolojik-spk-110-v2.jpg",
+  shortDesc: "SPK-110, kompakt ve köşeli gövdesiyle masa üzerinde kullanılabilecek Bluetooth hoparlör modelleri arasındadır. Ürün tipi: Bluetooth hoparlör.",
+  longDesc: "SPK-110, kompakt ve köşeli gövdesiyle masa üzerinde kullanılabilecek Bluetooth hoparlör modelleri arasındadır. Modelin bağlantı ayrıntıları ve teslim kapsamı, talep edilen kullanım senaryosuna göre sipariş öncesinde değerlendirilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: SPK-110\nÜrün tipi: Bluetooth hoparlör\nGövde formu: Kompakt, köşeli\n\nKULLANIM VE UYUMLULUK\n\nBluetooth bağlantılı ses kaynağıyla kullanım için cihaz modeli kontrol edilmelidir. Bluetooth sürümü, ses gücü, batarya kapasitesi, çalma süresi ve şarj girişi sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nSPK-110 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"SPK-110 modelinin öne çıkan özellikleri nelerdir?","a":"Ürün tipi: Bluetooth hoparlör; Gövde formu: Kompakt, köşeli."},{"q":"SPK-110 hangi cihazlarla kullanılabilir?","a":"Bluetooth bağlantılı ses kaynağıyla kullanım için cihaz modeli kontrol edilmelidir. Bluetooth sürümü, ses gücü, batarya kapasitesi, çalma süresi ve şarj girişi sipariş öncesinde netleştirilir."},{"q":"SPK-110 üzerine hangi logo uygulaması yapılabilir?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"SPK-110 hangi renklerde sunulur?","a":"Renk ve güncel stok seçenekleri teklif aşamasında paylaşılır."},{"q":"SPK-110 fiyatı nasıl belirlenir?","a":"Güncel fiyat için teklif alın. Baskı ve teslim kapsamına göre fiyatlandırma yapılır."},{"q":"SPK-110 için toplu sipariş nasıl verilir?","a":"SPK-110 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}]
+},
+{
+  id: "p706",
+  slug: "promosyon-teknolojik-spk-180",
+  category: "Teknolojik Ürünler",
+  title: "Promosyon Kompakt Wireless Şarj ve Hoparlör SPK-180",
+  image: "/products/promosyon-teknolojik-spk-180-v2.jpg",
+  shortDesc: "SPK-180, açılı üst yüzeyi ve kompakt tabanıyla wireless şarj ile hoparlörü aynı gövdede sunar. Ürün tipi: Wireless şarj ve hoparlör.",
+  longDesc: "SPK-180, açılı üst yüzeyi ve kompakt tabanıyla wireless şarj ile hoparlörü aynı gövdede sunar. Yeni model seçeneği, masa üzerinde daha az yer kaplayan bir sunum arayan kurumsal hediye çalışmalarında değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: SPK-180\nÜrün tipi: Wireless şarj ve hoparlör\nRenk: Siyah\nGövde: Kompakt masaüstü tasarım\n\nKULLANIM VE UYUMLULUK\n\nWireless şarj uyumu telefon, kılıf ve güç kaynağına göre değerlendirilir. Şarj gücü, hoparlör bağlantı ayrıntıları, batarya ve çalma süresi belirtilmediğinden sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir.\n\nSİPARİŞ\n\nSPK-180 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"SPK-180 modelinin öne çıkan özellikleri nelerdir?","a":"Ürün tipi: Wireless şarj ve hoparlör; Renk: Siyah; Gövde: Kompakt masaüstü tasarım."},{"q":"SPK-180 hangi cihazlarla kullanılabilir?","a":"Wireless şarj uyumu telefon, kılıf ve güç kaynağına göre değerlendirilir. Şarj gücü, hoparlör bağlantı ayrıntıları, batarya ve çalma süresi belirtilmediğinden sipariş öncesinde netleştirilir."},{"q":"SPK-180 üzerine hangi logo uygulaması yapılabilir?","a":"Logo uygulamasının yöntemi ve alanı, ürün yüzeyi ile logo tasarımına göre teklif aşamasında belirlenir. Baskı bedeli ayrıca değerlendirilir."},{"q":"SPK-180 hangi renklerde sunulur?","a":"Listelenen renkler: Siyah. Güncel renk ve stok uygunluğu sipariş öncesinde kontrol edilir."},{"q":"SPK-180 fiyatı nasıl belirlenir?","a":"Listelenen ürün fiyatı 1600,0 TL + KDV olup baskı bedeli ayrıca değerlendirilir."},{"q":"SPK-180 için toplu sipariş nasıl verilir?","a":"SPK-180 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 1600
+},
+{
+  id: "p707",
+  slug: "promosyon-teknolojik-tt-160",
+  category: "Teknolojik Ürünler",
+  title: "Promosyon 15 W Type-C Girişli Wireless Stand Set TT-160",
+  image: "/products/promosyon-teknolojik-tt-160-v2.jpg",
+  shortDesc: "TT-160, 15 W wireless şarjı ve ışıklı markalama alanıyla masaüstü stand seti olarak sunulur. Kablosuz şarj: 15 W.",
+  longDesc: "TT-160, 15 W wireless şarjı ve ışıklı markalama alanıyla masaüstü stand seti olarak sunulur. Type-C girişli ABS gövdesi ve lazer kazımayla oluşturulan light-up logo alanı, modelin baskı ve bağlantı tercihlerini belirler.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-160\nKablosuz şarj: 15 W\nGiriş: Type-C\nMalzeme: ABS\nÖlçü: 112 x 102 x 70 mm\nAğırlık: 172 g\nBaskı: Lazer kazıma ile light-up logo\n\nKULLANIM VE UYUMLULUK\n\nWireless şarj destekleyen cihazlarla uyumluluk, cihaz modeli ve güç kaynağına göre değerlendirilir. Type-C girişli model için 15 W değeri her cihazda aynı şarj hızı anlamına gelmez.\n\nLOGO UYGULAMASI\n\nLazer kazıma ile light-up logo uygulanabilir. Logo dosyası ve baskı alanı tasarım onayıyla belirlenir.\n\nSİPARİŞ\n\nTT-160 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"TT-160 modelinin öne çıkan özellikleri nelerdir?","a":"Kablosuz şarj: 15 W; Giriş: Type-C; Malzeme: ABS; Ölçü: 112 x 102 x 70 mm; Ağırlık: 172 g; Baskı: Lazer kazıma ile light-up logo."},{"q":"TT-160 hangi cihazlarla kullanılabilir?","a":"Wireless şarj destekleyen cihazlarla uyumluluk, cihaz modeli ve güç kaynağına göre değerlendirilir. Type-C girişli model için 15 W değeri her cihazda aynı şarj hızı anlamına gelmez."},{"q":"TT-160 üzerine hangi logo uygulaması yapılabilir?","a":"Lazer kazıma ile light-up logo uygulanabilir. Logo dosyası ve baskı alanı tasarım onayıyla belirlenir."},{"q":"TT-160 hangi renklerde sunulur?","a":"Renk ve güncel stok seçenekleri teklif aşamasında paylaşılır."},{"q":"TT-160 fiyatı nasıl belirlenir?","a":"Listelenen ürün fiyatı 972,0 TL + KDV olup baskı bedeli ayrıca değerlendirilir."},{"q":"TT-160 için toplu sipariş nasıl verilir?","a":"TT-160 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 972
+},
+{
+  id: "p708",
+  slug: "promosyon-teknolojik-tt-170",
+  category: "Teknolojik Ürünler",
+  title: "Promosyon 10 W LED Logolu Wireless Şarj Standı TT-170",
+  image: "/products/promosyon-teknolojik-tt-170-v2.jpg",
+  shortDesc: "TT-170, telefonu dikey konumda tutarken wireless şarj sağlayan rubber gövdeli bir modeldir. Kablosuz şarj: 10 W hızlı şarj olarak belirtilmiştir.",
+  longDesc: "TT-170, telefonu dikey konumda tutarken wireless şarj sağlayan rubber gövdeli bir modeldir. 10 W olarak belirtilen şarj gücü ve ışıklı baskı alanı, logo görünürlüğünü şarj yüzeyiyle birlikte kullanmak isteyen firmalara hitap eder.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-170\nKablosuz şarj: 10 W hızlı şarj olarak belirtilmiştir\nKullanım formu: Dikey stand\nGiriş: Micro Input (1 A)\nMalzeme: Rubber\nLogo alanı: LED ışıklı baskı\nTeslim kapsamı: Ürün dışındaki materyaller aksesuardır\n\nKULLANIM VE UYUMLULUK\n\nWireless şarj destekleyen telefonlarda kullanılmak üzere sunulmuştur. Üretici 10 W hızlı şarj ve Micro Input (1 A) bilgilerini birlikte vermektedir; uygun adaptör ve elde edilecek şarj gücü sipariş öncesinde netleştirilir.\n\nLOGO UYGULAMASI\n\nIşıklı baskı alanı bulunmaktadır. Logo yerleşimi ve uygulama ayrıntıları sipariş tasarımıyla birlikte netleştirilir.\n\nSİPARİŞ\n\nTT-170 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"TT-170 modelinin öne çıkan özellikleri nelerdir?","a":"Kablosuz şarj: 10 W hızlı şarj olarak belirtilmiştir; Kullanım formu: Dikey stand; Giriş: Micro Input (1 A); Malzeme: Rubber; Logo alanı: LED ışıklı baskı; Teslim kapsamı: Ürün dışındaki materyaller aksesuardır."},{"q":"TT-170 hangi cihazlarla kullanılabilir?","a":"Wireless şarj destekleyen telefonlarda kullanılmak üzere sunulmuştur. Üretici 10 W hızlı şarj ve Micro Input (1 A) bilgilerini birlikte vermektedir; uygun adaptör ve elde edilecek şarj gücü sipariş öncesinde netleştirilir."},{"q":"TT-170 üzerine hangi logo uygulaması yapılabilir?","a":"Işıklı baskı alanı bulunmaktadır. Logo yerleşimi ve uygulama ayrıntıları sipariş tasarımıyla birlikte netleştirilir."},{"q":"TT-170 hangi renklerde sunulur?","a":"Renk ve güncel stok seçenekleri teklif aşamasında paylaşılır."},{"q":"TT-170 fiyatı nasıl belirlenir?","a":"Listelenen ürün fiyatı 500,0 TL + KDV olup baskı bedeli ayrıca değerlendirilir."},{"q":"TT-170 için toplu sipariş nasıl verilir?","a":"TT-170 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 500
+},
+{
+  id: "p709",
+  slug: "promosyon-teknolojik-tt-180",
+  category: "Teknolojik Ürünler",
+  title: "Promosyon 15 W Type-C Wireless Şarj Standı TT-180",
+  image: "/products/promosyon-teknolojik-tt-180-v2.jpg",
+  shortDesc: "TT-180, UV renkli baskı uygulanabilen ABS wireless şarj standıdır. Kablosuz şarj: 15 W.",
+  longDesc: "TT-180, UV renkli baskı uygulanabilen ABS wireless şarj standıdır. TT-160 ile aynı belirtilen gövde ölçüsüne sahip model, 161 gram ağırlığı ve renkli baskı yöntemiyle karşılaştırılabilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-180\nKablosuz şarj: 15 W\nGiriş: Type-C\nMalzeme: ABS\nÖlçü: 112 x 102 x 70 mm\nAğırlık: 161 g\nBaskı: UV renkli\n\nKULLANIM VE UYUMLULUK\n\nWireless şarj destekleyen cihazın modeline ve güç kaynağına göre uyumluluk kontrol edilir. Belirtilen 15 W değerinin her cihazda elde edileceği taahhüt edilmez.\n\nLOGO UYGULAMASI\n\nUV renkli baskı belirtilmiştir. Logo boyutu ve yerleşimi teklif aşamasında değerlendirilir.\n\nSİPARİŞ\n\nTT-180 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"TT-180 modelinin öne çıkan özellikleri nelerdir?","a":"Kablosuz şarj: 15 W; Giriş: Type-C; Malzeme: ABS; Ölçü: 112 x 102 x 70 mm; Ağırlık: 161 g; Baskı: UV renkli."},{"q":"TT-180 hangi cihazlarla kullanılabilir?","a":"Wireless şarj destekleyen cihazın modeline ve güç kaynağına göre uyumluluk kontrol edilir. Belirtilen 15 W değerinin her cihazda elde edileceği taahhüt edilmez."},{"q":"TT-180 üzerine hangi logo uygulaması yapılabilir?","a":"UV renkli baskı belirtilmiştir. Logo boyutu ve yerleşimi teklif aşamasında değerlendirilir."},{"q":"TT-180 hangi renklerde sunulur?","a":"Renk ve güncel stok seçenekleri teklif aşamasında paylaşılır."},{"q":"TT-180 fiyatı nasıl belirlenir?","a":"Listelenen ürün fiyatı 564,0 TL + KDV olup baskı bedeli ayrıca değerlendirilir."},{"q":"TT-180 için toplu sipariş nasıl verilir?","a":"TT-180 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}],
+  price: 564
+},
+{
+  id: "p710",
+  slug: "promosyon-teknolojik-tt-190",
+  category: "Teknolojik Ürünler",
+  title: "Promosyon Metal Ayarlanabilir Telefon Standı TT-190",
+  image: "/products/promosyon-teknolojik-tt-190-v2.jpg",
+  shortDesc: "TT-190, metal gövdeli ayarlanabilir stand seçeneğidir. Ürün tipi: Ayarlanabilir telefon standı.",
+  longDesc: "TT-190, metal gövdeli ayarlanabilir stand seçeneğidir. Üretici 10 kg taşıma kapasitesi belirtmektedir; kullanılacak cihazın ölçüsü, ağırlığı ve stand üzerindeki dengesi sipariş öncesinde birlikte değerlendirilmelidir.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-190\nÜrün tipi: Ayarlanabilir telefon standı\nMalzeme: Metal\nBelirtilen taşıma kapasitesi: 10 kg\nBaskı: Lazer, serigrafi\n\nKULLANIM VE UYUMLULUK\n\nÜreticinin belirttiği 10 kg taşıma kapasitesine ek olarak cihazın ölçüsü, ağırlık dağılımı ve stand üzerindeki dengesi kontrol edilmelidir. Kablosuz şarj özelliği belirtilmemiştir.\n\nLOGO UYGULAMASI\n\nLazer ve serigrafi baskı seçenekleri belirtilmiştir. Logo tasarımına uygun yöntem ve baskı alanı teklif aşamasında seçilir.\n\nSİPARİŞ\n\nTT-190 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
+  faq: [{"q":"TT-190 modelinin öne çıkan özellikleri nelerdir?","a":"Ürün tipi: Ayarlanabilir telefon standı; Malzeme: Metal; Belirtilen taşıma kapasitesi: 10 kg; Baskı: Lazer, serigrafi."},{"q":"TT-190 hangi cihazlarla kullanılabilir?","a":"Üreticinin belirttiği 10 kg taşıma kapasitesine ek olarak cihazın ölçüsü, ağırlık dağılımı ve stand üzerindeki dengesi kontrol edilmelidir. Kablosuz şarj özelliği belirtilmemiştir."},{"q":"TT-190 üzerine hangi logo uygulaması yapılabilir?","a":"Lazer ve serigrafi baskı seçenekleri belirtilmiştir. Logo tasarımına uygun yöntem ve baskı alanı teklif aşamasında seçilir."},{"q":"TT-190 hangi renklerde sunulur?","a":"Renk ve güncel stok seçenekleri teklif aşamasında paylaşılır."},{"q":"TT-190 fiyatı nasıl belirlenir?","a":"Güncel fiyat için teklif alın. Baskı ve teslim kapsamına göre fiyatlandırma yapılır."},{"q":"TT-190 için toplu sipariş nasıl verilir?","a":"TT-190 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}]
 },
 ];
 
