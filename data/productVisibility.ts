@@ -37,6 +37,12 @@ const hiddenProductSlugs = new Set<string>([
   "promosyon-ahsap-masa-seti-ah-120",
   "promosyon-deri-kalemlik-ms-175",
   "promosyon-deri-kalemlik-ms-180",
+
+  "promosyon-organizer-org-210-termodei-metal-tokali",
+  "promosyon-organizer-org-220-termodei-metal-tokali",
+  "promosyon-organizer-org-230-termodei-metal-kilitli",
+  "promosyon-organizer-org-240-cift-termodei-manyetik",
+  "promosyon-organizer-org-250-termodei-metal-tokali",
 ]);
 
 export function isProductVisible(product: { slug: string }): boolean {

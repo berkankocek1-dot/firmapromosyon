@@ -1,7 +1,7 @@
 import Link from "next/link";
 import OrganizerProductGrid from "./OrganizerProductGrid";
 import type { Metadata } from "next";
-import { products } from "@/data/products";
+import { visibleProducts } from "@/data/productVisibility";
 import { sortProductsByCode } from "@/data/productSorting";
 
 
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   title:
     "Promosyon Organizer | Logo Baskılı Modeller",
   description:
-    "Logo baskılı termo deri, ajandalı, hesap makineli ve manyetik kilitli organizer modellerini inceleyin. Toptan sipariş için hızlı teklif alın.",
+    "Logo baskılı termo deri, ajandalı, hesap makineli ve metal tokalı organizer modellerini inceleyin. Toptan sipariş için hızlı teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
@@ -63,7 +63,7 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-  const list = sortProductsByCode(products.filter((p) => p.category === CATEGORY));
+  const list = sortProductsByCode(visibleProducts.filter((p) => p.category === CATEGORY));
 
   const itemListElement = list.map((p, idx) => ({
     "@type": "ListItem",

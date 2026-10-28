@@ -10160,155 +10160,66 @@ Promosyon tişört siparişleri toplu üretim olarak hazırlanmaktadır. Minimum
 
   slug: "promosyon-organizer-19x265-org-100",
 
-  title:
-    "Promosyon Organizer ORG-100 | Logo Baskılı Termo Deri Kurumsal Organizer",
+  title: "Promosyon Organizer ORG-100 | Logo Baskılı Termo Deri Kurumsal Organizer",
 
   price: 540,
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-100.jpg",
+  image: "/products/promosyon-organizer-org-100-v2.jpg",
 
-  shortDesc:
-    "Promosyon organizer ORG-100 modeli; termo deri kapak tasarımı, 336 sayfa çizgili iç bloğu ve 8 haneli hesap makinesi ile toplantı, planlama ve günlük ofis kullanımı için tasarlanmış logo baskılı kurumsal organizer modelidir.",
+  shortDesc: "Promosyon organizer ORG-100; termo deri kapağı, 352 sayfalık çizgili iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. metal toka ile sunulur. Gofre, Lazer, UV baskı seçenekleri bulunur.",
 
   longDesc: `
-Promosyon organizer ORG-100 modeli, şık termo deri kapak tasarımı, geniş iç hacmi ve fonksiyonel özellikleri ile kurumsal promosyon ürünleri arasında öne çıkan organizer modellerinden biridir.
+Promosyon organizer ORG-100, termo deri kapağı ve 18 x 23 cm dış ölçüsüyle toplantı notları, iş planları ve günlük ofis kullanımı için değerlendirilebilen bir kurumsal hediye seçeneğidir. Firma logosuyla kişiselleştirilen kapak, ürünün çalışma ortamında markanızı temsil etmesine yardımcı olur.
 
-Günlük iş planlarının hazırlanması, toplantı notlarının tutulması, önemli bilgilerin kaydedilmesi ve ofis çalışmalarının düzenlenmesi için kullanışlı bir yapı sunar. Profesyonel görünümü sayesinde hem çalışanlara hem de müşterilere sunulabilecek kurumsal bir hediye alternatifi oluşturur.
+15 x 21 cm ölçüsündeki iç blok 352 sayfadan oluşur ve 70 gr krem kağıt kullanır. Çizgili sayfa düzeni notları düzenli tutmayı kolaylaştırır. Metal toka kapağın kapalı tutulmasına yardımcı olur.
 
-Termo deri kapak yapısı ürüne şık ve profesyonel bir görünüm kazandırırken günlük kullanım için dayanıklı bir dış yüzey sunar. Kapaktaki geniş yüzey aynı zamanda firma logosu ve kurumsal tasarımların uygulanması için uygun bir alan oluşturur.
+Ofis çalışanları, yöneticiler, satış ekipleri ve kurumsal müşteriler için toplantı, eğitim ve hediye çalışmalarında tercih edilebilir. İç sayfaların takvim yılı ve tarih düzeni sipariş öncesinde teyit edilir.
 
-ORG-100 organizer içerisinde 336 sayfalık çizgili iç blok bulunmaktadır. 70 gr krem kağıttan hazırlanan sayfalar, uzun süreli not alma ve planlama ihtiyaçları için geniş bir kullanım alanı sağlar.
+ÖNE ÇIKAN ÖZELLİKLER
 
-16,5 x 23,5 cm ölçüsündeki iç blok, toplantı notlarından günlük yapılacaklar listelerine kadar birçok farklı kullanım için yeterli yazım alanı sunar.
-
-Organizer üzerinde bulunan 8 haneli hesap makinesi, ürünü standart organizer modellerinden ayıran fonksiyonel özelliklerden biridir. Günlük hesaplama işlemlerinin organizer üzerinden hızlı şekilde yapılabilmesi özellikle satış, finans, muhasebe ve ofis çalışanları için kullanım kolaylığı sağlar.
-
-19 x 26,5 cm ölçüsü sayesinde masaüstü kullanım için geniş bir çalışma alanı sunarken toplantılarda ve iş görüşmelerinde taşınabilecek profesyonel bir kurumsal aksesuar olarak da kullanılabilir.
-
-Promosyon organizer ORG-100 modeli üzerine firmanızın logosu, marka adı veya kurumsal tasarımı uygulanarak kişiselleştirme yapılabilir. Gofre baskı, lazer baskı ve dijital baskı seçenekleri ile markanız ürün üzerinde dikkat çekici ve kalıcı şekilde konumlandırılabilir.
-
-Logo baskılı organizer modelleri uzun süre kullanılan promosyon ürünleri arasında yer aldığı için marka görünürlüğünün devamlılığı açısından önemli bir avantaj sağlar. Ürünün günlük iş hayatında tekrar tekrar kullanılması, firmanızın müşteriler ve çalışanlar tarafından düzenli olarak hatırlanmasına katkıda bulunur.
-
-Özellikle şirket çalışanları, yöneticiler, satış ekipleri, finans çalışanları, danışmanlar ve kurumsal müşteriler için kullanışlı bir promosyon ürünü olarak tercih edilebilir.
-
-NEDEN PROMOSYON ORGANIZER ORG-100?
-
-• Şık termo deri kapak
-• 336 sayfalık geniş iç blok
-• Çizgili sayfa düzeni
+• 352 sayfalık çizgili iç blok
 • 70 gr krem kağıt
-• 8 haneli hesap makinesi
-• Günlük planlama ve not alma için uygun yapı
-• Logo baskısına uygun geniş kapak yüzeyi
-• Profesyonel ve kurumsal görünüm
-• Uzun süreli kullanım
-• Kurumsal marka görünürlüğünü destekleyen tasarım
-
-KULLANIM ALANLARI
-
-• Günlük iş planlaması
-• Toplantı notları
-• Müşteri görüşmeleri
-• Satış ve saha ekipleri
-• Yönetici kullanımı
-• Ofis çalışanları
-• Finans ve muhasebe departmanları
-• Kurumsal etkinlikler
-• Firma içi çalışan hediyeleri
-• Müşteri hediyeleri
-• Kurumsal promosyon kampanyaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Holdingler
-• Bankalar
-• Finans kuruluşları
-• Sigorta şirketleri
-• Muhasebe firmaları
-• Hukuk büroları
-• Danışmanlık şirketleri
-• Eğitim kurumları
-• Kamu kurumları
-• Satış ekipleri
-• Yönetici ve ofis çalışanları
-
-PROMOSYON ORGANIZER ORG-100 FİYATLARI
-
-Promosyon organizer fiyatları sipariş adedi, uygulanacak logo baskı yöntemi, baskı alanı, stok durumu ve teslim süresine göre değişiklik gösterebilir.
-
-Toplu promosyon organizer siparişlerinde kurumsal müşterilere özel fiyat avantajları sunulmaktadır. Güncel fiyatlandırma ve baskı seçenekleri için teklif alabilirsiniz.
-
-BASKI BİLGİLERİ
-
-Promosyon organizer ORG-100 üzerine firma logosu veya kurumsal tasarım uygulanabilmektedir.
-
-Baskı Türleri: Gofre Baskı / Lazer Baskı / Dijital Baskı
-Logo Baskı: Kurumsal logo uygulamasına uygundur
-
-Baskı yöntemi logo tasarımı, sipariş miktarı ve ürün yüzeyine göre belirlenmektedir.
-
-SİPARİŞ BİLGİSİ
-
-• Kurumsal toplu siparişler için uygundur.
-• Logo baskısı firmanıza özel olarak hazırlanabilir.
-• Baskı çalışması üretim öncesinde onaya sunulabilir.
-• Minimum sipariş adedi stok ve üretim durumuna göre belirlenmektedir.
-• Kapak renkleri dönemsel stok durumuna göre değişiklik gösterebilir.
-• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-RENK VE STOK BİLGİSİ
-
-ORG-100 organizer modelinde renk ve stok seçenekleri dönemsel olarak değişiklik gösterebilir. Görselde kırmızı, gri ve mavi detaylı alternatifler yer almaktadır.
-
-Sipariş öncesinde güncel renk seçenekleri, stok miktarı, baskı uygulaması ve teslim süresi hakkında bilgi alınması önerilmektedir.
+• 15 x 21 cm ajanda / iç blok
+• Metal toka
 
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Organizer
 Model: ORG-100
 Kategori: Organizerler
-Kapak Malzemesi: Termo Deri
-Ürün Ölçüsü: 19 x 26,5 cm
-İç Blok Ölçüsü: 16,5 x 23,5 cm
-Sayfa Sayısı: 336 Sayfa
-Sayfa Tipi: Çizgili
-Kağıt: 70 gr Krem Kağıt
-Hesap Makinesi: 8 Haneli
-Kullanım Tipi: Ofis / Toplantı / Planlama / Kurumsal Hediye
-Baskı Türü: Gofre Baskı / Lazer Baskı / Dijital Baskı
+Kapak: Termo Deri
+Dış Ölçü: 18 x 23 cm
+İç Blok / Ajanda Ölçüsü: 15 x 21 cm
+Sayfa Sayısı: 352
+Kağıt: 70 gr Krem
+Sayfa Düzeni: Çizgili
+Kapanış: Metal Toka
+Koli Adedi: 30 Adet
+Renk Seçenekleri: Siyah
+Baskı Seçenekleri: Gofre, Lazer, UV
 
-Promosyon organizer ORG-100; termo deri kapak tasarımı, 336 sayfalık çizgili iç bloğu, 8 haneli hesap makinesi ve kurumsal logo baskı seçenekleri sayesinde iş hayatında uzun süre kullanılabilecek fonksiyonel promosyon organizer modellerinden biridir. Toplu sipariş fiyatları, güncel stok, renk seçenekleri, logo baskı alternatifleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+RENK VE STOK BİLGİSİ
+
+Renk seçenekleri: Siyah. Renklerin siparişe uygunluğu güncel stok durumuna göre teyit edilir. Ürün görseli tüm renk seçeneklerini bir arada göstermeyebilir.
+
+LOGO BASKISI
+
+ORG-100 için belirtilen baskı seçenekleri Gofre, Lazer, UV yöntemleridir. Uygulama alanı, logo tasarımı ve baskı bedeli teklif aşamasında netleştirilir. Tasarım onayı sonrası üretim planı paylaşılır.
+
+SİPARİŞ BİLGİSİ
+
+Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve logo dosyanızı iletebilirsiniz. Koli adedi 30 olarak belirtilmiştir; sipariş adedi, baskı bedeli, güncel stok ve teslim süresi teklif sırasında teyit edilir. Listelenen fiyat baskı ve KDV hariçtir.
 `.trim(),
 
   faq: [
-    {
-      q: "ORG-100 organizer kaç sayfadır?",
-      a: "ORG-100 modeli 336 sayfalık çizgili iç bloğa sahiptir."
-    },
-    {
-      q: "Organizer üzerine firma logosu basılabilir mi?",
-      a: "Evet. Ürün üzerine gofre baskı, lazer baskı veya dijital baskı yöntemleri ile firma logosu ve kurumsal tasarım uygulanabilir."
-    },
-    {
-      q: "ORG-100 organizer ölçüsü nedir?",
-      a: "Organizer 19 x 26,5 cm ölçüsündedir. İç blok ölçüsü ise 16,5 x 23,5 cm'dir."
-    },
-    {
-      q: "ORG-100 hesap makineli bir organizer mı?",
-      a: "Evet. Modelde günlük hesaplamalarda kullanılabilecek 8 haneli hesap makinesi bulunmaktadır."
-    },
-    {
-      q: "Hangi kağıt kullanılmaktadır?",
-      a: "Organizer içerisinde 70 gr krem kağıttan hazırlanmış çizgili sayfalar bulunmaktadır."
-    },
-    {
-      q: "Toplu logo baskılı organizer siparişi verilebilir mi?",
-      a: "Evet. ORG-100 kurumsal toplu siparişlere uygundur. Sipariş adedi, baskı yöntemi, stok durumu ve teslim süresine göre özel fiyatlandırma yapılabilir."
-    }
+    { q: "ORG-100 organizer kaç sayfadır?", a: "ORG-100 modeli 352 sayfalık çizgili iç bloğa sahiptir." },
+    { q: "Organizer üzerine firma logosu basılabilir mi?", a: "ORG-100 için Gofre, Lazer, UV baskı seçenekleri belirtilmiştir. Logo uygulamasının alanı ve fiyatı teklif aşamasında netleştirilir." },
+    { q: "ORG-100 organizer ölçüsü nedir?", a: "Dış ölçü 18 x 23 cm, iç blok / ajanda ölçüsü 15 x 21 cm olarak belirtilmiştir." },
+    { q: "ORG-100 hesap makineli bir organizer mı?", a: "Güncel ürün özelliklerinde hesap makinesi belirtilmemiştir. Bu özellik sipariş öncesinde teyit edilmelidir." },
+    { q: "Hangi kağıt kullanılmaktadır?", a: "70 gr krem kağıt kullanılmaktadır. Sayfa düzeni çizgilidir." },
+    { q: "Toplu logo baskılı organizer siparişi verilebilir mi?", a: "Evet. ORG-100 için adet, renk ve logo bilgileriyle kurumsal teklif alabilirsiniz. Stok, baskı bedeli ve teslim süresi teklif aşamasında paylaşılır." }
   ]
 },
 {
@@ -23176,161 +23087,65 @@ Promosyon anahtarlık AN-340, açacak fonksiyonu, dayanıklı metal yapısı ve 
 
   slug: "promosyon-organizer-org-120",
 
-  title:
-    "Promosyon Organizer ORG-120 | Logo Baskılı Termo Deri Kılıflı Kurumsal Ajanda",
+  title: "Promosyon Organizer ORG-120 | Logo Baskılı Termo Deri Kılıflı Kurumsal Ajanda",
 
   price: 540,
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-120.jpg",
+  image: "/products/promosyon-organizer-org-120-v2.jpg",
 
-  shortDesc:
-    "Promosyon organizer ORG-120 modeli; termo deri kapak, metal tokalı kapanış, 352 sayfalık 70 gr krem kağıt ajanda içeriği ve logo baskı seçenekleri ile yönetici, çalışan ve kurumsal müşteri hediyeleri için tercih edilen prestijli organizer modellerinden biridir.",
+  shortDesc: "Promosyon organizer ORG-120; termo deri kapağı, 352 sayfalık iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. metal toka ile sunulur. Gofre, Lazer baskı seçenekleri bulunur.",
 
   longDesc: `
-Promosyon organizer ORG-120 modeli, termo deri kapak tasarımı, metal tokalı kapanış sistemi ve 352 sayfalık geniş ajanda içeriği ile kurumsal iş hayatında uzun süre kullanılabilecek prestijli promosyon organizer modellerinden biridir.
+Promosyon organizer ORG-120, termo deri kapağı ve 18 x 23 cm dış ölçüsüyle toplantı notları, iş planları ve günlük ofis kullanımı için değerlendirilebilen bir kurumsal hediye seçeneğidir. Firma logosuyla kişiselleştirilen kapak, ürünün çalışma ortamında markanızı temsil etmesine yardımcı olur.
 
-18 x 23 cm dış ölçüsü sayesinde hem masaüstünde rahat kullanım sunar hem de toplantı, müşteri ziyareti ve iş seyahatlerinde taşınabilecek kompakt bir yapıya sahiptir. İçerisinde bulunan 15 x 21 cm ölçüsündeki ajanda, günlük planlama ve iş takibi için geniş bir yazım alanı sağlar.
+15 x 21 cm ölçüsündeki iç blok 352 sayfadan oluşur ve 70 gr krem kağıt kullanır. Metal toka kapağın kapalı tutulmasına yardımcı olur.
 
-Termo deri kapak ürüne profesyonel ve şık bir görünüm kazandırırken, metal toka organizerın güvenli şekilde kapalı tutulmasına yardımcı olur. Bu detay özellikle evrak, not ve ajanda sayfalarının düzenli şekilde korunmasını sağlar.
+Ofis çalışanları, yöneticiler, satış ekipleri ve kurumsal müşteriler için toplantı, eğitim ve hediye çalışmalarında tercih edilebilir. İç sayfaların takvim yılı ve tarih düzeni sipariş öncesinde teyit edilir.
 
-ORG-120 modelinin 352 sayfalık iç yapısı; toplantı notları, günlük iş planları, yapılacaklar listeleri, müşteri görüşmeleri ve uzun dönemli çalışma kayıtları için geniş kullanım imkanı sunar.
+ÖNE ÇIKAN ÖZELLİKLER
 
-70 gr krem kağıt yapısı, uzun süreli yazım sırasında göz yormayan bir sayfa görünümü sunarken günlük ofis kullanımına uygun bir yazım deneyimi sağlar.
-
-Promosyon organizer ORG-120 üzerine firmanızın logosu veya marka adı gofre baskı ve lazer baskı yöntemleri ile uygulanabilir. Termo deri kapak üzerinde yapılan kişiselleştirme sayesinde ürün yalnızca bir ajanda değil, aynı zamanda markanızı uzun süre temsil eden kurumsal bir tanıtım ürününe dönüşür.
-
-Organizer ve ajanda ürünleri günlük iş hayatında uzun süre kullanılan promosyon ürünleri arasında yer aldığı için marka görünürlüğünün devamlılığı açısından önemli avantaj sağlar. Ürün her toplantıda, planlama sürecinde ve masaüstü kullanımında firmanızın tekrar görünür olmasına katkıda bulunur.
-
-Lacivert, kırmızı, taba ve siyah renk seçenekleri sayesinde farklı kurumsal kimliklere uygun alternatifler oluşturulabilir. Güncel renk ve stok seçenekleri sipariş öncesinde kontrol edilmelidir.
-
-ORG-120 modeli; yöneticiler, satış ekipleri, danışmanlar, ofis çalışanları, banka personelleri, finans çalışanları ve kurumsal müşteriler için kullanışlı ve prestijli bir promosyon hediyesi olarak tercih edilebilir.
-
-NEDEN PROMOSYON ORGANIZER ORG-120?
-
-• Termo deri kapak
-• Metal tokalı kapanış sistemi
-• 352 sayfalık geniş ajanda içeriği
+• 352 sayfalık iç blok
 • 70 gr krem kağıt
-• 15 x 21 cm kullanışlı ajanda ölçüsü
-• Gofre ve lazer logo baskısına uygun
-• Profesyonel ve kurumsal görünüm
-• Günlük planlama ve toplantı kullanımına uygun
-• Uzun süreli marka görünürlüğü sağlar
-• Yönetici ve VIP müşteri hediyeleri için ideal
-
-KULLANIM ALANLARI
-
-• Günlük iş planlaması
-• Toplantı notları
-• Yönetici kullanımı
-• Müşteri görüşmeleri
-• Satış ekipleri
-• Ofis çalışanları
-• Kurumsal etkinlikler
-• Bayi toplantıları
-• Çalışan hediyeleri
-• VIP müşteri hediyeleri
-• Fuar ve organizasyonlar
-• Kurumsal promosyon kampanyaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Holdingler
-• Bankalar
-• Finans kuruluşları
-• Sigorta şirketleri
-• Hukuk büroları
-• Danışmanlık firmaları
-• Eğitim kurumları
-• Kamu kurumları
-• Satış ve saha ekipleri
-• Yönetici ve ofis çalışanları
-• Kurumsal hediye arayan işletmeler
-
-PROMOSYON ORGANIZER ORG-120 FİYATLARI
-
-Promosyon organizer fiyatları sipariş adedi, uygulanacak logo baskı yöntemi, stok durumu, renk seçeneği ve teslim süresine göre değişiklik gösterebilir.
-
-Toplu ORG-120 organizer siparişlerinde kurumsal müşterilere özel fiyat avantajları sunulmaktadır. Güncel stok, baskı seçenekleri ve toplu sipariş fiyatları için teklif alabilirsiniz.
-
-BASKI BİLGİLERİ
-
-ORG-120 organizer üzerine firma logosu, marka adı veya kurumsal tasarım uygulanabilmektedir.
-
-Baskı Türleri: Gofre Baskı / Lazer Baskı
-Logo Baskı: Kurumsal logo uygulamasına uygundur
-
-Uygulanacak baskı yöntemi logo tasarımı, baskı alanı ve sipariş adedine göre belirlenmektedir.
-
-RENK VE STOK BİLGİSİ
-
-Renk Seçenekleri:
-
-• Lacivert
-• Kırmızı
-• Taba
-• Siyah
-
-Renk ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde güncel stok miktarı ve renk seçeneklerinin kontrol edilmesi önerilmektedir.
-
-SİPARİŞ BİLGİSİ
-
-• Kurumsal toplu siparişler için uygundur.
-• Logo baskısı firmanıza özel hazırlanabilir.
-• Baskı çalışması üretim öncesinde onaya sunulabilir.
-• Minimum sipariş adedi stok ve üretim durumuna göre belirlenmektedir.
-• Renk seçenekleri dönemsel stok durumuna göre değişebilir.
-• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 15 x 21 cm ajanda / iç blok
+• Metal toka
 
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Organizer
 Model: ORG-120
 Kategori: Organizerler
-Kapak Malzemesi: Termo Deri
-Kapanış: Metal Toka
-Tasarım: Kılıflı Organizer
+Kapak: Termo Deri
 Dış Ölçü: 18 x 23 cm
-Ajanda Ölçüsü: 15 x 21 cm
-Sayfa Sayısı: 352 Sayfa
-Kağıt: 70 gr Krem Kağıt
-Renk Seçenekleri: Lacivert / Kırmızı / Taba / Siyah
-Baskı Türü: Gofre Baskı / Lazer Baskı
+İç Blok / Ajanda Ölçüsü: 15 x 21 cm
+Sayfa Sayısı: 352
+Kağıt: 70 gr Krem
+Kapanış: Metal Toka
 Koli Adedi: 30 Adet
-Kullanım Tipi: Ofis / Toplantı / Planlama / Kurumsal Hediye
+Renk Seçenekleri: Taba, Lacivert, Kırmızı, Siyah
+Baskı Seçenekleri: Gofre, Lazer
 
-Promosyon organizer ORG-120 modeli; termo deri kapak yapısı, metal tokalı kapanışı, 352 sayfalık ajandası, krem kağıt içeriği ve kurumsal logo baskı seçenekleri ile günlük iş hayatında uzun süre kullanılabilecek prestijli promosyon organizer modellerinden biridir. Güncel stok durumu, renk seçenekleri, toplu sipariş fiyatları, logo baskısı ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+RENK VE STOK BİLGİSİ
+
+Renk seçenekleri: Taba, Lacivert, Kırmızı, Siyah. Renklerin siparişe uygunluğu güncel stok durumuna göre teyit edilir. Ürün görseli tüm renk seçeneklerini bir arada göstermeyebilir.
+
+LOGO BASKISI
+
+ORG-120 için belirtilen baskı seçenekleri Gofre, Lazer yöntemleridir. Uygulama alanı, logo tasarımı ve baskı bedeli teklif aşamasında netleştirilir. Tasarım onayı sonrası üretim planı paylaşılır.
+
+SİPARİŞ BİLGİSİ
+
+Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve logo dosyanızı iletebilirsiniz. Koli adedi 30 olarak belirtilmiştir; sipariş adedi, baskı bedeli, güncel stok ve teslim süresi teklif sırasında teyit edilir. Listelenen fiyat baskı ve KDV hariçtir.
 `.trim(),
 
   faq: [
-    {
-      q: "ORG-120 organizer kaç sayfadır?",
-      a: "ORG-120 modeli 352 sayfalık geniş ajanda içeriğine sahiptir."
-    },
-    {
-      q: "ORG-120 organizer ölçüsü nedir?",
-      a: "Ürünün dış ölçüsü 18 x 23 cm, içerisindeki ajandanın ölçüsü ise 15 x 21 cm'dir."
-    },
-    {
-      q: "Organizer üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. ORG-120 üzerine gofre baskı veya lazer baskı yöntemi ile firma logosu ve marka adı uygulanabilmektedir."
-    },
-    {
-      q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "ORG-120 modeli lacivert, kırmızı, taba ve siyah renk seçenekleriyle sunulmaktadır. Güncel renk stokları sipariş öncesinde kontrol edilmelidir."
-    },
-    {
-      q: "ORG-120 hangi kağıt türünü kullanmaktadır?",
-      a: "Organizer içerisinde 70 gr krem kağıttan hazırlanmış 352 sayfalık ajanda bulunmaktadır."
-    },
-    {
-      q: "ORG-120 kurumsal toplu siparişe uygun mudur?",
-      a: "Evet. Ürün kurumsal toplu siparişlere uygundur. Sipariş miktarı, logo baskısı, renk seçimi ve teslim süresine göre özel fiyatlandırma yapılabilir."
-    }
+    { q: "ORG-120 organizer kaç sayfadır?", a: "ORG-120 modeli 352 sayfalık iç bloğa sahiptir." },
+    { q: "ORG-120 organizer ölçüsü nedir?", a: "Dış ölçü 18 x 23 cm, iç blok / ajanda ölçüsü 15 x 21 cm olarak belirtilmiştir." },
+    { q: "Organizer üzerine logo baskısı yapılabilir mi?", a: "ORG-120 için Gofre, Lazer baskı seçenekleri belirtilmiştir. Logo uygulamasının alanı ve fiyatı teklif aşamasında netleştirilir." },
+    { q: "Hangi renk seçenekleri bulunmaktadır?", a: "Renk seçenekleri Taba, Lacivert, Kırmızı, Siyah olarak listelenmektedir. Güncel stok ve renk uygunluğu sipariş öncesinde teyit edilir." },
+    { q: "ORG-120 hangi kağıt türünü kullanmaktadır?", a: "70 gr krem kağıt kullanılmaktadır." },
+    { q: "ORG-120 kurumsal toplu siparişe uygun mudur?", a: "Evet. ORG-120 için adet, renk ve logo bilgileriyle kurumsal teklif alabilirsiniz. Stok, baskı bedeli ve teslim süresi teklif aşamasında paylaşılır." }
   ]
 },
 {
@@ -23338,8 +23153,7 @@ Promosyon organizer ORG-120 modeli; termo deri kapak yapısı, metal tokalı kap
 
   slug: "promosyon-organizer-org-130",
 
-  title:
-    "Promosyon Organizer ORG-130 | Logo Baskılı Termo Deri Kılıflı Ajanda 15x21 cm",
+  title: "Promosyon Organizer ORG-130 | Logo Baskılı Termo Deri Kılıflı Ajanda 15x21 cm",
 
   price: 540,
 
@@ -23347,149 +23161,57 @@ Promosyon organizer ORG-120 modeli; termo deri kapak yapısı, metal tokalı kap
 
   image: "/products/promosyon-organizer-org-130.jpg",
 
-  shortDesc:
-    "Promosyon organizer ORG-130 modeli; termo deri kapak, tokalı kapanış, 352 sayfalık 70 gr krem kağıt ajanda içeriği ve logo baskı seçenekleri ile ofis, toplantı ve kurumsal hediye kullanımı için tercih edilen şık organizer modellerinden biridir.",
+  shortDesc: "Promosyon organizer ORG-130; termo deri kapağı, 352 sayfalık iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. metal toka ile sunulur. Gofre, Lazer, Dijital baskı seçenekleri bulunur.",
 
   longDesc: `
-Promosyon organizer ORG-130 modeli, sade ve modern tasarımı, termo deri kapak yapısı ve 352 sayfalık geniş ajanda içeriği ile kurumsal promosyon ürünleri arasında öne çıkan kullanışlı organizer modellerinden biridir.
+Promosyon organizer ORG-130, termo deri kapağı ve 26,5 x 19 cm dış ölçüsüyle toplantı notları, iş planları ve günlük ofis kullanımı için değerlendirilebilen bir kurumsal hediye seçeneğidir. Firma logosuyla kişiselleştirilen kapak, ürünün çalışma ortamında markanızı temsil etmesine yardımcı olur.
 
-15 x 21 cm iç blok ölçüsü sayesinde günlük planlama, toplantı notları, müşteri görüşmeleri, yapılacaklar listeleri ve iş takibi için yeterli yazım alanı sunar. Kompakt yapısı sayesinde hem masaüstü kullanımına hem de toplantı ve iş seyahatlerinde taşımaya uygundur.
+15 x 21 cm ölçüsündeki iç blok 352 sayfadan oluşur ve 70 gr krem kağıt kullanır. Metal toka kapağın kapalı tutulmasına yardımcı olur.
 
-Termo deri dış kapak ürüne profesyonel ve prestijli bir görünüm kazandırırken, tokalı kapanış sistemi organizerın düzenli ve güvenli şekilde kullanılmasına yardımcı olur.
+Ofis çalışanları, yöneticiler, satış ekipleri ve kurumsal müşteriler için toplantı, eğitim ve hediye çalışmalarında tercih edilebilir. İç sayfaların takvim yılı ve tarih düzeni sipariş öncesinde teyit edilir.
 
-352 sayfalık iç yapı, yoğun ofis kullanımı için uzun süreli kullanım avantajı sağlar. Günlük not alma, planlama, proje takibi ve toplantı kayıtları gibi farklı iş süreçlerinde rahatlıkla kullanılabilir.
+ÖNE ÇIKAN ÖZELLİKLER
 
-İç sayfalarda kullanılan 70 gr krem kağıt, uzun süreli yazım sırasında daha yumuşak bir sayfa görünümü sunar ve günlük profesyonel kullanım için uygun bir yapı oluşturur.
-
-ORG-130 modeli üzerine firmanızın logosu, marka adı veya kurumsal tasarımı gofre baskı, lazer baskı ve dijital baskı yöntemleri ile uygulanabilir. Böylece ürün yalnızca bir organizer değil, aynı zamanda markanızı uzun süre temsil eden etkili bir kurumsal promosyon ürününe dönüşür.
-
-Organizer ve ajanda ürünlerinin günlük iş hayatında uzun süre kullanılması, marka görünürlüğünün sürekliliği açısından önemli bir avantaj sağlar. Ürün her toplantıda, planlama sürecinde ve masaüstü kullanımında firmanızın tekrar görünür olmasına katkıda bulunur.
-
-Gri, lacivert ve siyah renk seçenekleri sayesinde farklı kurumsal kimliklere uygun alternatifler oluşturulabilir. Üründe yer alan kontrast dikiş ve renk detayları, klasik organizer tasarımına daha modern bir görünüm kazandırır.
-
-ORG-130 modeli; yöneticiler, satış ekipleri, danışmanlar, ofis çalışanları, finans personeli, müşteri temsilcileri ve kurumsal müşteriler için kullanışlı bir promosyon hediyesi olarak tercih edilebilir.
-
-NEDEN PROMOSYON ORGANIZER ORG-130?
-
-• Termo deri kapak
-• Tokalı kapanış sistemi
-• 352 sayfalık geniş ajanda içeriği
+• 352 sayfalık iç blok
 • 70 gr krem kağıt
-• 15 x 21 cm kullanışlı iç blok
-• Gofre, lazer ve dijital baskıya uygun
-• Kompakt ve taşınabilir tasarım
-• Profesyonel ve modern görünüm
-• Günlük planlama ve toplantı kullanımına uygun
-• Uzun süreli marka görünürlüğü sağlar
-
-KULLANIM ALANLARI
-
-• Günlük iş planlaması
-• Toplantı notları
-• Müşteri görüşmeleri
-• Yönetici kullanımı
-• Satış ekipleri
-• Ofis çalışanları
-• Bayi toplantıları
-• Kurumsal etkinlikler
-• Çalışan hediyeleri
-• Müşteri hediyeleri
-• Fuar ve organizasyonlar
-• Kurumsal promosyon kampanyaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Holdingler
-• Bankalar
-• Finans kuruluşları
-• Sigorta şirketleri
-• Danışmanlık firmaları
-• Hukuk büroları
-• Eğitim kurumları
-• Kamu kurumları
-• Satış ekipleri
-• Yönetici ve ofis çalışanları
-• Kurumsal hediye arayan işletmeler
-
-PROMOSYON ORGANIZER ORG-130 FİYATLARI
-
-Promosyon organizer fiyatları sipariş adedi, uygulanacak logo baskı yöntemi, renk seçeneği, stok durumu ve teslim süresine göre değişiklik gösterebilir.
-
-Toplu ORG-130 organizer siparişlerinde kurumsal müşterilere özel fiyat avantajları sunulmaktadır. Güncel stok, renk seçenekleri ve baskı alternatifleri için teklif alabilirsiniz.
-
-BASKI BİLGİLERİ
-
-ORG-130 organizer üzerine firma logosu, marka adı veya kurumsal tasarım uygulanabilmektedir.
-
-Baskı Türleri: Gofre Baskı / Lazer Baskı / Dijital Baskı
-Logo Baskı: Kurumsal logo uygulamasına uygundur
-
-Uygulanacak baskı yöntemi logo tasarımı, baskı alanı ve sipariş miktarına göre belirlenmektedir.
-
-RENK VE STOK BİLGİSİ
-
-Renk Seçenekleri:
-
-• Gri
-• Lacivert
-• Siyah
-
-Renk ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde güncel renk seçeneklerinin ve stok miktarının kontrol edilmesi önerilmektedir.
-
-SİPARİŞ BİLGİSİ
-
-• Kurumsal toplu siparişler için uygundur.
-• Logo baskısı firmanıza özel hazırlanabilir.
-• Baskı çalışması üretim öncesinde onaya sunulabilir.
-• Minimum sipariş adedi stok ve üretim durumuna göre belirlenmektedir.
-• Güncel renk ve stok seçenekleri sipariş öncesinde kontrol edilmelidir.
-• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 15 x 21 cm ajanda / iç blok
+• Metal toka
 
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Organizer
 Model: ORG-130
 Kategori: Organizerler
-Kapak Malzemesi: Termo Deri
-Kapanış: Tokalı
-İç Blok Ölçüsü: 15 x 21 cm
-Sayfa Sayısı: 352 Sayfa
-Kağıt: 70 gr Krem Kağıt
-Renk Seçenekleri: Gri / Lacivert / Siyah
-Baskı Türü: Gofre Baskı / Lazer Baskı / Dijital Baskı
+Kapak: Termo Deri
+Dış Ölçü: 26,5 x 19 cm
+İç Blok / Ajanda Ölçüsü: 15 x 21 cm
+Sayfa Sayısı: 352
+Kağıt: 70 gr Krem
+Kapanış: Metal Toka
 Koli Adedi: 30 Adet
-Kullanım Tipi: Ofis / Toplantı / Planlama / Kurumsal Hediye
+Renk Seçenekleri: Siyah, Gri, Lacivert
+Baskı Seçenekleri: Gofre, Lazer, Dijital
 
-Promosyon organizer ORG-130 modeli; termo deri kapak yapısı, tokalı tasarımı, 352 sayfalık krem kağıt ajandası ve farklı logo baskı seçenekleri ile günlük iş hayatında uzun süre kullanılabilecek kurumsal promosyon organizer modellerinden biridir. Güncel stok durumu, renk seçenekleri, toplu sipariş fiyatları, logo baskısı ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+RENK VE STOK BİLGİSİ
+
+Renk seçenekleri: Siyah, Gri, Lacivert. Renklerin siparişe uygunluğu güncel stok durumuna göre teyit edilir. Ürün görseli tüm renk seçeneklerini bir arada göstermeyebilir.
+
+LOGO BASKISI
+
+ORG-130 için belirtilen baskı seçenekleri Gofre, Lazer, Dijital yöntemleridir. Uygulama alanı, logo tasarımı ve baskı bedeli teklif aşamasında netleştirilir. Tasarım onayı sonrası üretim planı paylaşılır.
+
+SİPARİŞ BİLGİSİ
+
+Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve logo dosyanızı iletebilirsiniz. Koli adedi 30 olarak belirtilmiştir; sipariş adedi, baskı bedeli, güncel stok ve teslim süresi teklif sırasında teyit edilir. Listelenen fiyat baskı ve KDV hariçtir.
 `.trim(),
 
   faq: [
-    {
-      q: "ORG-130 organizer kaç sayfadır?",
-      a: "ORG-130 modeli 352 sayfalık ajanda içeriğine sahiptir."
-    },
-    {
-      q: "ORG-130 organizer ölçüsü nedir?",
-      a: "Organizerın iç blok ölçüsü 15 x 21 cm'dir ve günlük planlama ile toplantı notları için uygun bir kullanım alanı sunar."
-    },
-    {
-      q: "Organizer üzerine firma logosu basılabilir mi?",
-      a: "Evet. ORG-130 üzerine gofre baskı, lazer baskı veya dijital baskı yöntemleri ile kurumsal logo uygulanabilmektedir."
-    },
-    {
-      q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "ORG-130 modeli gri, lacivert ve siyah renk seçenekleriyle sunulmaktadır. Güncel renk stokları sipariş öncesinde kontrol edilmelidir."
-    },
-    {
-      q: "ORG-130 hangi kağıt türünü kullanmaktadır?",
-      a: "Organizer içerisinde 70 gr krem kağıttan hazırlanmış 352 sayfalık ajanda bulunmaktadır."
-    },
-    {
-      q: "ORG-130 kurumsal toplu siparişe uygun mudur?",
-      a: "Evet. Ürün kurumsal toplu siparişlere uygundur. Sipariş miktarı, baskı yöntemi, renk seçimi ve teslim süresine göre özel fiyatlandırma yapılabilir."
-    }
+    { q: "ORG-130 organizer kaç sayfadır?", a: "ORG-130 modeli 352 sayfalık iç bloğa sahiptir." },
+    { q: "ORG-130 organizer ölçüsü nedir?", a: "Dış ölçü 26,5 x 19 cm, iç blok / ajanda ölçüsü 15 x 21 cm olarak belirtilmiştir." },
+    { q: "Organizer üzerine firma logosu basılabilir mi?", a: "ORG-130 için Gofre, Lazer, Dijital baskı seçenekleri belirtilmiştir. Logo uygulamasının alanı ve fiyatı teklif aşamasında netleştirilir." },
+    { q: "Hangi renk seçenekleri bulunmaktadır?", a: "Renk seçenekleri Siyah, Gri, Lacivert olarak listelenmektedir. Güncel stok ve renk uygunluğu sipariş öncesinde teyit edilir." },
+    { q: "ORG-130 hangi kağıt türünü kullanmaktadır?", a: "70 gr krem kağıt kullanılmaktadır." },
+    { q: "ORG-130 kurumsal toplu siparişe uygun mudur?", a: "Evet. ORG-130 için adet, renk ve logo bilgileriyle kurumsal teklif alabilirsiniz. Stok, baskı bedeli ve teslim süresi teklif aşamasında paylaşılır." }
   ]
 },
 {
@@ -23497,161 +23219,68 @@ Promosyon organizer ORG-130 modeli; termo deri kapak yapısı, tokalı tasarım�
 
   slug: "promosyon-organizer-org-140",
 
-  title:
-    "Promosyon Organizer ORG-140 | Logo Baskılı Termo Deri Ajanda 18x23 cm",
+  title: "Promosyon Organizer ORG-140 | Logo Baskılı Termo Deri Ajanda 18x23 cm",
 
   price: 540,
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-140.jpg",
+  image: "/products/promosyon-organizer-org-140-v2.jpg",
 
-  shortDesc:
-    "Promosyon organizer ORG-140 modeli; termo deri kapak, 336 sayfalık çizgili ajanda içeriği, 70 gr krem kağıdı ve logo baskı seçenekleri ile toplantı, planlama ve kurumsal hediye kullanımı için tercih edilen şık organizer modellerinden biridir.",
+  shortDesc: "Promosyon organizer ORG-140; termo deri kapağı, 336 sayfalık çizgili iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. Hesap makinesi ve kurumsal kapak tasarımı ile sunulur. Lazer, Gofre baskı seçenekleri bulunur.",
 
   longDesc: `
-Promosyon organizer ORG-140 modeli, termo deri kapak tasarımı, kullanışlı iç yapısı ve profesyonel görünümü ile kurumsal promosyon organizer ürünleri arasında öne çıkan modellerden biridir.
+Promosyon organizer ORG-140, termo deri kapağı ve 18 x 23 cm dış ölçüsüyle toplantı notları, iş planları ve günlük ofis kullanımı için değerlendirilebilen bir kurumsal hediye seçeneğidir. Firma logosuyla kişiselleştirilen kapak, ürünün çalışma ortamında markanızı temsil etmesine yardımcı olur.
 
-18 x 23 cm dış ölçüsü sayesinde masaüstü kullanımda rahat bir çalışma alanı sunarken toplantı, müşteri ziyareti ve iş seyahatlerinde kolay taşınabilecek kompakt bir yapıya sahiptir. İçerisinde bulunan 15 x 21 cm ölçüsündeki ajanda bloğu günlük planlama, toplantı notları ve iş takibi için geniş bir yazım alanı sağlar.
+15 x 21 cm ölçüsündeki iç blok 336 sayfadan oluşur ve 70 gr krem kağıt kullanır. Çizgili sayfa düzeni notları düzenli tutmayı kolaylaştırır. 8 haneli hesap makinesi günlük hesaplamalar için kullanılabilir.
 
-Termo deri kapak yapısı ürüne hem şık hem de kurumsal bir görünüm kazandırır. Tokalı kapanış tasarımı organizerın kapalı ve düzenli tutulmasına yardımcı olurken farklı renk seçenekleri ürünü farklı kurumsal kimliklere uyarlanabilir hale getirir.
+Ofis çalışanları, yöneticiler, satış ekipleri ve kurumsal müşteriler için toplantı, eğitim ve hediye çalışmalarında tercih edilebilir. İç sayfaların takvim yılı ve tarih düzeni sipariş öncesinde teyit edilir.
 
-ORG-140 modeli 336 sayfalık çizgili iç blok yapısına sahiptir. Uzun süreli kullanım için tasarlanan bu geniş sayfa kapasitesi; günlük iş planlarının, müşteri görüşmelerinin, toplantı kayıtlarının ve yapılacaklar listelerinin tek bir organizer içerisinde düzenli şekilde tutulmasını sağlar.
+ÖNE ÇIKAN ÖZELLİKLER
 
-İç sayfalarda kullanılan 70 gr krem kağıt, günlük profesyonel yazım için konforlu bir yüzey sunar. Krem renkli kağıt yapısı özellikle yoğun not alma süreçlerinde daha yumuşak bir sayfa görünümü oluşturur.
-
-Ürünün mevcut teknik özellikleri arasında 8 haneli hesap makinesi de bulunmaktadır. Bu özellik, günlük hesaplamaların organizer ile birlikte pratik şekilde yapılmasına imkan sağlayarak ürünü özellikle satış, finans, muhasebe ve ofis çalışanları için daha fonksiyonel hale getirir.
-
-Promosyon organizer ORG-140 üzerine firmanızın logosu, marka adı veya kurumsal tasarımı lazer baskı ve gofre baskı yöntemleri ile uygulanabilir. Logo uygulaması sayesinde ürün yalnızca işlevsel bir ajanda değil, markanızın uzun süre görünür kalmasını sağlayan etkili bir promosyon ürününe dönüşür.
-
-Organizer ve ajanda ürünleri günlük iş hayatında uzun süre kullanılan promosyon ürünlerinden olduğu için marka hatırlanabilirliğini destekleyen güçlü kurumsal hediyeler arasında yer almaktadır.
-
-ORG-140 modeli; yöneticiler, satış ekipleri, muhasebe personeli, finans çalışanları, danışmanlar, müşteri temsilcileri ve ofis çalışanları için kullanışlı bir kurumsal hediye alternatifi olarak tercih edilebilir.
-
-NEDEN PROMOSYON ORGANIZER ORG-140?
-
-• Termo deri kapak
-• 336 sayfalık geniş ajanda içeriği
+• 336 sayfalık çizgili iç blok
 • 70 gr krem kağıt
-• Çizgili iç sayfalar
-• 15 x 21 cm kullanışlı iç blok
-• 8 haneli hesap makinesi
-• Tokalı kapanış tasarımı
-• Lazer ve gofre baskıya uygun yüzey
-• Günlük planlama ve toplantı kullanımına uygun
-• Uzun süreli kurumsal marka görünürlüğü
-
-KULLANIM ALANLARI
-
-• Günlük iş planlaması
-• Toplantı notları
-• Müşteri görüşmeleri
-• Yönetici kullanımı
-• Satış ekipleri
-• Finans ve muhasebe departmanları
-• Ofis çalışanları
-• Bayi toplantıları
-• Kurumsal etkinlikler
-• Çalışan hediyeleri
-• VIP müşteri hediyeleri
-• Fuar ve organizasyonlar
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Holdingler
-• Bankalar
-• Finans kuruluşları
-• Sigorta şirketleri
-• Muhasebe firmaları
-• Danışmanlık şirketleri
-• Hukuk büroları
-• Kamu kurumları
-• Eğitim kurumları
-• Satış ve saha ekipleri
-• Yönetici ve ofis çalışanları
-
-PROMOSYON ORGANIZER ORG-140 FİYATLARI
-
-Promosyon organizer fiyatları sipariş adedi, uygulanacak logo baskı yöntemi, seçilecek renk, stok durumu ve teslim süresine göre değişiklik gösterebilir.
-
-Toplu ORG-140 organizer siparişlerinde kurumsal müşterilere özel fiyat avantajları sunulmaktadır. Güncel stok, baskı seçenekleri ve toplu sipariş fiyatları için teklif alabilirsiniz.
-
-BASKI BİLGİLERİ
-
-ORG-140 organizer üzerine firma logosu, marka adı veya kurumsal tasarım uygulanabilmektedir.
-
-Baskı Türleri: Lazer Baskı / Gofre Baskı
-Logo Baskı: Kurumsal logo uygulamasına uygundur
-
-Uygulanacak baskı yöntemi logo tasarımı, baskı alanı ve sipariş miktarına göre belirlenmektedir.
-
-RENK VE STOK BİLGİSİ
-
-Renk Seçenekleri:
-
-• Gri
-• Kırmızı
-• Taba
-• Füme
-
-Renk ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde güncel renk seçeneklerinin ve stok miktarının kontrol edilmesi önerilmektedir.
-
-SİPARİŞ BİLGİSİ
-
-• Kurumsal toplu siparişlere uygundur.
-• Logo baskısı firmanıza özel hazırlanabilir.
-• Baskı çalışması üretim öncesinde onaya sunulabilir.
-• Minimum sipariş adedi stok ve üretim durumuna göre belirlenmektedir.
-• Güncel renk ve stok seçenekleri sipariş öncesinde kontrol edilmelidir.
-• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 15 x 21 cm ajanda / iç blok
+• 8 haneli Hesap makinesi
+• Özel kutulu ambalaj
 
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Organizer
 Model: ORG-140
 Kategori: Organizerler
-Kapak Malzemesi: Termo Deri
+Kapak: Termo Deri
 Dış Ölçü: 18 x 23 cm
-İç Blok Ölçüsü: 15 x 21 cm
-Sayfa Sayısı: 336 Sayfa
-Sayfa Tipi: Çizgili
-Kağıt: 70 gr Krem Kağıt
+İç Blok / Ajanda Ölçüsü: 15 x 21 cm
+Sayfa Sayısı: 336
+Kağıt: 70 gr Krem
+Sayfa Düzeni: Çizgili
 Hesap Makinesi: 8 Haneli
-Baskı Türü: Lazer Baskı / Gofre Baskı
-Renk Seçenekleri: Gri / Kırmızı / Taba / Füme
+Ambalaj: Özel Kutulu
 Koli Adedi: 30 Adet
-Kullanım Tipi: Ofis / Toplantı / Planlama / Finans / Kurumsal Hediye
+Renk Seçenekleri: Lacivert, Gri, Kırmızı, Taba, Füme
+Baskı Seçenekleri: Lazer, Gofre
 
-Promosyon organizer ORG-140 modeli; termo deri kapak yapısı, 336 sayfalık çizgili iç bloğu, 70 gr krem kağıdı, hesap makinesi özelliği ve logo baskı seçenekleri ile günlük iş hayatında uzun süre kullanılabilecek fonksiyonel kurumsal organizer modellerinden biridir. Güncel stok durumu, renk seçenekleri, toplu sipariş fiyatları, logo baskısı ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+RENK VE STOK BİLGİSİ
+
+Renk seçenekleri: Lacivert, Gri, Kırmızı, Taba, Füme. Renklerin siparişe uygunluğu güncel stok durumuna göre teyit edilir. Ürün görseli tüm renk seçeneklerini bir arada göstermeyebilir.
+
+LOGO BASKISI
+
+ORG-140 için belirtilen baskı seçenekleri Lazer, Gofre yöntemleridir. Uygulama alanı, logo tasarımı ve baskı bedeli teklif aşamasında netleştirilir. Tasarım onayı sonrası üretim planı paylaşılır.
+
+SİPARİŞ BİLGİSİ
+
+Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve logo dosyanızı iletebilirsiniz. Koli adedi 30 olarak belirtilmiştir; sipariş adedi, baskı bedeli, güncel stok ve teslim süresi teklif sırasında teyit edilir. Listelenen fiyat baskı ve KDV hariçtir.
 `.trim(),
 
   faq: [
-    {
-      q: "ORG-140 organizer kaç sayfadır?",
-      a: "ORG-140 modeli 336 sayfalık çizgili ajanda içeriğine sahiptir."
-    },
-    {
-      q: "ORG-140 organizer ölçüsü nedir?",
-      a: "Ürünün dış ölçüsü 18 x 23 cm, içerisindeki ajanda bloğunun ölçüsü ise 15 x 21 cm'dir."
-    },
-    {
-      q: "Organizer üzerine firma logosu basılabilir mi?",
-      a: "Evet. ORG-140 üzerine lazer baskı veya gofre baskı yöntemi ile firma logosu ve marka adı uygulanabilmektedir."
-    },
-    {
-      q: "ORG-140 hesap makineli midir?",
-      a: "Ürünün teknik özelliklerinde 8 haneli hesap makinesi bulunmaktadır."
-    },
-    {
-      q: "Hangi renk seçenekleri bulunmaktadır?",
-      a: "ORG-140 modeli gri, kırmızı, taba ve füme renk seçenekleriyle sunulmaktadır. Güncel stok durumu sipariş öncesinde kontrol edilmelidir."
-    },
-    {
-      q: "ORG-140 toplu siparişe uygun mudur?",
-      a: "Evet. Ürün kurumsal toplu siparişlere uygundur. Sipariş miktarı, baskı yöntemi, renk seçimi ve teslim süresine göre özel fiyatlandırma yapılabilir."
-    }
+    { q: "ORG-140 organizer kaç sayfadır?", a: "ORG-140 modeli 336 sayfalık çizgili iç bloğa sahiptir." },
+    { q: "ORG-140 organizer ölçüsü nedir?", a: "Dış ölçü 18 x 23 cm, iç blok / ajanda ölçüsü 15 x 21 cm olarak belirtilmiştir." },
+    { q: "Organizer üzerine firma logosu basılabilir mi?", a: "ORG-140 için Lazer, Gofre baskı seçenekleri belirtilmiştir. Logo uygulamasının alanı ve fiyatı teklif aşamasında netleştirilir." },
+    { q: "ORG-140 hesap makineli midir?", a: "Evet. 8 haneli hesap makinesi bulunmaktadır." },
+    { q: "Hangi renk seçenekleri bulunmaktadır?", a: "Renk seçenekleri Lacivert, Gri, Kırmızı, Taba, Füme olarak listelenmektedir. Güncel stok ve renk uygunluğu sipariş öncesinde teyit edilir." },
+    { q: "ORG-140 toplu siparişe uygun mudur?", a: "Evet. ORG-140 için adet, renk ve logo bilgileriyle kurumsal teklif alabilirsiniz. Stok, baskı bedeli ve teslim süresi teklif aşamasında paylaşılır." }
   ]
 },
 {
@@ -23659,172 +23288,68 @@ Promosyon organizer ORG-140 modeli; termo deri kapak yapısı, 336 sayfalık çi
 
   slug: "promosyon-organizer-org-150",
 
-  title:
-    "Promosyon Organizer ORG-150 | Manyetik Kilitli Logo Baskılı Termo Deri Organizer",
+  title: "Promosyon Organizer ORG-150 | Metal Tokalı Hesap Makineli Termo Deri Organizer",
 
   price: 670,
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-150.jpg",
+  image: "/products/promosyon-organizer-org-150-v2.jpg",
 
-  shortDesc:
-    "Promosyon organizer ORG-150 modeli; termo deri kapak, metal ve manyetik kilit, 8 haneli hesap makinesi, kartvizitlik bölmesi ve logo baskı seçenekleri ile yönetici, çalışan ve kurumsal müşteri hediyeleri için tasarlanmış fonksiyonel organizer modelidir.",
+  shortDesc: "Promosyon organizer ORG-150; termo deri kapağı, 352 sayfalık iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. Hesap makinesi ve metal toka ile sunulur. Gofre, Lazer, Dijital baskı seçenekleri bulunur.",
 
   longDesc: `
-Promosyon organizer ORG-150 modeli, termo deri kapak tasarımı, manyetik kilit sistemi ve iş hayatına yönelik fonksiyonel özellikleri ile kurumsal promosyon organizer modelleri arasında öne çıkan seçeneklerden biridir.
+Promosyon organizer ORG-150, termo deri kapağı ve 26,5 x 19 cm dış ölçüsüyle toplantı notları, iş planları ve günlük ofis kullanımı için değerlendirilebilen bir kurumsal hediye seçeneğidir. Firma logosuyla kişiselleştirilen kapak, ürünün çalışma ortamında markanızı temsil etmesine yardımcı olur.
 
-17 x 21 cm dış ölçüsü sayesinde kompakt ve taşınabilir bir yapıya sahip olan ORG-150, günlük ofis kullanımı, toplantılar, müşteri görüşmeleri ve iş seyahatleri için uygun bir organizer modelidir.
+15 x 21 cm ölçüsündeki iç blok 352 sayfadan oluşur ve 70 gr krem kağıt kullanır. Metal toka kapağın kapalı tutulmasına yardımcı olur. Hesap makinesi günlük hesaplamalar için kullanılabilir.
 
-Termo deri kapak ürüne şık ve profesyonel bir görünüm kazandırırken metal ve manyetik kilit sistemi organizerın pratik şekilde açılıp kapanmasını sağlar. Tokalı tasarım aynı zamanda ürüne klasik organizer modellerinden ayrılan daha prestijli bir görünüm kazandırır.
+Ofis çalışanları, yöneticiler, satış ekipleri ve kurumsal müşteriler için toplantı, eğitim ve hediye çalışmalarında tercih edilebilir. İç sayfaların takvim yılı ve tarih düzeni sipariş öncesinde teyit edilir.
 
-Organizer içerisinde bulunan 15 x 21 cm iç blok, günlük not alma, toplantı kayıtları, yapılacaklar listeleri, müşteri görüşmeleri ve iş planlamaları için kullanışlı bir yazım alanı sunar.
+ÖNE ÇIKAN ÖZELLİKLER
 
-İç sayfalarda kullanılan 70 gr ivory kağıt, günlük profesyonel kullanım için uygun bir yazım yüzeyi sağlar.
-
-ORG-150 modelinin önemli özelliklerinden biri entegre 8 haneli hesap makinesidir. Günlük hesaplamaların organizer üzerinden yapılabilmesi özellikle satış, finans, muhasebe ve ofis çalışanları için pratik bir kullanım avantajı sağlar.
-
-Organizer içerisinde yer alan kartvizitlik bölmesi, kartvizitlerin ve benzeri küçük kurumsal materyallerin düzenli şekilde taşınmasına yardımcı olur. Böylece ürün yalnızca not alma amacıyla değil, iş hayatında kullanılan farklı materyalleri bir arada tutmak için de kullanılabilir.
-
-Promosyon organizer ORG-150 üzerine firmanızın logosu, marka adı veya kurumsal tasarımı gofre baskı, UV baskı ve serigrafi baskı yöntemleri ile uygulanabilir.
-
-Logo baskılı organizerlar günlük iş hayatında uzun süre kullanılan ürünler olduğu için markanın düzenli olarak görünmesine katkıda bulunur. Bu özellik ORG-150 modelini çalışan hediyeleri, müşteri hediyeleri ve kurumsal promosyon kampanyaları için kullanışlı bir alternatif haline getirir.
-
-Gri, taba, lacivert ve kırmızı renk seçenekleri sayesinde farklı kurumsal kimliklere uygun ürün tercihleri yapılabilir. Güncel renk ve stok durumu sipariş öncesinde kontrol edilmelidir.
-
-ORG-150 modeli; yöneticiler, satış ekipleri, danışmanlar, finans ve muhasebe çalışanları, müşteri temsilcileri ve ofis personelleri için hem işlevsel hem de prestijli bir kurumsal hediye olarak değerlendirilebilir.
-
-NEDEN PROMOSYON ORGANIZER ORG-150?
-
-• Termo deri kapak
-• Metal ve manyetik kilit sistemi
-• 8 haneli hesap makinesi
-• Kartvizitlik bölmesi
-• 15 x 21 cm kullanışlı iç blok
-• 70 gr ivory kağıt
-• Kompakt 17 x 21 cm dış ölçü
-• Gofre, UV ve serigrafi baskıya uygun
-• Profesyonel ve kurumsal görünüm
-• Günlük ofis ve toplantı kullanımına uygun
-• Yönetici ve müşteri hediyesi olarak kullanılabilir
-• Uzun süreli marka görünürlüğünü destekler
-
-KULLANIM ALANLARI
-
-• Günlük iş planlaması
-• Toplantı notları
-• Müşteri görüşmeleri
-• Yönetici kullanımı
-• Satış ekipleri
-• Finans ve muhasebe departmanları
-• Ofis çalışanları
-• İş seyahatleri
-• Bayi toplantıları
-• Kurumsal etkinlikler
-• Çalışan hediyeleri
-• VIP müşteri hediyeleri
-• Fuar ve organizasyonlar
-• Kurumsal promosyon kampanyaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Holdingler
-• Bankalar
-• Finans kuruluşları
-• Sigorta şirketleri
-• Muhasebe firmaları
-• Danışmanlık şirketleri
-• Hukuk büroları
-• Eğitim kurumları
-• Satış ve saha ekipleri
-• Yönetici ve ofis çalışanları
-• Kurumsal hediye arayan işletmeler
-
-PROMOSYON ORGANIZER ORG-150 FİYATLARI
-
-Promosyon organizer fiyatları sipariş adedi, uygulanacak logo baskı yöntemi, renk seçeneği, stok durumu ve teslim süresine göre değişiklik gösterebilir.
-
-Toplu ORG-150 organizer siparişlerinde kurumsal müşterilere özel fiyatlandırma yapılabilir. Güncel stok, renk seçenekleri, baskı alternatifleri ve toplu sipariş fiyatları için teklif alabilirsiniz.
-
-BASKI BİLGİLERİ
-
-ORG-150 organizer üzerine firma logosu, marka adı veya kurumsal tasarım uygulanabilmektedir.
-
-Baskı Türleri: Gofre Baskı / UV Baskı / Serigrafi Baskı
-Logo Baskı: Kurumsal logo uygulamasına uygundur
-
-Uygulanacak baskı yöntemi logo tasarımı, baskı alanı, ürün yüzeyi ve sipariş miktarına göre belirlenmektedir.
-
-RENK VE STOK BİLGİSİ
-
-Renk Seçenekleri:
-
-• Gri
-• Taba
-• Lacivert
-• Kırmızı
-
-Renk ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde güncel renk seçeneklerinin ve stok miktarının kontrol edilmesi önerilmektedir.
-
-SİPARİŞ BİLGİSİ
-
-• Kurumsal toplu siparişlere uygundur.
-• Logo baskısı firmanıza özel hazırlanabilir.
-• Baskı çalışması üretim öncesinde onaya sunulabilir.
-• Minimum sipariş adedi stok ve üretim durumuna göre belirlenmektedir.
-• Güncel renk ve stok seçenekleri sipariş öncesinde kontrol edilmelidir.
-• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 352 sayfalık iç blok
+• 70 gr krem kağıt
+• 15 x 21 cm ajanda / iç blok
+• Metal toka
+• Hesap makinesi
 
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Organizer
 Model: ORG-150
 Kategori: Organizerler
-Kapak Malzemesi: Termo Deri
-Kapanış Sistemi: Metal ve Manyetik Kilit
-Ürün Ölçüsü: 17 x 21 cm
-İç Blok Ölçüsü: 15 x 21 cm
-Kağıt: 70 gr Ivory Kağıt
-Hesap Makinesi: 8 Haneli
-Kartvizitlik: Var
-Renk Seçenekleri: Gri / Taba / Lacivert / Kırmızı
-Baskı Türleri: Gofre Baskı / UV Baskı / Serigrafi Baskı
-Kullanım Tipi: Ofis / Toplantı / Planlama / Finans / Kurumsal Hediye
+Kapak: Termo Deri
+Dış Ölçü: 26,5 x 19 cm
+İç Blok / Ajanda Ölçüsü: 15 x 21 cm
+Sayfa Sayısı: 352
+Kağıt: 70 gr Krem
+Kapanış: Metal Toka
+Hesap Makinesi: Var
+Koli Adedi: 30 Adet
+Renk Seçenekleri: Kırmızı, Lacivert, Siyah, Gri
+Baskı Seçenekleri: Gofre, Lazer, Dijital
 
-Promosyon organizer ORG-150 modeli; termo deri kapak yapısı, manyetik kilit sistemi, hesap makinesi, kartvizitlik bölmesi ve kurumsal logo baskı seçenekleri ile günlük iş hayatında kullanılabilecek çok fonksiyonlu promosyon organizer modellerinden biridir. Güncel stok durumu, renk seçenekleri, toplu sipariş fiyatları, logo baskısı ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+RENK VE STOK BİLGİSİ
+
+Renk seçenekleri: Kırmızı, Lacivert, Siyah, Gri. Renklerin siparişe uygunluğu güncel stok durumuna göre teyit edilir. Ürün görseli tüm renk seçeneklerini bir arada göstermeyebilir.
+
+LOGO BASKISI
+
+ORG-150 için belirtilen baskı seçenekleri Gofre, Lazer, Dijital yöntemleridir. Uygulama alanı, logo tasarımı ve baskı bedeli teklif aşamasında netleştirilir. Tasarım onayı sonrası üretim planı paylaşılır.
+
+SİPARİŞ BİLGİSİ
+
+Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve logo dosyanızı iletebilirsiniz. Koli adedi 30 olarak belirtilmiştir; sipariş adedi, baskı bedeli, güncel stok ve teslim süresi teklif sırasında teyit edilir. Listelenen fiyat baskı ve KDV hariçtir.
 `.trim(),
 
   faq: [
-    {
-      q: "ORG-150 organizer ölçüsü nedir?",
-      a: "ORG-150 modelinin ürün ölçüsü 17 x 21 cm, iç blok ölçüsü ise 15 x 21 cm'dir."
-    },
-    {
-      q: "ORG-150 hesap makineli midir?",
-      a: "Evet. ORG-150 modelinde günlük hesaplamalar için 8 haneli hesap makinesi bulunmaktadır."
-    },
-    {
-      q: "ORG-150 organizerda kartvizitlik bulunuyor mu?",
-      a: "Evet. Organizer içerisinde kartvizitlerin düzenli şekilde taşınabilmesi için kartvizitlik bölmesi bulunmaktadır."
-    },
-    {
-      q: "Organizer üzerine firma logosu basılabilir mi?",
-      a: "Evet. ORG-150 üzerine gofre baskı, UV baskı veya serigrafi baskı yöntemleri ile kurumsal logo uygulanabilmektedir."
-    },
-    {
-      q: "ORG-150 hangi renklerde bulunmaktadır?",
-      a: "Model gri, taba, lacivert ve kırmızı renk seçenekleriyle sunulmaktadır. Güncel renk stokları sipariş öncesinde kontrol edilmelidir."
-    },
-    {
-      q: "ORG-150 hangi kağıt türünü kullanmaktadır?",
-      a: "Organizerın iç bloğunda 70 gr ivory kağıt kullanılmaktadır."
-    },
-    {
-      q: "ORG-150 toplu siparişe uygun mudur?",
-      a: "Evet. ORG-150 kurumsal toplu siparişlere uygundur. Sipariş miktarı, baskı yöntemi, renk seçimi ve teslim süresine göre özel fiyatlandırma yapılabilir."
-    }
+    { q: "ORG-150 organizer ölçüsü nedir?", a: "Dış ölçü 26,5 x 19 cm, iç blok / ajanda ölçüsü 15 x 21 cm olarak belirtilmiştir." },
+    { q: "ORG-150 hesap makineli midir?", a: "Evet. Hesap makinesi bulunmaktadır." },
+    { q: "ORG-150 organizerda kartvizitlik bulunuyor mu?", a: "Kartvizit, kart ve belge bölmelerinin ayrıntıları güncel teknik listede belirtilmemiştir. İhtiyacınıza uygun iç yerleşim sipariş öncesinde teyit edilir." },
+    { q: "Organizer üzerine firma logosu basılabilir mi?", a: "ORG-150 için Gofre, Lazer, Dijital baskı seçenekleri belirtilmiştir. Logo uygulamasının alanı ve fiyatı teklif aşamasında netleştirilir." },
+    { q: "ORG-150 hangi renklerde bulunmaktadır?", a: "Renk seçenekleri Kırmızı, Lacivert, Siyah, Gri olarak listelenmektedir. Güncel stok ve renk uygunluğu sipariş öncesinde teyit edilir." },
+    { q: "ORG-150 hangi kağıt türünü kullanmaktadır?", a: "70 gr krem kağıt kullanılmaktadır." },
+    { q: "ORG-150 toplu siparişe uygun mudur?", a: "Evet. ORG-150 için adet, renk ve logo bilgileriyle kurumsal teklif alabilirsiniz. Stok, baskı bedeli ve teslim süresi teklif aşamasında paylaşılır." }
   ]
 },
 {
@@ -46600,169 +46125,69 @@ Promosyon tekli kalem kutusu KS-360 modeli; lüks sert gövdesi, profesyonel sun
 
   slug: "promosyon-organizer-org-160-termodei-hesap-makinali",
 
-  title:
-    "Promosyon Organizer ORG-160 | Hesap Makineli Termo Deri Kurumsal Organizer",
+  title: "Promosyon Organizer ORG-160 | Hesap Makineli Termo Deri Kurumsal Organizer",
 
   price: 540,
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-160.jpg",
+  image: "/products/promosyon-organizer-org-160-v2.jpg",
 
-  shortDesc:
-    "Promosyon organizer ORG-160 modeli; termo deri kapak, hesap makinesi, kart bölmeleri, tarihli iç yapı ve logo baskı seçenekleri ile ofis, toplantı ve kurumsal hediye kullanımı için tercih edilen fonksiyonel organizer modellerinden biridir.",
+  shortDesc: "Promosyon organizer ORG-160; termo deri kapağı, 336 sayfalık çizgili iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. Hesap makinesi ve kurumsal kapak tasarımı ile sunulur. Lazer, Gofre baskı seçenekleri bulunur.",
 
   longDesc: `
-Promosyon organizer ORG-160 modeli, termo deri kapak tasarımı, hesap makinesi ve kart bölmeleri ile günlük iş hayatında birden fazla ihtiyacı tek üründe karşılayan fonksiyonel kurumsal organizer modellerinden biridir.
+Promosyon organizer ORG-160, termo deri kapağı ve 18 x 23 cm dış ölçüsüyle toplantı notları, iş planları ve günlük ofis kullanımı için değerlendirilebilen bir kurumsal hediye seçeneğidir. Firma logosuyla kişiselleştirilen kapak, ürünün çalışma ortamında markanızı temsil etmesine yardımcı olur.
 
-17 x 24 cm ölçüsü sayesinde not alma, toplantı planlama, müşteri görüşmeleri ve günlük iş takibi için geniş ve kullanışlı bir çalışma alanı sunar. Masaüstü kullanımın yanı sıra toplantılarda ve iş seyahatlerinde de rahatlıkla taşınabilir.
+15 x 21 cm ölçüsündeki iç blok 336 sayfadan oluşur ve 70 gr krem kağıt kullanır. Çizgili sayfa düzeni notları düzenli tutmayı kolaylaştırır. 8 haneli hesap makinesi günlük hesaplamalar için kullanılabilir.
 
-Termo deri dış kapak ürüne profesyonel ve prestijli bir görünüm kazandırırken tokalı kapanış yapısı organizerın düzenli şekilde kapalı tutulmasına yardımcı olur. Sade ve modern tasarımı sayesinde farklı sektörlerde faaliyet gösteren kurumsal firmalara uyum sağlayabilir.
+Ofis çalışanları, yöneticiler, satış ekipleri ve kurumsal müşteriler için toplantı, eğitim ve hediye çalışmalarında tercih edilebilir. İç sayfaların takvim yılı ve tarih düzeni sipariş öncesinde teyit edilir.
 
-İç bölümde bulunan tarihli sayfalar; günlük programların, randevuların, toplantıların ve yapılacak işlerin sistemli şekilde takip edilmesine imkan verir. Bu özelliği sayesinde klasik bir not defterinden farklı olarak düzenli iş planlamasına yönelik profesyonel kullanım sunar.
+ÖNE ÇIKAN ÖZELLİKLER
 
-ORG-160 modelinde kullanılan 70 gr 1. hamur kağıt, günlük yazım işlemleri için uygun bir yüzey oluşturur. Sarı tonlu iç sayfa yapısı organizerın klasik ve kurumsal görünümünü tamamlar.
-
-Ürünün önemli fonksiyonlarından biri entegre hesap makinesidir. Gün içerisinde ihtiyaç duyulan temel hesaplamaların organizer üzerinden hızlı şekilde yapılabilmesi özellikle finans, satış, muhasebe ve ofis çalışanları için önemli bir kullanım avantajı sağlar.
-
-İç bölümde bulunan kart bölmeleri sayesinde kartvizit, banka kartı, kimlik kartı veya benzeri küçük materyaller düzenli şekilde taşınabilir. Böylece ORG-160 yalnızca bir ajanda değil, günlük iş hayatında kullanılan farklı araçları bir arada tutan pratik bir organizer haline gelir.
-
-Promosyon organizer ORG-160 üzerine firmanızın logosu, marka adı veya kurumsal tasarımı serigrafi baskı, sıcak baskı ve UV baskı yöntemleri ile uygulanabilir. Logo baskılı organizerlar uzun süre kullanıldığı için marka görünürlüğünün kalıcı şekilde desteklenmesine yardımcı olur.
-
-Mavi, siyah, taba ve gri tonlarında sunulan alternatifleri sayesinde firmanızın kurumsal kimliğine uygun renk tercihi yapılabilir. Güncel renk ve stok seçenekleri sipariş öncesinde kontrol edilmelidir.
-
-ORG-160 modeli; yöneticiler, satış ekipleri, muhasebe çalışanları, finans personeli, danışmanlar, saha ekipleri ve ofis çalışanları için kullanışlı bir kurumsal hediye alternatifi olarak tercih edilebilir.
-
-NEDEN PROMOSYON ORGANIZER ORG-160?
-
-• Termo deri kapak
-• Hesap makinesi özelliği
-• Tarihli iç sayfalar
-• Kart koyma bölmeleri
-• 17 x 24 cm geniş kullanım alanı
-• 70 gr 1. hamur kağıt
-• Sarı renk iç sayfa
-• Tokalı kapanış tasarımı
-• Serigrafi, sıcak baskı ve UV baskıya uygun
-• Günlük planlama ve toplantı kullanımına uygun
-• Profesyonel kurumsal görünüm
-• Uzun süreli marka görünürlüğünü destekler
-
-KULLANIM ALANLARI
-
-• Günlük iş planlaması
-• Toplantı notları
-• Randevu ve ajanda kullanımı
-• Müşteri görüşmeleri
-• Yönetici kullanımı
-• Satış ekipleri
-• Finans departmanları
-• Muhasebe çalışanları
-• Saha ekipleri
-• Kurumsal etkinlikler
-• Çalışan hediyeleri
-• Müşteri hediyeleri
-• Fuar ve organizasyonlar
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Holdingler
-• Bankalar
-• Finans kuruluşları
-• Sigorta şirketleri
-• Muhasebe ofisleri
-• Danışmanlık firmaları
-• Hukuk büroları
-• Kamu kurumları
-• Satış ve saha ekipleri
-• Yönetici ve ofis çalışanları
-• Kurumsal hediye arayan işletmeler
-
-PROMOSYON ORGANIZER ORG-160 FİYATLARI
-
-Promosyon organizer fiyatları sipariş adedi, uygulanacak logo baskı yöntemi, renk seçeneği, stok durumu ve teslim süresine göre değişiklik gösterebilir.
-
-Toplu ORG-160 organizer siparişlerinde kurumsal müşterilere özel fiyat avantajları sunulmaktadır. Güncel stok, renk seçenekleri, baskı alternatifleri ve toplu sipariş fiyatları için teklif alabilirsiniz.
-
-BASKI BİLGİLERİ
-
-ORG-160 organizer üzerine firma logosu, marka adı veya kurumsal tasarım uygulanabilmektedir.
-
-Baskı Türleri: Serigrafi Baskı / Sıcak Baskı / UV Baskı
-Logo Baskı: Kurumsal logo uygulamasına uygundur
-
-Uygulanacak baskı yöntemi logo tasarımı, baskı alanı, ürün yüzeyi ve sipariş miktarına göre belirlenmektedir.
-
-RENK VE STOK BİLGİSİ
-
-Görselde yer alan renk alternatifleri:
-
-• Mavi
-• Siyah
-• Taba
-• Gri
-
-Renk ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde güncel renk seçenekleri ve stok miktarı kontrol edilmelidir.
-
-SİPARİŞ BİLGİSİ
-
-• Kurumsal toplu siparişlere uygundur.
-• Logo baskısı firmanıza özel hazırlanabilir.
-• Baskı çalışması üretim öncesinde onaya sunulabilir.
-• Minimum sipariş adedi stok ve üretim durumuna göre belirlenmektedir.
-• Renk seçenekleri dönemsel stok durumuna göre değişebilir.
-• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 336 sayfalık çizgili iç blok
+• 70 gr krem kağıt
+• 15 x 21 cm ajanda / iç blok
+• 8 haneli Hesap makinesi
+• Özel kutulu ambalaj
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Organizer / Ajanda
+Ürün Tipi: Promosyon Organizer
 Model: ORG-160
 Kategori: Organizerler
-Kapak Malzemesi: Termo Deri
-Ürün Ölçüsü: 17 x 24 cm
-İç Yapı: Tarihli
-Kağıt: 70 gr 1. Hamur
-Kağıt Rengi: Sarı
-Hesap Makinesi: Var
-Kart Bölmesi: Var
-Kapanış: Tokalı
-Baskı Türleri: Serigrafi Baskı / Sıcak Baskı / UV Baskı
-Kullanım Tipi: Ofis / Toplantı / Planlama / Finans / Kurumsal Hediye
+Kapak: Termo Deri
+Dış Ölçü: 18 x 23 cm
+İç Blok / Ajanda Ölçüsü: 15 x 21 cm
+Sayfa Sayısı: 336
+Kağıt: 70 gr Krem
+Sayfa Düzeni: Çizgili
+Hesap Makinesi: 8 Haneli
+Ambalaj: Özel Kutulu
+Koli Adedi: 30 Adet
+Renk Seçenekleri: Kırmızı, Siyah, Füme, Lacivert
+Baskı Seçenekleri: Lazer, Gofre
 
-Promosyon organizer ORG-160 modeli; termo deri kapak yapısı, hesap makinesi, tarihli iç sayfaları, kart bölmeleri ve kurumsal logo baskı seçenekleri ile günlük iş hayatında aktif olarak kullanılabilecek çok fonksiyonlu promosyon organizer modellerinden biridir. Güncel stok durumu, renk seçenekleri, toplu sipariş fiyatları, logo baskısı ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+RENK VE STOK BİLGİSİ
+
+Renk seçenekleri: Kırmızı, Siyah, Füme, Lacivert. Renklerin siparişe uygunluğu güncel stok durumuna göre teyit edilir. Ürün görseli tüm renk seçeneklerini bir arada göstermeyebilir.
+
+LOGO BASKISI
+
+ORG-160 için belirtilen baskı seçenekleri Lazer, Gofre yöntemleridir. Uygulama alanı, logo tasarımı ve baskı bedeli teklif aşamasında netleştirilir. Tasarım onayı sonrası üretim planı paylaşılır.
+
+SİPARİŞ BİLGİSİ
+
+Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve logo dosyanızı iletebilirsiniz. Koli adedi 30 olarak belirtilmiştir; sipariş adedi, baskı bedeli, güncel stok ve teslim süresi teklif sırasında teyit edilir. Listelenen fiyat baskı ve KDV hariçtir.
 `.trim(),
 
   faq: [
-    {
-      q: "ORG-160 organizer ölçüsü nedir?",
-      a: "ORG-160 modelinin ölçüsü 17 x 24 cm'dir ve günlük planlama ile toplantı kullanımı için geniş bir çalışma alanı sunar."
-    },
-    {
-      q: "ORG-160 hesap makineli midir?",
-      a: "Evet. Modelde günlük temel hesaplamalarda kullanılabilecek entegre hesap makinesi bulunmaktadır."
-    },
-    {
-      q: "ORG-160 organizer tarihli midir?",
-      a: "Evet. İç yapısı tarihli olarak hazırlanmıştır ve günlük planlama, randevu ve iş takibi için kullanılabilir."
-    },
-    {
-      q: "Organizer içerisinde kart bölmesi var mı?",
-      a: "Evet. Kartvizit ve benzeri kartların düzenli şekilde taşınabilmesi için kart koyma bölmeleri bulunmaktadır."
-    },
-    {
-      q: "Üzerine firma logosu basılabilir mi?",
-      a: "Evet. ORG-160 üzerine serigrafi baskı, sıcak baskı veya UV baskı yöntemleri ile kurumsal logo uygulanabilmektedir."
-    },
-    {
-      q: "ORG-160 hangi kağıt türünü kullanmaktadır?",
-      a: "Organizer içerisinde 70 gr 1. hamur, sarı renk kağıt kullanılmaktadır."
-    },
-    {
-      q: "ORG-160 toplu siparişe uygun mudur?",
-      a: "Evet. Ürün kurumsal toplu siparişlere uygundur. Sipariş miktarı, baskı yöntemi, renk seçimi ve teslim süresine göre özel fiyatlandırma yapılabilir."
-    }
+    { q: "ORG-160 organizer ölçüsü nedir?", a: "Dış ölçü 18 x 23 cm, iç blok / ajanda ölçüsü 15 x 21 cm olarak belirtilmiştir." },
+    { q: "ORG-160 hesap makineli midir?", a: "Evet. 8 haneli hesap makinesi bulunmaktadır." },
+    { q: "ORG-160 organizer tarihli midir?", a: "Güncel ürün özelliklerinde takvim yılı ve tarih düzeni belirtilmemiştir. İç sayfa düzeni sipariş öncesinde teyit edilmelidir." },
+    { q: "Organizer içerisinde kart bölmesi var mı?", a: "Kartvizit, kart ve belge bölmelerinin ayrıntıları güncel teknik listede belirtilmemiştir. İhtiyacınıza uygun iç yerleşim sipariş öncesinde teyit edilir." },
+    { q: "Üzerine firma logosu basılabilir mi?", a: "ORG-160 için Lazer, Gofre baskı seçenekleri belirtilmiştir. Logo uygulamasının alanı ve fiyatı teklif aşamasında netleştirilir." },
+    { q: "ORG-160 hangi kağıt türünü kullanmaktadır?", a: "70 gr krem kağıt kullanılmaktadır. Sayfa düzeni çizgilidir." },
+    { q: "ORG-160 toplu siparişe uygun mudur?", a: "Evet. ORG-160 için adet, renk ve logo bilgileriyle kurumsal teklif alabilirsiniz. Stok, baskı bedeli ve teslim süresi teklif aşamasında paylaşılır." }
   ]
 },
 {
@@ -46770,170 +46195,69 @@ Promosyon organizer ORG-160 modeli; termo deri kapak yapısı, hesap makinesi, t
 
   slug: "promosyon-organizer-org-170-manyetik-kilitli-termodei",
 
-  title:
-    "Promosyon Organizer ORG-170 | Manyetik Kilitli Termo Deri VIP Organizer",
+  title: "Promosyon Organizer ORG-170 | Hesap Makineli Termo Deri VIP Organizer",
 
   price: 670,
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-170.jpg",
+  image: "/products/promosyon-organizer-org-170-v2.jpg",
 
-  shortDesc:
-    "Promosyon organizer ORG-170 modeli; termo deri kapak, metal ve manyetik kilit, 8 haneli hesap makinesi, kartvizitlik bölmesi ve özel sunum kutusu ile yönetici, VIP müşteri ve kurumsal hediye kullanımı için tasarlanmış premium organizer modelidir.",
+  shortDesc: "Promosyon organizer ORG-170; termo deri kapağı, 352 sayfalık çizgili iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. Hesap makinesi ve kurumsal kapak tasarımı ile sunulur. Gofre, Lazer baskı seçenekleri bulunur.",
 
   longDesc: `
-Promosyon organizer ORG-170 modeli, termo deri kapak tasarımı, metal ve manyetik kilit sistemi, hesap makinesi ve kartvizitlik gibi iş hayatına yönelik fonksiyonları ile kurumsal promosyon organizer modelleri arasında üst segment bir seçenek olarak öne çıkmaktadır.
+Promosyon organizer ORG-170, termo deri kapağı ve 18 x 23 cm dış ölçüsüyle toplantı notları, iş planları ve günlük ofis kullanımı için değerlendirilebilen bir kurumsal hediye seçeneğidir. Firma logosuyla kişiselleştirilen kapak, ürünün çalışma ortamında markanızı temsil etmesine yardımcı olur.
 
-Profesyonel görünümü sayesinde yönetici masalarında, müşteri görüşmelerinde, toplantılarda ve kurumsal organizasyonlarda rahatlıkla kullanılabilir. Özel sunum kutusu ile birlikte sunulması ise ürünü doğrudan hediye edilebilecek prestijli bir kurumsal armağan haline getirir.
+15 x 21 cm ölçüsündeki iç blok 352 sayfadan oluşur ve 70 gr krem kağıt kullanır. Çizgili sayfa düzeni notları düzenli tutmayı kolaylaştırır. 8 haneli hesap makinesi günlük hesaplamalar için kullanılabilir.
 
-Termo deri dış kapak ürüne şık ve kaliteli bir görünüm kazandırırken metal ve manyetik kapak sistemi günlük kullanımda hızlı açılıp kapanma avantajı sağlar. Bu yapı organizerın hem düzenli hem de güvenli şekilde kullanılmasına yardımcı olur.
+Ofis çalışanları, yöneticiler, satış ekipleri ve kurumsal müşteriler için toplantı, eğitim ve hediye çalışmalarında tercih edilebilir. İç sayfaların takvim yılı ve tarih düzeni sipariş öncesinde teyit edilir.
 
-İç bölümde bulunan 15 x 21 cm ölçüsündeki blok; günlük not alma, toplantı kayıtları, müşteri görüşmeleri, iş planlaması ve yapılacaklar listeleri için yeterli bir yazım alanı sunar.
+ÖNE ÇIKAN ÖZELLİKLER
 
-70 gr ivory kağıt yapısı, günlük profesyonel kullanım için uygun bir yazım yüzeyi oluşturur ve uzun süreli not alma süreçlerinde konforlu bir kullanım sağlar.
-
-ORG-170 modelinin en önemli fonksiyonlarından biri entegre 8 haneli hesap makinesidir. Gün içerisinde ihtiyaç duyulan temel hesaplamaların organizer üzerinden hızlı şekilde yapılabilmesi özellikle satış, finans, muhasebe ve ofis çalışanları için önemli bir kullanım avantajı sağlar.
-
-Organizer içerisinde yer alan kartvizitlik bölmesi, kartvizitlerin ve benzeri küçük iş materyallerinin düzenli şekilde taşınmasına imkan verir. Böylece ORG-170 yalnızca bir ajanda değil, günlük iş hayatında kullanılan farklı araçları tek yerde toplayan fonksiyonel bir organizer haline gelir.
-
-Promosyon organizer ORG-170 üzerine firmanızın logosu, marka adı veya kurumsal tasarımı gofre baskı, UV baskı ve serigrafi baskı yöntemleri ile uygulanabilir. Bu sayede ürün markanızı uzun süre temsil eden profesyonel bir promosyon ürününe dönüşür.
-
-Organizerların günlük iş hayatında uzun süre kullanılması, marka görünürlüğünün devamlılığı açısından önemli avantaj sağlar. Özellikle yönetici ve VIP müşteri hediyelerinde kaliteli bir organizer, markanın profesyonel ve prestijli algısını destekler.
-
-Siyah, lacivert ve bordo tonlarında sunulan tasarımı sayesinde farklı kurumsal kimliklere uyum sağlayabilir. Güncel renk seçenekleri ve stok durumu sipariş öncesinde kontrol edilmelidir.
-
-ORG-170 modeli; üst düzey yöneticiler, satış ekipleri, finans çalışanları, danışmanlar, müşteri temsilcileri, kurumsal müşteriler ve iş ortakları için prestijli bir promosyon hediyesi olarak tercih edilebilir.
-
-NEDEN PROMOSYON ORGANIZER ORG-170?
-
-• Termo deri kapak
-• Metal ve manyetik kilit sistemi
-• 8 haneli hesap makinesi
-• Kartvizitlik bölmesi
-• 15 x 21 cm kullanışlı iç blok
-• 70 gr ivory kağıt
-• Özel sunum kutusu
-• Gofre, UV ve serigrafi baskıya uygun
-• Profesyonel ve premium görünüm
-• Yönetici ve VIP müşteri hediyesi için ideal
-• Günlük ofis ve toplantı kullanımına uygun
-• Uzun süreli marka görünürlüğünü destekler
-
-KULLANIM ALANLARI
-
-• Yönetici kullanımı
-• Günlük iş planlaması
-• Toplantı notları
-• Müşteri görüşmeleri
-• Satış ekipleri
-• Finans ve muhasebe departmanları
-• Ofis çalışanları
-• Bayi toplantıları
-• Kurumsal etkinlikler
-• VIP müşteri hediyeleri
-• Çalışan hediyeleri
-• Fuar ve organizasyonlar
-• Prestijli marka sunumları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Holdingler
-• Bankalar
-• Finans kuruluşları
-• Sigorta şirketleri
-• Danışmanlık firmaları
-• Hukuk büroları
-• Kamu kurumları
-• Eğitim kurumları
-• Satış ve saha ekipleri
-• Yönetici ve üst düzey çalışanlar
-• VIP müşteri hediyesi arayan işletmeler
-
-PROMOSYON ORGANIZER ORG-170 FİYATLARI
-
-Promosyon organizer fiyatları sipariş adedi, uygulanacak logo baskı yöntemi, renk seçeneği, stok durumu ve teslim süresine göre değişiklik gösterebilir.
-
-Toplu ORG-170 organizer siparişlerinde kurumsal müşterilere özel fiyat avantajları sunulmaktadır. Güncel stok, renk seçenekleri, baskı alternatifleri ve toplu sipariş fiyatları için teklif alabilirsiniz.
-
-BASKI BİLGİLERİ
-
-ORG-170 organizer üzerine firma logosu, marka adı veya kurumsal tasarım uygulanabilmektedir.
-
-Baskı Türleri: Gofre Baskı / UV Baskı / Serigrafi Baskı
-Logo Baskı: Kurumsal logo uygulamasına uygundur
-
-Uygulanacak baskı yöntemi logo tasarımı, baskı alanı, ürün yüzeyi ve sipariş miktarına göre belirlenmektedir.
-
-RENK VE STOK BİLGİSİ
-
-Görselde yer alan renk alternatifleri:
-
-• Siyah
-• Lacivert
-• Bordo
-
-Renk ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde güncel renk seçenekleri ve stok miktarı kontrol edilmelidir.
-
-SİPARİŞ BİLGİSİ
-
-• Kurumsal toplu siparişlere uygundur.
-• Logo baskısı firmanıza özel hazırlanabilir.
-• Baskı çalışması üretim öncesinde onaya sunulabilir.
-• Özel sunum kutusu ile sunulmaktadır.
-• Minimum sipariş adedi stok ve üretim durumuna göre belirlenmektedir.
-• Güncel renk ve stok seçenekleri sipariş öncesinde kontrol edilmelidir.
-• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 352 sayfalık çizgili iç blok
+• 70 gr krem kağıt
+• 15 x 21 cm ajanda / iç blok
+• 8 haneli Hesap makinesi
+• Özel kutulu ambalaj
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Organizer / Ajanda
+Ürün Tipi: Promosyon Organizer
 Model: ORG-170
 Kategori: Organizerler
-Kapak Malzemesi: Termo Deri
-Kapanış Sistemi: Metal ve Manyetik Kilit
-İç Blok Ölçüsü: 15 x 21 cm
-Kağıt: 70 gr Ivory
+Kapak: Termo Deri
+Dış Ölçü: 18 x 23 cm
+İç Blok / Ajanda Ölçüsü: 15 x 21 cm
+Sayfa Sayısı: 352
+Kağıt: 70 gr Krem
+Sayfa Düzeni: Çizgili
 Hesap Makinesi: 8 Haneli
-Kartvizitlik: Var
-Kutu: Özel Sunum Kutusu
-Baskı Türleri: Gofre Baskı / UV Baskı / Serigrafi Baskı
-Kullanım Tipi: Kurumsal / VIP / Ofis / Toplantı / Planlama
+Ambalaj: Özel Kutulu
+Koli Adedi: 30 Adet
+Renk Seçenekleri: Füme, Kırmızı, Lacivert, Taba
+Baskı Seçenekleri: Gofre, Lazer
 
-Promosyon organizer ORG-170 modeli; termo deri kapak yapısı, manyetik kilit sistemi, 8 haneli hesap makinesi, kartvizitlik bölmesi, özel sunum kutusu ve logo baskı seçenekleri ile yönetici ve VIP müşteri hediyelerinde tercih edilebilecek premium kurumsal organizer modellerinden biridir. Güncel stok durumu, renk seçenekleri, toplu sipariş fiyatları, logo baskısı ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+RENK VE STOK BİLGİSİ
+
+Renk seçenekleri: Füme, Kırmızı, Lacivert, Taba. Renklerin siparişe uygunluğu güncel stok durumuna göre teyit edilir. Ürün görseli tüm renk seçeneklerini bir arada göstermeyebilir.
+
+LOGO BASKISI
+
+ORG-170 için belirtilen baskı seçenekleri Gofre, Lazer yöntemleridir. Uygulama alanı, logo tasarımı ve baskı bedeli teklif aşamasında netleştirilir. Tasarım onayı sonrası üretim planı paylaşılır.
+
+SİPARİŞ BİLGİSİ
+
+Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve logo dosyanızı iletebilirsiniz. Koli adedi 30 olarak belirtilmiştir; sipariş adedi, baskı bedeli, güncel stok ve teslim süresi teklif sırasında teyit edilir. Listelenen fiyat baskı ve KDV hariçtir.
 `.trim(),
 
   faq: [
-    {
-      q: "ORG-170 organizerın iç blok ölçüsü nedir?",
-      a: "ORG-170 modelinin iç blok ölçüsü 15 x 21 cm'dir."
-    },
-    {
-      q: "ORG-170 hesap makineli midir?",
-      a: "Evet. Modelde günlük temel hesaplamalarda kullanılabilecek 8 haneli hesap makinesi bulunmaktadır."
-    },
-    {
-      q: "ORG-170 içerisinde kartvizitlik bulunuyor mu?",
-      a: "Evet. Organizer içerisinde kartvizitlerin ve benzeri kartların düzenli şekilde taşınabilmesi için kartvizitlik bölmesi bulunmaktadır."
-    },
-    {
-      q: "ORG-170 özel kutulu mudur?",
-      a: "Evet. Ürün özel sunum kutusu ile birlikte sunulmaktadır ve bu nedenle VIP ve yönetici hediyeleri için uygundur."
-    },
-    {
-      q: "Üzerine firma logosu basılabilir mi?",
-      a: "Evet. ORG-170 üzerine gofre baskı, UV baskı veya serigrafi baskı yöntemleri ile kurumsal logo uygulanabilmektedir."
-    },
-    {
-      q: "ORG-170 hangi kağıt türünü kullanmaktadır?",
-      a: "Organizer içerisinde 70 gr ivory kağıt kullanılmaktadır."
-    },
-    {
-      q: "ORG-170 toplu siparişe uygun mudur?",
-      a: "Evet. ORG-170 kurumsal toplu siparişlere uygundur. Sipariş miktarı, baskı yöntemi, renk seçimi ve teslim süresine göre özel fiyatlandırma yapılabilir."
-    }
+    { q: "ORG-170 organizerın iç blok ölçüsü nedir?", a: "İç blok / ajanda ölçüsü 15 x 21 cm, ürünün dış ölçüsü 18 x 23 cm olarak belirtilmiştir." },
+    { q: "ORG-170 hesap makineli midir?", a: "Evet. 8 haneli hesap makinesi bulunmaktadır." },
+    { q: "ORG-170 içerisinde kartvizitlik bulunuyor mu?", a: "Kartvizit, kart ve belge bölmelerinin ayrıntıları güncel teknik listede belirtilmemiştir. İhtiyacınıza uygun iç yerleşim sipariş öncesinde teyit edilir." },
+    { q: "ORG-170 özel kutulu mudur?", a: "Evet. Ürün özel kutulu olarak belirtilmiştir." },
+    { q: "Üzerine firma logosu basılabilir mi?", a: "ORG-170 için Gofre, Lazer baskı seçenekleri belirtilmiştir. Logo uygulamasının alanı ve fiyatı teklif aşamasında netleştirilir." },
+    { q: "ORG-170 hangi kağıt türünü kullanmaktadır?", a: "70 gr krem kağıt kullanılmaktadır. Sayfa düzeni çizgilidir." },
+    { q: "ORG-170 toplu siparişe uygun mudur?", a: "Evet. ORG-170 için adet, renk ve logo bilgileriyle kurumsal teklif alabilirsiniz. Stok, baskı bedeli ve teslim süresi teklif aşamasında paylaşılır." }
   ]
 },
 {
@@ -46941,172 +46265,68 @@ Promosyon organizer ORG-170 modeli; termo deri kapak yapısı, manyetik kilit si
 
   slug: "promosyon-organizer-org-180-termodei-hesap-makineli",
 
-  title:
-    "Promosyon Organizer ORG-180 | Hesap Makineli Termo Deri Kurumsal Organizer 18x23 cm",
+  title: "Promosyon Organizer ORG-180 | Hesap Makineli Termo Deri Kurumsal Organizer 18x23 cm",
 
   price: 670,
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-180.jpg",
+  image: "/products/promosyon-organizer-org-180-v2.jpg",
 
-  shortDesc:
-    "Promosyon organizer ORG-180 modeli; termo deri kapak, 336 sayfalık çizgili iç blok, 8 haneli hesap makinesi, kartvizit ve belge bölmeleri ile ofis, kamu kurumu ve kurumsal hediye kullanımı için tasarlanmış fonksiyonel organizer modellerinden biridir.",
+  shortDesc: "Promosyon organizer ORG-180; termo deri kapağı, 352 sayfalık iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. Hesap makinesi ve metal toka ile sunulur. Lazer, Gofre baskı seçenekleri bulunur.",
 
   longDesc: `
-Promosyon organizer ORG-180 modeli, geniş kullanım alanı, termo deri kapak yapısı ve iş hayatına yönelik fonksiyonel özellikleri ile kurumsal promosyon organizer modelleri arasında öne çıkan seçeneklerden biridir.
+Promosyon organizer ORG-180, termo deri kapağı ve 18 x 23 cm dış ölçüsüyle toplantı notları, iş planları ve günlük ofis kullanımı için değerlendirilebilen bir kurumsal hediye seçeneğidir. Firma logosuyla kişiselleştirilen kapak, ürünün çalışma ortamında markanızı temsil etmesine yardımcı olur.
 
-18 x 23 cm dış ölçüsü sayesinde günlük iş planlaması, toplantı notları, müşteri görüşmeleri ve uzun süreli ofis kullanımı için rahat bir çalışma alanı sunar. İçerisinde yer alan 15 x 21 cm ölçüsündeki not bloğu ise hem masaüstü kullanımında hem de toplantı ve iş seyahatlerinde pratik bir kullanım sağlar.
+15 x 21 cm ölçüsündeki iç blok 352 sayfadan oluşur ve 70 gr krem kağıt kullanır. Metal toka kapağın kapalı tutulmasına yardımcı olur. Hesap makinesi günlük hesaplamalar için kullanılabilir.
 
-ORG-180 modelinin 336 sayfalık çizgili iç yapısı, günlük notlardan proje kayıtlarına, yapılacaklar listelerinden toplantı tutanaklarına kadar farklı iş süreçlerinin tek bir organizer içerisinde düzenli şekilde tutulmasına imkan verir.
+Ofis çalışanları, yöneticiler, satış ekipleri ve kurumsal müşteriler için toplantı, eğitim ve hediye çalışmalarında tercih edilebilir. İç sayfaların takvim yılı ve tarih düzeni sipariş öncesinde teyit edilir.
 
-İç sayfalarda kullanılan 70 gr krem kağıt, günlük yazım ihtiyaçlarına uygun bir yüzey sunar. Krem tonlu kağıt yapısı, yoğun not alma süreçlerinde daha yumuşak ve profesyonel bir sayfa görünümü oluşturur.
+ÖNE ÇIKAN ÖZELLİKLER
 
-Organizer içerisinde bulunan 8 haneli hesap makinesi, ürünü klasik ajanda modellerinden ayıran fonksiyonel özelliklerden biridir. Satış, finans, muhasebe, satın alma ve ofis çalışanları günlük temel hesaplamalarını organizer üzerinden hızlı şekilde gerçekleştirebilir.
-
-Kartvizit ve belge yerleştirmeye uygun iç bölmeler sayesinde iş hayatında ihtiyaç duyulan küçük evraklar, kartvizitler ve benzeri materyaller daha düzenli şekilde taşınabilir. Bu yapı ORG-180 modelini yalnızca bir ajanda değil, çok amaçlı bir iş organizeri haline getirir.
-
-Termo deri kapak yapısı ürüne profesyonel bir görünüm kazandırırken günlük kullanım için dayanıklı bir dış yüzey oluşturur. Tokalı kapanış tasarımı organizerın düzenli şekilde kapalı tutulmasına yardımcı olur.
-
-Promosyon organizer ORG-180 üzerine firmanızın logosu, marka adı veya kurumsal tasarımı lazer baskı ve gofre baskı yöntemleri ile uygulanabilir. Logo baskılı organizer modellerinin uzun süre kullanılması, markanızın çalışanlar ve müşteriler tarafından tekrar tekrar görülmesine katkıda bulunur.
-
-Özel kutulu sunumu sayesinde ORG-180 modeli yönetici hediyesi, çalışan hediyesi, kamu kurumu promosyonu, bayi hediyesi ve kurumsal müşteri armağanı olarak da değerlendirilebilir.
-
-Özellikle belediyeler, kamu kurumları, bankalar, finans kuruluşları, eğitim kurumları, danışmanlık firmaları ve büyük ölçekli şirketlerin kurumsal promosyon ihtiyaçlarında kullanışlı bir seçenek oluşturur.
-
-Gri ve mavi gibi kurumsal renklere uyum sağlayan alternatif tasarımları sayesinde farklı marka kimlikleriyle rahatlıkla eşleştirilebilir. Güncel renk ve stok seçenekleri sipariş öncesinde kontrol edilmelidir.
-
-NEDEN PROMOSYON ORGANIZER ORG-180?
-
-• Termo deri kapak
-• 336 sayfalık geniş iç blok
-• Çizgili sayfa yapısı
+• 352 sayfalık iç blok
 • 70 gr krem kağıt
-• 15 x 21 cm iç blok
-• 18 x 23 cm dış ölçü
-• 8 haneli hesap makinesi
-• Kartvizit ve belge bölmeleri
-• Özel sunum kutusu
-• Tokalı kapanış tasarımı
-• Lazer ve gofre baskıya uygun yüzey
-• Ofis ve kamu kurumu kullanımına uygun
-• Uzun süreli marka görünürlüğünü destekler
-
-KULLANIM ALANLARI
-
-• Günlük iş planlaması
-• Toplantı notları
-• Müşteri görüşmeleri
-• Finans ve muhasebe işlemleri
-• Yönetici kullanımı
-• Satış ekipleri
-• Kamu kurumları
-• Belediyeler
-• Eğitim kurumları
-• Bayi toplantıları
-• Çalışan hediyeleri
-• Kurumsal müşteri hediyeleri
-• Fuar ve etkinlik organizasyonları
-• Kurumsal promosyon kampanyaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Belediyeler
-• Kamu kurumları
-• Holdingler
-• Bankalar
-• Finans kuruluşları
-• Sigorta şirketleri
-• Muhasebe firmaları
-• Danışmanlık şirketleri
-• Eğitim kurumları
-• Satış ve saha ekipleri
-• Yönetici ve ofis çalışanları
-• Kurumsal hediye arayan işletmeler
-
-PROMOSYON ORGANIZER ORG-180 FİYATLARI
-
-Promosyon organizer fiyatları sipariş adedi, uygulanacak logo baskı yöntemi, renk seçeneği, güncel stok durumu ve teslim süresine göre değişiklik gösterebilir.
-
-Toplu ORG-180 organizer siparişlerinde kurumsal firmalara ve kamu kurumlarına özel fiyatlandırma yapılabilir. Güncel stok, baskı seçenekleri ve toplu sipariş fiyatları için teklif alabilirsiniz.
-
-BASKI BİLGİLERİ
-
-ORG-180 organizer üzerine firma logosu, kurum adı veya kurumsal tasarım uygulanabilmektedir.
-
-Baskı Türleri: Lazer Baskı / Gofre Baskı
-Logo Baskı: Kurumsal logo uygulamasına uygundur
-
-Uygulanacak baskı yöntemi logo tasarımı, baskı alanı, ürün yüzeyi ve sipariş miktarına göre belirlenmektedir.
-
-RENK VE STOK BİLGİSİ
-
-Ürün renk ve stok seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde mevcut renk alternatiflerinin ve stok miktarının kontrol edilmesi önerilmektedir.
-
-SİPARİŞ BİLGİSİ
-
-• Kurumsal toplu siparişlere uygundur.
-• Kamu kurumları ve belediye siparişleri için kullanılabilir.
-• Logo baskısı firmanıza veya kurumunuza özel hazırlanabilir.
-• Baskı çalışması üretim öncesinde onaya sunulabilir.
-• Özel sunum kutusu ile sunulmaktadır.
-• Minimum sipariş adedi stok ve üretim durumuna göre belirlenmektedir.
-• Güncel renk ve stok durumu sipariş öncesinde kontrol edilmelidir.
-• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 15 x 21 cm ajanda / iç blok
+• Metal toka
+• Hesap makinesi
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Organizer / Ajanda
+Ürün Tipi: Promosyon Organizer
 Model: ORG-180
 Kategori: Organizerler
-Kapak Malzemesi: Termo Deri
+Kapak: Termo Deri
 Dış Ölçü: 18 x 23 cm
-İç Blok Ölçüsü: 15 x 21 cm
-Sayfa Sayısı: 336 Sayfa
-Sayfa Tipi: Çizgili
-Kağıt: 70 gr Krem Kağıt
-Hesap Makinesi: 8 Haneli
-Kartvizit Bölmesi: Var
-Belge Bölmesi: Var
-Ambalaj: Özel Kutulu
-Baskı Türleri: Lazer Baskı / Gofre Baskı
+İç Blok / Ajanda Ölçüsü: 15 x 21 cm
+Sayfa Sayısı: 352
+Kağıt: 70 gr Krem
+Kapanış: Metal Toka
+Hesap Makinesi: Var
 Koli Adedi: 30 Adet
-Kullanım Tipi: Ofis / Toplantı / Planlama / Kamu Kurumu / Kurumsal Hediye
+Renk Seçenekleri: Siyah, Kırmızı, Lacivert
+Baskı Seçenekleri: Lazer, Gofre
 
-Promosyon organizer ORG-180 modeli; termo deri kapak yapısı, 336 sayfalık çizgili iç bloğu, hesap makinesi, kartvizit ve belge bölmeleri ile günlük iş hayatında aktif olarak kullanılabilecek çok fonksiyonlu kurumsal organizer modellerinden biridir. Güncel stok durumu, toplu sipariş fiyatları, logo baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+RENK VE STOK BİLGİSİ
+
+Renk seçenekleri: Siyah, Kırmızı, Lacivert. Renklerin siparişe uygunluğu güncel stok durumuna göre teyit edilir. Ürün görseli tüm renk seçeneklerini bir arada göstermeyebilir.
+
+LOGO BASKISI
+
+ORG-180 için belirtilen baskı seçenekleri Lazer, Gofre yöntemleridir. Uygulama alanı, logo tasarımı ve baskı bedeli teklif aşamasında netleştirilir. Tasarım onayı sonrası üretim planı paylaşılır.
+
+SİPARİŞ BİLGİSİ
+
+Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve logo dosyanızı iletebilirsiniz. Koli adedi 30 olarak belirtilmiştir; sipariş adedi, baskı bedeli, güncel stok ve teslim süresi teklif sırasında teyit edilir. Listelenen fiyat baskı ve KDV hariçtir.
 `.trim(),
 
   faq: [
-    {
-      q: "ORG-180 organizer kaç sayfadır?",
-      a: "ORG-180 modeli 336 sayfalık çizgili iç bloğa sahiptir."
-    },
-    {
-      q: "ORG-180 organizer ölçüsü nedir?",
-      a: "Ürünün dış ölçüsü 18 x 23 cm, iç blok ölçüsü ise 15 x 21 cm'dir."
-    },
-    {
-      q: "ORG-180 hesap makineli midir?",
-      a: "Evet. Modelde günlük temel hesaplamalar için 8 haneli hesap makinesi bulunmaktadır."
-    },
-    {
-      q: "Organizer içerisinde kartvizit ve belge bölmeleri var mı?",
-      a: "Evet. ORG-180 içerisinde kartvizit ve küçük belgelerin düzenli şekilde taşınmasına yardımcı olan bölmeler bulunmaktadır."
-    },
-    {
-      q: "Üzerine firma veya kurum logosu basılabilir mi?",
-      a: "Evet. ORG-180 üzerine lazer baskı veya gofre baskı yöntemleri ile firma, belediye veya kurum logosu uygulanabilmektedir."
-    },
-    {
-      q: "ORG-180 özel kutulu mudur?",
-      a: "Evet. Ürün özel sunum kutusu ile sunulmaktadır ve kurumsal hediye kullanımına uygundur."
-    },
-    {
-      q: "ORG-180 toplu siparişe uygun mudur?",
-      a: "Evet. Ürün kurumsal firmalar, kamu kurumları ve belediyeler için toplu siparişe uygundur. Sipariş miktarı, baskı yöntemi ve teslim süresine göre özel fiyatlandırma yapılabilir."
-    }
+    { q: "ORG-180 organizer kaç sayfadır?", a: "ORG-180 modeli 352 sayfalık iç bloğa sahiptir." },
+    { q: "ORG-180 organizer ölçüsü nedir?", a: "Dış ölçü 18 x 23 cm, iç blok / ajanda ölçüsü 15 x 21 cm olarak belirtilmiştir." },
+    { q: "ORG-180 hesap makineli midir?", a: "Evet. Hesap makinesi bulunmaktadır." },
+    { q: "Organizer içerisinde kartvizit ve belge bölmeleri var mı?", a: "Kartvizit, kart ve belge bölmelerinin ayrıntıları güncel teknik listede belirtilmemiştir. İhtiyacınıza uygun iç yerleşim sipariş öncesinde teyit edilir." },
+    { q: "Üzerine firma veya kurum logosu basılabilir mi?", a: "ORG-180 için Lazer, Gofre baskı seçenekleri belirtilmiştir. Logo uygulamasının alanı ve fiyatı teklif aşamasında netleştirilir." },
+    { q: "ORG-180 özel kutulu mudur?", a: "Güncel teknik listede özel kutu bilgisi belirtilmemiştir. Ambalaj ve set içeriği sipariş öncesinde teyit edilir." },
+    { q: "ORG-180 toplu siparişe uygun mudur?", a: "Evet. ORG-180 için adet, renk ve logo bilgileriyle kurumsal teklif alabilirsiniz. Stok, baskı bedeli ve teslim süresi teklif aşamasında paylaşılır." }
   ]
 },
 {
@@ -47114,185 +46334,69 @@ Promosyon organizer ORG-180 modeli; termo deri kapak yapısı, 336 sayfalık çi
 
   slug: "promosyon-organizer-org-190-termodei-hesap-makineli",
 
-  title:
-    "Promosyon Organizer ORG-190 | Hesap Makineli Termo Deri Kurumsal Organizer 18x23 cm",
+  title: "Promosyon Organizer ORG-190 | Hesap Makineli Termo Deri Organizer 26,5x19 cm",
 
   price: 670,
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-190.jpg",
+  image: "/products/promosyon-organizer-org-190-v2.jpg",
 
-  shortDesc:
-    "Promosyon organizer ORG-190 modeli; termo deri kapak, 352 sayfalık çizgili iç blok, 8 haneli hesap makinesi ve özel tasarım kapak detayı ile ofis, yönetici ve kurumsal hediye kullanımı için tasarlanmış premium organizer modellerinden biridir.",
+  shortDesc: "Promosyon organizer ORG-190; termo deri kapağı, 352 sayfalık iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. Hesap makinesi ve metal toka ile sunulur. Gofre, Lazer, Dijital baskı seçenekleri bulunur.",
 
   longDesc: `
-Promosyon organizer ORG-190 modeli, termo deri kapak tasarımı, yüksek sayfa kapasitesi ve iş hayatına yönelik fonksiyonel özellikleri ile kurumsal promosyon organizer modelleri arasında öne çıkan premium seçeneklerden biridir.
+Promosyon organizer ORG-190, termo deri kapağı ve 26,5 x 19 cm dış ölçüsüyle toplantı notları, iş planları ve günlük ofis kullanımı için değerlendirilebilen bir kurumsal hediye seçeneğidir. Firma logosuyla kişiselleştirilen kapak, ürünün çalışma ortamında markanızı temsil etmesine yardımcı olur.
 
-18 x 23 cm dış ölçüsü sayesinde günlük planlama, toplantı notları, müşteri görüşmeleri ve iş takibi için geniş bir kullanım alanı sunar. İçerisinde bulunan 15 x 21 cm ölçüsündeki blok ise masaüstü kullanımından iş toplantılarına kadar farklı alanlarda rahat bir yazım deneyimi sağlar.
+15 x 21 cm ölçüsündeki iç blok 352 sayfadan oluşur ve 70 gr krem kağıt kullanır. Metal toka kapağın kapalı tutulmasına yardımcı olur. Hesap makinesi günlük hesaplamalar için kullanılabilir.
 
-ORG-190 modelinde yer alan 352 sayfalık çizgili iç blok, yoğun iş temposuna sahip kullanıcıların uzun süreli not alma ve planlama ihtiyaçlarına cevap verir. Günlük notlar, toplantı kayıtları, yapılacaklar listeleri, müşteri görüşmeleri ve proje detayları tek bir organizer içerisinde düzenli şekilde tutulabilir.
+Ofis çalışanları, yöneticiler, satış ekipleri ve kurumsal müşteriler için toplantı, eğitim ve hediye çalışmalarında tercih edilebilir. İç sayfaların takvim yılı ve tarih düzeni sipariş öncesinde teyit edilir.
 
-İç sayfalarda kullanılan 70 gr krem kağıt, günlük yazım ihtiyaçlarına uygun bir yüzey sunar. Krem renkli sayfa yapısı organizerın profesyonel ve klasik görünümünü tamamlar.
+ÖNE ÇIKAN ÖZELLİKLER
 
-Organizer içerisinde bulunan 8 haneli hesap makinesi, ORG-190 modelini standart ajandalardan ayıran fonksiyonel özelliklerden biridir. Satış, finans, muhasebe, satın alma ve yönetim departmanlarında ihtiyaç duyulan temel hesaplamaların hızlı şekilde yapılmasına yardımcı olur.
-
-Termo deri kapak yapısı ürüne dayanıklı ve profesyonel bir dış yüzey kazandırır. Kapak üzerinde bulunan özel geometrik tasarım detayı ise ORG-190 modeline klasik organizer modellerinden farklı, modern ve dikkat çekici bir görünüm verir.
-
-Tokalı kapanış yapısı organizerın düzenli şekilde kapalı tutulmasına yardımcı olurken günlük kullanımda pratiklik sağlar.
-
-Promosyon organizer ORG-190 üzerine firmanızın logosu, kurum adı veya kurumsal tasarımı gofre baskı ve lazer baskı yöntemleri ile uygulanabilir. Logo baskılı organizer modelleri uzun süre kullanıldığından markanızın günlük iş hayatında sürekli görünür kalmasına katkı sağlar.
-
-Özel kutulu ambalajı sayesinde ORG-190 yalnızca fonksiyonel bir ofis ürünü değil, aynı zamanda yönetici, çalışan, müşteri ve iş ortaklarına sunulabilecek prestijli bir kurumsal hediye alternatifidir.
-
-Gri, kırmızı, mavi ve taba renk alternatifleri sayesinde farklı kurumsal kimliklere uygun seçim yapılabilir. Sipariş öncesinde güncel renk ve stok seçeneklerinin kontrol edilmesi önerilmektedir.
-
-ORG-190; kurumsal şirketler, belediyeler, kamu kurumları, finans kuruluşları, bankalar, sigorta şirketleri, danışmanlık firmaları ve yoğun ofis kullanımına sahip işletmeler için tercih edilebilecek fonksiyonel promosyon ürünlerinden biridir.
-
-NEDEN PROMOSYON ORGANIZER ORG-190?
-
-• Termo deri kapak
-• 352 sayfalık geniş iç blok
+• 352 sayfalık iç blok
 • 70 gr krem kağıt
-• Çizgili sayfa yapısı
-• 18 x 23 cm dış ölçü
-• 15 x 21 cm iç blok
-• 8 haneli hesap makinesi
-• Özel geometrik kapak tasarımı
-• Tokalı kapanış sistemi
-• Özel sunum kutusu
-• Gofre ve lazer baskıya uygun
-• Yönetici ve çalışan hediyesi için uygun
-• Kamu ve kurumsal kullanıma uygun
-• Uzun süreli marka görünürlüğünü destekler
-
-KULLANIM ALANLARI
-
-• Günlük iş planlaması
-• Toplantı notları
-• Müşteri görüşmeleri
-• Proje ve iş takibi
-• Finans ve muhasebe işlemleri
-• Yönetici kullanımı
-• Satış ekipleri
-• Ofis çalışanları
-• Kamu kurumları
-• Belediyeler
-• Bayi toplantıları
-• Çalışan hediyeleri
-• VIP müşteri hediyeleri
-• Fuar ve etkinlik organizasyonları
-• Kurumsal promosyon kampanyaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Holdingler
-• Belediyeler
-• Kamu kurumları
-• Bankalar
-• Finans kuruluşları
-• Sigorta şirketleri
-• Muhasebe firmaları
-• Danışmanlık şirketleri
-• Hukuk büroları
-• Eğitim kurumları
-• Satış ve saha ekipleri
-• Yönetici ve ofis çalışanları
-• Kurumsal hediye arayan işletmeler
-
-PROMOSYON ORGANIZER ORG-190 FİYATLARI
-
-Promosyon organizer fiyatları sipariş adedi, uygulanacak logo baskı yöntemi, renk seçeneği, güncel stok durumu ve teslim süresine göre değişiklik gösterebilir.
-
-Toplu ORG-190 organizer siparişlerinde kurumsal firmalara, kamu kurumlarına ve organizasyonlara özel fiyatlandırma yapılabilir. Güncel stok, renk seçenekleri, logo baskısı ve toplu sipariş fiyatları için teklif alabilirsiniz.
-
-BASKI BİLGİLERİ
-
-ORG-190 organizer üzerine firma logosu, kurum adı veya kurumsal tasarım uygulanabilmektedir.
-
-Baskı Türleri: Gofre Baskı / Lazer Baskı
-Logo Baskı: Kurumsal logo uygulamasına uygundur
-
-Uygulanacak baskı yöntemi logo tasarımı, baskı alanı, ürün yüzeyi ve sipariş miktarına göre belirlenmektedir.
-
-RENK VE STOK BİLGİSİ
-
-Görselde yer alan renk alternatifleri:
-
-• Gri
-• Kırmızı
-• Mavi
-• Taba
-
-Renk ve stok durumu dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde mevcut renk alternatifleri ve stok miktarı kontrol edilmelidir.
-
-SİPARİŞ BİLGİSİ
-
-• Kurumsal toplu siparişlere uygundur.
-• Kamu kurumları ve belediye siparişlerinde kullanılabilir.
-• Logo baskısı firmanıza veya kurumunuza özel hazırlanabilir.
-• Baskı çalışması üretim öncesinde onaya sunulabilir.
-• Özel sunum kutusu ile sunulmaktadır.
-• Minimum sipariş adedi stok ve üretim durumuna göre belirlenmektedir.
-• Renk seçenekleri dönemsel stok durumuna göre değişebilir.
-• Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
+• 15 x 21 cm ajanda / iç blok
+• Metal toka
+• Hesap makinesi
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Organizer / Ajanda
+Ürün Tipi: Promosyon Organizer
 Model: ORG-190
 Kategori: Organizerler
-Kapak Malzemesi: Termo Deri
-Dış Ölçü: 18 x 23 cm
-İç Blok Ölçüsü: 15 x 21 cm
-Sayfa Sayısı: 352 Sayfa
-Sayfa Tipi: Çizgili
-Kağıt: 70 gr Krem Kağıt
-Hesap Makinesi: 8 Haneli
-Kapanış: Tokalı
-Ambalaj: Özel Kutulu
-Baskı Türleri: Gofre Baskı / Lazer Baskı
+Kapak: Termo Deri
+Dış Ölçü: 26,5 x 19 cm
+İç Blok / Ajanda Ölçüsü: 15 x 21 cm
+Sayfa Sayısı: 352
+Kağıt: 70 gr Krem
+Kapanış: Metal Toka
+Hesap Makinesi: Var
 Koli Adedi: 30 Adet
-Kullanım Tipi: Ofis / Toplantı / Planlama / Yönetici / Kurumsal Hediye
+Renk Seçenekleri: Lacivert, Siyah, Kırmızı, Gri
+Baskı Seçenekleri: Gofre, Lazer, Dijital
 
-Promosyon organizer ORG-190 modeli; termo deri kapak yapısı, 352 sayfalık çizgili iç bloğu, 8 haneli hesap makinesi, özel kapak tasarımı ve kurumsal logo baskı seçenekleri ile günlük iş hayatında uzun süre kullanılabilecek premium promosyon organizer modellerinden biridir. Güncel stok durumu, renk seçenekleri, toplu sipariş fiyatları, logo baskısı ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+RENK VE STOK BİLGİSİ
+
+Renk seçenekleri: Lacivert, Siyah, Kırmızı, Gri. Renklerin siparişe uygunluğu güncel stok durumuna göre teyit edilir. Ürün görseli tüm renk seçeneklerini bir arada göstermeyebilir.
+
+LOGO BASKISI
+
+ORG-190 için belirtilen baskı seçenekleri Gofre, Lazer, Dijital yöntemleridir. Uygulama alanı, logo tasarımı ve baskı bedeli teklif aşamasında netleştirilir. Tasarım onayı sonrası üretim planı paylaşılır.
+
+SİPARİŞ BİLGİSİ
+
+Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve logo dosyanızı iletebilirsiniz. Koli adedi 30 olarak belirtilmiştir; sipariş adedi, baskı bedeli, güncel stok ve teslim süresi teklif sırasında teyit edilir. Listelenen fiyat baskı ve KDV hariçtir.
 `.trim(),
 
   faq: [
-    {
-      q: "ORG-190 organizer kaç sayfadır?",
-      a: "ORG-190 modeli 352 sayfalık çizgili iç bloğa sahiptir."
-    },
-    {
-      q: "ORG-190 organizer ölçüsü nedir?",
-      a: "Ürünün dış ölçüsü 18 x 23 cm, iç blok ölçüsü ise 15 x 21 cm'dir."
-    },
-    {
-      q: "ORG-190 hesap makineli midir?",
-      a: "Evet. Organizer içerisinde günlük temel hesaplamalarda kullanılabilecek 8 haneli hesap makinesi bulunmaktadır."
-    },
-    {
-      q: "ORG-190 hangi kağıt türünü kullanmaktadır?",
-      a: "Organizer içerisinde 70 gr krem renkli kağıt kullanılmaktadır ve iç sayfalar çizgilidir."
-    },
-    {
-      q: "ORG-190 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine gofre baskı veya lazer baskı yöntemleri ile firma ve kurum logosu uygulanabilmektedir."
-    },
-    {
-      q: "ORG-190 hangi renklerde bulunmaktadır?",
-      a: "Görselde gri, kırmızı, mavi ve taba renk alternatifleri bulunmaktadır. Güncel renk ve stok durumu sipariş öncesinde kontrol edilmelidir."
-    },
-    {
-      q: "ORG-190 özel kutulu mudur?",
-      a: "Evet. Ürün özel sunum kutusu ile sunulmaktadır ve kurumsal hediye kullanımına uygundur."
-    },
-    {
-      q: "ORG-190 toplu siparişe uygun mudur?",
-      a: "Evet. ORG-190 kurumsal firmalar, kamu kurumları, belediyeler ve organizasyonlar için toplu siparişe uygundur. Sipariş miktarı ve baskı tercihine göre özel fiyatlandırma yapılabilir."
-    }
+    { q: "ORG-190 organizer kaç sayfadır?", a: "ORG-190 modeli 352 sayfalık iç bloğa sahiptir." },
+    { q: "ORG-190 organizer ölçüsü nedir?", a: "Dış ölçü 26,5 x 19 cm, iç blok / ajanda ölçüsü 15 x 21 cm olarak belirtilmiştir." },
+    { q: "ORG-190 hesap makineli midir?", a: "Evet. Hesap makinesi bulunmaktadır." },
+    { q: "ORG-190 hangi kağıt türünü kullanmaktadır?", a: "70 gr krem kağıt kullanılmaktadır." },
+    { q: "ORG-190 üzerine logo baskısı yapılabilir mi?", a: "ORG-190 için Gofre, Lazer, Dijital baskı seçenekleri belirtilmiştir. Logo uygulamasının alanı ve fiyatı teklif aşamasında netleştirilir." },
+    { q: "ORG-190 hangi renklerde bulunmaktadır?", a: "Renk seçenekleri Lacivert, Siyah, Kırmızı, Gri olarak listelenmektedir. Güncel stok ve renk uygunluğu sipariş öncesinde teyit edilir." },
+    { q: "ORG-190 özel kutulu mudur?", a: "Güncel teknik listede özel kutu bilgisi belirtilmemiştir. Ambalaj ve set içeriği sipariş öncesinde teyit edilir." },
+    { q: "ORG-190 toplu siparişe uygun mudur?", a: "Evet. ORG-190 için adet, renk ve logo bilgileriyle kurumsal teklif alabilirsiniz. Stok, baskı bedeli ve teslim süresi teklif aşamasında paylaşılır." }
   ]
 },
 {

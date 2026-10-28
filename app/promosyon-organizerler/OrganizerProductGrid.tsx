@@ -17,56 +17,24 @@ type OrganizerProduct = {
   price?: number;
 };
 
-const filters = [
-  "Tümü",
-  "Kılıflı",
-  "Manyetik Kilitli",
-  "Hesap Makineli",
-  "Metal Tokalı",
-  "Ajandalı",
-];
+const filters = ["Tümü", "Hesap Makineli", "Metal Tokalı", "336 Sayfa", "352 Sayfa"];
 
-function normalize(value: string) {
-  return value
-    .toLocaleLowerCase("tr-TR")
-    .replace(/\s+/g, " ")
-    .trim();
-}
+const verifiedFeatures: Record<string, string[]> = {
+  "ORG-100": ["Metal Tokalı", "352 Sayfa"],
+  "ORG-120": ["Metal Tokalı", "352 Sayfa"],
+  "ORG-130": ["Metal Tokalı", "352 Sayfa"],
+  "ORG-140": ["Hesap Makineli", "336 Sayfa"],
+  "ORG-150": ["Hesap Makineli", "Metal Tokalı", "352 Sayfa"],
+  "ORG-160": ["Hesap Makineli", "336 Sayfa"],
+  "ORG-170": ["Hesap Makineli", "352 Sayfa"],
+  "ORG-180": ["Hesap Makineli", "Metal Tokalı", "352 Sayfa"],
+  "ORG-190": ["Hesap Makineli", "Metal Tokalı", "352 Sayfa"],
+};
 
 function matchesFilter(product: OrganizerProduct, filter: string) {
   if (filter === "Tümü") return true;
-
-  const text = normalize(
-    `${product.title} ${product.shortDesc} ${product.longDesc || ""}`
-  );
-
-  if (filter === "Kılıflı") {
-    return text.includes("kılıflı");
-  }
-
-  if (filter === "Manyetik Kilitli") {
-    return text.includes("manyetik kilitli");
-  }
-
-  if (filter === "Hesap Makineli") {
-    return (
-      text.includes("hesap makineli") ||
-      text.includes("hesap makinalı")
-    );
-  }
-
-  if (filter === "Metal Tokalı") {
-    return (
-      text.includes("metal tokalı") ||
-      text.includes("metal kilitli")
-    );
-  }
-
-  if (filter === "Ajandalı") {
-    return text.includes("ajanda");
-  }
-
-  return true;
+  const code = product.slug.match(/(?:^|-)org-(\d+)(?:-|$)/i);
+  return code ? (verifiedFeatures[`ORG-${code[1]}`] || []).includes(filter) : false;
 }
 
 export default function OrganizerProductGrid({
@@ -92,8 +60,8 @@ export default function OrganizerProductGrid({
         </h2>
 
         <p className="mt-2 max-w-3xl text-sm leading-6 text-gray-600">
-          Kılıflı, manyetik kilitli, hesap makineli ve metal tokalı
-          promosyon organizer modellerini inceleyebilirsiniz.
+          Organizer modellerini hesap makinesi, metal toka ve sayfa sayısına
+          göre inceleyebilirsiniz.
         </p>
 
         <div className="mt-5 flex flex-wrap gap-3">
