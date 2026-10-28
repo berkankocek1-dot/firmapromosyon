@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
-import { products } from "@/data/products";
+import { visibleProducts } from "@/data/productVisibility";
 import { sortProductsByCode } from "@/data/productSorting";
 
 
@@ -21,9 +21,9 @@ const PAGE_URL = `${SITE_URL}/promosyon-ayna-deri-kartliklar`;
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Ayna ve Deri Kartlıklar | Logo Baskılı Kartlık Modelleri",
+    "Promosyon Ayna ve Manikür Setleri | Logo Baskılı Modeller",
   description:
-    "Promosyon ayna ve deri kartlık modelleri, logo baskılı kurumsal kartlık çeşitleri ve toplu sipariş seçenekleri için hızlı teklif alın. Kurumsal tanıtım ve promosyon ürünleri için kartlık modellerini inceleyin.",
+    "Katlanır ayna, derili cep aynası ve 5 parça aynalı manikür setlerini inceleyin. AY-100, AY-110, AY-120 ve MNK-100 için logo baskılı toplu sipariş teklifi alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Promosyon Ayna ve Deri Kartlıklar | FirmaPromosyon",
     description:
-      "Logo baskılı ayna ve deri kartlık çeşitleri. Kurumsal tanıtım ve toplu sipariş için promosyon kartlık modellerini inceleyin.",
+      "Katlanır ayna, kare ve yuvarlak cep aynası ile aynalı manikür setleri. Logo uygulaması için teklif alın.",
     url: PAGE_URL,
     siteName: "FirmaPromosyon",
     locale: "tr_TR",
@@ -57,13 +57,13 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Promosyon Ayna ve Deri Kartlıklar | FirmaPromosyon",
     description:
-      "Logo baskılı ayna ve deri kartlık çeşitleri. Kurumsal toplu sipariş ve hızlı teklif imkanı.",
+      "Promosyon cep aynaları ve 5 parça aynalı manikür setleri için toplu sipariş ve logo uygulaması.",
     images: [`${SITE_URL}/og.jpg`],
   },
 };
 
 export default function Page() {
-  const list = sortProductsByCode(products.filter((p) => p.category === CATEGORY));
+  const list = sortProductsByCode(visibleProducts.filter((p) => p.category === CATEGORY));
 
   const itemListElement = list.map((p, idx) => ({
     "@type": "ListItem",
@@ -108,7 +108,7 @@ export default function Page() {
           name: "Promosyon Ayna ve Deri Kartlıklar",
           url: PAGE_URL,
           description:
-            "Logo baskılı ayna ve deri kartlık modelleri. Kurumsal promosyon ve toplu siparişler için kartlık çeşitleri.",
+            "AY-100, AY-110 ve AY-120 aynalar ile MNK-100 aynalı manikür seti. Kurumsal logo uygulaması ve toplu sipariş seçenekleri.",
           mainEntity: {
             "@type": "ItemList",
             numberOfItems: list.length,
@@ -138,19 +138,11 @@ export default function Page() {
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Promosyon ayna ve deri kartlık modelleri, hem kullanışlı hem de
-            şık tasarımları sayesinde kurumsal promosyon ürünleri arasında
-            tercih edilen ürünlerdendir. Logo baskılı kartlıklar, kartvizit,
-            kredi kartı veya kimlik kartlarını düzenli şekilde taşımak için
-            ideal bir çözümdür.
+            AY-100 katlanır ayna, AY-110 derili ayna, AY-120 kare ayna ve MNK-100 aynalı manikür setini inceleyin. Kozmetik, güzellik ve kişisel bakım kampanyaları için ürünleri karşılaştırabilirsiniz.
           </p>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            FirmaPromosyon’da yer alan ayna ve deri kartlık modelleri; farklı
-            tasarım, renk ve baskı seçenekleri ile kurumsal ihtiyaçlara
-            uygun şekilde sunulmaktadır. Firmanızın logosuna özel baskılı
-            sipariş seçenekleri ile ürünleri inceleyebilir ve toplu sipariş
-            avantajlarından yararlanabilirsiniz.
+            Aynalarda ürün ölçüsü ile logo alanı ayrı değerlendirilir. AY-110 ve AY-120 baskı seçenekleri ile manikür setinin renkleri ürün sayfalarında yer alır. Toplu sipariş ve tasarıma özel teklif alabilirsiniz.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">
@@ -171,21 +163,23 @@ export default function Page() {
         </header>
       </section>
 
-      <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <p className="mt-8 text-sm font-medium text-gray-700">{list.length} ürün gösteriliyor</p>
+
+      <section className="mt-4 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((p) => (
           <Link
             key={p.id}
             href={`/urunler/${p.slug}`}
             className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
           >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
+            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
               <Image
   src={p.image}
   alt={p.title}
   fill
   unoptimized
   loading="lazy"
-  className="object-contain p-4"
+  className="object-contain bg-white p-4"
   sizes="(max-width: 768px) 100vw, 33vw"
 />
             </div>
@@ -202,6 +196,13 @@ export default function Page() {
               <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
                 {p.shortDesc}
               </p>
+
+              {typeof p.price === "number" && p.price > 0 ? (
+                <div className="mt-3">
+                  <p className="text-base font-bold text-gray-900">{p.price.toLocaleString("tr-TR")} TL + KDV</p>
+                  <p className="mt-1 text-xs text-gray-600">Fiyatlar baskı hariçtir. Güncel teklif için iletişime geçin.</p>
+                </div>
+              ) : <p className="mt-3 text-sm font-semibold text-gray-900">Güncel fiyat için teklif alın.</p>}
 
               <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
                 Ürünü İncele
@@ -221,38 +222,21 @@ export default function Page() {
         <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
           <section className="max-w-4xl space-y-5 text-gray-200">
             <h2 className="text-2xl font-bold text-white">
-              Logo Baskılı Ayna ve Deri Kartlık Modelleri
+              Logo Baskılı Cep Aynaları ve Manikür Seti
             </h2>
 
-            <p>
-              Logo baskılı ayna ve deri kartlık ürünleri, hem estetik
-              hem de kullanışlı yapıları ile dikkat çeken promosyon
-              ürünleri arasında yer alır. Günlük kullanımda kartların
-              düzenli şekilde taşınmasını sağlar.
-            </p>
+            <p>AY-100 katlanabilir tasarımıyla, AY-110 60 mm ölçüsüyle ve AY-120 60 x 60 mm kare formuyla ayrılır. MNK-100 ise 5 parça bilgisiyle sunulan aynalı manikür setidir.</p>
 
-            <p>
-              Kurumsal firmalar tarafından tercih edilen kartlık
-              modelleri; müşteri hediyeleri, çalışan dağıtımları ve
-              promosyon etkinliklerinde sıkça kullanılmaktadır.
-            </p>
+            <p>Bu modeller kozmetik kampanyalarında, güzellik merkezi tanıtımlarında, müşteri ve çalışan hediyelerinde değerlendirilebilir.</p>
 
-            <p>
-              Promosyon kartlık çeşitleri; deri kartlık, metal kartlık,
-              aynalı kartlık ve farklı tasarım seçenekleri ile
-              üretilebilmektedir.
-            </p>
+            <p>AY-110 ve AY-120 için serigrafi / tampon, UV ve dijital baskı seçenekleri bulunur. AY-100 ve MNK-100 logo uygulaması teklif aşamasında belirlenir.</p>
 
-            <p>
-              Promosyon kartlık fiyatları; ürün modeli, malzeme
-              kalitesi, baskı tercihi ve sipariş miktarına göre
-              değişiklik gösterebilir.
-            </p>
+            <p>Ayna ve manikür seti fiyatları; model, sipariş miktarı ve logo uygulamasına göre değerlendirilir. Liste fiyatları baskı hariçtir ve KDV ayrıca eklenir.</p>
           </section>
 
           <section className="mt-14 max-w-4xl">
             <h2 className="text-2xl font-bold text-white">
-              Kartlıklar Nerelerde Kullanılır?
+              Ayna ve Manikür Setleri Nerelerde Kullanılır?
             </h2>
 
             <div className="mt-5 grid gap-4 sm:grid-cols-2">
@@ -260,39 +244,28 @@ export default function Page() {
                 <h3 className="text-lg font-semibold text-white">
                   Günlük Kullanım
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Kartların düzenli ve güvenli şekilde taşınmasını sağlar.
-                </p>
+                <p className="mt-2 text-sm leading-6 text-gray-200">Cep aynaları ve aynalı manikür seti, kişisel kullanım için taşınabilir seçeneklerdir.</p>
               </div>
 
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
                 <h3 className="text-lg font-semibold text-white">
                   Kurumsal Hediyeler
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Kartlıklar müşterilere verilebilecek şık promosyon
-                  ürünleri arasında yer alır.
-                </p>
+                <p className="mt-2 text-sm leading-6 text-gray-200">Kozmetik ve güzellik alanındaki müşteri kampanyaları için değerlendirilebilir.</p>
               </div>
 
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
                 <h3 className="text-lg font-semibold text-white">
                   Fuar ve Organizasyonlar
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Promosyon kartlıklar marka tanıtımında etkili
-                  promosyon ürünleri arasında yer alır.
-                </p>
+                <p className="mt-2 text-sm leading-6 text-gray-200">Fuar ve etkinliklerde modele uygun logo uygulamasıyla tanıtım hediyesi olarak sunulabilir.</p>
               </div>
 
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
                 <h3 className="text-lg font-semibold text-white">
                   Çalışan Hediyeleri
                 </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Şirket çalışanlarına verilebilecek kullanışlı
-                  promosyon ürünlerinden biridir.
-                </p>
+                <p className="mt-2 text-sm leading-6 text-gray-200">Çalışanlara yönelik kişisel bakım hediyesi seçenekleri arasında değerlendirilebilir.</p>
               </div>
             </div>
           </section>

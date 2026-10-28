@@ -10515,101 +10515,24 @@ Promosyon makam bayrağı siparişleri toplu üretim olarak hazırlanmakta olup 
 {
   id: "p137",
   slug: "promosyon-kartvizitlik-kv-100",
-  title: "Promosyon Kartvizitlik KV-100 | Logo Baskılı Termo Deri Kartvizitlik",
-
+  title: "Promosyon Kartvizitlik KV-100 | 9,5 x 6,5 cm Termo Deri",
   category: "Kartvizitlik",
-
   image: "/products/promosyon-kartvizitlik-kv-100.jpg",
-
-  shortDesc:
-    "Promosyon kartvizitlik KV-100 modeli termo deri kapak tasarımı ve logo baskıya uygun yüzeyi ile kurumsal promosyon kartvizitlik ürünleri arasında tercih edilen şık ve kullanışlı ofis aksesuarlarından biridir.",
-
-  longDesc: `
-Promosyon kartvizitlik KV-100 modeli iş dünyasında sık kullanılan kurumsal promosyon ürünleri arasında yer almaktadır. Termo deri kapak tasarımı sayesinde hem şık bir görünüm sunar hem de kartvizitlerin düzenli şekilde saklanmasını sağlar.
-
-Promosyon kartvizitlik ürünleri özellikle şirket yöneticileri, satış ekipleri ve kurumsal çalışanlar tarafından tercih edilen ofis aksesuarları arasında yer almaktadır. Kartvizitlerin düzenli şekilde taşınmasını ve sunulmasını kolaylaştırır.
-
-KV-100 modeli termo deri malzemeden üretilmiştir. Dayanıklı yapısı sayesinde uzun süreli kullanım sağlar ve profesyonel bir görünüm sunar.
-
-Promosyon kartvizitlik üzerine firmanıza ait logo veya marka baskısı uygulanarak ürün güçlü bir reklam ve kurumsal tanıtım aracı haline getirilebilir.
-
-Promosyon kartvizitlik ürünleri özellikle fuarlar, iş toplantıları, kurumsal etkinlikler ve müşteri görüşmelerinde tercih edilen promosyon ürünleri arasında yer almaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Kartvizitlik  
-Kategori: Kartvizitlik  
-Malzeme: Termo Deri  
-
-BASKI BİLGİLERİ
-
-Baskı Türü: Lazer / Gofre / Dijital Baskı  
-Logo Baskı: Kurumsal logo baskıya uygundur  
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Ofis masaüstü aksesuarları  
-İş toplantıları ve fuarlar  
-Kurumsal marka tanıtımı  
-Yönetici ve çalışan promosyonları  
-
-RENK VE STOK BİLGİSİ
-
-Promosyon kartvizitlik ürünlerinde renk ve üretim seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde stok durumunun teyit edilmesi önerilmektedir.
-
-Promosyon kartvizitlik siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
-`
+  shortDesc: "KV-100; 9,5 x 6,5 cm ölçüsünde termo deri kartvizitliktir. Beyaz, gri, turuncu, kırmızı, lacivert, siyah ve taba seçenekleri bulunur.",
+  longDesc: "Termo deri kapaklı KV-100, kartvizitleri müşteri görüşmelerinde düzenli sunmak için kullanılabilir. 9,5 x 6,5 cm ölçüsüyle toplantı ve fuar hediyeleri arasında değerlendirilebilen model, yedi renk seçeneğiyle kurumsal tasarıma uyarlanabilir.\n\nTEKNİK ÖZELLİKLER\nModel: KV-100\nÜrün: Kartvizitlik\nMalzeme: Termo Deri\nÖlçü: 9,5 x 6,5 cm\n\nLOGO UYGULAMASI\nLogo uygulama yöntemi ve baskı alanı, seçilen renk ve tasarıma göre teklif aşamasında belirlenir.\n\nRENK SEÇENEKLERİ\nBeyaz, Gri, Turuncu, Kırmızı, Lacivert, Siyah, Taba\nRenklerin stok durumu sipariş sırasında kontrol edilir.\n\nSİPARİŞ BİLGİSİ\nListe fiyatı baskı hariç ve KDV ilavesiyle değerlendirilir. Logo uygulaması, sipariş adedi ve teslim planına göre nihai teklif hazırlanır. Minimum sipariş miktarı ve teslim süresi teklif aşamasında belirtilir. Koli / kutu adedi verilen modellerde bu adetler minimum sipariş koşulu anlamına gelmez. Görsellerdeki logolar uygulama örneğidir.",
+  price: 300,
+  faq: [{"q":"KV-100 nasıl bir üründür?","a":"KV-100; 9,5 x 6,5 cm ölçüsünde termo deri kartvizitliktir. Beyaz, gri, turuncu, kırmızı, lacivert, siyah ve taba seçenekleri bulunur."},{"q":"KV-100 hangi malzemeden üretilmektedir?","a":"Tedarikçi KV-100 modelini termo deri kartvizitlik olarak belirtir. Gerçek deri iddiası bulunmaz."},{"q":"KV-100 ölçüsü nedir?","a":"Ürün ölçüsü 9,5 x 6,5 cm’dir. Bu değer logo baskı alanı değildir."},{"q":"KV-100 hangi renklerde sunulur?","a":"Beyaz, Gri, Turuncu, Kırmızı, Lacivert, Siyah, Taba Stok durumu sipariş öncesinde kontrol edilir."},{"q":"KV-100 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması için tasarıma ve sipariş adedine göre teklif hazırlanır."},{"q":"KV-100 minimum sipariş ve teslim süresi nedir?","a":"Sabit bir minimum sipariş veya teslim süresi belirtilmez. Bu bilgiler adet, stok ve logo uygulamasına göre teklif aşamasında paylaşılır."}]
 },
 {
   id: "p138",
   slug: "promosyon-katlanir-ayna-ay-100",
-  title: "Promosyon Katlanır Ayna AY-100 | Logo Baskılı Promosyon Ayna",
-
+  title: "Promosyon Ayna AY-100 | Katlanabilir Cep Aynası",
   category: "Ayna ve Deri Kartlıklar",
-
   image: "/products/promosyon-katlanir-ayna-ay-100.jpg",
-
-  shortDesc:
-    "Promosyon katlanır ayna AY-100 modeli kompakt tasarımı ve logo baskıya uygun yüzeyi ile kozmetik ve kurumsal promosyon ürünleri arasında tercih edilen pratik promosyon ayna modellerinden biridir.",
-
-  longDesc: `
-Promosyon katlanır ayna AY-100 modeli günlük kullanım için tasarlanmış pratik promosyon ürünleri arasında yer almaktadır. Katlanabilir yapısı sayesinde çantada kolay taşınabilir ve ihtiyaç duyulduğunda hızlı şekilde kullanılabilir.
-
-Promosyon ayna ürünleri özellikle kozmetik firmaları, güzellik merkezleri, kuaförler ve kurumsal promosyon kampanyalarında tercih edilen etkili promosyon ürünleri arasında yer almaktadır.
-
-AY-100 modeli kompakt ve dayanıklı yapıya sahiptir. Katlanır tasarımı sayesinde hem aynayı korur hem de kullanım sırasında rahat bir deneyim sunar.
-
-Promosyon katlanır ayna üzerine firmanıza ait logo veya marka baskısı uygulanarak ürün güçlü bir reklam ve marka tanıtım aracı haline getirilebilir. Günlük kullanımda sık kullanılan bir ürün olduğu için marka görünürlüğünü uzun süre artırabilir.
-
-Promosyon aynalar özellikle kozmetik promosyonları, kadınlara yönelik promosyon ürünleri, fuar etkinlikleri ve marka tanıtım kampanyalarında tercih edilmektedir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Katlanır Ayna  
-Kategori: Ayna ve Deri Kartlıklar  
-Model: AY-100  
-Tasarım: Katlanabilir  
-
-BASKI BİLGİLERİ
-
-Logo Baskı: Kurumsal logo baskıya uygundur  
-Baskı Türü: Serigraf / Dijital Baskı uygulanabilir  
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Kozmetik promosyonları  
-Fuar ve etkinlik promosyonları  
-Güzellik merkezi promosyonları  
-Marka tanıtım ürünleri  
-
-RENK VE STOK BİLGİSİ
-
-Promosyon katlanır ayna ürünlerinde renk ve üretim seçenekleri dönemsel olarak değişiklik gösterebilir. Sipariş öncesinde stok durumunun teyit edilmesi önerilmektedir.
-
-Promosyon katlanır ayna siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
-`
+  shortDesc: "AY-100; gümüş renk seçeneğiyle sunulan katlanır aynadır. Logo yöntemi ve uygulama alanı tasarım çalışmasıyla belirlenir.",
+  longDesc: "AY-100 katlanır ayna, gümüş renk seçeneğiyle sunulan bir kişisel kullanım aksesuarıdır. Açılıp kapanabilen formu, çantada taşınacak kozmetik ve güzellik kampanyası hediyeleri için değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\nModel: AY-100\nÜrün: Katlanır Ayna\nTasarım: Katlanabilir\n\nLOGO UYGULAMASI\nTedarikçi sayfasında bu model için belirli bir baskı tekniği veya baskı alanı belirtilmez. Logo uygulama ayrıntıları teklif sırasında belirlenir.\n\nRENK SEÇENEKLERİ\nGümüş\nRenklerin stok durumu sipariş sırasında kontrol edilir.\n\nSİPARİŞ BİLGİSİ\nListe fiyatı baskı hariç ve KDV ilavesiyle değerlendirilir. Logo uygulaması, sipariş adedi ve teslim planına göre nihai teklif hazırlanır. Minimum sipariş miktarı ve teslim süresi teklif aşamasında belirtilir. Koli / kutu adedi verilen modellerde bu adetler minimum sipariş koşulu anlamına gelmez. Görsellerdeki logolar uygulama örneğidir.",
+  price: 94,
+  faq: [{"q":"AY-100 nasıl bir üründür?","a":"AY-100; gümüş renk seçeneğiyle sunulan katlanır aynadır. Logo yöntemi ve uygulama alanı tasarım çalışmasıyla belirlenir."},{"q":"AY-100 katlanabilir mi?","a":"Evet. Model katlanır ayna olarak sunulur."},{"q":"AY-100 ölçüsü ve baskı alanı nedir?","a":"Bu model için doğrulanmış bir ölçü veya baskı alanı belirtilmediğinden sipariş öncesi teklif çalışmasında netleştirilir."},{"q":"AY-100 hangi renklerde sunulur?","a":"Gümüş Stok durumu sipariş öncesinde kontrol edilir."},{"q":"AY-100 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması için tasarıma ve sipariş adedine göre teklif hazırlanır."},{"q":"AY-100 minimum sipariş ve teslim süresi nedir?","a":"Sabit bir minimum sipariş veya teslim süresi belirtilmez. Bu bilgiler adet, stok ve logo uygulamasına göre teklif aşamasında paylaşılır."}]
 },
 {
   id: "p139",
@@ -23677,334 +23600,68 @@ Açık alan kullanımları
 {
   id: "p305",
   slug: "promosyon-derili-ayna-ay-110",
-  title: "Promosyon Derili Ayna AY-110 | Logolu Kurumsal Cep Aynası",
-
+  title: "Promosyon Ayna AY-110 | 60 mm Derili Cep Aynası",
   category: "Ayna ve Deri Kartlıklar",
   image: "/products/promosyon-derili-ayna-ay-110.jpg",
-
-  shortDesc:
-    "Promosyon derili ayna AY-110, şık tasarımı ve geniş baskı alanı ile markanızı günlük kullanımda öne çıkaran etkili promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon derili ayna AY-110 modeli, kompakt yapısı ve şık görünümü ile kurumsal promosyon ürünleri arasında sık tercih edilen ürünlerden biridir.
-
-Cepte ve çantada kolay taşınabilen yapısı sayesinde günlük kullanımda sürekli tercih edilir. Bu sayede markanız kullanıcı ile sürekli temas halinde olur.
-
-Ürün üzerindeki geniş baskı alanı, logo ve marka baskısı için oldukça uygundur. Farklı baskı teknikleri ile firmanıza özel tasarımlar uygulanabilir.
-
-Şık deri kaplama tasarımı sayesinde hem estetik hem de premium bir görünüm sunar. Özellikle kozmetik, güzellik ve kişisel bakım sektörleri için ideal bir promosyon ürünüdür.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Derili Ayna  
-Kategori: Ayna ve Deri Kartlıklar  
-
-Özellikler:
-
-Şık Deri Kaplama  
-Taşınabilir Kompakt Tasarım  
-Geniş Baskı Alanı  
-Günlük Kullanıma Uygun  
-
-Baskı Seçenekleri:
-
-Serigrafi Baskı  
-Tampon Baskı  
-UV Baskı  
-Dijital Baskı  
-
-Ürün Ölçüsü:
-
-60 mm  
-
-Baskı Alanı:
-
-55 mm  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon derili ayna siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kozmetik ve güzellik sektörleri  
-Kurumsal promosyon dağıtımları  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Şirket hediyeleri  
-`
+  shortDesc: "AY-110; beyaz renk, 60 mm ürün ölçüsü ve 55 mm baskı alanıyla sunulan derili aynadır. Serigrafi, tampon, UV ve dijital baskı seçenekleri bulunur.",
+  longDesc: "AY-110 derili ayna, 60 mm ürün ölçüsüyle taşınabilir bir kozmetik promosyonu seçeneğidir. Beyaz yüzeyde logo uygulaması için tedarikçinin belirttiği 55 mm baskı alanı kullanılabilir.\n\nTEKNİK ÖZELLİKLER\nModel: AY-110\nÜrün: Derili Ayna\nÜrün Ölçüsü: 60 mm\nBaskı Alanı: 55 mm\nBaskı: Serigrafi / Tampon, UV, Dijital\nKoli / Kutu: 1000 / 50\n\nLOGO UYGULAMASI\nSerigrafi, tampon, UV ve dijital baskı seçenekleri bulunur. Uygun yöntem logo renkleri ve tasarım ayrıntılarına göre seçilir.\n\nRENK SEÇENEKLERİ\nBeyaz\nRenklerin stok durumu sipariş sırasında kontrol edilir.\n\nSİPARİŞ BİLGİSİ\nListe fiyatı baskı hariç ve KDV ilavesiyle değerlendirilir. Logo uygulaması, sipariş adedi ve teslim planına göre nihai teklif hazırlanır. Minimum sipariş miktarı ve teslim süresi teklif aşamasında belirtilir. Koli / kutu adedi verilen modellerde bu adetler minimum sipariş koşulu anlamına gelmez. Görsellerdeki logolar uygulama örneğidir.",
+  price: 84,
+  faq: [{"q":"AY-110 nasıl bir üründür?","a":"AY-110; beyaz renk, 60 mm ürün ölçüsü ve 55 mm baskı alanıyla sunulan derili aynadır. Serigrafi, tampon, UV ve dijital baskı seçenekleri bulunur."},{"q":"AY-110 ölçüsü ve baskı alanı nedir?","a":"Ürün ölçüsü 60 mm, tedarikçinin belirttiği baskı alanı 55 mm’dir."},{"q":"AY-110 üzerine hangi baskılar uygulanabilir?","a":"Tedarikçi serigrafi / tampon baskı, UV baskı ve dijital baskı seçeneklerini belirtir."},{"q":"AY-110 hangi renklerde sunulur?","a":"Beyaz Stok durumu sipariş öncesinde kontrol edilir."},{"q":"AY-110 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması için tasarıma ve sipariş adedine göre teklif hazırlanır."},{"q":"AY-110 minimum sipariş ve teslim süresi nedir?","a":"Sabit bir minimum sipariş veya teslim süresi belirtilmez. Bu bilgiler adet, stok ve logo uygulamasına göre teklif aşamasında paylaşılır."}]
 },
 {
   id: "p306",
   slug: "promosyon-derili-ayna-ay-120",
-  title: "Promosyon Derili Ayna AY-120 | Kare Logolu Kurumsal Cep Aynası",
-
+  title: "Promosyon Ayna AY-120 | 60 x 60 mm Kare Cep Aynası",
   category: "Ayna ve Deri Kartlıklar",
   image: "/products/promosyon-derili-ayna-ay-120.jpg",
-
-  shortDesc:
-    "Promosyon derili ayna AY-120, kare formu ve şık deri kaplama tasarımı ile markanızı günlük kullanımda öne çıkaran etkili promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon derili ayna AY-120 modeli, modern kare tasarımı ve kompakt yapısı ile kurumsal promosyon ürünleri arasında dikkat çeken seçeneklerden biridir.
-
-Cepte ve çantada kolay taşınabilir yapısı sayesinde günlük kullanımda sık tercih edilir. Bu sayede markanız kullanıcı ile sürekli temas halinde olur.
-
-Ürün üzerindeki geniş baskı alanı, logo ve marka baskısı için oldukça uygundur. Farklı baskı teknikleri ile firmanıza özel tasarımlar uygulanabilir.
-
-Deri kaplama yüzeyi sayesinde estetik ve premium bir görünüm sunar. Özellikle kozmetik, güzellik ve kişisel bakım sektörleri için ideal bir promosyon ürünüdür.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Derili Ayna  
-Kategori: Ayna ve Deri Kartlıklar  
-
-Özellikler:
-
-Şık Deri Kaplama  
-Kare Tasarım  
-Taşınabilir Kompakt Yapı  
-Geniş Baskı Alanı  
-
-Baskı Seçenekleri:
-
-Serigrafi Baskı  
-Tampon Baskı  
-UV Baskı  
-Dijital Baskı  
-
-Ürün Ölçüsü:
-
-60 x 60 mm  
-
-Baskı Alanı:
-
-55 mm  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon derili ayna siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kozmetik ve güzellik sektörleri  
-Kurumsal promosyon dağıtımları  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Şirket hediyeleri  
-`
+  shortDesc: "AY-120; beyaz renkli, 60 x 60 mm kare derili aynadır. Tedarikçinin belirttiği baskı alanı 55 mm’dir.",
+  longDesc: "Kare formdaki AY-120 derili ayna, 60 x 60 mm ölçüsüyle AY-110 modelinden ayrılır. Beyaz yüzeyi; kozmetik, güzellik merkezi veya etkinlik kampanyalarında kurumsal tasarım uygulaması için değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\nModel: AY-120\nÜrün: Derili Ayna\nTasarım: Kare\nÜrün Ölçüsü: 60 x 60 mm\nBaskı Alanı: 55 mm\nBaskı: Serigrafi / Tampon, UV, Dijital\nKoli / Kutu: 1000 / 50\n\nLOGO UYGULAMASI\nSerigrafi, tampon, UV ve dijital baskı seçenekleri bulunur. Tedarikçinin 55 mm olarak belirttiği baskı alanının yerleşimi tasarımla netleştirilir; bu değer 55 x 55 mm olarak varsayılmaz.\n\nRENK SEÇENEKLERİ\nBeyaz\nRenklerin stok durumu sipariş sırasında kontrol edilir.\n\nSİPARİŞ BİLGİSİ\nListe fiyatı baskı hariç ve KDV ilavesiyle değerlendirilir. Logo uygulaması, sipariş adedi ve teslim planına göre nihai teklif hazırlanır. Minimum sipariş miktarı ve teslim süresi teklif aşamasında belirtilir. Koli / kutu adedi verilen modellerde bu adetler minimum sipariş koşulu anlamına gelmez. Görsellerdeki logolar uygulama örneğidir.",
+  price: 84,
+  faq: [{"q":"AY-120 nasıl bir üründür?","a":"AY-120; beyaz renkli, 60 x 60 mm kare derili aynadır. Tedarikçinin belirttiği baskı alanı 55 mm’dir."},{"q":"AY-120 hangi ölçüdedir?","a":"AY-120 kare ayna 60 x 60 mm ölçüsündedir."},{"q":"AY-120 baskı alanı nedir?","a":"Tedarikçi baskı alanını 55 mm olarak belirtir. Yerleşim tasarım çalışmasında belirlenir; 55 x 55 mm ölçü varsayılmaz."},{"q":"AY-120 hangi renklerde sunulur?","a":"Beyaz Stok durumu sipariş öncesinde kontrol edilir."},{"q":"AY-120 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması için tasarıma ve sipariş adedine göre teklif hazırlanır."},{"q":"AY-120 minimum sipariş ve teslim süresi nedir?","a":"Sabit bir minimum sipariş veya teslim süresi belirtilmez. Bu bilgiler adet, stok ve logo uygulamasına göre teklif aşamasında paylaşılır."}]
 },
 {
   id: "p307",
   slug: "promosyon-aynali-manikur-seti-mnk-100",
-  title: "Promosyon Aynalı Manikür Seti MNK-100 | 5 Parça Kurumsal Hediye Seti",
-
+  title: "Promosyon Aynalı Manikür Seti MNK-100 | 5 Parça Aynalı Set",
   category: "Ayna ve Deri Kartlıklar",
   image: "/products/promosyon-manikur-seti-mnk-100.jpg",
-
-  shortDesc:
-    "Promosyon aynalı manikür seti MNK-100, 5 parça içeriği ve kompakt tasarımı ile günlük kullanımda markanızı öne çıkaran şık promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon aynalı manikür seti MNK-100 modeli, kişisel bakım ürünleri arasında yer alan ve kullanıcılar tarafından sık tercih edilen etkili promosyon ürünlerinden biridir.
-
-Set içerisinde bulunan 5 farklı bakım aparatı sayesinde günlük ihtiyaçlara pratik çözümler sunar. Aynalı yapısı sayesinde kullanım kolaylığı sağlar.
-
-Kompakt tasarımı sayesinde çanta ve cepte kolayca taşınabilir. Bu sayede markanız gün boyunca kullanıcı ile birlikte taşınır ve sürekli görünür olur.
-
-Ürün, logo baskısı için uygun yüzeye sahiptir ve farklı baskı teknikleri ile firmanıza özel hale getirilebilir.
-
-Özellikle kozmetik, güzellik ve kişisel bakım sektörlerinde faaliyet gösteren firmalar için ideal bir promosyon ürünüdür.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Manikür Seti  
-Kategori: Ayna ve Deri Kartlıklar  
-
-Özellikler:
-
-Aynalı Tasarım  
-5 Parça Manikür Seti  
-Kompakt ve Taşınabilir  
-Günlük Kullanıma Uygun  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon manikür seti siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kozmetik ve güzellik sektörleri  
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Şirket hediyeleri  
-`
+  shortDesc: "MNK-100; aynalı tasarımı ve 5 parça set bilgisiyle sunulur. Mavi, yeşil, pembe ve kırmızı renk seçenekleri bulunur.",
+  longDesc: "MNK-100, aynayı ve manikür setini aynı taşınabilir formda bir araya getirir. Tedarikçinin 5 parça olarak belirttiği model; kişisel bakım kampanyaları ve kurumsal hediye dağıtımları için değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\nModel: MNK-100\nÜrün: Aynalı Manikür Seti\nSet Bilgisi: 5 Parça\nÖzellik: Aynalı Tasarım\n\nLOGO UYGULAMASI\nLogo uygulama yöntemi ve baskı alanı tedarikçi açıklamasında belirtilmediğinden, tasarım ve sipariş miktarına göre teklif aşamasında belirlenir.\n\nRENK SEÇENEKLERİ\nMavi, Yeşil, Pembe, Kırmızı\nRenklerin stok durumu sipariş sırasında kontrol edilir.\n\nSİPARİŞ BİLGİSİ\nListe fiyatı baskı hariç ve KDV ilavesiyle değerlendirilir. Logo uygulaması, sipariş adedi ve teslim planına göre nihai teklif hazırlanır. Minimum sipariş miktarı ve teslim süresi teklif aşamasında belirtilir. Koli / kutu adedi verilen modellerde bu adetler minimum sipariş koşulu anlamına gelmez. Görsellerdeki logolar uygulama örneğidir.",
+  price: 240,
+  faq: [{"q":"MNK-100 nasıl bir üründür?","a":"MNK-100; aynalı tasarımı ve 5 parça set bilgisiyle sunulur. Mavi, yeşil, pembe ve kırmızı renk seçenekleri bulunur."},{"q":"MNK-100 kaç parçadır?","a":"Tedarikçi MNK-100 modelini 5 parça aynalı manikür seti olarak belirtir. Parça içerikleri ayrıca netleştirilir."},{"q":"MNK-100 aynalı mıdır?","a":"Evet. MNK-100 aynalı manikür seti olarak sunulur."},{"q":"MNK-100 hangi renklerde sunulur?","a":"Mavi, Yeşil, Pembe, Kırmızı Stok durumu sipariş öncesinde kontrol edilir."},{"q":"MNK-100 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması için tasarıma ve sipariş adedine göre teklif hazırlanır."},{"q":"MNK-100 minimum sipariş ve teslim süresi nedir?","a":"Sabit bir minimum sipariş veya teslim süresi belirtilmez. Bu bilgiler adet, stok ve logo uygulamasına göre teklif aşamasında paylaşılır."}]
 },
 {
   id: "p308",
   slug: "promosyon-deri-cuzdan-dc-100",
-  title: "Promosyon Deri Cüzdan DC-100 | Logolu Kartvizitlik ve Cüzdan",
-
+  title: "Promosyon Deri Cüzdan DC-100 | Kart Taşıma Modeli",
   category: "Kartvizitlik",
   image: "/products/promosyon-deri-cuzdan-dc-100.jpg",
-
-  shortDesc:
-    "Promosyon deri cüzdan DC-100, şık tasarımı ve kullanışlı yapısı ile kartvizitlik ve cüzdan olarak tercih edilen kurumsal promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon deri cüzdan DC-100 modeli, hem kartvizitlik hem de cüzdan olarak kullanılabilen çok yönlü ve şık bir promosyon ürünüdür.
-
-Kompakt yapısı sayesinde cepte kolay taşınabilir ve günlük kullanım için oldukça uygundur. Bu sayede markanız kullanıcı ile sürekli temas halinde olur.
-
-Deri kaplama tasarımı sayesinde premium bir görünüm sunar ve kurumsal firmalar için prestijli bir hediye seçeneği oluşturur.
-
-Kartvizit ve nakit taşıma imkanı sunan yapısı ile iş dünyasında aktif olarak kullanılan bir üründür.
-
-Logo baskısına uygun yüzeyi sayesinde firmanıza özel tasarımlar uygulanabilir ve marka bilinirliği artırılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Deri Cüzdan  
-Kategori: Kartvizitlik  
-
-Özellikler:
-
-Deri Kaplama Tasarım  
-Kartvizit ve Nakit Taşıma Alanı  
-Kompakt ve Taşınabilir  
-Günlük Kullanıma Uygun  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon deri cüzdan siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-İş dünyasına yönelik hediyeler  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Şirket hediyeleri  
-`
+  shortDesc: "DC-100 deri cüzdan modeli, kartların düzenli taşınması için sunulur. Malzeme ayrıntısı, logo uygulaması ve sipariş koşulları teklif aşamasında belirlenir.",
+  longDesc: "DC-100 deri cüzdan, görselinde kart bölmeleri bulunan bir kart taşıma modelidir. Kartvizitlik kategorisindeki bu seçenek, müşteri veya çalışan hediyesi olarak değerlendirilebilir. Siparişte taşınacak kart türü ve logo tasarımı birlikte değerlendirilerek kullanım ihtiyacına uygunluğu belirlenir.\n\nTEKNİK ÖZELLİKLER\nModel: DC-100\nÜrün: Deri Cüzdan / Kart Taşıma Modeli\n\nLOGO UYGULAMASI\nLogo uygulama yöntemi ve alanı, malzeme ayrıntılarıyla birlikte teklif aşamasında netleştirilir.\n\nRENK SEÇENEKLERİ\nRenk seçenekleri teklif aşamasında paylaşılır.\nRenklerin stok durumu sipariş sırasında kontrol edilir.\n\nSİPARİŞ BİLGİSİ\nListe fiyatı baskı hariç ve KDV ilavesiyle değerlendirilir. Logo uygulaması, sipariş adedi ve teslim planına göre nihai teklif hazırlanır. Minimum sipariş miktarı ve teslim süresi teklif aşamasında belirtilir. Koli / kutu adedi verilen modellerde bu adetler minimum sipariş koşulu anlamına gelmez. Görsellerdeki logolar uygulama örneğidir.",
+  price: 170,
+  faq: [{"q":"DC-100 nasıl bir üründür?","a":"DC-100 deri cüzdan modeli, kartların düzenli taşınması için sunulur. Malzeme ayrıntısı, logo uygulaması ve sipariş koşulları teklif aşamasında belirlenir."},{"q":"DC-100 kaç kart alır?","a":"Tedarikçi sayfasında doğrulanmış bir kart kapasitesi belirtilmez. İhtiyacınıza uygunluğu teklif aşamasında belirlenir."},{"q":"DC-100 gerçek deri midir?","a":"Ürün adı deri cüzdan olarak geçer; gerçek deri niteliği veya deri türü ayrıca belirtilmediğinden bu özellik taahhüt edilmez."},{"q":"DC-100 hangi renklerde sunulur?","a":"Renk seçenekleri teklif aşamasında paylaşılır. Stok durumu sipariş öncesinde kontrol edilir."},{"q":"DC-100 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması için tasarıma ve sipariş adedine göre teklif hazırlanır."},{"q":"DC-100 minimum sipariş ve teslim süresi nedir?","a":"Sabit bir minimum sipariş veya teslim süresi belirtilmez. Bu bilgiler adet, stok ve logo uygulamasına göre teklif aşamasında paylaşılır."}]
 },
 {
   id: "p309",
   slug: "promosyon-kartvizitlik-kv-110",
-  title: "Promosyon Kartvizitlik KV-110 | Termo Deri Logolu Kartvizitlik",
-
+  title: "Promosyon Kartvizitlik KV-110 | 9,5 x 6,5 cm Termo Deri",
   category: "Kartvizitlik",
   image: "/products/promosyon-kartvizitlik-kv-110.jpg",
-
-  shortDesc:
-    "Promosyon kartvizitlik KV-110, termo deri kaplama tasarımı ve şık görünümü ile markanızı profesyonel şekilde temsil eden kurumsal promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon kartvizitlik KV-110 modeli, iş dünyasında sık kullanılan ve markanızı prestijli bir şekilde temsil eden etkili promosyon ürünlerinden biridir.
-
-Termo deri kaplama yüzeyi sayesinde hem şık hem de dayanıklı bir kullanım sunar. Premium görünümü ile kurumsal firmalar için ideal bir hediye seçeneğidir.
-
-Kartvizitlerin düzenli ve güvenli bir şekilde taşınmasını sağlar. Kompakt yapısı sayesinde cepte ve çantada kolay taşınabilir.
-
-Ürün, logo baskısına uygun yüzeyi sayesinde firmanıza özel tasarımlar ile markanızı ön plana çıkarır.
-
-Özellikle iş dünyasında aktif kullanılan bir ürün olduğu için marka bilinirliğini uzun süre artırır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Kartvizitlik  
-Kategori: Kartvizitlik  
-
-Özellikler:
-
-Termo Deri Kaplama  
-Şık ve Profesyonel Tasarım  
-Kompakt ve Taşınabilir  
-Günlük Kullanıma Uygun  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon kartvizitlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-İş dünyasına yönelik hediyeler  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Şirket hediyeleri  
-`
+  shortDesc: "KV-110; 9,5 x 6,5 cm termo deri kartvizitlik modelidir. Lacivert, beyaz, siyah ve kırmızı seçenekleriyle sunulur.",
+  longDesc: "KV-110, dört renk seçeneğiyle sunulan termo deri kartvizitlik modelidir. 9,5 x 6,5 cm ölçüsündeki kapaklı formu, kartvizitlerin iş toplantılarında veya müşteri ziyaretlerinde düzenli taşınması için değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\nModel: KV-110\nÜrün: Kartvizitlik\nMalzeme: Termo Deri\nÖlçü: 9,5 x 6,5 cm\n\nLOGO UYGULAMASI\nLogo uygulama tekniği, boyutu ve konumu tasarım çalışmasıyla netleştirilir.\n\nRENK SEÇENEKLERİ\nLacivert, Beyaz, Siyah, Kırmızı\nRenklerin stok durumu sipariş sırasında kontrol edilir.\n\nSİPARİŞ BİLGİSİ\nListe fiyatı baskı hariç ve KDV ilavesiyle değerlendirilir. Logo uygulaması, sipariş adedi ve teslim planına göre nihai teklif hazırlanır. Minimum sipariş miktarı ve teslim süresi teklif aşamasında belirtilir. Koli / kutu adedi verilen modellerde bu adetler minimum sipariş koşulu anlamına gelmez. Görsellerdeki logolar uygulama örneğidir.",
+  price: 290,
+  faq: [{"q":"KV-110 nasıl bir üründür?","a":"KV-110; 9,5 x 6,5 cm termo deri kartvizitlik modelidir. Lacivert, beyaz, siyah ve kırmızı seçenekleriyle sunulur."},{"q":"KV-110 hangi malzemeden üretilmektedir?","a":"KV-110, termo deri kartvizitlik olarak sunulur. Termo deri ifadesi gerçek deri anlamında kullanılmaz."},{"q":"KV-110 hangi ölçüdedir?","a":"KV-110 ölçüsü 9,5 x 6,5 cm’dir. Baskı alanı ayrıca belirlenir."},{"q":"KV-110 hangi renklerde sunulur?","a":"Lacivert, Beyaz, Siyah, Kırmızı Stok durumu sipariş öncesinde kontrol edilir."},{"q":"KV-110 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması için tasarıma ve sipariş adedine göre teklif hazırlanır."},{"q":"KV-110 minimum sipariş ve teslim süresi nedir?","a":"Sabit bir minimum sipariş veya teslim süresi belirtilmez. Bu bilgiler adet, stok ve logo uygulamasına göre teklif aşamasında paylaşılır."}]
 },
 {
   id: "p310",
   slug: "promosyon-kartvizitlik-kv-120",
-  title: "Promosyon Kartvizitlik KV-120 | Logolu Kurumsal Kartvizitlik",
-
+  title: "Promosyon Kartvizitlik KV-120 | 62 x 96 mm Lazer Baskılı",
   category: "Kartvizitlik",
-  image: "/products/promosyon-kartvizitlik-kv-120.jpg",
-
-  shortDesc:
-    "Promosyon kartvizitlik KV-120, şık tasarımı ve kompakt yapısı ile markanızı profesyonel şekilde temsil eden kurumsal promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon kartvizitlik KV-120 modeli, iş dünyasında aktif olarak kullanılan ve markanızı prestijli şekilde yansıtan etkili promosyon ürünlerinden biridir.
-
-Kartvizitlerin düzenli ve güvenli bir şekilde taşınmasını sağlar. Kompakt yapısı sayesinde cepte ve çantada kolay taşınabilir.
-
-Günlük kullanımda tercih edilen yapısı sayesinde markanız kullanıcı ile sürekli temas halinde olur ve marka bilinirliği artırılır.
-
-Ürün, logo baskısına uygun yüzeyi ile firmanıza özel tasarım uygulamalarına imkan tanır.
-
-Kurumsal firmalar için hem kullanışlı hem de prestijli bir promosyon ürünü olarak öne çıkar.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Kartvizitlik  
-Kategori: Kartvizitlik  
-
-Özellikler:
-
-Şık ve Profesyonel Tasarım  
-Kompakt ve Taşınabilir  
-Günlük Kullanıma Uygun  
-Geniş Baskı Alanı  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon kartvizitlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-İş dünyasına yönelik hediyeler  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Şirket hediyeleri  
-`
+  image: "/products/promosyon-kartvizitlik-kv-120-v2.jpg",
+  shortDesc: "KV-120; 62 x 96 mm kartvizitlik, kırmızı renk ve lazer baskı seçeneğiyle sunulur. Baskı alanı 50 x 7 mm’dir.",
+  longDesc: "Kırmızı KV-120 kartvizitlik, 50 x 7 mm lazer baskı alanıyla logo veya marka adının uygulanabileceği bir kurumsal hediye seçeneğidir. 62 x 96 mm ürün ölçüsü, baskı alanından ayrı olarak belirtilmiştir.\n\nTEKNİK ÖZELLİKLER\nModel: KV-120\nÜrün: Kartvizitlik\nÖlçü: 62 x 96 mm\nBaskı: Lazer Baskı\nBaskı Alanı: 50 x 7 mm\nKoli / Kutu: 1000 / 50\n\nLOGO UYGULAMASI\nLazer uygulaması 50 x 7 mm alanda planlanır. İnce ayrıntılar ve logo okunabilirliği tasarım onayında değerlendirilir.\n\nRENK SEÇENEKLERİ\nKırmızı\nRenklerin stok durumu sipariş sırasında kontrol edilir.\n\nSİPARİŞ BİLGİSİ\nListe fiyatı baskı hariç ve KDV ilavesiyle değerlendirilir. Logo uygulaması, sipariş adedi ve teslim planına göre nihai teklif hazırlanır. Minimum sipariş miktarı ve teslim süresi teklif aşamasında belirtilir. Koli / kutu adedi verilen modellerde bu adetler minimum sipariş koşulu anlamına gelmez. Görsellerdeki logolar uygulama örneğidir.",
+  price: 210,
+  faq: [{"q":"KV-120 nasıl bir üründür?","a":"KV-120; 62 x 96 mm kartvizitlik, kırmızı renk ve lazer baskı seçeneğiyle sunulur. Baskı alanı 50 x 7 mm’dir."},{"q":"KV-120 ürün ölçüsü nedir?","a":"KV-120 ölçüsü 62 x 96 mm’dir."},{"q":"KV-120 baskı alanı ve yöntemi nedir?","a":"Tedarikçi lazer baskı ve 50 x 7 mm baskı alanı belirtir."},{"q":"KV-120 hangi renklerde sunulur?","a":"Kırmızı Stok durumu sipariş öncesinde kontrol edilir."},{"q":"KV-120 fiyatına baskı dahil midir?","a":"Liste fiyatı baskı hariçtir ve KDV ayrıca eklenir. Logo uygulaması için tasarıma ve sipariş adedine göre teklif hazırlanır."},{"q":"KV-120 minimum sipariş ve teslim süresi nedir?","a":"Sabit bir minimum sipariş veya teslim süresi belirtilmez. Bu bilgiler adet, stok ve logo uygulamasına göre teklif aşamasında paylaşılır."}]
 },
 {
   id: "p311",
