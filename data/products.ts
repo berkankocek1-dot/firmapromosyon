@@ -10226,57 +10226,12 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
   id: "p128",
   slug: "promosyon-sekreterlik-23x31-sb-100",
   title: "Promosyon Sekreterlik SB-100 | Logo Baskılı Termo Deri Evrak Sekreterliği",
-
+  price: 350,
   category: "Sekreterlikler ve Evrak Çantaları",
-
-  image: "/products/promosyon-sekreterlik-sb-100.jpg",
-
-  shortDesc:
-    "Promosyon sekreterlik SB-100 modeli termo deri kapak tasarımı, bloknot bölmesi ve hesap makinesi özelliği ile kurumsal toplantılar ve ofis kullanımı için tercih edilen promosyon sekreterlik ve evrak organizer ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon sekreterlik SB-100 modeli kurumsal firmalar tarafından tercih edilen kullanışlı ofis promosyon ürünleri arasında yer almaktadır. Termo deri kapak tasarımı sayesinde hem şık bir görünüm sunar hem de uzun süreli kullanım sağlar.
-
-Promosyon sekreterlik ürünleri özellikle toplantılarda, sunumlarda ve ofis çalışmalarında evrak düzeni sağlamak için kullanılan pratik promosyon ürünleridir. İç kısmında bulunan bloknot bölmesi sayesinde not almak kolaylaşır.
-
-SB-100 modeli içerisinde hesap makinesi bölmesi bulunur. Bu özellik özellikle ofis ve iş dünyasında çalışan kişiler için ürünü daha fonksiyonel hale getirir.
-
-Promosyon sekreterlik üzerine firmanıza ait logo veya marka baskısı gofre baskı veya dijital baskı yöntemleri ile uygulanabilir. Bu sayede ürün hem kullanışlı bir ofis ürünü hem de güçlü bir kurumsal tanıtım aracı haline gelir.
-
-Sekreterlik ve evrak çantası ürünleri özellikle bankalar, finans kurumları, danışmanlık firmaları, holdingler ve kurumsal işletmeler tarafından sık tercih edilen promosyon ürünleri arasında yer almaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Sekreterlik  
-Kategori: Sekreterlikler ve Evrak Çantaları  
-Ürün Ölçüsü: 23 x 31 cm  
-Kapak Malzemesi: Termo Deri  
-
-ÜRÜN İÇERİĞİ
-
-Bloknot  
-Hesap Makinesi  
-Kalem Bölmesi (Kalem aksesuardır)  
-
-BASKI BİLGİLERİ
-
-Baskı Türleri: Gofre Baskı / Dijital Baskı  
-Logo Baskı: Kurumsal logo baskıya uygundur  
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Toplantı ve sunum sekreterlikleri  
-Ofis evrak düzenleyicileri  
-Kurumsal hediye ürünleri  
-Yönetici ve ofis promosyonları  
-
-RENK VE STOK BİLGİSİ
-
-Promosyon sekreterlik ürünleri farklı kapak renkleri ve üretim seçenekleri ile hazırlanabilmektedir. Sipariş öncesinde stok bilgisi alınması önerilmektedir.
-
-Promosyon sekreterlik siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
-`
+  image: "/products/promosyon-sekreterlik-sb-100-v2.jpg",
+  shortDesc: "Promosyon sekreterlik SB-100; 24 x 31,5 cm ölçüsü, termo deri kapağı, planlayıcısı ve kalem tutucusuyla toplantı ve ofis kullanımına uygundur. Gofre ve UV baskı seçenekleri bulunur; karton kılıfla sunulur.",
+  longDesc: "Promosyon sekreterlik SB-100; 24 x 31,5 cm ölçüsü, termo deri kapağı, planlayıcısı ve kalem tutucusuyla toplantı ve ofis kullanımına uygundur. Gofre ve UV baskı seçenekleri bulunur; karton kılıfla sunulur.\n\nTermo deri kapak içerisinde planlayıcı ve kalem tutucu bulunur. Planlayıcı toplantı notlarının ve iş takibinin aynı yerde tutulmasına yardımcı olur. Planlayıcı ve kalem tutucu, notların ve yazı araçlarının aynı yerde tutulmasını kolaylaştırır.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Kodu: SB-100\nÖlçü: 24 x 31,5 cm\nKapak: Termo Deri\nKalem Tutucu: Var\nPlanlayıcı: Var\nAmbalaj: Karton Kılıf\nBaskı: Gofre, UV\nRenkler: Lacivert, Siyah, Kırmızı\n\nLOGO BASKISI\n\nGofre ve UV baskı seçenekleri belirtilmiştir. Logo uygulamasının yeri, boyutu ve bedeli tasarıma göre teklif aşamasında netleştirilir.\n\nRENK VE STOK BİLGİSİ\n\nLacivert, siyah ve kırmızı renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teyit edilir.\n\nKULLANIM ALANLARI\n\nToplantılar, eğitimler, ofis çalışmaları, saha ziyaretleri ve kurumsal hediye organizasyonlarında kullanılabilir. Tercih edilen model, taşınacak evrakların ölçüsü ve kullanım ihtiyacına göre seçilir.\n\nSİPARİŞ BİLGİSİ\n\nKurumsal toplu sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, baskı bedeli, minimum sipariş adedi ve teslim süresi teklif aşamasında teyit edilir. Listelenen ürün fiyatı baskı ve KDV hariçtir. Görsellerdeki aksesuarların ürünle birlikte verilip verilmediği sipariş öncesinde netleştirilir.",
+  faq: [{"q":"SB-100 sekreterliğin ölçüsü nedir?","a":"Güncel modelin ölçüsü 24 x 31,5 cm olarak belirtilmiştir."},{"q":"SB-100 hangi özelliklere sahiptir?","a":"Termo deri kapak, kalem tutucu ve planlayıcı bulunur. Ürün karton kılıfla sunulur."},{"q":"SB-100 üzerine hangi baskı uygulanabilir?","a":"Gofre ve UV baskı seçenekleri bulunur. Uygulama alanı ve bedeli teklif aşamasında belirlenir."},{"q":"SB-100 hangi renklerde sunulur?","a":"Lacivert, siyah ve kırmızı renk seçenekleri listelenmektedir. Güncel stok teyit edilir."},{"q":"SB-100 kalemle birlikte mi sunulur?","a":"Üründe kalem tutucu bulunmaktadır. Kalemin sete dahil olup olmadığı sipariş öncesinde teyit edilir."},{"q":"Toplu logo baskılı sekreterlik siparişi verilebilir mi?","a":"Kurumsal toplu sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, baskı bedeli, minimum sipariş adedi ve teslim süresi teklif aşamasında teyit edilir."}]
 },
 {
   id: "p129",
@@ -54969,6 +54924,51 @@ Promosyon Seramik Kupa 275 ml SK-110 modeli; kaliteli seramik gövdesi, süblima
       "a": "Gösterilen ürün fiyatı baskı ve KDV hariçtir. Baskı bedeli tasarıma, uygulama yöntemine ve sipariş adedine göre ayrıca hesaplanır."
     }
   ]
+},
+
+{
+  id: "p696",
+  slug: "promosyon-evrak-cantasi-ec-100",
+  title: "Promosyon Evrak Çantası EÇ-100 | 27x33x10 cm Logo Baskılı Evrak Çantası",
+  price: 660,
+  category: "Sekreterlikler ve Evrak Çantaları",
+  image: "/products/promosyon-evrak-cantasi-ec-100-v2.jpg",
+  shortDesc: "Promosyon evrak çantası EÇ-100; 27 x 33 x 10 cm ölçüsü, siyah rengi ve sıcak baskı seçeneğiyle iş görüşmeleri ve kurumsal evrak taşımada değerlendirilebilir. Belirtilen baskı alanı 6,5 x 55 mm’dir.",
+  longDesc: "Promosyon evrak çantası EÇ-100; 27 x 33 x 10 cm ölçüsü, siyah rengi ve sıcak baskı seçeneğiyle iş görüşmeleri ve kurumsal evrak taşımada değerlendirilebilir. Belirtilen baskı alanı 6,5 x 55 mm’dir.\n\nSaplı ve kapaklı tasarımı ürün görselinde görülmektedir. İş görüşmelerinde, saha ziyaretlerinde ve günlük ofis çalışmalarında belgelerin bir arada taşınması için değerlendirilebilir. Taşınacak dosyaların ölçüsü ve iç yerleşim ihtiyacı sipariş öncesinde teyit edilir.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Kodu: EÇ-100\nÖlçü: 270 x 330 x 100 mm (27 x 33 x 10 cm)\nRenk: Siyah\nBaskı: Sıcak Baskı\nBaskı Alanı: 6,5 x 55 mm; uygulama alanı sipariş öncesinde teyit edilir.\n\nLOGO BASKISI\n\nSıcak baskı seçeneği belirtilmiştir. Baskı alanı 6,5 x 55 mm olarak listelenmektedir; logo ölçüsü ve uygulanabilir alan teklif aşamasında teyit edilir.\n\nRENK VE STOK BİLGİSİ\n\nSiyah renk listelenmektedir. Güncel stok ve teslim süresi teklif aşamasında paylaşılır.\n\nKULLANIM ALANLARI\n\nToplantılar, eğitimler, ofis çalışmaları, saha ziyaretleri ve kurumsal hediye organizasyonlarında kullanılabilir. Tercih edilen model, taşınacak evrakların ölçüsü ve kullanım ihtiyacına göre seçilir.\n\nSİPARİŞ BİLGİSİ\n\nKurumsal toplu sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, baskı bedeli, minimum sipariş adedi ve teslim süresi teklif aşamasında teyit edilir. Listelenen ürün fiyatı baskı ve KDV hariçtir. Görsellerdeki aksesuarların ürünle birlikte verilip verilmediği sipariş öncesinde netleştirilir.",
+  faq: [{"q":"EÇ-100 evrak çantasının ölçüleri nedir?","a":"Ölçüleri 270 x 330 x 100 mm, yani 27 x 33 x 10 cm olarak belirtilmiştir."},{"q":"EÇ-100 üzerine hangi baskı uygulanabilir?","a":"Sıcak baskı seçeneği belirtilmiştir. Logo ve uygulama alanı teklif aşamasında teyit edilir."},{"q":"EÇ-100 baskı alanı ne kadardır?","a":"Baskı alanı 6,5 x 55 mm olarak listelenmiştir. Logo dosyasına göre uygunluk sipariş öncesinde teyit edilir."},{"q":"Hangi renk seçeneği bulunmaktadır?","a":"Siyah renk listelenmektedir. Güncel stok ve siparişe uygunluk teyit edilir."},{"q":"EÇ-100 hangi kullanım alanları için uygundur?","a":"İş görüşmeleri, saha ziyaretleri ve ofis evraklarının taşınması için değerlendirilebilir. Dosya ve evrak ölçülerine göre uygunluk teyit edilir."},{"q":"Toplu logo baskılı evrak çantası siparişi verilebilir mi?","a":"Kurumsal toplu sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, baskı bedeli, minimum sipariş adedi ve teslim süresi teklif aşamasında teyit edilir."}]
+},
+{
+  id: "p697",
+  slug: "promosyon-sekreterlik-sb-110",
+  title: "Promosyon Sekreterlik SB-110 | 24,5x31,5 cm Termo Deri Planlayıcılı Sekreterlik",
+  price: 350,
+  category: "Sekreterlikler ve Evrak Çantaları",
+  image: "/products/promosyon-sekreterlik-sb-110-v2.jpg",
+  shortDesc: "Promosyon sekreterlik SB-110; 24,5 x 31,5 cm ölçüsü, termo deri kapağı, planlayıcısı ve kalem tutucusuyla kurumsal toplantılarda kullanılabilir. Gofre ve UV baskıya uygundur; karton kılıfla sunulur.",
+  longDesc: "Promosyon sekreterlik SB-110; 24,5 x 31,5 cm ölçüsü, termo deri kapağı, planlayıcısı ve kalem tutucusuyla kurumsal toplantılarda kullanılabilir. Gofre ve UV baskıya uygundur; karton kılıfla sunulur.\n\nTermo deri kapak, planlayıcı ve kalem tutucuyu bir araya getirir. Toplantı notları ve günlük iş takibi için ofis çalışanları, yöneticiler ve saha ekipleri tarafından kullanılabilir. Kalem tutucu bulunması, kalemin ürünle birlikte verildiği anlamına gelmez; set içeriği sipariş öncesinde teyit edilir.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Kodu: SB-110\nÖlçü: 24,5 x 31,5 cm\nKapak: Termo Deri\nKalem Tutucu: Var\nPlanlayıcı: Var\nAmbalaj: Karton Kılıf\nBaskı: Gofre, UV\nRenkler: Kırmızı, Siyah, Lacivert\n\nLOGO BASKISI\n\nGofre ve UV baskı seçenekleri belirtilmiştir. Logo uygulamasının yeri, boyutu ve bedeli tasarıma göre teklif aşamasında netleştirilir.\n\nRENK VE STOK BİLGİSİ\n\nKırmızı, siyah ve lacivert renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teyit edilir.\n\nKULLANIM ALANLARI\n\nToplantılar, eğitimler, ofis çalışmaları, saha ziyaretleri ve kurumsal hediye organizasyonlarında kullanılabilir. Tercih edilen model, taşınacak evrakların ölçüsü ve kullanım ihtiyacına göre seçilir.\n\nSİPARİŞ BİLGİSİ\n\nKurumsal toplu sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, baskı bedeli, minimum sipariş adedi ve teslim süresi teklif aşamasında teyit edilir. Listelenen ürün fiyatı baskı ve KDV hariçtir. Görsellerdeki aksesuarların ürünle birlikte verilip verilmediği sipariş öncesinde netleştirilir.",
+  faq: [{"q":"SB-110 sekreterliğin ölçüsü nedir?","a":"Ölçüsü 24,5 x 31,5 cm olarak belirtilmiştir."},{"q":"SB-110 planlayıcı ve kalem tutucu içerir mi?","a":"Evet. Termo deri kapak, planlayıcı ve kalem tutucu özellikleri belirtilmektedir. Kalemin sete dahil olup olmadığı ayrıca teyit edilir."},{"q":"SB-110 üzerine hangi baskı uygulanabilir?","a":"Gofre ve UV baskı seçenekleri bulunur. Uygulama alanı ve bedeli teklif aşamasında belirlenir."},{"q":"SB-110 hangi renklerde sunulur?","a":"Kırmızı, siyah ve lacivert renk seçenekleri listelenmektedir. Güncel stok teyit edilir."},{"q":"SB-110 nasıl ambalajlanır?","a":"Ürün karton kılıflı olarak belirtilmiştir."},{"q":"Toplu logo baskılı sekreterlik siparişi verilebilir mi?","a":"Kurumsal toplu sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, baskı bedeli, minimum sipariş adedi ve teslim süresi teklif aşamasında teyit edilir."}]
+},
+{
+  id: "p698",
+  slug: "promosyon-sekreterlik-sb-120",
+  title: "Promosyon Sekreterlik SB-120 | A4 Hesap Makineli Toplantı Bloknotu",
+  price: 1980,
+  category: "Sekreterlikler ve Evrak Çantaları",
+  image: "/products/promosyon-sekreterlik-sb-120-v2.jpg",
+  shortDesc: "Promosyon sekreterlik SB-120; A4 boy toplantı bloknotu, hesap makinesi, kartvizit bölmesi, kalem takma yeri ve evrak-tablet bölmesiyle toplantı ve iş görüşmelerinde kullanılabilir. Karton kutuyla sunulur.",
+  longDesc: "Promosyon sekreterlik SB-120; A4 boy toplantı bloknotu, hesap makinesi, kartvizit bölmesi, kalem takma yeri ve evrak-tablet bölmesiyle toplantı ve iş görüşmelerinde kullanılabilir. Karton kutuyla sunulur.\n\nA4 boy toplantı bloknotuna ek olarak hesap makinesi, kartvizit bölmesi ve kalem takma yeri bulunur. Evrak-tablet bölmesi ürünün belgelerle birlikte kullanılmasını destekler. Tablet uyumluluğu cihaz ve kılıf ölçülerine bağlı olduğundan sipariş öncesinde teyit edilir. Belirtilen 21 x 29,7 cm ölçüsü A4 formatını ifade eder.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Kodu: SB-120\nFormat: A4 Boy Toplantı Bloknotu (21 x 29,7 cm)\nBölmeler: Kartvizit, Kalem Takma Yeri, Evrak-Tablet Bölmesi\nHesap Makinesi: Var\nAmbalaj: Karton Kutu\n\nLOGO BASKISI\n\nÜrüne uygulanabilecek baskı yöntemi, logo alanı ve baskı bedeli teklif aşamasında teyit edilir.\n\nRENK VE STOK BİLGİSİ\n\nÜrün görselinde siyah model yer alır. Güncel renk, stok ve set içeriği sipariş öncesinde teyit edilir.\n\nKULLANIM ALANLARI\n\nToplantılar, eğitimler, ofis çalışmaları, saha ziyaretleri ve kurumsal hediye organizasyonlarında kullanılabilir. Tercih edilen model, taşınacak evrakların ölçüsü ve kullanım ihtiyacına göre seçilir.\n\nSİPARİŞ BİLGİSİ\n\nKurumsal toplu sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, baskı bedeli, minimum sipariş adedi ve teslim süresi teklif aşamasında teyit edilir. Listelenen ürün fiyatı baskı ve KDV hariçtir. Görsellerdeki aksesuarların ürünle birlikte verilip verilmediği sipariş öncesinde netleştirilir.",
+  faq: [{"q":"SB-120 hangi boyuttadır?","a":"A4 boy toplantı bloknotu olarak belirtilmiştir. Ürün başlığındaki 21 x 29,7 cm A4 formatını ifade eder."},{"q":"SB-120 hesap makinesi içerir mi?","a":"Evet. Hesap makinesi ürün özellikleri arasında belirtilmiştir."},{"q":"SB-120 içerisinde hangi bölmeler bulunur?","a":"Kartvizit bölmesi, kalem takma yeri ve evrak-tablet bölmesi bulunmaktadır. Tablet uyumluluğu cihaz ve kılıf ölçülerine göre teyit edilir."},{"q":"SB-120 kutulu mudur?","a":"Evet. Ürün karton kutulu olarak belirtilmiştir."},{"q":"SB-120 üzerine logo uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir."},{"q":"Toplu toplantı bloknotu siparişi verilebilir mi?","a":"Kurumsal toplu sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, baskı bedeli, minimum sipariş adedi ve teslim süresi teklif aşamasında teyit edilir."}]
+},
+{
+  id: "p699",
+  slug: "promosyon-sekreterlik-sb-130",
+  title: "Promosyon Sekreterlik SB-130 | 15x21 cm Suni Deri Toplantı Bloknotu",
+  price: 215,
+  category: "Sekreterlikler ve Evrak Çantaları",
+  image: "/products/promosyon-sekreterlik-sb-130-v2.jpg",
+  shortDesc: "Promosyon sekreterlik SB-130; 15 x 21 cm yuvarlak köşeli suni deri kapağa ve 13 x 20 cm iç bloğa sahiptir. I. hamur 70 gr kağıt kullanılır. Sıcak, UV, serigrafi ve lazer baskı seçenekleri bulunur.",
+  longDesc: "Promosyon sekreterlik SB-130; 15 x 21 cm yuvarlak köşeli suni deri kapağa ve 13 x 20 cm iç bloğa sahiptir. I. hamur 70 gr kağıt kullanılır. Sıcak, UV, serigrafi ve lazer baskı seçenekleri bulunur.\n\nSuni deri kapak ve yuvarlak köşe tasarımıyla toplantı, eğitim ve günlük not alma çalışmalarında değerlendirilebilir. Kapak ölçüsü 15 x 21 cm, iç blok ölçüsü 13 x 20 cm’dir. İç blokta I. hamur 70 gr kağıt kullanılır. Sayfa adedi ve çizgili ya da düz sayfa düzeni sipariş öncesinde teyit edilir.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Kodu: SB-130\nKapak Ölçüsü: 15 x 21 cm\nKapak: Suni Deri, Yuvarlak Köşe\nİç Blok Ölçüsü: 13 x 20 cm\nKağıt: I. Hamur 70 gr\nBaskı: Sıcak, UV, Serigrafi, Lazer\nRenk: Siyah\n\nLOGO BASKISI\n\nSıcak, UV, serigrafi ve lazer baskı seçenekleri belirtilmiştir. Uygun yöntem, logo tasarımı ve uygulama alanına göre teklif aşamasında belirlenir.\n\nRENK VE STOK BİLGİSİ\n\nSiyah renk listelenmektedir. Güncel stok ve teslim süresi teklif aşamasında paylaşılır.\n\nKULLANIM ALANLARI\n\nToplantılar, eğitimler, ofis çalışmaları, saha ziyaretleri ve kurumsal hediye organizasyonlarında kullanılabilir. Tercih edilen model, taşınacak evrakların ölçüsü ve kullanım ihtiyacına göre seçilir.\n\nSİPARİŞ BİLGİSİ\n\nKurumsal toplu sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, baskı bedeli, minimum sipariş adedi ve teslim süresi teklif aşamasında teyit edilir. Listelenen ürün fiyatı baskı ve KDV hariçtir. Görsellerdeki aksesuarların ürünle birlikte verilip verilmediği sipariş öncesinde netleştirilir.",
+  faq: [{"q":"SB-130 kapak ve iç blok ölçüleri nedir?","a":"Kapak 15 x 21 cm, iç blok 13 x 20 cm ölçüsündedir."},{"q":"SB-130 hangi kağıdı kullanır?","a":"I. hamur 70 gr kağıt belirtilmektedir. Sayfa adedi ve sayfa düzeni sipariş öncesinde teyit edilir."},{"q":"SB-130 kapak malzemesi nedir?","a":"Yuvarlak köşeli suni deri kapak belirtilmektedir."},{"q":"SB-130 üzerine hangi baskılar uygulanabilir?","a":"Sıcak, UV, serigrafi ve lazer baskı seçenekleri belirtilmiştir. Uygulama alanı ve bedeli teklif aşamasında belirlenir."},{"q":"SB-130 hangi renkte sunulur?","a":"Siyah renk listelenmektedir. Güncel stok ve siparişe uygunluk teyit edilir."},{"q":"Toplu logo baskılı toplantı bloknotu siparişi verilebilir mi?","a":"Kurumsal toplu sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, baskı bedeli, minimum sipariş adedi ve teslim süresi teklif aşamasında teyit edilir."}]
 },
 ];
 
