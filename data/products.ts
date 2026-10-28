@@ -10445,123 +10445,13 @@ Promosyon cetvel CT-200; 15 cm ölçüm kapasitesi, kompakt plastik yapısı ve 
 },
 {
   id: "p134",
-
   slug: "promosyon-ham-bez-canta-hbc-150",
-
-  title:
-    "Promosyon Ham Bez Çanta HBÇ-150 | Logo Baskılı 140 gr Ham Bez Alışveriş Çantası",
-
+  title: "Promosyon Ham Bez Çanta HBÇ-150 | 35 x 40 cm, 140 gr",
   category: "Ham Bez & Tela Çanta",
-
   image: "/products/promosyon-ham-bez-canta-hbc-150.jpg",
-
-  shortDesc:
-    "Promosyon ham bez çanta HBÇ-150, 35 x 40 cm ölçüsü, 140 gr doğal ham bez kumaşı, uzun askıları ve logo baskıya uygun yapısıyla fuarlar, mağazalar ve kurumsal etkinlikler için tercih edilen çevre dostu promosyon çanta modelidir.",
-
-  longDesc: `
-Promosyon ham bez çanta HBÇ-150, çevre dostu yapısı, dayanıklı kumaşı ve uzun ömürlü kullanımıyla markaların en çok tercih ettiği promosyon çanta modellerinden biridir. Tekrar kullanılabilir yapısı sayesinde hem sürdürülebilir tüketimi destekler hem de markanızın uzun süre görünür olmasını sağlayan etkili bir reklam ürünü olarak öne çıkar.
-
-35 x 40 cm ölçülerinde üretilen HBÇ-150 modeli günlük kullanım için ideal hacme sahiptir. Alışverişte, fuarlarda, eğitim organizasyonlarında, seminerlerde ve kurumsal etkinliklerde rahatlıkla kullanılabilir.
-
-42 tel doğal ham bez kumaştan üretilen ürün 140 gram kumaş gramajına sahiptir. Sağlam yapısı sayesinde uzun süre formunu korur ve tekrar kullanılabilir özelliği ile plastik poşet kullanımını azaltmaya yardımcı olur.
-
-70 cm uzunluğundaki omuz askıları taşıma kolaylığı sağlarken kullanıcıya konforlu bir kullanım sunmaktadır. Hafif yapısı sayesinde katlanarak çanta içerisinde kolayca taşınabilir.
-
-Ürün üzerine firmanıza ait logo, slogan veya kurumsal tasarımlar ofset dijital baskı, DTF transfer baskı ve uygun diğer baskı teknikleriyle uygulanabilmektedir. Kaliteli baskı yüzeyi sayesinde marka görünürlüğü uzun yıllar korunmaktadır.
-
-Promosyon ham bez çanta modelleri; belediyeler, üniversiteler, kamu kurumları, market zincirleri, mağazalar, kozmetik firmaları, reklam ajansları, fuar organizasyonları ve kurumsal işletmeler tarafından çevre dostu promosyon ürünü olarak yoğun şekilde tercih edilmektedir.
-
-NEDEN PROMOSYON HAM BEZ ÇANTA HBÇ-150 TERCİH EDİLMELİ?
-
-• 35 x 40 cm ideal kullanım ölçüsü
-• 140 gr doğal ham bez kumaş
-• 42 tel kaliteli kumaş yapısı
-• 70 cm uzun omuz askısı
-• Tekrar kullanılabilir çevre dostu tasarım
-• Logo baskıya uygun geniş yüzey
-• Dayanıklı ve uzun ömürlü kullanım
-• Hafif ve taşınabilir yapı
-• Kurumsal promosyonlar için uygundur
-• Marka görünürlüğünü uzun süre artırır
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Fuar ve organizasyonlar
-• Mağaza alışveriş çantası
-• Market alışverişi
-• Eğitim kurumları
-• Belediyeler
-• Seminer ve kongre organizasyonları
-• Reklam kampanyaları
-• Çevre dostu marka projeleri
-• Günlük kullanım
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Belediyeler
-• Üniversiteler
-• Reklam ajansları
-• Market zincirleri
-• Tekstil markaları
-• Kozmetik firmaları
-• Çevre dostu promosyon ürünleri tercih eden işletmeler
-
-PROMOSYON HAM BEZ ÇANTA FİYATLARI
-
-Promosyon ham bez çanta fiyatları; sipariş miktarı, baskı uygulaması, kumaş özellikleri ve üretim planlamasına göre değişiklik gösterebilir. Kurumsal toplu siparişlerde özel fiyat avantajları ve teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskısı uygulanabilmektedir.
-• Ofset dijital baskı ve DTF transfer baskı seçenekleri bulunmaktadır.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-• Toplu siparişlerde özel fiyat teklifleri sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Ham Bez Çanta
-Model: HBÇ-150
-Kategori: Ham Bez & Tela Çanta
-Ölçü: 35 x 40 cm
-Kulp Uzunluğu: 70 cm
-Kumaş Türü: 42 Tel Ham Bez
-Gramaj: 140 gr
-Baskı Türü: Ofset Dijital Baskı, DTF Transfer Baskı
-Kullanım Alanı: Fuar, Mağaza ve Kurumsal Promosyon
-
-Promosyon ham bez çanta HBÇ-150, 140 gr doğal ham bez kumaşı, 70 cm uzun omuz askıları ve logo baskıya uygun geniş yüzeyiyle fuarlar, mağazalar ve kurumsal etkinliklerde tercih edilen çevre dostu promosyon çanta modellerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon ham bez çanta HBÇ-150 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo ve tasarımlar ofset dijital baskı veya DTF transfer baskı teknikleriyle uygulanabilmektedir.",
-    },
-    {
-      q: "HBÇ-150 hangi kumaştan üretilmektedir?",
-      a: "Model 42 tel doğal ham bez kumaştan üretilmekte olup 140 gr kumaş gramajına sahiptir.",
-    },
-    {
-      q: "Ham bez çanta tekrar kullanılabilir mi?",
-      a: "Evet. Dayanıklı yapısı sayesinde uzun süre tekrar kullanılabilir ve çevre dostu bir alternatif sunar.",
-    },
-    {
-      q: "Çanta hangi ölçüdedir?",
-      a: "HBÇ-150 modeli 35 x 40 cm ölçülerine ve 70 cm omuz askısına sahiptir.",
-    },
-    {
-      q: "Hangi sektörler için uygundur?",
-      a: "Fuarlar, mağazalar, belediyeler, üniversiteler, marketler, kozmetik firmaları ve kurumsal organizasyonlar için ideal bir promosyon ürünüdür.",
-    },
-    {
-      q: "Toplu siparişlerde özel fiyat uygulanıyor mu?",
-      a: "Evet. Sipariş miktarına göre kurumsal firmalara özel fiyat teklifleri hazırlanmaktadır.",
-    },
-  ],
+  shortDesc: "HBÇ-150; 35 x 40 cm ölçüsünde, 42 tel ve 140 gr ham bez çantadır. 70 cm askısı bulunur; ofset dijital ve DTF transfer baskıya uygundur.",
+  longDesc: "Promosyon ham bez çanta HBÇ-150, 35 x 40 cm gövdesi ve 70 cm askısıyla fuar materyallerini, katalogları ve mağaza ürünlerini taşımak için kullanılabilir. Firma logosu veya etkinlik tasarımıyla kişiselleştirilebilen model, tekrar kullanılabilecek bir kurumsal dağıtım çantası seçeneğidir.\n\n42 tel ham bez kumaş ve 140 gr gramaj bilgisiyle sunulan HBÇ-150 için ofset dijital baskı ve DTF transfer baskı seçenekleri bulunur. Logo boyutu, renkler ve uygulama konumu tasarıma göre belirlenir; çantanın dış ölçüsü doğrudan baskı alanı olarak değerlendirilmez.\n\nTEKNİK ÖZELLİKLER\nModel: HBÇ-150\nÜrün Tipi: Ham Bez Çanta\nÖlçü: 35 x 40 cm\nKulp / Askı Boyu: 70 cm\nKumaş: 42 Tel Ham Bez\nGramaj: 140 gr\nBaskı: Ofset Dijital, DTF Transfer\n\nKULLANIM ALANLARI\nFuar katılımcı çantası, seminer materyali dağıtımı, mağaza kampanyaları ve kurumsal etkinlikler için değerlendirilebilir. İçerik ve taşıma ihtiyacına göre uygunluğu sipariş sırasında belirlenir.\n\nSİPARİŞ VE FİYAT\nSayısal bir liste fiyatı bulunmaz; sipariş adedi, logo ve baskı ayrıntılarına göre teklif hazırlanır. Minimum sipariş miktarı, stok ve teslim süresi teklif aşamasında paylaşılır. HBÇ-150 için doğrulanmış sabit bir minimum adet belirtilmediğinden tela çantanın minimum sipariş koşulu bu ürüne uygulanmaz.\n\nGörseldeki baskı örnek niteliğindedir. Tasarım ve baskı kapsamı sipariş onayından önce netleştirilir.",
+  faq: [{"q":"Promosyon ham bez çanta HBÇ-150 üzerine logo baskısı yapılabilir mi?","a":"Evet. HBÇ-150 için ofset dijital ve DTF transfer baskı seçenekleri bulunur. Logo boyutu ve konumu tasarım çalışmasında belirlenir."},{"q":"HBÇ-150 hangi kumaştan üretilmektedir?","a":"HBÇ-150, 42 tel ham bez kumaş ve 140 gr gramaj bilgisiyle sunulur."},{"q":"Ham bez çanta tekrar kullanılabilir mi?","a":"Çanta tekrar kullanım için değerlendirilebilir. Kullanım ömrü taşınan yük ve bakım koşullarına bağlıdır."},{"q":"Çanta hangi ölçüdedir?","a":"Çantanın gövde ölçüsü 35 x 40 cm, kulp / askı boyu 70 cm’dir. Bu ölçüler baskı alanı ölçüsü değildir."},{"q":"Hangi sektörler için uygundur?","a":"Mağazalar, eğitim kurumları, fuar katılımcıları ve kurumsal etkinlik düzenleyen işletmeler için değerlendirilebilir."},{"q":"Toplu siparişlerde özel fiyat uygulanıyor mu?","a":"Sipariş adedi ve baskı ayrıntılarına göre teklif hazırlanır. Minimum adet ve teslim süresi teklif aşamasında paylaşılır."}]
 },
 {
   id: "p135",
@@ -25850,123 +25740,13 @@ Promosyon deri bardak altlığı seti MS-195 modeli; kaliteli suni deri yapısı
 },
 {
   id: "p328",
-
   slug: "promosyon-tela-canta-tc-100",
-
-  title:
-    "Promosyon Tela Çanta TÇ-100 | Logo Baskılı Nonwoven Promosyon Çanta",
-
+  title: "Promosyon Tela Çanta TÇ-100 | 100 gr, Dijital Baskılı",
   category: "Ham Bez & Tela Çanta",
-
   image: "/products/promosyon-tela-canta-tc-100.jpg",
-
-  shortDesc:
-    "Promosyon tela çanta TÇ-100, 100 gr nonwoven kumaşı, geniş logo baskı alanı ve tekrar kullanılabilir yapısıyla fuarlar, mağazalar ve kurumsal promosyon çalışmaları için üretilen ekonomik promosyon çanta modelidir.",
-
-  longDesc: `
-Promosyon tela çanta TÇ-100, hafif yapısı, dayanıklı nonwoven kumaşı ve ekonomik üretim avantajıyla toplu promosyon dağıtımlarında en çok tercih edilen promosyon çanta modellerinden biridir. Geniş baskı alanı sayesinde markaların reklam ve tanıtım çalışmalarında uzun süre kullanılan etkili bir promosyon ürünüdür.
-
-100 gr nonwoven tela kumaştan üretilen ürün hafif olmasına rağmen günlük kullanım için yeterli dayanıklılığı sunmaktadır. Tekrar kullanılabilir yapısı sayesinde plastik poşet kullanımını azaltmaya yardımcı olur ve çevre dostu promosyon ürünleri arasında yer almaktadır.
-
-25 x 35 x 8 cm ölçüleri mağaza alışverişleri, fuar dağıtımları, katalog taşımaları ve kurumsal etkinliklerde rahat kullanım sağlamaktadır. Geniş iç hacmi sayesinde birçok farklı ürün güvenli şekilde taşınabilir.
-
-Tela çantanın geniş ön yüzeyi firma logosu, sloganı veya kurumsal tasarımlar için ideal baskı alanı sunmaktadır. Dijital baskı ve uygun diğer baskı teknikleriyle hazırlanan tasarımlar markanızın uzun süre görünür olmasına katkı sağlar.
-
-Ekonomik üretim maliyeti sayesinde yüksek adetli promosyon kampanyalarında tercih edilen modeller arasında yer almaktadır. Özellikle fuarlar, seminerler, mağaza açılışları ve kurumsal organizasyonlarda dağıtım çantası olarak yaygın şekilde kullanılmaktadır.
-
-Promosyon tela çanta modelleri; market zincirleri, mağazalar, belediyeler, üniversiteler, eğitim kurumları, reklam ajansları, fuar organizasyonları ve kurumsal işletmeler tarafından yoğun olarak tercih edilmektedir.
-
-NEDEN PROMOSYON TELA ÇANTA TÇ-100 TERCİH EDİLMELİ?
-
-• 100 gr nonwoven tela kumaş
-• Hafif ve dayanıklı yapı
-• Tekrar kullanılabilir tasarım
-• Geniş logo baskı alanı
-• Dijital baskıya uygundur
-• Çevre dostu kullanım
-• Ekonomik promosyon çözümü
-• Toplu üretime uygundur
-• Kurumsal marka görünürlüğünü artırır
-• Günlük kullanıma uygundur
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Fuar ve organizasyonlar
-• Market ve mağaza alışverişleri
-• Eğitim kurumları
-• Belediyeler
-• Seminer ve kongre organizasyonları
-• Reklam kampanyaları
-• Ürün lansmanları
-• Kurumsal etkinlikler
-• Günlük kullanım
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Market zincirleri
-• Mağazalar
-• Belediyeler
-• Üniversiteler
-• Reklam ajansları
-• Organizasyon firmaları
-• Promosyon ürünleri satın alan işletmeler
-
-PROMOSYON TELA ÇANTA FİYATLARI
-
-Promosyon tela çanta fiyatları; sipariş miktarı, baskı uygulaması, kumaş gramajı ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları ve teklif seçenekleri sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo baskısı uygulanabilmektedir.
-• Dijital baskı seçenekleri bulunmaktadır.
-• Minimum sipariş miktarı 500 adettir.
-• Kurumsal toplu siparişlere uygundur.
-• Güncel stok durumu sipariş öncesinde paylaşılmaktadır.
-• Üretim ve teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Tela Çanta
-Model: TÇ-100
-Kategori: Ham Bez & Tela Çanta
-Ölçü: 25 x 35 x 8 cm
-Kumaş Türü: Nonwoven Tela Kumaş
-Gramaj: 100 gr
-Baskı Türü: Dijital Baskı
-Minimum Sipariş: 500 Adet
-Kullanım Alanı: Fuar, Mağaza ve Kurumsal Promosyon
-
-Promosyon tela çanta TÇ-100, 100 gr nonwoven kumaşı, geniş logo baskı alanı, tekrar kullanılabilir çevre dostu yapısı ve ekonomik üretim avantajıyla fuarlar, mağazalar ve kurumsal organizasyonlarda tercih edilen promosyon çanta modellerinden biridir. Toplu siparişler ve kurumsal fiyat teklifleri hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon tela çanta TÇ-100 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine firmanıza özel logo ve tasarımlar dijital baskı yöntemiyle uygulanabilmektedir.",
-    },
-    {
-      q: "TÇ-100 hangi kumaştan üretilmektedir?",
-      a: "Model 100 gr nonwoven tela kumaştan üretilmektedir.",
-    },
-    {
-      q: "Tela çanta tekrar kullanılabilir mi?",
-      a: "Evet. Dayanıklı yapısı sayesinde uzun süre tekrar kullanılabilir ve çevre dostu bir kullanım sunar.",
-    },
-    {
-      q: "Minimum sipariş adedi kaçtır?",
-      a: "Promosyon tela çanta TÇ-100 modeli için minimum sipariş miktarı 500 adettir.",
-    },
-    {
-      q: "Hangi sektörler için uygundur?",
-      a: "Marketler, mağazalar, belediyeler, üniversiteler, fuarlar, organizasyonlar ve kurumsal tanıtım faaliyetleri için uygundur.",
-    },
-    {
-      q: "Toplu siparişlerde özel fiyat uygulanıyor mu?",
-      a: "Evet. Sipariş miktarına göre kurumsal firmalara özel fiyat teklifleri hazırlanmaktadır.",
-    },
-  ],
+  shortDesc: "TÇ-100; 100 gr nonwoven kumaştan özel üretilen, dijital baskıya uygun tela çantadır. Görsel ölçüsü 25 x 35 cm, körüğü 8 cm; minimum sipariş 500 adettir.",
+  longDesc: "Promosyon tela çanta TÇ-100, 100 gr nonwoven kumaştan özel üretim olarak hazırlanan bir promosyon çantadır. Minimum 500 adet sipariş koşuluyla mağaza dağıtımları, fuar katalogları ve etkinlik materyalleri için toplu üretim seçeneği sunar.\n\nÜrün görselinde 25 x 35 cm ebat ve 8 cm körük bilgisi yer alır. Körüklü form, katalog veya dağıtılacak ürünleri yerleştirmek için kullanılabilir. Farklı ebat ve özelliklerde üretim talebi, teklif aşamasında ayrıca değerlendirilir.\n\nDijital baskı yöntemiyle firma logosu, kampanya görseli veya etkinlik tasarımı uygulanabilir. Çantanın dış ölçüleri baskı alanı anlamına gelmez; kullanılacak logo alanı ve yerleşim tasarım çalışmasında belirlenir.\n\nTEKNİK ÖZELLİKLER\nModel: TÇ-100\nÜrün Tipi: Tela Çanta\nKumaş: Nonwoven\nGramaj: 100 gr\nGörseldeki Ebat: 25 x 35 cm\nKörük: 8 cm\nBaskı: Dijital Baskı\nÜretim: Özel Üretim\nMinimum Sipariş: 500 Adet\n\nKULLANIM ALANLARI\nFuar ve seminer dağıtımları, mağaza kampanyaları, katalog taşımaları ve kurumsal tanıtım organizasyonlarında değerlendirilebilir. Tekrar kullanım ve taşıma uygunluğu, kullanım koşulları ve taşınacak içeriğe bağlıdır.\n\nSİPARİŞ VE FİYAT\nGüncel fiyat için teklif alınmalıdır. Tedarikçi, 1.000 adetlik fiyatlandırma esasına ilişkin notunda baskının dahil olduğunu belirtir; bu bilgi minimum sipariş miktarını değiştirmez. Minimum sipariş 500 adettir. Seçilen adet için baskı kapsamı, ebat, renk ve teslim süresi nihai teklifte belirtilir.\n\nGörseldeki renk ve logo örnek niteliğindedir. Özel üretim ayrıntıları sipariş onayından önce netleştirilir.",
+  faq: [{"q":"Promosyon tela çanta TÇ-100 üzerine logo baskısı yapılabilir mi?","a":"Evet. TÇ-100 üzerine dijital baskı uygulanabilir. Tasarım, logo alanı ve baskı kapsamı teklif aşamasında belirlenir."},{"q":"TÇ-100 hangi kumaştan üretilmektedir?","a":"TÇ-100, 100 gr nonwoven tela kumaştan özel üretim olarak hazırlanır."},{"q":"Tela çanta tekrar kullanılabilir mi?","a":"Tekrar kullanım için değerlendirilebilir. Dayanım ve kullanım ömrü taşınan yük ve kullanım koşullarına bağlıdır."},{"q":"Minimum sipariş adedi kaçtır?","a":"Minimum sipariş miktarı 500 adettir. Tedarikçinin 1.000 adetlik fiyatlandırma notu minimum sipariş miktarı anlamına gelmez."},{"q":"Hangi sektörler için uygundur?","a":"Mağaza kampanyaları, fuarlar, eğitim etkinlikleri ve kurumsal tanıtım organizasyonları için değerlendirilebilir."},{"q":"Toplu siparişlerde özel fiyat uygulanıyor mu?","a":"Adet ve tasarım ayrıntılarına göre teklif hazırlanır. Tedarikçinin 1.000 adetlik fiyatlandırma notunda baskı dahildir; seçilen adede ait baskı kapsamı nihai teklifte belirtilir."}]
 },
 {
   id: "p329",
