@@ -31,6 +31,12 @@ const hiddenProductSlugs = new Set<string>([
   "promosyon-termos-600-ml-tk-330",
   "promosyon-french-press-termos-500-ml-tk-340",
   "promosyon-termos-500-ml-uv-lazer-baskili-tk-350",
+
+  "promosyon-ahsap-masa-seti-ah-100",
+  "promosyon-luks-ahsap-masa-seti-ah-110",
+  "promosyon-ahsap-masa-seti-ah-120",
+  "promosyon-deri-kalemlik-ms-175",
+  "promosyon-deri-kalemlik-ms-180",
 ]);
 
 export function isProductVisible(product: { slug: string }): boolean {

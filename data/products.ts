@@ -25938,7 +25938,7 @@ Promosyon ahşap masa seti AH-120 modeli; çift kalemlik bölmesi, not kağıdı
   title:
     "Promosyon Deri Kalemlik MS-130 | Kartvizit Bölmeli Masaüstü Organizer",
 
-  price: 290,
+  price: 330,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
@@ -25956,7 +25956,7 @@ Modern tasarımı sayesinde yönetici masaları, resepsiyon alanları, danışma
 
 Kaliteli suni deri kaplaması ürüne premium bir görünüm kazandırırken uzun ömürlü kullanım avantajı sağlar. Dikiş detayları ve modern çizgileri sayesinde klasik masaüstü organizerlerden daha prestijli bir görünüm sunmaktadır.
 
-Promosyon deri kalemlik MS-130 üzerine UV baskı, serigrafi baskı, dijital baskı, sıcak baskı veya lazer markalama teknikleri ile firmanıza ait logo, marka adı ve kurumsal tasarımlar uygulanabilir. Gün boyunca masa üzerinde sürekli kullanılan bir ürün olması sayesinde markanız uzun yıllar görünürlüğünü koruyarak etkili bir reklam alanı oluşturur.
+Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 MS-130 modeli; bankalar, sigorta şirketleri, hukuk büroları, finans kuruluşları, eğitim kurumları, oteller, hastaneler, danışmanlık firmaları ve kurumsal işletmeler tarafından yönetici hediyesi, çalışan hediyesi ve kurumsal promosyon ürünü olarak tercih edilmektedir.
 
@@ -26007,10 +26007,14 @@ Promosyon deri kalemlik fiyatları sipariş adedi, uygulanacak baskı yöntemi, 
 SİPARİŞ BİLGİSİ
 
 • Kurumsal toplu siparişlere uygundur.
-• UV baskı, serigrafi baskı, dijital baskı, sıcak baskı ve lazer markalama uygulanabilir.
+• Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 • Logo ve tasarım çalışmaları üretim öncesinde onaya sunulur.
 • Güncel stok durumu dönemsel olarak değişebilir.
 • Teslim süresi sipariş miktarına göre planlanmaktadır.
+
+RENK SEÇENEĞİ
+
+Siyah. Güncel stok ve siparişe uygunluk teklif aşamasında teyit edilir.
 
 TEKNİK ÖZELLİKLER
 
@@ -26021,7 +26025,7 @@ Malzeme: Suni Deri
 Bölmeler: Çift Kalemlik + Kartvizit Haznesi
 Ürün Ölçüsü: 22,5 × 10 × 8,5 cm
 Kullanım Tipi: Masaüstü Organizer
-Baskı Türü: UV Baskı / Serigrafi Baskı / Dijital Baskı / Sıcak Baskı / Lazer Markalama
+Baskı: Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 Promosyon deri kalemlik MS-130 modeli; çift kalemlik bölmesi, kartvizit haznesi, kaliteli suni deri kaplaması ve logo baskısına uygun geniş yüzeyi sayesinde kurumsal promosyon ürünleri arasında en çok tercih edilen masaüstü organizer modellerinden biridir. Güncel stok durumu, toplu sipariş fiyatları, baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
@@ -26033,7 +26037,7 @@ Promosyon deri kalemlik MS-130 modeli; çift kalemlik bölmesi, kartvizit haznes
     },
     {
       q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine UV baskı, serigrafi baskı, dijital baskı, sıcak baskı veya lazer markalama teknikleri ile logo uygulanabilmektedir."
+      a: "Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir."
     },
     {
       q: "Hangi sektörler için uygundur?",
@@ -26045,7 +26049,7 @@ Promosyon deri kalemlik MS-130 modeli; çift kalemlik bölmesi, kartvizit haznes
     },
     {
       q: "Kurumsal hediye olarak tercih edilir mi?",
-      a: "Evet. Şık deri kaplaması ve fonksiyonel tasarımı sayesinde yönetici hediyesi, çalışan hediyesi ve VIP müşteri armağanı olarak tercih edilmektedir."
+      a: "Evet. Şık suni deri kaplaması ve fonksiyonel tasarımı sayesinde yönetici hediyesi, çalışan hediyesi ve VIP müşteri armağanı olarak tercih edilmektedir."
     },
     {
       q: "Kartvizit bölmesi ne avantaj sağlar?",
@@ -26061,14 +26065,14 @@ Promosyon deri kalemlik MS-130 modeli; çift kalemlik bölmesi, kartvizit haznes
   title:
     "Promosyon Masa Üstü Deri Organizer MS-140 | Logolu Çok Bölmeli Ofis Masa Seti",
 
-  price: 312,
+  price: 350,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
   image: "/products/promosyon-deri-masa-seti-ms-140.jpg",
 
   shortDesc:
-    "Promosyon masa üstü deri organizer MS-140 modeli; kalemlik, notluk, kartvizitlik ve aksesuar bölmeleri ile ofis masalarında düzen sağlayan, logo baskılı kurumsal promosyon masaüstü ürünlerinden biridir.",
+    "Promosyon masa üstü deri organizer MS-140 modeli; kalemlik, notluk, kartvizitlik ve ataçlık bölmeleri ile ofis masalarında düzen sağlayan, logo baskılı kurumsal promosyon masaüstü ürünlerinden biridir.",
 
   longDesc: `
 Promosyon masa üstü deri organizer MS-140 modeli, çalışma masalarında düzeni sağlayan fonksiyonel tasarımı ve kaliteli suni deri kaplaması ile kurumsal promosyon ürünleri arasında öne çıkan masaüstü organizer modellerinden biridir.
@@ -26079,7 +26083,7 @@ MS-140 modeli; kalem, kurşun kalem, marker, ataş, raptiye, USB bellek, kartviz
 
 Suni deri kaplaması ürüne premium bir görünüm kazandırırken dekoratif dikiş detayları sayesinde yönetici masalarına estetik bir görünüm kazandırır. Günlük kullanımda sürekli masa üzerinde bulunması sayesinde markanızın görünürlüğünü uzun yıllar artırır.
 
-Promosyon masa organizeri üzerine UV baskı, serigrafi baskı, sıcak baskı, dijital baskı ve lazer markalama teknikleri ile firmanıza ait logo, marka adı veya kurumsal tasarımlar uygulanabilir.
+Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 Kurumsal promosyon ürünleri arasında yer alan MS-140 modeli; bankalar, finans kuruluşları, hukuk büroları, sigorta şirketleri, kamu kurumları, eğitim kurumları, oteller, hastaneler ve büyük ölçekli işletmeler tarafından yönetici hediyesi, çalışan hediyesi ve VIP müşteri hediyesi olarak tercih edilmektedir.
 
@@ -26131,10 +26135,14 @@ Promosyon masa organizeri fiyatları sipariş adedi, uygulanacak baskı yöntemi
 SİPARİŞ BİLGİSİ
 
 • Kurumsal toplu siparişlere uygundur.
-• UV baskı, serigrafi baskı, sıcak baskı, dijital baskı ve lazer markalama uygulanabilir.
+• Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 • Logo ve tasarım çalışmaları üretim öncesinde onaya sunulur.
 • Güncel stok durumu dönemsel olarak değişebilir.
 • Teslim süresi sipariş miktarına göre planlanmaktadır.
+
+RENK SEÇENEĞİ
+
+Siyah. Güncel stok ve siparişe uygunluk teklif aşamasında teyit edilir.
 
 TEKNİK ÖZELLİKLER
 
@@ -26142,10 +26150,10 @@ TEKNİK ÖZELLİKLER
 Model: MS-140
 Kategori: Ahşap ve Deri Masaüstü Ürünler
 Malzeme: Suni Deri
-Ürün Ölçüsü: 10,5 × 11 × 28,5 cm
-Bölmeler: Kalemlik, Kartvizitlik, Notluk, Aksesuar Bölmeleri
+Ürün Ölçüsü: 28,5 × 10,5 × 11 cm
+Bölmeler: Kalemlik, Kartvizitlik, Notluk, Ataçlık
 Kullanım Tipi: Masaüstü Organizer
-Baskı Türü: UV Baskı / Serigrafi Baskı / Dijital Baskı / Sıcak Baskı / Lazer Markalama
+Baskı: Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 Promosyon masa üstü deri organizer MS-140 modeli; çok bölmeli yapısı, premium suni deri kaplaması, şık tasarımı ve logo baskısına uygun geniş yüzeyi sayesinde kurumsal promosyon ürünleri arasında en çok tercih edilen masaüstü organizer modellerinden biridir. Güncel stok durumu, toplu sipariş fiyatları, baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
@@ -26153,11 +26161,11 @@ Promosyon masa üstü deri organizer MS-140 modeli; çok bölmeli yapısı, prem
   faq: [
     {
       q: "MS-140 modelinde hangi bölmeler bulunmaktadır?",
-      a: "Üründe kalemlik, kartvizit bölmesi, not kağıdı haznesi ve küçük ofis aksesuarları için ayrı bölmeler bulunmaktadır."
+      a: "Üründe kalemlik, kartvizit bölmesi, not kağıdı haznesi ve ataçlık bölmesi bulunmaktadır."
     },
     {
       q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. UV baskı, serigrafi baskı, dijital baskı, sıcak baskı ve lazer markalama teknikleri ile logo uygulanabilmektedir."
+      a: "Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir."
     },
     {
       q: "Hangi sektörlerde kullanılabilir?",
@@ -26169,7 +26177,7 @@ Promosyon masa üstü deri organizer MS-140 modeli; çok bölmeli yapısı, prem
     },
     {
       q: "Yönetici hediyesi olarak uygun mudur?",
-      a: "Evet. Premium deri kaplaması ve fonksiyonel tasarımı sayesinde yönetici ve VIP müşteri hediyesi olarak tercih edilmektedir."
+      a: "Evet. Suni deri kaplaması ve fonksiyonel tasarımı sayesinde yönetici ve VIP müşteri hediyesi olarak tercih edilmektedir."
     },
     {
       q: "Masa düzenine nasıl katkı sağlar?",
@@ -26185,7 +26193,7 @@ Promosyon masa üstü deri organizer MS-140 modeli; çok bölmeli yapısı, prem
   title:
     "Promosyon Deri Kalemlik MS-150 | Telefon Standlı Notluklu Masaüstü Organizer",
 
-  price: 370,
+  price: 390,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
@@ -26207,7 +26215,7 @@ Not kağıdı bölmesi günlük notların kolayca kullanılmasına imkan verirke
 
 Kaliteli suni deri kaplaması, dekoratif dikiş detayları ve modern çizgileri sayesinde yönetici masaları, resepsiyon alanları ve kurumsal çalışma ofislerinde premium bir görünüm oluşturur.
 
-Promosyon deri masa organizeri MS-150 üzerine UV baskı, serigrafi baskı, dijital baskı, sıcak baskı ve lazer markalama teknikleri ile firmanıza ait logo, marka adı veya kurumsal tasarımlar uygulanabilir. Sürekli masa üzerinde kullanılan bir ürün olması sayesinde markanız uzun yıllar görünürlüğünü koruyarak etkili bir reklam alanı oluşturur.
+Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 MS-150 modeli; bankalar, finans kuruluşları, hukuk büroları, sigorta şirketleri, eğitim kurumları, hastaneler, oteller, kamu kurumları ve büyük ölçekli işletmeler tarafından yönetici hediyesi, çalışan hediyesi ve VIP müşteri hediyesi olarak tercih edilmektedir.
 
@@ -26260,10 +26268,14 @@ Promosyon deri masa organizeri fiyatları sipariş adedi, uygulanacak baskı yö
 SİPARİŞ BİLGİSİ
 
 • Kurumsal toplu siparişlere uygundur.
-• UV baskı, serigrafi baskı, dijital baskı, sıcak baskı ve lazer markalama uygulanabilir.
+• Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 • Logo ve tasarım çalışmaları üretim öncesinde onaya sunulur.
 • Güncel stok durumu dönemsel olarak değişebilir.
 • Teslim süresi sipariş miktarına göre planlanmaktadır.
+
+RENK SEÇENEĞİ
+
+Siyah. Güncel stok ve siparişe uygunluk teklif aşamasında teyit edilir.
 
 TEKNİK ÖZELLİKLER
 
@@ -26274,7 +26286,7 @@ Malzeme: Suni Deri
 Ürün Ölçüsü: 24 × 10 × 10 cm
 Bölmeler: Telefon Standı + Kalemlik + Kartvizitlik + Notluk + Aksesuar Bölmesi
 Kullanım Tipi: Masaüstü Organizer
-Baskı Türü: UV Baskı / Serigrafi Baskı / Dijital Baskı / Sıcak Baskı / Lazer Markalama
+Baskı: Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 Promosyon deri kalemlik MS-150 modeli; telefon standı, kalemlik, kartvizit bölmesi, notluk haznesi ve premium suni deri kaplaması sayesinde kurumsal promosyon ürünleri arasında en çok tercih edilen masaüstü organizer modellerinden biridir. Güncel stok durumu, toplu sipariş fiyatları, baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
@@ -26286,11 +26298,11 @@ Promosyon deri kalemlik MS-150 modeli; telefon standı, kalemlik, kartvizit böl
     },
     {
       q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine UV baskı, serigrafi baskı, dijital baskı, sıcak baskı ve lazer markalama teknikleri ile logo uygulanabilmektedir."
+      a: "Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir."
     },
     {
       q: "Telefon standı hangi cihazlarla uyumludur?",
-      a: "Stand bölmesi standart ölçülerdeki akıllı telefonların masa üzerinde dik konumda kullanılmasına uygundur."
+      a: "Ürün görselinde telefon yerleştirme bölmesi bulunur. Cihaz ve kılıf ölçülerine göre uyumluluk değişebileceğinden sipariş öncesinde teyit edilmelidir."
     },
     {
       q: "Toplu sipariş verilebilir mi?",
@@ -26302,7 +26314,7 @@ Promosyon deri kalemlik MS-150 modeli; telefon standı, kalemlik, kartvizit böl
     },
     {
       q: "Kurumsal hediye olarak tercih edilir mi?",
-      a: "Evet. Şık deri kaplaması, telefon standı ve çok fonksiyonlu yapısı sayesinde yönetici, çalışan ve VIP müşteri hediyesi olarak sıklıkla tercih edilmektedir."
+      a: "Evet. Şık suni deri kaplaması, telefon standı ve çok fonksiyonlu yapısı sayesinde yönetici, çalışan ve VIP müşteri hediyesi olarak sıklıkla tercih edilmektedir."
     }
   ]
 },
@@ -26314,7 +26326,7 @@ Promosyon deri kalemlik MS-150 modeli; telefon standı, kalemlik, kartvizit böl
   title:
     "Promosyon Deri Kalemlik MS-160 | Telefon Standlı Kartvizitlik Masaüstü Organizer",
 
-  price: 270,
+  price: 300,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
@@ -26334,7 +26346,7 @@ Geniş kalemlik bölmesi; tükenmez kalem, roller kalem, kurşun kalem, fosforlu
 
 Kaliteli suni deri kaplaması ve dekoratif dikiş detayları ürüne premium bir görünüm kazandırırken yönetici masaları, resepsiyon alanları ve profesyonel çalışma ofisleri için şık bir aksesuar haline getirir.
 
-Promosyon deri masa organizeri MS-160 üzerine UV baskı, serigrafi baskı, dijital baskı, sıcak baskı ve lazer markalama teknikleri ile firmanıza ait logo, marka adı veya kurumsal tasarımlar uygulanabilir. Gün boyunca sürekli masa üzerinde kullanılan bir ürün olması sayesinde markanız uzun süre görünürlüğünü koruyarak etkili bir reklam alanı oluşturur.
+Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 MS-160 modeli; bankalar, finans kuruluşları, hukuk büroları, sigorta şirketleri, eğitim kurumları, hastaneler, oteller, kamu kurumları ve büyük ölçekli işletmeler tarafından yönetici hediyesi, çalışan hediyesi ve VIP müşteri hediyesi olarak tercih edilmektedir.
 
@@ -26386,10 +26398,14 @@ Promosyon deri masa organizeri fiyatları sipariş adedi, uygulanacak baskı yö
 SİPARİŞ BİLGİSİ
 
 • Kurumsal toplu siparişlere uygundur.
-• UV baskı, serigrafi baskı, dijital baskı, sıcak baskı ve lazer markalama uygulanabilir.
+• Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 • Logo ve tasarım çalışmaları üretim öncesinde onaya sunulur.
 • Güncel stok durumu dönemsel olarak değişebilir.
 • Teslim süresi sipariş miktarına göre planlanmaktadır.
+
+RENK SEÇENEĞİ
+
+Siyah. Güncel stok ve siparişe uygunluk teklif aşamasında teyit edilir.
 
 TEKNİK ÖZELLİKLER
 
@@ -26400,7 +26416,7 @@ Malzeme: Suni Deri
 Ürün Ölçüsü: 10,5 × 21 × 10,5 cm
 Bölmeler: Telefon Standı + Kalemlik + Kartvizitlik
 Kullanım Tipi: Masaüstü Organizer
-Baskı Türü: UV Baskı / Serigrafi Baskı / Dijital Baskı / Sıcak Baskı / Lazer Markalama
+Baskı: Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 Promosyon deri kalemlik MS-160 modeli; telefon standı, geniş kalemlik, kartvizit bölmesi ve kaliteli suni deri kaplaması sayesinde kurumsal promosyon ürünleri arasında en çok tercih edilen masaüstü organizer modellerinden biridir. Güncel stok durumu, toplu sipariş fiyatları, baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
@@ -26412,7 +26428,7 @@ Promosyon deri kalemlik MS-160 modeli; telefon standı, geniş kalemlik, kartviz
     },
     {
       q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine UV baskı, serigrafi baskı, dijital baskı, sıcak baskı ve lazer markalama teknikleri ile logo uygulanabilmektedir."
+      a: "Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir."
     },
     {
       q: "Telefon standı hangi cihazlarla uyumludur?",
@@ -26440,7 +26456,7 @@ Promosyon deri kalemlik MS-160 modeli; telefon standı, geniş kalemlik, kartviz
   title:
     "Promosyon Deri Kalemlik MS-170 | Notluklu Kartvizitlik Masaüstü Organizer",
 
-  price: 250,
+  price: 280,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
@@ -26460,7 +26476,7 @@ Geniş kalemlik bölmesi, kartvizit haznesi ve not kağıdı bölmesini tek bir 
 
 Kaliteli suni deri kaplaması ve dekoratif beyaz dikiş detayları ürüne premium bir görünüm kazandırırken uzun ömürlü kullanım avantajı sunar. Gün boyunca masa üzerinde sürekli kullanılan bir ürün olması sayesinde markanızın görünürlüğünü uzun yıllar artırarak etkili bir reklam alanı oluşturur.
 
-Promosyon deri masa organizeri MS-170 üzerine UV baskı, serigrafi baskı, dijital baskı, sıcak baskı ve lazer markalama teknikleri ile firmanıza ait logo, marka adı veya kurumsal tasarımlar uygulanabilir.
+Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 MS-170 modeli; bankalar, finans kuruluşları, hukuk büroları, sigorta şirketleri, eğitim kurumları, hastaneler, oteller, kamu kurumları ve büyük ölçekli işletmeler tarafından yönetici hediyesi, çalışan hediyesi ve VIP müşteri hediyesi olarak tercih edilmektedir.
 
@@ -26512,10 +26528,14 @@ Promosyon deri masa organizeri fiyatları sipariş adedi, uygulanacak baskı yö
 SİPARİŞ BİLGİSİ
 
 • Kurumsal toplu siparişlere uygundur.
-• UV baskı, serigrafi baskı, dijital baskı, sıcak baskı ve lazer markalama uygulanabilir.
+• Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 • Logo ve tasarım çalışmaları üretim öncesinde onaya sunulur.
 • Güncel stok durumu dönemsel olarak değişebilir.
 • Teslim süresi sipariş miktarına göre planlanmaktadır.
+
+RENK SEÇENEĞİ
+
+Siyah. Güncel stok ve siparişe uygunluk teklif aşamasında teyit edilir.
 
 TEKNİK ÖZELLİKLER
 
@@ -26526,7 +26546,7 @@ Malzeme: Suni Deri
 Ürün Ölçüsü: 22 × 10,5 × 11 cm
 Bölmeler: Kalemlik + Kartvizitlik + Not Kağıdı Bölmesi
 Kullanım Tipi: Masaüstü Organizer
-Baskı Türü: UV Baskı / Serigrafi Baskı / Dijital Baskı / Sıcak Baskı / Lazer Markalama
+Baskı: Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 Promosyon deri kalemlik MS-170 modeli; geniş kalemlik, kartvizit haznesi, not kağıdı bölmesi ve kaliteli suni deri kaplaması sayesinde kurumsal promosyon ürünleri arasında en çok tercih edilen masaüstü organizer modellerinden biridir. Güncel stok durumu, toplu sipariş fiyatları, baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
@@ -26538,7 +26558,7 @@ Promosyon deri kalemlik MS-170 modeli; geniş kalemlik, kartvizit haznesi, not k
     },
     {
       q: "Üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. Ürün üzerine UV baskı, serigrafi baskı, dijital baskı, sıcak baskı ve lazer markalama teknikleri ile logo uygulanabilmektedir."
+      a: "Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir."
     },
     {
       q: "Toplu sipariş verilebilir mi?",
@@ -26550,7 +26570,7 @@ Promosyon deri kalemlik MS-170 modeli; geniş kalemlik, kartvizit haznesi, not k
     },
     {
       q: "Kurumsal hediye olarak uygun mudur?",
-      a: "Evet. Şık deri kaplaması, notluk ve kartvizit bölmeleri sayesinde yönetici, çalışan ve VIP müşteri hediyesi olarak ideal bir üründür."
+      a: "Evet. Şık suni deri kaplaması, notluk ve kartvizit bölmeleri sayesinde yönetici, çalışan ve VIP müşteri hediyesi olarak ideal bir üründür."
     },
     {
       q: "Not kağıdı bölmesi ne avantaj sağlar?",
@@ -26825,20 +26845,20 @@ Promosyon deri kalemlik MS-180 modeli; kompakt tasarımı, geniş kalem haznesi,
   image: "/products/promosyon-deri-bardak-altligi-ms-190.jpg",
 
   shortDesc:
-    "Promosyon deri bardak altlığı MS-190 modeli; suni deri kaplaması, çoklu bardak altlığı seti ve metal standı ile ofisler, toplantı odaları ve kurumsal kullanım için şık bir masaüstü promosyon ürünüdür.",
+    "Promosyon deri bardak altlığı MS-190 modeli; suni deri kaplaması, standlı bardak altlığı seti ile ofisler, toplantı odaları ve kurumsal kullanım için şık bir masaüstü promosyon ürünüdür.",
 
   longDesc: `
-Promosyon deri bardak altlığı MS-190 modeli, masa yüzeylerini koruyan şık tasarımı, kaliteli suni deri kaplaması ve metal taşıma standı ile kurumsal promosyon ürünleri arasında öne çıkan masaüstü aksesuarlarından biridir.
+Promosyon deri bardak altlığı MS-190 modeli, masa yüzeylerini koruyan şık tasarımı, kaliteli suni deri kaplaması ve standı ile kurumsal promosyon ürünleri arasında öne çıkan masaüstü aksesuarlarından biridir.
 
-Birden fazla bardak altlığını düzenli şekilde muhafaza etmeye imkan veren metal standı sayesinde kullanım sonrasında ürünler dağılmaz ve masa üzerinde düzenli bir görünüm oluşturur. Özellikle yönetici odaları, toplantı salonları ve resepsiyon alanlarında profesyonel bir sunum sağlar.
+Birden fazla bardak altlığını düzenli şekilde muhafaza etmeye imkan veren standı sayesinde kullanım sonrasında ürünler dağılmaz ve masa üzerinde düzenli bir görünüm oluşturur. Özellikle yönetici odaları, toplantı salonları ve resepsiyon alanlarında profesyonel bir sunum sağlar.
 
-Kaliteli suni deri yüzeyi; sıcak ve soğuk içeceklerden oluşabilecek su halkalarını, çizilmeleri ve yüzey deformasyonlarını önlemeye yardımcı olur. Böylece masa yüzeyinin uzun süre temiz ve estetik kalmasını sağlar.
+Bardak ile masa arasında bir yüzey oluşturur. Kullanım sırasında bardak tabanının ve masa yüzeyinin temiz ve kuru tutulması önerilir.
 
 Yuvarlak tasarımı sayesinde kahve fincanı, çay bardağı, kupa, cam bardak ve termos gibi birçok farklı içecek ürününde rahatlıkla kullanılabilir.
 
 Siyah ve taba renk seçenekleri sayesinde farklı ofis dekorasyonlarına uyum sağlayan modern ve prestijli bir görünüm sunar.
 
-Promosyon deri bardak altlığı MS-190 modeli üzerine UV baskı, serigrafi baskı, sıcak baskı (gofre) ve lazer markalama teknikleri ile firma logosu, marka adı veya kurumsal tasarımlar uygulanabilmektedir.
+Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 Masa üzerinde sürekli kullanılan promosyon ürünlerinden biri olması sayesinde firmanızın logosu gün boyunca görünür durumda kalır ve marka bilinirliğinin uzun süre desteklenmesine katkı sağlar.
 
@@ -26847,7 +26867,7 @@ Bankalar, oteller, restoranlar, kafeler, hukuk büroları, muhasebe ofisleri, e�
 NEDEN PROMOSYON DERİ BARDAK ALTLIĞI MS-190?
 
 • Çoklu bardak altlığı seti
-• Şık metal taşıma standı
+• Şık standı
 • Premium suni deri kaplama
 • Masa yüzeyini koruyan yapı
 • Siyah ve taba renk seçenekleri
@@ -26892,7 +26912,7 @@ Promosyon deri bardak altlığı fiyatları sipariş adedi, uygulanacak baskı y
 SİPARİŞ BİLGİSİ
 
 • Kurumsal toplu siparişler için uygundur.
-• UV baskı, serigrafi baskı, sıcak baskı (gofre) ve lazer markalama uygulanabilir.
+• Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 • Logo ve tasarım çalışmaları üretim öncesinde onaya sunulur.
 • Siyah ve taba renk seçenekleri bulunmaktadır.
 • Güncel stok durumu dönemsel olarak değişebilir.
@@ -26907,21 +26927,21 @@ Malzeme: Suni Deri
 Ürün Şekli: Yuvarlak
 Ürün Ölçüsü: Çap 11 cm
 Renk Seçenekleri: Siyah, Taba
-İçerik: Çoklu Bardak Altlığı + Metal Stand
+İçerik: Standlı bardak altlığı seti; set adedi sipariş öncesinde teyit edilir.
 Kullanım Tipi: Masaüstü Bardak Altlığı
-Baskı Türü: UV Baskı / Serigrafi Baskı / Sıcak Baskı (Gofre) / Lazer Markalama
+Baskı: Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
-Promosyon deri bardak altlığı MS-190 modeli; kaliteli suni deri kaplaması, çoklu bardak altlığı seti ve metal standı sayesinde kurumsal promosyon ürünleri arasında hem şık hem de işlevsel çözümler sunmaktadır. Güncel stok durumu, toplu sipariş fiyatları, logo baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
+Promosyon deri bardak altlığı MS-190 modeli; kaliteli suni deri kaplaması, çoklu bardak altlığı seti ve standı sayesinde kurumsal promosyon ürünleri arasında hem şık hem de işlevsel çözümler sunmaktadır. Güncel stok durumu, toplu sipariş fiyatları, logo baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
 
   faq: [
     {
       q: "MS-190 modeli kaç adet bardak altlığı ile sunulmaktadır?",
-      a: "Ürün, metal stand içerisinde çoklu bardak altlığı seti olarak sunulmaktadır."
+      a: "Ürün görselinde standlı bardak altlığı seti yer alır. Tedarikçi set adedini belirtmediği için adet sipariş öncesinde teyit edilmelidir."
     },
     {
       q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. UV baskı, serigrafi baskı, sıcak baskı (gofre) ve lazer markalama yöntemleri ile logo uygulanabilmektedir."
+      a: "Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir."
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
@@ -26937,7 +26957,7 @@ Promosyon deri bardak altlığı MS-190 modeli; kaliteli suni deri kaplaması, �
     },
     {
       q: "Bardak altlığı masa yüzeyini korur mu?",
-      a: "Evet. Sıcak ve soğuk içeceklerden oluşabilecek izleri, nemi ve yüzey çizilmelerini azaltarak masa yüzeyinin korunmasına yardımcı olur."
+      a: "Bardak ile masa arasında bir yüzey oluşturur. Bardak tabanının masa ile doğrudan temasını azaltmaya yardımcı olur. Kullanım koşulları ve yüzey uyumluluğu sipariş öncesinde teyit edilebilir."
     }
   ]
 },
@@ -26949,7 +26969,7 @@ Promosyon deri bardak altlığı MS-190 modeli; kaliteli suni deri kaplaması, �
   title:
     "Promosyon Deri Bardak Altlığı Seti MS-195 | 4'lü Logolu Suni Deri Bardak Altlığı",
 
-  price: 330,
+  price: 240,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
@@ -26963,13 +26983,13 @@ Promosyon deri bardak altlığı seti MS-195 modeli, masa yüzeylerini koruyan k
 
 4 adet bardak altlığını tek bir stand içerisinde düzenli şekilde muhafaza eden yapısı sayesinde kullanım sonrasında masa üzerinde dağınıklık oluşmasını önler. Yönetici masaları, toplantı odaları, resepsiyon alanları ve ofislerde estetik bir görünüm oluşturur.
 
-Premium suni deri kaplaması; sıcak kahve fincanları, çay bardakları, kupalar, cam bardaklar ve soğuk içeceklerden kaynaklanan su lekeleri ile yüzey deformasyonlarını azaltmaya yardımcı olur. Böylece masa yüzeyinin uzun süre temiz ve korunmuş kalmasını sağlar.
+Suni deri yüzeyi bardak ve fincan kullanımına yönelik bir masaüstü aksesuarıdır. Kullanım sırasında bardak tabanının ve masa yüzeyinin temiz ve kuru tutulması önerilir.
 
 Yuvarlak tasarımı sayesinde birçok farklı bardak ve fincan modeliyle uyumludur. Kompakt yapısı sayesinde masa üzerinde minimum alan kaplarken maksimum kullanım kolaylığı sunar.
 
 Siyah ve taba renk seçenekleri ile klasik ve modern ofis dekorasyonlarına uyum sağlayan zarif bir görünüm sunmaktadır.
 
-Promosyon deri bardak altlığı seti MS-195 modeli üzerine UV baskı, serigrafi baskı, sıcak baskı (gofre) ve lazer markalama teknikleri ile firma logosu, marka ismi veya kurumsal tasarımlar uygulanabilmektedir.
+Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 Gün içerisinde sürekli kullanılan masaüstü ürünlerinden biri olması sayesinde firmanızın logosu uzun yıllar boyunca görünürlüğünü korur ve marka bilinirliğini doğal şekilde artırır.
 
@@ -27023,7 +27043,7 @@ Promosyon deri bardak altlığı seti fiyatları sipariş adedi, uygulanacak bas
 SİPARİŞ BİLGİSİ
 
 • Kurumsal toplu siparişler için uygundur.
-• UV baskı, serigrafi baskı, sıcak baskı (gofre) ve lazer markalama uygulanabilir.
+• Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 • Logo ve tasarım çalışmaları üretim öncesinde onaya sunulur.
 • Siyah ve taba renk seçenekleri bulunmaktadır.
 • Güncel stok durumu dönemsel olarak değişebilir.
@@ -27039,7 +27059,7 @@ Malzeme: Suni Deri
 Ürün Şekli: Yuvarlak
 Renk Seçenekleri: Siyah, Taba
 Kullanım Tipi: Masaüstü Bardak Altlığı
-Baskı Türü: UV Baskı / Serigrafi Baskı / Sıcak Baskı (Gofre) / Lazer Markalama
+Baskı: Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir.
 
 Promosyon deri bardak altlığı seti MS-195 modeli; kaliteli suni deri yapısı, 4'lü bardak altlığı seti ve şık taşıma standı sayesinde kurumsal promosyon ürünleri arasında estetik ve uzun ömürlü masaüstü çözümleri sunmaktadır. Güncel stok durumu, toplu sipariş fiyatları, logo baskı seçenekleri ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
 `.trim(),
@@ -27051,7 +27071,7 @@ Promosyon deri bardak altlığı seti MS-195 modeli; kaliteli suni deri yapısı
     },
     {
       q: "Ürün üzerine firma logosu uygulanabilir mi?",
-      a: "Evet. UV baskı, serigrafi baskı, sıcak baskı (gofre) ve lazer markalama yöntemleri ile logo uygulanabilmektedir."
+      a: "Logo uygulamasının yöntemi, alanı ve uygunluğu ürün yüzeyi ile tasarıma göre teklif aşamasında teyit edilir."
     },
     {
       q: "Hangi renk seçenekleri bulunmaktadır?",
@@ -27067,7 +27087,7 @@ Promosyon deri bardak altlığı seti MS-195 modeli; kaliteli suni deri yapısı
     },
     {
       q: "Bardak altlıkları masa yüzeyini korur mu?",
-      a: "Evet. Sıcak ve soğuk içeceklerden oluşabilecek nem, su izi ve yüzey deformasyonlarını azaltarak masa yüzeyinin korunmasına yardımcı olur."
+      a: "Bardak ile masa arasında bir yüzey oluşturur. Bardak tabanının masa ile doğrudan temasını azaltmaya yardımcı olur. Kullanım koşulları ve yüzey uyumluluğu sipariş öncesinde teyit edilebilir."
     }
   ]
 },
