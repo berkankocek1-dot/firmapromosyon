@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import Link from "next/link";
 import Image from "next/image";
@@ -21,27 +21,10 @@ const filters = [
   "Fincan",
 ];
 
-function normalize(value: string) {
-  return value
-    .toLocaleLowerCase("tr-TR")
-    .replace(/\s+/g, " ")
-    .trim();
-}
+const verifiedTypes: Record<string, string> = {"promosyon-porselen-kupa-330ml-pk-100": "Kupa", "promosyon-porselen-kupa-280ml-pk-110": "Kupa", "promosyon-porselen-kupa-280ml-pk-120": "Kupa", "promosyon-6li-kahve-fincani-65ml-kvf-100": "Fincan", "promosyon-seramik-kupa-330ml-sk-105": "Kupa"};
 
 function matchesFilter(product: KupaProduct, filter: string) {
-  const text = normalize(`${product.title} ${product.shortDesc}`);
-
-  if (filter === "Tümü") return true;
-
-  if (filter === "Kupa") {
-    return text.includes("kupa") && !text.includes("fincan");
-  }
-
-  if (filter === "Fincan") {
-    return text.includes("fincan");
-  }
-
-  return true;
+  return filter === "Tümü" || verifiedTypes[product.slug] === filter;
 }
 
 export default function KupaProductGrid({
@@ -92,7 +75,7 @@ export default function KupaProductGrid({
       </section>
 
       <div className="mt-5 flex items-center justify-between gap-4">
-        <p className="text-sm font-medium text-white">
+        <p className="text-sm font-medium text-gray-700">
           {activeFilter === "Tümü"
             ? `${filteredProducts.length} ürün gösteriliyor`
             : `${activeFilter} için ${filteredProducts.length} ürün gösteriliyor`}
@@ -117,14 +100,14 @@ export default function KupaProductGrid({
               href={`/urunler/${p.slug}`}
               className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
             >
-              <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
+              <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
                 <Image
                   src={p.image}
                   alt={p.title}
                   fill
                   unoptimized
                   loading="lazy"
-                  className="object-contain p-4"
+                  className="object-contain bg-white p-4"
                   sizes="(max-width: 768px) 100vw, 33vw"
                 />
               </div>
@@ -141,6 +124,8 @@ export default function KupaProductGrid({
                 <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
                   {p.shortDesc}
                 </p>
+
+                <p className="mt-3 text-sm font-semibold text-gray-900">Güncel fiyat için teklif alın.</p>
 
                 <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
                   Ürünü İncele

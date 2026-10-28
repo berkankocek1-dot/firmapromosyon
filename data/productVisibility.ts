@@ -47,6 +47,11 @@ const hiddenProductSlugs = new Set<string>([
   "promosyon-vip-set-vip-450-powerbank-defter-kalem-kurumsal-teknolojik-hediye-seti",
   "promosyon-kablo-cogaltici-kbl-410",
   "promosyon-telefon-standi-tt-510-katlanabilir-plastik",
+  "promosyon-6li-kahve-fincani-65ml-kvf-110",
+  "promosyon-porselen-fincan-240ml-pk-130",
+  "promosyon-porselen-fincan-220ml-pk-140",
+  "promosyon-2li-porselen-nescafe-fincani-260ml-pk-150",
+  "promosyon-seramik-kupa-275ml-sk-110",
 ]);
 
 export function isProductVisible(product: { slug: string }): boolean {

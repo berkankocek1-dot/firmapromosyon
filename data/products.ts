@@ -10435,122 +10435,13 @@ Promosyon cetvel CT-200; 15 cm ölçüm kapasitesi, kompakt plastik yapısı ve 
 },
 {
   id: "p133",
-
   slug: "promosyon-porselen-kupa-330ml-pk-100",
-
-  title:
-    "Promosyon Porselen Kupa PK-100 | Logo Baskılı 330 ml Porselen Kupa",
-
+  title: "Promosyon Porselen Kupa PK-100 | 330 ml Süblimasyon Baskılı",
   category: "Kupa",
-
   image: "/products/promosyon-porselen-kupa-pk-100.jpg",
-
-  shortDesc:
-    "Promosyon porselen kupa PK-100, 330 ml kapasitesi, süblimasyon baskıya uygun yüzeyi ve farklı kulp renk seçenekleriyle kurumsal promosyon çalışmaları için tercih edilen kaliteli porselen kupa modelidir.",
-
-  longDesc: `
-Promosyon porselen kupa PK-100, 330 ml kapasitesi, kaliteli porselen gövdesi ve süblimasyon baskıya uygun geniş yüzeyiyle kurumsal promosyon ürünleri arasında en çok tercih edilen kupa modellerinden biridir. Günlük kullanım için ideal yapısı sayesinde ofislerde, işletmelerde ve kurumsal organizasyonlarda markanızın uzun süre görünür olmasını sağlar.
-
-330 ml hacmi sayesinde çay, kahve, bitki çayı ve diğer sıcak içeceklerin tüketimi için konforlu kullanım sunmaktadır. Dayanıklı porselen yapısı hem uzun ömürlü kullanım hem de kaliteli bir görünüm sağlayarak promosyon ürününün değerini artırmaktadır.
-
-PK-100 modeli süblimasyon (dijital) baskıya uygun özel yüzeye sahiptir. Firma logosu, kurumsal tasarımlar veya reklam görselleri kupa üzerine yüksek çözünürlükte ve canlı renklerle uygulanabilmektedir. Geniş baskı alanı sayesinde marka görünürlüğü maksimum seviyeye çıkar.
-
-Farklı kulp ve iç renk seçenekleri sayesinde kurumsal kimliğinize uygun promosyon kupa çalışmaları hazırlanabilir. Bu özelliği sayesinde fuarlar, şirket içi organizasyonlar, çalışan hediyeleri ve müşteri promosyonlarında sık tercih edilmektedir.
-
-Promosyon porselen kupalar, kullanıcıların masa üzerinde sürekli kullandığı ürünler arasında yer aldığı için markanızın her gün görünür olmasını sağlayan etkili reklam ürünlerinden biridir.
-
-NEDEN PROMOSYON PORSELEN KUPA PK-100 TERCİH EDİLMELİ?
-
-• 330 ml ideal kullanım hacmi
-• Kaliteli porselen gövde
-• Süblimasyon baskıya uygun yüzey
-• Geniş logo baskı alanı
-• Canlı ve yüksek çözünürlüklü baskı
-• Farklı kulp renk seçenekleri
-• Günlük kullanıma uygun dayanıklı yapı
-• Kurumsal promosyonlar için ideal
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Ofis ve masaüstü kullanımı
-• Çalışan hediyeleri
-• Fuar ve organizasyonlar
-• Kafe ve restoranlar
-• Eğitim kurumları
-• Kurumsal müşteri hediyeleri
-• Marka tanıtım kampanyaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Kafe ve restoranlar
-• Oteller
-• Eğitim kurumları
-• Belediyeler
-• Kamu kurumları
-• Promosyon ürün tedarikçileri
-
-PROMOSYON PORSELEN KUPA FİYATLARI
-
-Promosyon porselen kupa fiyatları; sipariş miktarı, baskı tasarımı, baskı yöntemi ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Minimum sipariş miktarı 45 adettir.
-• Süblimasyon (dijital) baskı uygulanmaktadır.
-• Farklı kulp renk seçenekleri bulunmaktadır.
-• Güncel stok ve teslim süresi teklif aşamasında paylaşılmaktadır.
-• Kurumsal logo çalışmaları baskı öncesinde onaya sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Porselen Kupa
-Model: PK-100
-Malzeme: Porselen
-Yükseklik: 95 mm
-Çap: 80 mm
-Kapasite: 330 ml
-Ağırlık: 340 gr
-Baskı Türü: Süblimasyon (Dijital Baskı)
-Baskı Alanı: 260 × 95 mm
-Minimum Sipariş: 45 Adet
-Kategori: Kupa
-
-KULLANIM NOTU
-
-Ürün bulaşık makinesinde yıkanabilir. Ancak yoğun kimyasal kullanımına bağlı olarak uzun süreli kullanımlarda baskıda doğal aşınmalar oluşabilir. Baskının daha uzun ömürlü olması için elde yıkama tavsiye edilmektedir.
-
-Promosyon porselen kupa PK-100, kaliteli porselen yapısı, 330 ml kapasitesi ve logo baskıya uygun geniş yüzeyiyle markanızı her gün görünür kılan etkili promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon porselen kupa PK-100 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine süblimasyon (dijital) baskı tekniği ile firmanıza özel logo ve tasarımlar uygulanabilmektedir.",
-    },
-    {
-      q: "Kupanın kapasitesi ne kadardır?",
-      a: "PK-100 modeli 330 ml içecek kapasitesine sahiptir.",
-    },
-    {
-      q: "Minimum sipariş adedi kaçtır?",
-      a: "Promosyon porselen kupa PK-100 modeli için minimum sipariş miktarı 45 adettir.",
-    },
-    {
-      q: "Bulaşık makinesinde yıkanabilir mi?",
-      a: "Evet. Ürün bulaşık makinesinde yıkanabilir. Ancak baskının daha uzun ömürlü olması için elde yıkama tavsiye edilmektedir.",
-    },
-    {
-      q: "Hangi alanlarda kullanılmaktadır?",
-      a: "Ofislerde, fuarlarda, kurumsal etkinliklerde, çalışan hediyelerinde ve marka tanıtım kampanyalarında yaygın olarak kullanılmaktadır.",
-    },
-    {
-      q: "Teslim süresi nasıl belirlenmektedir?",
-      a: "Teslim süresi sipariş miktarı, baskı tasarımı ve üretim planlamasına göre teklif aşamasında belirlenmektedir.",
-    },
-  ],
+  shortDesc: "PK-100; 330 ml porselen kupa, süblimasyon dijital baskı ve minimum 45 adet sipariş seçeneğiyle sunulur.",
+  longDesc: "PK-100, 330 ml hacimli porselen kupa seçeneğidir. Süblimasyon dijital baskı desteği ve farklı kulp tasarımlarıyla, ofis kupasını kurumsal bir logo veya renkli tasarımla hazırlamak isteyen firmalar için sunulur.\n\nTEKNİK ÖZELLİKLER\n\nModel: PK-100\nMalzeme: Porselen\nHacim: 330 ml\nYükseklik: 95 mm\nÇap: 80 mm\nAğırlık: 340 g\nKupa Yüzeyi: 260 x 95 mm\nBaskı: Süblimasyon (dijital baskı)\nMinimum Sipariş: 45 adet\n\nMODELİN KULLANIM FARKI\n\n330 ml hacim, 95 mm yükseklik ve 80 mm çap bilgileri kupa seçiminde birlikte değerlendirilebilir. Kulp ve gövde görünümü için güncel renk seçimi sipariş tasarımıyla netleştirilir.\n\nLOGO UYGULAMASI\n\nSüblimasyon dijital baskı uygulanabilir. 260 x 95 mm kupa yüzeyi bilgisi verilmiştir; uygulanabilir logo alanı ve yerleşimi tasarıma göre belirlenir.\n\nYIKAMA VE BASKI BAKIMI\n\nBulaşık makinesinde yıkamaya uygundur. Kullanılan kimyasallar ve yıkama sıklığına bağlı olarak zamanla baskıda solma veya yüzeyde çizilme görülebilir.\n\nSİPARİŞ\n\nPK-100 için ürün/kutu adedini ve logo dosyanızı ileterek güncel fiyat teklifi alabilirsiniz. Minimum sipariş 45 adettir. Baskı kapsamı, renk uygunluğu ve teslim süresi nihai teklifte netleştirilir.",
+  faq: [{"q":"Promosyon porselen kupa PK-100 üzerine logo baskısı yapılabilir mi?","a":"Süblimasyon dijital baskı uygulanabilir. 260 x 95 mm kupa yüzeyi bilgisi verilmiştir; uygulanabilir logo alanı ve yerleşimi tasarıma göre belirlenir."},{"q":"Kupanın kapasitesi ne kadardır?","a":"PK-100 kupanın hacmi 330 ml’dir."},{"q":"Minimum sipariş adedi kaçtır?","a":"Minimum sipariş 45 adettir."},{"q":"Bulaşık makinesinde yıkanabilir mi?","a":"Bulaşık makinesinde yıkamaya uygundur. Kullanılan kimyasallar ve yıkama sıklığına bağlı olarak zamanla baskıda solma veya yüzeyde çizilme görülebilir."},{"q":"Hangi alanlarda kullanılmaktadır?","a":"330 ml hacim, 95 mm yükseklik ve 80 mm çap bilgileri kupa seçiminde birlikte değerlendirilebilir. Kulp ve gövde görünümü için güncel renk seçimi sipariş tasarımıyla netleştirilir."},{"q":"Teslim süresi nasıl belirlenmektedir?","a":"PK-100 için teslim süresi, sipariş adedi, stok ve baskı tasarımına göre teklif aşamasında belirlenir."}]
 },
 {
   id: "p134",
@@ -11005,120 +10896,13 @@ Promosyon oto kokusu OK-750 modeli; özel kesim tasarımı, kaliteli ofset bask�
 },
 {
   id: "p141",
-
   slug: "promosyon-porselen-kupa-280ml-pk-110",
-
-  title:
-    "Promosyon Porselen Kupa PK-110 | 280 ml Logo Baskılı Porselen Kupa",
-
+  title: "Promosyon Porselen Kupa PK-110 | 280 ml Çift Yön Renkli Baskı",
   category: "Kupa",
-
   image: "/products/promosyon-porselen-kupa-pk-110.jpg",
-
-  shortDesc:
-    "Promosyon porselen kupa PK-110, 280 ml kapasitesi, çift yön renkli süblimasyon baskı özelliği ve dayanıklı porselen yapısıyla kurumsal promosyon çalışmaları için tercih edilen kaliteli porselen kupa modelidir.",
-
-  longDesc: `
-Promosyon porselen kupa PK-110, 280 ml kapasitesi, kaliteli porselen gövdesi ve çift yön renkli süblimasyon baskı özelliğiyle kurumsal promosyon ürünleri arasında öne çıkan kupa modellerinden biridir. Günlük kullanım için ideal yapısı sayesinde ofislerde, işletmelerde ve kurumsal organizasyonlarda markanızın uzun süre görünür olmasını sağlar.
-
-280 ml hacmi sayesinde çay, kahve, bitki çayı ve diğer sıcak içeceklerin tüketimi için konforlu kullanım sunmaktadır. Dayanıklı porselen malzemesi uzun ömürlü kullanım sağlarken kaliteli görünümüyle kurumsal hediye çalışmalarına değer katmaktadır.
-
-PK-110 modeli süblimasyon (dijital) baskıya uygun özel yüzeye sahiptir. Firma logosu, reklam tasarımları veya kurumsal görseller kupa üzerine canlı renklerle uygulanabilmektedir. Çift yön renkli baskı uygulanabilmesi sayesinde ürün her açıdan markanızı görünür hale getirir. Belirtilen satış fiyatına çift yön baskı dahildir.
-
-Promosyon porselen kupalar masa üzerinde sürekli kullanılan ürünler arasında yer aldığı için marka bilinirliğini artıran etkili reklam ürünlerinden biridir. Şirket çalışanları, müşteriler ve iş ortakları tarafından uzun süre kullanılabilir.
-
-NEDEN PROMOSYON PORSELEN KUPA PK-110 TERCİH EDİLMELİ?
-
-• 280 ml ideal kullanım hacmi
-• Kaliteli porselen gövde
-• Çift yön renkli süblimasyon baskı
-• Baskı fiyata dahildir
-• Canlı ve yüksek çözünürlüklü baskı kalitesi
-• Günlük kullanıma uygun dayanıklı yapı
-• Kurumsal promosyonlar için ideal
-• Marka görünürlüğünü artıran şık tasarım
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon çalışmaları
-• Ofis ve masaüstü kullanımı
-• Çalışan hediyeleri
-• Fuar ve organizasyonlar
-• Kafe ve restoranlar
-• Eğitim kurumları
-• Kurumsal müşteri hediyeleri
-• Marka tanıtım kampanyaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Kafe ve restoranlar
-• Oteller
-• Eğitim kurumları
-• Belediyeler
-• Kamu kurumları
-• Promosyon ürün tedarikçileri
-
-PROMOSYON PORSELEN KUPA FİYATLARI
-
-Promosyon porselen kupa fiyatları; sipariş miktarı, baskı tasarımı ve üretim planlamasına göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Minimum sipariş miktarı 45 adettir.
-• Çift yön renkli süblimasyon baskı uygulanmaktadır.
-• Belirtilen satış fiyatına baskı dahildir.
-• Güncel stok ve teslim süresi teklif aşamasında paylaşılmaktadır.
-• Kurumsal logo çalışmaları baskı öncesinde onaya sunulmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Porselen Kupa
-Model: PK-110
-Malzeme: Porselen
-Yükseklik: 9.3 cm
-Çap: 8 cm
-Kapasite: 280 ml
-Ağırlık: 290 gr
-Baskı Türü: Süblimasyon (Dijital Baskı)
-Baskı Özelliği: Çift Yön Renkli Baskı
-Minimum Sipariş: 45 Adet
-Kategori: Kupa
-
-KULLANIM NOTU
-
-Ürün bulaşık makinesinde yıkanabilir. Ancak yoğun kimyasal kullanımına bağlı olarak uzun süreli kullanımlarda baskıda doğal aşınmalar oluşabilir. Baskının daha uzun ömürlü olması için elde yıkama tavsiye edilmektedir.
-
-Promosyon porselen kupa PK-110, kaliteli porselen yapısı, çift yön renkli baskı özelliği ve 280 ml kapasitesiyle markanızı her gün görünür kılan kaliteli promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon porselen kupa PK-110 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine süblimasyon (dijital) baskı tekniğiyle çift yön renkli logo ve tasarım uygulanabilmektedir.",
-    },
-    {
-      q: "Kupanın kapasitesi ne kadardır?",
-      a: "PK-110 modeli 280 ml içecek kapasitesine sahiptir.",
-    },
-    {
-      q: "Çift yön baskı fiyata dahil midir?",
-      a: "Evet. Belirtilen satış fiyatına çift yön renkli süblimasyon baskı dahildir.",
-    },
-    {
-      q: "Minimum sipariş adedi kaçtır?",
-      a: "Promosyon porselen kupa PK-110 modeli için minimum sipariş miktarı 45 adettir.",
-    },
-    {
-      q: "Bulaşık makinesinde yıkanabilir mi?",
-      a: "Evet. Ürün bulaşık makinesinde yıkanabilir. Ancak baskının uzun ömürlü olması için elde yıkama tavsiye edilmektedir.",
-    },
-    {
-      q: "Teslim süresi nasıl belirlenmektedir?",
-      a: "Teslim süresi sipariş miktarı, baskı tasarımı ve üretim planlamasına göre teklif aşamasında belirlenmektedir.",
-    },
-  ],
+  shortDesc: "PK-110; 280 ml porselen kupa, çift yön renkli süblimasyon baskı ve minimum 45 adet siparişle sunulur.",
+  longDesc: "PK-110, 280 ml porselen gövdesi ve çift yön renkli baskı seçeneğiyle öne çıkan kupa modelidir. İki yönde logo veya kurumsal tasarım kullanmak isteyen firmalar için süblimasyon baskılı teklif hazırlanabilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: PK-110\nMalzeme: Porselen\nHacim: 280 ml\nYükseklik: 9,3 cm\nÇap: 8 cm\nAğırlık: 290 g\nBaskı: Süblimasyon (dijital baskı)\nBaskı Kapsamı: Çift yön renkli baskı dahil\nMinimum Sipariş: 45 adet\n\nMODELİN KULLANIM FARKI\n\n280 ml hacmi ve 290 g ağırlığıyla PK-110, daha yüksek hacimli PK-100’e alternatif olarak değerlendirilebilir. Çift yön baskı yerleşimi, kulp konumu ve logo tasarımıyla birlikte hazırlanır.\n\nLOGO UYGULAMASI\n\nSüblimasyon dijital baskı desteklenmektedir. PK-110 için çift yön renkli baskı dahil teklif alabilirsiniz; baskı kapsamı ve sipariş ayrıntıları nihai teklifte belirtilir.\n\nYIKAMA VE BASKI BAKIMI\n\nBulaşık makinesinde yıkamaya uygundur. Kullanılan kimyasallar ve yıkama sıklığına bağlı olarak zamanla baskıda solma veya yüzeyde çizilme görülebilir.\n\nSİPARİŞ\n\nPK-110 için ürün/kutu adedini ve logo dosyanızı ileterek güncel fiyat teklifi alabilirsiniz. Minimum sipariş 45 adettir. Baskı kapsamı, renk uygunluğu ve teslim süresi nihai teklifte netleştirilir.",
+  faq: [{"q":"Promosyon porselen kupa PK-110 üzerine logo baskısı yapılabilir mi?","a":"Süblimasyon dijital baskı desteklenmektedir. PK-110 için çift yön renkli baskı dahil teklif alabilirsiniz; baskı kapsamı ve sipariş ayrıntıları nihai teklifte belirtilir."},{"q":"Kupanın kapasitesi ne kadardır?","a":"PK-110 kupanın hacmi 280 ml’dir."},{"q":"Çift yön baskı fiyata dahil midir?","a":"Süblimasyon dijital baskı desteklenmektedir. PK-110 için çift yön renkli baskı dahil teklif alabilirsiniz; baskı kapsamı ve sipariş ayrıntıları nihai teklifte belirtilir."},{"q":"Minimum sipariş adedi kaçtır?","a":"Minimum sipariş 45 adettir."},{"q":"Bulaşık makinesinde yıkanabilir mi?","a":"Bulaşık makinesinde yıkamaya uygundur. Kullanılan kimyasallar ve yıkama sıklığına bağlı olarak zamanla baskıda solma veya yüzeyde çizilme görülebilir."},{"q":"Teslim süresi nasıl belirlenmektedir?","a":"PK-110 için teslim süresi, sipariş adedi, stok ve baskı tasarımına göre teklif aşamasında belirlenir."}]
 },
 {
   id: "p142",
@@ -11290,234 +11074,23 @@ Promosyon porselen kupa PK-110, kaliteli porselen yapısı, çift yön renkli ba
 },
 {
   id: "p150",
-
   slug: "promosyon-porselen-kupa-280ml-pk-120",
-
-  title:
-    "Promosyon Porselen Kupa PK-120 | 280 ml Renkli Kulplu Logo Baskılı Kupa",
-
+  title: "Promosyon Porselen Kupa PK-120 | 280 ml Renkli Kulplu",
   category: "Kupa",
-
-  image: "/products/promosyon-porselen-kupa-pk-120.jpg",
-
-  shortDesc:
-    "Promosyon porselen kupa PK-120, 280 ml kapasitesi, renkli kulp ve iç yüzey tasarımı, logo baskıya uygun geniş baskı alanı ile kurumsal promosyon çalışmaları için tercih edilen şık porselen kupa modelidir.",
-
-  longDesc: `
-Promosyon porselen kupa PK-120, 280 ml kapasitesi ve renkli kulp ile iç yüzey tasarımı sayesinde klasik kupa modellerinden ayrılan modern promosyon ürünlerinden biridir. Günlük kullanıma uygun dayanıklı porselen yapısı ile ofislerde, işletmelerde ve kurumsal organizasyonlarda uzun süre kullanılabilir.
-
-Renkli kulpu ve iç kısmı sayesinde firmanızın kurumsal renklerine uygun promosyon çalışmaları hazırlanabilir. Logo baskısı ile birlikte kullanıldığında dikkat çekici ve profesyonel bir görünüm sunar.
-
-280 ml hacmi sayesinde çay, kahve ve diğer sıcak içecekler için ideal kullanım sağlar. Günlük kullanımda masa üzerinde sürekli bulunan bir ürün olması sayesinde marka bilinirliğini uzun süre artırır.
-
-Kupa yüzeyi süblimasyon (dijital) baskıya uygundur. Firma logosu, reklam tasarımları veya kurumsal görseller yüksek çözünürlükte uygulanabilir.
-
-NEDEN PROMOSYON PORSELEN KUPA PK-120 TERCİH EDİLMELİ?
-
-• 280 ml ideal kullanım hacmi
-• Renkli kulp ve iç yüzey tasarımı
-• Kaliteli porselen gövde
-• Süblimasyon baskıya uygun yüzey
-• Canlı ve yüksek kaliteli baskı
-• Günlük kullanıma uygun
-• Uzun süre marka görünürlüğü sağlar
-• Kurumsal promosyonlar için ideal
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon ürünleri
-• Ofis kullanımı
-• Çalışan hediyeleri
-• Fuar ve etkinlikler
-• Kafe ve restoranlar
-• Eğitim kurumları
-• Kurumsal müşteri hediyeleri
-• Marka tanıtım kampanyaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Belediyeler
-• Kamu kurumları
-• Eğitim kurumları
-• Kafe ve restoranlar
-• Promosyon ürün tedarikçileri
-
-PROMOSYON PORSELEN KUPA FİYATLARI
-
-Promosyon porselen kupa fiyatları; sipariş miktarı, baskı tasarımı ve üretim planlamasına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Baskı tasarımı siparişe özel hazırlanır.
-• Toplu üretim yapılmaktadır.
-• Güncel stok ve teslim süresi teklif aşamasında paylaşılır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Porselen Kupa
-Model: PK-120
-Malzeme: Porselen
-Yükseklik: 92 mm
-Çap: 78 mm
-Kapasite: 280 ml
-Ağırlık: 300 gr
-Baskı Alanı: 250 × 92 mm
-Baskı Türü: Süblimasyon (Dijital Baskı)
-Kategori: Kupa
-
-KULLANIM NOTU
-
-Kupalar bulaşık makinesinde yıkanabilir. Ancak yoğun kimyasal kullanımına bağlı olarak uzun süreli kullanımlarda baskıda doğal aşınmalar oluşabilir. Baskının daha uzun ömürlü olması için elde yıkama tavsiye edilmektedir.
-
-Promosyon porselen kupa PK-120, renkli kulpu, kaliteli porselen yapısı ve geniş baskı alanı sayesinde markanızı uzun süre görünür kılan şık ve kullanışlı promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon porselen kupa PK-120 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine süblimasyon (dijital) baskı ile logo ve kurumsal tasarımlar uygulanabilmektedir.",
-    },
-    {
-      q: "Kupanın kapasitesi ne kadardır?",
-      a: "PK-120 modeli 280 ml kapasiteye sahiptir.",
-    },
-    {
-      q: "Renkli kulp seçenekleri bulunuyor mu?",
-      a: "Evet. Ürün farklı kulp ve iç yüzey renk seçenekleriyle üretilebilmektedir. Stok durumuna göre teyit edilir.",
-    },
-    {
-      q: "Baskı alanı ne kadardır?",
-      a: "Kupa üzerinde 250 × 92 mm baskı alanı bulunmaktadır.",
-    },
-    {
-      q: "Bulaşık makinesinde yıkanabilir mi?",
-      a: "Evet. Ancak baskının daha uzun ömürlü olması için elde yıkama tavsiye edilmektedir.",
-    },
-    {
-      q: "Toplu sipariş verebilir miyim?",
-      a: "Evet. Promosyon porselen kupa PK-120 kurumsal toplu siparişler için üretilmektedir. Güncel fiyat ve teslim süresi için teklif alabilirsiniz.",
-    },
-  ],
+  image: "/products/promosyon-porselen-kupa-pk-120-v2.jpg",
+  shortDesc: "PK-120; 280 ml porselen kupa, renkli kulp ve iç yüzey tasarımıyla sunulur. Yükseklik 92 mm, çap 78 mm’dir.",
+  longDesc: "PK-120, renkli kulp ve iç yüzeyi beyaz dış gövdeyle bir araya getiren 280 ml porselen kupadır. Görselde sarı, yeşil, kırmızı ve siyah detaylı seçenekler bulunur; seçilecek renk ve güncel stok durumu sipariş öncesinde netleştirilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: PK-120\nMalzeme: Porselen\nHacim: 280 ml\nYükseklik: 92 mm\nÇap: 78 mm\nAğırlık: 300 g\nKupa Yüzeyi: 250 x 92 mm\nTasarım: Renkli kulp ve iç yüzey\n\nMODELİN KULLANIM FARKI\n\nRenkli detaylarını kurum kimliğiyle eşleştirmek isteyen firmalar için PK-120 değerlendirilebilir. PK-110 ile aynı 280 ml hacme sahip olmasına karşın gövde ölçüsü, ağırlığı ve kulp görünümü farklıdır.\n\nLOGO UYGULAMASI\n\nKupa üzerine logo veya kurumsal tasarım için teklif alabilirsiniz. Baskı yöntemi ve uygulanabilir alan tasarıma göre netleştirilir.\n\nYIKAMA VE BASKI BAKIMI\n\nBulaşık makinesinde yıkamaya uygundur. Kullanılan kimyasallar ve yıkama sıklığına bağlı olarak zamanla baskıda solma veya yüzeyde çizilme görülebilir.\n\nSİPARİŞ\n\nPK-120 için ürün/kutu adedini ve logo dosyanızı ileterek güncel fiyat teklifi alabilirsiniz. Minimum sipariş miktarı teklif aşamasında netleştirilir. Baskı kapsamı, renk uygunluğu ve teslim süresi nihai teklifte netleştirilir.",
+  faq: [{"q":"Promosyon porselen kupa PK-120 üzerine logo baskısı yapılabilir mi?","a":"Kupa üzerine logo veya kurumsal tasarım için teklif alabilirsiniz. Baskı yöntemi ve uygulanabilir alan tasarıma göre netleştirilir."},{"q":"Kupanın kapasitesi ne kadardır?","a":"PK-120 kupanın hacmi 280 ml’dir."},{"q":"Renkli kulp seçenekleri bulunuyor mu?","a":"Güncel görselde sarı, yeşil, kırmızı ve siyah kulp/iç yüzey örnekleri bulunur. Siparişe uygun renkler ve stok durumu teklif aşamasında netleştirilir."},{"q":"Baskı alanı ne kadardır?","a":"PK-120 için kupa yüzeyi 250 x 92 mm olarak belirtilmiştir. Bu değer doğrudan kesin baskı alanı olarak kullanılmaz; uygulanabilir logo alanı ve yerleşimi tasarımla netleştirilir."},{"q":"Bulaşık makinesinde yıkanabilir mi?","a":"Bulaşık makinesinde yıkamaya uygundur. Kullanılan kimyasallar ve yıkama sıklığına bağlı olarak zamanla baskıda solma veya yüzeyde çizilme görülebilir."},{"q":"Toplu sipariş verebilir miyim?","a":"PK-120 için ürün/kutu adedini ve logo dosyanızı ileterek güncel fiyat teklifi alabilirsiniz. Minimum sipariş miktarı teklif aşamasında netleştirilir. Baskı kapsamı, renk uygunluğu ve teslim süresi nihai teklifte netleştirilir."}]
 },
 {
   id: "p152",
-
   slug: "promosyon-6li-kahve-fincani-65ml-kvf-100",
-
-  title:
-    "Promosyon 6 Kişilik Kahve Fincanı KVF-100 | 65 ml Logo Baskılı Porselen Fincan Seti",
-
+  title: "Promosyon 6’lı Kahve Fincanı KVF-100 | 65 ml Fincan Seti",
   category: "Kupa",
-
-  image: "/products/promosyon-6li-kahve-fincani-kvf-100.jpg",
-
-  shortDesc:
-    "Promosyon 6 kişilik kahve fincanı KVF-100, 65 ml kapasitesi, kaliteli porselen yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon çalışmaları, kafeler, restoranlar ve işletmeler için tercih edilen şık kahve fincanı setidir.",
-
-  longDesc: `
-Promosyon 6 kişilik kahve fincanı KVF-100, kaliteli porselen yapısı ve logo baskıya uygun yüzeyi ile kurumsal promosyon ürünleri arasında şık tasarımıyla öne çıkan kahve fincanı setlerinden biridir. Günlük kullanıma uygun yapısı sayesinde markanızın uzun süre görünür kalmasına katkı sağlar.
-
-Set içerisinde 6 adet porselen kahve fincanı ve fincan tabakları bulunmaktadır. 65 ml kapasitesi sayesinde Türk kahvesi, espresso ve diğer yoğun aromalı sıcak içeceklerin servisinde ideal kullanım sunmaktadır.
-
-Promosyon kahve fincanı setleri; ofisler, toplantı salonları, kafeler, restoranlar, oteller ve kurumsal organizasyonlarda sık kullanılan promosyon ürünleri arasında yer almaktadır. Gün içerisinde sürekli kullanılan bir ürün olması sayesinde marka bilinirliğini artıran etkili reklam ürünlerinden biridir.
-
-KVF-100 modeli süblimasyon (dijital) baskıya uygun porselen yüzeye sahiptir. Firma logosu, kurumsal tasarımlar veya reklam görselleri fincan üzerine yüksek çözünürlükte uygulanabilir. Renkli kulp ve tabak seçenekleri sayesinde kurumsal kimliğinize uygun şık çalışmalar hazırlanabilir.
-
-Şık görünümü, kaliteli porselen yapısı ve uzun ömürlü kullanımı sayesinde promosyon kahve fincanı seti yalnızca reklam amaçlı değil; aynı zamanda kurumsal hediye olarak da tercih edilmektedir.
-
-NEDEN PROMOSYON KAHVE FİNCANI KVF-100 TERCİH EDİLMELİ?
-
-• 6 kişilik şık kahve fincanı seti
-• 65 ml ideal kahve hacmi
-• Kaliteli porselen malzeme
-• Süblimasyon baskıya uygun yüzey
-• Logo baskısı için geniş alan
-• Türk kahvesi ve espresso servisine uygun
-• Kurumsal promosyonlar için ideal
-• Uzun süre marka görünürlüğü sağlar
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon ürünleri
-• Ofis ve toplantı salonları
-• Kafe ve restoranlar
-• Oteller
-• Fuar ve organizasyonlar
-• Kurumsal müşteri hediyeleri
-• Marka tanıtım kampanyaları
-• Eğitim kurumları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Kafe ve restoran işletmeleri
-• Oteller
-• Organizasyon firmaları
-• Belediyeler
-• Kamu kurumları
-• Promosyon ürün tedarikçileri
-
-PROMOSYON KAHVE FİNCANI FİYATLARI
-
-Promosyon kahve fincanı fiyatları; sipariş miktarı, baskı tasarımı, üretim planı ve uygulama detaylarına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Logo ve baskı çalışmaları firmanıza özel hazırlanır.
-• Toplu sipariş üretimine uygundur.
-• Güncel stok ve termin bilgisi teklif aşamasında paylaşılır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Kahve Fincanı Seti
-Model: KVF-100
-Malzeme: Porselen
-Set İçeriği: 6 Adet Kahve Fincanı + Tabak
-Kapasite: 65 ml
-Fincan Yüksekliği: 57 mm
-Fincan Çapı: 55 mm
-Ağırlık: 115 gr
-Baskı Alanı: 180 × 57 mm
-Baskı Türü: Süblimasyon (Dijital Baskı)
-Minimum Sipariş: 1 Kutu
-Kategori: Kupa
-
-KULLANIM NOTU
-
-Fincanlar bulaşık makinesinde yıkanabilir. Ancak yoğun kimyasal kullanımına bağlı olarak uzun süreli kullanımlarda baskıda doğal aşınmalar meydana gelebilir. Baskının daha uzun ömürlü olması için elde yıkama tavsiye edilmektedir.
-
-Promosyon 6 kişilik kahve fincanı KVF-100, kaliteli porselen yapısı, logo baskıya uygun yüzeyi ve şık tasarımı sayesinde markanızı profesyonel şekilde temsil eden kurumsal promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon kahve fincanı KVF-100 üzerine logo baskısı yapılabilir mi?",
-      a: "Evet. Ürün üzerine süblimasyon (dijital) baskı ile logo, marka adı ve kurumsal tasarımlar uygulanabilmektedir.",
-    },
-    {
-      q: "Set içerisinde kaç adet fincan bulunmaktadır?",
-      a: "KVF-100 modeli 6 adet porselen kahve fincanı ve tabaklarından oluşan 6 kişilik bir settir.",
-    },
-    {
-      q: "Fincanın kapasitesi ne kadardır?",
-      a: "Her fincan 65 ml kapasiteye sahiptir ve Türk kahvesi ile espresso servisi için uygundur.",
-    },
-    {
-      q: "Promosyon kahve fincanı hangi alanlarda kullanılabilir?",
-      a: "Ofislerde, kafelerde, restoranlarda, otellerde, fuarlarda, kurumsal etkinliklerde ve marka tanıtım çalışmalarında kullanılabilir.",
-    },
-    {
-      q: "Minimum sipariş miktarı nedir?",
-      a: "Bu ürün için minimum sipariş miktarı 1 kutudur. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.",
-    },
-    {
-      q: "Fincanlar bulaşık makinesinde yıkanabilir mi?",
-      a: "Evet. Ancak baskının daha uzun ömürlü olması için elde yıkama tavsiye edilmektedir.",
-    },
-  ],
+  image: "/products/promosyon-kahve-fincani-kvf-100-v2.jpg",
+  shortDesc: "KVF-100 setinde 6 adet 65 ml kahve fincanı bulunur. Minimum sipariş bir kutu; fincan yüksekliği 57 mm ve çapı 55 mm’dir.",
+  longDesc: "KVF-100, kutusunda 6 adet 65 ml kahve fincanı bulunan set seçeneğidir. Kupa modellerinden farklı olarak küçük hacimli kahve sunumuna yönelik hazırlanır ve minimum bir kutu siparişle tekliflendirilebilir.\n\nTEKNİK ÖZELLİKLER\n\nModel: KVF-100\nÜrün Tipi: Kahve fincanı seti\nKutu İçeriği: 6 adet fincan\nFincan Hacmi: 65 ml (65 cc)\nFincan Yüksekliği: 57 mm\nFincan Çapı: 55 mm\nListelenen Ağırlık: 115 g\nFincan Yüzeyi: 180 x 57 mm\nMinimum Sipariş: 1 kutu\n\nMODELİN KULLANIM FARKI\n\nKahve sunumu yapılan ofisler, toplantı alanları ve işletmeler için altılı fincan seti olarak değerlendirilebilir. Kutu adedi ile fincan adedi birbirinden farklıdır: bir kutuda 6 fincan bulunur.\n\nLOGO UYGULAMASI\n\nFincan üzerine logo veya kurumsal tasarım için teklif alabilirsiniz. 180 x 57 mm yüzey bilgisi verilmiştir; baskı yöntemi ve uygulanabilir logo alanı tasarımınıza göre netleştirilir.\n\nYIKAMA VE BASKI BAKIMI\n\nBulaşık makinesinde yıkamaya uygundur. Kullanılan kimyasallar ve yıkama sıklığına bağlı olarak zamanla baskıda solma veya yüzeyde çizilme görülebilir.\n\nSİPARİŞ\n\nKVF-100 için ürün/kutu adedini ve logo dosyanızı ileterek güncel fiyat teklifi alabilirsiniz. Minimum sipariş bir kutudur. Bir kutuda 6 adet fincan bulunur. Baskı kapsamı, renk uygunluğu ve teslim süresi nihai teklifte netleştirilir.",
+  faq: [{"q":"Promosyon kahve fincanı KVF-100 üzerine logo baskısı yapılabilir mi?","a":"Fincan üzerine logo veya kurumsal tasarım için teklif alabilirsiniz. 180 x 57 mm yüzey bilgisi verilmiştir; baskı yöntemi ve uygulanabilir logo alanı tasarımınıza göre netleştirilir."},{"q":"Set içerisinde kaç adet fincan bulunmaktadır?","a":"KVF-100 kutusunda 6 adet fincan bulunur. Her fincanın hacmi 65 ml’dir."},{"q":"Fincanın kapasitesi ne kadardır?","a":"Her fincanın hacmi 65 ml, yani 65 cc’dir. Bu değer setin toplam hacmi değildir."},{"q":"Promosyon kahve fincanı hangi alanlarda kullanılabilir?","a":"Kahve sunumu yapılan ofisler, toplantı alanları ve işletmeler için altılı fincan seti olarak değerlendirilebilir. Kutu adedi ile fincan adedi birbirinden farklıdır: bir kutuda 6 fincan bulunur."},{"q":"Minimum sipariş miktarı nedir?","a":"Minimum sipariş bir kutudur. Bir kutuda 6 adet fincan bulunur."},{"q":"Fincanlar bulaşık makinesinde yıkanabilir mi?","a":"Bulaşık makinesinde yıkamaya uygundur. Kullanılan kimyasallar ve yıkama sıklığına bağlı olarak zamanla baskıda solma veya yüzeyde çizilme görülebilir."}]
 },
 {
   id: "p153",
@@ -47808,140 +47381,13 @@ Toplu teklif için ürün kodunu, adedi ve logo dosyanızı iletebilirsiniz. Bas
 },
 {
   id: "p663",
-
   slug: "promosyon-seramik-kupa-330ml-sk-105",
-
-  title: "Promosyon Seramik Kupa SK-105 | Logo Baskılı 330 ml Seramik Kupa",
-
+  title: "Promosyon Seramik Kupa SK-100 | 330 ml Süblimasyon Baskılı",
   category: "Kupa",
-
   image: "/products/promosyon-seramik-kupa-330ml-sk-105.jpg",
-
-  shortDesc:
-    "Promosyon seramik kupa SK-105, 330 ml hacmi, süblimasyon dijital baskıya uygun yüzeyi ve dayanıklı seramik yapısı ile kurumsal promosyon ürünleri arasında en çok tercih edilen logo baskılı kupa modellerinden biridir.",
-
-  longDesc: `
-Promosyon seramik kupa SK-105 modeli, kaliteli seramik gövdesi ve geniş baskı alanı sayesinde kurumsal tanıtımlarda en çok tercih edilen promosyon kupa modellerinden biridir.
-
-330 ml hacmi ile çay, kahve, latte, cappuccino ve diğer sıcak ya da soğuk içeceklerin günlük tüketimi için ideal kullanım sunar. Ofislerde, toplantı odalarında, fuarlarda ve ev kullanımında uzun yıllar tercih edilen kullanışlı bir promosyon ürünüdür.
-
-Promosyon kupa modelleri; kurumsal firmalar, belediyeler, eğitim kurumları, kafeler, restoranlar ve reklam ajansları tarafından marka bilinirliğini artırmak amacıyla sıklıkla tercih edilmektedir. Günlük kullanımda sürekli göz önünde bulunan bir ürün olması sayesinde markanız uzun süre görünür kalır.
-
-SK-105 modeli kaliteli seramik malzemeden üretilmiştir. Ürün üzerine süblimasyon (dijital baskı) yöntemi ile firmanıza ait logo, slogan veya özel tasarımlar canlı renklerle uygulanabilmektedir. Yüksek baskı kalitesi sayesinde logo uzun süre ilk günkü görünümünü korur.
-
-Dayanıklı seramik yapısı sayesinde günlük kullanıma uygundur. Kurumsal etkinlikler, fuarlar, lansmanlar, çalışan motivasyon projeleri ve müşteri hediyeleri için hem ekonomik hem de prestijli bir promosyon çözümüdür.
-
-NEDEN PROMOSYON SERAMİK KUPA SK-105?
-
-• 330 ml kullanım hacmi
-• Dayanıklı seramik gövde
-• Süblimasyon dijital baskıya uygun
-• Canlı ve kalıcı logo baskısı
-• Günlük kullanıma uygun
-• Ofis ve ev kullanımına ideal
-• Geniş logo baskı alanı
-• Kurumsal promosyonlar için ekonomik çözüm
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi:
-Promosyon Seramik Kupa
-
-Model:
-SK-105
-
-Kategori:
-Kupa
-
-Malzeme:
-Seramik
-
-Baskı Türü:
-Süblimasyon (Dijital Baskı)
-
-Hacim:
-330 ml
-
-Yükseklik:
-9.3 cm
-
-Çap:
-8.1 cm
-
-Ağırlık:
-260 gr
-
-Minimum Sipariş:
-45 Adet
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon ürünleri
-• Ofis ve çalışan hediyeleri
-• Müşteri promosyonları
-• Fuar ve etkinlik dağıtımları
-• Kafe ve restoran promosyonları
-• Belediyeler
-• Eğitim kurumları
-• Reklam kampanyaları
-• Lansman organizasyonları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Belediyeler
-• Üniversiteler
-• Okullar
-• Kafeler
-• Restoranlar
-• Promosyon ürün tedarikçileri
-
-KULLANIM NOTU
-
-Kupalar bulaşık makinesinde yıkamaya uygundur. Ancak bulaşık makinelerinde kullanılan kimyasallar nedeniyle kullanım sıklığına bağlı olarak zamanla baskıda solma veya yüzeyde çizilme gibi deformasyonlar oluşabilir. Bu durum tüm baskılı kupa ürünlerinde doğal kullanım sonucudur.
-
-SİPARİŞ BİLGİSİ
-
-Promosyon seramik kupa SK-105 modeli toplu sipariş olarak üretilmektedir.
-
-Logo baskı çalışmaları firmanıza özel hazırlanmaktadır.
-
-Minimum sipariş adedi 45 adettir.
-
-Güncel fiyat, baskı seçenekleri ve teslim süresi hakkında teklif almak için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-Promosyon seramik kupa SK-105 modeli; kaliteli seramik yapısı, süblimasyon dijital baskı teknolojisi, geniş baskı alanı ve günlük kullanıma uygun tasarımı sayesinde markanızı uzun yıllar görünür kılan en popüler promosyon kupa modellerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "SK-105 kupa hangi baskı yöntemi ile baskılanmaktadır?",
-      a: "Ürün üzerine süblimasyon (dijital baskı) yöntemi uygulanmaktadır."
-    },
-    {
-      q: "Minimum sipariş adedi kaçtır?",
-      a: "Bu model için minimum sipariş miktarı 45 adettir."
-    },
-    {
-      q: "Kupanın hacmi ne kadardır?",
-      a: "SK-105 modeli 330 ml içecek kapasitesine sahiptir."
-    },
-    {
-      q: "Bulaşık makinesinde yıkanabilir mi?",
-      a: "Evet. Ürün bulaşık makinesinde yıkanabilir. Ancak kullanılan kimyasallara bağlı olarak zamanla baskıda solma veya yüzeyde çizilme oluşması doğal kabul edilmektedir."
-    },
-    {
-      q: "Logo baskısı yapılabiliyor mu?",
-      a: "Evet. Firmanıza özel logo, görsel veya tasarımlar süblimasyon dijital baskı ile uygulanabilmektedir."
-    },
-    {
-      q: "Kurumsal promosyon için uygun mudur?",
-      a: "Evet. Ofisler, fuarlar, etkinlikler, müşteri hediyeleri ve çalışan motivasyon projeleri için en çok tercih edilen promosyon kupa modellerinden biridir."
-    }
-  ]
+  shortDesc: "SK-100; 330 ml seramik kupa, 9,3 cm yükseklik ve 8,1 cm çapla sunulur. Süblimasyon dijital baskı ve minimum 45 adet sipariş bilgisi bulunur.",
+  longDesc: "SK-100, seramik malzemesiyle porselen PK serisinden ayrılan 330 ml kupa modelidir. Süblimasyon dijital baskıyla logo veya renkli tasarım uygulanabilir; minimum sipariş 45 adet olarak sunulur.\n\nTEKNİK ÖZELLİKLER\n\nModel: SK-100\nMalzeme: Seramik\nHacim: 330 ml\nYükseklik: 9,3 cm\nÇap: 8,1 cm\nAğırlık: 260 g\nBaskı: Süblimasyon (dijital baskı)\nMinimum Sipariş: 45 adet\n\nMODELİN KULLANIM FARKI\n\nPK-100 ile aynı 330 ml hacimde olmasına karşın SK-100 seramik gövdeye sahiptir. 260 g olarak listelenen ağırlık ve 8,1 cm çap, model karşılaştırmasında kullanılabilir.\n\nLOGO UYGULAMASI\n\nSüblimasyon dijital baskı uygulanabilir. Logo yerleşimi, renk ve baskı kapsamı tasarım dosyanızla birlikte hazırlanır.\n\nYIKAMA VE BASKI BAKIMI\n\nBulaşık makinesinde yıkamaya uygundur. Kullanılan kimyasallar ve yıkama sıklığına bağlı olarak zamanla baskıda solma veya yüzeyde çizilme görülebilir.\n\nSİPARİŞ\n\nSK-100 için ürün/kutu adedini ve logo dosyanızı ileterek güncel fiyat teklifi alabilirsiniz. Minimum sipariş 45 adettir. Baskı kapsamı, renk uygunluğu ve teslim süresi nihai teklifte netleştirilir.",
+  faq: [{"q":"SK-100 kupa hangi baskı yöntemi ile baskılanmaktadır?","a":"Süblimasyon dijital baskı uygulanabilir. Logo yerleşimi, renk ve baskı kapsamı tasarım dosyanızla birlikte hazırlanır."},{"q":"Minimum sipariş adedi kaçtır?","a":"Minimum sipariş 45 adettir."},{"q":"Kupanın hacmi ne kadardır?","a":"SK-100 kupanın hacmi 330 ml’dir."},{"q":"Bulaşık makinesinde yıkanabilir mi?","a":"Bulaşık makinesinde yıkamaya uygundur. Kullanılan kimyasallar ve yıkama sıklığına bağlı olarak zamanla baskıda solma veya yüzeyde çizilme görülebilir."},{"q":"Logo baskısı yapılabiliyor mu?","a":"Süblimasyon dijital baskı uygulanabilir. Logo yerleşimi, renk ve baskı kapsamı tasarım dosyanızla birlikte hazırlanır."},{"q":"Kurumsal promosyon için uygun mudur?","a":"PK-100 ile aynı 330 ml hacimde olmasına karşın SK-100 seramik gövdeye sahiptir. 260 g olarak listelenen ağırlık ve 8,1 cm çap, model karşılaştırmasında kullanılabilir."}]
 },
 {
   id: "p664",
