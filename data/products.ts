@@ -10241,6 +10241,8 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
   title:
     "Promosyon Cetvel CT-200 | 15 cm Logo Baskılı Plastik Cetvel",
 
+  price: 15,
+
   category: "Kırtasiye Ürünleri",
 
   image: "/products/promosyon-cetvel-cesitleri-ct-200.jpg",
@@ -10265,7 +10267,7 @@ CT-200 modeli tek başına dağıtılabileceği gibi kalem, silgi, kalemtıraş,
 
 Plastik malzemeden üretilen yapısı hafif ve günlük kullanıma uygundur. Kompakt ölçüsü sayesinde yüksek adetli kurumsal dağıtımlar ve etkinlikler için de pratik bir seçenektir.
 
-Ürün üzerine serigrafi veya UV baskı teknikleri kullanılarak firmanıza özel logo uygulaması yapılabilir.
+Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir.
 
 Logo baskılı promosyon cetveller, günlük kullanım sırasında markanın tekrar tekrar görülmesini sağlayarak uzun süreli marka görünürlüğünü destekler.
 
@@ -10276,8 +10278,7 @@ NEDEN PROMOSYON CETVEL CT-200?
 • Hafif plastik yapı
 • Kompakt ve taşınabilir tasarım
 • Logo baskısına uygun geniş yüzey
-• Serigrafi baskıya uygun
-• UV baskıya uygun
+• Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir.
 • Okul ve eğitim kampanyalarına uygun
 • Ofis kullanımına uygun
 • Kırtasiye setlerine eklenebilir
@@ -10327,7 +10328,7 @@ BASKI BİLGİLERİ
 
 CT-200 promosyon cetvel üzerine firma logosu, marka adı, slogan, internet adresi veya kurumsal tasarım uygulanabilir.
 
-Baskı Türleri: Serigrafi Baskı / UV Baskı
+Baskı: Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir.
 Logo Baskı: Kurumsal logo uygulamasına uygundur
 
 Uygulanacak baskı yöntemi logo tasarımı, baskı renkleri, sipariş miktarı ve istenilen baskı alanına göre belirlenmektedir.
@@ -10357,7 +10358,7 @@ Malzeme: Plastik
 Ölçüm Uzunluğu: 15 cm
 Ölçek: Santimetre / Milimetre
 Renk: Beyaz
-Baskı Türleri: Serigrafi Baskı / UV Baskı
+Baskı: Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir.
 Logo Baskı: Uygun
 Kullanım Tipi: Okul / Eğitim / Ofis / Kırtasiye / Kurumsal Promosyon
 
@@ -10379,7 +10380,7 @@ Promosyon cetvel CT-200; 15 cm ölçüm kapasitesi, kompakt plastik yapısı ve 
     },
     {
       q: "Promosyon cetvele hangi baskılar uygulanabilir?",
-      a: "CT-200 modeli serigrafi ve UV baskı uygulamalarına uygundur."
+      a: "Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir."
     },
     {
       q: "CT-200 okul promosyonları için uygun mudur?",
@@ -52473,7 +52474,7 @@ Masaüstünde az yer kaplayan tasarımı sayesinde ofislerde, okullarda, çalı�
 
 Ürünün merkezinde bulunan geniş beyaz yüzey, firma logosu, marka adı veya kurumsal tasarımların uygulanması için dikkat çekici bir baskı alanı oluşturur.
 
-FK-550 üzerine UV baskı veya tampon baskı teknikleri kullanılarak firmanıza özel logo uygulaması yapılabilir.
+Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir.
 
 Logo baskısının ürünün merkezi ve görünür bölümünde bulunması, kullanım sırasında markanızın sürekli dikkat çekmesine yardımcı olur.
 
@@ -52494,8 +52495,7 @@ NEDEN PROMOSYON FOSFORLU KALEM FK-550?
 • Kompakt çiçek tasarımı
 • Ayrı koruyucu kapaklar
 • Geniş merkezi baskı alanı
-• UV baskıya uygun
-• Tampon baskıya uygun
+• Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir.
 • Logo ve marka uygulamasına uygun
 • Kolay taşınabilir yapı
 • Masaüstünde az yer kaplayan tasarım
@@ -52547,6 +52547,8 @@ KİMLER İÇİN UYGUN?
 
 PROMOSYON FOSFORLU KALEM FK-550 FİYATLARI
 
+Bu model için sabit liste fiyatı belirtilmemiştir. Güncel fiyat için teklif alın.
+
 Promosyon fosforlu kalem fiyatları sipariş miktarı, uygulanacak logo baskı yöntemi, baskı detayları, güncel stok durumu ve teslim süresine göre değişiklik gösterebilir.
 
 Yüksek adetli FK-550 fosforlu kalem seti siparişlerinde kurumsal firmalara özel fiyatlandırma yapılabilir.
@@ -52557,7 +52559,7 @@ BASKI BİLGİLERİ
 
 FK-550 fosforlu kalem setinin merkezi beyaz yüzeyi kurumsal logo ve marka baskısı için uygundur.
 
-Baskı Türleri: UV Baskı / Tampon Baskı
+Baskı: Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir.
 Logo Baskı: Kurumsal logo uygulamasına uygundur
 Baskı Konumu: Merkezi Beyaz Gövde
 
@@ -52581,7 +52583,6 @@ SİPARİŞ BİLGİSİ
 
 • Kurumsal toplu siparişlere uygundur.
 • Firma logosuna özel baskı yapılabilir.
-• UV ve tampon baskı seçenekleri uygulanabilir.
 • Minimum sipariş adedi stok durumuna göre belirlenmektedir.
 • Güncel stok durumu sipariş öncesinde kontrol edilmelidir.
 • Teslim süresi sipariş miktarı ve baskı işlemine göre planlanmaktadır.
@@ -52599,7 +52600,7 @@ Renkler: Sarı / Yeşil / Mavi / Pembe / Turuncu
 Tasarım: Yuvarlak / Çiçek Formlu
 Kapak: Her Renk İçin Ayrı Koruyucu Kapak
 Baskı Alanı: Merkezi Beyaz Yüzey
-Baskı Türleri: UV Baskı / Tampon Baskı
+Baskı: Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir.
 Logo Baskı: Uygun
 Kullanım Tipi: Okul / Eğitim / Ofis / Fuar / Etkinlik / Kurumsal Promosyon
 
@@ -52617,7 +52618,7 @@ Promosyon fosforlu kalem FK-550; tek gövdede sunduğu 5 farklı fosforlu renk, 
     },
     {
       q: "FK-550 için hangi baskı yöntemleri kullanılabilir?",
-      a: "Ürüne UV baskı ve tampon baskı yöntemleri uygulanabilir."
+      a: "Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir."
     },
     {
       q: "FK-550 okul ve eğitim promosyonları için uygun mudur?",
@@ -52648,6 +52649,8 @@ Promosyon fosforlu kalem FK-550; tek gövdede sunduğu 5 farklı fosforlu renk, 
 
   title:
     "Promosyon Sınav Seti KK-620 | Kalem, Silgi ve Kalemtıraşlı Logo Baskılı Öğrenci Seti",
+
+  price: 56,
 
   category: "Kırtasiye Ürünleri",
 
@@ -52739,10 +52742,9 @@ BASKI BİLGİLERİ
 
 Promosyon sınav seti KK-620 üzerine firma logosu, marka adı veya kurumsal tasarım uygulanabilir.
 
-Baskı Türleri:
+Baskı Uygulaması:
 
-• UV Baskı
-• Tampon Baskı
+• Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir.
 
 Uygulanacak baskı yöntemi logo tasarımına, baskı alanına, renk sayısına ve sipariş miktarına göre belirlenebilir.
 
@@ -52798,7 +52800,6 @@ SİPARİŞ BİLGİSİ
 
 • Ürün kurumsal toplu siparişlere uygundur.
 • Firma logosuna özel baskı uygulanabilir.
-• UV ve tampon baskı seçenekleri değerlendirilebilir.
 • Minimum sipariş adedi stok durumuna göre belirlenmektedir.
 • Güncel stok bilgisi sipariş öncesinde kontrol edilmelidir.
 • Teslim süresi sipariş miktarı ve baskı işlemine göre belirlenmektedir.
@@ -52811,12 +52812,13 @@ TEKNİK ÖZELLİKLER
 Model: KK-620
 Kategori: Kırtasiye Ürünleri
 Kutu: Şeffaf Set Kutusu
+Set Ölçüsü: 18,5 x 5 cm
 Siyah Kalem: 1 Adet Siyah Uçlu Kurşun Kalem
 Kırmızı Kalem: 1 Adet Kırmızı Uçlu Kurşun Kalem
 Kalemtıraş: 1 Adet Kapaksız Kalemtıraş
 Silgi: 1 Adet
 Silgi Ölçüsü: 30 x 20 x 10 mm
-Baskı Türleri: UV Baskı / Tampon Baskı
+Baskı: Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir.
 Logo Baskı: Uygun
 Kullanım: Okul / Eğitim / Sınav / Etkinlik / Kurumsal Promosyon
 
@@ -52838,7 +52840,7 @@ Promosyon sınav seti KK-620; kurşun kalemleri, silgisi, kalemtıraşı ve şef
     },
     {
       q: "KK-620 için hangi baskı yöntemleri kullanılabilir?",
-      a: "Logo tasarımı ve baskı alanına bağlı olarak UV baskı veya tampon baskı uygulanabilir."
+      a: "Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir."
     },
     {
       q: "KK-620 silgisinin ölçüsü nedir?",
@@ -52866,12 +52868,14 @@ Promosyon sınav seti KK-620; kurşun kalemleri, silgisi, kalemtıraşı ve şef
   title:
     "Promosyon Kalemtıraş KT-300 | Renkli Plastik Pratik Kalemtıraş",
 
+  price: 6,
+
   category: "Kırtasiye Ürünleri",
 
   image: "/products/promosyon-kalemtras-kt-300.jpg",
 
   shortDesc:
-    "Promosyon kalemtıraş KT-300, kompakt yuvarlak tasarımı, dayanıklı plastik gövdesi ve farklı renk seçenekleri ile okul, eğitim ve yüksek adetli toplu dağıtımlar için uygun ekonomik bir kırtasiye ürünüdür.",
+    "Promosyon kalemtıraş KT-300, 3 cm çapındaki yuvarlak tasarımı, plastik gövdesi ve farklı renk seçenekleri ile okul, eğitim ve yüksek adetli toplu dağıtımlar için uygun ekonomik bir kırtasiye ürünüdür.",
 
   longDesc: `
 Promosyon kalemtıraş KT-300 modeli, kompakt tasarımı ve pratik kullanımı ile okul, eğitim ve kurumsal promosyon çalışmalarında tercih edilebilecek ekonomik kırtasiye ürünlerinden biridir.
@@ -52892,7 +52896,7 @@ Renk seçenekleri stok durumuna göre değişiklik gösterebileceğinden sipari�
 
 KOMPAKT YAPI
 
-KT-300 küçük ve hafif yapısı sayesinde günlük kullanıma uygundur.
+KT-300 modeli 3 cm çapında, küçük ve hafif yapısıyla günlük kullanıma uygundur.
 
 Kalemliklerde ve çantalarda kolaylıkla taşınabilir. Küçük boyutu aynı zamanda promosyon kırtasiye setlerinin içerisinde tamamlayıcı ürün olarak kullanılmasına imkan tanır.
 
@@ -52952,6 +52956,7 @@ TEKNİK ÖZELLİKLER
 Ürün Tipi: Promosyon Kalemtıraş
 Model: KT-300
 Kategori: Kırtasiye Ürünleri
+Çap: 3 cm
 Gövde: Plastik
 Kalemtıraş Tipi: Tek Delikli
 Bıçak: Metal
@@ -53070,6 +53075,8 @@ Promosyon kalemtıraş KT-300; renkli plastik gövdesi, kompakt tasarımı ve me
 
   title:
     "Promosyon Kalemtıraş KT-360 | Minik Boy Renkli Ekonomik Kalemtıraş",
+
+  price: 6,
 
   category: "Kırtasiye Ürünleri",
 
@@ -53281,151 +53288,40 @@ Promosyon kalemtıraş KT-360; 2,5 x 1,5 x 1 cm minik boyutu, renkli plastik gö
   title:
     "Promosyon Silgi SG-260 | Logo Baskılı Beyaz Silgi (50x25x10 mm)",
 
+  price: 6,
+
   category: "Kırtasiye Ürünleri",
 
   image: "/products/promosyon-silgi-sg-260.jpg",
 
-  shortDesc:
-    "Promosyon silgi SG-260, 50 x 25 x 10 mm ölçüsü, beyaz gövdesi ve logo baskıya uygun geniş yüzeyi ile okul, eğitim ve yüksek adetli kurumsal promosyon çalışmaları için kullanışlı bir kırtasiye ürünüdür.",
+  shortDesc: "Promosyon silgi SG-260; 50 x 25 x 10 mm ölçüsü, beyaz yüzeyi ve oval köşeli tasarımıyla okul, eğitim ve kurumsal kırtasiye çalışmalarında kullanılabilir.",
 
-  longDesc: `
-Promosyon silgi SG-260 modeli, geniş baskı yüzeyi ve kullanışlı ölçüleri ile okul, eğitim ve kurumsal promosyon çalışmalarında tercih edilebilecek kırtasiye ürünlerinden biridir.
+  longDesc: `Promosyon silgi SG-260, beyaz yüzeyi ve oval köşeli görünümüyle okul, eğitim ve kurumsal kırtasiye çalışmalarında değerlendirilebilir. Firma logosu, okul amblemi veya kurumsal tasarımla kişiselleştirme seçenekleri teklif aşamasında belirlenir.
 
-50 x 25 x 10 mm ölçülerindeki kompakt yapısı sayesinde öğrencilerin günlük kullanımına uygun olduğu gibi kırtasiye ve sınav setlerinin içerisinde de rahatlıkla kullanılabilir.
+ÖLÇÜ
 
-Beyaz ve geniş yüzeyi sayesinde firma, okul, kurum ve organizasyon logolarının uygulanmasına uygun bir promosyon alanı sunar.
-
-GENİŞ LOGO BASKI ALANI
-
-SG-260 modelinin öne çıkan özelliklerinden biri geniş ve düz yüzey yapısıdır.
-
-Silginin beyaz yüzeyi üzerine firma logosu, okul logosu, kurum adı veya farklı kurumsal tasarımlar uygulanabilir.
-
-Bu sayede günlük kullanılan temel bir kırtasiye ürünü aynı zamanda marka ve kurum tanıtımında kullanılabilecek promosyon ürününe dönüştürülebilir.
-
-50 X 25 X 10 MM ÖLÇÜ
-
-SG-260 silgi 50 x 25 x 10 mm ölçülerindedir.
-
-Bu ölçü, silginin elde rahat kullanılmasına ve kalem kutularında kolaylıkla taşınmasına imkan tanır.
-
-Kompakt yapısı sayesinde tek başına dağıtılabileceği gibi farklı kırtasiye ürünleriyle oluşturulan promosyon setlerinin içerisinde de kullanılabilir.
-
-OKUL VE EĞİTİM PROMOSYONLARI
-
-Silgi, öğrencilerin en sık kullandığı temel kırtasiye ürünlerinden biridir.
-
-Bu nedenle SG-260 özellikle okullar, özel eğitim kurumları, kurs merkezleri, dershaneler, belediyeler ve öğrencilere yönelik projeler gerçekleştiren kurumlar için uygun bir promosyon seçeneğidir.
-
-Okul açılış dönemlerinde, eğitim etkinliklerinde ve öğrenci dağıtımlarında yüksek adetlerde kullanılabilir.
-
-PROMOSYON SETLERİ İÇİN UYGUN
-
-SG-260 tek başına kullanılabileceği gibi farklı kırtasiye ürünleriyle birlikte set haline getirilebilir.
-
-Kurşun kalem, kalemtıraş, cetvel, not defteri ve benzeri ürünlerle birlikte öğrenci veya sınav setlerinin içerisinde kullanılabilir.
-
-Bu özelliği sayesinde kurumların farklı bütçelere göre promosyon kırtasiye setleri hazırlamasına imkan tanır.
-
-NEDEN PROMOSYON SİLGİ SG-260?
-
-• 50 x 25 x 10 mm ölçülerindedir
-• Kompakt ve kullanışlı tasarıma sahiptir
-• Beyaz gövdelidir
-• Geniş ve düz baskı yüzeyi bulunur
-• Logo baskısına uygundur
-• Okul promosyonlarında kullanılabilir
-• Öğrenci dağıtımlarına uygundur
-• Eğitim kampanyalarında tercih edilebilir
-• Kırtasiye setlerine eklenebilir
-• Sınav setlerinde kullanılabilir
-• Yüksek adetli siparişlere uygundur
-• Kurumsal tanıtım çalışmalarında kullanılabilir
-• Fuar ve etkinlik dağıtımlarına uygundur
-• Ekonomik promosyon alternatiflerinden biridir
+SG-260 silgi 50 x 25 x 10 mm ölçüsündedir. Kompakt yapısı kalem kutularında ve kırtasiye setlerinde kolay taşınmasını sağlar.
 
 TEKNİK ÖZELLİKLER
 
 Ürün Tipi: Promosyon Silgi
 Model: SG-260
 Kategori: Kırtasiye Ürünleri
+Görseldeki Renk: Beyaz
 Ölçü: 50 x 25 x 10 mm
-Renk: Beyaz
-Tasarım: Kompakt / Oval Köşeli
-Baskı Alanı: Geniş Düz Yüzey
-Logo Uygulaması: Uygun
-Kullanım Alanı: Okul / Eğitim / Kırtasiye / Kurumsal Promosyon
-
-LOGO BASKI
-
-SG-260 modelinin geniş beyaz yüzeyi kurumsal logo uygulamalarına uygundur.
-
-Firma logosu, okul amblemi, kurum adı veya kampanyaya özel tasarımlar ürün üzerine uygulanabilir.
-
-Baskı tekniği, baskı alanı ve uygulanacak tasarım sipariş öncesinde ürün ve logo özelliklerine göre belirlenmektedir.
-
-Logo uygulaması sayesinde özellikle yüksek adetli öğrenci dağıtımlarında kurum veya markanın görünürlüğünün artırılması amaçlanabilir.
-
-KİMLER İÇİN UYGUN?
-
-• İlkokullar
-• Ortaokullar
-• Liseler
-• Özel okullar
-• Üniversiteler
-• Eğitim kurumları
-• Dershaneler
-• Kurs merkezleri
-• Etüt merkezleri
-• Belediyeler
-• Kamu kurumları
-• Yayınevleri
-• Kırtasiye firmaları
-• Vakıflar ve dernekler
-• Eğitim organizasyonları
-• Kurumsal şirketler
-• Sosyal sorumluluk projeleri
+Baskı: Baskı yöntemi, uygulama alanı ve bedeli ürün yüzeyi ile logo tasarımına göre teklif aşamasında teyit edilir.
 
 KULLANIM ALANLARI
 
-• Okul promosyonları
-• Öğrenci promosyonları
-• Eğitim kampanyaları
-• Kırtasiye promosyon setleri
-• Sınav setleri
-• Okul açılış etkinlikleri
-• Öğrenci karşılama paketleri
-• Kurs ve eğitim merkezi dağıtımları
-• Belediye eğitim projeleri
-• Sosyal sorumluluk projeleri
-• Fuar ve etkinlikler
-• Toplu öğrenci hediyeleri
-• Kurumsal tanıtım çalışmaları
+Okullar, kurslar, eğitim etkinlikleri ve kurumsal öğrenci dağıtımları için değerlendirilebilir. Kalem, kalemtıraş, cetvel ve diğer kırtasiye ürünleriyle birlikte set çalışmalarında kullanılabilir. Kompakt ölçüsü kırtasiye setlerinde tamamlayıcı ürün olarak kullanılmasını kolaylaştırır.
 
-PROMOSYON SİLGİ FİYATLARI
+RENK VE STOK BİLGİSİ
 
-Promosyon silgi fiyatları sipariş miktarı, güncel stok durumu ve uygulanacak logo baskısının özelliklerine göre değişiklik gösterebilir.
-
-Yüksek adetli SG-260 silgi siparişlerinde okullar, eğitim kurumları, kurumsal firmalar ve toplu alımlar için özel fiyatlandırma yapılabilir.
-
-Güncel fiyat, minimum sipariş adedi, baskı ve stok bilgisi için teklif alabilirsiniz.
+Ürün görselinde beyaz model yer almaktadır. Güncel stok ve siparişe uygunluk teklif aşamasında paylaşılır. Görseldeki marka ve logo örnek uygulamayı gösterir; sipariş için müşteriye ait tasarım değerlendirilir.
 
 SİPARİŞ BİLGİSİ
 
-• Ürün kurumsal toplu siparişlere uygundur.
-• Ürün üzerine logo baskısı uygulanabilir.
-• Baskı detayları sipariş öncesinde belirlenmektedir.
-• Minimum sipariş adedi stok durumuna göre belirlenmektedir.
-• Sipariş öncesinde güncel stok bilgisi kontrol edilmelidir.
-• Teslim süresi sipariş miktarı ve baskı işlemine göre belirlenmektedir.
-• Yüksek adetli siparişlerde özel fiyatlandırma yapılabilir.
-• Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-NOT
-
-Ürün görselleri temsili olup görsel üzerindeki marka ve logolar ürünün baskı uygulamasını göstermek amacıyla kullanılmaktadır. Siparişlerde müşteriye ait logo veya kurumsal tasarım uygulanabilir.
-
-Promosyon silgi SG-260; 50 x 25 x 10 mm ölçüsü, beyaz gövdesi ve geniş logo uygulama yüzeyi ile okul, eğitim ve kurumsal promosyon çalışmalarında kullanılabilecek pratik bir kırtasiye ürünüdür.
+Toplu teklif için ürün kodunu, adedi ve logo dosyanızı iletebilirsiniz. Baskı yöntemi, uygulama alanı, minimum sipariş adedi, güncel stok ve teslim süresi sipariş öncesinde netleştirilir. Listelenen ürün fiyatı baskı ve KDV hariçtir.
 `.trim(),
 
   faq: [
