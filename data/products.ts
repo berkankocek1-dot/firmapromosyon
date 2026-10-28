@@ -10406,53 +10406,10 @@ Promosyon cetvel CT-200; 15 cm ölçüm kapasitesi, kompakt plastik yapısı ve 
   title: "Promosyon VIP Set VIP-100 | Logo Baskılı Kurumsal VIP Hediye Seti",
   price: 2960,
   category: "VIP Ürünler",
-
   image: "/products/promosyon-vip-set-vip-100.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-100 modeli termo deri defter, 13.000 mAh powerbank, kartvizitlik, anahtarlık, 16 GB USB bellek ve metal kalem seti içeriği ile kurumsal firmalar için hazırlanan prestijli promosyon hediye setlerinden biridir.",
-
-  longDesc: `
-Promosyon VIP set VIP-100 modeli kurumsal firmalar için hazırlanan prestijli promosyon hediye setleri arasında yer almaktadır. Şık kutu tasarımı ve zengin içeriği sayesinde özellikle yönetici hediyeleri, kurumsal etkinlikler ve özel gün promosyonları için tercih edilmektedir.
-
-VIP promosyon setleri markaların prestijini yansıtan özel kurumsal hediye ürünleri arasında yer alır. İçeriğinde bulunan termo deri defter, powerbank, USB bellek, kartvizitlik ve kalem seti gibi ürünler hem kullanışlı hem de profesyonel bir görünüm sunar.
-
-VIP-100 modeli içerisinde bulunan 13.000 mAh powerbank sayesinde mobil cihazlar kolayca şarj edilebilir. 16 GB USB bellek ise veri taşıma için pratik bir kullanım sağlar.
-
-Promosyon VIP set üzerine firmanıza ait logo veya marka baskısı uygulanarak ürün güçlü bir reklam ve kurumsal tanıtım aracı haline getirilebilir. Bu sayede marka görünürlüğü uzun süreli olarak sağlanabilir.
-
-VIP promosyon setleri özellikle bankalar, holdingler, kurumsal firmalar, finans kuruluşları ve yönetici hediyeleri için tercih edilmektedir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon VIP Set  
-Kategori: VIP Ürünler  
-Kutu Ölçüsü: 38 x 28 x 5,5 cm  
-
-SET İÇERİĞİ
-
-13 x 21 cm Termo Deri Defter  
-13.000 mAh Powerbank  
-Kartvizitlik  
-Anahtarlık  
-16 GB USB Bellek  
-Metal Roller Kalem  
-Metal Tükenmez Kalem  
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-VIP müşteri hediyeleri  
-Yönetici hediyeleri  
-Kurumsal etkinlik promosyonları  
-Prestij promosyon ürünleri  
-
-RENK VE STOK BİLGİSİ
-
-VIP promosyon setleri farklı içerik ve tasarım seçenekleri ile hazırlanabilmektedir. Logo baskı ve üretim detayları sipariş aşamasında belirlenmektedir.
-
-Promosyon VIP set siparişleri toplu üretim olarak hazırlanmakta olup minimum sipariş adedi, baskı alanı ve teslim süresi gibi detaylar teklif aşamasında belirlenmektedir.
-`
+  shortDesc: "Promosyon VIP set VIP-100; 13 x 21 cm termo deri defter, 13.000 mAh powerbank, Kartvizitlik, Anahtarlık, 16 GB USB bellek, Metal roller kalem, Metal tükenmez kalem. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-100, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 13 x 21 cm termo deri defter\n• 13.000 mAh powerbank\n• Kartvizitlik\n• Anahtarlık\n• 16 GB USB bellek\n• Metal roller kalem\n• Metal tükenmez kalem\n\nTEKNİK BİLGİLER\n\nModel: VIP-100\nKategori: VIP Ürünler\nKutu Ölçüsü: 38 x 28 x 5,5 cm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-100 setinin içerisinde hangi ürünler bulunur?","a":"13 x 21 cm termo deri defter; 13.000 mAh powerbank; Kartvizitlik; Anahtarlık; 16 GB USB bellek; Metal roller kalem; Metal tükenmez kalem."},{"q":"VIP-100 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 38 x 28 x 5,5 cm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-100 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-100 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-100 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-100 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p131",
@@ -26695,67 +26652,13 @@ Promosyon tela çanta TÇ-100, 100 gr nonwoven kumaşı, geniş logo baskı alan
 {
   id: "p329",
   slug: "promosyon-vip-set-vip-110",
-  title: "Promosyon VIP Set VIP-110 | Defter, Powerbank, USB ve Kalem Seti",
+  title: "Promosyon VIP Set VIP-110 | Defter, Termos, Kalem ve Anahtarlıklı Kurumsal Hediye Seti",
   price: 1550,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-110.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-110, termo deri defter, powerbank, USB bellek ve kalemlerden oluşan özel kutulu premium kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-110 modeli, kurumsal firmalar için prestijli ve çok fonksiyonlu bir hediye çözümü sunan premium promosyon ürünlerinden biridir.
-
-Set içerisinde yer alan termo deri defter, powerbank, USB bellek, kartvizitlik ve metal kalemler sayesinde kullanıcıya hem şık hem de işlevsel bir deneyim sunar.
-
-Özel kutulu tasarımı sayesinde kurumsal hediyeler, yönetici setleri ve özel organizasyonlar için ideal bir promosyon ürünüdür.
-
-Tüm ürünler logo baskısına uygun olup firmanıza özel tasarımlar ile marka değerinizi artırır.
-
-Yüksek kalite algısı sayesinde VIP müşteri ve üst segment hedef kitle için güçlü bir promosyon çözümüdür.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon VIP Set  
-Kategori: VIP Ürünler  
-
-Set İçeriği:
-
-Termo Deri Defter (13 x 21 cm)  
-8.000 mAh Powerbank  
-Kartvizitlik  
-16 GB USB Bellek  
-Metal Roller Kalem  
-Tükenmez Kalem  
-Özel Kutu  
-
-Ürün Ölçüsü:
-
-38 x 28 x 5,5 cm  
-
-Özellikler:
-
-Premium ve Şık Tasarım  
-Çok Fonksiyonlu Set İçeriği  
-Kurumsal Hediye Çözümü  
-Yüksek Marka Değeri  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon VIP set siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal VIP hediyeler  
-Yönetici ve üst düzey müşteri hediyeleri  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Şirket özel gün hediyeleri  
-`
+  image: "/products/promosyon-vip-set-vip-110-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-110; 14,5 x 21 cm defter, 300 ml çelik termos, Metal roller kalem, Deri-metal anahtarlık. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-110, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 14,5 x 21 cm defter\n• 300 ml çelik termos\n• Metal roller kalem\n• Deri-metal anahtarlık\n\nTEKNİK BİLGİLER\n\nModel: VIP-110\nKategori: VIP Ürünler\nKutu Ölçüsü: 36,5 x 24 x 11 cm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-110 setinin içerisinde hangi ürünler bulunur?","a":"14,5 x 21 cm defter; 300 ml çelik termos; Metal roller kalem; Deri-metal anahtarlık."},{"q":"VIP-110 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 36,5 x 24 x 11 cm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-110 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-110 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-110 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-110 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p330",
@@ -26764,122 +26667,20 @@ Reklam ve marka tanıtımı
   price: 3100,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-120.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-120, powerbank, termos ve çakı fener içeriği ile outdoor ve kurumsal kullanım için ideal premium hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-120 modeli, fonksiyonel ve dikkat çekici ürünlerden oluşan modern bir kurumsal hediye setidir.
-
-Set içerisinde yer alan 10.000 mAh powerbank, 360 ml termos ve çakı fener sayesinde hem günlük kullanım hem de outdoor aktiviteler için pratik çözümler sunar.
-
-Özel kutulu tasarımı sayesinde prestijli bir hediye alternatifi sunar ve kurumsal firmalar için güçlü bir promosyon çözümüdür.
-
-Teknolojik ve fonksiyonel ürünleri bir arada sunması sayesinde kullanıcılar tarafından uzun süre tercih edilir ve markanızın sürekli görünür olmasını sağlar.
-
-Tüm ürünler logo baskısına uygun olup firmanıza özel tasarımlar uygulanabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon VIP Set  
-Kategori: VIP Ürünler  
-
-Set İçeriği:
-
-10.000 mAh Powerbank  
-360 ml Termos  
-Çakı Fener  
-Özel Kutu  
-
-Özellikler:
-
-Fonksiyonel ve Çok Amaçlı Set  
-Outdoor ve Günlük Kullanıma Uygun  
-Premium ve Şık Tasarım  
-Yüksek Marka Görünürlüğü  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon VIP set siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal VIP hediyeler  
-Outdoor ve seyahat ürünleri  
-Yönetici ve özel müşteri hediyeleri  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-`
+  shortDesc: "Promosyon VIP set VIP-120; 10.000 mAh powerbank, 360 ml termos, Çakı fener. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-120, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 10.000 mAh powerbank\n• 360 ml termos\n• Çakı fener\n\nTEKNİK BİLGİLER\n\nModel: VIP-120\nKategori: VIP Ürünler\nKutu / Ambalaj: Özel kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-120 setinin içerisinde hangi ürünler bulunur?","a":"10.000 mAh powerbank; 360 ml termos; Çakı fener."},{"q":"VIP-120 setinin kutu ve ölçü bilgileri nedir?","a":"Ambalaj: Özel kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-120 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-120 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-120 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-120 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p331",
   slug: "promosyon-vip-set-vip-130",
-  title: "Promosyon VIP Set VIP-130 | Defter, Powerbank, Cüzdan ve USB Seti",
-  price: 2220,
+  title: "Promosyon VIP Set VIP-130 | Termos, Powerbank, USB ve Defterli Kurumsal Hediye Seti",
+  price: 4820,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-130.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-130, termo deri defter, powerbank, cüzdan, USB ve kalemlerden oluşan özel kutulu premium kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-130 modeli, şık tasarımı ve zengin içeriği ile kurumsal firmalar için prestijli bir hediye çözümü sunan premium promosyon ürünlerinden biridir.
-
-Set içerisinde yer alan termo deri defter, powerbank, deri cüzdan kartlık, USB bellek, anahtarlık ve metal kalemler sayesinde kullanıcıya hem estetik hem de işlevsel bir deneyim sunar.
-
-Özel kutulu tasarımı sayesinde kurumsal hediyeler, yönetici setleri ve özel organizasyonlar için ideal bir tercihtir.
-
-Günlük kullanımda tercih edilen ürünlerden oluşması sayesinde markanızın uzun süre görünür olmasını sağlar ve güçlü bir reklam etkisi sunar.
-
-Tüm ürünler logo baskısına uygun olup firmanıza özel tasarımlar ile marka değerinizi artırır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon VIP Set  
-Kategori: VIP Ürünler  
-
-Set İçeriği:
-
-Termo Deri Defter (13 x 21 cm)  
-5.000 mAh Powerbank  
-Deri Cüzdan Kartlık  
-Anahtarlık  
-16 GB USB Bellek  
-Metal Roller Kalem  
-Tükenmez Kalem  
-Özel Kutu  
-
-Ürün Ölçüsü:
-
-38 x 28 x 5,5 cm  
-
-Özellikler:
-
-Premium ve Şık Tasarım  
-Çok Fonksiyonlu Set İçeriği  
-Kurumsal Hediye Çözümü  
-Yüksek Marka Değeri  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon VIP set siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve detaylı bilgi için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal VIP hediyeler  
-Yönetici ve üst düzey müşteri hediyeleri  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Şirket özel gün hediyeleri  
-`
+  image: "/products/promosyon-vip-set-vip-130-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-130; 13 x 21 cm termo deri defter, 500 ml termos, 10.000 mAh powerbank, 16 GB USB bellek, Metal roller kalem, Metal tükenmez kalem, Bluetooth hoparlör, Kartvizitlik. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-130, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 13 x 21 cm termo deri defter\n• 500 ml termos\n• 10.000 mAh powerbank\n• 16 GB USB bellek\n• Metal roller kalem\n• Metal tükenmez kalem\n• Bluetooth hoparlör\n• Kartvizitlik\n\nTEKNİK BİLGİLER\n\nModel: VIP-130\nKategori: VIP Ürünler\nKutu Ölçüsü: 29 x 24 x 14 cm\nKutu / Ambalaj: Dubleks taslama kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-130 setinin içerisinde hangi ürünler bulunur?","a":"13 x 21 cm termo deri defter; 500 ml termos; 10.000 mAh powerbank; 16 GB USB bellek; Metal roller kalem; Metal tükenmez kalem; Bluetooth hoparlör; Kartvizitlik."},{"q":"VIP-130 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 29 x 24 x 14 cm. Ambalaj: Dubleks taslama kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-130 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-130 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-130 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-130 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p332",
@@ -49880,2031 +49681,342 @@ Kampanya ve indirim duyuruları
 {
   id: "p617",
   slug: "promosyon-vip-set-vip-140-defter-powerbank-usb-kalem-kurumsal-hediye-seti",
-
-  title: "Promosyon VIP Set VIP-140 | Defter, Powerbank, USB ve Kalemli Kurumsal Hediye Seti",
-  price: 2040,
+  title: "Promosyon VIP Set VIP-140 | Termos, Powerbank ve MagSafe Cüzdanlı Kurumsal Hediye Seti",
+  price: 4700,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-140.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-140, termo deri defter, powerbank, USB bellek ve metal kalemlerden oluşan şık kutulu kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-140, kurumsal firmalar için özel olarak tasarlanmış premium bir hediye setidir.
-
-Set içerisinde termo deri kapaklı defter, 5000 mAh powerbank, 16 GB USB bellek ve metal roller ile tükenmez kalem bulunmaktadır.
-
-Şık ve dayanıklı termo deri defter, günlük notlar ve toplantılar için ideal kullanım sunar.
-
-5000 mAh kapasiteli powerbank, mobil cihazların hızlı ve güvenli şekilde şarj edilmesini sağlar.
-
-16 GB USB bellek, veri taşıma ve depolama ihtiyaçları için pratik bir çözümdür.
-
-Metal roller ve tükenmez kalem, hem şık görünümü hem de uzun ömürlü kullanımı ile profesyonel bir deneyim sunar.
-
-Özel tasarım kutusu sayesinde ürün seti prestijli bir hediye haline gelir ve kurumsal imajınızı güçlendirir.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanızın sürekli görünür olması sağlanır.
-
-Kurumsal promosyon ürünleri arasında üst segment ve yüksek değerli bir hediye seçeneğidir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 9.5 x 14 cm Termo Deri Defter
-- 5000 mAh Powerbank
-- 16 GB USB Bellek
-- Metal Roller Kalem
-- Tükenmez Kalem
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve renklerde farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve özel hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Yönetici ve VIP müşteri hediyeleri
-Fuar ve etkinlik promosyonları
-Yeni müşteri kazanım kampanyaları
-Çalışan motivasyon ve ödül setleri
-`,
+  image: "/products/promosyon-vip-set-vip-140-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-140; 15 x 21 cm termo deri defter, Metal roller kalem, Metal tükenmez kalem, Anahtarlık, 450 ml termos, 10.000 mAh powerbank, Bluetooth hoparlör, MagSafe cüzdan. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-140, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 15 x 21 cm termo deri defter\n• Metal roller kalem\n• Metal tükenmez kalem\n• Anahtarlık\n• 450 ml termos\n• 10.000 mAh powerbank\n• Bluetooth hoparlör\n• MagSafe cüzdan\n\nTEKNİK BİLGİLER\n\nModel: VIP-140\nKategori: VIP Ürünler\nKutu Ölçüsü: 29 x 24 x 14 cm\nKutu / Ambalaj: Dubleks taslama kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-140 setinin içerisinde hangi ürünler bulunur?","a":"15 x 21 cm termo deri defter; Metal roller kalem; Metal tükenmez kalem; Anahtarlık; 450 ml termos; 10.000 mAh powerbank; Bluetooth hoparlör; MagSafe cüzdan."},{"q":"VIP-140 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 29 x 24 x 14 cm. Ambalaj: Dubleks taslama kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-140 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-140 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-140 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-140 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p618",
   slug: "promosyon-vip-set-vip-150-cuzdan-powerbank-usb-kalem-anahtarlik-hediye-seti",
-
   title: "Promosyon VIP Set VIP-150 | Cüzdan, Powerbank, USB, Kalem ve Anahtarlıklı Kurumsal Hediye Seti",
   price: 2100,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-150.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-150, deri cüzdan, powerbank, USB bellek, anahtarlık ve metal kalemlerden oluşan şık kutulu premium kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-150, kurumsal firmalar için özel olarak hazırlanmış prestijli ve zengin içerikli bir hediye setidir.
-
-Set içerisinde deri cüzdan, 5000 mAh powerbank, 16 GB USB bellek, anahtarlık ve metal roller ile tükenmez kalem bulunmaktadır.
-
-Deri cüzdan, günlük kullanım için şık ve fonksiyonel bir çözüm sunarken, uzun ömürlü yapısı ile premium bir his verir.
-
-5000 mAh powerbank, mobil cihazların gün içinde kesintisiz kullanımını sağlar ve pratik bir enerji çözümüdür.
-
-16 GB USB bellek, veri depolama ve taşıma ihtiyaçları için ideal bir üründür.
-
-Metal roller ve tükenmez kalem, hem estetik hem de profesyonel kullanım açısından yüksek kalite sunar.
-
-Anahtarlık, setin tamamlayıcı bir parçası olarak günlük kullanımda sürekli marka görünürlüğü sağlar.
-
-Özel tasarım kutusu sayesinde set, prestijli bir kurumsal hediye haline gelir ve ilk izlenimde fark yaratır.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanız uzun süre görünür kalır.
-
-Kurumsal promosyon ürünleri arasında üst segment, yüksek değerli ve dikkat çekici bir hediye alternatifidir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- Deri Cüzdan
-- 5000 mAh Powerbank
-- 16 GB USB Bellek
-- Anahtarlık
-- Metal Roller Kalem
-- Tükenmez Kalem
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve renklerde farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve özel hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-VIP müşteri ve yönetici hediyeleri
-Fuar ve etkinlik promosyonları
-Yeni müşteri kazanım kampanyaları
-Çalışan ödül ve motivasyon setleri
-`,
+  shortDesc: "Promosyon VIP set VIP-150; Deri cüzdan, 5.000 mAh powerbank, 16 GB USB bellek, Anahtarlık, Metal roller kalem, Metal tükenmez kalem. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-150, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Deri cüzdan\n• 5.000 mAh powerbank\n• 16 GB USB bellek\n• Anahtarlık\n• Metal roller kalem\n• Metal tükenmez kalem\n\nTEKNİK BİLGİLER\n\nModel: VIP-150\nKategori: VIP Ürünler\nKutu Ölçüsü: 29 x 29 x 4,5 cm\nKutu / Ambalaj: Özel kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-150 setinin içerisinde hangi ürünler bulunur?","a":"Deri cüzdan; 5.000 mAh powerbank; 16 GB USB bellek; Anahtarlık; Metal roller kalem; Metal tükenmez kalem."},{"q":"VIP-150 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 29 x 29 x 4,5 cm. Ambalaj: Özel kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-150 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-150 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-150 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-150 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p619",
   slug: "promosyon-vip-set-vip-160-termos-powerbank-defter-kalem-hediye-seti",
-
   title: "Promosyon VIP Set VIP-160 | Termos, Powerbank, Defter ve Kalemli Kurumsal Hediye Seti",
   price: 3150,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-160.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-160, termos, 10.000 mAh powerbank, defter ve metal kalemden oluşan şık kutulu premium kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-160, kurumsal firmalar için özel olarak tasarlanmış yüksek segment bir hediye setidir.
-
-Set içerisinde 10.000 mAh powerbank, 500 ml termos, 13x21 cm defter ve metal roller kalem bulunmaktadır.
-
-10.000 mAh kapasiteli powerbank, mobil cihazların uzun süreli kullanımına olanak tanır ve yüksek performans sunar.
-
-500 ml termos, sıcak ve soğuk içecekleri uzun süre muhafaza ederek günlük kullanımda büyük avantaj sağlar.
-
-13x21 cm defter, toplantılar ve günlük notlar için ideal bir kullanım sunarken şık tasarımı ile dikkat çeker.
-
-Metal roller kalem, estetik ve profesyonel yazım deneyimi sağlar.
-
-Özel tasarım kutusu ile set, prestijli bir kurumsal hediye haline gelir ve ilk izlenimde fark yaratır.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanız uzun süre görünürlük kazanır.
-
-Kurumsal promosyon ürünleri arasında üst segment ve yüksek değerli bir hediye alternatifidir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 10.000 mAh Powerbank
-- 500 ml Termos
-- 13 x 21 cm Defter
-- Metal Roller Kalem
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve renklerde farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve özel hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-VIP müşteri hediyeleri
-Yönetici ve özel davet hediyeleri
-Kurumsal promosyon çalışmaları
-Fuar ve etkinlik organizasyonları
-Çalışan ödüllendirme ve motivasyon setleri
-`,
+  shortDesc: "Promosyon VIP set VIP-160; 10.000 mAh powerbank, Metal roller kalem, 13 x 21 cm defter, 500 ml termos. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-160, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 10.000 mAh powerbank\n• Metal roller kalem\n• 13 x 21 cm defter\n• 500 ml termos\n\nTEKNİK BİLGİLER\n\nModel: VIP-160\nKategori: VIP Ürünler\nKutu / Ambalaj: Özel kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-160 setinin içerisinde hangi ürünler bulunur?","a":"10.000 mAh powerbank; Metal roller kalem; 13 x 21 cm defter; 500 ml termos."},{"q":"VIP-160 setinin kutu ve ölçü bilgileri nedir?","a":"Ambalaj: Özel kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-160 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-160 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-160 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-160 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p620",
   slug: "promosyon-vip-set-vip-170-termos-powerbank-speaker-usb-kalem-hediye-seti",
-
-  title: "Promosyon VIP Set VIP-170 | Termos, Powerbank, Bluetooth Speaker, USB ve Kalemli Premium Hediye Seti",
+  title: "Promosyon VIP Set VIP-170 | Termos, Powerbank, Defter ve Roller Kalemli Kurumsal Hediye Seti",
   price: 2950,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-170.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-170, termos, 10.000 mAh powerbank, bluetooth speaker, USB bellek ve metal kalemden oluşan şık kutulu premium kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-170, kurumsal firmalar için tasarlanmış yüksek segment ve teknoloji odaklı bir hediye setidir.
-
-Set içerisinde 500 ml termos, 10.000 mAh powerbank, bluetooth speaker, 16 GB USB bellek ve metal roller kalem bulunmaktadır.
-
-10.000 mAh kapasiteli powerbank, mobil cihazların uzun süreli kullanımına olanak tanır ve yüksek performans sunar.
-
-Bluetooth speaker, taşınabilir yapısı ile müzik keyfini her ortamda yaşatır ve modern bir kullanım deneyimi sunar.
-
-500 ml termos, sıcak ve soğuk içecekleri uzun süre muhafaza ederek günlük kullanımda avantaj sağlar.
-
-16 GB USB bellek, veri depolama ve taşıma ihtiyaçları için pratik bir çözümdür.
-
-Metal roller kalem, şık tasarımı ve profesyonel yazım deneyimi ile setin prestijini artırır.
-
-Deri kaplama özel kutusu sayesinde set, premium bir hediye haline gelir ve ilk izlenimde güçlü bir etki bırakır.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanız uzun süre görünürlük kazanır.
-
-Kurumsal promosyon ürünleri arasında üst segment, teknoloji odaklı ve yüksek değerli bir hediye alternatifidir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 500 ml Termos
-- 10.000 mAh Powerbank
-- Bluetooth Speaker
-- 16 GB USB Bellek
-- Metal Roller Kalem
-
-Kutu: Deri Kaplama Özel Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve renklerde farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve özel hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-VIP müşteri hediyeleri
-Yönetici ve üst düzey hediye setleri
-Kurumsal promosyon kampanyaları
-Fuar ve etkinlik organizasyonları
-Çalışan ödüllendirme ve motivasyon setleri
-`,
+  image: "/products/promosyon-vip-set-vip-170-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-170; 500 ml çelik termos, 10.000 mAh powerbank, Metal roller kalem, 14,5 x 21 cm termo deri defter. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-170, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 500 ml çelik termos\n• 10.000 mAh powerbank\n• Metal roller kalem\n• 14,5 x 21 cm termo deri defter\n\nTEKNİK BİLGİLER\n\nModel: VIP-170\nKategori: VIP Ürünler\nKutu Ölçüsü: 36,5 x 24 x 11 cm\nKutu / Ambalaj: Karton kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-170 setinin içerisinde hangi ürünler bulunur?","a":"500 ml çelik termos; 10.000 mAh powerbank; Metal roller kalem; 14,5 x 21 cm termo deri defter."},{"q":"VIP-170 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 36,5 x 24 x 11 cm. Ambalaj: Karton kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-170 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-170 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-170 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-170 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p621",
   slug: "promosyon-vip-set-vip-180-termos-defter-powerbank-usb-hediye-seti",
-
   title: "Promosyon VIP Set VIP-180 | Termos, Defter, Powerbank ve USB’li Kurumsal Hediye Seti",
   price: 3400,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-180.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-180, termos, defter, 10.000 mAh powerbank ve USB bellekten oluşan şık kutulu kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-180, kurumsal firmalar için hem şık hem de fonksiyonel bir hediye alternatifi sunan özel tasarım bir settir.
-
-Set içerisinde 500 ml termos, 15x21 cm defter, 10.000 mAh powerbank ve 16 GB USB bellek bulunmaktadır.
-
-500 ml termos, sıcak ve soğuk içecekleri uzun süre muhafaza ederek günlük kullanımda konfor sağlar.
-
-15x21 cm defter, toplantı ve günlük notlar için ideal boyutta olup şık tasarımı ile dikkat çeker.
-
-10.000 mAh kapasiteli powerbank, mobil cihazlar için güçlü ve güvenilir bir enerji çözümü sunar.
-
-16 GB USB bellek, veri depolama ve taşıma ihtiyaçları için pratik kullanım sağlar.
-
-Özel tasarım kutusu sayesinde set, prestijli bir kurumsal hediye haline gelir ve profesyonel bir sunum sağlar.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanız uzun süre görünürlük kazanır.
-
-Kurumsal promosyon ürünleri arasında hem ekonomik hem de premium algı sunan dengeli bir seçenektir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 500 ml Termos
-- 15 x 21 cm Defter
-- 10.000 mAh Powerbank
-- 16 GB USB Bellek
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve renklerde farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve özel hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Çalışan ve müşteri hediyeleri
-Fuar ve etkinlik promosyonları
-Yeni müşteri kazanım kampanyaları
-Kurumsal tanıtım çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-180-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-180; 500 ml termos, 15 x 21 cm defter, Powerbank, 16 GB USB bellek. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-180, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 500 ml termos\n• 15 x 21 cm defter\n• Powerbank\n• 16 GB USB bellek\n\nTEKNİK BİLGİLER\n\nModel: VIP-180\nKategori: VIP Ürünler\nKutu Ölçüsü: 40 x 25 x 11 cm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-180 setinin içerisinde hangi ürünler bulunur?","a":"500 ml termos; 15 x 21 cm defter; Powerbank; 16 GB USB bellek."},{"q":"VIP-180 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 40 x 25 x 11 cm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-180 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-180 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-180 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-180 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p622",
   slug: "promosyon-vip-set-vip-190-defter-kalem-usb-kurumsal-hediye-seti",
-
   title: "Promosyon VIP Set VIP-190 | Defter, Kalem ve USB Bellekli Kurumsal Hediye Seti",
   price: 980,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-190.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-190, defter, kalem ve 16 GB USB bellekten oluşan şık kutulu ekonomik kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-190, kurumsal firmalar için ekonomik ve şık bir hediye alternatifi sunan pratik bir settir.
-
-Set içerisinde defter, kalem ve 16 GB USB bellek bulunmaktadır.
-
-Şık tasarıma sahip defter, günlük notlar ve toplantılar için ideal bir kullanım sunar.
-
-Kalem, profesyonel yazım deneyimi sağlayarak günlük kullanımda konfor sunar.
-
-16 GB USB bellek, veri depolama ve taşıma ihtiyaçları için pratik bir çözüm sağlar.
-
-Özel tasarım kutusu sayesinde set, düzenli ve prestijli bir sunum imkanı sunar.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanızın görünürlüğü artırılır.
-
-Kurumsal promosyon ürünleri arasında ekonomik, kullanışlı ve geniş kitlelere hitap eden bir seçenektir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- Defter
-- Kalem
-- 16 GB USB Bellek
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve renklerde farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Çalışan ve müşteri hediyeleri
-Fuar ve etkinlik promosyonları
-Kurumsal tanıtım çalışmaları
-Toplu dağıtım organizasyonları
-Yeni müşteri kazanım kampanyaları
-`,
+  image: "/products/promosyon-vip-set-vip-190-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-190; Defter, Kalem, 16 GB USB bellek. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-190, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Defter\n• Kalem\n• 16 GB USB bellek\n\nTEKNİK BİLGİLER\n\nModel: VIP-190\nKategori: VIP Ürünler\nKutu Ölçüsü: 24,7 x 21 x 2 cm\nKutu / Ambalaj: Özel kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-190 setinin içerisinde hangi ürünler bulunur?","a":"Defter; Kalem; 16 GB USB bellek."},{"q":"VIP-190 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 24,7 x 21 x 2 cm. Ambalaj: Özel kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-190 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-190 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-190 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-190 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p623",
   slug: "promosyon-vip-set-vip-200-hesap-makineli-defter-kalem-usb-anahtarlik",
-
-  title: "Promosyon VIP Set VIP-200 | Hesap Makineli Defter, Kalem, USB ve Anahtarlıklı Kurumsal Hediye Seti",
-  price: 1200,
+  title: "Promosyon VIP Set VIP-200 | Powerbank, USB, Defter ve Anahtarlıklı Kurumsal Hediye Seti",
+  price: 2600,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-200.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-200, hesap makineli cep bloknot, metal kalem, USB bellek ve anahtarlıktan oluşan şık kutulu kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-200, özellikle ofis ve muhasebe odaklı kullanım için tasarlanmış fonksiyonel bir kurumsal hediye setidir.
-
-Set içerisinde hesap makineli cep bloknot, metal roller kalem, 16 GB USB bellek ve anahtarlık bulunmaktadır.
-
-Hesap makineli cep bloknot, günlük hesaplamalar ve not alma işlemlerini tek üründe birleştirerek pratik kullanım sağlar.
-
-Metal roller kalem, şık tasarımı ve akıcı yazım deneyimi ile profesyonel kullanım sunar.
-
-16 GB USB bellek, veri depolama ve taşıma ihtiyaçları için ideal bir çözümdür.
-
-Anahtarlık, günlük kullanımda sürekli marka görünürlüğü sağlayan tamamlayıcı bir üründür.
-
-Özel tasarım kutusu ile set, prestijli bir kurumsal hediye haline gelir ve etkileyici bir sunum sağlar.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanız uzun süre görünürlük kazanır.
-
-Kurumsal promosyon ürünleri arasında hem işlevsel hem de ekonomik bir alternatif sunar.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- Hesap Makineli Cep Bloknot
-- Metal Roller Kalem
-- 16 GB USB Bellek
-- Anahtarlık
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve renklerde farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Muhasebe ve finans ekipleri
-Ofis çalışanları
-Kurumsal hediye setleri
-Fuar ve etkinlik promosyonları
-Müşteri ve çalışan hediyeleri
-`,
+  image: "/products/promosyon-vip-set-vip-200-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-200; 14,5 x 21 cm termo deri defter, 10.000 mAh powerbank, 16 GB USB bellek, Metal anahtarlık, Metal roller kalem. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-200, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 14,5 x 21 cm termo deri defter\n• 10.000 mAh powerbank\n• 16 GB USB bellek\n• Metal anahtarlık\n• Metal roller kalem\n\nTEKNİK BİLGİLER\n\nModel: VIP-200\nKategori: VIP Ürünler\nKutu Ölçüsü: 32,5 x 22,5 x 4,5 cm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-200 setinin içerisinde hangi ürünler bulunur?","a":"14,5 x 21 cm termo deri defter; 10.000 mAh powerbank; 16 GB USB bellek; Metal anahtarlık; Metal roller kalem."},{"q":"VIP-200 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 32,5 x 22,5 x 4,5 cm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-200 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-200 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-200 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-200 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p624",
   slug: "promosyon-vip-set-vip-210-termos-french-press-speaker-powerbank-hediye-seti",
-
-  title: "Promosyon VIP Set VIP-210 | Termos, French Press, Bluetooth Speaker ve Powerbank Hediye Seti",
-  price: 1050,
+  title: "Promosyon VIP Set VIP-210 | Defter, Roller Kalem ve USB Bellekli Kurumsal Hediye Seti",
+  price: 1080,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-210.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-210, termos, French press, bluetooth speaker ve powerbank içeren özel kutulu premium yaşam tarzı hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-210, modern yaşam tarzına hitap eden özel tasarımı ile premium segment kurumsal hediye setleri arasında öne çıkar.
-
-Set içerisinde 500 ml termos, French press, titanyum AA bluetooth speaker ve 5.000 mAh powerbank bulunmaktadır.
-
-French press, kahve severler için pratik ve keyifli bir demleme deneyimi sunar ve günlük kullanıma uygundur.
-
-500 ml termos, sıcak ve soğuk içecekleri uzun süre muhafaza ederek her ortamda konfor sağlar.
-
-Bluetooth speaker, taşınabilir yapısı ile müzik keyfini her yerde yaşatır ve modern bir kullanım sunar.
-
-5.000 mAh powerbank, mobil cihazlar için pratik ve güvenilir bir enerji çözümü sağlar.
-
-Özel tasarım kutusu ile set, prestijli ve dikkat çekici bir hediye haline gelir.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanız uzun süre görünürlük kazanır.
-
-Kurumsal promosyon ürünleri arasında farklı, dikkat çekici ve yüksek algı değerine sahip bir seçenektir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 500 ml Termos
-- French Press
-- Bluetooth Speaker (Titanyum AA)
-- 5.000 mAh Powerbank
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve tasarımda farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve özel hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-VIP müşteri hediyeleri
-Yönetici ve özel davet hediyeleri
-Kurumsal promosyon kampanyaları
-Fuar ve etkinlik organizasyonları
-Premium yaşam tarzı hediye setleri
-`,
+  image: "/products/promosyon-vip-set-vip-210-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-210; 14,5 x 21 cm termo deri defter, Metal roller kalem, 16 GB metal USB bellek. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-210, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 14,5 x 21 cm termo deri defter\n• Metal roller kalem\n• 16 GB metal USB bellek\n\nTEKNİK BİLGİLER\n\nModel: VIP-210\nKategori: VIP Ürünler\nKutu Ölçüsü: 22,7 x 22,7 x 3,5 cm\nKutu / Ambalaj: Karton kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-210 setinin içerisinde hangi ürünler bulunur?","a":"14,5 x 21 cm termo deri defter; Metal roller kalem; 16 GB metal USB bellek."},{"q":"VIP-210 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 22,7 x 22,7 x 3,5 cm. Ambalaj: Karton kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-210 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-210 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-210 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-210 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p625",
   slug: "promosyon-vip-set-vip-220-teknik-hediye-seti-usb-fener-caki-kablo",
-
-  title: "Promosyon VIP Set VIP-220 | USB, Fener, Çakı, Kablo ve Kalemli Teknik Hediye Seti",
+  title: "Promosyon VIP Set VIP-220 | Defter, Kalem, Kartvizitlik ve Anahtarlıklı Kurumsal Hediye Seti",
   price: 1560,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-220.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-220, USB bellek, fener, çakı, şarj kablosu ve metal kalemden oluşan fonksiyonel ve şık kutulu teknik hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-220, fonksiyonel ve çok amaçlı kullanım sunan teknik içerikli bir kurumsal hediye setidir.
-
-Set içerisinde metal roller kalem, 16 GB USB bellek, fener, çakı ve çoklu şarj kablosu bulunmaktadır.
-
-Çoklu şarj kablosu, farklı cihazlar ile uyumlu yapısı sayesinde pratik kullanım sağlar ve günlük hayatı kolaylaştırır.
-
-16 GB USB bellek, veri depolama ve taşıma ihtiyaçları için ideal bir çözümdür.
-
-Fener, taşınabilir yapısı ile karanlık ortamlarda kullanım imkanı sunar.
-
-Çakı, çok amaçlı yapısı ile outdoor ve günlük kullanımda avantaj sağlar.
-
-Metal roller kalem, şık tasarımı ile profesyonel yazım deneyimi sunar.
-
-Özel tasarım kutusu sayesinde set, düzenli ve prestijli bir hediye haline gelir.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanız uzun süre görünürlük kazanır.
-
-Kurumsal promosyon ürünleri arasında fonksiyonel, dayanıklı ve farklı kullanım alanlarına hitap eden bir alternatiftir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- Metal Roller Kalem
-- 16 GB USB Bellek
-- Fener
-- Çakı
-- Çoklu Şarj Kablosu
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve tasarımda farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Saha ve teknik ekipler
-Otomotiv ve sanayi firmaları
-Kurumsal promosyon kampanyaları
-Outdoor ve günlük kullanım
-Müşteri ve çalışan hediyeleri
-`,
+  image: "/products/promosyon-vip-set-vip-220-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-220; 14,5 x 21 cm termo deri defter, Derili metal roller kalem, Derili metal kartvizitlik, Derili metal anahtarlık. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-220, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 14,5 x 21 cm termo deri defter\n• Derili metal roller kalem\n• Derili metal kartvizitlik\n• Derili metal anahtarlık\n\nTEKNİK BİLGİLER\n\nModel: VIP-220\nKategori: VIP Ürünler\nKutu Ölçüsü: 32,5 x 22,5 x 3,5 cm\nKutu / Ambalaj: Suni deri kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nLacivert, Kırmızı renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-220 setinin içerisinde hangi ürünler bulunur?","a":"14,5 x 21 cm termo deri defter; Derili metal roller kalem; Derili metal kartvizitlik; Derili metal anahtarlık."},{"q":"VIP-220 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 32,5 x 22,5 x 3,5 cm. Ambalaj: Suni deri kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-220 hangi renk seçenekleriyle sunulur?","a":"Lacivert, Kırmızı renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-220 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-220 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-220 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p626",
   slug: "promosyon-vip-set-vip-230-defter-powerbank-usb-kalem-anahtarlik-seti",
-
   title: "Promosyon VIP Set VIP-230 | Defter, Powerbank, USB, Kalem ve Anahtarlıklı Kurumsal Hediye Seti",
   price: 2210,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-230.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-230, defter, 8.000 mAh powerbank, USB bellek, kalem ve anahtarlıktan oluşan şık kutulu kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-230, kurumsal firmalar için şık, kompakt ve fonksiyonel bir hediye çözümü sunan özel tasarım bir settir.
-
-Set içerisinde 9x14 cm tarihsiz defter, 8.000 mAh powerbank, 16 GB USB bellek, tükenmez kalem ve anahtarlık bulunmaktadır.
-
-9x14 cm boyutundaki tarihsiz defter, günlük notlar ve toplantılar için pratik bir kullanım sağlar.
-
-8.000 mAh kapasiteli powerbank, mobil cihazlar için güçlü ve güvenilir bir enerji çözümü sunar.
-
-16 GB USB bellek, veri depolama ve taşıma ihtiyaçlarını karşılar.
-
-Tükenmez kalem, günlük kullanımda konforlu ve akıcı bir yazım deneyimi sunar.
-
-Anahtarlık, setin tamamlayıcı parçası olarak sürekli marka görünürlüğü sağlar.
-
-Özel tasarım kutusu ile set, prestijli bir kurumsal hediye haline gelir ve profesyonel bir sunum sağlar.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanız uzun süre görünürlük kazanır.
-
-Kurumsal promosyon ürünleri arasında hem ekonomik hem de premium algı sunan dengeli bir alternatiftir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 9 x 14 cm Tarihsiz Defter
-- 8.000 mAh Powerbank
-- 16 GB USB Bellek
-- Tükenmez Kalem
-- Anahtarlık
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve tasarımda farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Çalışan ve müşteri hediyeleri
-Fuar ve etkinlik promosyonları
-Yeni müşteri kazanım kampanyaları
-Günlük kullanım odaklı promosyonlar
-`,
+  image: "/products/promosyon-vip-set-vip-230-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-230; 9 x 14 cm tarihsiz defter, 8.000 mAh powerbank, 16 GB USB bellek, Tükenmez kalem, Anahtarlık. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-230, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 9 x 14 cm tarihsiz defter\n• 8.000 mAh powerbank\n• 16 GB USB bellek\n• Tükenmez kalem\n• Anahtarlık\n\nTEKNİK BİLGİLER\n\nModel: VIP-230\nKategori: VIP Ürünler\nKutu Ölçüsü: 28,5 x 26 x 3,5 cm\nKutu / Ambalaj: Özel kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-230 setinin içerisinde hangi ürünler bulunur?","a":"9 x 14 cm tarihsiz defter; 8.000 mAh powerbank; 16 GB USB bellek; Tükenmez kalem; Anahtarlık."},{"q":"VIP-230 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 28,5 x 26 x 3,5 cm. Ambalaj: Özel kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-230 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-230 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-230 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-230 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p627",
   slug: "promosyon-vip-set-vip-240-defter-powerbank-usb-kalem-anahtarlik-kartvizitlik",
-
-  title: "Promosyon VIP Set VIP-240 | Defter, Powerbank, USB, Kalem, Anahtarlık ve Kartvizitlik Premium Hediye Seti",
+  title: "Promosyon VIP Set VIP-240 | 32 GB USB Bellek, Powerbank ve Roller Kalemli Hediye Seti",
   price: 2200,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-240.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-240, termo deri defter, 10.000 mAh powerbank, USB bellek, kalem seti, anahtarlık ve kartvizitlikten oluşan özel kutulu premium kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-240, kurumsal firmalar için tasarlanmış en kapsamlı ve prestijli hediye setlerinden biridir.
-
-Set içerisinde 14.5 x 21 cm termo deri defter, 10.000 mAh powerbank, USB bellek (ışıklı markalama), metal roller ve tükenmez kalem, metal ve deri anahtarlık ve kartvizitlik bulunmaktadır.
-
-Termo deri defter, şık tasarımı ve geniş kullanım alanı ile profesyonel kullanım sunar.
-
-10.000 mAh powerbank, mobil cihazlar için güçlü ve uzun süreli enerji sağlar.
-
-USB bellek, ışıklı logo baskı özelliği ile markanızı dikkat çekici şekilde öne çıkarır.
-
-Metal roller ve tükenmez kalem, estetik ve kaliteli yazım deneyimi sunar.
-
-Metal ve deri anahtarlık, günlük kullanımda sürekli marka görünürlüğü sağlar.
-
-Kartvizitlik, profesyonel iş hayatında düzenli ve prestijli bir kullanım sunar.
-
-Deri kaplama özel kutusu sayesinde set, üst düzey bir kurumsal hediye haline gelir ve ilk izlenimde güçlü etki bırakır.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanız uzun süre görünürlük kazanır.
-
-Kurumsal promosyon ürünleri arasında üst segmentin en güçlü ve en dikkat çekici seçeneklerinden biridir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 14.5 x 21 cm Termo Deri Defter
-- 10.000 mAh Powerbank
-- USB Bellek (Işıklı Markalama)
-- Metal Roller Kalem
-- Tükenmez Kalem
-- Metal ve Deri Anahtarlık
-- Kartvizitlik
-
-Kutu: Deri Kaplama Özel Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi, Işıklı Logo (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve tasarımda farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve özel VIP hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-VIP müşteri hediyeleri
-Üst düzey yönetici hediyeleri
-Kurumsal prestij hediyeleri
-Fuar ve özel etkinlik organizasyonları
-Premium marka tanıtım çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-240-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-240; Roller kalem, 32 GB USB bellek, 10.000 mAh powerbank. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-240, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Roller kalem\n• 32 GB USB bellek\n• 10.000 mAh powerbank\n\nTEKNİK BİLGİLER\n\nModel: VIP-240\nKategori: VIP Ürünler\nKutu Ölçüsü: 185 x 185 mm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-240 setinin içerisinde hangi ürünler bulunur?","a":"Roller kalem; 32 GB USB bellek; 10.000 mAh powerbank."},{"q":"VIP-240 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 185 x 185 mm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-240 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-240 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-240 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-240 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p628",
   slug: "promosyon-vip-set-vip-250-defter-powerbank-usb-kalem-anahtarlik-kartvizitlik",
-
-  title: "Promosyon VIP Set VIP-250 | Defter, Powerbank, USB, Kalem, Anahtarlık ve Kartvizitlik Hediye Seti",
+  title: "Promosyon VIP Set VIP-250 | Termos, MagSafe Powerbank ve Roller Kalemli Kurumsal Hediye Seti",
   price: 3200,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-250.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-250, termo deri defter, powerbank, USB bellek, kalem seti, anahtarlık ve kartvizitlikten oluşan özel kutulu kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-250, kurumsal firmalar için hem prestijli hem de dengeli içerik sunan premium bir hediye setidir.
-
-Set içerisinde 13 x 21 cm termo deri defter, 5.000 mAh powerbank, metal ve deri USB bellek (ışıklı markalama), metal roller ve tükenmez kalem, metal ve deri anahtarlık ve kartvizitlik bulunmaktadır.
-
-Termo deri defter, şık ve profesyonel kullanım sunarken günlük iş hayatında ideal bir yardımcıdır.
-
-5.000 mAh powerbank, mobil cihazlar için pratik ve taşınabilir bir enerji çözümü sunar.
-
-USB bellek, ışıklı logo baskı özelliği sayesinde markanızı dikkat çekici şekilde öne çıkarır.
-
-Metal roller ve tükenmez kalem, estetik tasarımı ile profesyonel yazım deneyimi sunar.
-
-Metal ve deri anahtarlık, günlük kullanımda sürekli marka görünürlüğü sağlar.
-
-Kartvizitlik, iş hayatında düzenli ve prestijli bir kullanım sunar.
-
-Deri kaplama özel kutusu ile set, kurumsal hediye olarak üst düzey bir sunum sağlar.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanız uzun süre görünürlük kazanır.
-
-Kurumsal promosyon ürünleri arasında hem premium hem de ulaşılabilir bir alternatif olarak öne çıkar.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 13 x 21 cm Termo Deri Defter
-- 5.000 mAh Powerbank
-- USB Bellek (Işıklı Markalama, 16 GB)
-- Metal Roller Kalem
-- Tükenmez Kalem
-- Metal ve Deri Anahtarlık
-- Kartvizitlik
-
-Kutu: Deri Kaplama Özel Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi, Işıklı Logo (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve tasarımda farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve VIP hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-VIP müşteri hediyeleri
-Yönetici ve çalışan hediyeleri
-Kurumsal promosyon kampanyaları
-Fuar ve etkinlik organizasyonları
-Prestijli marka tanıtım çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-250-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-250; Roller kalem, 440 ml termos, 10.000 mAh MagSafe powerbank. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-250, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Roller kalem\n• 440 ml termos\n• 10.000 mAh MagSafe powerbank\n\nTEKNİK BİLGİLER\n\nModel: VIP-250\nKategori: VIP Ürünler\nKutu Ölçüsü: 310 x 235 mm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nBeyaz renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-250 setinin içerisinde hangi ürünler bulunur?","a":"Roller kalem; 440 ml termos; 10.000 mAh MagSafe powerbank."},{"q":"VIP-250 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 310 x 235 mm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-250 hangi renk seçenekleriyle sunulur?","a":"Beyaz renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-250 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-250 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-250 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p629",
   slug: "promosyon-vip-set-vip-260-teknoloji-hediye-seti-powerbank-speaker-magsafe",
-
-  title: "Promosyon VIP Set VIP-260 | Powerbank, Bluetooth Speaker, MagSafe Şarj ve Defterli Teknoloji Hediye Seti",
+  title: "Promosyon VIP Set VIP-260 | Powerbank, Defter ve Roller Kalemli Kurumsal Hediye Seti",
   price: 1600,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-260.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-260, powerbank, bluetooth speaker, MagSafe şarj cihazı, USB bellek ve defter içeren premium teknoloji odaklı kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-260, teknoloji ve modern yaşam tarzını bir araya getiren üst segment bir kurumsal hediye setidir.
-
-Set içerisinde 10 x 17 cm termo deri defter, 10.000 mAh powerbank, titanyum bluetooth speaker, 16 GB USB bellek, telefon tutucu ve 22.5W MagSafe şarj cihazı bulunmaktadır.
-
-10.000 mAh powerbank, yüksek kapasiteli yapısı ile mobil cihazlar için uzun süreli kullanım sunar.
-
-MagSafe uyumlu 22.5W hızlı şarj cihazı, yeni nesil cihazlar için hızlı ve pratik bir şarj deneyimi sağlar.
-
-Bluetooth speaker, taşınabilir yapısı ile müzik keyfini her ortamda yaşatır.
-
-Telefon tutucu, masaüstü kullanımda konfor sağlar ve pratik bir aksesuar olarak öne çıkar.
-
-16 GB USB bellek, veri depolama ve taşıma ihtiyaçları için ideal bir çözümdür.
-
-Termo deri defter, şık tasarımı ile günlük kullanım ve not alma işlemleri için uygundur.
-
-Metal roller ve tükenmez kalem, profesyonel yazım deneyimi sunar.
-
-Özel tasarım kutusu ile set, premium ve dikkat çekici bir kurumsal hediye haline gelir.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanız modern bir imaj ile öne çıkar.
-
-Kurumsal promosyon ürünleri arasında teknoloji odaklı en güçlü ve en yenilikçi seçeneklerden biridir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 10 x 17 cm Termo Deri Defter
-- 10.000 mAh Powerbank
-- Bluetooth Speaker (Titanyum)
-- 16 GB USB Bellek
-- Telefon Tutucu
-- 22.5W MagSafe Şarj Cihazı
-- Metal Roller Kalem
-- Tükenmez Kalem
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve tasarımda farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve teknoloji hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Teknoloji firmaları
-Startup ve dijital ajanslar
-VIP müşteri hediyeleri
-Kurumsal promosyon kampanyaları
-Fuar ve etkinlik organizasyonları
-`,
+  image: "/products/promosyon-vip-set-vip-260-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-260; Roller kalem, 15 x 21 cm termo deri defter, 10.000 mAh powerbank. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-260, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Roller kalem\n• 15 x 21 cm termo deri defter\n• 10.000 mAh powerbank\n\nTEKNİK BİLGİLER\n\nModel: VIP-260\nKategori: VIP Ürünler\nKutu Ölçüsü: 305 x 223 mm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-260 setinin içerisinde hangi ürünler bulunur?","a":"Roller kalem; 15 x 21 cm termo deri defter; 10.000 mAh powerbank."},{"q":"VIP-260 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 305 x 223 mm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-260 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-260 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-260 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-260 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p630",
   slug: "promosyon-vip-set-vip-270-defter-kalem-usb-premium-hediye-seti",
-
   title: "Promosyon VIP Set VIP-270 | Defter, Kalem ve USB Bellekli Premium Kurumsal Hediye Seti",
   price: 980,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-270.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-270, termo deri defter, metal kalem seti ve 16 GB USB bellekten oluşan şık kutulu premium kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-270, sade ve şık tasarımı ile kurumsal firmalar için premium bir hediye alternatifi sunar.
-
-Set içerisinde 9.5 x 14 cm termo deri defter, metal roller ve tükenmez kalem ile 16 GB USB bellek bulunmaktadır.
-
-Termo deri defter, kaliteli yüzeyi ve şık görünümü ile günlük kullanım ve toplantılar için ideal bir çözümdür.
-
-Metal roller ve tükenmez kalem, estetik tasarımı ve profesyonel yazım deneyimi ile dikkat çeker.
-
-16 GB USB bellek, veri depolama ve taşıma ihtiyaçları için pratik kullanım sunar.
-
-Özel tasarım kutusu sayesinde set, prestijli bir kurumsal hediye haline gelir.
-
-Tüm ürünlere logo baskı uygulanabilir ve markanız sürekli görünürlük kazanır.
-
-Kurumsal promosyon ürünleri arasında sade, şık ve yüksek kalite algısı sunan bir seçenektir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 9.5 x 14 cm Termo Deri Defter
-- Metal Roller Kalem
-- Tükenmez Kalem
-- 16 GB USB Bellek
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişir)
-
-NOT
-
-Ürün görselleri temsili olup içerik ve renklerde farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu hediye seti siparişleri için uygundur.
-
-Firma logonuza özel baskı uygulanmaktadır.
-
-Minimum sipariş adedi ve fiyatlandırma için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Çalışan ve müşteri hediyeleri
-Fuar ve etkinlik promosyonları
-Toplu dağıtım organizasyonları
-Marka tanıtım çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-270-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-270; Metal roller kalem, Metal tükenmez kalem, 9,5 x 14 cm termo deri defter, 16 GB USB bellek. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-270, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Metal roller kalem\n• Metal tükenmez kalem\n• 9,5 x 14 cm termo deri defter\n• 16 GB USB bellek\n\nTEKNİK BİLGİLER\n\nModel: VIP-270\nKategori: VIP Ürünler\nKutu / Ambalaj: Özel kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nKırmızı, Siyah, Lacivert renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-270 setinin içerisinde hangi ürünler bulunur?","a":"Metal roller kalem; Metal tükenmez kalem; 9,5 x 14 cm termo deri defter; 16 GB USB bellek."},{"q":"VIP-270 setinin kutu ve ölçü bilgileri nedir?","a":"Ambalaj: Özel kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-270 hangi renk seçenekleriyle sunulur?","a":"Kırmızı, Siyah, Lacivert renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-270 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-270 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-270 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p631",
   slug: "promosyon-vip-set-vip-280-defter-kalem-kartvizitlik-hediye-seti",
-
-  title: "Promosyon VIP Set VIP-280 | Defter, Kalem ve Kartvizitlikli Şık Kurumsal Hediye Seti",
-  price: 590,
+  title: "Promosyon VIP Set VIP-280 | Defter, Kalem, Kartvizitlik ve Anahtarlıklı Hediye Seti",
+  price: 1500,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-280.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-280, 9x14 cm defter, metal kalem ve kartvizitlikten oluşan özel kutulu şık ve prestijli kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-280, kompakt ve şık tasarımıyla kurumsal firmalar için prestijli bir promosyon ürünüdür.
-
-Set içerisinde 9 x 14 cm ölçülerinde termo deri defter, metal kalem ve şık kartvizitlik bulunmaktadır.
-
-Termo deri kapaklı defter, kaliteli yüzeyi ve modern görünümü ile günlük kullanımda ve iş toplantılarında profesyonel bir deneyim sunar.
-
-Metal kalem, ergonomik yapısı ve şık tasarımı sayesinde hem estetik hem de konforlu bir yazım sağlar.
-
-Kartvizitlik, iş dünyasında düzenli ve profesyonel bir görünüm sunarken aynı zamanda marka imajınızı güçlendirir.
-
-Özel tasarım kutusu ile birlikte sunulan bu set, kurumsal hediye olarak yüksek kalite algısı yaratır.
-
-Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve markanızın görünürlüğü artırılır.
-
-Minimal tasarım ve fonksiyonelliği bir araya getiren bu VIP set, promosyon ürünleri arasında öne çıkan seçeneklerden biridir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 9 x 14 cm Termo Deri Defter
-- Metal Kalem
-- Kartvizitlik
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişiklik gösterebilir)
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün, kurumsal promosyon ve toplu hediye siparişleri için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu alımlarda özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Çalışan motivasyon ürünleri
-Müşteri hediyeleri
-Fuar ve etkinlik promosyonları
-Toplu organizasyon dağıtımları
-Marka bilinirliği artırma çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-280-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-280; 13 x 21 cm termo deri defter, Derili metal roller kalem, Derili metal kartvizitlik, Derili metal anahtarlık. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-280, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 13 x 21 cm termo deri defter\n• Derili metal roller kalem\n• Derili metal kartvizitlik\n• Derili metal anahtarlık\n\nTEKNİK BİLGİLER\n\nModel: VIP-280\nKategori: VIP Ürünler\nKutu Ölçüsü: 28,5 x 26,5 x 4,5 cm\nKutu / Ambalaj: Ahşap kasa suni deri kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nLacivert, Kırmızı renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-280 setinin içerisinde hangi ürünler bulunur?","a":"13 x 21 cm termo deri defter; Derili metal roller kalem; Derili metal kartvizitlik; Derili metal anahtarlık."},{"q":"VIP-280 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 28,5 x 26,5 x 4,5 cm. Ambalaj: Ahşap kasa suni deri kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-280 hangi renk seçenekleriyle sunulur?","a":"Lacivert, Kırmızı renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-280 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-280 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-280 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p632",
   slug: "promosyon-vip-set-vip-290-defter-kalem-anahtarlik-kurumsal-hediye-seti",
-
-  title: "Promosyon VIP Set VIP-290 | Defter, Kalem ve Anahtarlıklı Özel Kutulu Kurumsal Hediye Seti",
-  price: 378,
+  title: "Promosyon VIP Set VIP-290 | Defter, Roller Kalem ve Anahtarlıklı Kurumsal Hediye Seti",
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-290.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-290, 9x14 cm termo deri defter, metal kalem ve anahtarlıktan oluşan şık kutulu kurumsal promosyon hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-290, modern tasarımı ve kullanışlı içeriği ile kurumsal firmalar için etkili bir promosyon çözümü sunar.
-
-Set içerisinde 9 x 14 cm termo deri defter, metal kalem ve şık tasarımlı anahtarlık yer almaktadır.
-
-Termo deri kapaklı defter, hem estetik görünümü hem de dayanıklı yapısı sayesinde günlük kullanım ve iş hayatı için ideal bir üründür.
-
-Metal kalem, kaliteli yazım deneyimi sunarken aynı zamanda profesyonel bir görünüm sağlar.
-
-Anahtarlık ise pratik kullanımıyla günlük hayatın vazgeçilmez aksesuarlarından biri olup marka bilinirliğinizi artırır.
-
-Özel tasarım kutusu ile sunulan bu set, kurumsal hediye olarak prestijli ve şık bir tercih oluşturur.
-
-Tüm ürün yüzeylerine firmanıza özel logo baskı uygulanabilir ve uzun süreli marka görünürlüğü sağlanır.
-
-Kompakt, şık ve işlevsel yapısıyla bu VIP set, promosyon ürünleri arasında öne çıkan alternatiflerden biridir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 9 x 14 cm Termo Deri Defter
-- Metal Kalem
-- Anahtarlık
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişiklik gösterebilir)
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Müşteri promosyon ürünleri
-Çalışan motivasyon hediyeleri
-Fuar ve etkinlik dağıtımları
-Reklam ve marka tanıtım çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-290-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-290; 14,5 x 21 cm termo deri defter, Deri-metal anahtarlık, Roller kalem. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-290, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 14,5 x 21 cm termo deri defter\n• Deri-metal anahtarlık\n• Roller kalem\n\nTEKNİK BİLGİLER\n\nModel: VIP-290\nKategori: VIP Ürünler\nKutu Ölçüsü: 22,7 x 22,7 x 3,5 cm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Bu model için sayısal liste fiyatı belirtilmemiştir; güncel fiyat için teklif alın.",
+  faq: [{"q":"VIP-290 setinin içerisinde hangi ürünler bulunur?","a":"14,5 x 21 cm termo deri defter; Deri-metal anahtarlık; Roller kalem."},{"q":"VIP-290 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 22,7 x 22,7 x 3,5 cm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-290 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-290 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-290 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-290 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p633",
   slug: "promosyon-vip-set-vip-300-powerbank-usb-defter-isikli-premium-hediye-seti",
-
-  title: "Promosyon VIP Set VIP-300 | Işıklı Powerbank, USB Bellek ve Defterli Premium Kurumsal Hediye Seti",
-  price: 1980,
+  title: "Promosyon VIP Set VIP-300 | MagSafe Powerbank, Hoparlör ve Defterli Kurumsal Hediye Seti",
+  price: 4200,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-300.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-300, 13x21 cm termo deri defter, 5.000 mAh powerbank ve 16 GB USB bellekten oluşan ışıklı markalamalı özel kutulu premium hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-300, teknolojik ürünler ile klasik kurumsal aksesuarları bir araya getiren prestijli bir hediye setidir.
-
-Set içerisinde 13 x 21 cm termo deri defter, 5.000 mAh powerbank ve 16 GB USB bellek bulunmaktadır.
-
-Termo deri defter, şık tasarımı ve geniş kullanım alanı ile toplantılar, not alma ve günlük planlama için ideal bir üründür.
-
-5.000 mAh powerbank, mobil cihazlar için pratik şarj imkanı sunarken özellikle fuar, saha ve yoğun iş temposunda büyük avantaj sağlar.
-
-16 GB USB bellek, veri taşıma ve depolama ihtiyaçları için kullanışlı bir çözümdür.
-
-Set içerisindeki teknolojik ürünlerde bulunan ışıklı logo (light-up) markalama özelliği sayesinde markanız karanlıkta bile dikkat çeker ve premium bir algı oluşturur.
-
-Özel tasarım kutusu ile sunulan bu VIP set, kurumsal hediye kategorisinde üst segment bir seçenek olarak öne çıkar.
-
-Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve uzun süreli marka görünürlüğü sağlanır.
-
-Yüksek kalite, teknoloji ve prestiji bir arada sunan bu set, özellikle değerli müşteriler ve üst düzey çalışanlar için ideal bir promosyon ürünüdür.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 13 x 21 cm Termo Deri Defter
-- 5.000 mAh Powerbank (Işıklı Logo Özelliği)
-- 16 GB USB Bellek (Işıklı Markalama)
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Işıklı (Light-Up) Logo, Serigrafi
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Premium kurumsal hediye setleri
-VIP müşteri hediyeleri
-Üst düzey yönetici hediyeleri
-Fuar ve etkinlik promosyonları
-Teknolojik promosyon ürünleri
-Marka prestij artırma çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-300-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-300; Işıklı metal tükenmez kalem, 15 x 21 cm termo deri defter, Bluetooth hoparlör, 10.000 mAh MagSafe powerbank. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-300, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Işıklı metal tükenmez kalem\n• 15 x 21 cm termo deri defter\n• Bluetooth hoparlör\n• 10.000 mAh MagSafe powerbank\n\nTEKNİK BİLGİLER\n\nModel: VIP-300\nKategori: VIP Ürünler\nKutu Ölçüsü: 420 x 270 mm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-300 setinin içerisinde hangi ürünler bulunur?","a":"Işıklı metal tükenmez kalem; 15 x 21 cm termo deri defter; Bluetooth hoparlör; 10.000 mAh MagSafe powerbank."},{"q":"VIP-300 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 420 x 270 mm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-300 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-300 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-300 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-300 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p634",
   slug: "promosyon-vip-set-vip-310-defter-kalem-anahtarlik-kartvizitlik-luks-hediye-seti",
-
   title: "Promosyon VIP Set VIP-310 | Defter, Kalem, Anahtarlık ve Kartvizitlikli Lüks Kurumsal Hediye Seti",
   price: 1200,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-310.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-310, 13x21 cm termo deri defter, metal kalem seti, kartvizitlik ve anahtarlıktan oluşan özel kutulu lüks kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-310, zengin içeriği ve şık tasarımıyla kurumsal firmalar için üst segment bir promosyon çözümü sunar.
-
-Set içerisinde 13 x 21 cm termo deri defter, metal roller kalem, tükenmez kalem, kartvizitlik ve anahtarlık bulunmaktadır.
-
-Termo deri defter, geniş yüzeyi sayesinde not alma, planlama ve iş toplantılarında profesyonel bir kullanım sunar.
-
-Metal roller ve tükenmez kalem, şık tasarımı ve kaliteli yazım deneyimi ile prestijli bir kullanım sağlar.
-
-Kartvizitlik, iş dünyasında düzenli ve profesyonel bir görünüm sunarken markanızın kurumsal kimliğini destekler.
-
-Anahtarlık, günlük kullanımda sürekli taşınan pratik bir aksesuar olarak marka görünürlüğünü artırır.
-
-Özel tasarım kutusu ile sunulan bu VIP set, hem estetik hem de prestijli bir kurumsal hediye alternatifi oluşturur.
-
-Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve markanız uzun süreli görünürlük kazanır.
-
-Fonksiyonellik, şıklık ve kaliteyi bir araya getiren bu set, promosyon ürünleri arasında dikkat çeken premium seçeneklerden biridir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 13 x 21 cm Termo Deri Defter
-- Metal Roller Kalem
-- Tükenmez Kalem
-- Kartvizitlik
-- Anahtarlık
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişiklik gösterebilir)
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-VIP müşteri hediyeleri
-Çalışan motivasyon setleri
-Fuar ve etkinlik promosyonları
-Marka tanıtım çalışmaları
-Prestij odaklı promosyon çözümleri
-`,
+  shortDesc: "Promosyon VIP set VIP-310; 13 x 21 cm defter, Anahtarlık, Metal roller kalem, Metal tükenmez kalem, Kartvizitlik. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-310, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 13 x 21 cm defter\n• Anahtarlık\n• Metal roller kalem\n• Metal tükenmez kalem\n• Kartvizitlik\n\nTEKNİK BİLGİLER\n\nModel: VIP-310\nKategori: VIP Ürünler\nKutu / Ambalaj: Özel kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nKırmızı, Lacivert, Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-310 setinin içerisinde hangi ürünler bulunur?","a":"13 x 21 cm defter; Anahtarlık; Metal roller kalem; Metal tükenmez kalem; Kartvizitlik."},{"q":"VIP-310 setinin kutu ve ölçü bilgileri nedir?","a":"Ambalaj: Özel kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-310 hangi renk seçenekleriyle sunulur?","a":"Kırmızı, Lacivert, Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-310 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-310 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-310 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p635",
   slug: "promosyon-vip-set-vip-320-termos-powerbank-speaker-caki-luks-hediye-seti",
-
   title: "Promosyon VIP Set VIP-320 | Termos, Powerbank, Bluetooth Speaker ve Çakılı Lüks Kurumsal Hediye Seti",
   price: 4200,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-320.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-320, termos, 5.000 mAh powerbank, bluetooth speaker, metal kalem ve çok amaçlı çakılardan oluşan ışıklı markalamalı özel deri kutulu premium hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-320, teknolojik ürünler ve fonksiyonel aksesuarları bir araya getiren üst segment bir kurumsal hediye setidir.
-
-Set içerisinde 420 mL termos, 5.000 mAh powerbank, bluetooth speaker, metal roller kalem, çok amaçlı çakı ve fenerli çakı bulunmaktadır.
-
-420 mL termos, sıcak ve soğuk içeceklerin uzun süre muhafaza edilmesini sağlayarak günlük kullanım için ideal bir üründür.
-
-5.000 mAh powerbank, mobil cihazlar için hızlı ve pratik şarj imkanı sunar.
-
-Bluetooth speaker, kablosuz müzik deneyimi sağlayarak hem ofis hem de günlük kullanımda keyifli bir kullanım sunar.
-
-Metal roller kalem, şık tasarımı ve kaliteli yazım deneyimi ile profesyonel bir kullanım sağlar.
-
-Çakı ve fenerli çakı, çok amaçlı kullanım özellikleri sayesinde outdoor aktiviteler ve günlük ihtiyaçlar için oldukça pratiktir.
-
-Set içerisindeki powerbank ve teknolojik ürünlerde bulunan ışıklı logo (light-up) markalama özelliği sayesinde markanız dikkat çekici bir şekilde öne çıkar.
-
-Özel tasarım deri kutusu ile sunulan bu VIP set, prestijli ve yüksek kaliteli bir kurumsal hediye alternatifi oluşturur.
-
-Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve markanız uzun süreli görünürlük kazanır.
-
-Fonksiyonellik, teknoloji ve prestiji bir araya getiren bu set, üst düzey müşteri ve yönetici hediyeleri için ideal bir seçenektir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 420 mL Termos
-- 5.000 mAh Powerbank (Işıklı Logo Özelliği)
-- Bluetooth Speaker
-- Metal Roller Kalem
-- Çok Amaçlı Çakı
-- Fenerli Çakı
-
-Kutu: Özel Tasarım Deri Hediyelik Kutu
-Baskı: UV, Lazer, Işıklı (Light-Up) Logo, Serigrafi
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Premium kurumsal hediye setleri
-VIP müşteri hediyeleri
-Üst düzey yönetici hediyeleri
-Outdoor ve teknoloji odaklı promosyonlar
-Fuar ve etkinlik dağıtımları
-Marka prestij artırma çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-320-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-320; Çakı, Fenerli çakı, Bluetooth hoparlör, Metal roller kalem, 5.000 mAh powerbank (ışıklı markalama), 420 ml termos. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-320, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Çakı\n• Fenerli çakı\n• Bluetooth hoparlör\n• Metal roller kalem\n• 5.000 mAh powerbank (ışıklı markalama)\n• 420 ml termos\n\nTEKNİK BİLGİLER\n\nModel: VIP-320\nKategori: VIP Ürünler\nKutu Ölçüsü: 40 x 25 x 11 cm\nKutu / Ambalaj: Deri kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-320 setinin içerisinde hangi ürünler bulunur?","a":"Çakı; Fenerli çakı; Bluetooth hoparlör; Metal roller kalem; 5.000 mAh powerbank (ışıklı markalama); 420 ml termos."},{"q":"VIP-320 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 40 x 25 x 11 cm. Ambalaj: Deri kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-320 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-320 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-320 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-320 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p636",
   slug: "promosyon-vip-set-vip-330-10000mah-powerbank-defter-kalem-anahtarlik-premium-set",
-
-  title: "Promosyon VIP Set VIP-330 | 10.000 mAh Powerbank, Defter, Kalem ve Anahtarlıklı Premium Hediye Seti",
+  title: "Promosyon VIP Set VIP-330 | Defter, USB Bellek, Kalem ve Anahtarlıklı Kurumsal Hediye Seti",
   price: 960,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-330.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-330, 10.000 mAh powerbank, termo deri defter, metal kalem seti ve deri-metal anahtarlıktan oluşan cilt bezli kutulu premium kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-330, sade tasarımı ve güçlü teknolojik içeriği ile kurumsal firmalar için prestijli bir hediye çözümü sunar.
-
-Set içerisinde 10.000 mAh yüksek kapasiteli powerbank, 10 x 17 cm termo deri defter, metal roller ve tükenmez kalem ile deri-metal anahtarlık bulunmaktadır.
-
-10.000 mAh powerbank, mobil cihazlar için uzun süreli kullanım sağlayarak gün boyu kesintisiz enerji desteği sunar.
-
-Termo deri defter, kompakt boyutu ve şık tasarımı ile günlük kullanım, toplantılar ve not alma süreçleri için idealdir.
-
-Metal roller ve tükenmez kalem, kaliteli yazım deneyimi ve modern görünümü ile profesyonel kullanım sunar.
-
-Deri ve metal anahtarlık, dayanıklı yapısı ve şık tasarımı ile günlük kullanımda marka görünürlüğünü artırır.
-
-Cilt bezli özel kutusu ile sunulan bu set, kurumsal hediye kategorisinde premium ve prestijli bir alternatif oluşturur.
-
-Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve markanız uzun süreli görünürlük kazanır.
-
-Minimal tasarım, teknoloji ve şıklığı bir araya getiren bu VIP set, özellikle yönetici ve VIP müşteri hediyeleri için ideal bir seçenektir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 10.000 mAh Powerbank
-- 10 x 17 cm Termo Deri Defter
-- Metal Roller Kalem
-- Tükenmez Kalem
-- Deri & Metal Anahtarlık
-
-Kutu: Cilt Bezli Özel Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişiklik gösterebilir)
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Premium kurumsal hediye setleri
-VIP müşteri hediyeleri
-Yönetici hediyeleri
-Fuar ve etkinlik promosyonları
-Teknolojik promosyon ürünleri
-Marka prestij artırma çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-330-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-330; 13 x 21 cm termo deri defter, Rubber gövdeli metal tükenmez kalem, Derili metal anahtarlık, 16 GB metal USB bellek. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-330, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 13 x 21 cm termo deri defter\n• Rubber gövdeli metal tükenmez kalem\n• Derili metal anahtarlık\n• 16 GB metal USB bellek\n\nTEKNİK BİLGİLER\n\nModel: VIP-330\nKategori: VIP Ürünler\nKutu Ölçüsü: 27,5 x 22 x 3 cm\nKutu / Ambalaj: Karton kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-330 setinin içerisinde hangi ürünler bulunur?","a":"13 x 21 cm termo deri defter; Rubber gövdeli metal tükenmez kalem; Derili metal anahtarlık; 16 GB metal USB bellek."},{"q":"VIP-330 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 27,5 x 22 x 3 cm. Ambalaj: Karton kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-330 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-330 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-330 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-330 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p637",
   slug: "promosyon-vip-set-vip-340-termos-powerbank-speaker-defter-premium-hediye-seti",
-
   title: "Promosyon VIP Set VIP-340 | Termos, 10.000 mAh Powerbank, Speaker ve Defterli Premium Hediye Seti",
   price: 2820,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-340.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-340, 600 mL termos, 10.000 mAh powerbank, bluetooth speaker ve cilt bezli defterden oluşan taslama kutulu premium kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-340, modern tasarımı ve teknolojik içeriği ile kurumsal firmalar için prestijli bir hediye çözümü sunar.
-
-Set içerisinde 600 mL termos, 13 x 21 cm cilt bezli mat defter, 10.000 mAh powerbank ve bluetooth speaker bulunmaktadır.
-
-600 mL termos, sıcak ve soğuk içeceklerin uzun süre korunmasını sağlayarak günlük kullanım için ideal bir üründür.
-
-10.000 mAh powerbank, mobil cihazlar için uzun süreli enerji desteği sunarak yoğun iş temposunda büyük avantaj sağlar.
-
-Bluetooth speaker, kablosuz müzik deneyimi sunarak hem ofis hem de günlük kullanımda keyifli bir kullanım imkanı sağlar.
-
-Cilt bezli mat defter, şık tasarımı ve kaliteli yüzeyi ile toplantı, planlama ve not alma süreçleri için profesyonel bir kullanım sunar.
-
-Taslama özel kutusu ile sunulan bu VIP set, kurumsal hediye kategorisinde premium ve estetik bir alternatif oluşturur.
-
-Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve markanızın görünürlüğü uzun süre devam eder.
-
-Minimal tasarım, teknoloji ve şıklığı bir araya getiren bu set, özellikle VIP müşteri ve yönetici hediyeleri için ideal bir seçenektir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 600 mL Termos
-- 13 x 21 cm Cilt Bezi Mat Defter
-- 10.000 mAh Powerbank
-- Bluetooth Speaker
-
-Kutu: Taslama Özel Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişiklik gösterebilir)
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Premium kurumsal hediye setleri
-VIP müşteri hediyeleri
-Yönetici hediyeleri
-Fuar ve etkinlik promosyonları
-Teknolojik promosyon ürünleri
-Marka prestij artırma çalışmaları
-`,
+  shortDesc: "Promosyon VIP set VIP-340; 600 ml termos, 13 x 21 cm mat cilt bezli defter, 10.000 mAh powerbank, Hoparlör. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-340, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 600 ml termos\n• 13 x 21 cm mat cilt bezli defter\n• 10.000 mAh powerbank\n• Hoparlör\n\nTEKNİK BİLGİLER\n\nModel: VIP-340\nKategori: VIP Ürünler\nKutu / Ambalaj: Taslama kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-340 setinin içerisinde hangi ürünler bulunur?","a":"600 ml termos; 13 x 21 cm mat cilt bezli defter; 10.000 mAh powerbank; Hoparlör."},{"q":"VIP-340 setinin kutu ve ölçü bilgileri nedir?","a":"Ambalaj: Taslama kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-340 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-340 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-340 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-340 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p638",
   slug: "promosyon-vip-set-vip-350-defter-kalem-anahtarlik-kurumsal-hediye-seti",
-
-  title: "Promosyon VIP Set VIP-350 | Defter, Metal Kalem Seti ve Anahtarlıklı Şık Kurumsal Hediye Seti",
+  title: "Promosyon VIP Set VIP-350 | Defter, Roller Kalem ve USB Bellekli Kurumsal Hediye Seti",
   price: 1240,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-350.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-350, 15x21 cm defter, metal roller ve tükenmez kalem ile deri-metal anahtarlıktan oluşan cilt bezli kutulu şık kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-350, klasik kurumsal ihtiyaçları karşılayan şık ve fonksiyonel bir hediye setidir.
-
-Set içerisinde 15 x 21 cm defter, metal roller kalem, tükenmez kalem ve deri-metal anahtarlık bulunmaktadır.
-
-15 x 21 cm defter, geniş kullanım alanı sayesinde not alma, planlama ve iş toplantılarında ideal bir çözüm sunar.
-
-Metal roller ve tükenmez kalem, kaliteli yazım deneyimi ve modern tasarımı ile profesyonel bir kullanım sağlar.
-
-Deri ve metal anahtarlık, günlük kullanımda pratik bir aksesuar olarak marka görünürlüğünü artırır.
-
-Cilt bezli özel kutusu ile sunulan bu set, kurumsal hediye kategorisinde hem ekonomik hem de prestijli bir alternatif oluşturur.
-
-Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve markanız uzun süreli görünürlük kazanır.
-
-Sade, şık ve kullanışlı yapısıyla bu VIP set, promosyon ürünleri arasında en çok tercih edilen modellerden biridir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 15 x 21 cm Defter
-- Metal Roller Kalem
-- Tükenmez Kalem
-- Deri & Metal Anahtarlık
-
-Kutu: Cilt Bezli Özel Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi (ürüne göre değişiklik gösterebilir)
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Çalışan motivasyon ürünleri
-Müşteri promosyonları
-Fuar ve etkinlik dağıtımları
-Marka tanıtım çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-350-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-350; 14,5 x 21 cm termo deri defter, Metal roller kalem, 16 GB metal USB bellek. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-350, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 14,5 x 21 cm termo deri defter\n• Metal roller kalem\n• 16 GB metal USB bellek\n\nTEKNİK BİLGİLER\n\nModel: VIP-350\nKategori: VIP Ürünler\nKutu Ölçüsü: 22,7 x 22,7 x 3,5 cm\nKutu / Ambalaj: Karton kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-350 setinin içerisinde hangi ürünler bulunur?","a":"14,5 x 21 cm termo deri defter; Metal roller kalem; 16 GB metal USB bellek."},{"q":"VIP-350 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 22,7 x 22,7 x 3,5 cm. Ambalaj: Karton kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-350 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-350 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-350 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-350 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p639",
   slug: "promosyon-vip-set-vip-360-termo-deri-defter-kalem-kurumsal-hediye-seti",
-
-  title: "Promosyon VIP Set VIP-360 | Termo Deri Defter ve Metal Kalemli Şık Kurumsal Hediye Seti",
-  price: 520,
+  title: "Promosyon VIP Set VIP-360 | Powerbank, Defter, Kalem ve Şarj Kablolu Kurumsal Hediye Seti",
+  price: 2090,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-360.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-360, 13x21 cm termo deri defter ve metal tükenmez kalemden oluşan cilt bezli kutulu ekonomik ve şık kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-360, sade tasarımı ve kullanışlı içeriği ile kurumsal firmalar için ekonomik ve şık bir promosyon çözümü sunar.
-
-Set içerisinde 13 x 21 cm termo deri defter ve metal tükenmez kalem bulunmaktadır.
-
-Termo deri defter, kaliteli yüzeyi ve modern görünümü ile toplantı, not alma ve günlük kullanım için ideal bir üründür.
-
-Metal tükenmez kalem, ergonomik yapısı ve estetik tasarımı ile konforlu ve profesyonel bir yazım deneyimi sunar.
-
-Cilt bezli özel kutusu ile sunulan bu set, hem şık hem de bütçe dostu bir kurumsal hediye alternatifi oluşturur.
-
-Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve markanız uzun süreli görünürlük kazanır.
-
-Minimal yapısı sayesinde toplu dağıtımlar ve geniş kitlelere ulaşmak için ideal bir promosyon ürünüdür.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 13 x 21 cm Termo Deri Defter
-- Metal Tükenmez Kalem
-
-Kutu: Cilt Bezli Özel Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Toplu promosyon dağıtımları
-Çalışan motivasyon ürünleri
-Fuar ve etkinlik promosyonları
-Marka tanıtım çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-360-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-360; 14,5 x 21 cm termo deri defter, 10.000 mAh powerbank, Metal roller kalem, Çoklu şarj kablosu. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-360, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 14,5 x 21 cm termo deri defter\n• 10.000 mAh powerbank\n• Metal roller kalem\n• Çoklu şarj kablosu\n\nTEKNİK BİLGİLER\n\nModel: VIP-360\nKategori: VIP Ürünler\nKutu Ölçüsü: 32,5 x 22,5 x 3,5 cm\nKutu / Ambalaj: Suni deri kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-360 setinin içerisinde hangi ürünler bulunur?","a":"14,5 x 21 cm termo deri defter; 10.000 mAh powerbank; Metal roller kalem; Çoklu şarj kablosu."},{"q":"VIP-360 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 32,5 x 22,5 x 3,5 cm. Ambalaj: Suni deri kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-360 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-360 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-360 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-360 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p640",
   slug: "promosyon-vip-set-vip-370-organizer-defter-kalem-kurumsal-hediye-seti",
-
-  title: "Promosyon VIP Set VIP-370 | Organizer, Defter ve Metal Kalemli Premium Kurumsal Hediye Seti",
-  price: 1400,
+  title: "Promosyon VIP Set VIP-370 | Termos, Defter, Kalem ve Anahtarlıklı Kurumsal Hediye Seti",
+  price: 2400,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-370.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-370, 18x23 cm termo deri organizer, 9.5x14 cm defter ve metal roller kalemden oluşan özel kutulu premium kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-370, kurumsal kullanım için tasarlanmış şık ve fonksiyonel bir organizer setidir.
-
-Set içerisinde 18 x 23 cm termo deri organizer, 9.5 x 14 cm termo deri defter ve metal roller kalem bulunmaktadır.
-
-Termo deri organizer, evrak düzenleme, not alma ve iş planlaması için geniş ve kullanışlı bir alan sunar.
-
-9.5 x 14 cm termo deri defter, kompakt yapısı ile günlük notlar ve hızlı kullanım için idealdir.
-
-Metal roller kalem, estetik tasarımı ve kaliteli yazım deneyimi ile profesyonel bir kullanım sağlar.
-
-Özel tasarım kutusu ile sunulan bu set, kurumsal hediye olarak prestijli ve düzenli bir kullanım deneyimi sunar.
-
-Bu set içerisinde farklı organizer modelleri tercih edilebilir, böylece firmanıza özel ihtiyaçlara göre özelleştirme yapılabilir.
-
-Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve markanız uzun süreli görünürlük kazanır.
-
-Fonksiyonellik ve prestiji bir araya getiren bu set, özellikle yönetici ve ofis kullanımı için ideal bir promosyon ürünüdür.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 18 x 23 cm Termo Deri Organizer
-- 9.5 x 14 cm Termo Deri Defter
-- Metal Roller Kalem
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Ürün görselleri temsili olup içerik ve renklerde farklılık olabilir.
-
-Set içerisinde talebe göre farklı organizer modelleri uygulanabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal organizer setleri
-Yönetici ve ofis hediyeleri
-VIP müşteri hediyeleri
-Fuar ve etkinlik promosyonları
-Marka prestij artırma çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-370-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-370; Roller kalem, 15 x 21 cm yumuşak kapaklı termo deri defter, 440 ml çelik termos, Tek taraflı metal-suni deri anahtarlık. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-370, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Roller kalem\n• 15 x 21 cm yumuşak kapaklı termo deri defter\n• 440 ml çelik termos\n• Tek taraflı metal-suni deri anahtarlık\n\nTEKNİK BİLGİLER\n\nModel: VIP-370\nKategori: VIP Ürünler\nKutu Ölçüsü: 420 x 270 mm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-370 setinin içerisinde hangi ürünler bulunur?","a":"Roller kalem; 15 x 21 cm yumuşak kapaklı termo deri defter; 440 ml çelik termos; Tek taraflı metal-suni deri anahtarlık."},{"q":"VIP-370 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 420 x 270 mm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-370 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-370 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-370 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-370 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p641",
   slug: "promosyon-vip-set-vip-380-ajanda-defter-kalem-kartvizitlik-kurumsal-set",
-
-  title: "Promosyon VIP Set VIP-380 | Mekanizmalı Ajanda, Defter, Kalem ve Kartvizitlikli Kurumsal Hediye Seti",
-  price: 1680,
+  title: "Promosyon VIP Set VIP-380 | Termos, MagSafe Powerbank, Defter ve Kalemli Hediye Seti",
+  price: 3700,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-380.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-380, mekanizmalı ajanda, 9.5x14 cm defter, metal kalem ve kartvizitlikten oluşan özel kutulu şık kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-380, iş dünyasına yönelik fonksiyonel ve şık tasarımıyla kurumsal firmalar için ideal bir hediye setidir.
-
-Set içerisinde mekanizmalı ajanda, 9.5 x 14 cm defter, metal tükenmez kalem ve kartvizitlik bulunmaktadır.
-
-Mekanizmalı ajanda, değiştirilebilir iç yapısı sayesinde uzun süreli kullanım imkanı sunar ve iş planlaması için pratik bir çözüm oluşturur.
-
-9.5 x 14 cm defter, kompakt yapısı ile günlük notlar ve hızlı kullanım için idealdir.
-
-Metal tükenmez kalem, ergonomik yapısı ve şık tasarımı ile profesyonel bir yazım deneyimi sunar.
-
-Kartvizitlik, iş dünyasında düzenli ve prestijli bir görünüm sağlarken marka imajınızı güçlendirir.
-
-Özel tasarım kutusu ile sunulan bu set, kurumsal hediye kategorisinde hem fonksiyonel hem de prestijli bir alternatif oluşturur.
-
-Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve markanız uzun süreli görünürlük kazanır.
-
-Fonksiyonellik ve şıklığı bir araya getiren bu VIP set, özellikle ofis kullanımı ve kurumsal dağıtımlar için ideal bir seçenektir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- Mekanizmalı Ajanda
-- 9.5 x 14 cm Defter
-- Metal Tükenmez Kalem
-- Kartvizitlik
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık olabilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Promosyon ajanda setleri
-Kurumsal hediye setleri
-Ofis ve yönetici hediyeleri
-Fuar ve etkinlik promosyonları
-Çalışan motivasyon ürünleri
-Marka tanıtım çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-380-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-380; Roller kalem, 15 x 21 cm termo deri defter, 400 ml çelik termos, 10.000 mAh MagSafe powerbank. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-380, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Roller kalem\n• 15 x 21 cm termo deri defter\n• 400 ml çelik termos\n• 10.000 mAh MagSafe powerbank\n\nTEKNİK BİLGİLER\n\nModel: VIP-380\nKategori: VIP Ürünler\nKutu Ölçüsü: 420 x 270 mm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-380 setinin içerisinde hangi ürünler bulunur?","a":"Roller kalem; 15 x 21 cm termo deri defter; 400 ml çelik termos; 10.000 mAh MagSafe powerbank."},{"q":"VIP-380 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 420 x 270 mm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-380 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-380 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-380 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-380 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p642",
   slug: "promosyon-vip-set-vip-390-defter-kalem-kurumsal-hediye-seti",
-
   title: "Promosyon VIP Set VIP-390 | 13x21 Defter ve Metal Kalemli Şık Kurumsal Hediye Seti",
   price: 480,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-390.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-390, 13x21 cm defter ve metal kalemden oluşan özel kutulu sade ve şık kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-390, sade ve modern tasarımı ile kurumsal firmalar için pratik ve şık bir promosyon çözümü sunar.
-
-Set içerisinde 13 x 21 cm defter ve metal kalem bulunmaktadır.
-
-13 x 21 cm defter, geniş kullanım alanı ile toplantılar, not alma ve günlük planlama için ideal bir üründür.
-
-Metal kalem, ergonomik yapısı ve şık tasarımı ile konforlu ve profesyonel bir yazım deneyimi sunar.
-
-Özel tasarım kutusu ile sunulan bu set, hem ekonomik hem de prestijli bir kurumsal hediye alternatifi oluşturur.
-
-Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve markanız uzun süreli görünürlük kazanır.
-
-Minimal yapısı sayesinde toplu dağıtımlar ve geniş kitlelere ulaşmak için ideal bir promosyon ürünüdür.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 13 x 21 cm Defter
-- Metal Kalem
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Toplu promosyon dağıtımları
-Çalışan motivasyon ürünleri
-Fuar ve etkinlik promosyonları
-Marka tanıtım çalışmaları
-`,
+  shortDesc: "Promosyon VIP set VIP-390; 13 x 21 cm defter, Kalem. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-390, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 13 x 21 cm defter\n• Kalem\n\nTEKNİK BİLGİLER\n\nModel: VIP-390\nKategori: VIP Ürünler\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nGri, Kırmızı, Lacivert, Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-390 setinin içerisinde hangi ürünler bulunur?","a":"13 x 21 cm defter; Kalem."},{"q":"VIP-390 setinin kutu ve ölçü bilgileri nedir?","a":"Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-390 hangi renk seçenekleriyle sunulur?","a":"Gri, Kırmızı, Lacivert, Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-390 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-390 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-390 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p643",
   slug: "promosyon-vip-set-vip-400-termo-deri-defter-metal-kalem-kurumsal-hediye-seti",
-
-  title: "Promosyon VIP Set VIP-400 | Termo Deri 13x21 Defter ve Metal Kalemli Özel Kutulu Kurumsal Hediye",
-  price: 320,
+  title: "Promosyon VIP Set VIP-400 | Termos, MagSafe Powerbank, Hoparlör ve Şarj Kablolu Hediye Seti",
+  price: 3900,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-400.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-400, 13x21 cm termo deri defter ve metal tükenmez kalemden oluşan, özel kutulu şık ve prestijli kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-400, şık tasarımı ve kaliteli malzeme yapısı ile kurumsal firmalar için prestijli bir promosyon çözümü sunar.
-
-Set içerisinde termo deri kapaklı 13 x 21 cm defter ve metal tükenmez kalem yer almaktadır.
-
-Termo deri defter, yumuşak dokusu ve dayanıklı yapısı ile uzun süreli kullanım sunarken, geniş sayfa yapısı sayesinde toplantı, planlama ve not alma işlemleri için idealdir.
-
-Metal tükenmez kalem ise modern tasarımı ve ergonomik yapısı ile konforlu bir yazım deneyimi sağlar ve profesyonel bir görünüm sunar.
-
-Özel tasarım kutusu ile sunulan bu set, hem hediye olarak şık bir sunum sağlar hem de marka değerini artıran etkili bir promosyon ürünüdür.
-
-Tüm ürünlere firmanıza özel logo baskı uygulanabilir ve markanızın uzun süre görünür olması sağlanır.
-
-Farklı renk seçenekleri ile geniş kitlelere hitap eden bu set, özellikle kurumsal dağıtımlar ve özel etkinlikler için ideal bir tercihtir.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 13 x 21 cm Termo Deri Defter
-- Metal Tükenmez Kalem
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Çalışan motivasyon ürünleri
-Fuar ve etkinlik promosyonları
-Marka tanıtım çalışmaları
-Ofis kullanımı ve dağıtım ürünleri
-`,
+  image: "/products/promosyon-vip-set-vip-400-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-400; Çoklu şarj kablosu, 400 ml çelik termos, 10.000 mAh MagSafe powerbank, Bluetooth hoparlör. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-400, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Çoklu şarj kablosu\n• 400 ml çelik termos\n• 10.000 mAh MagSafe powerbank\n• Bluetooth hoparlör\n\nTEKNİK BİLGİLER\n\nModel: VIP-400\nKategori: VIP Ürünler\nKutu Ölçüsü: 310 x 235 mm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-400 setinin içerisinde hangi ürünler bulunur?","a":"Çoklu şarj kablosu; 400 ml çelik termos; 10.000 mAh MagSafe powerbank; Bluetooth hoparlör."},{"q":"VIP-400 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 310 x 235 mm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-400 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-400 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-400 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-400 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p644",
   slug: "promosyon-vip-set-vip-410-termo-deri-defter-roller-kalem-kurumsal-hediye-seti",
-
   title: "Promosyon VIP Set VIP-410 | 15x21 Termo Deri Defter ve Metal Roller Kalemli Şık Kurumsal Set",
   price: 374,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-vip-410.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-410, 15x21 cm termo deri defter ve metal roller kalemden oluşan, karton kutulu şık ve prestijli kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-410, geniş boyutlu defteri ve premium yazım deneyimi sunan roller kalemi ile kurumsal firmalar için üst segment bir promosyon çözümüdür.
-
-Set içerisinde 15 x 21 cm termo deri defter ve metal roller kalem yer almaktadır.
-
-15 x 21 cm ölçüsündeki termo deri defter, geniş yazım alanı ile toplantılar, planlama ve günlük not alma süreçlerinde maksimum kullanım konforu sağlar.
-
-Metal roller kalem, akıcı yazım performansı ve şık tasarımı ile klasik tükenmez kalemlere göre daha prestijli bir kullanım sunar.
-
-Karton kutu içerisinde sunulan bu set, sade ama etkili bir kurumsal hediye alternatifi olup marka imajınızı güçlendirmeye yardımcı olur.
-
-Ürünlerin tamamına firmanıza özel logo baskı uygulanabilir ve bu sayede markanız uzun süreli görünürlük kazanır.
-
-Farklı renk seçenekleri ile geniş kitlelere hitap eden bu set, hem ekonomik hem de kaliteli bir promosyon çözümü sunar.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 15 x 21 cm Termo Deri Defter
-- Metal Roller Kalem
-
-Kutu: Karton Kutu
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Toplantı ve ofis kullanımı
-Çalışan motivasyon ürünleri
-Fuar ve etkinlik promosyonları
-Marka tanıtım çalışmaları
-`,
+  shortDesc: "Promosyon VIP set VIP-410; 15 x 21 cm termo deri defter, Metal roller kalem. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-410, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 15 x 21 cm termo deri defter\n• Metal roller kalem\n\nTEKNİK BİLGİLER\n\nModel: VIP-410\nKategori: VIP Ürünler\nKutu / Ambalaj: Karton kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nTuruncu, Turkuaz, Lacivert, Siyah, Kırmızı, Füme renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-410 setinin içerisinde hangi ürünler bulunur?","a":"15 x 21 cm termo deri defter; Metal roller kalem."},{"q":"VIP-410 setinin kutu ve ölçü bilgileri nedir?","a":"Ambalaj: Karton kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-410 hangi renk seçenekleriyle sunulur?","a":"Turuncu, Turkuaz, Lacivert, Siyah, Kırmızı, Füme renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-410 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-410 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-410 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p645",
   slug: "promosyon-vip-set-vip-420-9x14-defter-metal-kalem-kurumsal-hediye-seti",
-
-  title: "Promosyon VIP Set VIP-420 | 9x14 Defter ve Metal Kalemli Özel Kutulu Kurumsal Hediye Seti",
+  title: "Promosyon VIP Set VIP-420 | 13x21 Termo Deri Defter ve Rubber Roller Kalemli Hediye Seti",
   price: 380,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-420.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-420, 9x14 cm defter ve metal kalemden oluşan, özel kutulu kompakt ve ekonomik kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-420, kompakt boyutu ve şık tasarımı ile günlük kullanım için pratik ve ekonomik bir kurumsal promosyon çözümüdür.
-
-Set içerisinde 9 x 14 cm defter ve metal kalem yer almaktadır.
-
-9 x 14 cm ölçüsündeki defter, taşınabilir yapısı sayesinde çanta ve masa kullanımına uygun olup hızlı not alma, günlük planlama ve saha kullanımları için idealdir.
-
-Metal kalem, dayanıklı yapısı ve şık görünümü ile uzun ömürlü kullanım sunarken aynı zamanda profesyonel bir imaj oluşturur.
-
-Özel tasarım kutu içerisinde sunulan bu set, hem şık bir hediye alternatifi hem de geniş dağıtımlar için uygun maliyetli bir promosyon ürünüdür.
-
-Ürünlerin tamamına firmanıza özel logo baskı uygulanabilir ve bu sayede markanız sürekli görünürlük kazanır.
-
-Farklı renk seçenekleri ile her hedef kitleye hitap eden bu set, özellikle yüksek adetli promosyon çalışmalarında avantaj sağlar.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 9 x 14 cm Defter
-- Metal Kalem
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Toplu promosyon dağıtımları
-Fuar ve etkinlik ürünleri
-Kurumsal hediye setleri
-Saha ekipleri için pratik kullanım
-Marka tanıtım çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-420-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-420; Rubber gövdeli süper jel refilli roller kalem, 13 x 21 cm termo deri defter. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-420, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Rubber gövdeli süper jel refilli roller kalem\n• 13 x 21 cm termo deri defter\n\nTEKNİK BİLGİLER\n\nModel: VIP-420\nKategori: VIP Ürünler\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nBeyaz, Füme, Kırmızı, Lacivert, Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-420 setinin içerisinde hangi ürünler bulunur?","a":"Rubber gövdeli süper jel refilli roller kalem; 13 x 21 cm termo deri defter."},{"q":"VIP-420 setinin kutu ve ölçü bilgileri nedir?","a":"Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-420 hangi renk seçenekleriyle sunulur?","a":"Beyaz, Füme, Kırmızı, Lacivert, Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-420 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-420 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-420 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p646",
   slug: "promosyon-vip-set-vip-430-termos-powerbank-speaker-kurumsal-luks-hediye-seti",
-
   title: "Promosyon VIP Set VIP-430 | Termos, Powerbank, Bluetooth Speaker ve Premium Kurumsal Hediye Seti",
   price: 3920,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-430.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-430, termos, 10.000 mAh powerbank, Bluetooth speaker ve çoklu aksesuar içeren, deri kutulu lüks kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-430, teknoloji ve günlük kullanım ürünlerini bir araya getiren zengin içeriği ile üst segment kurumsal promosyon çözümleri arasında yer alır.
-
-Set içerisinde termos (500 mL French Press), 10.000 mAh powerbank, metal roller kalem, Bluetooth speaker, fener ve çakı bulunmaktadır.
-
-500 mL French Press termos, sıcak ve soğuk içeceklerinizi uzun süre muhafaza ederek günlük kullanımda maksimum konfor sağlar.
-
-10.000 mAh powerbank, yüksek kapasitesi ile mobil cihazlarınızı gün boyu şarj edebilmenize olanak tanır.
-
-Bluetooth speaker, kompakt yapısı ile güçlü ses performansı sunarken taşınabilir kullanım avantajı sağlar.
-
-Metal roller kalem, şık tasarımı ve akıcı yazım deneyimi ile profesyonel bir kullanım sunar.
-
-Fener ve çakı gibi çok amaçlı aksesuarlar ise outdoor ve günlük kullanım için pratik çözümler sağlar.
-
-Tüm ürünler, özel tasarım deri kutu içerisinde sunularak prestijli ve dikkat çekici bir hediye deneyimi oluşturur.
-
-Firma logonuza özel baskı uygulanabilen bu set, markanızın güçlü ve kalıcı bir şekilde tanıtılmasını sağlar.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 500 mL French Press Termos
-- 10.000 mAh Powerbank
-- Metal Roller Kalem
-- Bluetooth Speaker
-- Fener
-- Çakı
-
-Kutu: Özel Tasarım Deri Kutu
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-VIP müşteri hediyeleri
-Üst düzey kurumsal promosyonlar
-Özel gün ve lansman hediyeleri
-Yönetici ve çalışan ödüllendirme setleri
-Marka prestij artırma çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-430-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-430; 500 ml termos, French press, 10.000 mAh powerbank, Metal roller kalem, Bluetooth hoparlör, Fener, Çakı. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-430, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 500 ml termos\n• French press\n• 10.000 mAh powerbank\n• Metal roller kalem\n• Bluetooth hoparlör\n• Fener\n• Çakı\n\nTEKNİK BİLGİLER\n\nModel: VIP-430\nKategori: VIP Ürünler\nKutu / Ambalaj: Deri kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah, Gümüş renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-430 setinin içerisinde hangi ürünler bulunur?","a":"500 ml termos; French press; 10.000 mAh powerbank; Metal roller kalem; Bluetooth hoparlör; Fener; Çakı."},{"q":"VIP-430 setinin kutu ve ölçü bilgileri nedir?","a":"Ambalaj: Deri kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-430 hangi renk seçenekleriyle sunulur?","a":"Siyah, Gümüş renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-430 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-430 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-430 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p647",
   slug: "promosyon-vip-set-vip-440-termos-powerbank-speaker-luks-kurumsal-hediye-seti",
-
   title: "Promosyon VIP Set VIP-440 | Termos, 10.000 mAh Powerbank ve Bluetooth Speaker İçeren Lüks Hediye Seti",
   price: 3920,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-440.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-440, termos, powerbank, Bluetooth speaker ve çoklu aksesuar içeren, deri kutulu premium kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-440, modern yaşamın ihtiyaç duyduğu teknoloji ve günlük kullanım ürünlerini bir araya getiren lüks bir kurumsal hediye setidir.
-
-Set içerisinde 500 mL termos, 10.000 mAh powerbank, metal roller kalem, Bluetooth speaker, fener ve çakı bulunmaktadır.
-
-500 mL termos, içeceklerin sıcaklığını uzun süre koruyarak ofis ve günlük kullanımda konfor sağlar.
-
-10.000 mAh powerbank, mobil cihazlar için yüksek kapasiteli enerji desteği sunarak gün boyu kesintisiz kullanım imkanı sağlar.
-
-Bluetooth speaker, kompakt boyutuna rağmen güçlü ses performansı ile hem ofis hem de kişisel kullanımda keyifli bir deneyim sunar.
-
-Metal roller kalem, zarif tasarımı ve akıcı yazım özelliği ile profesyonel kullanım için idealdir.
-
-Fener ve çakı gibi çok amaçlı aksesuarlar ise hem günlük hem de outdoor kullanımlarda pratik çözümler sunar.
-
-Tüm ürünler, özel tasarım deri kutu içerisinde sunularak prestijli ve dikkat çekici bir hediye alternatifi oluşturur.
-
-Firma logonuza özel baskı uygulanabilen bu set, markanızın kalıcı ve güçlü bir şekilde tanıtılmasını sağlar.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 500 mL Termos
-- 10.000 mAh Powerbank
-- Metal Roller Kalem
-- Bluetooth Speaker
-- Fener
-- Çakı
-
-Kutu: Özel Tasarım Deri Kutu
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal VIP hediye setleri
-Yönetici ve özel müşteri hediyeleri
-Fuar ve lansman ürünleri
-Marka prestij çalışmaları
-Kurumsal promosyon kampanyaları
-`,
+  image: "/products/promosyon-vip-set-vip-440-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-440; 500 ml termos, French press, 10.000 mAh powerbank, Metal roller kalem, Bluetooth hoparlör, Fener, Çakı. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-440, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 500 ml termos\n• French press\n• 10.000 mAh powerbank\n• Metal roller kalem\n• Bluetooth hoparlör\n• Fener\n• Çakı\n\nTEKNİK BİLGİLER\n\nModel: VIP-440\nKategori: VIP Ürünler\nKutu / Ambalaj: Deri kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah, Gümüş renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-440 setinin içerisinde hangi ürünler bulunur?","a":"500 ml termos; French press; 10.000 mAh powerbank; Metal roller kalem; Bluetooth hoparlör; Fener; Çakı."},{"q":"VIP-440 setinin kutu ve ölçü bilgileri nedir?","a":"Ambalaj: Deri kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-440 hangi renk seçenekleriyle sunulur?","a":"Siyah, Gümüş renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-440 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-440 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-440 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p648",
@@ -51976,473 +50088,78 @@ Marka prestij artırma çalışmaları
 {
   id: "p649",
   slug: "promosyon-vip-set-vip-460-powerbank-usb-defter-kurumsal-hediye-seti",
-
-  title: "Promosyon VIP Set VIP-460 | Powerbank, USB Bellek, Defter ve Kalem İçeren Prestijli Kurumsal Hediye Seti",
-  price: 2360,
+  title: "Promosyon VIP Set VIP-460 | Defter ve Roller Kalemli Kurumsal Hediye Seti",
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-460.jpg",
-
-  shortDesc:
-    "Promosyon VIP set VIP-460, powerbank, USB bellek, cilt bezli defter ve kalemden oluşan, kartvizitlikli özel kutulu prestijli kurumsal hediye setidir.",
-
-  longDesc: `
-Promosyon VIP set VIP-460, iş dünyasının temel ihtiyaçlarını karşılayan ürünleri bir araya getirerek hem fonksiyonel hem de prestijli bir kurumsal hediye çözümü sunar.
-
-Set içerisinde 13 x 21 cm parlak cilt bezli defter, 10.000 mAh powerbank, metal roller kalem, 16 GB USB bellek ve kartvizitlik yer almaktadır.
-
-13 x 21 cm parlak kapaklı defter, şık görünümü ve geniş kullanım alanı ile toplantı, not alma ve planlama süreçlerinde profesyonel bir deneyim sunar.
-
-10.000 mAh powerbank, yüksek kapasitesi sayesinde mobil cihazlar için güçlü ve güvenilir bir enerji kaynağı sağlar.
-
-16 GB USB bellek, veri taşıma ve sunum ihtiyaçları için pratik ve işlevsel bir çözüm sunar.
-
-Metal roller kalem, akıcı yazım performansı ve zarif tasarımı ile kurumsal kullanımda prestij sağlar.
-
-Kartvizitlik, iş dünyasında düzenli ve profesyonel bir görünüm oluşturmak için ideal bir tamamlayıcı üründür.
-
-Tüm ürünler, özel tasarım kutu içerisinde sunularak etkileyici ve kaliteli bir hediye deneyimi oluşturur.
-
-Firma logonuza özel baskı uygulanabilen bu set, markanızın kurumsal kimliğini güçlendirir ve uzun süreli görünürlük sağlar.
-
-TEKNİK ÖZELLİKLER
-
-Set İçeriği:
-- 13 x 21 cm Cilt Bezi Defter (Parlak Kapak)
-- 10.000 mAh Powerbank
-- Metal Roller Kalem
-- 16 GB USB Bellek
-- Kartvizitlik
-
-Kutu: Özel Tasarım Hediyelik Kutu
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Ürün görselleri temsili olup renk ve detaylarda farklılık gösterebilir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-Firma logonuza özel baskı yapılmaktadır.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Yönetici ve iş ortaklarına özel hediyeler
-Toplantı ve ofis kullanımı
-Fuar ve etkinlik promosyonları
-Marka prestij ve tanıtım çalışmaları
-`,
+  image: "/products/promosyon-vip-set-vip-460-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-460; Metal roller kalem, 14,5 x 21 cm termo deri defter. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-460, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• Metal roller kalem\n• 14,5 x 21 cm termo deri defter\n\nTEKNİK BİLGİLER\n\nModel: VIP-460\nKategori: VIP Ürünler\nKutu Ölçüsü: 22,5 x 22,6 x 5 cm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Bu model için sayısal liste fiyatı belirtilmemiştir; güncel fiyat için teklif alın.",
+  faq: [{"q":"VIP-460 setinin içerisinde hangi ürünler bulunur?","a":"Metal roller kalem; 14,5 x 21 cm termo deri defter."},{"q":"VIP-460 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 22,5 x 22,6 x 5 cm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-460 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-460 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-460 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-460 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p650",
   slug: "promosyon-vip-set-kutusu-vip-470-ozel-kurumsal-hediye-kutusu",
-
   title: "Promosyon VIP Set Kutusu VIP-470 | Özel Ölçü Kurumsal Hediye Kutusu (Set Oluşturulabilir)",
   price: 190,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-470.jpg",
-
-  shortDesc:
-    "Promosyon VIP set kutusu VIP-470, 24x20.5 cm ölçülerinde, içerisine özel ürünler eklenerek kurumsal hediye seti oluşturulabilen şık kutu çözümüdür.",
-
-  longDesc: `
-Promosyon VIP set kutusu VIP-470, firmalara özel kurumsal hediye setleri oluşturmak için tasarlanmış şık ve profesyonel bir kutu çözümüdür.
-
-24 x 20.5 x 2.2 cm ölçülerine sahip bu özel kutu, içerisine farklı promosyon ürünleri yerleştirilerek tamamen kişiselleştirilebilir setler oluşturmanıza imkan tanır.
-
-Kutu içerisine katalogda yer alan defter, kalem, powerbank, USB bellek ve benzeri promosyon ürünleri eklenerek firmanıza özel VIP setler hazırlanabilir.
-
-Bu sayede standart ürünler yerine tamamen markanıza ve hedef kitlenize uygun, özgün kurumsal hediye çözümleri oluşturabilirsiniz.
-
-Ürün, sade ve şık tasarımı ile sunum kalitesini artırırken, müşterileriniz ve iş ortaklarınız üzerinde güçlü bir marka algısı oluşturur.
-
-Kurumsal firmalar için özellikle fuar, lansman, özel gün ve VIP müşteri hediyelerinde tercih edilen profesyonel bir çözümdür.
-
-Firma logonuza özel baskı uygulamaları ile kutu üzerine markalama yapılabilir ve marka görünürlüğü üst seviyeye çıkarılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Kutu Ölçüleri:
-- 24 x 20.5 x 2.2 cm
-
-Kullanım:
-- İçerik dahil değildir (boş kutu)
-- İstenilen ürünlerle özel set yapılabilir
-
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Görsellerde yer alan defter ve kalem temsili olup fiyata dahil değildir.
-
-Set içerikleri müşteri talebine göre özelleştirilmektedir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-İçerik seçimi tamamen size özeldir.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kişiye özel kurumsal hediye setleri
-VIP müşteri hediye kutuları
-Fuar ve lansman setleri
-Marka tanıtım paketleri
-Özel gün ve etkinlik promosyonları
-`,
+  shortDesc: "Promosyon VIP set kutusu VIP-470, kurumsal hediye setlerinin hazırlanmasında kullanılabilecek kutu seçeneğidir. Dış ölçü: 24 x 20,5 x 2,2 cm. Görseldeki kalem ve defter fiyata dahil değildir.",
+  longDesc: "Promosyon VIP set kutusu VIP-470, katalog ürünleriyle özel bir kurumsal hediye sunumu hazırlamak için değerlendirilebilir. Bu ürün kutudur; hediye setinin içine yerleştirilecek ürünler ayrıca seçilir ve fiyatlandırılır.\n\nTEKNİK BİLGİLER\n\nModel: VIP-470\nKategori: VIP Ürünler\nDış Ölçü: 24 x 20,5 x 2,2 cm\n\nKUTU VE SET KAPSAMI\n\nGörseldeki kalem ve defter fiyata dahil değildir. Kutuya yerleştirilecek kalem, defter, termos ve diğer ürünler kutu fiyatına dahil değildir. İstenen ürünlerle oluşturulacak setin yerleşimi ve toplam bedeli ayrıca değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nKutu yüzeyine uygun logo uygulamasının yöntemi, alanı ve bedeli teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-470 kutusunun ölçüleri nedir?","a":"Dış ölçü: 24 x 20,5 x 2,2 cm."},{"q":"VIP-470 fiyatına hediye ürünleri dahil midir?","a":"Hayır. Bu kayıt set kutusuna aittir. İçine yerleştirilecek hediye ürünleri ayrıca seçilir ve fiyatlandırılır."},{"q":"VIP-470 kutusunda sünger veya dolgu malzemesi bulunur mu?","a":"Görseldeki kalem ve defter fiyata dahil değildir."},{"q":"VIP-470 kutusuna hangi logo baskıları uygulanabilir?","a":"Kutu yüzeyine uygun baskı yöntemi, alanı ve bedeli logo tasarımına göre teklif aşamasında teyit edilir."},{"q":"VIP-470 kutusuyla özel hediye seti hazırlanabilir mi?","a":"Evet. İstenen ürünlerin kutuya uygunluğu, yerleşimi, dolgu gereksinimi ve toplam maliyeti teklif aşamasında değerlendirilir."},{"q":"VIP-470 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p651",
   slug: "promosyon-vip-set-kutusu-vip-480-buyuk-boy-ozel-kurumsal-hediye-kutusu",
-
-  title: "Promosyon VIP Set Kutusu VIP-480 | Büyük Boy Özel Kurumsal Hediye Kutusu (33,5x25x10,2 cm)",
-  price: 550,
+  title: "Promosyon VIP Set Kutusu VIP-480 | Büyük Boy Özel Kurumsal Hediye Kutusu",
+  price: 700,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-480.jpg",
-
-  shortDesc:
-    "Promosyon VIP set kutusu VIP-480, büyük hacimli yapısı ile çoklu ürün yerleşimine uygun, özel set oluşturulabilen premium kurumsal hediye kutusudur.",
-
-  longDesc: `
-Promosyon VIP set kutusu VIP-480, geniş iç hacmi sayesinde çoklu ürün kombinasyonları oluşturmak isteyen firmalar için tasarlanmış profesyonel bir kurumsal hediye kutusudur.
-
-33,5 x 25 x 10,2 cm dış ölçülere sahip olan bu kutu, defter, termos, powerbank, elektronik aksesuarlar ve farklı promosyon ürünlerinin bir arada sunulmasına imkan tanır.
-
-İç ölçüleri 32 x 24.5 x 10 cm olan kutu, özellikle büyük ve zengin içerikli VIP setler hazırlamak isteyen markalar için ideal bir çözümdür.
-
-Kutu içerisine katalogda yer alan ürünler eklenerek tamamen markanıza özel kurumsal hediye setleri oluşturabilirsiniz.
-
-Standart setlerin ötesine geçerek, hedef kitlenize özel hazırlanmış profesyonel sunumlar yapabilir ve marka algınızı güçlendirebilirsiniz.
-
-Kutu içerisine sünger veya kırpık kağıt eklenerek ürün yerleşimi daha estetik ve güvenli hale getirilebilir (dahil değildir).
-
-Şık ve sade tasarımı sayesinde premium bir hediye deneyimi sunar ve özellikle üst segment müşteri kitlesine hitap eder.
-
-Firma logonuza özel baskı uygulamaları ile kutu kişiselleştirilebilir ve marka görünürlüğü artırılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Kutu Ölçüleri:
-- Dış: 33,5 x 25 x 10,2 cm
-- İç: 32 x 24.5 x 10 cm
-
-Kullanım:
-- İçerik dahil değildir (boş kutu)
-- İstenilen ürünlerle özel set yapılabilir
-
-Ekstra:
-- Sünger veya kırpık kağıt dahil değildir
-
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Görseller temsili olup içerik dahil değildir.
-
-Set içerikleri müşteri talebine göre özelleştirilmektedir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-İçerik seçimi tamamen size özeldir.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-VIP kurumsal hediye setleri
-Büyük hacimli promosyon paketleri
-Fuar ve lansman setleri
-Üst düzey müşteri hediyeleri
-Marka prestij ve sunum çalışmaları
-`,
+  shortDesc: "Promosyon VIP set kutusu VIP-480, kurumsal hediye setlerinin hazırlanmasında kullanılabilecek kutu seçeneğidir. Kesin ölçü sipariş öncesinde teyit edilmelidir. Sünger veya kırpık kağıt fiyata dahil değildir.",
+  longDesc: "Promosyon VIP set kutusu VIP-480, katalog ürünleriyle özel bir kurumsal hediye sunumu hazırlamak için değerlendirilebilir. Bu ürün kutudur; hediye setinin içine yerleştirilecek ürünler ayrıca seçilir ve fiyatlandırılır.\n\nTEKNİK BİLGİLER\n\nModel: VIP-480\nKategori: VIP Ürünler\nDış Ölçü: Teknik açıklama: 33,5 x 25 x 10,2 cm\nİç Ölçü: 32 x 24,5 x 10 cm\n\nÖLÇÜ NOTU\n\nÜrün başlığında 310 x 235 x 107 yazarken teknik açıklamada dış ölçü 33,5 x 25 x 10,2 cm olarak belirtilmiştir. Kesin dış ve iç ölçüler sipariş öncesinde teyit edilmelidir.\n\nKUTU VE SET KAPSAMI\n\nSünger veya kırpık kağıt fiyata dahil değildir. Kutuya yerleştirilecek kalem, defter, termos ve diğer ürünler kutu fiyatına dahil değildir. İstenen ürünlerle oluşturulacak setin yerleşimi ve toplam bedeli ayrıca değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nKutu yüzeyine uygun logo uygulamasının yöntemi, alanı ve bedeli teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-480 kutusunun ölçüleri nedir?","a":"Ürün başlığında 310 x 235 x 107 yazarken teknik açıklamada dış ölçü 33,5 x 25 x 10,2 cm olarak belirtilmiştir. Kesin dış ve iç ölçüler sipariş öncesinde teyit edilmelidir."},{"q":"VIP-480 fiyatına hediye ürünleri dahil midir?","a":"Hayır. Bu kayıt set kutusuna aittir. İçine yerleştirilecek hediye ürünleri ayrıca seçilir ve fiyatlandırılır."},{"q":"VIP-480 kutusunda sünger veya dolgu malzemesi bulunur mu?","a":"Sünger veya kırpık kağıt fiyata dahil değildir."},{"q":"VIP-480 kutusuna hangi logo baskıları uygulanabilir?","a":"Kutu yüzeyine uygun baskı yöntemi, alanı ve bedeli logo tasarımına göre teklif aşamasında teyit edilir."},{"q":"VIP-480 kutusuyla özel hediye seti hazırlanabilir mi?","a":"Evet. İstenen ürünlerin kutuya uygunluğu, yerleşimi, dolgu gereksinimi ve toplam maliyeti teklif aşamasında değerlendirilir."},{"q":"VIP-480 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p652",
   slug: "promosyon-vip-set-kutusu-vip-490-ince-buyuk-olculu-kurumsal-hediye-kutusu",
-
   title: "Promosyon VIP Set Kutusu VIP-490 | İnce Büyük Ölçülü Mıknatıslı Kurumsal Hediye Kutusu (35x28 cm)",
-  price: 350,
+  price: 380,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-490.jpg",
-
-  shortDesc:
-    "Promosyon VIP set kutusu VIP-490, ince yapısı ve geniş yüzeyi ile defter ve kalem gibi ürünler için özel set oluşturulabilen mıknatıslı kurumsal hediye kutusudur.",
-
-  longDesc: `
-Promosyon VIP set kutusu VIP-490, geniş yüzey alanı ve ince formu ile özellikle sade ve şık kurumsal hediye setleri hazırlamak isteyen firmalar için ideal bir çözümdür.
-
-35 x 28 x 3.5 cm ölçülerine sahip olan bu kutu, defter, kalem, ajanda ve benzeri ince promosyon ürünlerinin estetik şekilde sunulmasına imkan tanır.
-
-İnce yapısı sayesinde hem zarif hem de modern bir görünüm sunar ve özellikle minimal tasarımlı VIP setler için tercih edilir.
-
-Cilt bezli kapak yapısı, kutuya premium bir dokunuş kazandırırken, mıknatıslı kapak sistemi sayesinde güvenli ve kolay kullanım sağlar.
-
-Kutu içerisine katalogda yer alan ürünler eklenerek tamamen firmanıza özel kurumsal hediye setleri hazırlanabilir.
-
-Bu sayede standart promosyonların ötesine geçerek, hedef kitlenize özel hazırlanmış profesyonel sunumlar oluşturabilirsiniz.
-
-Firma logonuza özel baskı uygulamaları ile kutu kişiselleştirilebilir ve marka görünürlüğü artırılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Kutu Ölçüleri:
-- 35 x 28 x 3.5 cm
-
-Kapak:
-- Cilt Bezi Kaplama
-- Mıknatıslı Kapak
-
-Kullanım:
-- İçerik dahil değildir (boş kutu)
-- İstenilen ürünlerle özel set yapılabilir
-
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Görseller temsili olup içerik dahil değildir.
-
-Set içerikleri müşteri talebine göre özelleştirilmektedir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-İçerik seçimi tamamen size özeldir.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Minimal VIP hediye setleri
-Defter ve kalem promosyon setleri
-Kurumsal hediye sunumları
-Fuar ve etkinlik setleri
-Marka tanıtım paketleri
-`,
+  shortDesc: "Promosyon VIP set kutusu VIP-490, kurumsal hediye setlerinin hazırlanmasında kullanılabilecek kutu seçeneğidir. Dış ölçü: 35 x 28 x 3,5 cm.",
+  longDesc: "Promosyon VIP set kutusu VIP-490, katalog ürünleriyle özel bir kurumsal hediye sunumu hazırlamak için değerlendirilebilir. Bu ürün kutudur; hediye setinin içine yerleştirilecek ürünler ayrıca seçilir ve fiyatlandırılır.\n\nTEKNİK BİLGİLER\n\nModel: VIP-490\nKategori: VIP Ürünler\nDış Ölçü: 35 x 28 x 3,5 cm\nMalzeme: Cilt bezi\nKapak: Mıknatıslı kapak\n\nKUTU VE SET KAPSAMI\n\nİç sünger, kırpık kağıt ve diğer dolgu malzemelerinin dahil olup olmadığı sipariş öncesinde teyit edilir. Kutuya yerleştirilecek kalem, defter, termos ve diğer ürünler kutu fiyatına dahil değildir. İstenen ürünlerle oluşturulacak setin yerleşimi ve toplam bedeli ayrıca değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nKutu yüzeyine uygun logo uygulamasının yöntemi, alanı ve bedeli teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-490 kutusunun ölçüleri nedir?","a":"Dış ölçü: 35 x 28 x 3,5 cm."},{"q":"VIP-490 fiyatına hediye ürünleri dahil midir?","a":"Hayır. Bu kayıt set kutusuna aittir. İçine yerleştirilecek hediye ürünleri ayrıca seçilir ve fiyatlandırılır."},{"q":"VIP-490 kutusunda sünger veya dolgu malzemesi bulunur mu?","a":"İç sünger, kırpık kağıt ve diğer dolgu malzemelerinin dahil olup olmadığı sipariş öncesinde teyit edilir."},{"q":"VIP-490 kutusuna hangi logo baskıları uygulanabilir?","a":"Kutu yüzeyine uygun baskı yöntemi, alanı ve bedeli logo tasarımına göre teklif aşamasında teyit edilir."},{"q":"VIP-490 kutusuyla özel hediye seti hazırlanabilir mi?","a":"Evet. İstenen ürünlerin kutuya uygunluğu, yerleşimi, dolgu gereksinimi ve toplam maliyeti teklif aşamasında değerlendirilir."},{"q":"VIP-490 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p653",
   slug: "promosyon-vip-set-kutusu-vip-500-orta-boy-miknatisli-kurumsal-hediye-kutusu",
-
   title: "Promosyon VIP Set Kutusu VIP-500 | Orta Boy Mıknatıslı Kurumsal Hediye Kutusu (26x29 cm)",
-  price: 310,
+  price: 340,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-500.jpg",
-
-  shortDesc:
-    "Promosyon VIP set kutusu VIP-500, orta boy ölçüsü ve ince yapısı ile özel set hazırlamaya uygun, mıknatıslı kapaklı kurumsal hediye kutusudur.",
-
-  longDesc: `
-Promosyon VIP set kutusu VIP-500, dengeli ölçüleri ve şık tasarımı ile hem estetik hem de kullanışlı kurumsal hediye setleri hazırlamak isteyen firmalar için ideal bir çözümdür.
-
-26 x 29 x 3.5 cm ölçülerine sahip olan bu kutu, defter, kalem, ajanda ve çeşitli promosyon ürünlerinin bir arada sunulmasına imkan tanır.
-
-Orta boy yapısı sayesinde hem kompakt hem de yeterli iç hacim sunarak, farklı kombinasyonlarda VIP setler oluşturmanıza olanak sağlar.
-
-Cilt bezli kapak yapısı, kutuya premium bir görünüm kazandırırken, mıknatıslı kapak sistemi güvenli ve pratik kullanım sunar.
-
-Kutu içerisine katalogda yer alan ürünler eklenerek firmanıza özel kurumsal hediye setleri hazırlanabilir.
-
-Bu sayede markanıza özel, özgün ve profesyonel promosyon çözümleri oluşturabilirsiniz.
-
-Firma logonuza özel baskı uygulamaları ile kutu kişiselleştirilebilir ve marka görünürlüğü artırılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Kutu Ölçüleri:
-- 26 x 29 x 3.5 cm
-
-Kapak:
-- Cilt Bezi Kaplama
-- Mıknatıslı Kapak
-
-Kullanım:
-- İçerik dahil değildir (boş kutu)
-- İstenilen ürünlerle özel set yapılabilir
-
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Görseller temsili olup içerik dahil değildir.
-
-Set içerikleri müşteri talebine göre özelleştirilmektedir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-İçerik seçimi tamamen size özeldir.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Kurumsal hediye setleri
-Defter ve kalem promosyon setleri
-Fuar ve etkinlik paketleri
-Marka tanıtım çalışmaları
-VIP müşteri hediyeleri
-`,
+  shortDesc: "Promosyon VIP set kutusu VIP-500, kurumsal hediye setlerinin hazırlanmasında kullanılabilecek kutu seçeneğidir. Dış ölçü: 26 x 29 x 3,5 cm.",
+  longDesc: "Promosyon VIP set kutusu VIP-500, katalog ürünleriyle özel bir kurumsal hediye sunumu hazırlamak için değerlendirilebilir. Bu ürün kutudur; hediye setinin içine yerleştirilecek ürünler ayrıca seçilir ve fiyatlandırılır.\n\nTEKNİK BİLGİLER\n\nModel: VIP-500\nKategori: VIP Ürünler\nDış Ölçü: 26 x 29 x 3,5 cm\nMalzeme: Cilt bezi\nKapak: Mıknatıslı kapak\n\nKUTU VE SET KAPSAMI\n\nİç sünger, kırpık kağıt ve diğer dolgu malzemelerinin dahil olup olmadığı sipariş öncesinde teyit edilir. Kutuya yerleştirilecek kalem, defter, termos ve diğer ürünler kutu fiyatına dahil değildir. İstenen ürünlerle oluşturulacak setin yerleşimi ve toplam bedeli ayrıca değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nKutu yüzeyine uygun logo uygulamasının yöntemi, alanı ve bedeli teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-500 kutusunun ölçüleri nedir?","a":"Dış ölçü: 26 x 29 x 3,5 cm."},{"q":"VIP-500 fiyatına hediye ürünleri dahil midir?","a":"Hayır. Bu kayıt set kutusuna aittir. İçine yerleştirilecek hediye ürünleri ayrıca seçilir ve fiyatlandırılır."},{"q":"VIP-500 kutusunda sünger veya dolgu malzemesi bulunur mu?","a":"İç sünger, kırpık kağıt ve diğer dolgu malzemelerinin dahil olup olmadığı sipariş öncesinde teyit edilir."},{"q":"VIP-500 kutusuna hangi logo baskıları uygulanabilir?","a":"Kutu yüzeyine uygun baskı yöntemi, alanı ve bedeli logo tasarımına göre teklif aşamasında teyit edilir."},{"q":"VIP-500 kutusuyla özel hediye seti hazırlanabilir mi?","a":"Evet. İstenen ürünlerin kutuya uygunluğu, yerleşimi, dolgu gereksinimi ve toplam maliyeti teklif aşamasında değerlendirilir."},{"q":"VIP-500 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p654",
   slug: "promosyon-vip-set-kutusu-vip-510-kompakt-miknatisli-kurumsal-hediye-kutusu",
-
-  title: "Promosyon VIP Set Kutusu VIP-510 | Kompakt Mıknatıslı Kurumsal Hediye Kutusu (22x20 cm)",
-  price: 300,
+  title: "Promosyon VIP Set Kutusu VIP-510 | Kompakt Mıknatıslı Kurumsal Hediye Kutusu",
+  price: 330,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-510.jpg",
-
-  shortDesc:
-    "Promosyon VIP set kutusu VIP-510, kompakt ölçüsü ve şık yapısı ile küçük ve orta ölçekli özel setler için ideal mıknatıslı kurumsal hediye kutusudur.",
-
-  longDesc: `
-Promosyon VIP set kutusu VIP-510, kompakt yapısı ve premium görünümü ile ekonomik ve şık kurumsal hediye setleri hazırlamak isteyen firmalar için ideal bir çözümdür.
-
-23 x 20.5 x 3.5 cm ölçülerine sahip olan bu kutu, defter, kalem, USB bellek ve benzeri küçük promosyon ürünlerinin estetik şekilde sunulmasına imkan tanır.
-
-İç sünger ölçüsü 22.3 x 20 cm olup, ürünlerin düzenli ve güvenli şekilde yerleştirilmesini sağlar.
-
-Kompakt yapısı sayesinde hem taşınabilir hem de maliyet açısından avantajlıdır, bu da yüksek adetli siparişlerde tercih edilmesini sağlar.
-
-Cilt bezli kapak tasarımı kutuya premium bir görünüm kazandırırken, mıknatıslı kapak sistemi pratik ve güvenli kullanım sunar.
-
-Kutu içerisine katalogda yer alan ürünler eklenerek tamamen firmanıza özel kurumsal hediye setleri hazırlanabilir.
-
-Bu sayede hedef kitlenize özel, ekonomik ama etkili promosyon çözümleri oluşturabilirsiniz.
-
-Firma logonuza özel baskı uygulanabilir ve markanızın görünürlüğü artırılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Kutu Ölçüleri:
-- 23 x 20.5 x 3.5 cm
-
-İç Sünger Ölçüsü:
-- 22.3 x 20 cm
-
-Kapak:
-- Cilt Bezi Kaplama
-- Mıknatıslı Kapak
-
-Kullanım:
-- İçerik dahil değildir (boş kutu)
-- İstenilen ürünlerle özel set yapılabilir
-
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Görseller temsili olup içerik dahil değildir.
-
-Set içerikleri müşteri talebine göre özelleştirilmektedir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-İçerik seçimi tamamen size özeldir.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Ekonomik kurumsal hediye setleri
-Kompakt promosyon paketleri
-Fuar ve etkinlik dağıtımları
-Marka tanıtım çalışmaları
-VIP mini setler
-`,
+  shortDesc: "Promosyon VIP set kutusu VIP-510, kurumsal hediye setlerinin hazırlanmasında kullanılabilecek kutu seçeneğidir. Kesin ölçü sipariş öncesinde teyit edilmelidir.",
+  longDesc: "Promosyon VIP set kutusu VIP-510, katalog ürünleriyle özel bir kurumsal hediye sunumu hazırlamak için değerlendirilebilir. Bu ürün kutudur; hediye setinin içine yerleştirilecek ürünler ayrıca seçilir ve fiyatlandırılır.\n\nTEKNİK BİLGİLER\n\nModel: VIP-510\nKategori: VIP Ürünler\nDış Ölçü: Teknik açıklama: 23 x 20,5 x 3,5 cm\nMalzeme: Cilt bezi\nKapak: Mıknatıslı kapak\nİç Sünger Ölçüsü: 22,3 x 20 cm\n\nÖLÇÜ NOTU\n\nBaşlıkta 22 x 20 x 3,5 cm, teknik açıklamada 23 x 20,5 x 3,5 cm ölçüleri verilmiştir. Kesin kutu ve iç sünger ölçüleri sipariş öncesinde teyit edilmelidir.\n\nKUTU VE SET KAPSAMI\n\nİç sünger, kırpık kağıt ve diğer dolgu malzemelerinin dahil olup olmadığı sipariş öncesinde teyit edilir. Kutuya yerleştirilecek kalem, defter, termos ve diğer ürünler kutu fiyatına dahil değildir. İstenen ürünlerle oluşturulacak setin yerleşimi ve toplam bedeli ayrıca değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nKutu yüzeyine uygun logo uygulamasının yöntemi, alanı ve bedeli teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-510 kutusunun ölçüleri nedir?","a":"Başlıkta 22 x 20 x 3,5 cm, teknik açıklamada 23 x 20,5 x 3,5 cm ölçüleri verilmiştir. Kesin kutu ve iç sünger ölçüleri sipariş öncesinde teyit edilmelidir."},{"q":"VIP-510 fiyatına hediye ürünleri dahil midir?","a":"Hayır. Bu kayıt set kutusuna aittir. İçine yerleştirilecek hediye ürünleri ayrıca seçilir ve fiyatlandırılır."},{"q":"VIP-510 kutusunda sünger veya dolgu malzemesi bulunur mu?","a":"İç sünger, kırpık kağıt ve diğer dolgu malzemelerinin dahil olup olmadığı sipariş öncesinde teyit edilir."},{"q":"VIP-510 kutusuna hangi logo baskıları uygulanabilir?","a":"Kutu yüzeyine uygun baskı yöntemi, alanı ve bedeli logo tasarımına göre teklif aşamasında teyit edilir."},{"q":"VIP-510 kutusuyla özel hediye seti hazırlanabilir mi?","a":"Evet. İstenen ürünlerin kutuya uygunluğu, yerleşimi, dolgu gereksinimi ve toplam maliyeti teklif aşamasında değerlendirilir."},{"q":"VIP-510 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p655",
   slug: "promosyon-vip-set-kutusu-vip-520-kucuk-boy-miknatisli-kurumsal-hediye-kutusu",
-
   title: "Promosyon VIP Set Kutusu VIP-520 | Küçük Boy Mıknatıslı Kurumsal Hediye Kutusu (20x15 cm)",
-  price: 280,
+  price: 310,
   category: "VIP Ürünler",
   image: "/products/promosyon-vip-set-kutusu-vip-520.jpg",
-
-  shortDesc:
-    "Promosyon VIP set kutusu VIP-520, küçük boyutlu yapısı ile ekonomik ve şık mini kurumsal hediye setleri oluşturmak için ideal çözümdür.",
-
-  longDesc: `
-Promosyon VIP set kutusu VIP-520, kompakt ölçüleri ve sade tasarımı ile küçük ölçekli ancak etkili kurumsal hediye setleri hazırlamak isteyen firmalar için ideal bir çözümdür.
-
-20 x 15 x 3.5 cm ölçülerine sahip olan bu kutu, kalem, küçük defter, USB bellek ve benzeri promosyon ürünlerinin şık bir şekilde sunulmasına imkan tanır.
-
-Küçük boyutu sayesinde maliyet avantajı sağlar ve yüksek adetli promosyon çalışmalarında tercih edilen ekonomik bir seçenektir.
-
-Cilt bezli kapak yapısı, kutuya premium bir görünüm kazandırırken, mıknatıslı kapak sistemi güvenli ve pratik kullanım sunar.
-
-Kutu içerisine katalogda yer alan ürünler eklenerek firmanıza özel mini VIP setler oluşturabilirsiniz.
-
-Bu sayede hem bütçe dostu hem de profesyonel görünüme sahip promosyon çözümleri elde edebilirsiniz.
-
-Firma logonuza özel baskı uygulanabilir ve markanızın görünürlüğü artırılabilir.
-
-TEKNİK ÖZELLİKLER
-
-Kutu Ölçüleri:
-- 20 x 15 x 3.5 cm
-
-Kapak:
-- Cilt Bezi Kaplama
-- Mıknatıslı Kapak
-
-Kullanım:
-- İçerik dahil değildir (boş kutu)
-- İstenilen ürünlerle özel set yapılabilir
-
-Baskı: UV, Lazer, Serigrafi
-
-NOT
-
-Görseller temsili olup içerik dahil değildir.
-
-Set içerikleri müşteri talebine göre özelleştirilmektedir.
-
-SİPARİŞ BİLGİSİ
-
-Ürün kurumsal promosyon ve toplu siparişler için uygundur.
-
-İçerik seçimi tamamen size özeldir.
-
-Minimum sipariş adedi ve fiyat bilgisi için bizimle iletişime geçebilirsiniz.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-Mini kurumsal hediye setleri
-Ekonomik promosyon dağıtımları
-Fuar ve etkinlik ürünleri
-Marka tanıtım çalışmaları
-Yüksek adetli promosyon kampanyaları
-`,
+  shortDesc: "Promosyon VIP set kutusu VIP-520, kurumsal hediye setlerinin hazırlanmasında kullanılabilecek kutu seçeneğidir. Dış ölçü: 20 x 15 x 3,5 cm.",
+  longDesc: "Promosyon VIP set kutusu VIP-520, katalog ürünleriyle özel bir kurumsal hediye sunumu hazırlamak için değerlendirilebilir. Bu ürün kutudur; hediye setinin içine yerleştirilecek ürünler ayrıca seçilir ve fiyatlandırılır.\n\nTEKNİK BİLGİLER\n\nModel: VIP-520\nKategori: VIP Ürünler\nDış Ölçü: 20 x 15 x 3,5 cm\n\nKUTU VE SET KAPSAMI\n\nİç sünger, kırpık kağıt ve diğer dolgu malzemelerinin dahil olup olmadığı sipariş öncesinde teyit edilir. Kutuya yerleştirilecek kalem, defter, termos ve diğer ürünler kutu fiyatına dahil değildir. İstenen ürünlerle oluşturulacak setin yerleşimi ve toplam bedeli ayrıca değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nKutu yüzeyine uygun logo uygulamasının yöntemi, alanı ve bedeli teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-520 kutusunun ölçüleri nedir?","a":"Dış ölçü: 20 x 15 x 3,5 cm."},{"q":"VIP-520 fiyatına hediye ürünleri dahil midir?","a":"Hayır. Bu kayıt set kutusuna aittir. İçine yerleştirilecek hediye ürünleri ayrıca seçilir ve fiyatlandırılır."},{"q":"VIP-520 kutusunda sünger veya dolgu malzemesi bulunur mu?","a":"İç sünger, kırpık kağıt ve diğer dolgu malzemelerinin dahil olup olmadığı sipariş öncesinde teyit edilir."},{"q":"VIP-520 kutusuna hangi logo baskıları uygulanabilir?","a":"Kutu yüzeyine uygun baskı yöntemi, alanı ve bedeli logo tasarımına göre teklif aşamasında teyit edilir."},{"q":"VIP-520 kutusuyla özel hediye seti hazırlanabilir mi?","a":"Evet. İstenen ürünlerin kutuya uygunluğu, yerleşimi, dolgu gereksinimi ve toplam maliyeti teklif aşamasında değerlendirilir."},{"q":"VIP-520 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
   id: "p656",
@@ -54865,6 +52582,51 @@ Promosyon Seramik Kupa 275 ml SK-110 modeli; kaliteli seramik gövdesi, süblima
   shortDesc: "Promosyon sekreterlik SB-130; 15 x 21 cm yuvarlak köşeli suni deri kapağa ve 13 x 20 cm iç bloğa sahiptir. I. hamur 70 gr kağıt kullanılır. Sıcak, UV, serigrafi ve lazer baskı seçenekleri bulunur.",
   longDesc: "Promosyon sekreterlik SB-130; 15 x 21 cm yuvarlak köşeli suni deri kapağa ve 13 x 20 cm iç bloğa sahiptir. I. hamur 70 gr kağıt kullanılır. Sıcak, UV, serigrafi ve lazer baskı seçenekleri bulunur.\n\nSuni deri kapak ve yuvarlak köşe tasarımıyla toplantı, eğitim ve günlük not alma çalışmalarında değerlendirilebilir. Kapak ölçüsü 15 x 21 cm, iç blok ölçüsü 13 x 20 cm’dir. İç blokta I. hamur 70 gr kağıt kullanılır. Sayfa adedi ve çizgili ya da düz sayfa düzeni sipariş öncesinde teyit edilir.\n\nTEKNİK ÖZELLİKLER\n\nÜrün Kodu: SB-130\nKapak Ölçüsü: 15 x 21 cm\nKapak: Suni Deri, Yuvarlak Köşe\nİç Blok Ölçüsü: 13 x 20 cm\nKağıt: I. Hamur 70 gr\nBaskı: Sıcak, UV, Serigrafi, Lazer\nRenk: Siyah\n\nLOGO BASKISI\n\nSıcak, UV, serigrafi ve lazer baskı seçenekleri belirtilmiştir. Uygun yöntem, logo tasarımı ve uygulama alanına göre teklif aşamasında belirlenir.\n\nRENK VE STOK BİLGİSİ\n\nSiyah renk listelenmektedir. Güncel stok ve teslim süresi teklif aşamasında paylaşılır.\n\nKULLANIM ALANLARI\n\nToplantılar, eğitimler, ofis çalışmaları, saha ziyaretleri ve kurumsal hediye organizasyonlarında kullanılabilir. Tercih edilen model, taşınacak evrakların ölçüsü ve kullanım ihtiyacına göre seçilir.\n\nSİPARİŞ BİLGİSİ\n\nKurumsal toplu sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, baskı bedeli, minimum sipariş adedi ve teslim süresi teklif aşamasında teyit edilir. Listelenen ürün fiyatı baskı ve KDV hariçtir. Görsellerdeki aksesuarların ürünle birlikte verilip verilmediği sipariş öncesinde netleştirilir.",
   faq: [{"q":"SB-130 kapak ve iç blok ölçüleri nedir?","a":"Kapak 15 x 21 cm, iç blok 13 x 20 cm ölçüsündedir."},{"q":"SB-130 hangi kağıdı kullanır?","a":"I. hamur 70 gr kağıt belirtilmektedir. Sayfa adedi ve sayfa düzeni sipariş öncesinde teyit edilir."},{"q":"SB-130 kapak malzemesi nedir?","a":"Yuvarlak köşeli suni deri kapak belirtilmektedir."},{"q":"SB-130 üzerine hangi baskılar uygulanabilir?","a":"Sıcak, UV, serigrafi ve lazer baskı seçenekleri belirtilmiştir. Uygulama alanı ve bedeli teklif aşamasında belirlenir."},{"q":"SB-130 hangi renkte sunulur?","a":"Siyah renk listelenmektedir. Güncel stok ve siparişe uygunluk teyit edilir."},{"q":"Toplu logo baskılı toplantı bloknotu siparişi verilebilir mi?","a":"Kurumsal toplu sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, baskı bedeli, minimum sipariş adedi ve teslim süresi teklif aşamasında teyit edilir."}]
+},
+
+{
+  id: "p700",
+  slug: "promosyon-vip-set-vip-125",
+  title: "Promosyon VIP Set VIP-125 | Termos, Powerbank ve Defterli Çok Parçalı Kurumsal Hediye Seti",
+  price: 5800,
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-125-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-125; 13 x 21 cm termo deri defter, Metal roller kalem, Fenerli çakı, 700 ml termos, 10.000 mAh powerbank, Çakı fener, 16 GB USB bellek. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-125, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 13 x 21 cm termo deri defter\n• Metal roller kalem\n• Fenerli çakı\n• 700 ml termos\n• 10.000 mAh powerbank\n• Çakı fener\n• 16 GB USB bellek\n\nTEKNİK BİLGİLER\n\nModel: VIP-125\nKategori: VIP Ürünler\nKutu Ölçüsü: 29 x 24 x 14 cm\nKutu / Ambalaj: Dubleks taslama kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-125 setinin içerisinde hangi ürünler bulunur?","a":"13 x 21 cm termo deri defter; Metal roller kalem; Fenerli çakı; 700 ml termos; 10.000 mAh powerbank; Çakı fener; 16 GB USB bellek."},{"q":"VIP-125 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 29 x 24 x 14 cm. Ambalaj: Dubleks taslama kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-125 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-125 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-125 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-125 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
+},
+{
+  id: "p701",
+  slug: "promosyon-vip-set-vip-355",
+  title: "Promosyon VIP Set VIP-355 | Defter, Roller Kalem ve Anahtarlıklı Kurumsal Hediye Seti",
+  price: 780,
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-355-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-355; 14,5 x 21 cm termo deri defter, Metal roller kalem, Derili metal anahtarlık. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-355, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 14,5 x 21 cm termo deri defter\n• Metal roller kalem\n• Derili metal anahtarlık\n\nTEKNİK BİLGİLER\n\nModel: VIP-355\nKategori: VIP Ürünler\nKutu Ölçüsü: 22,7 x 22,7 x 3,5 cm\nKutu / Ambalaj: Karton kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-355 setinin içerisinde hangi ürünler bulunur?","a":"14,5 x 21 cm termo deri defter; Metal roller kalem; Derili metal anahtarlık."},{"q":"VIP-355 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 22,7 x 22,7 x 3,5 cm. Ambalaj: Karton kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-355 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-355 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-355 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-355 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
+},
+{
+  id: "p702",
+  slug: "promosyon-vip-set-vip-365",
+  title: "Promosyon VIP Set VIP-365 | Defter, Rubber Gövdeli Kalem ve Anahtarlıklı Hediye Seti",
+  price: 560,
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-vip-365-v2.jpg",
+  shortDesc: "Promosyon VIP set VIP-365; 13 x 21 cm termo deri defter, Rubber gövdeli metal tükenmez kalem, Derili metal anahtarlık. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
+  longDesc: "Promosyon VIP set VIP-365, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 13 x 21 cm termo deri defter\n• Rubber gövdeli metal tükenmez kalem\n• Derili metal anahtarlık\n\nTEKNİK BİLGİLER\n\nModel: VIP-365\nKategori: VIP Ürünler\nKutu Ölçüsü: 27,5 x 22 x 3 cm\nKutu / Ambalaj: Karton kutu\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-365 setinin içerisinde hangi ürünler bulunur?","a":"13 x 21 cm termo deri defter; Rubber gövdeli metal tükenmez kalem; Derili metal anahtarlık."},{"q":"VIP-365 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 27,5 x 22 x 3 cm. Ambalaj: Karton kutu. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-365 hangi renk seçenekleriyle sunulur?","a":"Siyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir."},{"q":"VIP-365 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-365 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-365 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
+},
+{
+  id: "p703",
+  slug: "promosyon-vip-set-kutusu-vip-485",
+  title: "Promosyon VIP Set Kutusu VIP-485 | 38x28x7 cm Kurumsal Hediye Kutusu",
+  price: 700,
+  category: "VIP Ürünler",
+  image: "/products/promosyon-vip-set-kutusu-vip-485-v2.jpg",
+  shortDesc: "Promosyon VIP set kutusu VIP-485, kurumsal hediye setlerinin hazırlanmasında kullanılabilecek kutu seçeneğidir. Dış ölçü: 380 x 280 x 70 mm. Kutuya sünger dahil değildir.",
+  longDesc: "Promosyon VIP set kutusu VIP-485, katalog ürünleriyle özel bir kurumsal hediye sunumu hazırlamak için değerlendirilebilir. Bu ürün kutudur; hediye setinin içine yerleştirilecek ürünler ayrıca seçilir ve fiyatlandırılır.\n\nTEKNİK BİLGİLER\n\nModel: VIP-485\nKategori: VIP Ürünler\nDış Ölçü: 380 x 280 x 70 mm\nİç Ölçü: 370 x 270 x 63 mm\nBaskı Alanı: 100 x 100 mm\n\nKUTU VE SET KAPSAMI\n\nKutuya sünger dahil değildir. Kutuya yerleştirilecek kalem, defter, termos ve diğer ürünler kutu fiyatına dahil değildir. İstenen ürünlerle oluşturulacak setin yerleşimi ve toplam bedeli ayrıca değerlendirilir.\n\nRENK VE STOK\n\nSiyah renk seçenekleri listelenmektedir. Renklerin güncel stok ve siparişe uygunluğu teklif aşamasında teyit edilir.\n\nLOGO UYGULAMASI\n\nBelirtilen baskı seçenekleri: Serigrafi, tampon, UV. Baskı alanı: 100 x 100 mm. Uygun yöntem ve bedel teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
+  faq: [{"q":"VIP-485 kutusunun ölçüleri nedir?","a":"Dış ölçü: 380 x 280 x 70 mm. İç ölçü: 370 x 270 x 63 mm."},{"q":"VIP-485 fiyatına hediye ürünleri dahil midir?","a":"Hayır. Bu kayıt set kutusuna aittir. İçine yerleştirilecek hediye ürünleri ayrıca seçilir ve fiyatlandırılır."},{"q":"VIP-485 kutusunda sünger veya dolgu malzemesi bulunur mu?","a":"Kutuya sünger dahil değildir."},{"q":"VIP-485 kutusuna hangi logo baskıları uygulanabilir?","a":"Belirtilen baskı seçenekleri: Serigrafi, tampon, UV. Baskı alanı 100 x 100 mm. Uygunluk ve bedel teklif aşamasında netleştirilir."},{"q":"VIP-485 kutusuyla özel hediye seti hazırlanabilir mi?","a":"Evet. İstenen ürünlerin kutuya uygunluğu, yerleşimi, dolgu gereksinimi ve toplam maliyeti teklif aşamasında değerlendirilir."},{"q":"VIP-485 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 ];
 

@@ -17,70 +17,14 @@ type VipProduct = {
   price?: number;
 };
 
-const filters = [
-  "Tümü",
-  "Defter & Kalem",
-  "Teknoloji Setleri",
-  "Termoslu Setler",
-  "Anahtarlıklı",
-  "Premium & Lüks",
-  "Set Kutuları",
-];
+const filters = ["Tümü", "Defter & Kalem", "Teknoloji Setleri", "Termoslu Setler", "Anahtarlıklı", "MagSafe İçeren", "Set Kutuları"];
 
-function normalize(value: string) {
-  return value
-    .toLocaleLowerCase("tr-TR")
-    .replace(/\s+/g, " ")
-    .trim();
-}
+const verifiedFeatures: Record<string, string[]> = {"VIP-100": ["Defter & Kalem", "Teknoloji Setleri", "Anahtarlıklı"], "VIP-110": ["Defter & Kalem", "Termoslu Setler", "Anahtarlıklı"], "VIP-120": ["Teknoloji Setleri", "Termoslu Setler"], "VIP-125": ["Defter & Kalem", "Teknoloji Setleri", "Termoslu Setler"], "VIP-130": ["Defter & Kalem", "Teknoloji Setleri", "Termoslu Setler"], "VIP-140": ["Defter & Kalem", "Teknoloji Setleri", "Termoslu Setler", "Anahtarlıklı", "MagSafe İçeren"], "VIP-150": ["Teknoloji Setleri", "Anahtarlıklı"], "VIP-160": ["Defter & Kalem", "Teknoloji Setleri", "Termoslu Setler"], "VIP-170": ["Defter & Kalem", "Teknoloji Setleri", "Termoslu Setler"], "VIP-180": ["Teknoloji Setleri", "Termoslu Setler"], "VIP-190": ["Defter & Kalem", "Teknoloji Setleri"], "VIP-200": ["Defter & Kalem", "Teknoloji Setleri", "Anahtarlıklı"], "VIP-210": ["Defter & Kalem", "Teknoloji Setleri"], "VIP-220": ["Defter & Kalem", "Anahtarlıklı"], "VIP-230": ["Defter & Kalem", "Teknoloji Setleri", "Anahtarlıklı"], "VIP-240": ["Teknoloji Setleri"], "VIP-250": ["Teknoloji Setleri", "Termoslu Setler", "MagSafe İçeren"], "VIP-260": ["Defter & Kalem", "Teknoloji Setleri"], "VIP-270": ["Defter & Kalem", "Teknoloji Setleri"], "VIP-280": ["Defter & Kalem", "Anahtarlıklı"], "VIP-290": ["Defter & Kalem", "Anahtarlıklı"], "VIP-300": ["Defter & Kalem", "Teknoloji Setleri", "MagSafe İçeren"], "VIP-310": ["Defter & Kalem", "Anahtarlıklı"], "VIP-320": ["Teknoloji Setleri", "Termoslu Setler"], "VIP-330": ["Defter & Kalem", "Teknoloji Setleri", "Anahtarlıklı"], "VIP-340": ["Teknoloji Setleri", "Termoslu Setler"], "VIP-350": ["Defter & Kalem", "Teknoloji Setleri"], "VIP-355": ["Defter & Kalem", "Anahtarlıklı"], "VIP-360": ["Defter & Kalem", "Teknoloji Setleri"], "VIP-365": ["Defter & Kalem", "Anahtarlıklı"], "VIP-370": ["Defter & Kalem", "Termoslu Setler", "Anahtarlıklı"], "VIP-380": ["Defter & Kalem", "Teknoloji Setleri", "Termoslu Setler", "MagSafe İçeren"], "VIP-390": ["Defter & Kalem"], "VIP-400": ["Teknoloji Setleri", "Termoslu Setler", "MagSafe İçeren"], "VIP-410": ["Defter & Kalem"], "VIP-420": ["Defter & Kalem"], "VIP-430": ["Teknoloji Setleri", "Termoslu Setler"], "VIP-440": ["Teknoloji Setleri", "Termoslu Setler"], "VIP-460": ["Defter & Kalem"], "VIP-470": ["Set Kutuları"], "VIP-480": ["Set Kutuları"], "VIP-485": ["Set Kutuları"], "VIP-490": ["Set Kutuları"], "VIP-500": ["Set Kutuları"], "VIP-510": ["Set Kutuları"], "VIP-520": ["Set Kutuları"]};
 
 function matchesFilter(product: VipProduct, filter: string) {
   if (filter === "Tümü") return true;
-
-  const text = normalize(
-    `${product.title} ${product.shortDesc} ${product.longDesc || ""}`
-  );
-
-  if (filter === "Defter & Kalem") {
-    return (
-      text.includes("defter") &&
-      text.includes("kalem")
-    );
-  }
-
-  if (filter === "Teknoloji Setleri") {
-    return (
-      text.includes("powerbank") ||
-      text.includes("usb") ||
-      text.includes("bluetooth") ||
-      text.includes("speaker") ||
-      text.includes("magsafe") ||
-      text.includes("kablo")
-    );
-  }
-
-  if (filter === "Termoslu Setler") {
-    return text.includes("termos");
-  }
-
-  if (filter === "Anahtarlıklı") {
-    return text.includes("anahtarlık");
-  }
-
-  if (filter === "Premium & Lüks") {
-    return (
-      text.includes("premium") ||
-      text.includes("lüks") ||
-      text.includes("prestijli") ||
-      text.includes("vip hediye")
-    );
-  }
-
-  if (filter === "Set Kutuları") {
-    return text.includes("set kutusu");
-  }
-
-  return true;
+  const code = product.slug.match(/(?:^|-)vip-(\d+)(?:-|$)/i);
+  return code ? (verifiedFeatures[`VIP-${code[1]}`] || []).includes(filter) : false;
 }
 
 export default function VipProductGrid({
@@ -132,7 +76,7 @@ export default function VipProductGrid({
         </div>
       </section>
 
-      <p className="mb-4 text-sm font-medium text-white">
+      <p className="mb-4 text-sm font-medium text-gray-700">
         {activeFilter === "Tümü"
           ? `${filteredProducts.length} ürün gösteriliyor`
           : `${activeFilter} filtresinde ${filteredProducts.length} ürün gösteriliyor`}
@@ -153,7 +97,7 @@ export default function VipProductGrid({
                   fill
                   unoptimized
                   loading="lazy"
-                  className="object-contain p-4"
+                  className="object-contain bg-white p-4"
                   sizes="(max-width: 768px) 100vw, 33vw"
                 />
               </div>
@@ -171,7 +115,7 @@ export default function VipProductGrid({
                   {product.shortDesc}
                 </p>
 
-                {product.price && (
+                {product.price != null ? (
                   <div className="mt-3">
                     <div className="text-base font-bold text-gray-900">
                       {product.price.toLocaleString("tr-TR")} TL + KDV
@@ -181,6 +125,10 @@ export default function VipProductGrid({
                       Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.
                     </div>
                   </div>
+                ) : (
+                  <p className="mt-3 text-sm font-semibold text-gray-900">
+                    Güncel fiyat için teklif alın.
+                  </p>
                 )}
 
                 <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">

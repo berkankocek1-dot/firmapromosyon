@@ -43,6 +43,8 @@ const hiddenProductSlugs = new Set<string>([
   "promosyon-organizer-org-230-termodei-metal-kilitli",
   "promosyon-organizer-org-240-cift-termodei-manyetik",
   "promosyon-organizer-org-250-termodei-metal-tokali",
+
+  "promosyon-vip-set-vip-450-powerbank-defter-kalem-kurumsal-teknolojik-hediye-seti",
 ]);
 
 export function isProductVisible(product: { slug: string }): boolean {
