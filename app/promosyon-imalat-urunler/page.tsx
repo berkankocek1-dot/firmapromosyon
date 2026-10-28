@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { products } from "@/data/products";
+import { visibleProducts } from "@/data/productVisibility";
 import ImalatProductGrid from "./ImalatProductGrid";
 import { sortProductsByCode } from "@/data/productSorting";
 
@@ -63,7 +63,7 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-  const list = sortProductsByCode(products.filter((p) => p.category === CATEGORY));
+  const list = sortProductsByCode(visibleProducts.filter((p) => p.category === CATEGORY));
 
   const itemListElement = list.map((p, idx) => ({
     "@type": "ListItem",

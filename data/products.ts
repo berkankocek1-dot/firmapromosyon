@@ -10590,122 +10590,14 @@ Promosyon çakı seti siparişleri toplu üretim olarak hazırlanmakta olup mini
 },
 {
   id: "p140",
-
   slug: "promosyon-oto-kokusu-ok-750",
-
-  title: "Promosyon Oto Kokusu OK-750 | Logo Baskılı Oto Kokusu",
-
+  title: "Promosyon Oto Kokusu OK-750",
   price: 7.5,
-
   category: "İmalat Ürünler",
-
   image: "/products/promosyon-oto-kokusu-ok-750.jpg",
-
-  shortDesc:
-    "Promosyon oto kokusu OK-750 modeli, özel kesim tasarımı, ofset baskı uygulaması, farklı koku seçenekleri ve araç aynasına kolayca asılabilen yapısı ile markaların uzun süre görünür olmasını sağlayan etkili promosyon ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon oto kokusu OK-750 modeli, araç içerisinde uzun süre kullanılan yapısı sayesinde marka bilinirliğini artıran en etkili promosyon ürünlerinden biridir. Günlük kullanım sırasında sürekli göz önünde bulunması sayesinde firmanızın reklamını doğal ve kalıcı şekilde yapar.
-
-Logo baskılı oto kokuları; oto servisleri, oto galeriler, sigorta şirketleri, araç kiralama firmaları, akaryakıt istasyonları ve otomotiv sektöründe faaliyet gösteren firmalar tarafından en çok tercih edilen promosyon ürünleri arasında yer almaktadır.
-
-OK-750 modeli özel kesim üretime uygundur. Firmanıza özel logo, ürün görseli veya kurumsal tasarım doğrultusunda farklı şekillerde üretilebilir. Bu sayede standart promosyon ürünlerinden ayrılarak markanıza özel dikkat çekici bir görünüm sunar.
-
-Ürün üzerine yüksek kaliteli ofset baskı uygulanmaktadır. Canlı renkler ve yüksek baskı kalitesi sayesinde logo ve görseller net şekilde ürün üzerine aktarılır. Ofset baskı ürün fiyatına dahildir.
-
-Araç dikiz aynasına kolayca asılabilen yapısı sayesinde pratik kullanım sunar. Uzun süre hoş koku yayarken aynı zamanda markanızın her yolculukta görünür olmasını sağlar.
-
-Fresh, meyveli ve parfüm seçeneklerinden oluşan geniş koku yelpazesi sayesinde hedef kitlenize uygun alternatifler sunulabilir.
-
-NEDEN PROMOSYON OTO KOKUSU OK-750?
-
-• Özel kesim üretim imkanı
-• Logo baskılı kurumsal tasarım
-• Ofset baskı fiyata dahildir
-• Araç içerisinde uzun süre görünürlük sağlar
-• Farklı koku seçenekleri sunar
-• Düşük maliyetli güçlü reklam ürünüdür
-• Otomotiv sektörüne özel ideal promosyon ürünü
-• Toplu kampanyalar için uygundur
-• Marka bilinirliğini artırır
-• Günlük kullanıma uygundur
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Oto Kokusu  
-Model: OK-750  
-Kategori: İmalat Ürünler  
-Ürün Ölçüsü: 14 cm  
-Baskı Türü: Ofset Baskı  
-Kesim: Özel Kesim  
-Minimum Sipariş: 1000 Adet  
-Fiyat: Ofset baskı dahildir.
-
-KOKU SEÇENEKLERİ
-
-Fresh Kokular: Okyanus, Yeni Araba, Lavanta, Bahar
-
-Meyveli Kokular: Sakız, Kavun, Elma, Karışık Meyve, Egzotik Meyve, Limon, Çilek, Vanilya
-
-Parfüm Kokuları: Odunsu, Cool Water, Yaz Güneşi, Wogo, Thor, Lucy
-
-NOT
-
-Beyaz zeminli baskı tasarımlarında Lavanta, Portakal, Çam, Çilek, Kavun ve Limon kokuları önerilmektedir.
-
-SİPARİŞ BİLGİSİ
-
-Promosyon oto kokusu OK-750 modeli toplu üretim olarak hazırlanmaktadır.
-
-Minimum sipariş adedi 1000 adettir.
-
-Logo baskısı, özel kesim tasarımı ve tercih edilen koku sipariş sırasında belirlenmektedir.
-
-Teslim süresi üretim planına göre değişiklik gösterebilmektedir.
-
-Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon ürünleri
-• Otomotiv sektörü
-• Oto servisleri
-• Oto galerileri
-• Sigorta firmaları
-• Araç kiralama şirketleri
-• Akaryakıt istasyonları
-• Fuar ve etkinlikler
-• Marka tanıtım kampanyaları
-
-Promosyon oto kokusu OK-750 modeli; özel kesim tasarımı, kaliteli ofset baskısı, zengin koku seçenekleri ve araç içerisinde uzun süre görünür kalan yapısı sayesinde markanızın reklamını ekonomik ve etkili şekilde yapan en başarılı promosyon ürünlerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon oto kokusu OK-750 minimum sipariş adedi kaçtır?",
-      a: "OK-750 modeli için minimum sipariş adedi 1000 adettir."
-    },
-    {
-      q: "Ürün üzerine hangi baskı uygulanmaktadır?",
-      a: "Ürün üzerine yüksek kaliteli ofset baskı uygulanmaktadır ve baskı fiyata dahildir."
-    },
-    {
-      q: "Özel kesim oto kokusu üretilebilir mi?",
-      a: "Evet. Ürün firmanıza özel logo ve tasarıma göre özel kesim olarak üretilebilmektedir."
-    },
-    {
-      q: "Hangi koku seçenekleri bulunmaktadır?",
-      a: "Fresh, meyveli ve parfüm gruplarında Okyanus, Yeni Araba, Lavanta, Elma, Limon, Çilek, Vanilya, Cool Water ve daha birçok koku seçeneği sunulmaktadır."
-    },
-    {
-      q: "Promosyon oto kokusu hangi sektörler için uygundur?",
-      a: "Oto servisleri, galeriler, sigorta şirketleri, araç kiralama firmaları, akaryakıt istasyonları ve tüm kurumsal tanıtım kampanyaları için uygundur."
-    },
-    {
-      q: "Beyaz zeminli tasarımlarda hangi kokular önerilmektedir?",
-      a: "Lavanta, Portakal, Çam, Çilek, Kavun ve Limon kokuları tavsiye edilmektedir."
-    }
-  ]
+  shortDesc: "OK-750 oto kokusu, 14 cm toplam ebat ve özel kesim seçeneğiyle hazırlanır. Fiyata dahil ofset baskı sayesinde logo ve kurumsal tasarım, seçilen koku ile birlikte planlanabilir.",
+  longDesc: "OK-750 oto kokusu, 14 cm toplam ebat ve özel kesim seçeneğiyle hazırlanır. Fiyata dahil ofset baskı sayesinde logo ve kurumsal tasarım, seçilen koku ile birlikte planlanabilir.\n\nTEKNİK ÖZELLİKLER\nModel: OK-750\nÜretim: Özel Kesim\nToplam Ebat: 14 cm\nBaskı: Ofset\nMinimum Sipariş: 1000 Adet\n\nBASKI VE FİYAT KAPSAMI\nOfset baskı liste fiyatına dahildir. Minimum sipariş 1.000 adettir.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.\n\nKOKU SEÇENEKLERİ\nFresh: Okyanus, Yeni Araba, Lavanta, Bahar.\nMeyveli: Sakız, Kavun, Elma, Karışık Meyve, Egzotik Meyve, Limon, Çilek, Vanilya.\nParfüm: Odunsu, Cool Wather, Yaz Güneşi, Wogo, Thor, Lucy.\nBeyaz zeminli tasarımlar için tedarikçinin önerileri: Lavanta, Portakal, Çam, Çilek, Kavun, Limon.",
+  faq: [{"q":"Promosyon oto kokusu OK-750 minimum sipariş adedi kaçtır?","a":"Minimum sipariş 1000 adettir."},{"q":"Ürün üzerine hangi baskı uygulanmaktadır?","a":"Ofset baskı liste fiyatına dahildir. Minimum sipariş 1.000 adettir."},{"q":"Özel kesim oto kokusu üretilebilir mi?","a":"Evet. OK-750 özel kesim olarak hazırlanabilir; toplam ürün ebatı 14 cm olarak belirtilir."},{"q":"Hangi koku seçenekleri bulunmaktadır?","a":"Fresh, meyveli ve parfüm koku grupları bulunur. Ayrıntılı seçenekler ürün açıklamasında yer alır."},{"q":"Promosyon oto kokusu hangi sektörler için uygundur?","a":"Kurumsal hediye ve tanıtım çalışmaları için değerlendirilebilir; sipariş ayrıntıları ihtiyaca göre belirlenir."},{"q":"Beyaz zeminli tasarımlarda hangi kokular önerilmektedir?","a":"Beyaz zeminli işler için Lavanta, Portakal, Çam, Çilek, Kavun ve Limon önerilir."}]
 },
 {
   id: "p141",
@@ -22399,1203 +22291,190 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
 },
 {
   id: "p288",
-
   slug: "promosyon-kapak-acacak-ac-100",
-
-  title: "Promosyon Kapak Açacak AÇ-100 | UV Baskılı Logo Baskılı Kapak Açacak",
-
+  title: "Promosyon Kapak Açacak AÇ-100",
   price: 12.5,
-
   category: "İmalat Ürünler",
-
   image: "/products/promosyon-kapak-acacak-ac-100.jpg",
-
-  shortDesc:
-    "Promosyon kapak açacak AÇ-100 modeli, UV renkli baskıya uygun geniş yüzeyi, mıknatıslı arka tasarımı ve pratik kullanım özelliği ile marka tanıtımında en çok tercih edilen promosyon ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon kapak açacak AÇ-100 modeli, günlük kullanımda sürekli ihtiyaç duyulan fonksiyonel yapısı sayesinde markanızı uzun yıllar görünür kılan etkili promosyon ürünlerinden biridir.
-
-Restoranlar, kafeler, oteller, marketler, içecek firmaları, organizasyon şirketleri ve birçok kurumsal firma tarafından tercih edilen promosyon kapak açacak modelleri, müşterilerin sürekli kullandığı ürünler arasında yer aldığı için marka bilinirliğini artırmada oldukça başarılıdır.
-
-AÇ-100 modeli geniş baskı alanı sayesinde firmanızın logosu, sloganı, kampanya görselleri veya kurumsal tasarımlarının yüksek çözünürlükte uygulanmasına olanak sağlar. UV renkli baskı teknolojisi ile canlı renkler, yüksek baskı kalitesi ve uzun ömürlü kullanım elde edilir.
-
-Ürünün arka kısmında bulunan güçlü mıknatıs sayesinde buzdolabı ve tüm metal yüzeylere kolayca tutunabilir. Aynı zamanda kapak açacağı olarak kullanılabildiği için kullanıcı tarafından uzun yıllar saklanır ve markanızın sürekli görünmesini sağlar.
-
-Ekonomik maliyeti, yüksek reklam değeri ve günlük kullanım avantajı sayesinde fuarlar, promosyon kampanyaları, açılış organizasyonları ve toplu dağıtımlar için en çok tercih edilen promosyon ürünlerinden biridir.
-
-NEDEN PROMOSYON KAPAK AÇACAK AÇ-100?
-
-UV Renkli Baskıya Uygun • Geniş Logo Baskı Alanı • Güçlü Mıknatıslı Arka Yüzey • Kapak Açacak Fonksiyonu • Dayanıklı Plastik Gövde • Uzun Ömürlü Kullanım • Ekonomik Promosyon Çözümü • Marka Bilinirliğini Artırır • Günlük Kullanıma Uygun • Toplu Dağıtımlar İçin İdeal
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Kapak Açacak | Model: AÇ-100 | Kategori: İmalat Ürünler
-
-Ürün Ölçüsü: 7.7 x 7.7 cm | Baskı Türü: UV Renkli Baskı | Özellikler: Kapak Açacak, Mıknatıslı Arka Yüzey, Geniş Baskı Alanı | Minimum Sipariş: 100 Adet
-
-SİPARİŞ BİLGİSİ
-
-Promosyon kapak açacak AÇ-100 modeli toplu üretim olarak hazırlanmaktadır.
-
-Minimum sipariş adedi 100 adettir. Logo baskı tasarımları firmanıza özel olarak hazırlanmaktadır. Teslim süresi sipariş miktarı ve üretim planına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat ve teklif almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal Promosyon Ürünleri | Restoran ve Kafeler | Oteller | İçecek Firmaları | Market Zincirleri | Fuar ve Etkinlik Organizasyonları | Reklam Kampanyaları | Marka Tanıtım Çalışmaları | Toplu Promosyon Dağıtımları
-
-Promosyon kapak açacak AÇ-100 modeli; UV baskıya uygun geniş yüzeyi, mıknatıslı yapısı, dayanıklı gövdesi ve günlük kullanım sağlayan fonksiyonel tasarımı sayesinde markanızı uzun yıllar görünür kılan en etkili promosyon ürünlerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon kapak açacak AÇ-100 minimum sipariş adedi kaçtır?",
-      a: "Bu model için minimum sipariş miktarı 100 adettir."
-    },
-    {
-      q: "Ürün üzerine hangi baskı uygulanmaktadır?",
-      a: "Ürün üzerine yüksek kaliteli UV renkli baskı uygulanmaktadır."
-    },
-    {
-      q: "Kapak açacak mıknatıslı mıdır?",
-      a: "Evet. Ürünün arka kısmında güçlü mıknatıs bulunmaktadır ve metal yüzeylere kolayca tutunabilir."
-    },
-    {
-      q: "Ürünün ölçüsü nedir?",
-      a: "Promosyon kapak açacak AÇ-100 modeli 7.7 x 7.7 cm ölçülerindedir."
-    },
-    {
-      q: "Logo baskısı yapılabiliyor mu?",
-      a: "Evet. Firmanıza özel logo, görsel ve kurumsal tasarımlar UV renkli baskı teknolojisi ile uygulanabilmektedir."
-    },
-    {
-      q: "Hangi sektörler için uygundur?",
-      a: "Kafe, restoran, otel, market, içecek firmaları, fuarlar, etkinlikler ve tüm kurumsal promosyon çalışmaları için ideal bir üründür."
-    }
-  ]
+  shortDesc: "Kare formdaki kapak açacak AÇ-100, 7,7 x 7,7 cm ürün ölçüsüyle sunulur. UV logo uygulamasıyla içecek ve etkinlik kampanyalarında değerlendirilebilir.",
+  longDesc: "Kare formdaki kapak açacak AÇ-100, 7,7 x 7,7 cm ürün ölçüsüyle sunulur. UV logo uygulamasıyla içecek ve etkinlik kampanyalarında değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\nModel: AÇ-100\nÖlçü: 7,7 x 7,7 cm\nBaskı: UV\nMinimum Sipariş: 100 Adet\n\nBASKI VE FİYAT KAPSAMI\nUV baskı uygulaması için tasarıma göre teklif hazırlanır.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"Promosyon kapak açacak AÇ-100 minimum sipariş adedi kaçtır?","a":"Minimum sipariş 100 adettir."},{"q":"Ürün üzerine hangi baskı uygulanmaktadır?","a":"UV baskı uygulaması için tasarıma göre teklif hazırlanır."},{"q":"Kapak açacak mıknatıslı mıdır?","a":"Tedarikçinin güncel açıklamasında mıknatıs özelliği belirtilmez; sipariş öncesinde ürün ayrıntısı netleştirilir."},{"q":"Ürünün ölçüsü nedir?","a":"Ölçü: 7,7 x 7,7 cm; Baskı: UV"},{"q":"Logo baskısı yapılabiliyor mu?","a":"UV baskı uygulaması için tasarıma göre teklif hazırlanır."},{"q":"Hangi sektörler için uygundur?","a":"Kurumsal hediye ve tanıtım çalışmaları için değerlendirilebilir; sipariş ayrıntıları ihtiyaca göre belirlenir."}]
 },
 {
   id: "p289",
-
   slug: "promosyon-uzun-acacak-ac-110",
-
-  title: "Promosyon Uzun Açacak AÇ-110 | UV Baskılı Logo Baskılı Uzun Açacak",
-
+  title: "Promosyon Uzun Açacak AÇ-110",
   price: 14,
-
   category: "İmalat Ürünler",
-
   image: "/products/promosyon-uzun-acacak-ac-110.jpg",
-
-  shortDesc:
-    "Promosyon uzun açacak AÇ-110 modeli, UV renkli baskıya uygun geniş yüzeyi, ergonomik uzun tasarımı ve mıknatıslı yapısı ile marka tanıtımında en çok tercih edilen promosyon ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon uzun açacak AÇ-110 modeli, ergonomik yapısı ve geniş baskı alanı sayesinde kurumsal tanıtım çalışmalarında uzun yıllardır tercih edilen kullanışlı promosyon ürünlerinden biridir.
-
-Kapak açacak ürünleri; restoranlar, kafeler, oteller, marketler, içecek markaları, organizasyon firmaları ve birçok kurumsal işletme tarafından günlük kullanım avantajı nedeniyle tercih edilmektedir. Sürekli kullanılan bir ürün olması sayesinde markanızın görünürlüğünü artırır ve uzun süre reklam değeri oluşturur.
-
-AÇ-110 modeli ince ve uzun gövde tasarımı sayesinde elde rahat bir tutuş sağlar. Üzerine uygulanan UV renkli baskı teknolojisi ile logo, kurumsal kimlik, kampanya görselleri ve özel tasarımlar canlı renklerle yüksek çözünürlükte uygulanabilmektedir.
-
-Arka bölümünde bulunan güçlü mıknatıs sayesinde buzdolabı ve metal yüzeylere kolayca tutunabilir. Böylece kullanıcı tarafından sürekli görülebilen ve uzun yıllar saklanan etkili bir reklam ürününe dönüşür.
-
-Dayanıklı gövde yapısı, hafif tasarımı ve ekonomik maliyeti sayesinde fuarlar, promosyon kampanyaları, açılış organizasyonları ve toplu kurumsal dağıtımlar için ideal bir promosyon çözümüdür.
-
-NEDEN PROMOSYON UZUN AÇACAK AÇ-110?
-
-UV Renkli Baskıya Uygun • Geniş Logo Baskı Alanı • Güçlü Mıknatıslı Arka Yüzey • Ergonomik Uzun Tasarım • Hafif ve Dayanıklı Gövde • Kolay Taşınabilir • Uzun Ömürlü Kullanım • Ekonomik Promosyon Çözümü • Günlük Kullanıma Uygun • Marka Bilinirliğini Artırır
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Uzun Açacak | Model: AÇ-110 | Kategori: İmalat Ürünler
-
-Ürün Ölçüsü: 5 x 11 cm | Baskı Türü: UV Renkli Baskı | Özellikler: Ergonomik Uzun Tasarım, Mıknatıslı Arka Yüzey, Geniş Baskı Alanı | Minimum Sipariş: 100 Adet
-
-SİPARİŞ BİLGİSİ
-
-Promosyon uzun açacak AÇ-110 modeli toplu üretim olarak hazırlanmaktadır.
-
-Minimum sipariş adedi 100 adettir. Logo baskı çalışmaları firmanıza özel olarak hazırlanmaktadır. Teslim süresi sipariş miktarı ve üretim planına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat ve teklif almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal Promosyon Ürünleri | Restoran ve Kafeler | Oteller | İçecek Firmaları | Market Zincirleri | Fuar ve Etkinlik Organizasyonları | Reklam Kampanyaları | Marka Tanıtım Çalışmaları | Toplu Promosyon Dağıtımları
-
-Promosyon uzun açacak AÇ-110 modeli; ergonomik tasarımı, UV baskıya uygun geniş yüzeyi, mıknatıslı yapısı ve uzun ömürlü kullanım sağlayan dayanıklı gövdesi sayesinde markanızı uzun yıllar görünür kılan en etkili promosyon ürünlerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon uzun açacak AÇ-110 minimum sipariş adedi kaçtır?",
-      a: "Bu model için minimum sipariş miktarı 100 adettir."
-    },
-    {
-      q: "Ürün üzerine hangi baskı uygulanmaktadır?",
-      a: "Ürün üzerine yüksek kaliteli UV renkli baskı uygulanmaktadır."
-    },
-    {
-      q: "Uzun açacak mıknatıslı mıdır?",
-      a: "Evet. Ürünün arka kısmında güçlü mıknatıs bulunmaktadır ve metal yüzeylere kolayca tutunabilir."
-    },
-    {
-      q: "Ürünün ölçüsü nedir?",
-      a: "Promosyon uzun açacak AÇ-110 modeli 5 x 11 cm ölçülerindedir."
-    },
-    {
-      q: "Logo baskısı yapılabiliyor mu?",
-      a: "Evet. Firmanıza özel logo, görsel ve kurumsal tasarımlar UV renkli baskı teknolojisi ile uygulanabilmektedir."
-    },
-    {
-      q: "Hangi sektörler için uygundur?",
-      a: "Kafe, restoran, otel, market, içecek firmaları, fuarlar, etkinlikler ve tüm kurumsal promosyon çalışmaları için ideal bir üründür."
-    }
-  ]
+  shortDesc: "AÇ-110 uzun açacak, 5 x 11 cm gövdesiyle kapak açacak serisinin uzun modelidir. Logo tasarımı UV baskı yöntemiyle ürüne uygulanabilir.",
+  longDesc: "AÇ-110 uzun açacak, 5 x 11 cm gövdesiyle kapak açacak serisinin uzun modelidir. Logo tasarımı UV baskı yöntemiyle ürüne uygulanabilir.\n\nTEKNİK ÖZELLİKLER\nModel: AÇ-110\nÖlçü: 5 x 11 cm\nBaskı: UV\nMinimum Sipariş: 100 Adet\n\nBASKI VE FİYAT KAPSAMI\nUV baskı uygulaması için tasarıma göre teklif hazırlanır.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"Promosyon uzun açacak AÇ-110 minimum sipariş adedi kaçtır?","a":"Minimum sipariş 100 adettir."},{"q":"Ürün üzerine hangi baskı uygulanmaktadır?","a":"UV baskı uygulaması için tasarıma göre teklif hazırlanır."},{"q":"Uzun açacak mıknatıslı mıdır?","a":"Tedarikçinin güncel açıklamasında mıknatıs özelliği belirtilmez; sipariş öncesinde ürün ayrıntısı netleştirilir."},{"q":"Ürünün ölçüsü nedir?","a":"Ölçü: 5 x 11 cm; Baskı: UV"},{"q":"Logo baskısı yapılabiliyor mu?","a":"UV baskı uygulaması için tasarıma göre teklif hazırlanır."},{"q":"Hangi sektörler için uygundur?","a":"Kurumsal hediye ve tanıtım çalışmaları için değerlendirilebilir; sipariş ayrıntıları ihtiyaca göre belirlenir."}]
 },
 {
   id: "p290",
-
   slug: "promosyon-bardak-altligi-ba-650",
-
-  title: "Promosyon Bardak Altlığı BA-650 | Logo Baskılı Ofset Dijital Bardak Altlığı",
-
+  title: "Promosyon Bardak Altlığı BA-650",
   price: 11,
-
   category: "İmalat Ürünler",
-
   image: "/products/promosyon-bardak-altligi-ba-650.jpg",
-
-  shortDesc:
-    "Promosyon bardak altlığı BA-650 modeli, ofset ve dijital baskıya uygun geniş yüzeyi, dayanıklı yapısı ve kurumsal tanıtımlar için ideal tasarımı ile en çok tercih edilen promosyon bardak altlığı modellerinden biridir.",
-
-  longDesc: `
-Promosyon bardak altlığı BA-650 modeli, restoranlar, kafeler, oteller ve kurumsal organizasyonlarda markanızı sürekli görünür kılan etkili promosyon ürünlerinden biridir.
-
-Bardak altlıkları, kullanıcıların gün içerisinde defalarca temas ettiği ürünler arasında yer aldığı için marka bilinirliğini artıran en ekonomik reklam çözümlerinden biridir. Masa üzerinde sürekli görünür olması sayesinde logonuz müşterilerinizin dikkatini uzun süre çeker.
-
-BA-650 modeli 8 x 8 cm ölçüsü ile sıcak ve soğuk içecek bardakları için ideal kullanım sunar. Geniş baskı alanı sayesinde firmanızın logosu, kurumsal kimliği, kampanya görselleri ve reklam mesajları yüksek çözünürlükte uygulanabilmektedir.
-
-Ürün üzerine ofset ve dijital baskı uygulanabilmektedir. Bu baskı teknikleri sayesinde canlı renkler, net detaylar ve uzun ömürlü baskı kalitesi elde edilir. Kare, yuvarlak veya özel kesim seçenekleri ile firmanıza özel üretim gerçekleştirilebilir.
-
-Dayanıklı yapısı sayesinde yoğun kullanıma uygundur. Kafe, restoran, otel, fuar ve organizasyonlarda markanızın profesyonel şekilde tanıtılmasına katkı sağlar.
-
-NEDEN PROMOSYON BARDAK ALTLIĞI BA-650?
-
-Ofset ve Dijital Baskıya Uygun • Geniş Logo Baskı Alanı • Canlı ve Yüksek Kaliteli Baskı • Dayanıklı Yapı • Kare, Yuvarlak ve Özel Kesim Seçenekleri • Uzun Ömürlü Kullanım • Ekonomik Promosyon Çözümü • Marka Bilinirliğini Artırır • Toplu Dağıtıma Uygun • Kurumsal Tanıtımlar İçin İdeal
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Bardak Altlığı | Model: BA-650 | Kategori: İmalat Ürünler
-
-Ürün Ölçüsü: 8 x 8 cm | Baskı Türü: Ofset Baskı, Dijital Baskı | Özellikler: Geniş Baskı Alanı, Kare/Yuvarlak/Özel Kesim Seçenekleri, Dayanıklı Yapı | Minimum Sipariş: 500 Adet
-
-SİPARİŞ BİLGİSİ
-
-Promosyon bardak altlığı BA-650 modeli toplu üretim olarak hazırlanmaktadır.
-
-Minimum sipariş adedi 500 adettir. Logo baskıları ve tasarımlar firmanıza özel olarak hazırlanmaktadır. Üretim süresi sipariş miktarı ve baskı detaylarına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat ve teklif almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal Promosyon Ürünleri | Kafe ve Restoranlar | Oteller | Bar ve Kafeler | Fuar ve Etkinlik Organizasyonları | Reklam Kampanyaları | Marka Tanıtım Çalışmaları | Toplu Promosyon Dağıtımları | Ofisler | Lansman Organizasyonları
-
-Promosyon bardak altlığı BA-650 modeli; yüksek kaliteli ofset ve dijital baskı seçenekleri, geniş logo uygulama alanı, dayanıklı yapısı ve ekonomik maliyeti sayesinde markanızı uzun süre görünür kılan en etkili promosyon ürünlerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon bardak altlığı BA-650 minimum sipariş adedi kaçtır?",
-      a: "Bu model için minimum sipariş miktarı 500 adettir."
-    },
-    {
-      q: "Ürün üzerine hangi baskı yöntemleri uygulanmaktadır?",
-      a: "Ürün üzerine ofset baskı ve dijital baskı uygulanabilmektedir."
-    },
-    {
-      q: "Bardak altlığının ölçüsü nedir?",
-      a: "BA-650 modeli 8 x 8 cm ölçülerindedir."
-    },
-    {
-      q: "Özel şekilli üretim yapılabilir mi?",
-      a: "Evet. Kare, yuvarlak ve firmanıza özel kesim seçenekleri ile üretim yapılabilmektedir."
-    },
-    {
-      q: "Logo baskısı yapılabiliyor mu?",
-      a: "Evet. Firmanıza özel logo, görsel ve reklam tasarımları yüksek kaliteli ofset veya dijital baskı ile uygulanabilmektedir."
-    },
-    {
-      q: "Hangi sektörler için uygundur?",
-      a: "Kafe, restoran, otel, fuar, organizasyon, ofis, reklam kampanyaları ve tüm kurumsal promosyon çalışmaları için ideal bir üründür."
-    }
-  ]
+  shortDesc: "BA-650 bardak altlığı, 8,9 x 8,9 cm ölçüsünde ofset ve dijital baskı seçeneğiyle sunulur. Kafe masaları, ofis ikramları ve tanıtım etkinlikleri için değerlendirilebilir.",
+  longDesc: "BA-650 bardak altlığı, 8,9 x 8,9 cm ölçüsünde ofset ve dijital baskı seçeneğiyle sunulur. Kafe masaları, ofis ikramları ve tanıtım etkinlikleri için değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\nModel: BA-650\nÖlçü: 8,9 x 8,9 cm\nBaskı: Ofset / Dijital\nMinimum Sipariş: 500 Adet\n\nBASKI VE FİYAT KAPSAMI\nListelenen fiyat 1.000 adet sipariş esasına aittir; seçilen adette baskı kapsamı nihai teklifte belirtilir.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"Promosyon bardak altlığı BA-650 minimum sipariş adedi kaçtır?","a":"Minimum sipariş 500 adettir."},{"q":"Ürün üzerine hangi baskı yöntemleri uygulanmaktadır?","a":"Listelenen fiyat 1.000 adet sipariş esasına aittir; seçilen adette baskı kapsamı nihai teklifte belirtilir."},{"q":"Bardak altlığının ölçüsü nedir?","a":"Ölçü: 8,9 x 8,9 cm; Baskı: Ofset / Dijital"},{"q":"Özel şekilli üretim yapılabilir mi?","a":"Standart model ölçüsü 8,9 x 8,9 cm’dir. Farklı şekil talebi için üretim uygunluğu ayrıca değerlendirilir."},{"q":"Logo baskısı yapılabiliyor mu?","a":"Listelenen fiyat 1.000 adet sipariş esasına aittir; seçilen adette baskı kapsamı nihai teklifte belirtilir."},{"q":"Hangi sektörler için uygundur?","a":"Kurumsal hediye ve tanıtım çalışmaları için değerlendirilebilir; sipariş ayrıntıları ihtiyaca göre belirlenir."}]
 },
 {
   id: "p291",
-
   slug: "promosyon-balon-bl-600",
-
-  title: "Promosyon Balon BL-600 | Logo Baskılı Serigrafi Baskılı Balon",
-
+  title: "Promosyon Çubuksuz Balon BL-600",
   price: 12,
-
   category: "İmalat Ürünler",
-
   image: "/products/promosyon-balon-bl-600.jpg",
-
-  shortDesc:
-    "Promosyon balon BL-600 modeli, serigrafi baskıya uygun yüzeyi, canlı renk seçenekleri ve 12 inç standart ölçüsü ile fuar, açılış ve organizasyonlarda markanızı ön plana çıkaran en ekonomik promosyon ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon balon BL-600 modeli, marka bilinirliğini artırmak ve dikkat çekici tanıtımlar gerçekleştirmek isteyen firmalar için özel olarak üretilen ekonomik promosyon ürünlerinden biridir.
-
-Promosyon balonlar; fuarlar, mağaza açılışları, festival organizasyonları, kurumsal etkinlikler, bayi toplantıları, alışveriş merkezi aktiviteleri ve reklam kampanyalarında en çok tercih edilen tanıtım ürünleri arasında yer almaktadır. Geniş kitlelere ulaşmayı sağlayan yapısı sayesinde markanızın görünürlüğünü önemli ölçüde artırır.
-
-BL-600 modeli 12 inç standart ölçüsü sayesinde hem iç hem de dış mekan organizasyonlarında rahatlıkla kullanılabilir. Geniş baskı alanı üzerine firmanızın logosu, marka ismi, sloganı veya kampanya mesajları serigrafi baskı yöntemiyle net ve dikkat çekici şekilde uygulanabilmektedir.
-
-Serigrafi baskı tekniği, özellikle tek renk logo uygulamalarında yüksek baskı kalitesi ve uzun süreli görünürlük sunar. Canlı balon renkleri ile birleştiğinde markanızın daha fazla dikkat çekmesini sağlar.
-
-Promosyon balonlar özellikle açılış organizasyonlarında, çocuk etkinliklerinde, fuarlarda, showroomlarda ve kurumsal tanıtımlarda düşük maliyetle yüksek reklam etkisi sağlayan promosyon ürünleri arasında yer almaktadır.
-
-Ürün standart olarak çubuksuz gönderilmektedir. Talep edilmesi halinde balon çubuğu ve aparatı ayrıca temin edilebilmektedir.
-
-NEDEN PROMOSYON BALON BL-600?
-
-Serigrafi Baskıya Uygun • 12 İnç Standart Ölçü • Geniş Logo Baskı Alanı • Canlı Renk Seçenekleri • Hafif ve Dayanıklı Yapı • Ekonomik Promosyon Çözümü • Yüksek Marka Görünürlüğü • İç ve Dış Mekan Kullanımına Uygun • Toplu Organizasyonlar İçin İdeal • Kurumsal Tanıtımlarda Etkili
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Balon | Model: BL-600 | Kategori: İmalat Ürünler
-
-Ürün Ölçüsü: 12 İnç | Baskı Türü: Serigrafi Baskı (Tek Renk) | Özellikler: Geniş Baskı Alanı, Canlı Renk Seçenekleri, Organizasyonlara Uygun | Minimum Sipariş: 1000 Adet
-
-EK BİLGİ
-
-Çubuk Fiyata Dahil Değildir | Talep Edilmesi Halinde Balon Çubuğu ve Aparatı Ayrı Olarak Fiyatlandırılmaktadır
-
-SİPARİŞ BİLGİSİ
-
-Promosyon balon BL-600 modeli toplu üretim olarak hazırlanmaktadır.
-
-Minimum sipariş adedi 1000 adettir. Logo baskıları firmanıza özel olarak hazırlanmaktadır. Üretim süresi sipariş miktarı ve baskı detaylarına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat ve teklif almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal Promosyon Ürünleri | Fuar ve Etkinlik Organizasyonları | Mağaza Açılışları | Festival ve Konser Organizasyonları | AVM Etkinlikleri | Reklam Kampanyaları | Marka Tanıtım Çalışmaları | Bayi Toplantıları | Çocuk Etkinlikleri | Toplu Promosyon Dağıtımları
-
-Promosyon balon BL-600 modeli; kaliteli serigrafi baskısı, geniş logo uygulama alanı, canlı renk seçenekleri ve ekonomik maliyeti sayesinde markanızı kalabalık organizasyonlarda öne çıkaran en etkili promosyon ürünlerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon balon BL-600 minimum sipariş adedi kaçtır?",
-      a: "Bu model için minimum sipariş miktarı 1000 adettir."
-    },
-    {
-      q: "Balon üzerine hangi baskı yöntemi uygulanmaktadır?",
-      a: "Ürün üzerine tek renk serigrafi baskı uygulanmaktadır."
-    },
-    {
-      q: "Balonun ölçüsü nedir?",
-      a: "BL-600 modeli standart 12 inç ölçüsündedir."
-    },
-    {
-      q: "Balon çubuğu fiyata dahil midir?",
-      a: "Hayır. Ürün standart olarak çubuksuz gönderilmektedir. Talep edilmesi halinde balon çubuğu ayrıca fiyatlandırılır."
-    },
-    {
-      q: "Logo baskısı yapılabiliyor mu?",
-      a: "Evet. Firmanıza özel logo, yazı ve marka tasarımları serigrafi baskı ile uygulanabilmektedir."
-    },
-    {
-      q: "Hangi organizasyonlarda kullanılabilir?",
-      a: "Fuarlar, mağaza açılışları, AVM etkinlikleri, festival organizasyonları, reklam kampanyaları, bayi toplantıları ve tüm kurumsal tanıtım faaliyetleri için idealdir."
-    }
-  ]
+  shortDesc: "BL-600, 12 inç ölçüsünde çubuksuz promosyon balondur. Tek renk serigrafi uygulamasıyla açılış ve etkinlik tasarımları hazırlanabilir; çubuk talebi ayrıca fiyatlandırılır.",
+  longDesc: "BL-600, 12 inç ölçüsünde çubuksuz promosyon balondur. Tek renk serigrafi uygulamasıyla açılış ve etkinlik tasarımları hazırlanabilir; çubuk talebi ayrıca fiyatlandırılır.\n\nTEKNİK ÖZELLİKLER\nModel: BL-600\nÖlçü: 12 inç\nBaskı: Tek Renk Serigrafi\nÇubuk: Fiyata Dahil Değil\nMinimum Sipariş: 1000 Adet\n\nBASKI VE FİYAT KAPSAMI\nÇubuk fiyata dahil değildir; istenirse ayrıca hesaplanır. Tek renk serigrafi baskı için teklif hazırlanır.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"Promosyon balon BL-600 minimum sipariş adedi kaçtır?","a":"Minimum sipariş 1000 adettir."},{"q":"Balon üzerine hangi baskı yöntemi uygulanmaktadır?","a":"Çubuk fiyata dahil değildir; istenirse ayrıca hesaplanır. Tek renk serigrafi baskı için teklif hazırlanır."},{"q":"Balonun ölçüsü nedir?","a":"Ölçü: 12 inç; Baskı: Tek Renk Serigrafi; Çubuk: Fiyata Dahil Değil"},{"q":"Balon çubuğu fiyata dahil midir?","a":"Çubuk fiyata dahil değildir. Talep edilirse ayrıca hesaplanır."},{"q":"Logo baskısı yapılabiliyor mu?","a":"Çubuk fiyata dahil değildir; istenirse ayrıca hesaplanır. Tek renk serigrafi baskı için teklif hazırlanır."},{"q":"Hangi organizasyonlarda kullanılabilir?","a":"Kurumsal hediye ve tanıtım çalışmaları için değerlendirilebilir; sipariş ayrıntıları ihtiyaca göre belirlenir."}]
 },
 {
   id: "p292",
-
   slug: "promosyon-frizbi-frz-160",
-
-  title: "Promosyon Frizbi FRZ-160 | Logo Baskılı Serigraf ve Ofset Baskılı Frizbi",
-
+  title: "Promosyon Frizbi FRZ-160",
   price: 50,
-
   category: "İmalat Ürünler",
-
   image: "/products/promosyon-frizbi-frz-160.jpg",
-
-  shortDesc:
-    "Promosyon frizbi FRZ-160 modeli, 23 cm çapı, geniş baskı alanı ve serigraf ile ofset baskı seçenekleri sayesinde fuar, festival ve açık hava etkinliklerinde markanızı öne çıkaran eğlenceli promosyon ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon frizbi FRZ-160 modeli, açık hava etkinlikleri, festivaller, plaj organizasyonları ve kurumsal tanıtımlarda markanızı eğlenceli bir şekilde öne çıkaran dikkat çekici promosyon ürünlerinden biridir.
-
-Promosyon frizbiler; fuarlar, üniversite etkinlikleri, spor organizasyonları, belediye etkinlikleri, şirket piknikleri, yaz festivalleri ve reklam kampanyalarında en çok tercih edilen promosyon ürünleri arasında yer almaktadır. Kullanıcıların aktif olarak kullandığı bir ürün olması sayesinde markanız uzun süre görünür kalır ve yüksek reklam değeri oluşturur.
-
-FRZ-160 modeli 23 cm çapı ile hem çocuklar hem de yetişkinler için ideal kullanım sunmaktadır. Geniş baskı alanı üzerine firmanızın logosu, marka ismi, sloganı veya reklam tasarımları yüksek kaliteyle uygulanabilmektedir.
-
-Tek renk logo uygulamalarında serigraf baskı, çok renkli ve görsel ağırlıklı tasarımlarda ise ofset baskı tercih edilmektedir. Her iki baskı yöntemi de canlı renkler ve yüksek baskı kalitesi sunarak markanızın profesyonel görünmesini sağlar.
-
-Dayanıklı plastik malzemeden üretilen FRZ-160 modeli hafif yapısı sayesinde kolay taşınabilir ve uzun süre kullanılabilir. Yaz organizasyonları, plaj aktiviteleri ve kurumsal etkinliklerde eğlence ile reklamı bir araya getiren en etkili promosyon ürünlerinden biridir.
-
-NEDEN PROMOSYON FRİZBİ FRZ-160?
-
-Serigraf ve Ofset Baskıya Uygun • 23 cm Standart Ölçü • Geniş Logo Baskı Alanı • Hafif ve Dayanıklı Gövde • Eğlenceli ve Dikkat Çekici Tasarım • Açık Hava Organizasyonlarına Uygun • Uzun Ömürlü Kullanım • Ekonomik Promosyon Çözümü • Marka Bilinirliğini Artırır • Toplu Dağıtımlar İçin İdeal
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Frizbi | Model: FRZ-160 | Kategori: İmalat Ürünler
-
-Ürün Çapı: 23 cm | Baskı Alanı: 14.2 cm | Baskı Türü: Serigraf Baskı (Tek Renk), Ofset Baskı (Renkli) | Özellikler: Geniş Baskı Alanı, Hafif ve Dayanıklı Gövde, Açık Hava Kullanımına Uygun
-
-SİPARİŞ BİLGİSİ
-
-Promosyon frizbi FRZ-160 modeli toplu üretim olarak hazırlanmaktadır.
-
-Logo baskıları firmanıza özel olarak hazırlanmaktadır. Üretim süresi sipariş miktarı ve baskı detaylarına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır. Güncel fiyat ve teklif almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal Promosyon Ürünleri | Festival ve Açık Hava Organizasyonları | Plaj Etkinlikleri | Fuar ve Lansmanlar | Üniversite Etkinlikleri | Spor Organizasyonları | Belediye Etkinlikleri | Reklam Kampanyaları | Şirket Piknikleri | Marka Tanıtım Çalışmaları
-
-Promosyon frizbi FRZ-160 modeli; geniş baskı alanı, kaliteli serigraf ve ofset baskı seçenekleri, dayanıklı yapısı ve eğlenceli tasarımı sayesinde markanızı hedef kitlenizle buluşturan en dikkat çekici promosyon ürünlerinden biridir.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon frizbi FRZ-160 üzerine hangi baskı yöntemleri uygulanmaktadır?",
-      a: "Tek renk tasarımlar için serigraf baskı, çok renkli çalışmalar için ise ofset baskı uygulanabilmektedir."
-    },
-    {
-      q: "Frizbinin ölçüsü nedir?",
-      a: "FRZ-160 modeli 23 cm çapa ve 14.2 cm baskı alanına sahiptir."
-    },
-    {
-      q: "Logo baskısı yapılabiliyor mu?",
-      a: "Evet. Firmanıza özel logo, slogan ve reklam tasarımları serigraf veya ofset baskı ile uygulanabilmektedir."
-    },
-    {
-      q: "Hangi etkinliklerde kullanılabilir?",
-      a: "Festival, plaj organizasyonu, fuar, spor etkinliği, şirket pikniği, üniversite organizasyonu ve tüm açık hava etkinlikleri için uygundur."
-    },
-    {
-      q: "Frizbi dayanıklı mıdır?",
-      a: "Evet. Dayanıklı plastik malzemeden üretilmiş olup uzun süreli kullanıma uygundur."
-    },
-    {
-      q: "Kurumsal promosyon olarak tercih edilir mi?",
-      a: "Evet. Eğlenceli yapısı, geniş baskı alanı ve yüksek görünürlüğü sayesinde en dikkat çekici kurumsal promosyon ürünlerinden biridir."
-    }
-  ]
+  shortDesc: "FRZ-160 frizbi, 23 cm çapı ve 14,2 cm baskı alanıyla açık hava tanıtımlarında değerlendirilebilir. Tek renk ve renkli tasarımlar için farklı baskı seçenekleri bulunur.",
+  longDesc: "FRZ-160 frizbi, 23 cm çapı ve 14,2 cm baskı alanıyla açık hava tanıtımlarında değerlendirilebilir. Tek renk ve renkli tasarımlar için farklı baskı seçenekleri bulunur.\n\nTEKNİK ÖZELLİKLER\nModel: FRZ-160\nÇap: 23 cm\nBaskı Alanı: 14,2 cm\nBaskı: Tek Renk Serigrafi / Renkli Ofset\n\nBASKI VE FİYAT KAPSAMI\nTek renk için serigrafi, renkli tasarım için ofset baskı uygulanır.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"Promosyon frizbi FRZ-160 üzerine hangi baskı yöntemleri uygulanmaktadır?","a":"Tek renk için serigrafi, renkli tasarım için ofset baskı uygulanır."},{"q":"Frizbinin ölçüsü nedir?","a":"Çap: 23 cm; Baskı Alanı: 14,2 cm; Baskı: Tek Renk Serigrafi / Renkli Ofset"},{"q":"Logo baskısı yapılabiliyor mu?","a":"Tek renk için serigrafi, renkli tasarım için ofset baskı uygulanır."},{"q":"Hangi etkinliklerde kullanılabilir?","a":"Kurumsal hediye ve tanıtım çalışmaları için değerlendirilebilir; sipariş ayrıntıları ihtiyaca göre belirlenir."},{"q":"Frizbi dayanıklı mıdır?","a":"Kullanım ömrü kullanım koşullarına bağlıdır; doğrulanmış bir dayanım testi veya süre taahhüdü belirtilmez."},{"q":"Kurumsal promosyon olarak tercih edilir mi?","a":"Kurumsal hediye ve tanıtım çalışmaları için değerlendirilebilir; sipariş ayrıntıları ihtiyaca göre belirlenir."}]
 },
 {
   id: "p293",
-
   slug: "promosyon-mouse-pad-mp-600",
-
-  title:
-    "Promosyon Mouse Pad MP-600 | Logo Baskılı Ofset ve Dijital Baskılı Mouse Pad (18x22 cm)",
-
+  title: "Promosyon Mouse Pad MP-600",
   price: 45,
-
   category: "İmalat Ürünler",
-
   image: "/products/promosyon-mouse-pad-mp-600.jpg",
-
-  shortDesc:
-    "Promosyon mouse pad MP-600, 18x22 cm ölçüsü, geniş baskı alanı ve ofset veya dijital baskı seçenekleriyle ofislerde markanızı sürekli görünür kılan kaliteli promosyon mouse pad modelidir.",
-
-  longDesc: `
-Promosyon mouse pad MP-600, masaüstü kullanımına uygun yapısı ve geniş baskı yüzeyi sayesinde markanızı gün boyunca görünür tutan etkili promosyon ürünlerinden biridir. Ofislerde, çalışma masalarında ve kurumsal kullanım alanlarında uzun süre kullanılan mouse pad ürünleri, marka bilinirliğini artıran reklam çözümleri arasında önemli bir yere sahiptir.
-
-18 x 22 cm ölçüsüne sahip olan MP-600 modeli, logo, firma adı, slogan veya kurumsal tasarımların yüksek kaliteyle uygulanabileceği ideal bir baskı alanı sunmaktadır. Geniş yüzeyi sayesinde reklam çalışmalarınız daha dikkat çekici hale gelirken, günlük kullanımda da konforlu bir deneyim sağlar.
-
-Ürün üzerine ofset baskı ve dijital baskı uygulanabilmektedir. Baskı teknikleri sayesinde kurumsal renkler canlı şekilde yansıtılır, detaylı grafikler yüksek çözünürlükle üretilebilir ve uzun ömürlü kullanım elde edilir.
-
-Kaymayı azaltan alt yüzeyi ve mouse hareketlerini destekleyen üst yüzeyi sayesinde hem optik hem de lazer mouse modelleriyle uyumlu şekilde kullanılabilir. Ergonomik yapısı kullanıcı konforunu artırırken masa düzenine de profesyonel bir görünüm kazandırır.
-
-Promosyon mouse pad ürünleri özellikle bilgisayar başında çalışan personeller, ofis çalışanları, eğitim kurumları, bankalar, teknoloji firmaları ve kurumsal işletmeler tarafından sıklıkla tercih edilmektedir. Sürekli masa üzerinde bulunduğu için markanızın her gün tekrar tekrar görülmesine katkı sağlar.
-
-Toplu promosyon dağıtımları, fuarlar, seminerler, bayi toplantıları, kurumsal etkinlikler ve lansman organizasyonlarında dağıtılabilecek kullanışlı ve uzun ömürlü promosyon ürünleri arasında yer almaktadır.
-
-NEDEN PROMOSYON MOUSE PAD MP-600 TERCİH EDİLMELİ?
-
-• 18 x 22 cm geniş kullanım alanı
-• Ofset ve dijital baskıya uygun yüzey
-• Yüksek kaliteli logo baskısı uygulanabilir
-• Kaymayı azaltan dayanıklı taban
-• Günlük ofis kullanımına uygun yapı
-• Marka görünürlüğünü uzun süre destekler
-• Kurumsal promosyon çalışmalarına uygundur
-• Toplu üretim için ideal çözümdür
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Şirket içi promosyon dağıtımları
-• Fuar ve organizasyonlar
-• Eğitim kurumları
-• Bankalar ve finans kuruluşları
-• Teknoloji firmaları
-• Reklam kampanyaları
-• Kurumsal hediye çalışmaları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Üniversiteler ve okullar
-• Yazılım ve teknoloji şirketleri
-• Reklam ajansları
-• Finans kuruluşları
-• Sağlık sektörü
-• Toplu promosyon ürünleri satın alan işletmeler
-
-PROMOSYON MOUSE PAD FİYATLARI
-
-Promosyon mouse pad fiyatları; sipariş adedi, baskı tekniği, üretim detayları ve tasarım özelliklerine göre değişiklik gösterebilir. Toplu kurumsal siparişlerde özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Minimum sipariş miktarı 500 adettir.
-• Logo ve tasarımlar firmanıza özel hazırlanır.
-• Ofset veya dijital baskı uygulanabilmektedir.
-• Üretim süresi sipariş miktarına göre planlanmaktadır.
-• Güncel stok ve termin bilgisi teklif aşamasında paylaşılmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Mouse Pad  
-Model: MP-600  
-Ölçü: 18 x 22 cm  
-Baskı Türü: Ofset Baskı, Dijital Baskı  
-Kullanım Alanı: Ofis ve Kurumsal Kullanım  
-Minimum Sipariş: 500 Adet  
-Kategori: İmalat Ürünler
-
-Promosyon mouse pad MP-600, kaliteli baskı yüzeyi, geniş kullanım alanı ve kurumsal tanıtım çalışmalarına uygun yapısıyla markanızın masaüstünde sürekli görünmesini sağlayan profesyonel promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon mouse pad MP-600 üzerine hangi baskılar uygulanabilir?",
-      a: "Ürün üzerine ofset baskı ve dijital baskı uygulanabilmektedir. Her iki yöntem de yüksek kaliteli ve canlı baskılar elde edilmesini sağlar.",
-    },
-    {
-      q: "Mouse pad ölçüsü nedir?",
-      a: "MP-600 modeli 18 x 22 cm ölçüsüne sahiptir. Bu ölçü hem rahat kullanım hem de geniş baskı alanı sunmaktadır.",
-    },
-    {
-      q: "Minimum sipariş miktarı kaç adettir?",
-      a: "Bu model için minimum sipariş miktarı 500 adettir. Üretim toplu sipariş olarak gerçekleştirilmektedir.",
-    },
-    {
-      q: "Ürün hangi mouse türleriyle uyumludur?",
-      a: "Promosyon mouse pad MP-600 optik ve lazer mouse modelleriyle uyumlu şekilde kullanılabilmektedir.",
-    },
-    {
-      q: "Kurumsal logo baskısı yapılabiliyor mu?",
-      a: "Evet. Firma logosu, marka adı, slogan ve özel tasarımlar ürün üzerine yüksek baskı kalitesiyle uygulanabilmektedir.",
-    },
-    {
-      q: "Teslim süresi nasıl belirlenmektedir?",
-      a: "Teslim süresi sipariş miktarı, baskı yöntemi ve üretim yoğunluğuna göre planlanmaktadır.",
-    },
-  ],
+  shortDesc: "MP-600 mouse pad, 18 x 22 cm ölçüsüyle ofis masalarında logo veya kampanya tasarımına yer verir. Ofset ve dijital baskı seçenekleriyle özel üretim olarak sunulur.",
+  longDesc: "MP-600 mouse pad, 18 x 22 cm ölçüsüyle ofis masalarında logo veya kampanya tasarımına yer verir. Ofset ve dijital baskı seçenekleriyle özel üretim olarak sunulur.\n\nTEKNİK ÖZELLİKLER\nModel: MP-600\nÖlçü: 18 x 22 cm\nBaskı: Ofset / Dijital\nMinimum Sipariş: 500 Adet\n\nBASKI VE FİYAT KAPSAMI\nGörülen fiyat 1.000 adet için baskı dahildir. 500 adet ve diğer sipariş miktarları için ayrıca teklif alınır.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"Promosyon mouse pad MP-600 üzerine hangi baskılar uygulanabilir?","a":"Görülen fiyat 1.000 adet için baskı dahildir. 500 adet ve diğer sipariş miktarları için ayrıca teklif alınır."},{"q":"Mouse pad ölçüsü nedir?","a":"Ölçü: 18 x 22 cm; Baskı: Ofset / Dijital"},{"q":"Minimum sipariş miktarı kaç adettir?","a":"Minimum sipariş 500 adettir."},{"q":"Ürün hangi mouse türleriyle uyumludur?","a":"Kullanılacak mouse ve yüzey uyumu sipariş öncesinde değerlendirilir; tüm cihazlar için uyum taahhüt edilmez."},{"q":"Kurumsal logo baskısı yapılabiliyor mu?","a":"Görülen fiyat 1.000 adet için baskı dahildir. 500 adet ve diğer sipariş miktarları için ayrıca teklif alınır."},{"q":"Teslim süresi nasıl belirlenmektedir?","a":"Teslim süresi sipariş adedi, stok ve uygulama planına göre teklifte belirtilir."}]
 },
 {
   id: "p294",
-
   slug: "promosyon-bilek-destekli-mouse-pad-mp-650",
-
-  title:
-    "Promosyon Bilek Destekli Mouse Pad MP-650 | Ergonomik Logo Baskılı Mouse Pad (18x22 cm)",
-
+  title: "Promosyon Bilek Destekli Mouse Pad MP-650",
   price: 60,
-
   category: "İmalat Ürünler",
-
   image: "/products/promosyon-mouse-pad-mp-650.jpg",
-
-  shortDesc:
-    "Promosyon bilek destekli mouse pad MP-650, ergonomik bilek desteği, 18x22 cm geniş baskı alanı ve ofset veya dijital baskı seçenekleriyle konforlu kullanım sunan premium promosyon mouse pad modelidir.",
-
-  longDesc: `
-Promosyon bilek destekli mouse pad MP-650, ergonomik tasarımı ve özel bilek destek bölümü sayesinde uzun süre bilgisayar kullanan kişiler için konfor sağlayan kaliteli promosyon ürünlerinden biridir. Günlük ofis kullanımında sürekli masa üzerinde yer alması, markanızın görünürlüğünü artırırken kullanıcı deneyimine de katkı sunar.
-
-18 x 22 cm ölçüsüne sahip olan ürün, firma logosu, kurumsal renkler, reklam görselleri ve özel tasarımlar için geniş bir baskı alanı sunmaktadır. Bu sayede marka kimliğiniz çalışma masalarında profesyonel bir şekilde sergilenebilir.
-
-Mouse pad üzerinde ofset baskı ve dijital baskı uygulanabilmektedir. Yüksek baskı kalitesi sayesinde canlı renkler, keskin detaylar ve uzun ömürlü görseller elde edilir. Kurumsal tasarımlar yüksek çözünürlükle uygulanarak markanızın prestijini destekler.
-
-Ergonomik bilek destek bölümü, uzun süre mouse kullanan personeller için bileğin doğal pozisyonda kalmasına yardımcı olur. Bu özellik yalnızca kullanım konforunu artırmakla kalmaz, aynı zamanda ürünün kullanıcı tarafından daha sık tercih edilmesini sağlayarak reklam etkisini de güçlendirir.
-
-Kaymayı azaltan alt yüzeyi sayesinde masa üzerinde dengeli kullanım sunan MP-650 modeli, optik ve lazer mouse çeşitleriyle uyumlu olarak çalışmaktadır. Günlük kullanım için tasarlanan yapısı sayesinde ofislerde, eğitim kurumlarında ve kurumsal işletmelerde uzun yıllar kullanılabilir.
-
-Promosyon bilek destekli mouse pad modeli; teknoloji firmaları, bankalar, sigorta şirketleri, kamu kurumları, yazılım şirketleri ve bilgisayar kullanımının yoğun olduğu tüm sektörlerde etkili bir kurumsal promosyon ürünü olarak tercih edilmektedir.
-
-NEDEN PROMOSYON BİLEK DESTEKLİ MOUSE PAD MP-650 TERCİH EDİLMELİ?
-
-• Ergonomik bilek destekli tasarım
-• 18 x 22 cm geniş baskı alanı
-• Ofset ve dijital baskıya uygundur
-• Uzun süreli kullanımlarda konfor sağlar
-• Kaymayı azaltan dayanıklı taban
-• Optik ve lazer mouse ile uyumludur
-• Marka görünürlüğünü sürekli destekler
-• Premium kurumsal promosyon çözümüdür
-
-KULLANIM ALANLARI
-
-• Kurumsal ofisler
-• Çağrı merkezleri
-• Teknoloji şirketleri
-• Yazılım firmaları
-• Bankalar ve finans kuruluşları
-• Eğitim kurumları
-• Fuar ve organizasyonlar
-• Kurumsal promosyon dağıtımları
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Kamu kurumları
-• Üniversiteler
-• Reklam ajansları
-• Bilgisayar ekipmanı kullanan işletmeler
-• Sağlık kuruluşları
-• Sigorta şirketleri
-• Toplu promosyon ürünleri satın alan firmalar
-
-PROMOSYON BİLEK DESTEKLİ MOUSE PAD FİYATLARI
-
-Promosyon bilek destekli mouse pad fiyatları; sipariş miktarı, baskı yöntemi, üretim süreci ve tasarım detaylarına göre değişiklik gösterebilir. Kurumsal toplu siparişlerde özel fiyatlandırma avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Minimum sipariş miktarı 500 adettir.
-• Firma logonuza özel baskı uygulanmaktadır.
-• Ofset ve dijital baskı seçenekleri sunulmaktadır.
-• Üretim planlaması sipariş adedine göre yapılmaktadır.
-• Güncel stok ve termin bilgisi teklif aşamasında paylaşılmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Bilek Destekli Mouse Pad  
-Model: MP-650  
-Ölçü: 18 x 22 cm  
-Özellik: Ergonomik Bilek Destekli Tasarım  
-Baskı Türü: Ofset Baskı, Dijital Baskı  
-Kullanım Alanı: Ofis ve Kurumsal Kullanım  
-Minimum Sipariş: 500 Adet  
-Kategori: İmalat Ürünler
-
-Promosyon bilek destekli mouse pad MP-650, ergonomik yapısı, kaliteli baskı seçenekleri ve uzun süreli kullanım avantajıyla markanızı çalışma masalarında sürekli görünür kılan profesyonel promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
-    {
-      q: "Promosyon bilek destekli mouse pad MP-650 üzerine hangi baskılar uygulanabilir?",
-      a: "Ürün üzerine ofset baskı ve dijital baskı uygulanabilmektedir. Her iki baskı yöntemi de yüksek çözünürlüklü ve canlı sonuçlar sunar.",
-    },
-    {
-      q: "Bilek destekli tasarımın avantajı nedir?",
-      a: "Ergonomik bilek desteği, uzun süre bilgisayar kullanan kişiler için konfor sağlar ve bileğin daha doğal pozisyonda durmasına yardımcı olur.",
-    },
-    {
-      q: "Mouse pad ölçüsü nedir?",
-      a: "MP-650 modeli 18 x 22 cm ölçüsüne sahiptir ve geniş baskı alanı sayesinde kurumsal logo uygulamaları için idealdir.",
-    },
-    {
-      q: "Minimum sipariş miktarı kaç adettir?",
-      a: "Bu ürün minimum 500 adet olarak üretilmektedir. Toplu kurumsal siparişler için uygundur.",
-    },
-    {
-      q: "Hangi mouse türleriyle kullanılabilir?",
-      a: "Ürün optik ve lazer mouse modelleriyle uyumludur ve günlük kullanıma uygun yüzeye sahiptir.",
-    },
-    {
-      q: "Teslim süresi nasıl belirlenmektedir?",
-      a: "Teslim süresi sipariş adedi, baskı yöntemi ve üretim yoğunluğuna göre planlanarak teklif aşamasında paylaşılmaktadır.",
-    },
-  ],
+  shortDesc: "MP-650, bilek desteğini 18 x 22 cm mouse pad formuyla birleştirir. Çalışan dağıtımları ve ofis kampanyaları için ofset veya dijital tasarımla hazırlanabilir.",
+  longDesc: "MP-650, bilek desteğini 18 x 22 cm mouse pad formuyla birleştirir. Çalışan dağıtımları ve ofis kampanyaları için ofset veya dijital tasarımla hazırlanabilir.\n\nTEKNİK ÖZELLİKLER\nModel: MP-650\nÖlçü: 18 x 22 cm\nÖzellik: Bilek Destekli\nBaskı: Ofset / Dijital\nMinimum Sipariş: 500 Adet\n\nBASKI VE FİYAT KAPSAMI\nGörülen fiyat 1.000 adet için baskı dahildir. 500 adet ve diğer sipariş miktarları için ayrıca teklif alınır.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"Promosyon bilek destekli mouse pad MP-650 üzerine hangi baskılar uygulanabilir?","a":"Bilek destekli tasarım kullanım sırasında bileğin yerleşeceği bir destek alanı sunar."},{"q":"Bilek destekli tasarımın avantajı nedir?","a":"Bilek destekli tasarım kullanım sırasında bileğin yerleşeceği bir destek alanı sunar."},{"q":"Mouse pad ölçüsü nedir?","a":"Ölçü: 18 x 22 cm; Özellik: Bilek Destekli; Baskı: Ofset / Dijital"},{"q":"Minimum sipariş miktarı kaç adettir?","a":"Minimum sipariş 500 adettir."},{"q":"Hangi mouse türleriyle kullanılabilir?","a":"Kullanılacak mouse ve yüzey uyumu sipariş öncesinde değerlendirilir; tüm cihazlar için uyum taahhüt edilmez."},{"q":"Teslim süresi nasıl belirlenmektedir?","a":"Teslim süresi sipariş adedi, stok ve uygulama planına göre teklifte belirtilir."}]
 },
 {
   id: "p295",
   slug: "promosyon-oto-kesesi-oks-170",
-  title: "Promosyon Oto Kesesi OKS-170 | Araç Temizlik Kesesi",
+  title: "Promosyon Oto Kesesi OKS-170",
   price: 40,
   category: "İmalat Ürünler",
   image: "/products/promosyon-oto-kesesi-oks-170.jpg",
-
-  shortDesc:
-    "Promosyon oto kesesi OKS-170, araç temizliğinde pratik kullanım sağlayan ve oto sektöründe marka tanıtımı için tercih edilen promosyon ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon oto kesesi OKS-170 modeli, araç temizliği ve bakımında kullanılan pratik yapısı ile oto sektörüne yönelik promosyon ürünleri arasında yer almaktadır.
-
-Araç temizlik ürünleri, kullanıcılar tarafından düzenli olarak kullanıldığı için marka bilinirliğini artırmada oldukça etkilidir. Bu sayede firmanız, kullanıcıların günlük hayatında sürekli görünür hale gelir.
-
-Oto kesesi, araç yüzeyine zarar vermeden temizlik yapılmasını sağlar ve özellikle oto yıkama, servis ve bakım hizmeti sunan firmalar için ideal bir promosyon ürünüdür.
-
-Hafif ve kullanışlı yapısı sayesinde kolay taşınabilir ve pratik kullanım sunar. Uzun süreli kullanım avantajı ile markanızın kalıcılığını artırır.
-
-Promosyon oto keseleri, özellikle oto yıkama firmaları, servisler ve araç bakım merkezleri tarafından müşteri memnuniyetini artırmak amacıyla tercih edilmektedir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Oto Kesesi  
-Kategori: İmalat Ürünler  
-
-Özellikler:
-
-Araç Temizliğine Uygun Yapı  
-Pratik ve Kullanışlı Tasarım  
-Hafif ve Dayanıklı Kullanım  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon oto kesesi siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-Ürün detayları, baskı seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Oto yıkama ve araç bakım firmaları  
-Servis ve oto bakım merkezleri  
-Kurumsal promosyon ürünleri  
-Reklam ve tanıtım kampanyaları  
-Toplu dağıtım ve promosyon aktiviteleri  
-Müşteri memnuniyeti hediyeleri
-`
+  shortDesc: "OKS-170 oto kesesi, otomotiv sektörüne yönelik promosyon çalışmalarında değerlendirilebilecek bir modeldir. Kullanım ve logo uygulama ayrıntıları sipariş ihtiyacına göre birlikte belirlenir.",
+  longDesc: "OKS-170 oto kesesi, otomotiv sektörüne yönelik promosyon çalışmalarında değerlendirilebilecek bir modeldir. Kullanım ve logo uygulama ayrıntıları sipariş ihtiyacına göre birlikte belirlenir.\n\nTEKNİK ÖZELLİKLER\nModel: OKS-170\n\nBASKI VE FİYAT KAPSAMI\nLogo yöntemi, uygulama alanı ve sipariş ayrıntıları teklif aşamasında belirlenir.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"OKS-170 nasıl bir üründür?","a":"OKS-170 oto kesesi, otomotiv sektörüne yönelik promosyon çalışmalarında değerlendirilebilecek bir modeldir. Kullanım ve logo uygulama ayrıntıları sipariş ihtiyacına göre birlikte belirlenir."},{"q":"OKS-170 ölçüleri ve özellikleri nedir?","a":"Ürünün ölçü ve uygulama ayrıntıları teklif aşamasında netleştirilir."},{"q":"OKS-170 logo uygulaması nasıl yapılır?","a":"Logo yöntemi, uygulama alanı ve sipariş ayrıntıları teklif aşamasında belirlenir."},{"q":"OKS-170 fiyatına neler dahildir?","a":"Logo yöntemi, uygulama alanı ve sipariş ayrıntıları teklif aşamasında belirlenir."},{"q":"OKS-170 minimum sipariş adedi nedir?","a":"Minimum sipariş adedi üretim planına göre teklif aşamasında belirlenir."},{"q":"OKS-170 teslim süresi nasıl belirlenir?","a":"Teslim süresi sipariş adedi, stok ve uygulama planına göre teklifte belirtilir."}]
 },
 {
   id: "p296",
   slug: "promosyon-para-tabagi-pt-100",
-  title: "Promosyon Yuvarlak Para Tabağı PT-100 | Kasa Önü Reklam Ürünü (17.5 cm)",
+  title: "Promosyon Yuvarlak Para Tabağı PT-100",
   price: 90,
   category: "İmalat Ürünler",
   image: "/products/promosyon-para-tabagi-pt-100.jpg",
-
-  shortDesc:
-    "Promosyon yuvarlak para tabağı PT-100, kasa önlerinde marka görünürlüğünü artıran ve sürekli temas edilen etkili promosyon ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon yuvarlak para tabağı PT-100 modeli, özellikle mağaza, market ve kasa noktalarında kullanılan etkili promosyon ürünleri arasında yer almaktadır.
-
-Para tabağı ürünleri, müşterilerin ödeme sırasında doğrudan temas ettiği ve sürekli göz önünde bulunan ürünler olduğu için marka bilinirliğini artırmada oldukça güçlü bir reklam aracıdır.
-
-PT-100 modeli, yuvarlak tasarımı ve geniş yüzeyi sayesinde logo, marka adı veya reklam mesajlarının dikkat çekici şekilde uygulanmasına imkan tanır.
-
-Kasa önlerinde sürekli kullanım sayesinde markanız müşterilerin her alışverişte karşısına çıkar ve akılda kalıcılık sağlar.
-
-Dayanıklı ve kullanışlı yapısı ile uzun süreli kullanım avantajı sunar. Perakende sektöründe marka tanıtımı için ideal bir promosyon ürünüdür.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Para Tabağı  
-Kategori: İmalat Ürünler  
-
-Özellikler:
-
-Yuvarlak Tasarım  
-Geniş Baskı Yüzeyi  
-Kasa Önü Kullanıma Uygun  
-
-Ürün Ölçüsü:
-
-Çap: 17.5 cm  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon para tabağı siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Market ve mağaza kasaları  
-Perakende satış noktaları  
-Kurumsal promosyon ürünleri  
-Reklam ve tanıtım çalışmaları  
-Toplu dağıtım ve promosyon aktiviteleri  
-Marka görünürlüğü artırma çalışmaları
-`
+  shortDesc: "PT-100 yuvarlak para tabağı, 17,5 cm çapıyla kasa ve ödeme noktalarında kullanılabilir. Mağaza içi tanıtım tasarımı için ürünün yerleşimine uygun logo çalışması hazırlanır.",
+  longDesc: "PT-100 yuvarlak para tabağı, 17,5 cm çapıyla kasa ve ödeme noktalarında kullanılabilir. Mağaza içi tanıtım tasarımı için ürünün yerleşimine uygun logo çalışması hazırlanır.\n\nTEKNİK ÖZELLİKLER\nModel: PT-100\nÇap: 17,5 cm\n\nBASKI VE FİYAT KAPSAMI\nLogo uygulama yöntemi ve alanı tasarım çalışmasında belirlenir.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"PT-100 nasıl bir üründür?","a":"PT-100 yuvarlak para tabağı, 17,5 cm çapıyla kasa ve ödeme noktalarında kullanılabilir. Mağaza içi tanıtım tasarımı için ürünün yerleşimine uygun logo çalışması hazırlanır."},{"q":"PT-100 ölçüleri ve özellikleri nedir?","a":"Çap: 17,5 cm"},{"q":"PT-100 logo uygulaması nasıl yapılır?","a":"Logo uygulama yöntemi ve alanı tasarım çalışmasında belirlenir."},{"q":"PT-100 fiyatına neler dahildir?","a":"Logo uygulama yöntemi ve alanı tasarım çalışmasında belirlenir."},{"q":"PT-100 minimum sipariş adedi nedir?","a":"Minimum sipariş adedi üretim planına göre teklif aşamasında belirlenir."},{"q":"PT-100 teslim süresi nasıl belirlenir?","a":"Teslim süresi sipariş adedi, stok ve uygulama planına göre teklifte belirtilir."}]
 },
 {
   id: "p297",
   slug: "promosyon-kare-para-tabagi-pt-110",
-  title: "Promosyon Kare Para Tabağı PT-110 | Kasa Önü Reklam Ürünü (17x20.5 cm)",
+  title: "Promosyon Kare Para Tabağı PT-110",
   price: 110,
   category: "İmalat Ürünler",
   image: "/products/promosyon-para-tabagi-pt-110.jpg",
-
-  shortDesc:
-    "Promosyon kare para tabağı PT-110, geniş yüzeyi ve dikkat çekici tasarımı ile kasa önlerinde marka görünürlüğünü artıran etkili promosyon ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon kare para tabağı PT-110 modeli, modern tasarımı ve geniş baskı yüzeyi ile özellikle perakende sektöründe tercih edilen promosyon ürünleri arasında yer almaktadır.
-
-Para tabağı ürünleri, müşterilerin ödeme sırasında doğrudan temas ettiği ve sürekli göz önünde bulunan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
-
-PT-110 modeli, kare formu sayesinde klasik yuvarlak modellere göre daha geniş ve farklı bir baskı alanı sunar. Bu sayede logo, marka adı veya reklam mesajları daha dikkat çekici şekilde uygulanabilir.
-
-Kasa önlerinde sürekli kullanım sayesinde markanız müşterilerin her alışverişte karşısına çıkar ve akılda kalıcılık sağlar.
-
-Dayanıklı ve kullanışlı yapısı ile uzun süreli kullanım avantajı sunar. Market, mağaza ve satış noktaları için ideal bir promosyon ürünüdür.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Para Tabağı  
-Kategori: İmalat Ürünler  
-
-Özellikler:
-
-Kare Tasarım  
-Geniş Baskı Yüzeyi  
-Kasa Önü Kullanıma Uygun  
-
-Ürün Ölçüsü:
-
-17 x 20.5 cm  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon para tabağı siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-Ürün tasarımı, baskı detayları ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Market ve mağaza kasaları  
-Perakende satış noktaları  
-Kurumsal promosyon ürünleri  
-Reklam ve tanıtım çalışmaları  
-Toplu dağıtım ve promosyon aktiviteleri  
-Marka görünürlüğü artırma çalışmaları
-`
+  shortDesc: "PT-110 para tabağı, 17 x 20,5 cm ölçüsündeki köşeli formuyla ödeme noktaları için sunulur. Perakende ve hizmet işletmelerinin kasa önü tanıtımlarında değerlendirilebilir.",
+  longDesc: "PT-110 para tabağı, 17 x 20,5 cm ölçüsündeki köşeli formuyla ödeme noktaları için sunulur. Perakende ve hizmet işletmelerinin kasa önü tanıtımlarında değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\nModel: PT-110\nÖlçü: 17 x 20,5 cm\n\nBASKI VE FİYAT KAPSAMI\nLogo uygulama yöntemi ve alanı tasarım çalışmasında belirlenir.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"PT-110 nasıl bir üründür?","a":"PT-110 para tabağı, 17 x 20,5 cm ölçüsündeki köşeli formuyla ödeme noktaları için sunulur. Perakende ve hizmet işletmelerinin kasa önü tanıtımlarında değerlendirilebilir."},{"q":"PT-110 ölçüleri ve özellikleri nedir?","a":"Ölçü: 17 x 20,5 cm"},{"q":"PT-110 logo uygulaması nasıl yapılır?","a":"Logo uygulama yöntemi ve alanı tasarım çalışmasında belirlenir."},{"q":"PT-110 fiyatına neler dahildir?","a":"Logo uygulama yöntemi ve alanı tasarım çalışmasında belirlenir."},{"q":"PT-110 minimum sipariş adedi nedir?","a":"Minimum sipariş adedi üretim planına göre teklif aşamasında belirlenir."},{"q":"PT-110 teslim süresi nasıl belirlenir?","a":"Teslim süresi sipariş adedi, stok ve uygulama planına göre teklifte belirtilir."}]
 },
 {
   id: "p298",
   slug: "promosyon-kalemlik-pu-100",
-  title: "Promosyon Kalemlik PÜ-100 | Masa Üstü Reklam Ürünü (10x8x5.4 cm)",
+  title: "Promosyon Kalemlik PÜ-100",
   price: 50,
   category: "İmalat Ürünler",
   image: "/products/promosyon-kalemlik-pu-100.jpg",
-
-  shortDesc:
-    "Promosyon kalemlik PÜ-100, masa üstünde sürekli kullanılan yapısı ile markanızı görünür kılan ve ofisler için ideal promosyon ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon kalemlik PÜ-100 modeli, ofis ve çalışma alanlarında kullanılan ve marka bilinirliğini artırmada etkili olan promosyon ürünleri arasında yer almaktadır.
-
-Kalemlik ürünleri, masa üzerinde sürekli bulunan ve günlük kullanımda aktif rol oynayan ürünler olduğu için markanızın sürekli göz önünde olmasını sağlar.
-
-PÜ-100 modeli, kompakt yapısı sayesinde masa üzerinde fazla yer kaplamaz ve düzenli kullanım sunar. Kalem, not kağıdı ve küçük ofis malzemelerinin düzenli şekilde saklanmasına yardımcı olur.
-
-Ürün üzerinde bulunan reklam alanı sayesinde logo, marka adı veya iletişim bilgileri kolaylıkla uygulanabilir. Bu sayede hem kullanışlı hem de reklam değeri yüksek bir ürün elde edilir.
-
-Dayanıklı ve uzun ömürlü yapısı sayesinde uzun süre kullanılabilir ve markanızın kalıcılığını artırır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Kalemlik  
-Kategori: İmalat Ürünler  
-
-Özellikler:
-
-Masa Üstü Kullanıma Uygun  
-Kompakt ve Kullanışlı Tasarım  
-Düzenleyici Fonksiyon  
-
-Reklam Alanı:
-
-5 x 8 cm  
-
-Ürün Ölçüsü:
-
-10 x 8 x 5.4 cm  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon kalemlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-Ürün baskı detayları, adet ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Ofis ve çalışma alanları  
-Kurumsal promosyon ürünleri  
-Şirket içi dağıtımlar  
-Kurumsal hediye ürünleri  
-Fuar ve etkinlik organizasyonları  
-Masa üstü düzenleyici ürünler
-`
+  shortDesc: "PÜ-100 kalemlik, 10 x 8 x 5,4 cm ölçüsünde masaüstü kullanım için sunulur. 5 x 8 cm reklam alanı, kurumsal logo veya iletişim tasarımı için değerlendirilebilir.",
+  longDesc: "PÜ-100 kalemlik, 10 x 8 x 5,4 cm ölçüsünde masaüstü kullanım için sunulur. 5 x 8 cm reklam alanı, kurumsal logo veya iletişim tasarımı için değerlendirilebilir.\n\nTEKNİK ÖZELLİKLER\nModel: PÜ-100\nÖlçü: 10 x 8 x 5,4 cm\nReklam Alanı: 5 x 8 cm\n\nBASKI VE FİYAT KAPSAMI\nLogo tasarımı 5 x 8 cm reklam alanına göre hazırlanır; baskı tekniği teklifte belirlenir.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"PÜ-100 nasıl bir üründür?","a":"PÜ-100 kalemlik, 10 x 8 x 5,4 cm ölçüsünde masaüstü kullanım için sunulur. 5 x 8 cm reklam alanı, kurumsal logo veya iletişim tasarımı için değerlendirilebilir."},{"q":"PÜ-100 ölçüleri ve özellikleri nedir?","a":"Ölçü: 10 x 8 x 5,4 cm; Reklam Alanı: 5 x 8 cm"},{"q":"PÜ-100 logo uygulaması nasıl yapılır?","a":"Logo tasarımı 5 x 8 cm reklam alanına göre hazırlanır; baskı tekniği teklifte belirlenir."},{"q":"PÜ-100 fiyatına neler dahildir?","a":"Logo tasarımı 5 x 8 cm reklam alanına göre hazırlanır; baskı tekniği teklifte belirlenir."},{"q":"PÜ-100 minimum sipariş adedi nedir?","a":"Minimum sipariş adedi üretim planına göre teklif aşamasında belirlenir."},{"q":"PÜ-100 teslim süresi nasıl belirlenir?","a":"Teslim süresi sipariş adedi, stok ve uygulama planına göre teklifte belirtilir."}]
 },
 {
   id: "p299",
   slug: "promosyon-seffaf-kalemlik-pu-110",
-  title: "Promosyon Şeffaf Kalemlik PÜ-110 | Masa Üstü Reklam Ürünü (10x8x5.4 cm)",
+  title: "Promosyon Şeffaf Kalemlik PÜ-110",
   price: 50,
   category: "İmalat Ürünler",
   image: "/products/promosyon-kalemlik-pu-110.jpg",
-
-  shortDesc:
-    "Promosyon şeffaf kalemlik PÜ-110, modern tasarımı ve reklam alanı ile masa üstünde markanızı sürekli görünür kılan şık promosyon ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon şeffaf kalemlik PÜ-110 modeli, sade ve modern tasarımı ile ofis ve çalışma alanlarında tercih edilen promosyon ürünleri arasında yer almaktadır.
-
-Kalemlik ürünleri, masa üzerinde sürekli kullanılan ve göz önünde bulunan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
-
-Şeffaf yapısı sayesinde içerisine konulan kalem ve ofis malzemeleri kolayca görülebilir. Bu özellik, hem estetik hem de pratik kullanım avantajı sağlar.
-
-PÜ-110 modeli, kompakt ölçüleri sayesinde masa üzerinde fazla yer kaplamaz ve düzenli bir çalışma ortamı oluşturur.
-
-Ürün üzerinde bulunan reklam alanı sayesinde logo, marka adı veya iletişim bilgileri net ve dikkat çekici şekilde uygulanabilir.
-
-Dayanıklı yapısı sayesinde uzun süreli kullanım sunar ve markanızın kalıcılığını artırır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Kalemlik  
-Kategori: İmalat Ürünler  
-
-Özellikler:
-
-Şeffaf Tasarım  
-Masa Üstü Kullanıma Uygun  
-Kompakt ve Kullanışlı Yapı  
-
-Reklam Alanı:
-
-5 x 8 cm  
-
-Ürün Ölçüsü:
-
-10 x 8 x 5.4 cm  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon kalemlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-Ürün baskı detayları, adet ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Ofis ve çalışma alanları  
-Kurumsal promosyon ürünleri  
-Şirket içi dağıtımlar  
-Kurumsal hediye ürünleri  
-Fuar ve etkinlik organizasyonları  
-Masa üstü düzenleyici ürünler
-`
+  shortDesc: "Şeffaf PÜ-110 kalemlik, 10 x 8 x 5,4 cm gövde ölçüsüyle sunulur. Ofis dağıtımlarında 5 x 8 cm reklam alanına uygun bir kurumsal tasarım hazırlanabilir.",
+  longDesc: "Şeffaf PÜ-110 kalemlik, 10 x 8 x 5,4 cm gövde ölçüsüyle sunulur. Ofis dağıtımlarında 5 x 8 cm reklam alanına uygun bir kurumsal tasarım hazırlanabilir.\n\nTEKNİK ÖZELLİKLER\nModel: PÜ-110\nÖlçü: 10 x 8 x 5,4 cm\nReklam Alanı: 5 x 8 cm\n\nBASKI VE FİYAT KAPSAMI\nLogo tasarımı 5 x 8 cm reklam alanına göre hazırlanır; baskı tekniği teklifte belirlenir.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"PÜ-110 nasıl bir üründür?","a":"Şeffaf PÜ-110 kalemlik, 10 x 8 x 5,4 cm gövde ölçüsüyle sunulur. Ofis dağıtımlarında 5 x 8 cm reklam alanına uygun bir kurumsal tasarım hazırlanabilir."},{"q":"PÜ-110 ölçüleri ve özellikleri nedir?","a":"Ölçü: 10 x 8 x 5,4 cm; Reklam Alanı: 5 x 8 cm"},{"q":"PÜ-110 logo uygulaması nasıl yapılır?","a":"Logo tasarımı 5 x 8 cm reklam alanına göre hazırlanır; baskı tekniği teklifte belirlenir."},{"q":"PÜ-110 fiyatına neler dahildir?","a":"Logo tasarımı 5 x 8 cm reklam alanına göre hazırlanır; baskı tekniği teklifte belirlenir."},{"q":"PÜ-110 minimum sipariş adedi nedir?","a":"Minimum sipariş adedi üretim planına göre teklif aşamasında belirlenir."},{"q":"PÜ-110 teslim süresi nasıl belirlenir?","a":"Teslim süresi sipariş adedi, stok ve uygulama planına göre teklifte belirtilir."}]
 },
 {
   id: "p300",
   slug: "promosyon-yonca-kalemlik-pu-130",
-  title: "Promosyon Yonca Kalemlik PÜ-130 | Dekoratif Masa Üstü Kalemlik (19x9 cm)",
+  title: "Promosyon Yonca Kalemlik PÜ-130",
   price: 60,
   category: "İmalat Ürünler",
   image: "/products/promosyon-kalemlik-pu-130.jpg",
-
-  shortDesc:
-    "Promosyon yonca kalemlik PÜ-130, dekoratif tasarımı ve masa üstü kullanım avantajı ile markanızı estetik şekilde öne çıkaran promosyon ürünlerinden biridir.",
-
-  longDesc: `
-Promosyon yonca kalemlik PÜ-130 modeli, farklı ve dikkat çekici tasarımı ile ofis ve çalışma alanlarında tercih edilen dekoratif promosyon ürünleri arasında yer almaktadır.
-
-Kalemlik ürünleri, masa üzerinde sürekli kullanılan ve göz önünde bulunan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
-
-Yonca formundaki özel tasarımı sayesinde klasik kalemlik modellerinden ayrılır ve daha estetik bir görünüm sunar. Bu sayede masa üzerinde hem düzen hem de görsel zenginlik sağlar.
-
-PÜ-130 modeli, geniş iç hacmi sayesinde kalem, not kağıdı ve küçük ofis malzemelerinin düzenli şekilde saklanmasına yardımcı olur.
-
-Ürün üzerinde bulunan reklam alanı sayesinde logo veya marka bilgisi tek renk baskı ile net ve sade şekilde uygulanabilir.
-
-Dayanıklı yapısı sayesinde uzun süreli kullanım sunar ve markanızın kalıcılığını artırır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Kalemlik  
-Kategori: İmalat Ürünler  
-
-Özellikler:
-
-Yonca Tasarım  
-Dekoratif ve Şık Görünüm  
-Masa Üstü Kullanıma Uygun  
-
-Reklam Alanı:
-
-3.5 x 3.5 cm  
-Tek Renk Baskı  
-
-Ürün Ölçüsü:
-
-19 x 9 cm  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon kalemlik siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-Ürün baskı detayları, adet ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Ofis ve çalışma alanları  
-Kurumsal promosyon ürünleri  
-Şirket içi dağıtımlar  
-Kurumsal hediye ürünleri  
-Fuar ve etkinlik organizasyonları  
-Masa üstü dekoratif ürünler
-`
+  shortDesc: "PÜ-130, yonca formunda 19 x 9 cm ölçüsüne sahip masaüstü kalemlik modelidir. 3,5 x 3,5 cm reklam alanında tek renk logo uygulamasıyla sunulur.",
+  longDesc: "PÜ-130, yonca formunda 19 x 9 cm ölçüsüne sahip masaüstü kalemlik modelidir. 3,5 x 3,5 cm reklam alanında tek renk logo uygulamasıyla sunulur.\n\nTEKNİK ÖZELLİKLER\nModel: PÜ-130\nÖlçü: 19 x 9 cm\nReklam Alanı: 3,5 x 3,5 cm\nUygulama: Tek Renk\n\nBASKI VE FİYAT KAPSAMI\n3,5 x 3,5 cm reklam alanında tek renk tasarım planlanır.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"PÜ-130 nasıl bir üründür?","a":"PÜ-130, yonca formunda 19 x 9 cm ölçüsüne sahip masaüstü kalemlik modelidir. 3,5 x 3,5 cm reklam alanında tek renk logo uygulamasıyla sunulur."},{"q":"PÜ-130 ölçüleri ve özellikleri nedir?","a":"Ölçü: 19 x 9 cm; Reklam Alanı: 3,5 x 3,5 cm; Uygulama: Tek Renk"},{"q":"PÜ-130 logo uygulaması nasıl yapılır?","a":"3,5 x 3,5 cm reklam alanında tek renk tasarım planlanır."},{"q":"PÜ-130 fiyatına neler dahildir?","a":"3,5 x 3,5 cm reklam alanında tek renk tasarım planlanır."},{"q":"PÜ-130 minimum sipariş adedi nedir?","a":"Minimum sipariş adedi üretim planına göre teklif aşamasında belirlenir."},{"q":"PÜ-130 teslim süresi nasıl belirlenir?","a":"Teslim süresi sipariş adedi, stok ve uygulama planına göre teklifte belirtilir."}]
 },
 {
   id: "p301",
   slug: "promosyon-seffaf-kup-kagitlik-pu-140",
-  title: "Promosyon Şeffaf Küp Kağıtlık PÜ-140 | Özel Üretim Masa Üstü Kağıtlık",
+  title: "Promosyon Şeffaf Küp Kağıtlık PÜ-140",
   price: 50,
   category: "İmalat Ürünler",
   image: "/products/promosyon-kagitlik-pu-140.jpg",
-
-  shortDesc:
-    "Promosyon şeffaf küp kağıtlık PÜ-140, masa üstünde sürekli kullanılan yapısı ve özel üretim seçeneği ile kurumsal firmalar için etkili bir promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon şeffaf küp kağıtlık PÜ-140 modeli, ofis ve çalışma alanlarında kullanılan, marka bilinirliğini artıran ve uzun süreli kullanım sağlayan promosyon ürünleri arasında yer almaktadır.
-
-Kağıtlık ürünleri, masa üzerinde sürekli bulunan ve günlük kullanımda aktif rol oynayan ürünler olduğu için markanızın sürekli görünür olmasını sağlar.
-
-Şeffaf tasarımı sayesinde içeride bulunan not kağıtları kolayca görülebilir ve modern bir masa düzeni oluşturur. Estetik görünümü ile ofis ortamına uyum sağlar.
-
-PÜ-140 modeli, özel üretim imkanı sunar. İstenilen adetlerde üretim yapılabilir ve talebe göre özel renk seçenekleri uygulanabilir. Bu sayede firmanıza özel çözümler sunulabilir.
-
-İç kağıt kapasitesi 450 yaprak olup, uzun süreli kullanım avantajı sağlar. 80 gr. 1. hamur kağıt ile uyumlu yapısı sayesinde kaliteli bir kullanım deneyimi sunar.
-
-Kağıt fiyata dahil değildir ve isteğe bağlı olarak ayrı şekilde temin edilebilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Küp Kağıtlık  
-Kategori: İmalat Ürünler  
-
-Özellikler:
-
-Şeffaf Tasarım  
-Masa Üstü Kullanıma Uygun  
-Özel Üretim İmkanı  
-Yüksek Kapasiteli Kağıtlık  
-
-Kağıt Özellikleri:
-
-İç Kağıt Ölçüsü: 88 x 88 mm  
-Kapasite: 450 Yaprak  
-Kağıt Türü: 80 gr. 1. Hamur  
-
-Ürün Ölçüsü:
-
-9 x 9 x 5 cm  
-
-Ek Bilgi:
-
-Kağıt Fiyata Dahil Değildir  
-Özel Renk Üretimi Yapılabilir  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon küp kağıtlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-Ürün tasarımı, renk seçenekleri ve teslim süresi teklif aşamasında belirlenmektedir. Güncel fiyat ve üretim planlaması hakkında bilgi almak için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Ofis ve çalışma alanları  
-Kurumsal promosyon ürünleri  
-Şirket içi dağıtımlar  
-Kurumsal hediye ürünleri  
-Fuar ve etkinlik organizasyonları  
-Masa üstü düzenleyici ürünler
-`
+  shortDesc: "PÜ-140 şeffaf küp kağıtlık, 9 x 9 x 5 cm dış ölçüsüyle masaüstü not düzeni için sunulur. 88 x 88 mm iç kağıda uygun modelde kağıt bedeli ayrı değerlendirilir.",
+  longDesc: "PÜ-140 şeffaf küp kağıtlık, 9 x 9 x 5 cm dış ölçüsüyle masaüstü not düzeni için sunulur. 88 x 88 mm iç kağıda uygun modelde kağıt bedeli ayrı değerlendirilir.\n\nTEKNİK ÖZELLİKLER\nModel: PÜ-140\nÖlçü: 9 x 9 x 5 cm\nİç Kağıt: 88 x 88 mm\nKapasite: 450 Yaprak, 80 gr 1. Hamur\nKağıt: Fiyata Dahil Değil\n\nBASKI VE FİYAT KAPSAMI\nKağıt fiyata dahil değildir. Özel renk ve üretim adedi talebi için teklif hazırlanır.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"PÜ-140 nasıl bir üründür?","a":"PÜ-140 şeffaf küp kağıtlık, 9 x 9 x 5 cm dış ölçüsüyle masaüstü not düzeni için sunulur. 88 x 88 mm iç kağıda uygun modelde kağıt bedeli ayrı değerlendirilir."},{"q":"PÜ-140 ölçüleri ve özellikleri nedir?","a":"Ölçü: 9 x 9 x 5 cm; İç Kağıt: 88 x 88 mm; Kapasite: 450 Yaprak, 80 gr 1. Hamur; Kağıt: Fiyata Dahil Değil"},{"q":"PÜ-140 logo uygulaması nasıl yapılır?","a":"Kağıt fiyata dahil değildir. Özel renk ve üretim adedi talebi için teklif hazırlanır."},{"q":"PÜ-140 fiyatına neler dahildir?","a":"Kağıt fiyata dahil değildir. Özel renk ve üretim adedi talebi için teklif hazırlanır."},{"q":"PÜ-140 minimum sipariş adedi nedir?","a":"Minimum sipariş adedi üretim planına göre teklif aşamasında belirlenir."},{"q":"PÜ-140 teslim süresi nasıl belirlenir?","a":"Teslim süresi sipariş adedi, stok ve uygulama planına göre teklifte belirtilir."}]
 },
 {
   id: "p302",
   slug: "promosyon-kup-kagitlik-pu-150",
-  title: "Promosyon Küp Kağıtlık PÜ-150 | Özel Üretim Masa Üstü Kağıtlık",
+  title: "Promosyon Küp Kağıtlık PÜ-150",
   price: 50,
   category: "İmalat Ürünler",
   image: "/products/promosyon-kagitlik-pu-150.jpg",
-
-  shortDesc:
-    "Promosyon küp kağıtlık PÜ-150, masa üstü kullanım için ideal, özel üretim seçenekli ve uzun süreli marka görünürlüğü sağlayan kurumsal promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon küp kağıtlık PÜ-150 modeli, ofis ve çalışma alanlarında sıkça kullanılan, markanızın sürekli görünür olmasını sağlayan etkili promosyon ürünlerinden biridir.
-
-Küp kağıtlıklar masa üzerinde sürekli kullanılan ürünler olduğu için firmanızın logosu ve marka bilinirliği gün boyunca kullanıcıların göz önünde olur.
-
-PÜ-150 modeli, imalat ürünüdür ve istenilen adetlerde üretilebilir. Bu sayede küçük ve büyük ölçekli tüm kurumsal ihtiyaçlara uygun çözümler sunar.
-
-Ürün, talebe göre özel renk seçenekleri ile üretilebilir ve firmanıza özel tasarım uygulamaları yapılabilir.
-
-İç kağıt kapasitesi 450 yaprak olup uzun süreli kullanım avantajı sağlar. 80 gr. 1. hamur kağıt ile uyumlu yapısı sayesinde kaliteli ve profesyonel bir kullanım sunar.
-
-Kağıt fiyata dahil değildir ve isteğe bağlı olarak ayrıca temin edilebilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Küp Kağıtlık  
-Kategori: İmalat Ürünler  
-
-Özellikler:
-
-Masa Üstü Kullanıma Uygun  
-Özel Üretim İmkanı  
-Yüksek Kapasiteli Kağıtlık  
-
-Kağıt Özellikleri:
-
-İç Kağıt Ölçüsü: 88 x 88 mm  
-Kapasite: 450 Yaprak  
-Kağıt Türü: 80 gr. 1. Hamur  
-
-Ürün Ölçüsü:
-
-9 x 9 x 5 cm  
-
-Ek Bilgi:
-
-Kağıt Fiyata Dahil Değildir  
-Özel Renk Üretimi Yapılabilir  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon küp kağıtlık siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-Üretim adedi, renk seçimi ve teslim süresi teklif aşamasında belirlenir. Güncel fiyat bilgisi ve detaylı teklif için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Ofis ve çalışma alanları  
-Kurumsal promosyon ürünleri  
-Şirket içi dağıtımlar  
-Kurumsal hediye ürünleri  
-Fuar ve etkinlik organizasyonları  
-Masa üstü düzenleyici ürünler
-`
+  shortDesc: "PÜ-150 küp kağıtlık, 88 x 88 mm not kağıtları için 9 x 9 x 5 cm formda üretilir. Tedarikçi 450 yaprak kapasitesi belirtir; kağıtlar liste fiyatına dahil değildir.",
+  longDesc: "PÜ-150 küp kağıtlık, 88 x 88 mm not kağıtları için 9 x 9 x 5 cm formda üretilir. Tedarikçi 450 yaprak kapasitesi belirtir; kağıtlar liste fiyatına dahil değildir.\n\nTEKNİK ÖZELLİKLER\nModel: PÜ-150\nÖlçü: 9 x 9 x 5 cm\nİç Kağıt: 88 x 88 mm\nKapasite: 450 Yaprak, 80 gr 1. Hamur\nKağıt: Fiyata Dahil Değil\n\nBASKI VE FİYAT KAPSAMI\nKağıt fiyata dahil değildir. Özel renk ve üretim adedi talebi için teklif hazırlanır.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"PÜ-150 nasıl bir üründür?","a":"PÜ-150 küp kağıtlık, 88 x 88 mm not kağıtları için 9 x 9 x 5 cm formda üretilir. Tedarikçi 450 yaprak kapasitesi belirtir; kağıtlar liste fiyatına dahil değildir."},{"q":"PÜ-150 ölçüleri ve özellikleri nedir?","a":"Ölçü: 9 x 9 x 5 cm; İç Kağıt: 88 x 88 mm; Kapasite: 450 Yaprak, 80 gr 1. Hamur; Kağıt: Fiyata Dahil Değil"},{"q":"PÜ-150 logo uygulaması nasıl yapılır?","a":"Kağıt fiyata dahil değildir. Özel renk ve üretim adedi talebi için teklif hazırlanır."},{"q":"PÜ-150 fiyatına neler dahildir?","a":"Kağıt fiyata dahil değildir. Özel renk ve üretim adedi talebi için teklif hazırlanır."},{"q":"PÜ-150 minimum sipariş adedi nedir?","a":"Minimum sipariş adedi üretim planına göre teklif aşamasında belirlenir."},{"q":"PÜ-150 teslim süresi nasıl belirlenir?","a":"Teslim süresi sipariş adedi, stok ve uygulama planına göre teklifte belirtilir."}]
 },
 {
   id: "p303",
   slug: "promosyon-semsiye-sm-100",
-  title: "Promosyon Şemsiye ŞM-100 | 8 Telli Baston Şemsiye Kurumsal Promosyon",
-  price: 530,
+  title: "Promosyon 8 Telli Baston Şemsiye ŞM-100",
+  price: 550,
   category: "İmalat Ürünler",
   image: "/products/promosyon-semsiye-sm-100.jpg",
-
-  shortDesc:
-    "Promosyon şemsiye ŞM-100, 8 telli sağlam yapısı ve geniş baskı alanı ile markanızı her hava koşulunda görünür kılan etkili promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon şemsiye ŞM-100 modeli, geniş kullanım alanı ve yüksek görünürlük avantajı ile kurumsal firmaların en çok tercih ettiği promosyon ürünlerinden biridir.
-
-Şemsiyeler, dış mekanda kullanılan ve sürekli taşınan ürünler olduğu için marka bilinirliğini artırmada oldukça etkilidir.
-
-ŞM-100 modeli, 8 telli baston yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunar. Rüzgara karşı dirençli yapısı ile kullanıcı deneyimini artırır.
-
-Geniş yüzey alanı sayesinde logo baskısı için oldukça uygun bir promosyon ürünüdür. Bu sayede markanız sokakta ve etkinliklerde sürekli görünür olur.
-
-Ürün, talebe göre farklı renk seçenekleri ile üretilebilir ve kurumsal kimliğinize uygun tasarlanabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Şemsiye  
-Kategori: İmalat Ürünler  
-
-Özellikler:
-
-8 Telli Baston Şemsiye  
-Dayanıklı ve Uzun Ömürlü  
-Geniş Baskı Alanı  
-Dış Mekan Kullanımına Uygun  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon şemsiye siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Renk seçenekleri, baskı türü ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon dağıtımları  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Açık alan etkinlikleri  
-Şirket hediyeleri  
-`
+  shortDesc: "ŞM-100, sekiz telli baston şemsiye modelidir. Kurumsal hediye veya açık hava tanıtım çalışmalarında değerlendirilebilir; renk ve logo yerleşimi sipariş sırasında planlanır.",
+  longDesc: "ŞM-100, sekiz telli baston şemsiye modelidir. Kurumsal hediye veya açık hava tanıtım çalışmalarında değerlendirilebilir; renk ve logo yerleşimi sipariş sırasında planlanır.\n\nTEKNİK ÖZELLİKLER\nModel: ŞM-100\nYapı: 8 Telli Baston Şemsiye\n\nBASKI VE FİYAT KAPSAMI\nLogo uygulama yöntemi ve alanı tasarım çalışmasında belirlenir.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"ŞM-100 nasıl bir üründür?","a":"ŞM-100, sekiz telli baston şemsiye modelidir. Kurumsal hediye veya açık hava tanıtım çalışmalarında değerlendirilebilir; renk ve logo yerleşimi sipariş sırasında planlanır."},{"q":"ŞM-100 ölçüleri ve özellikleri nedir?","a":"Yapı: 8 Telli Baston Şemsiye"},{"q":"ŞM-100 logo uygulaması nasıl yapılır?","a":"Logo uygulama yöntemi ve alanı tasarım çalışmasında belirlenir."},{"q":"ŞM-100 fiyatına neler dahildir?","a":"Logo uygulama yöntemi ve alanı tasarım çalışmasında belirlenir."},{"q":"ŞM-100 minimum sipariş adedi nedir?","a":"Minimum sipariş adedi üretim planına göre teklif aşamasında belirlenir."},{"q":"ŞM-100 teslim süresi nasıl belirlenir?","a":"Teslim süresi sipariş adedi, stok ve uygulama planına göre teklifte belirtilir."}]
 },
 {
   id: "p304",
   slug: "promosyon-isikli-semsiye-sm-150",
-  title: "Promosyon Işıklı Şemsiye ŞM-150 | 8 Telli Fenerli Otomatik Şemsiye",
-  price: 650,
+  title: "Promosyon Işıklı Otomatik Şemsiye ŞM-150",
+  price: 680,
   category: "İmalat Ürünler",
   image: "/products/promosyon-isikli-semsiye-sm-150.jpg",
-
-  shortDesc:
-    "Promosyon ışıklı şemsiye ŞM-150, fener özelliği ve otomatik aç/kapa sistemi ile dikkat çeken, yüksek görünürlük sağlayan yenilikçi promosyon ürünüdür.",
-
-  longDesc: `
-Promosyon ışıklı şemsiye ŞM-150 modeli, klasik şemsiye tasarımını yenilikçi özelliklerle birleştirerek markanızı ön plana çıkaran modern promosyon ürünlerinden biridir.
-
-Ürün üzerinde bulunan entegre fener sistemi sayesinde karanlık ve yağışlı havalarda kullanım kolaylığı sağlar. Fener aç/kapa özelliği ile kullanıcı deneyimini artırır.
-
-8 telli sağlam yapısı sayesinde dayanıklı ve uzun ömürlü kullanım sunar. Otomatik aç/kapa mekanizması ile pratik bir kullanım sağlar.
-
-Geniş yüzey alanı sayesinde logo baskısı için oldukça uygundur. Bu sayede markanız açık alanlarda sürekli görünür olur.
-
-ŞM-150 modeli, talebe göre özel üretim yapılabilir ve farklı baskı teknikleri ile firmanıza özel tasarlanabilir.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Işıklı Şemsiye  
-Kategori: İmalat Ürünler  
-
-Özellikler:
-
-8 Telli Dayanıklı Yapı  
-Fener (Işıklı Sistem)  
-Fener Aç/Kapa Özelliği  
-Otomatik Aç/Kapa Mekanizması  
-Geniş Baskı Alanı  
-
-Baskı Seçenekleri:
-
-Serigrafi Baskı  
-Tampon Baskı  
-DTF Baskı  
-
-Ürün Ölçüleri:
-
-Açık Uzunluk: 610 mm  
-Kapalı Uzunluk: 320 mm  
-
-SİPARİŞ BİLGİSİ
-
-Promosyon ışıklı şemsiye siparişleri toplu üretim şeklinde gerçekleştirilmektedir.
-
-İstenilen adetlerde üretim yapılabilir. Baskı türü, renk seçimi ve teslim süresi teklif aşamasında belirlenmektedir.
-
-Güncel fiyat ve stok durumu için bizimle iletişime geçebilirsiniz.
-
-KULLANIM ALANLARI
-
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Reklam ve marka tanıtımı  
-Açık alan kullanımları  
-Şirket hediyeleri  
-`
+  shortDesc: "ŞM-150 ışıklı şemsiye, otomatik aç/kapa sistemi ve fener işlevini bir araya getirir. Açık 610 mm, kapalı 320 mm ölçü bilgisiyle sunulan modelde serigrafi, tampon ve DTF baskı seçenekleri bulunur.",
+  longDesc: "ŞM-150 ışıklı şemsiye, otomatik aç/kapa sistemi ve fener işlevini bir araya getirir. Açık 610 mm, kapalı 320 mm ölçü bilgisiyle sunulan modelde serigrafi, tampon ve DTF baskı seçenekleri bulunur.\n\nTEKNİK ÖZELLİKLER\nModel: ŞM-150\nAçık Ölçü: 610 mm\nKapalı Ölçü: 320 mm\nÖzellik: Otomatik Aç / Kapa, Fener\nBaskı: Serigrafi / Tampon, DTF\nKoli: 50 Adet\n\nBASKI VE FİYAT KAPSAMI\nSerigrafi / tampon ve DTF baskı seçenekleri bulunur. Logo konumu ve kapsamı teklifte belirlenir.\n\nSİPARİŞ BİLGİSİ\nFiyatlara KDV eklenir. Renk, stok, tasarım ve teslim süresi sipariş öncesinde netleştirilir. Ürün ölçüleri ile baskı alanı ayrı değerlendirilir.",
+  faq: [{"q":"ŞM-150 nasıl bir üründür?","a":"ŞM-150 ışıklı şemsiye, otomatik aç/kapa sistemi ve fener işlevini bir araya getirir. Açık 610 mm, kapalı 320 mm ölçü bilgisiyle sunulan modelde serigrafi, tampon ve DTF baskı seçenekleri bulunur."},{"q":"ŞM-150 ölçüleri ve özellikleri nedir?","a":"Açık Ölçü: 610 mm; Kapalı Ölçü: 320 mm; Özellik: Otomatik Aç / Kapa, Fener; Baskı: Serigrafi / Tampon, DTF; Koli: 50 Adet"},{"q":"ŞM-150 logo uygulaması nasıl yapılır?","a":"Serigrafi / tampon ve DTF baskı seçenekleri bulunur. Logo konumu ve kapsamı teklifte belirlenir."},{"q":"ŞM-150 fiyatına neler dahildir?","a":"Serigrafi / tampon ve DTF baskı seçenekleri bulunur. Logo konumu ve kapsamı teklifte belirlenir."},{"q":"ŞM-150 minimum sipariş adedi nedir?","a":"Minimum sipariş adedi üretim planına göre teklif aşamasında belirlenir."},{"q":"ŞM-150 teslim süresi nasıl belirlenir?","a":"Teslim süresi sipariş adedi, stok ve uygulama planına göre teklifte belirtilir."}]
 },
 {
   id: "p305",
