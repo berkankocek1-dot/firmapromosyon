@@ -140,7 +140,7 @@ export default function KalemProductGrid({
       </section>
 
       <div className="mt-5 flex items-center justify-between gap-4">
-        <p className="text-sm font-medium text-white">
+        <p className="text-sm font-medium !text-white">
           {activeFilter === "Tümü"
             ? `${filteredProducts.length} ürün gösteriliyor`
             : `${activeFilter} için ${filteredProducts.length} ürün gösteriliyor`}
@@ -172,7 +172,7 @@ export default function KalemProductGrid({
                   fill
                   unoptimized
                   loading="lazy"
-                  className="object-contain p-4"
+                  className="object-contain bg-white p-4"
                   sizes="(max-width: 768px) 100vw, 33vw"
                 />
               </div>
@@ -190,7 +190,7 @@ export default function KalemProductGrid({
                   {p.shortDesc}
                 </p>
 
-                {p.price && (
+                {typeof p.price === "number" && p.price > 0 ? (
                   <div className="mt-3">
                     <div className="text-base font-bold text-gray-900">
                       {p.price.toLocaleString("tr-TR")} TL + KDV
@@ -201,7 +201,7 @@ export default function KalemProductGrid({
                       yazın.
                     </div>
                   </div>
-                )}
+                ) : <p className="mt-3 text-sm font-semibold text-gray-900">Güncel fiyat için teklif alın.</p>}
 
                 <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
                   Ürünü İncele

@@ -52,6 +52,11 @@ const hiddenProductSlugs = new Set<string>([
   "promosyon-porselen-fincan-220ml-pk-140",
   "promosyon-2li-porselen-nescafe-fincani-260ml-pk-150",
   "promosyon-seramik-kupa-275ml-sk-110",
+  "promosyon-metal-kalem-mk-420",
+  "promosyon-metal-kalem-mk-430",
+  "promosyon-metal-kalem-mk-480",
+  "promosyon-metal-kalem-mk-490",
+  "promosyon-plastik-kalem-pls-600",
 ]);
 
 export function isProductVisible(product: { slug: string }): boolean {

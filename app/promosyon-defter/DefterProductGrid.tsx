@@ -134,7 +134,7 @@ export default function DefterProductGrid({
         </div>
       </section>
 
-      <p className="mb-4 text-sm font-medium text-white">
+      <p className="mb-4 text-sm font-medium !text-white">
         {activeFilter === "Tümü"
           ? `${filteredProducts.length} ürün gösteriliyor`
           : `${activeFilter} filtresinde ${filteredProducts.length} ürün gösteriliyor`}

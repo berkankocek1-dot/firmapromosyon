@@ -163,7 +163,7 @@ export default function Page() {
         </header>
       </section>
 
-      <p className="mt-8 text-sm font-medium text-gray-700">{list.length} ürün gösteriliyor</p>
+      <p className="mt-8 text-sm font-medium !text-white">{list.length} ürün gösteriliyor</p>
 
       <section className="mt-4 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((p) => (

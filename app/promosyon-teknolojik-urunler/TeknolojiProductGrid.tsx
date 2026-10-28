@@ -75,7 +75,7 @@ export default function TeknolojiProductGrid({
         </div>
       </section>
 
-      <p className="mb-4 text-sm font-medium text-gray-700">
+      <p className="mb-4 text-sm font-medium !text-white">
         {activeFilter === "Tümü"
           ? `${filteredProducts.length} ürün gösteriliyor`
           : `${activeFilter} filtresinde ${filteredProducts.length} ürün gösteriliyor`}

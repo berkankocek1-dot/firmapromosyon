@@ -171,7 +171,7 @@ export default function Page() {
         </header>
       </section>
 
-      <p className="mt-8 text-sm font-medium text-gray-700">
+      <p className="mt-8 text-sm font-medium !text-white">
         {list.length} ürün gösteriliyor
       </p>
 
