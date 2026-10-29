@@ -7,11 +7,11 @@ import { sortProductsByCode } from "@/data/productSorting";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
-function JsonLd({ data }: { data: Record<string, any> }) {
+function JsonLd({ data }: { data: Record<string, unknown> }) {
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, "\\u003c") }}
     />
   );
 }
@@ -19,11 +19,42 @@ function JsonLd({ data }: { data: Record<string, any> }) {
 const CATEGORY = "Ahşap ve Deri Masaüstü Ürünler";
 const PAGE_URL = `${SITE_URL}/promosyon-ahsap-ve-deri-masaustu-urunler`;
 
+const PAGE_TITLE = "Promosyon Ahşap ve Deri Masaüstü Ürünler | Logo Baskılı";
+const PAGE_DESCRIPTION = "Logo baskılı suni deri masaüstü organizer ve bardak altlığı setlerini karşılaştırın. Bölme, ölçü ve toptan sipariş seçenekleri için teklif alın.";
+const faqItems = [
+  {
+    "question": "Masaüstü organizer modelleri gerçek deri mi?",
+    "answer": "Bu sayfada listelenen MS serisi organizer ve bardak altlığı modellerinin ürün bilgilerinde suni deri belirtilir. Kategori adındaki deri ifadesi gerçek deri anlamına gelmez; malzeme beklentinizi seçtiğiniz ürün koduyla birlikte teyit edin."
+  },
+  {
+    "question": "Telefon standlı masaüstü organizer hangileridir?",
+    "answer": "MS-150 ve MS-160 modellerinde telefon standı belirtilir. MS-150 ayrıca notluk ve aksesuar bölmesine sahiptir. Telefonun ve varsa kılıfının ölçüsünü paylaşarak standla uyumunu sipariş öncesinde kontrol edin."
+  },
+  {
+    "question": "Bardak altlığı setleri kaç parçadan oluşur?",
+    "answer": "MS-195 ürün bilgisinde 4 bardak altlığı ve taşıma standı belirtilir. MS-190 standlı set olarak sunulur; bardak altlığı adedi belirtilmediği için sipariş öncesinde teyit edilmelidir. İki modelin içeriğini aynı kabul etmeyin."
+  },
+  {
+    "question": "Masaüstü ürünlerine hangi yöntemle logo uygulanır?",
+    "answer": "Uygulama yöntemi, konumu ve alanı seçilen modelin yüzeyine ve logo tasarımına göre teklif aşamasında netleştirilir. Vektörel logo dosyanızı ve istediğiniz yerleşimi paylaşarak uygunluğu teyit edin."
+  },
+  {
+    "question": "Masaüstü organizer fiyatına baskı ve KDV dahil mi?",
+    "answer": "Ürün kartlarında gösterilen fiyatlar baskı hariçtir ve KDV ayrıca belirtilir. Logo uygulaması, adet, paketleme ve sevkiyat kapsamını güncel teklifte kontrol edin."
+  },
+  {
+    "question": "Toplu masaüstü ürün siparişinde minimum adet nedir?",
+    "answer": "Minimum sipariş adedi model, stok ve logo uygulamasına göre teklif aşamasında teyit edilir. İstediğiniz ürün kodunu, rengi ve miktarı paylaşarak baskılı veya baskısız sipariş koşullarını öğrenebilirsiniz."
+  },
+  {
+    "question": "Kurumsal masaüstü hediye siparişi ne zaman teslim edilir?",
+    "answer": "Teslim süresi stok, adet, renk, logo onayı ve paketleme taleplerine bağlıdır. Etkinlik tarihinizi ve teslimat adresini paylaşın; ürün içeriğini, tasarım yerleşimini ve net teslim süresini sipariş öncesinde teyit edin."
+  }
+];
+
 export const metadata: Metadata = {
-  title:
-    "Promosyon Ahşap ve Deri Masaüstü Ürünler | Logo Baskılı Kurumsal Masaüstü Ürünleri",
-  description:
-    "Promosyon ahşap ve deri masaüstü ürünler, logo baskılı kurumsal masaüstü aksesuarları ve toplu sipariş seçenekleri için hızlı teklif alın. Ofis, yönetici hediyesi ve kurumsal kullanım için masaüstü ürünlerini inceleyin.",
+  title: PAGE_TITLE,
+  description: PAGE_DESCRIPTION,
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
@@ -37,9 +68,8 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Promosyon Ahşap ve Deri Masaüstü Ürünler | FirmaPromosyon",
-    description:
-      "Logo baskılı promosyon ahşap ve deri masaüstü ürünleri. Kurumsal tanıtım, ofis kullanımı ve toplu sipariş için masaüstü ürünlerini inceleyin.",
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     url: PAGE_URL,
     siteName: "FirmaPromosyon",
     locale: "tr_TR",
@@ -55,9 +85,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Promosyon Ahşap ve Deri Masaüstü Ürünler | FirmaPromosyon",
-    description:
-      "Logo baskılı promosyon ahşap ve deri masaüstü ürünleri. Kurumsal toplu sipariş ve hızlı teklif imkanı.",
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     images: [`${SITE_URL}/og.jpg`],
   },
 };
@@ -107,8 +136,7 @@ export default function Page() {
           "@type": "CollectionPage",
           name: "Promosyon Ahşap ve Deri Masaüstü Ürünler",
           url: PAGE_URL,
-          description:
-            "Logo baskılı promosyon ahşap ve deri masaüstü ürünleri. Kurumsal promosyon, ofis kullanımı, yönetici hediyesi ve toplu siparişler için masaüstü ürünleri.",
+          description: PAGE_DESCRIPTION,
           mainEntity: {
             "@type": "ItemList",
             numberOfItems: list.length,
@@ -116,6 +144,18 @@ export default function Page() {
           },
         }}
       />
+
+      {list.length > 0 && (
+        <JsonLd data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqItems.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: { "@type": "Answer", text: item.answer },
+          })),
+        }} />
+      )}
 
       <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
         <nav className="mb-6 text-sm text-gray-300">
@@ -138,9 +178,9 @@ export default function Page() {
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Logo baskılı ahşap ve deri masaüstü ürünlerini inceleyebilir,
-            firmanız için toplu sipariş ve hızlı teklif avantajlarından
-            yararlanabilirsiniz.
+            Suni deri masaüstü organizer, kalemlik ve bardak altlığı setlerini
+            bölme düzeni, ölçü ve kullanım ihtiyacına göre karşılaştırın.
+            Logo uygulaması ve toplu kurumsal sipariş için teklif alın.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">
@@ -219,101 +259,153 @@ export default function Page() {
 
       {list.length > 0 && (
         <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Logo Baskılı Promosyon Ahşap ve Deri Masaüstü Ürünler
-            </h2>
-
+          <section className="max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Logo Baskılı Masaüstü Organizer ve Bardak Altlığı Modelleri</h2>
             <p>
-              Promosyon ahşap ve deri masaüstü ürünler, kurumsal ofis kullanımı ve
-              prestijli hediye çözümleri arasında öne çıkan promosyon ürünleridir.
-              Logo baskılı veya özel tasarımlı masaüstü aksesuarlar; ofis düzeni,
-              yönetici kullanımı, müşteri hediyeleri ve kurumsal marka algısını
-              güçlendirmek için şık bir çözüm sunar.
+              Ofis masası için ürün seçerken önce kullanım ihtiyacını belirleyin.
+              Kalem ve kartvizitleri bir arada tutmak, telefon için bir yer ayırmak
+              veya toplantı masasında bardak altlığı kullanmak farklı çözümler gerektirir.
+              Her modelde aynı bölmeler bulunmaz.
             </p>
-
             <p>
-              FirmaPromosyon’da yer alan ahşap ve deri masaüstü ürünleri; farklı
-              tasarım, malzeme, kullanım amacı ve kurumsal ihtiyaçlara uygun
-              seçeneklerle sunulmaktadır. Firmanızın logosuna uygun baskılı sipariş
-              seçenekleri için ürünleri inceleyebilir, toplu alım ve hızlı teklif
-              avantajlarından yararlanabilirsiniz.
-            </p>
-
-            <p>
-              Logo baskılı ahşap ve deri masaüstü ürünler, markanızı daha prestijli
-              ve kurumsal bir şekilde yansıtan özel promosyon çözümleri arasında yer
-              alır. Ofis masalarında sürekli görünen bu ürünler, marka bilinirliğini
-              artırırken aynı zamanda profesyonel bir kurumsal imaj oluşturur.
-            </p>
-
-            <p>
-              Kurumsal firmalar tarafından tercih edilen masaüstü ürünleri;
-              yönetici masalarında, toplantı odalarında, ofis kullanımlarında,
-              özel müşteri hediyelerinde ve prestijli kurumsal tanıtım
-              çalışmalarında sık kullanılmaktadır.
-            </p>
-
-            <p>
-              Promosyon ahşap ve deri masaüstü ürünler; masa isimlikleri, kalemlikler,
-              kartvizitlikler, evrak düzenleyiciler, masa setleri ve özel tasarımlı
-              aksesuarlar gibi farklı alternatiflerle sunulabilir. Ürün detayları ve
-              baskı seçenekleri modele göre değişiklik gösterebilir.
-            </p>
-
-            <p>
-              Ahşap ve deri masaüstü ürün fiyatları; ürün modeli, malzeme kalitesi,
-              işçilik, baskı veya lazer uygulaması ve sipariş miktarına göre
-              değişiklik gösterebilir.
+              Listelenen MS serisi modellerin malzemesi suni deridir.
+              Gerçek deri talebiniz varsa malzeme bilgisini ayrıca teyit edin.
+              Ürün ölçüsü, masa üzerindeki yerleşim ve logo alanı ayrı ayrı değerlendirilmelidir.
             </p>
           </section>
 
-          <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
-              Ahşap ve Deri Masaüstü Ürünler Nerelerde Kullanılır?
-            </h2>
+          <section className="mt-12">
+            <h2 className="text-2xl font-bold text-white">Masaüstü Ürünlerini Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+                <caption className="sr-only">Masaüstü ürünlerinin ürün bilgilerinde belirtilen ölçüleri ve içerikleri</caption>
+                <thead className="bg-white/10 text-white">
+                  <tr>
+                    <th scope="col" className="px-4 py-3">Model</th>
+                    <th scope="col" className="px-4 py-3">Ölçü / içerik</th>
+                    <th scope="col" className="px-4 py-3">Bölmeler / kullanım</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-white/10">
+                  {[
+                    ["MS-130", "22,5 x 10 x 8,5 cm", "Çift kalemlik ve kartvizit haznesi"],
+                    ["MS-140", "28,5 x 10,5 x 11 cm", "Kalemlik, kartvizitlik, notluk ve ataçlık"],
+                    ["MS-150", "24 x 10 x 10 cm", "Telefon standı, kalemlik, kartvizitlik, notluk ve aksesuar bölmesi"],
+                    ["MS-160", "10,5 x 21 x 10,5 cm", "Telefon standı, kalemlik ve kartvizitlik"],
+                    ["MS-170", "22 x 10,5 x 11 cm", "Kalemlik, kartvizitlik ve not kağıdı bölmesi"],
+                    ["MS-190", "11 cm çap; set adedi teyit edilir", "Standlı yuvarlak bardak altlığı seti"],
+                    ["MS-195", "4 bardak altlığı ve taşıma standı", "Yuvarlak bardak altlığı seti"],
+                  ].map(([model, size, features]) => (
+                    <tr key={model}>
+                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <td className="px-4 py-4">{size}</td>
+                      <td className="px-4 py-4">{features}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </section>
 
-            <div className="mt-5 grid gap-4 sm:grid-cols-2">
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Yönetici ve Ofis Masaları
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Ahşap ve deri masaüstü ürünler, yönetici ve ofis masalarında
-                  düzenli, şık ve kurumsal bir görünüm oluşturmak için tercih edilir.
-                </p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Bölme Düzeni ve Masa Üzerindeki Yerleşim</h2>
+            <p>
+              Kartvizit ve kalemleri düzenlemek için MS-130 gibi bir model;
+              not kağıdı ve küçük aksesuarları da ayırmak için MS-140 veya MS-170
+              değerlendirilebilir. Telefon standı arıyorsanız MS-150 ve MS-160
+              seçeneklerinin bölme düzenlerini karşılaştırın.
+            </p>
+            <p>
+              Masada ayıracağınız alanı ürünün belirtilen ölçüleriyle kontrol edin.
+              Telefon standında cihaz ve kılıf ölçüsünü, notlukta kullanılacak
+              kağıt boyutunu teyit edin. Görselde yer alan kalem, telefon ve
+              not kağıtlarının standart siparişe dahil olduğunu varsaymayın.
+            </p>
+            <p>
+              Yazı alanını da tamamlamak için{" "}
+              <Link href="/promosyon-masa-sumeni" className="font-semibold text-white underline underline-offset-4">masa sümeni</Link>{" "}
+              seçeneklerini inceleyebilirsiniz. Masaüstü organizer ile ajanda
+              biçimindeki{" "}
+              <Link href="/promosyon-organizerler" className="font-semibold text-white underline underline-offset-4">organizer modelleri</Link>{" "}
+              farklı kullanım ihtiyaçlarına yöneliktir.
+            </p>
+          </section>
 
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Prestijli Kurumsal Hediyeler
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Özel müşterilere ve iş ortaklarına sunulan deri ve ahşap masaüstü
-                  ürünler, yüksek algı değerine sahip kurumsal hediye seçenekleri
-                  arasında yer alır.
-                </p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Standlı Bardak Altlığı Setinde İçeriği Kontrol Edin</h2>
+            <p>
+              MS-190 ve MS-195, suni deri kaplamalı yuvarlak bardak altlığı
+              setleridir. MS-195 için 4 altlık ve taşıma standı belirtilir.
+              MS-190 modelinde çap 11 cm olarak verilir; altlık adedi ise
+              sipariş öncesinde teyit edilmelidir.
+            </p>
+            <p>
+              Masa veya toplantı odası başına kaç altlık gerektiğini belirleyerek
+              set miktarını hesaplayın. Renk, stand içeriği, logo konumu ve ambalajı
+              birlikte netleştirin. Bir modelin ölçü veya parça sayısını diğerine uygulamayın.
+            </p>
+          </section>
 
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Toplantı ve Sunum Alanları
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Toplantı odalarında kullanılan masaüstü aksesuarlar, kurumsal
-                  düzeni destekler ve profesyonel bir sunum ortamı oluşturur.
-                </p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Suni Deri Yüzeyde Logo Uygulaması</h2>
+            <p>
+              Logo yöntemi ve uygulanabilir alan, seçilen modelin yüzeyi ile
+              tasarıma göre teklif aşamasında belirlenir. Dikişler, kenarlar ve
+              bölmeler kullanılabilir alanı etkileyebilir; ürünün dış ölçüsünü
+              baskı ölçüsü olarak değerlendirmeyin.
+            </p>
+            <p>
+              Logonuzu mümkünse vektörel PDF, AI, EPS veya SVG dosyası olarak
+              paylaşın. İstenen renk, konum ve ölçüyü belirtin; küçük yazıların
+              gerçek uygulama boyutunda okunabilirliğini kontrol edin.
+              Yöntemi ve yerleşimi sipariş öncesinde teyit edin.
+            </p>
+          </section>
 
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Marka İmajını Güçlendiren Tanıtımlar
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Promosyon masaüstü ürünleri, markanızı sıradan promosyonların
-                  ötesinde daha seçkin ve kalıcı bir algı ile öne çıkarmaya yardımcı olur.
-                </p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Promosyon Masaüstü Ürün Fiyatlarını Karşılaştırırken</h2>
+            <p>
+              Kartlarda gösterilen fiyatlar baskı hariçtir; KDV ayrıca belirtilir.
+              Güncel toplam tutarı aynı ürün kodu, adet ve uygulama kapsamıyla
+              karşılaştırın. Set fiyatında kaç parça bulunduğunu ayrıca kontrol edin.
+            </p>
+            <ul className="list-disc space-y-2 pl-5">
+              <li>Model, malzeme, ölçü ve bölme düzeni.</li>
+              <li>Logo yöntemi, uygulama alanı ve renk talebi.</li>
+              <li>Sipariş adedi, renk dağılımı ve set içeriği.</li>
+              <li>Standart ambalaj, varsa ek paketleme, sevkiyat ve KDV.</li>
+            </ul>
+          </section>
+
+          <section className="mt-12 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">Toplu Kurumsal Sipariş İçin Gerekli Bilgiler</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+              <li>Ürün kodunu, rengi ve istediğiniz adedi belirtin.</li>
+              <li>Set içeriğini ve birlikte sipariş edilecek aksesuarları netleştirin.</li>
+              <li>Logo dosyanızı, uygulama konumunu ve varsa ek yazıları paylaşın.</li>
+              <li>Paketleme talebinizi, teslimat adresini ve etkinlik tarihini bildirin.</li>
+              <li>Stok, tasarım yerleşimi, toplam tutar ve teslim süresini teyit edin.</li>
+            </ol>
+            <p className="mt-5 leading-7 text-gray-200">
+              Masaüstü hediyesini{" "}
+              <Link href="/promosyon-kalem-setleri" className="font-semibold text-white underline underline-offset-4">kalem setleriyle</Link>{" "}
+              tamamlayabilirsiniz. Birlikte alınacak parçaları ve ambalaj
+              beklentinizi teklifte ayrıca belirtin.
+            </p>
+            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+              Masaüstü Ürünler İçin Teklif Al
+            </Link>
+          </section>
+
+          <section className="mt-12 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">Masaüstü Ürünler Hakkında Sık Sorulan Sorular</h2>
+            <div className="mt-6 space-y-4">
+              {faqItems.map((item) => (
+                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                </div>
+              ))}
             </div>
           </section>
         </div>

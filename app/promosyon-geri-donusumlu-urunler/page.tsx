@@ -7,11 +7,11 @@ import { sortProductsByCode } from "@/data/productSorting";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
-function JsonLd({ data }: { data: Record<string, any> }) {
+function JsonLd({ data }: { data: Record<string, unknown> }) {
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, "\\u003c") }}
     />
   );
 }
@@ -19,11 +19,42 @@ function JsonLd({ data }: { data: Record<string, any> }) {
 const CATEGORY = "Geri Dönüşümlü Ürünler";
 const PAGE_URL = `${SITE_URL}/promosyon-geri-donusumlu-urunler`;
 
+const PAGE_TITLE = "Geri Dönüşümlü Promosyon Ürünleri | Logo Baskılı Modeller";
+const PAGE_DESCRIPTION = "Kraft kapaklı defter, spiralli notluk ve ahşap telefon tutucuyu malzeme, ölçü ve içerikle karşılaştırın. Logo uygulaması ve toptan sipariş için teklif alın.";
+const faqItems = [
+  {
+    "question": "Bu kategoride hangi promosyon ürünleri bulunur?",
+    "answer": "GD-100 dikişli defter, GD-110, GD-120, GD-140 ve GD-210 spiralli defter veya notluklar ile ATT-230 kayın ağacı telefon tutucu listelenir. Kağıt, kapak ve ahşap malzeme bilgilerini model bazında karşılaştırın."
+  },
+  {
+    "question": "Kategorideki bütün ürünler tamamen geri dönüştürülmüş mü?",
+    "answer": "Kategori adı bütün ürünlerin tüm parçalarının geri dönüştürülmüş olduğunu göstermez. GD-100 ve GD-120 için geri dönüşüm kağıdı belirtilir; diğer modellerde kağıt, kraft kapak veya kayın ağacı bilgileri yer alır. Geri dönüştürülmüş içerik oranı ve sertifika belirtilmediğinden bunları ayrıca teyit edin."
+  },
+  {
+    "question": "Sayfa ile yaprak sayısı nasıl karşılaştırılır?",
+    "answer": "GD-100 için 40 yaprak / 80 sayfa; GD-110 için 140 sayfa; GD-120 için 90 yaprak; GD-140 için 100 yaprak; GD-210 için 150 sayfa belirtilir. Sayfa ve yaprak ifadelerini birbirinin yerine kullanmayın. GD-210 defter sayısını yapışkanlı not kağıdı adedi olarak değerlendirmeyin."
+  },
+  {
+    "question": "Notluklarda kalem dahil mi?",
+    "answer": "GD-140 ürün bilgisinde kalem aksesuar olarak belirtilir ve standart içeriğe dahil değildir. GD-110 ve GD-210’da kalem tutucu bulunması kalemin de dahil olduğunu göstermez. Seçilen modelin kalem ve diğer aksesuar kapsamını sipariş öncesinde teyit edin."
+  },
+  {
+    "question": "Bu ürünlere hangi logo uygulamaları yapılır?",
+    "answer": "GD-100, GD-110 ve GD-210 için UV ve serigrafi; GD-120 ve GD-140 için serigrafi ve dijital baskı seçenekleri belirtilir. ATT-230 telefon tutucuda yöntem ve yer teklif aşamasında belirlenir. Baskı yüzeyini ve kullanılabilir alanı model bazında teyit edin."
+  },
+  {
+    "question": "ATT-230 telefon standı her telefonla uyumlu mu?",
+    "answer": "ATT-230 kayın ağacından, kaydırmaz tabanlı bir telefon tutucudur. Ürün bilgisinde 6,4 x 8 x 1,8 cm / 8 x 8,5 x 1,4 cm ölçüleri yer alır. Seçilen varyantı, telefon ve kılıf ölçüsüyle uyumunu sipariş öncesinde teyit edin. Şarj özelliği belirtilmez."
+  },
+  {
+    "question": "Fiyat, minimum sipariş ve teslim süresi nasıl belirlenir?",
+    "answer": "Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV ayrıca belirtilir. Minimum adet ve teslim süresi model, stok, miktar ve logo onayına göre teklifte netleşir. GD-140 için verilen 40 adet koli bilgisi minimum sipariş koşulu değildir. Logo ve teslimat ihtiyacınızla güncel teklif isteyin."
+  }
+];
+
 export const metadata: Metadata = {
-  title:
-    "Geri Dönüşümlü Promosyon Ürünleri | Logo Baskılı Çevre Dostu Ürünler",
-  description:
-    "Geri dönüşümlü promosyon ürünleri, logo baskılı çevre dostu kurumsal ürünler ve toplu sipariş seçenekleri için hızlı teklif alın. Ahşap, kraft ve sürdürülebilir promosyon ürünlerini inceleyin.",
+  title: PAGE_TITLE,
+  description: PAGE_DESCRIPTION,
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
@@ -37,9 +68,8 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Geri Dönüşümlü Promosyon Ürünleri | FirmaPromosyon",
-    description:
-      "Logo baskılı çevre dostu promosyon ürünleri. Kurumsal tanıtım, fuar dağıtımı ve toplu sipariş için geri dönüşümlü promosyon ürünlerini inceleyin.",
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     url: PAGE_URL,
     siteName: "FirmaPromosyon",
     locale: "tr_TR",
@@ -55,9 +85,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Geri Dönüşümlü Promosyon Ürünleri | FirmaPromosyon",
-    description:
-      "Logo baskılı çevre dostu promosyon ürünleri. Kurumsal toplu sipariş ve hızlı teklif imkanı.",
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     images: [`${SITE_URL}/og.jpg`],
   },
 };
@@ -107,8 +136,7 @@ export default function Page() {
           "@type": "CollectionPage",
           name: "Geri Dönüşümlü Promosyon Ürünleri",
           url: PAGE_URL,
-          description:
-            "Logo baskılı geri dönüşümlü promosyon ürünleri. Kurumsal promosyon, fuar, etkinlik ve toplu siparişler için çevre dostu ürün çeşitleri.",
+          description: PAGE_DESCRIPTION,
           mainEntity: {
             "@type": "ItemList",
             numberOfItems: list.length,
@@ -116,6 +144,18 @@ export default function Page() {
           },
         }}
       />
+
+      {list.length > 0 && (
+        <JsonLd data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqItems.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: { "@type": "Answer", text: item.answer },
+          })),
+        }} />
+      )}
 
       <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
         <nav className="mb-6 text-sm text-gray-300">
@@ -138,9 +178,9 @@ export default function Page() {
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Logo baskılı geri dönüşümlü promosyon ürünlerini inceleyebilir,
-            firmanız için toplu sipariş ve hızlı teklif avantajlarından
-            yararlanabilirsiniz.
+            Kraft kapaklı defterleri, spiralli notlukları ve ahşap telefon
+            tutucuyu malzeme, ölçü ve içeriklerine göre karşılaştırın.
+            Logo uygulaması ve kurumsal toplu sipariş için güncel teklif alın.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">
@@ -224,108 +264,165 @@ export default function Page() {
 
       {list.length > 0 && (
         <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Logo Baskılı Geri Dönüşümlü Promosyon Ürünleri
-            </h2>
-
+          <section className="max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Malzeme ve Kullanım İhtiyacına Göre Ürün Seçimi</h2>
             <p>
-              Geri dönüşümlü promosyon ürünleri, çevre bilincine önem veren
-              markaların kurumsal tanıtım çalışmalarında öne çıkan promosyon
-              ürünleri arasında yer alır. Logo baskılı çevre dostu promosyon
-              ürünleri; fuar, seminer, kurumsal etkinlik, ofis kullanımı ve
-              müşteri dağıtımları için hem sürdürülebilir hem de etkili bir
-              tanıtım çözümü sunar.
+              Toplantı ve eğitim notları için defter veya spiralli notluk;
+              masa üzerinde telefon konumlandırmak için ahşap tutucu
+              değerlendirilebilir. Karşılaştırmada kapağı, iç kağıdı,
+              cildi ve varsa aksesuarları ayrı kontrol edin.
             </p>
-
             <p>
-              FirmaPromosyon’da yer alan geri dönüşümlü promosyon ürünleri;
-              kraft defter, spiralli notluk, yapışkanlı notluk, ahşap telefon
-              tutucu ve benzeri çevre dostu seçeneklerle kurumsal ihtiyaçlara
-              uygun şekilde sunulmaktadır. Firmanızın logosuna uygun baskılı
-              veya baskısız sipariş seçenekleri için ürünleri inceleyebilir,
-              toplu alım ve hızlı teklif avantajlarından yararlanabilirsiniz.
-            </p>
-
-            <p>
-              Logo baskılı geri dönüşümlü promosyon ürünleri, markanızı
-              çevre dostu bir kurumsal kimlikle öne çıkaran etkili reklam
-              araçlarıdır. Günlük kullanım değeri yüksek olan çevre dostu
-              ürünlerin tercih edilmesi, markanızın sürdürülebilirlik
-              yaklaşımını müşterilerinize doğrudan yansıtmanıza yardımcı olur.
-            </p>
-
-            <p>
-              Kurumsal firmalar tarafından tercih edilen geri dönüşümlü
-              promosyon ürünleri; fuar organizasyonlarında, seminer ve
-              eğitimlerde, müşteri ziyaretlerinde, bayi toplantılarında ve
-              personel dağıtımlarında yoğun şekilde kullanılabilir.
-            </p>
-
-            <p>
-              Geri dönüşümlü promosyon ürünleri; kraft kapaklı defter,
-              spiralli notluk, yapışkanlı notluk, ahşap masaüstü ürünleri
-              ve farklı çevre dostu kurumsal ürün alternatifleri ile
-              sunulabilir. Baskılı ve baskısız seçenekler, ürün modeline göre
-              değişebilir.
-            </p>
-
-            <p>
-              Geri dönüşümlü promosyon ürün fiyatları; ürün modeli, malzeme
-              yapısı, baskı tercihi ve sipariş miktarına göre değişiklik
-              gösterebilir.
+              Kategori adı bütün ürünlerin tüm parçalarının geri
+              dönüştürülmüş olduğunu göstermez. GD-100 ve GD-120 için
+              geri dönüşüm kağıdı bilgisi yer alır. Kraft kapak veya ahşap
+              malzeme ifadesi tek başına geri dönüştürülmüş içerik oranı ya
+              da çevre sertifikası anlamına gelmez.
             </p>
           </section>
 
-          <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
-              Geri Dönüşümlü Promosyon Ürünleri Nerelerde Kullanılır?
-            </h2>
+          <section className="mt-12">
+            <h2 className="text-2xl font-bold text-white">Ürünleri Malzeme ve İçerikleriyle Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+                <caption className="sr-only">Kategorideki modellerin belirtilen ölçü, kağıt ve kullanım bilgileri</caption>
+                <thead className="bg-white/10 text-white">
+                  <tr>
+                    <th scope="col" className="px-4 py-3">Model</th>
+                    <th scope="col" className="px-4 py-3">Ölçü / biçim</th>
+                    <th scope="col" className="px-4 py-3">Belirtilen malzeme ve içerik</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-white/10">
+                  {[
+                    ["GD-100", "12,5 x 20 cm; terzi dikiş", "Kraft kapak; 70 gr krem geri dönüşüm kağıdı; 40 yaprak / 80 sayfa"],
+                    ["GD-110", "Spiral; kesin ölçü teyit edilir", "60 gr krem kağıt; 140 çizgili sayfa; kalem tutucu"],
+                    ["GD-120", "16 x 22 cm; spiral", "Sert kraft kapak; 70 gr krem geri dönüşüm kağıdı; 90 yaprak"],
+                    ["GD-140", "16,5 x 21,5 cm; spiral", "Sert kraft kapak; 70 gr krem kağıt; 100 yaprak"],
+                    ["GD-210", "11,5 x 15 cm; spiral", "Kraft kapak; 70 gr krem kağıt; 150 çizgili sayfa; yapışkanlı notluk ve kalem tutucu"],
+                    ["ATT-230", "6,4 x 8 x 1,8 cm / 8 x 8,5 x 1,4 cm", "Kayın ağacı telefon tutucu; kaydırmaz taban; varyant teyit edilir"],
+                  ].map(([model, size, detail]) => (
+                    <tr key={model}>
+                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <td className="px-4 py-4">{size}</td>
+                      <td className="px-4 py-4">{detail}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </section>
 
-            <div className="mt-5 grid gap-4 sm:grid-cols-2">
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Fuar ve Organizasyon Dağıtımları
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Çevre dostu promosyon ürünleri, fuar standlarında ve
-                  etkinliklerde markanızın sürdürülebilir yaklaşımını öne
-                  çıkaran güçlü tanıtım araçlarıdır.
-                </p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Kağıt, Kapak ve Belge Taleplerini Ayırın</h2>
+            <p>
+              Geri dönüşüm bilgisi hangi parçaya aitse o kapsamda
+              değerlendirilmelidir. GD-100 ve GD-120 için belirtilen kağıt
+              bilgisini kapağa, spirale veya ürünün bütününe yaymayın.
+              Malzeme oranı veya sertifika talebiniz varsa ürün koduyla
+              birlikte paylaşarak mevcut belge ve kapsamı teyit edin.
+            </p>
+            <p>
+              Kağıt gramajı ile sayfa veya yaprak sayısı farklı bilgilerdir.
+              GD-100 için 40 yaprak / 80 sayfa belirtilirken GD-110 için
+              140 sayfa, GD-140 için 100 yaprak verilir. İç düzeni ve
+              kağıt tercihini sipariş öncesinde netleştirin.
+            </p>
+          </section>
 
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Ofis ve Kurumsal Kullanım
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Şirket içinde kullanılan geri dönüşümlü defter, notluk ve
-                  masaüstü ürünleri kurumsal bütünlüğü desteklerken çevre
-                  duyarlılığı mesajını da güçlendirir.
-                </p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Ölçü ve Teslim İçeriğinde Kontrol Noktaları</h2>
+            <p>
+              GD-110 kaynak bilgisinde 11,5 x 16,5 cm ve 11,5 x 16 cm
+              ifadeleri yer aldığından kesin ölçüyü teklif aşamasında
+              teyit edin. GD-210’un 150 çizgili sayfasını yapışkanlı
+              not kağıdı adedi olarak değerlendirmeyin; not bölümlerinin
+              ölçü ve adetlerini ayrıca kontrol edin.
+            </p>
+            <p>
+              GD-140 modelinde kalem aksesuardır ve standart içeriğe
+              dahil değildir. GD-110 ve GD-210’da kalem tutucu bulunması
+              kalemin dahil olduğunu göstermez. Ek kalem ve ambalaj
+              taleplerinizi teklifte ayrıca belirtin.
+            </p>
+            <p>
+              ATT-230 kayın ağacından, kaydırmaz tabanlı telefon tutucudur.
+              Kaynakta verilen iki ölçünün hangi varyanta ait olduğunu,
+              telefon ve kılıfla uyumunu teyit edin. Ürün için şarj
+              özelliği belirtilmez.
+            </p>
+          </section>
 
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Bayi ve Müşteri Hediyeleri
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Geri dönüşümlü promosyon ürünleri, müşterilere ve iş
-                  ortaklarına verilebilecek kullanışlı ve kurumsal değeri
-                  yüksek hediye alternatifleri arasında yer alır.
-                </p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Kraft Kapak ve Ahşap Yüzeyde Logo Uygulaması</h2>
+            <p>
+              GD-100, GD-110 ve GD-210 için UV ve serigrafi;
+              GD-120 ve GD-140 için serigrafi ve dijital baskı
+              seçenekleri belirtilir. ATT-230 için yöntem ve yer
+              teklif aşamasında belirlenir. Bir modele ait tekniği
+              bütün ürünlere uygulamayın.
+            </p>
+            <p>
+              Kapak, iç kağıt veya ahşap gövde için uygulama talebini
+              ayrı belirtin. Ürün ölçüsünü baskı alanı kabul etmeyin.
+              Logonuzu mümkünse vektörel PDF, AI, EPS veya SVG olarak
+              paylaşın; renkleri ve gerçek ölçüde okunabilirliği teyit edin.
+            </p>
+          </section>
 
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Sürdürülebilir Marka İletişimi
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Çevre dostu promosyon ürünleri, markanızın sürdürülebilirlik
-                  vizyonunu destekleyen toplu tanıtım çalışmalarında etkili bir
-                  kurumsal iletişim çözümü sunar.
-                </p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Fiyat ve Toplu Sipariş Kapsamı</h2>
+            <p>
+              Fiyat gösterilen ürün kartlarında tutar baskı hariçtir;
+              KDV ayrıca belirtilir. Fiyatı bulunmayan modeller için
+              güncel teklif isteyin. Karşılaştırmayı aynı model, adet
+              ve logo kapsamıyla yapın.
+            </p>
+            <ul className="list-disc space-y-2 pl-5">
+              <li>Model, ölçü, kağıt, kapak ve cilt bilgisi.</li>
+              <li>Malzeme veya belge talebi ve doğrulanabilen kapsam.</li>
+              <li>Logo yöntemi, uygulama yüzeyi ve renkler.</li>
+              <li>Ek kalem, ambalaj, sevkiyat ve KDV.</li>
+            </ul>
+            <p>
+              GD-140 için verilen 40 adet koli bilgisi minimum sipariş
+              koşulu değildir. Minimum adet ve teslim süresi stok,
+              miktar ve tasarım onayına göre netleştirilir.
+            </p>
+          </section>
+
+          <section className="mt-12 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">Toplu Sipariş İçin Gerekli Bilgiler</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+              <li>Ürün kodunu, adedi ve varsa varyant veya renk tercihini belirtin.</li>
+              <li>Ölçü, kağıt düzeni, aksesuar ve malzeme beklentinizi teyit edin.</li>
+              <li>Logo dosyanızı, uygulanacak yüzeyi ve renkleri paylaşın.</li>
+              <li>Paketleme talebini, teslimat adresini ve ihtiyaç tarihini bildirin.</li>
+              <li>Stok, tasarım yerleşimi, toplam bedel ve teslim süresini netleştirin.</li>
+            </ol>
+            <p className="mt-5 leading-7 text-gray-200">
+              Diğer not alma seçenekleri için{" "}
+              <Link href="/promosyon-yapiskanli-notluklar" className="font-semibold text-white underline underline-offset-4">yapışkanlı notlukları</Link>{" "}
+              ve{" "}
+              <Link href="/promosyon-defter" className="font-semibold text-white underline underline-offset-4">tarihsiz defterleri</Link>{" "}
+              karşılaştırabilirsiniz. Ek yazım ürünü için{" "}
+              <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">kalem modellerini</Link>{" "}
+              de inceleyebilirsiniz.
+            </p>
+            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+              Kurumsal Sipariş İçin Teklif Al
+            </Link>
+          </section>
+
+          <section className="mt-12 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">Geri Dönüşümlü Ürünler Hakkında Sık Sorulan Sorular</h2>
+            <div className="mt-6 space-y-4">
+              {faqItems.map((item) => (
+                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                </div>
+              ))}
             </div>
           </section>
         </div>

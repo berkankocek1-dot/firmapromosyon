@@ -7,11 +7,11 @@ import { sortProductsByCode } from "@/data/productSorting";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
-function JsonLd({ data }: { data: Record<string, any> }) {
+function JsonLd({ data }: { data: Record<string, unknown> }) {
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, "\\u003c") }}
     />
   );
 }
@@ -19,11 +19,42 @@ function JsonLd({ data }: { data: Record<string, any> }) {
 const CATEGORY = "Ayna ve Deri Kartlıklar";
 const PAGE_URL = `${SITE_URL}/promosyon-ayna-deri-kartliklar`;
 
+const PAGE_TITLE = "Promosyon Ayna ve Manikür Setleri | Logo Baskılı Modeller";
+const PAGE_DESCRIPTION = "Logo baskılı katlanır ve derili cep aynaları ile aynalı manikür setini karşılaştırın. Ölçü, renk, baskı alanı ve toptan sipariş için teklif alın.";
+const faqItems = [
+  {
+    "question": "Bu kategoride hangi promosyon ayna modelleri bulunur?",
+    "answer": "AY-100 katlanır cep aynası, AY-110 derili cep aynası, AY-120 kare cep aynası ve MNK-100 aynalı manikür seti listelenir. Ayna ile manikür setinin kullanım ve teslim kapsamını ayrı değerlendirin."
+  },
+  {
+    "question": "Cep aynalarının ölçüleri nedir?",
+    "answer": "AY-110 için 60 mm, AY-120 için 60 x 60 mm ürün ölçüsü belirtilir. AY-100 ve MNK-100 ölçüleri sipariş öncesinde teyit edilir. Ürün ölçüsünü logo baskı alanıyla aynı kabul etmeyin."
+  },
+  {
+    "question": "Aynalara hangi logo baskıları yapılır?",
+    "answer": "AY-110 ve AY-120 için serigrafi, tampon, UV ve dijital baskı seçenekleri belirtilir. AY-100 ve MNK-100 için yöntem ve alan teklif aşamasında netleştirilir. Uygun teknik logo renkleri, yüzey ve tasarıma göre seçilir."
+  },
+  {
+    "question": "AY-120 kare aynanın baskı alanı 55 x 55 mm mi?",
+    "answer": "Ürün bilgisi baskı alanını yalnızca 55 mm olarak belirtir. Bu değer 55 x 55 mm olarak varsayılmamalıdır. Kesin şekil, kullanılabilir alan ve logo yerleşimi tasarım çalışmasıyla sipariş öncesinde teyit edilir."
+  },
+  {
+    "question": "MNK-100 manikür setinde hangi parçalar bulunur?",
+    "answer": "MNK-100 aynalı tasarıma sahip 5 parça set olarak belirtilir. Parçaların tek tek listesi ve aynanın parça sayısına dahil olup olmadığı kaynakta açıklanmadığından kesin teslim içeriği sipariş öncesinde teyit edilir."
+  },
+  {
+    "question": "Promosyon ayna fiyatına baskı ve KDV dahil mi?",
+    "answer": "Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV ayrıca belirtilir. Logo yöntemi, alanı, sipariş adedi ve varsa ek paketlemeye göre güncel teklif hazırlanır. Fiyatı bulunmayan modeller için teklif isteyebilirsiniz."
+  },
+  {
+    "question": "Toplu ayna siparişinde renk, minimum adet ve teslim süresi nasıl belirlenir?",
+    "answer": "AY-100 için gümüş; AY-110 ve AY-120 için beyaz; MNK-100 için mavi, yeşil, pembe ve kırmızı listelenir. Renk stokları, minimum adet ve teslim süresi teklif aşamasında teyit edilir. Koli/kutu adetleri minimum sipariş koşulu değildir."
+  }
+];
+
 export const metadata: Metadata = {
-  title:
-    "Promosyon Ayna ve Manikür Setleri | Logo Baskılı Modeller",
-  description:
-    "Katlanır ayna, derili cep aynası ve 5 parça aynalı manikür setlerini inceleyin. AY-100, AY-110, AY-120 ve MNK-100 için logo baskılı toplu sipariş teklifi alın.",
+  title: PAGE_TITLE,
+  description: PAGE_DESCRIPTION,
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
@@ -37,9 +68,8 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Promosyon Ayna ve Deri Kartlıklar | FirmaPromosyon",
-    description:
-      "Katlanır ayna, kare ve yuvarlak cep aynası ile aynalı manikür setleri. Logo uygulaması için teklif alın.",
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     url: PAGE_URL,
     siteName: "FirmaPromosyon",
     locale: "tr_TR",
@@ -55,9 +85,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Promosyon Ayna ve Deri Kartlıklar | FirmaPromosyon",
-    description:
-      "Promosyon cep aynaları ve 5 parça aynalı manikür setleri için toplu sipariş ve logo uygulaması.",
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     images: [`${SITE_URL}/og.jpg`],
   },
 };
@@ -107,8 +136,7 @@ export default function Page() {
           "@type": "CollectionPage",
           name: "Promosyon Ayna ve Deri Kartlıklar",
           url: PAGE_URL,
-          description:
-            "AY-100, AY-110 ve AY-120 aynalar ile MNK-100 aynalı manikür seti. Kurumsal logo uygulaması ve toplu sipariş seçenekleri.",
+          description: PAGE_DESCRIPTION,
           mainEntity: {
             "@type": "ItemList",
             numberOfItems: list.length,
@@ -116,6 +144,18 @@ export default function Page() {
           },
         }}
       />
+
+      {list.length > 0 && (
+        <JsonLd data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqItems.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: { "@type": "Answer", text: item.answer },
+          })),
+        }} />
+      )}
 
       <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
         <nav className="mb-6 text-sm text-gray-300">
@@ -138,11 +178,9 @@ export default function Page() {
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            AY-100 katlanır ayna, AY-110 derili ayna, AY-120 kare ayna ve MNK-100 aynalı manikür setini inceleyin. Kozmetik, güzellik ve kişisel bakım kampanyaları için ürünleri karşılaştırabilirsiniz.
-          </p>
-
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Aynalarda ürün ölçüsü ile logo alanı ayrı değerlendirilir. AY-110 ve AY-120 baskı seçenekleri ile manikür setinin renkleri ürün sayfalarında yer alır. Toplu sipariş ve tasarıma özel teklif alabilirsiniz.
+            Katlanır cep aynası, derili ayna ve aynalı manikür setini ölçü,
+            renk ve logo uygulamasına göre karşılaştırın. Kozmetik, güzellik
+            ve kişisel bakım kampanyaları için toplu sipariş teklifi alın.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">
@@ -220,53 +258,149 @@ export default function Page() {
 
       {list.length > 0 && (
         <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Logo Baskılı Cep Aynaları ve Manikür Seti
-            </h2>
-
-            <p>AY-100 katlanabilir tasarımıyla, AY-110 60 mm ölçüsüyle ve AY-120 60 x 60 mm kare formuyla ayrılır. MNK-100 ise 5 parça bilgisiyle sunulan aynalı manikür setidir.</p>
-
-            <p>Bu modeller kozmetik kampanyalarında, güzellik merkezi tanıtımlarında, müşteri ve çalışan hediyelerinde değerlendirilebilir.</p>
-
-            <p>AY-110 ve AY-120 için serigrafi / tampon, UV ve dijital baskı seçenekleri bulunur. AY-100 ve MNK-100 logo uygulaması teklif aşamasında belirlenir.</p>
-
-            <p>Ayna ve manikür seti fiyatları; model, sipariş miktarı ve logo uygulamasına göre değerlendirilir. Liste fiyatları baskı hariçtir ve KDV ayrıca eklenir.</p>
+          <section className="max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Logo Baskılı Cep Aynası ve Manikür Seti Seçimi</h2>
+            <p>
+              Güzellik merkezi tanıtımı, kozmetik kampanyası veya etkinlik
+              hediyesi için cep aynalarını değerlendirebilirsiniz. Ürün seçiminde
+              taşınabilir formu, ölçüyü, renk tercihini ve logonun uygulanacağı
+              yüzeyi birlikte karşılaştırın.
+            </p>
+            <p>
+              AY-100 katlanır ayna, AY-110 derili ayna ve AY-120 kare ayna olarak
+              listelenir. MNK-100 ise ayna ile manikür setini birleştirir.
+              Derili ifadesi tek başına gerçek deri olduğunu göstermez;
+              malzeme beklentinizi seçilen model için ayrıca teyit edin.
+            </p>
           </section>
 
-          <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
-              Ayna ve Manikür Setleri Nerelerde Kullanılır?
-            </h2>
+          <section className="mt-12">
+            <h2 className="text-2xl font-bold text-white">Ayna Modellerini Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+                <caption className="sr-only">Cep aynaları ve aynalı manikür setinin belirtilen ölçü ve logo bilgileri</caption>
+                <thead className="bg-white/10 text-white">
+                  <tr>
+                    <th scope="col" className="px-4 py-3">Model</th>
+                    <th scope="col" className="px-4 py-3">Ürün bilgisi</th>
+                    <th scope="col" className="px-4 py-3">Logo uygulaması</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-white/10">
+                  {[
+                    ["AY-100", "Katlanır ayna; gümüş", "Yöntem ve alan teklifte belirlenir"],
+                    ["AY-110", "60 mm derili ayna; beyaz", "55 mm alan; serigrafi, tampon, UV, dijital"],
+                    ["AY-120", "60 x 60 mm kare ayna; beyaz", "55 mm olarak belirtilen alan; serigrafi, tampon, UV, dijital"],
+                    ["MNK-100", "5 parça aynalı manikür seti", "Yöntem, alan ve kesin set içeriği teyit edilir"],
+                  ].map(([model, features, printing]) => (
+                    <tr key={model}>
+                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <td className="px-4 py-4">{features}</td>
+                      <td className="px-4 py-4">{printing}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </section>
 
-            <div className="mt-5 grid gap-4 sm:grid-cols-2">
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Günlük Kullanım
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">Cep aynaları ve aynalı manikür seti, kişisel kullanım için taşınabilir seçeneklerdir.</p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Ürün Ölçüsü ve Logo Alanını Ayrı Değerlendirin</h2>
+            <p>
+              AY-110 için 60 mm ürün ölçüsü ve 55 mm baskı alanı belirtilir.
+              AY-120 ürün ölçüsü 60 x 60 mm olsa da baskı alanı kaynakta yalnızca
+              55 mm olarak verilir. Bu bilgiyi 55 x 55 mm olarak genişletmeyin;
+              kullanılabilir şekli ve yerleşimi tasarım çalışmasında netleştirin.
+            </p>
+            <p>
+              AY-100 ve MNK-100 için doğrulanmış ürün ölçüsü veya baskı alanı
+              belirtilmediğinden sipariş öncesinde teyit edin. Büyütme oranı,
+              ışık veya farklı ayna yüzeyleri gibi özellikleri de modelde
+              açıkça belirtilmeden standart kabul etmeyin.
+            </p>
+          </section>
 
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Kurumsal Hediyeler
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">Kozmetik ve güzellik alanındaki müşteri kampanyaları için değerlendirilebilir.</p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Aynalı Manikür Setinde İçerik ve Renkler</h2>
+            <p>
+              MNK-100, aynalı ve 5 parça set olarak sunulur. Sipariş verirken
+              parçaların tek tek listesini ve aynanın parça sayısına dahil
+              olup olmadığını teyit edin. Görselden hareketle malzeme türü veya
+              kesin araç listesi belirlemeyin.
+            </p>
+            <p>
+              MNK-100 için mavi, yeşil, pembe ve kırmızı; AY-100 için gümüş;
+              AY-110 ve AY-120 için beyaz listelenir. Renk dağılımınızı ve
+              güncel stok uygunluğunu teklif aşamasında netleştirin.
+            </p>
+          </section>
 
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Fuar ve Organizasyonlar
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">Fuar ve etkinliklerde modele uygun logo uygulamasıyla tanıtım hediyesi olarak sunulabilir.</p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Serigrafi, Tampon, UV ve Dijital Baskı Seçenekleri</h2>
+            <p>
+              AY-110 ve AY-120 için serigrafi, tampon, UV ve dijital baskı
+              seçenekleri belirtilir. Uygun yöntem, logo renkleri ve yüzeyle
+              birlikte değerlendirilir. AY-100 ile MNK-100 yöntem ve alanı ise
+              teklif aşamasında belirlenir.
+            </p>
+            <p>
+              Logonuzu mümkünse vektörel PDF, AI, EPS veya SVG olarak paylaşın.
+              İstenen konumu, renkleri ve ek yazıları belirtin; küçük yazı ve
+              ince çizgilerin gerçek uygulama boyutunda okunabilirliğini kontrol edin.
+            </p>
+          </section>
 
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Çalışan Hediyeleri
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">Çalışanlara yönelik kişisel bakım hediyesi seçenekleri arasında değerlendirilebilir.</p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Promosyon Ayna ve Manikür Seti Fiyatları</h2>
+            <p>
+              Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV
+              ayrıca belirtilir. Fiyatı bulunmayan modeller için güncel teklif
+              isteyin. Aynı model, adet ve logo kapsamıyla karşılaştırma yapın.
+            </p>
+            <ul className="list-disc space-y-2 pl-5">
+              <li>Model, ölçü, malzeme ve varsa setin kesin içeriği.</li>
+              <li>Logo yöntemi, uygulama alanı ve renk sayısı.</li>
+              <li>Sipariş adedi, renk dağılımı ve stok.</li>
+              <li>Standart ambalaj, ek kutulama, sevkiyat ve KDV.</li>
+            </ul>
+            <p>
+              AY-110 ve AY-120 için belirtilen 1000 / 50 koli-kutu bilgisi
+              minimum sipariş adedi değildir. Minimum miktarı ve dahil
+              ambalajı ayrıca teyit edin.
+            </p>
+          </section>
+
+          <section className="mt-12 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">Toplu Ayna Sipariş Adımları</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+              <li>Ürün kodunu, adedi ve renk tercihinizi paylaşın.</li>
+              <li>Ölçü, malzeme ve varsa set içeriğini teyit edin.</li>
+              <li>Logo dosyanızı, konum ve baskı beklentinizi belirtin.</li>
+              <li>Paketleme, teslimat adresi ve etkinlik tarihi taleplerini iletin.</li>
+              <li>Stok, tasarım yerleşimi, toplam bedel ve teslim süresini netleştirin.</li>
+            </ol>
+            <p className="mt-5 leading-7 text-gray-200">
+              Kart taşımaya yönelik ürünler için{" "}
+              <Link href="/promosyon-kartvizitlik" className="font-semibold text-white underline underline-offset-4">kartvizitlik modellerini</Link>,{" "}
+              çok parçalı kurumsal sunumlar için{" "}
+              <Link href="/promosyon-vip-urunler" className="font-semibold text-white underline underline-offset-4">VIP hediye setlerini</Link>{" "}
+              de inceleyebilirsiniz. Birlikte sipariş edilecek ürünleri ve
+              kutu taleplerini teklifte ayrıca belirtin.
+            </p>
+            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+              Ayna ve Manikür Seti İçin Teklif Al
+            </Link>
+          </section>
+
+          <section className="mt-12 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">Ayna ve Manikür Setleri Hakkında Sık Sorulan Sorular</h2>
+            <div className="mt-6 space-y-4">
+              {faqItems.map((item) => (
+                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                </div>
+              ))}
             </div>
           </section>
         </div>
