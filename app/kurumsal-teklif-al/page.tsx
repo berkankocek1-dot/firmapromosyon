@@ -1,12 +1,20 @@
-﻿export const runtime = "nodejs";
+export const runtime = "nodejs";
 
 import Image from "next/image";
 import { redirect } from "next/navigation";
 import { submitLead } from "../actions/lead";
 
 export const metadata = {
-  title: "Kurumsal Teklif Al | FirmaPromosyon",
+  title: "Kurumsal Teklif Al",
   description: "Kurumsal DTF baskı ve promosyon ürünleri için hızlı teklif formu.",
+  alternates: { canonical: "https://www.firmapromosyon.com/kurumsal-teklif-al" },
+  openGraph: {
+    title: "Kurumsal Teklif Al | FirmaPromosyon",
+    description: "Kurumsal DTF baskı ve promosyon ürünleri için hızlı teklif formu.",
+    url: "https://www.firmapromosyon.com/kurumsal-teklif-al",
+    type: "website",
+    images: [{ url: "/og.jpg", width: 1200, height: 630 }],
+  },
 };
 
 export default function KurumsalTeklifAlPage() {

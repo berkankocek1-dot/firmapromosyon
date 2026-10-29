@@ -408,7 +408,7 @@ export default function PlastikKalemMiMetalKalemMiPage() {
             ilişkilendirilir.
           </p>
           <p>
-            Özellikle toplantı masasında kullanılacak, ajanda setiyle
+            Özellikle toplantı masasında kullanılacak, <Link href="/promosyon-ajanda" className="font-semibold underline">ajanda</Link> setiyle
             eşleştirilecek veya yöneticiye sunulacak bir promosyon ürün
             arıyorsanız metal kalem çok daha etkili durur. Az adetli ama kaliteli
             promosyon stratejilerinde metal kalem neredeyse standart tercih

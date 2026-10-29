@@ -92,7 +92,7 @@ export default function ProductsClient({ products }: { products: Product[] }) {
           </button>
         </div>
 
-        <p className="mt-3 text-sm text-white/70">
+        <p className="mt-3 text-sm text-white/70 !text-white">
           Toplam {filteredProducts.length} ürün gösteriliyor
         </p>
       </div>

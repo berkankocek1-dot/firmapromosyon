@@ -7,11 +7,11 @@ import { sortProductsByCode } from "@/data/productSorting";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
-function JsonLd({ data }: { data: Record<string, any> }) {
+function JsonLd({ data }: { data: Record<string, unknown> }) {
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, "\\u003c") }}
     />
   );
 }
@@ -24,6 +24,16 @@ const PAGE_URL = `${SITE_URL}/promosyon-defter`;
 const CATEGORY_NAME = "Tarihsiz Defter";
 
 const faqItems = [
+  {
+    question: "Promosyon defter ile ajanda arasındaki fark nedir?",
+    answer:
+      "Tarihsiz defter belirli bir takvim yılına bağlı olmadan not almak için kullanılabilir. Tarihli planlama ihtiyacında ise ajanda seçenekleri değerlendirilebilir. Her ürünün iç sayfa düzeni model bazında kontrol edilmelidir.",
+  },
+  {
+    question: "Defter siparişine kalem veya kutu dahil mi?",
+    answer:
+      "Kalem, kutu ve diğer aksesuarların kapsamı seçilen ürüne ve teklife bağlıdır. Ürün görselinden dahil oldukları sonucunu çıkarmadan sipariş öncesinde paket içeriğini ve ek ürün bedellerini teyit edin.",
+  },
   {
     question: "Promosyon defter minimum kaç adet yaptırılır?",
     answer:
@@ -53,9 +63,9 @@ const faqItems = [
 
 export const metadata: Metadata = {
   title:
-    "Promosyon Defter Modelleri | Logo Baskılı ve Tarihsiz",
+    "Promosyon Defter Modelleri ve Fiyatları | Logo Baskılı",
   description:
-    "Logo baskılı tarihsiz, kalem tutuculu, metal detaylı ve premium promosyon defter modellerini inceleyin. Toptan sipariş için hızlı teklif alın.",
+    "Logo baskılı tarihsiz promosyon defter modellerini inceleyin. Ebat, kapak ve iç sayfa özelliklerini karşılaştırın; toptan defter siparişi için teklif alın.",
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
@@ -181,12 +191,14 @@ export default function PromosyonDefterPage() {
 
         <header>
           <h1 className="text-3xl font-extrabold text-white md:text-4xl">
-            Promosyon Defter Modelleri
+            Logo Baskılı Tarihsiz Promosyon Defter Modelleri
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Tarihsiz promosyon defter modellerini inceleyin, firmanız için logo
-            baskılı kurumsal defter ve toplu sipariş teklifi alın.
+            Toplantı notları, çalışan kitleri ve müşteri hediyeleri için tarihsiz
+            defterleri ebat, kapak ve iç sayfa özelliklerine göre karşılaştırın.
+            Logolu toplu sipariş için model kodu, adet ve baskı tercihinizle
+            kurumsal teklif isteyin.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">
@@ -212,284 +224,73 @@ export default function PromosyonDefterPage() {
       {filtered.length > 0 && (
         <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
           <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Logo Baskılı Promosyon Defter Modelleri
-            </h2>
-
-            <p>
-              Promosyon defter modelleri, kurumsal tanıtım ve marka görünürlüğü
-              için en sık tercih edilen promosyon ürünleri arasında yer alır.
-              Özellikle tarihsiz defter seçenekleri; fuar, seminer, bayi
-              toplantısı, ofis kullanımı, müşteri hediyesi ve kurumsal
-              etkinliklerde hem kullanışlı hem de uzun ömürlü bir promosyon
-              çözümü sunar.
-            </p>
-
-            <p>
-              FirmaPromosyon’da yer alan promosyon defter çeşitleri, logo baskılı
-              veya baskısız sipariş seçenekleriyle kurumsal ihtiyaçlara uygun
-              şekilde sunulmaktadır. Minimum sipariş adetleri, baskı detayları,
-              kapak seçenekleri ve renk alternatifleri ürün bazında değişebilir.
-              Sipariş öncesinde güncel stok, baskı alanı ve teslim süresi bilgisi
-              alınması önerilir.
-            </p>
-
-            <p>
-              Logo baskılı promosyon defter ürünleri, markanızı kullanıcıların
-              masa üstünde, toplantılarda ve günlük iş akışında görünür hale
-              getiren etkili reklam araçlarıdır. Defter gibi sürekli kullanılan
-              ürünler, marka bilinirliğini artırmak ve kurumsal prestiji
-              güçlendirmek açısından oldukça avantajlıdır.
-            </p>
-
-            <p>
-              Tarihsiz promosyon defter modelleri, tarih sınırlaması olmadığı
-              için yıl boyunca kullanılabilen ve bu nedenle en çok tercih edilen
-              kurumsal promosyon ürünlerinden biridir. Şirket içi kullanım, bayi
-              dağıtımı, müşteri hediyeleri ve fuar organizasyonları için oldukça
-              uygundur.
-            </p>
-
-            <p>
-              Promosyon defter çeşitleri; farklı kapak malzemeleri, iç sayfa
-              düzenleri, ebat seçenekleri ve baskı uygulamaları ile sunulabilir.
-              Baskılı ve baskısız seçenekler, ürün modeline göre değişebilir.
-              Sipariş öncesinde kapak türü, baskı alanı, minimum adet, renk
-              seçeneği ve teslim süresi hakkında bilgi alınması önerilir.
-            </p>
-
-            <p>
-              Promosyon defter fiyatları; ürün ölçüsü, kapak malzemesi, sayfa
-              yapısı, baskı tercihi ve sipariş miktarına göre değişiklik
-              gösterebilir. Firmanız için en uygun modeli seçerek toplu sipariş
-              ve hızlı teklif avantajlarından yararlanabilirsiniz.
-            </p>
-          </section>
-
-          <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
-              Promosyon Defter Nerelerde Kullanılır?
-            </h2>
-
-            <div className="mt-5 grid gap-4 sm:grid-cols-2">
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Fuar ve Etkinlik Dağıtımları
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Fuar standlarında ve kurumsal organizasyonlarda dağıtılan
-                  logo baskılı defterler, ziyaretçilerin markanızı uzun süre
-                  hatırlamasına yardımcı olur.
-                </p>
-              </div>
-
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Ofis ve Kurumsal Kullanım
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Şirket içi personel kullanımı, toplantılar ve müşteri
-                  görüşmeleri için promosyon defter kullanmak, kurumsal
-                  bütünlüğü güçlendiren pratik bir çözümdür.
-                </p>
-              </div>
-
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Bayi ve Müşteri Hediyeleri
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Promosyon defter modelleri, mevcut müşterilere ve bayi ağına
-                  verilebilecek kullanışlı, prestijli ve uzun ömürlü kurumsal
-                  hediye ürünleri arasında yer alır.
-                </p>
-              </div>
-
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Toplu Firma Tanıtım Çalışmaları
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Yüksek adetli promosyon defter siparişleri, marka bilinirliği
-                  oluşturmak isteyen firmalar için etkili ve profesyonel bir
-                  tanıtım çözümü sunar.
-                </p>
-              </div>
+            <h2 className="text-2xl font-bold text-white">Tarihsiz Defter Seçerken Hangi Özelliklere Bakılmalı?</h2>
+            <p>Defter seçiminde dış görünüm kadar kullanım biçimi de önemlidir. Çantada taşınacak bir ürün ile masada toplantı notları için kullanılacak bir modelde farklı ebatlar tercih edilebilir. Ürün detaylarında belirtilen ölçüleri, kapak yapısını ve iç sayfa özelliklerini birlikte inceleyin.</p>
+            <div className="overflow-x-auto">
+              <table className="w-full min-w-[560px] border-collapse text-left text-sm">
+                <caption className="sr-only">Kurumsal defter seçiminde özellik ve sipariş kontrol tablosu</caption>
+                <thead className="text-white"><tr>
+                  <th scope="col" className="border-b border-white/20 p-3">Özellik</th>
+                  <th scope="col" className="border-b border-white/20 p-3">Seçime etkisi</th>
+                  <th scope="col" className="border-b border-white/20 p-3">Kontrol edilecek bilgi</th>
+                </tr></thead>
+                <tbody>
+                  {[
+                    ["Ebat", "Taşıma ve not alma alanı", "Ürün detayındaki santimetre ölçüsü"],
+                    ["Kapak", "Görünüm ve logo uygulaması", "Malzeme, doku, renk ve baskı alanı"],
+                    ["İç sayfalar", "Not alma ve çizim ihtiyacı", "Sayfa düzeni, sayısı ve belirtilmişse kağıt gramajı"],
+                    ["Cilt ve aksesuarlar", "Açılma biçimi ve günlük kullanım", "Cilt yapısı; varsa lastik, ayraç, cep ve kalem tutucu"],
+                    ["Metal detay", "Logo yerleşimi ve hediye sunumu", "Detayın konumu ve uygulanabilir baskı yöntemi"],
+                  ].map(([feature, effect, check]) => (
+                    <tr key={feature}>
+                      <th scope="row" className="border-b border-white/10 p-3 font-semibold text-white">{feature}</th>
+                      <td className="border-b border-white/10 p-3">{effect}</td>
+                      <td className="border-b border-white/10 p-3">{check}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
             </div>
+            <p>Bir aksesuarın veya sayfa özelliğinin tüm modellerde bulunduğunu varsaymayın. Özellikle sayfa sayısı ile yaprak sayısını aynı kabul etmeden ürün açıklamasını kontrol edin; belirtilmeyen ayrıntıları teklif aşamasında sorun.</p>
           </section>
 
           <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Promosyon Defter Fiyatlarını Etkileyen Unsurlar
-            </h2>
-
-            <p>
-              Promosyon defter fiyatları yalnızca ürünün dış görünümüne göre
-              belirlenmez. Ebat, kapak malzemesi, iç sayfa sayısı, sayfa
-              kalitesi, cilt yapısı, baskı tekniği, sipariş miktarı ve özel
-              üretim detayları toplam maliyet üzerinde etkili olabilir.
-            </p>
-
-            <p>
-              Bazı firmalar daha ekonomik dağıtım çözümleri ararken, bazıları
-              daha prestijli ve uzun ömürlü kurumsal hediyelere yönelir. Bu
-              nedenle defter seçimi yapılırken yalnızca fiyat değil, hedef kitle
-              ve kullanım amacı da birlikte değerlendirilmelidir.
-            </p>
-
-            <p>
-              Özellikle tarihsiz defter modelleri, yılın her döneminde
-              kullanılabildiği için promosyon açısından esnek bir çözüm sunar.
-              Doğru model ve doğru baskı tercihi ile hem işlevsellik hem de
-              marka görünürlüğü birlikte güçlendirilebilir.
-            </p>
-
-            <p>
-              Logo baskılı defter siparişlerinde baskı uygulanacak yüzeyin
-              yapısı ve logonun detay seviyesi de önemlidir. Bazı modellerde
-              sıcak baskı veya serigraf baskı daha uygun olabilirken, bazı
-              ürünlerde farklı yüzey uygulamaları daha iyi sonuç verebilir.
-            </p>
+            <h2 className="text-2xl font-bold text-white">Tarihsiz Defter mi, Ajanda mı?</h2>
+            <p>Tarihsiz defter belirli bir takvim yılına bağlı olmadan not almak için kullanılabilir. Yıl içinde farklı tarihlerde yapılan eğitimler, çalışan başlangıç paketleri ve toplantı dağıtımları için bu esneklik değerlendirilebilir.</p>
+            <p>Gün, hafta veya ay bazında tarihli planlama arıyorsanız <Link href="/promosyon-ajanda" className="font-semibold text-white underline underline-offset-4">promosyon ajanda modellerini</Link> de inceleyin. Tarihsiz defter seçiminde ise iç sayfa düzeninin kullanım amacınıza uygunluğunu kontrol edin.</p>
           </section>
 
           <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Tarihsiz Defter Modellerinin Avantajları
-            </h2>
-
-            <p>
-              Tarihsiz defter modelleri, belirli bir yıla veya döneme bağlı
-              olmadan kullanılabildiği için promosyon dünyasında oldukça güçlü
-              bir yere sahiptir. Kullanıcı ürünü aldığı andan itibaren istediği
-              zaman kullanmaya başlayabilir.
-            </p>
-
-            <p>
-              Bu esneklik, ürünün elde kalma riskini azaltır ve dağıtım sonrası
-              kullanım ihtimalini artırır. Özellikle fuar, seminer, eğitim,
-              toplantı ve kurumsal hediye çalışmalarında tarihsiz defterler
-              sıkça tercih edilir.
-            </p>
-
-            <p>
-              Ayrıca tarihsiz promosyon defter modelleri; ofis kullanımına,
-              kişisel not almaya, toplantı notlarına ve günlük iş planlamasına
-              uygun yapısıyla çok yönlü bir promosyon ürünü olarak öne çıkar.
-            </p>
+            <h2 className="text-2xl font-bold text-white">Promosyon Defter Fiyatlarını Nasıl Karşılaştırmalısınız?</h2>
+            <p>Benzer görünümlü iki defterin ebatları, kapak malzemesi, sayfa sayısı ve cilt yapısı farklı olabilir. Toptan siparişte karşılaştırmayı aynı özellikler üzerinden yapın; ürün fiyatının yanında logo uygulamasının kapsamını da netleştirin.</p>
+            <ul className="list-disc space-y-2 pl-5">
+              <li><strong className="text-white">Ürün:</strong> Model kodu, ebat, kapak, iç sayfa yapısı ve sipariş adedi.</li>
+              <li><strong className="text-white">Baskı:</strong> Uygulama yöntemi, logo boyutu, renk sayısı ve baskı yapılacak yüzeyler.</li>
+              <li><strong className="text-white">Sunum:</strong> Varsa kutu, kalem veya diğer ek ürünlerin teklife dahil olup olmadığı.</li>
+              <li><strong className="text-white">Toplam tutar:</strong> Ürün ve baskı bedelleri ile KDV kapsamı.</li>
+            </ul>
+            <p>Ürün kartındaki fiyat açıklamasını esas alın. Baskı hariç gösterilen bir tutarı baskılı toplam fiyat olarak değerlendirmeyin. Fiyatı bulunmayan modellerde güncel stok ve fiyat bilgisi için teklif isteyebilirsiniz.</p>
           </section>
 
           <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Logo Baskılı Defter Siparişinde Nelere Dikkat Edilmeli?
-            </h2>
-
-            <p>
-              Logo baskılı defter siparişi verirken ürün ölçüsü, kapak
-              malzemesi, iç sayfa düzeni, baskı alanı, renk seçeneği ve kullanım
-              amacı dikkatle değerlendirilmelidir. Çok detaylı logolarda uygun
-              baskı tekniğinin seçilmesi daha da önemli hale gelir.
-            </p>
-
-            <p>
-              Sipariş öncesinde defterlerin kimlere dağıtılacağı
-              netleştirilmelidir. Fuar dağıtımı için seçilecek promosyon defter
-              ile yönetici hediyesi olarak tercih edilecek model aynı özellikte
-              olmayabilir. Hedef kitleye göre doğru model seçmek, promosyon
-              etkisini artırır.
-            </p>
-
-            <p>
-              Ayrıca promosyon defter ile birlikte{" "}
-              <Link
-                href="/promosyon-kalem"
-                className="font-semibold text-white underline underline-offset-4"
-              >
-                promosyon kalem
-              </Link>
-              ,{" "}
-              <Link
-                href="/promosyon-ajanda"
-                className="font-semibold text-white underline underline-offset-4"
-              >
-                promosyon ajanda
-              </Link>
-              ,{" "}
-              <Link
-                href="/promosyon-anahtarlik"
-                className="font-semibold text-white underline underline-offset-4"
-              >
-                promosyon anahtarlık
-              </Link>{" "}
-              veya{" "}
-              <Link
-                href="/promosyon-termos"
-                className="font-semibold text-white underline underline-offset-4"
-              >
-                promosyon termos
-              </Link>{" "}
-              gibi tamamlayıcı ürünlerle daha güçlü kurumsal setler
-              hazırlanabilir.
-            </p>
+            <h2 className="text-2xl font-bold text-white">Defter Kapağına Logo Baskısı</h2>
+            <p>Serigraf, UV veya sıcak baskı gibi uygulamaların uygunluğu kapak malzemesine ve logo tasarımına göre değerlendirilir. Aynı yöntemin her kapakta uygulanabildiğini varsaymayın; model seçimi sırasında uygun tekniği ve baskı ölçüsünü teyit edin.</p>
+            <p>Logonun konumunu belirlerken lastik, cep, dikiş, kalem tutucu ve varsa metal detayların yerini dikkate alın. Logonuzla birlikte firma adı veya iletişim bilgisi de kullanılacaksa bunların kapak üzerindeki okunurluğunu değerlendirin.</p>
+            <p>Mümkünse vektörel logo dosyanızı paylaşın. Renkli logo mu yoksa kapak üzerinde daha sade bir uygulama mı istediğinizi belirterek yerleşimi, baskı alanını ve görsel onay sürecini sipariş öncesinde netleştirin.</p>
           </section>
 
           <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Toptan Promosyon Defter Siparişi İçin Doğru Planlama
-            </h2>
-
-            <p>
-              Toptan promosyon defter siparişlerinde doğru sonuç almak için
-              ihtiyaçlar önceden belirlenmelidir. Dağıtım yapılacak kitle,
-              sipariş adedi, baskı tercihi, teslim tarihi ve ürünün kullanım
-              amacı teklif sürecini doğrudan etkiler.
-            </p>
-
-            <p>
-              Promosyon defter, masa üstünde ve günlük kullanımda uzun süre
-              görünür kalabilen bir ürün olduğu için marka bilinirliği açısından
-              önemli avantaj sağlar. Bu nedenle yalnızca kısa süreli
-              kampanyalarda değil, sürekli kurumsal görünürlük hedefleyen
-              firmalar için de uygundur.
-            </p>
-
-            <p>
-              Sayfada yer alan ürünleri inceleyerek ihtiyacınıza uygun modeli
-              belirleyebilir ve doğrudan{" "}
-              <Link
-                href="/kurumsal-teklif-al"
-                className="font-semibold text-white underline underline-offset-4"
-              >
-                kurumsal teklif
-              </Link>{" "}
-              talebinde bulunabilirsiniz. Böylece firmanız için uygun promosyon
-              defter seçeneklerini daha sağlıklı şekilde karşılaştırabilirsiniz.
-            </p>
-          </section>
-
-          <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
-              Sık Aranan Promosyon Defter Terimleri
-            </h2>
-
-            <div className="mt-4 flex flex-wrap gap-2">
-              {[
-                "promosyon defter",
-                "tarihsiz defter",
-                "logo baskılı defter",
-                "kurumsal defter",
-                "toptan promosyon defter",
-                "firma logolu defter",
-                "baskılı defter",
-                "promosyon ürünleri",
-              ].map((item) => (
-                <span
-                  key={item}
-                  className="rounded-full border border-white/10 bg-white/5 px-3 py-2 text-sm text-gray-100"
-                >
-                  {item}
-                </span>
-              ))}
-            </div>
+            <h2 className="text-2xl font-bold text-white">Toplu Logo Baskılı Defter Siparişi</h2>
+            <p>İhtiyacınıza uygun teklif hazırlanabilmesi için şu bilgileri paylaşabilirsiniz:</p>
+            <ol className="list-decimal space-y-2 pl-5">
+              <li>Defterin model kodu, tercih ettiğiniz ebat ve kapak rengi.</li>
+              <li>Toplam adet ve varsa farklı renklere göre adet dağılımı.</li>
+              <li>Logo dosyası, baskı konumu ve uygulama tercihi.</li>
+              <li>Varsa kalem veya kutu talebi, teslimat ili ve hedef teslim tarihi.</li>
+            </ol>
+            <p>Minimum sipariş adedi ve hazırlık süresi model, stok ve baskı planına göre değişir. Eğitim, fuar veya çalışan dağıtımı için sipariş verecekseniz tarih bilgisini baştan paylaşarak teslim planını teyit edin.</p>
+            <Link href="/kurumsal-teklif-al" className="inline-flex rounded-full bg-white px-5 py-3 text-sm font-semibold text-black hover:opacity-90">Logolu Defter İçin Teklif Al</Link>
+            <p>Defterle birlikte sunmak için <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">logo baskılı kalem</Link> ve <Link href="/promosyon-kalem-setleri" className="font-semibold text-white underline underline-offset-4">kalem seti modellerini</Link> inceleyebilirsiniz. Paket içeriğinin ve ek ürünlerin teklif kapsamını ayrıca netleştirin.</p>
           </section>
 
           <section className="mt-14 max-w-4xl">

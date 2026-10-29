@@ -253,7 +253,7 @@ export default function PromosyonUrunleriSecimRehberiPage() {
               </p>
               <p>
                 Ofis kullanımında ajanda, notluk, kalem ve masaüstü ürünleri; teknolojik
-                kullanımda USB bellek ve powerbank gibi ürünler tercih edilebilir. Hedef kitlenin
+                kullanımda USB bellek ve <Link href="/promosyon-powerbank" className="font-semibold underline">promosyon powerbank</Link> gibi ürünler tercih edilebilir. Hedef kitlenin
                 günlük alışkanlıkları doğru analiz edildiğinde promosyon ürünlerinin etkisi artar.
               </p>
             </div>

@@ -1,0 +1,3177 @@
+{
+  "version": 1,
+  "pages": {
+    "/": {
+      "hash": "f37c45b23e38e51e422e1707f81522e7a21200d6ba249d7c15413b8a29a9e96f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/cerez-politikasi": {
+      "hash": "bd166674f18b49bea35d984e3301e96379cba6ee22fec87f28b1e0f9d11ed025",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/gizlilik-politikasi": {
+      "hash": "58966aa2ce1153f00472dd413038bbc3418b2338e150877a5105fa61273e47bf",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/hakkimizda": {
+      "hash": "edfbe8052491b3535846074945d04ecd6001c4b30c9453c3157312e8265405db",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/iletisim": {
+      "hash": "0c779d919224d0380690e5ff8c1d9df98d1172bd7c4fccf9860ae56a480d71b5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/iptal-ve-iade-kosullari": {
+      "hash": "aa4d1abc70a452669447da33159cc96764df3f006cb75680764473107d215531",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/kurumsal-teklif-al": {
+      "hash": "f0ae804932c8ebbc9a6bd6f81095e9b2920981e06e65da62744e9db7a3760b2b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/kurumsal-teklif-al/basarili": {
+      "hash": "8cfee2029c55e669977b2b003011381bdcf9844c39240862083f88092d521187",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/kvkk": {
+      "hash": "dd21eda0a853bac5089d4b12d2c9d2ca2ccb82ca9cbfeccac23ff82d9389c85a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/mesafeli-satis-sozlesmesi": {
+      "hash": "f7926d1cfff027537a50e967fc6c0027cfcc3c3088e0dfe3bd4f001de201fc14",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-ahsap-ve-deri-masaustu-urunler": {
+      "hash": "59824bae56494565b682b91cf4de75baeddc0800e7fbc766e791c5b18c03757c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-ajanda": {
+      "hash": "794edd4ca355f95ba752697110bded9801779ef00ff7b5f5ca78c4e39d2f3b87",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-anahtarlik": {
+      "hash": "17977901ac5443cc01b46a991188ad8509debc7db6a03a2cdfc261997aa66150",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-ayna-deri-kartliklar": {
+      "hash": "f416b23cd29f6de763651e0bbe272c0e7d06c3a489cbbd28204602a00a5b73fa",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-bayraklar": {
+      "hash": "e88544bd00cb9ec9165ca0f9a861ca919934f51d8d04d7c3caf66929f1077f8f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-caki-fener-tornavida-seti": {
+      "hash": "86f7a635ad55f6da93392dac00f5be788dbb458fe18e4d25519a5cf61011a64d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-cakmak": {
+      "hash": "9cfb91ed24bc41a40baa6bfd60afca575d8671446da2e7d4c28d40f5808e1b06",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-defter": {
+      "hash": "5c7f5be2047c64f7fe32027f80dacc84fb8f4984e6b96e52a7ed587c365ecf91",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-duvar-saatleri": {
+      "hash": "bf612999a1fa0cca9a3c3c5bfab19a7d86d6cb5c628aac8c07d3b43a4060d1fc",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-geri-donusumlu-urunler": {
+      "hash": "0b15babd3b88d308a1148b597d7027384f3c8e63b0886c4c9ccd926c1c75184f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-ham-bez-tela-canta": {
+      "hash": "22682454569b1e1170e79246594f7ef8d0f6d106c272f03a6f9bc1a89d23de5b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-hesap-makineleri": {
+      "hash": "7a9acc5fbe0491bf8fb774bea6773187fead9cb248b40c4cb703a0a8337c20b4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-imalat-urunler": {
+      "hash": "9c4a54874a385c626a61e3d8ff413958ecf572fd243e2e168264c0c7eefdf875",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-kalem": {
+      "hash": "2afe25b0baa1dabec3e099dd38e6aa4767cfed0edb7dbc2eee926ceb9a7b884a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-kalem-setleri": {
+      "hash": "aae2bb9b54bd95205ffa323d4bebf04f663ff2cc1e11d0629a9b81ee56508858",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-karton-cantalar": {
+      "hash": "19411a72a8ba0566d7c1eec6002c46e5fcfd12698cc55ab006c49097b2f26f59",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-kartvizitlik": {
+      "hash": "8ad400c3a322aac4a2d703ae704491acf9f3d5f73449fd0d52baaaeaee8e9e4a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-kirtasiye-urunleri": {
+      "hash": "f8e9ec6aa792e4e0286b9f376e6d510800a73da712cf244512b8b4aa4790b5bf",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-kupa": {
+      "hash": "c35ea2080dbb717d9aa691c13235a329299f69914fd82b0a37709be006ab3871",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-masa-sumeni": {
+      "hash": "1799e0c12ba186ada7516b57724a371883c2df66c718d6434eac227d844d2754",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-matara": {
+      "hash": "32ebb225fda9290e39994eb67c7b381237db685777420b25e447ba2008a3b69a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-matbaa-urunleri": {
+      "hash": "4f2f505cced3e898569f1583dddb95913624878c4737e781922dcdc09b44484e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-organizerler": {
+      "hash": "1e9e3ad9171956c127b3c94483c7122be720c5da04ab016e0bb5fc0d6c2376bc",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-powerbank": {
+      "hash": "7be0878846da3451556af0b795990b912e17de0d04d5de4198763a1a75803d05",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-sapka": {
+      "hash": "050ebe9954ea45cb7a0c6cb089c43b0db9c6d0d6244a50507ddbf215092cb407",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-sekreterlikler-ve-evrak-cantalari": {
+      "hash": "91ea528b7eceb3c94e263db492ecc921e060b496aff5d4bd7026fbfba9d9eed5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-teknolojik-urunler": {
+      "hash": "c983f0844a034c5294af743af82424ffcd15ed6a1dc6d15e076bfa4695af1066",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-termos": {
+      "hash": "22a88856429d5d2e0c034c87abb4d19d3317dfd78dc6d967856558cc3034bbcf",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-tisort": {
+      "hash": "8b77c1c64ba8aedb3356aad13038b52b65b2538d1825841c310705bf36d38425",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-usb-bellek": {
+      "hash": "265b50d4af3fcaca5b97e0b7955e0cfe8b4d889ed0968638a77db1d425986c8a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-vip-urunler": {
+      "hash": "4db3c8d8f4ccb870568c1b84752e201bb77747d4035426e7ac522978c3828a63",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-yapiskanli-notluklar": {
+      "hash": "4cfe537b0262d776387cf3a8797b55910049eefecd5b260454efb03c611c131f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber": {
+      "hash": "e0a406a5c5fb272c0b352b4ec21a720a001079ec33d720c4a02b500090024f7e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/baskili-kalem-fiyatlari": {
+      "hash": "eda35f31b9430d3ea552827e30d76019316cd6366669abb42d1d1fa9d0e17911",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/dtf-baski-nedir": {
+      "hash": "e16e6e305ac659503dd61a1fb49795cf2596be95001cbc638d83d23ee35e2292",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/en-ucuz-promosyon-kalem": {
+      "hash": "5f8f98d8d6c2358c69a3b682e5dfeb368274d14c7ea0938d817be71cd3394253",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/esantiyon-kalem": {
+      "hash": "229c68ae04d0685b702d104a4a6d2dddf0c7d1d7d7f9515db077b451cf1dd724",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/kalem-baski-fiyatlari": {
+      "hash": "a4c46cc21c3da59179f0dc9731ad225b6efe5e361076e459aabd4f45fbf8570a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/kurumsal-kalem": {
+      "hash": "f4e9418f54a3a6a88b01dfdf0e5e02474328ec7e5c9f0b154d2c0dec68cdb331",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/kurumsal-tanitim-icin-promosyon-cakmak-kullanimi-tam-rehber": {
+      "hash": "996356297e1655b0a9fbabd08b9b9e30678befca7be024f9bbb6c03879449db9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/logo-baskili-kalem": {
+      "hash": "acddd1b2ef795b4a9bc08da263d7c5c8ea1cbbd85297989ad9799fc4b29ef09b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/logo-baskili-kalem-fiyatlari": {
+      "hash": "141672790df5c9c919ef73f2e2d9093763d00c5d2de4bdcaf53e0d54b32efc92",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/logo-baskili-promosyon-anahtarlik-rehberi-modeller-fiyatlar-ve-kullanim-alanlari": {
+      "hash": "4b7b49b5506f03ca4b44b4d964d17e8df2c11c61e66a20e243cb787ed275254e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/logo-baskili-promosyon-cakmak-rehberi-modeller-fiyatlar-ve-kullanim-alanlari": {
+      "hash": "f94973a5b15010c64382c64b66f8cfe4b99d25ca1627429c6f3e230e9504fbbe",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/logo-baskili-promosyon-cakmak-secerken-nelere-dikkat-edilmeli": {
+      "hash": "6bb75dba8f63e3ecf2f550f648b689eb8fa9b5a8e354d1d835ce75d540506d6e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/plastik-kalem-mi-metal-kalem-mi-daha-mantikli": {
+      "hash": "7726db8294504d2b8404cb13b50ac97fcfc5339e3c393c54e68e61bee85ba8fc",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta": {
+      "hash": "0ba602e0cc322713d3280ba616e8513664bfbd6c0828b286692b5a081721cef4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-anahtarlik-fiyatlari": {
+      "hash": "3d4cdb3ed8b54e96db1c4f23268037c4415b152646ae021ee9cdf670fc282f12",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-anahtarlik-nedir": {
+      "hash": "a8bef2eec682f7f232f9ec67febf51385eedc26faa6b522c9f0679ead160d7ac",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-anahtarlik-nedir-firmalar-neden-tercih-eder": {
+      "hash": "750de431ffbaef3be855589c0ba7066de6434924844d113da790054e92b587f9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta": {
+      "hash": "ac23768596c7aed6a3816859325e8554d7993684ebfac00508040486bb91c494",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-cakmak-fiyatlari": {
+      "hash": "ccd0a5a1e89c9cf5d71cf682703842330a6996fed342cc8dd034af03e62050d6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-cakmak-kullanim-alanlari": {
+      "hash": "b7644236cfc48a40429c9fa9b1962ba6d7285a8fa97b1a5ed1100e5c9b8e6588",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi": {
+      "hash": "21243914c739549c19a05b28c7591e653ff199f93664f009cdde45de099afb63",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-cakmak-nedir": {
+      "hash": "c6e816bcfbed2a88c5d3bb059435f8f19d6280b1879d74c86f5c433f3f8c60de",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-kalem": {
+      "hash": "3159e04296b504e6ed71a40e5ca21e24307c1fca71346a4dd49ed4af330ca693",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-kalem-fiyatlari": {
+      "hash": "a75c8a9f9a7ee3b8017e3c7d6452324141d0d9d9d8b146aca45692af88a25fc7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir": {
+      "hash": "6616d3b11494adeb2aa8f919e70bf8693b8d0c4ccdf03855405b1dc37264c767",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-kalem-nedir": {
+      "hash": "c2c961d2604203e704f2e298dccbcf0e519a63f7b13cf5bbfbca9087e836ccb8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-kalem-secerken-nelere-dikkat-edilmeli": {
+      "hash": "d9bc2668f75cd8a23db98293e7f722d4044eb9603e48587110730f07d9187331",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-kalem-toplu-alim": {
+      "hash": "38c71fcec4cabfb2e38db405b91f60e4c13db088c30d4831e1e4e1a8377d59e1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-kalem-toptan": {
+      "hash": "c0488c7d6e5f6b66e0884d9b2595fac90c11eaaf5c0d3ec173407034aebbe86c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-kalem-toptan-fiyatlari": {
+      "hash": "79076d49e425d68db7814a4897362d66b9bbae548a653a50492a402fb007048e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-kalemlerde-baski-turleri-nelerdir": {
+      "hash": "5c7cfbbbcc4f5998c256caa49cc92a8d9406363ba06a06baa4bb3504053a4f90",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-kupa-baski": {
+      "hash": "a2d35d809350b97205bd13b8b19f6e8ee6b2409c407a209996938891d92271c1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-rubber-kalem": {
+      "hash": "6de41f2b7b7bb89d04dd5de44fb09706cc0f6f39c2555505831dd62420d14def",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-sapka-rehberi": {
+      "hash": "eb15f6744eeda6775f7bcb2a70b09b1c4abbb20106f94a0e90b7a7519b46dafe",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-tasli-cakmak-nedir": {
+      "hash": "0988a40106be9b6203f6f682f173b076149ad3445e10300380ee64c4f6f44c73",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir": {
+      "hash": "a1f1d94d09fd62f8d74afdaabba2777fa5fc8d18d3f1f86d57fadd526cb9dbf5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/promosyon-urunleri-secim-rehberi": {
+      "hash": "7357f1e38c26d06baf9d05309b92fc952bd58f94e79d2971e89b81c87660653f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/rehber/reklam-kalemleri": {
+      "hash": "e97663959fec4d04250842408a02373e977c2d540bfbe4c48f8d0e5aebb1bfa3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/teklif": {
+      "hash": "0eea7aea6a4c3466b1a7d99e3276fdbabbf6ec719b0a0c95ae775013e6feff09",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/teslimat-kosullari": {
+      "hash": "01e55c97ab349aa6ee7c6a204e70bb0ac758c7757165c33a162010b5a3f470fd",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler": {
+      "hash": "febed6b02b019a6e263d6c540c3be8cf4500c869bb33af31b9ca37ad7b1b0ece",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-100-yaprak-taslama-kapak-defter-15x21-mtb-190": {
+      "hash": "a612a1f162f06a60edd2c06a1acc22cbe892fdbb90e0868b3c5fd42dd2668df7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-100-yaprakli-dik-bloknot-mtb-140": {
+      "hash": "b44d06c2cccca098fb178e3c6f64ef37e6a60c1d1719653e1b012d37766a8c89",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-12-haneli-hesap-makinesi-hm-110-masaustu": {
+      "hash": "5a5e8fe1c60b3df028be9fc98bd622d598e31ae300c266a1da97fd4ea1c438a5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-12-haneli-hesap-makinesi-hm-140-yazilabilir-ekranli": {
+      "hash": "0ca9f90f97f967b52eef43c7e1bfeead7aa2eebcae8ea524e3fd960195ebc4da",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-12li-hesap-makinesi-hm-100": {
+      "hash": "7f9127be39287bd1e55acbe97ac98b265c9b6ed9df33a28ba906b263b2263ac9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-250-yaprakli-kup-bloknot-mtb-100": {
+      "hash": "5664a3b10d1443f926762ed066c4b06a43de54252fa477713a964774b182644f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-2li-porselen-nescafe-fincani-260ml-pk-150": {
+      "hash": "e6c52509d006da2e3185596f159cb365c030e8d6244fa3d0e163f0471ff82f7f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-375-yaprakli-kup-bloknot-mtb-110": {
+      "hash": "654c62d7e8586a059dc45f9b7ec2743dd2499042bf33f2de5ebe4128fc0a10cb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-50-yaprak-tac-kapak-bloknot-14x21-mtb-160": {
+      "hash": "cfaa4ba39ef4a7053ece35b0d6466e236ae84e365b3e9209c8c7971517807e7e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-50-yaprak-tac-kapak-bloknot-14x21-mtb-170": {
+      "hash": "8677bd8d099b3e62c870d724f36ea3bce2d9cbee915bd1bf70117a2146d19c72",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-50-yaprak-ustten-spiralli-bloknot-14x21-mtb-180": {
+      "hash": "3a2c5286860ac0f9b7a43082d2d58c11ea9cb963729659989e682426687ed9b0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-50-yaprak-ustten-tutkalli-bloknot-a5-mtb-150": {
+      "hash": "942f8ea629ff7bdb75a7e995ad21483591faca6dcadc07aa2c576a2225132a84",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-500-yaprakli-kup-bloknot-mtb-120": {
+      "hash": "40710d4dd835e034bca76a00438b2b9d20cb63e48368496e2b7777f4dcde4717",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-6li-kahve-fincani-65ml-kvf-100": {
+      "hash": "aac0b34e10cb9a678150995865db79b53c869a75e43000ddb006a67050b8e9f7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-6li-kahve-fincani-65ml-kvf-110": {
+      "hash": "e36c96550620774fb1ded701629ef99311c4349bd4618047eb4d069f771232c2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-750-yaprakli-kup-bloknot-mtb-130": {
+      "hash": "063c250abe197160e03aa5aae5531025775a4098d7b697f5e7f92e98b61a42e3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-8-fonksiyonlu-type-c-cogaltici-kbl-400": {
+      "hash": "78ac997995af7d95f123b93b8880b14a061e670b6331ee276c33430df26cdf8e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-80-yaprak-karton-kapak-defter-15x21-mtb-200": {
+      "hash": "69f95d2aeebb9ae62c620bc54da2104b7648320712106b640ec3b0f41c880184",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ahsap-kalem-ks-335-tekli-roller": {
+      "hash": "49f827249caf85fb9ab628b195661712d9e0c24f10afdce7c56120c15b4025af",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ahsap-kalem-seti-ks-330-eco-premium": {
+      "hash": "cd3d49bac77ca517228c78e1957f1fa5b30c553ecd6c9d802aacc71adb89a78c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ahsap-masa-seti-ah-100": {
+      "hash": "372772c01fa39414be22dc60c2a6d150351cdbfaf3bfbd8daea2547a2e01d34c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ahsap-masa-seti-ah-120": {
+      "hash": "d1b593de65b3baf229682d590b969a6246a491e4e3d2cb97a95b6af896693a0a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ahsap-metal-usb-bellek-ub-390": {
+      "hash": "305d75aa4504287a7efcb4eac63c6999a29f3c278d85d99df40d72002746b599",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ahsap-telefon-tutucu-att-230": {
+      "hash": "09830a6a8235ddb25edbb59431c1ae6d2be62580bf86a8fccd53d32d6a902f7f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ahsap-usb-bellek-ub-240": {
+      "hash": "8fcffb2f801d800b0d7617d865e3d9f95dc1d7bb5ea0ae5b34a540a4b659d5d0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-16x24-termo-deri-aj-150": {
+      "hash": "829d709808ce9b390de98894b373efe9cc60c00603c23db9e3fb8586089b6065",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-16x24-termo-deri-aj-160": {
+      "hash": "718ad9d4f75965bf792748ab75836e6f1ddd4e484ff500bfecbc22162db3e3bf",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-16x24-termo-deri-aj-170": {
+      "hash": "adb1611805573eed7e236c50a331f38822475b2890cd8058a7b612f8d7a3abf6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-17x23-termo-deri-aj-100": {
+      "hash": "4b3a01740f7c52e10b69d42290e3a7409d3aca388fcda1c129200612967c78cc",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-17x24-termo-aj-110": {
+      "hash": "59685881b172030d350704625859a96ce676ff27d2c84eb77f9ee7a3d9c9ffe8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-17x24-termo-deri-aj-120": {
+      "hash": "3297ab0627ff544217ae3766e9e8d8e7509d4d3036721e3ee89cd457423eb735",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-17x24-termo-deri-aj-130": {
+      "hash": "28aec946f3a95f59e5fafcef783867ca427fc279d92717a2450d9d21ea89e6cc",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-17x24-termo-deri-aj-140": {
+      "hash": "0e800604de26234eff7ac7346a2fc73d4c17f3ae32f41ec5569e2fcca5b6e11c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-17x24-termo-deri-aj-190": {
+      "hash": "a376d85da5547a5512c23f34c6a9212b1d41702898652ffae7301617be9e26d1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-17x24-termo-pu-aj-180": {
+      "hash": "085c485f640f5d9b05c7be1115f88fb2d8117681296864ea79fcf8cb6f968eeb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-200": {
+      "hash": "c212a0002aec5582584af106faa55748202e7828562f427e95d2e475acc9fc1c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-210": {
+      "hash": "a7be7bfb578285ec560bbf3dc86eef040ac936914d79e7134bda8be95771e28e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-220": {
+      "hash": "0af3dd64f895673fea98b27983557678b60bec27a46b02a8f53dc3fcc8c27fed",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-230": {
+      "hash": "994d899da057e12c4c8c4437997c344878542837b57ddbe159b4c4a33a15f7f7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-240": {
+      "hash": "3b67d46390e2cdf7be4533b3ebc64fd43e4854bcf5d82230650a83583e93b08c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-250": {
+      "hash": "770cb1aec79364dc602ece11bb4eccffaab54a530cb891090a734f19722a616b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-260": {
+      "hash": "5553fed48552a176dbff84095c1401d71ab030f57a40536f0f1c024faffd7266",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-270": {
+      "hash": "ba377a86bd1fc560ee1d2481d35a6728ebb75e6195e3f66a2b23ef3d29a59ce7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-280": {
+      "hash": "b7ed4ecfb8470a2015114d057baabdfd11f818c156d32bfa7d8492769008dec8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-290": {
+      "hash": "490b5e091cb882bcc7d2832ba58a73b75363bd946334806158f5c2ec454fe6cf",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-300": {
+      "hash": "aad654f3c2040b8edb3bba70fc751f9006da62ed0c4b5df132d2c05fe3719ed3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-310": {
+      "hash": "c8330cd769f27de29746f88819934bfa1599aa410a998bf7e1164f0aaec6d210",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-320": {
+      "hash": "bdeea23b7409b6e5d67d407c10f33c695fa9351d780515b658ef8f90d2455c47",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-330": {
+      "hash": "1dcd3d4fa62bc4ecbbd5a2c8197833ede5a30ce8bed90cf7868d1a2684fcb683",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ajanda-aj-340": {
+      "hash": "9156962dcdbd731059f32f7ff3df5bb923214baeb744dddfc5aae6b368c922e0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtar-usb-bellek-ub-190": {
+      "hash": "5326afec8ec4bcc6e01e5ad003a69aa3d1a617d747a132644b6d2ed2526e786d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-100": {
+      "hash": "5f1659c9954796f67b7293a0636588d6d867f4ba0487d9941af0b0d4604ef054",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-110": {
+      "hash": "d4e98ec7a386109c72e3d6e1302665af5ba1dd3e48dbd5980fad0284156192ff",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-111": {
+      "hash": "f454e2269774fc67234860dd408339a8bfaf3c59b2d84fd9d32bdf3f77b750fa",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-112": {
+      "hash": "b1247b3eae6548a0af3c5b78f7018290e30839e73df5acc20c391cfee5861736",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-113": {
+      "hash": "4774e68677f269894ba997f9ef8cd84a6a616542d789460c9fd3f05420140e53",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-114": {
+      "hash": "08016d028fc281d1c5ce2f34466e573b50b4a17c0971351a967a33ec27908a98",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-115": {
+      "hash": "bd962737fa6498346e3918eed96be22106b713c0b9c8b87def4553d04525620d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-116": {
+      "hash": "4d8270d517d350be4b08cba2b8ba2e3b39bd0d6da4199eddf3a2c080840d1ead",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-117": {
+      "hash": "d1c43f83e1c64d8264c063da9362564893c9c7a81ae29373d3b072780fa9ef67",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-120": {
+      "hash": "c0d0aa28dba96504574fc66e3d1df5291e0d7b2314b8747fe468947a5a72e6be",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-125": {
+      "hash": "3b3e8079100fa45e5fa5a0dbb243be13f7fef21dd6050d77107415412cac77a2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-130": {
+      "hash": "ca30bd97b5c67e49c2e5e5b2a9803cde5d88fad6ea9a5217c59abdac277eb8a0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-140": {
+      "hash": "1f96c776fef73786f320fb3a2ea40071960ceff5335dddea0abc6c4f202949ee",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-150": {
+      "hash": "0ad27d0f9558e786d04afef163065caf9f6628b1219d151eec5cee166788f6c5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-160": {
+      "hash": "f95f8bce0d9cc58c5c7bda735a0a8bc7a93151786590d072974710733e860fda",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-165": {
+      "hash": "7551a7862bf0eb0895f1a462d89627c4d991d1484220f6432ad1e7d34394b6f4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-170": {
+      "hash": "d526eff682377c5d73b11d1dc1bc826dfa407e8828908b218d2add2fe1d55d37",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-180": {
+      "hash": "cf2c9e8e7010ba7c8c4cf3ef2f66ed58e1b6331f27d3849547cd3fcfda2b5f3d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-190": {
+      "hash": "4a7d25a8f7ff619b38f215a7745220247eda0e99f25de4329fe2a53883c09eb9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-195": {
+      "hash": "08c4ee278629543cdc907a3c855e29b52fed91737102cf6852a1ee273022009e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-200": {
+      "hash": "4dc928347d0598ee601510f115c652300c563f210e581f332b9306102bdc2ab4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-210": {
+      "hash": "0009fa4f3d607c2133f8278fc9f775d619c601fa3222320b20edf5cf6e18285b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-220": {
+      "hash": "e9c73a977bd972427368717c7fae729317571c1c1591a40269e25510d52aa401",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-230": {
+      "hash": "e7275680758fc79f236cecf773be507183e91a1c3b1a805be9a99575dd6af3db",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-240": {
+      "hash": "52feda3a62cc51473a0edd59ed4d4696a02db0be66df054e3d3aa6f669f11a09",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-250": {
+      "hash": "2d08957de81e48e980c5b3649a1b83f6c30a44cd7623a723c4016183ebb964a0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-260": {
+      "hash": "3d4da7b8e4d381411d36b7f44b4b1851e785976746d1a404b0e8d7623fc77f00",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-270": {
+      "hash": "fdf0f567208675ecdb65543cb8ba19bd23f098795c0dc378ecdcf9151de1c1f5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-280": {
+      "hash": "5a3f45146ffab39a49348c6d288b7932b3d26d3f5b6dd1db800c2cd80370064b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-290": {
+      "hash": "6588d3ff7f1ec698d8dbbeef1ac13fe6e2a1f4e600e5f8934548cdb7d3a64430",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-300": {
+      "hash": "c8e9f02584e0e3c9dc83382601bdb601b122a0d34da2c98c55e7c6c800f572e0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-310": {
+      "hash": "46a6d4770f71c8d4f1c424422a03ae84307cba4d15d5c50947c8dc5f39852972",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-320": {
+      "hash": "9a8f9825e213a84f1b0ec1edef9d63fa56d6c7558c87446ae9167bfa821a6f36",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-330": {
+      "hash": "72ab3621a0c0b2bac25d941762517b8b9500ffd76edf87f7a67609cd31114ab7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-340": {
+      "hash": "f1bbc469cd896a9768bd23c37237396183ee9d84f041093d2257f6af81bcfbef",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-350": {
+      "hash": "3c7ee80255df15a941439c7985fc2fab7d6870ad3ae6b12e6356c9f741c2a2aa",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-360": {
+      "hash": "2dd29c6b1bc0cd41bbede1352fbf9c31ddab1ba212beca07db8e33dbc69a5be3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-370": {
+      "hash": "c5e7683769a4a89073de35b3df7591f4307770120043f29fbf3c06e0f8bc5a11",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-380": {
+      "hash": "70b801f4af657a74852e96fd8d7b294b558d8f51103a8aefd99ae7d723419abc",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-390": {
+      "hash": "460efe703a2b267bdf860ce59b07b5dfb673dbc00299df931217293d52ad1e21",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-400": {
+      "hash": "f0ed6f9045a80d44ccb2cfa60bd3394259287fa4116caeba199ac32fa0bafbc6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-410": {
+      "hash": "c9b2c0669656f630c1fb81d8371ae0e141cd1bf315f4efeb79f9f7715b462bdf",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-420": {
+      "hash": "30c0b5734d9fafdd7066bf1e69d2ac2a2d6cfcd4284fd5040bb524e635f3bf38",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-430": {
+      "hash": "0001c114327f73abb936a4a878967ab50e7c14062294f6c58b629bb00fe161c1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-440": {
+      "hash": "4396a8b057a57901ad327bda507156af7a44e290a2676daf8f01c44c1b63893b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-450": {
+      "hash": "abc35bef396b8a1e46d5e2b5c688f33ffd0b29779351125afcd21741b7b292dc",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-460": {
+      "hash": "98eb6b94bece216cffdd18f33e905f92da26d5601c9245dcf3708da5474c6d2c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-470": {
+      "hash": "726ded2fe1326b9271f5951bd1a32da024b130b71f25f28cf6ed1141b443a386",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-480": {
+      "hash": "ac8bcda846dcce3707eccf9436d7ae4e5b007c51e7a8b6e4311aa6bb19754b78",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-490": {
+      "hash": "d5ab85bd9b48ed68c06090b9d1ecd63bf7b0af1415fa236decd0a4f5f9d0b10d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-500": {
+      "hash": "715b3d10efcb5d915719e3b5aee955661bfff699d05ff60fa83c0eca8471ead3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-520": {
+      "hash": "98d6c814411b594d0cb6aa42b8c37b2ecc18598cea5912f879ecad898126b621",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-530": {
+      "hash": "6d04726cf963862a1ef3764c8772f6f04a2c76a5264e3eaec8db28c967a61bea",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlik-an-540": {
+      "hash": "8ce8d2e77b25aab53155c53879042dcb07ae1e1488b296d6d9cd27c6ea343d97",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-anahtarlikli-usb-bellek-ub-170": {
+      "hash": "df1d50634584eba994268dade752ff007da0e7f094e4273a5dc4962ffdf3450f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-arac-ici-telefon-tutucu-tt-480-magsafe-wireless-sarjli": {
+      "hash": "5824072f23a8af554e59d58b99dcd8741941c1b42421a8e0df38b26142dab121",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-arac-ici-telefon-tutucu-tt-490-manyetik-kompakt": {
+      "hash": "b0b25bb32ebbcd86b25039062e209ad5542a89f38a128482c77ba97ee28c9656",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-arac-ici-telefon-tutucu-tt-520-15w-magsafe-wireless": {
+      "hash": "8be8e1ec0abf9502aaf295de0dd5ba5fa4e026c051dd158dff197754fad673fd",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ayakli-aynali-telefon-standi-tt-530-katlanabilir": {
+      "hash": "9ae6e42e974196a52c785aecd0c33744f60c9791ab2e1caced235a612443b687",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-aynali-manikur-seti-mnk-100": {
+      "hash": "9024a2de03d7889d5a20e2dc5b083ee1a6ea72bb43f5e547e5894eb634a28b4d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-balon-bl-600": {
+      "hash": "d83c2fc19c4aacdcffa1e9bef8e5cffa2624505e116115c7035624142693b726",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-bambu-termos-500ml-tk-111": {
+      "hash": "21600778e3059960298f2bdc07db3a40a5c9ea17118f27fa138eac2f550e5218",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-bardak-altligi-ba-650": {
+      "hash": "1d0bcad0434b097d12d6e4f5bdc9994acdd8cc6b87f64061fcb0e2ae0c3f1f61",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-bardak-termos-240-ml-tk-265": {
+      "hash": "f98b4778d78323f72c2056753e3402c7daf28e8d041c84f38ae9601837da3abc",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-baret-plastik-anahtarlik-an-510": {
+      "hash": "1c1a51d92b21323ea12d5d999ce52d528bfd0e0b6204fb6b3a04a2d36fa8d637",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-bilek-destekli-mouse-pad-mp-650": {
+      "hash": "b4618c4de1d430638f3b2fff08ea5c297269b45eed81eedb8e19aa9d170eb4a7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-bluetooth-hoparlor-spk-440": {
+      "hash": "f2884b45872620529d17d2212a8b8760a5a3a5f9c6872f46c662e17ea3448789",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-bluetooth-hoparlor-spk-445": {
+      "hash": "d3a723edee4abd6c39ceb56a64f31bac2c9d6693e58add5dbd083fbfdea5c7c6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-bluetooth-speaker-spk-435": {
+      "hash": "06d93b58dd17fb5ceb97fa6c86134cee19e30b6e39d905db8ff42ded9baba4b8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-bluetooth-speaker-spk-450": {
+      "hash": "3d31b8546a6b436f6e01fc466c6006b6ff163e0f4a8b91e94917ccec51c3fc1b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-cam-matara-500ml-cm-390": {
+      "hash": "1dc89221bc9bd75e11a44d259a1dc76db6cad996c5958a042cdd1a51feb8e371",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-cam-matara-750ml-cm-400": {
+      "hash": "0a8398087f21185ac8d5af51b147a6eac22bc2386a2dd850ea6f8cd3f7e3816f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-cepli-dosya-mtb-210": {
+      "hash": "e26ae85623384d091522d54c70548eb5483c20b68cc9da01da814bbf7ae26c6c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-cetvel-cesitleri-ct-200": {
+      "hash": "835fd77f94f32fa7c94b2b37560bf53f07c6569f60536c77f2dc321df7690a45",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-cift-uclu-metal-usb-bellek-ub-400": {
+      "hash": "e01726c78b3dd0af62baf8e30fd618d4fdff1b631975409cb6fadf4f395f8556",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-cok-amacli-caki-seti-7-fonksiyonlu-ck-100": {
+      "hash": "eda87ff273959044ac57b82b56c8edb1918da39d051dee9b4850195afaccad24",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-cok-fonksiyonlu-caki-seti-11-fonksiyonlu-ck-200": {
+      "hash": "240b2a2248648da245a82858678f2185b1248ec334cf00b7d301773a88af21d4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-coklu-isikli-kablo-kbl-380": {
+      "hash": "19e00108c65a02e7fd5eac089decd10bb5465ce84a47a025ed1811372b097698",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-coklu-sarj-kablosu-eva-kutulu-kbl-375": {
+      "hash": "f8b69e6e13d292f39db365a809d3347af30755dc7ce55e51aeeaa28fe007956f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-coklu-sarj-kablosu-kbl-390": {
+      "hash": "164865be549f3eb2062bfb9d31b810fa0c00a344f52fad405bbf99593c57d53f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-cricket-mayyetolu-sibopsuz-cakmak-cm-150": {
+      "hash": "39a8cfa3cbaecd7b39cb7144defb4c1f0b2bb58b5baa8822bf0464f8bee984cd",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-damla-bayrak-byk-210-drop-flag-reklam-bayragi": {
+      "hash": "debf5ab021c727d75395fd82daff36ea22f4fdcb37aa4506ca913a37091546e5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-deri-bardak-altligi-ms-190": {
+      "hash": "d16c3bbca8b53ea14ef2d64a8b6cd4feef9802921a348921e7a7f2f1ed5eb680",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-deri-bardak-altligi-set-ms-195": {
+      "hash": "a7e9e6cdbf61810f649109a958c79ec3f2ac52c8379a04e2c2eddb03e8df418a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-deri-cuzdan-dc-100": {
+      "hash": "f1ef1610d2817f5022f4c5a35a5aab5ec0a3e8ed5806893cd819c4149311f7fd",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-deri-kalemlik-ms-130": {
+      "hash": "5bd30257e7f1975287706e16d6b2da481901f6c7eb20e9b1954ebe1a90aa275a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-deri-kalemlik-ms-150": {
+      "hash": "e217cd59902364f661a7c3a52f073b3f0761ddd7c006dd18bd67fed60272c0ec",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-deri-kalemlik-ms-160": {
+      "hash": "a0632d38494ab83098d7de47398d139604a29105da09590e78aa6d0054142f42",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-deri-kalemlik-ms-170": {
+      "hash": "956dab9a0a3ac90f4d1389c3fb9697cee420ac58a336da5bf373642afeb9a38c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-deri-kalemlik-ms-175": {
+      "hash": "2e007bf237c9955dc264baef0ef575daf84ef77fd468e8c5e8780fadca3f6fa7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-deri-kalemlik-ms-180": {
+      "hash": "587d2830b08859ae4415a9f268dce768d57dc7a71c5e2668908d85234fb24409",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-deri-usb-bellek-ub-260": {
+      "hash": "870fa69e33e3edf8cbaad55c39188c3c0594da87c6e1eeae32ad0441f633f8e5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-derili-ayna-ay-110": {
+      "hash": "1eaeb24871f79f7abaa3026e6c236e51721410ab4f739bdc83c3a26bd73deee7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-derili-ayna-ay-120": {
+      "hash": "87d5ff124dec011ebebcde8779cbcc2a621d044e4fb3cdf71b93efb94b18c422",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-detoks-matara-800-ml-pc-bpa-icermeyen-tk-360": {
+      "hash": "6be98b7e4351880c6230c3e1da78c9178b22cde63a484022bb2f242c0de3822b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-devrilmez-termos-500-ml-vantuzlu-tk-230": {
+      "hash": "7853c2298e9c28ec47e391381afa48f02a5542dd93e0a98a84bb5b5503b7675e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dijital-hesap-makinesi-hm-120-12-haneli-renkli": {
+      "hash": "b5667fcb4895fd3b3e78aa42a4f8ed3b9e115b6390051c87002c7c0556143e36",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dijital-hesap-makinesi-hm-130-egimli-12-haneli": {
+      "hash": "70d2a16cd3f64a92e51a6d6bd550e17e4fff5458f5207050c1f8573e509c785f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dijital-hesap-makinesi-hm-150-egimli-slim-tasarim": {
+      "hash": "8dcb2471d7a8a91c7c7674a7af2d4c79774c2b56249f6168ca5e4a5d1b92e3a8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dikisli-defter-gd-100": {
+      "hash": "c001f86adb54610690445b7b2c12b1bfa1a43caf0a6f9e0c6d924364a45d4220",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dokunmatik-kalem-dk-500": {
+      "hash": "8300652cc60b80edfcfcba0361f9f8e6f34052733083c232b23ffa9b8904b633",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dokunmatik-kalem-dk-650": {
+      "hash": "4abcf84a87d49f61319a2e4ab94c7dd9c31404f68bf71c7e1ecdf6eb3df10ee7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dokunmatik-kalem-dk-700": {
+      "hash": "febd7b8cd7ee64386db2d801be68e3d5ea9fd3fdc2fa545e6adaacad1bd92ebb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dokunmatik-kalem-dk-750": {
+      "hash": "54b8e254820ff0e686b9a653472e4044e1af5207b0ce2e9f9614c7a1268fbd09",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dokunmatik-kalem-dk-800": {
+      "hash": "46fcb72574e448ec5bd0584f71eaad09882596e737e99e0c34f83bb3c90e66d2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dokunmatik-kalem-dk-900": {
+      "hash": "574d37144446847c09955c5b5f73a3b2dcfeb60de7f97dceb0b3916b0f56e3f0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dokunmatik-kalem-dk-950": {
+      "hash": "6588c8e9cf009459c7ea52f3667067de9efc8d5d0e211e0da15a1670981499ff",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dokunmatik-kalem-dk600": {
+      "hash": "5bc7415310a265a87d4b0f37faac03b00e664985bbba45992072112188983658",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dokunmatik-kalem-ks-320-stylus-metal": {
+      "hash": "814a76dc91345abc0504cbd27a8870362fd8e7d567fee92fcdd5e1b62747d3f1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-dortlu-masa-bayragi-byk-140-4lu-direkli-kurumsal-bayrak-seti": {
+      "hash": "975f3d48de2d7f2e73f3563e22a255bc79063cf90c918a02f2115bdc2e34111e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-25cm-metal-kasa-ds-140": {
+      "hash": "fff0ff5482b7c3b933a3c73d56228e8e49135dbbe988511dfeaf2107fac82259",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-30cm-metal-kasa-ds-220": {
+      "hash": "7962cf19fbc71b9bc5418ae638d33e727f0022e7b479bf3665633f5856126b74",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-35-cm-metalize-yaldiz-kadran-ds-270": {
+      "hash": "1cf59ed78e52099822afda57dd35d4c8cb409abc568915bfa1cb9fb9478d654a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-35-cm-plastik-kasa-renkli-ds-280": {
+      "hash": "541fb0b67ae781afe5aa7d410a9aafd00fa9bae56aeb84cccaa464bdda1c3589",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-35cm-metal-kasa-ds-110": {
+      "hash": "d58fa48d604b43e9b678a6e737a06d5abf4527a3a31616b7ecac042a7dfe8589",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-35cm-metal-kasa-ds-210": {
+      "hash": "908c744d2810ba806fedaf6b1ca456d3b6d9d22b33e6559ecf197c0cf4842b98",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-38cm-krom-kasa-ds-136": {
+      "hash": "5334d1cc3a8dfb99cc8d5774480a9ad91b632c5b9d8777e996d0b5e42f046546",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-40-cm-plastik-kasa-renkli-ds-310": {
+      "hash": "6feeb4a5106f3e838f7773d2947817af6df40465cbd4c0c7fe8250fa040dad0b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-40cm-metal-kasa-ds-100": {
+      "hash": "924443038b04b1b3703c503f780cc04fec9fc0bc220717d09ee3d5aa0f03d4fd",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-40cm-metal-kasa-ds-200": {
+      "hash": "e2012b42cbf894db67e3631198062f468fe928d140d8a7415e25c9a4ee472d1f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-40cm-plastik-kasa-ds-180": {
+      "hash": "afb2ffdb1cc68ceed447cb070d94c8d414e75a0ae8a08dac60e526a7020e412d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-40cm-plastik-kasa-ds-190": {
+      "hash": "1dbe3d43e9ddd6900319afaa13eb639b7412f46fdaa64c729645bc861b5a1f68",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-dikdortgen-cam-bombeli-ds-320": {
+      "hash": "e0177d89b19cb03c5eea4f854f2106c7df2858a839ab12f3c62f56e8aa233d3a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-115-37cm": {
+      "hash": "687220a8ee4a049828ec7d864eabf82690f25974c66afb12c0ccccd0e5ed48fb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-120-37cm": {
+      "hash": "3b5b26cd443b6d2daa237091e0a14dc032912e03d7fd8f84b9d6a111b9b48318",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-130-30cm-metal-kasa": {
+      "hash": "764aa50caf96ef678130277c4269d5383b4b585afa62a26c5127904cbb5a3ed8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-135-33cm-metal-kasa": {
+      "hash": "61001792001706ea2d7cf4fd7e60a0179db291d71de6bd1f8758457f54ecf8e7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-150-31cm-metal-kasa": {
+      "hash": "120fe5140f4d4f0bc5d7de7febcde473413809dae5c55e083354587fb1e5292a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-160-40cm-plastik-kasa": {
+      "hash": "253d7a94bdaa9e26e46eff51c3ef64188794f37b1aaa962c3a86dd1ea876bca7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-170-40cm-plastik-kasa": {
+      "hash": "043ea109f8f8e95ecc5e9bce6f0585561f4d9fe1dac9ef3688d19478ccb3b6d6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-230-35cm-abs-kasa": {
+      "hash": "d20e12776aa8d5545d3cfec6b9264fdfeaf854bd01c38435f904fc463b5b1d0f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-240-35cm-abs-kasa": {
+      "hash": "7e8bc76f77224b3d74d96282be6087023e420879aa66bd4d037888702f2903df",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-250-40cm-metalize-plastik": {
+      "hash": "c5e0a7609cc7c5d33b732f7b8d97be005bf2ef1d3ebbe774e27c9d5de4df5a0d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-260-40cm-metalize-plastik": {
+      "hash": "d3a449dcd11eab6a012372506307231500f78b498cddd0e464c0e9567d42fc09",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-330-35cm": {
+      "hash": "c58b5ea55092b43b8050ca90ffa23e8ad508bb9ef712dd85eb92431ea77874e7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-340-35cm-plastik-kasa": {
+      "hash": "aa96d277bc8dde02da0f43d134952f99287a6c971f94e55bcb3e0fa75dd51b14",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-350-35cm-bombe-cam": {
+      "hash": "421109bdb6d0a815308f5082af2ea9d6ccc79d314f65286bf581ca7172d0238a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-360-30cm-bombe-cam": {
+      "hash": "30cd4344287f61eb9692c7ea7335f2939ec9cfcd0641df7835e1f6c799efab56",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-370-46cm-metal-kadran": {
+      "hash": "c631d7763165bf3f6a485d7ff1b0a0e9e50523bf1e3df113983c7918dec0b5d5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-380-35cm-renkli-kadran": {
+      "hash": "44acc421fc0ad8c09517b0a2976779af0cfdd5c1da80192a1177127bc2d4fa0f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-390-35cm-metal-kadran": {
+      "hash": "8c2f2c117004356f904a089dbe36a2cbb185ef717f0ee9aa85e72ebeb0b29ef5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-400-28cm-plastik-kasa": {
+      "hash": "7efcd767fad7a571110b6210d4bafcf35e3b5817e06f56a8ae9dbfaa3f55286a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-410-46cm-plastik-kasa": {
+      "hash": "271f3e8710aac66b31fa0dce4a4e5179af62c3d52e813317421b8b16021d0f53",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-420-42cm-plastik-kasa": {
+      "hash": "c5ee96ec8214f8aaa46025c8a51ab2037dd352683d82b40ddac247c170b11201",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-430-40cm-plastik-kasa": {
+      "hash": "39d3fdf2ef8909aadafd2392e7e0ebdce4105cd7970ed29900b4b954848e9199",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-440-35cm-plastik-kasa": {
+      "hash": "e69fb7822c55504637c659ef609b23a09f81bc051c7565074a69117c3d5f8a5a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-450-40cm-plastik-kasa": {
+      "hash": "729683e753d2ecdda06d0a89b950d6593b3ac915ac8abc51bdcc621e1a2db946",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-460-35cm-plastik-kasa": {
+      "hash": "948a019fd34e7fad184267098df7b21c88c583fdfe7f06b77f5511a5c798f5a7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-470-42x30cm-ozel-tasarim": {
+      "hash": "0e29035de6e520448d5ea8d30f5037636a1341056e6220853024f05bdbe8259a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-480-30cm-plastik-kasa": {
+      "hash": "aa7156cf8d02f3fdb49adba237bf3ba4ed38e45a6260a78cfba0c6c64a422e58",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-490-42x30cm-ozel-kesim": {
+      "hash": "65ebafa65002a12679f1a65b723a62b16249cab98669994163a472ab767522fe",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-500-35cm-metalize-plastik": {
+      "hash": "958a4e423248523e856c7088589988d7639a8b0a8f8bba76ba80f1ea6ec38d22",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-duvar-saati-ds-510-30cm-metalize-plastik": {
+      "hash": "d75980d54501f37cb43ce988d474f6ab245975b428d5a59af6a66e5ae40a4645",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-el-feneri-fn-100": {
+      "hash": "e5f41af4cb2900d99536ae8fb3354c6565a556bb66cfba4cad9b8977cc87d15b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-el-feneri-fn-200": {
+      "hash": "9a17ef4abee6685c5e9d0bb4e186df32c3f243308f16a79b57ebc1bed3e01655",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-el-feneri-fn-300": {
+      "hash": "2f2847486d40d28548db40ff977a6ffaf5e1359f1549835296a2ba3eb973289d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-emzikli-matara-1500-ml-bpa-icermeyen-tk-385": {
+      "hash": "86cc55177881098572d3ed62db7d34456c42a65d5d4395cbb22f77fa446497a2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-emzikli-matara-500-ml-bpa-icermeyen-tk-380": {
+      "hash": "6e610551332412a92663cc760c9cef76a2db8d0f242822df7560736c2fea8f44",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-emzikli-matara-800-ml-bpa-icermeyen-tk-370": {
+      "hash": "d2c557e2faf3d493762cf659b2232ea2065e73d83304b3ca4f3e2475164a0dfd",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-evrak-cantasi-ec-100": {
+      "hash": "718b0f10ab1ba857afb71580b8fccf71c25e9adb49f92989b06fddcc6a3c3668",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-fosforlu-kalem-fk-550-5li-set-renkli": {
+      "hash": "c5f39723a2c0ce2cd0f2d011f6040d4eafff6e4c9cd49f5462a30454d8321fb0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-french-press-termos-500-ml-tk-340": {
+      "hash": "5973371ee9336cca97259d0f9b0002f3fd1a11f4f558b16a3126c18fafedbb35",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-frizbi-frz-160": {
+      "hash": "216cf5475d01cb690c4da84ffb2e1178bb3e435a6a9a5040438b2112024cc486",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-geri-donusumlu-tohumlu-kalem-gdk-110": {
+      "hash": "05af9cb2ef27b8bf6a9e807a0343f6067f1ea4a2af7e3b25f023e92b49459ef6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-geri-donusumlu-tohumlu-kalem-gdk-120": {
+      "hash": "dcd75714617b001613b47001503326820a10b0d8fee1b5a2d0fcd1cec12dfb13",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ham-bez-canta-hbc-150": {
+      "hash": "d146b35b74a56f58bc191e2a09a9945aa95ce9ba8ab29fd42966fe1c41f82a21",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-hediyelik-set-caki-led-el-feneri-fn-150": {
+      "hash": "166a756bcd201972619cd7ecf0f45d577e1d39ef5a692dc76a861ee33e068027",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ikili-masa-bayragi-byk-120-cift-direkli-ofis-tipi-kurumsal-bayrak": {
+      "hash": "d945652f852b3f6717595a4610e014c7e4a6001bdcc7ba99aab709e8ac2fc0ad",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ince-metal-usb-bellek-ub-440": {
+      "hash": "b32c0654e8923bb5a1a298adc735aad2cd3e2637cb13dc8d630b909f6c2301ec",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-ios-micro-usb-type-c-led-isikli-kablo-kbl-420": {
+      "hash": "f811c196feda7ddad8b29554000ca25e26326f49594296cae9a5b6b320e1df2f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-isikli-semsiye-sm-150": {
+      "hash": "1933f1d96adc20280e7bf97830f3fc8d21fcb4e9bc4865e6b888d55400924651",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kablo-cogaltici-kbl-410": {
+      "hash": "4e99c6eb51f8b4ca389b7cd21b431b9aaff0fe4558af5cf82686e4c80de33b84",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-anahtarlik-seti-ks-200-luks": {
+      "hash": "e225a7bc90cfc19127d0c72ca179ac43c87d1ab4351cc65661b43088f59abbe2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-anahtarlik-seti-ks-210-deri-metal": {
+      "hash": "cb6f61d655ced6452dc832e63a3edfc7ebdd0c36724d8d3d4682059ffd197971",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-anahtarlik-seti-ks-220-mat-premium": {
+      "hash": "8fed31d03be0b3dfb16683d9f43fd37047a5a2068fa37b8076d5eefdd12f713d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-anahtarlik-seti-ks-230-vip-metal": {
+      "hash": "dd6240bd8e08152f32580044bffd7da0459a1a1524a19b63000796972a3974bf",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-rk-290": {
+      "hash": "a8c8f084cd4388ba3f497a68fd6cb69eb5cb6f67c65753344d85ca72cbdfe321",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-100": {
+      "hash": "ab7e513406eb992b115373bf41945db76617fd51a57224e0cb72cc1b83d1f635",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-110": {
+      "hash": "b2c2af4a95f0d1124e01ae2a6e9fa1b2a0fad3e598883c1c497aaf1e5732471b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-120": {
+      "hash": "8df7bb9d60c567ca38fc05fdebe391f2267d9ded725c4695e0cfb0adde0b1bb8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-130": {
+      "hash": "b520f89e395fdaad205d14428b3bb48ecdd2f968e6b532d54902169477bd3abc",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-140-luks-metal-kutu": {
+      "hash": "77c7df13fb2e79cccbb3f3bf0707c887abbdd9cb6a1f4f8aaa126b850f4f20cd",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-150-metal-luks-kutulu": {
+      "hash": "4358fc39d47a1b743ecaf5281c8c231413b193a95f428f9d58185635cbfa68a3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-160-modern-metal-kutulu": {
+      "hash": "6d3fa105d8451ea28522fd1203308cbe4187d3a43529dd5f8c78fafdc7ef4603",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-170": {
+      "hash": "e6a38509bf8f77f1da2eb48416da44be0125b786f696e8b70666382acae94154",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-180-modern-sade-kutulu": {
+      "hash": "6a72e430ec136e3e5474bd9481051d3163457f03f18562cb0574c383b574618b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-190-parlak-modern-kutulu": {
+      "hash": "ed62e437b1aedec8d291f21cb7bbb199208692b3f1f2c30aeb3cbad04b7dc8e9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-235-ozel-tasarim-lazer-baski": {
+      "hash": "05819301bb9a3e2cd88ef9b706d4074d06513930dcd870ceffddddc6ed750624",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-240-dolma-kalem-premium-kutulu": {
+      "hash": "28bb2d594f4b849ae2f7d69ea543f9dae6e027935617e39335fc2fcbd551eb63",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-250-piston-dolma-kalem-premium": {
+      "hash": "5701d87d4b1833810b67d41b92c62df62a51cc192197e5d9dd9dab518caf07f5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-260-ahsap-kutulu-premium": {
+      "hash": "ad7355aa223e210e7e6a252c4314e3db3c178ea5e6d944dcb2d6c735936b004e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-270-klasik-metal-kutulu": {
+      "hash": "e761ce8e11382fc47348481ec084bf15537e8862b44a47f2a15c188c302e765b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-280": {
+      "hash": "c3307caab70de1bc5e0efd8f0b99b71d7782afc9b4f527ab3a0e1f4ed41bad5c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-290-siyah-minimal-premium": {
+      "hash": "5e4bd727ed0b875db28e7bd1cd010a398e86da8642a3a9ec94fb6b013c587c5f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-300": {
+      "hash": "8f45169fddcbb498018885b4e689fba24c4a19b1c4e829573e52b4c8452fcaa9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-310-tekli-kutulu-metal": {
+      "hash": "1bc74b51bc3c6f5ce35c0c8f333b6af5dd91add1c4f25ced41a05b301792e6b3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-seti-ks-340-tekli-premium-kutulu": {
+      "hash": "d6b3919c81729570d2e29592ce301f3d9531610e362dba990a7cc3b26788bf5a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-usb-bellek-ub-200": {
+      "hash": "76b2a58621c493ded587f693ff17832e945bff924631c309ad06ca675fc5a363",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalem-usb-bellek-ub-420": {
+      "hash": "fc7ae7ecd4c522db5db1a45b322e8ea160232bf589043c373f868bfaeb2a4503",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalemlik-pu-100": {
+      "hash": "7f898f2d5edd6ba3d7b046ac83da6a90e38d2d77df7ba21c84df53d31c5c3803",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalemtras-kt-300-renkli-pratik": {
+      "hash": "c6f539eaf468285247b127001610c0f7fec1ecd65b9eedf6f06031914b9b095c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kalemtras-kt-360-minik-ekonomik": {
+      "hash": "7b087add198f39e6fd10b0d91b96f3697a7b944c4118bdd7d00c414df9b3b8ea",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kapak-acacak-ac-100": {
+      "hash": "0ebab60c7ac794064bdf7423100ce59da2b0914feb4659b72642301924423a38",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kapakli-usb-bellek-ub-430": {
+      "hash": "e517b681703e916de76bfc1460e26b9f54985239a6bc74846e6a77d9e387a82a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kare-para-tabagi-pt-110": {
+      "hash": "f7d8a7f0fa00cb4e05477a834eef013583cd9fd1481546b09e83c5e6cc928b79",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kart-usb-bellek-ub-250": {
+      "hash": "377338dea8db6bc53f0f66c03e3771796b66ff6195b8f007187eb9829df17e84",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-karton-canta-kc-100": {
+      "hash": "71f42db1954155d4d5b4cc0ff31473890f2069b3103b3e83e2265ab14b4fb133",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-karton-canta-kc-110": {
+      "hash": "203e7a4ed046636e989840be6acd6ec020669ce5a56e2b6324655ddba4e7aed7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-karton-canta-kc-120": {
+      "hash": "7943aab16336ab2c56fe611d1408f8b0d7cde134e925feb67b3f99342b53b449",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kartvizitlik-kv-100": {
+      "hash": "d8f5b1dd2572bac9b61332750d4196ad8709f7259c18e356b07cc05f8e836896",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kartvizitlik-kv-110": {
+      "hash": "0cc0e2e54f6d4926f23d0c76df487c2e8556f6de60be75c203667447b1aee3dd",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kartvizitlik-kv-120": {
+      "hash": "2321a24d195ab74d459d3396424d58862f598ac5e68fedfb713763c0349b72f2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-katlanir-ayna-ay-100": {
+      "hash": "4c38a98e18735c2a4a12bab34cb6aafe64d0ddca2e5aa158e02198303e2b067d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kirlangic-bayrak-50x150-cm-byk-160-dikey-flama-bayrak": {
+      "hash": "f6a00d09b7429fa59f5222d6e097807c492ca8db68d42bdea618c4155221e83a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kirlangic-bayrak-75x150-cm-byk-170-buyuk-boy-flama-bayrak": {
+      "hash": "33bbb6350ebdfc5e9abf68d30318fbba61d099661f19c38bbacb38ccc1007b00",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kirlangic-bayrak-75x200-cm-byk-180-buyuk-dikey-flama-bayrak": {
+      "hash": "67e77fa126c28e4e55b9c5afffb9770fa0d4a726d4abd439dbfe3a757acdcd1e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kraft-govde-tukenmez-kalem-gdk-100": {
+      "hash": "ecdc7db159f34aa9a58240062a4e3ec17d9bbdd87f07735f5494126a2d3a3b74",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kristal-masa-seti-kms-130": {
+      "hash": "09ea5bbdbee1f57e8038acfb09aee5b95aaacbf0ab147a99de63955d6be3435c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kristal-masa-seti-kms-140-vip-ofis": {
+      "hash": "9b3bf3f0e0b82a2512b0126c04da8a46b2002c49f6b349ca41bc70b566e19e0b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kristal-masa-seti-kms-150-vip-genis": {
+      "hash": "6e3df09bf72b297ddc9d57769709ff89a1f73970bd773aee9cb0482e27bd15b6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kup-kagitlik-pu-150": {
+      "hash": "a79998a1d53e7dbbc15eff33c161868d1914c9cac9a94257d181d57657c384fc",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kutulu-kalem-usb-bellek-seti-ub-280": {
+      "hash": "aab81ea73c962950266c7b5b156c2b84e474e4b39a0e51e0e899447507e3ef80",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kutulu-sarj-kablo-seti-kbl-350": {
+      "hash": "95868ed17ab6df0ffdc7d17e628d516d02bb1b972ae1f7191744438169259dea",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kutulu-sarj-kablo-seti-kbl-360": {
+      "hash": "29fc5f62e5612178f425345e976cb0d2db93b9f45a690e8b64407e17a8485edc",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kutulu-sarj-kablo-seti-kbl-370": {
+      "hash": "08f0cbe23dc289556932f8ad44a054faced920b80e994cabae4c05196e68acc7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-kutulu-vip-set-ub-270": {
+      "hash": "6dae5f1b55c43c6e3a231195bfd7887ace0a8b812c35be7d8c1ca0d0f61f335b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-l-masa-bayragi-byk-150-dikey-banner-tip-ofis-bayragi": {
+      "hash": "d8bd465532228486afe8957ccef9aa0d8e0c5cb26279643a91bc8b7eab8ab68a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-latali-yuvarlak-kursun-kalem-kk-440": {
+      "hash": "177598c9a4969cca6e16914f540294063d36fff60d3274fea937279c6bb34598",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-luks-ahsap-masa-seti-ah-110": {
+      "hash": "bb81bb489c3ec980ee3f8a8e83e554f00f6bf6096869aa76b5cc4e9b114988f9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-makam-bayragi-byk-100": {
+      "hash": "32365e29a1981a6efa4a2fa2b6979aebfaf9fb5a9be349c9a52b48fe993487a2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-manyetolu-cakmak-clipper-brio-cm-600": {
+      "hash": "a6b3e0b856ce0a5b5764357999ac6fe71d9ba200a88804c5778b23dd124c0212",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-manyetolu-mini-turbo-ruzgar-cakmak-cm-550": {
+      "hash": "4dc77fc034e30f2f489e3a281bfcee3c6eb0137560ae9b0b35514053ad17693a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-manyetolu-siboplu-cakmak-cm-250": {
+      "hash": "a3d107c8494c55fe20c85fbeff75be8afab7dd0fa63f61f5f5ce58c1ebd3f607",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-manyetolu-siboplu-cakmak-cm-260": {
+      "hash": "f8b9ad7822b7b65d66b3ab7ba67a8181d39600e7eb8f37c596b5d3af08b9e9fa",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-manyetolu-siboplu-cakmak-cm-300": {
+      "hash": "faf78abf058b9743579565fd67c19d7dcd7b6001f4569170d830d421c06b93b2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-manyetolu-turbo-ruzgar-cakmak-cm-350": {
+      "hash": "58445be4201c1d424e6a44571668cfefdf152dcf912495cfd29b183d9e7be5df",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-manyetolu-turbo-siboplu-ruzgar-cakmak-cm-360": {
+      "hash": "c40228a7c559e7bba37255c86d3481bde8969886f38f9204ebf5a717c3130fde",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-masa-sumeni-msn-100-6-parca-deri-set": {
+      "hash": "5c404bfdd5dcbcba6822c9f178e45bd8608da3520d45088beaf9e90491fee939",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-masa-sumeni-msn-110-6-parca-deri-ofis-seti": {
+      "hash": "7e7c83676262747cdb456ab420d427b7cbaefced15da09815e723c4f78d1c7d6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-masa-sumeni-msn-120-6-parca-deri-mousepadli-set": {
+      "hash": "e619ec82656c23b4701eccb85c480d104eabe965591e4180e3bbfeb97506701f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-masa-ustu-deri-urunler-ms-140": {
+      "hash": "526ee8d613bfcdfb749a0bfc63bc59d912279c0b825bff061241e5e06b66cc8a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-jel-kalem-mk-290": {
+      "hash": "6e9090faecc5eb736927d4ba2f94a483ff867c6eb83c7ed8ceda36365eaa9b3e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-07-uc-jel-kalem-mk-120": {
+      "hash": "83c297489477555c523da9a5e967581906ad59f2e9547979b4c1d4baae51b2df",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-100": {
+      "hash": "601f3c1d56b3d7cd8d4e4b174e1f5772cfe1b5a3d0f0afd0df0425070f5509c2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-110": {
+      "hash": "72edf69f5559e56b4c4a30868e81b4eaccaf94025742662ad70e862ca957f7c2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-130": {
+      "hash": "235c8e7c3d293287e9e31f35eaf3165737b152936e87cb51a75514c0debc262a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-150": {
+      "hash": "1d1b3e78bcec2804514dfc3915a8c797afd7b9eea605d95c94907df01248a534",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-160": {
+      "hash": "50d1fbb8e0d9db6949bb634fcf80c87371cd5610fa1e8cca974c47696e9ac520",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-170": {
+      "hash": "ae25ab9a651699dd2d2822326ab11c8deefe56c69fc033336f5d190797330ba5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-180": {
+      "hash": "1d3554b70d788ec7fba5e74e638371ae9bc08a30be9e1f2db9185f7efbf87783",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-190": {
+      "hash": "a1e1a96ea6c3fefee52987b6e6656db939010f4567b9725be97076ec00fb58b3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-205": {
+      "hash": "0ac5857a8c300aab34be094a20db0fd21ddc9587bdebad99be414ce8ec710a3f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-210": {
+      "hash": "3aa585a4155d59480ae22fb0ad19453f6400d05f1c56ce31d14c7557238b29a9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-220": {
+      "hash": "8748bc9a7670318fc94fa24eb640586f33cbd54936c6b2086ea77cfde7750d0b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-230": {
+      "hash": "cb008b9a9fb9f8b8ce820e9882d86866676abff4fe36e3c99099ffe9a131ae25",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-240": {
+      "hash": "766a350cf30e85049dd25ce782518c9da80b4c38ff570d068b090f0404c6f5ed",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-250": {
+      "hash": "01deec4fbcb9db72388c7f29733fb40d93a62b29baab0d06a820c9e373cbfdf1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-260": {
+      "hash": "226b57e6096d7d58429f1c676f05e36922244717642a88eee2364720ed0c1bf2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-270": {
+      "hash": "d6e2598f5ecf9ac68562874abe87e131bce44608d58f4715f5b2ae0ee62bdb31",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-280": {
+      "hash": "0968edde61e984c3e5868b4862906b15f38bd4a216946409128cfed9c792a99e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-300": {
+      "hash": "041479007b02092f5f03f1c358d13fecb1f8d66e750065a3865fc5b143779d93",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-310": {
+      "hash": "f0e7c71a345346379a12111b891d5dab08e09efba76640cb478846cc2b387d4a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-320": {
+      "hash": "992937d39f096c4bafed1efd6089cc1e0fd4f25ccabc70eb76adacc139bf8af8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-330": {
+      "hash": "11ab9e4cb19c1f5c449ef4aedd9a6a641bd2a108f64194365d643dfd32533ccf",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-340": {
+      "hash": "e6dd6aca9628d5c7a5e7e63e5f059691d91ee54a72a26191877fd33004332af7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-350": {
+      "hash": "4a060415c292163da667458d22e1a215ef121ca8f3f89c2a00af2b80514f2575",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-360": {
+      "hash": "a75a7212f4befe71e5ebf5cc1e33f561b4df3bff6db638f60e5315d512438ab2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-365": {
+      "hash": "1ca6de9d0197d36ef5d649220ff69a02eff85036e8b213a5904d7aaade6e9b5a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-370": {
+      "hash": "456ed80e11f570e83540975e039467ed62b72e22be36b565fd23e6322bf39add",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-380": {
+      "hash": "c658b360a0cb86f4f2a52725f72c80c9141228f336f26bbd7608288b018c8a98",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-390": {
+      "hash": "759cada8f5d009e312e178f194b9d83ae455432efc73171938b43e9581cd7b12",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-400": {
+      "hash": "6fe4e580211780cdb4505da6aee5588e51dc8b17a0e67a4b8536e6816406a006",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-410": {
+      "hash": "50db9a4519cc420a0d5936bb62baf09cfa542198db23d98ce1e0077c8659247a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-420": {
+      "hash": "17dcf3f6bde53e3a9d7f1e03ae02efc93278415e3e22421530c4af667e6b191a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-430": {
+      "hash": "c803f0f522f6cca01d5986494208d9fc7216848018fe30eab187c4483ce3bb78",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-440": {
+      "hash": "6a9d405f99aba1064dbdbb49e9ea0ce16895b71946626137470bbb1e668713e8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-450": {
+      "hash": "9ea17bf2524be5f892d2b33623c8bd4158b8ddaaa6d165bf415b344223973801",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-460": {
+      "hash": "c543b2b34aac2c247804eea6682e568bb2e53efbc9bcb4c89beb34d6ed16824f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-470": {
+      "hash": "0f70467297e9f2ed3580ab45d5ce93594cf1f9cdcb850925f38db79f34f04136",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-480": {
+      "hash": "3c66c9e135a06790da64d45e3a45e52ca6adf039e5a5526b0bf997ad26baf003",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-490": {
+      "hash": "354b1fa8d882e636bd42e7596abf52f3213f9d11921664f00df6fa74bb951e97",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-500": {
+      "hash": "39ae4d54189331746a36a2a67ca62a2917a40f588576696fbf7584ddd3af0154",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-mk-510": {
+      "hash": "9ca62cab6f8e9728376486ddbd5b5f74ec768a729931a2daac8151bb054bd2bb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalem-usb-bellek-ub-450": {
+      "hash": "738cd90a219f2244411c70aecebc01275ecfec0b48f0c7b3c12af9499bfca7e4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-kalemler-mk-140": {
+      "hash": "6549d6dad8fba9cd58f1f336f4ab75242b212c8a122cc59e01f5738b889d6479",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-usb-bellek-ub-130": {
+      "hash": "4ef339dfd66b5b13086d27e662df6a1cf8675a9318031454ebec9fb2ebc4c95b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-usb-bellek-ub-140": {
+      "hash": "714d22cfcec40c93cf0a76a7596c7c9b6838929df8fce78597de84bcb34e375c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-usb-bellek-ub-160": {
+      "hash": "8ee5d252b476fd64eefe587e0e771ccf4733e51a696f8d9581654551802088d4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-versatil-kalem-07-mk-200": {
+      "hash": "490b98adaedb05e48461a5759ee11d875e288bec81d921783efacbc926ce284f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-metal-versatil-kalem-mk-195": {
+      "hash": "ac73fdb3e6feef84d15c891157e75038dc9672ddf63efa41f6144e709b7af971",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-mouse-pad-mp-600": {
+      "hash": "ee60518d9260cb85c5da0f8de1479447a4677bdb7ea9ba99a3877f6cd293c550",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-naturel-koseli-kursun-kalem-kk-360": {
+      "hash": "bf9144b468e2ff3bab06eda0b6385d79d033bb5e93b887576bfb2e0671400459",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-naturel-koseli-silgili-kursun-kalem-kk-390": {
+      "hash": "62bf3f4286c6651ad46d9bc8bd65f3d68c647e180e348cf50d430e9cfd641188",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-naturel-yuvarlak-kursun-kalem-kk-380": {
+      "hash": "a380497a2529f254ba66ab01d5368d08e5a1b8995256db4db9368f6156441df5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-19x265-org-100": {
+      "hash": "14f72e68989e71090534c3b2874fd998456e151b985ac498217077b07d78d4e2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-defter-td-135": {
+      "hash": "2b839cc01d2d6be5dd690043a9032bd941434e1f8e12299c0eba00e15a779757",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-defter-td-136": {
+      "hash": "08ce6c4b5e1e6e03f4488ff02c58024450319411ebe9ae0ad4a3d7b364b8be5f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-120": {
+      "hash": "69d32d92050e0c3234a887e597ff59457f529d072aacc842c4f49c9dcc7c1231",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-130": {
+      "hash": "6c8eb203ce156e44bf3dc287a1e6ff22e8d5b3ddb4d27dd4112f3a44156afc49",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-140": {
+      "hash": "a7a3bf68ae8493852412a25175d03eaee4d9418a9f5211ba4793d4e2580736d8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-150": {
+      "hash": "74720b57ef5a0c28bb2c772f54c2ab78b2072f5ae2b2d919db697590e9bc677d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-160-termodei-hesap-makinali": {
+      "hash": "47ea13c96289df287e1d2b99e0c2f2682fe2042943ed83e8842ecd041aea3a56",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-170-manyetik-kilitli-termodei": {
+      "hash": "742f25ec24aec3c52b764f530f30e9deaf8be3e3c592612ef06e08c6489a1b34",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-180-termodei-hesap-makineli": {
+      "hash": "de6d61fe31ed41089824607d044b564a88f06202863a15bb22d7ec7e3848efbb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-190-termodei-hesap-makineli": {
+      "hash": "6cfbe86ab556adafae54691a866031355b3c40bacbf1b045f57e3e5e67ad784a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-210-termodei-metal-tokali": {
+      "hash": "e661876172f4cb3dc5127c688bb95ab4aaca08b04f762e1db9d7b40ea2fa61e5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-220-termodei-metal-tokali": {
+      "hash": "be7a78386ea1bae31edad4aa38e59faa3c0410f9f7dc5a71750af2df59d542c6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-230-termodei-metal-kilitli": {
+      "hash": "0affaaa50f639d746b8c46830b61ff140a098895380f023feb931702e5e7072a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-240-cift-termodei-manyetik": {
+      "hash": "51d38fe57933e712f31fb5f48c2219eab305c0a1980802f463cb9bc575401f4f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-organizer-org-250-termodei-metal-tokali": {
+      "hash": "04a6dd8f380a7f11b94727877152f733764ef302ba35678c91fe5b9ee2ef2ab2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-oto-kesesi-oks-170": {
+      "hash": "9c08b387fbcf13da8fae82af42500b55d4d27cdf1d8389378b46e8c23a1933e2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-oto-kokusu-ok-750": {
+      "hash": "7eb185a24ebaf7e1f62cec6041a1c15cfa8d11d726c64f4870cacbbf2a7e02d8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-oval-govdeli-isikli-usb-bellek": {
+      "hash": "05a032f7c788a87bfe0168791dd130dcde2ac6f0fe2bd5c608157a8f74cd63ad",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-pamuklu-fileli-sapka-sp-750": {
+      "hash": "420a0074a2f33072b74795d1371f5e26fb99eb238cedd463bbb16e38b3ed30e4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-pamuklu-sandvic-siper-sapka-sp-700": {
+      "hash": "e39f731ea28f496154f9f1f998163177778ac7bc870b6acbc8bb752ee2438bb3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-pamuklu-sapka-sp-650": {
+      "hash": "915293a77f759f16c2f265b210ecc9dee0e469d919237f2fd0d3684b348e6c06",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-para-tabagi-pt-100": {
+      "hash": "c41bb66a8dd1ba115b7f6ab5066f856b1d12046f6e41b71c1ce8bb434ea9abb7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-penlight-pnl-100": {
+      "hash": "000075ec074a5f7d5ea457d711c190ddd30ce9a3a1b8d6ef6e3ad016c52e2079",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-penye-bisiklet-yaka-tshirt-pn-100": {
+      "hash": "46db282b17ce78a90f22a3e15bb933f20e97358b06c6f57b651bedf79d54d234",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-jell-kalem-pls-117": {
+      "hash": "0074ec938655c83af0b00bbeda766c74f22615c69df5d8148d0b0cbc9e7f4fa1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-jell-kalem-pls-119": {
+      "hash": "67b04bc7dcd3a0556ca7884b25c96e9e8e4abef1027b6e8b4385cd400b77f9c6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-100": {
+      "hash": "5a7c57f807da81c84e6543f6105f29cae98ca76e9a5ef5e6feb31a9bc80dced4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-110": {
+      "hash": "9aebcf6e4db0af50f8d2a9369f185539c623b20803ebdfc4a8fbe29c19a84bdc",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-115": {
+      "hash": "651fbff6cb427d1b214692ca5d598d59b750b29e7f4f19667ce5e76898bf76f9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-116": {
+      "hash": "977e44d11a254cd5cde0eb7e7d21066c707a3d509b50381fadbe88ac7052f62c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-118": {
+      "hash": "1755b37d214197a87e2ecc9dad16aab3d0115a7a06e1b84b6797b8a00fb03f21",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-120": {
+      "hash": "03e96d522b9d611f1e886f73cd6d9ca77ae01826d85fd75727537020b1187ae1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-130": {
+      "hash": "5624c78a1f15b58eeb98c0892dc9d08c1a40e7794bfb3f47037f1c49c63db42e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-140": {
+      "hash": "7986481c7fdf678bf36428e035d882caa0e23cf48a6abadbb293f8e4e57a161f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-150": {
+      "hash": "ac256b3e8682c894a5d67da62e9724c98ce44f231b9b78051ddbf16b13b915af",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-160": {
+      "hash": "bc8f46f1ae51acf07e8acd2020e8f39cb73530b54d2dae643a8d880cfc2565d7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-170": {
+      "hash": "c26d81242b83c33f068e028dc2053619e38aeb15aea29c3a262c663e387ba438",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-180": {
+      "hash": "98a6fbe0fdbeb7e69d02f0a570c34f9724dba16e0f24a913bd7043466f5ebe45",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-190": {
+      "hash": "f55c08fbe6e57656cf5a876ce0487142625b2f8d1eecbb7a213dc5cec410237a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-200": {
+      "hash": "0f384625f36517e3b73c251f5a31da5d8bbf28560e0c5a829c6b08cbfc19a8cb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-210": {
+      "hash": "a358f73372978bf7b71c6d9dc78388032a321abff81576e1142a9c44bf5ebfb6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-220": {
+      "hash": "29ab3c54369ddae469e258d579a8e8209d5df0a423063748862a5fe584d890e3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-225": {
+      "hash": "da3ef307078f686dbc51423658d8d8d83a2ab4e78e352221558c2beb4283c8eb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-230": {
+      "hash": "ca6f4a4b90547a471f13789a060e247f87077d2af7883722e695aff67955203f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-240": {
+      "hash": "56e3c41bc4f04ddeb0991137f5be2abb7f8c987cfa69d27891b534e0dfc5e8ed",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-250": {
+      "hash": "deae3d9618d955de0d267a0393dcdb0fc8c4012f3a21dca33a87e1584c17bfe7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-260": {
+      "hash": "40a6fbd467dada13418119dcb2a22d31a3ed3500bf107702a583c3a1efdb00d0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-270": {
+      "hash": "9fc080d2e54be5cfeb3ef6adf5b0f076d4832e811ebc51fc89289299c44e7dfe",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-280": {
+      "hash": "a5b32c120f261ea9ce9b78c31c964f1fd6555efb0aabf0c62590d03ea1bd2c3d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-285": {
+      "hash": "8782287cb5627081132b136c8522976f9d486adca3ac545d14c38b5dc1bbfc67",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-290": {
+      "hash": "5a09b28410f1dac33a69fca64460520dc2cb11b1cbd88d3feae2f14994e87631",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-300": {
+      "hash": "6cedf72f0d96ed84f143358b120b8ebc390bfa006f792f7ac9c484cfb50bfb58",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-310": {
+      "hash": "48debbf80540355cc769e4e12e9b9f0811100260850b01ac31740af47fe45e00",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-320": {
+      "hash": "d22f028c2dabd6ea09488eee508dafc24e0a6cc2684d9f0a75def3881db0253f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-330": {
+      "hash": "f7e3d379e47eef7bc95bde082285c032f86e4f9e33e8b8f2d5317e941f43a03f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-340": {
+      "hash": "2dfcce18aef34baaee55fb60b3d87ff8347375bfd6251e2a8bb04ec2fb1b965c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-350": {
+      "hash": "d36c4e81da981778b6a5f13a7899f64181ca6985597883b46aaf6534a30fea64",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-360": {
+      "hash": "cea936ead904efa68cbbd0fee6472676043ff79322470970372ffacd83e270ee",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-365": {
+      "hash": "16766c57151e8bc7bf976aa646e89a9f2db2f9d5d3fd57d4695f238b46881360",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-370": {
+      "hash": "0eabcf86274827fbfbf797808318b73fb8d09b8a76aec5aa1dfbd513ce54732d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-380": {
+      "hash": "5f0fbd8245f932257d3962ee66168cc5e8f93519d9b475876d2d738c6184133e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-390": {
+      "hash": "4407fc9ce1659ce9b8654c082c0be4ea934b14afe691d8870533fde29fb53213",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-400": {
+      "hash": "93f701d29c347a21b57220d42a0737e563dbc9172494bb8195f42d7517e48385",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-410": {
+      "hash": "19c4a5362a071f84728dbdede822328d593ba15992533ebf3d7a7a1f936bb362",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-420": {
+      "hash": "eb8dbe17f2658cf7b1374a06014eb81e461bfdda999bc02cd8c783a4e1802931",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-430": {
+      "hash": "9c352acddc236801e88881ee1220bcc4f8ca3cd15a230d243aa96410184ca74c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-440": {
+      "hash": "2969a6d89d6de3f933a17b16e3ec88052bc765bb59c65c428913be959b4a2aa9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-450": {
+      "hash": "6c901072756ce939fb88cf05046e815017ffa22c0536c958ac361ef86120e2da",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-460": {
+      "hash": "518ae699b54c10e2f928820eeaf515699cbb85267a076f8c06d5c262ed1a2fa2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-470": {
+      "hash": "565691d831aad2cd2f1ce0397c9a774dbf356038b7f71e169f5402688cf2cabf",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-480": {
+      "hash": "71a230e1db5afcf6d4edd0d856ca17b55ec892d7f0b61e6948121cd18840cf6d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-490": {
+      "hash": "a09b0a9b3c4798fdda89be6ea603e0ba4755fa06ac9ca97fe314d805d85d4da4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-500": {
+      "hash": "068b74707425462aa5e9f6b6ccd95533df82446f7580d53e0a1b61e40a887abb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-510": {
+      "hash": "ac1008a1a21deb39669532d37f5bad71ae027a9915e7fd37d337a1df55798bfe",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-520": {
+      "hash": "ac2a687c84ab630572a4e1b8fb4bb57dff784eca1910e9e2a9b69d2e3ee18b9f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-530": {
+      "hash": "bca8c0a45ff6d10acd18fea57f3b713eb6882d978b6adc01b14fbe15b3ce933c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-540": {
+      "hash": "7b588248078cfe510d1f19bc487f881d535acebd0d2f7983c799c60a311f5570",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-plastik-kalem-pls-600": {
+      "hash": "2ca3907984f6bd61d5040d1d39d6743a2b3a1c8383213e3d33b84906e33bb5ae",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-polo-yaka-tshirt-py-110": {
+      "hash": "7e8259b823b3cde9e29de2aedae26d970e9232d092397d2a47a8156644aac62b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-polyester-sapka-sp-600": {
+      "hash": "1d22275cb3089435cf6c6b3b1cbec46e37e421a1a85e4079c81ecab882135a18",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-porselen-fincan-220ml-pk-140": {
+      "hash": "c5add291c8e0e29213639537f23008d225226bdb9373be38f77747da02e4d5e0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-porselen-fincan-240ml-pk-130": {
+      "hash": "6394991a361e89c5d2f3d1841b85c1b5b77c7703988703822679496a6402ffde",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-porselen-kupa-280ml-pk-110": {
+      "hash": "6c90ac21c09c14cb4e201252a8ec979d999f1d3abd67e15ee8b713f62d6ebaa0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-porselen-kupa-280ml-pk-120": {
+      "hash": "cb7001340512194f21d614f8295fa21ea1bb391098c873d380ff90dd6f0c767d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-porselen-kupa-330ml-pk-100": {
+      "hash": "c0f8bcdb4c5634ec9d2533fbffda67c1de1f6d3b0ae433cb30bcb0baf564f5ca",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-22-5w-hizli-sarj-pb-112": {
+      "hash": "57fe6bbb8dfc7f0b04235843f3ab2ea58cd73c1f39eafc8af134b5b611f1fc72",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-111": {
+      "hash": "7fbaeb41b597ba33e8372e547467ea28a9c16bfb4d33960c2cc545ead20cff4d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-140": {
+      "hash": "cdeb58a90f7dfb882cfa9d55b4540c160856d3b327f33968fbc5c45669a5776b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-150": {
+      "hash": "10aa458c129c4552a59c5ffb5fc1a22fe3d175eacd3781677836089de96bd731",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-160": {
+      "hash": "9615e8fc39a985e5c411745f8d30d5646cc0d129ac6b3315d0b1103dbe38ff5b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-170": {
+      "hash": "7a925a51dc553edddd1b57e60139b5afa60f8f9921c9ee5cbdce27ef64ef8215",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-180": {
+      "hash": "aa39dc4c11d53c2e7aa894d3153180b10287e4033cd0d76b8ba6918a36cc7686",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-210": {
+      "hash": "3eee17ff6d1fb19037ffb09c0a464f26b5a79dc7920725bd5132622edbb0b7a1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-230": {
+      "hash": "9cb0cb39413d41e9ffc87047606eb43d640979282b1ab2619a7aceffe16b40ae",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-240": {
+      "hash": "58cb1d1cd9c0a7f0f9f805b012f4100ae759ff6f0ee6b43930a1b9d9c4301f9f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-250": {
+      "hash": "50b9c72cde3d89c06d6a4f4b2bec0b80bfde632a6c677ba3bc59392e084928a1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-260": {
+      "hash": "f540fec653d9cb73fadb0db9de713cbfd6291d841280bed935466abc6c4508b9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-270": {
+      "hash": "f7b78597b2baf6fbca931e1bb3d2bdfa9520b07a5b211cfb6e54e4aa2fbc604c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-280": {
+      "hash": "238e790b903d82460d8b4064baeb1a7029cce40002bb39e7d100d6938697c9bb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-310": {
+      "hash": "e220e904def553972e86af088a7f0d9d3fe9bcc53902e902cb0c40485fb276fe",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-320": {
+      "hash": "42212dd42f3a27a93ab9dbc84bfcab56847a212fa23fa71130d90058adc9ecd0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-pb-330": {
+      "hash": "fae1aaef848217786fd48766e858543a307b8da4f5c24b0105db5b07940d6ab0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-wireless-ayakli-standli-pb-120": {
+      "hash": "7fd7b84b29112fb26417549cdd62b93e2d3e58e6963271308175d91f9a67b795",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-wireless-led-fenerli-pb-115": {
+      "hash": "1237442544b55ab9a6647c934757d03466580759069b6eb572dcfe54d7d5e6da",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-wireless-lightup-logo-pb-130": {
+      "hash": "0e225522b528ec267e265e11d112931164d913b110b75bacf878e1e56b9a48f8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-10000mah-wireless-pb-113": {
+      "hash": "0c77b8f76e52a5c776b486c7627e2489784128f43207bdc6cb3e491513ad09b0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-20000mah-pb-110": {
+      "hash": "3e71be3bc87f91d2d4ec00cc58cefbb73bcb2c90384b1b421f8780d11324bd0e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-20000mah-pb-220": {
+      "hash": "28b384d18d77097f5b4f853468ce8bc1a96caacdaef3954f4b17fa00efde34d9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-20000mah-pb-300": {
+      "hash": "a653e0ffd282e2ecd3600f674d2cedd24c3116840f6a2d995b6d0f2e80ef41a0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-20000mah-pb-340": {
+      "hash": "0ed3613b9bb24a0e31eb7c6ecb4307fe98c46f5edeba66707007d3ad7cca3aa1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-5000mah-pb-190": {
+      "hash": "e94dbb9e8969894c5d6a952071052ce7e3d19d5c64beaf88a27681ab3374739f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-5000mah-pb-200": {
+      "hash": "6a9b177c6a18e35c9ccdaf823407135268f2b4351b05f6c9abdea3b20e406e04",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-5000mah-pb-290": {
+      "hash": "e1f6ebea1d9eaa9b6d322f1e710b0b775fe0170bda68a5cda0e7a5820a45cc51",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-8000mah-pb-100": {
+      "hash": "c5fce4e7d149588ba7c631a128b49e9018db0f668d1d27c5f76ef210665e7930",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-organizer-6500mah-pb-350": {
+      "hash": "0e9038e96420fcf5b5fc42e5cf02a2b7ebd12299bd8f83c2ea64edf4e3fd8686",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-organizer-pb-360": {
+      "hash": "a6f9de4f25c0d6e10f86ddfbffff54d63c6c01da15ce92102d1c8cab9e2f0347",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-organizer-pb-370-8000mah-logolu": {
+      "hash": "e817578cd59bb7d26a7e678e168c51e3b0a9d250fbd7509ef6c90ba854a709fa",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-organizer-pb-380-6500mah-logolu": {
+      "hash": "fcf05d6fd04ef20bd75fd3523f7bcfafd082a6b81ad90bf3fb0249ddb0ba94c0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-powerbank-organizer-pb-390-8000mah-isikli-logolu": {
+      "hash": "ba731a5850839f41930fcf6e5dd960310b42eba81b86c5a926b742a800bb8b0f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-renkli-yapiskanli-notluk-13x6-gd-250": {
+      "hash": "c882d649b3520642e65d5156f483ef82a7b94bbbb55a2408b2faf1f7299b716f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-renkli-yapiskanli-notluk-14x10-gd-200": {
+      "hash": "e9b8d753189744652d8e1508212f88ea7e1b2b4d3591fb1bc498fcde44147c19",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-renkli-yapiskanli-notluk-5x21-gd-240": {
+      "hash": "76e5b4588808c8b64563748646324776c8dd6ec8cab872168099cefe97f83ca0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-renkli-yapiskanli-notluk-7x8-gd-220": {
+      "hash": "60a28c8dfdf1e8cad746115b6a441b23b1b9d7c91cac7a95b444107cc96ba200",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-renkli-yapiskanli-notluk-9x14-gd-190": {
+      "hash": "9198215df80ade412a53d84c4f7e30713a9d5180d1c777a7b25ba942e27de041",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-renkli-yapiskanli-notluk-gd-130": {
+      "hash": "b52d3d99dae8c5a996e4dd102f2914385a14b43c19a3d6b48a456f94c98911aa",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-renkli-yapiskanli-notluk-gd-150": {
+      "hash": "6046ca109001502a300e296e608ae626f26cfac08f1859587a3962d63c910969",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-renkli-yapiskanli-notluk-gd-180": {
+      "hash": "ecd7bdfb2c5a9c7d8072a5636233f1755d59a90d1707dfe6a5ce9a333312b3e5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-100": {
+      "hash": "860837c668dc88b71a7469a0decdb3ec5c19448b98539860e7711b2363b3c0cf",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-110": {
+      "hash": "9772ac7e6af1b58aab5a856f89aed04c7b8e61147aedf34d6f2cc679658896fd",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-120": {
+      "hash": "da2f3c9b60fbdbd73f8c4b74b517305e529ee0e1eab3f46a6793bb95bc4c9441",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-125": {
+      "hash": "c51b8af73617557df389e61f43af363d54e4469cb96133528cf91c7e6254c044",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-130": {
+      "hash": "48213476949425957038a6673518c3528f646e2818534fc3217bda43e2c0c60a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-135": {
+      "hash": "f74388cd9b1025b5237858429ab6f94cf1736ef8b5ff43d863cfab4ea4014440",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-140": {
+      "hash": "44013710bf5f63ce9a3d605a34ef3b2f1ebc8a746b82012e666e9800c1c61ceb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-150": {
+      "hash": "5ad5b4e7c73754ce607d990da6ca8586ba20389606ea447b481a5172fb940035",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-160": {
+      "hash": "cdaed4c742af93355195dd9bcf21cd1ef61b86956562516a7865b745eb995be4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-170": {
+      "hash": "3e6269dc2d84b56c80237ec4551b6bb06e4c03a232436cd81da2d857e597394d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-180": {
+      "hash": "da7b2168e3e81c7befbd0a2046b69afb175c072972050f4e20b0719174541124",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-190": {
+      "hash": "31b952267a262929f21cacbb4fa81bdcab2616ac6fc55feafa34c882b875dada",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-200": {
+      "hash": "b978da682c73927f326d222803a7489960202eee5f05a24d91c2e32def6f0396",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-210": {
+      "hash": "1d49e5f63d20e66653606c2faa23f4fb1ce2d3e5bea6e2b4c33990c4252d1bcf",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-220": {
+      "hash": "7918e66d8e81d0cc0ad64562bc40b8ee1dc5c95c8b53364ec6b33c9e648c71eb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-230-rubber-govde": {
+      "hash": "75adeb3f498fe79b47715e625cf9e198dbdc38f9b65a23ad575e977d99dabf37",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-240-metal-detayli": {
+      "hash": "100c046b70df93725dde805e7a692f7d2950a8cd4dbb28dd5d70241dc12957f0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-250-metal-detayli": {
+      "hash": "59e6a329a391e305207f7fec64d12b5d8486abc7b951ea5cb0a1d077c5ba347f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-260-metal-premium": {
+      "hash": "fc696e055b652f4da1f4c9c3ec3de440516cdeae8a040fb38a48631e24404336",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-270-metal-mavi-murekkep": {
+      "hash": "3619340379b3e391e0075ebe89be42c522e2babdc61a470b12c9aabfc2ada3ee",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-280-metal-mavi-murekkep": {
+      "hash": "a10cd94bb839e66f748d0537ce48e748e8962202979514ba05c9d2e338bc9ce5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-295": {
+      "hash": "34f8347e31c32728b635643804f51110778b84d2de1333acf3531a2bc34d29ee",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-300-lazer-baski": {
+      "hash": "82528807033fe639edec43310ed97a00fe53d6a2fa0a2221b25f569dd0adbb99",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-310-renkli": {
+      "hash": "0f47356bfe01322b31718182d4e8e3e3a8697b82d33269da70bcc6e5572ffcf1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-320-metal-vip-mavi-murekkep": {
+      "hash": "976b7b8175c774cc341a9088a2900af5dbadcf40d1ff9ea738ff397358891c0c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-330-metal-renkli": {
+      "hash": "5edb102d02f96fbec8092b76bf4b5c74ed4fecb52abc8077b8e9d990373ce132",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-340-metal-vip": {
+      "hash": "dba8502e89b91f4d68a2f5a59cb0ee68210d0787db208095286415610813f353",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-350-metal-vip-mavi-murekkep": {
+      "hash": "79026497dbd01fcfcb7878dd93fe581c5c23b58e35ed3644409dd729796b5caa",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-360-metal-renkli": {
+      "hash": "30d6f0e2424614c6d284bf88d75cbaf71dd6eec29ec042713172b661981e373e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-370-metal-vip-mavi-murekkep": {
+      "hash": "af7ed3224c11640849b86bff35456f45166193aa8938b5ceecfe16a2f8d4c705",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-380-klasik-metal-sik": {
+      "hash": "1520e3de336f7a07eb19b8e7074c2796c29dd610c15b4706e6efe0981dc4e3a1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-390-dokunmatik-rubber": {
+      "hash": "ac5d209b936f2aabb8bd3ad2ec0a8908cc93cacc7d4395f5401da52293bf2c1c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-400-dokulu-metal-modern": {
+      "hash": "37d512b69b99076bf40a507acaa47ce1d9c91b8d2329f6ea9c065cfcc0b4551c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-410-krom-metal-yonetici": {
+      "hash": "c03bb63eeec52341d9ffa12d650c15fc3bde9ae5dc4239a712eab1e6d4970e1e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-420-ahsap-metal-dogal": {
+      "hash": "2f31af713c905daafb4d650d46cc3afd8a3287f00a44cb3665e2d9d1154fc7c8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-430-klasik-lazer-baski": {
+      "hash": "5b3c6597422c8ea3d979b17f64d44c35a6747a84db1287cc8ac34016586bc786",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-440-luks-lazer-baski": {
+      "hash": "4fbb6d3b87dffe672b66c47350e4ef36c4675d68541b145bcc7276c7bbbeb2c6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-roller-kalem-rk-450-mat-siyah-metal": {
+      "hash": "f4ce8e171b69405a2c31ba16e5a250023f60c40f03640dff13b0b547837a5ac3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-rozet-rz-520": {
+      "hash": "c7df421fcb91634b12bbd63b4e094cf0ecc9c1919d4479ea488e1bc13c4fa186",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-seffaf-kalemlik-pu-110": {
+      "hash": "66c3e7a789b34a05564b2127fdd9afb5b978367d7eb5bb1f986e4610719b78e0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-seffaf-kup-kagitlik-pu-140": {
+      "hash": "0ab822f67c0630b39762dcfcad864f61852c24a021d917e54f1ce4563a1aed52",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-sekreterlik-23x31-sb-100": {
+      "hash": "13c1ecc0a600352246a3d573aba7a68f107d98813e96323c5c8b3fa168a1e0e1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-sekreterlik-sb-110": {
+      "hash": "dc86a8b1ce1102d43767e6147aa405f0592e6cac65fe7d7dac93acd1c60b9f72",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-sekreterlik-sb-120": {
+      "hash": "bb68be1455c1b14f383da122e90a46acf84c33bb8128b1dd0674720d1c20e6de",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-sekreterlik-sb-130": {
+      "hash": "ff9e99acd21b0e314505a637cda9eb062af6232ad393a3f3ab51601d036a5653",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-semsiye-sm-100": {
+      "hash": "e186a5e7aec5b0929d9698563820442285b8994db0b7f926100f8e3768ec6537",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-seramik-kupa-275ml-sk-110": {
+      "hash": "54a37e62be8a56a57123ba8d5dc20c2a1741622a8c647b94120310a8e6fa09fb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-seramik-kupa-330ml-sk-105": {
+      "hash": "9ce1d39f291b7fc4fbdeb1b4664ec705f5ca2133923694b583fea01fad2287b3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-silgi-sg-260-logo-baskili": {
+      "hash": "91897498ac53a9776117f699483e27960520d19bde1bb24ec7e6557a9db69102",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-sinav-seti-kk-620-kalem-silgi-kalemtras-seti": {
+      "hash": "948ecf3db5fbd9176a8922b9bc9087002047b0116e67d6e1248635dc2cf957c0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-spiralli-defter-yapiskanli-notluk-gd-170": {
+      "hash": "7e7dc35c7d3f6fb005882b7447d5d78e97bf967cc711890c9dc44a65f8bd6446",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-spiralli-not-defteri-gd-140": {
+      "hash": "c4138a84cccdff0b28d9d5e20497d74a21d094878baf59758cbbe32fa03e659e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-spiralli-not-defteri-gd-160": {
+      "hash": "a6de64f73401b68e43a009a879090564906c7535108843bc4649e71cd5ca1dc6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-spiralli-notluk-gd-110": {
+      "hash": "c981d1c1e2205f6a493eb40537fead7fe098e739854a420fe5df1300aa92ba6f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-spiralli-notluk-gd-120": {
+      "hash": "94c3c950bdb4d3b6a18449cf27d83f236a306e484c2fb6c14e6ce0b647097f05",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-spiralli-notluk-gd-210": {
+      "hash": "feec181d1271dd0578e579a8b99dd217b31acabdc580a3bfde61e0332f491519",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-standli-wireless-sarj-pb-410-isikli-logolu": {
+      "hash": "3ea8db81293b8d60fb7b04eb221d86b980198423149eff3d420a0b2140a60319",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-t-masa-bayragi-byk-200-cift-banner-masaustu-bayrak": {
+      "hash": "e7509ee99918a161ef31fdae2f627c0bc1ddd54c7c438d8659b68268202f767e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-13x21-td-150": {
+      "hash": "27a5d2cd756f26df1a3cba8551824fe4d9a76a0aef6c4fa85e7774faa35511a7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-13x21-td-160": {
+      "hash": "153fc17b3752d7fb92734432f05a883d590bc329fbe99fc5485c5b03902a70b3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-14x21-td-103": {
+      "hash": "8e7dee4783cad987fe1f598c8c38bb5b27147229bec8464a56aabb052e19944b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-14x21-td-104": {
+      "hash": "6ed969b4c04d03a9888bf5c75f3acaee7182b059f8fcfae570f71a71addbc528",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-14x21-termo-deri-td-110": {
+      "hash": "17f0c20fbf131712fa4a4838e80a19ba7e93e3d488cee07d4ef9f55bf469df33",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-14x21-termo-pu-td-115": {
+      "hash": "cc5689452faea78e0cdd5768ed146637e83b377fea7f00f47cdd6c9651da5a45",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-15-5x21-5-td-116": {
+      "hash": "9b1537e0e0dfa5737c0fdbefbb309fa76015f4be9c1b9fad751f216774cc7beb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-15x21-td-100": {
+      "hash": "c8a07d5aeb484aa32274cb7737cf752044101f82fc1809ca28741951430fc606",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-15x21-td-102": {
+      "hash": "77a26ffd4979c28f3eceef24e60fba95af3f924fb6ee560b665cc749ffe6af4a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-15x21-td-120": {
+      "hash": "baf2e42dabd6d58eba260a049dc76ed07acfe865304eb884b687a07d70f77f63",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-15x21-td-125": {
+      "hash": "ee5ebe549014a4bccbc71b2abe12149054cb1bf1ca1bf36d1214885d3e053c7e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-15x21-td-126": {
+      "hash": "5551415ad3e267f3336c81e8341e0322a452cb45426334a41eb57afbc2f50f37",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-17x24-td-140": {
+      "hash": "8dd99549387584a8ae05aff4966e97c3f32041e7b6601342763669604d1c0881",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-195x25-td-130": {
+      "hash": "4746f03202e22e4643b8f82c77734053d9cba9694c48883a7e9489e9260a6af6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-101": {
+      "hash": "6ed969eaa67c2f7eed8b2a95b939d873d3829711026a0639729b9b964c0be637",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-165": {
+      "hash": "c2bcea32be5ececac3eb6ed2b82daed2f436d57040a489b6df62b957f933d6fe",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-170": {
+      "hash": "20c42a749e693fd4520a86a3fb044fa863dd5bec74ef6ea085762ed164c1dafe",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-180": {
+      "hash": "5b0824fc73a65cfe794bc7e280d0f88d3628be4b00c5be679e4c87f8cda6805a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-190": {
+      "hash": "e7569c3641e2f62b0fed1d0e940a57cb2029f5a70c052821815f747238a5a03c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-195": {
+      "hash": "ac5cc665ed9f1ca1191cbbdd0c667ef0e25387f02811f067ab2c43a6367abab5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-196": {
+      "hash": "ece6f0878acacaa2cb508ee257bbcdb41b11f66dd71ca26d863b2252065f38e1",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-200": {
+      "hash": "942c96ab6fa34ffdb6ca9d4e1789d83a914748c614b592c411619c356f2d241c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-210": {
+      "hash": "867a9a1dc71e3117be7c8b9fd83389f9fffc650f3db58ef9a2a46e132a05748d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-220": {
+      "hash": "841ba389422817c99a0f7961dca2d4ab1341318a22acec98a60de5f5ca6ffdd4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-230": {
+      "hash": "6c6578acade6b79fbfaffbafa745ffd575e638343569534f70439a8b4bf95934",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-240": {
+      "hash": "af1e9fcfd5e32ac01c96ef9a1cd824b5a9d935ae2758dce8348480baeec1f03f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-250": {
+      "hash": "09c7c7421ae804e06608a1a9011a663c6e7d35d5992f1f992961a6ee0d9dcdb2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-260": {
+      "hash": "37038e5e0a57890a37bd47631a7aafa72c718d4ee6d4d96edf35a428fd5c6c4d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-270": {
+      "hash": "f81518338de4058c8c2ed9eff8b1b569d1a3df44291ebc7b5e4638f9b28a4917",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-280": {
+      "hash": "9b399e4292235d810ba5fb6a1252bad8c280107b4d243963c65db63714f5ab4b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-290": {
+      "hash": "d0e3f4d245eb8d6febb6c5d542a677832d4e7960069548d04406950032014bcb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-300": {
+      "hash": "9e56668ba8d26ae97a2321ff847244a96c84e740890b16e45b8a6dcb207f5eee",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-310": {
+      "hash": "c91d4849557f32c280b497e62be110e5eb772323601064a498609585ea777743",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-320": {
+      "hash": "e1dbeb362a16f47ae8f497d50b001be75ff68342fd96066f7f59b22b8ae310a4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-330": {
+      "hash": "ac2d2cf228cd0fc79b6d4baa55bb9227d251bc45d8a81f004d9f343c271c9bbb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-340": {
+      "hash": "5189b26afe97b5ecffd9455943db3cf7fdc89ecfab3977f195361295484a027c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-350": {
+      "hash": "10f8093cfb9cab72b301d3b1aca065182ee0eca35b5a91e2c646fb0fe9fd8ee7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-360": {
+      "hash": "424b0f7215fe5a53ffe2794ba715d61b45bdec2815a6159dbdd88bf29b801dab",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-370": {
+      "hash": "57b672f54270f750ac82ca8fa7336cb7c8c9d52bb66f0d4e68d2f4580cea2ca7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-380": {
+      "hash": "9098838ce7036879ea7959edcc146afa8f9966e08a500836c83f7f4d8296da1f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-390": {
+      "hash": "5be3c88e639ee57f679866bd62625989ecc9d01905606b0ae8aa95711ae612c3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-400": {
+      "hash": "4b7f6752f7b3b4095842e8cc1da9a7988cff944618d2763e0454fece5bc27521",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-410": {
+      "hash": "e055d0713f7370e863308f3e2769695fc6360799a96b6b109dba6672be5c631b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-420": {
+      "hash": "a3ddc6cd9d0df084727da1e861a3e256992766fa4356c1fa5dbf6c65766192e0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-430": {
+      "hash": "3b6a0e3ee93dd2337bb2385a576071a0fba584de2b415773f6b72306f880bdc5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-440": {
+      "hash": "cad72ab45fbc82a39158991c898d855ac1dd21db284ad060460715af78471e0c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-450": {
+      "hash": "d7449823dfd67f43fcadb4a893864f89cfa5b0292e4da28cf9c26caa52b49ecb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-460": {
+      "hash": "379f2da9c01d7ce6b3819997c9c68a4d3062721a4e617112ac9821ab696d9ba3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tarihsiz-defter-td-470": {
+      "hash": "023f54b8aa53b96ddc6892faf361a557492d5ac6a07296b2fc76494f5c8198d6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tasli-cakmak-cricket-cm-100": {
+      "hash": "4b73d86472b5e254c86782e59d7f4ad8fc9af9e57f4739b4828ef117c13e96f8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tasli-siboplu-cakmak-cm-200": {
+      "hash": "9902d1998f17f0f959c94d464f8533824acd8725da008ef96381ac41578a6ce2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tasli-siboplu-cakmak-cm-450": {
+      "hash": "59ee0d4d7733ec2ba6723603bb0a65c85aa339d2761bd058afef1fee5806feb8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tasli-siboplu-cakmak-mini-boy-cm-400": {
+      "hash": "9f20478ac52a5b34a04c1023a073be26ea7fbfc645b3edd076349000fbf1186d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tekli-kalem-kutusu-ks-350-karton": {
+      "hash": "9ef6d7686a3d7a7c5ba0e5414307f65127a490050b945f1b00d93dc782b18793",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tekli-kalem-kutusu-ks-355": {
+      "hash": "2f1edef4835a6b8ee6155023d37ac0c41ffcc12577f7607d12155bfc9a610c06",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tekli-kalem-kutusu-ks-360-luks": {
+      "hash": "e1118d3a8843b2baf781a2c5b316267f85c15327703dd14197d5aa57ab77212f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tekli-masa-bayragi-byk-110-avrupa-birligi-bayrakli-ofis-tipi": {
+      "hash": "4ea8ea069ed000cb03bc1c18892984a232b922d090023af91747458b1c184856",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-teknolojik-spk-100": {
+      "hash": "134c0392e7edd4c59f0112bef13c8a92161f54c66e5532315fdc5eace1c8437a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-teknolojik-spk-110": {
+      "hash": "024b5859f3243270cbe3fee1fefb70fc5eff881cada20ab1bf586e52ce2f32cb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-teknolojik-spk-180": {
+      "hash": "dde8dbb277521e2f5b4dcfa120154a45d709f237b6fc1a84e9d1f95a6193768b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-teknolojik-tt-160": {
+      "hash": "1561304c21571420f4e0378474f75fd0610ee3681f54671059f9bdb8f40a065c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-teknolojik-tt-170": {
+      "hash": "253fdd899787012f40bec4bff63ff074b3d94d79486c69aadcf1d6ceca19c2d5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-teknolojik-tt-180": {
+      "hash": "5c9b0c10ce7c8567e6d90aa3acf94662a5f16b1418795bac6128c5c0df64008d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-teknolojik-tt-190": {
+      "hash": "8a587778276ad6eba97ff8d357be7d61e17a15f1d854cb8e3cd91d72a3a30261",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tela-canta-tc-100": {
+      "hash": "3410c8fdd7e434ae2d39217b0502ed895529d75d78b3f5a1b66f5f666a17a34a",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-telefon-standi-tt-500-katlanabilir-masaustu": {
+      "hash": "a032af8462a7be0da3b4d955545ee77c04e5d32fb082775bf634408919dec1ed",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-telefon-standi-tt-510-katlanabilir-plastik": {
+      "hash": "b2ba7dba7e1267fb040bca23270289f2f74908758922a5d53fa824d89b92fed8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-telefon-tutuculu-standli-tasli-cakmak-cm-500": {
+      "hash": "3d3517337af4b7b2a33f1608a3dda119a4fffcd03477715f5a0c0608a370d960",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-1000-ml-dijital-isi-gostergeli-hediye-kutulu-tk-200": {
+      "hash": "24483e88aa38b460d12eb4658cce116aa43317b8882e8d499833227722e02459",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-1000ml-tk-150": {
+      "hash": "2684c7f2d0ac32f0de2cee1a08a6d439893f406398338fd7ed4a0dd33e2566f2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-1300ml-tk-140": {
+      "hash": "856c65cefde886843b705a6936bdc3ff4553677928fd84a9a1ec05e3b83155a5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-240-ml-lazer-baskili-tk-260": {
+      "hash": "3d09e018888e8a36951287a815c1366f026fb0ce3578b658dfe7ff7866efdc16",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-300ml-tk-170": {
+      "hash": "168c55f6bebd5955b1606ae69f5e7fb6e5bbda939ec05f7a9519669c7b09f249",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-350-ml-kilitli-kapak-tk-310": {
+      "hash": "be32f5f1fc20c787a64104cc49a8c57f4993a1c0412bbe4aa99e79ef0056502e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-350ml-isi-gostergeli-tk-195": {
+      "hash": "b33910225b76c539bf8f7c40274a024835abdab5299b1baf068f0ce658809fe5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-360-ml-lazer-baskili-tk-270": {
+      "hash": "7f85d6a60952d140cb5d8b852b02824a824a52ec7254457036e2b977a947ca52",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-400-ml-dijital-isi-gostergeli-tk-220": {
+      "hash": "51a4a5b4cf6a5c158d6deb0fa04d5f1b0502dabcb9f9e5009dd5561886688e37",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-400-ml-lazer-baskili-tk-240": {
+      "hash": "0f3f07559cfdc49784284e480f70e995b64e584bbea8158131fb1fccbbfcba10",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-400ml-tk-130": {
+      "hash": "b04e304126f4e1cd2e9c44e8f6103afcbdc9909d516fa2ccbeab44c1f4744a6f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-420-ml-suzgecli-kilitli-kapak-tk-320": {
+      "hash": "c89c04b6e73d3b367a4bac1099e0d12f7a6462c9b5d1e523e8f5ffcfb9f180d7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-440ml-tk-315": {
+      "hash": "27d5973e7959877e473f12beac7152b370d6cf71f567c317beb1450c3129a055",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-500-ml-deri-kilifli-tk-205": {
+      "hash": "e45b0baa906732bb6053d21703da829da320eeb7df77feb2cc1cdf63134fd312",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-500-ml-dijital-isi-gostergeli-tk-196": {
+      "hash": "551a885776bfbb1c85c25742008af46164a54e22b2469d73f9d90ff08e27172d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-500-ml-lazer-baskili-tk-290": {
+      "hash": "bddce95a0ef1b909340262d9312d33443b1cd01b3d055e2bf53915664a6ed6a4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-500-ml-lazer-baskili-tk-300": {
+      "hash": "c06501c4ab65a846fd340473e0075191d9ed6c1d6c811b15f287eae8fd1a43f5",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-500-ml-tk-280": {
+      "hash": "9ee57c12e2a30e3819cea81104d8d7634c90d043f73596be31e0c6a35d52b04e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-500-ml-uv-lazer-baskili-tk-350": {
+      "hash": "0f49714cfce1c47886d383a2462593256da32e44c0787dd2115d5dc38f686931",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-500ml-tk-100": {
+      "hash": "827710f4d629432268cc4df7d2638b24a256192fccd7ee002383a18d8a451fe3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-500ml-tk-110": {
+      "hash": "d03bcd1389a910c239e7e224cba2832e5d0ad1ecfbacf29efc397d8c59bef2bb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-550ml-tk-160": {
+      "hash": "77ad8f3e0e7efc073ea49982dd598d1cfd65bf26bcea42dfb8693b6109ba88f2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-580ml-tk-190": {
+      "hash": "d6160aa18dbc12cdb9c433b4663695877a1f2ac722199f70071e480a1565da27",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-600-ml-tk-330": {
+      "hash": "26df2894760046bdd3459d7f46abb502dba967f023b29e5b5656d72d68f72f5e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-700-ml-lazer-baskili-tk-250": {
+      "hash": "ccfb66382235d104009aa704eb9b19a2783f72f8936ac722891a52e806b1341f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-750-ml-deri-kilifli-tk-210": {
+      "hash": "e76fb7a6c51641791074dea0d447fff947ef486e9d63840391de3da9b1d28e21",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-900ml-tk-120": {
+      "hash": "beff13959561abf1119c470f8bdca4bdce1b9eea1a2be4f51747172bb57a9592",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-900ml-tk-125": {
+      "hash": "4ae72f917c7e1799ca249e922ac604f7a36a2604d590914436af10845d9a4421",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-900ml-tk-155": {
+      "hash": "8993c82b44fb008b8a915fb7b27ba8bfab66d0b7bdb581d69b0b0557715944f6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-bardak-250ml-tk-180": {
+      "hash": "08afc035e37a62a75b03783f80c0d13e3e23ae38d28fb742dfecfaec523e6381",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-termos-seti-500ml-tk-135": {
+      "hash": "1b6655f4aea8cb437ca680779fac5e2b9058f6ed79289ac3b423fa5a2b69e345",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-tohumlu-kalem-thk-190-ekolojik": {
+      "hash": "b1a3c615b72d614e767575592f24f6b29c6a6d32586319ce6ffc44a814ee9f71",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-uclu-masa-bayragi-byk-130-uc-direkli-kurumsal-ofis-bayrak-seti": {
+      "hash": "1f547e781c21112c1c8f623177ed0565c0cddd1fdc745ceeea73ff64ad42b8ab",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-100": {
+      "hash": "74c78acf1bab6036da19fe4b2c508e051c4cceeab1e944ab59a384869e6fe4ab",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-101": {
+      "hash": "ccadd6431786c673f650372b882b975541f4f544d771c7c89fe970f4a0494b74",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-110": {
+      "hash": "88eaeea4141963e44fe4f3abd3ab0de05bfddd11a70a39644f4ac6520802cd12",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-120": {
+      "hash": "35077849cfd5e4655e7b6118a0372e0771d1e2beb80f2a5a38a900594753b863",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-140": {
+      "hash": "1b56126b638df862224411300a9dff2e3b0db1774d3f9a887fcd3c464d622421",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-150": {
+      "hash": "16e14a6f25717fb413e26ffb8fd67c525fc4e4f7aea0a0152041449ad9ce7a48",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-170": {
+      "hash": "2105f9bed393336fd69cf926cfcfd6ab03f7171cebea59f506fed5fcc07f93ff",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-180": {
+      "hash": "a996fbd898f0ea9b8e6f3a484b8cf70f273d858b78ac196abc315d58c4b54f5d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-210": {
+      "hash": "68c2d632ad5254650f8cf31db111f43306889c4e247f836b71c468a54a6415ca",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-220": {
+      "hash": "c0b133f71b5902fc6be979ce642c95667052f53f779895ff3b161d5599540851",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-230": {
+      "hash": "36b9cef6e9cf0ed6811af1874acb188468617272708a4d74a80beb07e1ff07d3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-270": {
+      "hash": "5669b9899bf2255d1c2e1557adaac823c23e08303e918bb1757de2678ddcd044",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-280": {
+      "hash": "4f3b11d086176d8136de26bc04816f1537d4bac4d168dec12427741c0ffb8688",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-usb-bellek-ub-460": {
+      "hash": "e32dcd3fc2d2ab13b7c19aeb2052276cb408dff4b699b45a0df5d293cfc8fc9f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-uzun-acacak-ac-110": {
+      "hash": "132c25dea683765137f922117724b2ae034e60bfe1927ce32bdc5cf8ca401662",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-kutusu-vip-470-ozel-kurumsal-hediye-kutusu": {
+      "hash": "00f2dd17032879c8bf4b3f32ca7dc0fa379f153b62fc9c5fafd52e3bb0cc80ad",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-kutusu-vip-480-buyuk-boy-ozel-kurumsal-hediye-kutusu": {
+      "hash": "3e08ae8d40a83e840e1d220ad14bd25554853bf2caba8873345b263d09131cb8",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-kutusu-vip-485": {
+      "hash": "37d0352b6f8b35686b3332cc38961e5d2d8b02c627b1feb211bacd8143dfbb71",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-kutusu-vip-490-ince-buyuk-olculu-kurumsal-hediye-kutusu": {
+      "hash": "b3340bf2009d26791712d58c98d261cbfb8f5fcc0229f9d6f71b9632f3245add",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-kutusu-vip-500-orta-boy-miknatisli-kurumsal-hediye-kutusu": {
+      "hash": "7fd8de86fb82709ecabcc90f68d26eef13bce0b0e438576f1b926b5399da664c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-kutusu-vip-510-kompakt-miknatisli-kurumsal-hediye-kutusu": {
+      "hash": "f9e4f4192d0f566d523031df388052887cb6cd9d042610f51aed9335481b47c6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-kutusu-vip-520-kucuk-boy-miknatisli-kurumsal-hediye-kutusu": {
+      "hash": "4eea47ee62df5b126fd04b4b063cc5dc476449bf7f736a6b04ece911d99c5e53",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-100": {
+      "hash": "b94d165b3b77d5158e4cdea2f7f5aae15f3cff85ecb2c2485a7415ac124c6816",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-110": {
+      "hash": "ddc68f81dc7614ea1eed4ab874578268fa6dc62033b480040b825dc211e3c182",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-120": {
+      "hash": "3e16f6e0a50cef0846e925ffda4d3cc608bf59b4b2df0d3b76c1260ecc812522",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-125": {
+      "hash": "7abfb3e14a0861576bfcfd2b547d016760249e0bb7f18020ea222f47274c3b9e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-130": {
+      "hash": "21d24bb75fc0c3ad38d081bcbf9cc5db9cdf88125c2b5aa8cf632d9e693845be",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-140-defter-powerbank-usb-kalem-kurumsal-hediye-seti": {
+      "hash": "68194b3e10ca8fae203625b18d4c3bf7fe0f3449e110b57282062146554e4628",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-150-cuzdan-powerbank-usb-kalem-anahtarlik-hediye-seti": {
+      "hash": "022e07a39b6eaf01521b6cdcc745ae90f35cb665243b0d63608fe3d31ce7a5ba",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-160-termos-powerbank-defter-kalem-hediye-seti": {
+      "hash": "8cba670f085bfbbf6977bfedcff4a35919f1434e1fe3aaa4d117d182115954a3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-170-termos-powerbank-speaker-usb-kalem-hediye-seti": {
+      "hash": "161c3b9d7eff1da35c40efac36a17d638a92542193c237d83ebd6aadd8927322",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-180-termos-defter-powerbank-usb-hediye-seti": {
+      "hash": "67f268f0678a8f4d29e85e46914f43de8f25e859796f802d45113eb18ecd5621",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-190-defter-kalem-usb-kurumsal-hediye-seti": {
+      "hash": "db70b866979d1793ae0f69f2aed6900e0e2c09e91bb7ba18be6110765e676890",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-200-hesap-makineli-defter-kalem-usb-anahtarlik": {
+      "hash": "b9ce737baeeacef66fea1e3e515393c2a25af57234c22c9ef918f71cd85634ac",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-210-termos-french-press-speaker-powerbank-hediye-seti": {
+      "hash": "569f1fb19b9152ba3130c539c61191afb48cd5425dd6f55d6d9f7a16d4b35317",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-220-teknik-hediye-seti-usb-fener-caki-kablo": {
+      "hash": "c753d00cf40a63dd4201c4b032a54d0c92595efc0b21934cfdd45234803dd23d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-230-defter-powerbank-usb-kalem-anahtarlik-seti": {
+      "hash": "20c7dfaf62db619453b258ef955a0f23f6e28a546b6e0ec58105f2a5de8dfa91",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-240-defter-powerbank-usb-kalem-anahtarlik-kartvizitlik": {
+      "hash": "83fad59003f8e3a57188bf50be10bfe77c70104df686bb54e572c9818acac503",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-250-defter-powerbank-usb-kalem-anahtarlik-kartvizitlik": {
+      "hash": "9b23d902af49ce2f29e7230ffb1f6e10e00bce4c2197764426f4395aaf354f5c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-260-teknoloji-hediye-seti-powerbank-speaker-magsafe": {
+      "hash": "79483dc1d250e64817091b174914814108549c2083988c6a7fba44e03022df7d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-270-defter-kalem-usb-premium-hediye-seti": {
+      "hash": "b151aa280c1b1024ea0c7771c30d0d2cf717030c6b7342fb8a356c0a6c6fb2fa",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-280-defter-kalem-kartvizitlik-hediye-seti": {
+      "hash": "8ca71cbbabf81b83e7cb03e90de901d8f98b9313d49b15fcda4e4a653b6010eb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-290-defter-kalem-anahtarlik-kurumsal-hediye-seti": {
+      "hash": "a0a35d4834560be8344014c9df5d480b5c5697868192f9e92c6418a830a37008",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-300-powerbank-usb-defter-isikli-premium-hediye-seti": {
+      "hash": "71c7c4ce22a7b642d9a2262e02fed28f928b88d2da9f13760dcfe2dfab6957fb",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-310-defter-kalem-anahtarlik-kartvizitlik-luks-hediye-seti": {
+      "hash": "4db4afbcea7de74836313c7d80d5f26147f3432decf9facb45dee9d2968013d6",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-320-termos-powerbank-speaker-caki-luks-hediye-seti": {
+      "hash": "dc10248982c6e4cef86b0efbaba2a84dc2b05ad9923239da7342af0cb3c0f451",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-330-10000mah-powerbank-defter-kalem-anahtarlik-premium-set": {
+      "hash": "ba407b7dcf12c98744a0d427be58e6bb1c8145866732c8238b7cbe7d11964173",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-340-termos-powerbank-speaker-defter-premium-hediye-seti": {
+      "hash": "5e2adb8bf5c1f2ba7d948646e4f27f0065f625461e474ed3faddd9e3cf7d53a3",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-350-defter-kalem-anahtarlik-kurumsal-hediye-seti": {
+      "hash": "70e0f6dbf3ccf62938ebb37e6b7ce14d2bef195e0298946a719f14419ef07383",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-355": {
+      "hash": "37acc6440001a09b9fe6bd4a800b8214b54ff00634c592bc7bf8e04555d0a449",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-360-termo-deri-defter-kalem-kurumsal-hediye-seti": {
+      "hash": "ff6397dcdebebc6469f6cbe4b225f73ff2f0cac1b7912b8822b82f79cfc88428",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-365": {
+      "hash": "89a87c00332e87c3ee0aa99d8e93b077e8922aeab9b89b9da02d6d2a925c83a9",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-370-organizer-defter-kalem-kurumsal-hediye-seti": {
+      "hash": "848b89950b041d693c2e8a554274cfa0cadcd1492697a178cc7b5d5f5bdcd024",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-380-ajanda-defter-kalem-kartvizitlik-kurumsal-set": {
+      "hash": "47e4283a0f4a2307d9047d893521f917d6de2967669356e151f658120112e128",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-390-defter-kalem-kurumsal-hediye-seti": {
+      "hash": "eeeb84e4e430add0ccf59b798c79676d3930d572bb5e9517d5368dffc4b94a29",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-400-termo-deri-defter-metal-kalem-kurumsal-hediye-seti": {
+      "hash": "c5a3591e1647b65f5bd997550070276ff3239cd44cc3e480a807905103251ba0",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-410-termo-deri-defter-roller-kalem-kurumsal-hediye-seti": {
+      "hash": "cd11e698b9bc593558370f684322bb7d1b7424d67352aef667c34e299c98619e",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-420-9x14-defter-metal-kalem-kurumsal-hediye-seti": {
+      "hash": "bbd8ffe40a74d84132ed7bfd68e60580e2653b21e9d2c471171e7d9459c5d26c",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-430-termos-powerbank-speaker-kurumsal-luks-hediye-seti": {
+      "hash": "117183a573603f1c68396f6d65d2960a96f6d22b85ee2af674589ad6ae97d99b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-440-termos-powerbank-speaker-luks-kurumsal-hediye-seti": {
+      "hash": "340303ce087538a964e8161ca0777561c0c54964462981beccb05b1636c5ba54",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-450-powerbank-defter-kalem-kurumsal-teknolojik-hediye-seti": {
+      "hash": "4cf460b4a1b921544c2ef38a76188754f8fc82e104412eaa804a0fb423c204ad",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-vip-set-vip-460-powerbank-usb-defter-kurumsal-hediye-seti": {
+      "hash": "d617590f6e7d5ccc4464b1b62349d6bb609e1affff6bbe542466ad71cb14c1a7",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-wireless-sarj-cihazi-tt-477-standli-hizli-sarj": {
+      "hash": "f82e8d322bd20a0661463ee5705970958d651bce8fbc06085a9aa805cba6c061",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-wireless-sarj-hoparlor-spk-460": {
+      "hash": "abb405240f35f7b8a7ea07a047da9a8d5d7c614ff8fa95c9f06e8ebf5834e2ed",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-wireless-sarj-hoparlor-spk-470": {
+      "hash": "86d85590bd546d3eb712fcac162ea24f99c286c3e1fa17c7fb471dc6b840c48b",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-wireless-sarj-istasyonu-tt-475": {
+      "hash": "1267bf45728826bc95daa62fec2ed9730513d4f38519a4f1f4af4dc9c1902207",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-wireless-sarj-istasyonu-tt-476-coklu-cihaz-standli": {
+      "hash": "59e99f3bd5bbe20b9b2cd9766542b32165cedb3004cb6b72f74589c54fbd37c4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-wireless-sarj-standi-pb-420-15w-typec": {
+      "hash": "0b50c0877c3102c7b652a0451e24b0685c3df2ace4a42216f984611d4d51083f",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-wireless-stand-set-pb-400-15w-hizli-sarj": {
+      "hash": "6a6ee429227db4c5ff93cdbdfbcb519743d17840513746400d3e4e48584ef104",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-wireless-stand-set-pb-425-3lu-15w-typec": {
+      "hash": "11b5e30d86777b04d7ab85a290084d0dfd51a83909b9d973072372d80170d387",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-wireless-stand-set-pb-430-isikli-logolu-15w": {
+      "hash": "8171e9cb5379954e98bea18e7e678793ee618fd8e413e342f053ee14603e3f90",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-yelken-bayrak-byk-190-beach-flag-reklam-bayragi": {
+      "hash": "d3b06d4086bee2a615b88f5b6d712097fc135d7ec8e997fb2912ac53c2ed9b2d",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-yerli-uretim-polyester-sapka-sp-500": {
+      "hash": "2c70e384673b2c57fd351ee2e769276f711d5546776852ec4e0a8c38e95f93a2",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-yonca-kalemlik-pu-130": {
+      "hash": "481c7cc341f5c80e91d271ddba9b88d09a9cbddaff847b556b3262a143402084",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-yuvarlak-naturel-kirmizi-uclu-kursun-kalem-kk-410": {
+      "hash": "84b137a7a889944f851930da47035476f157bc21abb63ce5a768bf1a98311998",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-yuvarlak-silgili-latali-kursun-kalem-kk-450": {
+      "hash": "2609ef2bc42dcb8efd659fb465128105a4418973e54a2b833763c37248179ebf",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/urunler/promosyon-yuvarlak-silgili-naturel-kursun-kalem-kk-400": {
+      "hash": "8c8757f48641326ca39aef45b011238359e5696e2d7a0de97af7b046cec08ae4",
+      "lastModified": "2026-10-29T00:59:22.135Z"
+    }
+  }
+}

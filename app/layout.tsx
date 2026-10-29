@@ -1,4 +1,4 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Script from "next/script";
 import { SpeedInsights } from "@vercel/speed-insights/next";
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
 
   description:
     "Kurumsal promosyon ürünleri, logo baskılı ürünler, UV baskı, DTF baskı, lazer baskı, tampon baskı ve nakış hizmetleri için hızlı teklif alın.",
-  alternates: { canonical: "/" },
+  // Canonical URLs are defined per page, not inherited from the home page.
 
   robots: {
     index: true,

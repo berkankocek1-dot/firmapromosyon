@@ -1,6 +1,20 @@
+import type { Metadata } from "next";
 import { Suspense } from "react";
 import { products } from "@/data/products";
 import OfferForm from "./OfferForm";
+
+export const metadata: Metadata = {
+  title: "Hızlı Teklif Al",
+  description: "Promosyon ürününüzü seçin; adet ve baskı bilgilerinizi paylaşarak WhatsApp üzerinden hızlı teklif isteyin.",
+  alternates: { canonical: "https://www.firmapromosyon.com/teklif" },
+  openGraph: {
+    title: "Hızlı Teklif Al | FirmaPromosyon",
+    description: "Ürün, adet ve baskı bilgilerinizi paylaşarak WhatsApp üzerinden teklif isteyin.",
+    url: "https://www.firmapromosyon.com/teklif",
+    type: "website",
+    images: [{ url: "/og.jpg", width: 1200, height: 630 }],
+  },
+};
 
 export default function TeklifPage() {
   return (

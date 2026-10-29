@@ -6,7 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "seo:dates": "node scripts/seo-lastmod.cjs",
+    "seo:dates:check": "node scripts/seo-lastmod.cjs --check",
+    "seo:setup": "node scripts/seo-lastmod-install.cjs",
+    "prepare": "node scripts/seo-lastmod-install.cjs",
+    "prebuild": "node scripts/seo-lastmod.cjs --build"
   },
   "dependencies": {
     "@next/third-parties": "^16.2.2",

@@ -342,7 +342,7 @@ export default function Page() {
               <p>
                 Bazı firmalar yeni müşteri paketi hazırlarken reklam kalemini
                 katalog, broşür veya kartvizit ile birlikte sunar. Bazıları ise
-                bunu ajanda veya not defteriyle birleştirir. Böylece sıradan bir
+                bunu ajanda veya <Link href="/promosyon-defter" className="font-semibold underline">not defteri</Link> ile birleştirir. Böylece sıradan bir
                 promosyon ürünü yerine daha güçlü ve daha profesyonel bir sunum
                 yapılmış olur.
               </p>

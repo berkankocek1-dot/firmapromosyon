@@ -459,7 +459,7 @@ export default function PromosyonKalemSecimRehberiPage() {
                   </p>
 
                   <p>
-                    Ayrıca promosyon kalemler defter, ajanda, anahtarlık, USB
+                    Ayrıca promosyon kalemler <Link href="/promosyon-defter" className="font-semibold underline">promosyon defter</Link>, ajanda, anahtarlık, USB
                     bellek veya termos gibi ürünlerle birlikte set haline
                     getirildiğinde çok daha güçlü bir kurumsal hediye etkisi
                     oluşturabilir.
@@ -474,7 +474,7 @@ export default function PromosyonKalemSecimRehberiPage() {
 
                 <p className="mt-4 text-sm leading-7 text-gray-200 md:text-base">
                   Promosyon kalem, birçok ürünle birlikte kullanılabilen güçlü bir
-                  tamamlayıcıdır. Özellikle defter, ajanda, anahtarlık, termos ve
+                  tamamlayıcıdır. Özellikle defter, <Link href="/promosyon-ajanda" className="font-semibold underline">ajanda</Link>, anahtarlık, termos ve
                   USB bellek gibi ürünlerle birlikte sunulduğunda daha profesyonel
                   bir marka deneyimi oluşturur.
                 </p>

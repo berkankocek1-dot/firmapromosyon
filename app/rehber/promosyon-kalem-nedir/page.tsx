@@ -488,7 +488,7 @@ export default function PromosyonKalemNedirPage() {
                   Promosyon kalemler tek başına kullanılabileceği gibi farklı
                   promosyon ürünleriyle birlikte set halinde de sunulabilir. Özellikle
                   kurumsal hediye paketlerinde kalem, defter, anahtarlık, termos,
-                  USB bellek veya powerbank gibi ürünlerle birlikte daha güçlü bir
+                  USB bellek veya <Link href="/promosyon-powerbank" className="font-semibold underline">promosyon powerbank</Link> gibi ürünlerle birlikte daha güçlü bir
                   tanıtım etkisi oluşturabilir.
                 </p>
 
