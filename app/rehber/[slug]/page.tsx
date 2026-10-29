@@ -892,6 +892,14 @@ export default async function GuidePage({ params }: PageProps) {
             >
               Hızlı Teklif Al
             </Link>
+            {guide.slug === "promosyon-kupa-baski" && (
+              <Link
+                href="/promosyon-kupa"
+                className="inline-flex items-center justify-center rounded-2xl bg-white px-6 py-3 text-sm font-semibold text-black transition hover:bg-gray-100"
+              >
+                Kupa ve Fincan Modellerini İncele
+              </Link>
+            )}
             <Link
               href="/iletisim"
               className="inline-flex items-center justify-center rounded-2xl border border-white/25 px-6 py-3 text-sm font-semibold text-white transition hover:bg-white/10"

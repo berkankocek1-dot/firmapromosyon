@@ -7,23 +7,55 @@ import { sortProductsByCode } from "@/data/productSorting";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
-function JsonLd({ data }: { data: Record<string, any> }) {
+function JsonLd({ data }: { data: Record<string, unknown> }) {
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, "\\u003c") }}
     />
   );
 }
 
 const CATEGORY = "Kalem Setleri";
 const PAGE_URL = `${SITE_URL}/promosyon-kalem-setleri`;
+const PAGE_TITLE = "Promosyon Kalem Setleri ve Fiyatları | Logo Baskılı";
+const PAGE_DESCRIPTION =
+  "Logo baskılı kutulu kalem, dolma kalem ve anahtarlıklı set modellerini karşılaştırın. Set içeriği, kutu baskısı ve toptan sipariş için teklif alın.";
+
+const faqItems = [
+  {
+    "question": "Promosyon kalem seti minimum kaç adet sipariş edilir?",
+    "answer": "Minimum sipariş adedi modele, stok durumuna ve logo uygulamasına göre değişir. Kalem seti ile ayrı satılan kalem kutusunun sipariş koşulları aynı olmayabilir. Ürün kodunu ve istediğiniz set ya da kutu adedini paylaşarak koşulları teyit edin."
+  },
+  {
+    "question": "Kalem setinde kutu ve tüm parçalar fiyata dahil mi?",
+    "answer": "Set içeriği ürün bazında kontrol edilmelidir. Kategoride set modellerinin yanında ayrı kalem kutuları da bulunur; kutu ürünü satın alırken kalemin dahil olduğunu varsaymayın. Teklifte kutu, kalem, varsa anahtarlık ve diğer parçaları ayrı belirtin."
+  },
+  {
+    "question": "Kalem seti fiyatlarına logo baskısı ve KDV dahil mi?",
+    "answer": "Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV ayrıca belirtilir. Kalem üzerindeki logo, kutu baskısı ve varsa diğer parçalardaki uygulamalar teklif aşamasında netleştirilir. Fiyatı bulunmayan modeller için güncel teklif isteyin."
+  },
+  {
+    "question": "Kaleme ve kutuya aynı logo uygulanabilir mi?",
+    "answer": "Uygun modellerde iki alana da uygulama değerlendirilebilir; ancak yöntem ve kullanılabilir alan farklı olabilir. Kalemde lazer, uygun kutuda serigraf veya ürüne uygun başka bir teknik seçilebilir. Her iki parçanın uygunluğunu ve bedelini ayrı teyit edin."
+  },
+  {
+    "question": "Dolma kalem ile roller veya tükenmez kalem nasıl karşılaştırılır?",
+    "answer": "Yazım türü, uç, mürekkep veya refil sistemi, tutuş ve kullanım alışkanlığı birlikte değerlendirilmelidir. Dolma kalemde kartuş ya da dolum bilgisine; diğer modellerde refil türüne ve mürekkep rengine bakın. Set adına bakarak içindeki tüm kalemlerin aynı yazım türünde olduğunu varsaymayın."
+  },
+  {
+    "question": "Kalem setine kişiye özel isim yazılabilir mi?",
+    "answer": "İsim uygulaması talebiniz varsa seçilen modelde yapılabilirliğini teklif aşamasında sorun. Uygun yüzey ve logo alanı incelendikten sonra yerleşim, yazı ölçüsü, isim listesi ve ek maliyet netleştirilir. Kişiselleştirmenin standart uygulamaya dahil olduğunu varsaymayın."
+  },
+  {
+    "question": "Toplu kalem seti siparişi ne kadar sürede hazırlanır?",
+    "answer": "Stok, renk dağılımı, adet, logo onayı, kutu baskısı ve varsa kişiselleştirme süreyi etkiler. Etkinlik tarihinizi, teslimat adresini ve ambalaj talebini paylaşın; set içeriğini, toplam bedeli ve net teslim süresini sipariş öncesinde teyit edin."
+  }
+];
 
 export const metadata: Metadata = {
-  title:
-    "Promosyon Kalem Setleri | Logo Baskılı Modeller",
-  description:
-    "Promosyon kalem setleri, dolma kalem ve anahtarlıklı hediye modellerini inceleyin. Kurumsal sipariş ve logo uygulaması için teklif alın.",
+  title: PAGE_TITLE,
+  description: PAGE_DESCRIPTION,
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
@@ -37,9 +69,8 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Promosyon Kalem Setleri | FirmaPromosyon",
-    description:
-      "Logo baskılı promosyon kalem seti çeşitleri. Kurumsal tanıtım, bayi dağıtımı ve toplu sipariş için promosyon kalem setleri modellerini inceleyin.",
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     url: PAGE_URL,
     siteName: "FirmaPromosyon",
     locale: "tr_TR",
@@ -55,9 +86,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Promosyon Kalem Setleri | FirmaPromosyon",
-    description:
-      "Logo baskılı promosyon kalem seti çeşitleri. Kurumsal toplu sipariş ve hızlı teklif imkanı.",
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     images: [`${SITE_URL}/og.jpg`],
   },
 };
@@ -107,8 +137,7 @@ export default function Page() {
           "@type": "CollectionPage",
           name: "Promosyon Kalem Setleri",
           url: PAGE_URL,
-          description:
-            "Logo baskılı promosyon kalem seti modelleri. Kurumsal promosyon, bayi hediyesi, ofis kullanımı ve toplu siparişler için promosyon kalem setleri.",
+          description: PAGE_DESCRIPTION,
           mainEntity: {
             "@type": "ItemList",
             numberOfItems: list.length,
@@ -116,6 +145,18 @@ export default function Page() {
           },
         }}
       />
+
+      {list.length > 0 && (
+        <JsonLd data={{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqItems.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: { "@type": "Answer", text: item.answer },
+          })),
+        }} />
+      )}
 
       <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
         <nav className="mb-6 text-sm text-gray-300">
@@ -138,9 +179,9 @@ export default function Page() {
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Logo baskılı promosyon kalem seti modellerini inceleyebilir,
-            firmanız için toplu sipariş ve hızlı teklif avantajlarından
-            yararlanabilirsiniz.
+            Kutulu kalem, dolma kalem ve anahtarlıklı set modellerini inceleyin.
+            Set içeriğini, yazım türünü ve kutu üzerindeki logo seçeneklerini
+            karşılaştırarak kurumsal hediye siparişiniz için teklif alın.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">
@@ -166,102 +207,148 @@ export default function Page() {
       {list.length > 0 && (
         <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
           <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Logo Baskılı Promosyon Kalem Seti Modelleri
-            </h2>
-
+            <h2 className="text-2xl font-bold text-white">Kurumsal Hediye İçin Hangi Kalem Seti Seçilmeli?</h2>
             <p>
-              Promosyon kalem setleri, kurumsal tanıtım ve özel hediye çalışmalarında
-              şık görünümü ile öne çıkan promosyon ürünleri arasında yer alır. Logo
-              baskılı promosyon kalem seti modelleri; ofis kullanımı, bayi
-              toplantıları, müşteri hediyeleri, kurumsal etkinlikler ve özel
-              organizasyonlar için prestijli bir tanıtım çözümü sunar.
+              Bayi toplantısı, çalışan hediyesi veya müşteri ziyareti için set
+              seçerken kalemin yazım türünü ve kutunun sunum biçimini birlikte
+              değerlendirin. Setin kaç parçadan oluştuğunu, kutunun dahil olup
+              olmadığını ve her parçanın logo alanını ürün detayından kontrol edin.
             </p>
-
             <p>
-              FirmaPromosyon’da yer alan promosyon kalem seti çeşitleri; farklı kutu
-              tasarımları, metal veya özel gövdeli kalem alternatifleri ve kurumsal
-              kullanıma uygun seçeneklerle sunulmaktadır. Firmanızın logosuna uygun
-              baskılı veya baskısız sipariş seçenekleri için ürünleri inceleyebilir,
-              toplu alım ve hızlı teklif avantajlarından yararlanabilirsiniz.
-            </p>
-
-            <p>
-              Logo baskılı promosyon kalem setleri, markanızı daha prestijli ve
-              kurumsal bir şekilde temsil etmek isteyen firmalar için etkili tanıtım
-              ürünleri arasında yer alır. Şık kutulu yapıları sayesinde hem hediye
-              ürünü hem de kurumsal promosyon olarak güçlü bir algı oluşturur.
-            </p>
-
-            <p>
-              Kurumsal firmalar tarafından sık tercih edilen promosyon kalem seti
-              modelleri; bayi toplantılarında, özel müşteri ziyaretlerinde, yönetici
-              hediyelerinde, seminerlerde ve lansman organizasyonlarında yoğun
-              şekilde kullanılmaktadır.
-            </p>
-
-            <p>
-              Promosyon kalem setleri; tekli kalem kutuları, roller kalem setleri,
-              tükenmez kalem setleri ve özel kutulu metal kalem alternatifleri gibi
-              farklı seçeneklerle sunulabilir. Baskı yöntemi ve ürün detayları
-              modele göre değişebilir.
-            </p>
-
-            <p>
-              Promosyon kalem seti fiyatları; ürün modeli, kutu yapısı, malzeme
-              kalitesi, baskı tercihi ve sipariş miktarına göre değişiklik
-              gösterebilir.
+              Yukarıdaki filtrelerle lazer uygulaması, kutu serigraf baskısı,
+              dolma kalem, kalem ve anahtarlık, renk seçeneği ve kalem kutusu
+              gruplarını inceleyebilirsiniz. Aynı kategoride bulunmaları bütün
+              ürünlerin aynı parçalardan oluştuğu anlamına gelmez.
             </p>
           </section>
 
-          <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
-              Promosyon Kalem Setleri Nerelerde Kullanılır?
-            </h2>
+          <section className="mt-12">
+            <h2 className="text-2xl font-bold text-white">Kalem Setlerini ve Kalem Kutularını Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+                <caption className="sr-only">Kalem seti grupları, kullanım örnekleri ve seçimde kontrol edilecek özellikler</caption>
+                <thead className="bg-white/10 text-white">
+                  <tr>
+                    <th scope="col" className="px-4 py-3">Model grubu</th>
+                    <th scope="col" className="px-4 py-3">Kullanım örneği</th>
+                    <th scope="col" className="px-4 py-3">Seçerken kontrol edin</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-white/10">
+                  {[
+                    ["Kutulu kalem", "Müşteri, bayi ve çalışan hediyeleri", "Kalem sayısı, yazım türü ve kutu içeriği"],
+                    ["Dolma kalem seti", "Yazım tercihine göre kurumsal hediyeler", "Kartuş veya dolum sistemi ve dahil aksesuarlar"],
+                    ["Kalem ve anahtarlık", "Birden fazla parçalı hediye sunumları", "Her parçanın malzemesi ve ayrı logo alanı"],
+                    ["Ayrı kalem kutusu", "Uyumlu bir kalemi kutulu sunmak", "Kalemin dahil olup olmadığı, kutu ölçüsü ve iç yuva"],
+                  ].map(([model, usage, detail]) => (
+                    <tr key={model}>
+                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <td className="px-4 py-4">{usage}</td>
+                      <td className="px-4 py-4">{detail}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </section>
 
-            <div className="mt-5 grid gap-4 sm:grid-cols-2">
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Yazım Türü, Refil ve Kutu Uyumu</h2>
+            <p>
+              Roller, tükenmez veya dolma kalem tercihini kullanıcı alışkanlığına
+              göre yapın. Mürekkep rengi, uç ve refil bilgilerini seçilen modelden
+              kontrol edin. Dolma kalemde kartuş ya da dolum sistemini ve kutuya
+              dahil aksesuarları ayrıca öğrenin.
+            </p>
+            <p>
+              Ayrı kalem kutusu alacaksanız dış ölçü tek başına yeterli değildir.
+              Kalemin boyu ve çapıyla birlikte iç yuvanın biçimini ve kutunun
+              kapanışını teyit edin. Bir kutuya görselde kalem yerleştirilmiş
+              olması, fiyatın kalemi de kapsadığı anlamına gelmez.
+            </p>
+          </section>
+
+          <section className="mt-12">
+            <h2 className="text-2xl font-bold text-white">Kalem ve Kutuya Logo Uygulaması</h2>
+            <div className="mt-5 grid gap-4 md:grid-cols-2">
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Yönetici ve Özel Müşteri Hediyeleri
-                </h3>
+                <h3 className="text-lg font-semibold text-white">Kalem üzerindeki logo</h3>
                 <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Şık kutulu promosyon kalem setleri, özel müşterilere ve yöneticilere
-                  verilebilecek prestijli kurumsal hediye ürünleri arasında yer alır.
+                  Uygun yüzeylerde lazer veya modelin desteklediği başka bir
+                  yöntem seçilebilir. Klips, gövde biçimi ve kaplama uygulama
+                  alanını etkiler. Logoyu gerçek ölçüde değerlendirin.
                 </p>
               </div>
-
               <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Bayi Toplantıları ve Kurumsal Etkinlikler
-                </h3>
+                <h3 className="text-lg font-semibold text-white">Kutu ve diğer parçalar</h3>
                 <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Bayi toplantılarında ve kurumsal etkinliklerde dağıtılan promosyon
-                  kalem setleri, markanızın profesyonel algısını güçlendirmeye
-                  yardımcı olur.
+                  Uygun kutularda serigraf veya ürüne uygun başka bir uygulama
+                  değerlendirilebilir. Varsa anahtarlık için de ayrı yöntem ve
+                  alan belirlenir. Tüm parçaların baskısını teklif talebinde belirtin.
                 </p>
               </div>
+            </div>
+            <p className="mt-5 max-w-4xl leading-7 text-gray-200">
+              Aynı logonun farklı yüzeylerdeki görünümü değişebilir. Mümkünse
+              vektörel PDF, AI, EPS veya SVG paylaşın; kalem, kutu ve ek parçaların
+              yerleşimini ayrı netleştirin. Kişiye özel isim talebiniz varsa
+              uygulanabilirliğini ve ek maliyetini önceden sorun.
+            </p>
+          </section>
 
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Seminer ve Lansman Organizasyonları
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Seminer, eğitim ve lansman organizasyonlarında kullanılan kalem
-                  setleri, hem kullanışlı hem de kurumsal imajı destekleyen bir
-                  promosyon çözümü sunar.
-                </p>
-              </div>
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Promosyon Kalem Seti Fiyatlarını Karşılaştırırken</h2>
+            <p>
+              Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV ayrıca
+              belirtilir. Teklifleri aynı ürün kodu, aynı set adedi ve aynı logo
+              kapsamıyla karşılaştırın. Fiyatı bulunmayan modeller için güncel teklif isteyin.
+            </p>
+            <ul className="list-disc space-y-2 pl-5">
+              <li>Sete dahil kalem, anahtarlık, kutu ve diğer parçalar.</li>
+              <li>Yazım türü, malzeme, renk seçeneği ve sipariş adedi.</li>
+              <li>Her parça için logo yöntemi, konumu ve uygulama sayısı.</li>
+              <li>Varsa isim uygulaması, paketleme, sevkiyat ve KDV.</li>
+            </ul>
+            <p>
+              Toplam set sayısı ile toplam parça sayısını ayırın. Kalem ve kutu
+              baskılarının tek bedel mi yoksa ayrı kalemler mi olduğunu teyit
+              ederek baskılı siparişin toplamını netleştirin.
+            </p>
+          </section>
 
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Prestijli Kurumsal Tanıtım Çalışmaları
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Promosyon kalem setleri, daha seçkin bir tanıtım dili oluşturmak
-                  isteyen firmalar için yüksek algı değerine sahip reklam ürünleri
-                  arasında bulunur.
-                </p>
-              </div>
+          <section className="mt-12 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">Toptan Kalem Seti Siparişi İçin Gerekli Bilgiler</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+              <li>Ürün kodunu, set içeriğini, rengi ve istediğiniz set adedini belirtin.</li>
+              <li>Logo dosyanızı ve uygulama istediğiniz parçaları paylaşın.</li>
+              <li>Varsa isim listesi, kutulama ve ayrı paketleme talebini ekleyin.</li>
+              <li>Etkinlik tarihinizi ve teslimat adresini bildirin.</li>
+              <li>Stok, tasarım yerleşimi, toplam bedel ve teslim süresini teyit edin.</li>
+            </ol>
+            <p className="mt-5 leading-7 text-gray-200">
+              Tekli ürünlerle karşılaştırma yapmak için{" "}
+              <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">promosyon kalem</Link>{" "}
+              ve{" "}
+              <Link href="/promosyon-anahtarlik" className="font-semibold text-white underline underline-offset-4">anahtarlık modellerini</Link>{" "}
+              inceleyebilirsiniz. Paketinizi{" "}
+              <Link href="/promosyon-defter" className="font-semibold text-white underline underline-offset-4">defter</Link>{" "}
+              ile tamamlamak istiyorsanız kutu uyumunu ve birlikte teslimat
+              isteğinizi ayrıca belirtin.
+            </p>
+            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+              Kalem Seti Siparişi İçin Teklif Al
+            </Link>
+          </section>
+
+          <section className="mt-12 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">Promosyon Kalem Setleri Hakkında Sık Sorulan Sorular</h2>
+            <div className="mt-6 space-y-4">
+              {faqItems.map((item) => (
+                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                </div>
+              ))}
             </div>
           </section>
         </div>

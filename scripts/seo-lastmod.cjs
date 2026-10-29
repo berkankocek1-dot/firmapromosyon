@@ -6,6 +6,8 @@ const vm = require('node:vm');
 const { execFileSync } = require('node:child_process');
 const ts = require('typescript');
 const MANIFEST = 'data/seo-lastmod.json';
+const FORMAT_VERSION = 2;
+const normalizeText = text => text.replace(/\r\n?/g, '\n');
 const git = (...args) => execFileSync('git', args, {encoding:'utf8', maxBuffer:100*1024*1024});
 const sha = value => crypto.createHash('sha256').update(value).digest('hex');
 const blob = bytes => crypto.createHash('sha1').update(Buffer.concat([Buffer.from(`blob ${bytes.length}\0`),bytes])).digest('hex');
@@ -29,10 +31,15 @@ function source(staged, revision=null) {
   }
   const read = file => {
     if(!files.has(file)) throw Error(`Missing source: ${file}`);
-    if(!cache.has(file)) cache.set(file, revision ? git('show',`${revision}:${file}`) : staged ? git('show',`:${file}`) : fs.readFileSync(file,'utf8'));
+    if(!cache.has(file)) cache.set(file, normalizeText(revision ? git('show',`${revision}:${file}`) : staged ? git('show',`:${file}`) : fs.readFileSync(file,'utf8')));
     return cache.get(file);
   };
-  const asset = file => files.has(file) ? (files.get(file) || blob(fs.readFileSync(file))) : null;
+  const asset = file => {
+    if(!files.has(file))return null;
+    // Git may normalize text assets as well as TSX sources. Binary assets stay byte-exact.
+    if(/\.(svg|css|txt|json|webmanifest|xml|html|js|mjs)$/i.test(file))return blob(Buffer.from(read(file),'utf8'));
+    return files.get(file) || blob(fs.readFileSync(file));
+  };
   return {files,read,asset};
 }
 function calculate(src) {
@@ -135,9 +142,24 @@ function calculate(src) {
   }
   return result;
 }
-function update({staged=false,init=false,check=false}={}) {
+function update({staged=false,init=false,check=false,repair=false}={}) {
   const src=source(staged), hashes=calculate(src);
-  const previous=src.files.has(MANIFEST)?JSON.parse(src.read(MANIFEST)):{version:1,pages:{}};
+  let previous=src.files.has(MANIFEST)?JSON.parse(src.read(MANIFEST)):{version:FORMAT_VERSION,pages:{}};
+  if(repair) {
+    if(staged||check||init)throw Error('Use --repair by itself.');
+    const committed=source(false,'HEAD');
+    if(!committed.files.has(MANIFEST))throw Error('No committed date manifest exists. Nothing was changed.');
+    const saved=JSON.parse(committed.read(MANIFEST));
+    if(!saved.pages || ![1,FORMAT_VERSION].includes(saved.version))throw Error('Unsupported committed manifest. Nothing was changed.');
+    const committedHashes=calculate(committed);
+    previous={version:FORMAT_VERSION,pages:{}};
+    for(const route of Object.keys(committedHashes)) {
+      const date=saved.pages[route]?.lastModified;
+      previous.pages[route]={hash:committedHashes[route],...(date?{lastModified:date}:{})};
+    }
+  } else if(previous.version!==FORMAT_VERSION) {
+    throw Error('Date format requires a one-time repair. Run node scripts/seo-lastmod.cjs --repair before continuing.');
+  }
   const pages={}, changed=[]; const now=new Date().toISOString();
   let headHashes=null;
   if(init) {
@@ -153,7 +175,7 @@ function update({staged=false,init=false,check=false}={}) {
     if(changed.length || Object.keys(previous.pages).some(p=>!pages[p])) throw Error('Sitemap dates are stale. Run npm run seo:dates and commit data/seo-lastmod.json with the content.');
     console.log(`Sitemap dates verified: ${Object.keys(pages).length} pages.`);return;
   }
-  const output=JSON.stringify({version:1,pages},null,2)+'\n';
+  const output=JSON.stringify({version:FORMAT_VERSION,pages},null,2)+'\n';
   if(!fs.existsSync(MANIFEST)||fs.readFileSync(MANIFEST,'utf8')!==output)fs.writeFileSync(MANIFEST,output);
   if(staged)git('add','--',MANIFEST);
   console.log(`Sitemap: ${Object.keys(pages).length} pages, ${init?'baseline (no invented dates)':changed.length+' changed'}.`);
@@ -161,6 +183,6 @@ function update({staged=false,init=false,check=false}={}) {
 }
 module.exports={source,calculate,update};
 if(require.main===module) {
-  try {const args=process.argv.slice(2);update({staged:args.includes('--staged'),init:args.includes('--init'),check:args.includes('--check')||(args.includes('--build')&&!!(process.env.CI||process.env.VERCEL))});}
+  try {const args=process.argv.slice(2);update({staged:args.includes('--staged'),init:args.includes('--init'),repair:args.includes('--repair'),check:args.includes('--check')||(args.includes('--build')&&!!(process.env.CI||process.env.VERCEL))});}
   catch(e){console.error(e.message);process.exitCode=1;}
 }

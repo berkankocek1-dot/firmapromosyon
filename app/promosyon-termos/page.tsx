@@ -7,51 +7,55 @@ import { sortProductsByCode } from "@/data/productSorting";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
-function JsonLd({ data }: { data: Record<string, any> }) {
+function JsonLd({ data }: { data: Record<string, unknown> }) {
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, "\\u003c") }}
     />
   );
 }
 
 const CATEGORY = "Termos";
 const PAGE_URL = `${SITE_URL}/promosyon-termos`;
+const PAGE_TITLE = "Promosyon Termos Modelleri ve Fiyatları | Logo Baskılı";
+const PAGE_DESCRIPTION =
+  "Logo baskılı promosyon termos modellerini ve baskı hariç fiyatlarını karşılaştırın. Kapasite, kapak ve baskı seçenekleriyle toptan sipariş için teklif alın.";
 
 const faqItems = [
   {
-    question: "Promosyon termos minimum kaç adet yaptırılır?",
-    answer:
-      "Promosyon termos siparişlerinde minimum adet; seçilen modele, baskı türüne, stok durumuna ve üretim planına göre değişebilir. Bazı termos modelleri daha düşük adetlerde hazırlanabilirken, bazı ürünler toplu sipariş mantığıyla sunulabilir.",
+    "question": "Promosyon termos minimum kaç adet sipariş edilir?",
+    "answer": "Minimum adet; model, stok ve baskı yöntemine göre değişir. Ürün kodunu, istediğiniz rengi ve adedi paylaşarak baskılı veya baskısız sipariş koşullarını öğrenebilirsiniz."
   },
   {
-    question: "Promosyon termos fiyatları neye göre değişir?",
-    answer:
-      "Promosyon termos fiyatları; ürün kapasitesi, malzeme kalitesi, gövde yapısı, baskı yöntemi, sipariş miktarı ve özel taleplere göre değişebilir. Farklı ml seçeneklerine ve kapak tasarımlarına sahip modeller farklı fiyat aralıklarında değerlendirilebilir.",
+    "question": "Termos fiyatlarına logo baskısı ve KDV dahil mi?",
+    "answer": "Fiyat gösterilen ürün kartlarında ürün bedeli baskı hariçtir; KDV bilgisi kartta ayrıca belirtilir. Logo uygulaması, tek veya çift yön baskı, varsa kutu ve sevkiyat talepleri teklifte netleştirilir. Fiyatı bulunmayan modeller için güncel teklif isteyebilirsiniz."
   },
   {
-    question: "Logo baskılı termoslarda hangi baskı türleri uygulanır?",
-    answer:
-      "Logo baskılı promosyon termos modellerinde ürün yüzeyine göre lazer baskı, UV baskı veya uygun farklı baskı teknikleri uygulanabilir. Doğru baskı yöntemi; ürün yüzeyi, logo detayı ve kullanım amacına göre belirlenmelidir.",
+    "question": "Promosyon termos kaç saat sıcak veya soğuk tutar?",
+    "answer": "Isı koruma süresi modele, yalıtım yapısına ve kullanım koşullarına bağlıdır. Başlangıç sıcaklığı, ortam sıcaklığı, doluluk ve kapağın açılma sıklığı sonucu etkiler. Model için doğrulanmış bilgi yoksa belirli bir saat garantisi verilemez; teknik bilgiyi sipariş öncesinde teyit edin."
   },
   {
-    question: "Promosyon termos siparişi ne kadar sürede hazırlanır?",
-    answer:
-      "Sipariş hazırlık süresi; stok durumu, sipariş adedi, baskı yoğunluğu ve onay sürecine göre değişebilir. Net teslim süresi, seçilen model ve sipariş detayları netleştikten sonra daha sağlıklı şekilde paylaşılır.",
+    "question": "Her termos çantada sızdırmadan taşınabilir mi?",
+    "answer": "Her model için aynı özellik varsayılmamalıdır. Kapak mekanizması, conta ve ürünün kullanım talimatı kontrol edilmelidir. Kapak kilidi bulunması tek başına tam sızdırmazlık anlamına gelmez; çantada taşımak için modelin uygunluğunu ayrıca teyit edin."
   },
   {
-    question: "Promosyon termos kimler için uygundur?",
-    answer:
-      "Promosyon termos; müşterilere, bayilere, çalışanlara, iş ortaklarına ve etkinlik katılımcılarına verilebilecek kullanışlı ve prestijli promosyon ürünleri arasında yer alır. Özellikle ofis kullanımı ve günlük taşınabilir ürün ihtiyacı olan hedef kitleler için oldukça uygundur.",
+    "question": "Termos üzerine lazer mi renkli baskı mı tercih edilmeli?",
+    "answer": "Uygun yüzeylerde lazer kazıma değerlendirilebilir; ortaya çıkan ton kaplama ve alt malzemeye bağlıdır. Renkli logo için UV veya başka bir uygulamanın uygunluğu ürünün yüzeyine ve baskı alanına göre belirlenir. Gövdenin kavisli olması nedeniyle uygulama ölçüsü ve konumu model bazında incelenmelidir."
   },
+  {
+    "question": "Dijital göstergeli termos içeceği ısıtır mı?",
+    "answer": "Sıcaklık göstergesi ile ısıtma özelliği farklıdır. Bir modelin dijital göstergeye sahip olması içeceği ısıttığı anlamına gelmez. Isıtma veya sıcaklık ayarı gibi bir özellik gerekiyorsa bunun ürün açıklamasında ayrıca belirtilmiş olmasını arayın."
+  },
+  {
+    "question": "Toplu termos siparişinde teslim süresi nasıl belirlenir?",
+    "answer": "Stok, adet, renk dağılımı, baskı yöntemi, tasarım onayı, ambalaj ve teslimat adresi birlikte değerlendirilir. Etkinlik tarihinizi teklif aşamasında paylaşın; sipariş öncesinde uygulanacak logo yerleşimini, toplam bedeli ve net teslim süresini teyit edin."
+  }
 ];
 
 export const metadata: Metadata = {
-  title:
-    "Promosyon Termos | Logo Baskılı Termos Modelleri",
-  description:
-    "Logo baskılı çelik, farklı kapasiteli ve dijital göstergeli termos modellerini inceleyin. Toptan sipariş için hızlı kurumsal teklif alın.",
+  title: PAGE_TITLE,
+  description: PAGE_DESCRIPTION,
   alternates: { canonical: PAGE_URL },
   robots: {
     index: true,
@@ -65,9 +69,8 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Promosyon Termos | FirmaPromosyon",
-    description:
-      "Logo baskılı promosyon termos çeşitleri. Kurumsal tanıtım, fuar dağıtımı ve toplu sipariş için promosyon termos modellerini inceleyin.",
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     url: PAGE_URL,
     siteName: "FirmaPromosyon",
     locale: "tr_TR",
@@ -83,9 +86,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Promosyon Termos | FirmaPromosyon",
-    description:
-      "Logo baskılı promosyon termos çeşitleri. Kurumsal toplu sipariş ve hızlı teklif imkanı.",
+    title: PAGE_TITLE,
+    description: PAGE_DESCRIPTION,
     images: [`${SITE_URL}/og.jpg`],
   },
 };
@@ -135,8 +137,7 @@ export default function Page() {
           "@type": "CollectionPage",
           name: "Promosyon Termos",
           url: PAGE_URL,
-          description:
-            "Logo baskılı promosyon termos modelleri. Kurumsal promosyon, fuar, etkinlik ve toplu siparişler için promosyon termos çeşitleri.",
+          description: PAGE_DESCRIPTION,
           mainEntity: {
             "@type": "ItemList",
             numberOfItems: list.length,
@@ -179,9 +180,9 @@ export default function Page() {
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Logo baskılı promosyon termos modellerini inceleyebilir, firmanız
-            için toplu sipariş ve hızlı teklif avantajlarından
-            yararlanabilirsiniz.
+            Kapasite, kapak yapısı ve kullanım amacına göre termos modellerini
+            karşılaştırın. Logo baskılı kurumsal hediye ve toplu sipariş için
+            ürün, renk ve adet bilgilerinizi paylaşarak teklif alın.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">
@@ -217,251 +218,148 @@ export default function Page() {
         <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
           <section className="max-w-4xl space-y-5 text-gray-200">
             <h2 className="text-2xl font-bold text-white">
-              Logo Baskılı Promosyon Termos Modelleri
+              Kullanım Amacına Göre Promosyon Termos Seçimi
             </h2>
-
             <p>
-              Promosyon termos modelleri, kurumsal tanıtım çalışmalarında en çok tercih
-              edilen promosyon ürünleri arasında yer alır. Logo baskılı promosyon
-              termos ürünleri; fuar, bayi toplantısı, seminer, lansman, ofis kullanımı
-              ve müşteri dağıtımları için hem prestijli hem de etkili bir tanıtım
-              çözümü sunar.
+              Çalışan hediyesi, bayi dağıtımı veya etkinlik paketi için termos
+              seçerken yalnızca dış görünüşe bakmayın. Kapasite, kapak mekanizması,
+              taşıma biçimi ve logo alanı, ürünün günlük kullanımını birlikte belirler.
+              Masada kullanılacak bir model ile çantada taşınacak ürünün ihtiyaçları farklıdır.
             </p>
-
             <p>
-              FirmaPromosyon’da yer alan promosyon termos çeşitleri; farklı kapasite,
-              renk, tasarım ve kullanım özellikleri ile kurumsal ihtiyaçlara uygun
-              şekilde sunulmaktadır. Firmanızın logosuna uygun baskılı veya baskısız
-              sipariş seçenekleri için ürünleri inceleyebilir, toplu alım ve hızlı
-              teklif avantajlarından yararlanabilirsiniz.
-            </p>
-
-            <p>
-              Logo baskılı promosyon termos ürünleri, markanızı müşterilerinizin
-              günlük kullanım alanlarında sürekli görünür hale getiren etkili
-              reklam araçlarıdır. Termos gibi sık kullanılan bir ürünün tercih
-              edilmesi, markanızın uzun süre hatırlanmasına ve tekrar tekrar
-              görünmesine yardımcı olur.
-            </p>
-
-            <p>
-              Kurumsal firmalar tarafından en çok tercih edilen promosyon
-              ürünlerinden biri olan termoslar; fuar organizasyonlarında, seminer
-              ve eğitimlerde, müşteri ziyaretlerinde, bayi toplantılarında ve
-              personel dağıtımlarında yoğun şekilde kullanılır.
-            </p>
-
-            <p>
-              Promosyon termos çeşitleri; farklı ml seçenekleri, metal gövde,
-              kilitli kapak, lazer baskı, UV baskı ve özel tasarımlı kurumsal
-              modeller gibi farklı alternatiflerle sunulabilir. Baskılı ve
-              baskısız seçenekler, modelin yapısına göre değişebilir.
-            </p>
-
-            <p>
-              Promosyon termos fiyatları; ürün modeli, malzeme kalitesi, baskı
-              tercihi ve sipariş miktarına göre değişiklik gösterebilir. Firmanız
-              için en uygun modeli belirleyerek daha etkili bir kurumsal hediye
-              veya promosyon planı oluşturabilirsiniz.
+              Yukarıdaki filtrelerle 500 ml, büyük hacimli, dijital göstergeli,
+              French press, bambu detaylı ve set modellerini inceleyebilirsiniz.
+              Malzeme, kapasite ve kapak özelliklerini seçtiğiniz ürünün
+              açıklamasından kontrol edin; bir modelin özelliğini tüm kategoriye genellemeyin.
             </p>
           </section>
 
-          <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
-              Promosyon Termos Nerelerde Kullanılır?
-            </h2>
-
-            <div className="mt-5 grid gap-4 sm:grid-cols-2">
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Fuar ve Organizasyon Dağıtımları
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Fuar standlarında ve etkinliklerde dağıtılan logo baskılı
-                  promosyon termoslar, ziyaretçilerin markanızı uzun süre
-                  hatırlamasına yardımcı olur.
-                </p>
-              </div>
-
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Ofis ve Kurumsal Kullanım
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Şirket içinde personel kullanımı veya müşteri karşılama
-                  alanlarında promosyon termos kullanmak, kurumsal bütünlüğü
-                  güçlendiren prestijli bir çözümdür.
-                </p>
-              </div>
-
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Bayi ve Müşteri Hediyeleri
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Promosyon termos modelleri, mevcut müşterilere ve bayi ağına
-                  verilebilecek kullanışlı ve uzun ömürlü kurumsal hediye
-                  ürünleri arasında yer alır.
-                </p>
-              </div>
-
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">
-                  Toplu Firma Tanıtım Çalışmaları
-                </h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
-                  Yüksek adetli promosyon termos siparişleri, marka bilinirliği
-                  artırmak isteyen firmalar için güçlü ve etkili bir reklam
-                  çözümü sunar.
-                </p>
-              </div>
+          <section className="mt-12">
+            <h2 className="text-2xl font-bold text-white">Termos Modellerini Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+                <caption className="sr-only">Termos modelleri, kullanım örnekleri ve kontrol edilecek özellikler</caption>
+                <thead className="bg-white/10 text-white">
+                  <tr>
+                    <th scope="col" className="px-4 py-3">Model grubu</th>
+                    <th scope="col" className="px-4 py-3">Kullanım örneği</th>
+                    <th scope="col" className="px-4 py-3">Seçerken kontrol edin</th>
+                  </tr>
+                </thead>
+                <tbody className="divide-y divide-white/10">
+                  {[
+                    ["500 ml", "Ofis ve günlük kullanım", "Ölçü, ağırlık, kapak ve içim biçimi"],
+                    ["Büyük hacim", "Daha fazla içecek taşımak isteyen ekipler", "Kapasite, dolu ağırlık ve taşıma kolaylığı"],
+                    ["Dijital göstergeli", "Sıcaklık bilgisini görmek isteyen kullanıcılar", "Gösterge işlevi, bakım ve kapak talimatları"],
+                    ["French press", "Kahve hazırlamayı tercih eden kullanıcılar", "Filtre mekanizması, kapasite ve temizlik"],
+                    ["Bambu detaylı", "Malzeme ve tasarım odaklı hediyeler", "Bambu bölümün konumu ve uygulanabilir logo alanı"],
+                    ["Termos seti", "Birlikte sunulan kurumsal hediye ürünleri", "Set içeriği, kutu ve her parçanın baskı kapsamı"],
+                  ].map(([model, usage, detail]) => (
+                    <tr key={model}>
+                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <td className="px-4 py-4">{usage}</td>
+                      <td className="px-4 py-4">{detail}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
             </div>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Promosyon Termos Fiyatlarını Etkileyen Unsurlar
-            </h2>
-
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Kapasite, Kapak ve Isı Koruma Özellikleri</h2>
             <p>
-              Promosyon termos fiyatları yalnızca ürünün dış görünümüne göre
-              belirlenmez. Ürünün kapasitesi, malzeme yapısı, gövde kalitesi,
-              kapak mekanizması, baskı alanı, baskı tekniği ve sipariş miktarı
-              toplam maliyet üzerinde etkili olabilir.
+              Aynı kapasitedeki iki termosun gövde ölçüsü ve içim biçimi farklı
+              olabilir. Masa kullanımında tutuş ve kapak rahatlığını; günlük
+              taşımada ise boyut, ağırlık ve ürünün taşıma talimatını değerlendirin.
+              Araçta kullanılacaksa taban ölçüsünün bardaklıkla uyumunu kontrol edin.
             </p>
-
             <p>
-              Daha ekonomik dağıtım çözümleri için farklı modeller tercih
-              edilebilirken, daha premium kurumsal hediye planlarında daha güçlü
-              malzeme yapısına sahip termoslar öne çıkabilir. Bu nedenle seçim
-              yapılırken yalnızca fiyat değil, hedef kitle ve kullanım amacı da
-              birlikte değerlendirilmelidir.
+              Isı koruma süresi yalnızca kapasiteye bağlı değildir. Yalıtım yapısı,
+              doluluk, ortam ve başlangıç sıcaklığı ile kapağın açılma sıklığı
+              sonucu etkiler. Seçilen model için doğrulanmış bilgi olmadan bütün
+              termoslara aynı sıcak veya soğuk tutma süresi verilmemelidir.
             </p>
-
             <p>
-              Özellikle ofis çalışanları, saha ekipleri, bayi ağı ve kurumsal
-              müşteriler için termos gibi günlük hayatta sürekli kullanılan bir
-              ürün tercih edildiğinde marka görünürlüğü daha uzun süre devam eder.
-            </p>
-
-            <p>
-              Logo baskılı termos siparişlerinde ürün yüzeyine göre lazer baskı
-              veya UV baskı gibi yöntemler daha uygun olabilir. Logonun detay
-              seviyesi ve görsel etkisi doğru baskı tekniği seçimiyle doğrudan
-              ilişkilidir.
+              Kapak kilidi, sızdırmazlık ve sıcaklık göstergesi ayrı özelliklerdir.
+              Kilitli bir kapağı otomatik olarak tam sızdırmaz kabul etmeyin.
+              Dijital göstergenin bulunması da ısıtma işlevi olduğu anlamına gelmez.
+              Çantada taşıma, temizlik ve kapak bakımı için modelin talimatlarını esas alın.
             </p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Farklı Kapasite ve Tasarımdaki Promosyon Termos Modelleri
-            </h2>
-
-            <p>
-              Promosyon termos kategorisinde farklı kullanım alışkanlıklarına uygun
-              birçok model bulunabilir. Küçük hacimli modeller daha pratik taşınabilirlik
-              sunarken, daha büyük kapasiteli termoslar gün boyu kullanım avantajı
-              sağlayabilir.
-            </p>
-
-            <p>
-              Kilitli kapak, dijital ısı göstergesi, mat yüzey, metal gövde veya
-              özel tasarım detayları gibi unsurlar ürünün kullanım deneyimini ve
-              kurumsal algısını doğrudan etkileyebilir. Bu nedenle model seçimi
-              yapılırken sadece görünüm değil, kullanım senaryosu da düşünülmelidir.
-            </p>
-
-            <p>
-              Daha premium bir tanıtım hedefleniyorsa tasarım ve malzeme kalitesi
-              öne çıkan modeller tercih edilebilir. Daha geniş dağıtım planlarında
-              ise maliyet avantajı ve adet uyumu daha belirleyici olabilir.
+          <section className="mt-12">
+            <h2 className="text-2xl font-bold text-white">Logo Baskısı İçin Yüzey ve Yerleşim Seçimi</h2>
+            <div className="mt-5 grid gap-4 md:grid-cols-2">
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">Lazer kazıma</h3>
+                <p className="mt-2 text-sm leading-6 text-gray-200">
+                  Uygun yüzeylerde değerlendirilebilir. Sonuçtaki ton, kaplama ve
+                  alt malzemeye bağlıdır. Logonun tek renk görünümü ile baskı
+                  ölçüsünü ürün üzerinden değerlendirin.
+                </p>
+              </div>
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <h3 className="text-lg font-semibold text-white">Renkli logo uygulaması</h3>
+                <p className="mt-2 text-sm leading-6 text-gray-200">
+                  UV veya farklı bir yöntem, yüzey ve model uygunluğuna göre
+                  belirlenir. Kavisli gövde, tutma alanı ve kapak tasarımı
+                  uygulanabilir baskı alanını etkileyebilir.
+                </p>
+              </div>
+            </div>
+            <p className="mt-5 max-w-4xl leading-7 text-gray-200">
+              Her modelde çevresel veya çift yön baskı yapılabildiğini varsaymayın.
+              Logonuzu mümkünse vektörel PDF, AI, EPS veya SVG olarak paylaşın;
+              yerleşim, ölçü ve ek yazıları uygulama öncesinde netleştirin.
+              Baskı sonrası bakım için ürüne ve uygulamaya uygun temizlik talimatını teyit edin.
             </p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Logo Baskılı Termos Siparişinde Nelere Dikkat Edilmeli?
-            </h2>
-
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Promosyon Termos Fiyatlarını Karşılaştırırken</h2>
             <p>
-              Logo baskılı termos siparişi verirken ürün yüzeyi, baskı alanı,
-              kapasite, kapak yapısı, renk seçeneği ve kullanım amacı birlikte
-              değerlendirilmelidir. Çok detaylı logolarda baskı tekniğinin doğru
-              seçilmesi daha da önemli hale gelir.
+              Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV bilgisi
+              ayrıca belirtilir. Baskılı siparişin toplamını değerlendirirken
+              yalnızca ürün birim fiyatını karşılaştırmak yeterli değildir.
+              Fiyatı bulunmayan modeller için güncel teklif isteyebilirsiniz.
             </p>
-
+            <ul className="list-disc space-y-2 pl-5">
+              <li>Model, kapasite, gövde ve kapak yapısı.</li>
+              <li>Sipariş adedi, renk dağılımı ve stok durumu.</li>
+              <li>Logo ölçüsü, uygulama yöntemi ve baskı yönü.</li>
+              <li>Varsa kutu, ek paketleme, sevkiyat ve KDV.</li>
+            </ul>
             <p>
-              Sipariş öncesinde ürünlerin kimlere dağıtılacağı netleştirilmelidir.
-              Fuar dağıtımı için seçilecek promosyon termos ile yönetici hediyesi
-              olarak tercih edilecek model aynı özellikte olmayabilir. Hedef kitleye
-              göre doğru model seçmek, promosyon etkisini doğrudan artırır.
+              Teklifleri aynı ürün kodu, aynı adet ve aynı baskı kapsamıyla
+              karşılaştırın. Set modellerinde kutunun ve parçaların hangilerinin
+              fiyata dahil olduğunu ayrıca sorun.
             </p>
+          </section>
 
-            <p>
-              Ayrıca promosyon termos ile birlikte{" "}
-              <Link
-                href="/promosyon-kalem"
-                className="font-semibold text-white underline underline-offset-4"
-              >
-                promosyon kalem
-              </Link>
-              ,{" "}
-              <Link
-                href="/promosyon-ajanda"
-                className="font-semibold text-white underline underline-offset-4"
-              >
-                promosyon ajanda
-              </Link>
-              ,{" "}
-              <Link
-                href="/promosyon-defter"
-                className="font-semibold text-white underline underline-offset-4"
-              >
-                promosyon defter
-              </Link>{" "}
+          <section className="mt-12 max-w-4xl">
+            <h2 className="text-2xl font-bold text-white">Toplu Termos Siparişi Nasıl Planlanır?</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+              <li>Ürün kodunu, rengi ve adedi belirleyin; gerekirse alternatif model seçin.</li>
+              <li>Logo dosyanızı ve tek ya da çift yön uygulama isteğinizi paylaşın.</li>
+              <li>Etkinlik tarihini, teslimat adresini ve kutu talebini bildirin.</li>
+              <li>Stok, logo yerleşimi, baskı bedeli, KDV ve toplam tutarı netleştirin.</li>
+              <li>Teslim süresini ve sevkiyat koşullarını sipariş öncesinde teyit edin.</li>
+            </ol>
+            <p className="mt-5 leading-7 text-gray-200">
+              Kurumsal hediye paketinizi{" "}
+              <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">kalem</Link>,{" "}
+              <Link href="/promosyon-ajanda" className="font-semibold text-white underline underline-offset-4">ajanda</Link>,{" "}
+              <Link href="/promosyon-defter" className="font-semibold text-white underline underline-offset-4">defter</Link>{" "}
               veya{" "}
-              <Link
-                href="/promosyon-anahtarlik"
-                className="font-semibold text-white underline underline-offset-4"
-              >
-                promosyon anahtarlık
-              </Link>{" "}
-              gibi tamamlayıcı ürünlerle daha güçlü bir kurumsal promosyon seti
-              hazırlanabilir.
+              <Link href="/promosyon-anahtarlik" className="font-semibold text-white underline underline-offset-4">anahtarlık</Link>{" "}
+              ile tamamlayabilirsiniz. Model seçimi için{" "}
+              <Link href="/rehber/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir" className="font-semibold text-white underline underline-offset-4">termos seçim rehberini</Link>{" "}
+              de inceleyebilirsiniz.
             </p>
-          </section>
-
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
-              Toptan Promosyon Termos Siparişi İçin Doğru Planlama
-            </h2>
-
-            <p>
-              Toptan promosyon termos siparişlerinde doğru sonuç almak için hedef
-              kitle, sipariş adedi, baskı tercihi, teslim tarihi ve kullanım amacı
-              önceden belirlenmelidir. Bu yaklaşım hem teklif sürecini hızlandırır
-              hem de doğru model seçiminde avantaj sağlar.
-            </p>
-
-            <p>
-              Promosyon termos, yalnızca kısa süreli kampanyalarda değil; günlük
-              kullanımda uzun süre görünür kalan bir ürün olduğu için marka
-              bilinirliği açısından güçlü avantaj sağlar. Bu nedenle kalıcı etki
-              bırakmak isteyen firmalar için öne çıkan promosyon kategorilerinden biridir.
-            </p>
-
-            <p>
-              Sayfada yer alan ürünleri inceleyerek ihtiyacınıza uygun modeli
-              belirleyebilir ve doğrudan{" "}
-              <Link
-                href="/kurumsal-teklif-al"
-                className="font-semibold text-white underline underline-offset-4"
-              >
-                kurumsal teklif
-              </Link>{" "}
-              talebinde bulunabilirsiniz. Böylece firmanız için uygun promosyon
-              termos seçeneklerini daha sağlıklı şekilde karşılaştırabilirsiniz.
-            </p>
+            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+              Termos Siparişi İçin Teklif Al
+            </Link>
           </section>
 
           <section className="mt-14 max-w-4xl">
