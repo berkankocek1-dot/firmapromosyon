@@ -1,10 +1,11 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { Suspense, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { useSearchParams } from "next/navigation";
 import { sortProductsByCode } from "@/data/productSorting";
+import { categorySubfilters, normalizeText } from "./productFilters";
 
 
 type Product = {
@@ -13,7 +14,8 @@ type Product = {
   title: string;
   category: string;
   image: string;
-  shortDesc: string;  longDesc?: string;
+  shortDesc: string;
+  matchedSubfilters: string[];
   price?: number;
 };
 
@@ -32,246 +34,23 @@ const popularCategories = [
   "Kalem Setleri",
   "Teknolojik Ürünler",
   "Ham Bez & Tela Çanta",
-];const categorySubfilters: Record<string, string[]> = {
-  Ajanda: ["Tümü", "17x24", "16 cm Serisi", "Termo Deri", "Termo PU", "Spiralli", "Sert Kapak"],
-  Anahtarlık: ["Tümü", "Metal", "Deri", "Açacaklı", "Ev & Araba", "Telefon Standlı", "Özel Tasarım"],
-  Çakmak: ["Tümü", "Taşlı", "Manyetolu", "Turbo / Rüzgar", "Doldurulabilir", "Mini Boy"],
-  "Tarihsiz Defter": ["Tümü", "Kalem Tutuculu", "Metal Detaylı", "Premium", "Büyük Boy", "Kareli", "Cep & Mini Boy"],
-  "Duvar Saatleri": ["Tümü", "30 cm ve Altı", "35 cm", "40 cm ve Üzeri", "Özel Tasarım"],
-  "İmalat Ürünler": ["Tümü", "Açacak", "Mouse Pad", "Masaüstü", "Şemsiye", "Oto Ürünleri", "Diğer"],
-  Kalem: ["Tümü", "Plastik", "Metal", "Roller", "Jel", "Rubber", "Kurşun", "Dokunmatik"],
-  "Kalem Setleri": ["Tümü", "Roller & Tükenmez", "Kalem & Anahtarlık", "Premium", "Ahşap", "Tekli & Kutulu", "Özel Kalemler"],
-  Kupa: ["Tümü", "Kupa", "Fincan"],
-  Organizerler: ["Tümü", "Kılıflı", "Manyetik Kilitli", "Hesap Makineli", "Metal Tokalı", "Ajandalı"],
-  Powerbank: ["Tümü", "5.000 mAh", "10.000 mAh", "20.000 mAh", "MagSafe", "Wireless", "Hızlı Şarj", "Işıklı Logo"],
-  "Teknolojik Ürünler": ["Tümü", "Şarj Kabloları", "Bluetooth Hoparlör", "Wireless Şarj", "Telefon Standı", "Araç İçi", "LED Logolu"],
-  Termos: ["Tümü", "500 ml", "Büyük Hacim", "Dijital Göstergeli", "Çelik", "Matara"],
-  "USB Bellek": ["Tümü", "Metal", "Ahşap", "Deri", "Kart USB", "Özel Tasarım", "USB 3.0"],
-  "VIP Ürünler": ["Tümü", "Defter & Kalem", "Teknoloji Setleri", "Termoslu Setler", "Anahtarlıklı", "Premium & Lüks", "Set Kutuları"],
-};
+];
 
-function normalizeText(value: string) {
-  return value
-    .toLocaleLowerCase("tr-TR")
-    .replaceAll("ı", "i")
-    .replaceAll("ğ", "g")
-    .replaceAll("ü", "u")
-    .replaceAll("ş", "s")
-    .replaceAll("ö", "o")
-    .replaceAll("ç", "c")
-    .replace(/[^a-z0-9\s-]/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
-}function matchesSubfilter(product: Product, filter: string) {
-  if (filter === "Tümü") return true;
 
-  const text = normalizeText(
-    `${product.title} ${product.shortDesc} ${product.longDesc || ""}`
-  );
 
-  const key = normalizeText(filter);
-
-  if (product.category === "Duvar Saatleri") {
-    if (filter === "30 cm ve Altı") {
-      return /(?:20|22|24|25|26|28|30)\s*cm/.test(text);
-    }
-
-    if (filter === "35 cm") {
-      return /35\s*cm/.test(text);
-    }
-
-    if (filter === "40 cm ve Üzeri") {
-      return /(?:40|45|50|55|60)\s*cm/.test(text);
-    }
-  }
-
-  if (product.category === "Termos") {
-    if (filter === "500 ml") {
-      return /500\s*ml/.test(text);
-    }
-
-    if (filter === "Büyük Hacim") {
-      return (
-        /(?:700|750|800|900|1000|1200|1500)\s*ml/.test(text) ||
-        /(?:1|12|15)\s*l(?:itre)?/.test(text)
-      );
-    }
-  }
-
-  if (
-    product.category === "Kalem Setleri" &&
-    filter === "Roller & Tükenmez"
-  ) {
-    return text.includes("roller") && text.includes("tukenmez");
-  }
-
-  if (
-    product.category === "VIP Ürünler" &&
-    filter === "Defter & Kalem"
-  ) {
-    return text.includes("defter") && text.includes("kalem");
-  }
-
-  if (
-    product.category === "İmalat Ürünler" &&
-    filter === "Diğer"
-  ) {
-    const knownTerms = [
-      "acacak",
-      "mouse pad",
-      "mousepad",
-      "masaustu",
-      "semsiye",
-      "oto",
-      "arac",
-    ];
-
-    return !knownTerms.some((term) => text.includes(term));
-  }
-
-  const aliases: Record<string, string[]> = {
-    "17x24": ["17 x 24", "17x24"],
-    "16 cm serisi": ["16 x 24", "16x24", "165 x 22"],
-
-    spiralli: ["spiral"],
-    manyetolu: ["manyeto"],
-    "turbo ruzgar": ["turbo", "ruzgar"],
-    doldurulabilir: ["doldurulabilir", "doldurulabilen"],
-    "mini boy": ["mini"],
-
-    acacakli: ["acacak", "purjor"],
-    "ev araba": ["ev seklinde", "araba seklinde"],
-    "telefon standli": [
-      "telefon standli",
-      "telefon standi",
-      "telefon tutucu",
-    ],
-    "ozel tasarim": [
-      "ozel tasarim",
-      "3d",
-      "figur",
-      "baret anahtarlik",
-      "rozet",
-    ],
-
-    "kalem tutuculu": [
-      "kalem tutuculu",
-      "kalem yuvali",
-      "kalemlikli",
-    ],
-    "metal detayli": [
-      "metal plakali",
-      "metal detayli",
-      "metal tokali",
-      "manyetik kilitli",
-    ],
-    "buyuk boy": [
-      "buyuk boy",
-      "17x24",
-      "16x24",
-      "195x25",
-    ],
-    "cep mini boy": ["cep boy", "mini boy"],
-
-    "mouse pad": ["mouse pad", "mousepad"],
-    "oto urunleri": ["oto", "arac"],
-
-    jel: ["jel", "jell"],
-    dokunmatik: ["dokunmatik", "stylus"],
-
-    "kalem anahtarlik": ["kalem ve anahtarlik"],
-    premium: ["premium", "vip", "luks"],
-    "tekli kutulu": ["tekli", "kalem kutusu"],
-    "ozel kalemler": [
-      "ozel tasarim",
-      "dolma kalem",
-      "piston",
-      "dokunmatik",
-      "stylus",
-    ],
-
-    "hesap makineli": [
-      "hesap makineli",
-      "hesap makinali",
-    ],
-    "metal tokali": [
-      "metal tokali",
-      "metal kilitli",
-    ],
-    ajandali: ["ajanda"],
-
-    "5000 mah": ["5000 mah"],
-    "10000 mah": ["10000 mah"],
-    "20000 mah": ["20000 mah"],
-    wireless: ["wireless", "kablosuz"],
-    "hizli sarj": [
-      "hizli sarj",
-      "quick charge",
-      "pd sarj",
-    ],
-    "isikli logo": ["isikli logo", "led logo"],
-
-    "sarj kablolari": [
-      "sarj kablosu",
-      "kablo seti",
-      "coklu sarj kablosu",
-    ],
-    "bluetooth hoparlor": [
-      "bluetooth hoparlor",
-      "bluetooth speaker",
-    ],
-    "wireless sarj": [
-      "wireless sarj",
-      "kablosuz sarj",
-      "magsafe",
-    ],
-    "telefon standi": [
-      "telefon standi",
-      "telefon tutucu",
-      "telefon sabitleyici",
-    ],
-    "led logolu": ["led logo", "led isikli"],
-
-    "dijital gostergeli": ["dijital", "gostergeli"],
-
-    "kart usb": ["kart usb", "kredi karti"],
-    "usb 30": ["usb 30"],
-
-    "teknoloji setleri": [
-      "powerbank",
-      "usb",
-      "bluetooth",
-      "speaker",
-      "magsafe",
-      "kablo",
-    ],
-    "termoslu setler": ["termos"],
-    anahtarlikli: ["anahtarlik"],
-    "premium luks": [
-      "premium",
-      "luks",
-      "prestijli",
-      "vip hediye",
-    ],
-    "set kutulari": ["set kutusu"],
-  };
-
-  const terms = aliases[key] || [key];
-
-  return terms.some((term) => text.includes(term));
+function SearchQuerySync({ onQuery }: { onQuery: (value: string) => void }) {
+  const searchParams = useSearchParams();
+  const query = searchParams.get("q") || "";
+  useEffect(() => { onQuery(query); }, [query, onQuery]);
+  return null;
 }
 
 export default function ProductsClient({ products }: { products: Product[] }) {
-  const searchParams = useSearchParams();
-  const queryFromUrl = searchParams.get("q") || "";
-
-  const [search, setSearch] = useState(queryFromUrl);
+  const [search, setSearch] = useState("");
   const [activeCategory, setActiveCategory] = useState("Tümü");  const [activeSubfilter, setActiveSubfilter] = useState("Tümü");
   const [showAllCategories, setShowAllCategories] = useState(false);
 
-  useEffect(() => {
-    setSearch(queryFromUrl);
-  }, [queryFromUrl]);
+
 
   const categories = useMemo(
     () =>
@@ -293,7 +72,7 @@ export default function ProductsClient({ products }: { products: Product[] }) {
       const matchesCategory =
         activeCategory === "Tümü" || product.category === activeCategory;
 
-      if (!matchesCategory) return false;      if (!matchesSubfilter(product, activeSubfilter)) return false;
+      if (!matchesCategory) return false;      if (activeSubfilter !== "T\u00fcm\u00fc" && !product.matchedSubfilters.includes(activeSubfilter)) return false;
 
       if (!query) return true;
 
@@ -316,6 +95,9 @@ export default function ProductsClient({ products }: { products: Product[] }) {
 
   return (
     <>
+      <Suspense fallback={null}>
+        <SearchQuerySync onQuery={setSearch} />
+      </Suspense>
       <section className="mb-8 rounded-3xl border border-white/10 bg-white/5 p-5 md:p-7">
         <div>
           <label

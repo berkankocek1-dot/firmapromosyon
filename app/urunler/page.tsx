@@ -3,6 +3,8 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { visibleProducts as products } from "@/data/productVisibility";
 import ProductsClient from "./ProductsClient";
+import { sortProductsByCode } from "@/data/productSorting";
+import { categorySubfilters, matchesSubfilter } from "./productFilters";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 
@@ -31,9 +33,9 @@ function JsonLd({ data }: { data: Record<string, any> }) {
 }
 
 export const metadata: Metadata = {
-  title: "Ürünler",
+  title: "Promosyon Ürünleri | Logo Baskılı Kurumsal Hediyeler",
   description:
-    "Kurumsal promosyon ürünleri: kalem, çakmak, kupa, ajanda, tişört ve daha fazlası. Hızlı teklif için ürünleri inceleyin.",
+    "Logo baskılı promosyon ürünlerini inceleyin. Kalem, defter, ajanda, termos ve kurumsal hediye modellerini karşılaştırın; toplu sipariş için teklif alın.",
   alternates: { canonical: `${SITE_URL}/urunler` },
   robots: {
     index: true,
@@ -47,9 +49,9 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Ürünler | FirmaPromosyon",
+    title: "Promosyon Ürünleri | Logo Baskılı Kurumsal Hediyeler | FirmaPromosyon",
     description:
-      "Kurumsal promosyon ürünleri: kalem, çakmak, kupa, ajanda, tişört ve daha fazlası. Hızlı teklif için ürünleri inceleyin.",
+      "Logo baskılı promosyon ürünlerini inceleyin. Kalem, defter, ajanda, termos ve kurumsal hediye modellerini karşılaştırın; toplu sipariş için teklif alın.",
     url: `${SITE_URL}/urunler`,
     siteName: "FirmaPromosyon",
     locale: "tr_TR",
@@ -65,9 +67,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Ürünler | FirmaPromosyon",
+    title: "Promosyon Ürünleri | Logo Baskılı Kurumsal Hediyeler | FirmaPromosyon",
     description:
-      "Kurumsal promosyon ürünleri: kalem, çakmak, kupa, ajanda, tişört ve daha fazlası. Hızlı teklif için ürünleri inceleyin.",
+      "Logo baskılı promosyon ürünlerini inceleyin. Kalem, defter, ajanda, termos ve kurumsal hediye modellerini karşılaştırın; toplu sipariş için teklif alın.",
     images: [`${SITE_URL}/og.jpg`],
   },
 };
@@ -76,7 +78,20 @@ export default function ProductsPage() {
 
   const pageUrl = `${SITE_URL}/urunler`;
 
-  const itemListElement = products.map((p, idx) => ({
+  const sortedProducts = sortProductsByCode(products);
+  const cardProducts = sortedProducts.map((product) => ({
+    id: product.id,
+    slug: product.slug,
+    title: product.title,
+    category: product.category,
+    image: product.image,
+    shortDesc: product.shortDesc,
+    ...(typeof product.price === "number" ? { price: product.price } : {}),
+    matchedSubfilters: (categorySubfilters[product.category] || [])
+      .filter((filter) => matchesSubfilter(product, filter)),
+  }));
+
+  const itemListElement = sortedProducts.map((p, idx) => ({
     "@type": "ListItem",
     position: idx + 1,
     url: `${SITE_URL}/urunler/${p.slug}`,
@@ -84,7 +99,7 @@ export default function ProductsPage() {
   }));
 
   return (
-    <main className="min-h-screen bg-black text-white">
+    <div className="min-h-screen bg-black text-white">
       <div className="mx-auto max-w-6xl px-4 py-10">
         <JsonLd
           data={{
@@ -111,13 +126,13 @@ export default function ProductsPage() {
           data={{
             "@context": "https://schema.org",
             "@type": "CollectionPage",
-            name: "Ürünler",
+            name: "Promosyon Ürünleri",
             url: pageUrl,
             description:
-              "Kurumsal promosyon ürünleri: kalem, çakmak, kupa, ajanda, tişört ve daha fazlası.",
+              "Logo baskılı promosyon ürünlerini inceleyin. Kalem, defter, ajanda, termos ve kurumsal hediye modellerini karşılaştırın; toplu sipariş için teklif alın.",
             mainEntity: {
               "@type": "ItemList",
-              numberOfItems: products.length,
+              numberOfItems: sortedProducts.length,
               itemListElement,
             },
           }}
@@ -125,7 +140,7 @@ export default function ProductsPage() {
 
         <div className="mb-6">
           <h1 className="text-3xl font-extrabold text-white md:text-5xl">
-            Ürünler
+            Promosyon Ürünleri
           </h1>
           <p className="mt-2 text-base text-white/80 md:text-lg">
             Kategorilere göre filtreleyin ve hızlı teklif alın.
@@ -133,7 +148,7 @@ export default function ProductsPage() {
         </div>
 
         <Suspense fallback={<ProductsLoadingFallback />}>
-          <ProductsClient products={products} />
+          <ProductsClient products={cardProducts} />
         </Suspense>
 
         <section className="mb-8 rounded-2xl border border-white/10 bg-white/5 p-5 md:p-6">
@@ -156,7 +171,7 @@ export default function ProductsPage() {
           </nav>
         </section>
       </div>
-    </main>
+    </div>
   );
 }
 
