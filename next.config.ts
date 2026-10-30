@@ -3,6 +3,11 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   async redirects() {
     return [
+      {
+        source: "/kvkk-aydinlatma",
+        destination: "/kvkk",
+        permanent: true,
+      },
       {"source":"/urunler/promosyon-duvar-saati-37cm-aluminyum-kasa-ds-115","destination":"/urunler/promosyon-duvar-saati-ds-115-37cm","permanent":true},
       {"source":"/urunler/promosyon-duvar-saati-37cm-metal-kasa-ds-120","destination":"/urunler/promosyon-duvar-saati-ds-120-37cm","permanent":true},
       {"source":"/urunler/promosyon-duvar-saati-38cm-metal-kasa-ds-130","destination":"/urunler/promosyon-duvar-saati-ds-130-30cm-metal-kasa","permanent":true},

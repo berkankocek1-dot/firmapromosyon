@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description:
     "FirmaPromosyon KVKK aydınlatma metni, kişisel verilerin işlenmesi, saklanması ve kullanıcı hakları hakkında detaylı bilgi.",
   alternates: {
-    canonical: "https://www.firmapromosyon.com/kvkk-aydinlatma",
+    canonical: "https://www.firmapromosyon.com/kvkk",
   },
 };
 
