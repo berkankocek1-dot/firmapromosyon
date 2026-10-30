@@ -226,7 +226,7 @@ export default function Page() {
             </div>
 
             <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
-              Promosyon çakmak, firmaların marka bilinirliğini artırmak için
+              <Link href="/promosyon-cakmak" className="font-semibold text-red-600 hover:underline">Promosyon çakmak</Link>, firmaların marka bilinirliğini artırmak için
               kullandığı en etkili ve en ekonomik tanıtım ürünlerinden biridir.
               Günlük hayatta sık kullanılan bu ürün, kullanıcı ile marka arasında
               sürekli bir temas noktası oluşturabilir. Bu yönüyle klasik reklam

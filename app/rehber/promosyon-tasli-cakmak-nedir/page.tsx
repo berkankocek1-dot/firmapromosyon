@@ -207,7 +207,7 @@ export default function Page() {
             </div>
 
             <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
-              Promosyon taşlı çakmak, firmaların marka görünürlüğünü artırmak için
+              <Link href="/promosyon-cakmak" className="font-semibold text-red-600 hover:underline">Promosyon taşlı çakmak</Link>, firmaların marka görünürlüğünü artırmak için
               kullandığı en ekonomik promosyon ürünlerinden biridir. Üzerine logo,
               slogan, firma adı veya iletişim bilgisi basılarak dağıtılan bu ürünler,
               özellikle yüksek adetli kampanyalarda çok sık tercih edilir. Düşük

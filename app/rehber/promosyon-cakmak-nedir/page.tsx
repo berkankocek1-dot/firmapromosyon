@@ -267,7 +267,7 @@ export default function Page() {
             <section>
               <h2>Promosyon çakmak nedir?</h2>
               <p>
-                Promosyon çakmak; bir firmanın marka tanıtımı yapmak amacıyla
+                <Link href="/promosyon-cakmak">Promosyon çakmak</Link>; bir firmanın marka tanıtımı yapmak amacıyla
                 dağıttığı, üzerine logo veya firma bilgileri basılabilen çakmak
                 türüdür. Kurumsal promosyon ürünleri arasında uzun yıllardır güçlü
                 bir yere sahip olan bu ürün, özellikle maliyet avantajı ve kullanım

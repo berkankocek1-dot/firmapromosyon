@@ -229,7 +229,7 @@ export default function Page() {
             </div>
 
             <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
-              <strong className="text-gray-900">Promosyon çakmak</strong>, düşük
+              <Link href="/promosyon-cakmak" className="font-semibold text-red-600 hover:underline"><strong className="text-gray-900">Promosyon çakmak</strong></Link>, düşük
               maliyetle yüksek görünürlük sağlayabilen en etkili promosyon
               ürünlerinden biridir. Küçük boyutlu olması, kolay taşınması ve günlük
               hayatta tekrar tekrar kullanılabilmesi nedeniyle firmalar tarafından

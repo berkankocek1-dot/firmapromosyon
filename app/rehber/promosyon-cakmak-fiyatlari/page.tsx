@@ -289,7 +289,7 @@ export default function Page() {
             <section>
               <h2>Ürün tipine göre promosyon çakmak fiyat farkları</h2>
               <p>
-                En yaygın promosyon çakmak modelleri arasında taşlı çakmaklar ve
+                En yaygın <Link href="/promosyon-cakmak">promosyon çakmak modelleri</Link> arasında taşlı çakmaklar ve
                 elektronik çakmaklar bulunur. Taşlı modeller genellikle daha uygun
                 maliyetli olduğu için toplu dağıtımlarda ve yüksek adetli
                 siparişlerde öne çıkar. Özellikle kampanya, fuar ve hızlı dağıtım

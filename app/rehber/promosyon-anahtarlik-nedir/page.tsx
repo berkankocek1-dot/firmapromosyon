@@ -267,7 +267,7 @@ export default function Page() {
 
             <div className="mt-4 space-y-4 text-gray-700 leading-7">
               <p>
-                Promosyon anahtarlıklar plastik, metal, deri ve akrilik gibi farklı
+                <Link href="/promosyon-anahtarlik" className="font-semibold text-blue-600 underline">Promosyon anahtarlıklar</Link> plastik, metal, deri ve akrilik gibi farklı
                 malzemelerden üretilebilir. Plastik modeller daha ekonomik olurken,
                 metal ve deri modeller daha prestijli bir görünüm sunar.
               </p>

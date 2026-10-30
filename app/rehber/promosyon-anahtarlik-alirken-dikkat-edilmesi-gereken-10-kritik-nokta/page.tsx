@@ -308,7 +308,7 @@ export default function Page() {
                 bir yapıdadır. Dayanıksız bir ürün kısa sürede yıpranabilir.
               </p>
               <p>
-                Bu yüzden promosyon anahtarlık seçiminde yalnızca fiyat odaklı değil,
+                Bu yüzden <Link href="/promosyon-anahtarlik">promosyon anahtarlık</Link> seçiminde yalnızca fiyat odaklı değil,
                 ürünün gerçek kullanım ömrü ve marka temsil gücü odaklı düşünmek gerekir.
               </p>
             </section>

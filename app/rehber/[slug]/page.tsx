@@ -892,6 +892,27 @@ export default async function GuidePage({ params }: PageProps) {
             >
               Hızlı Teklif Al
             </Link>
+            {guide.slug === "dtf-baski-nedir" && (
+              <div className="flex flex-col gap-3">
+                <p className="text-sm text-gray-200">
+                  DTF baskıya uygun modelleri inceleyin; uygulama uygunluğu seçilen ürün ve tasarıma göre netleştirilir.
+                </p>
+                <div className="flex flex-wrap gap-3">
+                  <Link
+                    href="/promosyon-tisort"
+                    className="inline-flex items-center justify-center rounded-2xl bg-white px-6 py-3 text-sm font-semibold text-black transition hover:bg-gray-100"
+                  >
+                    Tişört Modellerini İncele
+                  </Link>
+                  <Link
+                    href="/promosyon-ham-bez-tela-canta"
+                    className="inline-flex items-center justify-center rounded-2xl bg-white px-6 py-3 text-sm font-semibold text-black transition hover:bg-gray-100"
+                  >
+                    Ham Bez ve Tela Çantaları İncele
+                  </Link>
+                </div>
+              </div>
+            )}
             {guide.slug === "promosyon-kupa-baski" && (
               <Link
                 href="/promosyon-kupa"
