@@ -2,8 +2,8 @@
   "version": 2,
   "pages": {
     "/": {
-      "hash": "f37c45b23e38e51e422e1707f81522e7a21200d6ba249d7c15413b8a29a9e96f",
-      "lastModified": "2026-10-29T00:59:22.135Z"
+      "hash": "f6827d1c41e9655c5a2cac530f2c16555141ea64d5f7cb184312c963a9f558f8",
+      "lastModified": "2026-10-30T23:23:21.023Z"
     },
     "/cerez-politikasi": {
       "hash": "bd166674f18b49bea35d984e3301e96379cba6ee22fec87f28b1e0f9d11ed025",
@@ -94,8 +94,8 @@
       "lastModified": "2026-10-29T21:19:05.113Z"
     },
     "/promosyon-kalem": {
-      "hash": "2afe25b0baa1dabec3e099dd38e6aa4767cfed0edb7dbc2eee926ceb9a7b884a",
-      "lastModified": "2026-10-29T00:59:22.135Z"
+      "hash": "8e12f678e4aafecb86f4f5392961cbab53af5202cf76501def977de8cb4f51f6",
+      "lastModified": "2026-10-30T23:23:21.023Z"
     },
     "/promosyon-kalem-setleri": {
       "hash": "1517ce31ebea091381cd87ad73957bc56457f3c177d2b572f304f7b2667b22cf",
@@ -334,8 +334,8 @@
       "lastModified": "2026-10-29T00:59:22.135Z"
     },
     "/urunler": {
-      "hash": "de87a358e7c550aeedf77588b4195bb6b8d6c0face3675dae282e2647d8a75f9",
-      "lastModified": "2026-10-30T23:10:57.326Z"
+      "hash": "09f099e0f434a926ffdb54fd6caf8f05102f3b54fe459d9a00a8ef56edc37336",
+      "lastModified": "2026-10-30T23:23:21.023Z"
     },
     "/urunler/promosyon-100-yaprak-taslama-kapak-defter-15x21-mtb-190": {
       "hash": "a612a1f162f06a60edd2c06a1acc22cbe892fdbb90e0868b3c5fd42dd2668df7",
@@ -1510,20 +1510,20 @@
       "lastModified": "2026-10-29T00:59:22.135Z"
     },
     "/urunler/promosyon-metal-kalem-07-uc-jel-kalem-mk-120": {
-      "hash": "83c297489477555c523da9a5e967581906ad59f2e9547979b4c1d4baae51b2df",
-      "lastModified": "2026-10-29T00:59:22.135Z"
+      "hash": "53b181a0b25158c42b0a706e0927f3232cee77c0e68786ba67d1f3bcff626e4a",
+      "lastModified": "2026-10-30T23:23:21.023Z"
     },
     "/urunler/promosyon-metal-kalem-mk-100": {
-      "hash": "601f3c1d56b3d7cd8d4e4b174e1f5772cfe1b5a3d0f0afd0df0425070f5509c2",
-      "lastModified": "2026-10-29T00:59:22.135Z"
+      "hash": "453cc88047e11c0198b70d8dbb7430ecfcd9a6818d741bbb3d2528c9968aae33",
+      "lastModified": "2026-10-30T23:23:21.023Z"
     },
     "/urunler/promosyon-metal-kalem-mk-110": {
       "hash": "72edf69f5559e56b4c4a30868e81b4eaccaf94025742662ad70e862ca957f7c2",
       "lastModified": "2026-10-29T00:59:22.135Z"
     },
     "/urunler/promosyon-metal-kalem-mk-130": {
-      "hash": "235c8e7c3d293287e9e31f35eaf3165737b152936e87cb51a75514c0debc262a",
-      "lastModified": "2026-10-29T00:59:22.135Z"
+      "hash": "57c0a60b3347154c47c45d1b1a9e5c20022f49fe9e2e2808bd362b3fc7c6c442",
+      "lastModified": "2026-10-30T23:23:21.023Z"
     },
     "/urunler/promosyon-metal-kalem-mk-150": {
       "hash": "1d1b3e78bcec2804514dfc3915a8c797afd7b9eea605d95c94907df01248a534",
@@ -1678,8 +1678,8 @@
       "lastModified": "2026-10-29T00:59:22.135Z"
     },
     "/urunler/promosyon-metal-kalemler-mk-140": {
-      "hash": "6549d6dad8fba9cd58f1f336f4ab75242b212c8a122cc59e01f5738b889d6479",
-      "lastModified": "2026-10-29T00:59:22.135Z"
+      "hash": "375eb2677dea7590b7a9e03052b26282198c5c9807b8e8bf7d9d2bc0e1594912",
+      "lastModified": "2026-10-30T23:23:21.023Z"
     },
     "/urunler/promosyon-metal-usb-bellek-ub-130": {
       "hash": "4ef339dfd66b5b13086d27e662df6a1cf8675a9318031454ebec9fb2ebc4c95b",

@@ -4242,64 +4242,9 @@ Promosyon yuvarlak silgili latalı kurşun kalem KK-450 ile markanızı modern, 
   image: "/products/promosyon-metal-kalem-mk-100.jpg",
 
   shortDesc:
-    "Promosyon metal kalem MK-100, parlak metal detayları ve şık gövde tasarımı ile prestijli bir promosyon kalem modelidir. Lazer baskıya uygun yapısı sayesinde kurumsal promosyon, fuar ve şirket etkinlikleri için ideal bir tanıtım ürünüdür.",
+    "MK-100 metal kalem, 140 x Ø10 mm ölçüsü ve mavi refiliyle sunulur. 55 x 5,5 mm lazer baskı alanı, firma logosu ve kısa marka uygulamaları için değerlendirilebilir.",
 
-  longDesc: `
-Şık ve Prestijli Metal Promosyon Kalem ile Markanızı Profesyonel Şekilde Tanıtın
-
-Promosyon metal kalem MK-100, zarif tasarımı ve dayanıklı metal gövdesi ile kurumsal promosyon ürünleri arasında öne çıkan premium bir kalem modelidir. Parlak metal detayları ve modern çizgileri sayesinde markanıza kaliteli ve profesyonel bir görünüm kazandırır.
-
-Logo baskılı promosyon metal kalemler, müşterilerinizin ve iş ortaklarınızın günlük kullanımında sık tercih ettiği ürünler arasında yer alır. Bu sayede firmanızın logosu uzun süre görünür kalır ve marka bilinirliğiniz güçlenir.
-
-MK-100 modeli; bankalar, finans kuruluşları, teknoloji şirketleri, eğitim kurumları ve kurumsal firmalar tarafından prestij amaçlı promosyon çalışmaları için sıklıkla tercih edilmektedir. Fuarlar, toplantılar, seminerler ve kurumsal hediye dağıtımları için ideal bir seçenektir.
-
-Lazer baskıya uygun metal gövdesi sayesinde firma logosu, marka adı veya reklam mesajı ürün üzerine net ve kalıcı şekilde uygulanabilir. Metal yüzey üzerinde yapılan lazer baskı, son derece profesyonel ve uzun ömürlü bir görünüm sunar.
-
-NEDEN PROMOSYON METAL KALEM MK-100 TERCİH EDİLMELİ?
-• Dayanıklı ve şık metal gövde
-• Premium kurumsal görünüm
-• Lazer baskıya uygun yüzey
-• Günlük kullanımda yüksek marka görünürlüğü
-• Kurumsal hediye için ideal
-• Uzun ömürlü kullanım
-
-KULLANIM ALANLARI
-• Kurumsal promosyon dağıtımları
-• Fuar ve organizasyon etkinlikleri
-• Toplantılar ve seminerler
-• Banka ve finans sektörü tanıtımları
-• Eğitim kurumları
-• Prestij amaçlı kurumsal hediyeler
-
-KİMLER İÇİN UYGUN?
-• Kurumsal firmalar
-• Bankalar ve finans kuruluşları
-• Teknoloji şirketleri
-• Reklam ajansları
-• Eğitim kurumları
-• Organizasyon firmaları
-
-PROMOSYON METAL KALEM FİYATLARI
-Promosyon metal kalem fiyatları; sipariş miktarı, baskı yöntemi, stok durumu ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-Gümüş, Bej, Turuncu, Yeşil, Füme, Lacivert, Kırmızı, Gri, Siyah, Mor, Beyaz, Turkuaz ve Açık Mavi.
-
-TEKNİK ÖZELLİKLER
-• Model: MK-100
-• Ürün Ölçüsü: 140 x Ø10 mm
-• Refil: Mavi Refil
-• Baskı Türü: Lazer Baskı
-• Baskı Alanı: 55 x 5,5 mm
-• Koli / Kutu Adedi: 500 / 50
-• Kategori: Promosyon Kalem
-
-MİNİMUM SİPARİŞ BİLGİSİ
-• Baskısız ve baskılı minimum sipariş adetleri stok ve üretim planına göre değişebilir
-• Net minimum sipariş miktarı teklif aşamasında paylaşılır
-
-Promosyon metal kalem MK-100 ile markanızı kaliteli, prestijli ve uzun ömürlü bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "MK-100 Metal Kalem: Mavi Refil ve Lazer Logo Uygulaması\n\nMK-100, metal kalem seçimini ürün ölçüsü ve baskı alanına göre yapmak isteyen firmalar için incelenebilecek modellerden biridir. 140 x Ø10 mm gövdesinde mavi refil bulunur. Lazer uygulaması için belirtilen alan 55 x 5,5 mm'dir.\n\nLOGONUZU BASKI ALANINA GÖRE HAZIRLAYIN\nUzun marka adları ve yatay logolar değerlendirilirken 55 mm uzunluğundaki alan esas alınabilir. Logonun ayrıntıları ve yazıların okunabilirliği, sipariş öncesi hazırlanacak uygulama çalışmasında kontrol edilmelidir. Alan ölçüsü, her tasarımın aynı büyüklükte uygulanabileceği anlamına gelmez.\n\nHANGİ SİPARİŞLERDE DEĞERLENDİRİLEBİLİR?\nToplantı katılımcıları, ofis ekipleri veya müşteri ziyaretleri için metal gövdeli bir yazı aracı arıyorsanız MK-100'ü renk seçenekleriyle birlikte karşılaştırabilirsiniz. Seçimi yalnızca görünüme göre değil; yazım türü, logo yerleşimi ve dağıtım adedi üzerinden yapmak faydalıdır.\n\nTEKLİF TALEBİNDE PAYLAŞILACAKLAR\nMK-100 kodunu, istediğiniz adedi, gövde rengini ve logo dosyanızı iletin. Ürün bedeliyle baskı uygulamasının kapsamı teklif sırasında ayrı ayrı netleştirilmelidir.\n\nRENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)\nGümüş, Bej, Turuncu, Yeşil, Füme, Lacivert, Kırmızı, Gri, Siyah, Mor, Beyaz, Turkuaz ve Açık Mavi.\n\nTEKNİK ÖZELLİKLER\n• Model: MK-100\n• Ürün Ölçüsü: 140 x Ø10 mm\n• Refil: Mavi Refil\n• Baskı Türü: Lazer Baskı\n• Baskı Alanı: 55 x 5,5 mm\n• Koli / Kutu Adedi: 500 / 50\n• Kategori: Promosyon Kalem\n\nMİNİMUM SİPARİŞ BİLGİSİ\n• Baskısız ve baskılı minimum sipariş adetleri stok ve üretim planına göre değişebilir\n• Net minimum sipariş miktarı teklif aşamasında paylaşılır\n\nPromosyon metal kalem MK-100 ile markanızı kaliteli, prestijli ve uzun ömürlü bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.",
 },
 {
   id: "p46",
@@ -4389,65 +4334,9 @@ Logo baskılı toptan promosyon metal kalem siparişleriniz için WhatsApp üzer
   image: "/products/promosyon-metal-kalem-mk-120.jpg",
 
   shortDesc:
-    "Promosyon metal kalem MK-120, 0.7 mm jel refili sayesinde akıcı ve konforlu yazım sunan şık bir promosyon kalem modelidir. Lazer baskıya uygun metal gövdesi ile kurumsal promosyonlar ve prestij amaçlı hediyeler için ideal bir seçenektir.",
+    "Promosyon metal kalem MK-120, 0,7 mm mavi jel refiliyle öne çıkar. 140 x Ø10 mm ürün ölçüsü ve 55 x 5,5 mm lazer baskı alanıyla logo uygulamalı toplu sipariş için incelenebilir.",
 
-  longDesc: `
-Jel Refilli Premium Metal Kalem ile Markanızı Kaliteli Bir Deneyimle Tanıtın
-
-Promosyon metal kalem MK-120, 0.7 mm jel refil yapısı sayesinde son derece akıcı ve yumuşak bir yazım deneyimi sunan premium bir promosyon kalem modelidir. Modern metal gövdesi ve zarif tasarımı ile kurumsal promosyon ürünleri arasında dikkat çeken prestijli bir seçenektir.
-
-Jel refilli kalemler, klasik tükenmez kalemlere göre daha akıcı yazım sunduğu için kullanıcılar tarafından yüksek memnuniyetle tercih edilir. Bu özellik, kalemin kullanım sıklığını artırarak markanızın daha uzun süre görünür kalmasına yardımcı olur.
-
-MK-120 modeli, özellikle imza kalemi olarak kullanılabilecek şık bir tasarıma sahiptir. Bankalar, finans kuruluşları, hukuk büroları, teknoloji firmaları ve kurumsal şirketler için profesyonel bir promosyon ürünü ve kurumsal hediye alternatifi sunar.
-
-Lazer baskıya uygun metal yüzeyi sayesinde firma logosu, marka adı veya reklam mesajı ürün üzerine net ve kalıcı şekilde uygulanabilir. Metal yüzey üzerinde yapılan baskılar son derece şık ve profesyonel bir görünüm oluşturur.
-
-NEDEN PROMOSYON METAL KALEM MK-120 TERCİH EDİLMELİ?
-• 0.7 mm jel refil ile akıcı yazım
-• Premium metal gövde
-• İmza kalemi olarak kullanıma uygun
-• Lazer baskıya uygun yüzey
-• Günlük kullanımda yüksek marka görünürlüğü
-• Prestij amaçlı kurumsal hediye için ideal
-
-KULLANIM ALANLARI
-• Kurumsal promosyon dağıtımları
-• Toplantılar ve müşteri görüşmeleri
-• Fuar ve organizasyon etkinlikleri
-• Banka ve finans sektörü tanıtımları
-• Hukuk büroları ve danışmanlık şirketleri
-• Prestij amaçlı kurumsal hediyeler
-
-KİMLER İÇİN UYGUN?
-• Kurumsal firmalar
-• Bankalar ve finans kuruluşları
-• Hukuk büroları
-• Teknoloji şirketleri
-• Reklam ajansları
-• Eğitim kurumları
-
-PROMOSYON JEL METAL KALEM FİYATLARI
-Promosyon jel refilli metal kalem fiyatları; sipariş miktarı, baskı yöntemi, stok durumu ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde özel fiyat avantajları sunulmaktadır.
-
-RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-Beyaz, Füme, Antrasit, Turkuaz, Mavi ve Bordo.
-
-TEKNİK ÖZELLİKLER
-• Model: MK-120
-• Ürün Ölçüsü: 140 x Ø10 mm
-• Refil: Mavi Jel Refil (0.7 mm)
-• Baskı Türü: Lazer Baskı
-• Baskı Alanı: 55 x 5,5 mm
-• Koli / Kutu Adedi: 500 / 50
-• Kullanım: İmza Kalemi
-• Kategori: Promosyon Kalem
-
-MİNİMUM SİPARİŞ BİLGİSİ
-• Baskılı ve baskısız minimum sipariş adetleri stok ve üretim planına göre değişebilir
-• Net minimum sipariş miktarı teklif aşamasında paylaşılır
-
-Promosyon metal kalem MK-120 ile markanızı kaliteli, prestijli ve uzun ömürlü bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "MK-120: 0,7 mm Mavi Jel Refilli Metal Kalem\n\nMK-120'yi bu grupta ayıran temel özellik, 0,7 mm mavi jel refilidir. Jel yazım tercih eden kullanıcılar için metal gövdeli bir alternatif olarak değerlendirilebilir. Ürün ölçüsü 140 x Ø10 mm, lazer baskı alanı ise 55 x 5,5 mm olarak belirtilmiştir.\n\nJEL REFİL TERCİHİNİZİ NETLEŞTİRİN\nKalem siparişinde gövde rengi ile mürekkep rengini birbirinden ayırmak gerekir. MK-120'nin farklı gövde seçenekleri, farklı mürekkep renkleri bulunduğu anlamına gelmez; mevcut teknik bilgide mavi jel refil yer alır.\n\nİMZA VE OFİS KULLANIMI İÇİN SEÇİM\nToplantı notları veya günlük yazışmalarda jel refilli kalem kullanmayı tercih eden ekipler için incelenebilir. İmza amacıyla seçilecekse kişisel yazım beklentisinin değerlendirilmesi faydalıdır. Ürün için belge güvenliği ya da özel arşiv mürekkebi sertifikası iddiasında bulunulmamaktadır.\n\nLAZER BASKILI MK-120 SİPARİŞİ\nLogo veya marka adının yerleşimi, 55 x 5,5 mm alan üzerinden hazırlanır. Teklif isterken MK-120 koduyla birlikte adedi, renk tercihini ve baskı dosyasını paylaşabilirsiniz.\n\nRENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)\nBeyaz, Füme, Antrasit, Turkuaz, Mavi ve Bordo.\n\nTEKNİK ÖZELLİKLER\n• Model: MK-120\n• Ürün Ölçüsü: 140 x Ø10 mm\n• Refil: Mavi Jel Refil (0.7 mm)\n• Baskı Türü: Lazer Baskı\n• Baskı Alanı: 55 x 5,5 mm\n• Koli / Kutu Adedi: 500 / 50\n• Kullanım: İmza Kalemi\n• Kategori: Promosyon Kalem\n\nMİNİMUM SİPARİŞ BİLGİSİ\n• Baskılı ve baskısız minimum sipariş adetleri stok ve üretim planına göre değişebilir\n• Net minimum sipariş miktarı teklif aşamasında paylaşılır\n\nPromosyon metal kalem MK-120 ile markanızı kaliteli, prestijli ve uzun ömürlü bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.",
 },
 {
   id: "p48",
@@ -4458,65 +4347,9 @@ Promosyon metal kalem MK-120 ile markanızı kaliteli, prestijli ve uzun ömürl
   image: "/products/promosyon-metal-kalem-mk-130.jpg",
 
   shortDesc:
-    "Promosyon metal kalem MK-130, rubber gövde kaplaması ve modern tasarımı ile premium bir promosyon kalem modelidir. Logo baskıya uygun metal yapısı sayesinde fuar, toplantı ve kurumsal promosyon çalışmalarında şık bir tanıtım ürünü olarak öne çıkar.",
+    "MK-130, rubber kaplamalı metal gövdesi ve mavi refili bulunan bir promosyon kalemdir. Lazer baskı alanı 40 x 5,5 mm olduğundan logo yerleşimi bu ölçüye göre hazırlanır.",
 
-  longDesc: `
-Promosyon Metal Kalem MK-130 ile Markanıza Modern ve Prestijli Bir Görünüm Kazandırın
-
-Promosyon metal kalem MK-130, yumuşak dokulu rubber (kauçuk) kaplaması ve dayanıklı metal gövdesi ile dikkat çeken kaliteli bir promosyon kalem modelidir. Şık tasarımı, konforlu tutuşu ve profesyonel görünümü sayesinde kurumsal promosyon ürünleri arasında en çok tercih edilen modellerden biridir.
-
-Logo baskılı promosyon metal kalemler, firmaların marka bilinirliğini artırmak ve hedef kitlesi üzerinde güçlü bir kurumsal izlenim bırakmak için kullandığı etkili tanıtım ürünleri arasında yer alır. Günlük kullanımda sıkça tercih edilen kalemler, markanızın uzun süre görünür kalmasına katkı sağlar.
-
-Promosyon metal kalem MK-130; fuarlar, seminerler, bayi toplantıları, müşteri ziyaretleri, eğitim organizasyonları ve kurumsal hediye çalışmaları için ideal bir seçenektir. Rubber gövde kaplaması sayesinde elde kayma yapmaz ve uzun süreli kullanımda yüksek konfor sunar.
-
-Lazer baskıya uygun metal yüzeyi üzerine firma logosu, marka adı veya kurumsal slogan net ve kalıcı şekilde uygulanabilir. Bu sayede ürün, hem prestijli bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
-
-NEDEN PROMOSYON METAL KALEM MK-130 TERCİH EDİLMELİ?
-• Yumuşak dokulu rubber gövde kaplaması
-• Dayanıklı metal gövde
-• Modern ve prestijli tasarım
-• Lazer baskıya uygun kaliteli yüzey
-• Kaymaz ve ergonomik kullanım
-• Günlük kullanımda yüksek marka görünürlüğü
-
-KULLANIM ALANLARI
-• Kurumsal promosyon dağıtımları
-• Fuar ve organizasyon etkinlikleri
-• Müşteri ziyaretleri
-• Toplantılar ve seminerler
-• Eğitim ve danışmanlık organizasyonları
-• Prestij amaçlı kurumsal hediyeler
-
-KİMLER İÇİN UYGUN?
-• Kurumsal firmalar
-• Bankalar ve finans kuruluşları
-• Teknoloji şirketleri
-• Reklam ajansları
-• Eğitim kurumları
-• Organizasyon firmaları
-
-PROMOSYON METAL KALEM FİYATLARI
-Promosyon metal kalem fiyatları; sipariş miktarı, baskı yöntemi, stok durumu ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
-
-RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-Gri, Kırmızı, Siyah, Pembe, Sarı, Turkuaz, Beyaz ve Turuncu.
-
-TEKNİK ÖZELLİKLER
-• Model: MK-130
-• Ürün Ölçüsü: 140 x Ø10 mm
-• Refil: Mavi Refil
-• Baskı Türü: Lazer Baskı
-• Baskı Alanı: 40 x 5,5 mm
-• Gövde Tipi: Rubber Gövde
-• Koli / Kutu Adedi: 500 / 50
-• Kategori: Promosyon Kalem
-
-MİNİMUM SİPARİŞ BİLGİSİ
-• Baskılı ve baskısız minimum sipariş adetleri stok ve üretim planına göre değişebilir
-• Net minimum sipariş miktarı teklif aşamasında paylaşılır
-
-Promosyon metal kalem MK-130 ile markanızı modern, kaliteli ve prestijli bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Rubber Gövdeli MK-130 Metal Kalem\n\nMK-130'un seçiminde rubber gövde kaplaması ve 40 x 5,5 mm lazer baskı alanı birlikte değerlendirilmelidir. Mavi refilli modelin ürün ölçüsü 140 x Ø10 mm'dir. Rubber yüzey, kaplama tercihi arayan kullanıcılar açısından modelin belirgin özelliklerinden biridir.\n\nKISA LOGO YERLEŞİMLERİNE ODAKLANIN\nBu modelde belirtilen baskı uzunluğu 40 mm'dir. Özellikle uzun slogan veya birden fazla satır içeren tasarımlarda yerleşim önceden kontrol edilmelidir. Firma adı, amblem ve ek metnin aynı alanda kullanılması isteniyorsa okunabilirlik açısından sadeleştirme gerekebilir.\n\nMETAL KALEM KARŞILAŞTIRMASINDA NELERE BAKILMALI?\nBenzer gövde ölçüsündeki kalemlerin baskı alanları aynı olmayabilir. MK-130'u karşılaştırırken yalnızca ürün fotoğrafını değil, 40 mm baskı uzunluğunu ve rubber kaplama tercihini esas alın. Kaplama bilgisi, kaymazlık veya çizilmezlik garantisi olarak değerlendirilmemelidir.\n\nTOPLU SİPARİŞ HAZIRLIĞI\nRenk, adet ve logonuzu MK-130 ürün koduyla birlikte paylaşarak uygulama ve fiyat bilgisi isteyebilirsiniz. Koli/kutu adetleri ambalaj bilgisidir; minimum sipariş miktarıyla karıştırılmamalıdır.\n\nRENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)\nGri, Kırmızı, Siyah, Pembe, Sarı, Turkuaz, Beyaz ve Turuncu.\n\nTEKNİK ÖZELLİKLER\n• Model: MK-130\n• Ürün Ölçüsü: 140 x Ø10 mm\n• Refil: Mavi Refil\n• Baskı Türü: Lazer Baskı\n• Baskı Alanı: 40 x 5,5 mm\n• Gövde Tipi: Rubber Gövde\n• Koli / Kutu Adedi: 500 / 50\n• Kategori: Promosyon Kalem\n\nMİNİMUM SİPARİŞ BİLGİSİ\n• Baskılı ve baskısız minimum sipariş adetleri stok ve üretim planına göre değişebilir\n• Net minimum sipariş miktarı teklif aşamasında paylaşılır\n\nPromosyon metal kalem MK-130 ile markanızı modern, kaliteli ve prestijli bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.",
 },
 {
   id: "p49",
@@ -4527,65 +4360,9 @@ Promosyon metal kalem MK-130 ile markanızı modern, kaliteli ve prestijli bir p
   image: "/products/promosyon-metal-kalemler-mk-140.jpg",
 
   shortDesc:
-    "Promosyon metal kalem MK-140, rubber gövde kaplaması ve canlı renk seçenekleri ile dikkat çeken modern bir promosyon kalem modelidir. Logo baskıya uygun metal yapısı sayesinde fuar, etkinlik ve kurumsal promosyon çalışmalarında etkili bir tanıtım ürünüdür.",
+    "Rubber gövdeli MK-140 metal kalem, 55 x 5,5 mm lazer baskı alanına ve mavi refile sahiptir. Renk tercihiyle birlikte logo yerleşimini karşılaştırarak kurumsal siparişinizi planlayabilirsiniz.",
 
-  longDesc: `
-Promosyon Metal Kalem MK-140 ile Markanıza Modern ve Dikkat Çekici Bir Görünüm Kazandırın
-
-Promosyon metal kalem MK-140, yumuşak dokulu rubber gövde kaplaması ve dayanıklı metal yapısı ile hem şık hem de konforlu bir kullanım sunan premium bir promosyon kalem modelidir. Canlı renk seçenekleri sayesinde markanızı daha enerjik ve dikkat çekici şekilde tanıtmanıza yardımcı olur.
-
-Logo baskılı promosyon metal kalemler, kurumsal firmaların marka bilinirliğini artırmak ve profesyonel bir kurumsal imaj oluşturmak için tercih ettiği etkili tanıtım ürünleri arasında yer alır. Günlük kullanımda sıkça kullanılan kalemler, firmanızın logosunun uzun süre görünür kalmasını sağlar.
-
-Promosyon metal kalem MK-140 modeli; fuarlar, seminerler, eğitim organizasyonları, müşteri ziyaretleri, bayi toplantıları ve kurumsal etkinlikler için ideal bir seçenektir. Rubber gövde kaplaması sayesinde elde kayma yapmaz ve uzun süreli yazımda rahat bir tutuş sunar.
-
-Lazer baskıya uygun metal yüzeyi üzerine firma logosu, marka adı veya kurumsal slogan net ve kalıcı şekilde uygulanabilir. Bu sayede ürün, hem prestijli bir yazı aracı hem de etkili bir reklam ürünü haline gelir.
-
-NEDEN PROMOSYON METAL KALEM MK-140 TERCİH EDİLMELİ?
-• Yumuşak dokulu rubber gövde kaplaması
-• Dayanıklı metal gövde
-• Canlı ve dikkat çekici renk seçenekleri
-• Lazer baskıya uygun kaliteli yüzey
-• Kaymaz ve ergonomik kullanım
-• Günlük kullanımda yüksek marka görünürlüğü
-
-KULLANIM ALANLARI
-• Kurumsal promosyon dağıtımları
-• Fuar ve organizasyon etkinlikleri
-• Eğitim ve seminer organizasyonları
-• Müşteri ziyaretleri
-• Bayi toplantıları
-• Prestij amaçlı kurumsal hediyeler
-
-KİMLER İÇİN UYGUN?
-• Kurumsal firmalar
-• Reklam ajansları
-• Eğitim kurumları
-• Bankalar ve finans kuruluşları
-• Teknoloji şirketleri
-• Organizasyon firmaları
-
-PROMOSYON METAL KALEM FİYATLARI
-Promosyon metal kalem fiyatları; sipariş miktarı, baskı yöntemi, stok durumu ve üretim detaylarına göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
-
-RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-Beyaz, Gri, Kırmızı, Lacivert, Mor, Siyah, Turkuaz ve Turuncu. Renklerin temin edilebilirliği güncel stok durumuna göre teyit edilir.
-
-TEKNİK ÖZELLİKLER
-• Model: MK-140
-• Ürün Ölçüsü: 140 x Ø10 mm
-• Refil: Mavi Refil
-• Baskı Türü: Lazer Baskı
-• Baskı Alanı: 55 x 5,5 mm
-• Gövde Tipi: Rubber Gövde
-• Koli / Kutu Adedi: 1000 / 50
-• Kategori: Promosyon Kalem
-
-MİNİMUM SİPARİŞ BİLGİSİ
-• Baskılı ve baskısız minimum sipariş adetleri stok ve üretim planına göre değişebilir
-• Net minimum sipariş miktarı teklif aşamasında paylaşılır
-
-Promosyon metal kalem MK-140 ile markanızı modern, kaliteli ve dikkat çekici bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "MK-140 Metal Kalem: Rubber Gövde ve 55 mm Baskı Alanı\n\nMK-140, rubber gövde kaplaması isteyen ve logo yerleşiminde 55 x 5,5 mm alanı değerlendiren firmalar için bir metal kalem alternatifidir. 140 x Ø10 mm ürün ölçüsüyle sunulan modelde mavi refil bulunur.\n\nBENZER MODELLERDEN NASIL AYRILIR?\nMK-130 ile aynı ürün ölçüsü belirtilmesine rağmen iki modelin baskı alanı farklıdır. MK-140'ta lazer için 55 x 5,5 mm, MK-130'da 40 x 5,5 mm alan yer alır. Model seçimini yaparken bu farkı, logonuzun biçimi ve marka adınızın uzunluğuyla birlikte değerlendirebilirsiniz.\n\nGÖVDE RENGİ VE LOGO TASARIMI\nRenk seçimini kurumsal kimliğinize göre yaparken baskının son görünümünü uygulama çalışmasında inceleyin. Ekrandaki renk ile fiziksel ürün görünümü arasında fark olabileceğinden kritik renk beklentilerini sipariş öncesinde paylaşmanız faydalıdır.\n\nAMBALAJ VE SİPARİŞ BİLGİSİ\nMK-140 için kayıtlı koli/kutu dağılımı 1000 / 50 adettir. Bu değer minimum sipariş zorunluluğu olarak yorumlanmamalıdır. Teklif talebinizi MK-140 kodu, adet, renk ve logo dosyasıyla oluşturabilirsiniz.\n\nRENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)\nBeyaz, Gri, Kırmızı, Lacivert, Mor, Siyah, Turkuaz ve Turuncu. Renklerin temin edilebilirliği güncel stok durumuna göre teyit edilir.\n\nTEKNİK ÖZELLİKLER\n• Model: MK-140\n• Ürün Ölçüsü: 140 x Ø10 mm\n• Refil: Mavi Refil\n• Baskı Türü: Lazer Baskı\n• Baskı Alanı: 55 x 5,5 mm\n• Gövde Tipi: Rubber Gövde\n• Koli / Kutu Adedi: 1000 / 50\n• Kategori: Promosyon Kalem\n\nMİNİMUM SİPARİŞ BİLGİSİ\n• Baskılı ve baskısız minimum sipariş adetleri stok ve üretim planına göre değişebilir\n• Net minimum sipariş miktarı teklif aşamasında paylaşılır\n\nPromosyon metal kalem MK-140 ile markanızı modern, kaliteli ve dikkat çekici bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.",
 },
 {
   id: "p50",
