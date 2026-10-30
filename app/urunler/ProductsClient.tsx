@@ -131,7 +131,7 @@ export default function ProductsClient({ products }: { products: Product[] }) {
           <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
             <div>
               <h2 className="text-lg font-bold text-white">
-                Popüler Kategoriler
+                Kategoriye Göre Filtrele
               </h2>
 
               <p className="mt-1 text-sm text-white/60">
@@ -139,15 +139,17 @@ export default function ProductsClient({ products }: { products: Product[] }) {
               </p>
             </div>
 
-            <button
+            <div className="flex flex-wrap items-center gap-4">
+<button
               type="button"
               onClick={() => setShowAllCategories((current) => !current)}
               className="self-start text-sm font-semibold text-white/80 underline decoration-white/30 underline-offset-4 transition hover:text-white sm:self-auto"
             >
               {showAllCategories
                 ? "Daha Az Kategori Göster"
-                : `+ Tüm Kategoriler (${categories.length})`}
+                : "Diğer Kategoriler"}
             </button>
+            </div>
           </div>
 
           <div className="mt-5 flex flex-wrap gap-2.5">
