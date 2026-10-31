@@ -26,7 +26,7 @@ const guides: Guide[] = [
   slug: "dtf-baski-nedir",
   title: "DTF Baskı Nedir? Nasıl Yapılır? Avantajları ve Kullanım Alanları",
   description:
-    "DTF baskı nedir, nasıl yapılır, avantajları nelerdir? Tişört, çanta ve promosyon ürünlerde DTF baskı hakkında detaylı rehber.",
+    "DTF baskı nedir, nasıl yapılır? Filmden tekstile transfer sürecini, avantajlarını, kumaş uygunluğunu ve baskılı ürün bakımında dikkat edilecekleri öğrenin.",
   h1: "DTF Baskı Nedir?",
   image: "/guides/dtf-baski-nedir.jpg",
   keywords: [
@@ -38,124 +38,39 @@ const guides: Guide[] = [
     "dtf baskı fiyatları"
   ],
   sections: [
-    {
-      title: "DTF Baskı Nedir?",
-      body: `
-DTF baskı (Direct To Film), tasarımın özel bir PET film üzerine basıldıktan sonra tekstil veya farklı yüzeylere ısı ve pres yardımıyla transfer edilmesini sağlayan modern bir baskı teknolojisidir.
-
-Geleneksel baskı yöntemlerinden farklı olarak, DTF baskıda tasarım doğrudan ürüne değil önce filme uygulanır. Daha sonra bu film, sıcak pres makinesi ile ürün yüzeyine aktarılır.
-
-Son yıllarda özellikle promosyon ürünleri, tekstil üretimi ve kurumsal baskı çözümlerinde en çok tercih edilen yöntemlerden biri haline gelmiştir.
-      `,
-    },
-    {
-      title: "DTF Baskı Nasıl Yapılır?",
-      body: `
-DTF baskı süreci birkaç temel adımdan oluşur:
-
-1. Tasarım hazırlanır (PNG veya vektör formatında)
-2. Özel DTF yazıcı ile film üzerine baskı alınır
-3. Baskının üzerine yapıştırıcı (toz) uygulanır
-4. Film kurutma işlemi yapılır
-5. Isı presi ile ürün üzerine transfer edilir
-6. Film çıkarılır ve baskı sabitlenir
-
-Bu süreç sayesinde yüksek kaliteli, dayanıklı ve profesyonel görünümlü baskılar elde edilir.
-      `,
-    },
-    {
-      title: "DTF Baskının Avantajları Nelerdir?",
-      body: `
-DTF baskı, diğer baskı tekniklerine göre birçok önemli avantaj sunar:
-
-• Canlı ve parlak renkler elde edilir  
-• Fotoğraf kalitesinde detaylı baskı yapılabilir  
-• Açık ve koyu renk tüm kumaşlarda uygulanabilir  
-• Yıkamaya ve aşınmaya karşı dayanıklıdır  
-• Esnek yapısı sayesinde çatlama yapmaz  
-• Düşük adetli üretim için uygundur  
-• Hızlı üretim imkanı sağlar  
-
-Özellikle kurumsal promosyon ürünlerinde hızlı teslimat ve kalite avantajı nedeniyle tercih edilir.
-      `,
-    },
-    {
-      title: "DTF Baskı Hangi Ürünlerde Kullanılır?",
-      body: `
-DTF baskı oldukça geniş bir kullanım alanına sahiptir. En yaygın kullanıldığı ürünler şunlardır:
-
-• Tişört ve sweatshirt  
-• Bez çanta (tote bag)  
-• Şapka ve tekstil aksesuarları  
-• Promosyon ürünleri  
-• Spor kıyafetleri  
-• İş kıyafetleri  
-
-Özellikle firma logolu promosyon ürünlerinde DTF baskı, hem ekonomik hem de kaliteli sonuçlar sunduğu için öne çıkar.
-      `,
-    },
-    {
-      title: "DTF Baskı mı, Diğer Baskı Türleri mi?",
-      body: `
-DTF baskı, serigrafi ve dijital baskı gibi yöntemlere göre daha esnek bir çözümdür.
-
-Serigrafi baskı yüksek adetlerde avantajlı olsa da düşük adetlerde maliyetli olabilir. Sublimasyon baskı ise sadece açık renk yüzeylerde uygulanabilir.
-
-DTF baskı ise bu sınırlamaları ortadan kaldırır ve hem düşük hem yüksek adetlerde verimli bir üretim sağlar.
-      `,
-    },
-    {
-      title: "DTF Baskı Dayanıklı mı?",
-      body: `
-Evet, doğru uygulandığında DTF baskı oldukça dayanıklıdır.
-
-• 30-40 derece yıkamada uzun süre dayanır  
-• Çatlama ve solma yapmaz  
-• Esnek yapısı sayesinde kumaşla birlikte hareket eder  
-
-Bu nedenle hem günlük kullanım hem de promosyon ürünleri için ideal bir baskı yöntemidir.
-      `,
-    },
-    {
-      title: "DTF Baskı Fiyatları Neye Göre Değişir?",
-      body: `
-DTF baskı fiyatları aşağıdaki faktörlere göre değişiklik gösterir:
-
-• Baskı yapılacak ürün türü  
-• Adet sayısı (toptan siparişlerde fiyat düşer)  
-• Baskı boyutu  
-• Renk sayısı ve tasarım detayları  
-
-Kurumsal siparişlerde genellikle adet arttıkça birim maliyet ciddi şekilde düşmektedir.
-      `,
-    },
-    {
-      title: "DTF Baskı Neden Tercih Edilmeli?",
-      body: `
-DTF baskı, hem kalite hem maliyet açısından en dengeli baskı yöntemlerinden biridir.
-
-Eğer logo baskılı promosyon ürün yaptırmayı düşünüyorsanız:
-
-• Hızlı üretim  
-• Uygun maliyet  
-• Profesyonel görünüm  
-
-gibi avantajları sayesinde DTF baskı en doğru tercihlerden biridir.
-
-Özellikle yeni kurulan markalar ve kurumsal firmalar için ideal bir çözümdür.
-      `,
-    },
-    {
-      title: "Sonuç",
-      body: `
-DTF baskı, modern baskı teknolojileri arasında en hızlı büyüyen ve en çok tercih edilen yöntemlerden biridir.
-
-Yüksek kalite, uygun maliyet ve esnek üretim avantajı sayesinde hem bireysel hem kurumsal kullanımda büyük avantaj sağlar.
-
-Eğer siz de markanız için kaliteli baskılı ürünler yaptırmak istiyorsanız, DTF baskı teknolojisini tercih ederek profesyonel sonuçlar elde edebilirsiniz.
-      `,
-    },
-  ],
+  {
+    "title": "DTF Baskı Nedir, DTF Ne Demek?",
+    "body": "DTF, İngilizce “Direct to Film” ifadesinin kısaltmasıdır. Tasarım önce özel bir transfer filmine basılır; yapıştırıcı katmanı ve ısı presi yardımıyla tekstil yüzeyine aktarılır. Baskı doğrudan kumaş üzerine yapılmadığı için bu yöntem filmden transfer baskı olarak da açıklanabilir.\n\nFirma logosu, yazı veya renkli görsellerin tişört ve bez çanta gibi tekstil ürünlerine uygulanmasında kullanılabilir. Sonuç, tasarımın yanında kumaşın yapısına ve uygulama koşullarına da bağlıdır."
+  },
+  {
+    "title": "DTF Baskı Nasıl Yapılır?",
+    "body": "DTF baskı süreci tasarım hazırlığı, film baskısı ve tekstile transfer aşamalarından oluşur.\n\n1. Tasarım, istenen baskı ölçüsünde hazırlanır. Arka planın şeffaflığı, ince çizgiler ve küçük yazılar kontrol edilir.\n2. Görsel, uygun DTF ekipmanı ve mürekkepleriyle transfer filmine basılır.\n3. Baskıya yapıştırıcı toz uygulanır ve kullanılan sisteme uygun şekilde kürlenir.\n4. Hazırlanan transfer, kumaş üzerinde belirlenen konuma yerleştirilerek ısı presiyle uygulanır.\n5. Film, kullanılan transferin talimatına göre sıcak veya soğuk soyulur. Gerekiyorsa son pres işlemi yapılır.\n\nSıcaklık, süre ve basınç için bütün ürünlere uygulanabilecek tek bir değer yoktur. Transfer malzemesinin talimatı ve kumaşın ısıya dayanımı esas alınmalıdır."
+  },
+  {
+    "title": "DTF Baskının Avantajları Nelerdir?",
+    "body": "Renkli logoları ve farklı renkler içeren tasarımları tek transferde uygulama imkânı sunar. Beyaz mürekkep katmanı sayesinde uygun açık ve koyu renkli tekstiller üzerinde kullanılabilir.\n\nHer renk için ayrı bir serigrafi kalıbı hazırlama gerektirmemesi, az adetli veya farklı tasarımlar içeren işler için değerlendirilmesini sağlar. Ancak en ekonomik yöntemin hangisi olduğu adet, baskı ölçüsü ve tasarıma göre değişir.\n\nFilm önceden hazırlanabildiği için baskı hazırlığı ile ürüne uygulama aşaması ayrı planlanabilir. Teslim süresi yine de ürün stoğuna ve üretim programına bağlıdır."
+  },
+  {
+    "title": "DTF Baskı Hangi Kumaşlara ve Ürünlere Uygulanır?",
+    "body": "Pamuklu, polyester ve karışım kumaşlar DTF uygulaması için değerlendirilebilir. Tişört, sweatshirt, iş kıyafeti ve ham bez çanta yaygın kullanım örnekleridir.\n\nBununla birlikte her kumaş ve kaplama aynı sonucu vermez. Su itici yüzeyler, ısıya hassas malzemeler ve çok esnek kumaşlar için uygunluk ayrıca kontrol edilmelidir. Polyesterde renk göçü gibi sorunlar açısından deneme uygulaması gerekebilir.\n\nBir ürünün tekstil olması tek başına yeterli değildir. Özellikle tela çanta ve şapka gibi ürünlerde malzeme, şekil ve presleme koşulları seçilen model üzerinden değerlendirilmelidir."
+  },
+  {
+    "title": "DTF, DTG, Serigrafi ve Sublimasyon Arasındaki Fark Nedir?",
+    "body": "DTF yönteminde tasarım filme basılır ve ardından tekstile transfer edilir. DTG yönteminde ise uygun tekstil üzerine doğrudan mürekkep püskürtülür; kumaşa ve sisteme göre ön işlem gerekebilir.\n\nSerigrafide tasarım elek ve kalıplar aracılığıyla uygulanır. Aynı tasarımın yüksek adetlerde üretileceği işlerde maliyet açısından karşılaştırılabilir.\n\nSublimasyonda boya, uygun polyester yüzeye veya özel kaplamaya ısıyla aktarılır. Klasik tekstil sublimasyonu açık renkli polyester ürünlerde değerlendirilir.\n\nBu rehberde anlatılan tekstil DTF uygulaması, sert yüzeylerde kullanılan UV DTF ile aynı işlem değildir. Baskı yöntemi seçilirken ürün malzemesi ve beklenen kullanım birlikte ele alınmalıdır."
+  },
+  {
+    "title": "DTF Baskı Dayanıklı mı, Nasıl Yıkanmalı?",
+    "body": "DTF baskının kullanım ömrü; transfer malzemesine, uygulamanın doğru yapılmasına, kumaşa ve bakım şekline bağlıdır. Her ürün için aynı yıkama sayısını veya çatlamama garantisini vermek doğru olmaz.\n\nBaskılı ürünü ters çevirerek yıkamak ve baskı yüzeyini sürtünmeden korumak bakım açısından yardımcı olabilir. Yıkama sıcaklığı, kurutma ve ütüleme için ürün etiketiyle baskı uygulayıcısının talimatlarını birlikte izleyin.\n\nBaskının üzerine doğrudan ütü uygulamayın. Ağartıcı, yüksek ısı ve yoğun mekanik işlem baskıya zarar verebilir. İlk yıkama öncesindeki bekleme süresini de uygulama talimatından öğrenin."
+  },
+  {
+    "title": "DTF Baskının Sınırlamaları Nelerdir?",
+    "body": "Geniş ve tamamen dolu tasarımlar kumaş üzerinde daha belirgin bir tabaka hissi oluşturabilir. Baskı alanı büyüdükçe kumaşın o bölgedeki esnekliği ve hava geçirgenliği de etkilenebilir.\n\nÇok küçük yazılar ve ince detaylar her ölçekte aynı netlikle uygulanamayabilir. Ekranda görülen renk ile fiziksel baskı arasında fark oluşabilir.\n\nToplu üretim öncesinde kumaş, baskı ölçüsü ve tasarımın birlikte kontrol edilmesi bu nedenle önemlidir. Kritik renk veya kullanım beklentilerinde numune uygulaması değerlendirilmelidir."
+  },
+  {
+    "title": "DTF Baskı Fiyatı ve Teklif İçin Hangi Bilgiler Gerekir?",
+    "body": "Fiyatı değerlendirmek için ürünün modeli ve kumaşı, sipariş adedi, baskının santimetre cinsinden ölçüsü ve uygulama konumu belirlenmelidir. Ön ve arka gibi birden fazla alana baskı yapılacaksa her alan ayrıca belirtilmelidir.\n\nYalnızca renk sayısına bakarak fiyat karşılaştırması yapmak yeterli değildir. Baskı alanı, transfer yerleşimi ve uygulama işçiliği de toplam bedeli etkileyebilir.\n\nTeklif isterken tasarım dosyanızı, ürün adedini, baskı ölçüsünü ve ihtiyaç tarihinizi paylaşın. Ürün bedelinin, baskı uygulamasının, kargonun ve KDV'nin teklife dahil olup olmadığını kontrol edin.\n\nTişört veya çanta seçimiyle başlıyorsanız önce uygun modeli belirleyebilir, ardından tasarımınız için uygulama ve fiyat bilgisi isteyebilirsiniz."
+  }
+],
   ctaProductSlug: "dtf-baskili-tisort",
 },
   {
@@ -318,7 +233,7 @@ Eğer siz de kurumsal tanıtımınızı güçlendirmek ve müşterilerinize kal�
   slug: "promosyon-kalem-toptan",
   title: "Toplu Kalem Siparişi | Logo Baskılı Promosyon Kalem",
   description:
-    "Toplu kalem siparişi için plastik, metal ve dokunmatik modelleri inceleyin. Logo baskı seçeneklerini, sipariş sürecini ve önemli detayları öğrenin.",
+    "Toplu kalem siparişi öncesinde model, adet, logo baskı ve teslimat detaylarını planlayın. Toptan promosyon kalem için teklif hazırlığını adım adım inceleyin.",
   h1: "Toplu Kalem Siparişi: Logo Baskılı Promosyon Kalemler",
   image: "/guides/promosyon-kalem-toptan.jpg",
   keywords: [
@@ -332,143 +247,31 @@ Eğer siz de kurumsal tanıtımınızı güçlendirmek ve müşterilerinize kal�
     "toplu kalem yaptırma"
   ],
   sections: [
-    {
-      title: "Toplu Kalem Siparişi Nedir?",
-      body: `
-Toplu kalem siparişi, firmaların yüksek adetlerde logo veya slogan baskılı promosyon kalem yaptırmasını sağlayan kurumsal satın alma yöntemidir. Adet yükseldikçe birim ürün ve baskı maliyeti genellikle daha avantajlı hale gelir.
-
-Hem uygun maliyetli hem de günlük kullanım ürünü olması sayesinde en çok tercih edilen kurumsal hediyeler arasında yer alır.
-
-Fuarlar, etkinlikler, müşteri ziyaretleri, eğitimler ve kurumsal dağıtımlar için toplu kalem yaptırma; ekonomik, kullanışlı ve uzun süre görünür kalan bir tanıtım seçeneğidir.
-      `,
-    },
-    {
-      title: "Promosyon Kalem Türleri Nelerdir?",
-      body: `
-Promosyon kalemler kullanım amacına ve bütçeye göre farklı kategorilere ayrılır:
-
-• Plastik Kalemler  
-En ekonomik seçenektir. Yüksek adetli dağıtımlar için idealdir.
-
-• Metal Kalemler  
-Daha şık ve prestijli bir görünüm sunar. Kurumsal hediyelerde tercih edilir.
-
-• Dokunmatik (Touch) Kalemler  
-Telefon ve tablet kullanımına uygun modellerdir. Teknolojik promosyon kategorisinde yer alır.
-
-• Premium Kalem Setleri  
-Defter, kutu ve aksesuarlarla birlikte sunulan özel setlerdir.
-
-Doğru kalem seçimi, hedef kitlenize ve kullanım amacınıza göre yapılmalıdır.
-      `,
-    },
-    {
-      title: "Promosyon Kalem Baskı Türleri",
-      body: `
-Kalem üzerine logo uygulamak için farklı baskı teknikleri kullanılabilir:
-
-• Tampon Baskı  
-En yaygın kullanılan yöntemdir. Tek veya iki renkli logolar için uygundur.
-
-• UV Baskı  
-Renkli ve detaylı tasarımlar için tercih edilir.
-
-• Lazer Kazıma  
-Metal kalemlerde kullanılır. Kalıcı ve premium bir görünüm sağlar.
-
-Seçilecek baskı yöntemi; kalem modeli, logo yapısı ve bütçeye göre belirlenir.
-      `,
-    },
-    {
-      title: "Promosyon Kalem Fiyatlarını Neler Etkiler?",
-      body: `
-Promosyon kalem fiyatları birçok faktöre bağlı olarak değişir:
-
-• Sipariş adedi  
-Adet arttıkça birim fiyat düşer.
-
-• Kalem modeli  
-Plastik, metal veya premium ürünler arasında fiyat farkı vardır.
-
-• Baskı türü  
-Tampon, UV veya lazer baskı maliyeti etkiler.
-
-• Baskı yönü  
-Tek taraf veya çift taraf baskı fiyatı değiştirir.
-
-• Renk sayısı  
-Çok renkli baskılar daha maliyetlidir.
-
-Toptan siparişlerde doğru model seçimi ile maliyet ciddi şekilde optimize edilebilir.
-      `,
-    },
-    {
-      title: "Toptan Promosyon Kalem Siparişi Nasıl Verilir?",
-      body: `
-Promosyon kalem sipariş süreci oldukça hızlı ilerler:
-
-1. Kalem modeli seçilir  
-2. Adet belirlenir  
-3. Logo dosyası paylaşılır  
-4. Baskı yöntemi seçilir  
-5. Teklif hazırlanır  
-6. Onay sonrası üretim başlar  
-
-Kurumsal siparişlerde süreç genellikle 3-7 iş günü arasında tamamlanır.
-      `,
-    },
-    {
-      title: "Promosyon Kalem Neden En Çok Tercih Edilen Üründür?",
-      body: `
-Promosyon kalemler diğer ürünlere göre çok daha fazla tercih edilir çünkü:
-
-• Uygun maliyetlidir  
-• Herkes tarafından kullanılır  
-• Sürekli göz önündedir  
-• Marka bilinirliğini artırır  
-• Dağıtımı kolaydır  
-
-Bir kalem, gün içinde defalarca kullanıldığı için markanızın sürekli görünmesini sağlar.
-      `,
-    },
-    {
-      title: "Promosyon Kalem Nerelerde Kullanılır?",
-      body: `
-Promosyon kalemler birçok farklı alanda kullanılabilir:
-
-• Fuar ve etkinlik dağıtımları  
-• Kurumsal müşteri hediyeleri  
-• Ofis kullanımı  
-• Eğitim kurumları  
-• Banka ve finans sektörü  
-
-Geniş kullanım alanı sayesinde en etkili promosyon ürünlerinden biridir.
-      `,
-    },
-    {
-      title: "Promosyon Kalem Siparişinde Dikkat Edilmesi Gerekenler",
-      body: `
-Sipariş verirken şu detaylara dikkat edilmelidir:
-
-• Logo çözünürlüğü yüksek olmalıdır  
-• Kalem rengi ile logo uyumu düşünülmelidir  
-• Baskı alanı doğru seçilmelidir  
-• Teslim süresi netleştirilmelidir  
-
-Bu detaylar, hem baskı kalitesini hem de müşteri memnuniyetini doğrudan etkiler.
-      `,
-    },
-    {
-      title: "Sonuç",
-      body: `
-Promosyon kalem, kurumsal tanıtımın en etkili ve en ekonomik yollarından biridir.
-
-Doğru model ve doğru baskı seçimi ile markanızı geniş kitlelere ulaştırabilirsiniz.
-
-Eğer siz de uygun maliyetle etkili bir reklam yapmak istiyorsanız, toptan promosyon kalem siparişi en doğru tercihlerden biridir.
-      `,
-    },
-  ],
+  {
+    "title": "Toplu Kalem Siparişi İçin Önce Neleri Belirlemelisiniz?",
+    "body": "Toplu kalem siparişi verirken başlangıç noktası, kalemlerin kimlere ve hangi amaçla dağıtılacağıdır. Fuar ziyaretçileri için geniş adetli dağıtım ile çalışanlara veya müşterilere hazırlanacak bir hediye aynı model ve ambalajı gerektirmeyebilir.\n\nTeklif istemeden önce yaklaşık adedi, bütçeyi, kullanım amacını ve ihtiyaç duyduğunuz tarihi belirleyin. Birden fazla şubeye dağıtım yapılacaksa toplam adedin yanında şube başına miktarı da paylaşın.\n\nHenüz model seçmediyseniz bütçenize uygun birkaç alternatifi aynı sipariş adedi ve baskı kapsamıyla karşılaştırın. Böylece ürün fiyatıyla baskı bedelini birlikte değerlendirerek seçim yapabilirsiniz."
+  },
+  {
+    "title": "Plastik, Metal ve Dokunmatik Kalem Nasıl Seçilir?",
+    "body": "Plastik promosyon kalemler, geniş katılımlı etkinlikler ve dağıtım çalışmaları için değerlendirilebilir. Seçimde gövde rengi, yazım türü, baskı alanı ve toplam sipariş bedeline bakın.\n\nMetal kalemlerde gövde kaplaması ve logo uygulamasına uygun yüzey önemlidir. Lazer uygulaması düşünüldüğünde seçilen modelin baskı ölçüsünü kontrol edin; benzer görünen iki kalemin baskı alanı farklı olabilir.\n\nDokunmatik uçlu modeller, yazı yazma işlevini uyumlu dokunmatik ekranlarda kullanım seçeneğiyle birleştirir. Jel, tükenmez ve versatil modellerin yazım özelliklerini de ayrı değerlendirin.\n\nKutulu bir hediye hazırlamak istiyorsanız kalemin yanında kutunun veya set ambalajının teklife dahil olup olmadığını sorun. Ürün görselinde görünen aksesuarların kapsamını sipariş öncesinde netleştirin."
+  },
+  {
+    "title": "Logo Baskısı İçin Hangi Bilgiler Gerekli?",
+    "body": "Logo dosyanızı mümkünse vektörel PDF, AI veya EPS biçiminde paylaşın. Dosya uzantısı tek başına yeterli değildir; içindeki logonun düzenlenebilirliği ve çizgi kalitesi de kontrol edilmelidir. Yalnızca görsel dosyanız varsa baskıya uygunluğu ayrıca değerlendirilir.\n\nTampon baskı, UV baskı veya lazer uygulaması seçilen kalemin malzemesine, yüzeyine ve logo tasarımına göre belirlenir. Her yöntem her kaleme uygulanamayabilir.\n\nTek yön veya çift yön uygulama istediğinizi; logo yanında telefon, internet adresi veya slogan bulunup bulunmayacağını belirtin. Küçük baskı alanlarında uzun metinleri azaltmak okunabilirliği kolaylaştırır.\n\nÜretim onayından önce logo boyutunu, konumunu, yazıları ve uygulama yönünü gösteren yerleşimi kontrol edin. Kalem gövdesinin rengi ile mürekkep rengini de ayrı ayrı teyit edin."
+  },
+  {
+    "title": "Toptan Kalem Tekliflerini Nasıl Karşılaştırmalısınız?",
+    "body": "Yalnızca kalemin birim fiyatına bakmak yerine teklifin toplam kapsamını karşılaştırın. Ürün bedeli, baskı uygulaması, varsa hazırlık veya kalıp bedeli, ambalaj, kargo ve KDV'nin nasıl hesaplandığını öğrenin.\n\nSipariş adedi birim maliyeti etkileyebilir; ancak her modelde ve her adet aralığında fiyatın mutlaka düşeceği varsayılmamalıdır. Stok, baskı yöntemi ve üretim koşulları teklifi değiştirebilir.\n\nÖrneğin 100, 500 ve 1.000 adet için karşılaştırma istiyorsanız aynı model, aynı logo ve aynı baskı yönünü esas alın. Bir teklifte baskı dahil, diğerinde hariç olması yanıltıcı bir fiyat farkı oluşturabilir.\n\nSitede gösterilen ürün fiyatının kapsamını inceleyin. Baskılı toplam bedeli, siparişinize özel hazırlanan teklif üzerinden değerlendirin."
+  },
+  {
+    "title": "Minimum Sipariş ve Teslim Süresi Nasıl Netleşir?",
+    "body": "Minimum sipariş miktarı seçilen ürüne, baskılı veya baskısız alıma ve güncel temin koşullarına göre netleştirilir. Koli ya da kutu içi adet bilgisi, tek başına minimum sipariş miktarı anlamına gelmez.\n\nTeslimat planında ürünün stok durumu, logo yerleşiminin onayı, baskı programı ve kargo süresi birlikte değerlendirilir. Bu nedenle tüm kalem siparişleri için sabit bir teslim süresi vermek doğru olmaz.\n\nBir fuara veya etkinliğe yetişmesi gerekiyorsa etkinlik tarihini ve ürünün elinizde olması gereken son günü ayrı belirtin. Teklifte paylaşılan sürenin üretimi mi, sevkiyatı mı yoksa adrese teslimi mi kapsadığını sorun."
+  },
+  {
+    "title": "Toplu Kalem Siparişi Adım Adım Nasıl Verilir?",
+    "body": "1. Kalem modelini veya karşılaştırmak istediğiniz alternatifleri seçin.\n2. Sipariş adedini, gövde rengini ve yazım tercihinizi belirtin.\n3. Logo dosyasını, baskı yönünü ve eklenecek metinleri paylaşın.\n4. Teslimat adresini ve ihtiyaç tarihinizi iletin.\n5. Ürün, baskı, ambalaj, kargo ve KDV kapsamını içeren teklifi değerlendirin.\n6. Logo yerleşimini ve sipariş detaylarını kontrol ederek onaylayın.\n\nTeklif talebinizi şu bilgilerle hazırlayabilirsiniz: “Model veya ürün kodu: … / Adet: … / Gövde rengi: … / Baskı: tek veya çift yön / Logo dosyası: … / İhtiyaç tarihi: … / Teslimat ili: …”\n\nModel seçeneklerini inceleyerek başlayabilir veya kullanım amacınızı ve bütçenizi paylaşarak alternatifler için kurumsal teklif isteyebilirsiniz."
+  }
+],
 },
 {
   slug: "promosyon-urunleri-secim-rehberi",
@@ -823,6 +626,22 @@ export default async function GuidePage({ params }: PageProps) {
               </p>
 
               <div className="mt-6">
+                {guide.slug === "promosyon-kalem-toptan" && (
+                  <div data-kalem-toptan-actions className="mb-4 flex flex-wrap gap-3">
+                    <Link
+                      href="/promosyon-kalem"
+                      className="inline-flex items-center rounded-2xl bg-black px-5 py-3 text-sm font-semibold text-white hover:bg-gray-800"
+                    >
+                      Kalem Modellerini İncele
+                    </Link>
+                    <Link
+                      href="/kurumsal-teklif-al"
+                      className="inline-flex items-center rounded-2xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 hover:border-black"
+                    >
+                      Toplu Sipariş İçin Teklif Al
+                    </Link>
+                  </div>
+                )}
                 <Link
                   href="/rehber"
                   className="inline-flex items-center rounded-2xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 transition hover:border-gray-500"

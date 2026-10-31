@@ -2,7 +2,7 @@ export const guides = [
   {
     slug: "dtf-baski-nedir",
     title: "DTF Baskı Nedir? Nasıl Yapılır?",
-    desc: "DTF baskı teknolojisi nedir, nasıl yapılır ve avantajları nelerdir? DTF baskı hakkında detaylı rehber.",
+    desc: "DTF baskı nedir, nasıl yapılır? Filmden tekstile transfer sürecini, avantajlarını, kumaş uygunluğunu ve baskılı ürün bakımında dikkat edilecekleri öğrenin.",
     image: "/guides/dtf-baski-nedir.jpg",
   },
   {
@@ -12,8 +12,8 @@ export const guides = [
   },
   {
     slug: "promosyon-kalem-toptan",
-    title: "Promosyon Kalem Toptan Satın Alma Rehberi",
-    desc: "Toptan promosyon kalem nasıl alınır? En çok tercih edilen promosyon kalem modelleri ve fiyat bilgileri.",
+    title: "Toplu Kalem Siparişi | Toptan Promosyon Kalem Rehberi",
+    desc: "Toplu kalem siparişi öncesinde model, adet, logo baskı ve teslimat detaylarını planlayın. Toptan promosyon kalem için teklif hazırlığını adım adım inceleyin.",
     image: "/guides/promosyon-kalem-toptan.jpg",
   },
   {
