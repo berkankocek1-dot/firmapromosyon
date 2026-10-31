@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import Script from "next/script";
 import type { Metadata } from "next";
 
 const SITE_URL = "https://www.firmapromosyon.com";
@@ -575,15 +574,15 @@ export default async function GuidePage({ params }: PageProps) {
 
   return (
     <main className="min-h-screen bg-white text-gray-900">
-      <Script
+      <script
         id="guide-article-jsonld"
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd).replace(/</g, "\\u003c") }}
       />
-      <Script
+      <script
         id="guide-breadcrumb-jsonld"
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd).replace(/</g, "\\u003c") }}
       />
 
       <section className="border-b border-gray-100 bg-gradient-to-b from-gray-50 via-white to-white">
