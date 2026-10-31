@@ -124,6 +124,35 @@ function calculate(src) {
       if(!category) throw Error(`Category scope missing: ${route}`);
       const usesVisible=/from\s*["']@\/data\/productVisibility["']/.test(text);
       data=sortProductsByCode((usesVisible?visible:products).filter(p=>p.category===category));
+      if(route==='/promosyon-metal-kalem') {
+        const {isMetalPen}=load('data/penSubcategories.ts');
+        data=data.filter(isMetalPen);
+      }
+      if(route==='/promosyon-plastik-kalem') {
+        const {isPlasticPen}=load('data/penSubcategories.ts');
+        data=data.filter(isPlasticPen);
+      }
+
+      if(route==='/promosyon-dokunmatik-kalem') {
+        const {isTouchPen}=load('data/penSubcategories.ts');
+        data=data.filter(isTouchPen);
+      }
+      if(route==='/promosyon-roller-kalem') {
+        const {isRollerPen}=load('data/penSubcategories.ts');
+        data=data.filter(isRollerPen);
+      }
+      if(route==='/promosyon-jel-kalem') {
+        const {isGelPen}=load('data/penSubcategories.ts');
+        data=data.filter(isGelPen);
+      }
+      if(route==='/promosyon-kursun-kalem') {
+        const {isPencil}=load('data/penSubcategories.ts');
+        data=data.filter(isPencil);
+      }
+      if(route==='/promosyon-rubber-kalem') {
+        const {isRubberPen}=load('data/penSubcategories.ts');
+        data=data.filter(isRubberPen);
+      }
     } else if(route==='/urunler'||route==='/') data=visible;
     else if(route==='/rehber') data=guides;
     add(route,file,data);

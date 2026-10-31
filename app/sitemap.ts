@@ -80,6 +80,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...routes,
     ...guideRoutes,
     ...categoryRoutes,
+    { url: baseUrl + "/promosyon-rubber-kalem", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-kursun-kalem", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-jel-kalem", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-roller-kalem", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-dokunmatik-kalem", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-plastik-kalem", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-metal-kalem", changeFrequency: "weekly", priority: 0.8 },
     ...productRoutes,
   ];
 

@@ -203,6 +203,8 @@ export default function Page() {
         </header>
       </section>
 
+
+
       <KalemProductGrid products={list} />
       {list.length === 0 && (
         <p className="mt-10 text-center text-gray-600">
@@ -331,6 +333,22 @@ export default function Page() {
           </section>
         </div>
       )}
+    <nav aria-label="Kalem alt kategorileri" className="mt-14 rounded-2xl border border-gray-200 bg-white p-5">
+        <Link href="/promosyon-rubber-kalem" className="mb-3 block font-semibold text-black underline underline-offset-4">Rubber Kalem Modellerini İncele →</Link>
+        <Link href="/promosyon-kursun-kalem" className="mb-3 block font-semibold text-black underline underline-offset-4">Kurşun Kalem Modellerini İncele →</Link>
+        <Link href="/promosyon-jel-kalem" className="mb-3 block font-semibold text-black underline underline-offset-4">Jel Kalem Modellerini İncele →</Link>
+        <Link href="/promosyon-roller-kalem" className="mb-3 block font-semibold text-black underline underline-offset-4">Roller Kalem Modellerini İncele →</Link>
+        <Link href="/promosyon-dokunmatik-kalem" className="mb-3 block font-semibold text-black underline underline-offset-4">
+          Dokunmatik Kalem Modellerini İncele →
+        </Link>
+        <Link href="/promosyon-plastik-kalem" className="mb-3 block font-semibold text-black underline underline-offset-4">
+          Plastik Kalem Modellerini İncele →
+        </Link>
+        <Link href="/promosyon-metal-kalem" className="font-semibold text-black underline underline-offset-4">
+          Metal Kalem Modellerini İncele →
+        </Link>
+        <p className="mt-2 text-sm text-gray-600">Kalem türlerine göre hazırlanmış sayfalardan modelleri ve logo baskılı sipariş seçeneklerini inceleyebilirsiniz.</p>
+      </nav>
     </main>
   );
 }

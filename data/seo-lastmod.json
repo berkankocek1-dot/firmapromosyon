@@ -73,6 +73,10 @@
       "hash": "5c7f5be2047c64f7fe32027f80dacc84fb8f4984e6b96e52a7ed587c365ecf91",
       "lastModified": "2026-10-29T00:59:22.135Z"
     },
+    "/promosyon-dokunmatik-kalem": {
+      "hash": "d7a987d38f144050ef221676278e1a9edfb2014d178cf7fb29143d7be8b6585f",
+      "lastModified": "2026-10-31T22:54:37.435Z"
+    },
     "/promosyon-duvar-saatleri": {
       "hash": "fbfe6f2e3538ed8769d48086ee6a5f1ac10df6be23eec17558ffc2ec7900f078",
       "lastModified": "2026-10-29T20:42:05.932Z"
@@ -93,9 +97,13 @@
       "hash": "335d90e29aa3bb0d412f74d601054703267c311cd86f361457931b5ad0dabe0d",
       "lastModified": "2026-10-29T21:19:05.113Z"
     },
+    "/promosyon-jel-kalem": {
+      "hash": "bfbc3751a5a269194be25ab27c4d21c1d915bf899011b18a1f08a2ef1eeb03fd",
+      "lastModified": "2026-10-31T22:54:37.435Z"
+    },
     "/promosyon-kalem": {
-      "hash": "e747914bb23516d141487abf0f5fbd9216857ffd04ceebf9c23f67cd4339376b",
-      "lastModified": "2026-10-31T00:47:13.951Z"
+      "hash": "fd5394b7f6b0ba24f2f6f483e5cb6179aad73de2787c7c7e93de9b5bc8d49a7b",
+      "lastModified": "2026-10-31T22:54:37.435Z"
     },
     "/promosyon-kalem-setleri": {
       "hash": "1517ce31ebea091381cd87ad73957bc56457f3c177d2b572f304f7b2667b22cf",
@@ -117,6 +125,10 @@
       "hash": "430d2b81e54ca3cc187eb884f6b4baf91af232a87d71d7613f57c2d3e0fbd26b",
       "lastModified": "2026-10-29T13:20:52.880Z"
     },
+    "/promosyon-kursun-kalem": {
+      "hash": "0cd160b5e5bf3aad0407cdb924a60797f50312e6644f9cf0e67788054a4111fb",
+      "lastModified": "2026-10-31T22:54:37.435Z"
+    },
     "/promosyon-masa-sumeni": {
       "hash": "ff809855cb82d0e6701a6f53b7f9fc82386fc47a3327037d5c43c6fc7a144871",
       "lastModified": "2026-10-29T20:02:45.936Z"
@@ -129,13 +141,29 @@
       "hash": "e038d5ff97b23245874785460dbfc55e1eb70a33589a1efb71901c551509a3db",
       "lastModified": "2026-10-29T21:10:52.203Z"
     },
+    "/promosyon-metal-kalem": {
+      "hash": "b51b665a3a5e7bd9a252238916319f6515de2917b38f31717b59cc1bc717afc3",
+      "lastModified": "2026-10-31T22:54:37.435Z"
+    },
     "/promosyon-organizerler": {
       "hash": "aecaebef8bea755e6dc1be25f1a3dbf09cfc31d6599432aeab71a57d7e2f53ed",
       "lastModified": "2026-10-29T14:16:17.908Z"
     },
+    "/promosyon-plastik-kalem": {
+      "hash": "70e5f780a5aed5be717761e899b2fee41bff39145b6f1300439a41f2e9bddf5b",
+      "lastModified": "2026-10-31T22:54:37.435Z"
+    },
     "/promosyon-powerbank": {
       "hash": "7be0878846da3451556af0b795990b912e17de0d04d5de4198763a1a75803d05",
       "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/promosyon-roller-kalem": {
+      "hash": "d7bcaa67d2ed7561b636b1760c2b7c23cf3833cc721efd009b1a8cbf748ef46d",
+      "lastModified": "2026-10-31T22:54:37.435Z"
+    },
+    "/promosyon-rubber-kalem": {
+      "hash": "1bce7e092fb28a66f33aa82bde14f0261962fbd137519794b76c00c3f66d61a9",
+      "lastModified": "2026-10-31T22:54:37.435Z"
     },
     "/promosyon-sapka": {
       "hash": "db4178a9020d28381f691b372d2e3377817ca90c9c83199fa4c53b1e298b9d22",
