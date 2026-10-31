@@ -13076,66 +13076,7 @@ Promosyon metal kalem MK-270 ile markanızı yenilikçi, kullanışlı ve dikkat
   shortDesc:
     "Promosyon metal kalem MK-280, altın renkli metal detayları ve farklı gövde renk seçenekleri ile kurumsal tanıtımlarda tercih edilen şık bir premium promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile markanıza prestijli bir görünüm kazandırır.",
 
-  longDesc: `
-Altın Detaylı Promosyon Metal Kalem ile Markanızı Zarif Bir Şekilde Tanıtın
-
-Promosyon metal kalem MK-280, ince ve dengeli gövde tasarımı ile birlikte altın renkli klips, halka ve uç detaylarına sahip şık bir metal kalem modelidir. Klasik çizgileri ve kaliteli görünümü sayesinde kurumsal promosyon ürünleri arasında premium segmentte öne çıkar ve markanızın profesyonel bir şekilde temsil edilmesine yardımcı olur.
-
-Kurumsal promosyon kalemleri, günlük yaşamda sık kullanılan etkili reklam ürünleri arasında yer alır. Özellikle müşteri ziyaretleri, iş toplantıları, fuarlar, seminerler ve çalışan hediyelerinde tercih edilen kaliteli metal kalemler, markanızın uzun süre görünür kalmasına katkı sağlar.
-
-MK-280 modeli dayanıklı metal gövde yapısına sahiptir. Altın renkli detaylar ürüne lüks ve dikkat çekici bir görünüm kazandırırken farklı gövde renkleri kurumsal kimliğinize uygun seçim yapmanıza olanak tanır. Firma logosu, marka adı veya kurumsal mesaj kalem üzerine lazer baskı, UV baskı veya tampon baskı teknikleri ile uygulanabilir.
-
-NEDEN PROMOSYON METAL KALEM MK-280 TERCİH EDİLMELİ?
-• Altın renkli detaylar ile premium görünüm
-• İnce ve zarif gövde tasarımı
-• Dayanıklı metal gövde yapısı
-• Logo baskıya uygun geniş baskı alanı
-• Kurumsal hediyeler için şık seçenek
-• Uzun ömürlü ve kaliteli kullanım
-
-KULLANIM ALANLARI
-• Kurumsal müşteri hediyeleri
-• İş toplantıları ve seminerler
-• Fuar ve organizasyon etkinlikleri
-• Ofis ve çalışan hediyeleri
-• Marka tanıtım kampanyaları
-• Prestij odaklı promosyon çalışmaları
-
-KİMLER İÇİN UYGUN?
-• Kurumsal şirketler
-• Bankalar ve finans kuruluşları
-• Hukuk ve danışmanlık firmaları
-• Reklam ajansları
-• Eğitim kurumları
-• Premium marka yönetimi yapan işletmeler
-
-PROMOSYON METAL KALEM FİYATLARI
-Promosyon metal kalem fiyatları; sipariş miktarı, baskı yöntemi, renk seçeneği ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.
-
-RENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)
-• Füme
-• Beyaz
-• Siyah
-• Gümüş
-• Kırmızı
-• Lacivert
-
-TEKNİK ÖZELLİKLER
-• Model: MK-280
-• Ürün Türü: Metal Tükenmez Kalem
-• Gövde Yapısı: Metal
-• Aksesuar Rengi: Altın
-• Kullanım Tipi: Tükenmez Kalem
-• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı
-• Minimum Sipariş: 50 adet (baskısız)
-• Kategori: Promosyon Kalem
-
-MİNİMUM SİPARİŞ BİLGİSİ
-• Baskısız minimum sipariş: 50 adet
-• Logo baskılı siparişlerde minimum adet, baskı yöntemi ve üretim planına göre değişebilir
-
-Promosyon metal kalem MK-280 ile markanızı kaliteli, zarif ve prestijli bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.
-`.trim(),
+  longDesc: "Altın Detaylı Promosyon Metal Kalem ile Markanızı Zarif Bir Şekilde Tanıtın\n\nPromosyon metal kalem MK-280, ince ve dengeli gövde tasarımı ile birlikte altın renkli klips, halka ve uç detaylarına sahip şık bir metal kalem modelidir. Klasik çizgileri ve kaliteli görünümü sayesinde kurumsal promosyon ürünleri arasında premium segmentte öne çıkar ve markanızın profesyonel bir şekilde temsil edilmesine yardımcı olur.\n\nKurumsal promosyon kalemleri, günlük yaşamda sık kullanılan etkili reklam ürünleri arasında yer alır. Özellikle müşteri ziyaretleri, iş toplantıları, fuarlar, seminerler ve çalışan hediyelerinde tercih edilen kaliteli metal kalemler, markanızın uzun süre görünür kalmasına katkı sağlar.\n\nMK-280 modeli dayanıklı metal gövde yapısına sahiptir. Altın renkli detaylar ürüne lüks ve dikkat çekici bir görünüm kazandırırken farklı gövde renkleri kurumsal kimliğinize uygun seçim yapmanıza olanak tanır. Firma logosu, marka adı veya kurumsal mesaj kalem üzerine lazer baskı, UV baskı veya tampon baskı teknikleri ile uygulanabilir.\n\nNEDEN PROMOSYON METAL KALEM MK-280 TERCİH EDİLMELİ?\n• Altın renkli detaylar ile premium görünüm\n• İnce ve zarif gövde tasarımı\n• Dayanıklı metal gövde yapısı\n• Logo baskıya uygun geniş baskı alanı\n• Kurumsal hediyeler için şık seçenek\n• Uzun ömürlü ve kaliteli kullanım\n\nKULLANIM ALANLARI\n• Kurumsal müşteri hediyeleri\n• İş toplantıları ve seminerler\n• Fuar ve organizasyon etkinlikleri\n• Ofis ve çalışan hediyeleri\n• Marka tanıtım kampanyaları\n• Prestij odaklı promosyon çalışmaları\n\nKİMLER İÇİN UYGUN?\n• Kurumsal şirketler\n• Bankalar ve finans kuruluşları\n• Hukuk ve danışmanlık firmaları\n• Reklam ajansları\n• Eğitim kurumları\n• Premium marka yönetimi yapan işletmeler\n\nPROMOSYON METAL KALEM FİYATLARI\nPromosyon metal kalem fiyatları; sipariş miktarı, baskı yöntemi, renk seçeneği ve stok durumuna göre değişiklik gösterebilir. Toplu siparişlerde firmalara özel fiyat avantajları sunulmaktadır.\n\nRENK SEÇENEKLERİ (STOK DURUMUNA BAĞLI)\n• Füme\n• Beyaz\n• Siyah\n• Gümüş\n• Kırmızı\n• Lacivert\n\nTEKNİK ÖZELLİKLER\n• Model: MK-280\n• Ürün Türü: Metal Tükenmez Kalem\n• Gövde Yapısı: Metal\n• Aksesuar Rengi: Altın\n• Kullanım Tipi: Tükenmez Kalem\n• Baskı Türü: Lazer Baskı / UV Baskı / Tampon Baskı\n• Minimum Sipariş: 50 adet (baskısız)\n• Kategori: Promosyon Kalem\n\nMİNİMUM SİPARİŞ BİLGİSİ\n• Baskısız minimum sipariş: 50 adet\n• Logo baskılı siparişlerde minimum adet, baskı yöntemi ve üretim planına göre değişebilir\n\nPromosyon metal kalem MK-280 ile markanızı kaliteli, zarif ve prestijli bir promosyon ürünüyle hedef kitlenize ulaştırabilirsiniz. Logo baskılı toplu siparişler için hemen teklif alabilir, WhatsApp üzerinden hızlıca bizimle iletişime geçebilirsiniz.\n\nMK-280 LOGO BASKILI SİPARİŞ İÇİN HAZIRLIK\n\nMK-280 promosyon metal kalem için teklif isterken ürün kodunu, sipariş adedini ve tercih ettiğiniz gövde rengini paylaşın. Gövde rengini mürekkep renginden ayrı değerlendirerek yazım tercihinizi de sipariş öncesinde netleştirin.\n\nLogonuzun yanında firma adı, telefon veya internet adresi bulunacaksa bu bilgileri birlikte iletin. Baskının tek veya çift yönlü olmasını belirtin. Logo yerleşimi ve okunabilirlik, seçilen uygulama alanına göre kontrol edilmelidir.\n\nTeklif karşılaştırırken ürün bedelinin yanında baskı, varsa kutu veya ambalaj, kargo ve KDV kapsamına bakın. Kutulu teslimat istiyorsanız ambalajın fiyata dahil olup olmadığını ayrıca sorun.\n\nBir etkinliğe yetişmesi gerekiyorsa ihtiyaç tarihinizi ve teslimat ilini paylaşın. Renk temini, baskı yöntemi ve teslim süresi siparişinize göre netleştirilir.\n",
 
   faq: [
     {

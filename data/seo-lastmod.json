@@ -2,8 +2,8 @@
   "version": 2,
   "pages": {
     "/": {
-      "hash": "f6827d1c41e9655c5a2cac530f2c16555141ea64d5f7cb184312c963a9f558f8",
-      "lastModified": "2026-10-30T23:23:21.023Z"
+      "hash": "0a4d52332154b747f73a879c2b83f9e15a218b4091ccf545516a9e35337ea749",
+      "lastModified": "2026-10-31T00:47:13.951Z"
     },
     "/cerez-politikasi": {
       "hash": "bd166674f18b49bea35d984e3301e96379cba6ee22fec87f28b1e0f9d11ed025",
@@ -94,8 +94,8 @@
       "lastModified": "2026-10-29T21:19:05.113Z"
     },
     "/promosyon-kalem": {
-      "hash": "8e12f678e4aafecb86f4f5392961cbab53af5202cf76501def977de8cb4f51f6",
-      "lastModified": "2026-10-30T23:23:21.023Z"
+      "hash": "e747914bb23516d141487abf0f5fbd9216857ffd04ceebf9c23f67cd4339376b",
+      "lastModified": "2026-10-31T00:47:13.951Z"
     },
     "/promosyon-kalem-setleri": {
       "hash": "1517ce31ebea091381cd87ad73957bc56457f3c177d2b572f304f7b2667b22cf",
@@ -334,8 +334,8 @@
       "lastModified": "2026-10-29T00:59:22.135Z"
     },
     "/urunler": {
-      "hash": "09f099e0f434a926ffdb54fd6caf8f05102f3b54fe459d9a00a8ef56edc37336",
-      "lastModified": "2026-10-30T23:23:21.023Z"
+      "hash": "f3d0bd3b4de547c27df4d627b57305e2201f942342fb3d962182b38ce7873155",
+      "lastModified": "2026-10-31T00:47:13.951Z"
     },
     "/urunler/promosyon-100-yaprak-taslama-kapak-defter-15x21-mtb-190": {
       "hash": "a612a1f162f06a60edd2c06a1acc22cbe892fdbb90e0868b3c5fd42dd2668df7",
@@ -1578,8 +1578,8 @@
       "lastModified": "2026-10-29T00:59:22.135Z"
     },
     "/urunler/promosyon-metal-kalem-mk-280": {
-      "hash": "0968edde61e984c3e5868b4862906b15f38bd4a216946409128cfed9c792a99e",
-      "lastModified": "2026-10-29T00:59:22.135Z"
+      "hash": "ac0a8a1f038c14e4c0c0cb833ca991a762ca7ea46d58dec76bbc8e49e89d27bf",
+      "lastModified": "2026-10-31T00:47:13.951Z"
     },
     "/urunler/promosyon-metal-kalem-mk-300": {
       "hash": "041479007b02092f5f03f1c358d13fecb1f8d66e750065a3865fc5b143779d93",
