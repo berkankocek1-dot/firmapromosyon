@@ -153,6 +153,26 @@ function calculate(src) {
         const {isRubberPen}=load('data/penSubcategories.ts');
         data=data.filter(isRubberPen);
       }
+      if(route==='/promosyon-metal-anahtarlik') {
+        const {isMetalKeychain}=load('data/keychainSubcategories.ts');
+        data=data.filter(isMetalKeychain);
+      }
+      if(route==='/promosyon-deri-anahtarlik') {
+        const {isLeatherKeychain}=load('data/keychainSubcategories.ts');
+        data=data.filter(isLeatherKeychain);
+      }
+      if(route==='/promosyon-acacakli-anahtarlik') {
+        const {isOpenerKeychain}=load('data/keychainSubcategories.ts');
+        data=data.filter(isOpenerKeychain);
+      }
+      if(route==='/promosyon-purjorlu-anahtarlik') {
+        const {isPurjorKeychain}=load('data/keychainSubcategories.ts');
+        data=data.filter(isPurjorKeychain);
+      }
+      if(route==='/promosyon-ev-araba-anahtarlik') {
+        const {isHouseCarKeychain}=load('data/keychainSubcategories.ts');
+        data=data.filter(isHouseCarKeychain);
+      }
     } else if(route==='/urunler'||route==='/') data=visible;
     else if(route==='/rehber') data=guides;
     add(route,file,data);

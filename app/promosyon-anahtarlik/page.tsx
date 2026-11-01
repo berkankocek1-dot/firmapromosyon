@@ -379,6 +379,15 @@ export default function Page() {
           </section>
         </div>
       )}
+      <nav aria-label="Anahtarlık alt kategorileri" className="mt-14 rounded-2xl border border-gray-200 bg-white p-5">
+        <h2 className="text-xl font-bold !text-black">Anahtarlık Türlerini İnceleyin</h2>
+        <Link href="/promosyon-ev-araba-anahtarlik" className="mt-4 mr-5 inline-block font-semibold !text-black underline underline-offset-4">Ev ve Araba Şeklinde Anahtarlık Modelleri →</Link>
+        <Link href="/promosyon-purjorlu-anahtarlik" className="mt-4 mr-5 inline-block font-semibold !text-black underline underline-offset-4">Purjörlü Anahtarlık Modelleri →</Link>
+        <Link href="/promosyon-acacakli-anahtarlik" className="mt-4 mr-5 inline-block font-semibold !text-black underline underline-offset-4">Açacaklı Anahtarlık Modelleri →</Link>
+        <Link href="/promosyon-deri-anahtarlik" className="mt-4 mr-5 inline-block font-semibold !text-black underline underline-offset-4">Deri Anahtarlık Modelleri →</Link>
+        <Link href="/promosyon-metal-anahtarlik" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Metal Anahtarlık Modelleri →</Link>
+        <p className="mt-3 text-sm text-gray-700">Malzeme ve kullanım özelliklerine göre hazırlanmış anahtarlık sayfalarından modelleri karşılaştırabilirsiniz.</p>
+      </nav>
     </main>
   );
 }
