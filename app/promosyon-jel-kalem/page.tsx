@@ -76,7 +76,7 @@ export default function Page() {
         </div>
       </section>
       <p className="mt-6 text-sm !text-white">{list.length} jel kalem modeli gösteriliyor</p>
-      <section aria-label="Roller kalem modelleri" className="mt-4 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <section aria-label="Jel kalem modelleri" className="mt-4 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {list.map(p => (
           <Link key={p.id} href={"/urunler/" + p.slug}
             className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:shadow-md">
