@@ -20,7 +20,7 @@ function JsonLd({data}:{data:Record<string,unknown>}) {return <script type="appl
 export default function TakvimPage() {
  const list = sortProductsByCode(visibleProducts.filter(p=>p.category===CATEGORY));
  const cards = list.map(({id,slug,title,image,shortDesc,price})=>({id,slug,title,image,shortDesc,price}));
- return <main className="mx-auto max-w-7xl px-4 py-8 md:py-12">
+ return <div className="mx-auto max-w-7xl px-4 py-8 md:py-12">
   <JsonLd data={{"@context":"https://schema.org","@type":"BreadcrumbList",itemListElement:[{"@type":"ListItem",position:1,name:"Ana Sayfa",item:"https://www.firmapromosyon.com"},{"@type":"ListItem",position:2,name:"Promosyon Takvim",item:URL}]}}/>
   <JsonLd data={{"@context":"https://schema.org","@type":"CollectionPage",name:title,description,url:URL,mainEntity:{"@type":"ItemList",numberOfItems:list.length,itemListElement:list.map((p,i)=>({"@type":"ListItem",position:i+1,url:`https://www.firmapromosyon.com/urunler/${p.slug}`,name:p.title}))}}}/>
   <JsonLd data={{"@context":"https://schema.org","@type":"FAQPage",mainEntity:faqs.map(f=>({"@type":"Question",name:f.q,acceptedAnswer:{"@type":"Answer",text:f.a}}))}}/>
@@ -47,5 +47,5 @@ export default function TakvimPage() {
    <p className="leading-8">Yıl sonu kurumsal hediye planınızda <Link href="/promosyon-ajanda" className="font-semibold underline">ajanda modellerini</Link>, <Link href="/promosyon-defter" className="font-semibold underline">tarihsiz defterleri</Link> veya <Link href="/promosyon-kalem" className="font-semibold underline">logo baskılı kalemleri</Link> de inceleyebilirsiniz. Birlikte seçilen ürünler için paket içeriği ayrıca planlanır.</p>
   </section>
   <section className="mt-8 rounded-2xl bg-white p-6 text-gray-900 md:p-8"><h2 className="text-2xl font-bold">Promosyon Takvim Hakkında Sık Sorulan Sorular</h2><div className="mt-5 divide-y">{faqs.map(f=><details key={f.q} className="py-4"><summary className="cursor-pointer font-semibold">{f.q}</summary><p className="mt-3 leading-7">{f.a}</p></details>)}</div></section>
- </main>;
+ </div>;
 }

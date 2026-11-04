@@ -17,7 +17,7 @@ const faqs = [
 function JsonLd({data}:{data:Record<string,unknown>}) {return <script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(data).replace(/</g,"\\u003c")}}/>;}
 export default function YoyoPage() {
  const list = visibleProducts.filter(p=>p.category===CATEGORY);
- return <main className="mx-auto max-w-7xl px-4 py-8 md:py-12">
+ return <div className="mx-auto max-w-7xl px-4 py-8 md:py-12">
   <JsonLd data={{"@context":"https://schema.org","@type":"BreadcrumbList",itemListElement:[{"@type":"ListItem",position:1,name:"Ana Sayfa",item:"https://www.firmapromosyon.com"},{"@type":"ListItem",position:2,name:CATEGORY,item:URL}]}}/>
   <JsonLd data={{"@context":"https://schema.org","@type":"CollectionPage",name:title,description,url:URL,mainEntity:{"@type":"ItemList",numberOfItems:list.length,itemListElement:list.map((p,i)=>({"@type":"ListItem",position:i+1,name:p.title,url:`https://www.firmapromosyon.com/urunler/${p.slug}`}))}}}/>
   <JsonLd data={{"@context":"https://schema.org","@type":"FAQPage",mainEntity:faqs.map(f=>({"@type":"Question",name:f.q,acceptedAnswer:{"@type":"Answer",text:f.a}}))}}/>
@@ -28,9 +28,9 @@ export default function YoyoPage() {
    <Link href="/kurumsal-teklif-al" className="mt-6 inline-block rounded-xl bg-white px-5 py-3 font-semibold text-black">Yoyo ve Boyun Askı İpi İçin Teklif Al</Link>
   </header>
   <p className="mb-4 !text-white">{list.length} ürün grubu gösteriliyor. Model ve aksesuar seçenekleri teklif aşamasında netleştirilir.</p>
-  <section aria-label="Yoyo ve boyun askı ipi ürün listesi" className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">{list.map(p=><Link key={p.id} href={`/urunler/${p.slug}`} className="rounded-2xl border border-gray-200 bg-white p-5 text-gray-900 shadow-sm hover:shadow-md">
-   <div className="relative aspect-square overflow-hidden rounded-xl bg-white"><Image src={p.image} alt="Yoyo kart tutucular, baskılı boyun askı ipleri ve yaka kartı aksesuarlarına ait örnekler" fill unoptimized sizes="(max-width: 640px) 100vw, 33vw" className="object-contain p-3"/></div>
-   <h2 className="mt-4 text-xl font-bold">{p.title}</h2><p className="mt-3 leading-7 text-gray-700">{p.shortDesc}</p><p className="mt-4 font-bold">Fiyat için teklif alın</p><span className="mt-4 inline-block font-semibold underline">Ürün ve Sipariş Bilgilerini İncele →</span>
+  <section aria-label="Yoyo ve boyun askı ipi ürün listesi" className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">{list.map(p=><Link key={p.id} href={`/urunler/${p.slug}`} className="rounded-2xl border border-gray-200 !bg-white p-4 !text-black shadow-sm hover:shadow-md">
+   <div className="relative aspect-square overflow-hidden rounded-xl !bg-white"><Image src={p.image} alt="Yoyo kart tutucular, baskılı boyun askı ipleri ve yaka kartı aksesuarlarına ait örnekler" fill unoptimized sizes="(max-width: 640px) 100vw, 33vw" className="object-contain p-3"/></div>
+   <p className="mt-4 text-xs font-semibold uppercase tracking-wide !text-gray-500">Yoyo ve Boyun Askı İpleri</p><h2 className="mt-1 text-lg font-bold leading-7 !text-black">{p.title}</h2><p className="mt-2 line-clamp-3 text-sm leading-6 !text-gray-700">{p.shortDesc}</p><p className="mt-3 text-base font-bold !text-black">Fiyat için teklif alın</p><p className="mt-1 text-xs leading-5 !text-green-600">Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.</p><span className="mt-4 inline-block rounded-full !bg-black px-5 py-2 text-sm font-semibold !text-white">Ürünü İncele</span>
   </Link>)}</section>
   <section className="mt-10 space-y-6 rounded-2xl bg-white p-6 text-gray-900 md:p-8">
    <h2 className="text-2xl font-bold">Yoyo ve Boyun Askı İpi Seçim Rehberi</h2>
@@ -47,5 +47,5 @@ export default function YoyoPage() {
    <p className="leading-8">Etkinlik dağıtımlarınız için <Link href="/promosyon-kalem" className="font-semibold underline">promosyon kalemleri</Link>, <Link href="/promosyon-ham-bez-tela-canta" className="font-semibold underline">bez ve tela çantaları</Link> veya <Link href="/urunler" className="font-semibold underline">tüm promosyon ürünlerini</Link> de inceleyebilirsiniz.</p>
   </section>
   <section className="mt-8 rounded-2xl bg-white p-6 text-gray-900 md:p-8"><h2 className="text-2xl font-bold">Sık Sorulan Sorular</h2><div className="mt-5 divide-y">{faqs.map(f=><details key={f.q} className="py-4"><summary className="cursor-pointer font-semibold">{f.q}</summary><p className="mt-3 leading-7">{f.a}</p></details>)}</div></section>
- </main>;
+ </div>;
 }

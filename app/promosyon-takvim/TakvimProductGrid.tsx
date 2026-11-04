@@ -14,12 +14,12 @@ export default function TakvimProductGrid({products}:{products:Card[]}) {
   </section>
   <p aria-live="polite" className="mb-4 !text-white">{shown.length} takvim modeli gösteriliyor</p>
   <section aria-label="Promosyon takvim ürün listesi" className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-   {shown.map(p=><Link key={p.id} href={`/urunler/${p.slug}`} className="rounded-2xl border border-gray-200 bg-white p-4 text-gray-900 shadow-sm transition hover:shadow-md">
-    <div className="relative aspect-square overflow-hidden rounded-xl bg-white"><Image src={p.image} alt={p.title} fill unoptimized loading="lazy" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-contain p-3" /></div>
-    <h2 className="mt-4 text-lg font-bold">{p.title}</h2><p className="mt-2 text-sm leading-6 text-gray-700">{p.shortDesc}</p>
-    <p className="mt-3 font-bold">{typeof p.price==="number"?`${p.price.toLocaleString("tr-TR")} TL + KDV`:"Fiyat için teklif alın"}</p>
-    <p className="mt-1 text-xs text-gray-600">Baskı ve kişiselleştirme kapsamı teklifte netleştirilir.</p>
-    <span className="mt-4 inline-block font-semibold underline">Ürünü İncele →</span>
+   {shown.map(p=><Link key={p.id} href={`/urunler/${p.slug}`} className="rounded-2xl border border-gray-200 !bg-white p-4 !text-black shadow-sm transition hover:shadow-md">
+    <div className="relative aspect-square overflow-hidden rounded-xl !bg-white"><Image src={p.image} alt={p.title} fill unoptimized loading="lazy" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-contain p-3" /></div>
+    <p className="mt-4 text-xs font-semibold uppercase tracking-wide !text-gray-500">Takvimler</p><h2 className="mt-1 text-lg font-bold leading-7 !text-black">{p.title}</h2><p className="mt-2 line-clamp-3 text-sm leading-6 !text-gray-700">{p.shortDesc}</p>
+    <p className="mt-3 text-base font-bold !text-black">{typeof p.price==="number"?`${p.price.toLocaleString("tr-TR")} TL + KDV`:"Fiyat için teklif alın"}</p>
+    <p className="mt-1 text-xs leading-5 !text-green-600">Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.</p>
+    <span className="mt-4 inline-block rounded-full !bg-black px-5 py-2 text-sm font-semibold !text-white">Ürünü İncele</span>
    </Link>)}
   </section>
   {shown.length===0&&<p className="py-6 text-white">Bu filtrede ürün bulunamadı. Diğer modelleri görmek için Tümü seçeneğini kullanın.</p>}
