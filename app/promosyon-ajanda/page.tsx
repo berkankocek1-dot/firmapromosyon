@@ -117,7 +117,7 @@ export default function PromosyonAjandaPage() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
+    <div className="mx-auto max-w-6xl px-4 py-10">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -317,6 +317,11 @@ export default function PromosyonAjandaPage() {
           </section>
         </div>
       )}
-    </main>
+      <section aria-label="Ajanda alt kategorileri" className="mt-10 rounded-2xl bg-white p-6">
+        <h2 className="text-xl font-bold !text-black">Ajandaları Cilt Yapısına Göre İnceleyin</h2>
+        <Link href="/promosyon-spiralli-ajanda" className="mt-3 block font-semibold !text-black underline underline-offset-4">Spiralli Ajanda Modellerini İncele →</Link>
+        <Link href="/promosyon-termo-pu-ajanda" className="mt-3 block font-semibold !text-black underline underline-offset-4">Termo PU Ajanda Modellerini İncele →</Link>
+      </section>
+    </div>
   );
 }

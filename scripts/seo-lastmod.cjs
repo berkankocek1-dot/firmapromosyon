@@ -124,6 +124,66 @@ function calculate(src) {
       if(!category) throw Error(`Category scope missing: ${route}`);
       const usesVisible=/from\s*["']@\/data\/productVisibility["']/.test(text);
       data=sortProductsByCode((usesVisible?visible:products).filter(p=>p.category===category));
+      if(route==='/promosyon-cep-mini-boy-defter') {
+        const {isPocketNotebook}=load('data/notebookSubcategories.ts');
+        data=data.filter(isPocketNotebook);
+      }
+      if(route==='/promosyon-kareli-defter') {
+        const {isSquaredNotebook}=load('data/notebookSubcategories.ts');
+        data=data.filter(isSquaredNotebook);
+      }
+      if(route==='/promosyon-metal-detayli-defter') {
+        const {isMetalDetailNotebook}=load('data/notebookSubcategories.ts');
+        data=data.filter(isMetalDetailNotebook);
+      }
+      if(route==='/promosyon-kalem-tutuculu-defter') {
+        const {isPenHolderNotebook}=load('data/notebookSubcategories.ts');
+        data=data.filter(isPenHolderNotebook);
+      }
+      if(route==='/promosyon-termo-pu-ajanda') {
+        const {isThermoPuAgenda}=load('data/agendaSubcategories.ts');
+        data=data.filter(isThermoPuAgenda);
+      }
+      if(route==='/promosyon-spiralli-ajanda') {
+        const {isSpiralAgenda}=load('data/agendaSubcategories.ts');
+        data=data.filter(isSpiralAgenda);
+      }
+      if(route==='/promosyon-dijital-gostergeli-termos') {
+        const {isDigitalThermos}=load('data/thermosSubcategories.ts');
+        data=data.filter(isDigitalThermos);
+      }
+      if(route==='/promosyon-buyuk-hacimli-termos') {
+        const {isLargeThermos}=load('data/thermosSubcategories.ts');
+        data=data.filter(isLargeThermos);
+      }
+      if(route==='/promosyon-500-ml-termos') {
+        const {is500mlThermos}=load('data/thermosSubcategories.ts');
+        data=data.filter(is500mlThermos);
+      }
+      if(route==='/promosyon-metal-usb-bellek') {
+        const {isMetalUsb}=load('data/usbSubcategories.ts');
+        data=data.filter(isMetalUsb);
+      }
+      if(route==='/promosyon-mini-cakmak') {
+        const {isMiniLighter}=load('data/lighterSubcategories.ts');
+        data=data.filter(isMiniLighter);
+      }
+      if(route==='/promosyon-doldurulabilir-cakmak') {
+        const {isRefillableLighter}=load('data/lighterSubcategories.ts');
+        data=data.filter(isRefillableLighter);
+      }
+      if(route==='/promosyon-turbo-cakmak') {
+        const {isTurboLighter}=load('data/lighterSubcategories.ts');
+        data=data.filter(isTurboLighter);
+      }
+      if(route==='/promosyon-manyetolu-cakmak') {
+        const {isMagnetoLighter}=load('data/lighterSubcategories.ts');
+        data=data.filter(isMagnetoLighter);
+      }
+      if(route==='/promosyon-tasli-cakmak') {
+        const {isFlintLighter}=load('data/lighterSubcategories.ts');
+        data=data.filter(isFlintLighter);
+      }
       if(route==='/promosyon-metal-kalem') {
         const {isMetalPen}=load('data/penSubcategories.ts');
         data=data.filter(isMetalPen);

@@ -117,7 +117,7 @@ export default function PromosyonDefterPage() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
+    <div className="mx-auto max-w-6xl px-4 py-10">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -316,6 +316,13 @@ export default function PromosyonDefterPage() {
           </section>
         </div>
       )}
-    </main>
+      <section aria-label="Defter alt kategorileri" className="mt-10 rounded-2xl bg-white p-6">
+        <h2 className="text-xl font-bold !text-black">Defterleri Özelliklerine Göre İnceleyin</h2>
+        <Link href="/promosyon-kalem-tutuculu-defter" className="mt-3 block font-semibold !text-black underline underline-offset-4">Kalem Tutuculu Defter Modellerini İncele →</Link>
+        <Link href="/promosyon-metal-detayli-defter" className="mt-3 block font-semibold !text-black underline underline-offset-4">Metal Detaylı Defter Modellerini İncele →</Link>
+        <Link href="/promosyon-kareli-defter" className="mt-3 block font-semibold !text-black underline underline-offset-4">Kareli Defter Modellerini İncele →</Link>
+        <Link href="/promosyon-cep-mini-boy-defter" className="mt-3 block font-semibold !text-black underline underline-offset-4">Cep ve Mini Boy Defter Modellerini İncele →</Link>
+      </section>
+    </div>
   );
 }

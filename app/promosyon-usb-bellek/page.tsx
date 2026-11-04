@@ -102,7 +102,7 @@ export default function UsbPage() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-5 py-6">
+    <div className="mx-auto max-w-6xl px-5 py-6">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -371,6 +371,10 @@ export default function UsbPage() {
           </section>
         </div>
       )}
-    </main>
+      <section aria-label="USB bellek alt kategorileri" className="mt-12 rounded-2xl border border-gray-200 !bg-white p-5">
+        <h2 className="text-xl font-bold !text-black">USB Bellek Türlerine Göre İnceleyin</h2>
+        <Link href="/promosyon-metal-usb-bellek" className="mt-3 inline-block font-semibold !text-black underline underline-offset-4">Metal USB Bellek Modellerini İncele →</Link>
+      </section>
+    </div>
   );
 }

@@ -111,7 +111,7 @@ export default function Page() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
+    <div className="mx-auto max-w-6xl px-4 py-10">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -301,6 +301,14 @@ export default function Page() {
           </section>
         </div>
       )}
-    </main>
+      <section aria-label="Çakmak alt kategorileri" className="mt-12 rounded-2xl border border-gray-200 !bg-white p-5">
+        <h2 className="text-xl font-bold !text-black">Çakmak Türlerine Göre İnceleyin</h2>
+        <Link href="/promosyon-tasli-cakmak" className="mt-3 inline-block font-semibold !text-black underline underline-offset-4">Taşlı Çakmak Modellerini İncele →</Link>
+        <Link href="/promosyon-manyetolu-cakmak" className="mt-3 block font-semibold !text-black underline underline-offset-4">Manyetolu Çakmak Modellerini İncele →</Link>
+        <Link href="/promosyon-turbo-cakmak" className="mt-3 block font-semibold !text-black underline underline-offset-4">Turbo / Rüzgar Çakmak Modellerini İncele →</Link>
+        <Link href="/promosyon-doldurulabilir-cakmak" className="mt-3 block font-semibold !text-black underline underline-offset-4">Doldurulabilir Çakmak Modellerini İncele →</Link>
+        <Link href="/promosyon-mini-cakmak" className="mt-3 block font-semibold !text-black underline underline-offset-4">Mini Boy Çakmak Modellerini İncele →</Link>
+      </section>
+    </div>
   );
 }

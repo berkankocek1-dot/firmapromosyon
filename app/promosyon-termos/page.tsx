@@ -103,7 +103,7 @@ export default function Page() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
+    <div className="mx-auto max-w-6xl px-4 py-10">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -385,6 +385,12 @@ export default function Page() {
           </section>
         </div>
       )}
-    </main>
+      <section aria-label="Termos alt kategorileri" className="mt-12 rounded-2xl border border-gray-200 !bg-white p-5">
+        <h2 className="text-xl font-bold !text-black">Termos Türlerine Göre İnceleyin</h2>
+        <Link href="/promosyon-500-ml-termos" className="mt-3 inline-block font-semibold !text-black underline underline-offset-4">500 ml Termos Modellerini İncele →</Link>
+        <Link href="/promosyon-buyuk-hacimli-termos" className="mt-3 block font-semibold !text-black underline underline-offset-4">Büyük Hacimli Termos Modellerini İncele →</Link>
+        <Link href="/promosyon-dijital-gostergeli-termos" className="mt-3 block font-semibold !text-black underline underline-offset-4">Dijital Göstergeli Termos Modellerini İncele →</Link>
+      </section>
+    </div>
   );
 }
