@@ -166,7 +166,7 @@ export default async function ProductPage({ params }: PageProps) {
       : null;
 
   return (
-    <main className="mx-auto max-w-6xl bg-white px-5 py-10 text-gray-900">
+    <div className="mx-auto max-w-6xl bg-white px-5 py-10 text-gray-900">
       <JsonLd data={breadcrumbJsonLd} />
       <JsonLd data={productJsonLd} />
       {faqJsonLd && <JsonLd data={faqJsonLd} />}
@@ -376,6 +376,6 @@ export default async function ProductPage({ params }: PageProps) {
           </div>
         </section>
       )}
-    </main>
+    </div>
   );
 }
