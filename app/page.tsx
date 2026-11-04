@@ -48,6 +48,8 @@ const CATEGORY_ORDER = [
   "Ayna ve Deri Kartlıklar",
   "Çakı, Fener ve Tornavida Seti",
   "İmalat Ürünler",
+  "Takvimler",
+  "Yoyo ve Boyun Askı İpleri",
 ] as const;
 
 export const metadata: Metadata = {

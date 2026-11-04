@@ -21,6 +21,7 @@ const filters = ["Tümü", "Hesap Makineli", "Metal Tokalı", "336 Sayfa", "352 
 
 const verifiedFeatures: Record<string, string[]> = {
   "ORG-100": ["Metal Tokalı", "352 Sayfa"],
+  "ORG-110": ["Metal Tokalı", "352 Sayfa"],
   "ORG-120": ["Metal Tokalı", "352 Sayfa"],
   "ORG-130": ["Metal Tokalı", "352 Sayfa"],
   "ORG-140": ["Hesap Makineli", "336 Sayfa"],

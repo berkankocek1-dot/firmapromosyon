@@ -46,7 +46,7 @@ function matchesFilter(product: KalemSetiProduct, filter: string) {
     return ["100","110","140","150","160","170","200","210",
             "310","320","330","340"].includes(code);
   }
-  if (filter === "Kalem Kutusu") return code === "355";
+  if (filter === "Kalem Kutusu") return ["355", "360"].includes(code);
   return false;
 }
 

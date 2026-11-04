@@ -42,7 +42,9 @@ export type Product = {
     | "Tişört"
     | "Anahtarlık"
     | "Çakmak"
-    | "Matara";
+    | "Matara"
+    | "Takvimler"
+    | "Yoyo ve Boyun Askı İpleri";
 
   image: string;
   gallery?: string[];
@@ -41352,128 +41354,34 @@ Promosyon ahşap roller kalem KS-335 modeli; doğal bambu gövdesi, özel ahşap
   faq: [{"q":"KS-350 hangi ürün grubundadır?","a":"KS-350, promosyon kalem setleri kategorisinde sunulmaktadır."},{"q":"KS-350 ile KS-355 aynı ürün müdür?","a":"Hayır. KS-350 kalem seti, KS-355 ise tekli kalem kutusu olarak sunulmaktadır."},{"q":"Set içeriği ve ölçüler nasıl öğrenilir?","a":"KS-350 kodunu belirterek set içeriği, ürün ölçüleri ve logo uygulaması için bilgi talep edebilirsiniz."},{"q":"Gösterilen fiyata baskı ve KDV dahil mi?","a":"Hayır. Gösterilen fiyat baskı ve KDV hariçtir. Toplam teklif adet ve logo uygulamasına göre hazırlanır."}]
 },
 {
-  id: "p577",
-
-  slug: "promosyon-tekli-kalem-kutusu-ks-360-luks",
-
-  title:
-    "Promosyon Tekli Kalem Kutusu KS-360 | Logo Baskılı Lüks Sert Promosyon Kalem Kutusu",
-
-  price: 135,
-
-  category: "Kalem Setleri",
-
-  image: "/products/promosyon-kalem-kutusu-ks-360.jpg",
-
-  shortDesc:
-    "Promosyon tekli kalem kutusu KS-360 modeli, sert mukavva yapısı, şık siyah tasarımı ve lüks sunum kalitesi ile promosyon kalemler için tercih edilen premium kurumsal kalem kutularından biridir.",
-
-  longDesc: `
-Promosyon tekli kalem kutusu KS-360 modeli, promosyon kalemlerin profesyonel, prestijli ve etkileyici şekilde sunulmasını sağlayan premium kalem kutusu modelleri arasında yer almaktadır. Kurumsal firmalar tarafından VIP müşteri hediyeleri, yönetici armağanları, özel davetler ve marka tanıtım organizasyonlarında sıklıkla tercih edilmektedir.
-
-Promosyon kalemlerin kaliteli bir sunum kutusu içerisinde teslim edilmesi, ürünün algılanan değerini önemli ölçüde artırırken aynı zamanda firmanızın kurumsal imajını da güçlendirmektedir. KS-360 modeli sade çizgilere sahip modern tasarımı ile her sektöre hitap eden profesyonel bir görünüm sunmaktadır.
-
-Sert mukavva gövde yapısı sayesinde standart karton kutulara göre çok daha dayanıklı olan ürün, taşıma sırasında kalemin korunmasına yardımcı olurken uzun süreli kullanım avantajı da sağlamaktadır.
-
-Kutunun iç bölümünde yer alan özel sünger veya kadife görünümlü iç yatak sayesinde kalem sabit şekilde konumlanır. Böylece ürün açıldığı anda kaliteli ve düzenli bir sunum elde edilir.
-
-Promosyon metal kalemler, roller kalemler, tükenmez kalemler ve lazer baskılı kurumsal kalem modelleri ile uyumlu yapısı sayesinde birçok promosyon ürününde güvenle kullanılabilir.
-
-Talep edilmesi halinde kutu üzerine firmanıza ait logo, marka adı veya kurumsal tasarımlar uygulanabilir. Böylece hem kutu hem de içerisinde yer alan promosyon kalem markanızın reklamını yapan prestijli bir kurumsal hediye haline gelir.
-
-Yönetici hediyeleri, bayi toplantıları, müşteri ziyaretleri, fuar organizasyonları ve kurumsal etkinliklerde marka değerinizi yükselten şık bir tamamlayıcı ürün olarak kullanılmaktadır.
-
-NEDEN PROMOSYON KALEM KUTUSU KS-360?
-
-• Premium sert mukavva gövde
-• Şık ve modern tasarım
-• Profesyonel ürün sunumu
-• Dayanıklı yapı
-• Tekli kalem kullanımına uygun
-• Kalemi darbelere karşı korur
-• Kurumsal prestij kazandırır
-• Logo baskısına uygundur
-• VIP hediye sunumları için idealdir
-• Uzun ömürlü kullanım sağlar
-
-KULLANIM ALANLARI
-
-• Kurumsal promosyon ürünleri
-• VIP müşteri hediyeleri
-• Yönetici hediyeleri
-• Fuar organizasyonları
-• Bayi toplantıları
-• Lansman etkinlikleri
-• Kurumsal sunum dosyaları
-• Marka tanıtım kampanyaları
-• Personel ödülleri
-• Özel gün kurumsal hediyeleri
-
-KİMLER İÇİN UYGUN?
-
-• Kurumsal firmalar
-• Reklam ajansları
-• Finans kuruluşları
-• Bankalar
-• Sigorta şirketleri
-• Eğitim kurumları
-• Sağlık kuruluşları
-• Teknoloji firmaları
-• Kamu kurumları
-• Sanayi kuruluşları
-
-PROMOSYON TEKLİ KALEM KUTUSU KS-360 FİYATLARI
-
-Promosyon tekli kalem kutusu fiyatları sipariş adedi, baskı uygulaması ve üretim planlamasına göre değişiklik gösterebilir. Toplu siparişlerde kurumsal firmalara özel fiyat avantajları sunulmaktadır.
-
-SİPARİŞ BİLGİSİ
-
-• Standart promosyon kalem modelleri ile uyumludur.
-• Logo baskılı üretim yapılabilmektedir.
-• Kurumsal toplu siparişlere uygundur.
-• Kalem ürüne dahil değildir.
-• Güncel stok ve teslim süresi sipariş miktarına göre planlanmaktadır.
-
-TEKNİK ÖZELLİKLER
-
-Ürün Tipi: Promosyon Tekli Kalem Kutusu
-Model: KS-360
-Kategori: Kalem Setleri
-Malzeme: Sert Mukavva
-İç Kaplama: Sünger Destekli Sunum Alanı
-Kutu Tipi: Tekli Lüks Sunum Kutusu
-Renk: Siyah
-Uyumluluk: Standart Promosyon Kalemler
-Baskı: Logo Baskısına Uygun
-Kullanım: Kurumsal Hediye, Promosyon Kalem Sunumu
-
-Promosyon tekli kalem kutusu KS-360 modeli; lüks sert gövdesi, profesyonel sunum kalitesi ve kurumsal marka değerini artıran tasarımı ile promosyon kalemler için tercih edilen premium sunum kutularından biridir. Güncel stok durumu, toplu sipariş fiyatları, logo baskısı ve teslim süresi hakkında detaylı bilgi almak için bizimle iletişime geçebilirsiniz.
-`.trim(),
-
-  faq: [
+  "id": "p577",
+  "slug": "promosyon-tekli-kalem-kutusu-ks-360-luks",
+  "title": "Promosyon Tekli Kalem Kutusu KS-360 | Logo Baskılı Lüks Sert Promosyon Kalem Kutusu",
+  "price": 110,
+  "category": "Kalem Setleri",
+  "image": "/products/promosyon-kalem-kutusu-ks-360-v2.jpg",
+  "shortDesc": "KS-360 tekli kalem kutusu, kurumsal kalem hediyelerinin sunumunda kullanılabilir. Görseldeki siyah kutu için kalem uyumluluğu ve logo uygulaması teklif aşamasında teyit edilir.",
+  "longDesc": "KS-360 Tekli Kalem Kutusu\n\nKS-360, tek kalemlik hediye sunumu hazırlamak isteyen firmalar için bir kutu seçeneğidir. Güncel ürün görselinde siyah dış yüzey, iç kalem yerleşim alanı ve dış kılıf birlikte gösterilmektedir.\n\nKALEM VE KUTU UYUMLULUĞU\nSeçtiğiniz kalemin boyu ve gövde kalınlığı, kutuyla birlikte değerlendirilmelidir. Her promosyon kalemin aynı ölçüde olmadığı dikkate alınarak yerleşim sipariş öncesinde teyit edilir. Kutuyla kullanılacak kalem ayrıca seçilir ve fiyatlandırılır.\n\nKURUMSAL HEDİYE SUNUMU\nMüşteri ziyaretleri, ekip hediyeleri veya kurumsal etkinlikler için kalemi ayrı bir kutuda sunmak tercih edilebilir. Kutu ve kalem birlikte sipariş edilecekse kalem modeli ve istenen adet teklif talebinde paylaşılmalıdır.\n\nLOGO UYGULAMASI\nKutu üzerinde logo çalışması isteniyorsa tasarım dosyası üzerinden uygun alan ve yöntem teyit edilir. Güncel kaynakta kesin baskı tekniği ve kutu ölçüsü belirtilmediğinden bu bilgiler standart özellik olarak sunulmaz.\n\nFİYAT VE SİPARİŞ\nListelenen birim kutu fiyatı 110 TL + KDV’dir. Kalem, logo uygulaması ve varsa ek paketleme toplam teklifte ayrıca belirtilir. Güncel tedarik durumu ve teslim süresi adet ve uygulama kapsamına göre netleştirilir.",
+  "faq": [
     {
-      q: "KS-360 kutunun içerisinde kalem bulunuyor mu?",
-      a: "Hayır. KS-360 modeli yalnızca tekli lüks kalem kutusudur. Kalem ayrıca sipariş edilmektedir."
+      "q": "KS-360 fiyatına kalem dahil mi?",
+      "a": "Listelenen fiyat tekli kalem kutusu içindir. Kullanılacak kalem ayrıca seçilir ve fiyatlandırılır."
     },
     {
-      q: "Kutu üzerine logo baskısı yapılabiliyor mu?",
-      a: "Evet. Talebe göre kutu üzerine firmanıza özel logo veya kurumsal baskı uygulanabilmektedir."
+      "q": "Her kalem KS-360 kutuya sığar mı?",
+      "a": "Kalemin boyu ve gövde kalınlığı kutu yerleşimiyle birlikte sipariş öncesinde teyit edilir."
     },
     {
-      q: "Hangi kalem modelleri ile uyumludur?",
-      a: "Metal promosyon kalemler, roller kalemler ve standart ölçülerdeki tükenmez kalem modelleri ile uyumludur."
+      "q": "Kutunun ölçüsü ve malzemesi nedir?",
+      "a": "Güncel kaynakta kesin ölçü ve malzeme bilgisi belirtilmemiştir. İstenen kalem modeliyle birlikte uygunluk teyidi alınmalıdır."
     },
     {
-      q: "Bu ürün VIP hediyeler için uygun mudur?",
-      a: "Evet. Premium sert yapısı ve şık sunumu sayesinde VIP müşteri hediyeleri ve yönetici armağanları için ideal bir seçenektir."
+      "q": "Kutuya logo uygulanabilir mi?",
+      "a": "Talep edilen logo uygulamasının yöntemi ve uygun yüzeyi tasarım üzerinden teklif aşamasında değerlendirilir."
     },
     {
-      q: "Toplu sipariş verebilir miyim?",
-      a: "Evet. KS-360 modeli kurumsal toplu siparişlere uygundur ve adet bazlı özel fiyat avantajları sunulmaktadır."
-    },
-    {
-      q: "Lüks kutu kalemi korur mu?",
-      a: "Evet. Sert mukavva gövdesi ve iç destek yapısı sayesinde kalemi taşıma sırasında darbelere karşı korumaya yardımcı olur."
+      "q": "KS-360 güncel fiyatı nedir?",
+      "a": "Listelenen birim kutu fiyatı 110 TL + KDV’dir. Kalem, baskı ve ek paketleme kapsamı ayrıca belirtilir."
     }
   ]
 },
@@ -46459,6 +46367,560 @@ Promosyon Seramik Kupa 275 ml SK-110 modeli; kaliteli seramik gövdesi, süblima
   shortDesc: "TT-190, metal gövdeli ayarlanabilir stand seçeneğidir. Ürün tipi: Ayarlanabilir telefon standı.",
   longDesc: "TT-190, metal gövdeli ayarlanabilir stand seçeneğidir. Üretici 10 kg taşıma kapasitesi belirtmektedir; kullanılacak cihazın ölçüsü, ağırlığı ve stand üzerindeki dengesi sipariş öncesinde birlikte değerlendirilmelidir.\n\nTEKNİK ÖZELLİKLER\n\nModel: TT-190\nÜrün tipi: Ayarlanabilir telefon standı\nMalzeme: Metal\nBelirtilen taşıma kapasitesi: 10 kg\nBaskı: Lazer, serigrafi\n\nKULLANIM VE UYUMLULUK\n\nÜreticinin belirttiği 10 kg taşıma kapasitesine ek olarak cihazın ölçüsü, ağırlık dağılımı ve stand üzerindeki dengesi kontrol edilmelidir. Kablosuz şarj özelliği belirtilmemiştir.\n\nLOGO UYGULAMASI\n\nLazer ve serigrafi baskı seçenekleri belirtilmiştir. Logo tasarımına uygun yöntem ve baskı alanı teklif aşamasında seçilir.\n\nSİPARİŞ\n\nTT-190 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir.",
   faq: [{"q":"TT-190 modelinin öne çıkan özellikleri nelerdir?","a":"Ürün tipi: Ayarlanabilir telefon standı; Malzeme: Metal; Belirtilen taşıma kapasitesi: 10 kg; Baskı: Lazer, serigrafi."},{"q":"TT-190 hangi cihazlarla kullanılabilir?","a":"Üreticinin belirttiği 10 kg taşıma kapasitesine ek olarak cihazın ölçüsü, ağırlık dağılımı ve stand üzerindeki dengesi kontrol edilmelidir. Kablosuz şarj özelliği belirtilmemiştir."},{"q":"TT-190 üzerine hangi logo uygulaması yapılabilir?","a":"Lazer ve serigrafi baskı seçenekleri belirtilmiştir. Logo tasarımına uygun yöntem ve baskı alanı teklif aşamasında seçilir."},{"q":"TT-190 hangi renklerde sunulur?","a":"Renk ve güncel stok seçenekleri teklif aşamasında paylaşılır."},{"q":"TT-190 fiyatı nasıl belirlenir?","a":"Güncel fiyat için teklif alın. Baskı ve teslim kapsamına göre fiyatlandırma yapılır."},{"q":"TT-190 için toplu sipariş nasıl verilir?","a":"TT-190 için adet, logo dosyası ve cihaz/kullanım ihtiyacınızı ileterek teklif alabilirsiniz. Baskı, stok ve teslim süresi sipariş kapsamına göre netleştirilir."}]
+},
+
+{
+  "id": "p711",
+  "slug": "promosyon-tasli-cakmak-cm-160",
+  "title": "Promosyon Taşlı Çakmak ÇM-160 | MRY Doldurulabilir",
+  "category": "Çakmak",
+  "price": 10,
+  "image": "/products/promosyon-tasli-cakmak-cm-160.jpg",
+  "shortDesc": "MRY ÇM-160, 8,1 x 2,3 cm ölçüsünde taşlı ve doldurulabilir promosyon çakmaktır. Tampon veya UV dijital logo baskılı toplu sipariş için teklif alın.",
+  "longDesc": "MRY ÇM-160 Taşlı Promosyon Çakmak\n\nÇM-160, taşlı ateşleme mekanizması ve doldurulabilir yapısıyla sunulan MRY model promosyon çakmaktır. 8,1 x 2,3 cm ölçüsündeki gövdesine firma logosu, marka adı veya kısa bir iletişim bilgisi uygulanabilir.\n\nTAŞLI MEKANİZMA VE DOLDURULABİLİR YAPI\nBu model taşlı çakmak arayan işletmeler için bir seçenektir. Manyetolu modellerle karşılaştırılırken ateşleme mekanizması ve gövde ölçüsü dikkate alınmalıdır. Doldurulabilir olması ürünün belirtilen özellikleri arasındadır.\n\nTAMPON VE UV DİJİTAL LOGO BASKISI\nÇM-160 için tampon ve UV dijital baskı seçenekleri bulunmaktadır. Uygulanacak yöntem; logonun renkleri, çizgi ayrıntıları ve sipariş adedi değerlendirilerek belirlenir. Marka adı ve telefon gibi bilgilerin gövde üzerinde okunabilmesi için tasarımın baskı alanına uygun hazırlanması gerekir. Ürünün dış ölçüsü, kullanılabilir baskı alanıyla aynı değildir; logo yerleşimi teklif aşamasında netleştirilir.\n\nRENK VE TASARIM SEÇİMİ\nÜrün görselinde kırmızı, sarı, mavi, beyaz ve siyah gövdeler gösterilmektedir. Renklerin güncel tedarik durumu sipariş öncesinde teyit edilir. Görseldeki baskılar uygulama örneğidir; siparişiniz kendi logo çalışmanıza göre değerlendirilir.\n\nTEKNİK BİLGİLER\n• Model kodu: ÇM-160\n• Model adı: MRY\n• Ateşleme mekanizması: Taşlı\n• Ürün ölçüsü: 8,1 x 2,3 cm\n• Özellik: Doldurulabilir\n• Baskı seçenekleri: Tampon ve UV dijital\n\nTOPLU SİPARİŞ VE FİYAT\nİstenen adet, gövde rengi ve logo dosyasıyla teklif talep edebilirsiniz. Listelenen birim ürün fiyatı baskı hariç 10 TL + KDV'dir. Logo uygulaması ve teslimat kapsamı toplam teklifte ayrıca değerlendirilir. Minimum sipariş adedi, renk bulunabilirliği ve teslim süresi tedarik koşullarına göre sipariş öncesinde netleştirilir.",
+  "faq": [
+    {
+      "q": "ÇM-160 taşlı mı, manyetolu mu?",
+      "a": "MRY ÇM-160 taşlı ateşleme mekanizmasına sahip bir çakmak modelidir."
+    },
+    {
+      "q": "ÇM-160 doldurulabilir mi?",
+      "a": "Evet, model doldurulabilir olarak sunulmaktadır."
+    },
+    {
+      "q": "Ürünün ölçüsü nedir?",
+      "a": "ÇM-160 gövdesinin belirtilen ölçüsü 8,1 x 2,3 cm’dir. Bu ölçü logo baskı alanını ifade etmez."
+    },
+    {
+      "q": "Hangi logo baskıları uygulanabilir?",
+      "a": "Tampon ve UV dijital baskı seçenekleri bulunmaktadır. Uygun yöntem ve logo yerleşimi tasarım üzerinden belirlenir."
+    },
+    {
+      "q": "ÇM-160 fiyatına baskı dahil mi?",
+      "a": "Listelenen 10 TL + KDV birim ürün fiyatına logo baskısı dahil değildir. Adet, renk ve logo dosyasına göre toplam teklif hazırlanır."
+    },
+    {
+      "q": "Renkler ve teslim süresi nasıl belirlenir?",
+      "a": "İstenen gövde renginin tedarik durumu ve teslim süresi, sipariş adedi ve baskı çalışmasıyla birlikte teklif aşamasında teyit edilir."
+    }
+  ]
+},
+
+  {
+    "id": "p712",
+    "slug": "promosyon-masa-takvimi-mtb-220",
+    "title": "Promosyon Masa Takvimi MTB-220 | 17 x 20 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-masa-takvimi-mtb-220.jpg",
+    "shortDesc": "MTB-220 masa takvimi; 17 x 20 cm ölçüsündedir. Kuşe taslama mukavva taşıyıcı ve 200 g kuşe yapraklarla sunulur. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-220 Masa Takvimi\n\nMasa üzerinde kullanılacak kompakt bir takvim arayan firmalar için 17 x 20 cm gövde ve 200 gram kuşe yaprakları bir araya getirir. Mukavva taşıyıcı, taslama yüzeyle tamamlanır.\n\nTEKNİK BİLGİLER\n• Model: MTB-220\n• Ürün ölçüsü: 17 x 20 cm\n• Taşıyıcı: 1,75 mm mukavva üzeri kuşe taslama\n• Yaprak ölçüsü: 14 x 20 cm\n• Yaprak kâğıdı: 200 g kuşe\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nGüncel ürün ve baskı fiyatı için teklif alın. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-220 ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 17 x 20 cm’dir. Logo yerleşimi tasarım aşamasında netleştirilir."
+      },
+      {
+        "q": "MTB-220 modelini diğer takvimlerden ayıran nedir?",
+        "a": "Masa üzerinde kullanılacak kompakt bir takvim arayan firmalar için 17 x 20 cm gövde ve 200 gram kuşe yaprakları bir araya getirir. Mukavva taşıyıcı, taslama yüzeyle tamamlanır."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Güncel fiyat için teklif alın. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ]
+  },
+  {
+    "id": "p713",
+    "slug": "promosyon-masa-takvimi-mtb-225",
+    "title": "Promosyon Hazır Masa Takvimi MTB-225 | 20 x 14 x 7 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-masa-takvimi-mtb-225.jpg",
+    "shortDesc": "MTB-225 hazır masa takvimi; 20 x 14 x 7 cm ölçüsündedir. 13 yapraklı hazır üründe logo taşıyıcı bölüme uygulanır. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-225 Hazır Masa Takvimi\n\nHazır takvim yapraklarını kullanıp kurumsal logosunu taşıyıcı bölümde göstermek isteyen işletmeler için hazırlanır. 13 yapraklı masa takviminde kişiselleştirilecek bölüm taşıyıcıdır; yaprakların yeniden tasarlanması ürün kapsamına dahil olarak sunulmaz.\n\nTEKNİK BİLGİLER\n• Model: MTB-225\n• Ürün ölçüsü: 20 x 14 x 7 cm\n• Taşıyıcı kâğıdı: 400 g Amerikan Bristol\n• Cilt seçenekleri: Taslama / Biala\n• Yaprak ölçüsü: 20 x 11 cm\n• Yaprak kâğıdı: 170 g parlak kuşe\n• Yaprak sayısı: 13\n• Logo uygulaması: Taşıyıcı bölüme\n\nLOGO VE TASARIM HAZIRLIĞI\nHazır yapraklar korunur; logo çalışması taşıyıcı kısım için hazırlanır.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 117 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-225 ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 20 x 14 x 7 cm’dir. Logo yerleşimi tasarım aşamasında netleştirilir."
+      },
+      {
+        "q": "MTB-225 modelini diğer takvimlerden ayıran nedir?",
+        "a": "Hazır takvim yapraklarını kullanıp kurumsal logosunu taşıyıcı bölümde göstermek isteyen işletmeler için hazırlanır. 13 yapraklı masa takviminde kişiselleştirilecek bölüm taşıyıcıdır; yaprakların yeniden tasarlanması ürün kapsamına dahil olarak sunulmaz."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 117 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 117.0
+  },
+  {
+    "id": "p714",
+    "slug": "promosyon-gemici-takvimi-mtb-230",
+    "title": "Promosyon Gemici Takvimi MTB-230 | 32 x 48 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-230.jpg",
+    "shortDesc": "MTB-230 gemici takvimi; 32 x 48 cm ölçüsündedir. Spiral yapısı: Tek parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-230 Gemici Takvimi\n\n32 x 48 cm gövdesiyle daha kısa bir duvar takvimi tercih edenler için değerlendirilebilir. 12 yapraklı tek parça spiralli düzeni ve 32 x 24 cm reklam bölümü, modelin temel seçim ölçütleridir.\n\nTEKNİK BİLGİLER\n• Model: MTB-230\n• Ürün ölçüsü: 32 x 48 cm\n• Spiral yapısı: Tek parça\n• Yaprak sayısı: 12\n• Alt karton: 450 g Exprint\n• Blok ölçüsü: 32 x 24 cm\n• Reklam alanı: 32 x 24 cm\n• Yaprak kâğıdı: 80 g birinci hamur\n• Ayna: 350 g Amerikan Bristol\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 60 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-230 ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 32 x 48 cm’dir. Reklam alanı: 32 x 24 cm"
+      },
+      {
+        "q": "MTB-230 modelini diğer takvimlerden ayıran nedir?",
+        "a": "32 x 48 cm gövdesiyle daha kısa bir duvar takvimi tercih edenler için değerlendirilebilir. 12 yapraklı tek parça spiralli düzeni ve 32 x 24 cm reklam bölümü, modelin temel seçim ölçütleridir."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 60 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 60.0
+  },
+  {
+    "id": "p715",
+    "slug": "promosyon-gemici-takvimi-mtb-240",
+    "title": "Promosyon Gemici Takvimi MTB-240 | 31 x 63 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-240.jpg",
+    "shortDesc": "MTB-240 gemici takvimi; 31 x 63 cm ölçüsündedir. Spiral yapısı: Tek parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-240 Gemici Takvimi\n\nAltı yapraklı tek parça spiral düzeniyle sunulur. 31 x 63 cm toplam ölçü ve 31 x 21,5 cm reklam alanı, hem asılacağı duvarın hem de kurumsal tasarımın planlanmasında dikkate alınmalıdır.\n\nTEKNİK BİLGİLER\n• Model: MTB-240\n• Ürün ölçüsü: 31 x 63 cm\n• Spiral yapısı: Tek parça\n• Yaprak sayısı: 6\n• Alt karton: 450 g Exprint\n• Reklam alanı: 31 x 21,5 cm\n• Yaprak kâğıdı: 80 g birinci hamur\n• Ayna: 350 g Amerikan Bristol\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 62 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-240 ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 31 x 63 cm’dir. Reklam alanı: 31 x 21,5 cm"
+      },
+      {
+        "q": "MTB-240 modelini diğer takvimlerden ayıran nedir?",
+        "a": "Altı yapraklı tek parça spiral düzeniyle sunulur. 31 x 63 cm toplam ölçü ve 31 x 21,5 cm reklam alanı, hem asılacağı duvarın hem de kurumsal tasarımın planlanmasında dikkate alınmalıdır."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 62 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 62.0
+  },
+  {
+    "id": "p716",
+    "slug": "promosyon-gemici-takvimi-mtb-250",
+    "title": "Promosyon Gemici Takvimi MTB-250 | 33 x 77 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-250.jpg",
+    "shortDesc": "MTB-250 gemici takvimi; 33 x 77 cm ölçüsündedir. Spiral yapısı: Üç parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-250 Gemici Takvimi\n\n33 x 77 cm boyut ve üç parçalı spiral düzenini bir araya getirir. Üstteki 33 x 23 cm reklam bölümü; logo, görsel ve iletişim bilgileri için tasarım hazırlanırken değerlendirilir.\n\nTEKNİK BİLGİLER\n• Model: MTB-250\n• Ürün ölçüsü: 33 x 77 cm\n• Spiral yapısı: Üç parça\n• Alt karton: 450 g Exprint\n• Reklam alanı: 33 x 23 cm\n• Blok ölçüsü: 33 x 16 cm\n• Yaprak kâğıdı: 80 g birinci hamur\n• Ayna: 350 g Amerikan Bristol\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 140 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-250 ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 33 x 77 cm’dir. Reklam alanı: 33 x 23 cm"
+      },
+      {
+        "q": "MTB-250 modelini diğer takvimlerden ayıran nedir?",
+        "a": "33 x 77 cm boyut ve üç parçalı spiral düzenini bir araya getirir. Üstteki 33 x 23 cm reklam bölümü; logo, görsel ve iletişim bilgileri için tasarım hazırlanırken değerlendirilir."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 140 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 140.0
+  },
+  {
+    "id": "p717",
+    "slug": "promosyon-gemici-takvimi-mtb-260-jgt",
+    "title": "Promosyon Jumbo Gemici Takvimi MTB-260-JGT | 39,6 x 83 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-260-jgt.jpg",
+    "shortDesc": "MTB-260-JGT jumbo gemici takvimi; 39,6 x 83 cm ölçüsündedir. Spiral yapısı: Üç parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-260-JGT Jumbo Gemici Takvimi\n\nJumbo boyut isteyen firmalar için 39,6 x 83 cm ölçüsünde sunulur. JSG ve JTG seçenekleriyle aynı dış ölçüyü paylaşırken alt ve üst taşıyıcılarında 400 gram Exprint kullanılmasıyla ayrılır.\n\nTEKNİK BİLGİLER\n• Model: MTB-260-JGT\n• Ürün ölçüsü: 39,6 x 83 cm\n• Spiral yapısı: Üç parça\n• Alt / üst karton: 400 g Exprint\n• Reklam alanı: 23 x 39,6 cm\n• Blok ölçüsü: 18 x 39,6 cm\n• Yaprak kâğıdı: 90 g birinci hamur\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 205 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-260-JGT ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 39,6 x 83 cm’dir. Reklam alanı: 23 x 39,6 cm"
+      },
+      {
+        "q": "MTB-260-JGT modelini diğer takvimlerden ayıran nedir?",
+        "a": "Jumbo boyut isteyen firmalar için 39,6 x 83 cm ölçüsünde sunulur. JSG ve JTG seçenekleriyle aynı dış ölçüyü paylaşırken alt ve üst taşıyıcılarında 400 gram Exprint kullanılmasıyla ayrılır."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 205 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 205.0
+  },
+  {
+    "id": "p718",
+    "slug": "promosyon-gemici-takvimi-mtb-260-jsg",
+    "title": "Promosyon Jumbo Sıvama Gemici Takvimi MTB-260-JSG | 39,6 x 83 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-260-jsg.jpg",
+    "shortDesc": "MTB-260-JSG jumbo sıvama gemici takvimi; 39,6 x 83 cm ölçüsündedir. Spiral yapısı: Üç parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-260-JSG Jumbo Sıvama Gemici Takvimi\n\nJumbo gemici takvimini sıvama taşıyıcıyla tercih edenler için seçenektir. 350 + 350 gram Amerikan Bristol alt ve üst karton yapısı, Exprint ve mukavva taslama modellerden farklıdır.\n\nTEKNİK BİLGİLER\n• Model: MTB-260-JSG\n• Ürün ölçüsü: 39,6 x 83 cm\n• Spiral yapısı: Üç parça\n• Alt / üst karton: 350 + 350 g Amerikan Bristol\n• Reklam alanı: 23 x 39,6 cm\n• Blok ölçüsü: 18 x 39,6 cm\n• Yaprak kâğıdı: 90 g birinci hamur\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 240 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-260-JSG ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 39,6 x 83 cm’dir. Reklam alanı: 23 x 39,6 cm"
+      },
+      {
+        "q": "MTB-260-JSG modelini diğer takvimlerden ayıran nedir?",
+        "a": "Jumbo gemici takvimini sıvama taşıyıcıyla tercih edenler için seçenektir. 350 + 350 gram Amerikan Bristol alt ve üst karton yapısı, Exprint ve mukavva taslama modellerden farklıdır."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 240 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 240.0
+  },
+  {
+    "id": "p719",
+    "slug": "promosyon-gemici-takvimi-mtb-260-jtg",
+    "title": "Promosyon Jumbo Taslama Gemici Takvimi MTB-260-JTG | 39,6 x 83 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-260-jtg.jpg",
+    "shortDesc": "MTB-260-JTG jumbo taslama gemici takvimi; 39,6 x 83 cm ölçüsündedir. Spiral yapısı: Üç parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-260-JTG Jumbo Taslama Gemici Takvimi\n\n39,6 x 83 cm jumbo formatta mukavva taslama yapı isteyen firmalar için hazırlanır. 2,2 mm mukavva taşıyıcı ve 90 gram yaprak kâğıdı, JGT ve JSG modelleriyle karşılaştırmada belirleyicidir.\n\nTEKNİK BİLGİLER\n• Model: MTB-260-JTG\n• Ürün ölçüsü: 39,6 x 83 cm\n• Spiral yapısı: Üç parça\n• Alt / üst karton: 2,2 mm mukavva üzeri taslama\n• Reklam alanı: 23 x 39,6 cm\n• Blok ölçüsü: 18 x 39,6 cm\n• Yaprak kâğıdı: 90 g birinci hamur\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 400 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-260-JTG ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 39,6 x 83 cm’dir. Reklam alanı: 23 x 39,6 cm"
+      },
+      {
+        "q": "MTB-260-JTG modelini diğer takvimlerden ayıran nedir?",
+        "a": "39,6 x 83 cm jumbo formatta mukavva taslama yapı isteyen firmalar için hazırlanır. 2,2 mm mukavva taşıyıcı ve 90 gram yaprak kâğıdı, JGT ve JSG modelleriyle karşılaştırmada belirleyicidir."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 400 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 400.0
+  },
+  {
+    "id": "p720",
+    "slug": "promosyon-gemici-takvimi-mtb-270-kls",
+    "title": "Promosyon Klasik Gemici Takvimi MTB-270-KLS | 32 x 77 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-270-kls.jpg",
+    "shortDesc": "MTB-270-KLS klasik gemici takvimi; 32 x 77 cm ölçüsündedir. Spiral yapısı: Üç parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-270-KLS Klasik Gemici Takvimi\n\n32 x 77 cm klasik formatta, 400 gram Exprint alt kartonla sunulur. Aynı boyuttaki SVM ve TSM seçeneklerinden taşıyıcı malzemesiyle ayrılır; bütçe karşılaştırması yapılırken bu fark değerlendirilmelidir.\n\nTEKNİK BİLGİLER\n• Model: MTB-270-KLS\n• Ürün ölçüsü: 32 x 77 cm\n• Spiral yapısı: Üç parça\n• Alt karton: 400 g Exprint\n• Reklam alanı: 32 x 23 cm\n• Blok ölçüsü: 32 x 16 cm\n• Yaprak kâğıdı: 80 g birinci hamur\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 145 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-270-KLS ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 32 x 77 cm’dir. Reklam alanı: 32 x 23 cm"
+      },
+      {
+        "q": "MTB-270-KLS modelini diğer takvimlerden ayıran nedir?",
+        "a": "32 x 77 cm klasik formatta, 400 gram Exprint alt kartonla sunulur. Aynı boyuttaki SVM ve TSM seçeneklerinden taşıyıcı malzemesiyle ayrılır; bütçe karşılaştırması yapılırken bu fark değerlendirilmelidir."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 145 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 145.0
+  },
+  {
+    "id": "p721",
+    "slug": "promosyon-gemici-takvimi-mtb-270-svm",
+    "title": "Promosyon Sıvama Gemici Takvimi MTB-270-SVM | 32 x 77 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-270-svm.jpg",
+    "shortDesc": "MTB-270-SVM sıvama gemici takvimi; 32 x 77 cm ölçüsündedir. Spiral yapısı: Üç parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-270-SVM Sıvama Gemici Takvimi\n\nKlasik 32 x 77 cm gemici takvimi ölçüsünü sıvama karton yapısıyla birleştirir. 350 + 350 gram Amerikan Bristol alt kartonu, aynı serideki Exprint ve mukavva taslama seçeneklerinden ayırır.\n\nTEKNİK BİLGİLER\n• Model: MTB-270-SVM\n• Ürün ölçüsü: 32 x 77 cm\n• Spiral yapısı: Üç parça\n• Alt karton: 350 + 350 g Amerikan Bristol\n• Reklam alanı: 32 x 23 cm\n• Blok ölçüsü: 32 x 16 cm\n• Yaprak kâğıdı: 80 g birinci hamur\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 170 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-270-SVM ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 32 x 77 cm’dir. Reklam alanı: 32 x 23 cm"
+      },
+      {
+        "q": "MTB-270-SVM modelini diğer takvimlerden ayıran nedir?",
+        "a": "Klasik 32 x 77 cm gemici takvimi ölçüsünü sıvama karton yapısıyla birleştirir. 350 + 350 gram Amerikan Bristol alt kartonu, aynı serideki Exprint ve mukavva taslama seçeneklerinden ayırır."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 170 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 170.0
+  },
+  {
+    "id": "p722",
+    "slug": "promosyon-gemici-takvimi-mtb-270-tsm",
+    "title": "Promosyon Taslama Gemici Takvimi MTB-270-TSM | 32 x 77 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-270-tsm.jpg",
+    "shortDesc": "MTB-270-TSM taslama gemici takvimi; 32 x 77 cm ölçüsündedir. Spiral yapısı: Üç parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-270-TSM Taslama Gemici Takvimi\n\nÜç parçalı 32 x 77 cm formatı, 2 mm mukavva üzeri kuşe taslama taşıyıcıyla sunar. Kurumsal tasarımda 32 x 23 cm reklam bölümü kullanılır; toplam ürün ölçüsü ile bu alan birbirinden farklıdır.\n\nTEKNİK BİLGİLER\n• Model: MTB-270-TSM\n• Ürün ölçüsü: 32 x 77 cm\n• Spiral yapısı: Üç parça\n• Alt / üst karton: 2 mm mukavva üzeri kuşe taslama\n• Reklam alanı: 32 x 23 cm\n• Blok ölçüsü: 32 x 16 cm\n• Yaprak kâğıdı: 80 g birinci hamur\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 350 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-270-TSM ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 32 x 77 cm’dir. Reklam alanı: 32 x 23 cm"
+      },
+      {
+        "q": "MTB-270-TSM modelini diğer takvimlerden ayıran nedir?",
+        "a": "Üç parçalı 32 x 77 cm formatı, 2 mm mukavva üzeri kuşe taslama taşıyıcıyla sunar. Kurumsal tasarımda 32 x 23 cm reklam bölümü kullanılır; toplam ürün ölçüsü ile bu alan birbirinden farklıdır."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 350 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 350.0
+  },
+  {
+    "id": "p723",
+    "slug": "promosyon-gemici-takvimi-mtb-280",
+    "title": "Promosyon Gemici Takvimi MTB-280 | 33 x 73 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-280.jpg",
+    "shortDesc": "MTB-280 gemici takvimi; 33 x 73 cm ölçüsündedir. Spiral yapısı: Tek parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-280 Gemici Takvimi\n\n33 x 73 cm ölçüsünde tek parça spiralli bir duvar takvimidir. 33 x 48 cm blok düzeni ve 32 x 23 cm reklam bölümü bulunur; tasarım dosyası bu modelin kendi alan ölçüsüne göre hazırlanmalıdır.\n\nTEKNİK BİLGİLER\n• Model: MTB-280\n• Ürün ölçüsü: 33 x 73 cm\n• Spiral yapısı: Tek parça\n• Alt karton: 450 g Exprint\n• Reklam alanı: 32 x 23 cm\n• Blok ölçüsü: 33 x 48 cm\n• Yaprak kâğıdı: 80 g birinci hamur\n• Ayna: 350 g Amerikan Bristol\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 85 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-280 ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 33 x 73 cm’dir. Reklam alanı: 32 x 23 cm"
+      },
+      {
+        "q": "MTB-280 modelini diğer takvimlerden ayıran nedir?",
+        "a": "33 x 73 cm ölçüsünde tek parça spiralli bir duvar takvimidir. 33 x 48 cm blok düzeni ve 32 x 23 cm reklam bölümü bulunur; tasarım dosyası bu modelin kendi alan ölçüsüne göre hazırlanmalıdır."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 85 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 85.0
+  },
+  {
+    "id": "p724",
+    "slug": "promosyon-gemici-takvimi-mtb-290",
+    "title": "Promosyon 5 Aylık Gemici Takvimi MTB-290 | 33 x 73 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-290.jpg",
+    "shortDesc": "MTB-290 5 aylık gemici takvimi; 33 x 73 cm ölçüsündedir. Spiral yapısı: Üç parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-290 5 Aylık Gemici Takvimi\n\nBeş aylık görünümü üç parçalı spiral düzeniyle sunar. 33 x 73 cm toplam ölçüdeki bu model, aynı boyuttaki tek parça beş aylık MTB-300 seçeneğiyle spiral ve blok düzeni açısından karşılaştırılabilir.\n\nTEKNİK BİLGİLER\n• Model: MTB-290\n• Ürün ölçüsü: 33 x 73 cm\n• Spiral yapısı: Üç parça\n• Görünüm: 5 aylık düzen\n• Alt karton: 450 g Exprint\n• Reklam alanı: 33 x 23 cm\n• Blok ölçüsü: 33 x 16 cm\n• Yaprak kâğıdı: 80 g birinci hamur\n• Ayna: 350 g Amerikan Bristol\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 140 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-290 ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 33 x 73 cm’dir. Reklam alanı: 33 x 23 cm"
+      },
+      {
+        "q": "MTB-290 modelini diğer takvimlerden ayıran nedir?",
+        "a": "Beş aylık görünümü üç parçalı spiral düzeniyle sunar. 33 x 73 cm toplam ölçüdeki bu model, aynı boyuttaki tek parça beş aylık MTB-300 seçeneğiyle spiral ve blok düzeni açısından karşılaştırılabilir."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 140 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 140.0
+  },
+  {
+    "id": "p725",
+    "slug": "promosyon-gemici-takvimi-mtb-300",
+    "title": "Promosyon 5 Aylık Gemici Takvimi MTB-300 | 33 x 73 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-300.jpg",
+    "shortDesc": "MTB-300 5 aylık gemici takvimi; 33 x 73 cm ölçüsündedir. Spiral yapısı: Tek parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-300 5 Aylık Gemici Takvimi\n\nBeş aylık görünüm isteyenler için tek parça spiralli seçenektir. MTB-290 ile aynı 33 x 73 cm dış ölçüyü paylaşır; 33 x 48 cm tek blok yapısı, iki model arasındaki temel farkı oluşturur.\n\nTEKNİK BİLGİLER\n• Model: MTB-300\n• Ürün ölçüsü: 33 x 73 cm\n• Spiral yapısı: Tek parça\n• Görünüm: 5 aylık düzen\n• Alt karton: 450 g Exprint\n• Reklam alanı: 33 x 23 cm\n• Blok ölçüsü: 33 x 48 cm\n• Yaprak kâğıdı: 80 g birinci hamur\n• Ayna: 350 g Amerikan Bristol\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 85 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-300 ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 33 x 73 cm’dir. Reklam alanı: 33 x 23 cm"
+      },
+      {
+        "q": "MTB-300 modelini diğer takvimlerden ayıran nedir?",
+        "a": "Beş aylık görünüm isteyenler için tek parça spiralli seçenektir. MTB-290 ile aynı 33 x 73 cm dış ölçüyü paylaşır; 33 x 48 cm tek blok yapısı, iki model arasındaki temel farkı oluşturur."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 85 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 85.0
+  },
+  {
+    "id": "p726",
+    "slug": "promosyon-gemici-takvimi-mtb-310",
+    "title": "Promosyon Gemici Takvimi MTB-310 | 31 x 65,5 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-310.jpg",
+    "shortDesc": "MTB-310 gemici takvimi; 31 x 65,5 cm ölçüsündedir. Spiral yapısı: Tek parça. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-310 Gemici Takvimi\n\n31 cm eninde ve 65,5 cm boyunda duvar takvimi arayanlar için tek parça spiral düzeni sunar. 31 x 42 cm blok ve 31 x 21,5 cm reklam alanı, yerleşim planının ayrı bölümleridir.\n\nTEKNİK BİLGİLER\n• Model: MTB-310\n• Ürün ölçüsü: 31 x 65,5 cm\n• Spiral yapısı: Tek parça\n• Alt karton: 450 g Exprint\n• Reklam alanı: 31 x 21,5 cm\n• Blok ölçüsü: 31 x 42 cm\n• Yaprak kâğıdı: 80 g birinci hamur\n• Ayna: 350 g Amerikan Bristol\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 80 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-310 ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 31 x 65,5 cm’dir. Reklam alanı: 31 x 21,5 cm"
+      },
+      {
+        "q": "MTB-310 modelini diğer takvimlerden ayıran nedir?",
+        "a": "31 cm eninde ve 65,5 cm boyunda duvar takvimi arayanlar için tek parça spiral düzeni sunar. 31 x 42 cm blok ve 31 x 21,5 cm reklam alanı, yerleşim planının ayrı bölümleridir."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 80 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 80.0
+  },
+  {
+    "id": "p727",
+    "slug": "promosyon-gemici-takvimi-mtb-320",
+    "title": "Promosyon Gemici Takvimi MTB-320 | 31 x 69,5 cm",
+    "category": "Takvimler",
+    "image": "/products/promosyon-gemici-takvimi-mtb-320.jpg",
+    "shortDesc": "MTB-320 gemici takvimi; 31 x 69,5 cm ölçüsündedir. Alt karton: 450 g Exprint. Toplu sipariş için teklif alın.",
+    "longDesc": "MTB-320 Gemici Takvimi\n\n31 x 69,5 cm toplam ölçüsü ve 31 x 14 cm blok ölçüsüyle sunulur. Aynı endeki MTB-310 modelinden boyu ve blok ölçüsüyle ayrılır. Siparişte spiral ve yaprak düzeni güncel ürün provası üzerinden teyit edilir.\n\nTEKNİK BİLGİLER\n• Model: MTB-320\n• Ürün ölçüsü: 31 x 69,5 cm\n• Alt karton: 450 g Exprint\n• Reklam alanı: 31 x 21,5 cm\n• Blok ölçüsü: 31 x 14 cm\n• Yaprak kâğıdı: 80 g birinci hamur\n• Ayna: 350 g Amerikan Bristol\n\nLOGO VE TASARIM HAZIRLIĞI\nFirma logosu, iletişim bilgileri ve istenen görseller ürünün reklam bölümüne göre planlanır. Baskı yöntemi ve uygulama kapsamı tasarım üzerinden belirlenir.\n\nTAKVİM YILI VE GÖRSEL\nGörsel örnek uygulamayı gösterir; üzerindeki firma baskısı ve yıl teslim edilecek ürünün tasarımını belirtmez. İstenen takvim yılı, dil ve yaprak içeriği sipariş öncesinde teyit edilir.\n\nTOPLU SİPARİŞ\nListelenen birim ürün fiyatı 130 TL + KDV’dir. Baskı ve kişiselleştirme kapsamı toplam teklifte netleştirilir. Adet, takvim yılı ve logo dosyasını paylaşabilirsiniz. Tedarik durumu ve teslim süresi siparişe göre belirlenir.",
+    "faq": [
+      {
+        "q": "MTB-320 ölçüsü nedir?",
+        "a": "Ürünün belirtilen ölçüsü 31 x 69,5 cm’dir. Reklam alanı: 31 x 21,5 cm"
+      },
+      {
+        "q": "MTB-320 modelini diğer takvimlerden ayıran nedir?",
+        "a": "31 x 69,5 cm toplam ölçüsü ve 31 x 14 cm blok ölçüsüyle sunulur. Aynı endeki MTB-310 modelinden boyu ve blok ölçüsüyle ayrılır. Siparişte spiral ve yaprak düzeni güncel ürün provası üzerinden teyit edilir."
+      },
+      {
+        "q": "Görseldeki yıl ve firma baskısı aynı mı teslim edilir?",
+        "a": "Görsel örnek uygulamadır. Takvim yılı ve siparişe özel tasarım üretim veya tedarik öncesinde teyit edilir."
+      },
+      {
+        "q": "Fiyat ve logo uygulaması nasıl belirlenir?",
+        "a": "Listelenen birim ürün fiyatı 130 TL + KDV’dir. Adet ve tasarıma göre baskı kapsamı ayrıca netleştirilir."
+      }
+    ],
+    "price": 130.0
+  }
+,
+{
+  "id": "p728",
+  "slug": "promosyon-yoyo-ve-boyun-aski-ipleri",
+  "title": "Logo Baskılı Yoyo ve Boyun Askı İpi | Yaka Kartı Aksesuarları",
+  "category": "Yoyo ve Boyun Askı İpleri",
+  "image": "/products/promosyon-yoyo-ve-boyun-aski-ipleri.jpg",
+  "shortDesc": "Personel ve etkinlik kartları için yoyo ve logo baskılı boyun askı ipi seçenekleri. Model, baskı ve kart aksesuarı ihtiyacınızla güncel teklif alın.",
+  "longDesc": "Yoyo ve Boyun Askı İpi Siparişi\n\nPersonel kartı veya etkinlik yaka kartı taşımak için yoyo ve boyun askı ipi seçenekleri değerlendirilebilir. Bu kayıt, tek bir standart set yerine ürün grubundaki seçenekler için teklif talep edilmesini sağlar.\n\nSİPARİŞ TALEBİNDE PAYLAŞILACAK BİLGİLER\n• İstenen adet ve kullanım amacı\n• Yoyo, boyun askı ipi veya birlikte kullanım tercihi\n• Firma logosu ve renk beklentisi\n• Mevcut kart kullanılacaksa kartın ölçüsü ve bağlantı biçimi\n• Kart kabı veya basılı yaka kartı ihtiyacı\n• İhtiyaç duyulan teslim tarihi\n\nÜRÜN VE AKSESUAR KAPSAMI\nGörseldeki yoyo kart tutucular, boyun askı ipleri ve yaka kartı aksesuarları örnek seçeneklerdir. Görselde bulunan bütün parçalar tek paket olarak sunulmaz. Seçilecek model, malzeme, ip ölçüsü ve bağlantı elemanı güncel seçenekler üzerinden teyit edilir. Doğrulanmış bir model kodu veya ölçü listesi bulunmadığından standart teknik ölçü belirtilmemiştir.\n\nLOGO UYGULAMASI\nLogo dosyası seçilen ürünün uygulama alanına göre değerlendirilir. Baskı yönü, renk sayısı ve yöntem model üzerinden netleştirilir. Yoyo üzerindeki logo alanıyla boyun ipindeki tekrarlı baskı çalışması farklı uygulamalardır.\n\nFİYAT VE TESLİM\nGüncel fiyat için teklif alın. Adet, model ve kişiselleştirme kapsamı fiyatı belirler. Kart baskısı, kart kabı ve diğer aksesuarların dahil olup olmadığı teklifte açıkça belirtilir. Minimum sipariş, tedarik durumu ve teslim süresi sipariş öncesinde teyit edilir.",
+  "faq": [
+    {
+      "q": "Bu kayıt tek bir set mi içeriyor?",
+      "a": "Hayır. Ürün grubundaki seçenekler için teklif talebi oluşturur. Model ve paket içeriği siparişe göre belirlenir."
+    },
+    {
+      "q": "Sipariş için hangi bilgiler gerekli?",
+      "a": "Adet, kullanım amacı, logo dosyası, renk tercihi ve kart aksesuarı ihtiyacını paylaşabilirsiniz."
+    },
+    {
+      "q": "Yoyo ve askı ipinin ölçüsü nedir?",
+      "a": "Standart ölçü belirtilmemiştir. Seçilecek modelin ip ve bağlantı ölçüleri teklif aşamasında teyit edilir."
+    },
+    {
+      "q": "Yaka kartı ve kart kabı dahil mi?",
+      "a": "Kart, kart kabı ve bağlantı aksesuarları talebe göre ayrıca belirtilir. Görseldeki bütün parçalar tek fiyatla dahil değildir."
+    },
+    {
+      "q": "Güncel fiyatı nasıl öğrenebilirim?",
+      "a": "İstenen adet, model ve logo çalışmasıyla teklif talep edebilirsiniz. Sabit bir liste fiyatı belirtilmemiştir."
+    }
+  ]
+},
+
+{
+  "id": "p729",
+  "slug": "promosyon-organizer-org-110-18x23-metal-tokali",
+  "title": "Promosyon Organizer ORG-110 | 18 x 23 cm Metal Tokalı",
+  "price": 540,
+  "category": "Organizerler",
+  "image": "/products/promosyon-organizer-org-110-18x23-v2.jpg",
+  "shortDesc": "ORG-110 termo deri organizer; 18 x 23 cm kapak, metal toka ve 352 çizgili sayfayla sunulur. Gofre, lazer ve UV logo uygulaması için teklif alın.",
+  "longDesc": "ORG-110 Metal Tokalı Promosyon Organizer\n\nORG-110, 18 x 23 cm dış ölçüsü ve metal tokalı kapanışıyla sunulan termo deri organizer modelidir. 15 x 21 cm iç ajanda ölçüsü, 352 çizgili sayfa ve 70 gram krem kâğıt bilgisiyle değerlendirilir. Termo deri ifadesi hakiki deri taahhüdü olarak kullanılmaz.\n\nKAPAK VE İÇ AJANDA ÖLÇÜSÜ\n18 x 23 cm değeri organizerin dış ölçüsünü, 15 x 21 cm ise iç ajandayı belirtir. Bu iki ölçü logo alanı anlamına gelmez. Toplantı notları, görüşme hazırlıkları ve günlük iş planlarını birlikte taşımak isteyenler için boyut ve iç düzen önemlidir.\n\n352 ÇİZGİLİ SAYFA\nİç ajanda 352 çizgili sayfa ve 70 gram krem kâğıtla sunulur. Görseldeki ajanda kapağı örnek uygulamadır; takvim yılı veya tarihli iç düzen ihtiyacı sipariş öncesinde teyit edilir.\n\nLOGO UYGULAMA SEÇENEKLERİ\nGofre, lazer ve UV seçenekleri belirtilmiştir. Gofre, kapak üzerinde iz oluşturan bir uygulama isteyen firmalarca değerlendirilebilir. Lazerin uygulanacağı yüzey ve UV tasarımın konumu seçilen çalışma üzerinden teyit edilir; bütün yöntemlerin aynı yüzeye uygulanabildiği varsayılmaz.\n\nTEKNİK BİLGİLER\n• Model: ORG-110\n• Dış ölçü: 18 x 23 cm\n• Kapak: Termo deri\n• Metal toka: Var\n• İç ajanda ölçüsü: 15 x 21 cm\n• Sayfa sayısı: 352, çizgili\n• Kâğıt: 70 gram krem\n• Uygulama seçenekleri: Gofre / Lazer / UV\n• Koli adedi: 30\n\nTOPLU SİPARİŞ VE FİYAT\nListelenen birim ürün fiyatı baskı hariç 540 TL + KDV’dir. Adet ve logo dosyanızla teklif alabilirsiniz. Koli adedi minimum sipariş adedi anlamına gelmez. Kalem veya özel kutu isteniyorsa paket içeriği ve toplam fiyat ayrıca belirtilir. Renk, güncel tedarik durumu ve teslim süresi sipariş öncesinde teyit edilir.",
+  "faq": [
+    {
+      "q": "ORG-110 dış ölçüsü ve iç ajanda ölçüsü nedir?",
+      "a": "Dış ölçü 18 x 23 cm, iç ajanda ölçüsü 15 x 21 cm olarak belirtilmiştir."
+    },
+    {
+      "q": "ORG-110 kaç sayfadır?",
+      "a": "352 çizgili sayfa ve 70 gram krem kâğıtla sunulur."
+    },
+    {
+      "q": "Hangi logo uygulamaları bulunur?",
+      "a": "Gofre, lazer ve UV seçenekleri belirtilmiştir. Uygulama yüzeyi ve logo alanı tasarım üzerinden teyit edilir."
+    },
+    {
+      "q": "Termo deri hakiki deri midir?",
+      "a": "Ürün termo deri olarak tanımlanmıştır. Hakiki deri özelliği belirtilmemiştir."
+    },
+    {
+      "q": "Koli adedi minimum sipariş midir?",
+      "a": "Koli adedi 30 olarak belirtilmiştir; bu, minimum sipariş miktarı anlamına gelmez. Minimum adet teklif aşamasında teyit edilir."
+    },
+    {
+      "q": "ORG-110 fiyatına baskı dahil mi?",
+      "a": "Listelenen 540 TL + KDV birim ürün fiyatına baskı dahil değildir. Logo uygulaması ve paketleme kapsamına göre toplam teklif hazırlanır."
+    }
+  ]
 },
 ];
 

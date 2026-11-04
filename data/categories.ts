@@ -55,6 +55,8 @@ const categoryNames = [
   "Çakmak",
   "Anahtarlık",
   "Kupa",
+  "Takvimler",
+  "Yoyo ve Boyun Askı İpleri",
 ];
 
 export const categories: CategoryItem[] = categoryNames.map((name) => {

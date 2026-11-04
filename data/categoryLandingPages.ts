@@ -1,4 +1,4 @@
-﻿import { slugifyTR } from "./categories";
+import { slugifyTR } from "./categories";
 
 const categoryLandingPages: Record<string, string> = {
   "kalem": "/promosyon-kalem",
@@ -33,6 +33,8 @@ const categoryLandingPages: Record<string, string> = {
   "cakmak": "/promosyon-cakmak",
   "anahtarlik": "/promosyon-anahtarlik",
   "kupa": "/promosyon-kupa",
+  "takvimler": "/promosyon-takvim",
+  "yoyo-ve-boyun-aski-ipleri": "/promosyon-yoyo-ve-boyun-aski-ipleri",
 };
 
 export function getCategoryLandingHref(categoryName: string) {
