@@ -431,6 +431,7 @@ export default function Page() {
           </section>
         </div>
       )}
+    <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="Spiralli notluk modelleri"><h2 className="text-xl font-bold !text-black">Promosyon Spiralli Notluk Modelleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">Spiralli notluk ve not defterlerini ölçü, sayfa ve yapışkanlı not içeriğiyle karşılaştırın.</p><Link href="/promosyon-spiralli-notluk" className="mt-3 inline-flex font-semibold !text-black underline">Spiralli Notluk Modellerini İncele →</Link></section>
     </div>
   );
 }

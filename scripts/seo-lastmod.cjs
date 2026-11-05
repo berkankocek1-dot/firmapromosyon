@@ -119,11 +119,44 @@ function calculate(src) {
     if(!/^app\/(?:.*\/)?page\.(tsx|ts|jsx|js)$/.test(file) || file.includes('['))continue;
     const route='/'+file.replace(/^app\//,'').replace(/(?:\/)?page\.(tsx|ts|jsx|js)$/,'');
     const text=src.read(file);let data=null;
+    if(route==='/kurumsal-hediye-kutulari'||route==='/termoslu-kurumsal-hediye-setleri') {
+      const {isCorporateGiftBox,isThermosGiftSet}=load('data/vipSubcategories.ts');
+      const select=route==='/kurumsal-hediye-kutulari'?isCorporateGiftBox:isThermosGiftSet;
+      data=sortProductsByCode(visible.filter(select));
+    } else
     if(route.startsWith('/promosyon-')) {
       const category = text.match(/const\s+CATEGORY(?:_NAME)?\s*=\s*["']([^"']+)["']/)?.[1] || (route==='/promosyon-matara'?'Matara':null);
       if(!category) throw Error(`Category scope missing: ${route}`);
       const usesVisible=/from\s*["']@\/data\/productVisibility["']/.test(text);
       data=sortProductsByCode((usesVisible?visible:products).filter(p=>p.category===category));
+      if(route==='/promosyon-telefon-tutucu') {
+        const {isPhoneHolder}=load('data/phoneHolderSubcategories.ts');
+        data=sortProductsByCode(visible.filter(isPhoneHolder));
+      }
+      if(route==='/promosyon-spiralli-notluk') {
+        const {isSpiralNotepad}=load('data/spiralNotepadSubcategories.ts');
+        data=sortProductsByCode(visible.filter(isSpiralNotepad));
+      }
+      if(route==='/promosyon-kup-bloknot') {
+        const {isCubeNotepad}=load('data/matbaaSubcategories.ts');
+        data=data.filter(isCubeNotepad);
+      }
+      if(route==='/promosyon-bloknot') {
+        const {isPrintedNotepad}=load('data/matbaaSubcategories.ts');
+        data=data.filter(isPrintedNotepad);
+      }
+      if(route==='/promosyon-bardak-altligi') {
+        const {isCoaster}=load('data/coasterSubcategories.ts');
+        data=sortProductsByCode(visible.filter(isCoaster));
+      }
+      if(route==='/promosyon-hesap-makineli-organizer') {
+        const {isCalculatorOrganizer}=load('data/organizerSubcategories.ts');
+        data=data.filter(isCalculatorOrganizer);
+      }
+      if(route==='/promosyon-gemici-takvimi') {
+        const {isMarineCalendar}=load('data/calendarSubcategories.ts');
+        data=data.filter(isMarineCalendar);
+      }
       if(route==='/promosyon-mouse-pad') {
         const {isMousePad}=load('data/manufacturingSubcategories.ts');
         data=data.filter(isMousePad);

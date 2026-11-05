@@ -211,10 +211,10 @@ export default function Page() {
 
       </section>
 
-      <section className="mt-8 rounded-2xl border border-gray-200 p-5"><h2 className="text-xl font-bold">Logo Baskili Acacak Modelleri</h2><p className="mt-2 text-sm leading-6">AÇ-100 ve AÇ-110 modellerini, UV baskı ve sipariş bilgileriyle karşılaştırın.</p><Link href="/promosyon-acacak" className="mt-3 inline-flex font-semibold underline">Promosyon Açacak Modellerini İncele</Link></section>
-      <section className="mt-8 rounded-2xl border border-gray-200 p-5"><h2 className="text-xl font-bold">Logo Baskılı Oto Kokusu</h2><p className="mt-2 text-sm leading-6">OK-750 özel kesim oto kokusunu, koku seçenekleri ve ofset baskılı sipariş bilgileriyle inceleyin.</p><Link href="/promosyon-oto-kokusu" className="mt-3 inline-flex font-semibold underline">Promosyon Oto Kokusunu İncele</Link></section>
+
+
       <ImalatProductGrid products={list} />
-      <section className="mt-8 rounded-2xl border border-gray-200 p-5"><h2 className="text-xl font-bold">Logo Baskılı Şemsiye</h2><p className="mt-2 text-sm leading-6">ŞM-100 baston ve ŞM-150 ışıklı otomatik şemsiye modellerini karşılaştırın.</p><Link href="/promosyon-semsiye" className="mt-3 inline-flex font-semibold underline">Promosyon Şemsiye Modellerini İncele</Link></section>
+
 
       {list.length > 0 && (
         <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
@@ -273,11 +273,19 @@ export default function Page() {
             <p className="mt-3 leading-7 text-gray-200">Logo dosyası, renk, baskı konumu, teslim yeri ve ihtiyaç tarihinizle birlikte talebinizi iletin. Seçtiğiniz modellerin üretim ve baskı kapsamını içeren teklif hazırlayalım.</p>
             <Link href="/kurumsal-teklif-al" className="mt-5 inline-flex rounded-full bg-white px-5 py-3 text-sm font-semibold text-black hover:opacity-90">Kurumsal Teklif Al</Link>
           </section>
-          <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="İmalat ürün alt kategorileri">
-            <Link href="/promosyon-mouse-pad" className="font-semibold !text-black underline underline-offset-4">Promosyon Mouse Pad Modellerini İncele →</Link>
+                    <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="İmalat ürün alt kategorileri">
+            <h2 className="text-xl font-bold !text-black">İmalat Ürün Alt Kategorileri</h2>
+            <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+              <Link href="/promosyon-mouse-pad" className="rounded-xl border border-gray-200 px-4 py-3 text-sm font-semibold !text-black underline underline-offset-4 hover:bg-gray-50">Promosyon Mouse Pad Modellerini İncele →</Link>
+              <Link href="/promosyon-acacak" className="rounded-xl border border-gray-200 px-4 py-3 text-sm font-semibold !text-black underline underline-offset-4 hover:bg-gray-50">Promosyon Açacak Modellerini İncele →</Link>
+              <Link href="/promosyon-oto-kokusu" className="rounded-xl border border-gray-200 px-4 py-3 text-sm font-semibold !text-black underline underline-offset-4 hover:bg-gray-50">Promosyon Oto Kokusu Modellerini İncele →</Link>
+              <Link href="/promosyon-semsiye" className="rounded-xl border border-gray-200 px-4 py-3 text-sm font-semibold !text-black underline underline-offset-4 hover:bg-gray-50">Promosyon Şemsiye Modellerini İncele →</Link>
+              <Link href="/promosyon-bardak-altligi" className="rounded-xl border border-gray-200 px-4 py-3 text-sm font-semibold !text-black underline underline-offset-4 hover:bg-gray-50">Promosyon Bardak Altlığı Modellerini İncele →</Link>
+            </div>
           </section>
         </div>
       )}
+
     </div>
   );
 }

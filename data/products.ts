@@ -1,4 +1,5 @@
 export type Product = {
+  hasCalculator?: boolean;
   availability?: "https://schema.org/InStock" | "https://schema.org/OutOfStock";
   id: string;
   slug: string;
@@ -21832,6 +21833,7 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
   id: "p286",
 
   slug: "promosyon-organizer-org-140",
+  hasCalculator: true,
 
   title: "Promosyon Organizer ORG-140 | Logo Baskılı Termo Deri Ajanda 18x23 cm",
 
@@ -21901,6 +21903,7 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
   id: "p287",
 
   slug: "promosyon-organizer-org-150",
+  hasCalculator: true,
 
   title: "Promosyon Organizer ORG-150 | Metal Tokalı Hesap Makineli Termo Deri Organizer",
 
@@ -41389,6 +41392,7 @@ Promosyon ahşap roller kalem KS-335 modeli; doğal bambu gövdesi, özel ahşap
   id: "p578",
 
   slug: "promosyon-organizer-org-160-termodei-hesap-makinali",
+  hasCalculator: true,
 
   title: "Promosyon Organizer ORG-160 | Hesap Makineli Termo Deri Kurumsal Organizer",
 
@@ -41459,6 +41463,7 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
   id: "p579",
 
   slug: "promosyon-organizer-org-170-manyetik-kilitli-termodei",
+  hasCalculator: true,
 
   title: "Promosyon Organizer ORG-170 | Hesap Makineli Termo Deri VIP Organizer",
 
@@ -41529,6 +41534,7 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
   id: "p580",
 
   slug: "promosyon-organizer-org-180-termodei-hesap-makineli",
+  hasCalculator: true,
 
   title: "Promosyon Organizer ORG-180 | Hesap Makineli Termo Deri Kurumsal Organizer 18x23 cm",
 
@@ -41598,6 +41604,7 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
   id: "p581",
 
   slug: "promosyon-organizer-org-190-termodei-hesap-makineli",
+  hasCalculator: true,
 
   title: "Promosyon Organizer ORG-190 | Hesap Makineli Termo Deri Organizer 26,5x19 cm",
 

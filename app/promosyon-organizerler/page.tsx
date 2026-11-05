@@ -353,6 +353,7 @@ export default function Page() {
           </section>
         </div>
       )}
+    <section className="mt-12 rounded-2xl bg-white p-6 text-black"><h2 className="text-xl font-bold !text-black">Hesap Makineli Promosyon Organizerler</h2><p className="mt-2 text-sm leading-6 !text-gray-700">ORG-140–ORG-190 modellerini ölçü, sayfa, kapama ve logo uygulamasıyla karşılaştırın.</p><Link href="/promosyon-hesap-makineli-organizer" className="mt-3 inline-flex font-semibold !text-black underline">Hesap Makineli Organizerleri İncele →</Link></section>
     </div>
   );
 }

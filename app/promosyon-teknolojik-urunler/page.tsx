@@ -390,6 +390,7 @@ export default function Page() {
           </section>
         </div>
       )}
+    <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="Telefon tutucu modelleri"><h2 className="text-xl font-bold !text-black">Promosyon Telefon Tutucu Modelleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">Ahşap masaüstü, aynalı stand ve araç içi telefon tutucuları kullanım ihtiyacınıza göre karşılaştırın.</p><Link href="/promosyon-telefon-tutucu" className="mt-3 inline-flex font-semibold !text-black underline">Telefon Tutucu ve Stand Modellerini İncele →</Link></section>
     </div>
   );
 }

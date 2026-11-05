@@ -441,6 +441,8 @@ loading="lazy"
           </section>
         </div>
       )}
+    <section className="mt-8 rounded-2xl bg-white p-6 text-black"><h2 className="text-xl font-bold !text-black">Promosyon Küp Bloknot Modelleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">250, 375, 500 ve 750 yapraklı modelleri karşılaştırın.</p><Link href="/promosyon-kup-bloknot" className="mt-3 inline-flex font-semibold !text-black underline">Modelleri İncele →</Link></section>
+    <section className="mt-8 rounded-2xl bg-white p-6 text-black"><h2 className="text-xl font-bold !text-black">Promosyon Bloknot Modelleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">Dik, tutkallı, taç kapaklı ve üstten spiralli modelleri karşılaştırın.</p><Link href="/promosyon-bloknot" className="mt-3 inline-flex font-semibold !text-black underline">Modelleri İncele →</Link></section>
     </div>
   );
 }

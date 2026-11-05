@@ -2,8 +2,8 @@
   "version": 2,
   "pages": {
     "/": {
-      "hash": "86d7b769417eb960049d1b2ec81133d811eb7622f106eda234ecc6569dc6233c",
-      "lastModified": "2026-11-04T16:12:42.057Z"
+      "hash": "e0479ad9999e21ca009447601424796874dd49517180382e3f8a7eae3f39e746",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/cerez-politikasi": {
       "hash": "bd166674f18b49bea35d984e3301e96379cba6ee22fec87f28b1e0f9d11ed025",
@@ -24,6 +24,10 @@
     "/iptal-ve-iade-kosullari": {
       "hash": "aa4d1abc70a452669447da33159cc96764df3f006cb75680764473107d215531",
       "lastModified": "2026-10-29T00:59:22.135Z"
+    },
+    "/kurumsal-hediye-kutulari": {
+      "hash": "0d1ada87b2568d76317fb5440c29c954130bf0d4a447f296449c07059221118d",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/kurumsal-teklif-al": {
       "hash": "f0ae804932c8ebbc9a6bd6f81095e9b2920981e06e65da62744e9db7a3760b2b",
@@ -58,8 +62,8 @@
       "lastModified": "2026-11-01T00:24:00.036Z"
     },
     "/promosyon-ahsap-ve-deri-masaustu-urunler": {
-      "hash": "010b13e4e7364bf03cc2fd0c628f0dc37858f5d6fd45e5531bfb43ac3e2b91c6",
-      "lastModified": "2026-11-05T19:02:14.803Z"
+      "hash": "9d77e0126f49d8440fde2addbc6d133a22f470b860c3db0c387bc930bf1c226e",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/promosyon-ajanda": {
       "hash": "646373f99b80c834e6f6f47fdcf59b5dd688323539697378a13f570430b3df0f",
@@ -73,9 +77,17 @@
       "hash": "d6df1cbfa6a85dae5cfcff95e6d430044e264cd0caedc7b3cf6cc81b50fb4333",
       "lastModified": "2026-11-05T19:02:14.803Z"
     },
+    "/promosyon-bardak-altligi": {
+      "hash": "cdd248d7dd791f33f2fc020aebbaecee96683be970e817f045dba8542ebfa301",
+      "lastModified": "2026-11-05T22:39:38.527Z"
+    },
     "/promosyon-bayraklar": {
       "hash": "89feb72456dc5be113ba02f245437c05240c0bf7015f582c4ae02e458a8101bd",
       "lastModified": "2026-11-05T19:02:14.803Z"
+    },
+    "/promosyon-bloknot": {
+      "hash": "ec7173996fe3abaaa2b743023a1d65e0cfbd3c63f836743243c1c2a3661f5625",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/promosyon-buyuk-hacimli-termos": {
       "hash": "92c24fd1df385b19f8fbc64bd4cc7efb8ec3e8d3867831429c1e39328d8d16ac",
@@ -125,9 +137,13 @@
       "hash": "efa916919cb69329895ca91fbf90e974882882c497077fc0cb017271046c5a93",
       "lastModified": "2026-11-01T00:31:20.675Z"
     },
+    "/promosyon-gemici-takvimi": {
+      "hash": "ed0ca1c25d2c76ab93b4db3c1f508b3f94d717faf7449c4faa6c6135227550b8",
+      "lastModified": "2026-11-05T22:39:38.527Z"
+    },
     "/promosyon-geri-donusumlu-urunler": {
-      "hash": "d7e5dda6447d338ec4ef9b6d5763b41b38fe5fd7296a36c46f191cb8b0eb714e",
-      "lastModified": "2026-11-05T19:02:14.803Z"
+      "hash": "84f70b8680e8d110d2d4f5ed47de4a78c167bd875cc784d612806012d940bb01",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/promosyon-ham-bez-tela-canta": {
       "hash": "4d95ef635740ee53d74aae62b9006da30e10989ceaa51dd9a51a2712169cee93",
@@ -137,13 +153,17 @@
       "hash": "7001ccc20c433fe8e491d381b33990e8f3b07c5457f87a0d0b2809f020943a0a",
       "lastModified": "2026-11-05T19:02:14.803Z"
     },
+    "/promosyon-hesap-makineli-organizer": {
+      "hash": "b2c69fbbdc5befb23533bfaa566e8752bf91351c4e485350ce9d78c224ed7073",
+      "lastModified": "2026-11-05T22:39:38.527Z"
+    },
     "/promosyon-hoparlor": {
       "hash": "6c1b97c951493a383b33e889082bfa7a246d2930252a71defb948035a894c6a1",
       "lastModified": "2026-11-05T18:19:46.507Z"
     },
     "/promosyon-imalat-urunler": {
-      "hash": "994aff739da7fcf85836662d03bb413ecaf72919ceee4ac661c375a8177108f0",
-      "lastModified": "2026-11-05T18:54:00.078Z"
+      "hash": "eff0bd03b38ce2e1498832afc28dad883c2932b77e8d9c94abb068281a99f982",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/promosyon-isikli-logolu-powerbank": {
       "hash": "3e16c12d25366f0967fa2faa76b120f9b3dfe8f25b85732293a29f11aafa9379",
@@ -185,6 +205,10 @@
       "hash": "2de5b85c33c69491815ca2c2e389f693b3f223ae929b009082b413d4a0542f2a",
       "lastModified": "2026-11-05T19:02:14.803Z"
     },
+    "/promosyon-kup-bloknot": {
+      "hash": "10783ce6535d172fda42f82d91c195f74d9bcd7bb3f6de643c89aa73eb86e253",
+      "lastModified": "2026-11-05T22:39:38.527Z"
+    },
     "/promosyon-kupa": {
       "hash": "3ebf82d4c75ad0d4025fc9cf0033f6e8d402d1a9a31d76731cea1e6b01dcb0e4",
       "lastModified": "2026-11-05T19:02:14.803Z"
@@ -210,8 +234,8 @@
       "lastModified": "2026-11-05T19:02:14.803Z"
     },
     "/promosyon-matbaa-urunleri": {
-      "hash": "669d39025427052b30b97d90f467d093eb01df4289e405bca000fc0a7f74223f",
-      "lastModified": "2026-11-05T19:02:14.803Z"
+      "hash": "0a79fe0812c2fcfcafc69f4d17fab57605dc2ee1649c409ba3fd510e4df43d6f",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/promosyon-metal-anahtarlik": {
       "hash": "1ae73fa279c29014a239e1295bfdde07d6534a23bc22bb84f6c91622fa16c7e2",
@@ -238,8 +262,8 @@
       "lastModified": "2026-11-05T18:19:46.507Z"
     },
     "/promosyon-organizerler": {
-      "hash": "c90be183b033796add19a05250d938ed25987231660e817e9c9435127b2503e9",
-      "lastModified": "2026-11-05T19:02:14.803Z"
+      "hash": "9f53eb02281fa9d9f57e4ae5e9f5ce52384c5003fcef71ea7a0c11353f1e8223",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/promosyon-oto-kokusu": {
       "hash": "97b17fc2ca625334b7fae07fbd232c0f4f80337f3dea11cd49675ba2b4f35604",
@@ -289,17 +313,25 @@
       "hash": "c5c1879e3ddcb97e0b71bf1f0a2ea0482d31d4ec14dc5680ba0fe50808be3bbe",
       "lastModified": "2026-11-04T22:04:14.306Z"
     },
+    "/promosyon-spiralli-notluk": {
+      "hash": "9e85d1c7daa4d4e67a5141ba6bbd740ea6814f01423fd7888609b0a041df1c5b",
+      "lastModified": "2026-11-05T22:39:38.527Z"
+    },
     "/promosyon-takvim": {
-      "hash": "6c68d3d0bdb56f7b48607384e5be1c30d7fc0b7730a8ec311c9a9cc72b700b55",
-      "lastModified": "2026-11-04T16:12:42.057Z"
+      "hash": "684a2a9c3628abd29be94138b8cbd8105355b52ed6678be495561756b28c7d52",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/promosyon-tasli-cakmak": {
       "hash": "f4ea1022c0e4b6b7e97864ecd559297c96bbf5f913e602061fbedf3362e0b4f8",
       "lastModified": "2026-11-04T22:04:14.306Z"
     },
     "/promosyon-teknolojik-urunler": {
-      "hash": "c490de43572b7cee2d0157ed84d97112048d63fc6aa8365cb6eab461cf9cc56d",
-      "lastModified": "2026-11-05T18:19:46.507Z"
+      "hash": "5efb1e68978804909f0e15d09190a86d8da245b0832a747ec20c9fd0dda735ae",
+      "lastModified": "2026-11-05T22:39:38.527Z"
+    },
+    "/promosyon-telefon-tutucu": {
+      "hash": "05e388423dbb0b56d7fc4f51a55dc396d6302667fcf855a3b82846b39cbe0f39",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/promosyon-termo-pu-ajanda": {
       "hash": "41d85813f900fbd0b50d4e61ae32f8aa582277273d3a5d0ae52aa89bddb66a4a",
@@ -322,12 +354,12 @@
       "lastModified": "2026-11-04T22:04:14.306Z"
     },
     "/promosyon-vip-urunler": {
-      "hash": "91fd7290d221a4a848f1df3fbc54b1464f20bee8e885d606af05f01fe8e95561",
-      "lastModified": "2026-11-05T19:02:14.803Z"
+      "hash": "c2107a1cda4d0d52134c76e1dff472f949e9d108d6bb7115b63151417cc870d7",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/promosyon-yapiskanli-notluklar": {
-      "hash": "e6a07dac37dfec22bc44202410157cb6a785a0e3a7d6e4911738e7eaa73fe99f",
-      "lastModified": "2026-11-05T19:02:14.803Z"
+      "hash": "09855c45f1d2d7a75bb13203d53438a85fbe20fa1e154fe5af2b5451ddaa6714",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/promosyon-yoyo-ve-boyun-aski-ipleri": {
       "hash": "cc928d21a94c7c93b624a73e4d94fe768eb46b8e0d0f65894e77f68f190e7ce7",
@@ -493,13 +525,17 @@
       "hash": "0eea7aea6a4c3466b1a7d99e3276fdbabbf6ec719b0a0c95ae775013e6feff09",
       "lastModified": "2026-10-29T00:59:22.135Z"
     },
+    "/termoslu-kurumsal-hediye-setleri": {
+      "hash": "40245972ecb8227c5e707ea1ed7c2619842893dfefac3a84d376c1be57ca3cae",
+      "lastModified": "2026-11-05T22:39:38.527Z"
+    },
     "/teslimat-kosullari": {
       "hash": "01e55c97ab349aa6ee7c6a204e70bb0ac758c7757165c33a162010b5a3f470fd",
       "lastModified": "2026-10-29T00:59:22.135Z"
     },
     "/urunler": {
-      "hash": "311f4aaa37b54c68811e2576519de9732ae2b0b364bb35fbb67a1a06137c3356",
-      "lastModified": "2026-11-04T16:12:42.057Z"
+      "hash": "117a2feef0aece13d182a4fcdbf6ae54f7e9d7c455c12b8382f8f3ebe638fbaa",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/urunler/promosyon-100-yaprak-taslama-kapak-defter-15x21-mtb-190": {
       "hash": "db9f7c17a68a40027f40555908028c671d91938eb4b4aa917f129042dd8de442",
@@ -1970,28 +2006,28 @@
       "lastModified": "2026-11-04T16:40:48.154Z"
     },
     "/urunler/promosyon-organizer-org-140": {
-      "hash": "28515f7ce5c433f156966daecba909f201127c25cfd0a86079b59020f42e3541",
-      "lastModified": "2026-11-04T16:40:48.154Z"
+      "hash": "0a5bc02bb51c7b1e217cf95f88c5d0b43560668c5d8c843cf00dc0f5809aa742",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/urunler/promosyon-organizer-org-150": {
-      "hash": "ad37e47a4d8fe0f689daf0e1bf304178f200b409d51906d0cd27bb4b42bd7328",
-      "lastModified": "2026-11-04T16:40:48.154Z"
+      "hash": "e839cb37078245d4a6eed46962d8aa75bd1e87223c0e9b39148fc3dea6da7446",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/urunler/promosyon-organizer-org-160-termodei-hesap-makinali": {
-      "hash": "71c29f4dd93c783231624149c2daadce153130ad2b4a39372e66945ffc34fbae",
-      "lastModified": "2026-11-04T16:40:48.154Z"
+      "hash": "e83c7137f440aea067d4ef117a1f89e009420b65beda8af4c26c5ca819b03b88",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/urunler/promosyon-organizer-org-170-manyetik-kilitli-termodei": {
-      "hash": "69ca49e305e7921c9f17c27c815d7c0caeeceeb6171eee73ca3319009d3f4d37",
-      "lastModified": "2026-11-04T16:40:48.154Z"
+      "hash": "4c8bc1b848700bb023dfd5cdfbe9734d5b18e6163a03f74d0fa8c4f80f6ac0ef",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/urunler/promosyon-organizer-org-180-termodei-hesap-makineli": {
-      "hash": "7350e594858c61567f65b9758e7a0d9c5b357180c2da860f9ffed3ea57fd8795",
-      "lastModified": "2026-11-04T16:40:48.154Z"
+      "hash": "b2fd2a401547dd73babe760149745e1bed33ed706bd067bc1e1ab7d84a3a82f8",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/urunler/promosyon-organizer-org-190-termodei-hesap-makineli": {
-      "hash": "bd7fe26995acb5514643822d99e75ab4a4b3447a57541f8fa8018aba948cd9ef",
-      "lastModified": "2026-11-04T16:40:48.154Z"
+      "hash": "77d1c3ea9208bbbd58bc1b6a958e003a19ba46098eebb69541142877b7e45784",
+      "lastModified": "2026-11-05T22:39:38.527Z"
     },
     "/urunler/promosyon-organizer-org-210-termodei-metal-tokali": {
       "hash": "d79f70deeaab42150f9a930f8c88f371015df492c5c24983f871c60950f8ff42",

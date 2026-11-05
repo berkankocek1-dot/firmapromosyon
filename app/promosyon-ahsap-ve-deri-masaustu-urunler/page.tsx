@@ -410,6 +410,7 @@ export default function Page() {
           </section>
         </div>
       )}
+    <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="Bardak altlığı modelleri"><h2 className="text-xl font-bold !text-black">Promosyon Bardak Altlığı Modelleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">BA-650 ile MS-190 ve MS-195 suni deri setleri ölçü, içerik ve logo uygulamasıyla karşılaştırın.</p><Link href="/promosyon-bardak-altligi" className="mt-3 inline-flex font-semibold !text-black underline">Bardak Altlığı Modellerini İncele →</Link></section>
     </div>
   );
 }

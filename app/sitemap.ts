@@ -119,6 +119,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: baseUrl + "/promosyon-acacak", changeFrequency: "weekly", priority: 0.8 },
     { url: baseUrl + "/promosyon-oto-kokusu", changeFrequency: "weekly", priority: 0.8 },
     { url: baseUrl + "/promosyon-semsiye", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-telefon-tutucu", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-spiralli-notluk", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-kup-bloknot", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-bloknot", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-bardak-altligi", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-hesap-makineli-organizer", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/kurumsal-hediye-kutulari", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/termoslu-kurumsal-hediye-setleri", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/promosyon-gemici-takvimi", changeFrequency: "weekly", priority: 0.8 },
     ...productRoutes,
   ];
 

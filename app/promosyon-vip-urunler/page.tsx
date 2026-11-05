@@ -379,6 +379,8 @@ export default function Page() {
           </section>
         </div>
       )}
+    <section className="mt-8 rounded-2xl bg-white p-6 text-black"><h2 className="text-xl font-bold !text-black">Kurumsal Hediye Kutuları</h2><p className="mt-2 text-sm leading-6 !text-gray-700">Kendi setinizi hazırlamak için boş kutuları ve iç yerleşim kapsamını karşılaştırın.</p><Link href="/kurumsal-hediye-kutulari" className="mt-3 inline-flex font-semibold !text-black underline">Kurumsal Hediye Kutuları Modellerini İncele →</Link></section>
+    <section className="mt-8 rounded-2xl bg-white p-6 text-black"><h2 className="text-xl font-bold !text-black">Termoslu Kurumsal Hediye Setleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">Termos içeren hazır setleri ürün içeriği ve logo uygulamasıyla karşılaştırın.</p><Link href="/termoslu-kurumsal-hediye-setleri" className="mt-3 inline-flex font-semibold !text-black underline">Termoslu Kurumsal Hediye Setleri Modellerini İncele →</Link></section>
     </div>
   );
 }
