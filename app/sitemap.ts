@@ -128,6 +128,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: baseUrl + "/kurumsal-hediye-kutulari", changeFrequency: "weekly", priority: 0.8 },
     { url: baseUrl + "/termoslu-kurumsal-hediye-setleri", changeFrequency: "weekly", priority: 0.8 },
     { url: baseUrl + "/promosyon-gemici-takvimi", changeFrequency: "weekly", priority: 0.8 },
+    { url: baseUrl + "/gizlilik-politikasi", changeFrequency: "yearly", priority: 0.3 },
+    { url: baseUrl + "/cerez-politikasi", changeFrequency: "yearly", priority: 0.3 },
+    { url: baseUrl + "/kvkk", changeFrequency: "yearly", priority: 0.3 },
+    { url: baseUrl + "/teslimat-kosullari", changeFrequency: "yearly", priority: 0.3 },
+    { url: baseUrl + "/iptal-ve-iade-kosullari", changeFrequency: "yearly", priority: 0.3 },
+    { url: baseUrl + "/mesafeli-satis-sozlesmesi", changeFrequency: "yearly", priority: 0.3 },
     ...productRoutes,
   ];
 
