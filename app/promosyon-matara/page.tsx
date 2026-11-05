@@ -56,7 +56,7 @@ function JsonLd({ data }: { data: Record<string, unknown> }) {
 export default function MataraPage() {
   const list = sortProductsByCode(visibleProducts.filter(p => p.category === "Matara"));
   return (
-    <main className="min-h-screen bg-black text-white">
+    <div className="min-h-screen bg-black text-white">
       <div className="mx-auto max-w-6xl px-4 py-10">
         <JsonLd data={{ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [
           { "@type": "ListItem", position: 1, name: "Ana Sayfa", item: `${SITE_URL}/` },
@@ -230,6 +230,6 @@ export default function MataraPage() {
           </div>
         </section>
       </div>
-    </main>
+    </div>
   );
 }

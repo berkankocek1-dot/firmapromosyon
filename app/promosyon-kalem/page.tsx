@@ -101,7 +101,7 @@ export default function Page() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
+    <div className="mx-auto max-w-6xl px-4 py-10">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -349,6 +349,6 @@ export default function Page() {
         </Link>
         <p className="mt-2 text-sm text-gray-600">Kalem türlerine göre hazırlanmış sayfalardan modelleri ve logo baskılı sipariş seçeneklerini inceleyebilirsiniz.</p>
       </nav>
-    </main>
+    </div>
   );
 }

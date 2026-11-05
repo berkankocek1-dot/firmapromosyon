@@ -103,7 +103,7 @@ export default function Page() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
+    <div className="mx-auto max-w-6xl px-4 py-10">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -388,6 +388,6 @@ export default function Page() {
         <Link href="/promosyon-metal-anahtarlik" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Metal Anahtarlık Modelleri →</Link>
         <p className="mt-3 text-sm text-gray-700">Malzeme ve kullanım özelliklerine göre hazırlanmış anahtarlık sayfalarından modelleri karşılaştırabilirsiniz.</p>
       </nav>
-    </main>
+    </div>
   );
 }
