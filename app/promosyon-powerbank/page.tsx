@@ -110,7 +110,7 @@ export default function Page() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
+    <div className="mx-auto max-w-6xl px-4 py-10">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -308,6 +308,14 @@ export default function Page() {
           </section>
         </div>
       )}
-    </main>
+      <section aria-label="Powerbank alt kategorileri" className="mt-10 rounded-2xl bg-white p-6">
+        <h2 className="text-xl font-bold !text-black">Powerbankleri Özelliklerine Göre İnceleyin</h2>
+        <Link href="/promosyon-magsafe-powerbank" className="mt-3 block font-semibold !text-black underline underline-offset-4">MagSafe Powerbank Modellerini İncele →</Link>
+        <Link href="/promosyon-isikli-logolu-powerbank" className="mt-3 block font-semibold !text-black underline underline-offset-4">Işıklı Logolu Powerbank Modellerini İncele →</Link>
+        <Link href="/promosyon-dahili-kablolu-powerbank" className="mt-3 block font-semibold !text-black underline underline-offset-4">Dahili Kablolu Powerbank Modellerini İncele →</Link>
+        <Link href="/promosyon-20000-mah-powerbank" className="mt-3 block font-semibold !text-black underline underline-offset-4">20.000 mAh Powerbank Modellerini İncele →</Link>
+        <Link href="/promosyon-powerbank-organizer" className="mt-3 block font-semibold !text-black underline underline-offset-4">Powerbank Organizer Modellerini İncele →</Link>
+      </section>
+    </div>
   );
 }

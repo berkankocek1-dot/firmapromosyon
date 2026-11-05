@@ -102,7 +102,7 @@ export default function Page() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
+    <div className="mx-auto max-w-6xl px-4 py-10">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -383,8 +383,13 @@ export default function Page() {
               ))}
             </div>
           </section>
+          <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="Teknolojik ürün alt kategorileri">
+            <Link href="/promosyon-sarj-kablosu" className="font-semibold !text-black underline underline-offset-4">Promosyon Şarj Kablosu Modellerini İncele →</Link>
+            <Link href="/promosyon-hoparlor" className="mt-3 block font-semibold !text-black underline underline-offset-4">Promosyon Hoparlör Modellerini İncele →</Link>
+            <Link href="/promosyon-kablosuz-sarj-cihazi" className="mt-3 block font-semibold !text-black underline underline-offset-4">Promosyon Kablosuz Şarj Cihazlarını İncele →</Link>
+          </section>
         </div>
       )}
-    </main>
+    </div>
   );
 }

@@ -124,6 +124,51 @@ function calculate(src) {
       if(!category) throw Error(`Category scope missing: ${route}`);
       const usesVisible=/from\s*["']@\/data\/productVisibility["']/.test(text);
       data=sortProductsByCode((usesVisible?visible:products).filter(p=>p.category===category));
+      if(route==='/promosyon-mouse-pad') {
+        const {isMousePad}=load('data/manufacturingSubcategories.ts');
+        data=data.filter(isMousePad);
+      }
+      if(route==='/promosyon-acacak') {
+        data=data.filter(p=>['promosyon-kapak-acacak-ac-100','promosyon-uzun-acacak-ac-110'].includes(p.slug));
+      }
+      if(route==='/promosyon-oto-kokusu') {
+        data=data.filter(p=>['promosyon-oto-kokusu-ok-750'].includes(p.slug));
+      }
+      if(route==='/promosyon-semsiye') {
+        data=data.filter(p=>['promosyon-semsiye-sm-100','promosyon-isikli-semsiye-sm-150'].includes(p.slug));
+      }
+      if(route==='/promosyon-kablosuz-sarj-cihazi') {
+        const {isWirelessCharger}=load('data/technologySubcategories.ts');
+        data=data.filter(isWirelessCharger);
+      }
+      if(route==='/promosyon-hoparlor') {
+        const {isPromotionalSpeaker}=load('data/technologySubcategories.ts');
+        data=data.filter(isPromotionalSpeaker);
+      }
+      if(route==='/promosyon-sarj-kablosu') {
+        const {isChargingCable}=load('data/technologySubcategories.ts');
+        data=data.filter(isChargingCable);
+      }
+      if(route==='/promosyon-powerbank-organizer') {
+        const {isOrganizerPowerbank}=load('data/powerbankSubcategories.ts');
+        data=data.filter(isOrganizerPowerbank);
+      }
+      if(route==='/promosyon-20000-mah-powerbank') {
+        const {is20000mAhPowerbank}=load('data/powerbankSubcategories.ts');
+        data=data.filter(is20000mAhPowerbank);
+      }
+      if(route==='/promosyon-dahili-kablolu-powerbank') {
+        const {isBuiltInCablePowerbank}=load('data/powerbankSubcategories.ts');
+        data=data.filter(isBuiltInCablePowerbank);
+      }
+      if(route==='/promosyon-isikli-logolu-powerbank') {
+        const {isLightUpPowerbank}=load('data/powerbankSubcategories.ts');
+        data=data.filter(isLightUpPowerbank);
+      }
+      if(route==='/promosyon-magsafe-powerbank') {
+        const {isMagSafePowerbank}=load('data/powerbankSubcategories.ts');
+        data=data.filter(isMagSafePowerbank);
+      }
       if(route==='/promosyon-cep-mini-boy-defter') {
         const {isPocketNotebook}=load('data/notebookSubcategories.ts');
         data=data.filter(isPocketNotebook);
