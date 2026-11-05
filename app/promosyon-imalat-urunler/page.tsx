@@ -103,7 +103,7 @@ export default function Page() {
   }));
 
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
+    <div className="mx-auto max-w-6xl px-4 py-10">
 
       <JsonLd
         data={{
@@ -278,6 +278,6 @@ export default function Page() {
           </section>
         </div>
       )}
-    </main>
+    </div>
   );
 }
