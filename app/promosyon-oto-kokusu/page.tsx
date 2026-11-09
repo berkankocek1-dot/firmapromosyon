@@ -60,6 +60,11 @@ export default function Page() {
    <p>Teklif talebine OK-750 kodunu, sipariş adedini, logo dosyasını, kesim ve koku tercihini ekleyin. Teslim yeri ve ihtiyaç tarihinizi de paylaşın. Net termin; tasarım onayı, tedarik ve üretim planı üzerinden belirlenir.</p>
    <p>Diğer dağıtım seçenekleri için <Link href="/promosyon-imalat-urunler" className="font-semibold text-white underline">imalat promosyon ürünlerini</Link> inceleyebilirsiniz. Tanıtım paketini tamamlamak için <Link href="/promosyon-anahtarlik" className="font-semibold text-white underline">logo baskılı anahtarlık modellerini</Link> karşılaştırabilirsiniz.</p>
   </section>
+  <section className="mt-10 rounded-2xl border border-white/15 p-6 text-gray-200">
+   <h2 className="text-xl font-bold text-white">Oto Kokusu Seçim ve Baskı Rehberi</h2>
+   <p className="mt-3 leading-7">Özel kesim, koku tercihi, tasarım zemini ve numune onayı için sipariş öncesi kontrol adımlarını inceleyin.</p>
+   <Link href="/rehber/promosyon-oto-kokusu-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold text-white underline">Oto Kokusu Seçim ve Baskı Rehberini Oku</Link>
+  </section>
   <section className="mt-10"><h2 className="text-2xl font-bold text-white">Promosyon Oto Kokusu Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
  </div>;
 }

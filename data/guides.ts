@@ -1,5 +1,35 @@
 export const guides = [
   {
+    slug: "promosyon-gemici-takvimi-secim-rehberi",
+    title: "Gemici Takvimi Seçimi ve Baskıya Hazırlık Rehberi",
+    desc: "Gemici takviminde ölçü, blok ve spiral düzeni ile reklam alanını karşılaştırın. Takvim yılı, logo tasarımı, prova ve toplu sipariş onayını adım adım planlayın.",
+    image: "/guides/promosyon-gemici-takvimi-secim-rehberi.jpg",
+  },
+  {
+    slug: "kurumsal-hediye-seti-secim-rehberi",
+    title: "Kurumsal Hediye Seti Nasıl Seçilir? Bütçe ve İçerik Rehberi",
+    desc: "Kurumsal hediye setini alıcı profili, bütçe, ürün ve kutu uyumu üzerinden seçin. Hazır set, kişiselleştirme, numune ve teslim planını birlikte değerlendirin.",
+    image: "/guides/kurumsal-hediye-seti-secim-rehberi.jpg",
+  },
+  {
+    slug: "promosyon-oto-kokusu-secim-ve-baski-rehberi",
+    title: "Promosyon Oto Kokusu: Özel Kesim, Koku ve Baskı Rehberi",
+    desc: "Promosyon oto kokusunda özel kesim, koku seçimi ve logo tasarımını birlikte planlayın. Baskı dosyası, numune, ambalaj ve sipariş onayı adımlarını öğrenin.",
+    image: "/guides/promosyon-oto-kokusu-secim-ve-baski-rehberi.jpg",
+  },
+  {
+    slug: "promosyon-mouse-pad-secim-ve-baski-rehberi",
+    title: "Promosyon Mouse Pad Seçimi ve Baskı Tasarımı Rehberi",
+    desc: "Promosyon mouse pad seçerken ölçü, bilek desteği, yüzey ve baskı tasarımını değerlendirin. Logo yerleşimi, tasarım onayı ve sipariş kontrol adımlarını öğrenin.",
+    image: "/guides/promosyon-mouse-pad-secim-ve-baski-rehberi.jpg",
+  },
+  {
+    slug: "promosyon-sarj-kablosu-secim-rehberi",
+    title: "Promosyon Şarj Kablosu Seçerken Nelere Dikkat Edilmeli?",
+    desc: "Promosyon şarj kablosunda cihaz ve adaptör uyumu, hızlı şarj, veri aktarımı, logo baskısı ve numune kontrolünü öğrenin. Toplu siparişinizi adım adım planlayın.",
+    image: "/guides/promosyon-sarj-kablosu-secim-rehberi.jpg",
+  },
+  {
     slug: "dtf-baski-nedir",
     title: "DTF Baskı Nedir? Nasıl Yapılır?",
     desc: "DTF baskı nedir, nasıl yapılır? Filmden tekstile transfer sürecini, avantajlarını, kumaş uygunluğunu ve baskılı ürün bakımında dikkat edilecekleri öğrenin.",

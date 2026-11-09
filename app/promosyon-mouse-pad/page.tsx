@@ -64,6 +64,11 @@ export default function Page() {
    <p>Teklif talebine MP-600 veya MP-650 kodunu, adedi, logo dosyasını, renk ve tasarım taleplerini ekleyin. İhtiyaç tarihi ve dağıtım adresleri teslim planının değerlendirilmesini kolaylaştırır. Güncel tedarik uygunluğu, tasarım onayı ve uygulama planına göre net termin alın.</p>
    <p>Diğer özel üretim seçenekleri için <Link href="/promosyon-imalat-urunler" className="font-semibold text-white underline">imalat promosyon ürünlerini</Link>, masa düzenini tamamlamak için <Link href="/promosyon-ahsap-ve-deri-masaustu-urunler" className="font-semibold text-white underline">masaüstü ürünlerini</Link> inceleyebilirsiniz.</p>
   </section>
+  <section className="mt-10 rounded-2xl border border-white/15 p-6 text-gray-200">
+   <h2 className="text-xl font-bold text-white">Mouse Pad Seçim ve Baskı Tasarımı Rehberi</h2>
+   <p className="mt-3 leading-7">Masa alanı, bilek desteği, yüzey özellikleri ve tasarım onayı için sipariş öncesi kontrol adımlarını inceleyin.</p>
+   <Link href="/rehber/promosyon-mouse-pad-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold text-white underline">Mouse Pad Seçim ve Baskı Rehberini Oku</Link>
+  </section>
   <section className="mt-10"><h2 className="text-2xl font-bold text-white">Promosyon Mouse Pad Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
  </div>;
 }

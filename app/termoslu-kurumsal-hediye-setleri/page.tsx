@@ -61,5 +61,10 @@ export default function Page() {
 <p>Diğer seçenekler için <Link href="/promosyon-vip-urunler" className="font-semibold text-white underline">VIP ürünlerini</Link> ve <Link href="/kurumsal-hediye-kutulari" className="font-semibold text-white underline">boş kurumsal hediye kutularını</Link> inceleyebilirsiniz.</p>
 </section>
   <section className="mt-10"><h2 className="text-2xl font-bold text-white">Termoslu Kurumsal Hediye Setleri Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
+  <section className="mt-10 rounded-2xl border border-gray-200 bg-white p-6 text-gray-900">
+   <h2 className="text-xl font-bold !text-gray-900">Kurumsal Hediye Seti Seçim Rehberi</h2>
+   <p className="mt-3 leading-7 !text-gray-700">Alıcı profili, bütçe, kutu ve ürün uyumu ile toplu teslim planını birlikte değerlendirin.</p>
+   <Link href="/rehber/kurumsal-hediye-seti-secim-rehberi" className="mt-4 inline-block font-semibold !text-gray-900 underline">Kurumsal Hediye Seti Seçim Rehberini Oku</Link>
+  </section>
  </div>;
 }

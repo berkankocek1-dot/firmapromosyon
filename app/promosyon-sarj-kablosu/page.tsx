@@ -63,6 +63,11 @@ export default function Page() {
    <p>Fiyat bulunan kartlarda tutarlar baskı hariç TL + KDV olarak sunulur. Ürün kodunu, adedi, rengi, logo dosyasını ve hedef teslim tarihini paylaşarak toplam teklif alın. Güncel tedarik uygunluğu, logo onayı ve paketleme teslim planını etkiler. Kablo setini bir çalışan kiti içinde kullanacaksanız kutu ölçüsü ve ek paketleme ihtiyacını da belirtin.</p>
    <p>Bilgisayara çevre birimi bağlamak için kullanılan Type-C çoklayıcı, şarj kablosundan farklı bir ürün türüdür ve bu listede yer almaz. Diğer aksesuarlar için <Link href="/promosyon-teknolojik-urunler" className="font-semibold text-white underline">teknolojik promosyon ürünlerini</Link>, taşınabilir enerji ihtiyacı için <Link href="/promosyon-powerbank" className="font-semibold text-white underline">powerbank modellerini</Link> inceleyebilirsiniz.</p>
   </section>
+  <section className="mt-10 rounded-2xl border border-white/15 p-6 text-gray-200">
+   <h2 className="text-xl font-bold text-white">Sipariş Öncesi Şarj Kablosu Seçim Rehberi</h2>
+   <p className="mt-3 leading-7">Cihaz ve adaptör uyumu, hızlı şarj ve veri beklentisi, numune denemesi ve logo onayı için kontrol adımlarını inceleyin.</p>
+   <Link href="/rehber/promosyon-sarj-kablosu-secim-rehberi" className="mt-4 inline-block font-semibold text-white underline">Promosyon Şarj Kablosu Seçim Rehberini Oku</Link>
+  </section>
   <section className="mt-10"><h2 className="text-2xl font-bold text-white">Promosyon Şarj Kabloları Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
  </div>;
 }

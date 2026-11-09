@@ -63,6 +63,11 @@ export default function Page() {
 <p>Minimum sipariş ve termin için bütün modellere ortak bir değer verilmez. Model, adet, takvim yılı, logo dosyası, teslim yeri ve ihtiyaç tarihinizle teklif alın. Tasarım onayı, tedarik ve üretim planı net teslim tarihini belirler.</p>
 <p>Diğer seçenekler için <Link href="/promosyon-takvim" className="font-semibold text-white underline">tüm takvim modellerini</Link> ve <Link href="/promosyon-ajanda" className="font-semibold text-white underline">kurumsal ajanda modellerini</Link> inceleyebilirsiniz.</p>
 </section>
+  <section className="mt-10 rounded-2xl border border-white/15 p-6 text-gray-200">
+   <h2 className="text-xl font-bold text-white">Gemici Takvimi Seçim ve Baskıya Hazırlık Rehberi</h2>
+   <p className="mt-3 leading-7">Ölçü, tarih düzeni, takvim yılı ve logo provası için sipariş öncesi kontrol adımlarını inceleyin.</p>
+   <Link href="/rehber/promosyon-gemici-takvimi-secim-rehberi" className="mt-4 inline-block font-semibold text-white underline">Gemici Takvimi Seçim Rehberini Oku</Link>
+  </section>
   <section className="mt-10"><h2 className="text-2xl font-bold text-white">Gemici Takvimleri Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
  </div>;
 }
