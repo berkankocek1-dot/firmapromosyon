@@ -197,7 +197,7 @@ export default function PromosyonTermosRehberiPage() {
   };
 
   return (
-    <main className="bg-gray-50 text-gray-900">
+    <div className="bg-gray-50 text-gray-900">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
@@ -399,9 +399,15 @@ export default function PromosyonTermosRehberiPage() {
 
                   <p>
                     Kapasite seçimi de hedef kitleye göre yapılmalıdır. 350 ml termoslar
-                    kompakt ve çanta içinde taşımaya uygundur. 500 ml modeller günlük
-                    kullanım için dengeli bir hacim sunar. 750 ml ve üzeri modeller ise
-                    daha uzun süre dışarıda kalan kullanıcılar, saha çalışanları veya
+                    kompakt ve çanta içinde taşımaya uygundur.{" "}
+                    <Link href="/promosyon-500-ml-termos" className="font-semibold underline">
+                      500 ml termos modelleri
+                    </Link>{" "}
+                    günlük kullanım için dengeli bir hacim sunar. 750 ml ve üzeri{" "}
+                    <Link href="/promosyon-buyuk-hacimli-termos" className="font-semibold underline">
+                      büyük hacimli termos modelleri
+                    </Link>{" "}
+                    ise daha uzun süre dışarıda kalan kullanıcılar, saha çalışanları veya
                     seyahat eden kişiler için daha avantajlı olabilir.
                   </p>
 
@@ -649,6 +655,15 @@ export default function PromosyonTermosRehberiPage() {
                   </p>
 
                   <p>
+                    Sıcaklık göstergesi olan bir seçenek arıyorsanız{" "}
+                    <Link href="/promosyon-dijital-gostergeli-termos" className="font-semibold underline">
+                      dijital göstergeli termos modellerini
+                    </Link>{" "}
+                    de inceleyebilirsiniz. Gösterge özelliğini kapasite, kapak yapısı ve
+                    baskı alanıyla birlikte değerlendirerek model seçimini yapabilirsiniz.
+                  </p>
+
+                  <p>
                     Üçüncü konu baskı alanıdır. Logo, termos üzerinde net ve okunabilir görünmelidir.
                     Çok karmaşık logolar küçük baskı alanlarında etkisini kaybedebilir. Daha sade,
                     kontrastı güçlü ve kurumsal kimliğe uygun tasarımlar promosyon termoslarda daha
@@ -845,6 +860,6 @@ export default function PromosyonTermosRehberiPage() {
           </div>
         </article>
       </section>
-    </main>
+    </div>
   );
 }

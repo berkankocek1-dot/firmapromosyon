@@ -72,7 +72,7 @@ export default function RehberPage() {
   };
 
   return (
-    <main className="min-h-screen bg-white text-gray-900">
+    <div className="min-h-screen bg-white text-gray-900">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
@@ -234,6 +234,6 @@ export default function RehberPage() {
           </div>
         </div>
       </section>
-    </main>
+    </div>
   );
 }

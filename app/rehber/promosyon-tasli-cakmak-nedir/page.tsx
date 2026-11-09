@@ -148,7 +148,7 @@ export default function Page() {
   };
 
   return (
-    <main className="bg-white">
+    <div className="bg-white">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
@@ -207,7 +207,7 @@ export default function Page() {
             </div>
 
             <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
-              <Link href="/promosyon-cakmak" className="font-semibold text-red-600 hover:underline">Promosyon taşlı çakmak</Link>, firmaların marka görünürlüğünü artırmak için
+              <Link href="/promosyon-tasli-cakmak" className="font-semibold text-red-600 hover:underline">Promosyon taşlı çakmak</Link>, firmaların marka görünürlüğünü artırmak için
               kullandığı en ekonomik promosyon ürünlerinden biridir. Üzerine logo,
               slogan, firma adı veya iletişim bilgisi basılarak dağıtılan bu ürünler,
               özellikle yüksek adetli kampanyalarda çok sık tercih edilir. Düşük
@@ -421,6 +421,6 @@ export default function Page() {
           </div>
         </article>
       </section>
-    </main>
+    </div>
   );
 }

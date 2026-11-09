@@ -84,14 +84,14 @@ export const guides = [
   },
   {
     slug: "reklam-kalemleri",
-    title: "Reklam Kalemleri Nedir? 2026 Detaylı Rehber",
-    desc: "Reklam kalemleri nedir, neden kullanılır ve firmalara ne kazandırır? Logo baskı, model ve kullanım alanlarıyla kapsamlı rehber.",
+    title: "Reklam Kalemleri: Fuar ve Toplu Dağıtım Planlaması",
+    desc: "Reklam kalemleri için fuar adedi, model seçimi, okunaklı logo, paketleme, teslim ve kampanya takibini adım adım planlayın.",
     image: "/guides/reklam-kalemleri.jpg",
   },
   {
     slug: "kurumsal-kalem",
-    title: "Kurumsal Kalem Nedir? 2026 Detaylı Rehber",
-    desc: "Kurumsal kalem nedir, neden tercih edilir ve firmalara ne kazandırır? Logo baskı, model seçimi ve kullanım alanlarıyla kapsamlı rehber.",
+    title: "Kurumsal Kalem: Hediye, İsim Baskısı ve Set Seçimi",
+    desc: "Kurumsal hediye kalemi seçerken yazım, logo ve isim uygulaması, kutu, set uyumu, alıcı başına bütçe ve teslim kontrolünü değerlendirin.",
   },
   {
     slug: "promosyon-rubber-kalem",

@@ -9,7 +9,7 @@ const GUIDE_IMAGE = "/guides/promosyon-kalem-nedir.jpg";
 export const metadata: Metadata = {
   title: "Promosyon Kalem Nedir? Logo Baskılı Kalem Rehberi",
   description:
-    "Promosyon kalem nedir, firmalar neden tercih eder? Logo baskılı promosyon kalemlerin avantajları, kullanım alanları, kalem seçimi, baskı süreci ve marka bilinirliğine katkısı hakkında kapsamlı rehber.",
+    "Promosyon kalem nedir? Logo baskılı kalemin kullanım amaçlarını, plastik, metal ve dokunmatik türlerini ve ilk seçimde dikkat edilecek temel noktaları öğrenin.",
   alternates: {
     canonical: PAGE_URL,
   },
@@ -146,7 +146,7 @@ export default function PromosyonKalemNedirPage() {
   };
 
   return (
-    <main className="bg-gray-50">
+    <div className="bg-gray-50">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
@@ -330,7 +330,7 @@ export default function PromosyonKalemNedirPage() {
                   </p>
 
                   <h3 className="text-lg font-bold text-gray-900">
-                    Plastik Promosyon Kalem
+                    <Link href="/promosyon-plastik-kalem" className="font-semibold text-blue-600 underline">Plastik Promosyon Kalem</Link>
                   </h3>
                   <p>
                     Plastik promosyon kalem modelleri, ekonomik yapıları sayesinde
@@ -340,7 +340,7 @@ export default function PromosyonKalemNedirPage() {
                   </p>
 
                   <h3 className="text-lg font-bold text-gray-900">
-                    Metal Promosyon Kalem
+                    <Link href="/promosyon-metal-kalem" className="font-semibold text-blue-600 underline">Metal Promosyon Kalem</Link>
                   </h3>
                   <p>
                     Metal promosyon kalemler daha prestijli bir görünüm sunar.
@@ -349,7 +349,7 @@ export default function PromosyonKalemNedirPage() {
                   </p>
 
                   <h3 className="text-lg font-bold text-gray-900">
-                    Dokunmatik Promosyon Kalem
+                    <Link href="/promosyon-dokunmatik-kalem" className="font-semibold text-blue-600 underline">Dokunmatik Promosyon Kalem</Link>
                   </h3>
                   <p>
                     Dokunmatik uçlu kalemler, klasik kalem kullanımını telefon ve
@@ -385,45 +385,14 @@ export default function PromosyonKalemNedirPage() {
               </section>
 
               <section>
-                <h2 className="text-2xl font-extrabold text-gray-900">
-                  Promosyon Kalem Seçerken Nelere Dikkat Edilmelidir?
-                </h2>
-
-                <div className="mt-5 space-y-5">
-                  {[
-                    {
-                      title: "Hedef Kitle",
-                      text: "Kalemin kimlere dağıtılacağı model seçimini doğrudan etkiler. Fuar ziyaretçisi, yönetici, öğrenci veya kurumsal müşteri için farklı ürünler tercih edilebilir.",
-                    },
-                    {
-                      title: "Ürün Kalitesi",
-                      text: "Kalemin yazım kalitesi, malzeme yapısı ve elde bıraktığı his marka algısını etkiler. Kaliteli ürün, markanın daha profesyonel görünmesine yardımcı olur.",
-                    },
-                    {
-                      title: "Baskı Alanı",
-                      text: "Logo veya marka adının net görünmesi için baskı alanı yeterli olmalıdır. Ürünün yüzeyi, baskı tekniğiyle uyumlu seçilmelidir.",
-                    },
-                    {
-                      title: "Sipariş Adedi",
-                      text: "Toplu siparişlerde ürün maliyeti değişebilir. Dağıtım planına göre doğru adet belirlemek, bütçenin daha verimli kullanılmasını sağlar.",
-                    },
-                    {
-                      title: "Kurumsal İmaj",
-                      text: "Ekonomik dağıtımlar için plastik kalemler, daha prestijli sunumlar için metal veya özel tasarımlı kalemler tercih edilebilir.",
-                    },
-                  ].map((item, index) => (
-                    <div
-                      key={item.title}
-                      className="rounded-2xl border border-gray-200 bg-gray-50 p-5"
-                    >
-                      <h3 className="text-lg font-extrabold text-gray-900">
-                        {index + 1}. {item.title}
-                      </h3>
-                      <p className="mt-2 text-sm leading-7 text-gray-700 md:text-base">
-                        {item.text}
-                      </p>
-                    </div>
-                  ))}
+                <h2 className="text-2xl font-extrabold text-gray-900">İlk Kalem Seçiminde Hangi Bilgiler Gerekir?</h2>
+                <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
+                  <p>Kalemin kimlere verileceğini, yaklaşık adedi, ihtiyaç tarihini ve logo dosyasını belirleyin. Sonra yazım, gövde ve baskı alanını karşılaştırın. Ürün fiyatının baskı ve ambalajı içerip içermediğini teyit edin.</p>
+                  <p>Genel model elemesi için <Link href="/rehber/promosyon-kalem-secerken-nelere-dikkat-edilmeli" className="font-semibold text-blue-600 underline">kalem seçim kriterlerini</Link>{" "} inceleyebilirsiniz. Bu yazı temel kavramları tanıtır; ayrıntılı kararlar aşağıdaki kullanım amacına göre ele alınır.</p>
+                  <ul className="list-disc space-y-2 pl-6">
+                    <li>Fuar ve kampanya hazırlığı: <Link href="/rehber/reklam-kalemleri" className="font-semibold text-blue-600 underline">reklam kalemleri dağıtım planı</Link>.</li>
+                    <li>Müşteri veya çalışan hediyesi: <Link href="/rehber/kurumsal-kalem" className="font-semibold text-blue-600 underline">kurumsal hediye kalemi ve set seçimi</Link>.</li>
+                  </ul>
                 </div>
               </section>
 
@@ -580,7 +549,7 @@ export default function PromosyonKalemNedirPage() {
                     <li>Promosyon kalem nedir?</li>
                     <li>Firmalar neden tercih eder?</li>
                     <li>Kalem türleri nelerdir?</li>
-                    <li>Seçim yaparken nelere dikkat edilmeli?</li>
+                    <li>İlk seçim için hangi bilgiler gerekir?</li>
                     <li>Marka bilinirliğine katkısı nedir?</li>
                   </ul>
                 </div>
@@ -606,6 +575,6 @@ export default function PromosyonKalemNedirPage() {
           </div>
         </article>
       </section>
-    </main>
+    </div>
   );
 }

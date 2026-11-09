@@ -156,7 +156,7 @@ export default function PromosyonRubberKalemPage() {
   };
 
   return (
-    <main className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
+    <div className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
@@ -592,8 +592,14 @@ export default function PromosyonRubberKalemPage() {
                 destekleyebilir.
               </p>
               <p>
-                Siz de markanıza uygun promosyon rubber kalem modellerini incelemek,
-                hedef kitlenize en uygun seçeneği belirlemek ve kurumsal teklif almak
+                Siz de markanıza uygun{" "}
+                <Link
+                  href="/promosyon-rubber-kalem"
+                  className="font-semibold underline"
+                >
+                  promosyon rubber kalem modellerini
+                </Link>{" "}
+                incelemek, hedef kitlenize en uygun seçeneği belirlemek ve kurumsal teklif almak
                 istiyorsanız ilgili kategori sayfalarını ziyaret edebilir ve ihtiyaçlarınıza
                 göre en uygun promosyon kalem çözümlerini değerlendirebilirsiniz.
               </p>
@@ -617,6 +623,6 @@ export default function PromosyonRubberKalemPage() {
           </section>
         </div>
       </article>
-    </main>
+    </div>
   );
 }

@@ -4,7 +4,7 @@ import Link from "next/link";
 const pageUrl =
   "https://www.firmapromosyon.com/rehber/plastik-kalem-mi-metal-kalem-mi-daha-mantikli";
 const title =
-  "Plastik Kalem mi Metal Kalem mi Daha Mantıklı? | Firma Promosyon";
+  "Plastik Kalem mi Metal Kalem mi Daha Mantıklı?";
 const description =
   "Plastik kalem mi metal kalem mi daha mantıklı sorusunun cevabını kullanım alanı, bütçe, hedef kitle, baskı kalitesi ve kurumsal imaj açısından detaylıca inceleyin. Promosyon kalem seçiminde doğru kararı verin.";
 
@@ -137,7 +137,7 @@ export default function PlastikKalemMiMetalKalemMiPage() {
   };
 
   return (
-    <main className="bg-white">
+    <div className="bg-white">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -244,7 +244,7 @@ export default function PlastikKalemMiMetalKalemMiPage() {
 
           <h2>Plastik kalemlerin öne çıkan avantajları</h2>
           <p>
-            <strong>Promosyon plastik kalem</strong> modelleri özellikle yüksek
+            <Link href="/promosyon-plastik-kalem" className="font-semibold text-red-600 underline">Promosyon plastik kalem</Link> modelleri özellikle yüksek
             adetli siparişlerde oldukça avantajlıdır. Birim maliyetinin daha
             düşük olması, firmalara aynı bütçeyle daha fazla kişiye ulaşma
             fırsatı verir. Bu yüzden plastik kalemler; fuarlar, okul
@@ -271,7 +271,7 @@ export default function PlastikKalemMiMetalKalemMiPage() {
 
           <h2>Metal kalemlerin öne çıkan avantajları</h2>
           <p>
-            <strong>Promosyon metal kalem</strong> modelleri ise daha güçlü bir
+            <Link href="/promosyon-metal-kalem" className="font-semibold text-red-600 underline">Promosyon metal kalem</Link> modelleri ise daha güçlü bir
             kurumsal algı oluşturmak isteyen firmalar için öne çıkar. Metal
             kalem elde tutulduğunda daha tok, daha kaliteli ve daha prestijli
             hissedilir. Bu da özellikle VIP müşteri görüşmeleri, yönetici
@@ -544,6 +544,6 @@ export default function PlastikKalemMiMetalKalemMiPage() {
           </div>
         </section>
       </section>
-    </main>
+    </div>
   );
 }

@@ -112,7 +112,7 @@ export default function Page() {
         name: "En ucuz promosyon kalem türü hangisidir?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Genellikle en ucuz promosyon kalem türü plastik gövdeli modellerdir. Üretim maliyeti daha düşük olduğu için toplu dağıtımlarda ekonomik çözüm sunar.",
+          text: "Plastik gövdeli sade modeller ekonomik seçenekler sunabilir. En uygun model aynı adet, baskı ve ambalaj koşullarında alınan tekliflerle belirlenir.",
         },
       },
       {
@@ -120,7 +120,7 @@ export default function Page() {
         name: "En ekonomik baskı yöntemi hangisidir?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Çoğu durumda en ekonomik baskı yöntemi tek renk tampon baskıdır. Özellikle plastik promosyon kalemlerde maliyet avantajı sağlar.",
+          text: "Tek renk, tek yön tampon baskı uygun yüzeylerde ekonomik olabilir; en uygun yöntem adet, logo, baskı alanı ve varsa hazırlık bedeline göre belirlenir.",
         },
       },
       {
@@ -128,7 +128,7 @@ export default function Page() {
         name: "Toplu sipariş verince kalem fiyatı düşer mi?",
         acceptedAnswer: {
           "@type": "Answer",
-          text: "Evet, sipariş adedi arttıkça birim maliyet genellikle düşer. Çünkü baskı hazırlığı ve üretim maliyetleri daha fazla ürüne yayılır.",
+          text: "Adet indirimi ve sabit hazırlık bedelinin daha fazla ürüne bölünmesi birim maliyeti düşürebilir; toplam sipariş bedeli ayrıca hesaplanmalıdır.",
         },
       },
       {
@@ -143,7 +143,7 @@ export default function Page() {
   };
 
   return (
-    <main className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
+    <div className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
@@ -207,46 +207,51 @@ export default function Page() {
             <h2 className="text-2xl font-extrabold">
               En Ucuz Promosyon Kalem Türü Hangisi?
             </h2>
-
             <div className="mt-4 space-y-4 text-gray-700 leading-7">
               <p>
-                En uygun fiyatlı promosyon kalemler genellikle plastik kalemlerdir.
-                Plastik gövdeli kalemler üretim maliyeti düşük olduğu için en
-                ekonomik seçenek olarak öne çıkar.
+                <Link href="/promosyon-plastik-kalem" className="font-semibold text-blue-600 underline">
+                  Plastik promosyon kalemler
+                </Link>{" "}
+                ekonomik seçenekler sunabilir. Fuar, etkinlik ve geniş katılımlı
+                dağıtımlarda sade gövde yapısına sahip modeller karşılaştırılabilir.
+                Ancak her plastik modelin her metal modelden ucuz olduğu varsayılmamalıdır.
               </p>
-
               <p>
-                Özellikle fuar, etkinlik, okul dağıtımı gibi alanlarda tercih edilen
-                bu kalemler, düşük maliyetle yüksek adetli dağıtım yapılmasını sağlar.
+                Aynı adet ve baskı koşullarında gövde, yazım mekanizması, mürekkep,
+                ambalaj ve kişiselleştirme özelliklerini birlikte değerlendirin.
+                En düşük baskısız ürün fiyatı, baskı dahil en düşük toplam bedel
+                anlamına gelmeyebilir.
               </p>
-
               <p>
-                Metal kalemler ise daha pahalıdır ancak daha prestijli görünür.
-                Bu yüzden “en ucuz” kategorisine girmezler.
+                Metal bir seçenek de değerlendiriyorsanız malzeme farklarını{" "}
+                <Link href="/rehber/plastik-kalem-mi-metal-kalem-mi-daha-mantikli" className="font-semibold text-blue-600 underline">
+                  plastik ve metal kalem karşılaştırmasından
+                </Link>{" "}
+                inceleyebilirsiniz. Buradaki seçim ölçütü dağıtım amacına uygun
+                kalemi bütçe içinde bulmaktır.
               </p>
             </div>
           </section>
 
           <section>
             <h2 className="text-2xl font-extrabold">
-              Fiyatı Düşüren En Önemli Faktör: Adet
+              Sipariş Adedi Birim Maliyeti Nasıl Etkiler?
             </h2>
-
             <div className="mt-4 space-y-4 text-gray-700 leading-7">
               <p>
-                Promosyon kalem fiyatlarını en çok etkileyen faktör sipariş adedidir.
-                Adet arttıkça birim fiyat düşer.
+                Sipariş adedi arttığında varsa baskı hazırlığı ve kalıp bedeli daha
+                fazla ürüne bölünür. Adet indirimi de uygulanıyorsa birim maliyet
+                düşebilir. Bu avantaj modele, stoğa ve baskı uygulamasına göre değişir.
               </p>
-
               <p>
-                Örneğin 300 adet siparişte pahalı görünen bir kalem, 3000 adet
-                siparişte çok daha uygun hale gelir.
+                Birim maliyet ile toplam ödeme farklıdır. 300 adet yerine 3.000 adet
+                sipariş vermek birim fiyatı düşürebilir; ancak toplam ödemenizi artırabilir.
+                İhtiyaç fazlası ürün almak yerine gerçek dağıtım adedini belirleyin.
               </p>
-
               <p>
-                Bu yüzden mümkünse toplu sipariş vermek her zaman avantaj sağlar.
-                Özellikle düzenli promosyon dağıtımı yapan firmalar için bu yöntem
-                bütçe açısından daha verimlidir.
+                Karar vermeden önce aynı model ve baskı koşullarında iki farklı adet
+                için teklif isteyin. Birim fiyatın yanında baskı dahil toplam bedeli,
+                stok durumunu ve teslim süresini karşılaştırın.
               </p>
             </div>
           </section>
@@ -255,22 +260,26 @@ export default function Page() {
             <h2 className="text-2xl font-extrabold">
               Baskı Türü Fiyatı Nasıl Etkiler?
             </h2>
-
             <div className="mt-4 space-y-4 text-gray-700 leading-7">
               <p>
-                En ucuz baskı yöntemi genellikle tampon baskıdır. Tek renk baskılar
-                maliyet açısından en avantajlı seçenektir.
+                Tek renk, tek yön tampon baskı uygun yüzeylerde ekonomik bir seçenek
+                olabilir. Ancak en uygun yöntem; adet, renk sayısı, baskı alanı,
+                kalıp veya hazırlık bedeli ve seçilen kalem üzerinden belirlenir.
               </p>
-
               <p>
-                UV baskı ve lazer baskı ise daha pahalıdır ancak daha kaliteli
-                görünüm sağlar.
+                UV baskı renkli logolar için, lazer işleme ise uygun metal yüzeyler
+                için değerlendirilebilir. Bu yöntemleri her siparişte daha pahalı
+                veya daha kaliteli kabul etmek yerine aynı modelin uygulanabilir
+                baskı seçenekleri üzerinden teklif alın.
               </p>
-
               <p>
-                Eğer bütçeniz sınırlıysa, tek renk tampon baskı tercih etmek en
-                mantıklı seçenektir. Baskı yönü ve renk sayısı arttıkça maliyetin
-                de yükseleceği unutulmamalıdır.
+                Logonun okunaklı kalacağı en sade uygulamayı seçin; sırf maliyeti
+                düşürmek için okunamayacak kadar küçük baskı yaptırmayın. Yöntemlerin
+                farklarını{" "}
+                <Link href="/rehber/promosyon-kalemlerde-baski-turleri-nelerdir" className="font-semibold text-blue-600 underline">
+                  kalem baskı türleri rehberinde
+                </Link>{" "}
+                inceleyebilirsiniz.
               </p>
             </div>
           </section>
@@ -279,22 +288,17 @@ export default function Page() {
             <h2 className="text-2xl font-extrabold">
               En Ucuz Kalemi Seçerken Yapılan Hatalar
             </h2>
-
             <div className="mt-4 space-y-4 text-gray-700 leading-7">
+              <ul className="list-disc space-y-2 pl-6">
+                <li>Baskısız ürün fiyatını baskı dahil teklif ile karşılaştırmak.</li>
+                <li>Kalıp, hazırlık, ambalaj ve kargo bedellerini hesaba katmamak.</li>
+                <li>KDV dahil ve hariç fiyatları aynı kapsamdaymış gibi değerlendirmek.</li>
+                <li>Yazım, mekanizma ve logo okunaklılığını kontrol etmeden sipariş vermek.</li>
+                <li>Birim fiyatı düşürmek için ihtiyaçtan fazla ürün almak.</li>
+              </ul>
               <p>
-                Sadece en ucuz kalemi seçmek büyük bir hatadır. Kalitesiz bir kalem,
-                markanızın kötü algılanmasına neden olabilir.
-              </p>
-
-              <p>
-                Ayrıca kötü yazan kalemler genellikle çöpe atılır ve reklam etkisi
-                sıfıra iner.
-              </p>
-
-              <p>
-                Bu yüzden fiyat ile kalite dengesi kurulmalıdır. Uygun fiyatlı ama
-                işlevsel ve kabul edilebilir kalite sunan modeller her zaman daha
-                doğru tercihtir.
+                Mümkünse numune veya baskı örneği inceleyin. Ekonomik bir kalemin de
+                rahat yazması, mekanizmasının çalışması ve logonuzu okunaklı taşıması gerekir.
               </p>
             </div>
           </section>
@@ -303,21 +307,26 @@ export default function Page() {
             <h2 className="text-2xl font-extrabold">
               En Uygun Fiyatlı Kalem Nasıl Seçilir?
             </h2>
-
             <div className="mt-4 space-y-4 text-gray-700 leading-7">
               <p>
-                En doğru seçim, hem uygun fiyatlı hem de kullanılabilir kalemdir.
-                Orta segment plastik kalemler genellikle en mantıklı tercihtir.
+                İki veya üç aday modeli aynı adet, baskı yönü, renk sayısı ve ambalaj
+                koşullarında karşılaştırın. Ürün kodunu ve logo dosyasını paylaşarak
+                hangi uygulamaların fiyata dahil olduğunu yazılı olarak netleştirin.
               </p>
-
               <p>
-                Ayrıca doğru tedarikçi ile çalışmak da maliyetleri düşürür.
+                <strong>Baskı dahil birim maliyet:</strong> Ürün birim bedeli + ayrıca
+                alınan birim baskı bedeli + sabit hazırlık bedelinin sipariş adedine
+                düşen payı. Baskı ürün fiyatına dahilse ikinci kez eklenmez.
               </p>
-
               <p>
-                Toplu sipariş vererek birim fiyatı düşürebilirsiniz. Bunun yanında
-                baskı türünü sade tutmak ve gereksiz ekstra uygulamalardan kaçınmak
-                da toplam maliyeti azaltır.
+                <strong>Sipariş toplamı:</strong> Adet ile baskı dahil birim maliyetin
+                çarpımına, ayrıca alınan ambalaj ve kargo ile uygulanacak KDV eklenir.
+                KDV dahil bir teklif kullanıyorsanız vergiyi tekrar eklemeyin.
+                Fiyatın nasıl oluştuğunu ayrıntılı incelemek için{" "}
+                <Link href="/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir" className="font-semibold text-blue-600 underline">
+                  promosyon kalem maliyet hesabı rehberine
+                </Link>{" "}
+                geçebilirsiniz.
               </p>
             </div>
           </section>
@@ -326,23 +335,36 @@ export default function Page() {
             <h2 className="text-2xl font-extrabold">
               En Ekonomik Promosyon Kalem İçin İdeal Strateji
             </h2>
-
             <div className="mt-4 space-y-4 text-gray-700 leading-7">
               <p>
-                En ekonomik promosyon kalem seçimi için ürün modeli, baskı türü,
-                sipariş adedi ve hedef kitle birlikte değerlendirilmelidir.
-                Sadece fiyat odaklı değil, kullanım ömrü ve marka temsili de
-                düşünülmelidir.
+                Önce dağıtım adedini ve baskı dahil bütçenizi belirleyin. Bu bütçe
+                içinde yazım ve mekanizma beklentinizi karşılayan modeli seçin;
+                ardından logoya uygun baskı seçeneklerini karşılaştırın.
               </p>
-
               <p>
-                Eğer amaç geniş kitleye dağıtım yapmaksa sade plastik kalemler
-                ve tek renk baskı çoğu zaman en verimli kombinasyondur. Böylece
-                hem bütçe korunur hem de yeterli görünürlük elde edilir.
+                Ürün seçimi tamamlandığında stok, baskı onayı, teslim tarihi ve
+                ödeme koşullarını teyit edin. Sipariş hazırlığını{" "}
+                <Link href="/rehber/promosyon-kalem-toptan" className="font-semibold text-blue-600 underline">
+                  toplu kalem siparişi rehberindeki
+                </Link>{" "}
+                adımlarla kontrol edebilirsiniz. Böylece ekonomik seçim yalnızca
+                etiket fiyatına değil, kullanılabilir ürüne ve toplam bedele dayanır.
               </p>
             </div>
           </section>
         </div>
+
+        <section className="mt-10 rounded-2xl border border-gray-200 bg-gray-50 p-5">
+          <h2 className="text-2xl font-extrabold">Sık Sorulan Sorular</h2>
+          <div className="mt-5 space-y-5 text-gray-700 leading-7">
+            {faqSchema.mainEntity.map((item) => (
+              <div key={item.name}>
+                <h3 className="font-semibold text-gray-900">{item.name}</h3>
+                <p className="mt-2">{item.acceptedAnswer.text}</p>
+              </div>
+            ))}
+          </div>
+        </section>
 
         <div className="mt-10 rounded-2xl border border-gray-200 bg-gray-50 p-5">
           <h3 className="font-bold text-lg">İlgili Kategoriler</h3>
@@ -382,6 +404,6 @@ export default function Page() {
           </Link>
         </div>
       </article>
-    </main>
+    </div>
   );
 }
