@@ -87,7 +87,7 @@ export default function PromosyonKalemlerdeBaskiTurleriNelerdirPage() {
   };
 
   return (
-    <main className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
+    <div className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
@@ -473,6 +473,6 @@ export default function PromosyonKalemlerdeBaskiTurleriNelerdirPage() {
           </section>
         </div>
       </article>
-    </main>
+    </div>
   );
 }

@@ -161,7 +161,7 @@ export default function Page() {
   };
 
   return (
-    <main className="bg-white">
+    <div className="bg-white">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
@@ -586,6 +586,6 @@ export default function Page() {
           </div>
         </article>
       </section>
-    </main>
+    </div>
   );
 }

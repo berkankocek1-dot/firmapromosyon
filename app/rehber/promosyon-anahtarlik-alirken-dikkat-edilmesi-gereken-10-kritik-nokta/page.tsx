@@ -12,6 +12,29 @@ const IMAGE_PATH =
   "/guides/promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 
+const FAQ_ITEMS = [
+  {
+    "question": "Promosyon anahtarlık numunesinde neler kontrol edilmeli?",
+    "answer": "Halkanın kapanışı, bağlantı parçasının sağlamlığı, kenarların pürüzsüzlüğü, eldeki ağırlık ve baskı yüzeyi incelenmelidir. Dijital tasarım onayı fiziksel numunenin yerini tutmaz; numunenin baskılı olup olmadığı ayrıca sorulmalıdır."
+  },
+  {
+    "question": "Anahtarlığa hangi baskı yöntemi uygulanır?",
+    "answer": "Uygun yöntem seçilen modelin malzemesine ve yüzeyine bağlıdır. Lazer, UV baskı veya gofre her modele uygulanamaz. Logo dosyasıyla birlikte baskı alanı, renk beklentisi ve tek ya da çift yüz uygulaması teyit edilmelidir."
+  },
+  {
+    "question": "Minimum sipariş adedi kaçtır?",
+    "answer": "Minimum adet modele, stok durumuna ve baskı uygulamasına göre değişir. Ürün sayfasındaki güncel bilgi ve yazılı teklif esas alınmalıdır; bütün anahtarlıklar için ortak bir minimum adet yoktur."
+  },
+  {
+    "question": "İki anahtarlık teklifi nasıl karşılaştırılır?",
+    "answer": "Aynı model, adet, baskı yüzü ve ambalaj koşulları karşılaştırılmalıdır. Ürün, baskı, varsa hazırlık bedeli, KDV ve kargonun dahil olup olmadığı ayrı ayrı kontrol edilmelidir."
+  },
+  {
+    "question": "Teslim tarihi hangi aşamaya göre belirlenmeli?",
+    "answer": "Stok teyidi, tasarım onayı ve varsa numune onayı için gereken süreler hesaba katılmalıdır. Kargoya veriliş tarihi ile ürünün teslim alınması beklenen tarih ayrı ayrı netleştirilmelidir."
+  }
+];
+
 export const metadata: Metadata = {
   title: TITLE,
   description: DESCRIPTION,
@@ -89,7 +112,7 @@ export default function Page() {
     },
     image: [IMAGE_URL],
     datePublished: "2026-04-13",
-    dateModified: "2026-04-13",
+    dateModified: "2026-11-09",
   };
 
   const breadcrumbSchema = {
@@ -120,63 +143,26 @@ export default function Page() {
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: "Promosyon anahtarlık alırken en önemli konu nedir?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Promosyon anahtarlık alırken en önemli konu ürünün kalite seviyesi ile marka görünürlüğünü destekleyecek baskı kalitesinin dengeli olmasıdır. Çok ucuz ama dayanıksız ürünler marka algısını olumsuz etkileyebilir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Promosyon anahtarlıkta hangi malzeme daha uygundur?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Doğru malzeme hedef kitleye ve kullanım amacına göre değişir. Plastik anahtarlıklar ekonomik dağıtımlar için, metal ve deri görünümlü modeller ise daha kurumsal ve premium sunumlar için tercih edilebilir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Promosyon anahtarlık fiyatlarını hangi faktörler etkiler?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Malzeme türü, model, baskı yöntemi, sipariş adedi, teslim süresi, ürün boyutu ve özel üretim talepleri promosyon anahtarlık fiyatlarını etkileyen başlıca unsurlardır.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Promosyon anahtarlık her sektör için uygun mudur?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Promosyon anahtarlık birçok sektör için etkili olabilir ancak her hedef kitle için en doğru seçenek olmayabilir. Ürün seçiminde kullanım alışkanlığı ve sektörel uyum mutlaka dikkate alınmalıdır.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Minimum sipariş adedi kaçtır?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Minimum sipariş adedi modele ve üretim yapısına göre değişebilir. Birçok promosyon anahtarlık modelinde 100, 250 veya 500 adet gibi minimum sipariş aralıkları görülebilir.",
-        },
-      },
-    ],
+    mainEntity: FAQ_ITEMS.map(({ question, answer }) => ({
+      "@type": "Question",
+      name: question,
+      acceptedAnswer: { "@type": "Answer", text: answer },
+    })),
   };
 
   return (
-    <main className="bg-white">
+    <div className="bg-white">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema).replace(/</g, "\\u003c") }}
       />
 
       <section className="border-b border-gray-100 bg-gray-50">
@@ -292,24 +278,12 @@ export default function Page() {
             </section>
 
             <section>
-              <h2>1. Ürün kalitesi mutlaka değerlendirilmelidir</h2>
+              <h2>1. Numunede halka ve bağlantı parçalarını kontrol edin</h2>
               <p>
-                Promosyon anahtarlık alırken dikkat edilmesi gereken ilk konu ürünün
-                genel kalite seviyesidir. Çok düşük kaliteli ürünler kısa sürede
-                çizilebilir, anahtarlık halkası gevşeyebilir, baskı yüzeyi zarar
-                görebilir veya ürün genel olarak dayanıksız his verebilir. Bu gibi
-                durumlar ürünün reklam etkisini düşürdüğü gibi markanızın profesyonel
-                görünümüne de zarar verebilir.
+                Ürünü yalnız katalog fotoğrafıyla değerlendirmeyin. Numunede anahtar halkasının kapanışını, gövdeyle halka arasındaki bağlantıyı, kenarlardaki pürüzleri ve elde taşıma rahatlığını kontrol edin. Ağır bir gövdenin her kullanıcı için daha kullanışlı olacağını varsaymayın.
               </p>
               <p>
-                Özellikle anahtarlık gibi sürekli taşınan ürünlerde dayanıklılık büyük
-                önem taşır. Çünkü ürün fiziksel temas, çanta içi sürtünme, cebin içinde
-                hareket etme veya sert yüzeylerle temas gibi günlük kullanımlara açık
-                bir yapıdadır. Dayanıksız bir ürün kısa sürede yıpranabilir.
-              </p>
-              <p>
-                Bu yüzden <Link href="/promosyon-anahtarlik">promosyon anahtarlık</Link> seçiminde yalnızca fiyat odaklı değil,
-                ürünün gerçek kullanım ömrü ve marka temsil gücü odaklı düşünmek gerekir.
+                Numunenin seri üretimle aynı malzeme, renk ve kaplamaya sahip olup olmadığını sorun. Baskısız bir numune ürün hissini gösterebilir; baskının okunurluğunu ve yüzeydeki görünümünü ayrıca değerlendirmek gerekir.
               </p>
             </section>
 
@@ -336,25 +310,12 @@ export default function Page() {
             </section>
 
             <section>
-              <h2>3. Baskı kalitesi en az ürün kadar önemlidir</h2>
+              <h2>3. Baskı yöntemini seçilen yüzeyle birlikte doğrulayın</h2>
               <p>
-                Promosyon anahtarlığın asıl tanıtım gücü, üzerindeki baskı ile ortaya
-                çıkar. Ürünün kendisi kaliteli olsa bile baskı silik, dağınık, çabuk
-                aşınan veya okunması zor bir yapıdaysa reklam etkisi önemli ölçüde
-                azalır. Bu nedenle yalnızca ürüne değil, baskı kalitesine de dikkat
-                edilmelidir.
+                Her anahtarlık aynı uygulamayı kabul etmez. Lazer, UV baskı veya gofre seçeneklerinin uygunluğu gövdeye, kaplamaya ve baskı yüzeyine göre teyit edilmelidir. Lazer uygulamasının renkli logo baskısıyla aynı sonucu vereceğini varsaymayın.
               </p>
               <p>
-                Logo, marka adı veya kısa iletişim bilgisi ürün üzerinde net ve dengeli
-                görünmelidir. Çok küçük yazılar, aşırı detaylı logolar veya fazla
-                kalabalık tasarımlar küçük yüzeylerde istenen netliği vermeyebilir.
-                Özellikle promosyon anahtarlık gibi kompakt ürünlerde sade ve güçlü
-                tasarım çoğu zaman daha profesyonel görünür.
-              </p>
-              <p>
-                Baskı kalitesi yüksek olduğunda kullanıcı ürüne baktığında markayı
-                net biçimde algılar. Bu da hatırlanabilirlik açısından büyük avantaj
-                sağlar.
+                Teklif öncesinde tek ya da çift yüz uygulaması, baskı ölçüsü ve logo renk beklentisini yazılı hale getirin. Seri üretime geçmeden önce yerleşimi ve okunurluğu onaylayın; fiziksel baskılı numune gerekiyorsa bedelini ve hazırlık süresini ayrıca sorun.
               </p>
             </section>
 
@@ -427,85 +388,42 @@ export default function Page() {
             </section>
 
             <section>
-              <h2>7. Sipariş adedi ile maliyet dengesi iyi kurulmalıdır</h2>
+              <h2>7. Adedi gerçek dağıtım planıyla eşleştirin</h2>
               <p>
-                Promosyon anahtarlık fiyatları çoğu zaman sipariş adedine göre değişir.
-                Adet yükseldikçe birim maliyet daha avantajlı hale gelebilir. Bu nedenle
-                yalnızca anlık ihtiyaca göre değil, kampanya planınıza göre toplam
-                adet düşünülmelidir.
+                Hedef alıcı sayısını, dağıtım tarihlerini ve gerekiyorsa yedek payını birlikte planlayın. Yalnız birim fiyatı düşürmek için kullanılmayacak miktarda ürün almak toplam harcamayı artırabilir. Minimum adet bütün modellerde aynı değildir.
               </p>
               <p>
-                Çok düşük adetler bazı ürünlerde ekonomik olmayabilir. Buna karşılık
-                daha yüksek adetli siparişler hem maliyet avantajı sağlayabilir hem de
-                daha geniş görünürlük oluşturabilir. Özellikle fuar, kampanya, mağaza
-                açılışı veya kurumsal dağıtım için ürün kullanılacaksa siparişi baştan
-                buna göre planlamak daha mantıklıdır.
-              </p>
-              <p>
-                Yani sadece “kaç adet gerekiyor?” değil, “hangi adet aralığında daha
-                doğru maliyet elde edilir?” sorusu da düşünülmelidir.
+                İhtiyacınıza yakın iki adet seçeneği için aynı baskı ve ambalaj koşullarıyla teklif isteyin. Birim tutarın yanında toplam ödeme tutarını da karşılaştırın. Fiyat kalemlerini ayrıntılı incelemek için <Link href="/rehber/promosyon-anahtarlik-fiyatlari">promosyon anahtarlık fiyatları rehberine</Link> bakabilirsiniz.
               </p>
             </section>
 
             <section>
-              <h2>8. Tasarım sade ve okunabilir olmalıdır</h2>
+              <h2>8. Tasarımı gerçek baskı ölçüsünde inceleyin</h2>
               <p>
-                Promosyon anahtarlıklarda baskı alanı sınırlı olduğu için tasarımın
-                sade olması önemlidir. Çok detaylı logolar, küçük yazılar, uzun sloganlar
-                veya kalabalık grafikler ürün üzerinde beklenen netliği vermeyebilir.
+                Gövdenin dış ölçüsü ile baskı yapılabilen alan aynı olmayabilir. Logonun uygulanabileceği net alanı isteyin ve tasarımı bu ölçüde değerlendirin. Telefon ekranında büyütülmüş bir görsel, küçük harflerin üründe okunacağını göstermez.
               </p>
               <p>
-                En iyi sonuç için kullanıcıyı yormayan, markayı net şekilde gösteren,
-                kısa ve okunabilir bir tasarım kullanılmalıdır. Çoğu zaman sadece logo
-                ve kısa marka adı kullanmak, çok fazla bilgi eklemekten daha güçlü
-                sonuç verir.
-              </p>
-              <p>
-                Çünkü amaç ürün üzerinde profesyonel ve temiz bir görünüm oluşturmaktır.
-                Karmaşık tasarımlar küçük ürünlerde değer katmak yerine görünümü
-                zayıflatabilir.
+                Mümkünse vektörel logo dosyası paylaşın; kullanılacak dosya biçimini uygulayıcıyla teyit edin. İnce çizgileri, küçük harfleri ve zeminle logo arasındaki kontrastı kontrol edin. Onaylanan yerleşimde hangi yüzün basılacağını açıkça belirtin.
               </p>
             </section>
 
             <section>
-              <h2>9. Teslim süresi ve üretim planı göz ardı edilmemelidir</h2>
+              <h2>9. Onay, üretim ve sevkiyat tarihlerini ayırın</h2>
               <p>
-                Promosyon ürünlerde zamanlama çok önemlidir. Fuar, kampanya, açılış,
-                bayi dağıtımı veya belirli bir etkinlik için anahtarlık siparişi
-                veriliyorsa teslim süresi doğru planlanmalıdır. Son dakikada verilen
-                siparişler model seçimini daraltabilir veya kalite üzerinde baskı
-                oluşturabilir.
+                Etkinlik tarihinden geriye doğru plan yapın. Stok teyidi, logo hazırlığı, tasarım onayı, varsa numune, üretim ve kargo aşamalarını ayrı değerlendirin. Tüm modeller için geçerli sabit bir teslim süresi kabul etmeyin.
               </p>
               <p>
-                Bu nedenle ürün seçimi yapılırken tedarik süresi, baskı hazırlık
-                aşaması ve sevkiyat planı birlikte düşünülmelidir. Özellikle özel
-                üretim veya premium ürün taleplerinde daha erken hareket etmek çok
-                daha sağlıklı olur.
-              </p>
-              <p>
-                Kısacası doğru promosyon anahtarlığı seçmek kadar, doğru zamanda
-                teslim alınacak şekilde süreci yönetmek de önemlidir.
+                Teklifte belirtilen sürenin hangi onaydan sonra başladığını sorun. Kargoya veriliş günü ile ürünün elinize geçmesi beklenen gün aynı değildir. Belirli bir tarihte dağıtım yapılacaksa gerekli teslim adresini ve planı sipariş öncesinde paylaşın.
               </p>
             </section>
 
             <section>
-              <h2>10. Yalnızca fiyata değil toplam reklam değerine bakılmalıdır</h2>
+              <h2>10. Teklif kapsamını ve teslim kontrolünü yazılı belirleyin</h2>
               <p>
-                Promosyon anahtarlık siparişi verirken en sık yapılan hata, sadece
-                en düşük fiyatı hedeflemektir. Oysa gerçek değer yalnızca ürünün
-                birim fiyatında değil; kullanım süresinde, görünümünde, işlevselliğinde
-                ve markaya sağladığı toplam faydada gizlidir.
+                İki teklifi aynı ürün, adet, baskı yüzü ve ambalajla karşılaştırın. Ürün bedeli, baskı, varsa hazırlık veya kalıp bedeli, KDV ve kargo kapsamını kontrol edin. Kutu veya tekli ambalaj gerekiyorsa dahil olup olmadığını sorun.
               </p>
               <p>
-                Çok ucuz bir ürün kısa sürede kırılıyorsa, baskısı siliniyorsa veya
-                kullanıcı tarafından elde tutulmuyorsa aslında ucuz değil, verimsiz
-                olabilir. Buna karşılık biraz daha dengeli bir seçim çok daha uzun
-                süre görünürlük sağlayabilir.
-              </p>
-              <p>
-                Bu yüzden teklif karşılaştırırken sadece “kaç liraya geliyor?” diye
-                bakmak yerine “bu ürün markama ne kadar katkı sağlar?” sorusunu da
-                sormak gerekir.
+                Siparişte model, renk, adet, onaylı logo yerleşimi ve ambalaj bilgisi kayıtlı olsun. Ürünler geldiğinde bu bilgilerle karşılaştırın; adet, bağlantı parçaları ve baskı yerleşimini kontrol edin. Hatalı veya eksik ürün bildirim sürecini de sipariş öncesinde netleştirin.
               </p>
             </section>
 
@@ -563,52 +481,19 @@ export default function Page() {
                 düşünmek gerekir.
               </p>
               <p>
-                Daha fazla bilgi için{" "}
-                <Link href="/rehber/promosyon-anahtarlik-nedir">
-                  promosyon anahtarlık nedir
-                </Link>{" "}
-                rehberini ve ileride hazırlanacak{" "}
-                <Link href="/rehber/promosyon-anahtarlik-nedir">
-                  logo baskılı promosyon anahtarlık rehberi
-                </Link>{" "}
-                içeriğini de inceleyebilirsiniz.
+                Ürünün kullanımını tanımak için <Link href="/rehber/promosyon-anahtarlik-nedir">promosyon anahtarlık nedir</Link> rehberini,
+                model seçeneklerini karşılaştırmak için <Link href="/promosyon-anahtarlik">anahtarlık kategorisini</Link> inceleyebilirsiniz.
               </p>
             </section>
 
             <section>
               <h2>Sık Sorulan Sorular</h2>
-
-              <h3>Promosyon anahtarlık alırken en çok neye dikkat edilmeli?</h3>
-              <p>
-                En çok dikkat edilmesi gereken konu kalite ile baskı dengesidir.
-                Ürün hem dayanıklı olmalı hem de markayı iyi temsil edecek görünümde
-                olmalıdır.
-              </p>
-
-              <h3>Plastik mi metal mi promosyon anahtarlık daha iyidir?</h3>
-              <p>
-                Bu tamamen hedef kitleye ve kullanım amacına bağlıdır. Ekonomik
-                kampanyalarda plastik, daha kurumsal ve prestijli sunumlarda metal
-                modeller daha uygun olabilir.
-              </p>
-
-              <h3>Promosyon anahtarlıkta işlevsellik önemli midir?</h3>
-              <p>
-                Evet. Açacak, jeton veya ışık gibi ek işlevler ürünün elde tutulma
-                süresini artırabilir.
-              </p>
-
-              <h3>Promosyon anahtarlık yerine başka ürün seçilebilir mi?</h3>
-              <p>
-                Evet. Hedef kitleye göre kalem, çakmak, termos veya USB bellek gibi
-                ürünler daha uygun olabilir.
-              </p>
-
-              <h3>Promosyon anahtarlık fiyatı neden değişir?</h3>
-              <p>
-                Malzeme türü, model, baskı yöntemi, adet ve teslim süresi gibi
-                detaylar fiyatı doğrudan etkiler.
-              </p>
+              {FAQ_ITEMS.map(({ question, answer }) => (
+                <div key={question}>
+                  <h3>{question}</h3>
+                  <p>{answer}</p>
+                </div>
+              ))}
             </section>
           </div>
 
@@ -666,6 +551,6 @@ export default function Page() {
           </div>
         </article>
       </section>
-    </main>
+    </div>
   );
 }

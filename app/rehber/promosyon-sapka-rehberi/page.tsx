@@ -190,7 +190,7 @@ export default function PromosyonSapkaRehberiPage() {
   };
 
   return (
-    <main className="bg-gray-50 text-gray-900">
+    <div className="bg-gray-50 text-gray-900">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
@@ -888,6 +888,6 @@ export default function PromosyonSapkaRehberiPage() {
           </div>
         </article>
       </section>
-    </main>
+    </div>
   );
 }

@@ -12,6 +12,29 @@ const TITLE =
 const DESCRIPTION =
   "Promosyon çakmak alırken nelere dikkat edilmeli? Ürün kalitesi, baskı türü, model seçimi, sipariş adedi, teslim süresi ve fiyat dengesi hakkında detaylı rehber.";
 
+const FAQ_ITEMS = [
+  {
+    "question": "Çakmak numunesi siparişi onaylamak için yeterli mi?",
+    "answer": "Numune modelin boyutunu, yüzeyini ve kullanım hissini değerlendirmeye yardımcı olur. Baskısız numune logo sonucunu göstermez. Siparişte model, renk, baskı yüzü ve yerleşim ayrıca yazılı olarak onaylanmalıdır."
+  },
+  {
+    "question": "Taşlı, manyetolu ve turbo aynı özellik midir?",
+    "answer": "Bu adlar tek bir özelliği anlatmaz. Ateşleme mekanizması, alev yapısı ve doldurulabilme durumu ayrı ayrı kontrol edilmelidir. Bir modelin adından diğer özellikleri çıkarılmamalıdır."
+  },
+  {
+    "question": "Her çakmağa çift yön baskı yapılabilir mi?",
+    "answer": "İki yüzün de uygulamaya uygunluğu seçilen modele bağlıdır. Baskı alanları, yerleşim ve her yüzdeki tasarım teyit edilmeli; çift yön uygulamasının fiyat kapsamı yazılı teklifte belirtilmelidir."
+  },
+  {
+    "question": "Minimum sipariş adedi bütün modellerde aynı mı?",
+    "answer": "Hayır. Güncel adet koşulu model, stok ve baskı uygulamasına göre değişebilir. Ürün açıklaması ve yazılı teklif esas alınmalıdır."
+  },
+  {
+    "question": "Çakmak teklifinde hangi bilgiler bulunmalı?",
+    "answer": "Model, gövde rengi, adet, baskı yöntemi, basılacak yüzler, varsa hazırlık bedeli, ambalaj, KDV ve kargo kapsamı ile onay ve sevkiyat planı açıkça belirtilmelidir."
+  }
+];
+
 export const metadata: Metadata = {
   title: TITLE,
   description: DESCRIPTION,
@@ -89,7 +112,7 @@ export default function Page() {
     },
     image: [IMAGE_URL],
     datePublished: "2026-04-13",
-    dateModified: "2026-04-13",
+    dateModified: "2026-11-09",
   };
 
   const breadcrumbSchema = {
@@ -120,63 +143,26 @@ export default function Page() {
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: "Promosyon çakmak alırken en önemli konu nedir?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Promosyon çakmak alırken en önemli konu ürünün kalite seviyesi ile baskı kalitesinin dengeli olmasıdır. Çok ucuz ama kalitesiz ürünler marka imajını olumsuz etkileyebilir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Promosyon çakmakta hangi baskı türü tercih edilmelidir?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Baskı tercihi ürün yüzeyine, logo tasarımına ve hedeflenen görünüme göre değişir. UV baskı, tampon baskı veya serigrafi gibi yöntemler modele göre tercih edilebilir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Promosyon çakmak fiyatlarını hangi faktörler etkiler?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Ürün modeli, gövde kalitesi, baskı türü, baskı yönü, sipariş adedi, teslim süresi ve özel talepler promosyon çakmak fiyatlarını etkileyen başlıca unsurlardır.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Promosyon çakmak her sektör için uygun mudur?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Promosyon çakmak birçok sektör için etkili bir tanıtım ürünü olabilir ancak her hedef kitle için en doğru seçenek olmayabilir. Sektör, dağıtım alanı ve kullanıcı profili dikkate alınmalıdır.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Minimum sipariş adedi kaçtır?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Minimum sipariş adedi modele göre değişir. Birçok promosyon çakmak modelinde 100, 250 veya 500 adet gibi minimum baskı ve üretim adetleri görülebilir.",
-        },
-      },
-    ],
+    mainEntity: FAQ_ITEMS.map(({ question, answer }) => ({
+      "@type": "Question",
+      name: question,
+      acceptedAnswer: { "@type": "Answer", text: answer },
+    })),
   };
 
   return (
-    <main className="bg-white">
+    <div className="bg-white">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema).replace(/</g, "\\u003c") }}
       />
 
       <section className="border-b border-gray-100 bg-gray-50">
@@ -229,32 +215,11 @@ export default function Page() {
             </div>
 
             <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
-              <Link href="/promosyon-cakmak" className="font-semibold text-red-600 hover:underline"><strong className="text-gray-900">Promosyon çakmak</strong></Link>, düşük
-              maliyetle yüksek görünürlük sağlayabilen en etkili promosyon
-              ürünlerinden biridir. Küçük boyutlu olması, kolay taşınması ve günlük
-              hayatta tekrar tekrar kullanılabilmesi nedeniyle firmalar tarafından
-              sık tercih edilir. Ancak doğru model seçilmediğinde, baskı kalitesi
-              yetersiz olduğunda veya hedef kitleye uygun bir ürün tercih
-              edilmediğinde beklenen reklam etkisi oluşmayabilir. Bu nedenle
-              promosyon çakmak siparişi vermeden önce bazı temel noktaları dikkatle
-              değerlendirmek gerekir.
-            </p>
-
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
-              Bir promosyon ürününün başarılı olması için yalnızca ucuz olması
-              yeterli değildir. Ürünün kullanışlı olması, firmanızın kurumsal
-              kimliğini düzgün yansıtması, baskının okunaklı görünmesi ve dağıtım
-              sonrası kullanıcı tarafından elde tutulması gerekir. Özellikle{" "}
-              <strong className="text-gray-900">logo baskılı promosyon çakmak</strong>{" "}
-              seçiminde kalite, fiyat ve görünüm dengesinin iyi kurulması çok
-              önemlidir.
-            </p>
-
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
-              Bu rehberde promosyon çakmak satın alma sürecinde dikkat edilmesi
-              gereken 10 kritik noktayı detaylı biçimde ele alacağız. Böylece hem
-              bütçenize uygun hem de marka görünürlüğünü güçlendirecek daha doğru
-              bir seçim yapabilirsiniz.
+              <Link href="/promosyon-cakmak" className="font-semibold text-red-600 hover:underline">Promosyon çakmak</Link>
+              siparişinde yalnız gövde rengi ve fiyatı karşılaştırmak yeterli değildir.
+              Mekanizma, alev yapısı, baskı alanı ve sevkiyat planı aynı model üzerinden
+              netleştirilmelidir. Bu rehber, teklif istemeden önce ve sipariş onayında
+              kontrol edilecek on somut noktayı bir araya getirir.
             </p>
           </header>
 
@@ -271,338 +236,73 @@ export default function Page() {
             "
           >
             <section>
-              <h2>Neden doğru promosyon çakmak seçimi önemlidir?</h2>
-              <p>
-                Promosyon çakmak ilk bakışta basit bir tanıtım ürünü gibi
-                görünebilir. Ancak gerçekte bu ürün, markanızın sahadaki küçük ama
-                sürekli görünen temsilcilerinden biridir. Kullanıcı ürünü cebinde
-                taşıyabilir, aracında bulundurabilir, masa üzerinde bırakabilir veya
-                çevresiyle paylaşabilir. Bu da markanızın tek bir kişiye değil,
-                dolaylı olarak daha geniş bir çevreye görünmesini sağlayabilir.
-              </p>
-              <p>
-                Bu nedenle seçilen ürünün kalitesiz olması, baskısının kötü
-                görünmesi veya kullanıcı beklentisini karşılamaması doğrudan marka
-                algısını etkileyebilir. Doğru seçilmiş bir promosyon çakmak ise
-                küçük maliyetle uzun süreli reklam gücü yaratabilir.
-              </p>
+              <h2>1. Dağıtım ortamını ve kullanıcı ihtiyacını belirleyin</h2>
+              <p>Ürünün kimlere ve hangi ortamda verileceğini netleştirin. Yetişkin kullanıcıların ihtiyacıyla ilgisi olmayan bir dağıtımda, çakmak yerine farklı bir ürün seçmek daha uygun olabilir. Etkinlik veya teslim noktasının ürün kabul koşullarını da önceden sorun.</p>
+              <p>Dağıtımın tek etkinlikte mi yoksa farklı tarihlerde mi yapılacağı, adet ve ambalaj planını etkiler. Sadece geniş kitleye ulaşma hedefi, belirli bir modelin uygunluğunu göstermez.</p>
             </section>
 
             <section>
-              <h2>1. Ürün kalitesi mutlaka kontrol edilmelidir</h2>
-              <p>
-                Promosyon çakmak alırken ilk dikkat edilmesi gereken konu ürünün
-                genel kalite seviyesidir. Çok düşük kaliteli çakmaklar kısa sürede
-                bozulabilir, ateşleme performansı zayıf olabilir ya da kullanım
-                sırasında kötü bir his verebilir. Bu gibi durumlar ürünün reklam
-                etkisini düşürdüğü gibi markanızın profesyonel algısına da zarar
-                verebilir.
-              </p>
-              <p>
-                Özellikle toplu sipariş verilen promosyon ürünlerinde yalnızca birim
-                fiyat odaklı hareket etmek çoğu zaman doğru sonuç vermez. Uygun
-                fiyat önemli olsa da ürünün hissiyatı, dayanıklılığı, gövde yapısı ve
-                kullanım konforu birlikte değerlendirilmelidir. Kullanıcı eline
-                aldığı üründe kalite hissederse, marka algısı da olumlu etkilenir.
-              </p>
-              <p>
-                Kısacası promosyon çakmak seçiminde “en ucuz ürün” yerine “fiyatına
-                göre en dengeli ürün” mantığı daha doğru sonuç verir.
-              </p>
+              <h2>2. Mekanizma ile alev yapısını ayrı kontrol edin</h2>
+              <p>Taşlı veya manyetolu ifadesi ile turbo ifadesini aynı özellik gibi değerlendirmeyin. Seçtiğiniz modelin ateşleme mekanizmasını ve alev yapısını ürün açıklamasından teyit edin; yalnız fotoğrafa göre karar vermeyin.</p>
+              <p><Link href="/promosyon-tasli-cakmak">Taşlı çakmak</Link>, <Link href="/promosyon-manyetolu-cakmak">manyetolu çakmak</Link> ve <Link href="/promosyon-turbo-cakmak">turbo çakmak</Link> seçeneklerini karşılaştırırken her modelin kendi teknik bilgilerini esas alın.</p>
             </section>
 
             <section>
-              <h2>2. Baskı kalitesi en az ürün kadar önemlidir</h2>
-              <p>
-                Promosyon çakmağın tanıtım gücü, üzerinde yer alan baskı ile ortaya
-                çıkar. Ürünün gövdesi ne kadar iyi olursa olsun, baskı silik,
-                dağılmış, yamuk veya kısa sürede silinecek yapıdaysa reklam etkisi
-                zayıflar. Bu nedenle yalnızca ürün modeline değil, baskı kalitesine
-                de dikkat edilmelidir.
-              </p>
-              <p>
-                Logo, marka adı, iletişim bilgisi veya slogan gibi unsurlar ürün
-                üzerinde net ve dengeli görünmelidir. Çok küçük, karmaşık veya okunması
-                zor tasarımlar baskı sonrasında verimsiz sonuç verebilir. Özellikle
-                promosyon çakmak gibi baskı alanı sınırlı ürünlerde sade ve net
-                tasarım daha güçlü görünür.
-              </p>
-              <p>
-                Uygulanacak baskı türü de önemlidir. Bazı modellerde UV baskı daha
-                iyi sonuç verebilirken bazı ürünlerde tampon baskı veya farklı
-                uygulamalar tercih edilebilir. Buradaki amaç, tasarımın ürüne en
-                temiz ve en uzun ömürlü biçimde aktarılmasıdır.
-              </p>
+              <h2>3. Doldurulabilirlik ve boyut bilgisini doğrulayın</h2>
+              <p>Bir ürünün metal görünümlü, turbo veya büyük gövdeli olması doldurulabilir olduğunu kanıtlamaz. Doldurulabilirlik isteniyorsa bu özellik model açıklamasında ve teklifte açıkça yer almalıdır.</p>
+              <p>Dış ölçü, elde tutuş ve taşıma rahatlığını birlikte değerlendirin. <Link href="/promosyon-doldurulabilir-cakmak">Doldurulabilir çakmak</Link> ve <Link href="/promosyon-mini-cakmak">mini çakmak</Link> sayfaları farklı ihtiyaçları karşılaştırmak için başlangıç olabilir.</p>
             </section>
 
             <section>
-              <h2>3. Doğru model seçimi hedef kitleye göre yapılmalıdır</h2>
-              <p>
-                Her promosyon çakmak aynı kullanıcıya hitap etmez. Bazı modeller
-                ekonomik dağıtım için uygundur, bazıları ise daha modern ya da daha
-                prestijli görünüm sunar. Bu yüzden sipariş vermeden önce ürünün hangi
-                kitleye dağıtılacağı netleştirilmelidir.
-              </p>
-              <p>
-                Örneğin çok yüksek adetli kampanya dağıtımlarında daha ekonomik
-                modeller mantıklı olabilir. Buna karşılık daha seçilmiş müşteri
-                grubuna veya kurumsal temsil amaçlı dağıtım yapılacaksa daha şık
-                yüzeye sahip ürünler değerlendirilebilir. Bazı firmalar taşlı
-                modelleri tercih ederken bazıları elektronik çakmakları daha modern
-                bulabilir.
-              </p>
-              <p>
-                Buradaki kritik nokta, ürünün sizin reklam amacınıza ve kullanıcı
-                profiline uygun olmasıdır. Doğru model seçimi, ürünün elde tutulma
-                süresini ve marka görünürlüğünü artırabilir.
-              </p>
+              <h2>4. Numuneyi hangi özellik için istediğinizi belirtin</h2>
+              <p>Numune talebinde model kodunu ve rengi belirtin. Gövde yüzeyini, elde tutuşu, kaplama görünümünü ve kumanda parçalarını değerlendirin. Tek numunenin tüm siparişin kalite güvencesi yerine geçmediğini dikkate alın.</p>
+              <p>Numunenin baskılı mı baskısız mı olduğunu, bedelini ve hazırlanma süresini sorun. Kullanım kontrolünde üreticinin talimatlarını esas alın; tasarım görseli ürünün fiziksel özelliklerini doğrulamaz.</p>
             </section>
 
             <section>
-              <h2>4. Hedef sektör ve kullanım alanı mutlaka düşünülmelidir</h2>
-              <p>
-                Promosyon çakmak birçok sektör için uygun olabilir; ancak her
-                işletme için otomatik olarak en iyi promosyon ürünü anlamına gelmez.
-                Bu nedenle önce sektörünüzü, hedef kitlenizi ve dağıtım senaryonuzu
-                düşünmek gerekir.
-              </p>
-              <p>
-                Özellikle restoranlar, kafeler, oteller, beach işletmeleri, açık
-                hava etkinlikleri, konser organizasyonları, eğlence mekanları ve
-                hızlı saha dağıtımı yapan markalar için promosyon çakmak güçlü bir
-                seçenek olabilir. Çünkü ürün bu alanlarda daha doğal bir kullanım
-                karşılığı bulabilir.
-              </p>
-              <p>
-                Buna karşılık daha ofis odaklı veya masa başı kullanıma yönelik
-                hedef kitlelerde <Link href="/promosyon-kalem">promosyon kalem</Link>{" "}
-                ya da <Link href="/promosyon-anahtarlik">promosyon anahtarlık</Link>{" "}
-                gibi ürünler daha uygun olabilir. Premium kurumsal hediye
-                çalışmalarında ise{" "}
-                <Link href="/promosyon-termos">promosyon termos</Link> veya{" "}
-                <Link href="/promosyon-usb-bellek">promosyon USB bellek</Link>{" "}
-                daha güçlü alternatifler arasında yer alabilir.
-              </p>
+              <h2>5. Baskı yöntemini gövde ve logo ile eşleştirin</h2>
+              <p>UV, tampon veya diğer uygulamalar her gövdeye aynı şekilde uygulanamaz. Yüzey, kaplama ve tasarımın renk yapısı seçilen model için değerlendirilmelidir. Yöntemi yalnız daha ucuz olduğu varsayımıyla seçmeyin.</p>
+              <p>Logonun renkli mi tek renk mi uygulanacağını ve beklenen görünümü paylaşın. Vektörel dosya varsa iletin; dosya biçimini ve uygunluğunu baskıyı yapacak tarafla teyit edin.</p>
             </section>
 
             <section>
-              <h2>5. Sipariş adedi ile birim maliyet dengesi iyi kurulmalıdır</h2>
-              <p>
-                Promosyon çakmak fiyatları çoğu zaman sipariş adedine göre değişir.
-                Adet yükseldikçe birim maliyet daha avantajlı hale gelebilir. Bu
-                nedenle yalnızca anlık ihtiyaca göre değil, kampanya planınıza göre
-                toplam adet düşünülmelidir.
-              </p>
-              <p>
-                Çok düşük adetler bazı modellerde ekonomik olmayabilir. Buna karşılık
-                daha yüksek adetli siparişler toplu alım avantajı sağlayabilir. Eğer
-                ürün fuar, etkinlik, saha dağıtımı, bayi ağı veya dönemsel kampanya
-                için kullanılacaksa siparişi baştan buna göre planlamak daha verimli
-                olur.
-              </p>
-              <p>
-                Yani “kaç adet lazım?” sorusu kadar “hangi adet aralığında daha doğru
-                fiyat alınır?” sorusu da önemlidir. Böylece hem bütçenizi korur hem
-                de daha sağlıklı teklif karşılaştırması yapabilirsiniz.
-              </p>
+              <h2>6. Tek yüz ve çift yüz baskıyı açıkça tarif edin</h2>
+              <p>Gövdenin dış ölçüsü kullanılabilir baskı alanıyla aynı değildir. Her yüz için net uygulama alanını isteyin. Bir yüzde logo, diğer yüzde iletişim bilgisi olacaksa bunu tasarımda ve teklifte ayrı belirtin.</p>
+              <p>Tasarımı gerçek baskı boyutunda inceleyin. Küçük harflerin, ince çizgilerin ve logonun zeminle kontrastının okunabilirliğini kontrol edin. İki yüzün de uygulamaya uygun olduğunu önceden teyit edin.</p>
             </section>
 
             <section>
-              <h2>6. Baskı alanı ve tasarım okunabilir olmalıdır</h2>
-              <p>
-                Promosyon çakmakta baskı alanı sınırlı olduğu için tasarım seçimi çok
-                önemlidir. Çok detaylı logolar, ince yazılar veya küçük puntoyla
-                yazılmış iletişim bilgileri baskıda istenen netliği vermeyebilir.
-              </p>
-              <p>
-                En iyi sonuç için sade, net ve baskı yüzeyine uygun bir tasarım
-                kullanılmalıdır. Çoğu zaman yalnızca logo ve kısa marka adı kullanmak,
-                uzun açıklamalar veya fazla grafik öğe koymaktan daha etkili olur.
-                Çünkü amaç ürün üzerinde temiz ve profesyonel bir görünüm oluşturmaktır.
-              </p>
-              <p>
-                Baskı alanı verimli kullanılmadığında ürün bir reklam aracından çok
-                kalabalık bir yüzeye dönüşebilir. Bu da kullanıcı tarafında dikkat
-                çekmek yerine itici bir görünüm yaratabilir.
-              </p>
+              <h2>7. Renk ve logo yerleşimini onay kaydına ekleyin</h2>
+              <p>Fotoğraftaki renk ile mevcut stok renginin aynı olduğunu varsaymayın. Sipariş rengini modelle birlikte yazılı belirtin. Kesin renk beklentisi varsa yalnız ekran görüntüsü üzerinden onay vermek yerine uygulanabilecek teyit yöntemini sorun.</p>
+              <p>Tasarım onayında baskının yönü, ölçüsü, hangi yüzde yer aldığı ve gövde rengi görülsün. Logo dosyası veya metin değişirse son sürüm için yeniden onay verin.</p>
             </section>
 
             <section>
-              <h2>7. Kurumsal renk uyumu göz ardı edilmemelidir</h2>
-              <p>
-                Promosyon ürünlerde renk seçimi yalnızca görsel tercih değildir;
-                aynı zamanda marka kimliğinin uzantısıdır. Firmanızın kurumsal
-                renkleriyle uyumlu gövde ve baskı kombinasyonu seçildiğinde ürün çok
-                daha profesyonel görünür.
-              </p>
-              <p>
-                Örneğin baskı rengi ile ürün gövdesi arasında yeterli kontrast yoksa
-                logo okunmayabilir. Aynı şekilde marka renginiz ürün yüzeyinde kötü
-                duruyorsa tasarım etkisini kaybedebilir. Bu yüzden hem estetik hem
-                okunabilirlik açısından doğru kombinasyon tercih edilmelidir.
-              </p>
-              <p>
-                Renk uyumu güçlü olan promosyon ürünleri, marka hatırlanabilirliğini
-                artırma konusunda daha başarılı olabilir.
-              </p>
+              <h2>8. Adedi ve teklif kapsamını birlikte karşılaştırın</h2>
+              <p>Minimum adet model ve uygulamaya göre değişebilir. İhtiyacınıza yakın iki miktar için aynı baskı koşullarıyla teklif isteyin; kullanılmayacak fazladan ürünün toplam harcamaya etkisini hesaba katın.</p>
+              <p>Ürün, baskı, varsa hazırlık veya kalıp bedeli, ambalaj, KDV ve kargo kapsamını karşılaştırın. Maliyet kalemleri için <Link href="/rehber/promosyon-cakmak-fiyatlari">çakmak fiyatları rehberine</Link> geçebilirsiniz.</p>
             </section>
 
             <section>
-              <h2>8. Tedarikçi ve üretim süreci güven vermelidir</h2>
-              <p>
-                Promosyon çakmak alırken dikkat edilmesi gereken bir diğer kritik konu
-                da çalışılacak firmanın güvenilirliğidir. Ürün kalitesi kadar sipariş
-                yönetimi, baskı doğruluğu, iletişim hızı ve teslim güveni de önemlidir.
-              </p>
-              <p>
-                Özellikle yüksek adetli işlerde üretim öncesi detayların netleşmesi
-                gerekir. Renk seçeneği, baskı yönü, baskı alanı, minimum sipariş
-                miktarı, teslim süresi ve varsa numune beklentisi baştan konuşulmalıdır.
-                Bu sayede süreç içinde sürpriz yaşanma ihtimali azalır.
-              </p>
-              <p>
-                Kurumsal siparişlerde en büyük sorunlardan biri, ürünün zamanında
-                teslim edilmemesi veya beklenen baskı kalitesinin sağlanmamasıdır.
-                Bu yüzden güven veren tedarik yapısı, uygun fiyat kadar değerlidir.
-              </p>
+              <h2>9. Tasarım onayı ile sevkiyat tarihini ayırın</h2>
+              <p>Stok teyidi, tasarım hazırlığı, varsa numune ve üretim aşamalarını etkinlik tarihinden geriye doğru planlayın. Teklifteki sürenin hangi onaydan sonra başladığını ve stokta olmayan rengin plana etkisini sorun.</p>
+              <p>Kargoya veriliş günü teslim alınacak gün değildir. Teslim adresini, ambalaj koşullarını ve bu ürünün seçilen taşıma hizmetiyle gönderilebilirliğini siparişten önce teyit edin. Kesinleşmemiş bir süreyi etkinlik taahhüdü olarak kullanmayın.</p>
             </section>
 
             <section>
-              <h2>9. Teslim süresi kampanya planına göre hesaplanmalıdır</h2>
-              <p>
-                Promosyon ürünlerde zamanlama çok kritiktir. Bir fuar, lansman,
-                etkinlik, açılış veya özel kampanya için çakmak siparişi veriliyorsa
-                teslim süresinin iyi planlanması gerekir. Son dakikada verilen siparişler,
-                ürün seçimini daraltabilir veya baskı kalitesi üzerinde baskı oluşturabilir.
-              </p>
-              <p>
-                Bu nedenle sipariş öncesinde ürünün tedarik süresi, baskı hazırlık
-                aşaması ve sevkiyat planı düşünülmelidir. Özellikle yüksek adetli
-                siparişlerde veya özel baskı taleplerinde daha erken planlama yapmak
-                çok daha sağlıklı olur.
-              </p>
-              <p>
-                Kısacası doğru promosyon ürününü seçmek kadar, doğru zamanda teslim
-                edilecek şekilde süreci yönetmek de önemlidir.
-              </p>
-            </section>
-
-            <section>
-              <h2>10. Yalnızca fiyata değil toplam faydaya bakılmalıdır</h2>
-              <p>
-                Promosyon çakmak siparişi verirken en sık yapılan hata, sadece en
-                düşük fiyatı hedeflemektir. Oysa gerçek değer yalnızca ürünün birim
-                fiyatında değil; kullanım süresinde, baskı kalitesinde, görünümünde
-                ve markaya sağladığı toplam faydada gizlidir.
-              </p>
-              <p>
-                Çok ucuz bir ürün kısa sürede bozuluyorsa, baskısı çabuk siliniyorsa
-                veya kullanıcı tarafından elde tutulmuyorsa o ürün aslında ucuz değil,
-                verimsiz olabilir. Buna karşılık biraz daha dengeli bir seçim çok daha
-                uzun süre reklam gücü sağlayabilir.
-              </p>
-              <p>
-                Bu yüzden teklif karşılaştırırken sadece “birim fiyat kaç?” sorusunu
-                değil, “bu ürün markama ne kadar katkı sağlar?” sorusunu da sormak
-                gerekir.
-              </p>
-            </section>
-
-            <section>
-              <h2>Promosyon çakmak alırken kısa kontrol listesi</h2>
-              <ul>
-                <li>Ürün kalitesi yeterli mi?</li>
-                <li>Baskı net ve uzun ömürlü görünüyor mu?</li>
-                <li>Seçilen model hedef kitleye uygun mu?</li>
-                <li>Sipariş adedi maliyet açısından mantıklı mı?</li>
-                <li>Tasarım baskı alanına uygun mu?</li>
-                <li>Kurumsal renklerle uyum var mı?</li>
-                <li>Tedarik süreci güven veriyor mu?</li>
-                <li>Teslim tarihi kampanya takvimine uygun mu?</li>
-                <li>Ürün sadece ucuz mu, yoksa gerçekten verimli mi?</li>
-                <li>Alternatif promosyon ürünleri de değerlendirildi mi?</li>
-              </ul>
-            </section>
-
-            <section>
-              <h2>Promosyon çakmak kimler için daha uygundur?</h2>
-              <p>
-                Promosyon çakmak özellikle sahada hızlı görünürlük isteyen, geniş
-                kitleye ulaşmak isteyen ve düşük maliyetle yüksek adetli tanıtım
-                yapmak isteyen firmalar için uygundur. Restoranlar, kafeler, oteller,
-                eğlence sektöründeki işletmeler, organizasyon firmaları ve kampanya
-                dağıtımı yapan markalar için etkili bir ürün olabilir.
-              </p>
-              <p>
-                Ancak her sektör için ilk tercih promosyon çakmak olmak zorunda
-                değildir. Kullanım senaryosuna göre başka ürünlerin daha verimli
-                olabileceği unutulmamalıdır.
-              </p>
-            </section>
-
-            <section>
-              <h2>Sonuç: doğru seçim daha güçlü reklam etkisi sağlar</h2>
-              <p>
-                Promosyon çakmak alırken dikkat edilmesi gereken en önemli konu,
-                ürünün yalnızca dağıtılacak bir eşya değil, markayı temsil edecek bir
-                araç olduğunun farkında olmaktır. Kalite, baskı, tasarım, hedef kitle
-                uyumu, adet planlaması ve teslim süresi birlikte değerlendirildiğinde
-                çok daha doğru sonuç alınır.
-              </p>
-              <p>
-                İyi seçilmiş bir promosyon çakmak; markanızın daha fazla kişiye
-                ulaşmasına, daha uzun süre görünür kalmasına ve daha profesyonel bir
-                izlenim bırakmasına yardımcı olabilir. Bu nedenle satın alma kararını
-                verirken kısa vadeli değil, toplam tanıtım etkisini düşünmek gerekir.
-              </p>
-              <p>
-                Daha fazla bilgi için{" "}
-                <Link href="/rehber/promosyon-cakmak-nedir">
-                  promosyon çakmak nedir
-                </Link>{" "}
-                rehberini ve{" "}
-                <Link href="/rehber/promosyon-cakmak-fiyatlari">
-                  promosyon çakmak fiyatları
-                </Link>{" "}
-                içeriğini de inceleyebilirsiniz.
-              </p>
+              <h2>10. Gelen ürünleri yazılı siparişle karşılaştırın</h2>
+              <p>Teslimde model, renk, adet ve baskı yerleşimini onay kaydıyla karşılaştırın. Ambalajda veya üründe görülen sorunları kaydedin; eksik ya da hatalı ürün bildirim sürecini sipariş öncesinde öğrenin.</p>
+              <p>Teklifleri ve tasarım onayının son sürümünü saklayın. Ürünün tanımı için <Link href="/rehber/promosyon-cakmak-nedir">promosyon çakmak nedir</Link> rehberi, satın alma kararından ayrı bir başlangıç kaynağıdır.</p>
             </section>
 
             <section>
               <h2>Sık Sorulan Sorular</h2>
-
-              <h3>Promosyon çakmak alırken en çok neye dikkat edilmeli?</h3>
-              <p>
-                En çok dikkat edilmesi gereken konu kalite ve baskı dengesidir.
-                Ürünün hem düzgün çalışması hem de markayı iyi yansıtacak baskı
-                kalitesine sahip olması gerekir.
-              </p>
-
-              <h3>Ucuz promosyon çakmak almak mantıklı mı?</h3>
-              <p>
-                Sadece fiyat odaklı seçim yapmak her zaman doğru değildir. Çok ucuz
-                ama kalitesiz ürünler marka imajına zarar verebilir. Dengeli ürün
-                seçimi daha doğru sonuç verir.
-              </p>
-
-              <h3>Promosyon çakmakta hangi model daha iyidir?</h3>
-              <p>
-                Bunun tek cevabı yoktur. Ekonomik kampanya dağıtımlarında farklı,
-                daha seçilmiş kurumsal kullanımlarda farklı modeller uygun olabilir.
-                Hedef kitleye göre karar verilmelidir.
-              </p>
-
-              <h3>Promosyon çakmak yerine başka ürün seçilebilir mi?</h3>
-              <p>
-                Evet. Sektöre ve kullanım alanına göre promosyon kalem, anahtarlık,
-                termos veya USB bellek gibi ürünler daha uygun olabilir.
-              </p>
-
-              <h3>Promosyon çakmak fiyatı neden değişir?</h3>
-              <p>
-                Model, kalite, baskı türü, baskı yönü, adet ve teslim süresi gibi
-                detaylar fiyatı doğrudan etkiler.
-              </p>
+              {FAQ_ITEMS.map(({ question, answer }) => (
+                <div key={question}>
+                  <h3>{question}</h3>
+                  <p>{answer}</p>
+                </div>
+              ))}
             </section>
           </div>
 
@@ -660,6 +360,6 @@ export default function Page() {
           </div>
         </article>
       </section>
-    </main>
+    </div>
   );
 }

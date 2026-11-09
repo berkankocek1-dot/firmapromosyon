@@ -6,9 +6,32 @@ const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-cakmak-fiyatlari`;
 const IMAGE_PATH = "/guides/promosyon-cakmak-fiyatlari.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
-const TITLE = "Promosyon Çakmak Fiyatları 2026 | Logo Baskılı Detaylı Rehber";
+const TITLE = "Promosyon Çakmak Fiyatları | Baskı ve Toplam Maliyet Rehberi";
 const DESCRIPTION =
-  "Promosyon çakmak fiyatları 2026 rehberi. Logo baskılı çakmak fiyatları, baskı türleri, adet bazlı maliyet hesaplama, model farkları ve fiyatı etkileyen tüm detayları öğrenin.";
+  "Logo baskılı çakmak teklifinde ürün, baskı, adet ve hazırlık bedelini ayırın. Birim fiyat ile toplam sipariş tutarını aynı kapsamda karşılaştırın.";
+
+const FAQ_ITEMS = [
+  {
+    "question": "Promosyon çakmak fiyatı baskı dahil midir?",
+    "answer": "Her teklifte aynı kapsam geçerli değildir. Gösterilen tutarın baskısız ürün mü, belirli bir baskı uygulaması dahil ürün mü olduğunu ve hangi adet için verildiğini kontrol edin."
+  },
+  {
+    "question": "Adet arttığında toplam tutar düşer mi?",
+    "answer": "Birim tutar bazı koşullarda azalabilir; ancak daha fazla ürün alınacağı için toplam ödeme artabilir. İki miktarı aynı model ve baskı koşullarıyla karşılaştırmak gerekir."
+  },
+  {
+    "question": "UV baskı mı tampon baskı mı daha ucuzdur?",
+    "answer": "Tek bir yöntem her siparişte daha ucuz kabul edilemez. Model yüzeyi, tasarım, renk, adet, basılacak yüzler ve varsa hazırlık bedeli birlikte fiyatlandırılmalıdır."
+  },
+  {
+    "question": "Çift yön baskı fiyatı iki katına mı çıkarır?",
+    "answer": "Bunun sabit bir oranı yoktur. İkinci yüzün hazırlık ve uygulama bedeli teklifte ayrıca belirlenmelidir. İki yüzde aynı veya farklı tasarım kullanılması da belirtilmelidir."
+  },
+  {
+    "question": "Net fiyat almak için hangi bilgiler gerekir?",
+    "answer": "Model kodu veya ürün bağlantısı, adet, gövde rengi, logo dosyası, basılacak yüzler, teslim adresi, istenen tarih ve ambalaj beklentisi paylaşılmalıdır. Teklifin geçerlilik süresi de sorulmalıdır."
+  }
+];
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -23,7 +46,7 @@ export const metadata: Metadata = {
     "tampon baskı çakmak fiyatı",
     "UV baskı çakmak fiyatı",
     "adet bazlı çakmak maliyeti",
-    "promosyon çakmak 2026",
+    "promosyon çakmak teklif karşılaştırma",
   ],
   alternates: {
     canonical: PAGE_URL,
@@ -40,7 +63,7 @@ export const metadata: Metadata = {
         url: IMAGE_URL,
         width: 1200,
         height: 630,
-        alt: "Promosyon Çakmak Fiyatları 2026",
+        alt: "Promosyon Çakmak Fiyatları",
       },
     ],
   },
@@ -85,7 +108,7 @@ export default function Page() {
     },
     image: [IMAGE_URL],
     datePublished: "2026-04-01",
-    dateModified: "2026-04-01",
+    dateModified: "2026-11-09",
   };
 
   const breadcrumbSchema = {
@@ -116,63 +139,25 @@ export default function Page() {
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: "Promosyon çakmak fiyatları neye göre değişir?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Promosyon çakmak fiyatları; model türü, baskı tekniği, sipariş adedi, ürün kalitesi, baskı yönü ve teslim detaylarına göre değişir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "En ekonomik baskı türü hangisidir?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Genellikle tek renkli ve sade tasarımlarda tampon baskı en ekonomik seçeneklerden biridir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Adet arttıkça promosyon çakmak fiyatı düşer mi?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Evet. Sipariş miktarı arttıkça birim maliyet genellikle düşer. Çünkü üretim ve baskı maliyetleri daha fazla adede bölünür.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "UV baskı mı tampon baskı mı daha pahalıdır?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Genel olarak UV baskı, daha görsel ve detaylı uygulamalar sunduğu için tampon baskıya göre daha yüksek maliyetli olabilir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Minimum sipariş adedi kaçtır?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Modele göre değişmekle birlikte promosyon çakmak siparişlerinde genellikle 100 ile 300 adet arası minimum adet görülebilir.",
-        },
-      },
-    ],
+    mainEntity: FAQ_ITEMS.map(({ question, answer }) => ({
+      "@type": "Question", name: question,
+      acceptedAnswer: { "@type": "Answer", text: answer },
+    })),
   };
 
   return (
-    <main className="bg-white">
+    <div className="bg-white">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema).replace(/</g, "\\u003c") }}
       />
 
       <section className="border-b border-gray-100 bg-gray-50">
@@ -208,13 +193,13 @@ export default function Page() {
             </div>
 
             <h1 className="mt-4 text-3xl font-extrabold leading-tight text-gray-900 md:text-4xl">
-              Promosyon Çakmak Fiyatları 2026
+              Promosyon Çakmak Fiyatları
             </h1>
 
             <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
               <Image
                 src={IMAGE_PATH}
-                alt="Promosyon Çakmak Fiyatları 2026"
+                alt="Promosyon Çakmak Fiyatları"
                 fill
                 priority
                 className="object-cover"
@@ -223,32 +208,10 @@ export default function Page() {
             </div>
 
             <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
-              Promosyon çakmak, firmaların en çok tercih ettiği promosyon
-              ürünlerinden biridir. Günlük hayatta sık kullanılan ve küçük boyutu
-              sayesinde kolay taşınabilen bu ürünler, markanızın kullanıcıyla
-              uzun süre temas etmesini sağlayabilir. Bu yüzden{" "}
-              <strong className="text-gray-900">promosyon çakmak fiyatları</strong>,
-              özellikle geniş kitleye uygun maliyetle ulaşmak isteyen firmalar
-              tarafından sık araştırılır.
-            </p>
-
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
-              Ancak promosyon çakmak alırken sadece en düşük fiyatı aramak çoğu
-              zaman doğru sonuç vermez. Çünkü ürün modeli, baskı türü, sipariş
-              adedi, ürün kalitesi ve hedef kitle gibi detaylar doğru analiz
-              edilmezse hem gereksiz maliyet oluşabilir hem de marka imajı
-              zayıflayabilir. Özellikle{" "}
-              <strong className="text-gray-900">logo baskılı çakmak fiyatları</strong>,
-              baskı tekniğine ve uygulanacak tasarımın yapısına göre ciddi farklılık
-              gösterebilir.
-            </p>
-
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
-              Bu rehberde promosyon çakmak fiyatlarını etkileyen tüm unsurları,
-              baskı türüne göre fiyat farklarını, adet arttıkça birim maliyetin
-              nasıl değiştiğini, en uygun modelin nasıl seçileceğini ve sipariş
-              sürecinde nelere dikkat edilmesi gerektiğini detaylı şekilde ele
-              alacağız.
+              Promosyon çakmak fiyatını karşılaştırırken önce tutarın kapsamını belirleyin:
+              baskısız ürün fiyatı, baskı dahil birim fiyat ve toplam sipariş bedeli farklı
+              bilgiler verir. Bu rehber güncel fiyat listesi sunmaz; seçtiğiniz model için
+              alınan teklifin hangi kalemlerden oluştuğunu açıklamaya yardımcı olur.
             </p>
           </header>
 
@@ -265,241 +228,55 @@ export default function Page() {
             "
           >
             <section>
-              <h2>Promosyon çakmak fiyatları neye göre belirlenir?</h2>
-              <p>
-                Promosyon çakmak fiyatlarını belirleyen temel faktörler; ürünün
-                modeli, mekanizması, kullanılan malzemenin kalitesi, uygulanacak
-                baskı türü, baskı yönü, sipariş miktarı ve teslim sürecidir.
-                Ekonomik taşlı çakmak ile daha modern veya premium segmentte yer
-                alan bir çakmağın fiyatı doğal olarak aynı olmaz.
-              </p>
-              <p>
-                Bunun yanında baskının tek renk veya çok renk olması, tasarımın
-                sade ya da detaylı olması da fiyatı etkileyebilir. Bazı durumlarda
-                baskı tekniğinin değişmesi, ürün maliyetinden bile daha belirleyici
-                hale gelebilir. Bu yüzden sadece ürün tipine bakarak net fiyat
-                değerlendirmesi yapmak her zaman yeterli değildir.
-              </p>
-              <p>
-                Kısacası promosyon çakmak fiyatı, tek bir değişkene göre değil;
-                ürün + baskı + adet + kalite dengesine göre oluşur.
-              </p>
+              <h2>Birim fiyat hangi koşullara ait?</h2>
+              <p>Bir tutarı değerlendirirken model, sipariş adedi ve baskı kapsamını birlikte okuyun. Belirli bir adet için verilen fiyat başka bir miktarda aynı kalmayabilir. Baskısız ürün tutarı ile baskı dahil tutar doğrudan karşılaştırılmamalıdır.</p>
+              <p>Güncel ürünleri <Link href="/promosyon-cakmak">promosyon çakmak kategorisinden</Link> inceleyin. Ürün sayfasında kapsam açık değilse teklif isterken netleştirin; sayısal bir fiyat bulunmaması baskı veya hazırlık bedelinin sıfır olduğunu göstermez.</p>
             </section>
 
             <section>
-              <h2>Ürün tipine göre promosyon çakmak fiyat farkları</h2>
-              <p>
-                En yaygın <Link href="/promosyon-cakmak">promosyon çakmak modelleri</Link> arasında taşlı çakmaklar ve
-                elektronik çakmaklar bulunur. Taşlı modeller genellikle daha uygun
-                maliyetli olduğu için toplu dağıtımlarda ve yüksek adetli
-                siparişlerde öne çıkar. Özellikle kampanya, fuar ve hızlı dağıtım
-                odaklı organizasyonlar için taşlı çakmaklar ekonomik çözüm sunabilir.
-              </p>
-              <p>
-                Elektronik çakmaklar ise daha modern kullanım yapısı ve bazı
-                durumlarda daha şık görünümü nedeniyle tercih edilir. Bu tür
-                modeller kurumsal algıyı biraz daha yukarı taşımak isteyen
-                firmalar için mantıklı olabilir. Ancak ürün segmenti yükseldikçe
-                fiyat seviyesi de buna bağlı olarak artabilir.
-              </p>
-              <p>
-                Premium görünümlü veya daha dikkat çekici yüzey yapısına sahip
-                çakmaklar da ayrı bir segment oluşturur. Bu modeller daha az
-                adetli ama daha güçlü etki hedefleyen kampanyalarda değerlendirilebilir.
-              </p>
+              <h2>Toplam sipariş tutarını oluşturan kalemler</h2>
+              <p>Ürün bedeli, baskı uygulaması, varsa hazırlık veya kalıp bedeli, ambalaj ve sevkiyat ayrı kalemler olabilir. KDV dahil veya hariç sunum da teklifte açıkça belirtilmelidir.</p>
+              <p>Karşılaştırma için şu yapıyı kullanabilirsiniz: ürün toplamı + baskı toplamı + varsa hazırlık ve ambalaj + teklife dahil sevkiyat. Vergi kapsamını ayrıca kontrol edin. Bir bedel zaten birim fiyata dahilse tekrar eklemeyin.</p>
             </section>
 
             <section>
-              <h2>Baskı türüne göre fiyat farkları</h2>
-              <p>
-                <strong>Promosyon çakmak fiyatları</strong> üzerinde en etkili
-                unsurlardan biri baskı türüdür. Aynı çakmak modelinde bile
-                uygulanan baskı yöntemine göre maliyet farklılaşabilir.
-              </p>
-
-              <h3>Tampon baskı</h3>
-              <p>
-                Tampon baskı, özellikle sade ve tek renkli logolarda ekonomik bir
-                seçenek olarak öne çıkar. Birçok firma, maliyet avantajı ve yeterli
-                görünürlük sağladığı için tampon baskıyı tercih eder. Özellikle
-                geniş dağıtım planlanan kampanyalarda bu yöntem mantıklı olabilir.
-              </p>
-
-              <h3>UV baskı</h3>
-              <p>
-                UV baskı, daha canlı ve dikkat çekici tasarımlar için tercih edilir.
-                Renkli çalışmalar, görsel etkisi yüksek logolar veya daha güçlü
-                görünüm isteyen firmalar için UV baskı iyi bir seçenek olabilir.
-                Ancak bu kalite ve görsellik artışı, maliyetin de yükselmesine
-                neden olabilir.
-              </p>
-
-              <p>
-                Kısacası maliyet odaklı bakıldığında tampon baskı çoğu zaman daha
-                avantajlıdır. Görsellik ve dikkat çekicilik ön plandaysa UV baskı
-                tercih edilebilir.
-              </p>
+              <h2>Ürün modeli fiyatı nasıl etkiler?</h2>
+              <p>Gövde, ateşleme mekanizması, alev yapısı, ölçü ve doldurulabilirlik aynı model tanımı içinde değerlendirilmelidir. Farklı özellikte iki çakmağı yalnız dış görünüşleri benziyor diye eşdeğer kabul etmeyin.</p>
+              <p><Link href="/promosyon-tasli-cakmak">Taşlı</Link>, <Link href="/promosyon-manyetolu-cakmak">manyetolu</Link> veya <Link href="/promosyon-turbo-cakmak">turbo çakmak</Link> grupları için sabit bir ucuzdan pahalıya sıralama varsaymayın. Seçilen model ve güncel stok koşulları üzerinden teklif alın.</p>
             </section>
 
             <section>
-              <h2>Adet arttıkça promosyon çakmak fiyatı nasıl düşer?</h2>
-              <p>
-                Promosyon ürünlerde en önemli avantajlardan biri, toplu siparişle
-                birlikte birim maliyetin düşmesidir. Bu durum promosyon çakmakta
-                da aynıdır. Sipariş adedi arttıkça hazırlık, baskı ve üretim
-                maliyetleri daha fazla ürüne bölünür ve böylece parça başı maliyet
-                daha avantajlı hale gelir.
-              </p>
-              <p>
-                Örneğin düşük adetli siparişlerde kalıp, hazırlık veya baskı süreci
-                toplam maliyet üzerinde daha yüksek etki oluşturabilir. Ancak adet
-                yükseldiğinde aynı hazırlık maliyeti daha geniş siparişe dağıldığı
-                için fiyat dengesi iyileşir.
-              </p>
-              <p>
-                Bu nedenle birçok firma kısa vadeli değil, dönemsel veya yıllık
-                ihtiyacını düşünerek toplu alım yapmayı tercih eder. Böylece hem
-                maliyet kontrolü sağlanır hem de tekrar sipariş verme ihtiyacı
-                azalabilir.
-              </p>
+              <h2>Baskı fiyatında yöntem, renk ve yüz sayısı</h2>
+              <p>Tasarımın renk yapısı, uygulama ölçüsü, seçilen yüzey ve tek ya da çift yön uygulaması baskı teklifini etkileyebilir. UV veya tampon baskının her siparişte daha ekonomik olduğunu söylemek doğru bir karşılaştırma sağlamaz.</p>
+              <p>İki yüzde aynı logo mu, farklı içerik mi kullanılacağını belirtin. Hazırlık bedelinin bir kere mi yoksa farklı yüz veya tasarımlar için ayrı mı hesaplandığını sorun. İkinci yüz için sabit bir çarpan kabul etmeyin.</p>
             </section>
 
             <section>
-              <h2>En uygun fiyatlı promosyon çakmak nasıl seçilir?</h2>
-              <p>
-                En uygun fiyatlı promosyon çakmak seçimi, sadece en ucuz ürünü
-                seçmek anlamına gelmez. Asıl önemli olan, hedef kitlenize ve
-                kullanım amacınıza uygun ürünü doğru bütçeyle belirlemektir.
-              </p>
-              <p>
-                Eğer fuar, açılış, kampanya veya geniş kitleye dağıtım yapılacaksa
-                daha ekonomik modeller mantıklı olabilir. Bu tür kampanyalarda
-                adet ön planda olduğu için maliyet avantajı önemlidir.
-              </p>
-              <p>
-                Eğer hedef kitleniz daha seçilmiş ve kurumsal bir grupsa, biraz
-                daha kaliteli veya estetik model seçmek daha doğru olabilir.
-                Çünkü böyle durumlarda marka algısı, sadece fiyat avantajından
-                daha önemli hale gelebilir.
-              </p>
-              <p>
-                Yani doğru ürün; en ucuz ürün değil, firmanızın hedefiyle en iyi
-                örtüşen üründür.
-              </p>
+              <h2>Adet arttığında birim maliyet ve toplam ödeme</h2>
+              <p>Sabit bir hazırlık bedeli daha fazla ürüne yayıldığında ürün başına düşen payı azalabilir. Örneğin aynı hazırlık bedelinin 500 ürüne dağıtılması ile 1.000 ürüne dağıtılması farklıdır; bu örnek bir minimum sipariş koşulu değildir.</p>
+              <p>Birim tutarın düşmesi toplam ödemenin de düşeceği anlamına gelmez. İhtiyacınıza yakın iki miktar için toplam bedeli karşılaştırın. Minimum adedi ve varsa miktar basamaklarını model ve baskı uygulaması için teyit edin.</p>
             </section>
 
             <section>
-              <h2>Logo baskılı çakmak fiyatları neden değişir?</h2>
-              <p>
-                Logo baskılı çakmak fiyatları, logonun yapısına ve baskı beklentisine
-                göre değişebilir. Çok sade bir logo ile daha detaylı, çok renkli
-                veya özel yerleşim isteyen bir tasarım aynı maliyet seviyesinde
-                olmayabilir.
-              </p>
-              <p>
-                Ayrıca baskının tek yön veya çok yön uygulanması, baskı alanının
-                büyüklüğü ve ürün yüzeyinin yapısı da fiyat farkı oluşturabilir.
-                Ürünün üzerine iyi yerleştirilen ve net görünen bir logo, markanızın
-                profesyonel görünmesini sağlar. Bu yüzden baskı kalitesi yalnızca
-                estetik değil, aynı zamanda yatırımın geri dönüşü açısından da
-                önemlidir.
-              </p>
-              <p>
-                Bu nedenle logo baskılı promosyon çakmak siparişi verirken tasarım
-                beklentisinin ürünle uyumlu olup olmadığı mutlaka değerlendirilmelidir.
-              </p>
+              <h2>Teklifleri aynı kapsamda karşılaştırma listesi</h2>
+              <p>Her iki teklifte model, renk, adet, baskı yöntemi, basılacak yüzler ve logo tasarımı aynı mı? Ürün veya baskı özellikleri farklıysa tutar farkını yalnız fiyat avantajı olarak yorumlamayın.</p>
+              <p>Ambalaj, hazırlık, KDV ve kargo kapsamı eşleşiyor mu? Teklifin geçerlilik süresi ve stok teyidi var mı? Kargo alıcı tarafından ayrıca ödenecekse toplam bütçeyi değerlendirirken bu bilgiyi ayrı tutun.</p>
             </section>
 
             <section>
-              <h2>Promosyon çakmak alırken yapılan en büyük hatalar</h2>
-              <p>
-                En sık yapılan hata, sadece fiyat odaklı seçim yapmaktır. Çok düşük
-                kaliteli bir ürün kısa sürede bozulabilir, baskısı silinebilir veya
-                kullanıcıda olumsuz izlenim oluşturabilir. Bu da markanızın imajına
-                zarar verebilir.
-              </p>
-              <p>
-                Bir diğer hata ise düşük adetli siparişlerle yüksek birim maliyet
-                ödemektir. Gerçek ihtiyacın altında sipariş verildiğinde, toplamda
-                daha pahalı bir promosyon yatırımı ortaya çıkabilir.
-              </p>
-              <p>
-                Ayrıca baskı türünü sadece maliyet açısından seçmek de yanlış olabilir.
-                Bazı markalarda uygun maliyetli bir baskı yeterliyken, bazı
-                firmalarda daha estetik bir baskı tercihi daha güçlü sonuç verebilir.
-              </p>
-            </section>
-
-            <section>
-              <h2>2026 promosyon çakmak trendleri</h2>
-              <p>
-                2026 yılında promosyon ürün seçiminde yalnızca fiyat değil, kalite,
-                dayanıklılık ve görsel uyum da daha fazla önem kazanıyor. Firmalar
-                artık sadece ucuz ürün aramak yerine, marka algısını destekleyen
-                ürünleri tercih etmeye yöneliyor.
-              </p>
-              <p>
-                Daha sade tasarımlar, daha temiz baskı uygulamaları, modern yüzey
-                görünümleri ve daha kullanışlı modeller öne çıkabiliyor. Bununla
-                birlikte bazı firmalar çevre etkisi, yeniden kullanım ve daha uzun
-                ömürlü ürün algısına da dikkat etmeye başlıyor.
-              </p>
-              <p>
-                Bu değişim, promosyon çakmak sektöründe de “en ucuz ürün” yerine
-                “en doğru ürün” anlayışını güçlendiriyor.
-              </p>
-            </section>
-
-            <section>
-              <h2>Promosyon çakmak yerine hangi ürünler düşünülebilir?</h2>
-              <p>
-                Her firma için promosyon çakmak en doğru ürün olmayabilir. Bazı
-                sektörler için farklı promosyon ürünleri daha verimli sonuç
-                verebilir. Örneğin ofis ağırlıklı hedef kitleler için{" "}
-                <Link href="/promosyon-kalem">promosyon kalem</Link> daha mantıklı
-                olabilir.
-              </p>
-              <p>
-                Sürekli taşınan küçük ürün arayan markalar için{" "}
-                <Link href="/promosyon-anahtarlik">promosyon anahtarlık</Link>{" "}
-                iyi bir alternatif olabilir. Daha premium ve uzun süre kullanılan
-                çözümler için ise <Link href="/promosyon-termos">promosyon termos</Link>{" "}
-                veya <Link href="/promosyon-usb-bellek">promosyon USB bellek</Link>{" "}
-                değerlendirilebilir.
-              </p>
-              <p>
-                Ancak maliyet-performans ve geniş kitleye ulaşma açısından
-                bakıldığında promosyon çakmak hâlâ güçlü seçeneklerden biridir.
-              </p>
+              <h2>Fiyat isterken paylaşılacak sipariş özeti</h2>
+              <p>Model kodu veya ürün bağlantısı, adet, gövde rengi, logo dosyası ve basılacak yüzleri paylaşın. İstenen teslim tarihi, adres ve ambalaj beklentisini ekleyin. Tasarım henüz belli değilse fiyatın hangi varsayımla verildiğini sorun.</p>
+              <p>Onay, numune ve teslim kontrolleri için <Link href="/rehber/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta">çakmak satın alma kontrol listesine</Link> geçebilirsiniz. Ürünü tanımak için <Link href="/rehber/promosyon-cakmak-nedir">promosyon çakmak nedir</Link> rehberi ayrı bir başlangıç kaynağıdır.</p>
             </section>
 
             <section>
               <h2>Sık Sorulan Sorular</h2>
-
-              <h3>Promosyon çakmak fiyatları ne kadar?</h3>
-              <p>
-                Fiyatlar model, baskı türü, adet, kalite ve sipariş detaylarına
-                göre değişir. Bu nedenle net fiyat için ürün ve baskı beklentisinin
-                birlikte değerlendirilmesi gerekir.
-              </p>
-
-              <h3>En ekonomik baskı hangisidir?</h3>
-              <p>
-                Genellikle sade tasarımlarda tampon baskı en ekonomik seçeneklerden
-                biridir.
-              </p>
-
-              <h3>Minimum sipariş kaç adet olur?</h3>
-              <p>
-                Modele göre değişmekle birlikte promosyon çakmak siparişlerinde
-                çoğu zaman 100 ile 300 adet arası minimum adet görülebilir.
-              </p>
-
-              <h3>UV baskı mı tampon baskı mı daha mantıklıdır?</h3>
-              <p>
-                Görsel etki ve dikkat çekicilik isteniyorsa UV baskı, maliyet
-                avantajı ön plandaysa tampon baskı daha mantıklı olabilir.
-              </p>
+              {FAQ_ITEMS.map(({ question, answer }) => (
+                <div key={question}>
+                  <h3>{question}</h3>
+                  <p>{answer}</p>
+                </div>
+              ))}
             </section>
           </div>
 
@@ -542,7 +319,7 @@ export default function Page() {
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <Link
-              href="/teklif"
+              href="/kurumsal-teklif-al"
               className="inline-flex items-center justify-center rounded-2xl bg-black px-6 py-3 text-sm font-semibold text-white transition hover:bg-gray-900"
             >
               Teklif Al
@@ -557,6 +334,6 @@ export default function Page() {
           </div>
         </article>
       </section>
-    </main>
+    </div>
   );
 }

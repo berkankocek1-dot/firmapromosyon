@@ -573,7 +573,7 @@ export default async function GuidePage({ params }: PageProps) {
   };
 
   return (
-    <main className="min-h-screen bg-white text-gray-900">
+    <div className="min-h-screen bg-white text-gray-900">
       <script
         id="guide-article-jsonld"
         type="application/ld+json"
@@ -850,6 +850,6 @@ export default async function GuidePage({ params }: PageProps) {
           </div>
         </div>
       </section>
-    </main>
+    </div>
   );
 }
