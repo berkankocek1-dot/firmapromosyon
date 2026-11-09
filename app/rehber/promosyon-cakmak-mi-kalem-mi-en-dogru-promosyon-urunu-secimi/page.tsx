@@ -10,7 +10,30 @@ const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE =
   "Promosyon Çakmak mı Kalem mi? En Doğru Promosyon Ürünü Seçimi";
 const DESCRIPTION =
-  "Promosyon çakmak mı yoksa promosyon kalem mi daha mantıklı? Hedef kitle, kullanım alanı, maliyet, görünürlük ve marka etkisi açısından detaylı karşılaştırma rehberi.";
+  "Promosyon çakmak mı yoksa promosyon kalem mi daha mantıklı? Hedef kitle, dağıtım ortamı, baskı kapsamı ve toplam bütçeye göre iki ürünü karşılaştırın.";
+
+const FAQ_ITEMS = [
+  {
+    "question": "Ofis toplantısında çakmak mı kalem mi seçilmeli?",
+    "answer": "Not alma veya form doldurma ihtiyacı olan bir toplantıda kalem doğrudan kullanım sağlayabilir. Yine de katılımcıların çalışma biçimi ve mevcut malzemeler değerlendirilmelidir."
+  },
+  {
+    "question": "Yetişkinlere yönelik her etkinlikte çakmak uygun mu?",
+    "answer": "Hayır. Yetişkin katılımcı bulunması tek başına yeterli değildir. Ürünün alıcı ihtiyacıyla örtüşmesi ve organizasyonun dağıtım koşullarına uygun olması gerekir."
+  },
+  {
+    "question": "Çakmak mı kalem mi daha ucuzdur?",
+    "answer": "Ürün grubu adına göre sabit bir fiyat sıralaması yapılamaz. Seçilen modeller aynı adet, baskı yüzü, ambalaj ve sevkiyat kapsamıyla tekliflendirilmelidir."
+  },
+  {
+    "question": "İki ürün aynı kampanyada kullanılabilir mi?",
+    "answer": "Farklı kullanıcı gruplarına veya farklı temas anlarına hizmet ediyorlarsa değerlendirilebilir. Her alıcıya iki ürünü birlikte vermek yerine dağıtım amacını ve toplam bütçeyi netleştirmek gerekir."
+  },
+  {
+    "question": "Hangi ürünün daha başarılı olduğu nasıl anlaşılır?",
+    "answer": "Dağıtılan adet tek başına başarı ölçüsü değildir. Kullanım geri bildirimi, kampanyayla ilişkilendirilebilen başvurular ve alıcı ihtiyacına uyum birlikte değerlendirilmelidir. Bunlar tek başına kesin satış etkisi kanıtlamaz."
+  }
+];
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -89,7 +112,7 @@ export default function Page() {
     },
     image: [IMAGE_URL],
     datePublished: "2026-04-13",
-    dateModified: "2026-04-13",
+    dateModified: "2026-11-09",
   };
 
   const breadcrumbSchema = {
@@ -120,63 +143,25 @@ export default function Page() {
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: "Promosyon çakmak mı yoksa promosyon kalem mi daha etkilidir?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Bu sorunun cevabı hedef kitleye ve kullanım alanına göre değişir. Geniş kitleye ekonomik dağıtım ve sık günlük kullanım için promosyon çakmak güçlü bir seçenek olabilir. Ofis, toplantı ve masa başı kullanımda ise promosyon kalem daha etkili olabilir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Promosyon kalem hangi firmalar için daha uygundur?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Promosyon kalem özellikle ofis odaklı çalışan firmalar, eğitim kurumları, fuar katılımcıları, kurumsal toplantılar yapan işletmeler ve masa başı kullanımın yoğun olduğu sektörler için daha uygundur.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Promosyon çakmak hangi sektörlerde daha verimli olur?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Promosyon çakmak restoran, kafe, otel, eğlence sektörü, açık hava etkinlikleri, saha dağıtımı yapan firmalar ve geniş kitleye düşük maliyetle ulaşmak isteyen markalar için daha verimli olabilir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Promosyon ürünü seçerken en önemli kriter nedir?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "En önemli kriter hedef kitlenin ürünü gerçekten kullanıp kullanmayacağıdır. Kullanılmayan promosyon ürünleri reklam etkisi yaratmaz. Bu nedenle seçim yapılırken maliyet kadar kullanım alışkanlığı ve görünürlük de değerlendirilmelidir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Aynı kampanyada hem çakmak hem kalem kullanılabilir mi?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Evet. Bazı firmalar hedef kitleyi farklılaştırmak için aynı kampanyada hem promosyon kalem hem promosyon çakmak kullanabilir. Böylece farklı kullanım alanlarına hitap eden daha esnek bir promosyon stratejisi oluşturulabilir.",
-        },
-      },
-    ],
+    mainEntity: FAQ_ITEMS.map(({ question, answer }) => ({
+      "@type": "Question", name: question,
+      acceptedAnswer: { "@type": "Answer", text: answer },
+    })),
   };
 
   return (
     <div className="bg-white">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema).replace(/</g, "\\u003c") }}
       />
 
       <section className="border-b border-gray-100 bg-gray-50">
@@ -229,31 +214,10 @@ export default function Page() {
             </div>
 
             <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
-              Promosyon ürünü seçimi, kurumsal tanıtım sürecinde en kritik
-              kararlardan biridir. Çünkü doğru promosyon ürünü yalnızca dağıtılan
-              bir eşya değil, aynı zamanda markanın sahadaki görünür temsilcisi
-              haline gelir. Birçok firma için en sık karşılaşılan sorulardan biri de
-              şudur: <strong className="text-gray-900">promosyon çakmak mı</strong>{" "}
-              daha doğru tercihtir, yoksa{" "}
-              <strong className="text-gray-900">promosyon kalem mi</strong> daha
-              verimli sonuç verir?
-            </p>
-
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
-              Bu sorunun tek ve herkes için geçerli bir cevabı yoktur. Çünkü doğru
-              ürün; hedef kitleye, kullanım senaryosuna, dağıtım alanına, marka
-              konumlandırmasına ve bütçeye göre değişir. Bazı sektörlerde promosyon
-              çakmak daha yüksek görünürlük sağlarken, bazı firmalar için promosyon
-              kalem çok daha profesyonel ve sürdürülebilir bir tanıtım etkisi
-              yaratabilir.
-            </p>
-
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
-              Bu rehberde promosyon çakmak ile promosyon kalemi hedef kitle,
-              kullanım süresi, maliyet, görünürlük, marka algısı, dağıtım kolaylığı
-              ve sektörel uygunluk açısından detaylı biçimde karşılaştıracağız.
-              Böylece firmanız için en doğru promosyon ürünü seçimini daha net
-              şekilde yapabilirsiniz.
+              Çakmak ile kalem arasındaki karar, ürünün kullanılacağı ana göre verilmelidir.
+              Not alınan bir toplantı ile yetişkin müşteriye yapılan birebir ziyaret aynı
+              ihtiyacı doğurmaz. Bu rehber, iki ürünü kullanım ortamı ve teklif kapsamı
+              üzerinden karşılaştırır; her işletme için tek bir kazanan ilan etmez.
             </p>
           </header>
 
@@ -270,360 +234,76 @@ export default function Page() {
             "
           >
             <section>
-              <h2>Promosyon ürünü seçiminde neden tek bir doğru yoktur?</h2>
-              <p>
-                Promosyon ürünleri söz konusu olduğunda en büyük hata, her firma
-                için aynı ürünün doğru olduğunu düşünmektir. Oysa promosyon ürünü
-                seçimi tamamen firmanın hedef kitlesine, dağıtım stratejisine ve
-                marka imajına göre değişir. Bir işletme için çok verimli çalışan bir
-                ürün, başka bir marka için zayıf sonuç verebilir.
-              </p>
-              <p>
-                Örneğin saha dağıtımı yapan, hızlı görünürlük isteyen ve düşük
-                maliyetle çok kişiye ulaşmayı hedefleyen bir firma için promosyon
-                çakmak son derece mantıklı olabilir. Buna karşılık masa başı
-                kullanımın yoğun olduğu, kurumsal toplantıların ve ofis içi
-                temasların değerli olduğu sektörlerde promosyon kalem çok daha
-                güçlü bir seçim olabilir.
-              </p>
-              <p>
-                Bu nedenle doğru ürün; popüler olana göre değil, en çok kullanılacak
-                olana göre seçilmelidir. Çünkü promosyon ürünün gerçek değeri,
-                dağıtıldığı anda değil, kullanılmaya devam ettiği sürece ortaya çıkar.
-              </p>
+              <h2>Kullanım senaryosuna göre karşılaştırma</h2>
+              <div className="overflow-x-auto">
+                <table className="w-full min-w-[560px] border-collapse text-left text-sm">
+                  <caption className="mb-3 text-left text-gray-600">Ürünlerin uygunluğu seçilen modele ve alıcı ihtiyacına bağlıdır.</caption>
+                  <thead><tr>
+                    <th scope="col" className="border p-3">Karar noktası</th>
+                    <th scope="col" className="border p-3">Promosyon çakmak</th>
+                    <th scope="col" className="border p-3">Promosyon kalem</th>
+                  </tr></thead>
+                  <tbody>
+                    <tr><th scope="row" className="border p-3 font-semibold">Not alma ve form doldurma</th><td className="border p-3">İhtiyaçla doğrudan örtüşen bir işlev sunmaz.</td><td className="border p-3">Toplantı, kayıt veya eğitim sırasında kullanılabilir.</td></tr>
+                    <tr><th scope="row" className="border p-3 font-semibold">Birebir müşteri ziyareti</th><td className="border p-3">Ürünü kullanacak yetişkin alıcı için değerlendirilebilir.</td><td className="border p-3">Alıcının yazma ihtiyacı varsa değerlendirilebilir.</td></tr>
+                    <tr><th scope="row" className="border p-3 font-semibold">Fuar ve etkinlik</th><td className="border p-3">Alıcı profili ve organizatör koşulları birlikte teyit edilir.</td><td className="border p-3">Kayıt, not alma veya görüşme sırasında kullanım ihtiyacı değerlendirilir.</td></tr>
+                    <tr><th scope="row" className="border p-3 font-semibold">Baskı alanı</th><td className="border p-3">Seçilen gövdenin uygun yüzü ve net baskı ölçüsü kontrol edilir.</td><td className="border p-3">Gövde veya klips alanının uygunluğu ve okunurluk kontrol edilir.</td></tr>
+                    <tr><th scope="row" className="border p-3 font-semibold">Teklif karşılaştırması</th><td className="border p-3">Model, adet, baskı, ambalaj ve sevkiyat kapsamı netleştirilir.</td><td className="border p-3">Aynı maliyet kalemleri seçilen kalem modeli için netleştirilir.</td></tr>
+                  </tbody>
+                </table>
+              </div>
             </section>
 
             <section>
-              <h2>Promosyon çakmak hangi avantajları sunar?</h2>
-              <p>
-                <strong className="text-gray-900">Promosyon çakmak</strong>,
-                düşük maliyetle geniş kitleye ulaşabilen klasik ama etkili
-                promosyon ürünlerinden biridir. Küçük boyutlu olması, kolay
-                taşınması ve günlük hayatta doğal kullanım alanı bulması en önemli
-                avantajları arasında yer alır.
-              </p>
-              <p>
-                Özellikle kullanıcı ürünü cebinde, aracında veya çantasında
-                taşıyabildiği için marka görünürlüğü yalnızca dağıtım anıyla sınırlı
-                kalmaz. Ürün farklı zamanlarda yeniden kullanılır ve her kullanımda
-                marka ile tekrar temas kurulur. Bu tekrar, kurumsal tanıtımda çok
-                önemli bir etkidir.
-              </p>
-              <p>
-                Ayrıca promosyon çakmak toplu dağıtıma çok uygundur. Fuar, açılış,
-                kampanya, etkinlik, restoran, kafe veya saha satış çalışmaları gibi
-                alanlarda hızlı şekilde büyük kitlelere ulaştırılabilir. Bu yönüyle
-                maliyet/verim oranı güçlü bir üründür.
-              </p>
+              <h2>Önce alıcının ihtiyacını tarif edin</h2>
+              <p>İlk soru ürünün kimlere verileceğidir. Çalışan, bayi, toplantı katılımcısı ve mağaza müşterisi aynı kullanım alışkanlıklarına sahip olmayabilir. Alıcının ürünü nerede kullanacağını açıklayamıyorsanız yalnız birim fiyata göre seçim yapmayın.</p>
+              <p><Link href="/promosyon-kalem">Promosyon kalem</Link> not alma ihtiyacına, <Link href="/promosyon-cakmak">promosyon çakmak</Link> ise uygun yetişkin kullanıcının farklı bir ihtiyacına karşılık gelebilir. Ürün grubunun adı satış veya görünürlük sonucunu belirlemez.</p>
             </section>
 
             <section>
-              <h2>Promosyon kalem hangi avantajları sunar?</h2>
-              <p>
-                <strong className="text-gray-900">Promosyon kalem</strong>, en
-                yaygın ve en güvenli promosyon ürünlerinden biridir. Bunun temel
-                nedeni çok geniş bir kullanıcı kitlesine hitap etmesidir. Öğrenci,
-                çalışan, yönetici, ziyaretçi, ofis personeli veya müşteri fark
-                etmeksizin kalem günlük yaşamda farklı alanlarda kullanılabilir.
-              </p>
-              <p>
-                Kalemin en önemli avantajlarından biri, kurumsal ve profesyonel
-                algıyı desteklemesidir. Toplantı masalarında, eğitimlerde,
-                ofislerde, fuarlarda veya danışma alanlarında rahatlıkla yer
-                bulabilir. Markanın daha düzenli, profesyonel ve kurumsal görünmesine
-                katkı sağlayabilir.
-              </p>
-              <p>
-                Üstelik promosyon kalem, baskı alanı açısından da çoğu zaman daha
-                düzenli sonuç verir. Logo, marka adı veya kısa iletişim bilgileri
-                ürün üzerinde net şekilde sunulabilir. Bu da özellikle kurumsal
-                kimliği vurgulamak isteyen firmalar için önemli bir avantajdır.
-              </p>
+              <h2>Ofis, toplantı ve eğitim senaryosu</h2>
+              <p>Katılımcıların not aldığı, belge imzaladığı veya form doldurduğu ortamlarda kalemin işlevi açıktır. Kalemin yazım rahatlığı, mürekkep bilgisi ve baskının okunurluğu seçilen model üzerinden değerlendirilmelidir.</p>
+              <p>Toplantının tamamen dijital yürütülmesi veya katılımcıların kendi ekipmanını kullanması ihtiyacı değiştirebilir. Kalemin bütün ofis ortamlarında mutlaka kullanılacağı varsayılmamalıdır.</p>
             </section>
 
             <section>
-              <h2>Hedef kitle açısından promosyon çakmak mı daha güçlü, kalem mi?</h2>
-              <p>
-                Hedef kitle açısından bakıldığında iki ürün de güçlü olabilir; ancak
-                farklı kitlelere hitap eder. Promosyon çakmak daha çok sosyal
-                yaşamda, açık alanlarda, hızlı dağıtım gereken ortamlarda veya
-                ürünün doğal kullanım bulduğu sektörlerde öne çıkar.
-              </p>
-              <p>
-                Promosyon kalem ise daha geniş ve nötr bir kullanıcı profiline
-                hitap eder. Ofis çalışanları, öğrenci grupları, fuar ziyaretçileri,
-                kurumsal toplantılara katılan kişiler ve yazı yazma ihtiyacı olan
-                herkes kalemi kullanabilir. Bu nedenle daha risksiz bir promosyon
-                ürünü olarak da görülebilir.
-              </p>
-              <p>
-                Eğer hedef kitleniz ofis içinde çalışan, toplantı yapan veya masa
-                başında zaman geçiren kişilerse kalem daha mantıklı olabilir. Eğer
-                daha serbest, daha geniş ve hızlı temas kurulan bir müşteri kitlesi
-                söz konusuysa çakmak daha dikkat çekici bir sonuç verebilir.
-              </p>
+              <h2>Müşteri ziyareti ve etkinlik senaryosu</h2>
+              <p>Çakmak, ürünü kullanabilecek yetişkin alıcılara yönelik bir görüşmede değerlendirilebilir. Her ziyaretçiye aynı ürünü sunmak yerine alıcı ihtiyacı ve işletmenin hediye kabul yaklaşımı göz önünde tutulmalıdır.</p>
+              <p>Etkinliklerde katılımcı profili ve organizatörün koşulları önemlidir. Çakmak dağıtımının uygun olmadığı veya ihtiyaca uymadığı bir ortamda başka ürün seçilmelidir. Ayrıntılı örnekler için <Link href="/rehber/promosyon-cakmak-kullanim-alanlari">çakmak kullanım alanları rehberini</Link> inceleyebilirsiniz.</p>
             </section>
 
             <section>
-              <h2>Kullanım süresi ve görünürlük açısından hangisi daha avantajlıdır?</h2>
-              <p>
-                Promosyon ürünü seçerken yalnızca ilk dağıtım etkisine değil, ürünün
-                ne kadar süre kullanılacağına da bakmak gerekir. Çünkü uzun süre
-                kullanılan promosyon ürünleri marka görünürlüğünü de uzatır.
-              </p>
-              <p>
-                Promosyon çakmak, kullanıcının ürünü yanında taşıması halinde yüksek
-                görünürlük sağlayabilir. Özellikle sosyal ortamlarda elden ele
-                dolaşması mümkündür. Bu durum markanın tek bir kullanıcıyla sınırlı
-                kalmadan daha fazla kişiye görünmesine katkı sağlayabilir.
-              </p>
-              <p>
-                Promosyon kalem ise masa üzerinde uzun süre kalabilir, ofiste,
-                toplantıda, çantada veya çekmecede yer bulabilir. Kullanım sıklığı
-                sektöre bağlı olarak yüksek olabilir. Bu nedenle kalem daha stabil,
-                çakmak ise bazı senaryolarda daha hızlı ve görünür bir ürün olarak
-                değerlendirilebilir.
-              </p>
+              <h2>Birim tutar yerine aynı kapsamlı toplam teklifi karşılaştırın</h2>
+              <p>Ekonomik bir kalem ile farklı özelliklerde bir çakmağı karşılaştırmak tüm ürün grupları için fiyat sonucu vermez. Önce her gruptan ihtiyacı karşılayan bir model belirleyin; aynı adet için baskı ve ambalaj dahil kapsamı sorun.</p>
+              <p>Ürün, baskı, varsa hazırlık, ambalaj ve sevkiyat bedellerini birlikte değerlendirin. KDV kapsamı da aynı olmalıdır. Çakmak tarafındaki maliyet kalemleri için <Link href="/rehber/promosyon-cakmak-fiyatlari">çakmak fiyatları rehberine</Link> geçebilirsiniz.</p>
             </section>
 
             <section>
-              <h2>Maliyet açısından çakmak mı kalem mi daha avantajlı olabilir?</h2>
-              <p>
-                Bu sorunun cevabı seçilen modele, kalite seviyesine, baskı türüne ve
-                sipariş adedine göre değişir. Hem promosyon çakmak hem de promosyon
-                kalem ekonomik promosyon ürünleri arasında yer alabilir. Ancak her
-                zaman yalnızca birim fiyata bakmak doğru değildir.
-              </p>
-              <p>
-                Bazen daha ucuz bir ürün, marka algısı zayıf olduğu için toplamda
-                daha verimsiz olabilir. Buna karşılık biraz daha dengeli seçilen bir
-                ürün daha uzun süre kullanıldığı ve daha iyi baskı sunduğu için daha
-                yüksek reklam değeri yaratabilir.
-              </p>
-              <p>
-                Eğer amaç çok yüksek adetli, hızlı ve ekonomik dağıtım ise promosyon
-                çakmak çoğu durumda avantajlı olabilir. Eğer daha kurumsal bir izlenim
-                bırakmak, daha geniş ama nötr bir hedef kitleye hitap etmek ve ürünün
-                masa başında görünür kalmasını sağlamak istiyorsanız promosyon kalem
-                daha mantıklı olabilir.
-              </p>
+              <h2>Baskı alanı ve kurumsal görünümü model üzerinden değerlendirin</h2>
+              <p>Kalemin dar ve kavisli bir alanı, çakmağın ise modele göre farklı yüzleri olabilir. Bir ürün grubunun her modelde daha büyük veya daha iyi baskı alanı sunduğu varsayılmamalıdır. Net uygulama ölçüsü ve tasarım yerleşimi teyit edilmelidir.</p>
+              <p>Profesyonel görünüm yalnız ürünün kalem ya da çakmak olmasıyla oluşmaz. Yüzey, uygulama kalitesi ve okunurluk birlikte değerlendirilir. Gerçek baskı ölçüsündeki tasarım onayı ve gerekiyorsa numune bu kararı destekler.</p>
             </section>
 
             <section>
-              <h2>Marka algısı açısından promosyon kalem daha mı profesyoneldir?</h2>
-              <p>
-                Genel olarak bakıldığında promosyon kalem, daha kurumsal ve daha
-                profesyonel algılanan bir ürün olabilir. Bunun nedeni kullanım
-                alanlarının ofis, toplantı, eğitim, seminer ve iş dünyası ile daha
-                fazla örtüşmesidir.
-              </p>
-              <p>
-                Bir firmanın kurumsal kimliğini masa başı kullanım içinde göstermek
-                istemesi durumunda kalem oldukça güçlü bir seçenektir. Üstelik
-                kullanıcı kalemi günlük iş akışı içinde tekrar tekrar kullanabilir.
-                Bu da markanın çalışma hayatı ile ilişkilendirilmesini kolaylaştırır.
-              </p>
-              <p>
-                Ancak bu, promosyon çakmağın profesyonel olmadığı anlamına gelmez.
-                Sadece bağlamı farklıdır. Çakmak daha çok hızlı görünürlük, sosyal
-                dolaşım ve düşük maliyetli saha erişimi açısından güçlüdür. Kalem
-                ise düzenli ve kurumsal temas noktalarında daha sağlam sonuç
-                verebilir.
-              </p>
+              <h2>İki ürünü aynı kampanyada nasıl planlayabilirsiniz?</h2>
+              <p>Ayrı kullanıcı grupları varsa farklı ürünler seçilebilir: not alınan görüşmeler için kalem, uygun yetişkin alıcıların bulunduğu başka bir temas noktası için çakmak gibi. Bu, bütün alıcılara iki ürünü birlikte vermek zorunda olduğunuz anlamına gelmez.</p>
+              <p>Her ürün için adet, dağıtım noktası ve sorumlu kişi belirleyin. Ayrı baskı hazırlıkları ve paketleme toplam bütçeyi etkileyebilir. Dağıtılan ve kalan miktarları ayrı kaydetmek stok takibini kolaylaştırır.</p>
             </section>
 
             <section>
-              <h2>Promosyon çakmak hangi sektörlerde daha doğru seçim olur?</h2>
-              <p>
-                Promosyon çakmak özellikle restoran, kafe, otel, beach işletmeleri,
-                eğlence mekanları, açık hava etkinlikleri, kampanya noktaları ve
-                saha dağıtımının önemli olduğu alanlarda güçlü olabilir. Çünkü ürün
-                bu alanlarda daha doğal bir kullanım karşılığı bulur.
-              </p>
-              <p>
-                Ayrıca yerel işletmeler için de dikkat çekici olabilir. Özellikle
-                bölgesel görünürlük sağlamak isteyen ve düşük bütçeyle çok kişiye
-                ulaşmak isteyen markalar için çakmak mantıklı bir promosyon
-                alternatifidir.
-              </p>
-              <p>
-                Bu yüzden ürün seçiminde yalnızca promosyonun kendisine değil,
-                ürünün hayatın hangi alanına girdiğine bakmak gerekir. Çakmak
-                doğru sektörde kullanıldığında oldukça güçlü bir reklam etkisi
-                yaratabilir.
-              </p>
-            </section>
-
-            <section>
-              <h2>Promosyon kalem hangi sektörlerde daha doğru seçim olur?</h2>
-              <p>
-                Promosyon kalem; ofis çalışanlarına, eğitim alanına, danışmanlık
-                hizmetlerine, sağlık kuruluşlarına, fuar katılımcılarına, banka ve
-                kurumsal firmalara daha uyumlu olabilir. Çünkü bu alanlarda kalem
-                doğal olarak kullanım bulur.
-              </p>
-              <p>
-                Özellikle ziyaretçinin masadan ayrılırken yanında götürdüğü, toplantı
-                boyunca kullandığı veya ofiste çekmecesine koyduğu bir kalem,
-                markanın uzun süre görünür kalmasına yardımcı olabilir.
-              </p>
-              <p>
-                Eğer hedef kitleniz kurumsal ciddiyeti önemseyen, masa başı çalışan,
-                not alan veya ofis düzeni içinde hareket eden kişilerse promosyon
-                kalem çoğu zaman daha mantıklı olacaktır.
-              </p>
-            </section>
-
-            <section>
-              <h2>Dağıtım kolaylığı açısından hangisi daha pratiktir?</h2>
-              <p>
-                Hem promosyon kalem hem de promosyon çakmak dağıtımı kolay ürünlerdir.
-                Ancak dağıtım biçimi kullanım alanına göre değişebilir. Promosyon
-                çakmak özellikle kampanya, açılış, saha ziyareti ve yüksek adetli
-                fiziksel dağıtım için çok pratik olabilir.
-              </p>
-              <p>
-                Promosyon kalem ise masa üstü bırakma, fuar standı, dosya içi sunum,
-                toplantı seti veya danışma alanı gibi daha düzenli dağıtım
-                senaryolarında öne çıkar. Yani ikisi de pratiktir ama pratiklik
-                bağlama göre farklılaşır.
-              </p>
-              <p>
-                Eğer ürün elden ele hızlı dolaşacaksa çakmak, daha kontrollü ve
-                kurumsal sunulacaksa kalem öne çıkabilir.
-              </p>
-            </section>
-
-            <section>
-              <h2>Baskı ve tasarım açısından hangisi daha avantajlı olabilir?</h2>
-              <p>
-                Baskı kalitesi promosyon ürünlerin reklam değerini doğrudan etkiler.
-                Promosyon kalem genellikle daha lineer ve düzenli baskı alanı
-                sunduğu için logo ve marka adı açısından temiz bir görünüm sağlayabilir.
-              </p>
-              <p>
-                Promosyon çakmakta da güçlü baskı alınabilir; ancak ürünün modeline,
-                gövde yapısına ve baskı alanına göre tasarımın iyi uyarlanması gerekir.
-                Çok karmaşık tasarımlar küçük yüzeylerde her zaman verimli sonuç
-                vermeyebilir.
-              </p>
-              <p>
-                Eğer sade logo ve kısa marka mesajı kullanılacaksa iki ürün de iyi
-                çalışabilir. Daha net, daha kurumsal ve daha çizgisel bir görünüm
-                isteniyorsa kalem avantajlı olabilir. Daha dikkat çekici, hızlı
-                görünür ve günlük dolaşım içinde yer alacak bir yapı isteniyorsa
-                çakmak da güçlü bir seçenektir.
-              </p>
-            </section>
-
-            <section>
-              <h2>Aynı kampanyada hem promosyon çakmak hem promosyon kalem kullanılabilir mi?</h2>
-              <p>
-                Evet, hatta bazı firmalar için bu en doğru strateji olabilir.
-                Çünkü hedef kitle tek tip değildir. Aynı kampanyada farklı temas
-                noktaları için farklı promosyon ürünleri kullanılabilir.
-              </p>
-              <p>
-                Örneğin fuar standında promosyon kalem dosya veya katalog ile birlikte
-                verilirken, saha tarafında veya açık etkinlikte promosyon çakmak
-                kullanılabilir. Böylece hem kurumsal hem de pratik görünürlük
-                sağlayan iki farklı ürün bir arada çalışmış olur.
-              </p>
-              <p>
-                Bu yaklaşım özellikle geniş müşteri profiline sahip firmalar için
-                mantıklıdır. Çünkü farklı kullanıcı alışkanlıklarına hitap eden
-                daha esnek bir tanıtım stratejisi oluşturur.
-              </p>
-            </section>
-
-            <section>
-              <h2>Doğru promosyon ürünü seçimi için kısa karar rehberi</h2>
-              <ul>
-                <li>Hedef kitleniz masa başı mı, saha odaklı mı?</li>
-                <li>Ürün daha kurumsal mı görünmeli, daha hızlı mı yayılmalı?</li>
-                <li>Toplantı, fuar ve ofis kullanımı mı hedefleniyor?</li>
-                <li>Açık alan, etkinlik ve hızlı dağıtım mı daha önemli?</li>
-                <li>Markanız için profesyonel masa üstü görünürlük mü gerekli?</li>
-                <li>Düşük maliyetle çok kişiye ulaşmak mı daha öncelikli?</li>
-                <li>Ürün uzun süre çekmecede mi kalacak, cepte mi taşınacak?</li>
-                <li>Baskıda sade logo mu kullanılacak?</li>
-                <li>Tek ürün mü seçilecek, yoksa kampanya bölünebilir mi?</li>
-                <li>Kullanıcı bu ürünü gerçekten hayatında kullanacak mı?</li>
-              </ul>
-            </section>
-
-            <section>
-              <h2>Sonuç: promosyon çakmak mı kalem mi?</h2>
-              <p>
-                Bu sorunun en doğru cevabı şudur:{" "}
-                <strong className="text-gray-900">
-                  Hedef kitleniz hangisini daha çok kullanacaksa doğru promosyon
-                  ürünü odur.
-                </strong>
-              </p>
-              <p>
-                Eğer daha geniş saha görünürlüğü, ekonomik toplu dağıtım ve doğal
-                dolaşım istiyorsanız promosyon çakmak daha avantajlı olabilir. Eğer
-                daha profesyonel, daha kurumsal, daha masa başı ve daha nötr bir
-                kullanım istiyorsanız promosyon kalem çoğu durumda daha mantıklıdır.
-              </p>
-              <p>
-                Asıl amaç en ucuz ürünü bulmak değil, markayı en uzun süre en doğru
-                bağlamda görünür kılacak ürünü seçmektir. Bu nedenle promosyon ürünü
-                kararını verirken sektörünüzü, müşteri profilinizi, kullanım
-                alışkanlıklarını ve kampanya hedefinizi birlikte değerlendirmeniz
-                gerekir.
-              </p>
-              <p>
-                Daha fazla bilgi için{" "}
-                <Link href="/rehber/promosyon-cakmak-kullanim-alanlari">
-                  kurumsal tanıtım için promosyon çakmak kullanımı
-                </Link>{" "}
-                rehberine,{" "}
-                <Link href="/rehber/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta">
-                  promosyon çakmak alırken dikkat edilmesi gerekenler
-                </Link>{" "}
-                içeriğine ve ürün sayfaları için{" "}
-                <Link href="/promosyon-kalem">promosyon kalem</Link> ile{" "}
-                <Link href="/promosyon-cakmak">promosyon çakmak</Link>{" "}
-                kategorilerine göz atabilirsiniz.
-              </p>
+              <h2>Kararı vermek için kısa kontrol listesi</h2>
+              <p>Alıcı kim, ürünü hangi anda kullanacak ve dağıtım ortamı uygun mu? Seçilen iki modelin aynı adet için toplam teklifleri karşılaştırıldı mı? Baskı ölçüsü, tasarım ve teslim planı net mi? Bu sorular cevaplanmadan yalnız marka algısı veya görünürlük iddiasıyla karar vermeyin.</p>
+              <p>Kalem seçimi için <Link href="/rehber/promosyon-kalem-secerken-nelere-dikkat-edilmeli">kalem seçim rehberine</Link>; çakmak için <Link href="/rehber/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta">çakmak satın alma kontrol listesine</Link> geçebilirsiniz.</p>
             </section>
 
             <section>
               <h2>Sık Sorulan Sorular</h2>
-
-              <h3>Promosyon çakmak mı kalem mi daha çok tercih edilir?</h3>
-              <p>
-                Her ikisi de çok tercih edilir. Ancak kullanım alanına göre öne çıkan
-                ürün değişir. Çakmak daha çok saha ve sosyal kullanımda, kalem ise
-                ofis ve kurumsal kullanımda öne çıkar.
-              </p>
-
-              <h3>En güvenli promosyon ürünü hangisidir?</h3>
-              <p>
-                Geniş hedef kitle için promosyon kalem genellikle daha güvenli bir
-                seçim olarak görülür. Çünkü kullanım alanı çok daha geniştir.
-              </p>
-
-              <h3>En ekonomik promosyon ürünü hangisi olur?</h3>
-              <p>
-                Bu sipariş adedine ve kalite seviyesine göre değişir. Bazı senaryolarda
-                promosyon çakmak, bazı senaryolarda promosyon kalem daha avantajlı
-                olabilir.
-              </p>
-
-              <h3>Promosyon kalem marka algısını güçlendirir mi?</h3>
-              <p>
-                Evet. Özellikle kurumsal toplantılar, ofis kullanımı ve profesyonel
-                temas noktalarında marka algısını olumlu etkileyebilir.
-              </p>
-
-              <h3>Promosyon çakmak marka görünürlüğünü artırır mı?</h3>
-              <p>
-                Evet. Günlük taşınabilir olması ve sosyal dolaşım içinde yer alması
-                sayesinde marka görünürlüğünü artırabilir.
-              </p>
+              {FAQ_ITEMS.map(({ question, answer }) => (
+                <div key={question}>
+                  <h3>{question}</h3>
+                  <p>{answer}</p>
+                </div>
+              ))}
             </section>
           </div>
 

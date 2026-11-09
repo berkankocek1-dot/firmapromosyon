@@ -7,9 +7,32 @@ const PAGE_URL = `${SITE_URL}/rehber/promosyon-cakmak-kullanim-alanlari`;
 const IMAGE_PATH = "/guides/promosyon-cakmak-kullanim-alanlari.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE =
-  "Promosyon Çakmak Nerelerde Kullanılır? Baskı Türleri ve Kullanım Rehberi";
+  "Promosyon Çakmak Kullanım Alanları | Dağıtım Senaryoları";
 const DESCRIPTION =
-  "Promosyon çakmak nerelerde kullanılır, ne işe yarar ve hangi baskı türleri uygulanır? Kullanım alanları, avantajları, baskı seçenekleri ve seçim ipuçlarıyla detaylı rehber.";
+  "Logo baskılı çakmağın müşteri ziyaretleri, bayi dağıtımı ve yetişkinlere yönelik etkinliklerde nasıl değerlendirilebileceğini kullanım senaryolarıyla inceleyin.";
+
+const FAQ_ITEMS = [
+  {
+    "question": "Promosyon çakmak hangi ortamlarda dağıtılabilir?",
+    "answer": "Yetişkinlere yönelik müşteri görüşmelerinde, bayi ziyaretlerinde veya ürünün alıcı ihtiyacıyla örtüştüğü etkinliklerde değerlendirilebilir. Dağıtım alanının kabul koşulları önceden teyit edilmelidir."
+  },
+  {
+    "question": "Her fuarda çakmak dağıtmak uygun mudur?",
+    "answer": "Hayır. Katılımcı profili, ürünün kullanıcı için anlamlı olup olmadığı ve organizatörün koşulları birlikte değerlendirilmelidir. Fuar katılımı tek başına çakmak seçimi için yeterli neden değildir."
+  },
+  {
+    "question": "İşletmede kullanılan çakmak ile promosyon çakmak arasındaki fark nedir?",
+    "answer": "İşletmenin kendi işinde kullandığı çakmak operasyonel bir araçtır. Logo taşıyan ürünün müşteriye veya iş ortağına tanıtım kapsamında verilmesi ise promosyon dağıtımıdır. Bu iki ihtiyaç için aynı model veya adet planı gerekmeyebilir."
+  },
+  {
+    "question": "Bayi dağıtımında bütün ürünler tek noktaya mı gönderilmeli?",
+    "answer": "Dağıtım yapısına göre değişir. Merkezden tek gönderim ile bayilere ayrı gönderim seçenekleri; paketleme, adet takibi, adres ve teslim planı bakımından değerlendirilmelidir."
+  },
+  {
+    "question": "Dağıtılan çakmak sayısı reklam başarısını gösterir mi?",
+    "answer": "Tek başına göstermez. Dağıtılan adet uygulamanın hacmini ifade eder; satış veya marka hatırlanırlığı etkisini kanıtlamaz. Kampanya için takip edilen başvurular ve ilgili müşteri geri bildirimleri ayrıca incelenebilir."
+  }
+];
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -86,7 +109,7 @@ export default function Page() {
     },
     image: [IMAGE_URL],
     datePublished: "2026-04-01",
-    dateModified: "2026-04-01",
+    dateModified: "2026-11-09",
   };
 
   const breadcrumbSchema = {
@@ -117,63 +140,25 @@ export default function Page() {
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: "Promosyon çakmak nerelerde kullanılır?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Promosyon çakmak; fuarlar, etkinlikler, restoranlar, kafeler, gece kulüpleri, kampanyalar, bayi toplantıları ve çeşitli müşteri temas noktalarında kullanılabilir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Promosyon çakmak ne için kullanılır?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Promosyon çakmak, marka bilinirliği oluşturmak, firmanın logosunu günlük hayatta görünür kılmak ve düşük maliyetli tanıtım yapmak için kullanılır.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Promosyon çakmak üzerine hangi baskılar yapılır?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Promosyon çakmaklarda en sık tampon baskı ve UV baskı uygulanır. Bazı premium modellerde lazer baskı da kullanılabilir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Promosyon çakmak kullanmanın avantajı nedir?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Düşük maliyet, kolay dağıtım, günlük kullanım sayesinde sürekli görünürlük ve marka hatırlanabilirliği promosyon çakmağın en büyük avantajlarıdır.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Minimum sipariş kaç adet olur?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Promosyon çakmaklarda minimum sipariş adedi modele göre değişmekle birlikte genellikle 100 ile 300 adet arasında olabilir.",
-        },
-      },
-    ],
+    mainEntity: FAQ_ITEMS.map(({ question, answer }) => ({
+      "@type": "Question", name: question,
+      acceptedAnswer: { "@type": "Answer", text: answer },
+    })),
   };
 
   return (
     <div className="bg-white">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema).replace(/</g, "\\u003c") }}
       />
 
       <section className="border-b border-gray-100 bg-gray-50">
@@ -211,7 +196,7 @@ export default function Page() {
             </div>
 
             <h1 className="mt-4 text-3xl font-extrabold leading-tight text-gray-900 md:text-4xl">
-              Promosyon Çakmak Nerelerde Kullanılır? Detaylı Rehber
+              Promosyon Çakmak Kullanım Alanları
             </h1>
 
             <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
@@ -226,26 +211,11 @@ export default function Page() {
             </div>
 
             <p className="mt-6 text-base leading-8 text-gray-700 md:text-lg">
-              <Link href="/promosyon-cakmak" className="font-semibold text-red-600 hover:underline">Promosyon çakmak</Link>, firmaların marka bilinirliğini artırmak için
-              kullandığı en etkili ve en ekonomik tanıtım ürünlerinden biridir.
-              Günlük hayatta sık kullanılan bu ürün, kullanıcı ile marka arasında
-              sürekli bir temas noktası oluşturabilir. Bu yönüyle klasik reklam
-              yöntemlerine göre daha uzun süreli ve daha doğal bir görünürlük sağlar.
-            </p>
-
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
-              Özellikle restoranlar, kafeler, gece kulüpleri, organizasyon
-              firmaları, kampanya yapan markalar ve bayi ağı olan işletmeler
-              promosyon çakmakları aktif şekilde kullanır. Hem pratik hem taşınabilir
-              hem de düşük maliyetli olması, bu ürünü promosyon dünyasında güçlü
-              bir seçenek haline getirir.
-            </p>
-
-            <p className="mt-4 text-base leading-8 text-gray-700 md:text-lg">
-              Bu rehberde promosyon çakmak nerelerde kullanılır, ne işe yarar,
-              hangi baskı türleri uygulanır, firmalara ne gibi avantajlar sağlar
-              ve doğru ürün seçimi nasıl yapılır gibi soruların tamamını detaylı
-              şekilde ele alacağız.
+              <Link href="/promosyon-cakmak" className="font-semibold text-red-600 hover:underline">Promosyon çakmak</Link>
+              için uygun kullanım alanı, yalnız işletmenin sektörüne göre belirlenmez.
+              Ürünün kime verileceği, o kişinin ihtiyacı ve dağıtım ortamı birlikte
+              değerlendirilmelidir. Bu rehber, yetişkinlere yönelik kurumsal dağıtım
+              senaryolarını ve her senaryoda planlanacak noktaları açıklar.
             </p>
           </header>
 
@@ -262,212 +232,61 @@ export default function Page() {
             "
           >
             <section>
-              <h2>Promosyon çakmak nerelerde kullanılır?</h2>
-              <p>
-                <strong>Promosyon çakmak kullanım alanları</strong> oldukça
-                geniştir. En yaygın kullanım alanları arasında fuarlar, etkinlikler,
-                tanıtım kampanyaları ve açılış organizasyonları bulunur. Firmalar
-                bu tür organizasyonlarda çakmak dağıtarak hem marka görünürlüğünü
-                artırır hem de kullanıcıya gerçekten işe yarayan bir ürün sunmuş olur.
-              </p>
-
-              <p>
-                Bunun dışında restoranlar ve kafeler de promosyon çakmak kullanımında
-                öne çıkan sektörler arasındadır. Özellikle müşteriye temasın yoğun
-                olduğu mekanlarda, logo baskılı çakmaklar markanın hatırlanmasını
-                kolaylaştırabilir. Gece kulüpleri, beach işletmeleri, eğlence
-                mekanları ve etkinlik alanları da bu ürünün sık kullanıldığı
-                alanlardandır.
-              </p>
-
-              <p>
-                Ayrıca bayi ağı olan firmalar, distribütörler, saha ekipleri ve
-                müşteri ziyaretleri yapan işletmeler de promosyon çakmakları
-                düzenli şekilde kullanabilir. Çünkü küçük boyutlu, taşınabilir ve
-                dağıtımı kolay bir ürün olması, onu saha promosyonları için son
-                derece uygun hale getirir.
-              </p>
+              <h2>Müşteri ziyaretleri ve birebir görüşmeler</h2>
+              <p>Bir işletme, ürünü kullanabilecek yetişkin müşterilerine görüşme sonrasında logo baskılı çakmak sunmayı değerlendirebilir. Her görüşmeye aynı hediyeyi götürmek yerine müşterinin kullanım alışkanlığı ve kurumsal hediye kabul yaklaşımı dikkate alınmalıdır.</p>
+              <p>Bu senaryoda ürünün kolay taşınması, dağıtım görevlisinin kaç görüşme yapacağı ve yanında tutacağı miktar önem kazanır. Çakmağın verilmesi görüşmenin sonucunu veya satış yapılacağını garanti etmez.</p>
             </section>
 
             <section>
-              <h2>Promosyon çakmak ne için kullanılır?</h2>
-              <p>
-                Promosyon çakmakların temel kullanım amacı reklam ve marka
-                görünürlüğüdür. Ancak bu reklam klasik reklamlardan farklıdır.
-                Çünkü kullanıcı ürünü eline alır, cebinde taşır ve ihtiyaç anında
-                aktif olarak kullanır. Bu da markanın yalnızca görülmesini değil,
-                aynı zamanda günlük yaşama dahil olmasını sağlar.
-              </p>
-
-              <p>
-                Her kullanımda marka adı yeniden görünür hale gelir. Bu tekrar,
-                marka bilinirliği, hatırlanabilirlik ve güven oluşturma açısından
-                önemli avantaj sağlar. Özellikle küçük ve orta ölçekli işletmeler
-                için düşük bütçeyle yüksek görünürlük sunan promosyon araçları
-                arasında çakmak çok güçlü bir konumdadır.
-              </p>
-
-              <p>
-                Kısacası promosyon çakmak yalnızca dağıtılan bir ürün değildir;
-                uzun süreli bir reklam yüzeyi olarak da düşünülmelidir.
-              </p>
+              <h2>Bayi ve iş ortağı dağıtımları</h2>
+              <p>Bayi ağı olan işletmeler, uygun alıcı profili bulunuyorsa ürünleri merkezden bayilere ulaştırabilir. Bayinin ürünü kendi ekibinde mi kullanacağı yoksa müşterilerine mi vereceği baştan belirlenmelidir.</p>
+              <p>Tek merkezden sevkiyat ile her bayiye ayrı paket hazırlamak farklı operasyonlardır. Bayi başına adet, paket etiketi, teslim adresi ve dağıtım tarihi planlanmalıdır. Ortak marka veya bayi bilgisi kullanılacaksa her tasarımın onayı ayrı alınmalıdır.</p>
             </section>
 
             <section>
-              <h2>Promosyon çakmak üzerine hangi baskılar yapılır?</h2>
-              <p>
-                Promosyon çakmaklarda en çok tercih edilen baskı türleri tampon
-                baskı ve UV baskıdır. Ürünün yüzeyi, logo yapısı ve istenen
-                görsel etkiye göre baskı tercihi değişebilir.
-              </p>
-
-              <h3>Tampon baskı</h3>
-              <p>
-                Tampon baskı, özellikle tek renkli ve sade logolar için ekonomik
-                bir çözümdür. Geniş adetli siparişlerde maliyet avantajı sağladığı
-                için sık tercih edilir. Özellikle fuar ve kampanya dağıtımlarında
-                tampon baskılı promosyon çakmaklar oldukça yaygındır.
-              </p>
-
-              <h3>UV baskı</h3>
-              <p>
-                UV baskı, daha canlı ve dikkat çekici sonuçlar verdiği için çok
-                renkli logolarda veya görsel etkisi yüksek tasarımlarda tercih
-                edilebilir. Marka görünümünü güçlendirmek isteyen firmalar için
-                estetik açıdan başarılı bir seçenektir.
-              </p>
-
-              <h3>Lazer baskı</h3>
-              <p>
-                Bazı premium promosyon çakmak modellerinde lazer baskı da
-                kullanılabilir. Bu baskı türü daha kalıcı, daha şık ve daha
-                profesyonel bir görünüm sunabilir. Özellikle üst segment ürünlerde
-                tercih edilebilir.
-              </p>
+              <h2>Yetişkinlere yönelik fuar ve etkinlikler</h2>
+              <p>Çakmak, katılımcı ihtiyacıyla örtüşen ve organizatörün kabul ettiği etkinliklerde bir dağıtım seçeneği olabilir. Her fuar veya kalabalık etkinlik için uygun olduğu varsayılmamalıdır.</p>
+              <p>Standda herkese dağıtım ile ilgili ziyaretçilere görüşme sonunda sunum aynı plan değildir. Hedeflenen ziyaretçi grubu, günlük miktar ve dağıtımın kim tarafından yapılacağı belirlenmelidir. Karma yaş gruplu veya ürünün ihtiyaca uymadığı etkinliklerde alternatif ürün değerlendirilmelidir.</p>
             </section>
 
             <section>
-              <h2>Promosyon çakmak kullanmanın avantajları nelerdir?</h2>
-              <p>
-                Promosyon çakmağın en büyük avantajı düşük maliyetli olmasıdır.
-                Görece küçük bütçelerle çok sayıda kişiye ulaşmak mümkündür. Bu da
-                özellikle yaygın dağıtım yapmak isteyen firmalar için büyük avantaj sağlar.
-              </p>
-
-              <ul>
-                <li>Düşük maliyetle geniş kitlelere ulaşma imkanı sunar.</li>
-                <li>Kullanışlı olduğu için elde tutulma ihtimali yüksektir.</li>
-                <li>Küçük boyutu sayesinde taşıması ve dağıtması kolaydır.</li>
-                <li>Logo baskısı ile uzun süreli görünürlük sağlayabilir.</li>
-                <li>Fuar, kampanya ve saha çalışmaları için uygundur.</li>
-                <li>Marka hatırlanabilirliğini artırmaya yardımcı olabilir.</li>
-              </ul>
-
-              <p>
-                Ayrıca çakmak gibi günlük kullanım ürünleri, broşür veya kartvizit
-                gibi materyallere göre daha uzun süre elde kalabilir. Bu da reklamın
-                ömrünü uzatır.
-              </p>
+              <h2>Kafe, restoran ve konaklama işletmelerinde iki farklı ihtiyaç</h2>
+              <p>İşletmenin kendi faaliyetinde kullandığı çakmak ile müşteriye verilen logo baskılı ürün farklı amaçlara hizmet eder. İşletme içi kullanım için alınan miktar, promosyon dağıtımının başarısı veya kapsamı olarak değerlendirilmemelidir.</p>
+              <p>Müşteriye verilecek ürün için yetişkin alıcı profili ve gerçek kullanım ihtiyacı dikkate alınmalıdır. Bir işletmenin kafe, restoran veya otel olması, çakmağın bütün müşteriler için uygun bir hediye olduğu anlamına gelmez.</p>
             </section>
 
             <section>
-              <h2>Hangi sektörler promosyon çakmak için daha uygundur?</h2>
-              <p>
-                Promosyon çakmak özellikle müşteri teması yüksek olan ve dağıtımın
-                kolay yapılabildiği sektörlerde daha etkilidir. Restoranlar, kafeler,
-                gece kulüpleri, organizasyon şirketleri, etkinlik firmaları, nargile
-                kafeler, sahil işletmeleri ve kampanya yapan perakende markalar bu
-                ürün için uygun örneklerdir.
-              </p>
-
-              <p>
-                Bunun yanında bayi ağıyla çalışan firmalar, saha satış ekipleri
-                bulunan markalar, tütün aksesuarı satan işletmeler ve yerel görünürlük
-                hedefleyen işletmeler için de promosyon çakmak mantıklı bir tercih olabilir.
-              </p>
-
-              <p>
-                Yani ürün, en çok günlük yaşamla temasın güçlü olduğu ve marka
-                görünürlüğünün tekrar tekrar istenildiği sektörlerde verimli sonuç verir.
-              </p>
+              <h2>Mağaza kampanyaları ve dönemsel dağıtımlar</h2>
+              <p>Belirli bir kampanyada çakmak sunulacaksa amaç netleştirilmelidir: mevcut müşteriye teşekkür, ziyaret sonrası hatırlatma veya bayi kampanyasına destek gibi. Kampanya mesajı ile ürünün kullanım alanı arasında anlamlı bir ilişki aranmalıdır.</p>
+              <p>Başlangıç ve bitiş tarihleri, katılacak şubeler ve dağıtılacak miktar kayıtlı olsun. Ürün üzerinde tarih veya dönemsel mesaj varsa kampanya sonunda kalan ürünün tekrar kullanılabilirliği de planlanmalıdır.</p>
             </section>
 
             <section>
-              <h2>Promosyon çakmak mı diğer promosyon ürünler mi?</h2>
-              <p>
-                Promosyon çakmak oldukça etkili bir ürün olsa da her sektör için
-                tek doğru seçenek olmayabilir. Bazı firmalarda farklı promosyon
-                ürünleri daha avantajlı olabilir.
-              </p>
-
-              <p>
-                Örneğin <Link href="/promosyon-kalem">promosyon kalem</Link> ofis
-                kullanımı için oldukça uygundur. <Link href="/promosyon-anahtarlik">
-                  promosyon anahtarlık
-                </Link>{" "}
-                ise sürekli taşınan ve görünürlüğü yüksek ürünler arasında yer alır.
-              </p>
-
-              <p>
-                Daha prestijli ve premium hediye ihtiyacı olan firmalar için{" "}
-                <Link href="/promosyon-termos">promosyon termos</Link> ve{" "}
-                <Link href="/promosyon-usb-bellek">promosyon USB bellek</Link>{" "}
-                gibi ürünler daha uygun olabilir. Ancak maliyet-performans
-                açısından bakıldığında promosyon çakmak hâlâ çok güçlü bir
-                alternatiftir.
-              </p>
+              <h2>Çakmak yerine başka ürün ne zaman değerlendirilmeli?</h2>
+              <p>Alıcıların çakmak ihtiyacı yoksa veya dağıtım ortamı uygun değilse farklı bir promosyon ürünü seçilebilir. Yazı yazılan görüşme ve eğitim ortamlarında <Link href="/promosyon-kalem">kalem</Link>, fiziksel anahtar teslimi yapılan temaslarda <Link href="/promosyon-anahtarlik">anahtarlık</Link> seçenekleri değerlendirilebilir.</p>
+              <p>Ürünler arasında genel bir kazanan belirlemek yerine kullanım anını karşılaştırın. Daha ayrıntılı bir karar çerçevesi için <Link href="/rehber/promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi">çakmak mı kalem mi rehberine</Link> geçebilirsiniz.</p>
             </section>
 
             <section>
-              <h2>Promosyon çakmak seçerken nelere dikkat edilmeli?</h2>
-              <p>
-                Promosyon çakmak seçerken kalite, baskı alanı, kullanım kolaylığı
-                ve hedef kitle mutlaka dikkate alınmalıdır. Kalitesiz ürünler kısa
-                sürede bozulabilir veya baskısı silinebilir. Bu da marka imajını
-                olumsuz etkileyebilir.
-              </p>
+              <h2>Dağıtım planı nasıl takip edilir?</h2>
+              <p>Başlangıç adedi, dağıtılan miktar ve kalan ürünü etkinlik veya bayi bazında kaydedin. Bu kayıtlar stok ve dağıtım takibini sağlar; ürünün ne kadar süre kullanıldığını tek başına göstermez.</p>
+              <p>Kampanya için bir başvuru kanalı veya müşteri geri bildirimi takip ediliyorsa sonuçları ayrıca inceleyin. Aynı dönemdeki diğer tanıtım çalışmalarını hesaba katmadan bütün sonucu çakmağa bağlamayın.</p>
+            </section>
 
-              <p>
-                Ayrıca sipariş adedinin doğru planlanması da önemlidir. Yüksek
-                adetli siparişlerde birim maliyet genellikle daha avantajlı hale
-                gelir. Bunun yanında ürünün hangi sektörde ve hangi amaçla
-                kullanılacağına göre model seçimi de değişebilir.
-              </p>
-
-              <p>
-                Eğer ürün geniş dağıtım için kullanılacaksa ekonomik modeller
-                mantıklı olabilir. Daha seçilmiş hedef kitle için ise biraz daha
-                kaliteli ve estetik modeller tercih edilebilir.
-              </p>
+            <section>
+              <h2>Model seçimi ve teklif için devam bağlantıları</h2>
+              <p>Bu sayfa kullanım ve dağıtım planına odaklanır. Mekanizma, baskı onayı ve teslim kontrolleri için <Link href="/rehber/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta">çakmak satın alma rehberini</Link>; maliyet kalemleri için <Link href="/rehber/promosyon-cakmak-fiyatlari">çakmak fiyatları rehberini</Link> inceleyebilirsiniz.</p>
+              <p>Ürün tanımını öğrenmek için <Link href="/rehber/promosyon-cakmak-nedir">promosyon çakmak nedir</Link> içeriğine, güncel model seçenekleri için ana kategoriye geçebilirsiniz.</p>
             </section>
 
             <section>
               <h2>Sık Sorulan Sorular</h2>
-
-              <h3>Promosyon çakmak nerelerde kullanılır?</h3>
-              <p>
-                Fuarlar, etkinlikler, restoranlar, kafeler, gece kulüpleri,
-                kampanyalar, bayi toplantıları ve çeşitli müşteri temas noktalarında
-                kullanılabilir.
-              </p>
-
-              <h3>Promosyon çakmak ne işe yarar?</h3>
-              <p>
-                Marka görünürlüğü sağlar, kullanıcıyla tekrar eden temas oluşturur
-                ve düşük maliyetli reklam imkanı sunar.
-              </p>
-
-              <h3>En iyi baskı hangisidir?</h3>
-              <p>
-                Görsellik için UV baskı, maliyet avantajı için tampon baskı sık
-                tercih edilir. Premium modellerde lazer baskı da kullanılabilir.
-              </p>
-
-              <h3>Minimum sipariş kaç adet olur?</h3>
-              <p>
-                Modele göre değişmekle birlikte genellikle 100 ile 300 adet arası
-                sipariş alt sınırı görülebilir.
-              </p>
+              {FAQ_ITEMS.map(({ question, answer }) => (
+                <div key={question}>
+                  <h3>{question}</h3>
+                  <p>{answer}</p>
+                </div>
+              ))}
             </section>
           </div>
 
@@ -510,7 +329,7 @@ export default function Page() {
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <Link
-              href="/teklif"
+              href="/kurumsal-teklif-al"
               className="inline-flex items-center justify-center rounded-2xl bg-black px-6 py-3 text-sm font-semibold text-white transition hover:bg-gray-900"
             >
               Teklif Al

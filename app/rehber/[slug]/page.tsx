@@ -18,11 +18,36 @@ type Guide = {
   ctaProductSlug?: string;
   keywords?: string[];
   image?: string;
+  dateModified?: string;
+  faq?: { question: string; answer: string }[];
 };
 
 const guides: Guide[] = [
   {
   slug: "dtf-baski-nedir",
+  dateModified: "2026-11-09",
+  faq: [
+  {
+    "question": "DTF ile UV DTF aynı işlem mi?",
+    "answer": "Bu rehberdeki DTF, filme basılan tasarımın tekstile transfer edilmesini anlatır. Sert yüzeyler için kullanılan UV DTF ile aynı işlem olarak değerlendirilmemelidir."
+  },
+  {
+    "question": "Her tekstil ürünü DTF baskıya uygun mu?",
+    "answer": "Tekstil olması tek başına yeterli değildir. Kumaş, kaplama, ürünün biçimi ve uygulama koşulları birlikte değerlendirilmelidir. Isıya hassas veya özel yüzeylerde uygunluk ayrıca teyit edilmelidir."
+  },
+  {
+    "question": "Her kumaş için aynı pres ayarı kullanılabilir mi?",
+    "answer": "Bütün ürünlere uygulanabilecek ortak bir sıcaklık, süre veya basınç değeri kabul edilmemelidir. Transfer malzemesinin talimatı ve kumaşın özellikleri esas alınmalıdır."
+  },
+  {
+    "question": "DTF baskı için sabit bir yıkama ömrü var mı?",
+    "answer": "Kullanım ömrü transfer malzemesine, uygulamaya, kumaşa ve bakım şekline bağlıdır. Ürün etiketiyle uygulayıcının talimatları birlikte izlenmeli; bütün baskılar için aynı yıkama sayısı varsayılmamalıdır."
+  },
+  {
+    "question": "DTF baskı teklifi için hangi bilgiler gerekir?",
+    "answer": "Ürün modeli ve kumaşı, adet, baskının ölçüsü ve konumu, tasarım dosyası ve ihtiyaç tarihi paylaşılmalıdır. Birden fazla alan varsa her alan ayrıca belirtilmeli; ürün, uygulama, KDV ve kargo kapsamı netleştirilmelidir."
+  }
+],
   title: "DTF Baskı Nedir? Nasıl Yapılır? Avantajları ve Kullanım Alanları",
   description:
     "DTF baskı nedir, nasıl yapılır? Filmden tekstile transfer sürecini, avantajlarını, kumaş uygunluğunu ve baskılı ürün bakımında dikkat edilecekleri öğrenin.",
@@ -73,163 +98,108 @@ const guides: Guide[] = [
   ctaProductSlug: "dtf-baskili-tisort",
 },
   {
-  slug: "promosyon-kupa-baski",
-  title: "Promosyon Kupa Baskı Rehberi: Toplu Sipariş, Baskı Türleri ve Fiyatlandırma",
-  description:
-    "Promosyon kupa baskı nasıl yapılır? Logo baskılı kupalarda baskı türleri, fiyatı etkileyen faktörler ve kurumsal sipariş süreci detaylı rehber.",
-  h1: "Promosyon Kupa Baskı Rehberi",
-  image: "/guides/promosyon-kupa-baski.jpg",
-  keywords: [
-    "promosyon kupa",
-    "kupa baskı",
+  "slug": "promosyon-kupa-baski",
+  "title": "Promosyon Kupa Baskı Rehberi | Model, Logo ve Sipariş Kontrolü",
+  "description": "Logo baskılı kupada model ve kaplama uygunluğu, baskı yerleşimi, numune, teklif ve ambalaj koşullarını birlikte değerlendirin.",
+  "h1": "Promosyon Kupa Baskı Rehberi",
+  "image": "/guides/promosyon-kupa-baski.jpg",
+  "dateModified": "2026-11-09",
+  "keywords": [
+    "promosyon kupa baskı",
     "logo baskılı kupa",
-    "promosyon kupa fiyatları",
-    "toptan kupa baskı",
-    "kurumsal kupa"
+    "kupa baskı rehberi",
+    "kurumsal kupa siparişi"
   ],
-  sections: [
+  "faq": [
     {
-      title: "Promosyon Kupa Baskı Nedir?",
-      body: `
-Promosyon kupa baskı, firmaların logo, slogan veya marka kimliğini seramik kupa gibi ürünler üzerine uygulayarak oluşturduğu reklam ve tanıtım ürünleridir.
-
-Günlük kullanımda sıkça tercih edilen kupalar, markaların görünürlüğünü artırmak için oldukça etkili bir promosyon aracıdır. Özellikle ofis ortamlarında, fuarlarda ve kurumsal hediyelerde sıkça tercih edilir.
-
-Logo baskılı kupalar, hem ekonomik hem de uzun süre kullanılan ürünler olduğu için reklam açısından yüksek geri dönüş sağlar.
-      `,
+      "question": "Her beyaz seramik kupa sublimasyona uygun mu?",
+      "answer": "Hayır. Sublimasyon için yüzeyin uygun kaplamaya sahip olması gerekir. Seçilen modelin uygulama uygunluğu ayrıca teyit edilmelidir."
     },
     {
-      title: "Promosyon Kupada Hangi Baskı Türleri Kullanılır?",
-      body: `
-Promosyon kupa üretiminde farklı baskı teknikleri kullanılabilir. Seçilecek yöntem; adet, tasarım ve bütçeye göre belirlenir.
-
-En yaygın kullanılan baskı türleri şunlardır:
-
-• Sublimasyon Baskı  
-Fotoğraf kalitesinde baskı sağlar. Renk geçişleri oldukça başarılıdır. Genellikle tam yüzey baskılarda tercih edilir.
-
-• Serigrafi Baskı  
-Tek veya az renkli logolarda kullanılır. Yüksek adetli siparişlerde maliyet avantajı sağlar.
-
-• UV Baskı  
-Canlı renkler ve detaylı baskılar için uygundur. Özel tasarımlarda tercih edilir.
-
-Her baskı türünün avantajı farklıdır. Bu yüzden doğru teknik seçimi hem maliyet hem kalite açısından kritik öneme sahiptir.
-      `,
+      "question": "Tek yüz ile çift yüz baskı nasıl tarif edilmeli?",
+      "answer": "Logonun kulpa göre hangi tarafta yer alacağı, diğer yüzde ne bulunacağı ve her tasarımın ölçüsü onay görselinde gösterilmelidir. Her modelin kullanılabilir alanı ayrıca öğrenilmelidir."
     },
     {
-      title: "Promosyon Kupa Fiyatlarını Neler Belirler?",
-      body: `
-Promosyon kupa fiyatları sabit değildir ve birçok faktöre göre değişiklik gösterir.
-
-Fiyatı etkileyen başlıca unsurlar:
-
-• Sipariş adedi  
-Adet arttıkça birim maliyet düşer. Toptan siparişlerde ciddi avantaj sağlanır.
-
-• Baskı türü  
-Sublimasyon, UV veya serigrafi baskı fiyatları farklıdır.
-
-• Baskı alanı  
-Tam yüzey baskı ile tek taraf baskı arasında fiyat farkı oluşur.
-
-• Tasarım detayları  
-Renk sayısı ve tasarım karmaşıklığı maliyeti etkiler.
-
-• Ürün kalitesi  
-Kupanın seramik kalitesi ve kaplama türü fiyatı değiştirir.
-
-Kurumsal siparişlerde genellikle adet bazlı özel fiyatlandırma yapılır.
-      `,
+      "question": "Baskılı kupa makinede yıkanabilir mi?",
+      "answer": "Bütün modeller için ortak bir uygunluk varsayılmamalıdır. Kupanın ve uygulanan baskının bakım talimatları birlikte esas alınmalıdır."
     },
     {
-      title: "Toplu Promosyon Kupa Siparişi Nasıl Verilir?",
-      body: `
-Kurumsal kupa sipariş süreci oldukça hızlı ve pratiktir.
-
-Genellikle şu adımlar izlenir:
-
-1. Ürün modeli seçilir  
-2. Adet bilgisi belirlenir  
-3. Logo veya tasarım paylaşılır  
-4. Baskı türü belirlenir  
-5. Teklif hazırlanır  
-6. Onay sonrası üretim başlar  
-
-Bu süreçte doğru ürün seçimi ve baskı planlaması, hem maliyet hem de teslim süresi açısından büyük önem taşır.
-      `,
+      "question": "Kupa fiyatı baskı ve kutu dahil mi?",
+      "answer": "Teklif kapsamına göre değişir. Ürün, baskı, hazırlık, tekli kutu, KDV ve kargo kapsamı yazılı olarak belirtilmelidir."
     },
     {
-      title: "Promosyon Kupa Neden Tercih Edilmeli?",
-      body: `
-Promosyon kupalar, en etkili reklam ürünlerinden biridir.
-
-Tercih edilme nedenleri:
-
-• Günlük kullanım ürünü olması  
-• Marka görünürlüğünü artırması  
-• Uzun ömürlü olması  
-• Uygun maliyetli olması  
-• Kurumsal imajı güçlendirmesi  
-
-Bir kupa, gün içinde defalarca kullanıldığı için markanız sürekli göz önünde olur. Bu da diğer promosyon ürünlerine göre çok daha güçlü bir reklam etkisi sağlar.
-      `,
-    },
-    {
-      title: "Promosyon Kupalar Nerelerde Kullanılır?",
-      body: `
-Promosyon kupalar birçok alanda kullanılabilir:
-
-• Kurumsal firmalarda çalışanlara dağıtım  
-• Müşterilere hediye ürün  
-• Fuar ve etkinlik promosyonları  
-• Ofis kullanımı  
-• Özel kampanya ve lansmanlar  
-
-Özellikle markasını büyütmek isteyen firmalar için vazgeçilmez bir promosyon ürünüdür.
-      `,
-    },
-    {
-      title: "Kupa Baskıda Kalite Nasıl Anlaşılır?",
-      body: `
-Kaliteli bir promosyon kupa baskı için dikkat edilmesi gerekenler:
-
-• Baskının silinmemesi ve solmaması  
-• Renklerin canlı olması  
-• Baskının yüzeye düzgün oturması  
-• Kupada çatlak veya deformasyon olmaması  
-
-Kaliteli baskı, markanızın prestijini doğrudan etkiler. Bu nedenle düşük kalite üretimlerden kaçınılmalıdır.
-      `,
-    },
-    {
-      title: "Promosyon Kupa Siparişinde Dikkat Edilmesi Gerekenler",
-      body: `
-Sipariş verirken şu detaylara dikkat edilmelidir:
-
-• Doğru ürün seçimi  
-• Baskı alanı ve ölçüleri  
-• Logo çözünürlüğü  
-• Termin süresi  
-• Numune talebi  
-
-Bu detaylar hem üretim sürecini hem de son ürün kalitesini doğrudan etkiler.
-      `,
-    },
-    {
-      title: "Sonuç",
-      body: `
-Promosyon kupa baskı, hem ekonomik hem de etkili bir reklam yöntemidir.
-
-Doğru baskı tekniği ve doğru ürün seçimi ile markanızı uzun süre görünür kılabilirsiniz.
-
-Eğer siz de kurumsal tanıtımınızı güçlendirmek ve müşterilerinize kalıcı bir ürün sunmak istiyorsanız, promosyon kupa baskı en doğru tercihlerden biridir.
-      `,
-    },
+      "question": "Baskısız kupa numunesi yeterli mi?",
+      "answer": "Baskısız numune ürünün fiziksel özelliklerini değerlendirmeye yardımcı olur. Logo görünümünü ve yerleşimini değerlendirmek için tasarım onayı, gerekiyorsa baskılı numune koşulları ayrıca belirlenmelidir."
+    }
   ],
+  "sections": [
+    {
+      "title": "Kupa modeli ile baskı yöntemi birlikte seçilmeli",
+      "body": "Promosyon kupa baskı, seçilen kupaya işletmenin logosu veya tasarımının uygulanmasıdır. Modelin malzemesi, kaplaması ve biçimi kullanılabilecek yöntemi etkiler. Aynı görünen iki kupanın baskı uygunluğu aynı olmayabilir.\n\nÖnce model kodunu, hacim ve ölçü bilgisini doğrulayın. Ardından tasarımınızın hangi yüzeye ve hangi yöntemle uygulanabileceğini teyit edin. Bütün kupaların aynı uygulamaya uygun olduğu varsayılmamalıdır."
+    },
+    {
+      "title": "Sublimasyon için kaplama uygunluğu",
+      "body": "Sublimasyon uygulamasında kupa yüzeyinin bu işlem için uygun kaplamaya sahip olması gerekir. Her beyaz seramik kupa sublimasyon kupası değildir. Seçilen modelin uygunluğu ürün bilgisi ve tedarik teyidiyle doğrulanmalıdır.\n\nKupa rengi, tasarım ve kaplama birlikte değerlendirilir. Fotoğrafın ekranda iyi görünmesi fiziksel kupada aynı sonucu garanti etmez. Model üzerinde örnek baskı değerlendirilmelidir."
+    },
+    {
+      "title": "Diğer yöntemler için model bazında teyit",
+      "body": "Serigrafi, transfer veya UV gibi yöntemler teklif değerlendirmesinde gündeme gelebilir. Ancak her yöntem her kupa modelinde mevcut veya uygun kabul edilmemelidir. Uygulanabilir alan, tasarım renkleri ve üretim koşulları seçilen model için konuşulmalıdır.\n\nBir yöntemin adını duymak; yıkama, mikrodalga kullanımı veya belirli bir kullanım ömrü hakkında sonuç çıkarmak için yeterli değildir. Nihai ürün ve uygulamanın talimatları esas alınmalıdır."
+    },
+    {
+      "title": "Kulpa göre logo konumu ve baskı alanı",
+      "body": "Tek yüz, iki yüz veya çevresel yerleşim aynı tasarım değildir. Logonun kulpa göre hangi tarafta görüneceğini, karşı yüzde ne bulunacağını ve baskının ölçüsünü onay görselinde belirtin.\n\nKupanın dış ölçüsü kullanılabilir baskı alanıyla aynı olmayabilir. Kulpa ve kenarlara yakın bölgelerdeki uygulama sınırlarını teyit edin. Tam yüzey ifadesini tüm kupalarda aynı ölçüyü veya kapsamı anlatan bir terim gibi kullanmayın."
+    },
+    {
+      "title": "Dosya ve renk onayı",
+      "body": "Varsa vektörel logo dosyasını paylaşın. Fotoğraflı tasarım kullanılacaksa dosyanın istenen baskı boyutunda uygunluğunu uygulayıcıyla kontrol edin. Kabul edilen dosya biçimi ve hazırlık koşulları ayrıca netleştirilmelidir.\n\nLogo, yazım, konum, ölçü, gövde rengi ve tasarımın son sürümü yazılı onayda yer alsın. Ekran rengiyle fiziksel baskı arasında fark oluşabileceğinden kritik renk beklentisini numune üzerinden değerlendirin."
+    },
+    {
+      "title": "Numunede ürün ile baskıyı ayrı inceleyin",
+      "body": "Baskısız numunede kulp tutuşunu, yüzey görünümünü, ürün ölçüsünü ve model eşleşmesini kontrol edin. Baskılı numunede logo yerleşimi, çizgi ve harflerin okunurluğu ile beklenen renk görünümünü ayrıca değerlendirin.\n\nNumunenin seri siparişle aynı model ve kaplamaya sahip olduğunu teyit edin. Numune bedeli ve hazırlık süresi de teslim planına dahil edilmelidir. Tek numune tüm siparişin aynı performansa sahip olduğunu kanıtlamaz."
+    },
+    {
+      "title": "Birim fiyat ile toplam sipariş bedelini ayırın",
+      "body": "Aynı model, adet, baskı alanı ve ambalajla teklif alın. Ürün, baskı, varsa hazırlık, kutulama, KDV ve kargo kapsamını kontrol edin. Baskı zaten birim tutara dahilse tekrar eklemeyin.\n\nMinimum adet model ve uygulamaya göre teyit edilmelidir. Adet artışı otomatik birim indirim veya daha düşük toplam ödeme anlamına gelmez. İhtiyaca yakın iki miktar için aynı kapsamlı teklifleri karşılaştırın."
+    },
+    {
+      "title": "Paketleme, teslim ve bakım bilgisi",
+      "body": "Tekli kutu, toplu koli veya set içinde sunum farklı ambalaj ihtiyaçları doğurabilir. Paketleme kapsamını, sevkiyat adresini ve teslim planını sipariş öncesinde netleştirin. Tasarım onayı ile kargoya veriliş ve teslim alınma tarihlerini ayırın.\n\nTeslimde model, adet, fiziksel hasar ve baskı yerleşimini onay kaydıyla karşılaştırın. Yıkama ve mikrodalga kullanımı için seçilen kupanın ve baskı uygulamasının talimatlarını birlikte izleyin; bütün baskılı kupalar için ortak bir uygunluk kabul etmeyin."
+    },
+    {
+      "title": "Sipariş özeti",
+      "body": "Model kodu veya ürün bağlantısı, adet, gövde rengi, tasarım dosyası, logo konumu, baskı ölçüsü, ambalaj beklentisi, teslim adresi ve istenen tarihi paylaşın. Teklifin geçerlilik süresini ve stok bilgisini sorun.\n\nLogo baskılı kupa alıcı ihtiyacıyla örtüştüğünde kurumsal bir hediye seçeneği olabilir. Ürünü dağıtmak tek başına satış veya marka bağlılığı sonucu göstermez."
+    }
+  ]
 },
   {
   slug: "promosyon-kalem-toptan",
+  dateModified: "2026-11-09",
+  faq: [
+  {
+    "question": "Toplu kalem siparişinde ilk hangi bilgiler paylaşılmalı?",
+    "answer": "Model veya alternatifler, adet, gövde rengi, logo dosyası, basılacak yüzler, teslim adresi ve ihtiyaç tarihi paylaşılmalıdır. Kutu veya şubelere ayrı paketleme isteniyorsa ayrıca belirtilmelidir."
+  },
+  {
+    "question": "Kutu içi adet minimum sipariş miktarı mı?",
+    "answer": "Tek başına değildir. Minimum sipariş koşulu seçilen model, baskı uygulaması ve güncel temin koşullarına göre ayrıca teyit edilmelidir."
+  },
+  {
+    "question": "Aynı siparişte farklı renk veya tasarım olabilir mi?",
+    "answer": "Modelin stok ve uygulama koşullarına göre teyit edilmelidir. Her renk ve tasarım için miktar ayrı belirtilmeli; hazırlık ve minimum adet kapsamına etkisi sorulmalıdır."
+  },
+  {
+    "question": "Tasarım onayında neler kontrol edilmeli?",
+    "answer": "Model kodu, gövde rengi, logo boyutu, baskı konumu, yönü, yüz sayısı ve varsa ek metinler kontrol edilmelidir. Mürekkep rengi de ayrı teyit edilmelidir."
+  },
+  {
+    "question": "Farklı şubelere dağıtım nasıl planlanmalı?",
+    "answer": "Şube başına miktar, paket içeriği, adres ve teslim planı ayrı yazılmalıdır. Etiketleme, paketleme ve sevkiyat bedellerinin teklif kapsamı ayrıca kontrol edilmelidir."
+  },
+  {
+    "question": "Teslim alınan kalemlerde neler kontrol edilmeli?",
+    "answer": "Adet, model, gövde rengi, varsa mürekkep tercihi, baskı yerleşimi ve ambalaj sipariş onayıyla karşılaştırılmalıdır. Eksik veya hatalı ürün bildirim süreci sipariş öncesinde öğrenilmelidir."
+  }
+],
   title: "Toplu Kalem Siparişi | Logo Baskılı Promosyon Kalem",
   description:
     "Toplu kalem siparişi öncesinde model, adet, logo baskı ve teslimat detaylarını planlayın. Toptan promosyon kalem için teklif hazırlığını adım adım inceleyin.",
@@ -269,7 +239,15 @@ Eğer siz de kurumsal tanıtımınızı güçlendirmek ve müşterilerinize kal�
   {
     "title": "Toplu Kalem Siparişi Adım Adım Nasıl Verilir?",
     "body": "1. Kalem modelini veya karşılaştırmak istediğiniz alternatifleri seçin.\n2. Sipariş adedini, gövde rengini ve yazım tercihinizi belirtin.\n3. Logo dosyasını, baskı yönünü ve eklenecek metinleri paylaşın.\n4. Teslimat adresini ve ihtiyaç tarihinizi iletin.\n5. Ürün, baskı, ambalaj, kargo ve KDV kapsamını içeren teklifi değerlendirin.\n6. Logo yerleşimini ve sipariş detaylarını kontrol ederek onaylayın.\n\nTeklif talebinizi şu bilgilerle hazırlayabilirsiniz: “Model veya ürün kodu: … / Adet: … / Gövde rengi: … / Baskı: tek veya çift yön / Logo dosyası: … / İhtiyaç tarihi: … / Teslimat ili: …”\n\nModel seçeneklerini inceleyerek başlayabilir veya kullanım amacınızı ve bütçenizi paylaşarak alternatifler için kurumsal teklif isteyebilirsiniz."
-  }
+  },
+{
+  "title": "Farklı Renk, Tasarım ve Şube Dağıtımı Nasıl Planlanır?",
+  "body": "Birden fazla renk veya logo kullanılacaksa her varyantın miktarını ayrı yazın. Stok, minimum adet ve hazırlık bedelinin toplam sipariş için mi yoksa her varyant için mi hesaplandığını teyit edin. Tek tasarım için alınan fiyatın farklı tasarımlarda değişmeden geçerli olacağını varsaymayın.\n\nŞubelere ayrı gönderim isteniyorsa paket başına adet, içerik, alıcı adresi ve etiket bilgisi net olsun. Tek merkezden dağıtım ile farklı adreslere sevkiyat aynı hazırlık ve taşıma kapsamı değildir."
+},
+{
+  "title": "Teslim Kontrolü ve Sipariş Kaydı",
+  "body": "Model, gövde rengi, mürekkep tercihi, adet, baskı yüzü, son tasarım ve ambalaj sipariş kaydında yer alsın. Ürün geldiğinde bu bilgilerle karşılaştırın; eksik veya hatalı ürün bildirim yöntemini önceden öğrenin.\n\nDağıtım öncesi ürünleri şube veya etkinlik planına göre saymak stok takibini kolaylaştırır. Numune veya yazım kontrolü gibi özel beklentiler varsa bunları üretimden önce yazılı belirtin."
+}
 ],
 },
 {
@@ -545,6 +523,7 @@ export default async function GuidePage({ params }: PageProps) {
       },
     },
     keywords: guide.keywords?.join(", "),
+    ...(guide.dateModified ? { dateModified: guide.dateModified } : {}),
   };
 
   const breadcrumbJsonLd = {
@@ -572,6 +551,15 @@ export default async function GuidePage({ params }: PageProps) {
     ],
   };
 
+  const faqJsonLd = guide.faq?.length ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: guide.faq.map(({ question, answer }) => ({
+      "@type": "Question", name: question,
+      acceptedAnswer: { "@type": "Answer", text: answer },
+    })),
+  } : null;
+
   return (
     <div className="min-h-screen bg-white text-gray-900">
       <script
@@ -584,6 +572,14 @@ export default async function GuidePage({ params }: PageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd).replace(/</g, "\\u003c") }}
       />
+
+      {faqJsonLd && (
+        <script
+          id="guide-faq-jsonld"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd).replace(/</g, "\\u003c") }}
+        />
+      )}
 
       <section className="border-b border-gray-100 bg-gradient-to-b from-gray-50 via-white to-white">
         <div className="mx-auto max-w-6xl px-5 py-10 md:py-14">
@@ -668,13 +664,33 @@ export default async function GuidePage({ params }: PageProps) {
                 {s.title}
               </h2>
 
-              <p className="mt-4 text-sm leading-7 text-gray-700 md:text-base">
-                {s.body}
-              </p>
+              <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
+                {s.body.trim().split(/\n\s*\n/).map((paragraph, paragraphIndex) => (
+                  <p key={`${index}-${paragraphIndex}`} className="whitespace-pre-line">
+                    {paragraph}
+                  </p>
+                ))}
+              </div>
             </section>
           ))}
         </div>
       </section>
+
+      {guide.faq && guide.faq.length > 0 && (
+        <section className="mx-auto max-w-5xl px-5 py-6">
+          <div className="rounded-3xl border border-gray-200 bg-white p-6 md:p-8">
+            <h2 className="text-2xl font-extrabold text-gray-900">Sık Sorulan Sorular</h2>
+            <div className="mt-5 space-y-6">
+              {guide.faq.map(({ question, answer }) => (
+                <div key={question}>
+                  <h3 className="font-semibold text-gray-900">{question}</h3>
+                  <p className="mt-2 text-sm leading-7 text-gray-700 md:text-base">{answer}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       <section className="mx-auto max-w-5xl px-5 py-2">
         <div className="rounded-3xl border border-gray-200 bg-gray-50 p-6 md:p-8">
@@ -705,7 +721,7 @@ export default async function GuidePage({ params }: PageProps) {
 
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">
             <Link
-              href={guide.ctaProductSlug ? `/teklif?urun=${guide.ctaProductSlug}` : "/teklif"}
+              href={guide.slug === "dtf-baski-nedir" || guide.slug === "promosyon-kupa-baski" || guide.slug === "promosyon-kalem-toptan" ? "/kurumsal-teklif-al" : guide.ctaProductSlug ? `/teklif?urun=${guide.ctaProductSlug}` : "/teklif"}
               className="inline-flex items-center justify-center rounded-2xl bg-white px-6 py-3 text-sm font-semibold text-black transition hover:bg-gray-100"
             >
               Hızlı Teklif Al
@@ -748,6 +764,30 @@ export default async function GuidePage({ params }: PageProps) {
           </div>
         </div>
       </section>
+
+      {guide.slug === "promosyon-kalem-toptan" && (
+        <section className="mx-auto max-w-5xl px-5 py-4">
+          <div className="rounded-3xl border border-gray-200 bg-white p-6">
+            <h2 className="text-xl font-extrabold">Model, baskı ve hesaplama için devam rehberleri</h2>
+            <ul className="mt-4 list-disc space-y-3 pl-5 text-sm font-semibold underline">
+              <li><Link href="/rehber/promosyon-kalem-secerken-nelere-dikkat-edilmeli">Kalem seçimi ve numune kontrolü</Link></li>
+              <li><Link href="/rehber/promosyon-kalemlerde-baski-turleri-nelerdir">Kalemlerde baskı yöntemleri</Link></li>
+              <li><Link href="/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir">Kalem fiyatı nasıl hesaplanır?</Link></li>
+            </ul>
+          </div>
+        </section>
+      )}
+
+      {guide.slug === "promosyon-kupa-baski" && (
+        <section className="mx-auto max-w-5xl px-5 py-4">
+          <div className="rounded-3xl border border-gray-200 bg-white p-6">
+            <h2 className="text-xl font-extrabold">Teknik kaynak</h2>
+            <p className="mt-3 text-sm leading-7 text-gray-700">
+              Sublimasyon için yüzey uygunluğu hakkında <a href="https://epson.com/sublimation-printers-for-makers" className="font-semibold underline">Epson üretici açıklamasını</a> inceleyebilirsiniz.
+            </p>
+          </div>
+        </section>
+      )}
 
       {relatedGuides.length > 0 && (
         <section className="mx-auto max-w-6xl px-5 py-4">

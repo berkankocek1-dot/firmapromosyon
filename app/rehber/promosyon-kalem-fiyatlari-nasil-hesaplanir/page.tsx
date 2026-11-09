@@ -7,6 +7,29 @@ const PAGE_URL = `${SITE_URL}/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir`
 const IMAGE_PATH = "/guides/promosyon-kalem-fiyatlari-nasil-hesaplanir.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 
+const FAQ_ITEMS = [
+  {
+    "question": "Baskı dahil kalem fiyatına baskı tekrar eklenir mi?",
+    "answer": "Aynı uygulama zaten birim fiyata dahilse tekrar eklenmez. Dahil olan yöntem, yüz sayısı ve tasarım kapsamı netleştirilmelidir; farklı bir uygulama ayrıca fiyatlandırılabilir."
+  },
+  {
+    "question": "Hazırlık bedeli birim maliyete nasıl dağıtılır?",
+    "answer": "Ayrıca belirtilmiş sabit hazırlık bedeli sipariş adedine bölünerek ürün başına düşen pay bulunur. Bedel başka bir kaleme zaten dahilse ikinci kez eklenmemelidir."
+  },
+  {
+    "question": "Adet arttığında toplam ödeme düşer mi?",
+    "answer": "Birim tutar bazı koşullarda azalabilir ancak daha fazla ürün alındığı için toplam ödeme artabilir. Güncel teklif olmadan adet indirimi veya toplam tutar sonucu varsayılmamalıdır."
+  },
+  {
+    "question": "Tek yön ve çift yön baskı nasıl karşılaştırılır?",
+    "answer": "Aynı kalem, adet, yöntem ve tasarım koşullarında teklif alınmalıdır. İkinci yüzün bedeli sabit bir çarpanla hesaplanmaz; teklif kapsamından öğrenilir."
+  },
+  {
+    "question": "Net kalem teklifi için hangi bilgiler gerekir?",
+    "answer": "Model veya ürün bağlantısı, adet, gövde rengi, logo dosyası, basılacak yüzler, ambalaj beklentisi, teslim adresi ve istenen tarih paylaşılmalıdır."
+  }
+];
+
 export const metadata: Metadata = {
   title: "Promosyon Kalem Fiyatları Nasıl Hesaplanır?",
   description:
@@ -63,6 +86,7 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
     inLanguage: "tr-TR",
     mainEntityOfPage: PAGE_URL,
     image: [IMAGE_URL],
+    dateModified: "2026-11-09",
     author: {
       "@type": "Organization",
       name: "FirmaPromosyon",
@@ -105,47 +129,25 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: "Promosyon kalem fiyatları en çok neye göre değişir?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Promosyon kalem fiyatları en çok kalem modeli, sipariş adedi, baskı türü, baskı yönü ve renk sayısına göre değişir. Ayrıca ürün segmenti ve teslim süresi de toplam maliyeti etkileyebilir.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Sipariş adedi arttıkça promosyon kalem birim fiyatı düşer mi?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Evet, çoğu durumda sipariş adedi arttıkça birim fiyat düşer. Çünkü baskı hazırlığı ve işçilik gibi sabit maliyetler daha fazla ürüne yayılır.",
-        },
-      },
-      {
-        "@type": "Question",
-        name: "Baskı türü promosyon kalem fiyatını etkiler mi?",
-        acceptedAnswer: {
-          "@type": "Answer",
-          text: "Evet, tampon baskı, UV baskı ve lazer baskı gibi farklı baskı yöntemleri maliyeti doğrudan etkiler. Tek yön ve çift yön baskı da fiyatı değiştirir.",
-        },
-      },
-    ],
+    mainEntity: FAQ_ITEMS.map(({ question, answer }) => ({
+      "@type": "Question", name: question,
+      acceptedAnswer: { "@type": "Answer", text: answer },
+    })),
   };
 
   return (
     <div className="mx-auto max-w-4xl px-5 py-12 text-gray-900">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema).replace(/</g, "\\u003c") }}
       />
 
       <nav className="mb-6 text-sm text-gray-500">
@@ -181,433 +183,95 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
           </div>
 
           <p className="mt-6 text-base leading-7 text-gray-700 md:text-lg">
-            Promosyon kalem fiyatları, ilk bakışta basit gibi görünse de aslında
-            birçok farklı değişkene bağlı olarak belirlenir. Aynı kalem modeli,
-            farklı adetlerde, farklı baskı seçenekleriyle ve farklı sipariş
-            detaylarıyla tamamen farklı maliyetlere ulaşabilir. Bu nedenle
-            promosyon kalem siparişi verecek firmaların yalnızca kalemin etiket
-            fiyatına bakması yeterli değildir. Doğru fiyat analizi için kalem
-            modeli, malzeme kalitesi, baskı türü, baskı yönü, sipariş adedi ve
-            kullanım amacı birlikte değerlendirilmelidir.
-          </p>
-
-          <p className="mt-4 text-base leading-7 text-gray-700 md:text-lg">
-            Özellikle kurumsal promosyon ürünleri arasında promosyon kalem,
-            düşük maliyetli ama yüksek görünürlüklü bir seçenek olduğu için çok
-            sık tercih edilir. Ancak fiyat hesaplamasında yapılan küçük bir hata,
-            toplam sipariş maliyetini ciddi şekilde etkileyebilir. Bu yüzden
-            promosyon kalem fiyatlarının nasıl oluştuğunu anlamak, hem doğru
-            teklif almak hem de bütçeyi daha verimli kullanmak açısından büyük
-            avantaj sağlar.
-          </p>
-
-          <p className="mt-4 text-base leading-7 text-gray-700 md:text-lg">
-            Bu rehberde promosyon kalem fiyatlarını etkileyen ana unsurları,
-            adet arttıkça birim fiyatın neden düştüğünü, baskı türlerinin
-            maliyete nasıl yansıdığını ve sipariş verirken nelere dikkat
-            edilmesi gerektiğini detaylı şekilde inceleyebilirsiniz. Eğer
-            firmanız için hem uygun maliyetli hem de etkili bir logo baskılı{" "}
-            <Link href="/promosyon-kalem" className="font-semibold text-gray-900 underline underline-offset-4">promosyon kalem</Link>{" "}
-            arıyorsanız, bu içerik size doğru planlama konusunda
-            net bir çerçeve sunacaktır.
+            Promosyon kalem fiyatını hesaplamak için ürün bedelini, baskıyı ve varsa
+            sabit hazırlık bedelini ayrı okuyun. Ardından ambalaj ve sevkiyat kapsamını
+            kontrol edin. Birim fiyatın baskı dahil mi hariç mi olduğunu bilmeden yapılan
+            toplama, aynı bedelin iki kez hesaplanmasına yol açabilir.
           </p>
         </header>
 
         <div className="mt-10 space-y-10">
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              Promosyon Kalem Fiyatları Neye Göre Değişir?
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem fiyatları tek bir etkene bağlı değildir.
-                Fiyatlandırma yapılırken ürünün kendi maliyeti ile baskı
-                maliyeti birlikte değerlendirilir. Kalemin plastik, metal,
-                soft touch veya dokunmatik olması gibi yapısal özellikler ürünün
-                temel fiyatını belirler. Bunun üzerine uygulanacak baskı
-                tekniği, baskı yönü, renk sayısı ve sipariş adedi eklenince
-                toplam maliyet ortaya çıkar.
-              </p>
-              <p>
-                Birçok firma sadece “kalem fiyatı” üzerinden düşünerek teklif
-                almaya çalışır. Oysa gerçekte kalemin maliyeti ile baskı
-                maliyeti iki ayrı unsur olarak değerlendirilmelidir. Bazı
-                durumlarda ekonomik bir kalem modeli seçilmiş olsa bile baskı
-                detayları maliyeti yükseltebilir. Bu nedenle sağlıklı fiyat
-                analizi için her aşamanın ayrı ayrı düşünülmesi gerekir.
-              </p>
-              <p>
-                Özellikle yüksek adetli siparişlerde küçük birim farklar toplam
-                maliyette ciddi sonuç doğurur. Bu yüzden promosyon kalem
-                fiyatlarını anlamak, yalnızca satın alma süreci için değil, kar
-                marjını doğru hesaplamak açısından da önemlidir.
-              </p>
+            <h2 className="text-2xl font-extrabold">1. Önce teklifin kapsamını belirleyin</h2>
+            <div className="mt-4 space-y-4 leading-7 text-gray-700">
+              <p>Aynı kalem modeli, adet, gövde rengi, baskı yöntemi ve basılacak yüzler için verilen tutarları karşılaştırın. Ürün bedeli baskısız mı, yoksa belirli bir uygulama dahil mi? Hazırlık veya kalıp bedeli ayrıca mı sunulmuş? Bu bilgiler hesaplamanın başlangıcıdır.</p>
+              <p>Güncel modelleri <Link href="/promosyon-kalem">promosyon kalem kategorisinden</Link> inceleyebilirsiniz. Bir ürünün adına veya fotoğrafına bakarak baskının fiyata dahil olduğu sonucu çıkarılmamalıdır.</p>
             </div>
           </section>
-
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              1. Kalem Modeli Fiyatı Doğrudan Etkiler
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem fiyatlarını belirleyen ilk ve en temel unsur,
-                seçilen modeldir. <Link href="/urunler/promosyon-plastik-kalem-pls-450" className="font-semibold text-gray-900 underline underline-offset-4">Plastik promosyon kalemler</Link>, genellikle en
-                ekonomik ürün grubu içinde yer alır. Bu yüzden fuar, etkinlik,
-                toplu dağıtım ve geniş çaplı kampanyalarda daha sık tercih
-                edilir. Yüksek adetli siparişlerde maliyeti düşük tutmak isteyen
-                firmalar için plastik kalemler çoğu zaman mantıklı bir başlangıç
-                noktasıdır.
-              </p>
-              <p>
-                <Link href="/urunler/promosyon-metal-kalem-mk-100" className="font-semibold text-gray-900 underline underline-offset-4">Metal promosyon kalemler</Link> ise daha şık, daha ağır ve daha güçlü
-                bir kalite algısı sunduğu için fiyat olarak plastik modellere
-                göre daha yüksektir. Özellikle kurumsal hediye, yönetici
-                sunumu, bayi toplantısı veya prestijli müşteri ziyaretleri gibi
-                alanlarda metal kalemler daha fazla öne çıkar. Yani fiyat
-                yükselirken ürünün bıraktığı etki de değişir.
-              </p>
-              <p>
-                <Link href="/urunler/promosyon-dokunmatik-kalem-dk-500" className="font-semibold text-gray-900 underline underline-offset-4">Dokunmatik kalem</Link>, roller kalem, jel kalem veya özel kaplamalı
-                modeller gibi daha niş ürünlerde ise standart modellere göre
-                farklı maliyetler oluşabilir. Bu yüzden fiyat hesabı yaparken
-                önce ürün sınıfının doğru belirlenmesi gerekir.
-              </p>
+            <h2 className="text-2xl font-extrabold">2. Ürün ve baskı toplamını ayrı hesaplayın</h2>
+            <div className="mt-4 space-y-4 leading-7 text-gray-700">
+              <p>Baskısız birim ürün bedeli ile adet çarpılarak ürün toplamı bulunur. Baskı adet başına ayrıca belirtilmişse baskı birim bedeli de aynı kapsamda basılacak adetle çarpılır. Hazırlık bedeli ayrıca verilmişse bu iki toplamın üzerine bir kez eklenir.</p>
+              <p>Baskı dahil birim fiyat kullanılıyorsa ürün ve dahil baskıyı tek kalem olarak hesaplayın. İkinci yüz, farklı tasarım veya özel ambalaj bu kapsama girmiyorsa ek bedeli yazılı teklifte teyit edin.</p>
             </div>
           </section>
-
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              2. Sipariş Adedi Arttıkça Birim Fiyat Neden Düşer?
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem siparişlerinde en belirleyici unsurlardan biri
-                adettir. Adet yükseldikçe birim fiyatın düşmesinin temel nedeni,
-                üretim ve baskı hazırlık maliyetlerinin daha fazla ürüne
-                yayılmasıdır. Kalemin baskı öncesi hazırlığı, klişe süreci,
-                üretim planlaması ve işçilik gibi sabit maliyetler düşük adetli
-                siparişlerde daha fazla hissedilir.
-              </p>
-              <p>
-                Örneğin 300 adet sipariş verilen bir kalemde hazırlık maliyeti
-                daha az ürüne bölündüğü için birim maliyet yüksek kalabilir.
-                Aynı ürün 3000 adet sipariş edildiğinde ise bu sabit maliyetler
-                çok daha fazla ürüne dağıldığından birim fiyat aşağı iner.
-                Bu yüzden promosyon kalemlerde toplu sipariş vermek çoğu zaman
-                maliyet avantajı sağlar.
-              </p>
-              <p>
-                Eğer firmanız düzenli aralıklarla kalem dağıtıyor, fuarlara
-                katılıyor veya kampanyalarda promosyon ürün kullanıyorsa,
-                ihtiyaçları dönemsel değil toplu planlamak daha verimli olabilir.
-                Böylece sadece ürün maliyetinde değil, baskı maliyetinde de daha
-                avantajlı sonuç alınabilir.
-              </p>
+            <h2 className="text-2xl font-extrabold">Varsayımsal hesaplama örneği</h2>
+            <p className="mt-4 leading-7 text-gray-700">Aşağıdaki rakamlar yalnız hesaplamayı göstermek için seçilmiştir. Güncel ürün fiyatı, satış teklifi veya minimum sipariş koşulu değildir. Örnekte baskı ve hazırlık bedellerinin ayrı sunulduğu varsayılmıştır; KDV, ambalaj ve kargo dahil değildir.</p>
+            <div className="mt-4 overflow-x-auto">
+              <table className="w-full min-w-[480px] border-collapse text-left text-sm">
+                <caption className="mb-2 text-left">500 adet için varsayımsal ürün, baskı ve hazırlık hesabı</caption>
+                <thead><tr><th scope="col" className="border p-3">Kalem</th><th scope="col" className="border p-3">Hesap</th><th scope="col" className="border p-3">Tutar</th></tr></thead>
+                <tbody>
+                  <tr><th scope="row" className="border p-3">Baskısız ürün</th><td className="border p-3">500 × 10 TL</td><td className="border p-3">5.000 TL</td></tr>
+                  <tr><th scope="row" className="border p-3">Baskı</th><td className="border p-3">500 × 2 TL</td><td className="border p-3">1.000 TL</td></tr>
+                  <tr><th scope="row" className="border p-3">Ayrı hazırlık bedeli</th><td className="border p-3">Bir kez</td><td className="border p-3">500 TL</td></tr>
+                  <tr><th scope="row" className="border p-3">Ara toplam</th><td className="border p-3">5.000 + 1.000 + 500</td><td className="border p-3">6.500 TL</td></tr>
+                  <tr><th scope="row" className="border p-3">Bu kapsamdaki birim tutar</th><td className="border p-3">6.500 / 500</td><td className="border p-3">13 TL</td></tr>
+                </tbody>
+              </table>
             </div>
           </section>
-
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              3. Baskı Türü Fiyatı Nasıl Değiştirir?
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem fiyatları üzerinde en etkili ikinci büyük unsur,
-                baskı türüdür. Çünkü aynı kalem modeli üzerine uygulanacak farklı
-                baskı teknikleri, maliyeti önemli ölçüde değiştirebilir. En sık
-                kullanılan yöntemlerden biri tampon baskıdır. Özellikle plastik
-                kalemlerde yaygın kullanılan bu yöntem, tek renkli ve sade
-                logolar için oldukça ekonomik bir çözümdür.
-              </p>
-              <p>
-                UV baskı ise daha canlı, daha renkli ve görsel açıdan daha güçlü
-                sonuçlar verdiği için maliyet açısından tampon baskıya göre daha
-                yukarıda olabilir. Eğer marka kimliğiniz renkli bir logoya
-                sahipse veya daha dikkat çekici bir baskı görünümü hedefliyorsanız
-                UV baskı mantıklı olabilir. Ancak burada fiyat farkı da dikkate
-                alınmalıdır.
-              </p>
-              <p>
-                Lazer baskı genellikle metal promosyon kalemlerde tercih edilir.
-                Boya basmak yerine yüzeyin işlenmesi esasına dayandığı için daha
-                premium ve kalıcı bir görüntü sunar. Bu yöntem özellikle prestij
-                odaklı siparişlerde öne çıkar. Dolayısıyla hangi baskı türünün
-                seçileceği, hem fiyatı hem de oluşacak marka algısını doğrudan
-                etkiler.
-              </p>
+            <h2 className="text-2xl font-extrabold">3. Hazırlık bedelini adede dağıtın</h2>
+            <div className="mt-4 space-y-4 leading-7 text-gray-700">
+              <p>Ürün başına düşen sabit hazırlık payı = ayrıca belirtilmiş hazırlık bedeli / sipariş adedi. Bu pay, ürün ve baskının birim bedelleriyle aynı kapsamdaki birim maliyeti hesaplamaya yardımcı olur.</p>
+              <p>Sabit bedelin gerçekten sabit kaldığı ve aynı tasarım için geçerli olduğu teyit edilmelidir. Tasarım, yüz sayısı veya baskı yöntemi değiştiğinde yeni hazırlık kalemi oluşup oluşmadığını sorun.</p>
             </div>
           </section>
-
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              4. Baskı Yönü ve Renk Sayısı Neden Önemlidir?
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalemlerde baskı sadece “var” veya “yok” şeklinde
-                değerlendirilmez. Baskının tek yön mü yoksa çift yön mü
-                uygulanacağı da fiyatı etkiler. Tek yön baskı genellikle daha
-                ekonomik olurken, çift yön baskıda işçilik ve uygulama süreci
-                arttığı için maliyet yükselir.
-              </p>
-              <p>
-                Aynı durum renk sayısı için de geçerlidir. Tek renk logo
-                uygulamaları daha uygun maliyetli olurken, çok renkli ya da
-                detaylı tasarımlar baskı sürecini zorlaştırır ve fiyatı artırır.
-                Bu nedenle sade, net ve kolay okunabilir bir logo tasarımı
-                yalnızca estetik açıdan değil, maliyet açısından da avantaj
-                sağlar.
-              </p>
-              <p>
-                Özellikle yüksek adetli siparişlerde baskı yönü ve renk sayısında
-                yapılan her tercih, toplam maliyet üzerinde hissedilir fark
-                yaratır. Bu yüzden fiyat hesabı yapılırken kalem modeli kadar
-                baskı detayları da netleştirilmelidir.
-              </p>
+            <h2 className="text-2xl font-extrabold">4. Adet değiştiğinde hem birim tutarı hem toplamı karşılaştırın</h2>
+            <div className="mt-4 space-y-4 leading-7 text-gray-700">
+              <p>Daha fazla ürüne dağıtılan sabit bedelin ürün başına payı azalabilir. Ancak bu, ürünün kendi fiyatının veya baskı birim bedelinin otomatik olarak düşeceğini göstermez. Her miktar için güncel teklif gerekir.</p>
+              <p>Düşük birim fiyat daha düşük toplam ödeme anlamına gelmez. Gerçek dağıtım ihtiyacınızdan fazla ürün almak yerine, yakın iki miktar için aynı kapsamlı toplam tutarları karşılaştırın.</p>
             </div>
           </section>
-
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              5. Malzeme Kalitesi ve Ürün Segmenti Hesaba Katılmalıdır
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem fiyatları değerlendirilirken yalnızca “ucuz mu,
-                pahalı mı?” diye bakmak doğru değildir. Çünkü iki farklı kalem
-                arasında görülen fiyat farkı çoğu zaman malzeme kalitesinden
-                kaynaklanır. Daha iyi yazan, daha sağlam gövdeye sahip, elde daha
-                kaliteli his bırakan ve daha uzun ömürlü ürünler doğal olarak
-                daha yüksek fiyatlı olabilir.
-              </p>
-              <p>
-                Burada önemli olan, sipariş amacına göre doğru segmentte ürün
-                seçmektir. Eğer kalemler fuarda binlerce kişiye dağıtılacaksa
-                ekonomik ürün seçmek mantıklı olabilir. Ancak müşteri hediye
-                seti hazırlanıyorsa veya kurumsal temsil değeri yüksek bir ürün
-                aranıyorsa biraz daha üst segment modellere yönelmek daha doğru
-                sonuç verebilir.
-              </p>
-              <p>
-                Kısacası fiyat değerlendirmesi yaparken ürün segmenti mutlaka
-                kullanım amacıyla birlikte düşünülmelidir. Uygun fiyatlı olması
-                her zaman en iyi tercih anlamına gelmez; bazen biraz daha kaliteli
-                bir ürün çok daha güçlü geri dönüş sağlayabilir.
-              </p>
+            <h2 className="text-2xl font-extrabold">5. Model ve baskı farklarını fiyat sıralaması gibi okumayın</h2>
+            <div className="mt-4 space-y-4 leading-7 text-gray-700">
+              <p>Plastik, metal, jel veya dokunmatik kalem ifadeleri tek bir ucuzdan pahalıya sıralama oluşturmaz. Modelin kendi özellikleri, stok ve uygulama koşulları önemlidir. <Link href="/promosyon-plastik-kalem">Plastik kalem</Link> ve <Link href="/promosyon-metal-kalem">metal kalem</Link> seçenekleri model bazında incelenmelidir.</p>
+              <p>UV, tampon veya lazer uygulamasının uygunluğu seçilen yüzey için teyit edilmelidir. Logo renkleri ve tek ya da çift yüz baskı isteği aynı model üzerinden fiyatlandırılmalıdır. Yöntemlere giriş için <Link href="/rehber/promosyon-kalemlerde-baski-turleri-nelerdir">kalem baskı türleri rehberine</Link> geçebilirsiniz.</p>
             </div>
           </section>
-
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              6. Ortalama Promosyon Kalem Fiyatı Nasıl Düşünülmelidir?
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                “Promosyon kalem kaç TL?” sorusu çok sık sorulsa da buna tek
-                cümleyle net cevap vermek zordur. Çünkü fiyat aralığı ürün
-                segmentine, sipariş miktarına ve baskı detaylarına göre büyük
-                değişim gösterebilir. Ekonomik plastik kalemler daha düşük
-                maliyetli olurken, metal veya özel tasarım modeller daha yüksek
-                bütçe gerektirebilir.
-              </p>
-              <p>
-                Ayrıca baskısız fiyat ile baskılı fiyat arasında da fark vardır.
-                Birçok firma ilk aşamada sadece kalemin çıplak maliyetine bakar;
-                ancak baskı maliyeti eklendiğinde gerçek teklif ortaya çıkar.
-                Özellikle çift yön, çok renkli veya özel uygulamalı baskılarda bu
-                fark daha belirgin olabilir.
-              </p>
-              <p>
-                Bu nedenle ortalama fiyat kavramını genel bir fikir vermesi için
-                kullanmak gerekir; net teklif almak için ise ürün modeli, adet,
-                baskı türü ve baskı yönü birlikte değerlendirilmelidir.
-              </p>
+            <h2 className="text-2xl font-extrabold">6. Ambalaj, sevkiyat ve vergi kapsamını kontrol edin</h2>
+            <div className="mt-4 space-y-4 leading-7 text-gray-700">
+              <p>Kutulama veya tekli ambalaj talebi ürün ve baskıdan ayrı bir bedel oluşturabilir. Sevkiyat dahil değilse teslim bütçesinde ayrıca değerlendirilmelidir. Her teklifte KDV dahil veya hariç sunum açık olmalıdır.</p>
+              <p>Aynı kapsamlı teklifleri karşılaştırdıktan sonra ürün başına karşılaştırılabilir tutarı toplam / adet hesabıyla bulabilirsiniz. Vergi dahil tutarla vergi hariç tutarı doğrudan karşılaştırmayın; uygulanacak tutarı ve kapsamı teklifte teyit edin.</p>
             </div>
           </section>
-
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              7. Sipariş Adedine Göre Promosyon Kalem Fiyatları
-            </h2>
-
-            <div className="mt-4 space-y-6 text-sm leading-7 text-gray-700 md:text-base">
-              <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  100 Adet Promosyon Kalem Fiyatı
-                </h3>
-                <p className="mt-2">
-                  100 adet gibi düşük miktarlı siparişlerde hazırlık ve baskı
-                  maliyetleri daha az ürüne bölündüğü için birim fiyat genellikle
-                  daha yüksek olur. Bu miktar; küçük organizasyonlar, deneme
-                  siparişleri ve sınırlı dağıtımlar için tercih edilebilir.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  500 Adet Promosyon Kalem Fiyatı
-                </h3>
-                <p className="mt-2">
-                  500 adet siparişlerde üretim ve baskı maliyetleri daha dengeli
-                  dağıldığından birim fiyat daha avantajlı hale gelebilir.
-                  Fuarlar, etkinlikler ve dönemsel kampanyalar için bütçe ile
-                  ürün miktarı arasında dengeli bir seçenek sunar.
-                </p>
-              </div>
-
-              <div>
-                <h3 className="text-lg font-bold text-gray-900">
-                  1000 Adet Promosyon Kalem Fiyatı
-                </h3>
-                <p className="mt-2">
-                  1000 adet ve üzerindeki toplu kalem siparişlerinde birim
-                  maliyet çoğunlukla daha düşük olur. Kurumsal dağıtım, bayi ağı
-                  ve yoğun müşteri teması bulunan kampanyalarda yüksek adetli
-                  alımlar daha verimli olabilir.
-                </p>
-              </div>
-
-              <p>
-                Her adet seviyesinde kesin fiyat; seçilen kalem modeli, stok
-                durumu, baskı türü, baskı yönü ve renk sayısına göre belirlenir.
-                Bu nedenle sağlıklı karşılaştırma için aynı ürün ve aynı baskı
-                özellikleri üzerinden teklif alınmalıdır.
-              </p>
+            <h2 className="text-2xl font-extrabold">7. Teklif talebine eklenecek bilgiler</h2>
+            <div className="mt-4 space-y-4 leading-7 text-gray-700">
+              <p>Model kodu veya ürün bağlantısı, adet, gövde rengi ve logo dosyasını paylaşın. Hangi yüzlere ne uygulanacağını, ambalaj isteğini, teslim adresini ve istenen tarihi belirtin. Teklifin geçerlilik süresini ve stok teyidini isteyin.</p>
+              <p>Ürünün yazım ve kullanım özelliklerini değerlendirmek için <Link href="/rehber/promosyon-kalem-secerken-nelere-dikkat-edilmeli">kalem seçim rehberini</Link> inceleyebilirsiniz. Bu sayfadaki hesaplama, seçtiğiniz modele ait güncel yazılı teklifin yerine geçmez.</p>
             </div>
           </section>
-
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              8. En Doğru Fiyat Teklifi Nasıl Alınır?
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem siparişi verirken en doğru fiyat teklifini almak
-                için öncelikle ihtiyaçların net tanımlanması gerekir. Kaç adet
-                sipariş verileceği, hangi modelin tercih edildiği, baskının tek
-                yön mü çift yön mü olacağı ve logonun kaç renkli olduğu baştan
-                belirlenirse teklif süreci çok daha sağlıklı ilerler.
-              </p>
-              <p>
-                Belirsiz ifadelerle alınan teklifler çoğu zaman yanıltıcı olur.
-                Çünkü örneğin “kalem fiyatı” ile “logo baskılı kalem fiyatı”
-                arasında ciddi fark olabilir. Bu yüzden teklif istemeden önce
-                ihtiyaç listesini netleştirmek, hem daha gerçekçi fiyat almak
-                hem de farklı seçenekleri daha sağlıklı karşılaştırmak açısından
-                önemlidir.
-              </p>
-              <p>
-                Eğer birden fazla model arasında kararsız kalınıyorsa, aynı adet
-                ve aynı baskı detaylarıyla alternatif teklifler istemek en doğru
-                yöntemlerden biridir. Böylece yalnızca fiyatı değil, ürünün
-                yaratacağı etkiyi de karşılaştırmak mümkün olur.
-              </p>
+            <h2 className="text-2xl font-extrabold">Sık Sorulan Sorular</h2>
+            <div className="mt-4 space-y-5 leading-7 text-gray-700">
+              {FAQ_ITEMS.map(({ question, answer }) => (
+                <div key={question}>
+                  <h3 className="font-semibold">{question}</h3>
+                  <p>{answer}</p>
+                </div>
+              ))}
             </div>
           </section>
-
-          <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              Sık Yapılan Fiyat Hesaplama Hataları
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem fiyatı hesaplanırken firmaların en sık yaptığı
-                hatalardan biri sadece ürün fiyatına odaklanmaktır. Oysa baskı
-                maliyeti, yön sayısı ve tasarım detayları hesaba katılmadan
-                yapılan fiyat karşılaştırmaları yanıltıcı olabilir.
-              </p>
-              <p>
-                Bir diğer yaygın hata, düşük adetli siparişle yüksek adetli
-                sipariş fiyatını aynı mantıkla değerlendirmektir. Adet etkisi
-                promosyon ürünlerde son derece önemlidir. Bu yüzden küçük adetli
-                siparişte pahalı görünen bir model, yüksek adette çok daha
-                avantajlı hale gelebilir.
-              </p>
-              <p>
-                Ayrıca yalnızca en ucuz ürüne yönelmek de her zaman doğru sonuç
-                vermez. Çünkü kötü yazan veya kalitesiz hissiyat veren bir kalem,
-                reklam etkisini azaltabilir. Sağlıklı karar için maliyet ve
-                kalite birlikte düşünülmelidir.
-              </p>
-            </div>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-extrabold text-gray-900">
-              Sonuç
-            </h2>
-
-            <div className="mt-4 space-y-4 text-sm leading-7 text-gray-700 md:text-base">
-              <p>
-                Promosyon kalem fiyatları; kalem modeli, sipariş adedi, baskı
-                türü, baskı yönü, renk sayısı ve malzeme kalitesi gibi birçok
-                farklı değişkene bağlı olarak hesaplanır. Bu nedenle doğru fiyat
-                analizi için yalnızca kalemin temel maliyetine değil, baskı ve
-                kullanım amacı gibi detaylara da dikkat etmek gerekir.
-              </p>
-              <p>
-                Doğru planlama yapıldığında promosyon kalemler hem uygun
-                maliyetli hem de yüksek reklam gücüne sahip ürünler haline
-                gelir. Özellikle toplu siparişlerde birim maliyeti düşürmek,
-                baskı türünü doğru seçmek ve hedef kitleye uygun model belirlemek
-                uzun vadede çok daha verimli sonuç verir.
-              </p>
-              <p>
-                Eğer siz de firmanız için en uygun logo baskılı kalem modelini
-                incelemek ve fiyat seçeneklerini değerlendirmek istiyorsanız,
-                ilgili kategori sayfalarını ziyaret ederek ürünleri
-                karşılaştırabilir ve ihtiyacınıza uygun teklif talebinde
-                bulunabilirsiniz.
-              </p>
-            </div>
-
-            <div className="mt-8 rounded-2xl border border-gray-200 bg-gray-50 p-5">
-              <h3 className="text-lg font-bold text-gray-900">
-                İlgili Kategoriler
-              </h3>
-
-              <div className="mt-4 flex flex-col gap-3 text-sm font-semibold text-gray-800">
-                <Link href="/promosyon-kalem" className="hover:underline">
-                  Promosyon Kalem Modelleri
-                </Link>
-                <Link href="/promosyon-cakmak" className="hover:underline">
-                  Promosyon Çakmak Modelleri
-                </Link>
-                <Link href="/promosyon-termos" className="hover:underline">
-                  Promosyon Termos Modelleri
-                </Link>
-                <Link href="/promosyon-usb-bellek" className="hover:underline">
-                  Promosyon USB Bellek Modelleri
-                </Link>
-              </div>
-            </div>
-
-            <div className="mt-6 flex flex-col gap-3 sm:flex-row">
-              <Link
-                href="/teklif"
-                className="inline-flex items-center justify-center rounded-2xl bg-black px-6 py-3 text-sm font-semibold text-white transition hover:bg-gray-900"
-              >
-                Kurumsal Teklif Al
-              </Link>
-
-              <Link
-                href="/urunler"
-                className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-6 py-3 text-sm font-semibold text-gray-900 transition hover:border-gray-500"
-              >
-                Tüm Ürünleri İncele
-              </Link>
-            </div>
-          </section>
+          <div className="flex flex-wrap gap-4 font-semibold underline">
+            <Link href="/promosyon-kalem">Kalem modellerini incele</Link>
+            <Link href="/kurumsal-teklif-al">Kurumsal teklif al</Link>
+          </div>
         </div>
       </article>
     </div>
