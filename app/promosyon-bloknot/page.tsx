@@ -62,5 +62,10 @@ export default function Page() {
 <p>Diğer üretim seçenekleri için <Link href="/promosyon-matbaa-urunleri" className="font-semibold text-white underline">matbaa ürünlerini</Link>; farklı not alma ihtiyaçları için <Link href="/promosyon-kup-bloknot" className="font-semibold text-white underline">küp bloknotları</Link> inceleyebilirsiniz.</p>
 </section>
   <section className="mt-10"><h2 className="text-2xl font-bold text-white">Promosyon Bloknot Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
+      <section aria-labelledby="bloknot-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="bloknot-rehberi-baslik" className="text-xl font-bold !text-black">Bloknot ve Küp Bloknot Seçimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Cilt, kutu, yaprak ve ölçü bilgilerini karşılaştırın; kapak ve iç sayfa tasarımını ayrı değerlendirerek baskı kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-bloknot-kup-bloknot-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Bloknot ve Küp Bloknot Seçim Rehberini İncele →</Link>
+      </section>
  </div>;
 }

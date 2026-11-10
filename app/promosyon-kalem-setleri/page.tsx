@@ -353,6 +353,11 @@ export default function Page() {
           </section>
         </div>
       )}
+      <section aria-labelledby="kalem-seti-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="kalem-seti-rehberi-baslik" className="text-xl font-bold !text-black">Kalem Setinin İçeriğini ve Markalamasını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Yazım türü, kutu uyumu ve parça başına logo alanını karşılaştırın; isim uygulamasıyla set bazında teklif kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-kalem-seti-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Kalem Seti Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

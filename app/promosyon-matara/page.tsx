@@ -230,6 +230,11 @@ export default function MataraPage() {
           </div>
         </section>
       </div>
+      <section aria-labelledby="matara-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="matara-rehberi-baslik" className="text-xl font-bold !text-black">Matara Seçimini ve Logo Baskısını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Cam ve plastik modelleri kapasite, kapak, taşıma ve bakım koşullarıyla değerlendirin; gövde ve kılıf uygulamasını ayrı planlayın.</p>
+        <Link href="/rehber/promosyon-matara-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Matara Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

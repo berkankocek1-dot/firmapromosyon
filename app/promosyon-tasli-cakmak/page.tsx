@@ -67,6 +67,14 @@ export default function Page() {
         <p>Güncel tedarik durumu, renkler ve hazırlık süresi sipariş kapsamıyla birlikte teyit edilir. Belirli bir tarihe ihtiyaç varsa bu tarihi tasarım onayından önce bildirin. Manyetolu ve turbo seçeneklerini de görmek için <Link href="/promosyon-cakmak" className="font-semibold text-white underline">tüm promosyon çakmak modellerini</Link> inceleyebilirsiniz.</p>
       </section>
       <section className="mt-10 rounded-3xl bg-black px-6 py-8 text-white"><h2 className="text-2xl font-bold text-white">Taşlı Promosyon Çakmak Hakkında Sık Sorulan Sorular</h2><div className="mt-6 space-y-5">{faqItems.map(f => <div key={f.question}><h3 className="text-lg font-semibold text-white">{f.question}</h3><p className="mt-2 text-sm leading-6 text-gray-200">{f.answer}</p></div>)}</div></section>
+      <section aria-labelledby="promosyon-tasli-cakmak-rehber-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="promosyon-tasli-cakmak-rehber-baslik" className="text-xl font-bold !text-black">Taşlı Çakmak ve Sipariş Rehberleri</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Taşlı çakmağın kullanım alanlarını inceleyin; model, baskı ve toplu sipariş kararını genel seçim rehberiyle tamamlayın.</p>
+        <div className="mt-4 flex flex-wrap gap-x-6 gap-y-3">
+          <Link href="/rehber/promosyon-tasli-cakmak-nedir" className="font-semibold !text-black underline underline-offset-4">Taşlı Çakmak Rehberini İncele →</Link>
+          <Link href="/rehber/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta" className="font-semibold !text-black underline underline-offset-4">Çakmak Alırken Dikkat Edilecek Noktaları İncele →</Link>
+        </div>
+      </section>
     </div>
   );
 }

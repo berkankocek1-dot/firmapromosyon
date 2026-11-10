@@ -71,6 +71,13 @@ export default function Page() {
         <p>Daha küçük kapasite arıyorsanız <Link href="/promosyon-500-ml-termos" className="font-semibold text-white underline">500 ml termos modellerini</Link>; bütün seçenekler için <Link href="/promosyon-termos" className="font-semibold text-white underline">ana termos kategorisini</Link> inceleyebilirsiniz.</p>
       </section>
       <section className="mt-10 rounded-3xl bg-black px-6 py-8 text-white"><h2 className="text-2xl font-bold text-white">Büyük Hacimli Termos Hakkında Sık Sorulan Sorular</h2><div className="mt-6 space-y-5">{faqItems.map(f => <div key={f.question}><h3 className="text-lg font-semibold text-white">{f.question}</h3><p className="mt-2 text-sm leading-6 text-gray-200">{f.answer}</p></div>)}</div></section>
+      <section aria-labelledby="promosyon-buyuk-hacimli-termos-rehber-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="promosyon-buyuk-hacimli-termos-rehber-baslik" className="text-xl font-bold !text-black">Büyük Hacimli Termosları Karşılaştırın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Hacim tercihini taşıma biçimi, kapak ve kurumsal kullanım ihtiyacıyla birlikte değerlendirin; logo uygulaması için seçim ölçütlerini inceleyin.</p>
+        <div className="mt-4 flex flex-wrap gap-x-6 gap-y-3">
+          <Link href="/rehber/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir" className="font-semibold !text-black underline underline-offset-4">Termos Seçim ve Baskı Rehberini İncele →</Link>
+        </div>
+      </section>
     </div>
   );
 }

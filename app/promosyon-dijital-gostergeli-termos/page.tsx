@@ -72,6 +72,13 @@ export default function Page() {
         <p>Kapasiteye göre incelemek için <Link href="/promosyon-500-ml-termos" className="font-semibold text-white underline">500 ml termosları</Link> ve <Link href="/promosyon-buyuk-hacimli-termos" className="font-semibold text-white underline">büyük hacimli termosları</Link> karşılaştırabilirsiniz. Bütün ürünler <Link href="/promosyon-termos" className="font-semibold text-white underline">ana termos kategorisinde</Link> yer alır.</p>
       </section>
       <section className="mt-10 rounded-3xl bg-black px-6 py-8 text-white"><h2 className="text-2xl font-bold text-white">Dijital Göstergeli Termos Hakkında Sık Sorulan Sorular</h2><div className="mt-6 space-y-5">{faqItems.map(f => <div key={f.question}><h3 className="text-lg font-semibold text-white">{f.question}</h3><p className="mt-2 text-sm leading-6 text-gray-200">{f.answer}</p></div>)}</div></section>
+      <section aria-labelledby="promosyon-dijital-gostergeli-termos-rehber-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="promosyon-dijital-gostergeli-termos-rehber-baslik" className="text-xl font-bold !text-black">Göstergeyi Diğer Termos Özellikleriyle Birlikte Değerlendirin</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Gösterge özelliğinin yanında kapasite, kapak yapısı ve logo alanını da değerlendirmek için genel termos seçim rehberine bakın.</p>
+        <div className="mt-4 flex flex-wrap gap-x-6 gap-y-3">
+          <Link href="/rehber/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir" className="font-semibold !text-black underline underline-offset-4">Termos Seçim ve Baskı Rehberini İncele →</Link>
+        </div>
+      </section>
     </div>
   );
 }

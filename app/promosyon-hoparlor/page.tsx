@@ -70,5 +70,10 @@ export default function Page() {
    <p>Diğer aksesuarları karşılaştırmak için <Link href="/promosyon-teknolojik-urunler" className="font-semibold text-white underline">teknolojik promosyon ürünlerini</Link>, bağlantı aksesuarları için <Link href="/promosyon-sarj-kablosu" className="font-semibold text-white underline">şarj kablosu modellerini</Link> inceleyebilirsiniz.</p>
   </section>
   <section className="mt-10"><h2 className="text-2xl font-bold text-white">Promosyon Hoparlörler Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
+      <section aria-labelledby="hoparlor-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="hoparlor-rehberi-baslik" className="text-xl font-bold !text-black">Hoparlör Seçimini Dinleme İhtiyacınıza Göre Yapın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Ses kaynağı, bağlantı, taşınabilirlik ve ek işlevleri değerlendirin; numunede dinleme ve logo yerleşimini birlikte planlayın.</p>
+        <Link href="/rehber/promosyon-hoparlor-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Hoparlör Seçim Rehberini İncele →</Link>
+      </section>
  </div>;
 }

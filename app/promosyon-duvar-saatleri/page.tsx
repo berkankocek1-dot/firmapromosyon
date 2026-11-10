@@ -384,6 +384,11 @@ export default function Page() {
           </section>
         </div>
       )}
+      <section aria-labelledby="duvar-saati-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="duvar-saati-rehberi-baslik" className="text-xl font-bold !text-black">Duvar Saati Seçimini ve Kadran Baskısını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Çap, kadran, kasa ve mekanizmayı kullanım alanıyla birlikte değerlendirin; logo yerleşimi ve şubelere dağıtım kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-duvar-saati-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Duvar Saati Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

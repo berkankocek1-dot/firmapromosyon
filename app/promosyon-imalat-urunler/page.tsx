@@ -296,6 +296,12 @@ export default function Page() {
         <p className="mt-3 text-sm leading-7 !text-gray-700">Tekli ürün ve set kapsamını, ölçü, malzeme ve logo alanını karşılaştırın; fiyatın esas alındığı adetle baskı kapsamını netleştirin.</p>
         <Link href="/rehber/promosyon-bardak-altligi-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Bardak Altlığı Seçim ve Baskı Rehberini İncele →</Link>
       </section>
+
+      <section aria-labelledby="acacak-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="acacak-rehberi-baslik" className="text-xl font-bold !text-black">Açacak Seçimini ve Logo Baskısını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Bağımsız açacak ve açacaklı anahtarlığı kullanım, form ve logo alanıyla karşılaştırın; dağıtım ve baskı kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-acacak-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Açacak Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

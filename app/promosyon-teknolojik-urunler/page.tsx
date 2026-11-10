@@ -396,6 +396,16 @@ export default function Page() {
         <p className="mt-3 text-sm leading-7 !text-gray-700">Masaüstü ve araç içi seçenekleri cihaz, kılıf, denge ve logo alanıyla karşılaştırın; şarj özelliği ve sipariş kapsamını netleştirin.</p>
         <Link href="/rehber/promosyon-telefon-tutucu-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Telefon Tutucu Seçim Rehberini İncele →</Link>
       </section>
+      <section aria-labelledby="kablosuz-sarj-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="kablosuz-sarj-rehberi-baslik" className="text-xl font-bold !text-black">Kablosuz Şarj Cihazı Seçimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Telefon, kılıf, adaptör ve çoklu kullanım koşullarını birlikte değerlendirin; kurumsal sipariş için cihaz ve paket kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-kablosuz-sarj-cihazi-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Kablosuz Şarj Cihazı Seçim Rehberini İncele →</Link>
+      </section>
+      <section aria-labelledby="hoparlor-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="hoparlor-rehberi-baslik" className="text-xl font-bold !text-black">Hoparlör Seçimini Dinleme İhtiyacınıza Göre Yapın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Ses kaynağı, bağlantı, taşınabilirlik ve ek işlevleri değerlendirin; numunede dinleme ve logo yerleşimini birlikte planlayın.</p>
+        <Link href="/rehber/promosyon-hoparlor-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Hoparlör Seçim Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

@@ -443,6 +443,11 @@ loading="lazy"
       )}
     <section className="mt-8 rounded-2xl bg-white p-6 text-black"><h2 className="text-xl font-bold !text-black">Promosyon Küp Bloknot Modelleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">250, 375, 500 ve 750 yapraklı modelleri karşılaştırın.</p><Link href="/promosyon-kup-bloknot" className="mt-3 inline-flex font-semibold !text-black underline">Modelleri İncele →</Link></section>
     <section className="mt-8 rounded-2xl bg-white p-6 text-black"><h2 className="text-xl font-bold !text-black">Promosyon Bloknot Modelleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">Dik, tutkallı, taç kapaklı ve üstten spiralli modelleri karşılaştırın.</p><Link href="/promosyon-bloknot" className="mt-3 inline-flex font-semibold !text-black underline">Modelleri İncele →</Link></section>
+      <section aria-labelledby="bloknot-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="bloknot-rehberi-baslik" className="text-xl font-bold !text-black">Bloknot ve Küp Bloknot Seçimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Cilt, kutu, yaprak ve ölçü bilgilerini karşılaştırın; kapak ve iç sayfa tasarımını ayrı değerlendirerek baskı kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-bloknot-kup-bloknot-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Bloknot ve Küp Bloknot Seçim Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

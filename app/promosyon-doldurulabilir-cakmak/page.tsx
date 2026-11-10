@@ -71,6 +71,13 @@ export default function Page() {
         <p>Ateşleme türüne göre incelemek için <Link href="/promosyon-tasli-cakmak" className="font-semibold text-white underline">taşlı</Link> ve <Link href="/promosyon-manyetolu-cakmak" className="font-semibold text-white underline">manyetolu çakmakları</Link>; alev özelliğine göre seçim için <Link href="/promosyon-turbo-cakmak" className="font-semibold text-white underline">turbo modelleri</Link> karşılaştırabilirsiniz. Bütün ürünler <Link href="/promosyon-cakmak" className="font-semibold text-white underline">ana çakmak kategorisinde</Link> yer alır.</p>
       </section>
       <section className="mt-10 rounded-3xl bg-black px-6 py-8 text-white"><h2 className="text-2xl font-bold text-white">Doldurulabilir Çakmak Hakkında Sık Sorulan Sorular</h2><div className="mt-6 space-y-5">{faqItems.map(f => <div key={f.question}><h3 className="text-lg font-semibold text-white">{f.question}</h3><p className="mt-2 text-sm leading-6 text-gray-200">{f.answer}</p></div>)}</div></section>
+      <section aria-labelledby="promosyon-doldurulabilir-cakmak-rehber-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="promosyon-doldurulabilir-cakmak-rehber-baslik" className="text-xl font-bold !text-black">Doldurulabilir Çakmak Seçimini Netleştirin</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Doldurulabilirlik bilgisini model üzerinden doğrularken gövde, logo uygulaması ve sipariş kapsamını nasıl karşılaştırabileceğinizi öğrenin.</p>
+        <div className="mt-4 flex flex-wrap gap-x-6 gap-y-3">
+          <Link href="/rehber/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta" className="font-semibold !text-black underline underline-offset-4">Çakmak Alırken Dikkat Edilecek Noktaları İncele →</Link>
+        </div>
+      </section>
     </div>
   );
 }

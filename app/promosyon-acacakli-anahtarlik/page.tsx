@@ -124,6 +124,12 @@ export default function Page() {
 ].map(([q,a])=><div key={q} className="py-5"><h3 className="text-lg font-bold !text-black">{q}</h3><p className="mt-2 leading-7">{a}</p></div>)}</div></div>
 <div className="space-y-3"><h2 className="text-2xl font-bold !text-black">Anahtarlık Sipariş Teklifi</h2><p className="leading-7">Bütçe kapsamını oluşturmak için <Link href="/rehber/promosyon-anahtarlik-fiyatlari" className="font-semibold !text-black underline">anahtarlık fiyatları rehberini</Link> inceleyin. Seçtiğiniz model ve logo dosyasıyla baskılı sipariş teklifinizi isteyin.</p></div>
 <div className="flex flex-wrap gap-3"><Link href="/kurumsal-teklif-al" className="rounded-xl bg-black px-5 py-3 font-semibold text-white">Açacaklı Anahtarlık İçin Teklif Al</Link><Link href="/promosyon-anahtarlik" className="rounded-xl border border-gray-300 px-5 py-3 font-semibold !text-black">Tüm Anahtarlıklar</Link><Link href="/promosyon-metal-anahtarlik" className="rounded-xl border border-gray-300 px-5 py-3 font-semibold !text-black">Metal Anahtarlıklar</Link><Link href="/promosyon-deri-anahtarlik" className="rounded-xl border border-gray-300 px-5 py-3 font-semibold !text-black">Deri Anahtarlıklar</Link></div>
-</section></div>
+</section>
+      <section aria-labelledby="acacak-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="acacak-rehberi-baslik" className="text-xl font-bold !text-black">Açacak Seçimini ve Logo Baskısını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Bağımsız açacak ve açacaklı anahtarlığı kullanım, form ve logo alanıyla karşılaştırın; dağıtım ve baskı kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-acacak-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Açacak Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
+</div>
   );
 }

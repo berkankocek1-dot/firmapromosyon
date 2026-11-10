@@ -1,5 +1,53 @@
 export const guides = [
 {
+  slug: "promosyon-kalem-seti-secim-ve-baski-rehberi",
+  title: "Promosyon Kalem Seti Seçimi | İçerik, Kutu ve Baskı Rehberi",
+  desc: "Kalem seti ile ayrı kalem kutusunu ayırın; yazım türü, kutu uyumu ve her parçanın logo alanını değerlendirin. İsim uygulaması ve set bazında teklif kapsamını planlayın.",
+  image: "/guides/promosyon-kalem-seti-secim-ve-baski-rehberi.jpg"
+},
+{
+  slug: "promosyon-karton-canta-secim-ve-baski-rehberi",
+  title: "Promosyon Karton Çanta Seçimi | Ebat, Körük ve Baskı Rehberi",
+  desc: "Karton çantayı kutulu ürün ölçüsü, körük, sap ve kaplamayla birlikte seçin. Ön, arka ve yan yüz tasarımını üretim şablonunda onaylayıp teklif kapsamını netleştirin.",
+  image: "/guides/promosyon-karton-canta-secim-ve-baski-rehberi.jpg"
+},
+{
+  slug: "promosyon-duvar-saati-secim-ve-baski-rehberi",
+  title: "Promosyon Duvar Saati Seçimi | Çap, Kadran ve Baskı Rehberi",
+  desc: "Promosyon duvar saatlerini kullanım alanı, çap, kadran, kasa ve mekanizmayla değerlendirin. Logo yerleşimi, numune ve şubelere dağıtım kapsamını planlayın.",
+  image: "/guides/promosyon-duvar-saati-secim-ve-baski-rehberi.jpg"
+},
+{
+  slug: "promosyon-matara-secim-ve-baski-rehberi",
+  title: "Promosyon Matara Seçimi | Malzeme, Kapak ve Baskı Rehberi",
+  desc: "Cam ve plastik promosyon mataraları kapasite, kapak, taşıma ve bakım koşullarıyla değerlendirin. Gövde ile kılıf baskısını ayrı planlayıp sipariş kapsamını netleştirin.",
+  image: "/guides/promosyon-matara-secim-ve-baski-rehberi.jpg"
+},
+{
+  slug: "promosyon-bloknot-kup-bloknot-secim-ve-baski-rehberi",
+  title: "Promosyon Bloknot ve Küp Bloknot Seçimi | Baskı Rehberi",
+  desc: "Bloknot ve küp bloknotları kullanım, cilt, yaprak, kutu ve baskı kapsamıyla karşılaştırın. İç sayfa ile kapak tasarımını ayrı planlayıp üretim onayını netleştirin.",
+  image: "/guides/promosyon-bloknot-kup-bloknot-secim-ve-baski-rehberi.jpg"
+},
+{
+  slug: "promosyon-acacak-secim-ve-baski-rehberi",
+  title: "Promosyon Açacak Seçimi | Form ve Logo Baskı Rehberi",
+  desc: "Bağımsız açacak ve açacaklı anahtarlığı kullanım, form, logo alanı ve dağıtım biçimiyle karşılaştırın. Baskı yerleşimi ve toplu sipariş kapsamını planlayın.",
+  image: "/guides/promosyon-acacak-secim-ve-baski-rehberi.jpg"
+},
+{
+  slug: "promosyon-hoparlor-secim-rehberi",
+  title: "Promosyon Hoparlör Seçimi | Bağlantı, Ses ve Kullanım Rehberi",
+  desc: "Promosyon hoparlörleri ses kaynağı, bağlantı, taşınabilirlik ve kullanım süresi bilgileriyle değerlendirin. Numunede dinleme ve kurumsal logo alanını planlayın.",
+  image: "/guides/promosyon-hoparlor-secim-rehberi.jpg"
+},
+{
+  slug: "promosyon-kablosuz-sarj-cihazi-secim-rehberi",
+  title: "Promosyon Kablosuz Şarj Cihazı Seçimi | Güç ve Uyumluluk",
+  desc: "Kablosuz şarj standı ve istasyonlarını telefon, kılıf, adaptör ve eş zamanlı kullanım açısından değerlendirin. Kurumsal sipariş için uyumluluk tablosu hazırlayın.",
+  image: "/guides/promosyon-kablosuz-sarj-cihazi-secim-rehberi.jpg"
+},
+{
   slug: "promosyon-bardak-altligi-secim-ve-baski-rehberi",
   title: "Promosyon Bardak Altlığı Seçimi | Set ve Logo Baskı Rehberi",
   desc: "Promosyon bardak altlıklarını tekli ürün ve set kapsamı, ölçü, malzeme ve logo alanıyla karşılaştırın. Fiyatın esas alındığı adet ve baskı kapsamını netleştirin.",

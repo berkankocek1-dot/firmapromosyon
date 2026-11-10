@@ -398,6 +398,11 @@ loading="lazy"
           </section>
         </div>
       )}
+      <section aria-labelledby="karton-canta-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="karton-canta-rehberi-baslik" className="text-xl font-bold !text-black">Karton Çanta Ölçüsünü ve Tasarımını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Kutulu ürün, körük, sap ve kaplamayı birlikte değerlendirin; ön, arka ve yan yüz tasarımını üretim şablonunda netleştirin.</p>
+        <Link href="/rehber/promosyon-karton-canta-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Karton Çanta Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }
