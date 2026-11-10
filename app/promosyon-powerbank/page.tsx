@@ -316,6 +316,11 @@ export default function Page() {
         <Link href="/promosyon-20000-mah-powerbank" className="mt-3 block font-semibold !text-black underline underline-offset-4">20.000 mAh Powerbank Modellerini İncele →</Link>
         <Link href="/promosyon-powerbank-organizer" className="mt-3 block font-semibold !text-black underline underline-offset-4">Powerbank Organizer Modellerini İncele →</Link>
       </section>
+  <section aria-labelledby="powerbank-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+    <h2 id="powerbank-secim-rehberi-baslik" className="text-xl font-bold !text-black">Powerbank Seçimini Planlayın</h2>
+    <p className="mt-3 text-sm leading-7 !text-gray-700">Kapasite, cihaz ve bağlantı uyumu, kablolu ve kablosuz şarj ile logo seçeneklerini birlikte değerlendirin.</p>
+    <Link href="/rehber/promosyon-powerbank-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Powerbank Seçim Rehberini İncele →</Link>
+  </section>
     </div>
   );
 }

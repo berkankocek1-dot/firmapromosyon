@@ -60,5 +60,10 @@ export default function Page() {
    <p>Minimum adet ve teslim süresi stok, miktar, tasarım onayı ve uygulama planına göre netleştirilir. İhtiyaç tarihinizi ve teslim yerini teklif talebine ekleyin. Diğer seçenekler için <Link href="/promosyon-organizerler" className="font-semibold text-white underline">tüm organizer modellerini</Link> inceleyebilirsiniz.</p>
   </section>
   <section className="mt-10"><h2 className="text-2xl font-bold text-white">Hesap Makineli Organizerler Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
+      <section aria-labelledby="hesap-makineli-organizer-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="hesap-makineli-organizer-rehberi-baslik" className="text-xl font-bold !text-black">Hesap Makineli Organizer Seçimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">İç blok, hesap makinesi, kapama ve logo alanını birlikte değerlendirin; numune ve toplu sipariş kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-hesap-makineli-organizer-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Hesap Makineli Organizer Seçim Rehberini İncele →</Link>
+      </section>
  </div>;
 }

@@ -69,5 +69,10 @@ export default function Page() {
    <p>Teslim tarihi tasarım onayı, stok ve logo uygulamasına göre netleştirilir. Diğer malzeme seçenekleri için <Link href="/promosyon-geri-donusumlu-urunler" className="font-semibold text-white underline">geri dönüşümlü ürünleri</Link>; hatırlatma kağıdı ağırlıklı seçenekler için <Link href="/promosyon-yapiskanli-notluklar" className="font-semibold text-white underline">yapışkanlı notluk modellerini</Link> inceleyebilirsiniz.</p>
   </section>
   <section className="mt-10"><h2 className="text-2xl font-bold text-white">Promosyon Spiralli Notluklar Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
+      <section aria-labelledby="spiralli-notluk-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="spiralli-notluk-rehberi-baslik" className="text-xl font-bold !text-black">Spiralli Notluk Seçimini ve Baskısını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Ana not bloğu, yapışkanlı bölümler, spiral ve kapak özelliklerini karşılaştırın; malzeme bilgisi, logo alanı ve sipariş kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-spiralli-notluk-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Spiralli Notluk Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
  </div>;
 }

@@ -67,5 +67,10 @@ export default function Page() {
    <p>Diğer seçenekler için <Link href="/promosyon-geri-donusumlu-urunler" className="font-semibold text-white underline">geri dönüşümlü promosyon ürünlerini</Link> ve <Link href="/promosyon-teknolojik-urunler" className="font-semibold text-white underline">teknolojik ürünleri</Link> inceleyin. Şarj işlevini önceliklendiren siparişlerde <Link href="/promosyon-kablosuz-sarj-cihazi" className="font-semibold text-white underline">kablosuz şarj cihazlarını</Link> da karşılaştırabilirsiniz.</p>
   </section>
   <section className="mt-10"><h2 className="text-2xl font-bold text-white">Promosyon Telefon Tutucular Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
+      <section aria-labelledby="telefon-tutucu-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="telefon-tutucu-rehberi-baslik" className="text-xl font-bold !text-black">Telefon Tutucu Seçimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Masaüstü ve araç içi seçenekleri cihaz, kılıf, denge ve logo alanıyla karşılaştırın; şarj özelliği ve sipariş kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-telefon-tutucu-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Telefon Tutucu Seçim Rehberini İncele →</Link>
+      </section>
  </div>;
 }

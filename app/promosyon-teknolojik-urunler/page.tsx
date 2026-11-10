@@ -391,6 +391,11 @@ export default function Page() {
         </div>
       )}
     <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="Telefon tutucu modelleri"><h2 className="text-xl font-bold !text-black">Promosyon Telefon Tutucu Modelleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">Ahşap masaüstü, aynalı stand ve araç içi telefon tutucuları kullanım ihtiyacınıza göre karşılaştırın.</p><Link href="/promosyon-telefon-tutucu" className="mt-3 inline-flex font-semibold !text-black underline">Telefon Tutucu ve Stand Modellerini İncele →</Link></section>
+      <section aria-labelledby="telefon-tutucu-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="telefon-tutucu-rehberi-baslik" className="text-xl font-bold !text-black">Telefon Tutucu Seçimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Masaüstü ve araç içi seçenekleri cihaz, kılıf, denge ve logo alanıyla karşılaştırın; şarj özelliği ve sipariş kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-telefon-tutucu-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Telefon Tutucu Seçim Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

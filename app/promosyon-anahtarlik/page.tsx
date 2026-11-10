@@ -388,6 +388,18 @@ export default function Page() {
         <Link href="/promosyon-metal-anahtarlik" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Metal Anahtarlık Modelleri →</Link>
         <p className="mt-3 text-sm text-gray-700">Malzeme ve kullanım özelliklerine göre hazırlanmış anahtarlık sayfalarından modelleri karşılaştırabilirsiniz.</p>
       </nav>
+      <section aria-labelledby="anahtarlik-secim-rehberi" className="mt-12 rounded-2xl border border-gray-200 !bg-white p-5">
+        <h2 id="anahtarlik-secim-rehberi" className="text-xl font-bold !text-black">Anahtarlık Siparişi Öncesinde</h2>
+        <div className="mt-5 grid gap-4 sm:grid-cols-2">
+          <Link
+            href="/rehber/promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta"
+            className="rounded-2xl border border-gray-200 !bg-white p-5 transition hover:!bg-gray-50"
+          >
+            <h3 className="text-lg font-semibold !text-black">Anahtarlık Seçimi İçin Kontrol Listesi</h3>
+            <p className="mt-2 text-sm leading-6 !text-gray-700">Numune, halka ve bağlantı parçaları, logo yerleşimi ve teslim kontrollerini inceleyin.</p>
+          </Link>
+        </div>
+      </section>
     </div>
   );
 }

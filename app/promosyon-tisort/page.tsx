@@ -415,6 +415,18 @@ export default function Page() {
           </section>
         </div>
       )}
+      <section aria-labelledby="tisort-dtf-rehberi" className="mt-12 rounded-2xl border border-gray-200 !bg-white p-5">
+        <h2 id="tisort-dtf-rehberi" className="text-xl font-bold !text-black">Tişört Logo Uygulaması Hakkında</h2>
+        <div className="mt-5 grid gap-4 sm:grid-cols-2">
+          <Link
+            href="/rehber/dtf-baski-nedir"
+            className="rounded-2xl border border-gray-200 !bg-white p-5 transition hover:!bg-gray-50"
+          >
+            <h3 className="text-lg font-semibold !text-black">DTF Baskı Nedir, Nasıl Uygulanır?</h3>
+            <p className="mt-2 text-sm leading-6 !text-gray-700">Filmden tekstile transferi, kumaş uygunluğunu, numune ve bakım bilgilerini inceleyin.</p>
+          </Link>
+        </div>
+      </section>
     </div>
   );
 }

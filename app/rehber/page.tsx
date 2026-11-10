@@ -75,11 +75,11 @@ export default function RehberPage() {
     <div className="min-h-screen bg-white text-gray-900">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema).replace(/</g, "\\u003c") }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema).replace(/</g, "\\u003c") }}
       />
 
       <section className="border-b border-gray-100 bg-gradient-to-b from-gray-50 via-white to-white">
@@ -126,7 +126,7 @@ export default function RehberPage() {
             >
               <div className="relative aspect-[16/9] w-full bg-gray-100">
                 <Image
-                  src={`/guides/${g.slug}.jpg`}
+                  src={g.image ?? `/guides/${g.slug}.jpg`}
                   alt={g.title}
                   fill
                   className="object-cover transition duration-300 group-hover:scale-105"

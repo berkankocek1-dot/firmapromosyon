@@ -354,6 +354,11 @@ export default function Page() {
         </div>
       )}
     <section className="mt-12 rounded-2xl bg-white p-6 text-black"><h2 className="text-xl font-bold !text-black">Hesap Makineli Promosyon Organizerler</h2><p className="mt-2 text-sm leading-6 !text-gray-700">ORG-140–ORG-190 modellerini ölçü, sayfa, kapama ve logo uygulamasıyla karşılaştırın.</p><Link href="/promosyon-hesap-makineli-organizer" className="mt-3 inline-flex font-semibold !text-black underline">Hesap Makineli Organizerleri İncele →</Link></section>
+      <section aria-labelledby="hesap-makineli-organizer-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="hesap-makineli-organizer-rehberi-baslik" className="text-xl font-bold !text-black">Hesap Makineli Organizer Seçimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">İç blok, hesap makinesi, kapama ve logo alanını birlikte değerlendirin; numune ve toplu sipariş kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-hesap-makineli-organizer-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Hesap Makineli Organizer Seçim Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

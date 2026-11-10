@@ -329,6 +329,22 @@ export default function Page() {
                   sürecini inceleyin.
                 </p>
               </Link>
+
+              <Link
+                href="/rehber/promosyon-kalem-secerken-nelere-dikkat-edilmeli"
+                className="rounded-2xl border border-white/10 bg-white/5 p-5 transition hover:bg-white/10"
+              >
+                <h3 className="text-lg font-semibold text-white">Kalem Seçimi ve Numune Kontrolü</h3>
+                <p className="mt-2 text-sm leading-6 text-gray-200">Yazım, tutuş, mürekkep bilgisi ve sipariş onayında kontrol edilecekleri inceleyin.</p>
+              </Link>
+
+              <Link
+                href="/rehber/promosyon-kalemlerde-baski-turleri-nelerdir"
+                className="rounded-2xl border border-white/10 bg-white/5 p-5 transition hover:bg-white/10"
+              >
+                <h3 className="text-lg font-semibold text-white">Kalemlerde Baskı Yöntemleri</h3>
+                <p className="mt-2 text-sm leading-6 text-gray-200">Tampon, UV, lazer ve serigrafi yöntemlerini yüzey ve tasarım uygunluğu üzerinden karşılaştırın.</p>
+              </Link>
             </div>
           </section>
         </div>

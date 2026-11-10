@@ -429,6 +429,16 @@ export default function Page() {
       )}
     <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="Telefon tutucu modelleri"><h2 className="text-xl font-bold !text-black">Promosyon Telefon Tutucu Modelleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">Ahşap masaüstü, aynalı stand ve araç içi telefon tutucuları kullanım ihtiyacınıza göre karşılaştırın.</p><Link href="/promosyon-telefon-tutucu" className="mt-3 inline-flex font-semibold !text-black underline">Telefon Tutucu ve Stand Modellerini İncele →</Link></section>
     <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="Spiralli notluk modelleri"><h2 className="text-xl font-bold !text-black">Promosyon Spiralli Notluk Modelleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">Spiralli notluk ve not defterlerini ölçü, sayfa ve yapışkanlı not içeriğiyle karşılaştırın.</p><Link href="/promosyon-spiralli-notluk" className="mt-3 inline-flex font-semibold !text-black underline">Spiralli Notluk Modellerini İncele →</Link></section>
+      <section aria-labelledby="telefon-tutucu-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="telefon-tutucu-rehberi-baslik" className="text-xl font-bold !text-black">Telefon Tutucu Seçimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Masaüstü ve araç içi seçenekleri cihaz, kılıf, denge ve logo alanıyla karşılaştırın; şarj özelliği ve sipariş kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-telefon-tutucu-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Telefon Tutucu Seçim Rehberini İncele →</Link>
+      </section>
+      <section aria-labelledby="spiralli-notluk-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="spiralli-notluk-rehberi-baslik" className="text-xl font-bold !text-black">Spiralli Notluk Seçimini ve Baskısını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Ana not bloğu, yapışkanlı bölümler, spiral ve kapak özelliklerini karşılaştırın; malzeme bilgisi, logo alanı ve sipariş kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-spiralli-notluk-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Spiralli Notluk Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

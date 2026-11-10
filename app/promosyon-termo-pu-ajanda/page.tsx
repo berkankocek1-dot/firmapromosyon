@@ -87,6 +87,11 @@ export default function Page() {
         <p>Cilt yapısına göre alternatif için <Link href="/promosyon-spiralli-ajanda" className="font-semibold text-white underline">spiralli ajanda modellerini</Link>, tüm seçenekler için <Link href="/promosyon-ajanda" className="font-semibold text-white underline">ana ajanda kategorisini</Link> inceleyebilirsiniz.</p>
       </section>
       <section className="mt-10 rounded-3xl bg-black px-6 py-8 text-white"><h2 className="text-2xl font-bold text-white">Termo PU Ajanda Hakkında Sık Sorulan Sorular</h2><div className="mt-6 space-y-5">{faqItems.map(f => <div key={f.question}><h3 className="text-lg font-semibold text-white">{f.question}</h3><p className="mt-2 text-sm leading-6 text-gray-200">{f.answer}</p></div>)}</div></section>
+      <section aria-labelledby="defter-ajanda-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="defter-ajanda-secim-rehberi-baslik" className="text-xl font-bold !text-black">Defter ve Ajanda Seçimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Boyut, iç sayfa, kapak ve cilt seçeneklerini karşılaştırın; takvim yılı, logo ve toplu sipariş onayını birlikte değerlendirin.</p>
+        <Link href="/rehber/promosyon-defter-ajanda-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Defter ve Ajanda Seçim Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

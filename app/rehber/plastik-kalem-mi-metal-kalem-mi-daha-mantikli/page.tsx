@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 const pageUrl =
@@ -7,6 +8,9 @@ const title =
   "Plastik Kalem mi Metal Kalem mi Daha Mantıklı?";
 const description =
   "Plastik kalem mi metal kalem mi daha mantıklı sorusunun cevabını kullanım alanı, bütçe, hedef kitle, baskı kalitesi ve kurumsal imaj açısından detaylıca inceleyin. Promosyon kalem seçiminde doğru kararı verin.";
+
+const guideImage = "/guides/plastik-kalem-mi-metal-kalem-mi-kapak-v1.jpg";
+const guideImageUrl = `https://www.firmapromosyon.com${guideImage}`;
 
 export const metadata: Metadata = {
   title,
@@ -31,11 +35,13 @@ export const metadata: Metadata = {
     siteName: "Firma Promosyon",
     locale: "tr_TR",
     type: "article",
+    images: [{ url: guideImageUrl, width: 1200, height: 630, alt: title }],
   },
   twitter: {
     card: "summary_large_image",
     title,
     description,
+    images: [guideImageUrl],
   },
   robots: {
     index: true,
@@ -71,7 +77,8 @@ export default function PlastikKalemMiMetalKalemMiPage() {
           url: "https://www.firmapromosyon.com",
         },
         datePublished: "2026-03-31",
-        dateModified: "2026-03-31",
+        dateModified: "2026-11-10",
+        image: [guideImageUrl],
       },
       {
         "@type": "BreadcrumbList",
@@ -140,7 +147,7 @@ export default function PlastikKalemMiMetalKalemMiPage() {
     <div className="bg-white">
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }}
       />
 
       <section className="border-b border-gray-100 bg-gray-50">
@@ -179,6 +186,19 @@ export default function PlastikKalemMiMetalKalemMiPage() {
           <h1 className="mt-4 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
             Plastik Kalem mi Metal Kalem mi Daha Mantıklı?
           </h1>
+
+          <figure className="mt-6">
+            <Image
+              src={guideImage}
+              alt="Plastik ve metal gövdeli kalem seçeneklerinin temsili karşılaştırması"
+              width={1200}
+              height={630}
+              sizes="(max-width: 768px) 100vw, 896px"
+              className="h-auto w-full rounded-2xl"
+              priority
+            />
+            <figcaption className="mt-2 text-sm text-gray-500">Temsili görseldir; belirli ürün kodlarını veya set içeriğini göstermez.</figcaption>
+          </figure>
 
           <p className="mt-4 text-lg leading-8 text-gray-700">
             Promosyon ürün seçimi yaparken en çok sorulan sorulardan biri{" "}

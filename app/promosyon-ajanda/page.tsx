@@ -322,6 +322,11 @@ export default function PromosyonAjandaPage() {
         <Link href="/promosyon-spiralli-ajanda" className="mt-3 block font-semibold !text-black underline underline-offset-4">Spiralli Ajanda Modellerini İncele →</Link>
         <Link href="/promosyon-termo-pu-ajanda" className="mt-3 block font-semibold !text-black underline underline-offset-4">Termo PU Ajanda Modellerini İncele →</Link>
       </section>
+      <section aria-labelledby="defter-ajanda-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="defter-ajanda-secim-rehberi-baslik" className="text-xl font-bold !text-black">Defter ve Ajanda Seçimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Boyut, iç sayfa, kapak ve cilt seçeneklerini karşılaştırın; takvim yılı, logo ve toplu sipariş onayını birlikte değerlendirin.</p>
+        <Link href="/rehber/promosyon-defter-ajanda-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Defter ve Ajanda Seçim Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

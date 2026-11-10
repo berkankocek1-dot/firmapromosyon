@@ -309,6 +309,34 @@ export default function Page() {
         <Link href="/promosyon-doldurulabilir-cakmak" className="mt-3 block font-semibold !text-black underline underline-offset-4">Doldurulabilir Çakmak Modellerini İncele →</Link>
         <Link href="/promosyon-mini-cakmak" className="mt-3 block font-semibold !text-black underline underline-offset-4">Mini Boy Çakmak Modellerini İncele →</Link>
       </section>
+      <section aria-labelledby="cakmak-siparis-rehberleri" className="mt-12 rounded-2xl border border-gray-200 !bg-white p-5">
+        <h2 id="cakmak-siparis-rehberleri" className="text-xl font-bold !text-black">Çakmak Seçimi ve Sipariş Rehberleri</h2>
+        <div className="mt-5 grid gap-4 sm:grid-cols-2">
+          <Link
+            href="/rehber/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta"
+            className="rounded-2xl border border-gray-200 !bg-white p-5 transition hover:!bg-gray-50"
+          >
+            <h3 className="text-lg font-semibold !text-black">Çakmak Seçiminde 10 Kontrol Noktası</h3>
+            <p className="mt-2 text-sm leading-6 !text-gray-700">Model, numune, baskı onayı ve teslim planını adım adım değerlendirin.</p>
+          </Link>
+
+          <Link
+            href="/rehber/promosyon-cakmak-fiyatlari"
+            className="rounded-2xl border border-gray-200 !bg-white p-5 transition hover:!bg-gray-50"
+          >
+            <h3 className="text-lg font-semibold !text-black">Çakmak Fiyatları Nasıl Değerlendirilir?</h3>
+            <p className="mt-2 text-sm leading-6 !text-gray-700">Ürün, baskı ve varsa hazırlık bedellerini aynı kapsamda karşılaştırın.</p>
+          </Link>
+
+          <Link
+            href="/rehber/promosyon-cakmak-kullanim-alanlari"
+            className="rounded-2xl border border-gray-200 !bg-white p-5 transition hover:!bg-gray-50"
+          >
+            <h3 className="text-lg font-semibold !text-black">Çakmak Kullanım Alanları</h3>
+            <p className="mt-2 text-sm leading-6 !text-gray-700">Alıcı ihtiyacına göre müşteri ziyareti, bayi ve etkinlik dağıtımlarını değerlendirin.</p>
+          </Link>
+        </div>
+      </section>
     </div>
   );
 }

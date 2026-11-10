@@ -70,5 +70,10 @@ export default function Page() {
    <p>Markalama seçenekleri için <Link href="/promosyon-isikli-logolu-powerbank" className="font-semibold text-white underline">ışıklı logolu powerbankleri</Link>, tüm modeller için <Link href="/promosyon-powerbank" className="font-semibold text-white underline">ana powerbank kategorisini</Link> inceleyebilirsiniz.</p>
   </section>
   <section className="mt-10 rounded-3xl bg-black px-6 py-8 text-white"><h2 className="text-2xl font-bold text-white">Dahili Kablolu Powerbank Hakkında Sık Sorulan Sorular</h2><div className="mt-6 space-y-5">{faqItems.map(f=><div key={f.question}><h3 className="text-lg font-semibold text-white">{f.question}</h3><p className="mt-2 text-sm leading-6 text-gray-200">{f.answer}</p></div>)}</div></section>
+  <section aria-labelledby="powerbank-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+    <h2 id="powerbank-secim-rehberi-baslik" className="text-xl font-bold !text-black">Powerbank Seçimini Planlayın</h2>
+    <p className="mt-3 text-sm leading-7 !text-gray-700">Kapasite, cihaz ve bağlantı uyumu, kablolu ve kablosuz şarj ile logo seçeneklerini birlikte değerlendirin.</p>
+    <Link href="/rehber/promosyon-powerbank-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Powerbank Seçim Rehberini İncele →</Link>
+  </section>
  </div>;
 }

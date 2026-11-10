@@ -58,5 +58,10 @@ export default function Page() {
    <p>Teklif talebinde model kodu, adet, renk tercihi, logo dosyası ve teslim yerini paylaşın. Termin stok, tasarım onayı ve uygulama planına göre belirlenir. Diğer seçenekler için <Link href="/promosyon-imalat-urunler" className="font-semibold text-white underline">imalat promosyon ürünlerini</Link> inceleyebilirsiniz.</p>
   </section>
   <section className="mt-10"><h2 className="text-2xl font-bold text-white">Promosyon Şemsiye Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
+      <section aria-labelledby="semsiye-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="semsiye-secim-rehberi-baslik" className="text-xl font-bold !text-black">Şemsiye Seçimi ve Logo Baskısını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Taşıma biçimi, mekanizma ve ölçüleri karşılaştırın; panel yerleşimi, baskı yöntemi ve toplu sipariş kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-semsiye-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Şemsiye Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
  </div>;
 }

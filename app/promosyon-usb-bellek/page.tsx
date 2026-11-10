@@ -375,6 +375,11 @@ export default function UsbPage() {
         <h2 className="text-xl font-bold !text-black">USB Bellek Türlerine Göre İnceleyin</h2>
         <Link href="/promosyon-metal-usb-bellek" className="mt-3 inline-block font-semibold !text-black underline underline-offset-4">Metal USB Bellek Modellerini İncele →</Link>
       </section>
+      <section aria-labelledby="usb-bellek-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="usb-bellek-secim-rehberi-baslik" className="text-xl font-bold !text-black">USB Bellek Seçimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Kapasite, bağlantı, aktarım performansı ve logo alanını ayrı değerlendirin; numune ve toplu sipariş kontrolünü planlayın.</p>
+        <Link href="/rehber/promosyon-usb-bellek-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">USB Bellek Seçim Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

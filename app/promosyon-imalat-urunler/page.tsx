@@ -286,6 +286,16 @@ export default function Page() {
         </div>
       )}
 
+      <section aria-labelledby="semsiye-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="semsiye-secim-rehberi-baslik" className="text-xl font-bold !text-black">Şemsiye Seçimi ve Logo Baskısını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Taşıma biçimi, mekanizma ve ölçüleri karşılaştırın; panel yerleşimi, baskı yöntemi ve toplu sipariş kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-semsiye-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Şemsiye Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
+      <section aria-labelledby="bardak-altligi-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="bardak-altligi-rehberi-baslik" className="text-xl font-bold !text-black">Bardak Altlığı Seçimini ve Baskısını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Tekli ürün ve set kapsamını, ölçü, malzeme ve logo alanını karşılaştırın; fiyatın esas alındığı adetle baskı kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-bardak-altligi-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Bardak Altlığı Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }
