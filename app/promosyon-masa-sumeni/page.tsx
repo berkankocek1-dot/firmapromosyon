@@ -431,6 +431,11 @@ loading="lazy"
           </section>
         </div>
       )}
+      <section aria-labelledby="masaustu-sumen-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="masaustu-sumen-rehberi-baslik" className="text-xl font-bold !text-black">Masaüstü Ürünlerini ve Sümen Yerleşimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Masa alanı, bölmeler, set içeriği ve malzemeyi birlikte değerlendirin; her parçanın logo alanını ve teslim kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-masaustu-urunleri-ve-sumen-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Masaüstü Ürünleri ve Sümen Seçim Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

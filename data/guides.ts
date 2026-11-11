@@ -1,5 +1,65 @@
 export const guides = [
 {
+  slug: "promosyon-kirtasiye-urunleri-secim-ve-baski-rehberi",
+  title: "Promosyon Kırtasiye Ürünleri Seçim ve Baskı Rehberi",
+  desc: "Cetvel, fosforlu kalem, silgi, kalemtıraş ve sınav setlerini kullanım ihtiyacına göre seçin. Set içeriğini, parça uyumunu ve logo kapsamını planlayın.",
+  image: "/guides/promosyon-kirtasiye-urunleri-secim-ve-baski-rehberi.jpg"
+},
+{
+  slug: "promosyon-yoyo-boyun-aski-ipi-secim-ve-baski-rehberi",
+  title: "Promosyon Yoyo ve Boyun Askı İpi Seçim Rehberi",
+  desc: "Yoyo ve boyun askı ipini kart kullanımı, bağlantı uyumu ve logo yerleşimiyle seçin. Kart kabı, baskı yönü ve etkinlik teslim kapsamını planlayın.",
+  image: "/guides/promosyon-yoyo-boyun-aski-ipi-secim-ve-baski-rehberi.jpg"
+},
+{
+  slug: "promosyon-caki-ve-fener-secim-rehberi",
+  title: "Promosyon Çakı ve Fener Seçim Rehberi",
+  desc: "Çakı, el feneri, kalem fener ve kutulu setleri karşılaştırın. İşlev listesi, güç kaynağı, parça bazında logo ve teslim kapsamını birlikte planlayın.",
+  image: "/guides/promosyon-caki-ve-fener-secim-rehberi.jpg"
+},
+{
+  slug: "promosyon-cep-aynasi-ve-aynali-set-secim-rehberi",
+  title: "Promosyon Cep Aynası ve Aynalı Set Seçim Rehberi",
+  desc: "Cep aynası ve aynalı setleri form, kapak ve kullanım kapsamıyla karşılaştırın. Ayna özelliklerini, set içeriğini ve logo alanını ayrı değerlendirin.",
+  image: "/guides/promosyon-cep-aynasi-ve-aynali-set-secim-rehberi.jpg"
+},
+{
+  slug: "promosyon-kartvizitlik-secim-ve-baski-rehberi",
+  title: "Promosyon Kartvizitlik Seçimi | Kart Uyumu ve Baskı Rehberi",
+  desc: "Kartvizitlikleri kart uyumu, kapak, malzeme ve logo alanıyla değerlendirin. Dış ölçü ile iç kapasiteyi ayırın, kurumsal hediye uygulamasını planlayın.",
+  image: "/guides/promosyon-kartvizitlik-secim-ve-baski-rehberi.jpg"
+},
+{
+  slug: "promosyon-bayrak-secim-ve-baski-rehberi",
+  title: "Promosyon Bayrak Seçimi | Ölçü, Kesim ve Baskı Rehberi",
+  desc: "Masa, makam, flama, yelken ve damla bayrakları kullanım yerine göre seçin. Kumaş ölçüsü, kesim, baskı yönü ile direk ve taban kapsamını netleştirin.",
+  image: "/guides/promosyon-bayrak-secim-ve-baski-rehberi.jpg"
+},
+{
+  slug: "promosyon-hesap-makinesi-secim-ve-baski-rehberi",
+  title: "Promosyon Hesap Makinesi Seçimi | Ekran, Tuş ve Baskı Rehberi",
+  desc: "Masaüstü hesap makinelerini ekran, tuş düzeni, gövde ve logo alanıyla karşılaştırın. Not ekranı seçeneklerini ve güç kaynağı için sorulacakları öğrenin.",
+  image: "/guides/promosyon-hesap-makinesi-secim-ve-baski-rehberi.jpg"
+},
+{
+  slug: "promosyon-yapiskanli-notluk-secim-ve-baski-rehberi",
+  title: "Promosyon Yapışkanlı Notluk Seçimi | İçerik ve Baskı Rehberi",
+  desc: "Yapışkanlı notlukları not bloğu, ayraç, kapak ve ölçüleriyle değerlendirin. Defter sayfalarını ayrı okuyup kapak ve iç kağıt baskısı kapsamını netleştirin.",
+  image: "/guides/promosyon-yapiskanli-notluk-secim-ve-baski-rehberi.jpg"
+},
+{
+  slug: "promosyon-sekreterlik-evrak-cantasi-secim-rehberi",
+  title: "Promosyon Sekreterlik ve Evrak Çantası Seçim Rehberi",
+  desc: "Sekreterlik ve evrak çantasını belge boyutu, iç blok, bölmeler ve kapanışla karşılaştırın. Taşıma, logo yerleşimi ve toplantı paketi kapsamını planlayın.",
+  image: "/guides/promosyon-sekreterlik-evrak-cantasi-secim-rehberi.jpg"
+},
+{
+  slug: "promosyon-masaustu-urunleri-ve-sumen-secim-rehberi",
+  title: "Promosyon Masaüstü Ürünleri ve Sümen Seçim Rehberi",
+  desc: "Masaüstü organizer, sümen ve kristal masa setlerini alan, içerik ve malzemeyle değerlendirin. Bölme uyumu, parça başına logo ve kurumsal dağıtımı planlayın.",
+  image: "/guides/promosyon-masaustu-urunleri-ve-sumen-secim-rehberi.jpg"
+},
+{
   slug: "promosyon-kalem-seti-secim-ve-baski-rehberi",
   title: "Promosyon Kalem Seti Seçimi | İçerik, Kutu ve Baskı Rehberi",
   desc: "Kalem seti ile ayrı kalem kutusunu ayırın; yazım türü, kutu uyumu ve her parçanın logo alanını değerlendirin. İsim uygulaması ve set bazında teklif kapsamını planlayın.",

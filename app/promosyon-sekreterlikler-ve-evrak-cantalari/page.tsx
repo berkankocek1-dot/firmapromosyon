@@ -413,6 +413,11 @@ loading="lazy"
           </section>
         </div>
       )}
+      <section aria-labelledby="sekreterlik-evrak-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="sekreterlik-evrak-rehberi-baslik" className="text-xl font-bold !text-black">Belge Yerleşimini ve Taşıma İhtiyacını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Sekreterlik ve evrak çantasını belge boyutu, iç blok, bölmeler ve kapanışla karşılaştırın; logo ve toplantı paketi kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-sekreterlik-evrak-cantasi-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Sekreterlik ve Evrak Çantası Seçim Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

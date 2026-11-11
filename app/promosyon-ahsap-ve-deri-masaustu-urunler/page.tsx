@@ -411,6 +411,11 @@ export default function Page() {
         </div>
       )}
     <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="Bardak altlığı modelleri"><h2 className="text-xl font-bold !text-black">Promosyon Bardak Altlığı Modelleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">BA-650 ile MS-190 ve MS-195 suni deri setleri ölçü, içerik ve logo uygulamasıyla karşılaştırın.</p><Link href="/promosyon-bardak-altligi" className="mt-3 inline-flex font-semibold !text-black underline">Bardak Altlığı Modellerini İncele →</Link></section>
+      <section aria-labelledby="masaustu-sumen-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="masaustu-sumen-rehberi-baslik" className="text-xl font-bold !text-black">Masaüstü Ürünlerini ve Sümen Yerleşimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Masa alanı, bölmeler, set içeriği ve malzemeyi birlikte değerlendirin; her parçanın logo alanını ve teslim kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-masaustu-urunleri-ve-sumen-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Masaüstü Ürünleri ve Sümen Seçim Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

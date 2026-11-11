@@ -403,6 +403,11 @@ export default function Page() {
           </section>
         </div>
       )}
+      <section aria-labelledby="caki-fener-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="caki-fener-rehberi-baslik" className="text-xl font-bold !text-black">Çakı İşlevlerini, Feneri ve Set Kapsamını Karşılaştırın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">İşlev listesini, fenerin güç kaynağını ve teslim içeriğini ayrı değerlendirin; çakı, fener ve kutu için logo uygulamasını planlayın.</p>
+        <Link href="/rehber/promosyon-caki-ve-fener-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Çakı ve Fener Seçim Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

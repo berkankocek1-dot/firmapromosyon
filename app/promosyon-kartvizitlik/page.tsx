@@ -397,6 +397,11 @@ loading="lazy"
           </section>
         </div>
       )}
+      <section aria-labelledby="kartvizitlik-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="kartvizitlik-rehberi-baslik" className="text-xl font-bold !text-black">Kart Uyumunu ve Logo Yerleşimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Kartvizit sunumu ile kart taşıma ihtiyacını ayırın; iç uyumu, kapak kullanımını, malzeme bilgisini ve baskı alanını değerlendirin.</p>
+        <Link href="/rehber/promosyon-kartvizitlik-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Kartvizitlik Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

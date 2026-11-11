@@ -47,5 +47,10 @@ export default function YoyoPage() {
    <p className="leading-8">Etkinlik dağıtımlarınız için <Link href="/promosyon-kalem" className="font-semibold underline">promosyon kalemleri</Link>, <Link href="/promosyon-ham-bez-tela-canta" className="font-semibold underline">bez ve tela çantaları</Link> veya <Link href="/urunler" className="font-semibold underline">tüm promosyon ürünlerini</Link> de inceleyebilirsiniz.</p>
   </section>
   <section className="mt-8 rounded-2xl bg-white p-6 text-gray-900 md:p-8"><h2 className="text-2xl font-bold">Sık Sorulan Sorular</h2><div className="mt-5 divide-y">{faqs.map(f=><details key={f.q} className="py-4"><summary className="cursor-pointer font-semibold">{f.q}</summary><p className="mt-3 leading-7">{f.a}</p></details>)}</div></section>
+      <section aria-labelledby="yoyo-boyun-aski-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="yoyo-boyun-aski-rehberi-baslik" className="text-xl font-bold !text-black">Kart Bağlantısını ve Logo Yerleşimini Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Yoyo ve boyun askı ipini kullanım konumuna göre değerlendirin; kart kabı uyumunu, tekrarlı baskıyı ve aksesuar kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-yoyo-boyun-aski-ipi-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Yoyo ve Boyun Askı İpi Seçim Rehberini İncele →</Link>
+      </section>
  </div>;
 }

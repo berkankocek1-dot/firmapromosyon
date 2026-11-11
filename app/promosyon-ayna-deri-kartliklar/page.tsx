@@ -405,6 +405,11 @@ export default function Page() {
           </section>
         </div>
       )}
+      <section aria-labelledby="cep-aynasi-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="cep-aynasi-rehberi-baslik" className="text-xl font-bold !text-black">Cep Aynasını ve Aynalı Set İçeriğini Karşılaştırın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Açılma biçimini, ayna özelliklerini, set içeriğini ve kapak üzerindeki logo alanını ayrı değerlendirerek kampanya hediyesini seçin.</p>
+        <Link href="/rehber/promosyon-cep-aynasi-ve-aynali-set-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Cep Aynası ve Aynalı Set Seçim Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

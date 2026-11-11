@@ -429,6 +429,11 @@ loading="lazy"
           </section>
         </div>
       )}
+      <section aria-labelledby="kirtasiye-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="kirtasiye-rehberi-baslik" className="text-xl font-bold !text-black">Kırtasiye Dağıtımını ve Parça Bazında Baskıyı Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Cetvel, fosforlu kalem, silgi, kalemtıraş ve hazır setleri kullanım ihtiyacına göre değerlendirin; paket içeriğini ve logo kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-kirtasiye-urunleri-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Kırtasiye Ürünleri Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

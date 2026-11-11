@@ -419,6 +419,11 @@ export default function Page() {
           </section>
         </div>
       )}
+      <section aria-labelledby="hesap-makinesi-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="hesap-makinesi-rehberi-baslik" className="text-xl font-bold !text-black">Ekran, Tuş Düzeni ve Logo Alanını Karşılaştırın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Masaüstü kullanımını, not ekranı seçeneklerini ve güç kaynağı için teyit edilecek bilgileri inceleyerek baskı kapsamını planlayın.</p>
+        <Link href="/rehber/promosyon-hesap-makinesi-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Hesap Makinesi Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

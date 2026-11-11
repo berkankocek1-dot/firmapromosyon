@@ -306,6 +306,11 @@ export default function Page() {
           </section>
         </div>
       )}
+      <section aria-labelledby="bayrak-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="bayrak-rehberi-baslik" className="text-xl font-bold !text-black">Bayrak Türünü, Baskı Yönünü ve Kurulum Kapsamını Seçin</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Masa, makam, flama, yelken ve damla formlarını kullanım yerine göre değerlendirin; ölçü, kesim ve direk–taban kapsamını netleştirin.</p>
+        <Link href="/rehber/promosyon-bayrak-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Bayrak Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }

@@ -432,6 +432,11 @@ export default function Page() {
         </div>
       )}
     <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="Spiralli notluk modelleri"><h2 className="text-xl font-bold !text-black">Promosyon Spiralli Notluk Modelleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">Spiralli notluk ve not defterlerini ölçü, sayfa ve yapışkanlı not içeriğiyle karşılaştırın.</p><Link href="/promosyon-spiralli-notluk" className="mt-3 inline-flex font-semibold !text-black underline">Spiralli Notluk Modellerini İncele →</Link></section>
+      <section aria-labelledby="yapiskanli-notluk-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
+        <h2 id="yapiskanli-notluk-rehberi-baslik" className="text-xl font-bold !text-black">Not Bölümlerini ve Baskı Kapsamını Planlayın</h2>
+        <p className="mt-3 text-sm leading-7 !text-gray-700">Not bloğu, ayraç ve varsa defter bölümünü ayrı değerlendirin; kağıt miktarıyla kapak ve iç kağıt uygulamasını netleştirin.</p>
+        <Link href="/rehber/promosyon-yapiskanli-notluk-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Yapışkanlı Notluk Seçim ve Baskı Rehberini İncele →</Link>
+      </section>
     </div>
   );
 }
