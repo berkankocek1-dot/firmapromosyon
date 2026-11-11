@@ -19,8 +19,8 @@ function JsonLd({ data }: { data: Record<string, unknown> }) {
 const CATEGORY = "Bayraklar";
 const PAGE_URL = `${SITE_URL}/promosyon-bayraklar`;
 
-const PAGE_TITLE = "Promosyon Bayrak Modelleri | Logo Baskılı Masa ve Flama | FirmaPromosyon";
-const PAGE_DESCRIPTION = "Logo baskılı makam, masa, kırlangıç, yelken ve damla bayrak modellerini karşılaştırın. Ölçü, kesim, direk ve taban seçenekleriyle toplu sipariş teklifi alın.";
+const PAGE_TITLE = "Promosyon Bayrak | Masa, Makam ve Yelken | FirmaPromosyon";
+const PAGE_DESCRIPTION = "Firmanıza özel logo baskılı masa, makam, yelken, damla ve kırlangıç bayrakları inceleyin. Ölçü, kesim ve direk–taban kapsamına göre toplu sipariş teklifi alın.";
 
 export const metadata: Metadata = {
   title: { absolute: PAGE_TITLE },
@@ -62,6 +62,10 @@ export const metadata: Metadata = {
 };
 
 const faqs = [
+  {
+    "question": "Promosyon bayrak fiyatları nasıl belirlenir?",
+    "answer": "Fiyat teklifi model, kumaş ölçüsü, adet, kesim ve baskı kapsamıyla hazırlanır. Yalnız kumaş bayrak ile direk, taban ve bağlantı parçaları dahil sistem aynı kapsamda değildir. Bu parçaları, baskı yönünü ve KDV durumunu ayrı belirterek teklif isteyin."
+  },
   {
     "question": "Hangi promosyon bayrak modelleri bulunuyor?",
     "answer": "BYK-100 makam bayrağı, BYK-110 ile BYK-140 arasında tekli, ikili, üçlü ve dörtlü masa bayrakları; BYK-150 L ve BYK-200 T masa bayrakları bulunur. BYK-160, BYK-170 ve BYK-180 kırlangıç/flama; BYK-190 yelken ve BYK-210 damla bayrak seçenekleridir."
@@ -172,17 +176,19 @@ export default function Page() {
 
         <header>
           <h1 className="text-3xl font-extrabold text-white md:text-4xl">
-            Promosyon Bayraklar
+            Logo Baskılı Promosyon Bayrak Modelleri
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Makam, masa, kırlangıç, yelken ve damla bayrak modellerini kullanım
-            yerine göre karşılaştırın. Masaüstü seçeneklerinde direk sayısını,
-            flama modellerinde ölçü ve kesimi belirleyerek logo baskılı siparişinizi planlayın.
+            Ofis ve resepsiyon için masa bayrağı, kurumsal oda yerleşimi için makam
+            bayrağı; fuar ve tanıtım alanları için kırlangıç, yelken veya damla
+            bayrak seçeneklerini inceleyin. Firma logonuzu kullanım yerine uygun
+            ölçü ve formda planlayın.
           </p>
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Ürün kodu, adet, tasarım ve ihtiyaç duyduğunuz direk veya taban
-            bilgilerini paylaşın; baskı ve paket kapsamını içeren teklif alın.
+            Toplu sipariş teklifiniz için adet, kullanım yeri ve logo dosyanızı
+            paylaşın. Kumaş, baskı, direk ve taban ihtiyacını ayrı belirterek
+            tekliflerin kapsamını karşılaştırın.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">
@@ -194,16 +200,24 @@ export default function Page() {
             </Link>
 
             <Link
-              href="/urunler"
+              href="#bayrak-modelleri"
               className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
             >
-              Tüm Ürünleri Gör
+              Bayrak Modellerini Gör
             </Link>
           </div>
         </header>
       </section>
 
-      <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      {list.length > 0 && (
+        <nav aria-label="Bayrak seçimi ve teklif bilgileri" className="mt-6 flex flex-wrap gap-3 text-sm">
+          <a href="#masa-makam-bayraklari" className="rounded-full border border-gray-200 !bg-white px-4 py-2 font-semibold !text-black underline underline-offset-4">Masa ve Makam Bayrakları</a>
+          <a href="#reklam-bayraklari" className="rounded-full border border-gray-200 !bg-white px-4 py-2 font-semibold !text-black underline underline-offset-4">Yelken, Damla ve Flama</a>
+          <a href="#bayrak-fiyat-teklifi" className="rounded-full border border-gray-200 !bg-white px-4 py-2 font-semibold !text-black underline underline-offset-4">Fiyat ve Teklif Kapsamı</a>
+        </nav>
+      )}
+
+      <section id="bayrak-modelleri" aria-label="Promosyon bayrak modelleri" className="mt-8 grid scroll-mt-24 grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((p) => (
           <Link
             key={p.id}
@@ -271,20 +285,21 @@ export default function Page() {
             </div>
             <p className="text-sm leading-6">Flama ölçüleri kumaş bayrağın ölçüsüdür; kurulu sistemin toplam yüksekliği veya baskı şablonu olarak doğrudan kullanılmamalıdır. Direk, taban ve bağlantı ayrıntıları seçilen modele göre doğrulanır.</p>
           </section>
-          <section className="mt-12 max-w-4xl space-y-4 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Masa ve Makam Bayraklarında Yerleşim</h2>
+          <section id="masa-makam-bayraklari" className="mt-12 max-w-4xl scroll-mt-24 space-y-4 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Logo Baskılı Masa ve Makam Bayrakları</h2>
             <p>BYK-110 tek bayrak sunumu içindir. BYK-120, BYK-130 ve BYK-140 ile sırasıyla iki, üç veya dört farklı tasarım birlikte sergilenebilir. Masa üzerinde ayrılacak alanı ve tasarımların birbirini kapatmadan görülebileceği yerleşimi dikkate alın.</p>
             <p>BYK-150 dikey L banner, BYK-200 ise çift banner formundadır. Logo, slogan veya iki farklı tasarım için bu formlar değerlendirilebilir. BYK-100 makam bayrağında kumaş ölçüsü, direk ve taban kapsamı sipariş öncesinde belirlenir.</p>
           </section>
-          <section className="mt-12 max-w-4xl space-y-4 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Kırlangıç, Yelken ve Damla Bayrak Seçenekleri</h2>
+          <section id="reklam-bayraklari" className="mt-12 max-w-4xl scroll-mt-24 space-y-4 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Kırlangıç, Yelken ve Damla Reklam Bayrakları</h2>
             <p>BYK-160, BYK-170 ve BYK-180 modellerinde ölçünün yanında düz, kırlangıç veya beşgen kesim seçilir. Alt kesim biçimi değiştiğinde yazı ve logo yerleşimi de şablona göre düzenlenir; önemli tasarım öğeleri kesim ve dikiş sınırlarından uzak tutulur.</p>
             <p>BYK-190 yelken, BYK-210 damla formundadır. Her iki modelde esnek fiber direk ve opsiyonel taban seçenekleri belirtilir. Kullanılacak zemin, iç veya dış mekan, kurulum alanı ve taban seçimi birlikte değerlendirilir. Dış mekan kullanım koşulları ve sabitleme gereksinimi seçilen sistem için sipariş öncesinde doğrulanır.</p>
           </section>
-          <section className="mt-12 max-w-4xl space-y-4 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Bayrak Baskısı, Fiyat ve Sipariş Kapsamı</h2>
+          <section id="bayrak-fiyat-teklifi" className="mt-12 max-w-4xl scroll-mt-24 space-y-4 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Promosyon Bayrak Fiyatları Nasıl Belirlenir?</h2>
             <p>Masa ve reklam bayraklarında dijital veya sublimasyon; BYK-100 makam bayrağında dijital veya serigraf baskı bilgisi bulunur. Nihai yöntem, kumaş ve tasarıma göre netleştirilir. Logo dosyası, renkler, baskı yönü ve arka yüz beklentisi üretim öncesinde paylaşılmalıdır.</p>
-            <p>Teklifleri aynı model, ölçü, adet ve paket kapsamı üzerinden karşılaştırın. Kumaş bayrak, baskı, direk, taban, bağlantı parçaları ve KDV kapsamını kontrol edin. Minimum sipariş ve teslim süresi modele ve üretim planına göre belirlenir; özel ölçü talepleri ayrıca değerlendirilir.</p>
+            <p>Promosyon bayrak fiyatları için tek bir paket kapsamı kullanmayın. Aynı kumaş ölçüsünde yalnız bayrak talebiyle direk ve taban dahil kurulum talebi farklı teklifler oluşturabilir. Model, ölçü, adet, kesim ve baskı yönünü aynı tutarak kumaş, baskı, direk, taban, bağlantı parçaları ve KDV kapsamını ayrı karşılaştırın.</p>
+            <p>Bu kategoride sabit liste fiyatı yerine seçilen model ve sipariş kapsamına göre teklif hazırlanır. Mevcut direğiniz için yalnız kumaş isteniyorsa bağlantı uyumunu belirtin. Yeni bir sistemde taban ve gerekli parçaları listeleyin. Minimum sipariş, stok ve teslim süresini ihtiyaç tarihinizle birlikte netleştirin.</p>
           </section>
           <section className="mt-12 max-w-4xl space-y-4 text-gray-200">
             <h2 className="text-2xl font-bold text-white">Fuar ve Ofis İçin Tamamlayıcı Ürünler</h2>
