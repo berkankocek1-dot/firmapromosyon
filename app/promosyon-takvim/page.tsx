@@ -48,5 +48,10 @@ export default function TakvimPage() {
   </section>
   <section className="mt-8 rounded-2xl bg-white p-6 text-gray-900 md:p-8"><h2 className="text-2xl font-bold">Promosyon Takvim Hakkında Sık Sorulan Sorular</h2><div className="mt-5 divide-y">{faqs.map(f=><details key={f.q} className="py-4"><summary className="cursor-pointer font-semibold">{f.q}</summary><p className="mt-3 leading-7">{f.a}</p></details>)}</div></section>
  <section className="mt-12 rounded-2xl bg-white p-6 text-black"><h2 className="text-xl font-bold !text-black">Promosyon Gemici Takvimleri</h2><p className="mt-2 text-sm leading-6 !text-gray-700">Gemici takvimlerini ölçü, spiral, sıvama ve taslama özellikleriyle karşılaştırın.</p><Link href="/promosyon-gemici-takvimi" className="mt-3 inline-flex font-semibold !text-black underline">Gemici Takvimi Modellerini İncele →</Link></section>
+  <section aria-labelledby="takvim-rehberi-baslik" className="mt-8 rounded-2xl border border-gray-200 !bg-white p-6 md:p-8">
+   <h2 id="takvim-rehberi-baslik" className="text-xl font-bold !text-black">Gemici Takvimi Seçimini ve Baskısını Planlayın</h2>
+   <p className="mt-3 text-sm leading-7 !text-gray-700">Gemici takvimlerinde ölçü, spiral ve taşıyıcı özelliklerini değerlendirin; takvim yılı ile logo yerleşimini sipariş öncesinde netleştirin.</p>
+   <Link href="/rehber/promosyon-gemici-takvimi-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Gemici Takvimi Seçim Rehberini İncele →</Link>
+  </section>
  </div>;
 }
