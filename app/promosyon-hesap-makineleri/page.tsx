@@ -19,8 +19,8 @@ function JsonLd({ data }: { data: Record<string, unknown> }) {
 const CATEGORY = "Hesap Makineleri";
 const PAGE_URL = `${SITE_URL}/promosyon-hesap-makineleri`;
 
-const PAGE_TITLE = "Promosyon Hesap Makinesi | Logo Baskılı | FirmaPromosyon";
-const PAGE_DESCRIPTION = "Logo baskılı masaüstü hesap makinelerini fiyat, gövde ölçüsü ve baskı alanıyla karşılaştırın. Not ekranlı seçenekleri inceleyip toplu sipariş teklifi alın.";
+const PAGE_TITLE = "Promosyon Hesap Makinesi Modelleri | 12 Haneli ve Logo Baskılı";
+const PAGE_DESCRIPTION = "Logo baskılı 12 haneli hesap makinelerini ölçü, baskı alanı ve not ekranı seçenekleriyle karşılaştırın. Toptan kurumsal sipariş için teklif alın.";
 const faqItems = [
   {
     "question": "Promosyon hesap makineleri kaç hanelidir?",
@@ -53,7 +53,7 @@ const faqItems = [
 ];
 
 export const metadata: Metadata = {
-  title: { absolute: PAGE_TITLE },
+  title: PAGE_TITLE,
   description: PAGE_DESCRIPTION,
   alternates: { canonical: PAGE_URL },
   robots: {
@@ -174,19 +174,13 @@ export default function Page() {
 
         <header>
           <h1 className="text-3xl font-extrabold text-white md:text-4xl">
-            Logo Baskılı Promosyon Hesap Makinesi Modelleri
+            Promosyon Hesap Makineleri
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Ofis ve satış masalarında kullanılacak hesap makinelerini gövde
-            ölçüsü, ekran yerleşimi ve logo alanıyla karşılaştırın. Yazılabilir
-            not ekranı bulunan seçenekleri de inceleyerek kurumsal hediyenizi
-            kullanım ihtiyacına göre seçin.
-          </p>
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Listelenen ürün fiyatları baskı hariçtir ve KDV ayrıca eklenir.
-            Model, adet ve logo dosyanızla baskı dahil toplam teklif isteyin;
-            enerji kaynağını ve teslim edilecek aksesuarları seçilen model için teyit edin.
+            12 haneli masaüstü hesap makinelerini gövde ölçüsü, logo alanı
+            ve yazılabilir not ekranı seçenekleriyle karşılaştırın.
+            Ofis ve kurumsal hediye siparişleri için güncel teklif alın.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">
@@ -198,24 +192,16 @@ export default function Page() {
             </Link>
 
             <Link
-              href="#hesap-makinesi-modelleri"
+              href="/urunler"
               className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
             >
-              Hesap Makinesi Modellerini Gör
+              Tüm Ürünleri Gör
             </Link>
           </div>
         </header>
       </section>
 
-      {list.length > 0 && (
-        <nav aria-label="Hesap makinesi karşılaştırma ve fiyat bilgileri" className="mt-6 flex flex-wrap gap-3 text-sm">
-          <a href="#hesap-makinesi-karsilastirma" className="rounded-full border border-gray-200 !bg-white px-4 py-2 font-semibold !text-black underline underline-offset-4">Ölçü ve Logo Alanları</a>
-          <a href="#not-ekranli-hesap-makinesi" className="rounded-full border border-gray-200 !bg-white px-4 py-2 font-semibold !text-black underline underline-offset-4">Not Ekranlı Seçenek</a>
-          <a href="#hesap-makinesi-fiyatlari" className="rounded-full border border-gray-200 !bg-white px-4 py-2 font-semibold !text-black underline underline-offset-4">Fiyat ve Baskı Kapsamı</a>
-        </nav>
-      )}
-
-      <section id="hesap-makinesi-modelleri" aria-label="Promosyon hesap makinesi modelleri ve ürün fiyatları" className="mt-8 grid scroll-mt-24 grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((p) => (
           <Link
             key={p.id}
@@ -253,7 +239,7 @@ export default function Page() {
                   </div>
 
                   <div className="mt-1 text-xs font-medium text-green-600">
-                    Ürün fiyatı baskı hariçtir. Logo uygulaması ayrıca hesaplanır.
+                    Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.
                   </div>
                 </div>
               )}
@@ -288,8 +274,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section id="hesap-makinesi-karsilastirma" className="mt-12 scroll-mt-24">
-            <h2 className="text-2xl font-bold text-white">Masaüstü Hesap Makinelerinin Ölçü ve Logo Alanları</h2>
+          <section className="mt-12">
+            <h2 className="text-2xl font-bold text-white">12 Haneli Hesap Makinesi Modellerini Karşılaştırın</h2>
             <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
               <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
                 <caption className="sr-only">Hesap makinelerinin belirtilen ürün ölçüleri, baskı alanları ve model farkları</caption>
@@ -337,8 +323,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section id="not-ekranli-hesap-makinesi" className="mt-12 max-w-4xl scroll-mt-24 space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Yazılabilir Not Ekranlı Hesap Makinesi</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">HM-140 Yazılabilir Not Ekranlı Model</h2>
             <p>
               HM-140, 12 haneli hesap makinesini yan bölümdeki yazılabilir not
               ekranı ve yazım kalemiyle birleştiren kapaklı modeldir.
@@ -379,19 +365,12 @@ export default function Page() {
             </p>
           </section>
 
-          <section id="hesap-makinesi-fiyatlari" className="mt-12 max-w-4xl scroll-mt-24 space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Hesap Makinesi Fiyatları ve Baskı Kapsamı</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-white">Promosyon Hesap Makinesi Fiyatları ve Sipariş Kapsamı</h2>
             <p>
-              Ürün kartında gösterilen birim tutar, logo baskısı hariç ürün
-              fiyatıdır; KDV ayrıca eklenir. Fiyatı bulunmayan modeller için
-              güncel teklif isteyin. Teklifleri aynı model ve adetle karşılaştırın;
-              logo yöntemi, uygulama yüzeyi ve ambalaj kapsamının eşleştiğini kontrol edin.
-            </p>
-            <p>
-              Küçük gövdeli bir modelin baskı alanı daha büyük olabilir; dış ölçüyü
-              logo ölçüsü olarak kullanmayın. Renkli logo veya ek yazı istiyorsanız
-              dosyanızı paylaşın ve gerçek baskı boyutunda yerleşim onayı isteyin.
-              Ürün, logo uygulaması ve varsa ek kutulama tutarlarını ayrı öğrenin.
+              Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV
+              ayrıca belirtilir. Fiyatı bulunmayan modeller için güncel teklif
+              isteyin. Aynı model, adet ve logo kapsamıyla karşılaştırma yapın.
             </p>
             <ul className="list-disc space-y-2 pl-5">
               <li>Model, gövde ölçüsü, renk ve not ekranı gibi özellikler.</li>
