@@ -23566,7 +23566,7 @@ Promosyon deri bardak altlığı MS-190 modeli; kaliteli suni deri kaplaması, �
   title:
     "Promosyon Deri Bardak Altlığı Seti MS-195 | 4'lü Logolu Suni Deri Bardak Altlığı",
 
-  price: 240,
+  price: 330,
 
   category: "Ahşap ve Deri Masaüstü Ürünler",
 
@@ -39444,7 +39444,7 @@ Promosyon roller kalem RK-430, klasik tasarımı, lazer baskıya uygun yapısı 
   slug: "promosyon-roller-kalem-rk-440-luks-lazer-baski",
   title:
     "Promosyon Roller Kalem RK-440 | Altın Renkli Gövde Lazer Logo Baskılı",
-  price: 96,
+  price: 98,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-440.jpg",
 
@@ -43155,6 +43155,53 @@ Toplantı ve konferans salonları
 Fuar ve etkinlik alanları
 Resmi kurum ve kuruluşlar
 `,
+},
+{
+  id: "p730",
+  slug: "promosyon-roll-up-byk-145-85x200-cm",
+  title: "Promosyon Roll Up BYK-145 | 85x200 cm Baskılı Tanıtım Standı",
+  category: "Bayraklar",
+  image: "/products/promosyon-roll-up-byk-145.jpg",
+  shortDesc: "BYK-145 roll up, standart 85 x 200 cm ölçüsünde sarılabilir tanıtım standıdır. Komple set, yalnız baskı veya yalnız mekanizma seçenekleri için minimum 5 adet siparişle teklif alın.",
+  longDesc: `
+Promosyon Roll Up BYK-145: Fuar ve Tanıtım Alanları İçin Sarılabilir Stand
+
+BYK-145 roll up; fuar standı, mağaza içi tanıtım, konferans ve kurumsal etkinliklerde marka mesajınızı dikey bir afiş üzerinde sunmak için değerlendirilebilir. Standart baskı ölçüsü 85 x 200 cm olarak belirtilir. Bu ölçü baskı yüzeyine ilişkindir; mekanizma dahil toplam kurulum ölçüsü ve tasarım şablonu sipariş öncesinde doğrulanır.
+
+SİPARİŞ SEÇENEKLERİ
+
+Komple set: Baskı ve mekanizma ihtiyacını birlikte karşılamak isteyenler içindir. Teklifte montaj, taşıma çantası ve diğer aksesuarların dahil olup olmadığı ayrıca belirtilir.
+Yalnız baskı: Mevcut mekanizmasına yeni bir tasarım hazırlatmak isteyenler içindir. Mekanizmanın ölçüsü, afiş bağlantısı ve uyumluluğu önceden kontrol edilmelidir.
+Yalnız mekanizma: Baskı malzemesini ayrıca temin edecek siparişler için değerlendirilir. Uyumlu malzeme ve bağlantı biçimi teklif aşamasında netleştirilir.
+
+BASKI VE TASARIM
+
+Vinil veya polyester afiş malzemesi üzerine yüksek çözünürlüklü dijital baskı seçenekleri belirtilir. Malzeme, baskı yönü, renk beklentisi ve mekanizma uyumu birlikte belirlenir. Logo, başlık ve iletişim bilgileri yerleştirilirken görünür alan ile mekanizmaya giren bölüm için üreticinin tasarım şablonu esas alınır.
+
+TEKNİK BİLGİLER
+
+Model: BYK-145
+Ürün türü: Sarılabilir roll up banner standı
+Standart baskı ölçüsü: 85 x 200 cm
+Malzeme seçenekleri: Vinil veya polyester afiş malzemesi
+Baskı yöntemi: Dijital baskı
+Seçenekler: Komple set, yalnız baskı, yalnız mekanizma
+Minimum sipariş: 5 adet
+Özel ölçü: 80 x 180 cm, 100 x 200 cm ve benzeri talepler için uygunluk ayrıca teyit edilir.
+
+FİYAT VE TEKLİF KAPSAMI
+
+Bu ürün için sabit liste fiyatı belirtilmemiştir. İstenen seçenek, ölçü, malzeme ve adet üzerinden fiyat teklifi hazırlanır. Baskı, mekanizma, montaj, aksesuar, KDV ve nakliye kapsamı teklifte netleştirilir. Minimum sipariş bilgisiyle birlikte stok ve üretim süresi sipariş öncesinde teyit edilir.
+
+Görseldeki afiş tasarımları sunum örneğidir; siparişiniz firma logonuza ve onaylanan tasarıma göre değerlendirilir. İç veya dış mekan kullanım uygunluğu seçilen malzeme ve mekanizma için ayrıca doğrulanmalıdır.
+`,
+  faq: [
+    { q: "BYK-145 roll up ölçüsü nedir?", a: "Standart baskı ölçüsü 85 x 200 cm olarak belirtilir. Mekanizma dahil toplam ölçü ve baskı şablonu sipariş öncesinde teyit edilir." },
+    { q: "Yalnız baskı veya yalnız mekanizma sipariş edilebilir mi?", a: "Komple set, yalnız baskı ve yalnız mekanizma seçenekleri bulunur. Mevcut mekanizmaya baskı yaptırılacaksa ölçü ve bağlantı uyumluluğu doğrulanmalıdır." },
+    { q: "Minimum sipariş kaç adettir?", a: "Belirtilen minimum sipariş 5 adettir. Seçenek, özel ölçü ve üretim koşulları teklif aşamasında teyit edilir." },
+    { q: "Hangi baskı malzemeleri kullanılabilir?", a: "Vinil veya polyester afiş malzemesi ve dijital baskı seçenekleri belirtilir. Seçilen malzemenin mekanizmaya uygunluğu sipariş öncesinde doğrulanır." },
+    { q: "Roll up fiyatına neler dahildir?", a: "Sabit liste fiyatı yoktur. Baskı, mekanizma, montaj, aksesuarlar, KDV ve nakliye kapsamı istenen seçeneğe göre teklifte belirtilir." }
+  ],
 },
 {
   id: "p610",

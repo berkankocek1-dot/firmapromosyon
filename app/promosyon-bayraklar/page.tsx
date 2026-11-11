@@ -64,7 +64,7 @@ export const metadata: Metadata = {
 const faqs = [
   {
     "question": "Hangi promosyon bayrak modelleri bulunuyor?",
-    "answer": "BYK-100 makam bayrağı, BYK-110 ile BYK-140 arasında tekli, ikili, üçlü ve dörtlü masa bayrakları; BYK-150 L ve BYK-200 T masa bayrakları bulunur. BYK-160, BYK-170 ve BYK-180 kırlangıç/flama; BYK-190 yelken ve BYK-210 damla bayrak seçenekleridir."
+    "answer": "BYK-100 makam bayrağı, BYK-110 ile BYK-140 arasında tekli, ikili, üçlü ve dörtlü masa bayrakları; BYK-150 L ve BYK-200 T masa bayrakları bulunur. BYK-160, BYK-170 ve BYK-180 kırlangıç/flama; BYK-190 yelken ve BYK-210 damla bayrak seçenekleridir. BYK-145 ise standart 85 x 200 cm roll up tanıtım standıdır; komple set, yalnız baskı veya yalnız mekanizma seçenekleriyle değerlendirilir."
   },
   {
     "question": "Tekli, ikili, üçlü ve dörtlü masa bayrakları nasıl seçilir?",
@@ -208,16 +208,16 @@ export default function Page() {
           <Link
             key={p.id}
             href={`/urunler/${p.slug}`}
-            className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
+            className="rounded-2xl border border-gray-200 !bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
           >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-gray-50">
+            <div className="relative aspect-square w-full overflow-hidden rounded-xl !bg-white">
               <Image
   src={p.image}
   alt={p.title}
   fill
   unoptimized
   loading="lazy"
-  className="object-contain p-4"
+  className="object-contain p-4 !bg-white"
   sizes="(max-width: 768px) 100vw, 33vw"
 />
             </div>
@@ -261,6 +261,7 @@ export default function Page() {
                 <tbody className="divide-y divide-white/10">
                   <tr><th scope="row" className="p-4 font-semibold text-white">BYK-100</th><td className="p-4">Makam bayrağı</td><td className="p-4">Makam odası ve kurumsal ofis; ebat ve direk/taban kapsamı teklifte netleştirilir.</td></tr>
                   <tr><th scope="row" className="p-4 font-semibold text-white">BYK-110 / 120 / 130 / 140</th><td className="p-4">Tekli / ikili / üçlü / dörtlü masa bayrağı</td><td className="p-4">Sırasıyla 1, 2, 3 ve 4 direk. BYK-120, 130 ve 140 metal tabanlı; BYK-110 direk malzemesi teyit edilir.</td></tr>
+                  <tr><th scope="row" className="p-4 font-semibold text-white">BYK-145</th><td className="p-4">85 × 200 cm roll up tanıtım standı</td><td className="p-4">Komple set, yalnız baskı veya yalnız mekanizma; minimum 5 adet. Malzeme ve paket kapsamı teklifte doğrulanır.</td></tr>
                   <tr><th scope="row" className="p-4 font-semibold text-white">BYK-150 / BYK-200</th><td className="p-4">L masa / T masa bayrağı</td><td className="p-4">Dikey banner / çift banner formu; metal direk ve metal taban. Nihai ölçüler teklifte.</td></tr>
                   <tr><th scope="row" className="p-4 font-semibold text-white">BYK-160</th><td className="p-4">50 × 150 cm flama</td><td className="p-4">Düz, kırlangıç veya beşgen kesim.</td></tr>
                   <tr><th scope="row" className="p-4 font-semibold text-white">BYK-170</th><td className="p-4">75 × 150 cm flama</td><td className="p-4">Düz, kırlangıç veya beşgen kesim; BYK-160 ile aynı yükseklik, daha geniş yüzey.</td></tr>
