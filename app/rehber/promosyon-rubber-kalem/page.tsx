@@ -6,9 +6,9 @@ const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-rubber-kalem`;
 const IMAGE_PATH = "/guides/promosyon-rubber-kalem.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
-const TITLE = "Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?";
+const TITLE = "Promosyon Rubber Kalem Nedir? Yüzey, Baskı ve Seçim";
 const DESCRIPTION =
-  "Promosyon rubber kalem nedir, neden tercih edilir, hangi alanlarda kullanılır ve firmalara ne kazandırır? Logo baskılı rubber kalemler hakkında detaylı rehber.";
+  "Rubber kalemin yumuşak dokulu kaplamasını, plastik kalemden farkını ve logo baskısında dikkat edilecekleri öğrenin. Toplu sipariş için seçim rehberi.";
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -32,9 +32,8 @@ export const metadata: Metadata = {
     follow: true,
   },
   openGraph: {
-    title: "Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?",
-    description:
-      "Promosyon rubber kalemlerin avantajları, kullanım alanları, baskı seçenekleri ve kurumsal tanıtımdaki önemi hakkında detaylı rehber.",
+    title: TITLE,
+    description: DESCRIPTION,
     url: PAGE_URL,
     type: "article",
     siteName: "FirmaPromosyon",
@@ -50,9 +49,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?",
-    description:
-      "Promosyon rubber kalem nedir, neden tercih edilir ve firmalara ne kazandırır? Detaylı rehber.",
+    title: TITLE,
+    description: DESCRIPTION,
     images: [IMAGE_URL],
   },
 };
@@ -61,9 +59,8 @@ export default function PromosyonRubberKalemPage() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    headline: "Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?",
-    description:
-      "Promosyon rubber kalem nedir, neden tercih edilir ve firmalara ne kazandırır? Kurumsal tanıtım için rubber kalemler hakkında detaylı rehber.",
+    headline: TITLE,
+    description: DESCRIPTION,
     inLanguage: "tr-TR",
     mainEntityOfPage: PAGE_URL,
     author: {
@@ -80,7 +77,7 @@ export default function PromosyonRubberKalemPage() {
     },
     image: [IMAGE_URL],
     datePublished: "2026-04-01",
-    dateModified: "2026-04-01",
+    dateModified: "2026-11-12",
   };
 
   const breadcrumbSchema = {
@@ -188,7 +185,7 @@ export default function PromosyonRubberKalemPage() {
           </div>
 
           <h1 className="mt-4 text-3xl font-extrabold leading-tight md:text-4xl">
-            Promosyon Rubber Kalem Nedir? Avantajları Nelerdir?
+            {TITLE}
           </h1>
 
           <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
@@ -203,14 +200,12 @@ export default function PromosyonRubberKalemPage() {
           </div>
 
           <p className="mt-6 text-base leading-7 text-gray-700 md:text-lg">
-            Promosyon rubber kalem, hem şık görünümü hem de elde bıraktığı yumuşak
-            tutuş hissi sayesinde son yıllarda firmaların en çok tercih ettiği
-            promosyon kalem modelleri arasında öne çıkan ürünlerden biridir.
-            Klasik plastik kalemlere göre daha premium bir algı oluşturan rubber
-            yüzeyli kalemler, kurumsal tanıtım çalışmalarında hem kullanışlı hem de
-            estetik bir seçenek sunar. Özellikle marka imajını daha kaliteli ve
-            daha profesyonel göstermek isteyen firmalar için promosyon rubber kalem
-            oldukça güçlü bir alternatiftir.
+            Rubber kalem, gövdesinde yumuşak dokulu ve mat bir kaplama bulunan
+            kalem modelleri için kullanılan bir ifadedir. Rubber, kalemin tamamının
+            kauçuktan yapıldığı anlamına gelmez; kaplamanın altındaki gövde malzemesi
+            modele göre değişebilir. Seçim yaparken tutuş hissinin yanında yazım
+            deneyimini, logo alanını ve kaplamaya uygun baskı yöntemini de
+            değerlendirmek gerekir.
           </p>
 
           <p className="mt-4 text-base leading-7 text-gray-700 md:text-lg">

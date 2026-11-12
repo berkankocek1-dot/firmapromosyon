@@ -265,8 +265,8 @@ export const guides = [
   },
   {
     slug: "promosyon-anahtarlik-fiyatlari",
-    title: "Promosyon Anahtarlık Fiyatları 2026",
-    desc: "Promosyon anahtarlık fiyatlarını metal, deri ve açacaklı modeller, baskı yöntemi, sipariş adedi ve toplam maliyet açısından karşılaştırın.",
+    title: "Promosyon Anahtarlık Fiyatları ve Yaptırma Maliyeti",
+    desc: "Anahtarlık yaptırma fiyatlarını ürün, baskı, adet ve hazırlık bedeliyle değerlendirin. Örnek toplam maliyet hesabını ve teklif kapsamını inceleyin.",
     image: "/guides/promosyon-anahtarlik-fiyatlari.jpg",
   },
   {

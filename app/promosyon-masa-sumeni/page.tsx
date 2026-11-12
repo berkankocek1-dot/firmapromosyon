@@ -19,8 +19,8 @@ function JsonLd({ data }: { data: Record<string, unknown> }) {
 const CATEGORY = "Masa Sümeni";
 const PAGE_URL = `${SITE_URL}/promosyon-masa-sumeni`;
 
-const PAGE_TITLE = "Promosyon Masa Sümeni ve Kristal Masa Setleri | Logo Baskılı";
-const PAGE_DESCRIPTION = "Logo baskılı masa sümeni ve kristal masa setlerini karşılaştırın. Set içeriği, ölçü, baskı alanı ve toptan kurumsal sipariş için teklif alın.";
+const PAGE_TITLE = "Promosyon Masa Sümeni | Baskılı Sümen ve Masa Setleri";
+const PAGE_DESCRIPTION = "Baskılı masa sümeni ve kristal masa setlerini karşılaştırın. Set içeriği, ölçü ve logo uygulama seçeneklerini inceleyerek toplu sipariş teklifi alın.";
 const faqItems = [
   {
     "question": "Masa sümeni kategorisinde hangi modeller bulunur?",
@@ -178,9 +178,10 @@ export default function Page() {
           </h1>
 
           <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
-            Altı parçalı masa sümeni setleri ile kristal masa setlerini inceleyin.
-            Set içeriğini, masa üzerinde kapladığı alanı ve logo uygulama
-            seçeneklerini karşılaştırarak kurumsal toplu sipariş için teklif alın.
+            Baskılı masa sümeni arayan firmalar için altı parçalı sümen setlerini
+            ve kristal masa setlerini bir arada sunuyoruz. Set içeriğini, ürün
+            ölçülerini ve logo uygulama seçeneklerini karşılaştırarak kurumsal
+            toplu sipariş için teklif alın.
           </p>
 
           <div className="mt-5 flex flex-wrap gap-3">

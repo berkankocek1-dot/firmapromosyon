@@ -6,9 +6,9 @@ const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-anahtarlik-fiyatlari`;
 const IMAGE_PATH = "/guides/promosyon-anahtarlik-fiyatlari.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
-const TITLE = "Promosyon Anahtarlık Fiyatları 2026 | Detaylı Fiyat Rehberi";
+const TITLE = "Promosyon Anahtarlık Fiyatları ve Yaptırma Maliyeti";
 const DESCRIPTION =
-  "Promosyon anahtarlık fiyatlarını metal, deri ve açacaklı modeller, baskı yöntemi, sipariş adedi ve toplam maliyet açısından karşılaştırın.";
+  "Anahtarlık yaptırma fiyatlarını ürün, baskı, adet ve hazırlık bedeliyle değerlendirin. Örnek toplam maliyet hesabını ve teklif kapsamını inceleyin.";
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -32,9 +32,8 @@ export const metadata: Metadata = {
     follow: true,
   },
   openGraph: {
-    title: "Promosyon Anahtarlık Fiyatları 2026",
-    description:
-      "Promosyon anahtarlık fiyatları, baskı türleri ve adet bazlı maliyet hesaplama rehberi.",
+    title: TITLE,
+    description: DESCRIPTION,
     url: PAGE_URL,
     type: "article",
     siteName: "FirmaPromosyon",
@@ -44,15 +43,14 @@ export const metadata: Metadata = {
         url: IMAGE_URL,
         width: 1200,
         height: 630,
-        alt: "Promosyon Anahtarlık Fiyatları 2026",
+        alt: "Promosyon anahtarlık fiyat ve sipariş maliyeti rehberi",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Promosyon Anahtarlık Fiyatları 2026",
-    description:
-      "Malzeme, baskı türü ve adet bazlı promosyon anahtarlık fiyatlarını detaylı inceleyin.",
+    title: TITLE,
+    description: DESCRIPTION,
     images: [IMAGE_URL],
   },
 };
@@ -79,7 +77,7 @@ export default function Page() {
     },
     image: [IMAGE_URL],
     datePublished: "2026-04-01",
-    dateModified: "2026-11-09",
+    dateModified: "2026-11-12",
   };
 
   const breadcrumbSchema = {
@@ -111,6 +109,14 @@ export default function Page() {
     "@context": "https://schema.org",
     "@type": "FAQPage",
     mainEntity: [
+      {
+        "@type": "Question",
+        name: "Anahtarlık yaptırmanın toplam maliyeti nasıl hesaplanır?",
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: "Ürün ve ayrıca alınan baskı birim bedelleri adetle çarpılır; varsa tek seferlik hazırlık, kalıp, ambalaj ve kargo bedelleri eklenir. KDV kapsamı teklife göre hesaplanır. Ürüne dahil bir bedel ikinci kez eklenmemelidir.",
+        },
+      },
       {
         "@type": "Question",
         name: "Promosyon anahtarlık fiyatları neye göre değişir?",
@@ -186,13 +192,13 @@ export default function Page() {
         </div>
 
         <h1 className="mt-4 text-3xl font-extrabold md:text-4xl">
-          Promosyon Anahtarlık Fiyatları 2026
+          {TITLE}
         </h1>
 
         <div className="relative mt-6 aspect-[1200/630] w-full overflow-hidden rounded-2xl border border-gray-200 bg-gray-50">
           <Image
             src={IMAGE_PATH}
-            alt="Promosyon Anahtarlık Fiyatları 2026"
+            alt="Promosyon anahtarlık fiyat ve sipariş maliyeti rehberi"
             fill
             priority
             className="object-cover"
@@ -201,18 +207,73 @@ export default function Page() {
         </div>
 
         <p className="mt-6 text-lg leading-8 text-gray-700">
-          Promosyon anahtarlık fiyatları, kurumsal firmaların en çok araştırdığı
-          konuların başında gelir. Çünkü anahtarlıklar, düşük maliyetle yüksek
-          görünürlük sağlayan en güçlü promosyon ürünlerinden biridir.
+          Anahtarlık yaptırma fiyatları; seçilen ürünün birim bedeli, sipariş
+          adedi, logo baskısı ve varsa kalıp veya hazırlık ücretine göre değişir.
+          Toplam bütçeyi hesaplarken ambalaj, kargo ve KDV kapsamını da kontrol edin.
         </p>
 
         <p className="mt-4 text-lg leading-8 text-gray-700">
-          Ancak doğru fiyat analizi yapılmadığında gereksiz maliyetler oluşabilir.
-          Bu yüzden fiyatı etkileyen tüm faktörleri bilmek, doğru satın alma kararı
-          vermek için kritik öneme sahiptir.
+          Metal, deri veya açacaklı modelleri aynı adet ve baskı koşullarında
+          karşılaştırın. Bu rehberde maliyet kalemlerini ve varsayımsal bir
+          sipariş hesabını bulabilirsiniz. Güncel ürünleri görmek için{" "}
+          <Link href="/promosyon-anahtarlik" className="font-semibold text-blue-600 underline">
+            promosyon anahtarlık modellerini
+          </Link>{" "}
+          inceleyin; seçtiğiniz ürün kodu ve logo dosyasıyla teklif isteyin.
         </p>
 
         <div className="mt-10 space-y-10">
+          <section aria-labelledby="anahtarlik-ornek-maliyet">
+            <h2 id="anahtarlik-ornek-maliyet" className="text-2xl font-extrabold">
+              Anahtarlık Yaptırma Fiyatları Nasıl Hesaplanır?
+            </h2>
+            <div className="mt-4 space-y-4 text-gray-700 leading-7">
+              <p>
+                Önce ürün ve baskı birim bedellerini sipariş adediyle çarpın.
+                Varsa tek seferlik kalıp veya hazırlık bedelini ekleyin.
+                Ardından teklife dahil olmayan ambalaj, kargo ve uygulanacak
+                KDV üzerinden toplamı hesaplayın. Baskı ürün fiyatına dahilse
+                aynı bedeli tekrar eklemeyin.
+              </p>
+              <p>
+                <strong>Aşağıdaki tutarlar yalnızca hesap yöntemini göstermek
+                için varsayılmıştır; güncel ürün veya baskı fiyatı, satış teklifi
+                ya da minimum sipariş taahhüdü değildir.</strong>{" "}
+                Örnekte 100 adet, 40 TL baskısız ürün birim bedeli,
+                5 TL ayrıca alınan baskı birim bedeli, 500 TL tek seferlik
+                hazırlık ücreti ve %20 KDV varsayılmıştır.
+              </p>
+              <div className="overflow-x-auto rounded-2xl border border-gray-200">
+                <table className="w-full min-w-[540px] text-left text-sm leading-6">
+                  <caption className="p-4 text-left font-semibold">
+                    Varsayımsal 100 adet anahtarlık siparişi maliyet hesabı
+                  </caption>
+                  <thead className="bg-gray-100 text-gray-900">
+                    <tr>
+                      <th scope="col" className="p-4">Maliyet kalemi</th>
+                      <th scope="col" className="p-4">Hesap</th>
+                      <th scope="col" className="p-4 text-right">Tutar</th>
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-gray-200">
+                    <tr><th scope="row" className="p-4 font-medium">Ürün bedeli</th><td className="p-4">100 adet × 40 TL</td><td className="p-4 text-right whitespace-nowrap">4.000 TL</td></tr>
+                    <tr><th scope="row" className="p-4 font-medium">Baskı bedeli</th><td className="p-4">100 adet × 5 TL</td><td className="p-4 text-right whitespace-nowrap">500 TL</td></tr>
+                    <tr><th scope="row" className="p-4 font-medium">Hazırlık bedeli</th><td className="p-4">Tek seferlik</td><td className="p-4 text-right whitespace-nowrap">500 TL</td></tr>
+                    <tr><th scope="row" className="p-4 font-semibold">KDV hariç toplam</th><td className="p-4">4.000 + 500 + 500 TL</td><td className="p-4 text-right font-semibold whitespace-nowrap">5.000 TL</td></tr>
+                    <tr><th scope="row" className="p-4 font-medium">Örnekte varsayılan KDV</th><td className="p-4">5.000 TL × %20</td><td className="p-4 text-right whitespace-nowrap">1.000 TL</td></tr>
+                    <tr><th scope="row" className="p-4 font-semibold">KDV dahil toplam</th><td className="p-4">5.000 + 1.000 TL</td><td className="p-4 text-right font-semibold whitespace-nowrap">6.000 TL</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <p>
+                Bu varsayımlarla hazırlık bedeli dahil birim maliyet KDV hariç
+                50 TL, KDV dahil 60 TL olur. Kargo ve varsa ayrıca ücretlendirilen
+                ambalaj bu hesaba dahil değildir. Gerçek tutarlar model, adet,
+                tasarım ve teklif kapsamına göre belirlenir.
+              </p>
+            </div>
+          </section>
+
           <section>
             <h2 className="text-2xl font-extrabold">
               Promosyon Anahtarlık Fiyatlarını Etkileyen Faktörler
@@ -411,6 +472,10 @@ export default function Page() {
             </h2>
 
             <div className="mt-4 space-y-4 text-gray-700 leading-7">
+              <div>
+                <h3 className="font-semibold">Anahtarlık yaptırmanın toplam maliyeti nasıl hesaplanır?</h3>
+                <p>Ürün ve ayrıca alınan baskı birim bedelleri adetle çarpılır; varsa tek seferlik hazırlık, kalıp, ambalaj ve kargo bedelleri eklenir. KDV kapsamı teklife göre hesaplanır. Ürüne dahil bir bedel ikinci kez eklenmemelidir.</p>
+              </div>
               <div>
                 <h3 className="font-semibold">Promosyon anahtarlık fiyatları neye göre değişir?</h3>
                 <p>Promosyon anahtarlık fiyatları; ürün malzemesi, baskı türü, sipariş adedi, ürün boyutu ve tasarım özelliklerine göre değişir.</p>
