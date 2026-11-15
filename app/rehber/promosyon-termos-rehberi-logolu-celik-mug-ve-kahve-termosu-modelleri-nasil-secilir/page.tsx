@@ -1,3 +1,4 @@
+import GuideProductCards from "@/app/components/GuideProductCards";
 import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
@@ -528,6 +529,12 @@ export default function PromosyonTermosRehberiPage() {
                   ))}
                 </div>
               </section>
+
+              <GuideProductCards
+                category="Termos"
+                title="Rehberle Birlikte İnceleyebileceğiniz Termos Modelleri"
+                categoryHref="/promosyon-termos"
+              />
 
               <section>
                 <h2 className="text-2xl font-extrabold text-gray-900">
