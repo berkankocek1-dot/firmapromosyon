@@ -1,23 +1,26 @@
 import Image from "next/image";
 import Link from "next/link";
 import type { Product } from "@/data/products";
-import { visibleProducts } from "@/data/productVisibility";
+import { isProductVisible, visibleProducts } from "@/data/productVisibility";
 
 type GuideProductCardsProps = {
   category: Product["category"];
   title: string;
   categoryHref: string;
+  items?: Product[];
 };
 
 export default function GuideProductCards({
   category,
   title,
   categoryHref,
+  items,
 }: GuideProductCardsProps) {
-  const products = visibleProducts
+  const products = (items ?? visibleProducts)
     .filter(
       (product) =>
-        product.category === category &&
+        (items !== undefined || product.category === category) &&
+        isProductVisible(product) &&
         product.availability !== "https://schema.org/OutOfStock"
     )
     .slice(0, 4);

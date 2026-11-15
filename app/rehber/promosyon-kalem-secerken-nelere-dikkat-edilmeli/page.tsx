@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-kalem-secerken-nelere-dikkat-edilmeli`;
-const GUIDE_IMAGE = "/guides/promosyon-kalem-secerken-nelere-dikkat-edilmeli.jpg";
+const GUIDE_IMAGE = "/guides/promosyon-kalem-secerken-nelere-dikkat-edilmeli-kapak-20261115.jpg";
 
 export const metadata: Metadata = {
   title: "Promosyon Kalem Seçerken Nelere Dikkat Edilmeli?",
@@ -217,6 +218,10 @@ export default function PromosyonKalemSecimRehberiPage() {
                   <p>Gövde malzemesini alıcının mesleğinden otomatik olarak çıkarmayın. Dağıtım miktarı, taşıma biçimi ve gerçekten yazı yazma ihtiyacı birlikte değerlendirilmelidir.</p>
                 </div>
               </section>
+
+              <div className="my-6">
+                <GuideRelatedProducts guideSlug="promosyon-kalem-secerken-nelere-dikkat-edilmeli" />
+              </div>
               <section>
                 <h2 className="text-2xl font-extrabold text-gray-900">2. Modelin Özelliklerini Ayrı Ayrı Okuyun</h2>
                 <div className="mt-4 space-y-4 leading-7 text-gray-700">

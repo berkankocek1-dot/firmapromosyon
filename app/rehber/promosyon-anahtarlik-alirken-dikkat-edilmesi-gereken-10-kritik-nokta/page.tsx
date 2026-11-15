@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -9,7 +10,7 @@ const TITLE =
 const DESCRIPTION =
   "Promosyon anahtarlık alırken kalite, malzeme, baskı, model seçimi, adet ve hedef kitle açısından dikkat edilmesi gereken 10 kritik noktayı detaylıca inceleyin.";
 const IMAGE_PATH =
-  "/guides/promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta.jpg";
+  "/guides/promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 
 const FAQ_ITEMS = [
@@ -276,6 +277,10 @@ export default function Page() {
                 temsil edecek doğru ürünü seçmektir.
               </p>
             </section>
+
+            <div className="my-6">
+              <GuideRelatedProducts guideSlug="promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta" />
+            </div>
 
             <section>
               <h2>1. Numunede halka ve bağlantı parçalarını kontrol edin</h2>

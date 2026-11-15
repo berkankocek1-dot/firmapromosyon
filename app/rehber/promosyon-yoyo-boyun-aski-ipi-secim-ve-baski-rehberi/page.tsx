@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Yoyo geri sarılan kordonla taşımayı, boyun askı ipi ise boyunda yerleşimi esas alır. Birlikte kullanım isteniyorsa iki parçanın bağlantısını ve kartın takılıyken duruşunu kontrol edin. Yoyoyu elektronik okuyucu veya kartın işlevini değiştiren cihaz olarak tanımlamayın.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-yoyo-boyun-aski-ipi-secim-ve-baski-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Bağlantıyı kart kabıyla birlikte kontrol edin</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

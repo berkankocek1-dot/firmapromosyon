@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Yazım kaleminin türünü ayrıntılı karşılaştırmak için <Link href="/rehber/promosyon-kalem-secerken-nelere-dikkat-edilmeli">kalem seçim rehberine</Link> geçebilirsiniz. Burada odak, ürünlerin bir eğitim çalışmasında birlikte nasıl kullanılacağı ve hangi parçaların kişiye teslim edileceğidir.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-kirtasiye-urunleri-secim-ve-baski-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Hazır seti özel hazırlanacak paketten ayırın</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

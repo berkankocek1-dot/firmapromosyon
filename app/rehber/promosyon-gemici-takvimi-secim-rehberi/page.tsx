@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -121,6 +122,10 @@ export default function MarineCalendarGuidePage() {
               <p className="mt-4">Önce takvimin asılacağı alanı ve çevresindeki raf, dolap veya diğer duvar aksesuarlarını ölçün. Takvime masa başından mı, ayakta mı, yoksa daha uzaktan mı bakılacağını değerlendirin. Asıldıktan sonra tarih bölümlerinin rahat görülebilmesi, yalnızca ürünün boşluğa sığmasından farklı bir ihtiyaçtır.</p>
               <p className="mt-4">Boyut kararı verirken mümkünse gerçek ölçüde bir yerleşim taslağı kullanın. Aylar çevrildiğinde veya bloklar değiştiğinde erişimin nasıl olacağını da düşünün. Çalışma alanında duvar kullanımı uygun değilse <Link href="/promosyon-takvim" className="font-semibold text-blue-700 underline">diğer takvim seçeneklerini</Link>{" "} ayrıca değerlendirebilirsiniz.</p>
             </section>
+
+            <div className="my-6">
+              <GuideRelatedProducts guideSlug="promosyon-gemici-takvimi-secim-rehberi" />
+            </div>
             <section>
               <h2 className="text-2xl font-bold text-gray-900">2. Toplam ölçü, blok ölçüsü ve reklam alanını ayırın</h2>
               <p className="mt-4">Bir modelin büyük olması logo için aynı oranda geniş alan sunduğu anlamına gelmez. Ürün karşılaştırmasında aşağıdaki ölçüleri ayrı kaydedin. Tasarım dosyasını yalnız ürün adındaki dış ölçüye göre hazırlamayın.</p>

@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-rubber-kalem`;
-const IMAGE_PATH = "/guides/promosyon-rubber-kalem.jpg";
+const IMAGE_PATH = "/guides/promosyon-rubber-kalem-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE = "Promosyon Rubber Kalem Nedir? Yüzey, Baskı ve Seçim";
 const DESCRIPTION =
@@ -259,6 +260,10 @@ export default function PromosyonRubberKalemPage() {
               </p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-rubber-kalem" />
+          </div>
 
           <section>
             <h2 className="text-2xl font-extrabold text-gray-900">

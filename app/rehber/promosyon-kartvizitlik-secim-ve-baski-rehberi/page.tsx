@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Müşteri ziyaretinde tek kartı kolay çıkarabilmek, etkinlikte ise kartları düzenli tutmak öne çıkabilir. Kart taşıma modeli adıyla sunulan seçeneğin kağıt kartvizit ihtiyacına da uygun olduğunu varsaymayın. İç bölüm ve kapak yapısını seçilen modelde görün.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-kartvizitlik-secim-ve-baski-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Dış ölçü yerine iç uyumu kontrol edin</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

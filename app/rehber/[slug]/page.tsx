@@ -1,3 +1,5 @@
+import { Fragment } from "react";
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -52,7 +54,7 @@ const guides: Guide[] = [
   description:
     "DTF baskı nedir, nasıl yapılır? Filmden tekstile transfer sürecini, avantajlarını, kumaş uygunluğunu ve baskılı ürün bakımında dikkat edilecekleri öğrenin.",
   h1: "DTF Baskı Nedir?",
-  image: "/guides/dtf-baski-nedir.jpg",
+  image: "/guides/dtf-baski-nedir-kapak-20261115.jpg",
   keywords: [
     "DTF baskı",
     "DTF baskı nedir",
@@ -102,7 +104,7 @@ const guides: Guide[] = [
   "title": "Promosyon Kupa Baskı Rehberi | Model, Logo ve Sipariş Kontrolü",
   "description": "Logo baskılı kupada model ve kaplama uygunluğu, baskı yerleşimi, numune, teklif ve ambalaj koşullarını birlikte değerlendirin.",
   "h1": "Promosyon Kupa Baskı Rehberi",
-  "image": "/guides/promosyon-kupa-baski.jpg",
+  "image": "/guides/promosyon-kupa-baski-kapak-20261115.jpg",
   "dateModified": "2026-11-09",
   "keywords": [
     "promosyon kupa baskı",
@@ -204,7 +206,7 @@ const guides: Guide[] = [
   description:
     "Toplu kalem siparişi öncesinde model, adet, logo baskı ve teslimat detaylarını planlayın. Toptan promosyon kalem için teklif hazırlığını adım adım inceleyin.",
   h1: "Toplu Kalem Siparişi: Logo Baskılı Promosyon Kalemler",
-  image: "/guides/promosyon-kalem-toptan.jpg",
+  image: "/guides/promosyon-kalem-toptan-kapak-20261115.jpg",
   keywords: [
     "promosyon kalem",
     "toptan promosyon kalem",
@@ -652,6 +654,7 @@ export default async function GuidePage({ params }: PageProps) {
       <section className="mx-auto max-w-5xl px-5 py-10">
         <div className="space-y-6">
           {guide.sections.map((s, index) => (
+            <Fragment key={s.title}>
             <section
               key={s.title}
               className="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm md:p-8"
@@ -672,6 +675,12 @@ export default async function GuidePage({ params }: PageProps) {
                 ))}
               </div>
             </section>
+            {index === 0 && (
+              <div className="py-2">
+                <GuideRelatedProducts guideSlug={guide.slug} />
+              </div>
+            )}
+            </Fragment>
           ))}
         </div>
       </section>

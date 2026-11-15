@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -132,6 +133,10 @@ export default function ChargingCableGuidePage() {
                 grubuna hediye verilecekse yaygın kullanılan modelleri teklif talebinde belirtin.
               </p>
             </section>
+
+            <div className="my-6">
+              <GuideRelatedProducts guideSlug="promosyon-sarj-kablosu-secim-rehberi" />
+            </div>
             <section>
               <h2 className="text-2xl font-bold text-gray-900">2. Şarj hızı, veri ve araç bağlantısını karıştırmayın</h2>
               <p className="mt-4">

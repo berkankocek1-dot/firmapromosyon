@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-kalem-fiyatlari-nasil-hesaplanir`;
-const IMAGE_PATH = "/guides/promosyon-kalem-fiyatlari-nasil-hesaplanir.jpg";
+const IMAGE_PATH = "/guides/promosyon-kalem-fiyatlari-nasil-hesaplanir-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 
 const FAQ_ITEMS = [
@@ -198,6 +199,10 @@ export default function PromosyonKalemFiyatlariNasilHesaplanirPage() {
               <p>Güncel modelleri <Link href="/promosyon-kalem">promosyon kalem kategorisinden</Link> inceleyebilirsiniz. Bir ürünün adına veya fotoğrafına bakarak baskının fiyata dahil olduğu sonucu çıkarılmamalıdır.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-kalem-fiyatlari-nasil-hesaplanir" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">2. Ürün ve baskı toplamını ayrı hesaplayın</h2>
             <div className="mt-4 space-y-4 leading-7 text-gray-700">

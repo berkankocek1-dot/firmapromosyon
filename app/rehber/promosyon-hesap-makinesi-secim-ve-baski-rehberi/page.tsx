@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>12 hane ifadesiyle yüzde, hafıza veya özel hesap işlevlerini birbirine karıştırmayın. Gerekli işlevlerin adını listeleyip ürün üzerinde karşılığını kontrol edin. Katalog açıklamasında bulunmayan bir işlevin benzer görünümlü bütün modellerde olduğunu varsaymayın.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-hesap-makinesi-secim-ve-baski-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Ekranı ve tuşları çalışma konumunda deneyin</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

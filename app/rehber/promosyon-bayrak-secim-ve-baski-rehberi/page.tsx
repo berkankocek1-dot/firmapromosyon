@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Resepsiyon için düşünülen masa bayrağının yüksekliğiyle görüşmeyi engellememesine, fuar yerleşiminde ise geçiş alanına taşmamasına dikkat edin. Makam bayrağı için zeminde ayrılacak alanı ve üst boşluğu birlikte ölçün. Sadece kumaşın ölçüsüne bakarak kurulu sistemin sığacağına karar vermeyin.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-bayrak-secim-ve-baski-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Masa bayrağında tasarım sayısını standla eşleştirin</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

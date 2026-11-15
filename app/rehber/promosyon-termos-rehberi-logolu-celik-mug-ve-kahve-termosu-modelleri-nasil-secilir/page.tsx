@@ -7,7 +7,7 @@ const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL =
   `${SITE_URL}/rehber/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir`;
 const GUIDE_IMAGE =
-  "/guides/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir.jpg";
+  "/guides/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir-kapak-20261115.jpg";
 
 export const metadata: Metadata = {
   title:
@@ -311,6 +311,12 @@ export default function PromosyonTermosRehberiPage() {
                 </div>
               </section>
 
+              <GuideProductCards
+                category="Termos"
+                title="Rehberle Birlikte İnceleyebileceğiniz Termos Modelleri"
+                categoryHref="/promosyon-termos"
+              />
+
               <section className="grid gap-4 md:grid-cols-4">
                 {[
                   {
@@ -529,12 +535,6 @@ export default function PromosyonTermosRehberiPage() {
                   ))}
                 </div>
               </section>
-
-              <GuideProductCards
-                category="Termos"
-                title="Rehberle Birlikte İnceleyebileceğiniz Termos Modelleri"
-                categoryHref="/promosyon-termos"
-              />
 
               <section>
                 <h2 className="text-2xl font-extrabold text-gray-900">

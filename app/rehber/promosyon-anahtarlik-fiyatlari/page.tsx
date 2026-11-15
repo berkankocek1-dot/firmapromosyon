@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-anahtarlik-fiyatlari`;
-const IMAGE_PATH = "/guides/promosyon-anahtarlik-fiyatlari.jpg";
+const IMAGE_PATH = "/guides/promosyon-anahtarlik-fiyatlari-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE = "Promosyon Anahtarlık Fiyatları ve Yaptırma Maliyeti";
 const DESCRIPTION =
@@ -273,6 +274,10 @@ export default function Page() {
               </p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-anahtarlik-fiyatlari" />
+          </div>
 
           <section>
             <h2 className="text-2xl font-extrabold">

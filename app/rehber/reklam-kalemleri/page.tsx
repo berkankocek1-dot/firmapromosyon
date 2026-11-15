@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/reklam-kalemleri`;
-const IMAGE_PATH = "/guides/reklam-kalemleri.jpg";
+const IMAGE_PATH = "/guides/reklam-kalemleri-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE = "Reklam Kalemleri: Fuar ve Toplu Dağıtım Planlaması";
 const DESCRIPTION =
@@ -213,6 +214,10 @@ export default function Page() {
               </p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="reklam-kalemleri" />
+          </div>
 
           <section>
             <h2 className="text-2xl font-extrabold text-gray-900">Fuar ve Etkinlik İçin Kalem Adedi Nasıl Planlanır?</h2>

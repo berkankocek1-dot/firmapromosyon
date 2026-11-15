@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Güncel <Link href="/promosyon-usb-bellek">USB bellek modellerinde</Link> açıklanan bağlantı ve kapasite bilgilerini karşılaştırın. Ürün bilgisinde bulunmayan hız, çift uç veya telefon desteğini varsaymayın.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-usb-bellek-secim-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Kapasiteyi dosya toplamına göre belirleyin</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

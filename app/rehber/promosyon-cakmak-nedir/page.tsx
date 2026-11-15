@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-cakmak-nedir`;
-const IMAGE_PATH = "/guides/promosyon-cakmak-nedir.jpg";
+const IMAGE_PATH = "/guides/promosyon-cakmak-nedir-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE = "Promosyon Çakmak Nedir? Türleri ve Logo Uygulamaları";
 const DESCRIPTION =
@@ -232,6 +233,10 @@ export default function Page() {
               <p>Aynı model çakmak kişiselleştirilmeden veya firma kimliği uygulanarak sunulabilir. Promosyon kullanımındaki fark, işletmeye ait logo veya mesajın ürüne eklenmesi ve ürünün bir tanıtım planı kapsamında verilmesidir.</p>
               <p>Bu nedenle promosyon ifadesinden yakıt, gövde malzemesi, kullanım süresi ya da mekanizma hakkında sonuç çıkarılmamalıdır. Bunlar seçilen ürünün kendi açıklamasında aranmalıdır.</p>
             </section>
+
+            <div className="my-6">
+              <GuideRelatedProducts guideSlug="promosyon-cakmak-nedir" />
+            </div>
 
             <section>
               <h2>Model adları hangi bilgileri verir?</h2>

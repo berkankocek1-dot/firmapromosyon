@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Pencere ve aydınlatmanın kadran görünümüne etkisini değerlendirin. Dış mekan veya nemli alan düşünülüyorsa bunu baştan belirtin; bu koşullara uygunluğu açıklanmayan modeli uygun kabul etmeyin.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-duvar-saati-secim-ve-baski-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Çapı kadran düzeninden ayrı değerlendirmeyin</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

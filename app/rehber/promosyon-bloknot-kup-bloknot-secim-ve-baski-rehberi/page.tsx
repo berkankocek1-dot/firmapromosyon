@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p><Link href="/promosyon-kup-bloknot">Küp bloknot</Link> düşünülüyorsa masada kaplayacağı taban alanı ve yükseklik birlikte değerlendirilmelidir. En yüksek yaprak adedi her zaman en uygun seçim değildir; hediye paketinin ölçüsü ve günlük not alma biçimi de kararın parçasıdır.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-bloknot-kup-bloknot-secim-ve-baski-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Cilt, perforaj ve yapışkanlı kağıdı birbirinden ayırın</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

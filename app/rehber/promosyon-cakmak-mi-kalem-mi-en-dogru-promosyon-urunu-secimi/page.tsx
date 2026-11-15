@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -5,7 +6,7 @@ import Link from "next/link";
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi`;
 const IMAGE_PATH =
-  "/guides/promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi.jpg";
+  "/guides/promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE =
   "Promosyon Çakmak mı Kalem mi? En Doğru Promosyon Ürünü Seçimi";
@@ -253,6 +254,10 @@ export default function Page() {
                 </table>
               </div>
             </section>
+
+            <div className="my-6">
+              <GuideRelatedProducts guideSlug="promosyon-cakmak-mi-kalem-mi-en-dogru-promosyon-urunu-secimi" />
+            </div>
 
             <section>
               <h2>Önce alıcının ihtiyacını tarif edin</h2>

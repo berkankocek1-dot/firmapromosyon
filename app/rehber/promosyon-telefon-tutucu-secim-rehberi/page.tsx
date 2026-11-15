@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Masaüstü için tasarlanmış ürünü araç içi bağlantının yerine düşünmeyin. Araç modelinde montaj yeri ve bağlantı uyumunu üreticinin kullanım bilgisine göre doğrulayın. Görseldeki yerleşimin her araçta aynı şekilde uygulanabileceğini varsaymayın.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-telefon-tutucu-secim-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Telefonu kılıfıyla birlikte değerlendirin</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

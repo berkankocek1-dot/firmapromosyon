@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-anahtarlik-nedir`;
-const IMAGE_PATH = "/guides/promosyon-anahtarlik-nedir.jpg";
+const IMAGE_PATH = "/guides/promosyon-anahtarlik-nedir-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE = "Promosyon Anahtarlık Nedir? Türleri ve Kullanım Alanları";
 const DESCRIPTION =
@@ -204,6 +205,10 @@ export default function Page() {
               <p>Kişiselleştirme yalnız basılı logo anlamına gelmez. Seçilen modele göre lazer uygulaması, yüzeye baskı veya kabartma görünümü veren bir uygulama kullanılabilir. Bunlar her üründe birlikte sunulan özellikler değildir.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-anahtarlik-nedir" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Nerelerde kullanılır?</h2>
             <div className="mt-4 space-y-4 text-gray-700 leading-7">

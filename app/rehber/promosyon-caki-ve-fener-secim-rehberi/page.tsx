@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Bir kategori adında set veya tornavida ifadesi geçmesi bütün ürünlerde aynı parçaların bulunduğunu göstermez. Tekli ürün ile birlikte paketlenmiş ürünün adet ve teslim kapsamını ayırın. Kutuyu da ürünün teknik işlevi yerine sunum ve paketleme bileşeni olarak değerlendirin.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-caki-ve-fener-secim-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Çakıdaki fonksiyonları adlarıyla karşılaştırın</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

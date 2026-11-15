@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -121,6 +122,10 @@ export default function CarScentGuidePage() {
               <p className="mt-4">Servis tesliminde müşteriye verilecek bir ürün ile fuarda dağıtılacak kampanya hediyesinin mesajı farklı olabilir. Önce kime, nerede ve hangi adetlerde dağıtım yapılacağını belirleyin. Firma adını hatırlatmak, servis iletişimini paylaşmak veya bir kampanyayı duyurmak gibi tek bir öncelik seçin.</p>
               <p className="mt-4">Küçük bir üründe logo, uzun slogan, telefon, adres ve yoğun görsel kullanımı okunaklılığı azaltabilir. Önemli bilgiyi öne alın; kampanya ayrıntılarını farklı bir tanıtım materyaline ayırmak gerekebilir. Belirli bir satış sonucu veya herkes için aynı koku beğenisi varsaymadan alıcının kullanabileceği sade bir tasarım hedefleyin.</p>
             </section>
+
+            <div className="my-6">
+              <GuideRelatedProducts guideSlug="promosyon-oto-kokusu-secim-ve-baski-rehberi" />
+            </div>
             <section>
               <h2 className="text-2xl font-bold text-gray-900">2. Özel kesim tasarımını üretim şablonuna oturtun</h2>
               <p className="mt-4">Özel kesimde ilk adım logonun dış hatlarını doğrudan kesim çizgisine dönüştürmek değildir. Logonun okunaklı kalacağı formu, askı konumunu ve üretime uygun konturu birlikte değerlendirin. İnce çıkıntılar veya dar bağlantılar içeren bir şeklin uygulanabilirliğini tasarım onayından önce sorun.</p>

@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-sapka-rehberi`;
-const GUIDE_IMAGE = "/guides/promosyon-sapka-rehberi.jpg";
+const GUIDE_IMAGE = "/guides/promosyon-sapka-rehberi-kapak-20261115.jpg";
 
 export const metadata: Metadata = {
   title:
@@ -217,6 +218,10 @@ export default function PromosyonSapkaRehberiPage() {
                   <p>Şapkanın görünür olması tek başına satış veya marka hatırlanırlığı sonucu göstermez. Kullanıcının ürünü takmayı tercih etmesi, rahatlık ve dağıtımın ihtiyaca uygunluğu birlikte değerlendirilmelidir.</p>
                 </div>
               </section>
+
+              <div className="my-6">
+                <GuideRelatedProducts guideSlug="promosyon-sapka-rehberi" />
+              </div>
               <section>
                 <h2 className="text-2xl font-extrabold text-gray-900">Kumaş içeriğini model detaylarından ayırın</h2>
                 <div className="mt-4 space-y-4 leading-7 text-gray-700">

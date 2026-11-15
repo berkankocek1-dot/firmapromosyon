@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Görseldeki renklerin sayısı tek başına bütün blokların miktarını veya standart içeriği açıklamaz. Seçilen modelde hangi bölümlerin bulunduğunu listeleyin. Sadece bölüm sayısı fazla olduğu için kullanımınıza uygun olduğunu düşünmeyin.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-yapiskanli-notluk-secim-ve-baski-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Kağıt miktarını her blok için ayrı okuyun</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

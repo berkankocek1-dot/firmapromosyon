@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -5,7 +6,7 @@ import Link from "next/link";
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta`;
 const IMAGE_PATH =
-  "/guides/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta.jpg";
+  "/guides/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE =
   "Promosyon Çakmak Alırken Dikkat Edilmesi Gereken 10 Kritik Nokta";
@@ -240,6 +241,10 @@ export default function Page() {
               <p>Ürünün kimlere ve hangi ortamda verileceğini netleştirin. Yetişkin kullanıcıların ihtiyacıyla ilgisi olmayan bir dağıtımda, çakmak yerine farklı bir ürün seçmek daha uygun olabilir. Etkinlik veya teslim noktasının ürün kabul koşullarını da önceden sorun.</p>
               <p>Dağıtımın tek etkinlikte mi yoksa farklı tarihlerde mi yapılacağı, adet ve ambalaj planını etkiler. Sadece geniş kitleye ulaşma hedefi, belirli bir modelin uygunluğunu göstermez.</p>
             </section>
+
+            <div className="my-6">
+              <GuideRelatedProducts guideSlug="promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta" />
+            </div>
 
             <section>
               <h2>2. Mekanizma ile alev yapısını ayrı kontrol edin</h2>

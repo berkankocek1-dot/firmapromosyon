@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-cakmak-fiyatlari`;
-const IMAGE_PATH = "/guides/promosyon-cakmak-fiyatlari.jpg";
+const IMAGE_PATH = "/guides/promosyon-cakmak-fiyatlari-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE = "Promosyon Çakmak Fiyatları | Baskı ve Toplam Maliyet Rehberi";
 const DESCRIPTION =
@@ -232,6 +233,10 @@ export default function Page() {
               <p>Bir tutarı değerlendirirken model, sipariş adedi ve baskı kapsamını birlikte okuyun. Belirli bir adet için verilen fiyat başka bir miktarda aynı kalmayabilir. Baskısız ürün tutarı ile baskı dahil tutar doğrudan karşılaştırılmamalıdır.</p>
               <p>Güncel ürünleri <Link href="/promosyon-cakmak">promosyon çakmak kategorisinden</Link> inceleyin. Ürün sayfasında kapsam açık değilse teklif isterken netleştirin; sayısal bir fiyat bulunmaması baskı veya hazırlık bedelinin sıfır olduğunu göstermez.</p>
             </section>
+
+            <div className="my-6">
+              <GuideRelatedProducts guideSlug="promosyon-cakmak-fiyatlari" />
+            </div>
 
             <section>
               <h2>Toplam sipariş tutarını oluşturan kalemler</h2>

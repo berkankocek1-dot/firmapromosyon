@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-cakmak-kullanim-alanlari`;
-const IMAGE_PATH = "/guides/promosyon-cakmak-kullanim-alanlari.jpg";
+const IMAGE_PATH = "/guides/promosyon-cakmak-kullanim-alanlari-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE =
   "Promosyon Çakmak Kullanım Alanları | Dağıtım Senaryoları";
@@ -236,6 +237,10 @@ export default function Page() {
               <p>Bir işletme, ürünü kullanabilecek yetişkin müşterilerine görüşme sonrasında logo baskılı çakmak sunmayı değerlendirebilir. Her görüşmeye aynı hediyeyi götürmek yerine müşterinin kullanım alışkanlığı ve kurumsal hediye kabul yaklaşımı dikkate alınmalıdır.</p>
               <p>Bu senaryoda ürünün kolay taşınması, dağıtım görevlisinin kaç görüşme yapacağı ve yanında tutacağı miktar önem kazanır. Çakmağın verilmesi görüşmenin sonucunu veya satış yapılacağını garanti etmez.</p>
             </section>
+
+            <div className="my-6">
+              <GuideRelatedProducts guideSlug="promosyon-cakmak-kullanim-alanlari" />
+            </div>
 
             <section>
               <h2>Bayi ve iş ortağı dağıtımları</h2>

@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Etkinlikte elden teslim ile kutulu sevkiyatın ambalaj ihtiyacı farklı olabilir. Kılıf veya kutunun pakete dahil olup olmadığını sorun. Ürün fotoğrafındaki aksesuarları otomatik olarak sipariş kapsamına dahil kabul etmeyin.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-semsiye-secim-ve-baski-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Mekanizmanın bütün adımlarını öğrenin</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

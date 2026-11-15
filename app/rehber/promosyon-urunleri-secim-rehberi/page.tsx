@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -175,6 +176,10 @@ export default function PromosyonUrunleriSecimRehberiPage() {
               <p>Ürün verildiğinde alıcının ne yapmasını beklediğinizi düşünün: toplantıda not almak, etkinlikte malzeme taşımak veya günlük içecek kullanımına eşlik etmek gibi. Ürün kullanımı için anlamlı bir gerekçe yoksa yalnız görünürlük iddiasıyla karar vermeyin.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-urunleri-secim-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">2. Ürün grubunu kullanım anıyla eşleştirin</h2>
             <div className="mt-4 space-y-4 leading-7 text-gray-700">

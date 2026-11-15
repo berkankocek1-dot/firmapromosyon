@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Küçük gövdeyi veya bir güç değerini tek başına ortam uygunluğu olarak yorumlamayın. Beklediğiniz dinleme uzaklığını ve kullanım biçimini tedarikçiye anlatın; numuneyi mümkün olduğunca bu koşullara yakın değerlendirin.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-hoparlor-secim-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Ses girişlerini bağlantı noktalarından ayırın</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

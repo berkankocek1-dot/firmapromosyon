@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-tasli-cakmak-nedir`;
-const IMAGE_PATH = "/guides/promosyon-tasli-cakmak-nedir.jpg";
+const IMAGE_PATH = "/guides/promosyon-tasli-cakmak-nedir-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE = "Promosyon Taşlı Çakmak Nedir? Avantajları Nelerdir?";
 const DESCRIPTION =
@@ -263,6 +264,10 @@ export default function Page() {
                 aracı olmayı sürdürmektedir.
               </p>
             </section>
+
+            <div className="my-6">
+              <GuideRelatedProducts guideSlug="promosyon-tasli-cakmak-nedir" />
+            </div>
 
             <section>
               <h2>Promosyon taşlı çakmak neden tercih edilir?</h2>

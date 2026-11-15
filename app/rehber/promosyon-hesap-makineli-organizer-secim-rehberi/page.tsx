@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Hesap makinesine ihtiyaç olmayan bir kullanım için <Link href="/promosyon-organizerler">ana organizer kategorisindeki</Link> diğer seçenekler de değerlendirilebilir. Her organizerde aynı bölmelerin veya aynı kapanış biçiminin bulunduğunu varsaymayın.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-hesap-makineli-organizer-secim-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Dış ölçüyle yazım alanını ayrı karşılaştırın</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

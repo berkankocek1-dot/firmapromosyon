@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -121,6 +122,10 @@ export default function CorporateGiftGuidePage() {
               <p className="mt-4">Sipariş öncesinde kime, hangi tarihte ve hangi amaçla hediye verileceğini yazın. Yeni çalışan için iş gününde kullanılacak ürünler; müşteri ziyaretinde ise taşınması ve sunulması kolay bir paket öncelikli olabilir. Aynı dağıtımda farklı alıcı grupları varsa bunları adetleriyle ayrı belirtin.</p>
               <p className="mt-4">İçerik kararını pahalı veya kalabalık görünmesine göre vermeyin. Alıcının kullanmayacağı bir parça yerine işlevli bir ürün ve düzgün bir sunum daha uygun olabilir. Marka rengi, kullanım ortamı ve taşıma alışkanlığını birlikte değerlendirerek seçim ölçütlerinizi daraltın.</p>
             </section>
+
+            <div className="my-6">
+              <GuideRelatedProducts guideSlug="kurumsal-hediye-seti-secim-rehberi" />
+            </div>
             <section>
               <h2 className="text-2xl font-bold text-gray-900">2. Hazır set mi, ürünleri ayrı seçilen kutu mu?</h2>
               <p className="mt-4">Hazır setin açıklamasındaki parçalar bir içerik listesi oluşturur. Boş hediye kutusu ise tek başına bu ürünleri içermez. Önce hangi yaklaşımın ihtiyacınıza uyduğunu belirleyin; ardından kutu, dolgu ve uygulama kapsamını teklifle eşleştirin.</p>

@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-kalem-nedir`;
-const GUIDE_IMAGE = "/guides/promosyon-kalem-nedir.jpg";
+const GUIDE_IMAGE = "/guides/promosyon-kalem-nedir-kapak-20261115.jpg";
 
 export const metadata: Metadata = {
   title: "Promosyon Kalem Nedir? Logo Baskılı Kalem Rehberi",
@@ -262,6 +263,10 @@ export default function PromosyonKalemNedirPage() {
                   </p>
                 </div>
               </section>
+
+              <div className="my-6">
+                <GuideRelatedProducts guideSlug="promosyon-kalem-nedir" />
+              </div>
 
               <section>
                 <h2 className="text-2xl font-extrabold text-gray-900">

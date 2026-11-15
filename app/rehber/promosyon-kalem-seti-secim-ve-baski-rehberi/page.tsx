@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Hediye sunumunu çok parçalı bir pakete dönüştürmek istiyorsanız <Link href="/rehber/kurumsal-hediye-seti-secim-rehberi">kurumsal hediye seti rehberi</Link> paket bütününü ele alır. Burada ise yazım ürünleri ve kutunun kendi uyumunu netleştirmeye odaklanın.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-kalem-seti-secim-ve-baski-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Her kalemin yazım türünü ayrı öğrenin</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Kaç masada, aynı anda kaç altlık gerektiğini not edin. Standın masada kapladığı alanı ve kullanım sonrası toplama biçimini değerlendirin. Hediye olarak verilecekse tekli ambalaj veya set sunumu talebini baştan belirtin.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-bardak-altligi-secim-ve-baski-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Adet ile seti aynı birim gibi değerlendirmeyin</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

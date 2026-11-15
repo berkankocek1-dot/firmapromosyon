@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -120,6 +121,10 @@ export default function MousePadGuidePage() {
               <p className="mt-4">İlk olarak klavye, ekran, evrak ve diğer aksesuarlar yerindeyken mouse için kalan alanı ölçün. Ürünün yalnızca masaya sığması yetmez; kullanıcı mouse hareketini rahatça tamamlayabilmelidir. Ürünün uzun ve kısa kenarının hangi yönde kullanılacağını tasarım hazırlığından önce belirleyin.</p>
               <p className="mt-4">Katalogda belirtilen 18 × 22 cm gibi bir ürün ölçüsünü doğrudan baskı dosyası ölçüsü kabul etmeyin. Dış ölçü, tasarımın uygulanabilir alanı ve mouse hareketine ayrılan bölüm farklı olabilir. Bilek desteği veya yuvarlatılmış köşeler varsa bunları da şablonda görün.</p>
             </section>
+
+            <div className="my-6">
+              <GuideRelatedProducts guideSlug="promosyon-mouse-pad-secim-ve-baski-rehberi" />
+            </div>
             <section>
               <h2 className="text-2xl font-bold text-gray-900">2. Standart ve bilek destekli formu kullanıcıyla değerlendirin</h2>
               <p className="mt-4">Standart form ile bilek desteği bulunan modelin masa üzerinde kapladığı dış alan benzer olsa da kullanılabilir yüzey düzeni farklılaşabilir. Mouse tutuşu, elin yerleşimi ve masa yüksekliği gibi kullanım koşullarını göz önüne alın. Çalışanlara dağıtımda mümkünse model numunesini kullanan ekiplerle değerlendirin.</p>

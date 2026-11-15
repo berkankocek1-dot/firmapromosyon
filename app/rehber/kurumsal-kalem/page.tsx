@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/kurumsal-kalem`;
-const IMAGE_PATH = "/guides/kurumsal-kalem.jpg";
+const IMAGE_PATH = "/guides/kurumsal-kalem-kapak-20261115.jpg";
 const IMAGE_URL = `${SITE_URL}${IMAGE_PATH}`;
 const TITLE = "Kurumsal Kalem: Hediye, İsim Baskısı ve Set Seçimi";
 const DESCRIPTION =
@@ -216,6 +217,10 @@ export default function Page() {
               </p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="kurumsal-kalem" />
+          </div>
 
           <section>
             <h2 className="text-2xl font-extrabold text-gray-900">Metal, Roller ve Kalem Seti Nasıl Karşılaştırılır?</h2>

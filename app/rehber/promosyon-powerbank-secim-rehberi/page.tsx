@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Çalışan, bayi veya müşteri için hedef cihazları, bağlantı uçlarını ve kullanım ortamını belirleyin. Ardından <Link href="/promosyon-powerbank">powerbank modellerini</Link> bu ihtiyaçla karşılaştırın. Tek başına kapasite veya gövde görünümüyle karar vermeyin.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-powerbank-secim-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Kapasite, kullanılabilir enerji ve şarj hızı farklıdır</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Önce kutunun hangi yönde duracağını belirleyin. Ardından bunun çantanın ağız açıklığından geçip tabana yerleşeceğini numunede kontrol edin. Yalnız dış ölçüleri benzer iki ürünü birbirine uygun kabul etmeyin.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-karton-canta-secim-ve-baski-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Ebat sırasını ve körüğü çizimle teyit edin</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

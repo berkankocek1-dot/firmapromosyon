@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -261,6 +262,10 @@ export default function PlastikKalemMiMetalKalemMiPage() {
             tek cümleyle cevaplanamaz; kullanım senaryosuna göre
             değerlendirilmelidir.
           </p>
+
+          <div className="my-8">
+            <GuideRelatedProducts guideSlug="plastik-kalem-mi-metal-kalem-mi-daha-mantikli" />
+          </div>
 
           <h2>Plastik kalemlerin öne çıkan avantajları</h2>
           <p>

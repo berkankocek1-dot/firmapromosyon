@@ -1,3 +1,4 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -101,6 +102,10 @@ export default function Page() {
               <p>Kampanya mesajını ürünün doğrulanan işlevine bağlayın. Ayna sunumuyla bakım setini tek bir teslim kapsamı gibi anlatmayın. Dağıtım biçimi, paketin kapladığı alan ve kullanıcının ürünü nasıl taşıyacağı seçimde birlikte düşünülmelidir.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-cep-aynasi-ve-aynali-set-secim-rehberi" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">Kapalı gövdeyle açık kullanım alanını karşılaştırın</h2>
             <div className="mt-4 space-y-4 leading-8 text-gray-700">

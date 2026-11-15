@@ -1,10 +1,11 @@
+import GuideRelatedProducts from "@/app/components/GuideRelatedProducts";
 import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
 
 const SITE_URL = "https://www.firmapromosyon.com";
 const PAGE_URL = `${SITE_URL}/rehber/promosyon-kalemlerde-baski-turleri-nelerdir`;
-const GUIDE_IMAGE = "/guides/promosyon-kalemlerde-baski-turleri-nelerdir.jpg";
+const GUIDE_IMAGE = "/guides/promosyon-kalemlerde-baski-turleri-nelerdir-kapak-20261115.jpg";
 
 const FAQ_ITEMS = [
   {
@@ -184,6 +185,10 @@ export default function PromosyonKalemlerdeBaskiTurleriNelerdirPage() {
               <p>Logonun renk sayısı ve ince detayları, kullanılabilir alanla birlikte kontrol edilmelidir. Tampon baskının her işte en ucuz olduğu veya tüm yüzeylerde aynı tutunmayı sağlayacağı kabul edilmemelidir.</p>
             </div>
           </section>
+
+          <div className="my-6">
+            <GuideRelatedProducts guideSlug="promosyon-kalemlerde-baski-turleri-nelerdir" />
+          </div>
           <section>
             <h2 className="text-2xl font-extrabold">UV dijital baskının farkı nedir?</h2>
             <div className="mt-4 space-y-4 leading-7 text-gray-700">
