@@ -15,6 +15,24 @@ type GuideProductConfig = {
 };
 
 export const guideProductConfigs: Record<string, GuideProductConfig> = {
+  "promosyon-defter-fiyatlari-nasil-hesaplanir": {
+  "title": "Fiyat ve Özelliklerini Karşılaştırabileceğiniz Defterler",
+  "categoryHref": "/promosyon-defter",
+  "groups": [
+    {
+      "category": "Tarihsiz Defter"
+    }
+  ]
+},
+  "promosyon-tisort-secim-ve-baski-rehberi": {
+  "title": "Bisiklet ve Polo Yaka Tişört Modellerini İnceleyin",
+  "categoryHref": "/promosyon-tisort",
+  "groups": [
+    {
+      "category": "Promosyon Tişört"
+    }
+  ]
+},
   "en-ucuz-promosyon-kalem": {
     "title": "Kalem Modellerini İnceleyin",
     "categoryHref": "/promosyon-kalem",

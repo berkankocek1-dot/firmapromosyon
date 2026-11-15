@@ -678,6 +678,11 @@ export default async function GuidePage({ params }: PageProps) {
             {index === 0 && (
               <div className="py-2">
                 <GuideRelatedProducts guideSlug={guide.slug} />
+                {guide.slug === "dtf-baski-nedir" && (
+                  <p className="mt-4 text-sm leading-7 text-gray-700">
+                    Model ve beden planlaması için <Link href="/rehber/promosyon-tisort-secim-ve-baski-rehberi" className="font-semibold underline">promosyon tişört seçim rehberini</Link> de inceleyebilirsiniz.
+                  </p>
+                )}
               </div>
             )}
             </Fragment>

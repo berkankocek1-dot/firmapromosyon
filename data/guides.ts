@@ -1,5 +1,17 @@
 export const guides = [
 {
+  "slug": "promosyon-defter-fiyatlari-nasil-hesaplanir",
+  "title": "Promosyon Defter Fiyatları Nasıl Hesaplanır?",
+  "desc": "Ölçü, kapak, iç sayfa, adet ve logo uygulamasının fiyat teklifine etkisini öğrenin. Baskı dahil tutarları örnek hesapla karşılaştırın.",
+  "image": "/guides/promosyon-defter-fiyatlari-nasil-hesaplanir.jpg"
+},
+{
+  "slug": "promosyon-tisort-secim-ve-baski-rehberi",
+  "title": "Promosyon Tişört Seçim ve Baskı Rehberi",
+  "desc": "Bisiklet ve polo yaka tişörtleri karşılaştırın. Kumaş, beden dağılımı, logo yerleşimi ve teklif kapsamıyla toplu siparişinizi planlayın.",
+  "image": "/guides/promosyon-tisort-secim-ve-baski-rehberi.jpg"
+},
+{
   slug: "promosyon-kirtasiye-urunleri-secim-ve-baski-rehberi",
   title: "Promosyon Kırtasiye Ürünleri Seçim ve Baskı Rehberi",
   desc: "Cetvel, fosforlu kalem, silgi, kalemtıraş ve sınav setlerini kullanım ihtiyacına göre seçin. Set içeriğini, parça uyumunu ve logo kapsamını planlayın.",

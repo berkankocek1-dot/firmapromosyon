@@ -169,6 +169,7 @@ export default function Page() {
             <div className="mt-4 space-y-4 leading-8 text-gray-700">
               <p>Model, adet, kapak rengi, iç sayfa beklentisi ve tarihli üründe takvim yılını paylaşın. Logo dosyası, uygulama yöntemi, isim listesi, varsa kalem ve kutu isteği, teslim adresi ve ihtiyaç tarihi teklifte açık olsun.</p>
               <p>Teklif karşılaştırmasında önce iç sayfa düzenini ve tarihli üründe takvim yılını eşitleyin. Ardından kapak uygulaması, kişiselleştirme ve kalem–kutu kapsamını karşılaştırın. İhtiyaç tarihinden önce stok ve tasarım onayı için ayrılacak süreyi de teslim planına dahil edin.</p>
+              <p>Teklif kalemlerini ve toplam tutarı karşılaştırmak için <Link href="/rehber/promosyon-defter-fiyatlari-nasil-hesaplanir" className="font-semibold underline">promosyon defter fiyatları rehberindeki örnek hesabı</Link> inceleyebilirsiniz.</p>
             </div>
           </section>
           <section>
