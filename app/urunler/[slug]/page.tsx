@@ -225,6 +225,21 @@ export default async function ProductPage({ params }: PageProps) {
             </div>
           )}
 
+          <div className="mt-6 grid gap-3 sm:grid-cols-2">
+            <Link
+              href={`/teklif?product=${encodeURIComponent(product.slug)}`}
+              className="inline-flex min-h-12 items-center justify-center rounded-xl bg-black px-4 py-3 text-center text-sm font-semibold leading-6 text-white transition hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"
+            >
+              WhatsApp’tan Hızlı Teklif Al
+            </Link>
+            <Link
+              href={`/kurumsal-teklif-al?product=${encodeURIComponent(product.slug)}`}
+              className="inline-flex min-h-12 items-center justify-center rounded-xl border border-gray-300 bg-white px-4 py-3 text-center text-sm font-semibold leading-6 text-gray-900 transition hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"
+            >
+              E-posta ile Teklif Al
+            </Link>
+          </div>
+
           <p className="mt-4 text-gray-900">{product.shortDesc}</p>
 
           {!isProductVisible(product) && (
@@ -257,21 +272,7 @@ export default async function ProductPage({ params }: PageProps) {
             </div>
           )}
 
-          <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-            <Link
-              href={`/teklif?product=${encodeURIComponent(product.slug)}`}
-              className="inline-flex items-center justify-center rounded-xl bg-black px-5 py-3 font-semibold text-white hover:opacity-90"
-            >
-              Hızlı Teklif Al
-            </Link>
 
-            <Link
-              href="/iletisim"
-              className="inline-flex items-center justify-center rounded-xl border border-gray-300 px-5 py-3 font-semibold text-gray-900 hover:bg-gray-100"
-            >
-              İletişim
-            </Link>
-          </div>
         </div>
       </section>
 
@@ -316,23 +317,20 @@ export default async function ProductPage({ params }: PageProps) {
           bilgisi için hemen teklif alın.
         </p>
 
-        <div className="mt-6 flex flex-wrap justify-center gap-4">
-          <Link
-            href={`/kurumsal-teklif-al?product=${encodeURIComponent(
-              product.slug
-            )}`}
-            className="rounded-xl bg-black px-6 py-3 font-semibold text-white hover:opacity-90"
-          >
-            Kurumsal Teklif Al
-          </Link>
-
-          <Link
-            href="/iletisim"
-            className="rounded-xl border border-gray-300 px-6 py-3 font-semibold text-gray-900 hover:bg-gray-200"
-          >
-            İletişime Geç
-          </Link>
-        </div>
+        <div className="mx-auto mt-6 grid max-w-xl gap-3 sm:grid-cols-2">
+            <Link
+              href={`/teklif?product=${encodeURIComponent(product.slug)}`}
+              className="inline-flex min-h-12 items-center justify-center rounded-xl bg-black px-4 py-3 text-center text-sm font-semibold leading-6 text-white transition hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"
+            >
+              WhatsApp’tan Hızlı Teklif Al
+            </Link>
+            <Link
+              href={`/kurumsal-teklif-al?product=${encodeURIComponent(product.slug)}`}
+              className="inline-flex min-h-12 items-center justify-center rounded-xl border border-gray-300 bg-white px-4 py-3 text-center text-sm font-semibold leading-6 text-gray-900 transition hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"
+            >
+              E-posta ile Teklif Al
+            </Link>
+          </div>
       </section>
 
       {relatedProducts.length > 0 && (
