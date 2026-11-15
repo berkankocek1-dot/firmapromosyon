@@ -43,17 +43,17 @@ export default function ContactPage() {
 
         <section aria-label="İletişim kanalları" className="mt-7 grid gap-3 sm:grid-cols-3">
           <a href={`tel:+${WHATSAPP_PHONE}`} className={cardClass}>
-            <span className="flex items-center justify-between gap-2 text-sm font-semibold"><span>Telefon</span><span aria-hidden="true" className="text-gray-400">↗</span></span>
+            <span className="flex items-center justify-between gap-2 text-sm font-semibold"><span>Telefon</span><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" className="h-4 w-4 shrink-0 text-gray-400"><path d="M7 17 17 7M7 7h10v10" /></svg></span>
             <span className="mt-3 block text-base font-bold">0535 050 91 28</span>
             <span className="mt-2 text-xs leading-5 text-gray-500">Aramak için dokunun</span>
           </a>
           <a href={whatsappUrl("Merhaba, bilgi almak istiyorum.")} target="_blank" rel="noopener noreferrer" className={cardClass}>
-            <span className="flex items-center justify-between gap-2 text-sm font-semibold"><span>WhatsApp</span><span aria-hidden="true" className="text-gray-400">↗</span></span>
+            <span className="flex items-center justify-between gap-2 text-sm font-semibold"><span>WhatsApp</span><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" className="h-4 w-4 shrink-0 text-gray-400"><path d="M7 17 17 7M7 7h10v10" /></svg></span>
             <span className="mt-3 block text-base font-bold">Bize mesaj yazın</span>
             <span className="mt-2 text-xs leading-5 text-gray-500">Doğrudan sohbeti açın</span>
           </a>
           <a href={`mailto:${CONTACT_EMAIL}`} className={cardClass}>
-            <span className="flex items-center justify-between gap-2 text-sm font-semibold"><span>E-posta</span><span aria-hidden="true" className="text-gray-400">↗</span></span>
+            <span className="flex items-center justify-between gap-2 text-sm font-semibold"><span>E-posta</span><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" className="h-4 w-4 shrink-0 text-gray-400"><path d="M7 17 17 7M7 7h10v10" /></svg></span>
             <span className="mt-3 block break-all text-sm font-bold leading-6">{CONTACT_EMAIL}</span>
             <span className="mt-2 text-xs leading-5 text-gray-500">E-posta uygulamanızda açın</span>
           </a>

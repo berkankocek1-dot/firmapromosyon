@@ -459,26 +459,24 @@ export default function Home() {
                 promosyon kupa ve powerbank gibi birçok kategoride hızlı teklif alın.
               </p>
 
-              <div className="mt-4 flex flex-col gap-2 sm:flex-row sm:flex-wrap">
-                <Link
-                  href="/kurumsal-teklif-al"
-                  className="inline-flex items-center justify-center rounded-2xl bg-black px-5 py-3 text-sm font-semibold text-white shadow-sm transition hover:bg-gray-900"
-                >
-                  Hızlı Teklif Al
-                </Link>
-
+              <div className="mt-4 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
                 <a
                   href={WHATSAPP}
                   target="_blank"
-                  rel="noreferrer"
-                  className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 shadow-sm transition hover:border-gray-500"
+                  rel="noopener noreferrer"
+                  className="inline-flex min-h-12 w-full items-center justify-center rounded-2xl bg-black px-5 py-3 text-center text-sm font-semibold leading-6 text-white shadow-sm transition hover:bg-gray-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:w-auto"
                 >
-                  WhatsApp’tan Yaz
+                  WhatsApp’tan Hızlı Teklif Al
                 </a>
-
+                <Link
+                  href="/kurumsal-teklif-al"
+                  className="inline-flex min-h-12 w-full items-center justify-center rounded-2xl border border-gray-300 bg-white px-5 py-3 text-center text-sm font-semibold leading-6 text-gray-900 shadow-sm transition hover:border-gray-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:w-auto"
+                >
+                  E-posta ile Teklif Al
+                </Link>
                 <Link
                   href="/urunler"
-                  className="inline-flex items-center justify-center rounded-2xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 shadow-sm transition hover:border-gray-500"
+                  className="inline-flex min-h-12 w-full items-center justify-center rounded-2xl border border-gray-300 bg-white px-5 py-3 text-center text-sm font-semibold leading-6 text-gray-900 shadow-sm transition hover:border-gray-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:w-auto"
                 >
                   Tüm Ürünleri İncele
                 </Link>
