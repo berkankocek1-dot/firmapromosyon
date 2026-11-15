@@ -309,7 +309,7 @@ export default function Home() {
     inLanguage: "tr-TR",
     potentialAction: {
       "@type": "SearchAction",
-      target: `${SITE_URL}/urunler?search={search_term_string}`,
+      target: `${SITE_URL}/urunler?q={search_term_string}`,
       "query-input": "required name=search_term_string",
     },
   };
@@ -332,7 +332,7 @@ export default function Home() {
     "@type": "Organization",
     name: "FirmaPromosyon",
     url: SITE_URL,
-    logo: `${SITE_URL}/og.jpg`,
+    logo: `${SITE_URL}/logo.png`,
     contactPoint: [
       {
         "@type": "ContactPoint",
@@ -402,7 +402,7 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen overflow-x-hidden bg-white text-gray-900">
+    <div className="min-h-screen overflow-x-hidden bg-white text-gray-900">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
@@ -612,7 +612,7 @@ export default function Home() {
           <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
             <div>
               <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
-                En Çok Tercih Edilen Promosyon Ürünleri
+                Öne Çıkan Promosyon Ürünleri
               </h2>
               <p className="mt-2 text-sm text-gray-600 md:text-base">
                 En çok ilgi gören promosyon ürünlerini hızlıca inceleyin.
@@ -957,7 +957,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-    </main>
+    </div>
   );
 }
 
