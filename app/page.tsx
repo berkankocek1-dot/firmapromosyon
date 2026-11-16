@@ -520,7 +520,7 @@ export default function Home() {
               href={getCategoryHref(category.name)}
               className="group flex min-w-0 flex-col overflow-hidden bg-white p-2.5 transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:p-4 rounded-2xl border border-black"
             >
-              <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
+              <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white border-b-0">
                 <Image
                   src={getCategoryImage(category)}
                   alt={category.name}
