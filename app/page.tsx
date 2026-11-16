@@ -514,39 +514,33 @@ export default function Home() {
         </div>
 
         <div className="mt-8 grid grid-cols-2 gap-4 md:grid-cols-3 xl:grid-cols-4">
-          {categoryCards.map((category: any, index: number) => (
+          {categoryCards.map((category: any) => (
             <Link
               key={category.slug}
               href={getCategoryHref(category.name)}
-              className="group relative overflow-hidden rounded-[28px] border-2 border-black bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-xl"
+              className="group flex min-w-0 flex-col overflow-hidden bg-white p-2.5 transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:p-4 rounded-2xl border border-black"
             >
-              <div className="absolute inset-0 bg-gradient-to-br from-white via-white to-gray-50" />
-              <div className="relative">
-                <div className="relative flex aspect-[4/3] items-center justify-center overflow-hidden border-b border-gray-100 bg-white">
-                  <Image
-                    src={getCategoryImage(category)}
-                    alt={category.name}
-                    fill
-                    
-                    loading="lazy"
-                    sizes="(max-width: 768px) 50vw, (max-width: 1280px) 33vw, 25vw"
-                    className="object-contain p-2 transition duration-500 group-hover:scale-105"
-                  />
-                </div>
+              <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
+                <Image
+                  src={getCategoryImage(category)}
+                  alt={category.name}
+                  fill
+                  loading="lazy"
+                  sizes="(max-width: 767px) 50vw, (max-width: 1279px) 33vw, 25vw"
+                  className="object-contain p-0"
+                />
+              </div>
 
-                <div className="p-4 md:p-5">
-                  <div className="line-clamp-2 min-h-[40px] text-sm font-extrabold text-gray-900 md:min-h-[48px] md:text-base">
-                   {category.name}
-                  </div>
+              <h3 className="mt-3 break-words text-sm font-extrabold leading-5 text-black md:text-base">
+                {category.name}
+              </h3>
 
-                  <p className="mt-1 line-clamp-2 text-[11px] leading-4 text-gray-600 md:mt-2 md:text-sm md:leading-5">
-                    {category.seoDescription || `${category.name} ürünlerini inceleyin.`}
-                  </p>
+              <p className="mt-2 line-clamp-2 text-xs leading-5 text-gray-600 md:text-sm">
+                {category.seoDescription || `${category.name} ürünlerini inceleyin.`}
+              </p>
 
-                  <div className="mt-4 inline-flex items-center rounded-full bg-black px-3 py-1.5 text-[11px] font-semibold text-white md:text-xs">
-                    Kategoriye git →
-                  </div>
-                </div>
+              <div className="mt-auto pt-3">
+                <span className="inline-flex w-fit items-center justify-center rounded-full bg-black px-2.5 py-1 text-[10px] font-bold leading-4 text-white transition group-hover:bg-gray-800 md:text-[11px]">Kategoriye git →</span>
               </div>
             </Link>
           ))}
@@ -630,7 +624,7 @@ export default function Home() {
             </Link>
           </div>
 
-          <div className="mt-6 grid grid-cols-2 gap-4 md:grid-cols-3 xl:grid-cols-5">
+          <div className="mt-6 grid md:grid-cols-3 xl:grid-cols-5 grid-cols-2 gap-3 sm:gap-4">
             {topStrip.map((p: any, index: number) => {
               const title = pickTitle(p);
               const img = pickImg(p);
@@ -641,17 +635,17 @@ export default function Home() {
                 <Link
                   key={slug}
                   href={`/urunler/${slug}`}
-                  className="group rounded-3xl border-2 border-black bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-xl"
+                  className="group bg-white p-4 transition min-w-0 rounded-2xl border border-black"
                 >
                   <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
                     <Image
                       src={img}
                       alt={title}
                       fill
-                      
+
                       loading="lazy"
                       sizes="(max-width: 768px) 50vw, 20vw"
-                      className="object-contain p-2 transition duration-500 group-hover:scale-105"
+                      className="object-contain transition duration-500 p-0"
                     />
                   </div>
 
@@ -677,7 +671,7 @@ export default function Home() {
             href="/promosyon-kalem"
             cta="Tüm Kalemler →"
           />
-          <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="mt-6 grid sm:grid-cols-2 lg:grid-cols-4 grid-cols-2 gap-3 sm:gap-4">
             {kalemProducts.map((p: any) => (
               <MiniProductCard key={pickSlug(p)} product={p} />
             ))}
@@ -693,7 +687,7 @@ export default function Home() {
             href="/promosyon-termos"
             cta="Tüm Termoslar →"
           />
-          <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="mt-6 grid sm:grid-cols-2 lg:grid-cols-4 grid-cols-2 gap-3 sm:gap-4">
             {termosProducts.map((p: any) => (
               <MiniProductCard key={pickSlug(p)} product={p} />
             ))}
@@ -709,7 +703,7 @@ export default function Home() {
             href="/promosyon-matara"
             cta="Tüm Mataralar →"
           />
-          <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="mt-6 grid sm:grid-cols-2 lg:grid-cols-4 grid-cols-2 gap-3 sm:gap-4">
             {homeMataraPreviewProducts.map((p) => (
               <MiniProductCard key={pickSlug(p)} product={p} />
             ))}
@@ -726,7 +720,7 @@ export default function Home() {
             href="/urunler"
             cta="Tümünü Gör →"
           />
-          <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="mt-6 grid sm:grid-cols-2 lg:grid-cols-4 grid-cols-2 gap-3 sm:gap-4">
             {ajandaProducts.map((p: any) => (
               <MiniProductCard key={pickSlug(p)} product={p} />
             ))}
@@ -742,7 +736,7 @@ export default function Home() {
             href="/promosyon-geri-donusumlu-urunler"
             cta="Tüm Ürünler →"
           />
-          <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="mt-6 grid sm:grid-cols-2 lg:grid-cols-4 grid-cols-2 gap-3 sm:gap-4">
             {ecoProducts.map((p: any) => (
               <MiniProductCard key={pickSlug(p)} product={p} />
             ))}
@@ -1000,29 +994,29 @@ function MiniProductCard({ product }: { product: any }) {
   return (
     <Link
       href={`/urunler/${slug}`}
-      className="group rounded-3xl border-2 border-black bg-white p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-xl"
+      className="group bg-white transition min-w-0 rounded-2xl border border-black p-2 sm:p-4"
     >
       <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
         <Image
           src={img}
           alt={title}
           fill
-        
+
           loading="lazy"
           sizes="(max-width: 640px) 100vw, 25vw"
-          className="object-contain p-2 transition duration-500 group-hover:scale-105"
+          className="object-contain transition duration-500 p-0"
         />
       </div>
 
       <div className="mt-4">
-        <div className="flex items-center justify-between gap-2">
+        <div className="flex items-center justify-between gap-2 flex-wrap">
           <div className="text-xs font-semibold text-gray-600">{cat}</div>
           <div className="rounded-full bg-gray-100 px-2.5 py-1 text-[11px] font-semibold text-gray-700">
             {minOrder}
           </div>
         </div>
 
-        <div className="mt-2 line-clamp-2 text-sm font-extrabold text-gray-900">
+        <div className="mt-2 line-clamp-2 font-extrabold text-gray-900 text-xs sm:text-sm">
           {title}
         </div>
         <div className="mt-3 text-xs font-semibold text-gray-900">Detay →</div>
