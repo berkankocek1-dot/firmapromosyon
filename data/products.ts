@@ -307,14 +307,14 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Taşlı Çakmak  
-Model: ÇM-100  
-Marka: Cricket  
-Ebat: 7.8 x 2.2 cm  
-Baskı Alanı: 5.5 x 1.4 cm  
-Mekanizma: Taşlı Çakmak  
-Kullanım: Doldurulamaz  
-Baskı Türü: Tampon Baskı, UV Dijital Baskı  
+Ürün Tipi: Promosyon Taşlı Çakmak
+Model: ÇM-100
+Marka: Cricket
+Ebat: 7.8 x 2.2 cm
+Baskı Alanı: 5.5 x 1.4 cm
+Mekanizma: Taşlı Çakmak
+Kullanım: Doldurulamaz
+Baskı Türü: Tampon Baskı, UV Dijital Baskı
 Kategori: Çakmak
 
 Promosyon taşlı çakmak ÇM-100, Cricket kalitesi, logo baskıya uygun yapısı ve ekonomik maliyetiyle kurumsal tanıtımlar için en çok tercih edilen promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
@@ -420,14 +420,14 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Manyetolu Çakmak  
-Model: ÇM-150  
-Marka: Cricket  
-Tip: Manyetolu, Sibopsuz  
-Ölçü: 7.8 × 2.2 cm  
-Baskı Alanı: 5.5 × 1.4 cm  
-Baskı Türü: Tampon Baskı, UV Dijital Baskı  
-Kullanım: Doldurulamaz  
+Ürün Tipi: Promosyon Manyetolu Çakmak
+Model: ÇM-150
+Marka: Cricket
+Tip: Manyetolu, Sibopsuz
+Ölçü: 7.8 × 2.2 cm
+Baskı Alanı: 5.5 × 1.4 cm
+Baskı Türü: Tampon Baskı, UV Dijital Baskı
+Kullanım: Doldurulamaz
 Kategori: Çakmak
 
 Promosyon Cricket manyetolu sibopsuz çakmak ÇM-150, kaliteli üretimi, logo baskıya uygun yapısı ve pratik kullanım avantajıyla kurumsal tanıtımlar için tercih edilen ekonomik promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
@@ -1378,13 +1378,13 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Manyetolu Siboplu Çakmak  
-Model: CM-250  
-Ölçü: 6.2 × 2.1 cm  
-Mekanizma: Manyetolu Siboplu Sistem  
-Özellik: Doldurulabilir  
-Baskı Türü: Tampon Baskı, UV Dijital Baskı  
-Baskısız Minimum Sipariş: 100 Adet  
+Ürün Tipi: Promosyon Manyetolu Siboplu Çakmak
+Model: CM-250
+Ölçü: 6.2 × 2.1 cm
+Mekanizma: Manyetolu Siboplu Sistem
+Özellik: Doldurulabilir
+Baskı Türü: Tampon Baskı, UV Dijital Baskı
+Baskısız Minimum Sipariş: 100 Adet
 Kategori: Çakmak
 
 Promosyon manyetolu siboplu çakmak CM-250, mini boy tasarımı, doldurulabilir yapısı ve logo baskıya uygun yüzeyiyle markanızı günlük yaşamda sürekli görünür kılan ekonomik ve kullanışlı promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
@@ -1493,13 +1493,13 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Manyetolu Siboplu Çakmak  
-Model: CM-300  
-Ölçü: 8.1 × 2.3 cm  
-Mekanizma: Manyetolu Sistem  
-Özellik: Doldurulabilir  
-Baskı Türü: Tampon Baskı, UV Dijital Baskı  
-Baskısız Minimum Sipariş: 100 Adet  
+Ürün Tipi: Promosyon Manyetolu Siboplu Çakmak
+Model: CM-300
+Ölçü: 8.1 × 2.3 cm
+Mekanizma: Manyetolu Sistem
+Özellik: Doldurulabilir
+Baskı Türü: Tampon Baskı, UV Dijital Baskı
+Baskısız Minimum Sipariş: 100 Adet
 Kategori: Çakmak
 
 Promosyon manyetolu siboplu çakmak CM-300, geniş logo baskı alanı, doldurulabilir yapısı ve dayanıklı gövdesiyle markanızı uzun süre görünür kılan ekonomik promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
@@ -4520,16 +4520,16 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Manyetolu Turbo Siboplu Rüzgar Çakmak  
-Model: CM-360  
-Çakmak Boyutu: 80 × 24 mm  
-Baskı Alanı: 50 × 14 mm  
-Ateşleme Sistemi: Manyetolu  
-Alev Tipi: Turbo Alev  
-Özellik: Doldurulabilir  
-Baskı Türü: Tampon Baskı, UV Dijital Baskı  
-Renk Seçenekleri: Siyah, Beyaz  
-Koli / Kutu Adedi: 1000 / 50  
+Ürün Tipi: Promosyon Manyetolu Turbo Siboplu Rüzgar Çakmak
+Model: CM-360
+Çakmak Boyutu: 80 × 24 mm
+Baskı Alanı: 50 × 14 mm
+Ateşleme Sistemi: Manyetolu
+Alev Tipi: Turbo Alev
+Özellik: Doldurulabilir
+Baskı Türü: Tampon Baskı, UV Dijital Baskı
+Renk Seçenekleri: Siyah, Beyaz
+Koli / Kutu Adedi: 1000 / 50
 Kategori: Çakmak
 
 Promosyon manyetolu turbo siboplu rüzgar çakmak CM-360, güçlü turbo alev sistemi, şık tasarımı ve logo baskıya uygun geniş yüzeyiyle markanızı günlük yaşamda görünür kılan kaliteli promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
@@ -4637,14 +4637,14 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Taşlı Siboplu Çakmak  
-Model: CM-400  
-Ürün Boyutu: 70 × 22 mm  
-Baskı Alanı: 45 × 14 mm  
-Mekanizma: Taşlı Siboplu Sistem  
-Baskı Türü: Tampon Baskı, UV Dijital Baskı  
-Tasarım: Mini Boy  
-Renk Seçenekleri: Siyah, Beyaz  
+Ürün Tipi: Promosyon Taşlı Siboplu Çakmak
+Model: CM-400
+Ürün Boyutu: 70 × 22 mm
+Baskı Alanı: 45 × 14 mm
+Mekanizma: Taşlı Siboplu Sistem
+Baskı Türü: Tampon Baskı, UV Dijital Baskı
+Tasarım: Mini Boy
+Renk Seçenekleri: Siyah, Beyaz
 Kategori: Çakmak
 
 Promosyon taşlı siboplu çakmak CM-400, mini boy tasarımı, logo baskıya uygun yapısı ve ekonomik maliyetiyle markanızı günlük yaşamda görünür kılan etkili promosyon ürünlerinden biridir. Toplu siparişler ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
@@ -7032,7 +7032,7 @@ category: "Duvar Saatleri",
   title:
     "Promosyon MagSafe Powerbank 10.000 mAh PB-111 | 15W Kablosuz Şarj",
 
-  
+
 
   category: "Powerbank",
 
@@ -7861,7 +7861,7 @@ Promosyon powerbank 10.000 mAh Wireless PB-130 modeli; kablosuz şarj desteği, 
   title:
     "Promosyon Powerbank 10.000 mAh PB-140 | 15W Kablosuz Şarj",
 
-  
+
 
   category: "Powerbank",
 
@@ -8475,14 +8475,14 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Anahtarlık  
-Model: AN-117  
-Malzeme: Metal Gövde + Deri Detay  
-Baskı Türü: Lazer Baskı  
-Tasarım: Yuvarlak Metal Yüzey  
-Kullanım Alanı: Günlük ve Kurumsal Kullanım  
-Ambalaj: Özel Kutulu Sunum  
-Kategori: Anahtarlık  
+Ürün Tipi: Promosyon Anahtarlık
+Model: AN-117
+Malzeme: Metal Gövde + Deri Detay
+Baskı Türü: Lazer Baskı
+Tasarım: Yuvarlak Metal Yüzey
+Kullanım Alanı: Günlük ve Kurumsal Kullanım
+Ambalaj: Özel Kutulu Sunum
+Kategori: Anahtarlık
 
 Promosyon anahtarlık AN-117, modern yuvarlak metal tasarımı, kaliteli deri detayları ve logo baskıya uygun yapısı ile markanızı profesyonel şekilde temsil eden etkili bir promosyon ürünüdür. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
 `.trim(),
@@ -8590,13 +8590,13 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Anahtarlık  
-Model: AN-120  
-Malzeme: Metal Gövde + Deri Detay  
-Baskı Türü: Lazer Baskı  
-Tasarım: Dikdörtgen Metal Yüzey  
-Kullanım Alanı: Günlük ve Kurumsal Kullanım  
-Kategori: Anahtarlık  
+Ürün Tipi: Promosyon Anahtarlık
+Model: AN-120
+Malzeme: Metal Gövde + Deri Detay
+Baskı Türü: Lazer Baskı
+Tasarım: Dikdörtgen Metal Yüzey
+Kullanım Alanı: Günlük ve Kurumsal Kullanım
+Kategori: Anahtarlık
 
 Promosyon anahtarlık AN-120, modern metal tasarımı, lazer baskıya uygun yapısı ve şık deri detayları ile markanızı profesyonel şekilde temsil eden etkili bir promosyon ürünüdür. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
 `.trim(),
@@ -10267,23 +10267,23 @@ Promosyon makam bayrakları özellikle şirketler, holdingler, kamu kurumları, 
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Makam Bayrağı  
-Kategori: Bayraklar  
-Kullanım: Makam Odaları / Kurumsal Ofisler  
-Malzeme: Bayrak Kumaşı  
+Ürün Tipi: Promosyon Makam Bayrağı
+Kategori: Bayraklar
+Kullanım: Makam Odaları / Kurumsal Ofisler
+Malzeme: Bayrak Kumaşı
 
 BASKI BİLGİLERİ
 
-Baskı Türü: Dijital veya Serigraf Baskı  
-Logo Baskı: Kurumsal logo baskıya uygundur  
+Baskı Türü: Dijital veya Serigraf Baskı
+Logo Baskı: Kurumsal logo baskıya uygundur
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Makam odası bayrakları  
-Şirket ofisleri  
-Resmi kurumlar  
-Kurumsal etkinlik alanları  
+Kurumsal promosyon ürünleri
+Makam odası bayrakları
+Şirket ofisleri
+Resmi kurumlar
+Kurumsal etkinlik alanları
 
 RENK VE STOK BİLGİSİ
 
@@ -10564,25 +10564,25 @@ Promosyon fincan setleri özellikle kafe, restoran, otel ve kurumsal etkinlikler
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Kahve Fincanı Seti  
-Kategori: Kupa  
-Set İçeriği: 6 Adet Fincan  
-Minimum Sipariş: 1 Kutu  
+Ürün Tipi: Promosyon Kahve Fincanı Seti
+Kategori: Kupa
+Set İçeriği: 6 Adet Fincan
+Minimum Sipariş: 1 Kutu
 
-Fincan Yükseklik: 57 mm  
-Fincan Çap: 55 mm  
-Hacim: 65 ml  
-Ağırlık: 115 gr  
+Fincan Yükseklik: 57 mm
+Fincan Çap: 55 mm
+Hacim: 65 ml
+Ağırlık: 115 gr
 
-Baskı Alanı: 180 x 57 mm  
+Baskı Alanı: 180 x 57 mm
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Kafe ve restoran promosyonları  
-Otel ve turizm sektöründe kullanım  
-Fuar ve etkinlik promosyonları  
-Firma tanıtım kampanyaları  
+Kurumsal promosyon ürünleri
+Kafe ve restoran promosyonları
+Otel ve turizm sektöründe kullanım
+Fuar ve etkinlik promosyonları
+Firma tanıtım kampanyaları
 
 KULLANIM NOTU
 
@@ -11460,15 +11460,15 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Anahtarlık  
-Model: AN-125  
-Malzeme: Metal Gövde + Deri Detay  
-Baskı Türü: Lazer Baskı  
-Baskı Özelliği: Çift Yön Baskı Uygulanabilir  
-Ürün Ölçüsü: 3.2 x 10.5 cm  
-Tasarım: Çift Halkalı Metal Tasarım  
-Kutu: Özel Kutu  
-Kategori: Anahtarlık  
+Ürün Tipi: Promosyon Anahtarlık
+Model: AN-125
+Malzeme: Metal Gövde + Deri Detay
+Baskı Türü: Lazer Baskı
+Baskı Özelliği: Çift Yön Baskı Uygulanabilir
+Ürün Ölçüsü: 3.2 x 10.5 cm
+Tasarım: Çift Halkalı Metal Tasarım
+Kutu: Özel Kutu
+Kategori: Anahtarlık
 
 Promosyon anahtarlık AN-125, çift halkalı modern yapısı, lazer baskıya uygun yüzeyi ve premium görünümü ile markanızı profesyonel şekilde temsil eden güçlü promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
 `.trim(),
@@ -11576,13 +11576,13 @@ SİPARİŞ BİLGİSİ
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Anahtarlık  
-Model: AN-130  
-Malzeme: Metal Gövde + Deri Detay  
-Baskı Türü: Lazer Baskı  
-Tasarım: Dikdörtgen Metal Baskı Alanı  
-Kullanım Alanı: Günlük ve Kurumsal Kullanım  
-Kategori: Anahtarlık  
+Ürün Tipi: Promosyon Anahtarlık
+Model: AN-130
+Malzeme: Metal Gövde + Deri Detay
+Baskı Türü: Lazer Baskı
+Tasarım: Dikdörtgen Metal Baskı Alanı
+Kullanım Alanı: Günlük ve Kurumsal Kullanım
+Kategori: Anahtarlık
 
 Promosyon anahtarlık AN-130, modern metal yüzeyi, lazer baskıya uygun yapısı ve şık deri detayları ile markanızı profesyonel şekilde temsil eden etkili promosyon ürünlerinden biridir. Toplu sipariş ve özel fiyat teklifleri için bizimle iletişime geçebilirsiniz.
 `.trim(),
@@ -16247,34 +16247,34 @@ Kalem üzerine UV baskı, tampon baskı ve isteğe bağlı olarak domeks (damla 
 
 TEKNİK ÖZELLİKLER
 
-Ürün Tipi: Promosyon Plastik Kalem  
-Kategori: Promosyon Kalem  
+Ürün Tipi: Promosyon Plastik Kalem
+Kategori: Promosyon Kalem
 
-Mekanizma: Çevirmeli  
+Mekanizma: Çevirmeli
 
-Özellik: Telefon Standlı  
+Özellik: Telefon Standlı
 
-Üretim: Yerli Üretim  
+Üretim: Yerli Üretim
 
 Baskı Türleri:
 
-UV Baskı  
-Tampon Baskı  
-Domeks (Damla Etiket)  
+UV Baskı
+Tampon Baskı
+Domeks (Damla Etiket)
 
 RENK SEÇENEKLERİ
 
-Mor  
-Pembe  
-Sarı  
-Yeşil  
-Turuncu  
-Fıstık Yeşili  
-Kırmızı  
-Lacivert  
-Siyah  
-Beyaz  
-Turkuaz  
+Mor
+Pembe
+Sarı
+Yeşil
+Turuncu
+Fıstık Yeşili
+Kırmızı
+Lacivert
+Siyah
+Beyaz
+Turkuaz
 
 STOK VE SİPARİŞ BİLGİSİ
 
@@ -16286,10 +16286,10 @@ Logo baskı tasarımı, sipariş adedi ve teslim süresi teklif aşamasında net
 
 KULLANIM ALANLARI
 
-Kurumsal promosyon ürünleri  
-Fuar ve etkinlik organizasyonları  
-Firma tanıtım çalışmaları  
-Müşteri ve bayi hediyeleri  
+Kurumsal promosyon ürünleri
+Fuar ve etkinlik organizasyonları
+Firma tanıtım çalışmaları
+Müşteri ve bayi hediyeleri
 Reklam ve pazarlama kampanyaları
 `
 },
@@ -37647,7 +37647,7 @@ Promosyon roller kalem RK-240, zarif tasarımı, metal detayları ve logo baskı
   id: "p526",
   slug: "promosyon-roller-kalem-rk-250-metal-detayli",
   title: "Promosyon Roller Kalem RK-250 | Metal Detaylı Şık Tasarım",
-  
+
   price: 140,
   category: "Kalem",
   image: "/products/promosyon-roller-kalem-rk-250.jpg",
@@ -46986,6 +46986,80 @@ Promosyon Seramik Kupa 275 ml SK-110 modeli; kaliteli seramik gövdesi, süblima
       "a": "Listelenen 540 TL + KDV birim ürün fiyatına baskı dahil değildir. Logo uygulaması ve paketleme kapsamına göre toplam teklif hazırlanır."
     }
   ]
+},
+
+
+{
+  "id": "bati-td-105",
+  "slug": "promosyon-tarihsiz-defter-td-105-kalem-tutuculu",
+  "title": "Promosyon Tarihsiz Defter TD-105 | 15,5 x 21,5 cm Kalem Tutuculu",
+  "category": "Tarihsiz Defter",
+  "image": "/products/promosyon-tarihsiz-defter-td-105-155x215.jpg",
+  "price": 260,
+  "shortDesc": "TD-105 tarihsiz defter; 15,5 x 21,5 cm ölçüsü, kalem tutucusu, metal tokası ve 224 çizgili sayfasıyla toplantı notları ve kurumsal hediye siparişleri için değerlendirilebilir.",
+  "longDesc": "KALEM TUTUCULU TARİHSİZ DEFTER TD-105\n\nNot almak için defter ve kalemi birlikte taşımak isteyenler, kalem tutuculu TD-105 modelini değerlendirebilir. Tarihsiz iç düzen, kullanımı belirli bir takvim yılıyla sınırlamaz.\n\nTEKNİK ÖZELLİKLER\n\nÖlçü: 15,5 x 21,5 cm. Termo kapak, metal toka, kalem tutucu, renkli kenarlar ve karton kılıf. İç yapı: 224 çizgili sayfa, 80 gram Ivory krem kâğıt.\n\nLOGO BASKISI\n\nGofre, UV ve lazer uygulamaları için yüzey ve logo uygunluğu kontrol edilir. Baskı alanını ve tasarımınızı teklif talebinde belirtin.\n\nTOPLU SİPARİŞ\n\nMinimum sipariş 30 adettir. Koli adedi 40'tır; bu iki sayı farklı bilgileri ifade eder. Fiyat baskı ve KDV hariç birim ürün bedelidir. Renk, stok ve teslim süresi sipariş öncesinde teyit edilir.",
+  "faq": [
+  {
+    "q": "TD-105 tarihsiz defterin ölçüsü ve iç sayfa özellikleri nelerdir?",
+    "a": "TD-105, 15,5 x 21,5 cm ölçüsündedir. İç bölümünde 224 çizgili sayfa ve 80 gram Ivory krem kâğıt bulunur; not düzeninizi bu özelliklere göre değerlendirebilirsiniz."
+  },
+  {
+    "q": "TD-105 modelinde kalem tutucu ve metal toka var mı?",
+    "a": "Modelde kalem tutucu, metal toka ve renkli kenarlar bulunur. Kalem tutucu bulunması, ürünle birlikte kalem verildiği anlamına gelmez; paket kapsamını teklif sırasında teyit edin."
+  },
+  {
+    "q": "TD-105 defter belirli bir yıla mı aittir?",
+    "a": "TD-105 tarihsiz bir defterdir; belirli bir takvim yılına bağlı değildir. Tarihli ajanda yerine çizgili not sayfaları arayanlar için değerlendirilebilir."
+  },
+  {
+    "q": "TD-105 üzerine hangi yöntemlerle logo uygulanabilir?",
+    "a": "Gofre, UV ve lazer seçenekleri bulunur. Uygun yöntem; logo tasarımı, uygulama alanı ve yüzey değerlendirmesiyle belirlenir. Baskının konumunu teklif talebinizde belirtin."
+  },
+  {
+    "q": "TD-105 fiyatına baskı, KDV ve kalem dahil mi?",
+    "a": "Karttaki bedel baskı ve KDV hariç birim defter fiyatıdır. Kalem gibi ek parçaları ayrıca belirtin; baskı ve paket kapsamını teklif üzerinden karşılaştırın."
+  },
+  {
+    "q": "TD-105 toplu sipariş adedi ve teslim süresi nedir?",
+    "a": "Minimum sipariş 30 adet, koli adedi 40'tır; bunlar farklı bilgilerdir. Renk, stok ve teslim tarihi siparişe göre teyit edilir. Adet ve ihtiyaç tarihinizi paylaşın."
+  }
+]
+},
+{
+  "id": "bati-td-106",
+  "slug": "promosyon-tarihsiz-defter-td-106-esnek-kapak",
+  "title": "Promosyon Tarihsiz Defter TD-106 | 15,5 x 21,5 cm Esnek Kapak",
+  "category": "Tarihsiz Defter",
+  "image": "/products/promosyon-tarihsiz-defter-td-106-155x215.jpg",
+  "price": 270,
+  "shortDesc": "TD-106 tarihsiz defter; 15,5 x 21,5 cm ölçüsünde, yumuşak ve esnek termo kapaklıdır. 224 çizgili sayfası ve renkli kenarlarıyla logo uygulamalı kurumsal siparişler için sunulur.",
+  "longDesc": "ESNEK KAPAKLI TARİHSİZ DEFTER TD-106\n\nTD-106, yumuşak ve esnek kapak tercih edenler için tarihsiz bir not defteri seçeneğidir. Kurumsal hediye seçerken kapak hissini, ölçüyü ve iç sayfa düzenini birlikte karşılaştırabilirsiniz.\n\nKAPAK VE İÇ SAYFA\n\nÖlçü: 15,5 x 21,5 cm. Termo kapak, metal toka, renkli kenarlar ve karton kılıf. İç yapı: 224 çizgili sayfa, 80 gram krem kâğıt.\n\nKURUMSAL LOGO UYGULAMASI\n\nGofre, UV ve lazer seçenekleri tasarım ve yüzey uygunluğuna göre değerlendirilir. Kullanılacak logo dosyasını ve uygulama alanını sipariş öncesinde paylaşın.\n\nFİYAT VE TESLİM\n\nMinimum sipariş 30 adet, koli adedi 40'tır. Listelenen fiyat baskı ve KDV hariç birim ürün bedelidir. Renk seçimi, stok, baskı kapsamı ve teslim tarihi teklif aşamasında netleştirilir.",
+  "faq": [
+  {
+    "q": "TD-106 tarihsiz defterin kapağı nasıl bir yapıdadır?",
+    "a": "TD-106, yumuşak ve esnek termo kapaklıdır. Sert kapak yerine esnek yapı tercih edenler; kapağın kullanım hissini, ölçüyü ve iç sayfa düzenini birlikte değerlendirebilir."
+  },
+  {
+    "q": "TD-106 defter kaç sayfadır ve ölçüsü nedir?",
+    "a": "Ölçüsü 15,5 x 21,5 cm'dir. İç bölümünde 224 çizgili sayfa ve 80 gram krem kâğıt bulunur. Çizgili düzen, toplantı ve günlük notlar için değerlendirilebilir."
+  },
+  {
+    "q": "TD-106 tarihli ajanda yerine kullanılabilir mi?",
+    "a": "TD-106 tarihsiz not defteridir; belirli bir yıla bağlı değildir. Tarihli planlama sayfaları gerekiyorsa ajanda seçeneklerini ayrıca inceleyin; iki ürünün iç düzeni aynı değildir."
+  },
+  {
+    "q": "TD-106 esnek kapağına logo baskısı yapılabilir mi?",
+    "a": "Gofre, UV ve lazer seçenekleri değerlendirilir. Logo dosyasıyla birlikte uygulama alanını paylaşın; tasarım ve yüzey uygunluğuna göre yöntem netleştirilir."
+  },
+  {
+    "q": "TD-106 fiyatında hangi kalemler ayrıca değerlendirilir?",
+    "a": "Listelenen tutar baskı ve KDV hariç birim ürün bedelidir. Logo uygulaması, varsa ek paketleme ve teslim kapsamı teklif üzerinde ayrıca netleştirilmelidir."
+  },
+  {
+    "q": "TD-106 için minimum sipariş ve renk seçimi nasıldır?",
+    "a": "Minimum sipariş 30 adet, koli adedi 40'tır. Görseldeki renkler stok garantisi vermez; tercih ettiğiniz renk, adet ve ihtiyaç tarihiyle güncel uygunluk teyit edilir."
+  }
+]
 },
 ];
 

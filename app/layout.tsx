@@ -133,61 +133,19 @@ export default function RootLayout({
 
         <main className="flex-1">{children}</main>
 
-        <footer className="mt-20 bg-neutral-950 text-white">
-          <div className="mx-auto max-w-6xl px-4 py-10">
-            <div className="grid gap-6 md:grid-cols-4">
-              <div>
-                <h3 className="mb-3 text-lg font-semibold">FirmaPromosyon</h3>
+        <footer className="mt-10 bg-neutral-950 text-white">
+          <div className="mx-auto max-w-7xl px-5 py-8 md:py-10">
+            <div className="grid grid-cols-2 gap-x-6 gap-y-7 lg:grid-cols-[1.4fr_1fr_1.15fr_1fr_1.4fr] lg:gap-7">
+  <div className="col-span-2 min-w-0 lg:col-span-1">
+    <h3 className="mb-3 text-lg font-bold">FirmaPromosyon</h3>
+    <p className="max-w-md text-sm leading-6 text-white/75">
+      Logo baskılı promosyon ürünleri ve kurumsal hediyeler.
+      UV, DTF, lazer, tampon baskı ve nakış çözümleri.
+    </p>
+  </div>
 
-                <p className="mb-4 text-sm text-white/70">
-                  Kurumsal promosyon ürünleri, logo baskılı promosyon
-                  çözümleri, UV baskı, DTF baskı, lazer baskı, tampon baskı ve
-                  nakış uygulamaları ile firmalara özel profesyonel promosyon
-                  ve kurumsal hediye çözümleri sunuyoruz.
-                </p>
-
-                <div className="space-y-3 text-sm text-white/70">
-                  <div>
-                    <span className="font-medium text-white">E-Posta</span>
-                    <br />
-                    <a
-                      href="mailto:info@firmapromosyon.com"
-                      className="transition-colors hover:text-white"
-                    >
-                      info@firmapromosyon.com
-                    </a>
-                  </div>
-
-                  <div>
-                    <span className="font-medium text-white">
-                      Çalışma Saatleri
-                    </span>
-                    <br />
-                    Pazartesi - Cumartesi
-                    <br />
-                    09:00 - 18:00
-                  </div>
-
-                  <div>
-                    <span className="font-medium text-white">
-                      Baskı Hizmetleri
-                    </span>
-                    <br />
-                    UV Baskı
-                    <br />
-                    DTF Baskı
-                    <br />
-                    Lazer Baskı
-                    <br />
-                    Tampon Baskı
-                    <br />
-                    Nakış
-                  </div>
-                </div>
-              </div>
-
-              <div>
-                <h3 className="mb-3 text-lg font-semibold">Kurumsal</h3>
+  <div className="min-w-0 ">
+                <h3 className="mb-3 text-sm font-bold">Kurumsal</h3>
                 <ul className="space-y-2 text-sm text-white/80">
                   <li>
                     <a href="/hakkimizda" className="hover:text-white">
@@ -212,8 +170,8 @@ export default function RootLayout({
                 </ul>
               </div>
 
-              <div>
-                <h3 className="mb-3 text-lg font-semibold">Yasal</h3>
+  <div className="min-w-0 ">
+                <h3 className="mb-3 text-sm font-bold">Yasal</h3>
                 <ul className="space-y-2 text-sm text-white/80">
                   <li>
                     <a
@@ -239,8 +197,19 @@ export default function RootLayout({
                 </ul>
               </div>
 
-              <div>
-                <h3 className="mb-3 text-lg font-semibold">İletişim</h3>
+  <div className="min-w-0">
+    <h3 className="mb-3 text-sm font-bold">Baskı Hizmetleri</h3>
+    <ul className="space-y-2 text-sm text-white/80">
+      <li>UV Baskı</li>
+      <li>DTF Baskı</li>
+      <li>Lazer Baskı</li>
+      <li>Tampon Baskı</li>
+      <li>Nakış</li>
+    </ul>
+  </div>
+
+  <div className="min-w-0 col-span-2 lg:col-span-1">
+                <h3 className="mb-3 text-sm font-bold">İletişim</h3>
                 <ul className="space-y-2 text-sm text-white/80">
                   <li>
                     <a href="/iletisim" className="hover:text-white">
@@ -253,10 +222,24 @@ export default function RootLayout({
                     </a>
                   </li>
                 </ul>
-              </div>
-            </div>
 
-            <div className="mt-10 border-t border-white/10 pt-6 text-center text-sm text-white/60">
+  <div className="mt-4 space-y-3 text-sm leading-6 text-white/75">
+    <a
+      href="mailto:info@firmapromosyon.com"
+      className="block break-words transition hover:text-white"
+    >
+      info@firmapromosyon.com
+    </a>
+    <div>
+      <p className="mb-1 font-semibold text-white">Çalışma Saatleri</p>
+      <p>Pazartesi–Cuma: 09:00–18:00</p>
+      <p>Cumartesi: 09:00–13:00</p>
+    </div>
+  </div>
+</div>
+</div>
+
+            <div className="border-t border-white/10 text-center text-white/60 mt-6 pt-4 text-xs leading-6">
               © {new Date().getFullYear()} FirmaPromosyon — Kurumsal Promosyon
               Ürünleri, Logo Baskılı Promosyon, UV Baskı, DTF Baskı, Lazer
               Baskı, Tampon Baskı ve Nakış Hizmetleri. Tüm hakları saklıdır.
