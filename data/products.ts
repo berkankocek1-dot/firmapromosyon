@@ -53,6 +53,17 @@ export type Product = {
 };
 
 export const products: Product[] = [
+{
+  "id": "bati-aj-115",
+  "slug": "promosyon-ajanda-aj-115-16x23-5cm",
+  "title": "Promosyon Ajanda AJ-115 | 16 x 23,5 cm Termo Kapaklı",
+  "category": "Ajanda",
+  "image": "/products/promosyon-ajanda-aj-115.jpg",
+  "price": 368,
+  "shortDesc": "AJ-115 ajanda; 16 x 23,5 cm ölçüsü, termo kapak, kalem tutucu ve kart-telefon bölmesiyle kurumsal hediye siparişleri için değerlendirilebilir.",
+  "longDesc": "AJ-115 ajanda, 16 x 23,5 cm ölçüsünde termo kapaklı bir modeldir. Kalem tutucu, kart ve telefon bölmesi, karton kılıf ve renkli kenarlar bulunur.\n\nİÇ SAYFA VE ÖLÇÜ\n336 sayfa; 70 gram ivory krem kağıt. Koli adedi 40 olarak belirtilmiştir. Koli adedi minimum sipariş adedi anlamına gelmez. Tarihli iç sayfanın yılı sipariş öncesinde teyit edilir.\n\nLOGO UYGULAMASI\nTedarikçinin belirttiği uygulama seçenekleri gofre, serigrafi, UV ve lazerdir. Seçilen yüzey, tasarım ve uygulama alanına uygunluk teklif aşamasında kontrol edilir.\n\nFİYAT VE SİPARİŞ\nGösterilen bedel baskı ve KDV hariç birim ürün fiyatıdır. Renk, stok, minimum sipariş, baskı bedeli ve teslim süresi sipariş öncesinde teyit edilir. Ürün kodunu, adedi, logo dosyanızı ve ihtiyaç tarihinizi paylaşarak teklif isteyebilirsiniz."
+},
+
  {
   id: "p1",
   slug: "promosyon-dokunmatik-kalem-dk-500",

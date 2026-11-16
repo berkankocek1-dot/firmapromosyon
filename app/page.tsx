@@ -1,3 +1,4 @@
+import NewYearBanner from "./components/NewYearBanner";
 import Link from "next/link";
 import Image from "next/image";
 import { visibleProducts as products } from "@/data/productVisibility";
@@ -487,6 +488,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <NewYearBanner />
 
       {/* KATEGORİLER */}
       <section className="mx-auto max-w-7xl px-5 py-10">

@@ -42,6 +42,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     },
   ];
 
+  routes.push({ url: baseUrl + "/yilbasi-promosyon-urunleri", changeFrequency: "yearly", priority: 0.8 });
+
   const guideRoutes: MetadataRoute.Sitemap = [
     {
       url: `${baseUrl}/rehber`,

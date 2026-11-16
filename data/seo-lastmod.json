@@ -2,8 +2,8 @@
   "version": 2,
   "pages": {
     "/": {
-      "hash": "bcb24c5cce4ec996bc9f6b6ce82edacf0195e84e12c3bf1fad84a9e90d0c1bdd",
-      "lastModified": "2026-11-15T20:53:06.825Z"
+      "hash": "8867549e4cec2bc216f7432d8e4ac92e4440e6db1a3ced04600dd9ce9b92c949",
+      "lastModified": "2026-11-16T19:25:17.384Z"
     },
     "/cerez-politikasi": {
       "hash": "c435cc2b91d43001425015e9474d9f2a12c6a4c46b1bf7d2b81afb2149481469",
@@ -66,8 +66,8 @@
       "lastModified": "2026-11-15T17:07:21.367Z"
     },
     "/promosyon-ajanda": {
-      "hash": "e4d5fb25e295cc436c8f0c4af33f7e6e8ffc86608853859d1461bc21d90160ac",
-      "lastModified": "2026-11-15T17:07:21.367Z"
+      "hash": "72ac6513da8808e27a861d7d149401f926c207f88f88628b52807ebae0dda6a6",
+      "lastModified": "2026-11-16T19:25:17.384Z"
     },
     "/promosyon-anahtarlik": {
       "hash": "e9fa9d3573e9930b6e394b525ef7be211bfad69fc89dfc530f5f51c30cfca824",
@@ -666,8 +666,8 @@
       "lastModified": "2026-11-15T17:07:21.367Z"
     },
     "/urunler": {
-      "hash": "8cb86d6c00000b9bdff056bab8cce248e0cc3ebbb06ca0cdce5a4165291bb921",
-      "lastModified": "2026-11-15T17:07:21.367Z"
+      "hash": "24cf299a46625e71d59da10fd35eb9427071209f0db34547c5147fb65a44db82",
+      "lastModified": "2026-11-16T19:25:17.384Z"
     },
     "/urunler/promosyon-100-yaprak-taslama-kapak-defter-15x21-mtb-190": {
       "hash": "05a5a87f2b425d628bd28b779a55f4fac4dc0f95467f4316a0fabb3e461f41ba",
@@ -809,6 +809,10 @@
       "hash": "bf573c788de2a0431cf842d83296fc7aadfeaa5925fdd7ab6147c419ccc37f4f",
       "lastModified": "2026-11-15T17:07:21.367Z"
     },
+    "/urunler/promosyon-ajanda-aj-115-16x23-5cm": {
+      "hash": "f9b9d21cc2e469634e28ea3a2b358d454fc6561dea650392dfcbb2794cb09061",
+      "lastModified": "2026-11-16T19:25:17.384Z"
+    },
     "/urunler/promosyon-ajanda-aj-200": {
       "hash": "7e5b2d573f665542c3d587ada763db5667bfc6f32ba01bc4548aead08fded892",
       "lastModified": "2026-11-15T17:07:21.367Z"
@@ -838,36 +842,36 @@
       "lastModified": "2026-11-15T17:07:21.367Z"
     },
     "/urunler/promosyon-ajanda-aj-270": {
-      "hash": "b286d2b8c6db0a4bfcf19facccca17f01a2ecf870f521acaa69dcc33268fd05a",
-      "lastModified": "2026-11-15T17:07:21.367Z"
+      "hash": "9e7e5bb3c998e4d398b7df49c7b94f844a7719f7ba1daef8e9f47a020f371a37",
+      "lastModified": "2026-11-16T19:25:17.384Z"
     },
     "/urunler/promosyon-ajanda-aj-280": {
-      "hash": "2cb181d412387556969f9296e97df2eb5ab9d8bd7217409f3f3adc07775cb673",
-      "lastModified": "2026-11-15T17:07:21.367Z"
+      "hash": "9386f8c7b9a469221b8e03aa69a344d07a679d90c6b5e426faa9eac2277b7da2",
+      "lastModified": "2026-11-16T19:25:17.384Z"
     },
     "/urunler/promosyon-ajanda-aj-290": {
-      "hash": "84f3777a0fcbaf26dda85ac74b2dcd1093488c88aea996f12295241add8e4a1f",
-      "lastModified": "2026-11-15T17:07:21.367Z"
+      "hash": "b5e52218cd0847f96e9fc528f94380562a1c22c9729b96832687b94a7e66f840",
+      "lastModified": "2026-11-16T19:25:17.384Z"
     },
     "/urunler/promosyon-ajanda-aj-300": {
-      "hash": "5627ad649ef9de7ce91f472192647a64bd68d10b3c748b3a8ec64ad0d85889b0",
-      "lastModified": "2026-11-15T17:07:21.367Z"
+      "hash": "b2170c573db83d8d33b502257be3af1ba2ca98f1b9d00e327f9aba2d213781d8",
+      "lastModified": "2026-11-16T19:25:17.384Z"
     },
     "/urunler/promosyon-ajanda-aj-310": {
-      "hash": "12f683cc1eab197697e8797f1d046fd280381292bbc4956130a4c1b5b125bba2",
-      "lastModified": "2026-11-15T17:07:21.367Z"
+      "hash": "3f4bb567105e59150dea362dc6ea49218312b3a39a69b23d1d5847e01deb0488",
+      "lastModified": "2026-11-16T19:25:17.384Z"
     },
     "/urunler/promosyon-ajanda-aj-320": {
-      "hash": "fa1e41bd049693c9986442ba15638a06690b91f3bf2d3705bfd1b766cb19f560",
-      "lastModified": "2026-11-15T17:07:21.367Z"
+      "hash": "de4eed7624df33e47d2dc9713ed0bde29cb198bcd7c2efb70f2f79a056d9dc9b",
+      "lastModified": "2026-11-16T19:25:17.384Z"
     },
     "/urunler/promosyon-ajanda-aj-330": {
-      "hash": "0fa659427c000f185f0af2e957d7806f09df76aba74eed381ff06b6642b61a50",
-      "lastModified": "2026-11-15T17:07:21.367Z"
+      "hash": "234b426d9b762b7615da6e903dbe3a641630f984b1eb6eb3b232d6dcd94e1517",
+      "lastModified": "2026-11-16T19:25:17.384Z"
     },
     "/urunler/promosyon-ajanda-aj-340": {
-      "hash": "2166b6de9f7c06ad29b019ffebf52a4471ae0af39ad1dd55bd1aeeb9d7b332d8",
-      "lastModified": "2026-11-15T17:07:21.367Z"
+      "hash": "23886f6fc35cf1ee89be964ae9e1aec03c2fc19c3c4ca1f37091887580ef8023",
+      "lastModified": "2026-11-16T19:25:17.384Z"
     },
     "/urunler/promosyon-anahtar-usb-bellek-ub-190": {
       "hash": "8bd14cae104a1a064cefd7f26503c1f2d546be8fa3a6ea2f7fc9a64c8f279d80",
@@ -3584,6 +3588,10 @@
     "/urunler/promosyon-yuvarlak-silgili-naturel-kursun-kalem-kk-400": {
       "hash": "75290ddd378667f9e975493a028ab52a3f467c850d9524514d4f510d84892fba",
       "lastModified": "2026-11-15T17:07:21.367Z"
+    },
+    "/yilbasi-promosyon-urunleri": {
+      "hash": "354d90c6ccf5111496b341e9165e8f385046bbc611b9e35bf6e22a0f21b5c460",
+      "lastModified": "2026-11-16T19:25:17.384Z"
     }
   }
 }
