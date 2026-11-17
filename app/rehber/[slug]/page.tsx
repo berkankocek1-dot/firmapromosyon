@@ -643,7 +643,7 @@ export default async function GuidePage({ params }: PageProps) {
                   href="/rehber"
                   className="inline-flex items-center rounded-2xl border border-gray-300 bg-white px-5 py-3 text-sm font-semibold text-gray-900 transition hover:border-gray-500"
                 >
-                  ← Rehberlere dön
+                  <svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M20 12H4m7-7-7 7 7 7" /></svg> Rehberlere dön
                 </Link>
               </div>
             </div>
@@ -850,7 +850,7 @@ export default async function GuidePage({ params }: PageProps) {
                     </p>
 
                     <div className="mt-4 text-sm font-semibold text-gray-900">
-                      İncele →
+                      İncele <svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M4 12h16m-7-7 7 7-7 7" /></svg>
                     </div>
                   </div>
                 </Link>

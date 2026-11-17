@@ -2,7 +2,7 @@ import FpLegalPage from "../_components/FpLegalPage";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Çerez Politikası | FirmaPromosyon",
+  title: "Çerez Politikası",
   description:
     "FirmaPromosyon çerez politikası, web sitemizde kullanılan çerez türleri ve kullanıcı deneyimini geliştirme amaçları hakkında bilgi içerir.",
   alternates: {

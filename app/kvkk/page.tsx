@@ -2,7 +2,7 @@ import FpLegalPage from "../_components/FpLegalPage";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "KVKK Aydınlatma Metni | FirmaPromosyon",
+  title: "KVKK Aydınlatma Metni",
   description:
     "FirmaPromosyon KVKK aydınlatma metni, kişisel verilerin işlenmesi, saklanması ve kullanıcı hakları hakkında detaylı bilgi.",
   alternates: {

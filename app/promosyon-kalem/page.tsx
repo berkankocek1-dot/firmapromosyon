@@ -326,7 +326,7 @@ export default function Page() {
                   Promosyon kalem fiyatlarını etkileyen temel unsurları ve sipariş
                   sürecinde dikkat edilmesi gereken noktaları inceleyin.
                 </p>
-                  <div className="mt-4 flex items-center gap-2 text-sm font-semibold text-white">İncele <span aria-hidden="true">↗</span></div>
+                  <div className="mt-4 flex items-center gap-2 text-sm font-semibold text-white">İncele <span aria-hidden="true"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span></div>
                 </div>
               </Link>
               <Link href="/rehber/promosyon-kalem-toptan" className="group relative isolate flex min-h-[310px] min-w-0 flex-col overflow-hidden rounded-2xl border border-gray-200 bg-gray-950 p-5 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:min-h-[320px] sm:p-6">
@@ -341,7 +341,7 @@ export default function Page() {
                   Logo baskılı kalemlerde model, baskı ve toplu sipariş
                   sürecini inceleyin.
                 </p>
-                  <div className="mt-4 flex items-center gap-2 text-sm font-semibold text-white">İncele <span aria-hidden="true">↗</span></div>
+                  <div className="mt-4 flex items-center gap-2 text-sm font-semibold text-white">İncele <span aria-hidden="true"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span></div>
                 </div>
               </Link>
               <Link href="/rehber/promosyon-kalem-secerken-nelere-dikkat-edilmeli" className="group relative isolate flex min-h-[310px] min-w-0 flex-col overflow-hidden rounded-2xl border border-gray-200 bg-gray-950 p-5 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:min-h-[320px] sm:p-6">
@@ -351,7 +351,7 @@ export default function Page() {
                   <span className="inline-flex rounded-full border border-white/30 bg-black/40 px-3 py-1 text-xs font-semibold text-white">Rehber</span>
                   <h3 className="mt-4 text-lg font-bold leading-7 text-white">Kalem Seçimi ve Numune Kontrolü</h3>
                   <p className="mt-3 text-sm leading-6 text-white">Yazım, tutuş, mürekkep bilgisi ve sipariş onayında kontrol edilecekleri inceleyin.</p>
-                  <div className="mt-4 flex items-center gap-2 text-sm font-semibold text-white">İncele <span aria-hidden="true">↗</span></div>
+                  <div className="mt-4 flex items-center gap-2 text-sm font-semibold text-white">İncele <span aria-hidden="true"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span></div>
                 </div>
               </Link>
               <Link href="/rehber/promosyon-kalemlerde-baski-turleri-nelerdir" className="group relative isolate flex min-h-[310px] min-w-0 flex-col overflow-hidden rounded-2xl border border-gray-200 bg-gray-950 p-5 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:min-h-[320px] sm:p-6">
@@ -361,7 +361,7 @@ export default function Page() {
                   <span className="inline-flex rounded-full border border-white/30 bg-black/40 px-3 py-1 text-xs font-semibold text-white">Rehber</span>
                   <h3 className="mt-4 text-lg font-bold leading-7 text-white">Kalemlerde Baskı Yöntemleri</h3>
                   <p className="mt-3 text-sm leading-6 text-white">Tampon, UV, lazer ve serigrafi yöntemlerini yüzey ve tasarım uygunluğu üzerinden karşılaştırın.</p>
-                  <div className="mt-4 flex items-center gap-2 text-sm font-semibold text-white">İncele <span aria-hidden="true">↗</span></div>
+                  <div className="mt-4 flex items-center gap-2 text-sm font-semibold text-white">İncele <span aria-hidden="true"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span></div>
                 </div>
               </Link>
             </div>
@@ -374,25 +374,25 @@ export default function Page() {
         <p className="mt-2 text-sm leading-6 text-gray-600">Kalem türlerine göre hazırlanmış sayfalardan modelleri ve logo baskılı sipariş seçeneklerini inceleyebilirsiniz.</p>
         <div className="mt-5 grid grid-cols-1 gap-3 lg:grid-cols-3">
           <Link href="/promosyon-rubber-kalem" className="group flex min-h-14 items-center justify-between gap-3 rounded-xl border border-gray-200 bg-white px-4 py-4 text-sm font-semibold leading-6 text-black transition-colors hover:border-gray-400 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
-            <span>Rubber Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base">↗</span>
+            <span>Rubber Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
           </Link>
           <Link href="/promosyon-kursun-kalem" className="group flex min-h-14 items-center justify-between gap-3 rounded-xl border border-gray-200 bg-white px-4 py-4 text-sm font-semibold leading-6 text-black transition-colors hover:border-gray-400 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
-            <span>Kurşun Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base">↗</span>
+            <span>Kurşun Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
           </Link>
           <Link href="/promosyon-jel-kalem" className="group flex min-h-14 items-center justify-between gap-3 rounded-xl border border-gray-200 bg-white px-4 py-4 text-sm font-semibold leading-6 text-black transition-colors hover:border-gray-400 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
-            <span>Jel Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base">↗</span>
+            <span>Jel Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
           </Link>
           <Link href="/promosyon-roller-kalem" className="group flex min-h-14 items-center justify-between gap-3 rounded-xl border border-gray-200 bg-white px-4 py-4 text-sm font-semibold leading-6 text-black transition-colors hover:border-gray-400 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
-            <span>Roller Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base">↗</span>
+            <span>Roller Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
           </Link>
           <Link href="/promosyon-dokunmatik-kalem" className="group flex min-h-14 items-center justify-between gap-3 rounded-xl border border-gray-200 bg-white px-4 py-4 text-sm font-semibold leading-6 text-black transition-colors hover:border-gray-400 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
-            <span>Dokunmatik Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base">↗</span>
+            <span>Dokunmatik Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
           </Link>
           <Link href="/promosyon-plastik-kalem" className="group flex min-h-14 items-center justify-between gap-3 rounded-xl border border-gray-200 bg-white px-4 py-4 text-sm font-semibold leading-6 text-black transition-colors hover:border-gray-400 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
-            <span>Plastik Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base">↗</span>
+            <span>Plastik Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
           </Link>
           <Link href="/promosyon-metal-kalem" className="group flex min-h-14 items-center justify-between gap-3 rounded-xl border border-gray-200 bg-white px-4 py-4 text-sm font-semibold leading-6 text-black transition-colors hover:border-gray-400 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
-            <span>Metal Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base">↗</span>
+            <span>Metal Kalem Modellerini İncele</span><span aria-hidden="true" className="shrink-0 text-base"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
           </Link>
         </div>
       </nav>

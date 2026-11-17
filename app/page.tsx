@@ -527,13 +527,13 @@ export default function Home() {
                     </div>
                   </div>
                   <div className="flex items-center justify-between gap-1 border-t border-gray-100 px-2 py-3 text-xs font-semibold sm:px-3 sm:text-sm">
-                    <span>{item.label}</span><span aria-hidden="true">↗</span>
+                    <span>{item.label}</span><span aria-hidden="true"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
                   </div>
                 </Link>
               ))}
             </div>
             <Link href="/urunler" className="mt-4 inline-flex min-h-11 items-center gap-3 text-sm font-semibold underline-offset-4 hover:underline">
-              Tüm Ürünleri İncele <span aria-hidden="true">↗</span>
+              Tüm Ürünleri İncele <span aria-hidden="true"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
             </Link>
           </div>
           <div className="grid min-w-0 grid-cols-2 gap-3 sm:gap-4">
@@ -553,7 +553,7 @@ export default function Home() {
                     {index === 0 && <p className="mb-1 text-[10px] font-medium uppercase tracking-widest text-gray-500">Kurumsal hediye seçkisi</p>}
                     <h2 className="text-sm font-bold text-black sm:text-base">{item.label}</h2>
                   </div>
-                  <span aria-hidden="true" className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:bg-black group-hover:text-white">↗</span>
+                  <span aria-hidden="true" className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:bg-black group-hover:text-white"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
                 </div>
               </Link>
             ))}
@@ -578,7 +578,7 @@ export default function Home() {
             </p>
           </div>
           <Link href="/urunler" className="inline-flex min-h-11 shrink-0 items-center gap-3 text-sm font-semibold text-black underline-offset-4 hover:underline">
-            Tüm ürünler <span aria-hidden="true">↗</span>
+            Tüm ürünler <span aria-hidden="true"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
           </Link>
         </div>
 
@@ -604,7 +604,7 @@ export default function Home() {
                   <h3 className="min-w-0 break-words text-sm font-bold leading-5 text-black sm:text-base">
                     {category.name}
                   </h3>
-                  <span aria-hidden="true" className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:border-black group-hover:bg-black group-hover:text-white">↗</span>
+                  <span aria-hidden="true" className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:border-black group-hover:bg-black group-hover:text-white"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
                 </div>
                 <p className="mt-2 line-clamp-2 text-xs leading-5 text-gray-600 sm:text-sm">
                   {category.seoDescription || `${category.name} ürünlerini inceleyin.`}
@@ -644,7 +644,7 @@ export default function Home() {
               href="/urunler"
               className="text-sm font-semibold text-gray-900 hover:underline"
             >
-              Tümünü Gör →
+              Tümünü Gör <svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M4 12h16m-7-7 7 7-7 7" /></svg>
             </Link>
           </div>
 
@@ -681,7 +681,7 @@ export default function Home() {
                     <HomeProductPrice product={p} />
                     <div className="mt-auto flex items-center justify-between gap-2 pt-4">
                       <span className="text-xs font-semibold text-gray-700">Ürünü incele</span>
-                      <span aria-hidden="true" className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:border-black group-hover:bg-black group-hover:text-white">↗</span>
+                      <span aria-hidden="true" className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:border-black group-hover:bg-black group-hover:text-white"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
                     </div>
                   </div>
                 </Link>
@@ -785,7 +785,7 @@ export default function Home() {
           </div>
 
           <Link href="/rehber" className="text-sm font-semibold text-gray-900 hover:underline">
-            Tüm rehberler →
+            Tüm rehberler <svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M4 12h16m-7-7 7 7-7 7" /></svg>
           </Link>
         </div>
 
@@ -814,7 +814,7 @@ export default function Home() {
                   {guide.title}
                 </h3>
                 <p className="mt-3 text-sm leading-6 text-white">{guide.desc}</p>
-                <div className="mt-4 text-sm font-bold text-white">İncele →</div>
+                <div className="mt-4 text-sm font-bold text-white">İncele <svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M4 12h16m-7-7 7 7-7 7" /></svg></div>
               </div>
             </Link>
           ))}
@@ -838,7 +838,7 @@ export default function Home() {
               href="/urunler"
               className="text-sm font-semibold text-gray-900 hover:underline"
             >
-              Tüm kategoriler →
+              Tüm kategoriler <svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M4 12h16m-7-7 7 7-7 7" /></svg>
             </Link>
           </div>
 
@@ -991,7 +991,7 @@ export default function Home() {
                 <li><strong className="font-semibold text-black">Teslim tarihi:</strong> Fuar veya etkinlik tarihinizi belirtin; stok ve üretim süresi buna göre değerlendirilsin.</li>
               </ul>
               <Link href="/kurumsal-teklif-al" className="mt-5 inline-flex min-h-11 items-center justify-center gap-3 rounded-xl bg-black px-4 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
-                Kurumsal teklif isteyin <span aria-hidden="true">↗</span>
+                Kurumsal teklif isteyin <span aria-hidden="true"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
               </Link>
             </div>
           </div>
@@ -1138,7 +1138,7 @@ function MiniProductCard({ product }: { product: any }) {
         <HomeProductPrice product={product} />
         <div className="mt-auto flex items-center justify-between gap-2 pt-4">
           <span className="text-xs font-semibold text-gray-700">Ürünü incele</span>
-          <span aria-hidden="true" className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:border-black group-hover:bg-black group-hover:text-white">↗</span>
+          <span aria-hidden="true" className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:border-black group-hover:bg-black group-hover:text-white"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
         </div>
       </div>
     </Link>

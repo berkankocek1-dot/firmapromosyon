@@ -2,7 +2,7 @@ import FpLegalPage from "../_components/FpLegalPage";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Gizlilik Politikası | FirmaPromosyon",
+  title: "Gizlilik Politikası",
   description:
     "FirmaPromosyon gizlilik politikası, kişisel verilerin korunması, KVKK kapsamında veri kullanımı ve kullanıcı hakları hakkında bilgiler.",
   alternates: {

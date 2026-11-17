@@ -246,7 +246,7 @@ export default function AnahtarlikProductGrid({
 
                 <div className="mt-4 flex items-center justify-between gap-2">
                   <span className="text-xs font-semibold text-gray-700">Ürünü İncele</span>
-                  <span aria-hidden="true" className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:border-black group-hover:bg-black group-hover:text-white">↗</span>
+                  <span aria-hidden="true" className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:border-black group-hover:bg-black group-hover:text-white"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#000" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round" style={{display:"inline-block",verticalAlign:"middle",flexShrink:0,backgroundColor:"#fff",borderRadius:"9999px"}}><path d="M5 19 19 5M5 5h14v14" /></svg></span>
                 </div>
               </div>
             </Link>
