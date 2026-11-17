@@ -1,3 +1,4 @@
+import FpCategoryCatalog from "../_components/FpCategoryCatalog";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -102,7 +103,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -157,27 +158,27 @@ export default function Page() {
         }} />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">
+          <span className="font-semibold text-black">
             Promosyon Ahşap ve Deri Masaüstü Ürünler
           </span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon Ahşap ve Deri Masaüstü Ürünler
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Suni deri masaüstü organizer, kalemlik ve bardak altlığı setlerini
             bölme düzeni, ölçü ve kullanım ihtiyacına göre karşılaştırın.
             Logo uygulaması ve toplu kurumsal sipariş için teklif alın.
@@ -186,70 +187,20 @@ export default function Page() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-ahsap-ve-deri-masaustu-urunler-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src="/category-heroes/clean/promosyon-deri-kalemlik-ms-130-clean.webp" alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
-      <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {list.map((p) => (
-          <Link
-            key={p.id}
-            href={`/urunler/${p.slug}`}
-            className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
-          >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl border border-gray-100 bg-white">
-              <Image
-                src={p.image}
-                alt={p.title}
-                fill
-                unoptimized
-                loading="lazy"
-                className="object-contain p-4"
-                sizes="(max-width: 768px) 100vw, 33vw"
-              />
-            </div>
-
-            <div className="mt-4">
-              <div className="text-xs font-semibold uppercase tracking-wide text-gray-500">
-                {p.category}
-              </div>
-
-              <h2 className="mt-1 text-lg font-bold text-gray-900">
-                {p.title}
-              </h2>
-
-              <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
-                {p.shortDesc}
-              </p>
-              {p.price && (
-                <div className="mt-3">
-                  <div className="text-base font-bold text-gray-900">
-                    {p.price.toLocaleString("tr-TR")} TL + KDV
-                  </div>
-
-                  <div className="mt-1 text-xs font-medium text-green-600">
-                    Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.
-                  </div>
-                </div>
-              )}
-              <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
-                Ürünü İncele
-              </div>
-            </div>
-          </Link>
-        ))}
-      </section>
+      <FpCategoryCatalog anchorId="promosyon-ahsap-ve-deri-masaustu-urunler-modelleri" showPrices={true} products={list.map(p => ({id:p.id,slug:p.slug,title:p.title,image:p.image,category:p.category,shortDesc:p.shortDesc,price:p.price,priceNote:"Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın."}))} />
 
       {list.length === 0 && (
         <p className="mt-10 text-center text-gray-600">
@@ -258,9 +209,9 @@ export default function Page() {
       )}
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Logo Baskılı Masaüstü Organizer ve Bardak Altlığı Modelleri</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Logo Baskılı Masaüstü Organizer ve Bardak Altlığı Modelleri</h2>
             <p>
               Ofis masası için ürün seçerken önce kullanım ihtiyacını belirleyin.
               Kalem ve kartvizitleri bir arada tutmak, telefon için bir yer ayırmak
@@ -275,11 +226,11 @@ export default function Page() {
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Masaüstü Ürünlerini Karşılaştırın</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Masaüstü Ürünlerini Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Masaüstü ürünlerinin ürün bilgilerinde belirtilen ölçüleri ve içerikleri</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model</th>
                     <th scope="col" className="px-4 py-3">Ölçü / içerik</th>
@@ -297,7 +248,7 @@ export default function Page() {
                     ["MS-195", "4 bardak altlığı ve taşıma standı", "Yuvarlak bardak altlığı seti"],
                   ].map(([model, size, features]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{size}</td>
                       <td className="px-4 py-4">{features}</td>
                     </tr>
@@ -307,8 +258,8 @@ export default function Page() {
             </div>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Bölme Düzeni ve Masa Üzerindeki Yerleşim</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Bölme Düzeni ve Masa Üzerindeki Yerleşim</h2>
             <p>
               Kartvizit ve kalemleri düzenlemek için MS-130 gibi bir model;
               not kağıdı ve küçük aksesuarları da ayırmak için MS-140 veya MS-170
@@ -323,16 +274,16 @@ export default function Page() {
             </p>
             <p>
               Yazı alanını da tamamlamak için{" "}
-              <Link href="/promosyon-masa-sumeni" className="font-semibold text-white underline underline-offset-4">masa sümeni</Link>{" "}
+              <Link href="/promosyon-masa-sumeni" className="font-semibold text-black underline underline-offset-4">masa sümeni</Link>{" "}
               seçeneklerini inceleyebilirsiniz. Masaüstü organizer ile ajanda
               biçimindeki{" "}
-              <Link href="/promosyon-organizerler" className="font-semibold text-white underline underline-offset-4">organizer modelleri</Link>{" "}
+              <Link href="/promosyon-organizerler" className="font-semibold text-black underline underline-offset-4">organizer modelleri</Link>{" "}
               farklı kullanım ihtiyaçlarına yöneliktir.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Standlı Bardak Altlığı Setinde İçeriği Kontrol Edin</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Standlı Bardak Altlığı Setinde İçeriği Kontrol Edin</h2>
             <p>
               MS-190 ve MS-195, suni deri kaplamalı yuvarlak bardak altlığı
               setleridir. MS-195 için 4 altlık ve taşıma standı belirtilir.
@@ -346,8 +297,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Suni Deri Yüzeyde Logo Uygulaması</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Suni Deri Yüzeyde Logo Uygulaması</h2>
             <p>
               Logo yöntemi ve uygulanabilir alan, seçilen modelin yüzeyi ile
               tasarıma göre teklif aşamasında belirlenir. Dikişler, kenarlar ve
@@ -362,8 +313,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Masaüstü Ürün Fiyatlarını Karşılaştırırken</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon Masaüstü Ürün Fiyatlarını Karşılaştırırken</h2>
             <p>
               Kartlarda gösterilen fiyatlar baskı hariçtir; KDV ayrıca belirtilir.
               Güncel toplam tutarı aynı ürün kodu, adet ve uygulama kapsamıyla
@@ -378,32 +329,32 @@ export default function Page() {
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toplu Kurumsal Sipariş İçin Gerekli Bilgiler</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toplu Kurumsal Sipariş İçin Gerekli Bilgiler</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Ürün kodunu, rengi ve istediğiniz adedi belirtin.</li>
               <li>Set içeriğini ve birlikte sipariş edilecek aksesuarları netleştirin.</li>
               <li>Logo dosyanızı, uygulama konumunu ve varsa ek yazıları paylaşın.</li>
               <li>Paketleme talebinizi, teslimat adresini ve etkinlik tarihini bildirin.</li>
               <li>Stok, tasarım yerleşimi, toplam tutar ve teslim süresini teyit edin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Masaüstü hediyesini{" "}
-              <Link href="/promosyon-kalem-setleri" className="font-semibold text-white underline underline-offset-4">kalem setleriyle</Link>{" "}
+              <Link href="/promosyon-kalem-setleri" className="font-semibold text-black underline underline-offset-4">kalem setleriyle</Link>{" "}
               tamamlayabilirsiniz. Birlikte alınacak parçaları ve ambalaj
               beklentinizi teklifte ayrıca belirtin.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Masaüstü Ürünler İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Masaüstü Ürünler Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">Masaüstü Ürünler Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-6 space-y-4">
               {faqItems.map((item) => (
-                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                <div key={item.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                  <h3 className="text-lg font-semibold text-black">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{item.answer}</p>
                 </div>
               ))}
             </div>
@@ -414,8 +365,8 @@ export default function Page() {
       <section aria-labelledby="masaustu-sumen-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="masaustu-sumen-rehberi-baslik" className="text-xl font-bold !text-black">Masaüstü Ürünlerini ve Sümen Yerleşimini Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Masa alanı, bölmeler, set içeriği ve malzemeyi birlikte değerlendirin; her parçanın logo alanını ve teslim kapsamını netleştirin.</p>
-        <Link href="/rehber/promosyon-masaustu-urunleri-ve-sumen-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Masaüstü Ürünleri ve Sümen Seçim Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-masaustu-urunleri-ve-sumen-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-masaustu-urunleri-ve-sumen-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Masaüstü Ürünleri ve Sümen Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Masaüstü organizer, sümen ve kristal masa setlerini alan, içerik ve malzemeyle değerlendirin. Bölme uyumu, parça başına logo ve kurumsal dağıtımı planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

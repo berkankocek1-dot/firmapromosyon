@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { products } from "@/data/products";
@@ -102,7 +103,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -157,27 +158,27 @@ export default function Page() {
         }} />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">
+          <span className="font-semibold text-black">
             Promosyon Duvar Saatleri
           </span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon Duvar Saatleri
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Duvar saatlerini ölçü, kasa malzemesi, kadran ve özel tasarım
             seçenekleriyle karşılaştırın. Ofis, mağaza ve bayi hediyesi
             siparişleriniz için logo uygulaması ve toplam teklifi netleştirin.
@@ -186,19 +187,17 @@ export default function Page() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-duvar-saatleri-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src="/category-heroes/clean/promosyon-duvar-saati-ds-100-v2-clean.webp" alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
       <DuvarSaatiProductGrid products={list} />
@@ -209,9 +208,9 @@ export default function Page() {
       )}
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Logo Baskılı Duvar Saati Nasıl Seçilir?</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Logo Baskılı Duvar Saati Nasıl Seçilir?</h2>
             <p>
               Ofis, mağaza, showroom veya bayi hediyesi için saat seçerken
               kullanılacak duvarın alanını, izleme mesafesini ve ortam ışığını
@@ -228,11 +227,11 @@ export default function Page() {
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Duvar Saati Modellerinden Örnekler</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Duvar Saati Modellerinden Örnekler</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Seçili duvar saatlerinin belirtilen ölçü, kasa ve kadran farkları</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model</th>
                     <th scope="col" className="px-4 py-3">Ölçü</th>
@@ -252,7 +251,7 @@ export default function Page() {
                     ["DS-470 / DS-490", "42,5 x 30,5 cm", "Ay-yıldız / yıldız figürlü; plastik kasa"],
                   ].map(([model, size, detail]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{size}</td>
                       <td className="px-4 py-4">{detail}</td>
                     </tr>
@@ -260,15 +259,15 @@ export default function Page() {
                 </tbody>
               </table>
             </div>
-            <p className="mt-4 max-w-4xl text-sm leading-6 text-gray-200">
+            <p className="mt-4 max-w-4xl text-sm leading-6 text-gray-600">
               Tablo seçili modelleri karşılaştırır; bütün seçenekler ürün
               listesinde yer alır. Aynı çapta saatlerin kasa, kadran ve
               uygulama seçenekleri farklı olabilir.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Metal, ABS ve Metalize Plastik Kasa Farkları</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Metal, ABS ve Metalize Plastik Kasa Farkları</h2>
             <p>
               DS-100 ve DS-110 alüminyum; DS-200, DS-210 ve DS-220 paslanmaz
               metal kasa olarak belirtilir. DS-180, DS-250, DS-260, DS-500
@@ -283,8 +282,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Kasa Çapı, Kadran ve Logo Alanı</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Kasa Çapı, Kadran ve Logo Alanı</h2>
             <p>
               Kasanın dış ölçüsü ile görünen kadran aynı alan değildir.
               DS-115 için 370 mm kasa ve 308 mm kadran; DS-136 için 380 mm
@@ -305,8 +304,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Mekanizma, Cam ve Teslim Kapsamı</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Mekanizma, Cam ve Teslim Kapsamı</h2>
             <p>
               Modellerin ürün bilgilerinde akar saniye mekanizma belirtilir.
               Bu ifade tek başına tamamen sessiz çalışma garantisi değildir;
@@ -327,8 +326,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Duvar Saati Fiyatlarını Karşılaştırırken</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon Duvar Saati Fiyatlarını Karşılaştırırken</h2>
             <p>
               Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV
               ayrıca belirtilir. Fiyatı bulunmayan modeller için güncel teklif
@@ -348,36 +347,36 @@ export default function Page() {
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toplu Duvar Saati Sipariş Adımları</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toplu Duvar Saati Sipariş Adımları</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Kullanım alanını, model kodunu ve adedi belirtin.</li>
               <li>Ölçü, kasa rengi, kadran ve mekanizma beklentinizi teyit edin.</li>
               <li>Logo dosyanızı, ek yazıları ve özel tasarım talebini paylaşın.</li>
               <li>Ambalajı, dağıtım adreslerini ve ihtiyaç tarihini bildirin.</li>
               <li>Stok, kadran yerleşimi, toplam bedel ve teslim süresini netleştirin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Kurumsal dağıtımı{" "}
-              <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">kalem</Link>,{" "}
-              <Link href="/promosyon-anahtarlik" className="font-semibold text-white underline underline-offset-4">anahtarlık</Link>,{" "}
-              <Link href="/promosyon-termos" className="font-semibold text-white underline underline-offset-4">termos</Link>{" "}
+              <Link href="/promosyon-kalem" className="font-semibold text-black underline underline-offset-4">kalem</Link>,{" "}
+              <Link href="/promosyon-anahtarlik" className="font-semibold text-black underline underline-offset-4">anahtarlık</Link>,{" "}
+              <Link href="/promosyon-termos" className="font-semibold text-black underline underline-offset-4">termos</Link>{" "}
               veya{" "}
-              <Link href="/promosyon-ajanda" className="font-semibold text-white underline underline-offset-4">ajanda</Link>{" "}
+              <Link href="/promosyon-ajanda" className="font-semibold text-black underline underline-offset-4">ajanda</Link>{" "}
               modelleriyle tamamlayabilirsiniz. Ek ürünleri ve paketleme
               taleplerini teklif kapsamına ayrıca ekletin.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Duvar Saati İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Duvar Saatleri Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">Duvar Saatleri Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-6 space-y-4">
               {faqItems.map((item) => (
-                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                <div key={item.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                  <h3 className="text-lg font-semibold text-black">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{item.answer}</p>
                 </div>
               ))}
             </div>
@@ -387,8 +386,8 @@ export default function Page() {
       <section aria-labelledby="duvar-saati-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="duvar-saati-rehberi-baslik" className="text-xl font-bold !text-black">Duvar Saati Seçimini ve Kadran Baskısını Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Çap, kadran, kasa ve mekanizmayı kullanım alanıyla birlikte değerlendirin; logo yerleşimi ve şubelere dağıtım kapsamını netleştirin.</p>
-        <Link href="/rehber/promosyon-duvar-saati-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Duvar Saati Seçim ve Baskı Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-duvar-saati-secim-ve-baski-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-duvar-saati-secim-ve-baski-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Duvar Saati Seçim ve Baskı Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Promosyon duvar saatlerini kullanım alanı, çap, kadran, kasa ve mekanizmayla değerlendirin. Logo yerleşimi, numune ve şubelere dağıtım kapsamını planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

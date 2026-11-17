@@ -1,3 +1,4 @@
+import FpCategoryCatalog from "../_components/FpCategoryCatalog";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -27,7 +28,7 @@ function JsonLd({ data }: { data: Record<string, unknown> }) {
 export default function Page() {
  const list = sortProductsByCode(visibleProducts.filter(p => p.category === CATEGORY && is500mlThermos(p)));
  return (
-  <div className="mx-auto max-w-6xl px-4 py-10">
+  <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
    <JsonLd data={{ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [
     { "@type": "ListItem", position: 1, name: "Ana Sayfa", item: `${SITE_URL}/` },
     { "@type": "ListItem", position: 2, name: "Promosyon Termos", item: `${SITE_URL}/promosyon-termos` },
@@ -35,51 +36,44 @@ export default function Page() {
    ] }} />
    <JsonLd data={{ "@context": "https://schema.org", "@type": "CollectionPage", name: "500 ml Promosyon Termos", description, url: PAGE_URL, mainEntity: { "@type": "ItemList", numberOfItems: list.length, itemListElement: list.map((p, i) => ({ "@type": "ListItem", position: i + 1, name: p.title, url: `${SITE_URL}/urunler/${p.slug}` })) } }} />
    <JsonLd data={{ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqItems.map(f => ({ "@type": "Question", name: f.question, acceptedAnswer: { "@type": "Answer", text: f.answer } })) }} />
-   <section className="mb-8 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-    <nav aria-label="Sayfa yolu" className="mb-5 text-sm text-gray-200"><Link href="/" className="underline">Ana Sayfa</Link> / <Link href="/promosyon-termos" className="underline">Promosyon Termos</Link> / 500 ml Termos</nav>
-    <h1 className="text-3xl font-extrabold text-white md:text-4xl">Logo Baskılı 500 ml Promosyon Termos Modelleri</h1>
-    <p className="mt-3 max-w-3xl leading-7 text-gray-200">500 ml termosları kapak, gövde ve kullanım özelliklerine göre karşılaştırın. Bambu TK-111, dijital göstergeli TK-196, rubber gövdeli TK-270 ve French press TK-310 gibi seçenekleri inceleyin; logo baskılı sipariş için model kodu ve adetle teklif alın.</p>
-    <div className="mt-5 flex flex-wrap gap-3"><Link href="/kurumsal-teklif-al" className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black">Baskılı Sipariş İçin Teklif Al</Link><Link href="/promosyon-termos" className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white">Tüm Termos Modelleri</Link></div>
-   </section>
-   <p className="mb-4 text-sm font-medium !text-white">{list.length} 500 ml termos modeli gösteriliyor</p>
-      <section aria-label="500 ml termos ürün listesi" className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {list.map(p => <Link key={p.id} href={`/urunler/${p.slug}`} className="rounded-2xl border border-gray-200 !bg-white p-4 shadow-sm transition hover:shadow-md">
-          <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white"><Image src={p.image} alt={p.title} fill unoptimized loading="lazy" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-contain p-4" /></div>
-          <div className="mt-4"><p className="text-xs font-semibold uppercase tracking-wide !text-gray-500">Termos</p><h2 className="mt-1 text-lg font-bold leading-7 !text-black">{p.title}</h2><p className="mt-2 line-clamp-3 text-sm leading-6 !text-gray-700">{p.shortDesc}</p>
-            <p className="mt-3 text-base font-bold !text-black">{typeof p.price === "number" && p.price > 0 ? `${p.price.toLocaleString("tr-TR")} TL + KDV` : "Fiyat için teklif alın"}</p>
-            <p className="mt-1 text-xs leading-5 !text-green-600">Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.</p><span className="mt-4 inline-block rounded-full !bg-black px-5 py-2 text-sm font-semibold !text-white">Ürünü İncele</span>
-          </div></Link>)}
-      </section>
-      <section className="mt-12 space-y-5 rounded-3xl bg-black px-6 py-8 text-gray-200 md:px-8">
-        <h2 className="text-2xl font-bold text-white">Aynı Kapasitede Farklı Termos Özelliklerini Karşılaştırın</h2>
+   <section className="mb-8 rounded-2xl bg-gray-50 px-6 py-6 text-black md:px-8 md:py-6 border border-gray-200">
+    <nav aria-label="Sayfa yolu" className="mb-5 text-sm text-gray-600"><Link href="/" className="underline">Ana Sayfa</Link> / <Link href="/promosyon-termos" className="underline">Promosyon Termos</Link> / 500 ml Termos</nav><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+    <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">Logo Baskılı 500 ml Promosyon Termos Modelleri</h1>
+    <p className="mt-3 max-w-3xl leading-7 text-gray-600">500 ml termosları kapak, gövde ve kullanım özelliklerine göre karşılaştırın. Bambu TK-111, dijital göstergeli TK-196, rubber gövdeli TK-270 ve French press TK-310 gibi seçenekleri inceleyin; logo baskılı sipariş için model kodu ve adetle teklif alın.</p>
+    <div className="mt-5 flex flex-wrap gap-3"><Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">Baskılı Sipariş İçin Teklif Al</Link><Link href="/promosyon-termos" className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black">Tüm Termos Modelleri</Link></div>
+   </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src={list[0].image} alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></section>
+
+      <FpCategoryCatalog anchorId="promosyon-500-ml-termos-modelleri" showPrices={true} products={list.map(p => ({id:p.id,slug:p.slug,title:p.title,image:p.image,category:p.category,shortDesc:p.shortDesc,price:p.price,priceNote:"Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın."}))} />
+      <section className="mt-12 space-y-5 rounded-2xl bg-gray-50 px-6 py-8 text-gray-600 md:px-8 border border-gray-200">
+        <h2 className="text-2xl font-bold text-black">Aynı Kapasitede Farklı Termos Özelliklerini Karşılaştırın</h2>
         <p>500 ml kapasite ürünleri aynı depolama hacmi etrafında toplar; gövde, kapak veya yalıtım özelliklerinin aynı olduğu anlamına gelmez. Ofis masasında kullanılacak bir ürünle günlük taşımaya ayrılacak termosu seçerken tutuş, dış ölçü ve kullanım talimatını birlikte değerlendirin.</p>
-        <div className="overflow-x-auto"><table className="w-full min-w-[480px] text-left text-sm"><caption className="sr-only">500 ml termos modellerinde seçim noktaları</caption><thead><tr><th scope="col" className="p-3 text-white">Model</th><th scope="col" className="p-3 text-white">Karşılaştırılacak özellik</th></tr></thead><tbody>{[
+        <div className="overflow-x-auto"><table className="w-full min-w-[480px] text-left text-sm"><caption className="sr-only">500 ml termos modellerinde seçim noktaları</caption><thead><tr><th scope="col" className="p-3 text-black">Model</th><th scope="col" className="p-3 text-black">Karşılaştırılacak özellik</th></tr></thead><tbody>{[
          ["TK-100, TK-110, TK-205, TK-265, TK-290, TK-300", "500 ml kapasite; kapak, ölçü ve gövde bilgileri ürün bazında incelenmeli"],
          ["TK-111", "Bambu tasarım"], ["TK-135", "Çelik 3’lü termos seti"], ["TK-196", "Dijital ısı göstergesi ve süzgeç"], ["TK-230", "Devrilmez termos modeli"], ["TK-270", "Rubber gövde"], ["TK-310", "French press kahve termosu"],
-        ].map(([code, feature]) => <tr key={code} className="border-t border-white/15"><th scope="row" className="p-3 font-semibold text-white">{code}</th><td className="p-3">{feature}</td></tr>)}</tbody></table></div>
-        <h3 className="text-xl font-bold text-white">Kapasiteyi Dış Ölçü ve Taşıma Biçiminden Ayırın</h3>
+        ].map(([code, feature]) => <tr key={code} className="border-t border-gray-200"><th scope="row" className="p-3 font-semibold text-black">{code}</th><td className="p-3">{feature}</td></tr>)}</tbody></table></div>
+        <h3 className="text-xl font-bold text-black">Kapasiteyi Dış Ölçü ve Taşıma Biçiminden Ayırın</h3>
         <p>500 ml iç hacim, bütün modellerin aynı boyda veya ağırlıkta olduğunu göstermez. Çantada taşıma planlanıyorsa ürünün kapak ve taşıma talimatını; araçta kullanılacaksa taban ölçüsünün bardaklıkla uyumunu kontrol edin. Kilit veya devrilmezlik tanımı tek başına tam sızdırmazlık garantisi olarak kabul edilmemelidir.</p>
-        <h3 className="text-xl font-bold text-white">Bambu ve Rubber Gövde Seçenekleri</h3>
+        <h3 className="text-xl font-bold text-black">Bambu ve Rubber Gövde Seçenekleri</h3>
         <p>TK-111 bambu tasarımıyla, TK-270 rubber gövdesiyle listelenir. Malzeme görünümü seçimi, logo uygulanabilecek yüzeyden ayrı değerlendirilmelidir. Bambu detayın konumunu veya rubber kaplamanın baskıyla uyumunu model bazında kontrol edin; tek bir yöntemin her gövdeye uygulanabileceğini varsaymayın.</p>
-        <h3 className="text-xl font-bold text-white">Gösterge, Süzgeç ve French Press İşlevi</h3>
+        <h3 className="text-xl font-bold text-black">Gösterge, Süzgeç ve French Press İşlevi</h3>
         <p>TK-196 dijital ısı göstergeli süzgeçli model, TK-310 ise French press kahve termosu olarak tanımlanır. Süzgeç bulunması ile kahve demleme mekanizması aynı işlev değildir. Kahve hazırlama ihtiyacı varsa parçaların kullanım ve temizlik biçimini inceleyin. Dijital göstergeyi de içeceği ısıtan bir sistem olarak değerlendirmeyin.</p>
-        <h3 className="text-xl font-bold text-white">500 ml Termos Setinin Kapsamı</h3>
+        <h3 className="text-xl font-bold text-black">500 ml Termos Setinin Kapsamı</h3>
         <p>TK-135, 500 ml termos içeren çelik 3’lü set olarak sunulur. Hediye paketinde hangi parçaların bulunduğunu, kutu kapsamını ve her parçanın logo alanını teklif aşamasında netleştirin. Set ürününü tek termosla karşılaştırırken fiyatın içerdiği parçaları ve uygulamaları dikkate alın.</p>
-        <h3 className="text-xl font-bold text-white">Logo ve Baskı Bedelini Nasıl Planlamalısınız?</h3>
+        <h3 className="text-xl font-bold text-black">Logo ve Baskı Bedelini Nasıl Planlamalısınız?</h3>
         <p>Ürün kartlarında tutarlar baskı hariç TL + KDV olarak gösterilir. Lazer kazıma veya renkli logo uygulamasının uygunluğu gövde kaplamasına ve modele bağlıdır. Logo dosyanızı, tek veya çift yön tercihinizi ve varsa ek yazıları paylaşın; kavisli yüzeyde gerçek baskı ölçüsünü tasarım onayında değerlendirin.</p>
         <p>Ürün kodu, toplam adet, renk dağılımı ve teslimat iliyle teklif isteyin. Farklı modelleri aynı adet ve baskı kapsamıyla karşılaştırmak toplam maliyeti değerlendirmeyi kolaylaştırır. Kutu veya ek paketleme isteniyorsa bunu ayrıca belirtin.</p>
-        <h3 className="text-xl font-bold text-white">Isı Koruma ve Teslimat Bilgilerini Teyit Edin</h3>
+        <h3 className="text-xl font-bold text-black">Isı Koruma ve Teslimat Bilgilerini Teyit Edin</h3>
         <p>Isı koruma süresi kapasiteye bakılarak tahmin edilmemelidir. Seçilen modelin teknik bilgisini esas alın; doluluk, ortam ve kapağın açılmasının sonucu etkileyebileceğini dikkate alın. Güncel tedarik durumu ile tasarım onayı da teslim planında birlikte değerlendirilir. Etkinlik tarihinizi teklif talebinde baştan paylaşın.</p>
-        <p>Diğer kapasite ve işlevler için <Link href="/promosyon-termos" className="font-semibold text-white underline">tüm promosyon termos modellerini</Link> inceleyebilirsiniz. Cam veya plastik su mataraları için <Link href="/promosyon-matara" className="font-semibold text-white underline">matara kategorisine</Link> geçebilirsiniz.</p>
+        <p>Diğer kapasite ve işlevler için <Link href="/promosyon-termos" className="font-semibold text-black underline">tüm promosyon termos modellerini</Link> inceleyebilirsiniz. Cam veya plastik su mataraları için <Link href="/promosyon-matara" className="font-semibold text-black underline">matara kategorisine</Link> geçebilirsiniz.</p>
       </section>
-      <section className="mt-10 rounded-3xl bg-black px-6 py-8 text-white"><h2 className="text-2xl font-bold text-white">500 ml Termos Hakkında Sık Sorulan Sorular</h2><div className="mt-6 space-y-5">{faqItems.map(f => <div key={f.question}><h3 className="text-lg font-semibold text-white">{f.question}</h3><p className="mt-2 text-sm leading-6 text-gray-200">{f.answer}</p></div>)}</div></section>
+      <section className="mt-10 rounded-2xl bg-gray-50 px-6 py-8 text-black border border-gray-200"><h2 className="text-2xl font-bold text-black">500 ml Termos Hakkında Sık Sorulan Sorular</h2><div className="mt-6 space-y-5">{faqItems.map(f => <div key={f.question}><h3 className="text-lg font-semibold text-black">{f.question}</h3><p className="mt-2 text-sm leading-6 text-gray-600">{f.answer}</p></div>)}</div></section>
       <section aria-labelledby="promosyon-500-ml-termos-rehber-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="promosyon-500-ml-termos-rehber-baslik" className="text-xl font-bold !text-black">500 ml Termos Seçimini Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Kapasiteyi kapak yapısı, taşıma ihtiyacı ve logo alanıyla birlikte değerlendirmek için termos seçim rehberini inceleyin.</p>
-        <div className="mt-4 flex flex-wrap gap-x-6 gap-y-3">
-          <Link href="/rehber/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir" className="font-semibold !text-black underline underline-offset-4">Termos Seçim ve Baskı Rehberini İncele →</Link>
+        <div className="mt-5 grid gap-4 md:grid-cols-2">
+          <Link href="/rehber/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-termos-rehberi-logolu-celik-mug-ve-kahve-termosu-modelleri-nasil-secilir-kapak-20261115.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Termos Seçim ve Baskı Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Promosyon termos seçerken çelik termos, mug termos, kahve termosu, baskı teknikleri, kullanım alanları ve kurumsal hediye avantajları hakkında detaylı rehber.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
         </div>
       </section>
-    </div>
+    </div></div>
   );
 }

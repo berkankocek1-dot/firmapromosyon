@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import AjandaProductGrid from "./AjandaProductGrid";
 import type { Metadata } from "next";
@@ -117,7 +118,7 @@ export default function PromosyonAjandaPage() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -176,25 +177,25 @@ export default function PromosyonAjandaPage() {
         }}
       />
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">Promosyon Ajanda</span>
+          <span className="font-semibold text-black">Promosyon Ajanda</span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Logo Baskılı Promosyon Ajanda Modelleri
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Çalışanlarınız, müşterileriniz ve bayileriniz için ajanda modellerini
             ebat, kapak ve iç sayfa düzenine göre karşılaştırın. Firma logolu
             toplu sipariş için model kodu, adet ve baskı tercihinizle teklif isteyin;
@@ -204,35 +205,35 @@ export default function PromosyonAjandaPage() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="inline-flex items-center justify-center rounded-xl bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
               href="/urunler?kategori=Ajanda"
-              className="inline-flex items-center justify-center rounded-xl border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
+              className="inline-flex items-center justify-center rounded-xl border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
             >
               Ürünlerde Filtrele
             </Link>
           </div>
-        </header>
+        </div>{filtered[0] && <div className="relative hidden h-52 w-full lg:block"><Image src={filtered[0].image} alt={filtered[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
       <AjandaProductGrid products={filtered} />
 
       {filtered.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Kurumsal Ajanda Seçiminde İç Düzen ve Kapak</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Kurumsal Ajanda Seçiminde İç Düzen ve Kapak</h2>
             <p>Ajandayı günlük randevu takibi, haftalık planlama veya toplantı notları için mi kullanacağınızı belirleyerek başlayın. Kapak görselinin yanında ürün detaylarında belirtilen iç düzeni, ebatları ve cilt yapısını da inceleyin. Belirtilmeyen özellikleri teklif aşamasında teyit edebilirsiniz.</p>
             <div className="overflow-x-auto">
               <table className="w-full min-w-[560px] border-collapse text-left text-sm">
                 <caption className="sr-only">Promosyon ajanda seçiminde özellik ve kontrol tablosu</caption>
-                <thead className="text-white"><tr>
-                  <th scope="col" className="border-b border-white/20 p-3">Özellik</th>
-                  <th scope="col" className="border-b border-white/20 p-3">Seçim açısından önemi</th>
-                  <th scope="col" className="border-b border-white/20 p-3">Kontrol edilecek bilgi</th>
+                <thead className="text-black"><tr>
+                  <th scope="col" className="border-b border-gray-200 p-3">Özellik</th>
+                  <th scope="col" className="border-b border-gray-200 p-3">Seçim açısından önemi</th>
+                  <th scope="col" className="border-b border-gray-200 p-3">Kontrol edilecek bilgi</th>
                 </tr></thead>
                 <tbody>
                   {[
@@ -243,9 +244,9 @@ export default function PromosyonAjandaPage() {
                     ["Cilt ve aksesuarlar", "Günlük kullanım biçimi", "Ciltli veya spiralli yapı; varsa lastik, cep ve kalem tutucu"],
                   ].map(([feature, purpose, check]) => (
                     <tr key={feature}>
-                      <th scope="row" className="border-b border-white/10 p-3 font-semibold text-white">{feature}</th>
-                      <td className="border-b border-white/10 p-3">{purpose}</td>
-                      <td className="border-b border-white/10 p-3">{check}</td>
+                      <th scope="row" className="border-b border-gray-200 p-3 font-semibold text-black">{feature}</th>
+                      <td className="border-b border-gray-200 p-3">{purpose}</td>
+                      <td className="border-b border-gray-200 p-3">{check}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -254,34 +255,34 @@ export default function PromosyonAjandaPage() {
             <p>Günlük veya haftalık düzenin, bir aksesuarın ya da belirli bir kapak türünün tüm modellerde bulunduğunu varsaymayın. Aynı dış tasarıma sahip ürünlerde bile iç sayfa ve takvim bilgisi ayrıca kontrol edilmelidir.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Yeni Yıl Ajanda Siparişini Nasıl Planlamalısınız?</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Yeni Yıl Ajanda Siparişini Nasıl Planlamalısınız?</h2>
             <p>Tarihli ajandalarda teslim tarihi kadar kullanılacak takvim yılı da önemlidir. Ürün fotoğrafındaki yıl bilgisini esas almak yerine sipariş edeceğiniz modelin iç takvimini ve güncel stok bilgisini teyit edin.</p>
             <p>Dağıtım listesini çalışan, müşteri ve bayi gruplarına göre hazırlayarak toplam adedi belirleyebilirsiniz. Farklı kapak renkleri veya farklı logolar kullanılacaksa her grubun adetlerini ayrı paylaşın. Baskı ve varsa paketleme için gereken süreyi teslim planına dahil edin.</p>
-            <p>Belirli bir takvim yılına bağlı olmayan not alma ürünü arıyorsanız <Link href="/promosyon-defter" className="font-semibold text-white underline underline-offset-4">tarihsiz promosyon defter modellerini</Link> de inceleyebilirsiniz.</p>
+            <p>Belirli bir takvim yılına bağlı olmayan not alma ürünü arıyorsanız <Link href="/promosyon-defter" className="font-semibold text-black underline underline-offset-4">tarihsiz promosyon defter modellerini</Link> de inceleyebilirsiniz.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Ajanda Fiyatlarını Etkileyen Detaylar</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon Ajanda Fiyatlarını Etkileyen Detaylar</h2>
             <p>Ajanda fiyatlarını karşılaştırırken ürünlerin ebat, kapak malzemesi, iç sayfa düzeni ve cilt özelliklerinin aynı olup olmadığına bakın. Toptan siparişin kapsamı, yalnızca kapak üzerindeki model görünümünden anlaşılamaz.</p>
             <ul className="list-disc space-y-2 pl-5">
-              <li><strong className="text-white">Ürün bedeli:</strong> Model, ebat, kapak, iç sayfalar ve sipariş adedi.</li>
-              <li><strong className="text-white">Logo uygulaması:</strong> Teknik, baskı ölçüsü, renkler ve uygulama yapılacak yüzeyler.</li>
-              <li><strong className="text-white">Ek ürünler:</strong> Varsa kalem, kutu ve paketleme seçenekleri.</li>
-              <li><strong className="text-white">Teklif toplamı:</strong> Ürün ve baskı bedelleri ile KDV kapsamı.</li>
+              <li><strong className="text-black">Ürün bedeli:</strong> Model, ebat, kapak, iç sayfalar ve sipariş adedi.</li>
+              <li><strong className="text-black">Logo uygulaması:</strong> Teknik, baskı ölçüsü, renkler ve uygulama yapılacak yüzeyler.</li>
+              <li><strong className="text-black">Ek ürünler:</strong> Varsa kalem, kutu ve paketleme seçenekleri.</li>
+              <li><strong className="text-black">Teklif toplamı:</strong> Ürün ve baskı bedelleri ile KDV kapsamı.</li>
             </ul>
             <p>Ürün kartındaki fiyat açıklamasını esas alın; baskı hariç gösterilen fiyatı logolu siparişin toplam bedeli olarak değerlendirmeyin. Fiyatı bulunmayan modeller için güncel stok ve fiyat bilgisi isteyebilirsiniz.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Ajanda Kapağına Firma Logosu Uygulaması</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Ajanda Kapağına Firma Logosu Uygulaması</h2>
             <p>Sıcak baskı, serigraf veya UV gibi yöntemler kapak yüzeyine ve logo tasarımına göre değerlendirilir. Lazer uygulaması da yalnızca buna uygun yüzey veya detay bulunan modellerde ele alınmalıdır. Her tekniğin her kapakta uygulanabildiğini varsaymayın.</p>
             <p>Kapaktaki lastik, dikiş, cep ve varsa metal detayları dikkate alarak logo konumunu seçin. İnce yazıların okunurluğunu, kapak rengiyle kontrastı ve uygulanabilir baskı ölçüsünü sipariş öncesinde netleştirin.</p>
             <p>Teklif talebinde mümkünse vektörel logo dosyanızı paylaşın. Kapakta firma adının yanında slogan veya iletişim bilgisi de yer alacaksa tasarımın tamamını ileterek yerleşim ve onay sürecini belirleyin.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Toplu Logo Baskılı Ajanda İçin Teklif Alın</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Toplu Logo Baskılı Ajanda İçin Teklif Alın</h2>
             <p>Teklifin ihtiyacınıza göre hazırlanabilmesi için şu bilgileri paylaşabilirsiniz:</p>
             <ol className="list-decimal space-y-2 pl-5">
               <li>Model kodu, ebat, kapak rengi ve tercih ettiğiniz iç sayfa düzeni.</li>
@@ -290,12 +291,12 @@ export default function PromosyonAjandaPage() {
               <li>Varsa kalem veya kutu isteği, teslimat ili ve hedef teslim tarihi.</li>
             </ol>
             <p>Minimum adet ve hazırlık süresi seçilen modelin stok durumuna ve baskı planına göre değişir. Kurumsal dağıtım tarihini baştan paylaşarak ürün, baskı onayı ve teslimat adımlarını birlikte planlayın.</p>
-            <Link href="/kurumsal-teklif-al" className="inline-flex rounded-full bg-white px-5 py-3 text-sm font-semibold text-black hover:opacity-90">Logolu Ajanda İçin Teklif Al</Link>
-            <p>Ajandanın yanında sunmak için <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">logo baskılı kalem</Link> veya <Link href="/promosyon-kalem-setleri" className="font-semibold text-white underline underline-offset-4">kalem seti modellerini</Link> değerlendirebilirsiniz. Kutunun ve ek ürünlerin teklif kapsamına dahil olup olmadığını ayrıca teyit edin.</p>
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">Logolu Ajanda İçin Teklif Al</Link>
+            <p>Ajandanın yanında sunmak için <Link href="/promosyon-kalem" className="font-semibold text-black underline underline-offset-4">logo baskılı kalem</Link> veya <Link href="/promosyon-kalem-setleri" className="font-semibold text-black underline underline-offset-4">kalem seti modellerini</Link> değerlendirebilirsiniz. Kutunun ve ek ürünlerin teklif kapsamına dahil olup olmadığını ayrıca teyit edin.</p>
           </section>
 
           <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
+            <h2 className="text-2xl font-bold text-black">
               Promosyon Ajanda Hakkında Sık Sorulan Sorular
             </h2>
 
@@ -303,12 +304,12 @@ export default function PromosyonAjandaPage() {
               {faqItems.map((item) => (
                 <div
                   key={item.question}
-                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                  className="rounded-2xl border border-gray-200 bg-white p-5"
                 >
-                  <h3 className="text-lg font-semibold text-white">
+                  <h3 className="text-lg font-semibold text-black">
                     {item.question}
                   </h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                  <p className="mt-2 text-sm leading-6 text-gray-600">
                     {item.answer}
                   </p>
                 </div>
@@ -319,14 +320,14 @@ export default function PromosyonAjandaPage() {
       )}
       <section aria-label="Ajanda alt kategorileri" className="mt-10 rounded-2xl bg-white p-6">
         <h2 className="text-xl font-bold !text-black">Ajandaları Cilt Yapısına Göre İnceleyin</h2>
-        <Link href="/promosyon-spiralli-ajanda" className="mt-3 block font-semibold !text-black underline underline-offset-4">Spiralli Ajanda Modellerini İncele →</Link>
-        <Link href="/promosyon-termo-pu-ajanda" className="mt-3 block font-semibold !text-black underline underline-offset-4">Termo PU Ajanda Modellerini İncele →</Link>
+        <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3"><Link href="/promosyon-spiralli-ajanda" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Spiralli Ajanda Modellerini İncele →</Link>
+        <Link href="/promosyon-termo-pu-ajanda" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Termo PU Ajanda Modellerini İncele →</Link></div>
       </section>
       <section aria-labelledby="defter-ajanda-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="defter-ajanda-secim-rehberi-baslik" className="text-xl font-bold !text-black">Defter ve Ajanda Seçimini Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Boyut, iç sayfa, kapak ve cilt seçeneklerini karşılaştırın; takvim yılı, logo ve toplu sipariş onayını birlikte değerlendirin.</p>
-        <Link href="/rehber/promosyon-defter-ajanda-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Defter ve Ajanda Seçim Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-defter-ajanda-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-defter-ajanda-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Defter ve Ajanda Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Promosyon defter ve ajandayı kullanım amacı, boyut, iç sayfa, kapak ve cilt yapısıyla karşılaştırın. Takvim yılı, logo, numune ve toplu sipariş onayını planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { products } from "@/data/products";
@@ -111,7 +112,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -170,24 +171,24 @@ export default function Page() {
         }}
       />
 
-   <section className="mb-8 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-  <nav className="mb-5 text-sm text-gray-300">
-    <Link href="/" className="hover:text-white hover:underline">
+   <section className="mb-8 rounded-2xl bg-gray-50 px-6 py-6 text-black md:px-8 md:py-6 border border-gray-200">
+  <nav className="mb-5 text-sm text-gray-600">
+    <Link href="/" className="hover:text-black hover:underline">
       Ana Sayfa
     </Link>
     <span className="px-2">/</span>
-    <Link href="/urunler" className="hover:text-white hover:underline">
+    <Link href="/urunler" className="hover:text-black hover:underline">
       Ürünler
     </Link>
     <span className="px-2">/</span>
-    <span className="font-semibold text-white">Promosyon Çakmak</span>
-  </nav>
+    <span className="font-semibold text-black">Promosyon Çakmak</span>
+  </nav><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
 
-  <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+  <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
     Logo Baskılı Promosyon Çakmak Modelleri
   </h1>
 
-  <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+  <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
     İşletmeniz için taşlı, manyetolu ve turbo çakmak seçeneklerini gövde rengi,
     baskı alanı ve model özelliklerine göre karşılaştırın. Ürün fiyatları baskı
     hariçtir; logolu toplu sipariş için model kodu, adet ve baskı tercihinizle
@@ -197,34 +198,32 @@ export default function Page() {
   <div className="mt-5 flex flex-wrap gap-3">
     <Link
       href="/kurumsal-teklif-al"
-      className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+      className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
     >
       Kurumsal Teklif Al
     </Link>
 
     <Link
-      href="/urunler"
-      className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-    >
-      Tüm Ürünleri Gör
-    </Link>
+      href="#promosyon-cakmak-modelleri"
+      className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+    >Modelleri İncele</Link>
   </div>
-</section>
+</div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src="/category-heroes/clean/promosyon-tasli-cakmak-cm-100-v2-clean.webp" alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></section>
 
       <CakmakProductGrid products={list} />
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">İşletmeniz İçin Hangi Çakmak Modelini Seçmelisiniz?</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">İşletmeniz İçin Hangi Çakmak Modelini Seçmelisiniz?</h2>
             <p>Toplu çakmak siparişinde gövde rengi ve tasarımın yanında ateşleme türünü, baskı yapılabilecek alanı ve sipariş adedini değerlendirin. Ürün detaylarında belirtilen özellikleri esas alarak aynı ihtiyaca yönelik modelleri karşılaştırabilirsiniz.</p>
             <div className="overflow-x-auto">
               <table className="w-full min-w-[560px] border-collapse text-left text-sm">
                 <caption className="sr-only">Promosyon çakmak modelleri için seçim ve kontrol tablosu</caption>
-                <thead className="text-white"><tr>
-                  <th scope="col" className="border-b border-white/20 p-3">Model özelliği</th>
-                  <th scope="col" className="border-b border-white/20 p-3">Seçim sırasında değerlendirin</th>
-                  <th scope="col" className="border-b border-white/20 p-3">Sipariş öncesinde teyit edin</th>
+                <thead className="text-black"><tr>
+                  <th scope="col" className="border-b border-gray-200 p-3">Model özelliği</th>
+                  <th scope="col" className="border-b border-gray-200 p-3">Seçim sırasında değerlendirin</th>
+                  <th scope="col" className="border-b border-gray-200 p-3">Sipariş öncesinde teyit edin</th>
                 </tr></thead>
                 <tbody>
                   {[
@@ -234,9 +233,9 @@ export default function Page() {
                     ["Doldurulabilir", "Ürünü yeniden doldurma tercihi", "Seçilen modelde dolum özelliğinin bulunması"],
                   ].map(([feature, selection, check]) => (
                     <tr key={feature}>
-                      <th scope="row" className="border-b border-white/10 p-3 font-semibold text-white">{feature}</th>
-                      <td className="border-b border-white/10 p-3">{selection}</td>
-                      <td className="border-b border-white/10 p-3">{check}</td>
+                      <th scope="row" className="border-b border-gray-200 p-3 font-semibold text-black">{feature}</th>
+                      <td className="border-b border-gray-200 p-3">{selection}</td>
+                      <td className="border-b border-gray-200 p-3">{check}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -245,27 +244,27 @@ export default function Page() {
             <p>Bu özellikler aynı üründe bir arada bulunabilir. Doldurulabilirlik, ateşleme türünden ayrı bir özelliktir; yalnızca model adına veya görünümüne bakarak karar vermeyin. Stoktaki renkleri ve güncel ürün özelliklerini teklif aşamasında netleştirin.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Çakmak Fiyatları ve Baskı Bedeli</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon Çakmak Fiyatları ve Baskı Bedeli</h2>
             <p>Fiyat bulunan ürün kartlarında tutarlar TL + KDV olarak, baskı hariç gösterilir. Fiyatı bulunmayan modeller için güncel fiyat ve stok bilgisi isteyebilirsiniz. Logolu siparişin toplam maliyeti, ürün bedeli ile baskı uygulaması ve KDV birlikte değerlendirilerek hesaplanır.</p>
             <ul className="list-disc space-y-2 pl-5">
-              <li><strong className="text-white">Model ve adet:</strong> Seçtiğiniz ürün, gövde özellikleri ve sipariş miktarı.</li>
-              <li><strong className="text-white">Tek veya çift yön:</strong> Logonun bir yüzeye mi, iki yüzeye mi uygulanacağı.</li>
-              <li><strong className="text-white">Logo ve baskı:</strong> Tasarımın renk sayısı, boyutu ve yüzeye uygun uygulama yöntemi.</li>
-              <li><strong className="text-white">Ek talepler:</strong> Varsa farklı tasarımlar, renk dağılımı ve paketleme isteği.</li>
+              <li><strong className="text-black">Model ve adet:</strong> Seçtiğiniz ürün, gövde özellikleri ve sipariş miktarı.</li>
+              <li><strong className="text-black">Tek veya çift yön:</strong> Logonun bir yüzeye mi, iki yüzeye mi uygulanacağı.</li>
+              <li><strong className="text-black">Logo ve baskı:</strong> Tasarımın renk sayısı, boyutu ve yüzeye uygun uygulama yöntemi.</li>
+              <li><strong className="text-black">Ek talepler:</strong> Varsa farklı tasarımlar, renk dağılımı ve paketleme isteği.</li>
             </ul>
             <p>Teklifleri karşılaştırırken aynı model, adet, baskı yönü ve KDV kapsamını esas alın. Birden fazla adet için fiyat değerlendirmesi istiyorsanız alternatif miktarları da teklif talebinize ekleyin.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Logo Baskısında Renk ve Yerleşim Seçimi</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Logo Baskısında Renk ve Yerleşim Seçimi</h2>
             <p>Çakmağın baskı alanı sınırlı olduğu için logo, telefon numarası ve uzun bir sloganı aynı yüzeye yerleştirmek okunurluğu azaltabilir. Öncelikle hangi bilginin öne çıkmasını istediğinizi belirleyin; gerekiyorsa iletişim bilgisini ikinci yüzey için değerlendirin.</p>
             <p>Tampon veya UV gibi yöntemlerin uygunluğu, ürün yüzeyine ve logo tasarımına göre belirlenir. Gövde rengi ile logonun kontrastını, uygulanabilir baskı ölçüsünü ve ince çizgilerin okunurluğunu sipariş öncesinde kontrol edin. Mümkünse vektörel logo dosyanızı paylaşın.</p>
             <p>Farklı renklerde ürün sipariş edecekseniz aynı logonun her gövde üzerinde nasıl görüneceğini değerlendirin. Her rengin adet dağılımını ve baskının tek mi çift yön mü olacağını teklif aşamasında belirtin.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Toptan Baskılı Çakmak Siparişi Nasıl Verilir?</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Toptan Baskılı Çakmak Siparişi Nasıl Verilir?</h2>
             <p>Teklifin ihtiyacınıza göre hazırlanabilmesi için şu bilgileri paylaşabilirsiniz:</p>
             <ol className="list-decimal space-y-2 pl-5">
               <li>Tercih ettiğiniz model kodu ve gövde rengi.</li>
@@ -274,12 +273,12 @@ export default function Page() {
               <li>Teslimat ili ve ürünlerin gerekli olduğu tarih.</li>
             </ol>
             <p>Minimum adet ve hazırlık süresi modele, stok durumuna, baskı planına ve tasarım onayına bağlıdır. Açılış veya etkinlik için sipariş veriyorsanız hedef tarihi baştan paylaşarak teslim planını teyit edin.</p>
-            <Link href="/kurumsal-teklif-al" className="inline-flex rounded-full bg-white px-5 py-3 text-sm font-semibold text-black hover:opacity-90">Baskılı Çakmak İçin Teklif Al</Link>
-            <p>İşletmenizin diğer tanıtım ihtiyaçları için <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">logo baskılı kalem</Link> ve <Link href="/promosyon-anahtarlik" className="font-semibold text-white underline underline-offset-4">promosyon anahtarlık</Link> seçeneklerini inceleyebilirsiniz.</p>
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">Baskılı Çakmak İçin Teklif Al</Link>
+            <p>İşletmenizin diğer tanıtım ihtiyaçları için <Link href="/promosyon-kalem" className="font-semibold text-black underline underline-offset-4">logo baskılı kalem</Link> ve <Link href="/promosyon-anahtarlik" className="font-semibold text-black underline underline-offset-4">promosyon anahtarlık</Link> seçeneklerini inceleyebilirsiniz.</p>
           </section>
 
           <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
+            <h2 className="text-2xl font-bold text-black">
               Promosyon Çakmak Hakkında Sık Sorulan Sorular
             </h2>
 
@@ -287,12 +286,12 @@ export default function Page() {
               {faqItems.map((item) => (
                 <div
                   key={item.question}
-                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                  className="rounded-2xl border border-gray-200 bg-white p-5"
                 >
-                  <h3 className="text-lg font-semibold text-white">
+                  <h3 className="text-lg font-semibold text-black">
                     {item.question}
                   </h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                  <p className="mt-2 text-sm leading-6 text-gray-600">
                     {item.answer}
                   </p>
                 </div>
@@ -303,40 +302,22 @@ export default function Page() {
       )}
       <section aria-label="Çakmak alt kategorileri" className="mt-12 rounded-2xl border border-gray-200 !bg-white p-5">
         <h2 className="text-xl font-bold !text-black">Çakmak Türlerine Göre İnceleyin</h2>
-        <Link href="/promosyon-tasli-cakmak" className="mt-3 inline-block font-semibold !text-black underline underline-offset-4">Taşlı Çakmak Modellerini İncele →</Link>
-        <Link href="/promosyon-manyetolu-cakmak" className="mt-3 block font-semibold !text-black underline underline-offset-4">Manyetolu Çakmak Modellerini İncele →</Link>
-        <Link href="/promosyon-turbo-cakmak" className="mt-3 block font-semibold !text-black underline underline-offset-4">Turbo / Rüzgar Çakmak Modellerini İncele →</Link>
-        <Link href="/promosyon-doldurulabilir-cakmak" className="mt-3 block font-semibold !text-black underline underline-offset-4">Doldurulabilir Çakmak Modellerini İncele →</Link>
-        <Link href="/promosyon-mini-cakmak" className="mt-3 block font-semibold !text-black underline underline-offset-4">Mini Boy Çakmak Modellerini İncele →</Link>
+        <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3"><Link href="/promosyon-tasli-cakmak" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Taşlı Çakmak Modellerini İncele →</Link>
+        <Link href="/promosyon-manyetolu-cakmak" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Manyetolu Çakmak Modellerini İncele →</Link>
+        <Link href="/promosyon-turbo-cakmak" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Turbo / Rüzgar Çakmak Modellerini İncele →</Link>
+        <Link href="/promosyon-doldurulabilir-cakmak" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Doldurulabilir Çakmak Modellerini İncele →</Link>
+        <Link href="/promosyon-mini-cakmak" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Mini Boy Çakmak Modellerini İncele →</Link></div>
       </section>
       <section aria-labelledby="cakmak-siparis-rehberleri" className="mt-12 rounded-2xl border border-gray-200 !bg-white p-5">
         <h2 id="cakmak-siparis-rehberleri" className="text-xl font-bold !text-black">Çakmak Seçimi ve Sipariş Rehberleri</h2>
-        <div className="mt-5 grid gap-4 sm:grid-cols-2">
-          <Link
-            href="/rehber/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta"
-            className="rounded-2xl border border-gray-200 !bg-white p-5 transition hover:!bg-gray-50"
-          >
-            <h3 className="text-lg font-semibold !text-black">Çakmak Seçiminde 10 Kontrol Noktası</h3>
-            <p className="mt-2 text-sm leading-6 !text-gray-700">Model, numune, baskı onayı ve teslim planını adım adım değerlendirin.</p>
-          </Link>
+        <div className="mt-5 grid gap-4 md:grid-cols-2">
+          <Link href="/rehber/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-cakmak-alirken-dikkat-edilmesi-gereken-10-kritik-nokta-kapak-20261115.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Çakmak Seçiminde 10 Kontrol Noktası</h3><p className="mt-2 text-sm leading-6 text-white/90">Model, numune, baskı onayı ve teslim planını adım adım değerlendirin.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
 
-          <Link
-            href="/rehber/promosyon-cakmak-fiyatlari"
-            className="rounded-2xl border border-gray-200 !bg-white p-5 transition hover:!bg-gray-50"
-          >
-            <h3 className="text-lg font-semibold !text-black">Çakmak Fiyatları Nasıl Değerlendirilir?</h3>
-            <p className="mt-2 text-sm leading-6 !text-gray-700">Ürün, baskı ve varsa hazırlık bedellerini aynı kapsamda karşılaştırın.</p>
-          </Link>
+          <Link href="/rehber/promosyon-cakmak-fiyatlari" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-cakmak-fiyatlari-kapak-20261115.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Çakmak Fiyatları Nasıl Değerlendirilir?</h3><p className="mt-2 text-sm leading-6 text-white/90">Ürün, baskı ve varsa hazırlık bedellerini aynı kapsamda karşılaştırın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
 
-          <Link
-            href="/rehber/promosyon-cakmak-kullanim-alanlari"
-            className="rounded-2xl border border-gray-200 !bg-white p-5 transition hover:!bg-gray-50"
-          >
-            <h3 className="text-lg font-semibold !text-black">Çakmak Kullanım Alanları</h3>
-            <p className="mt-2 text-sm leading-6 !text-gray-700">Alıcı ihtiyacına göre müşteri ziyareti, bayi ve etkinlik dağıtımlarını değerlendirin.</p>
-          </Link>
+          <Link href="/rehber/promosyon-cakmak-kullanim-alanlari" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-cakmak-kullanim-alanlari-kapak-20261115.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Çakmak Kullanım Alanları</h3><p className="mt-2 text-sm leading-6 text-white/90">Alıcı ihtiyacına göre müşteri ziyareti, bayi ve etkinlik dağıtımlarını değerlendirin.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
         </div>
       </section>
-    </div>
+    </div></div>
   );
 }

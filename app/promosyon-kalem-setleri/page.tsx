@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import KalemSetiProductGrid from "./KalemSetiProductGrid";
 import type { Metadata } from "next";
@@ -103,7 +104,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -158,27 +159,27 @@ export default function Page() {
         }} />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">
+          <span className="font-semibold text-black">
             Promosyon Kalem Setleri
           </span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon Kalem Setleri
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Kutulu kalem, dolma kalem ve anahtarlıklı set modellerini inceleyin.
             Set içeriğini, yazım türünü ve kutu üzerindeki logo seçeneklerini
             karşılaştırarak kurumsal hediye siparişiniz için teklif alın.
@@ -187,27 +188,25 @@ export default function Page() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-kalem-setleri-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src={list[0].image} alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
       <KalemSetiProductGrid products={list} />
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Kurumsal Hediye İçin Hangi Kalem Seti Seçilmeli?</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Kurumsal Hediye İçin Hangi Kalem Seti Seçilmeli?</h2>
             <p>
               Bayi toplantısı, çalışan hediyesi veya müşteri ziyareti için set
               seçerken kalemin yazım türünü ve kutunun sunum biçimini birlikte
@@ -223,11 +222,11 @@ export default function Page() {
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Kalem Setlerini ve Kalem Kutularını Karşılaştırın</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Kalem Setlerini ve Kalem Kutularını Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Kalem seti grupları, kullanım örnekleri ve seçimde kontrol edilecek özellikler</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model grubu</th>
                     <th scope="col" className="px-4 py-3">Kullanım örneği</th>
@@ -242,7 +241,7 @@ export default function Page() {
                     ["Ayrı kalem kutusu", "Uyumlu bir kalemi kutulu sunmak", "Kalemin dahil olup olmadığı, kutu ölçüsü ve iç yuva"],
                   ].map(([model, usage, detail]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{usage}</td>
                       <td className="px-4 py-4">{detail}</td>
                     </tr>
@@ -252,8 +251,8 @@ export default function Page() {
             </div>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Yazım Türü, Refil ve Kutu Uyumu</h2>
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Yazım Türü, Refil ve Kutu Uyumu</h2>
             <p>
               Roller, tükenmez veya dolma kalem tercihini kullanıcı alışkanlığına
               göre yapın. Mürekkep rengi, uç ve refil bilgilerini seçilen modelden
@@ -269,26 +268,26 @@ export default function Page() {
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Kalem ve Kutuya Logo Uygulaması</h2>
+            <h2 className="text-2xl font-bold text-black">Kalem ve Kutuya Logo Uygulaması</h2>
             <div className="mt-5 grid gap-4 md:grid-cols-2">
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">Kalem üzerindeki logo</h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
+              <div className="rounded-2xl border border-gray-200 bg-white p-5">
+                <h3 className="text-lg font-semibold text-black">Kalem üzerindeki logo</h3>
+                <p className="mt-2 text-sm leading-6 text-gray-600">
                   Uygun yüzeylerde lazer veya modelin desteklediği başka bir
                   yöntem seçilebilir. Klips, gövde biçimi ve kaplama uygulama
                   alanını etkiler. Logoyu gerçek ölçüde değerlendirin.
                 </p>
               </div>
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">Kutu ve diğer parçalar</h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
+              <div className="rounded-2xl border border-gray-200 bg-white p-5">
+                <h3 className="text-lg font-semibold text-black">Kutu ve diğer parçalar</h3>
+                <p className="mt-2 text-sm leading-6 text-gray-600">
                   Uygun kutularda serigraf veya ürüne uygun başka bir uygulama
                   değerlendirilebilir. Varsa anahtarlık için de ayrı yöntem ve
                   alan belirlenir. Tüm parçaların baskısını teklif talebinde belirtin.
                 </p>
               </div>
             </div>
-            <p className="mt-5 max-w-4xl leading-7 text-gray-200">
+            <p className="mt-5 max-w-4xl leading-7 text-gray-600">
               Aynı logonun farklı yüzeylerdeki görünümü değişebilir. Mümkünse
               vektörel PDF, AI, EPS veya SVG paylaşın; kalem, kutu ve ek parçaların
               yerleşimini ayrı netleştirin. Kişiye özel isim talebiniz varsa
@@ -296,8 +295,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Kalem Seti Fiyatlarını Karşılaştırırken</h2>
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon Kalem Seti Fiyatlarını Karşılaştırırken</h2>
             <p>
               Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV ayrıca
               belirtilir. Teklifleri aynı ürün kodu, aynı set adedi ve aynı logo
@@ -317,36 +316,36 @@ export default function Page() {
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toptan Kalem Seti Siparişi İçin Gerekli Bilgiler</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toptan Kalem Seti Siparişi İçin Gerekli Bilgiler</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Ürün kodunu, set içeriğini, rengi ve istediğiniz set adedini belirtin.</li>
               <li>Logo dosyanızı ve uygulama istediğiniz parçaları paylaşın.</li>
               <li>Varsa isim listesi, kutulama ve ayrı paketleme talebini ekleyin.</li>
               <li>Etkinlik tarihinizi ve teslimat adresini bildirin.</li>
               <li>Stok, tasarım yerleşimi, toplam bedel ve teslim süresini teyit edin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Tekli ürünlerle karşılaştırma yapmak için{" "}
-              <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">promosyon kalem</Link>{" "}
+              <Link href="/promosyon-kalem" className="font-semibold text-black underline underline-offset-4">promosyon kalem</Link>{" "}
               ve{" "}
-              <Link href="/promosyon-anahtarlik" className="font-semibold text-white underline underline-offset-4">anahtarlık modellerini</Link>{" "}
+              <Link href="/promosyon-anahtarlik" className="font-semibold text-black underline underline-offset-4">anahtarlık modellerini</Link>{" "}
               inceleyebilirsiniz. Paketinizi{" "}
-              <Link href="/promosyon-defter" className="font-semibold text-white underline underline-offset-4">defter</Link>{" "}
+              <Link href="/promosyon-defter" className="font-semibold text-black underline underline-offset-4">defter</Link>{" "}
               ile tamamlamak istiyorsanız kutu uyumunu ve birlikte teslimat
               isteğinizi ayrıca belirtin.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Kalem Seti Siparişi İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Promosyon Kalem Setleri Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">Promosyon Kalem Setleri Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-6 space-y-4">
               {faqItems.map((item) => (
-                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                <div key={item.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                  <h3 className="text-lg font-semibold text-black">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{item.answer}</p>
                 </div>
               ))}
             </div>
@@ -356,8 +355,8 @@ export default function Page() {
       <section aria-labelledby="kalem-seti-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="kalem-seti-rehberi-baslik" className="text-xl font-bold !text-black">Kalem Setinin İçeriğini ve Markalamasını Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Yazım türü, kutu uyumu ve parça başına logo alanını karşılaştırın; isim uygulamasıyla set bazında teklif kapsamını netleştirin.</p>
-        <Link href="/rehber/promosyon-kalem-seti-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Kalem Seti Seçim ve Baskı Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-kalem-seti-secim-ve-baski-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-kalem-seti-secim-ve-baski-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Kalem Seti Seçim ve Baskı Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Kalem seti ile ayrı kalem kutusunu ayırın; yazım türü, kutu uyumu ve her parçanın logo alanını değerlendirin. İsim uygulaması ve set bazında teklif kapsamını planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

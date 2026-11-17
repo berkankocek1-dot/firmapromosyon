@@ -1,3 +1,4 @@
+import FpLegalPage from "../_components/FpLegalPage";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -11,12 +12,8 @@ export const metadata: Metadata = {
 
 export default function KVKKPage() {
   return (
-    <main className="mx-auto max-w-4xl px-4 py-16">
-      <h1 className="mb-6 text-3xl font-bold">
-        Kişisel Verilerin Korunması (KVKK) Aydınlatma Metni
-      </h1>
-
-      <p className="mb-4">
+    <FpLegalPage title="Kişisel Verilerin Korunması (KVKK) Aydınlatma Metni" href="/kvkk">
+<p className="mb-4">
         FirmaPromosyon olarak, 6698 sayılı Kişisel Verilerin Korunması Kanunu
         (“KVKK”) kapsamında veri sorumlusu sıfatıyla kişisel verilerinizi
         işlemekte ve korumaktayız.
@@ -68,6 +65,6 @@ export default function KVKKPage() {
       <p>
         Haklarınızı kullanmak için bizimle iletişime geçebilirsiniz.
       </p>
-    </main>
+    </FpLegalPage>
   );
 }

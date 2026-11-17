@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import OrganizerProductGrid from "./OrganizerProductGrid";
 import type { Metadata } from "next";
@@ -103,7 +104,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -158,27 +159,27 @@ export default function Page() {
         }} />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">
+          <span className="font-semibold text-black">
             Promosyon Organizerler
           </span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon Organizerler
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Termo deri, hesap makineli ve metal tokalı organizer modellerini
             inceleyin. Ölçü, iç sayfa düzeni, kapanış ve logo alanını
             karşılaştırarak kurumsal toplu siparişiniz için teklif alın.
@@ -187,27 +188,25 @@ export default function Page() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-organizerler-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src={list[0].image} alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
       <OrganizerProductGrid products={list} />
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Toplantı ve Ofis Kullanımı İçin Organizer Seçimi</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Toplantı ve Ofis Kullanımı İçin Organizer Seçimi</h2>
             <p>
               Organizer seçerken kapak görünümüyle birlikte not alma, taşıma ve
               günlük kullanım ihtiyacını değerlendirin. İç blok, kapanış ve
@@ -223,11 +222,11 @@ export default function Page() {
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Organizer Özelliklerini Karşılaştırın</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Organizer Özelliklerini Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Organizer özellikleri, kullanım ihtiyaçları ve kontrol edilecek ayrıntılar</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Özellik</th>
                     <th scope="col" className="px-4 py-3">Seçimdeki karşılığı</th>
@@ -242,7 +241,7 @@ export default function Page() {
                     ["Kapak ölçüsü ve malzemesi", "Taşıma, tutuş ve kurumsal sunum", "Dış ölçü ile iç blok ölçüsünün ayrı bilgileri"],
                   ].map(([feature, usage, detail]) => (
                     <tr key={feature}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{feature}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{feature}</th>
                       <td className="px-4 py-4">{usage}</td>
                       <td className="px-4 py-4">{detail}</td>
                     </tr>
@@ -252,8 +251,8 @@ export default function Page() {
             </div>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">İç Sayfa Düzeni ve Takvim Bilgisini Ayırın</h2>
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">İç Sayfa Düzeni ve Takvim Bilgisini Ayırın</h2>
             <p>
               Üründe organizer veya ajanda adının bulunması, iç bloğun mutlaka
               tarihli olduğu anlamına gelmez. Çizgili not sayfaları, tarih
@@ -268,15 +267,15 @@ export default function Page() {
             </p>
             <p>
               Yalnızca not almak için daha sade bir ürün arıyorsanız{" "}
-              <Link href="/promosyon-defter" className="font-semibold text-white underline underline-offset-4">promosyon defter modellerini</Link>;{" "}
+              <Link href="/promosyon-defter" className="font-semibold text-black underline underline-offset-4">promosyon defter modellerini</Link>;{" "}
               takvim odaklı planlama için{" "}
-              <Link href="/promosyon-ajanda" className="font-semibold text-white underline underline-offset-4">ajanda seçeneklerini</Link>{" "}
+              <Link href="/promosyon-ajanda" className="font-semibold text-black underline underline-offset-4">ajanda seçeneklerini</Link>{" "}
               de karşılaştırabilirsiniz.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Termo Deri Kapak ve Logo Uygulaması</h2>
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Termo Deri Kapak ve Logo Uygulaması</h2>
             <p>
               Termo deri ifadesini doğrudan gerçek deri olarak yorumlamayın.
               Kapak malzemesi ve yüzey dokusu ürünün teknik açıklamasından
@@ -297,8 +296,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Organizer Fiyatlarını Karşılaştırırken</h2>
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon Organizer Fiyatlarını Karşılaştırırken</h2>
             <p>
               Fiyat gösterilen ürün kartlarında bedel baskı hariçtir; KDV
               ayrıca belirtilir. Aynı ürün kodu, renk, adet ve logo kapsamını
@@ -319,34 +318,34 @@ export default function Page() {
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toptan Organizer Siparişi İçin Gerekli Bilgiler</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toptan Organizer Siparişi İçin Gerekli Bilgiler</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Ürün kodunu, rengi ve istediğiniz adedi belirleyin.</li>
               <li>İç sayfa düzeni, varsa takvim yılı ve ek özellikleri teyit edin.</li>
               <li>Logo dosyanızı, uygulama konumunu ve varsa isim isteğini paylaşın.</li>
               <li>Kutu, paketleme, teslimat adresi ve etkinlik tarihini belirtin.</li>
               <li>Stok, tasarım yerleşimi, toplam bedel ve teslim süresini netleştirin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Organizeri bir hediye paketinde sunmak için{" "}
-              <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">kalem</Link>{" "}
+              <Link href="/promosyon-kalem" className="font-semibold text-black underline underline-offset-4">kalem</Link>{" "}
               veya{" "}
-              <Link href="/promosyon-kalem-setleri" className="font-semibold text-white underline underline-offset-4">kalem setleriyle</Link>{" "}
+              <Link href="/promosyon-kalem-setleri" className="font-semibold text-black underline underline-offset-4">kalem setleriyle</Link>{" "}
               birlikte planlayabilirsiniz. Parçaların kutuya uyumunu ve
               birlikte teslimat talebinizi ayrıca belirtin.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Organizer Siparişi İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Promosyon Organizer Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">Promosyon Organizer Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-6 space-y-4">
               {faqItems.map((item) => (
-                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                <div key={item.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                  <h3 className="text-lg font-semibold text-black">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{item.answer}</p>
                 </div>
               ))}
             </div>
@@ -357,8 +356,8 @@ export default function Page() {
       <section aria-labelledby="hesap-makineli-organizer-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="hesap-makineli-organizer-rehberi-baslik" className="text-xl font-bold !text-black">Hesap Makineli Organizer Seçimini Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">İç blok, hesap makinesi, kapama ve logo alanını birlikte değerlendirin; numune ve toplu sipariş kapsamını netleştirin.</p>
-        <Link href="/rehber/promosyon-hesap-makineli-organizer-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Hesap Makineli Organizer Seçim Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-hesap-makineli-organizer-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-hesap-makineli-organizer-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Hesap Makineli Organizer Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Hesap makineli promosyon organizer seçerken iç blok, dış ölçü, kapama, hesap makinesi ve logo alanını karşılaştırın. Numune ve toplu sipariş kapsamını planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

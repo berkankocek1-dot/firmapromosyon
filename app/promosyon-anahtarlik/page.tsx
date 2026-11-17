@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import type { Metadata } from "next";
 import { visibleProducts as products } from "@/data/productVisibility";
 import AnahtarlikProductGrid from "./AnahtarlikProductGrid";
@@ -92,6 +93,7 @@ export const metadata: Metadata = {
   },
 };
 
+// FP ANAHTARLIK DESIGN V2
 export default function Page() {
   const list = sortProductsByCode(products.filter((p) => p.category === CATEGORY));
 
@@ -103,7 +105,8 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="min-h-screen bg-white text-gray-900">
+    <div className="mx-auto max-w-7xl px-5 py-6 md:py-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -161,54 +164,56 @@ export default function Page() {
         }}
       />
 
-      <section className="rounded-3xl bg-black px-6 py-7 text-white md:px-8 md:py-9">
-        <nav className="mb-4 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl border border-gray-200 bg-gray-50 px-4 py-5 md:px-5">
+        <nav className="mb-4 text-sm text-gray-500">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">Promosyon Anahtarlık</span>
+          <span className="font-semibold text-black">Promosyon Anahtarlık</span>
         </nav>
 
+        <div className="grid items-center gap-5 lg:grid-cols-[minmax(0,1fr)_300px]">
         <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+          <h1 className="text-[26px] font-extrabold leading-tight tracking-tight text-black md:text-[32px]">
             Promosyon Anahtarlık
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-sm leading-6 text-gray-600">
             Metal, deri detaylı, açacaklı ve işlevsel anahtarlık modellerini
             karşılaştırın. Logo uygulama alanını ve baskı seçeneklerini değerlendirerek
             toplu siparişiniz için teklif isteyin.
           </p>
 
-          <div className="mt-5 flex flex-wrap gap-3">
+          <div className="mt-4 flex flex-wrap gap-2">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
-            <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+            <a href="#anahtarlik-modelleri"
+              className="inline-flex min-h-11 items-center rounded-xl border border-gray-300 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:bg-gray-100"
+            >Anahtarlık Modellerini İncele</a>
           </div>
         </header>
+        <div className="relative hidden h-56 w-full lg:block">
+          <Image src="/products/promosyon-anahtarlik-an-110-v2.jpg" alt="Farklı renklerde deri detaylı promosyon anahtarlık modelleri" fill loading="lazy" sizes="300px" className="object-contain mix-blend-multiply" />
+        </div>
+        </div>
       </section>
 
       <AnahtarlikProductGrid products={list} />
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
+        <div className="mt-10 rounded-2xl border border-gray-200 bg-gray-50 p-5 md:p-7">
+          <section className="max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">
               Hangi Promosyon Anahtarlık Modeli Size Uygun?
             </h2>
             <p>
@@ -225,23 +230,23 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">
+          <section className="mt-10">
+            <h2 className="text-2xl font-bold text-black">
               Anahtarlık Modellerini Karşılaştırın
             </h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">
                   Promosyon anahtarlık türleri, kullanım örnekleri ve seçimde dikkat edilecek noktalar
                 </caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-gray-100 text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model grubu</th>
                     <th scope="col" className="px-4 py-3">Kullanım örneği</th>
                     <th scope="col" className="px-4 py-3">Seçerken kontrol edin</th>
                   </tr>
                 </thead>
-                <tbody className="divide-y divide-white/10">
+                <tbody className="divide-y divide-gray-200">
                   {[
                     ["Metal", "Bayi ve kurumsal müşteri hediyeleri", "Yüzey kaplaması, ağırlık ve logo alanı"],
                     ["Deri / suni deri detaylı", "Kurumsal hediye setleri", "Malzeme bilgisi, dikiş ve uygulama yüzeyi"],
@@ -252,7 +257,7 @@ export default function Page() {
                     ["Özel tasarım", "Sektöre veya kampanyaya uygun hediyeler", "Hazır model / özel üretim ayrımı, adet ve termin"],
                   ].map(([model, usage, detail]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{usage}</td>
                       <td className="px-4 py-4">{detail}</td>
                     </tr>
@@ -260,43 +265,43 @@ export default function Page() {
                 </tbody>
               </table>
             </div>
-            <p className="mt-3 text-sm leading-6 text-gray-300">
+            <p className="mt-3 text-sm leading-6 text-gray-500">
               Özel tasarım grubundaki hazır bir model, mutlaka sıfırdan kalıp veya
               özel üretim yapılacağı anlamına gelmez. Üretim talebiniz varsa ayrıca belirtin.
             </p>
           </section>
 
-          <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">
+          <section className="mt-10">
+            <h2 className="text-2xl font-bold text-black">
               Logo Baskısı: Lazer, Renkli Baskı ve Gofre
             </h2>
             <div className="mt-5 grid gap-4 md:grid-cols-3">
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">Lazer kazıma</h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
+              <div className="rounded-2xl border border-gray-200 bg-white p-5">
+                <h3 className="text-lg font-semibold text-black">Lazer kazıma</h3>
+                <p className="mt-2 text-sm leading-6 text-gray-600">
                   Uygun metal yüzeylerde değerlendirilebilir. Ortaya çıkan ton,
                   ürünün kaplamasına ve alt malzemesine bağlıdır; renkli logo
                   baskısıyla aynı sonuç beklenmemelidir.
                 </p>
               </div>
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">UV ve tampon baskı</h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
+              <div className="rounded-2xl border border-gray-200 bg-white p-5">
+                <h3 className="text-lg font-semibold text-black">UV ve tampon baskı</h3>
+                <p className="mt-2 text-sm leading-6 text-gray-600">
                   Renkli logo için ürünün yüzeyine, şekline ve uygulama alanına
                   göre yöntem seçilir. Küçük yazıların ve ince çizgilerin baskı
                   ölçüsünde okunabilirliği kontrol edilmelidir.
                 </p>
               </div>
-              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                <h3 className="text-lg font-semibold text-white">Gofre uygulaması</h3>
-                <p className="mt-2 text-sm leading-6 text-gray-200">
+              <div className="rounded-2xl border border-gray-200 bg-white p-5">
+                <h3 className="text-lg font-semibold text-black">Gofre uygulaması</h3>
+                <p className="mt-2 text-sm leading-6 text-gray-600">
                   Uygun deri veya suni deri yüzeylerde iz bırakılarak uygulanabilir.
                   Malzemenin ve modelin uygunluğu ile kalıp gereksinimi teklif
                   öncesinde değerlendirilir.
                 </p>
               </div>
             </div>
-            <p className="mt-5 max-w-4xl leading-7 text-gray-200">
+            <p className="mt-5 max-w-4xl leading-7 text-gray-600">
               Her yöntem her anahtarlığa uygulanamaz. Ön ve arka yüz farklıysa
               çift yön baskı için her iki alan da ayrıca incelenmelidir. Logo,
               telefon numarası veya web adresi eklemek istediğinizde yerleşimi
@@ -304,8 +309,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">
+          <section className="mt-10 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">
               Promosyon Anahtarlık Fiyatları Nasıl Değerlendirilir?
             </h2>
             <p>
@@ -323,7 +328,7 @@ export default function Page() {
             <p>
               Teklifleri aynı adet, aynı model ve aynı baskı kapsamıyla karşılaştırın.
               Ayrıntılar için{" "}
-              <Link href="/rehber/promosyon-anahtarlik-fiyatlari" className="font-semibold text-white underline underline-offset-4">
+              <Link href="/rehber/promosyon-anahtarlik-fiyatlari" className="font-semibold text-black underline underline-offset-4">
                 promosyon anahtarlık fiyatları rehberini
               </Link>{" "}
               inceleyebilirsiniz. Sipariş öncesinde birim fiyatı, baskı bedelini ve
@@ -331,33 +336,33 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
+          <section className="mt-10 max-w-4xl">
+            <h2 className="text-2xl font-bold text-black">
               Toptan Anahtarlık Siparişi İçin Teklif Bilgileri
             </h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Ürün kodunu, tercih ettiğiniz rengi ve sipariş adedini belirtin.</li>
               <li>Logonuzu, mümkünse vektörel dosya olarak paylaşın.</li>
               <li>Tek veya çift yön uygulama ile ek yazı taleplerini bildirin.</li>
               <li>Etkinlik tarihini, teslimat adresini ve varsa ambalaj isteğini ekleyin.</li>
               <li>Stok, baskı yerleşimi, toplam bedel ve teslim süresini sipariş öncesinde teyit edin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Anahtarlığı bir hediye setinde kullanacaksanız{" "}
-              <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">promosyon kalem</Link>,{" "}
-              <Link href="/promosyon-termos" className="font-semibold text-white underline underline-offset-4">termos</Link>{" "}
+              <Link href="/promosyon-kalem" className="font-semibold text-black underline underline-offset-4">promosyon kalem</Link>,{" "}
+              <Link href="/promosyon-termos" className="font-semibold text-black underline underline-offset-4">termos</Link>{" "}
               veya{" "}
-              <Link href="/promosyon-usb-bellek" className="font-semibold text-white underline underline-offset-4">USB bellek</Link>{" "}
+              <Link href="/promosyon-usb-bellek" className="font-semibold text-black underline underline-offset-4">USB bellek</Link>{" "}
               seçenekleriyle birlikte planlayabilirsiniz. Baskı yöntemleri ve teslim
               süreleri ürünler arasında farklılık gösterebilir.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Anahtarlık Siparişi İçin Teklif Al
             </Link>
           </section>
 
-          <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
+          <section className="mt-10 max-w-4xl">
+            <h2 className="text-2xl font-bold text-black">
               Promosyon Anahtarlık Hakkında Sık Sorulan Sorular
             </h2>
 
@@ -365,12 +370,12 @@ export default function Page() {
               {faqItems.map((item) => (
                 <div
                   key={item.question}
-                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                  className="rounded-2xl border border-gray-200 bg-white p-5"
                 >
-                  <h3 className="text-lg font-semibold text-white">
+                  <h3 className="text-lg font-semibold text-black">
                     {item.question}
                   </h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                  <p className="mt-2 text-sm leading-6 text-gray-600">
                     {item.answer}
                   </p>
                 </div>
@@ -379,27 +384,43 @@ export default function Page() {
           </section>
         </div>
       )}
-      <nav aria-label="Anahtarlık alt kategorileri" className="mt-14 rounded-2xl border border-gray-200 bg-white p-5">
-        <h2 className="text-xl font-bold !text-black">Anahtarlık Türlerini İnceleyin</h2>
-        <Link href="/promosyon-ev-araba-anahtarlik" className="mt-4 mr-5 inline-block font-semibold !text-black underline underline-offset-4">Ev ve Araba Şeklinde Anahtarlık Modelleri →</Link>
-        <Link href="/promosyon-purjorlu-anahtarlik" className="mt-4 mr-5 inline-block font-semibold !text-black underline underline-offset-4">Purjörlü Anahtarlık Modelleri →</Link>
-        <Link href="/promosyon-acacakli-anahtarlik" className="mt-4 mr-5 inline-block font-semibold !text-black underline underline-offset-4">Açacaklı Anahtarlık Modelleri →</Link>
-        <Link href="/promosyon-deri-anahtarlik" className="mt-4 mr-5 inline-block font-semibold !text-black underline underline-offset-4">Deri Anahtarlık Modelleri →</Link>
-        <Link href="/promosyon-metal-anahtarlik" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Metal Anahtarlık Modelleri →</Link>
-        <p className="mt-3 text-sm text-gray-700">Malzeme ve kullanım özelliklerine göre hazırlanmış anahtarlık sayfalarından modelleri karşılaştırabilirsiniz.</p>
+      <nav aria-labelledby="anahtarlik-turleri-baslik" className="mt-10 rounded-2xl border border-gray-200 bg-white p-4 md:p-5">
+        <h2 id="anahtarlik-turleri-baslik" className="text-xl font-bold text-black">Anahtarlık Türlerini İnceleyin</h2>
+        <div className="mt-5 grid grid-cols-1 gap-3 lg:grid-cols-3">
+          <Link href="/promosyon-ev-araba-anahtarlik" className="flex min-h-14 items-center justify-between gap-3 rounded-xl border border-gray-200 px-4 py-4 text-sm font-semibold leading-6 text-black transition-colors hover:border-gray-400 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"><span>Ev ve Araba Şeklinde Anahtarlık Modelleri</span><span aria-hidden="true">↗</span></Link>
+          <Link href="/promosyon-purjorlu-anahtarlik" className="flex min-h-14 items-center justify-between gap-3 rounded-xl border border-gray-200 px-4 py-4 text-sm font-semibold leading-6 text-black transition-colors hover:border-gray-400 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"><span>Purjörlü Anahtarlık Modelleri</span><span aria-hidden="true">↗</span></Link>
+          <Link href="/promosyon-acacakli-anahtarlik" className="flex min-h-14 items-center justify-between gap-3 rounded-xl border border-gray-200 px-4 py-4 text-sm font-semibold leading-6 text-black transition-colors hover:border-gray-400 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"><span>Açacaklı Anahtarlık Modelleri</span><span aria-hidden="true">↗</span></Link>
+          <Link href="/promosyon-deri-anahtarlik" className="flex min-h-14 items-center justify-between gap-3 rounded-xl border border-gray-200 px-4 py-4 text-sm font-semibold leading-6 text-black transition-colors hover:border-gray-400 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"><span>Deri Anahtarlık Modelleri</span><span aria-hidden="true">↗</span></Link>
+          <Link href="/promosyon-metal-anahtarlik" className="flex min-h-14 items-center justify-between gap-3 rounded-xl border border-gray-200 px-4 py-4 text-sm font-semibold leading-6 text-black transition-colors hover:border-gray-400 hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"><span>Metal Anahtarlık Modelleri</span><span aria-hidden="true">↗</span></Link>
+        </div>
+        <p className="mt-3 text-sm leading-6 text-gray-600">Malzeme ve kullanım özelliklerine göre hazırlanmış anahtarlık sayfalarından modelleri karşılaştırabilirsiniz.</p>
       </nav>
-      <section aria-labelledby="anahtarlik-secim-rehberi" className="mt-12 rounded-2xl border border-gray-200 !bg-white p-5">
-        <h2 id="anahtarlik-secim-rehberi" className="text-xl font-bold !text-black">Anahtarlık Siparişi Öncesinde</h2>
+      <section aria-labelledby="anahtarlik-secim-rehberi" className="mt-10 rounded-2xl border border-gray-200 bg-gray-50 p-4 md:p-5">
+        <h2 id="anahtarlik-secim-rehberi" className="text-xl font-bold text-black">Anahtarlık Siparişi Öncesinde</h2>
         <div className="mt-5 grid gap-4 sm:grid-cols-2">
-          <Link
-            href="/rehber/promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta"
-            className="rounded-2xl border border-gray-200 !bg-white p-5 transition hover:!bg-gray-50"
-          >
-            <h3 className="text-lg font-semibold !text-black">Anahtarlık Seçimi İçin Kontrol Listesi</h3>
-            <p className="mt-2 text-sm leading-6 !text-gray-700">Numune, halka ve bağlantı parçaları, logo yerleşimi ve teslim kontrollerini inceleyin.</p>
+          <Link href="/rehber/promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta" className="group relative isolate flex min-h-[310px] min-w-0 flex-col overflow-hidden rounded-2xl border border-gray-200 bg-gray-950 p-5 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:min-h-[320px] sm:p-6">
+            <Image src="/guides/promosyon-anahtarlik-alirken-dikkat-edilmesi-gereken-10-kritik-nokta-kapak-20261115.jpg" alt="" fill loading="lazy" sizes="(max-width: 639px) 92vw, (max-width: 1023px) 46vw, 590px" className="pointer-events-none object-cover" />
+            <div aria-hidden="true" className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/95 via-black/70 to-black/20" />
+            <div className="relative z-10 mt-auto">
+              <span className="inline-flex rounded-full border border-white/30 bg-black/40 px-3 py-1 text-xs font-semibold text-white">Rehber</span>
+              <h3 className="mt-4 text-lg font-bold leading-7 text-white">Anahtarlık Seçimi İçin Kontrol Listesi</h3>
+              <p className="mt-3 text-sm leading-6 text-white">Numune, halka ve bağlantı parçaları, logo yerleşimi ve teslim kontrollerini inceleyin.</p>
+              <div className="mt-4 text-sm font-semibold text-white">İncele <span aria-hidden="true">↗</span></div>
+            </div>
+          </Link>
+          <Link href="/rehber/promosyon-anahtarlik-fiyatlari" className="group relative isolate flex min-h-[310px] min-w-0 flex-col overflow-hidden rounded-2xl border border-gray-200 bg-gray-950 p-5 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:min-h-[320px] sm:p-6">
+            <Image src="/guides/promosyon-anahtarlik-fiyatlari-kapak-20261115.jpg" alt="" fill loading="lazy" sizes="(max-width: 639px) 92vw, (max-width: 1023px) 46vw, 590px" className="pointer-events-none object-cover" />
+            <div aria-hidden="true" className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/95 via-black/70 to-black/20" />
+            <div className="relative z-10 mt-auto">
+              <span className="inline-flex rounded-full border border-white/30 bg-black/40 px-3 py-1 text-xs font-semibold text-white">Rehber</span>
+              <h3 className="mt-4 text-lg font-bold leading-7 text-white">Promosyon Anahtarlık Fiyatları</h3>
+              <p className="mt-3 text-sm leading-6 text-white">Ürün, adet ve baskı kapsamına göre anahtarlık fiyatlarını değerlendirirken dikkat edilecek noktaları inceleyin.</p>
+              <div className="mt-4 text-sm font-semibold text-white">İncele <span aria-hidden="true">↗</span></div>
+            </div>
           </Link>
         </div>
       </section>
+    </div>
     </div>
   );
 }

@@ -1,3 +1,4 @@
+import FpCategoryCatalog from "../_components/FpCategoryCatalog";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -102,7 +103,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -157,27 +158,27 @@ export default function Page() {
         }} />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">
+          <span className="font-semibold text-black">
             Promosyon Yapışkanlı Notluklar
           </span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon Yapışkanlı Notluklar
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Kraft kapaklı, spiralli ve defterle birlikte sunulan yapışkanlı
             notlukları ölçü ve içeriklerine göre karşılaştırın. Logo
             uygulaması ve kurumsal toplu sipariş için güncel teklif alın.
@@ -186,76 +187,25 @@ export default function Page() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-yapiskanli-notluklar-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src="/category-heroes/clean/promosyon-renkli-yapiskanli-notluk-gd-130-v2-clean.webp" alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
       <div className="mt-8 flex flex-wrap items-center justify-between gap-3">
-        <p className="text-sm font-medium text-gray-700">{list.length} ürün gösteriliyor</p>
+
         <Link href="/promosyon-geri-donusumlu-urunler" className="text-sm font-semibold text-gray-900 hover:underline">Geri Dönüşümlü Ürünleri İncele →</Link>
       </div>
 
-      <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {list.map((p) => (
-          <Link
-            key={p.id}
-            href={`/urunler/${p.slug}`}
-            className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
-          >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl border border-gray-100 bg-white">
-              <Image
-                src={p.image}
-                alt={p.title}
-                fill
-                unoptimized
-                loading="lazy"
-                className="object-contain p-4"
-                sizes="(max-width: 768px) 100vw, 33vw"
-              />
-            </div>
-
-            <div className="mt-4">
-              <div className="text-xs font-semibold uppercase tracking-wide text-gray-500">
-                {p.category}
-              </div>
-
-              <h2 className="mt-1 text-lg font-bold text-gray-900">
-                {p.title}
-              </h2>
-
-              <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
-                {p.shortDesc}
-              </p>
-              {p.price && (
-                <div className="mt-3">
-                  <div className="text-base font-bold text-gray-900">
-                    {p.price.toLocaleString("tr-TR")} TL + KDV
-                  </div>
-
-                  <div className="mt-1 text-xs font-medium text-green-600">
-                    Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.
-                  </div>
-                </div>
-              )}
-
-              <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
-                Ürünü İncele
-              </div>
-            </div>
-          </Link>
-        ))}
-      </section>
+      <FpCategoryCatalog anchorId="promosyon-yapiskanli-notluklar-modelleri" showPrices={true} products={list.map(p => ({id:p.id,slug:p.slug,title:p.title,image:p.image,category:p.category,shortDesc:p.shortDesc,price:p.price,priceNote:"Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın."}))} />
 
       {list.length === 0 && (
         <p className="mt-10 text-center text-gray-600">
@@ -264,9 +214,9 @@ export default function Page() {
       )}
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Logo Baskılı Yapışkanlı Notluk Nasıl Seçilir?</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Logo Baskılı Yapışkanlı Notluk Nasıl Seçilir?</h2>
             <p>
               Kısa hatırlatma notları, dosya işaretleme veya toplantı notlarını
               bir arada tutmak için farklı notluk düzenleri seçilebilir.
@@ -282,11 +232,11 @@ export default function Page() {
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Yapışkanlı Notluk Modellerini Karşılaştırın</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Yapışkanlı Notluk Modellerini Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Notlukların belirtilen dış ölçüleri ve kağıt veya içerik bilgileri</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model</th>
                     <th scope="col" className="px-4 py-3">Ürün ölçüsü</th>
@@ -307,7 +257,7 @@ export default function Page() {
                     ["GD-250", "13 x 6,5 cm", "Geri dönüşümlü notluk"],
                   ].map(([model, size, detail]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{size}</td>
                       <td className="px-4 py-4">{detail}</td>
                     </tr>
@@ -315,15 +265,15 @@ export default function Page() {
                 </tbody>
               </table>
             </div>
-            <p className="mt-4 max-w-4xl text-sm leading-6 text-gray-200">
+            <p className="mt-4 max-w-4xl text-sm leading-6 text-gray-600">
               Sayfa, yaprak ve not kağıdı ifadeleri ürünlerde farklı
               kullanılır. Verilen adedin hangi bloğa ait olduğunu ve
               yapışkanlı bölümlerin ayrı adetlerini sipariş öncesinde teyit edin.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Defterli Modeller ve Kalem Kapsamı</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Defterli Modeller ve Kalem Kapsamı</h2>
             <p>
               GD-150 ve GD-170, defterle yapışkanlı notluğu birlikte sunar.
               GD-160 spiralli ve çizgili not defteri olarak listelenir.
@@ -338,15 +288,15 @@ export default function Page() {
             </p>
             <p>
               Ayrı kalem siparişi için{" "}
-              <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">kalem modellerini</Link>,{" "}
+              <Link href="/promosyon-kalem" className="font-semibold text-black underline underline-offset-4">kalem modellerini</Link>,{" "}
               daha geniş not alma seçenekleri için{" "}
-              <Link href="/promosyon-defter" className="font-semibold text-white underline underline-offset-4">tarihsiz defterleri</Link>{" "}
+              <Link href="/promosyon-defter" className="font-semibold text-black underline underline-offset-4">tarihsiz defterleri</Link>{" "}
               inceleyebilirsiniz. Ek ürünleri teklif kapsamına ayrıca ekletin.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Kraft Kapak ve Geri Dönüşümlü Ürün Bilgisi</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Kraft Kapak ve Geri Dönüşümlü Ürün Bilgisi</h2>
             <p>
               Kraft kapak, tek başına ürünün tamamının geri dönüşümlü olduğunu
               veya belirli bir çevre sertifikası taşıdığını göstermez.
@@ -358,13 +308,13 @@ export default function Page() {
               arıyorsanız talebinizi model koduyla paylaşın. Renk,
               kapak ve kağıt seçeneklerini ayrı ayrı teyit edin.
               Diğer seçenekler için{" "}
-              <Link href="/promosyon-geri-donusumlu-urunler" className="font-semibold text-white underline underline-offset-4">geri dönüşümlü ürünler</Link>{" "}
+              <Link href="/promosyon-geri-donusumlu-urunler" className="font-semibold text-black underline underline-offset-4">geri dönüşümlü ürünler</Link>{" "}
               kategorisini de karşılaştırabilirsiniz.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Notluklara Logo Baskısı</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Notluklara Logo Baskısı</h2>
             <p>
               GD-130, GD-160, GD-220 ve GD-240 için serigrafi ve dijital;
               GD-150, GD-170 ve GD-200 için UV ve serigrafi;
@@ -384,8 +334,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Yapışkanlı Notluk Fiyatlarını Karşılaştırırken</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Yapışkanlı Notluk Fiyatlarını Karşılaştırırken</h2>
             <p>
               Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV
               ayrıca belirtilir. Fiyatı bulunmayan modeller için güncel
@@ -405,26 +355,26 @@ export default function Page() {
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toplu Notluk Sipariş Adımları</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toplu Notluk Sipariş Adımları</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Model kodunu, adedi ve renk tercihini paylaşın.</li>
               <li>Kağıt ve not bölümlerini, kalem ve aksesuar kapsamını teyit edin.</li>
               <li>Logo dosyanızı, uygulama yapılacak yüzeyi ve renkleri belirtin.</li>
               <li>Paketleme talebini, teslimat adresini ve etkinlik tarihini bildirin.</li>
               <li>Stok, tasarım yerleşimi, toplam tutar ve teslim süresini netleştirin.</li>
             </ol>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Yapışkanlı Notluk İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Yapışkanlı Notluklar Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">Yapışkanlı Notluklar Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-6 space-y-4">
               {faqItems.map((item) => (
-                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                <div key={item.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                  <h3 className="text-lg font-semibold text-black">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{item.answer}</p>
                 </div>
               ))}
             </div>
@@ -435,8 +385,8 @@ export default function Page() {
       <section aria-labelledby="yapiskanli-notluk-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="yapiskanli-notluk-rehberi-baslik" className="text-xl font-bold !text-black">Not Bölümlerini ve Baskı Kapsamını Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Not bloğu, ayraç ve varsa defter bölümünü ayrı değerlendirin; kağıt miktarıyla kapak ve iç kağıt uygulamasını netleştirin.</p>
-        <Link href="/rehber/promosyon-yapiskanli-notluk-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Yapışkanlı Notluk Seçim ve Baskı Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-yapiskanli-notluk-secim-ve-baski-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-yapiskanli-notluk-secim-ve-baski-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Yapışkanlı Notluk Seçim ve Baskı Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Yapışkanlı notlukları not bloğu, ayraç, kapak ve ölçüleriyle değerlendirin. Defter sayfalarını ayrı okuyup kapak ve iç kağıt baskısı kapsamını netleştirin.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

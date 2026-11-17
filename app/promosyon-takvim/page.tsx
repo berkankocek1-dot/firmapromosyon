@@ -1,3 +1,4 @@
+import Image from "next/image";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { visibleProducts } from "@/data/productVisibility";
@@ -20,17 +21,17 @@ function JsonLd({data}:{data:Record<string,unknown>}) {return <script type="appl
 export default function TakvimPage() {
  const list = sortProductsByCode(visibleProducts.filter(p=>p.category===CATEGORY));
  const cards = list.map(({id,slug,title,image,shortDesc,price})=>({id,slug,title,image,shortDesc,price}));
- return <div className="mx-auto max-w-7xl px-4 py-8 md:py-12">
+ return <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
   <JsonLd data={{"@context":"https://schema.org","@type":"BreadcrumbList",itemListElement:[{"@type":"ListItem",position:1,name:"Ana Sayfa",item:"https://www.firmapromosyon.com"},{"@type":"ListItem",position:2,name:"Promosyon Takvim",item:URL}]}}/>
   <JsonLd data={{"@context":"https://schema.org","@type":"CollectionPage",name:title,description,url:URL,mainEntity:{"@type":"ItemList",numberOfItems:list.length,itemListElement:list.map((p,i)=>({"@type":"ListItem",position:i+1,url:`https://www.firmapromosyon.com/urunler/${p.slug}`,name:p.title}))}}}/>
   <JsonLd data={{"@context":"https://schema.org","@type":"FAQPage",mainEntity:faqs.map(f=>({"@type":"Question",name:f.q,acceptedAnswer:{"@type":"Answer",text:f.a}}))}}/>
-  <header className="mb-8 rounded-3xl bg-black p-6 text-white md:p-10">
-   <nav aria-label="Sayfa yolu" className="mb-5 text-sm"><Link href="/" className="underline">Ana Sayfa</Link> / <Link href="/urunler" className="underline">Ürünler</Link> / Promosyon Takvim</nav>
-   <h1 className="text-3xl font-extrabold md:text-5xl">Logo Baskılı Promosyon Takvim Modelleri</h1>
+  <header className="mb-8 rounded-2xl bg-gray-50 p-6 text-black md:p-6 border border-gray-200">
+   <nav aria-label="Sayfa yolu" className="mb-5 text-sm"><Link href="/" className="underline">Ana Sayfa</Link> / <Link href="/urunler" className="underline">Ürünler</Link> / Promosyon Takvim</nav><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+   <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">Logo Baskılı Promosyon Takvim Modelleri</h1>
    <p className="mt-5 max-w-4xl leading-8">Masa ve gemici takvimlerini kullanım yeri, ölçü ve taşıyıcı yapısına göre inceleyin. Hazır masa takvimlerinden jumbo duvar modellerine kadar farklı seçenekleri karşılaştırın; adet, takvim yılı ve logo çalışmanızla toplu sipariş için teklif alın.</p>
-   <div className="mt-6 flex flex-wrap gap-3"><Link href="/kurumsal-teklif-al" className="rounded-xl bg-white px-5 py-3 font-semibold text-black">Takvim İçin Teklif Al</Link><Link href="#takvim-modelleri" className="rounded-xl border border-white px-5 py-3">Modelleri İncele</Link></div>
-  </header>
-  <div id="takvim-modelleri" className="scroll-mt-24"><TakvimProductGrid products={cards}/></div>
+   <div className="mt-6 flex flex-wrap gap-3"><Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">Takvim İçin Teklif Al</Link><Link href="#takvim-modelleri" className="rounded-xl border border-gray-200 px-5 py-3">Modelleri İncele</Link></div>
+  </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src="/category-heroes/clean/promosyon-masa-takvimi-mtb-220-clean.webp" alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
+  <div  className="scroll-mt-24"><TakvimProductGrid products={cards}/></div>
   <section className="mt-10 space-y-7 rounded-2xl bg-white p-6 text-gray-900 md:p-8">
    <h2 className="text-2xl font-bold">Firmanız İçin Promosyon Takvim Nasıl Seçilir?</h2>
    <p className="leading-8">Takvim seçiminde ilk adım ürünün nerede kullanılacağını belirlemektir. Masaüstü kullanımında taşıyıcının kapladığı alan, duvar kullanımında ise asılacağı yüzeye uygun en ve boy önemlidir. Ürün ölçüsü ile reklam alanı aynı değildir. Logo ve iletişim bilgilerinin sığacağı alanı ürünün teknik özelliklerinden kontrol ederek tasarımı bu bölüme göre hazırlamak gerekir.</p>
@@ -51,7 +52,7 @@ export default function TakvimPage() {
   <section aria-labelledby="takvim-rehberi-baslik" className="mt-8 rounded-2xl border border-gray-200 !bg-white p-6 md:p-8">
    <h2 id="takvim-rehberi-baslik" className="text-xl font-bold !text-black">Gemici Takvimi Seçimini ve Baskısını Planlayın</h2>
    <p className="mt-3 text-sm leading-7 !text-gray-700">Gemici takvimlerinde ölçü, spiral ve taşıyıcı özelliklerini değerlendirin; takvim yılı ile logo yerleşimini sipariş öncesinde netleştirin.</p>
-   <Link href="/rehber/promosyon-gemici-takvimi-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Gemici Takvimi Seçim Rehberini İncele →</Link>
+   <Link href="/rehber/promosyon-gemici-takvimi-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-gemici-takvimi-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Gemici Takvimi Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Gemici takviminde ölçü, blok ve spiral düzeni ile reklam alanını karşılaştırın. Takvim yılı, logo tasarımı, prova ve toplu sipariş onayını adım adım planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
   </section>
- </div>;
+ </div></div>;
 }

@@ -1,3 +1,4 @@
+import FpLegalPage from "../_components/FpLegalPage";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -11,10 +12,8 @@ export const metadata: Metadata = {
 
 export default function GizlilikPage() {
   return (
-    <main className="mx-auto max-w-4xl px-4 py-16">
-      <h1 className="text-3xl font-bold mb-6">Gizlilik Politikası</h1>
-
-      <p className="mb-4">
+    <FpLegalPage title="Gizlilik Politikası" href="/gizlilik-politikasi">
+<p className="mb-4">
         FirmaPromosyon olarak ziyaretçilerimizin gizliliğini korumayı ve
         kişisel verilerin güvenliğini sağlamayı taahhüt ederiz.
       </p>
@@ -45,6 +44,6 @@ export default function GizlilikPage() {
         Web sitemizi kullanarak bu gizlilik politikasını kabul etmiş
         sayılırsınız.
       </p>
-    </main>
+    </FpLegalPage>
   );
 }

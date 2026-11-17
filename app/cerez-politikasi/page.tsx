@@ -1,3 +1,4 @@
+import FpLegalPage from "../_components/FpLegalPage";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -11,10 +12,8 @@ export const metadata: Metadata = {
 
 export default function CerezPage() {
   return (
-    <main className="mx-auto max-w-4xl px-4 py-16">
-      <h1 className="mb-6 text-3xl font-bold">Çerez Politikası</h1>
-
-      <p className="mb-4">
+    <FpLegalPage title="Çerez Politikası" href="/cerez-politikasi">
+<p className="mb-4">
         FirmaPromosyon olarak, web sitemizi ziyaret eden kullanıcıların
         deneyimini geliştirmek amacıyla çerezler (cookies) kullanmaktayız.
       </p>
@@ -34,7 +33,7 @@ export default function CerezPage() {
         Web sitemizde aşağıdaki çerez türleri kullanılmaktadır:
       </p>
 
-      <ul className="mb-6 list-disc pl-6">
+      <ul className="mb-6 list-disc space-y-2 pl-6">
         <li>Zorunlu Çerezler (site çalışması için gereklidir)</li>
         <li>Performans ve Analiz Çerezleri</li>
         <li>Fonksiyonel Çerezler</li>
@@ -61,6 +60,6 @@ export default function CerezPage() {
         Web sitemizi kullanmaya devam ederek çerez kullanımını kabul etmiş
         sayılırsınız.
       </p>
-    </main>
+    </FpLegalPage>
   );
 }

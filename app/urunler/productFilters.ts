@@ -1,3 +1,5 @@
+import { isMetalPen } from "@/data/penSubcategories";
+
 type Product = {
   title: string;
   shortDesc: string;
@@ -39,6 +41,7 @@ export function normalizeText(value: string) {
 
 export function matchesSubfilter(product: Product, filter: string) {
   if (filter === "Tümü") return true;
+  if (product.category === "Kalem" && filter === "Metal") return isMetalPen(product);
 
   const text = normalizeText(
     `${product.title} ${product.shortDesc} ${product.longDesc || ""}`

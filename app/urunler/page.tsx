@@ -1,5 +1,6 @@
 import { Suspense } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import type { Metadata } from "next";
 import { visibleProducts as products } from "@/data/productVisibility";
 import ProductsClient from "./ProductsClient";
@@ -15,7 +16,7 @@ function JsonLd({ data }: { data: Record<string, any> }) {
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, "\\u003c") }}
     />
   );
 }
@@ -83,6 +84,11 @@ export default function ProductsPage() {
     href: getCategoryLandingHref(name),
   })).sort((a, b) => a.name.localeCompare(b.name, "tr"));
 
+  const heroProducts = ["Kalem", "Termos", "Ajanda"].flatMap((category) => {
+    const product = sortedProducts.find((item) => item.category === category);
+    return product ? [product] : [];
+  });
+
   const cardProducts = sortedProducts.map((product) => ({
     id: product.id,
     slug: product.slug,
@@ -103,8 +109,8 @@ export default function ProductsPage() {
   }));
 
   return (
-    <div className="min-h-screen bg-black text-white">
-      <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="min-h-screen bg-white text-gray-900">
+      <div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
         <JsonLd
           data={{
             "@context": "https://schema.org",
@@ -142,14 +148,21 @@ export default function ProductsPage() {
           }}
         />
 
-        <div className="mb-6">
-          <h1 className="text-3xl font-extrabold text-white md:text-5xl">
-            Promosyon Ürünleri
-          </h1>
-          <p className="mt-2 text-base text-white/80 md:text-lg">
-            Kategorilere göre filtreleyin ve hızlı teklif alın.
-          </p>
-        </div>
+        <section aria-labelledby="urunler-ana-baslik" className="mb-4 rounded-2xl border border-gray-200 bg-gray-50 p-4 md:p-5">
+          <nav aria-label="Sayfa yolu" className="mb-2 text-sm text-gray-600"><Link href="/" className="hover:text-black hover:underline">Ana Sayfa</Link><span className="px-2">/</span><span className="font-semibold text-black">Ürünler</span></nav>
+          <div className="grid items-center gap-5 lg:grid-cols-[minmax(0,1fr)_340px]">
+            <div>
+              <h1 id="urunler-ana-baslik" className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">Promosyon Ürünleri</h1>
+              <p className="mt-2 text-base text-gray-600 md:text-lg">Kategorilere göre filtreleyin ve hızlı teklif alın.</p>
+              <p id="urunler-katalog-ozeti" className="mt-3 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs font-medium text-gray-600 sm:text-sm">
+                <span>{sortedProducts.length.toLocaleString("tr-TR")} ürün</span><span aria-hidden="true">·</span><span>{allCategoryLinks.length.toLocaleString("tr-TR")} kategori</span><span aria-hidden="true">·</span><span>Logo baskı seçenekleri</span>
+              </p>
+            </div>
+            <div aria-hidden="true" className="hidden h-28 items-center gap-2 lg:flex">
+              {heroProducts.map((product) => <div key={product.id} className="relative h-28 min-w-0 flex-1"><Image src={product.image} alt="" fill unoptimized sizes="108px" className="object-contain mix-blend-multiply" /></div>)}
+            </div>
+          </div>
+        </section>
 
         <Suspense fallback={<ProductsLoadingFallback />}>
           <ProductsClient products={cardProducts} />
@@ -158,12 +171,12 @@ export default function ProductsPage() {
         <section
           id="tum-promosyon-kategorileri"
           aria-labelledby="tum-kategoriler-baslik"
-          className="mb-8 rounded-2xl border border-white/10 bg-white/5 p-5 md:p-6"
+          className="mb-8 rounded-2xl border border-gray-200 bg-gray-50 p-5 md:p-6"
         >
-          <h2 id="tum-kategoriler-baslik" className="text-xl font-bold text-white">
+          <h2 id="tum-kategoriler-baslik" className="text-xl font-bold text-black">
             Tüm Promosyon Ürün Kategorileri
           </h2>
-          <p className="mt-2 text-sm leading-6 text-white/80">
+          <p className="mt-2 text-sm leading-6 text-gray-600">
             {allCategoryLinks.length} ürün kategorisi arasından ihtiyacınıza uygun
             grubu seçin. Kategori sayfalarında modelleri ve ürün özelliklerini
             inceleyebilirsiniz.
@@ -175,12 +188,12 @@ export default function ProductsPage() {
                 <li key={category.name} className="min-w-0">
                   <Link
                     href={category.href}
-                    className="flex h-full flex-col justify-between gap-3 rounded-xl border border-white/20 bg-black/30 p-4 text-white transition hover:border-white/50 hover:bg-white/10 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-white"
+                    className="flex h-full flex-col justify-between gap-3 rounded-xl border border-gray-200 bg-white p-4 text-black transition hover:border-gray-400 hover:bg-gray-100 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"
                   >
                     <span className="break-words text-sm font-semibold">
                       {category.name}
                     </span>
-                    <span className="text-xs text-white/80">
+                    <span className="text-xs text-gray-600">
                       {category.count} ürün
                     </span>
                   </Link>
@@ -193,15 +206,15 @@ export default function ProductsPage() {
         <section
           id="promosyon-urunleri-secim-rehberi"
           aria-labelledby="promosyon-urunleri-rehber-baslik"
-          className="mt-10 rounded-2xl border border-white/10 bg-white/5 p-5 text-white md:p-8"
+          className="mt-10 rounded-2xl border border-gray-200 bg-gray-50 p-5 text-black md:p-8"
         >
           <h2
             id="promosyon-urunleri-rehber-baslik"
-            className="text-2xl font-bold text-white"
+            className="text-2xl font-bold text-black"
           >
             Logo Baskılı Promosyon Ürünleri ve Kurumsal Hediye Seçimi
           </h2>
-          <p className="mt-4 leading-7 text-white/80">
+          <p className="mt-4 leading-7 text-gray-600">
             Promosyon ürünleri; fuar dağıtımları, çalışan hediyeleri, bayi
             buluşmaları ve müşteri ziyaretleri gibi farklı ihtiyaçlar için
             seçilebilir. Bu katalogda ürünleri kategorilerine göre inceleyebilir,
@@ -211,16 +224,16 @@ export default function ProductsPage() {
             değerlendirin.
           </p>
 
-          <h3 className="mt-7 text-xl font-bold text-white">
+          <h3 className="mt-7 text-xl font-bold text-black">
             Hangi Promosyon Ürünü Hangi İhtiyaca Uygun?
           </h3>
-          <p className="mt-3 leading-7 text-white/80">
+          <p className="mt-3 leading-7 text-gray-600">
             Geniş katılımlı etkinliklerde kolay taşınan
-            {" "}<Link href="/promosyon-kalem" className="text-white underline underline-offset-4">promosyon kalem</Link>
+            {" "}<Link href="/promosyon-kalem" className="text-black underline underline-offset-4">promosyon kalem</Link>
             {" "}ve
-            {" "}<Link href="/promosyon-anahtarlik" className="text-white underline underline-offset-4">anahtarlık modelleri</Link>
+            {" "}<Link href="/promosyon-anahtarlik" className="text-black underline underline-offset-4">anahtarlık modelleri</Link>
             {" "}incelenebilir. Ofis kullanımı ve çalışan hediyeleri için
-            {" "}<Link href="/promosyon-defter" className="text-white underline underline-offset-4">tarihsiz defter</Link>,
+            {" "}<Link href="/promosyon-defter" className="text-black underline underline-offset-4">tarihsiz defter</Link>,
             {" "}ajanda ve masaüstü ürünleri değerlendirilebilir. Günlük kullanıma
             yönelik bir hediye arıyorsanız termos ve matara seçeneklerine;
             birden fazla ürünü bir arada sunmak istiyorsanız kalem setleri ve
@@ -228,10 +241,10 @@ export default function ProductsPage() {
             kişiselleştirme seçenekleri farklıdır.
           </p>
 
-          <h3 className="mt-7 text-xl font-bold text-white">
+          <h3 className="mt-7 text-xl font-bold text-black">
             Ürün ve Logo Baskısı Seçerken Nelere Bakılmalı?
           </h3>
-          <p className="mt-3 leading-7 text-white/80">
+          <p className="mt-3 leading-7 text-gray-600">
             Önce hedef kitlenizi, dağıtım adedini ve ürün başına ayırdığınız
             bütçeyi belirleyin. Ardından ürünün kullanım alanını, baskı yüzeyini
             ve logo tasarımınızın bu yüzeyde nasıl görüneceğini değerlendirin.
@@ -241,7 +254,7 @@ export default function ProductsPage() {
             veya nakış her ürüne uygulanamaz. Ürün sayfasındaki özellikleri
             inceleyip tasarımınızı teklif aşamasında paylaşabilirsiniz.
           </p>
-          <p className="mt-3 leading-7 text-white/80">
+          <p className="mt-3 leading-7 text-gray-600">
             Model karşılaştırırken kapasite, malzeme, ebat ve set içeriği gibi
             somut özellikleri esas alın. Ürün görsellerinde yer alan örnek
             logoları kendi baskınızın birebir sonucu olarak değerlendirmeyin.
@@ -250,10 +263,10 @@ export default function ProductsPage() {
             kolaylaştırır.
           </p>
 
-          <h3 className="mt-7 text-xl font-bold text-white">
+          <h3 className="mt-7 text-xl font-bold text-black">
             Promosyon Ürün Fiyatları ve Toplu Sipariş Teklifi
           </h3>
-          <p className="mt-3 leading-7 text-white/80">
+          <p className="mt-3 leading-7 text-gray-600">
             Toplam sipariş bedeli; seçilen model, adet, baskı yöntemi, baskı
             yönü ve varsa ambalaj taleplerine göre belirlenir. Listelenen
             fiyatların baskı ve KDV açıklamalarını kontrol edin. Fiyat
@@ -262,11 +275,11 @@ export default function ProductsPage() {
             ettiğiniz rengi, logo dosyanızı ve ihtiyaç duyduğunuz teslim tarihini
             paylaşmanız değerlendirmeyi kolaylaştırır.
           </p>
-          <p className="mt-3 leading-7 text-white/80">
+          <p className="mt-3 leading-7 text-gray-600">
             Seçim konusunda daha fazla bilgi için
-            {" "}<Link href="/rehber" className="text-white underline underline-offset-4">promosyon ürünleri ve baskı rehberlerini</Link>
+            {" "}<Link href="/rehber" className="text-black underline underline-offset-4">promosyon ürünleri ve baskı rehberlerini</Link>
             {" "}inceleyebilir veya belirlediğiniz modeller için
-            {" "}<Link href="/kurumsal-teklif-al" className="text-white underline underline-offset-4">kurumsal teklif talebi</Link>
+            {" "}<Link href="/kurumsal-teklif-al" className="text-black underline underline-offset-4">kurumsal teklif talebi</Link>
             {" "}oluşturabilirsiniz.
           </p>
         </section>
@@ -278,7 +291,7 @@ export default function ProductsPage() {
 
 function ProductsLoadingFallback() {
   return (
-    <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+    <div className="grid grid-cols-2 gap-3 md:grid-cols-3 md:gap-4 xl:grid-cols-4">
       {Array.from({ length: 6 }).map((_, i) => (
         <div
           key={i}

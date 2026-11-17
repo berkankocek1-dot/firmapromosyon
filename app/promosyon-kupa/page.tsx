@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { visibleProducts } from "@/data/productVisibility";
@@ -103,7 +104,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -163,25 +164,25 @@ export default function Page() {
         />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">Promosyon Kupa</span>
+          <span className="font-semibold text-black">Promosyon Kupa</span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon Kupa
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Logo baskılı seramik ve porselen kupa, fincan ve set modellerini
             inceleyin. Hacim, kulp, renk ve baskı alanını karşılaştırarak ofis
             kullanımı veya kurumsal hediye siparişiniz için güncel teklif alın.
@@ -190,19 +191,17 @@ export default function Page() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-kupa-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src="/category-heroes/clean/promosyon-kahve-fincani-kvf-100-v2-clean.webp" alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
       <KupaProductGrid products={list} />
@@ -213,9 +212,9 @@ export default function Page() {
       )}
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Kupa mı Fincan mı? Kullanıma Göre Model Seçimi</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Kupa mı Fincan mı? Kullanıma Göre Model Seçimi</h2>
             <p>
               Ofis masasında günlük içecek tüketimi için kupa; karşılama alanı,
               toplantı veya kahve sunumu için fincan ve set seçenekleri
@@ -231,11 +230,11 @@ export default function Page() {
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Promosyon Kupa ve Fincan Modellerini Karşılaştırın</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Promosyon Kupa ve Fincan Modellerini Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Kupa ve fincan türleri, kullanım örnekleri ve seçimde kontrol edilecek özellikler</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model grubu</th>
                     <th scope="col" className="px-4 py-3">Kullanım örneği</th>
@@ -250,7 +249,7 @@ export default function Page() {
                     ["Kahve fincanı seti", "Ofis, toplantı ve karşılama alanları", "Fincan hacmi, set içeriği ve sipariş birimi"],
                   ].map(([model, usage, detail]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{usage}</td>
                       <td className="px-4 py-4">{detail}</td>
                     </tr>
@@ -258,15 +257,15 @@ export default function Page() {
                 </tbody>
               </table>
             </div>
-            <p className="mt-3 text-sm leading-6 text-gray-300">
+            <p className="mt-3 text-sm leading-6 text-gray-600">
               Aynı malzeme grubundaki modellerin ölçüsü ve baskı özellikleri farklı
               olabilir. Tabak, kutu veya başka bir parçanın sete dahil olduğunu varsaymayın;
               ürün açıklamasındaki içeriği esas alın.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Logo Baskısı ve Kullanılabilir Uygulama Alanı</h2>
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Logo Baskısı ve Kullanılabilir Uygulama Alanı</h2>
             <p>
               Katalogda süblimasyon baskıya uygun olduğu belirtilen modellerde
               renkli logo veya görsel uygulaması değerlendirilebilir. Uygunluk,
@@ -287,8 +286,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Kupa ve Fincan Fiyatları Nasıl Belirlenir?</h2>
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon Kupa ve Fincan Fiyatları Nasıl Belirlenir?</h2>
             <p>
               Bu sayfadaki modeller için güncel fiyat teklif yoluyla paylaşılır.
               Aynı ürünü karşılaştırırken adet veya set sayısını ve baskı kapsamını
@@ -308,8 +307,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Baskılı Kupa Bakımı ve Kullanım Bilgileri</h2>
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Baskılı Kupa Bakımı ve Kullanım Bilgileri</h2>
             <p>
               Bulaşık makinesi ve mikrodalga uygunluğunu bütün kupa modelleri için
               aynı kabul etmeyin. Hem ürünün hem de uygulanan baskının bakım
@@ -325,43 +324,45 @@ export default function Page() {
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toptan Kupa Siparişi İçin Gerekli Bilgiler</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toptan Kupa Siparişi İçin Gerekli Bilgiler</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Ürün kodunu, renk tercihini ve adet ya da set sayısını belirleyin.</li>
               <li>Logo veya görsel dosyanızı ve istediğiniz baskı konumunu paylaşın.</li>
               <li>Özel kutu, ayrı paketleme ve teslimat adresi taleplerini ekleyin.</li>
               <li>Etkinlik tarihinizi belirtin; stok ve üretim süresini teyit edin.</li>
               <li>Tasarım yerleşimi, toplam bedel, KDV ve sevkiyat kapsamını netleştirin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Baskı yöntemleri hakkında{" "}
-              <Link href="/rehber/promosyon-kupa-baski" className="font-semibold text-white underline underline-offset-4">promosyon kupa baskı rehberini</Link>{" "}
+              <Link href="/rehber/promosyon-kupa-baski" className="font-semibold text-black underline underline-offset-4">promosyon kupa baskı rehberini</Link>{" "}
               inceleyebilirsiniz. Günlük taşımaya yönelik bir ürün arıyorsanız{" "}
-              <Link href="/promosyon-termos" className="font-semibold text-white underline underline-offset-4">termos modellerini</Link>;{" "}
+              <Link href="/promosyon-termos" className="font-semibold text-black underline underline-offset-4">termos modellerini</Link>;{" "}
               hediye setinizi tamamlamak için{" "}
-              <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">kalem</Link>{" "}
+              <Link href="/promosyon-kalem" className="font-semibold text-black underline underline-offset-4">kalem</Link>{" "}
               ve{" "}
-              <Link href="/promosyon-defter" className="font-semibold text-white underline underline-offset-4">defter seçeneklerini</Link>{" "}
+              <Link href="/promosyon-defter" className="font-semibold text-black underline underline-offset-4">defter seçeneklerini</Link>{" "}
               de değerlendirebilirsiniz.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Kupa ve Fincan Siparişi İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Promosyon Kupa ve Fincan Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">Promosyon Kupa ve Fincan Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-6 space-y-4">
               {faqItems.map((item) => (
-                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                <div key={item.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                  <h3 className="text-lg font-semibold text-black">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{item.answer}</p>
                 </div>
               ))}
             </div>
           </section>
         </div>
       )}
-    </div>
+
+<section aria-labelledby="promosyon-kupa-rehber-karti" className="mt-10 rounded-2xl border border-gray-200 bg-gray-50 p-5 md:p-6"><h2 id="promosyon-kupa-rehber-karti" className="text-xl font-bold text-black">Seçim ve Baskı Rehberi</h2><Link href="/rehber/promosyon-kupa-baski" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-kupa-baski-kapak-20261115.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 1200px" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Promosyon Kupa Baskı Rehberi | Model, Logo ve Sipariş Kontrolü</h3><p className="mt-2 max-w-3xl text-sm leading-6 text-white/90">Logo baskılı kupada model ve kaplama uygunluğu, baskı yerleşimi, numune, teklif ve ambalaj koşullarını birlikte değerlendirin.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link></section>
+</div></div>
   );
 }

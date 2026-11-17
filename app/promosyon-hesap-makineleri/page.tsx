@@ -1,3 +1,4 @@
+import FpCategoryCatalog from "../_components/FpCategoryCatalog";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -102,7 +103,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -157,27 +158,27 @@ export default function Page() {
         }} />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">
+          <span className="font-semibold text-black">
             Promosyon Hesap Makineleri
           </span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon Hesap Makineleri
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             12 haneli masaüstü hesap makinelerini gövde ölçüsü, logo alanı
             ve yazılabilir not ekranı seçenekleriyle karşılaştırın.
             Ofis ve kurumsal hediye siparişleri için güncel teklif alın.
@@ -186,70 +187,20 @@ export default function Page() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-hesap-makineleri-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src={list[0].image} alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
-      <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {list.map((p) => (
-          <Link
-            key={p.id}
-            href={`/urunler/${p.slug}`}
-            className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
-          >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
-              <Image
-                src={p.image}
-                alt={p.title}
-                fill
-                unoptimized
-  loading="lazy"
-                className="object-contain bg-white p-4"
-                sizes="(max-width: 768px) 100vw, 33vw"
-              />
-            </div>
-
-            <div className="mt-4">
-              <div className="text-xs font-semibold uppercase tracking-wide text-gray-500">
-                {p.category}
-              </div>
-
-              <h2 className="mt-1 text-lg font-bold text-gray-900">
-                {p.title}
-              </h2>
-
-              <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
-                {p.shortDesc}
-              </p>
-              {p.price && (
-                <div className="mt-3">
-                  <div className="text-base font-bold text-gray-900">
-                    {p.price.toLocaleString("tr-TR")} TL + KDV
-                  </div>
-
-                  <div className="mt-1 text-xs font-medium text-green-600">
-                    Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.
-                  </div>
-                </div>
-              )}
-              <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
-                Ürünü İncele
-              </div>
-            </div>
-          </Link>
-        ))}
-      </section>
+      <FpCategoryCatalog anchorId="promosyon-hesap-makineleri-modelleri" showPrices={true} products={list.map(p => ({id:p.id,slug:p.slug,title:p.title,image:p.image,category:p.category,shortDesc:p.shortDesc,price:p.price,priceNote:"Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın."}))} />
 
       {list.length === 0 && (
         <p className="mt-10 text-center text-gray-600">
@@ -258,9 +209,9 @@ export default function Page() {
       )}
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Logo Baskılı Hesap Makinesi Nasıl Seçilir?</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Logo Baskılı Hesap Makinesi Nasıl Seçilir?</h2>
             <p>
               Ofis, satış masası veya müşteri hediyesi için model seçerken
               masa üzerindeki alanı, ekran ve tuş yerleşimini, ihtiyaç duyulan
@@ -275,11 +226,11 @@ export default function Page() {
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">12 Haneli Hesap Makinesi Modellerini Karşılaştırın</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">12 Haneli Hesap Makinesi Modellerini Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Hesap makinelerinin belirtilen ürün ölçüleri, baskı alanları ve model farkları</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model</th>
                     <th scope="col" className="px-4 py-3">Ürün ölçüsü</th>
@@ -296,7 +247,7 @@ export default function Page() {
                     ["HM-150", "23 x 10 x 12 cm", "80 x 25 mm logo alanı; eğimli masaüstü form"],
                   ].map(([model, size, detail]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{size}</td>
                       <td className="px-4 py-4">{detail}</td>
                     </tr>
@@ -306,8 +257,8 @@ export default function Page() {
             </div>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Gövde Ölçüsü, Renk ve Masa Yerleşimi</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Gövde Ölçüsü, Renk ve Masa Yerleşimi</h2>
             <p>
               HM-110 için belirtilen 12 mm kalınlık ile HM-100 için belirtilen
               40 mm kalınlık masa yerleşiminde farklı seçenekler sunar.
@@ -323,8 +274,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">HM-140 Yazılabilir Not Ekranlı Model</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">HM-140 Yazılabilir Not Ekranlı Model</h2>
             <p>
               HM-140, 12 haneli hesap makinesini yan bölümdeki yazılabilir not
               ekranı ve yazım kalemiyle birleştiren kapaklı modeldir.
@@ -339,13 +290,13 @@ export default function Page() {
             </p>
             <p>
               Kağıt üzerinde not alma ihtiyacı için{" "}
-              <Link href="/promosyon-defter" className="font-semibold text-white underline underline-offset-4">tarihsiz defter</Link>{" "}
+              <Link href="/promosyon-defter" className="font-semibold text-black underline underline-offset-4">tarihsiz defter</Link>{" "}
               seçeneklerini de karşılaştırabilirsiniz.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Hesap Makinesine Logo Baskısı</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Hesap Makinesine Logo Baskısı</h2>
             <p>
               HM-100, HM-110 ve HM-150 için serigrafi veya tampon baskı;
               HM-130 için UV veya serigrafi; HM-140 için serigrafi, tampon
@@ -365,8 +316,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Hesap Makinesi Fiyatları ve Sipariş Kapsamı</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon Hesap Makinesi Fiyatları ve Sipariş Kapsamı</h2>
             <p>
               Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV
               ayrıca belirtilir. Fiyatı bulunmayan modeller için güncel teklif
@@ -386,33 +337,33 @@ export default function Page() {
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toplu Hesap Makinesi Sipariş Adımları</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toplu Hesap Makinesi Sipariş Adımları</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Ürün kodunu, adedi ve renk tercihini paylaşın.</li>
               <li>İhtiyaç duyduğunuz hesaplama işlevlerini ve enerji kaynağını teyit edin.</li>
               <li>Logo dosyanızı, baskı konumunu ve renk beklentinizi iletin.</li>
               <li>Paketleme talebini, teslimat adresini ve etkinlik tarihini belirtin.</li>
               <li>Stok, tasarım yerleşimi, toplam tutar ve teslim süresini netleştirin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Ofis masasını tamamlamak için{" "}
-              <Link href="/promosyon-ahsap-ve-deri-masaustu-urunler" className="font-semibold text-white underline underline-offset-4">masaüstü organizerleri</Link>{" "}
+              <Link href="/promosyon-ahsap-ve-deri-masaustu-urunler" className="font-semibold text-black underline underline-offset-4">masaüstü organizerleri</Link>{" "}
               veya{" "}
-              <Link href="/promosyon-masa-sumeni" className="font-semibold text-white underline underline-offset-4">masa sümeni setlerini</Link>{" "}
+              <Link href="/promosyon-masa-sumeni" className="font-semibold text-black underline underline-offset-4">masa sümeni setlerini</Link>{" "}
               inceleyebilirsiniz. Ek ürünleri teklif kapsamına ayrıca belirtin.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Hesap Makinesi İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Hesap Makineleri Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">Hesap Makineleri Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-6 space-y-4">
               {faqItems.map((item) => (
-                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                <div key={item.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                  <h3 className="text-lg font-semibold text-black">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{item.answer}</p>
                 </div>
               ))}
             </div>
@@ -422,8 +373,8 @@ export default function Page() {
       <section aria-labelledby="hesap-makinesi-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="hesap-makinesi-rehberi-baslik" className="text-xl font-bold !text-black">Ekran, Tuş Düzeni ve Logo Alanını Karşılaştırın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Masaüstü kullanımını, not ekranı seçeneklerini ve güç kaynağı için teyit edilecek bilgileri inceleyerek baskı kapsamını planlayın.</p>
-        <Link href="/rehber/promosyon-hesap-makinesi-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Hesap Makinesi Seçim ve Baskı Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-hesap-makinesi-secim-ve-baski-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-hesap-makinesi-secim-ve-baski-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Hesap Makinesi Seçim ve Baskı Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Masaüstü hesap makinelerini ekran, tuş düzeni, gövde ve logo alanıyla karşılaştırın. Not ekranı seçeneklerini ve güç kaynağı için sorulacakları öğrenin.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

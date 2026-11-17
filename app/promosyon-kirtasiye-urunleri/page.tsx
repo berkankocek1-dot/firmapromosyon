@@ -1,3 +1,4 @@
+import FpCategoryCatalog from "../_components/FpCategoryCatalog";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -102,7 +103,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -157,27 +158,27 @@ export default function Page() {
         }} />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">
+          <span className="font-semibold text-black">
             Promosyon Kırtasiye Ürünleri
           </span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon Kırtasiye Ürünleri
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Cetvel, fosforlu kalem, sınav seti, kalemtıraş ve silgi modellerini
             ölçü ve içeriklerine göre karşılaştırın. Okul, eğitim ve ofis
             dağıtımları için logo uygulaması ve toplu sipariş teklifi alın.
@@ -186,79 +187,22 @@ export default function Page() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-kirtasiye-urunleri-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src={list[0].image} alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
-      <p className="mt-8 text-sm font-medium !text-white">
-        {list.length} ürün gösteriliyor
-      </p>
 
-      <section className="mt-6 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {list.map((p) => (
-          <Link
-            key={p.id}
-            href={`/urunler/${p.slug}`}
-            className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
-          >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
-              <Image
-                src={p.image}
-                alt={p.title}
-                fill
-                unoptimized
-loading="lazy"
-                className="object-contain bg-white p-4"
-                sizes="(max-width: 768px) 100vw, 33vw"
-              />
-            </div>
 
-            <div className="mt-4">
-              <div className="text-xs font-semibold uppercase tracking-wide text-gray-500">
-                {p.category}
-              </div>
-
-              <h2 className="mt-1 text-lg font-bold text-gray-900">
-                {p.title}
-              </h2>
-
-              <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
-                {p.shortDesc}
-              </p>
-
-              {p.price != null ? (
-                <div className="mt-3">
-                  <div className="text-base font-bold text-gray-900">
-                    {p.price.toLocaleString("tr-TR")} TL + KDV
-                  </div>
-                  <div className="mt-1 text-xs font-medium text-green-600">
-                    Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.
-                  </div>
-                </div>
-              ) : (
-                <p className="mt-3 text-sm font-semibold text-gray-900">
-                  Güncel fiyat için teklif alın.
-                </p>
-              )}
-
-              <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
-                Ürünü İncele
-              </div>
-            </div>
-          </Link>
-        ))}
-      </section>
+      <FpCategoryCatalog anchorId="promosyon-kirtasiye-urunleri-modelleri" showPrices={true} products={list.map(p => ({id:p.id,slug:p.slug,title:p.title,image:p.image,category:p.category,shortDesc:p.shortDesc,price:p.price,priceNote:"Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın."}))} />
 
       {list.length === 0 && (
         <p className="mt-10 text-center text-gray-600">
@@ -267,9 +211,9 @@ loading="lazy"
       )}
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Okul ve Ofis İçin Promosyon Kırtasiye Seçimi</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Okul ve Ofis İçin Promosyon Kırtasiye Seçimi</h2>
             <p>
               Eğitim kampanyası, seminer veya ofis dağıtımı için önce ihtiyaç
               duyulan ürünleri belirleyin. Tekli cetvel, silgi ve kalemtıraş
@@ -285,11 +229,11 @@ loading="lazy"
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Kırtasiye Modellerini Karşılaştırın</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Kırtasiye Modellerini Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Kırtasiye ürünlerinin belirtilen ölçüleri, içerikleri ve kontrol noktaları</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model</th>
                     <th scope="col" className="px-4 py-3">Belirtilen özellikler</th>
@@ -306,7 +250,7 @@ loading="lazy"
                     ["SG-260", "50 x 25 x 10 mm beyaz silgi", "Logo yöntemi ve uygulanabilir alan"],
                   ].map(([model, features, detail]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{features}</td>
                       <td className="px-4 py-4">{detail}</td>
                     </tr>
@@ -316,8 +260,8 @@ loading="lazy"
             </div>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">KK-620 Sınav Setinin İçeriği</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">KK-620 Sınav Setinin İçeriği</h2>
             <p>
               KK-620, şeffaf kutuda bir siyah uçlu kurşun kalem, bir kırmızı
               uçlu kurşun kalem, bir kapaksız kalemtıraş ve bir silgi içerir.
@@ -332,14 +276,14 @@ loading="lazy"
             </p>
             <p>
               Daha geniş yazım ürünü seçenekleri için{" "}
-              <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">promosyon kalem modellerini</Link>{" "}
+              <Link href="/promosyon-kalem" className="font-semibold text-black underline underline-offset-4">promosyon kalem modellerini</Link>{" "}
               inceleyebilirsiniz. Ek kalemleri set içeriğine dahil kabul
               etmeyin; teklif sırasında ayrıca belirtin.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Renk, Ölçü ve Kullanım Farkları</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Renk, Ölçü ve Kullanım Farkları</h2>
             <p>
               FK-550 tek gövdede sarı, yeşil, mavi, pembe ve turuncu olmak
               üzere beş fosforlu renk sunar. Her renk için ayrı kapak ve
@@ -359,8 +303,8 @@ loading="lazy"
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Kırtasiye Ürünlerine Logo Uygulaması</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Kırtasiye Ürünlerine Logo Uygulaması</h2>
             <p>
               CT-200, FK-550, KK-620 ve SG-260 için baskı yöntemi, alanı
               ve bedeli ürün yüzeyi ile tasarıma göre teklif aşamasında
@@ -375,8 +319,8 @@ loading="lazy"
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Toplu Kırtasiye Fiyatlarını Karşılaştırırken</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Toplu Kırtasiye Fiyatlarını Karşılaştırırken</h2>
             <p>
               Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV
               ayrıca belirtilir. Fiyatı bulunmayan modeller için güncel teklif
@@ -396,33 +340,33 @@ loading="lazy"
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toplu Kırtasiye Sipariş Adımları</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toplu Kırtasiye Sipariş Adımları</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Ürün kodlarını ve her üründen istediğiniz adedi belirtin.</li>
               <li>Renk dağılımını, ölçüleri ve varsa set içeriğini teyit edin.</li>
               <li>Logo dosyasını ve uygulama yapılacak parçaları paylaşın.</li>
               <li>Paketleme talebini, teslimat adresini ve etkinlik tarihini bildirin.</li>
               <li>Stok, tasarım yerleşimi, toplam bedel ve teslim süresini netleştirin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Not alma ihtiyaçları için{" "}
-              <Link href="/promosyon-defter" className="font-semibold text-white underline underline-offset-4">defterleri</Link>{" "}
+              <Link href="/promosyon-defter" className="font-semibold text-black underline underline-offset-4">defterleri</Link>{" "}
               ve{" "}
-              <Link href="/promosyon-yapiskanli-notluklar" className="font-semibold text-white underline underline-offset-4">yapışkanlı notlukları</Link>{" "}
+              <Link href="/promosyon-yapiskanli-notluklar" className="font-semibold text-black underline underline-offset-4">yapışkanlı notlukları</Link>{" "}
               da karşılaştırabilirsiniz. Ek ürünleri teklif kapsamına ayrıca ekletin.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Kırtasiye Ürünleri İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Kırtasiye Ürünleri Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">Kırtasiye Ürünleri Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-6 space-y-4">
               {faqItems.map((item) => (
-                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                <div key={item.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                  <h3 className="text-lg font-semibold text-black">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{item.answer}</p>
                 </div>
               ))}
             </div>
@@ -432,8 +376,8 @@ loading="lazy"
       <section aria-labelledby="kirtasiye-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="kirtasiye-rehberi-baslik" className="text-xl font-bold !text-black">Kırtasiye Dağıtımını ve Parça Bazında Baskıyı Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Cetvel, fosforlu kalem, silgi, kalemtıraş ve hazır setleri kullanım ihtiyacına göre değerlendirin; paket içeriğini ve logo kapsamını netleştirin.</p>
-        <Link href="/rehber/promosyon-kirtasiye-urunleri-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Kırtasiye Ürünleri Seçim ve Baskı Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-kirtasiye-urunleri-secim-ve-baski-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-kirtasiye-urunleri-secim-ve-baski-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Kırtasiye Ürünleri Seçim ve Baskı Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Cetvel, fosforlu kalem, silgi, kalemtıraş ve sınav setlerini kullanım ihtiyacına göre seçin. Set içeriğini, parça uyumunu ve logo kapsamını planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

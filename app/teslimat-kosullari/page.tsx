@@ -1,3 +1,4 @@
+import FpLegalPage from "../_components/FpLegalPage";
 import type { Metadata } from "next";
 
 const SITE_URL = "https://www.firmapromosyon.com";
@@ -11,19 +12,14 @@ export const metadata: Metadata = {
 
 export default function Page() {
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
-      <section className="rounded-3xl bg-black px-6 py-10 text-white md:px-10">
-        <h1 className="text-3xl font-extrabold text-white md:text-4xl">
-          Teslimat Koşulları
-        </h1>
-
-        <p className="mt-3 text-sm text-gray-300">
+    <FpLegalPage title="Teslimat Koşulları" href="/teslimat-kosullari">
+<p className="mt-3 text-sm text-gray-500">
           Güncelleme Tarihi: 2026
         </p>
 
-        <div className="mt-10 space-y-10 text-gray-200 leading-7">
+        <div className="mt-6 space-y-8 text-gray-700 leading-7">
           <section>
-            <h2 className="text-xl font-bold text-white">1. Genel Bilgilendirme</h2>
+            <h2 className="text-xl font-bold text-gray-900">1. Genel Bilgilendirme</h2>
 
             <p className="mt-3">
               FirmaPromosyon üzerinden verilen siparişlerde teslimat süresi;
@@ -38,7 +34,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">2. Baskısız Ürün Teslimatı</h2>
+            <h2 className="text-xl font-bold text-gray-900">2. Baskısız Ürün Teslimatı</h2>
 
             <p className="mt-3">
               Baskısız ve stokta hazır bulunan ürünler, sipariş onayı ve ödeme
@@ -53,7 +49,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">3. Baskılı ve Özel Üretim Siparişler</h2>
+            <h2 className="text-xl font-bold text-gray-900">3. Baskılı ve Özel Üretim Siparişler</h2>
 
             <p className="mt-3">
               Logo baskılı, kişiye özel veya kurumsal taleplere göre hazırlanan
@@ -68,29 +64,17 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">4. Teslimat Süresini Etkileyen Unsurlar</h2>
+            <h2 className="text-xl font-bold text-gray-900">4. Teslimat Süresini Etkileyen Unsurlar</h2>
 
             <p className="mt-3">
               Aşağıdaki durumlar teslimat süresini etkileyebilir:
             </p>
 
-            <p className="mt-3">
-              • Ürünün stok durumu
-              <br />
-              • Baskı veya üretim süresi
-              <br />
-              • Sipariş adedi
-              <br />
-              • Resmi tatiller ve yoğun dönemler
-              <br />
-              • Kargo firmasının çalışma koşulları
-              <br />
-              • Teslimat adresinin uzaklığı
-            </p>
+            <ul className="mt-3 list-disc space-y-2 pl-5"><li>Ürünün stok durumu</li><li>Baskı veya üretim süresi</li><li>Sipariş adedi</li><li>Resmi tatiller ve yoğun dönemler</li><li>Kargo firmasının çalışma koşulları</li><li>Teslimat adresinin uzaklığı</li></ul>
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">5. Kargo ve Taşıma</h2>
+            <h2 className="text-xl font-bold text-gray-900">5. Kargo ve Taşıma</h2>
 
             <p className="mt-3">
               Siparişler uygun görülen kargo veya taşıma yöntemi ile ALICI’ya
@@ -105,7 +89,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">6. Teslimat Adresi Sorumluluğu</h2>
+            <h2 className="text-xl font-bold text-gray-900">6. Teslimat Adresi Sorumluluğu</h2>
 
             <p className="mt-3">
               ALICI, teslimat adresi, iletişim bilgileri ve teslim alacak kişi
@@ -119,7 +103,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">7. Teslimat Sırasında Kontrol</h2>
+            <h2 className="text-xl font-bold text-gray-900">7. Teslimat Sırasında Kontrol</h2>
 
             <p className="mt-3">
               Ürün teslimatı sırasında paketlerin dış görünüşünde ezilme, yırtılma,
@@ -133,7 +117,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">8. Gecikmeler ve Mücbir Sebepler</h2>
+            <h2 className="text-xl font-bold text-gray-900">8. Gecikmeler ve Mücbir Sebepler</h2>
 
             <p className="mt-3">
               Hava koşulları, resmi tatiller, ulaşım sorunları, üretim gecikmeleri,
@@ -147,7 +131,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">9. Parça Parça Teslimat</h2>
+            <h2 className="text-xl font-bold text-gray-900">9. Parça Parça Teslimat</h2>
 
             <p className="mt-3">
               Gerekli görülen durumlarda sipariş içeriği, üretim veya tedarik
@@ -156,7 +140,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">10. Yürürlük</h2>
+            <h2 className="text-xl font-bold text-gray-900">10. Yürürlük</h2>
 
             <p className="mt-3">
               FirmaPromosyon üzerinden sipariş veren kullanıcılar, sipariş süreci
@@ -164,7 +148,6 @@ export default function Page() {
             </p>
           </section>
         </div>
-      </section>
-    </main>
+    </FpLegalPage>
   );
 }

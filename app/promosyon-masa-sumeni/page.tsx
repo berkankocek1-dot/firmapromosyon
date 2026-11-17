@@ -1,3 +1,4 @@
+import FpCategoryCatalog from "../_components/FpCategoryCatalog";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -102,7 +103,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -157,27 +158,27 @@ export default function Page() {
         }} />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">
+          <span className="font-semibold text-black">
             Promosyon Masa Sümeni
           </span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon Masa Sümeni
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Baskılı masa sümeni arayan firmalar için altı parçalı sümen setlerini
             ve kristal masa setlerini bir arada sunuyoruz. Set içeriğini, ürün
             ölçülerini ve logo uygulama seçeneklerini karşılaştırarak kurumsal
@@ -187,70 +188,20 @@ export default function Page() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-masa-sumeni-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src={list[0].image} alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
-      <section className="mt-8 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {list.map((p) => (
-          <Link
-            key={p.id}
-            href={`/urunler/${p.slug}`}
-            className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
-          >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
-              <Image
-                src={p.image}
-                alt={p.title}
-                fill
-                unoptimized
-loading="lazy"
-                className="object-contain bg-white p-4"
-                sizes="(max-width: 768px) 100vw, 33vw"
-              />
-            </div>
-
-            <div className="mt-4">
-              <div className="text-xs font-semibold uppercase tracking-wide text-gray-500">
-                {p.category}
-              </div>
-
-              <h2 className="mt-1 text-lg font-bold text-gray-900">
-                {p.title}
-              </h2>
-
-              <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
-                {p.shortDesc}
-              </p>
-              {p.price && (
-                <div className="mt-3">
-                  <div className="text-base font-bold text-gray-900">
-                    {p.price.toLocaleString("tr-TR")} TL + KDV
-                  </div>
-
-                  <div className="mt-1 text-xs font-medium text-green-600">
-                    Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.
-                  </div>
-                </div>
-              )}
-              <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
-                Ürünü İncele
-              </div>
-            </div>
-          </Link>
-        ))}
-      </section>
+      <FpCategoryCatalog anchorId="promosyon-masa-sumeni-modelleri" showPrices={true} products={list.map(p => ({id:p.id,slug:p.slug,title:p.title,image:p.image,category:p.category,shortDesc:p.shortDesc,price:p.price,priceNote:"Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın."}))} />
 
       {list.length === 0 && (
         <p className="mt-10 text-center text-gray-600">
@@ -259,9 +210,9 @@ loading="lazy"
       )}
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Masa Sümeni ve Kristal Masa Seti Seçimi</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Masa Sümeni ve Kristal Masa Seti Seçimi</h2>
             <p>
               Yazı alanı, notluk ve diğer masa aksesuarlarını aynı takımda
               kullanmak istiyorsanız MSN serisi sümen setlerinin içeriklerini
@@ -277,11 +228,11 @@ loading="lazy"
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Altı Parçalı Sümen Setlerini Karşılaştırın</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Altı Parçalı Sümen Setlerini Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Masa sümeni modellerinin belirtilen altı parçalık içerikleri</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model</th>
                     <th scope="col" className="px-4 py-3">Set içeriği</th>
@@ -295,7 +246,7 @@ loading="lazy"
                     ["MSN-120", "Masa sümeni, kalemlik, kağıtlık, küp notluk, mouse pad, bardak altlığı", "Mouse pad ve kağıtlık"],
                   ].map(([model, contents, difference]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{contents}</td>
                       <td className="px-4 py-4">{difference}</td>
                     </tr>
@@ -303,7 +254,7 @@ loading="lazy"
                 </tbody>
               </table>
             </div>
-            <p className="mt-4 max-w-4xl text-sm leading-6 text-gray-200">
+            <p className="mt-4 max-w-4xl text-sm leading-6 text-gray-600">
               MSN-120 set listesinde kalem seti bulunmaz. MSN-110 için telefon
               standı veya mouse pad belirtilmez. Takvimlik bulunması güncel yıl
               takviminin de dahil olduğunu göstermez; kağıt ve takvim içeriğini teyit edin.
@@ -311,11 +262,11 @@ loading="lazy"
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Kristal Masa Setlerinde Ölçü ve Baskı Alanı</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[480px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Kristal Masa Setlerinde Ölçü ve Baskı Alanı</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[480px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Kristal masa setlerinin ürün ölçüleri ve belirtilen baskı alanları</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model</th>
                     <th scope="col" className="px-4 py-3">Ürün ölçüsü</th>
@@ -329,7 +280,7 @@ loading="lazy"
                     ["KMS-150", "20 x 50 cm", "60 x 200 mm"],
                   ].map(([model, size, printArea]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{size}</td>
                       <td className="px-4 py-4">{printArea}</td>
                     </tr>
@@ -337,7 +288,7 @@ loading="lazy"
                 </tbody>
               </table>
             </div>
-            <p className="mt-4 max-w-4xl text-sm leading-6 text-gray-200">
+            <p className="mt-4 max-w-4xl text-sm leading-6 text-gray-600">
               Ürün ölçüsü masa üzerindeki yerleşim için, baskı alanı ise logo
               tasarımı için kullanılır. KMS-140 bu üç modelin en kompakt seçeneğidir.
               KMS-150 için 50 cm uzunluğundaki yerleşimi ekran ve çalışma alanıyla
@@ -345,8 +296,8 @@ loading="lazy"
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Malzeme, Parça Ölçüsü ve Masa Düzeni</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Malzeme, Parça Ölçüsü ve Masa Düzeni</h2>
             <p>
               MSN serisi sümen setlerinde malzeme ve kaplama türü, parça ölçüleri
               ve renkler sipariş öncesinde netleştirilir. Gerçek deri veya suni
@@ -361,13 +312,13 @@ loading="lazy"
             </p>
             <p>
               Yalnızca kalemlik veya bardak altlığı arıyorsanız{" "}
-              <Link href="/promosyon-ahsap-ve-deri-masaustu-urunler" className="font-semibold text-white underline underline-offset-4">masaüstü organizer ve bardak altlığı modellerini</Link>{" "}
+              <Link href="/promosyon-ahsap-ve-deri-masaustu-urunler" className="font-semibold text-black underline underline-offset-4">masaüstü organizer ve bardak altlığı modellerini</Link>{" "}
               de inceleyebilirsiniz.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Logo Hangi Parçalara Uygulanacak?</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Logo Hangi Parçalara Uygulanacak?</h2>
             <p>
               Sümen setinde logo uygulanacak parçaları ayrı ayrı belirtin.
               Yöntem ve alan her bileşenin yüzeyine göre değerlendirilir;
@@ -382,8 +333,8 @@ loading="lazy"
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Masa Sümeni Fiyatlarını Karşılaştırırken</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon Masa Sümeni Fiyatlarını Karşılaştırırken</h2>
             <p>
               Ürün kartlarında gösterilen fiyatlar baskı hariçtir; KDV ayrıca
               belirtilir. Karşılaştırmayı aynı model, adet ve logo kapsamıyla
@@ -399,33 +350,33 @@ loading="lazy"
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toplu Masa Sümeni Sipariş Adımları</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toplu Masa Sümeni Sipariş Adımları</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Model kodunu, adedi ve renk tercihinizi paylaşın.</li>
               <li>Set içeriğini, parça ölçülerini ve malzeme beklentinizi netleştirin.</li>
               <li>Logo dosyanızı ve uygulanmasını istediğiniz parçaları belirtin.</li>
               <li>Kişiye özel yazı, paketleme, teslimat adresi ve etkinlik tarihini bildirin.</li>
               <li>Stok, tasarım yerleşimi, toplam bedel ve teslim süresini teyit edin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Ayrı bir yazım hediyesi eklemek için{" "}
-              <Link href="/promosyon-kalem-setleri" className="font-semibold text-white underline underline-offset-4">kalem setlerini</Link>,{" "}
+              <Link href="/promosyon-kalem-setleri" className="font-semibold text-black underline underline-offset-4">kalem setlerini</Link>,{" "}
               farklı kurumsal hediye içerikleri için{" "}
-              <Link href="/promosyon-vip-urunler" className="font-semibold text-white underline underline-offset-4">VIP ürünleri</Link>{" "}
+              <Link href="/promosyon-vip-urunler" className="font-semibold text-black underline underline-offset-4">VIP ürünleri</Link>{" "}
               karşılaştırabilirsiniz. Ek ürünleri teklif kapsamına ayrıca ekletin.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Masa Sümeni ve Kristal Set İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Masa Sümeni Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">Masa Sümeni Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-6 space-y-4">
               {faqItems.map((item) => (
-                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                <div key={item.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                  <h3 className="text-lg font-semibold text-black">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{item.answer}</p>
                 </div>
               ))}
             </div>
@@ -435,8 +386,8 @@ loading="lazy"
       <section aria-labelledby="masaustu-sumen-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="masaustu-sumen-rehberi-baslik" className="text-xl font-bold !text-black">Masaüstü Ürünlerini ve Sümen Yerleşimini Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Masa alanı, bölmeler, set içeriği ve malzemeyi birlikte değerlendirin; her parçanın logo alanını ve teslim kapsamını netleştirin.</p>
-        <Link href="/rehber/promosyon-masaustu-urunleri-ve-sumen-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Masaüstü Ürünleri ve Sümen Seçim Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-masaustu-urunleri-ve-sumen-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-masaustu-urunleri-ve-sumen-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Masaüstü Ürünleri ve Sümen Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Masaüstü organizer, sümen ve kristal masa setlerini alan, içerik ve malzemeyle değerlendirin. Bölme uyumu, parça başına logo ve kurumsal dağıtımı planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

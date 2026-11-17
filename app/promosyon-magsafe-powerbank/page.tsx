@@ -1,3 +1,4 @@
+import FpCategoryCatalog from "../_components/FpCategoryCatalog";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -20,7 +21,7 @@ function JsonLd({data}: {data: Record<string, unknown>}) {
 }
 export default function Page() {
  const list = sortProductsByCode(visibleProducts.filter(p => p.category === CATEGORY && isMagSafePowerbank(p)));
- return <div className="mx-auto max-w-6xl px-4 py-10">
+ return <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
   <JsonLd data={{"@context":"https://schema.org","@type":"BreadcrumbList",itemListElement:[
    {"@type":"ListItem",position:1,name:"Ana Sayfa",item:`${SITE_URL}/`},
    {"@type":"ListItem",position:2,name:"Promosyon Powerbank",item:`${SITE_URL}/promosyon-powerbank`},
@@ -28,47 +29,40 @@ export default function Page() {
   ]}} />
   <JsonLd data={{"@context":"https://schema.org","@type":"CollectionPage",name:"Promosyon MagSafe Powerbank",description,url:PAGE_URL,mainEntity:{"@type":"ItemList",numberOfItems:list.length,itemListElement:list.map((p,i)=>({"@type":"ListItem",position:i+1,name:p.title,url:`${SITE_URL}/urunler/${p.slug}`}))}}} />
   <JsonLd data={{"@context":"https://schema.org","@type":"FAQPage",mainEntity:faqItems.map(f=>({"@type":"Question",name:f.question,acceptedAnswer:{"@type":"Answer",text:f.answer}}))}} />
-  <section className="mb-8 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-   <nav aria-label="Sayfa yolu" className="mb-5 text-sm text-gray-200"><Link href="/" className="underline">Ana Sayfa</Link> / <Link href="/promosyon-powerbank" className="underline">Promosyon Powerbank</Link> / MagSafe Powerbank</nav>
-   <h1 className="text-3xl font-extrabold text-white md:text-4xl">Logo Baskılı Promosyon MagSafe Powerbank Modelleri</h1>
-   <p className="mt-3 max-w-3xl leading-7 text-gray-200">MagSafe uyumlu olarak tanımlanan powerbank modellerini kapasite, bağlantı ve logo özellikleriyle karşılaştırın. Telefon ve kılıf uyumluluğunu değerlendirerek kurumsal hediye siparişiniz için teklif alın.</p>
-   <div className="mt-5 flex flex-wrap gap-3"><Link href="/kurumsal-teklif-al" className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black">Toplu Sipariş İçin Teklif Al</Link><Link href="/promosyon-powerbank" className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white">Tüm Powerbank Modelleri</Link></div>
-  </section>
-  <p className="mb-4 text-sm font-medium !text-white">{list.length} MagSafe powerbank modeli gösteriliyor</p>
-  <section aria-label="MagSafe powerbank ürün listesi" className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-   {list.map(p=><Link key={p.id} href={`/urunler/${p.slug}`} className="rounded-2xl border border-gray-200 !bg-white p-4 shadow-sm transition hover:shadow-md">
-    <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white"><Image src={p.image} alt={p.title} fill unoptimized loading="lazy" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-contain p-4" /></div>
-    <div className="mt-4"><p className="text-xs font-semibold uppercase tracking-wide !text-gray-500">Powerbank</p><h2 className="mt-1 text-lg font-bold leading-7 !text-black">{p.title}</h2><p className="mt-2 line-clamp-3 text-sm leading-6 !text-gray-700">{p.shortDesc}</p>
-     <p className="mt-3 text-base font-bold !text-black">{typeof p.price === "number" && p.price > 0 ? `${p.price.toLocaleString("tr-TR")} TL + KDV` : "Fiyat için teklif alın"}</p>
-     <p className="mt-1 text-xs leading-5 !text-green-600">Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.</p><span className="mt-4 inline-block rounded-full !bg-black px-5 py-2 text-sm font-semibold !text-white">Ürünü İncele</span>
-    </div></Link>)}
-  </section>
-  <section className="mt-12 space-y-5 rounded-3xl bg-black px-6 py-8 text-gray-200 md:px-8">
-   <h2 className="text-2xl font-bold text-white">MagSafe Powerbank Seçerken Uyumluluk ve Kapasite</h2>
+  <section className="mb-8 rounded-2xl bg-gray-50 px-6 py-6 text-black md:px-8 md:py-6 border border-gray-200">
+   <nav aria-label="Sayfa yolu" className="mb-5 text-sm text-gray-600"><Link href="/" className="underline">Ana Sayfa</Link> / <Link href="/promosyon-powerbank" className="underline">Promosyon Powerbank</Link> / MagSafe Powerbank</nav><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+   <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">Logo Baskılı Promosyon MagSafe Powerbank Modelleri</h1>
+   <p className="mt-3 max-w-3xl leading-7 text-gray-600">MagSafe uyumlu olarak tanımlanan powerbank modellerini kapasite, bağlantı ve logo özellikleriyle karşılaştırın. Telefon ve kılıf uyumluluğunu değerlendirerek kurumsal hediye siparişiniz için teklif alın.</p>
+   <div className="mt-5 flex flex-wrap gap-3"><Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">Toplu Sipariş İçin Teklif Al</Link><Link href="/promosyon-powerbank" className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black">Tüm Powerbank Modelleri</Link></div>
+  </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src="/category-heroes/clean/promosyon-powerbank-8000mah-pb-100-clean.webp" alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></section>
+
+  <FpCategoryCatalog anchorId="promosyon-magsafe-powerbank-modelleri" showPrices={true} products={list.map(p => ({id:p.id,slug:p.slug,title:p.title,image:p.image,category:p.category,shortDesc:p.shortDesc,price:p.price,priceNote:"Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın."}))} />
+  <section className="mt-12 space-y-5 rounded-2xl bg-gray-50 px-6 py-8 text-gray-600 md:px-8 border border-gray-200">
+   <h2 className="text-2xl font-bold text-black">MagSafe Powerbank Seçerken Uyumluluk ve Kapasite</h2>
    <p>MagSafe uyumlu powerbank seçimi, yalnız telefonun arkasına manyetik olarak tutunmasına göre yapılmamalıdır. Telefonun kablosuz şarj desteği, kılıfın yapısı ve seçilen ürünün bağlantıları birlikte değerlendirilir. Bu sayfa, başlık veya kısa ürün bilgisinde MagSafe belirtilen modelleri bir araya getirir; yalnız wireless ifadesi bulunan bütün ürünler bu gruba dahil edilmez.</p>
-   <div className="overflow-x-auto"><table className="w-full min-w-[480px] text-left text-sm"><caption className="sr-only">MagSafe powerbank modellerinin kapasite karşılaştırması</caption><thead><tr><th scope="col" className="p-3 text-white">Kapasite</th><th scope="col" className="p-3 text-white">Modeller</th><th scope="col" className="p-3 text-white">Karşılaştırılacak ayrıntı</th></tr></thead><tbody>{[
+   <div className="overflow-x-auto"><table className="w-full min-w-[480px] text-left text-sm"><caption className="sr-only">MagSafe powerbank modellerinin kapasite karşılaştırması</caption><thead><tr><th scope="col" className="p-3 text-black">Kapasite</th><th scope="col" className="p-3 text-black">Modeller</th><th scope="col" className="p-3 text-black">Karşılaştırılacak ayrıntı</th></tr></thead><tbody>{[
     ["5.000 mAh","PB-190, PB-200","Ölçü, ağırlık ve cihaz uyumu"],
     ["8.000 mAh","PB-100","Kablolu ve kablosuz özellikler"],
     ["10.000 mAh","PB-111, PB-170, PB-180, PB-230, PB-270, PB-320","Çıkış gücü, ek işlevler ve logo alanı"],
-   ].map(([capacity,models,detail])=><tr key={capacity} className="border-t border-white/15"><th scope="row" className="p-3 font-semibold text-white">{capacity}</th><td className="p-3">{models}</td><td className="p-3">{detail}</td></tr>)}</tbody></table></div>
-   <h3 className="text-xl font-bold text-white">Manyetik Tutunma ve Kablosuz Şarj</h3>
+   ].map(([capacity,models,detail])=><tr key={capacity} className="border-t border-gray-200"><th scope="row" className="p-3 font-semibold text-black">{capacity}</th><td className="p-3">{models}</td><td className="p-3">{detail}</td></tr>)}</tbody></table></div>
+   <h3 className="text-xl font-bold text-black">Manyetik Tutunma ve Kablosuz Şarj</h3>
    <p>Manyetik yerleşim ve kablosuz enerji aktarımı farklı özelliklerdir. Telefonun ve kullanılan kılıfın desteğini kontrol edin. MagSafe uyumlu ifadesinden bütün modellerin Apple sertifikalı olduğu, Qi2 desteği sunduğu veya her cihazda aynı güce ulaşacağı sonucu çıkarılamaz. Belirli bir telefon serisine hediye hazırlıyorsanız cihazları teklif talebinde belirtin.</p>
-   <h3 className="text-xl font-bold text-white">Kablolu Çıkış Gücünü Kablosuz Güçten Ayırın</h3>
+   <h3 className="text-xl font-bold text-black">Kablolu Çıkış Gücünü Kablosuz Güçten Ayırın</h3>
    <p>PB-111, PB-170 ve PB-180 bilgilerinde 15W kablosuz şarj belirtilir. PB-170 için ayrıca 22,5W çıkış bilgisi bulunur. Bu iki değeri aynı bağlantıya ait kabul etmeyin. PB-100 ve PB-270 gibi hızlı şarj bilgisi olan modellerde de çıkışın hangi port ve protokolle kullanılacağını ürün detayından teyit edin. Gerçek şarj gücü cihaz desteği ve kullanım koşullarına bağlıdır.</p>
-   <h3 className="text-xl font-bold text-white">5.000, 8.000 ve 10.000 mAh Arasında Seçim</h3>
+   <h3 className="text-xl font-bold text-black">5.000, 8.000 ve 10.000 mAh Arasında Seçim</h3>
    <p>Kapasiteyi, kullanıcının gün içindeki enerji ihtiyacı ve taşıma alışkanlığıyla birlikte düşünün. Daha yüksek kapasite tek başına daha hızlı şarj anlamına gelmez. Telefonun kaç kez doldurulabileceği batarya büyüklüğü, enerji dönüşüm kayıpları ve eş zamanlı kullanımdan etkilenir; yalnız mAh değerinden kesin bir şarj sayısı vaat edilmemelidir.</p>
-   <h3 className="text-xl font-bold text-white">Işıklı Logo ve Diğer Uygulamalar</h3>
+   <h3 className="text-xl font-bold text-black">Işıklı Logo ve Diğer Uygulamalar</h3>
    <p>PB-100, PB-170 ve PB-320 açıklamalarında ışıklı logo veya markalama ayrıntısı bulunur. PB-111 ve PB-180 için UV uygulaması belirtilir. Bu özellikler bütün modellerde ortak değildir. Logonun kullanılabilir alana yerleşimini, küçük yazıların okunurluğunu ve baskı yöntemini model bazında değerlendirin.</p>
    <p>Portlar, göstergeler ve kablosuz şarj yüzeyi tasarımda dikkate alınmalıdır. Mümkünse vektörel logo dosyanızı paylaşın. Kapasitenin yanında gövde ölçüsü, bağlantılar ve varsa saat şarjı gibi ek işlevleri ayrı karşılaştırın; bir modeldeki özelliği diğer ürünlere genellemeyin.</p>
-   <h3 className="text-xl font-bold text-white">Kurumsal MagSafe Powerbank Siparişi</h3>
+   <h3 className="text-xl font-bold text-black">Kurumsal MagSafe Powerbank Siparişi</h3>
    <p>Ürün kodunu, adet ve renk dağılımını, hedef cihazları ve logo isteğinizi iletin. Kutulama veya ayrı paketleme gerekiyorsa bunları da teklif kapsamına ekleyin. Kartlarda fiyat gösterilen tutarlar baskı hariç TL + KDV olarak sunulur; fiyatı bulunmayan modeller için güncel teklif isteyin.</p>
-   <p>Güncel tedarik uygunluğu ve tasarım onayı teslim planını etkiler. Kullanım tarihinizi ve teslimat adresinizi baştan bildirin. Diğer kapasite ve bağlantı seçenekleri için <Link href="/promosyon-powerbank" className="font-semibold text-white underline">tüm promosyon powerbank modellerini</Link> inceleyebilirsiniz.</p>
+   <p>Güncel tedarik uygunluğu ve tasarım onayı teslim planını etkiler. Kullanım tarihinizi ve teslimat adresinizi baştan bildirin. Diğer kapasite ve bağlantı seçenekleri için <Link href="/promosyon-powerbank" className="font-semibold text-black underline">tüm promosyon powerbank modellerini</Link> inceleyebilirsiniz.</p>
   </section>
-  <section className="mt-10 rounded-3xl bg-black px-6 py-8 text-white"><h2 className="text-2xl font-bold text-white">MagSafe Powerbank Hakkında Sık Sorulan Sorular</h2><div className="mt-6 space-y-5">{faqItems.map(f=><div key={f.question}><h3 className="text-lg font-semibold text-white">{f.question}</h3><p className="mt-2 text-sm leading-6 text-gray-200">{f.answer}</p></div>)}</div></section>
+  <section className="mt-10 rounded-2xl bg-gray-50 px-6 py-8 text-black border border-gray-200"><h2 className="text-2xl font-bold text-black">MagSafe Powerbank Hakkında Sık Sorulan Sorular</h2><div className="mt-6 space-y-5">{faqItems.map(f=><div key={f.question}><h3 className="text-lg font-semibold text-black">{f.question}</h3><p className="mt-2 text-sm leading-6 text-gray-600">{f.answer}</p></div>)}</div></section>
   <section aria-labelledby="powerbank-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
     <h2 id="powerbank-secim-rehberi-baslik" className="text-xl font-bold !text-black">Powerbank Seçimini Planlayın</h2>
     <p className="mt-3 text-sm leading-7 !text-gray-700">Kapasite, cihaz ve bağlantı uyumu, kablolu ve kablosuz şarj ile logo seçeneklerini birlikte değerlendirin.</p>
-    <Link href="/rehber/promosyon-powerbank-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Powerbank Seçim Rehberini İncele →</Link>
+    <Link href="/rehber/promosyon-powerbank-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-powerbank-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Powerbank Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Promosyon powerbank seçerken kapasite, kablolu ve kablosuz şarj, MagSafe uyumu, dahili kablo ve logo alanını karşılaştırın. Numune ve toplu sipariş kontrolünü planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
   </section>
- </div>;
+ </div></div>;
 }

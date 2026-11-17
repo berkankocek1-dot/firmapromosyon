@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { visibleProducts } from "@/data/productVisibility";
@@ -102,7 +103,7 @@ export default function UsbPage() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-5 py-6">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -160,52 +161,52 @@ export default function UsbPage() {
         }}
       />
 
-      <section className="rounded-3xl bg-black px-6 py-5 text-white md:px-8 md:py-6">
-        <nav className="mb-3 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-5 text-black md:px-8 md:py-6 border border-gray-200">
+        <nav className="mb-3 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">Promosyon USB Bellek</span>
+          <span className="font-semibold text-black">Promosyon USB Bellek</span>
         </nav>
 
-        <header>
-          <h1 className="mb-2 text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon USB Bellek
           </h1>
 
-          <p className="max-w-3xl text-sm leading-6 text-gray-200">Metal, ahşap, deri ve kart USB modellerini inceleyin. Kapasite, bağlantı ve logo alanını değerlendirerek kurumsal toplu sipariş için teklif alın.</p>
+          <p className="max-w-3xl text-sm leading-6 text-gray-600">Metal, ahşap, deri ve kart USB modellerini inceleyin. Kapasite, bağlantı ve logo alanını değerlendirerek kurumsal toplu sipariş için teklif alın.</p>
 
-          
+
 
           <div className="mt-3 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
               href="/urunler?kategori=USB%20Bellek"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
             >
               Ürünlerde Filtrele
             </Link>
           </div>
-        </header>
+        </div>{usbProducts[0] && <div className="relative hidden h-52 w-full lg:block"><Image src={usbProducts[0].image} alt={usbProducts[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
       <UsbProductGrid products={usbProducts} />
 
       {usbProducts.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Kullanım Amacına Göre Promosyon USB Bellek Seçimi</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Kullanım Amacına Göre Promosyon USB Bellek Seçimi</h2>
             <p>
               Fuar kataloğu, bayi sunumu veya kurumsal hediye için USB bellek
               seçerken önce dosya ihtiyacını ve kullanılacak cihazları belirleyin.
@@ -221,11 +222,11 @@ export default function UsbPage() {
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">USB Bellek Gövde ve Tasarımlarını Karşılaştırın</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">USB Bellek Gövde ve Tasarımlarını Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">USB bellek gövde grupları, kullanım örnekleri ve seçimde kontrol edilecek özellikler</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model grubu</th>
                     <th scope="col" className="px-4 py-3">Kullanım örneği</th>
@@ -241,7 +242,7 @@ export default function UsbPage() {
                     ["Özel tasarım", "Kampanya veya sektöre uygun hediyeler", "Ürün işlevi, logo konumu ve hazır model / özel üretim ayrımı"],
                   ].map(([model, usage, detail]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{usage}</td>
                       <td className="px-4 py-4">{detail}</td>
                     </tr>
@@ -249,14 +250,14 @@ export default function UsbPage() {
                 </tbody>
               </table>
             </div>
-            <p className="mt-3 text-sm leading-6 text-gray-300">
+            <p className="mt-3 text-sm leading-6 text-gray-600">
               Gövde malzemesi tek başına depolama kapasitesini veya aktarım
               performansını göstermez. Her modelin teknik özelliklerini ayrıca inceleyin.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Kapasite, Bağlantı ve Aktarım İhtiyacını Ayırın</h2>
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Kapasite, Bağlantı ve Aktarım İhtiyacını Ayırın</h2>
             <p>
               Kapasiteyi belirlerken paylaşılacak dosyaların toplam boyutunu
               hesaplayın; sonradan eklenecek içerik ve kullanıcının kendi
@@ -278,8 +279,8 @@ export default function UsbPage() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Logo Baskısı ve Uygulama Alanı</h2>
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Logo Baskısı ve Uygulama Alanı</h2>
             <p>
               Uygun metal yüzeylerde lazer kazıma; renkli logo ve tasarımlarda
               ise yüzeye uygun UV, tampon veya başka bir uygulama
@@ -299,8 +300,8 @@ export default function UsbPage() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon USB Bellek Fiyatlarını Karşılaştırırken</h2>
+          <section className="mt-12 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon USB Bellek Fiyatlarını Karşılaştırırken</h2>
             <p>
               Aynı gövdeye sahip iki ürünün kapasitesi veya teknik özelliği
               farklı olabilir. Teklifleri aynı ürün kodu, kapasite, adet ve
@@ -323,33 +324,33 @@ export default function UsbPage() {
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toptan USB Bellek Siparişi İçin Gerekli Bilgiler</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toptan USB Bellek Siparişi İçin Gerekli Bilgiler</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Ürün kodunu, kapasiteyi, rengi ve adedi belirtin.</li>
               <li>Logo dosyanızı ve istediğiniz uygulama konumunu paylaşın.</li>
               <li>Varsa dosya yükleme, kutu ve paketleme talebini ekleyin.</li>
               <li>Etkinlik tarihinizi ve teslimat adresini bildirin.</li>
               <li>Stok, logo yerleşimi, teknik özellik, toplam bedel ve termini teyit edin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Hediye setinizi{" "}
-              <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">kalem</Link>,{" "}
-              <Link href="/promosyon-ajanda" className="font-semibold text-white underline underline-offset-4">ajanda</Link>,{" "}
-              <Link href="/promosyon-defter" className="font-semibold text-white underline underline-offset-4">defter</Link>{" "}
+              <Link href="/promosyon-kalem" className="font-semibold text-black underline underline-offset-4">kalem</Link>,{" "}
+              <Link href="/promosyon-ajanda" className="font-semibold text-black underline underline-offset-4">ajanda</Link>,{" "}
+              <Link href="/promosyon-defter" className="font-semibold text-black underline underline-offset-4">defter</Link>{" "}
               veya{" "}
-              <Link href="/promosyon-anahtarlik" className="font-semibold text-white underline underline-offset-4">anahtarlık</Link>{" "}
+              <Link href="/promosyon-anahtarlik" className="font-semibold text-black underline underline-offset-4">anahtarlık</Link>{" "}
               ile birlikte planlayabilirsiniz. Ürün seçimini hedef kitle ve
               dağıtım amacına göre yapmak için{" "}
-              <Link href="/rehber/promosyon-urunleri-secim-rehberi" className="font-semibold text-white underline underline-offset-4">promosyon ürünleri seçim rehberini</Link>{" "}
+              <Link href="/rehber/promosyon-urunleri-secim-rehberi" className="font-semibold text-black underline underline-offset-4">promosyon ürünleri seçim rehberini</Link>{" "}
               de inceleyebilirsiniz.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               USB Bellek Siparişi İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
+            <h2 className="text-2xl font-bold text-black">
               Promosyon USB Bellek Hakkında Sık Sorulan Sorular
             </h2>
 
@@ -357,12 +358,12 @@ export default function UsbPage() {
               {faqItems.map((item) => (
                 <div
                   key={item.question}
-                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                  className="rounded-2xl border border-gray-200 bg-white p-5"
                 >
-                  <h3 className="text-lg font-semibold text-white">
+                  <h3 className="text-lg font-semibold text-black">
                     {item.question}
                   </h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                  <p className="mt-2 text-sm leading-6 text-gray-600">
                     {item.answer}
                   </p>
                 </div>
@@ -378,8 +379,8 @@ export default function UsbPage() {
       <section aria-labelledby="usb-bellek-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="usb-bellek-secim-rehberi-baslik" className="text-xl font-bold !text-black">USB Bellek Seçimini Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Kapasite, bağlantı, aktarım performansı ve logo alanını ayrı değerlendirin; numune ve toplu sipariş kontrolünü planlayın.</p>
-        <Link href="/rehber/promosyon-usb-bellek-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">USB Bellek Seçim Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-usb-bellek-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-usb-bellek-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">USB Bellek Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Promosyon USB bellek seçerken kapasiteyi, bağlantıyı, gerçek aktarım hızını ve logo alanını ayrı değerlendirin. Numune, dosya yükleme ve toplu siparişinizi planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

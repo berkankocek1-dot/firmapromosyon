@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import TeknolojiProductGrid from "./TeknolojiProductGrid";
 import type { Metadata } from "next";
@@ -102,7 +103,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -157,27 +158,27 @@ export default function Page() {
         }} />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">
+          <span className="font-semibold text-black">
             Promosyon Teknolojik Ürünler
           </span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon Teknolojik Ürünler
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Şarj kabloları, Bluetooth hoparlörler, wireless şarj cihazları
             ve telefon standlarını kullanım ihtiyacına göre karşılaştırın.
             Cihaz uyumu ve logo uygulamasını netleştirerek toplu sipariş için teklif alın.
@@ -186,27 +187,25 @@ export default function Page() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-teknolojik-urunler-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src={list[0].image} alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
       <TeknolojiProductGrid products={list} />
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Teknolojik Promosyon Ürünü Nasıl Seçilir?</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Teknolojik Promosyon Ürünü Nasıl Seçilir?</h2>
             <p>
               Hediye seçimini alıcının kullanacağı cihaz ve ihtiyaca göre yapın.
               Çantada taşınacak çoklu kablo, ofiste kullanılacak hoparlör,
@@ -222,11 +221,11 @@ export default function Page() {
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Teknolojik Ürün Gruplarını Karşılaştırın</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Teknolojik Ürün Gruplarını Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Teknolojik promosyon ürün grupları, örnek modeller ve kontrol noktaları</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Ürün grubu</th>
                     <th scope="col" className="px-4 py-3">Örnek modeller</th>
@@ -244,7 +243,7 @@ export default function Page() {
                     ["Araç içi telefon tutucu", "TT-100, TT-110, TT-200", "Montaj noktası, telefon/kılıf uyumu ve varsa şarj desteği"],
                   ].map(([group, models, detail]) => (
                     <tr key={group}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{group}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{group}</th>
                       <td className="px-4 py-4">{models}</td>
                       <td className="px-4 py-4">{detail}</td>
                     </tr>
@@ -254,8 +253,8 @@ export default function Page() {
             </div>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Çoklu Kablo ve Type-C Çoklayıcı Seçimi</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Çoklu Kablo ve Type-C Çoklayıcı Seçimi</h2>
             <p>
               KBL-100, KBL-110 ve KBL-120 kutulu kablo setleridir. Taşımaya yönelik
               KBL-130 modelinde EVA kutu ve anahtarlık halkası, KBL-150 modelinde
@@ -276,8 +275,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Wireless Şarj Gücü, Adaptör ve Cihaz Uyumu</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Wireless Şarj Gücü, Adaptör ve Cihaz Uyumu</h2>
             <p>
               TT-160 ve TT-180 için 15 W kablosuz şarj ve Type-C giriş belirtilir.
               TT-170 ürün bilgisinde 10 W ve Micro Input (1 A) ifadeleri birlikte
@@ -293,14 +292,14 @@ export default function Page() {
             </p>
             <p>
               Taşınabilir enerji ihtiyacı için ayrıca{" "}
-              <Link href="/promosyon-powerbank" className="font-semibold text-white underline underline-offset-4">powerbank modellerini</Link>{" "}
+              <Link href="/promosyon-powerbank" className="font-semibold text-black underline underline-offset-4">powerbank modellerini</Link>{" "}
               inceleyebilirsiniz. Wireless şarj cihazında dahili batarya
               bulunduğunu varsaymayın; elektrik bağlantısı ve teslim kapsamını kontrol edin.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Hoparlörlerde Ses Gücü ve Kullanım Süresi</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Hoparlörlerde Ses Gücü ve Kullanım Süresi</h2>
             <p>
               SPK-120 için Bluetooth 5.3, 800 mAh batarya ve TF, FM, USB, BT, AUX
               destekleri belirtilir. SPK-140 için 3 W ses gücü; SPK-150 için
@@ -315,8 +314,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Telefon Standı ve Araç İçi Tutucularda İşlev Farkı</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Telefon Standı ve Araç İçi Tutucularda İşlev Farkı</h2>
             <p>
               TT-120 masaüstü stand, TT-190 metal ayarlanabilir stand ve TT-210
               aynalı stand olarak sunulur; bu modellerde kablosuz şarj özelliği
@@ -330,8 +329,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Logo Uygulaması ve Teknolojik Ürün Fiyatları</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Logo Uygulaması ve Teknolojik Ürün Fiyatları</h2>
             <p>
               Ürün kartlarında fiyat gösterilen tutarlar baskı hariçtir;
               KDV ayrıca belirtilir. Logo yöntemi ve alanı gövdeye ve tasarıma
@@ -352,41 +351,41 @@ export default function Page() {
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toplu Teknolojik Promosyon Sipariş Adımları</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toplu Teknolojik Promosyon Sipariş Adımları</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Kullanım alanını, ürün kodunu, rengi ve adedi belirtin.</li>
               <li>Cihaz modelini, bağlantı ve şarj ihtiyacını paylaşın.</li>
               <li>Teknik özellikleri, kablo ve adaptör dahil teslim kapsamını teyit edin.</li>
               <li>Logo dosyanızı, baskı konumunu ve paketleme talebinizi iletin.</li>
               <li>Stok, minimum adet, tasarım yerleşimi, toplam bedel ve teslim süresini netleştirin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Depolama hediyesi için{" "}
-              <Link href="/promosyon-usb-bellek" className="font-semibold text-white underline underline-offset-4">USB bellekleri</Link>,{" "}
+              <Link href="/promosyon-usb-bellek" className="font-semibold text-black underline underline-offset-4">USB bellekleri</Link>,{" "}
               birden fazla ürünü birlikte sunmak için{" "}
-              <Link href="/promosyon-vip-urunler" className="font-semibold text-white underline underline-offset-4">VIP hediye setlerini</Link>{" "}
+              <Link href="/promosyon-vip-urunler" className="font-semibold text-black underline underline-offset-4">VIP hediye setlerini</Link>{" "}
               de karşılaştırabilirsiniz.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Teknolojik Ürünler İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Teknolojik Promosyon Ürünleri Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">Teknolojik Promosyon Ürünleri Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-6 space-y-4">
               {faqItems.map((item) => (
-                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                <div key={item.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                  <h3 className="text-lg font-semibold text-black">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{item.answer}</p>
                 </div>
               ))}
             </div>
           </section>
           <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="Teknolojik ürün alt kategorileri">
-            <Link href="/promosyon-sarj-kablosu" className="font-semibold !text-black underline underline-offset-4">Promosyon Şarj Kablosu Modellerini İncele →</Link>
-            <Link href="/promosyon-hoparlor" className="mt-3 block font-semibold !text-black underline underline-offset-4">Promosyon Hoparlör Modellerini İncele →</Link>
-            <Link href="/promosyon-kablosuz-sarj-cihazi" className="mt-3 block font-semibold !text-black underline underline-offset-4">Promosyon Kablosuz Şarj Cihazlarını İncele →</Link>
+            <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3"><Link href="/promosyon-sarj-kablosu" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Promosyon Şarj Kablosu Modellerini İncele →</Link>
+            <Link href="/promosyon-hoparlor" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Promosyon Hoparlör Modellerini İncele →</Link>
+            <Link href="/promosyon-kablosuz-sarj-cihazi" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Promosyon Kablosuz Şarj Cihazlarını İncele →</Link></div>
           </section>
         </div>
       )}
@@ -394,18 +393,18 @@ export default function Page() {
       <section aria-labelledby="telefon-tutucu-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="telefon-tutucu-rehberi-baslik" className="text-xl font-bold !text-black">Telefon Tutucu Seçimini Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Masaüstü ve araç içi seçenekleri cihaz, kılıf, denge ve logo alanıyla karşılaştırın; şarj özelliği ve sipariş kapsamını netleştirin.</p>
-        <Link href="/rehber/promosyon-telefon-tutucu-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Telefon Tutucu Seçim Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-telefon-tutucu-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-telefon-tutucu-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Telefon Tutucu Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Masaüstü ve araç içi promosyon telefon tutucuları cihaz, kılıf, denge ve logo alanıyla karşılaştırın. Şarj özelliği, numune ve toplu sipariş kapsamını netleştirin.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
       <section aria-labelledby="kablosuz-sarj-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="kablosuz-sarj-rehberi-baslik" className="text-xl font-bold !text-black">Kablosuz Şarj Cihazı Seçimini Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Telefon, kılıf, adaptör ve çoklu kullanım koşullarını birlikte değerlendirin; kurumsal sipariş için cihaz ve paket kapsamını netleştirin.</p>
-        <Link href="/rehber/promosyon-kablosuz-sarj-cihazi-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Kablosuz Şarj Cihazı Seçim Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-kablosuz-sarj-cihazi-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-kablosuz-sarj-cihazi-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Kablosuz Şarj Cihazı Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Kablosuz şarj standı ve istasyonlarını telefon, kılıf, adaptör ve eş zamanlı kullanım açısından değerlendirin. Kurumsal sipariş için uyumluluk tablosu hazırlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
       <section aria-labelledby="hoparlor-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="hoparlor-rehberi-baslik" className="text-xl font-bold !text-black">Hoparlör Seçimini Dinleme İhtiyacınıza Göre Yapın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Ses kaynağı, bağlantı, taşınabilirlik ve ek işlevleri değerlendirin; numunede dinleme ve logo yerleşimini birlikte planlayın.</p>
-        <Link href="/rehber/promosyon-hoparlor-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Hoparlör Seçim Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-hoparlor-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-hoparlor-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Hoparlör Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Promosyon hoparlörleri ses kaynağı, bağlantı, taşınabilirlik ve kullanım süresi bilgileriyle değerlendirin. Numunede dinleme ve kurumsal logo alanını planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

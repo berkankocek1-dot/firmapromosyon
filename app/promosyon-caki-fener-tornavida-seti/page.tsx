@@ -1,3 +1,4 @@
+import FpCategoryCatalog from "../_components/FpCategoryCatalog";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -102,7 +103,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -157,23 +158,23 @@ export default function Page() {
         }} />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
           <Link href="/">Ana Sayfa</Link>
           <span className="px-2">/</span>
           <Link href="/urunler">Ürünler</Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">
+          <span className="font-semibold text-black">
             Çakı, Fener ve Tornavida Seti
           </span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon Çakı, Fener ve Tornavida Seti
           </h1>
 
-          <p className="mt-3 max-w-3xl leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl leading-7 text-gray-600">
             Çok fonksiyonlu çakı, el feneri, kalem fener ve kutulu çakı–fener
             setini karşılaştırın. Ürün içeriği, logo alanı ve minimum sipariş
             bilgilerini inceleyerek kurumsal toplu sipariş için teklif alın.
@@ -182,72 +183,27 @@ export default function Page() {
           <div className="mt-5 flex gap-3 flex-wrap">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-black font-semibold"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-caki-fener-tornavida-seti-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src={list[0].image} alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
-      <p className="mt-8 text-sm font-medium !text-white">{list.length} ürün gösteriliyor</p>
 
-      <section className="mt-4 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {list.map((p) => (
-          <Link
-            key={p.id}
-            href={`/urunler/${p.slug}`}
-            className="rounded-2xl border bg-white p-4 shadow-sm hover:shadow-md"
-          >
-            <div className="relative aspect-square rounded-xl bg-white">
-              <Image
-  src={p.image}
-  alt={p.title}
-  fill
-  unoptimized
-  loading="lazy"
-  className="object-contain bg-white p-4"
-  sizes="(max-width: 768px) 100vw, 33vw"
-/>
-            </div>
 
-            <div className="mt-4">
-              <div className="text-xs text-gray-500 uppercase">
-                {p.category}
-              </div>
-
-              <h2 className="mt-1 text-lg font-bold text-black">{p.title}</h2>
-
-              <p className="mt-2 text-sm text-gray-700 line-clamp-3">
-                {p.shortDesc}
-              </p>
-
-              {typeof p.price === "number" && p.price > 0 && (
-                <div className="mt-3">
-                  <p className="text-base font-bold text-gray-900">{p.price.toLocaleString("tr-TR")} TL + KDV</p>
-                  <p className="mt-1 text-xs text-gray-600">Fiyatlar baskı hariçtir. Güncel teklif için iletişime geçin.</p>
-                </div>
-              )}
-
-              <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
-                Ürünü İncele
-              </div>
-            </div>
-          </Link>
-        ))}
-      </section>
+      <FpCategoryCatalog anchorId="promosyon-caki-fener-tornavida-seti-modelleri" showPrices={true} products={list.map(p => ({id:p.id,slug:p.slug,title:p.title,image:p.image,category:p.category,shortDesc:p.shortDesc,price:p.price,priceNote:"Fiyatlar baskı hariçtir. Güncel teklif için iletişime geçin."}))} />
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Logo Baskılı Çakı ve Fener Seçimi</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Logo Baskılı Çakı ve Fener Seçimi</h2>
             <p>
               Çok fonksiyonlu çakı, tekli el feneri ve kutulu hediye seti farklı
               kullanım ihtiyaçlarına yöneliktir. Çalışan veya müşteri hediyesi
@@ -263,11 +219,11 @@ export default function Page() {
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Çakı, Fener ve Kutulu Set Modellerini Karşılaştırın</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Çakı, Fener ve Kutulu Set Modellerini Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Çakı ve fener modellerinin belirtilen özellikleri ve logo bilgileri</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model</th>
                     <th scope="col" className="px-4 py-3">Belirtilen özellikler</th>
@@ -284,7 +240,7 @@ export default function Page() {
                     ["PNL-100", "Kalem formunda fener", "Ölçü, renk ve logo ayrıntıları teyit edilir"],
                   ].map(([model, features, detail]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{features}</td>
                       <td className="px-4 py-4">{detail}</td>
                     </tr>
@@ -294,8 +250,8 @@ export default function Page() {
             </div>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Çakılarda Fonksiyon ve Logo Alanı</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Çakılarda Fonksiyon ve Logo Alanı</h2>
             <p>
               ÇK-100 için 7, ÇK-200 için 11 fonksiyon belirtilir. İki modelin
               ürün ölçüsü 88 x 25 mm, lazer baskı alanı 30 x 10 mm olarak
@@ -310,8 +266,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">FN-150 Setinde Çakı, Fener ve Kutu Baskısı</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">FN-150 Setinde Çakı, Fener ve Kutu Baskısı</h2>
             <p>
               FN-150, 7 fonksiyonlu çakıyı LED el feneri ve kutuyla birlikte
               sunar. Çakı ölçüsü 88 x 25 mm, fener ölçüsü 85 x 25,5 mm,
@@ -331,8 +287,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">El Fenerlerinde Teknik Bilgileri Kontrol Edin</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">El Fenerlerinde Teknik Bilgileri Kontrol Edin</h2>
             <p>
               FN-100 ve FN-200 el feneri, FN-300 iki fonksiyonlu fener,
               PNL-100 ise kalem fener olarak sunulur. FN-300 için 1,7 x 8 cm
@@ -347,8 +303,8 @@ export default function Page() {
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Çakı ve Fener Fiyatları ile Minimum Sipariş</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Çakı ve Fener Fiyatları ile Minimum Sipariş</h2>
             <p>
               Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV
               ayrıca belirtilir. Fiyatı bulunmayan modeller için güncel teklif
@@ -369,34 +325,34 @@ export default function Page() {
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toplu Çakı ve Fener Sipariş Adımları</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toplu Çakı ve Fener Sipariş Adımları</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Ürün kodunu, renk tercihini ve adedi paylaşın.</li>
               <li>İhtiyaç duyduğunuz işlevleri ve teslim içeriğini teyit edin.</li>
               <li>Logonuzu mümkünse vektörel PDF, AI, EPS veya SVG olarak iletin.</li>
               <li>Logo konumunu, kutu baskısını ve paketleme talebini belirtin.</li>
               <li>Teslimat adresi ve tarihinizi paylaşın; stok, tasarım ve toplam bedeli netleştirin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Farklı aksesuar grupları için{" "}
-              <Link href="/promosyon-teknolojik-urunler" className="font-semibold text-white underline underline-offset-4">teknolojik ürünleri</Link>,{" "}
+              <Link href="/promosyon-teknolojik-urunler" className="font-semibold text-black underline underline-offset-4">teknolojik ürünleri</Link>,{" "}
               çok parçalı hediye sunumları için{" "}
-              <Link href="/promosyon-vip-urunler" className="font-semibold text-white underline underline-offset-4">VIP hediye setlerini</Link>{" "}
+              <Link href="/promosyon-vip-urunler" className="font-semibold text-black underline underline-offset-4">VIP hediye setlerini</Link>{" "}
               de karşılaştırabilirsiniz. Birlikte sipariş edilecek ürünleri
               teklif kapsamına ayrıca ekletin.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Çakı ve Fener İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Çakı ve Fenerler Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">Çakı ve Fenerler Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-6 space-y-4">
               {faqItems.map((item) => (
-                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                <div key={item.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                  <h3 className="text-lg font-semibold text-black">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{item.answer}</p>
                 </div>
               ))}
             </div>
@@ -406,8 +362,8 @@ export default function Page() {
       <section aria-labelledby="caki-fener-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="caki-fener-rehberi-baslik" className="text-xl font-bold !text-black">Çakı İşlevlerini, Feneri ve Set Kapsamını Karşılaştırın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">İşlev listesini, fenerin güç kaynağını ve teslim içeriğini ayrı değerlendirin; çakı, fener ve kutu için logo uygulamasını planlayın.</p>
-        <Link href="/rehber/promosyon-caki-ve-fener-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Çakı ve Fener Seçim Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-caki-ve-fener-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-caki-ve-fener-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Çakı ve Fener Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Çakı, el feneri, kalem fener ve kutulu setleri karşılaştırın. İşlev listesi, güç kaynağı, parça bazında logo ve teslim kapsamını birlikte planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

@@ -286,6 +286,12 @@ export default function Home() {
     )
     .slice(0, 4);
 
+  const heroShowcase = [
+    { name: "VIP Ürünler", label: "VIP Hediye Setleri", image: "/products/promosyon-vip-set-vip-130-v2.jpg", imageClass: "object-cover object-center", imageStyle: {} },
+    { name: "Ajanda", label: "Ajandalar", image: "/products/promosyon-ajanda-aj-115.jpg", imageClass: "object-contain scale-[1.12]", imageStyle: {} },
+    { name: "Kalem", label: "Kalemler", image: "/products/promosyon-metal-kalem-mk-130.jpg", imageClass: "object-contain scale-[1.18] translate-y-[7%]", imageStyle: { clipPath: "inset(0 0 16% 0)" } },
+  ];
+
   const categoryCards = orderedCategories;
 
   const webPageSchema = {
@@ -448,182 +454,185 @@ export default function Home() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
 
+      {/* FP TOP CATEGORY NAV */}
+      <nav aria-label="Ürün kategorileri" className="border-b border-gray-200 bg-gray-50">
+        <div className="mx-auto max-w-7xl px-5">
+          <ul className="flex min-w-0 items-center gap-1 overflow-x-auto overscroll-x-contain py-1 lg:justify-between">
+            {[
+              { name: "Kalem", label: "Kalem" },
+              { name: "Ajanda", label: "Ajanda" },
+              { name: "Tarihsiz Defter", label: "Defter" },
+              { name: "Termos", label: "Termos" },
+              { name: "Anahtarlık", label: "Anahtarlık" },
+              { name: "VIP Ürünler", label: "VIP Setler" },
+              { name: "Teknolojik Ürünler", label: "Teknolojik Ürünler" },
+            ].map((item) => (
+              <li key={item.name} className="shrink-0">
+                <Link href={getCategoryHref(item.name)} className="inline-flex min-h-11 items-center whitespace-nowrap rounded-lg px-3 py-3 text-[13px] font-semibold text-gray-700 transition-colors hover:bg-white hover:text-black focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-black sm:px-4 sm:text-sm">
+                  {item.label}
+                </Link>
+              </li>
+            ))}
+            <li className="shrink-0">
+              <a href="#ana-sayfa-kategoriler" className="inline-flex min-h-11 items-center gap-2 whitespace-nowrap rounded-lg px-3 py-3 text-[13px] font-bold text-black transition-colors hover:bg-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-[-2px] focus-visible:outline-black sm:px-4 sm:text-sm">
+                <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round"><path d="M4 6h16M4 12h16M4 18h16" /></svg>
+                Tüm Kategoriler
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
       {/* HERO */}
-      <section className="relative overflow-hidden border-b border-gray-100 bg-gradient-to-b from-gray-50 via-white to-white">
-        <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,rgba(0,0,0,0.05),transparent_45%)]" />
-        <div className="absolute left-1/2 top-0 -z-10 h-[220px] w-[700px] -translate-x-1/2 rounded-full bg-black/5 blur-3xl" />
-
-        <div className="mx-auto max-w-7xl px-5 py-3 md:py-4">
-          <div className="rounded-[30px] border border-gray-200 bg-white/95 p-4 shadow-sm backdrop-blur md:p-5 lg:p-6">
-            <div className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-[11px] font-semibold text-gray-700">
-              <span className="inline-block h-2 w-2 rounded-full bg-green-500" />
+      <section className="border-b border-gray-100 bg-white">
+        <div className="mx-auto grid max-w-7xl items-start gap-8 px-5 py-8 md:py-12 lg:grid-cols-2 lg:gap-12">
+          <div className="min-w-0">
+            <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-gray-500 sm:text-xs">
               Kurumsal promosyon • Hızlı teklif • Türkiye geneli
-            </div>
-
-            <div className="mt-4 max-w-5xl">
-              <h1 className="text-[clamp(24px,3.8vw,40px)] font-extrabold leading-[1.05] tracking-tight text-gray-900">
-                Kurumsal Promosyon Ürünleri
-                <span className="mt-2 block text-gray-600">
-                  Logo Baskılı Toplu Sipariş ve Baskı Çözümleri
-                </span>
-              </h1>
-
-              <p className="mt-3 max-w-5xl text-sm leading-5 text-gray-700 md:text-sm">
-                Kurumsal tanıtım, fuar, etkinlik ve toplu firma siparişleri için
-                logo baskılı promosyon ürünleri sunuyoruz. Promosyon kalem, promosyon
-                ajanda, promosyon termos, promosyon anahtarlık, promosyon USB bellek,
-                promosyon kupa ve powerbank gibi birçok kategoride hızlı teklif alın.
-              </p>
-
-              <div className="mt-4 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
-                <a
-                  href={WHATSAPP}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex min-h-12 w-full items-center justify-center rounded-2xl bg-black px-5 py-3 text-center text-sm font-semibold leading-6 text-white shadow-sm transition hover:bg-gray-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:w-auto"
-                >
-                  WhatsApp’tan Hızlı Teklif Al
-                </a>
-                <Link
-                  href="/kurumsal-teklif-al"
-                  className="inline-flex min-h-12 w-full items-center justify-center rounded-2xl border border-gray-300 bg-white px-5 py-3 text-center text-sm font-semibold leading-6 text-gray-900 shadow-sm transition hover:border-gray-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:w-auto"
-                >
-                  E-posta ile Teklif Al
-                </Link>
-                <Link
-                  href="/urunler"
-                  className="inline-flex min-h-12 w-full items-center justify-center rounded-2xl border border-gray-300 bg-white px-5 py-3 text-center text-sm font-semibold leading-6 text-gray-900 shadow-sm transition hover:border-gray-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:w-auto"
-                >
-                  Tüm Ürünleri İncele
-                </Link>
-              </div>
-
-              <HomeSearch products={products.map(({ slug, title, category, image, price }) => ({ slug, title, category, image, ...(typeof price === "number" ? { price } : {}) }))} />
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <NewYearBanner />
-
-      {/* KATEGORİLER */}
-      <section className="mx-auto max-w-7xl px-5 py-10">
-        <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
-          <div className="max-w-3xl">
-            <div className="inline-flex items-center gap-2 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-xs font-semibold text-gray-700">
-              Premium kategori görünümü
-            </div>
-
-            <h2 className="mt-4 text-2xl font-extrabold text-gray-900 md:text-3xl">
-              Logo Baskılı Promosyon Ürün Kategorileri
-            </h2>
-            <p className="mt-3 text-sm text-gray-600 md:text-base">
-              Kurumsal tanıtım, etkinlik, fuar ve marka görünürlüğü için uygun ürün
-              gruplarını kategori bazında inceleyin.
             </p>
-          </div>
-
-          <Link href="/urunler" className="text-sm font-semibold text-gray-900 hover:underline">
-            Tüm ürünler →
-          </Link>
-        </div>
-
-        <div className="mt-8 grid grid-cols-2 gap-4 md:grid-cols-3 xl:grid-cols-4">
-          {categoryCards.map((category: any) => (
-            <Link
-              key={category.slug}
-              href={getCategoryHref(category.name)}
-              className="fp-home-hover-card group flex min-w-0 flex-col overflow-hidden bg-white p-2.5 transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:p-4 rounded-2xl border border-black"
-            >
-              <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white border-b-0">
-                <Image
-                  src={getCategoryImage(category)}
-                  alt={category.name}
-                  fill
-                  loading="lazy"
-                  sizes="(max-width: 767px) 50vw, (max-width: 1279px) 33vw, 25vw"
-                  className="object-contain p-0"
-                />
-              </div>
-
-              <h3 className="mt-3 break-words text-sm font-extrabold leading-5 text-black md:text-base">
-                {category.name}
-              </h3>
-
-              <p className="mt-2 line-clamp-2 text-xs leading-5 text-gray-600 md:text-sm">
-                {category.seoDescription || `${category.name} ürünlerini inceleyin.`}
-              </p>
-
-              <div className="mt-auto pt-3">
-                <span className="inline-flex w-fit items-center justify-center rounded-full bg-black px-2.5 py-1 text-[10px] font-bold leading-4 text-white transition group-hover:bg-gray-800 md:text-[11px]">Kategoriye git →</span>
-              </div>
-            </Link>
-          ))}
-        </div>
-      </section>
-
-      {/* ÖNE ÇIKAN KATEGORİLER */}
-      <section className="mx-auto max-w-7xl px-5 pb-6">
-        <div className="rounded-[28px] border border-gray-200 bg-white p-5 shadow-sm md:p-6">
-          <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
-            <div>
-              <h2 className="text-xl font-extrabold text-gray-900 md:text-2xl">
-                Öne Çıkan Promosyon Kategorileri
-              </h2>
-              <p className="mt-2 text-sm text-gray-600">
-                En çok talep gören promosyon kategorilerine hızlıca geçin.
-              </p>
+            <h1 className="mt-5 text-[clamp(28px,3.3vw,46px)] font-extrabold leading-[1.1] tracking-tight text-black">
+              Kurumsal Promosyon Ürünleri
+              <span className="mt-3 block text-[0.65em] font-semibold leading-snug text-gray-500">
+                Logo Baskılı Toplu Sipariş ve Baskı Çözümleri
+              </span>
+            </h1>
+            <p className="mt-5 max-w-xl text-sm leading-6 text-gray-600">
+              Kurumsal tanıtım, fuar, etkinlik ve toplu firma siparişleri için
+              logo baskılı promosyon ürünleri sunuyoruz. Promosyon kalem, promosyon
+              ajanda, promosyon termos, promosyon anahtarlık, promosyon USB bellek,
+              promosyon kupa ve powerbank gibi birçok kategoride hızlı teklif alın.
+            </p>
+            <div className="mt-6 grid gap-3 sm:grid-cols-2">
+              <a href={WHATSAPP} target="_blank" rel="noopener noreferrer"
+                className="inline-flex min-h-12 items-center justify-center rounded-xl bg-black px-4 py-3 text-center text-sm font-semibold text-white transition-colors hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
+                WhatsApp’tan Hızlı Teklif Al
+              </a>
+              <Link href="/kurumsal-teklif-al"
+                className="inline-flex min-h-12 items-center justify-center rounded-xl border border-gray-300 px-4 py-3 text-center text-sm font-semibold transition-colors hover:bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
+                E-posta ile Teklif Al
+              </Link>
             </div>
-
-            <Link
-              href="/urunler"
-              className="text-sm font-semibold text-gray-900 hover:underline"
-            >
-              Tüm kategoriler →
+            <HomeSearch products={products.map(({ slug, title, category, image, price }) => ({ slug, title, category, image, ...(typeof price === "number" ? { price } : {}) }))} />
+            {/* HERO MINI CATEGORIES TK240 DS136 */}
+            <div className="mt-6 grid grid-cols-3 gap-2 sm:gap-3">
+              {[
+                { name: "Termos", label: "Termoslar", image: "/products/termos-vitrin-temiz.webp", frame: "absolute inset-0" },
+                { name: "Duvar Saatleri", label: "Duvar Saatleri", image: "/products/saat-vitrin-temiz.webp", frame: "absolute inset-0 scale-[1.15]" },
+                { name: "Anahtarlık", label: "Anahtarlıklar", image: getCategoryImage(orderedCategories.find((category: any) => normalizeText(category.name) === normalizeText("Anahtarlık"))), frame: "absolute inset-0 scale-[1.2]" },
+              ].map((item) => (
+                <Link key={item.name} href={getCategoryHref(item.name)} className="group overflow-hidden rounded-xl border border-gray-200 bg-white transition-colors hover:border-gray-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
+                  <div className="relative aspect-square overflow-hidden bg-white">
+                    <div className={item.frame}>
+                      <Image src={item.image} alt={item.label} fill sizes="(max-width: 639px) 55vw, (max-width: 1023px) 57vw, 29vw" quality={75} className="object-contain" />
+                    </div>
+                  </div>
+                  <div className="flex items-center justify-between gap-1 border-t border-gray-100 px-2 py-3 text-xs font-semibold sm:px-3 sm:text-sm">
+                    <span>{item.label}</span><span aria-hidden="true">↗</span>
+                  </div>
+                </Link>
+              ))}
+            </div>
+            <Link href="/urunler" className="mt-4 inline-flex min-h-11 items-center gap-3 text-sm font-semibold underline-offset-4 hover:underline">
+              Tüm Ürünleri İncele <span aria-hidden="true">↗</span>
             </Link>
           </div>
-
-          <div className="mt-5 flex flex-wrap gap-3">
-            {heroCategoryChips.map((category: any) => (
-              <Link
-                key={category.slug}
-                href={getCategoryHref(category.name)}
-                className="rounded-full border border-gray-300 bg-white px-4 py-2 text-sm font-semibold text-gray-900 transition hover:border-black hover:bg-gray-50"
-              >
-                {category.name}
+          <div className="grid min-w-0 grid-cols-2 gap-3 sm:gap-4">
+            {heroShowcase.map((item, index) => (
+              <Link key={item.name} href={getCategoryHref(item.name)}
+                className={`group relative flex min-w-0 flex-col overflow-hidden rounded-2xl border border-gray-200 bg-gray-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black ${index === 0 ? "col-span-2" : ""}`}>
+                <div className={`relative w-full bg-white ${index === 0 ? "aspect-[1.45/1]" : "aspect-[1.2/1]"}`}>
+                  <Image src={item.image} alt={item.name} fill
+                    sizes={index === 0 ? "(max-width: 1023px) 92vw, 45vw" : "(max-width: 1023px) 44vw, 22vw"}
+                    priority={index === 0}
+                    quality={75}
+                    className={item.imageClass}
+                    style={item.imageStyle} />
+                </div>
+                <div className="flex items-center justify-between gap-3 px-4 py-3 sm:px-5">
+                  <div>
+                    {index === 0 && <p className="mb-1 text-[10px] font-medium uppercase tracking-widest text-gray-500">Kurumsal hediye seçkisi</p>}
+                    <h2 className="text-sm font-bold text-black sm:text-base">{item.label}</h2>
+                  </div>
+                  <span aria-hidden="true" className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:bg-black group-hover:text-white">↗</span>
+                </div>
               </Link>
             ))}
           </div>
         </div>
       </section>
 
-      {/* HERO STATLARI */}
-      <section className="mx-auto max-w-7xl px-5 pb-6">
-        <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
-          <HeroStat title="Promosyon Ürünleri" text="Kurumsal toplu sipariş" />
-          <HeroStat title="DTF / UV / Lazer" text="Farklı baskı çözümleri" />
-          <HeroStat title="Türkiye Geneli" text="Gönderim ve süreç desteği" />
-          <HeroStat title="Hızlı Dönüş" text="Teklif ve bilgi akışı" />
+
+      <NewYearBanner />
+
+      {/* KATEGORİLER */}
+      {/* FP CATEGORY GRID V2 */}
+      <section id="ana-sayfa-kategoriler" className="mx-auto max-w-7xl scroll-mt-28 px-5 py-10 md:py-12">
+        <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+          <div className="max-w-3xl">
+            <h2 className="text-2xl font-extrabold tracking-tight text-black md:text-3xl">
+              Logo Baskılı Promosyon Ürün Kategorileri
+            </h2>
+            <p className="mt-3 text-sm leading-6 text-gray-600 md:text-base">
+              Kurumsal tanıtım, etkinlik, fuar ve marka görünürlüğü için uygun ürün
+              gruplarını kategori bazında inceleyin.
+            </p>
+          </div>
+          <Link href="/urunler" className="inline-flex min-h-11 shrink-0 items-center gap-3 text-sm font-semibold text-black underline-offset-4 hover:underline">
+            Tüm ürünler <span aria-hidden="true">↗</span>
+          </Link>
+        </div>
+
+        <div className="mt-7 grid grid-cols-2 gap-3 md:mt-8 md:grid-cols-3 md:gap-5 xl:grid-cols-4">
+          {categoryCards.map((category: any) => (
+            <Link
+              key={category.slug}
+              href={getCategoryHref(category.name)}
+              className="group flex min-w-0 flex-col overflow-hidden rounded-2xl border border-gray-200 bg-white transition-colors hover:border-gray-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"
+            >
+              <div className="relative aspect-square w-full overflow-hidden bg-white">
+                <Image
+                  src={getCategoryImage(category)}
+                  alt={category.name}
+                  fill
+                  loading="lazy"
+                  sizes="(max-width: 767px) 46vw, (max-width: 1279px) 31vw, 295px"
+                  className="object-contain p-2 sm:p-3"
+                />
+              </div>
+              <div className="flex flex-1 flex-col border-t border-gray-100 bg-gray-50 px-3 py-4 sm:px-4">
+                <div className="flex items-start justify-between gap-2">
+                  <h3 className="min-w-0 break-words text-sm font-bold leading-5 text-black sm:text-base">
+                    {category.name}
+                  </h3>
+                  <span aria-hidden="true" className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:border-black group-hover:bg-black group-hover:text-white">↗</span>
+                </div>
+                <p className="mt-2 line-clamp-2 text-xs leading-5 text-gray-600 sm:text-sm">
+                  {category.seoDescription || `${category.name} ürünlerini inceleyin.`}
+                </p>
+              </div>
+            </Link>
+          ))}
         </div>
       </section>
 
-      {/* GÜVEN BANDI */}
-      <section className="border-b border-t border-gray-200 bg-gray-50">
-        <div className="mx-auto grid max-w-7xl gap-4 px-5 py-4 text-sm font-semibold text-gray-700 sm:grid-cols-2 lg:grid-cols-5">
-          <div>✔ Logo baskı seçenekleri</div>
-          <div>✔ Kurumsal toplu sipariş</div>
-          <div>✔ Türkiye geneli gönderim</div>
-          <div>✔ Adede özel teklif</div>
-          <div>✔ WhatsApp hızlı dönüş</div>
+      {/* FP COMPACT SERVICE STRIP */}
+      <section aria-label="Sipariş ve baskı hizmetleri" className="border-y border-gray-200 bg-gray-50">
+        <div className="mx-auto grid max-w-7xl grid-cols-2 gap-x-5 gap-y-5 px-5 py-5 sm:grid-cols-3 lg:grid-cols-5">
+          <HeroStat title="Logo Baskı Seçenekleri" text="DTF, UV ve lazer baskı çözümleri" />
+          <HeroStat title="Kurumsal Toplu Sipariş" text="Promosyon ürünlerinde toplu alım" />
+          <HeroStat title="Türkiye Geneli Gönderim" text="Gönderim ve süreç desteği" />
+          <HeroStat title="Adede Özel Teklif" text="Ürün ve baskıya göre fiyatlandırma" />
+          <HeroStat title="WhatsApp Hızlı Dönüş" text="Teklif ve bilgi akışı" />
         </div>
       </section>
 
       {/* POPÜLER ÜRÜNLER */}
-      <section className="border-b border-t border-gray-100 bg-white">
+      {/* FP FEATURED PRODUCTS V2 */}
+      <section className="border-b border-gray-100 bg-white">
         <div className="mx-auto max-w-7xl px-5 py-10">
           <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
             <div>
-              <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
+              <h2 className="text-2xl font-extrabold tracking-tight text-black md:text-3xl">
                 Öne Çıkan Promosyon Ürünleri
               </h2>
               <p className="mt-2 text-sm text-gray-600 md:text-base">
@@ -639,8 +648,8 @@ export default function Home() {
             </Link>
           </div>
 
-          <div className="mt-6 grid md:grid-cols-3 xl:grid-cols-5 grid-cols-2 gap-3 sm:gap-4">
-            {topStrip.map((p: any, index: number) => {
+          <div className="mt-7 grid grid-cols-2 gap-3 md:mt-8 md:grid-cols-3 md:gap-4 xl:grid-cols-5">
+            {topStrip.map((p: any) => {
               const title = pickTitle(p);
               const img = pickImg(p);
               const slug = pickSlug(p);
@@ -650,26 +659,30 @@ export default function Home() {
                 <Link
                   key={slug}
                   href={`/urunler/${slug}`}
-                  className="fp-home-hover-card group bg-white p-4 transition min-w-0 rounded-2xl border border-black"
+                  className="group flex min-w-0 flex-col overflow-hidden rounded-2xl border border-gray-200 bg-white transition-colors hover:border-gray-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"
                 >
-                  <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
+                  <div className="relative aspect-square w-full overflow-hidden bg-white">
                     <Image
                       src={img}
                       alt={title}
                       fill
 
                       loading="lazy"
-                      sizes="(max-width: 768px) 50vw, 20vw"
-                      className="object-contain transition duration-500 p-0"
+                      sizes="(max-width: 767px) 46vw, (max-width: 1279px) 31vw, 232px"
+                      className="object-contain p-2 sm:p-3"
                     />
                   </div>
 
-                  <div className="mt-4">
-                    <div className="text-xs font-semibold text-gray-600">{cat}</div>
-                    <div className="mt-1 line-clamp-2 text-sm font-extrabold text-gray-900">
+                  <div className="flex flex-1 flex-col border-t border-gray-100 bg-gray-50 px-3 py-4 sm:px-4">
+                    <div className="text-[11px] font-medium leading-5 text-gray-500 sm:text-xs">{cat}</div>
+                    <h3 className="mt-1 min-h-[2.75rem] line-clamp-2 break-words text-sm font-bold leading-[1.375rem] text-black">
                       {title}
+                    </h3>
+                    <HomeProductPrice product={p} />
+                    <div className="mt-auto flex items-center justify-between gap-2 pt-4">
+                      <span className="text-xs font-semibold text-gray-700">Ürünü incele</span>
+                      <span aria-hidden="true" className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:border-black group-hover:bg-black group-hover:text-white">↗</span>
                     </div>
-                    <div className="mt-3 text-xs font-semibold text-gray-900">Detay →</div>
                   </div>
                 </Link>
               );
@@ -808,15 +821,51 @@ export default function Home() {
         </div>
       </section>
 
-      <section id="hizmetler" className="mx-auto max-w-7xl px-5 py-14">
+      {/* ÖNE ÇIKAN KATEGORİLER */}
+      <section className="mx-auto max-w-7xl px-5 pb-6">
+        <div className="rounded-[28px] border border-gray-200 bg-white p-5 shadow-sm md:p-6">
+          <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <h2 className="text-xl font-extrabold text-gray-900 md:text-2xl">
+                Öne Çıkan Promosyon Kategorileri
+              </h2>
+              <p className="mt-2 text-sm text-gray-600">
+                En çok talep gören promosyon kategorilerine hızlıca geçin.
+              </p>
+            </div>
+
+            <Link
+              href="/urunler"
+              className="text-sm font-semibold text-gray-900 hover:underline"
+            >
+              Tüm kategoriler →
+            </Link>
+          </div>
+
+          <div className="mt-5 flex flex-wrap gap-3">
+            {heroCategoryChips.map((category: any) => (
+              <Link
+                key={category.slug}
+                href={getCategoryHref(category.name)}
+                className="rounded-full border border-gray-300 bg-white px-4 py-2 text-sm font-semibold text-gray-900 transition hover:border-black hover:bg-gray-50"
+              >
+                {category.name}
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* FP SERVICES DESIGN V2 */}
+      <section id="hizmetler" className="mx-auto max-w-7xl scroll-mt-28 px-5 py-8 md:py-10">
         <div className="max-w-3xl">
-          <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">Hizmetler</h2>
+          <h2 className="text-2xl font-extrabold tracking-tight text-black md:text-3xl">Hizmetler</h2>
           <p className="mt-3 text-sm text-gray-600 md:text-base">
             Kurumsal sipariş sürecinde ürün seçimi, baskı yöntemi ve marka uygulama aşamalarında çözüm sunuyoruz.
           </p>
         </div>
 
-        <div className="mt-8 grid gap-5 md:grid-cols-3">
+        <div className="mt-6 grid gap-3 md:grid-cols-3 md:gap-5">
           <ServiceCard
             title="DTF Transfer Baskı"
             text="Tekstil ve farklı yüzeylerde kaliteli, esnek ve dayanıklı baskı çözümleri."
@@ -832,10 +881,10 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="mx-auto max-w-7xl px-5 py-12">
-        <div className="rounded-3xl border border-gray-200 bg-gray-50 p-6 md:p-10">
+      <section className="mx-auto max-w-7xl px-5 pb-8 pt-2 md:pb-10">
+        <div className="rounded-2xl border border-gray-200 bg-gray-50 p-5 md:p-7">
           <div className="max-w-3xl">
-            <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
+            <h2 className="text-2xl font-extrabold tracking-tight text-black md:text-3xl">
               Nerelerde Kullanılır?
             </h2>
             <p className="mt-3 text-sm leading-7 text-gray-700 md:text-base">
@@ -845,23 +894,24 @@ export default function Home() {
           </div>
 
           <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-            <SimpleInfoCard title="Fuar ve Etkinlikler" text="Marka görünürlüğünü artıran dağıtım ürünleri." />
-            <SimpleInfoCard title="Kurumsal Hediye" text="Müşteri ve iş ortakları için kullanışlı promosyonlar." />
-            <SimpleInfoCard title="Ofis Kullanımı" text="Günlük kullanımda markanızı görünür tutan ürünler." />
-            <SimpleInfoCard title="Toplu Firma Dağıtımı" text="Personel, bayi ve kampanya süreçleri için uygun çözümler." />
+            <ServiceCard title="Fuar ve Etkinlikler" text="Marka görünürlüğünü artıran dağıtım ürünleri." />
+            <ServiceCard title="Kurumsal Hediye" text="Müşteri ve iş ortakları için kullanışlı promosyonlar." />
+            <ServiceCard title="Ofis Kullanımı" text="Günlük kullanımda markanızı görünür tutan ürünler." />
+            <ServiceCard title="Toplu Firma Dağıtımı" text="Personel, bayi ve kampanya süreçleri için uygun çözümler." />
           </div>
         </div>
       </section>
 
-      <section id="surec" className="mx-auto max-w-7xl px-5 py-14">
+      {/* FP PROCESS CONTENT DESIGN V2 */}
+      <section id="surec" className="mx-auto max-w-7xl scroll-mt-28 px-5 py-8 md:py-10">
         <div className="max-w-3xl">
-          <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">Sipariş Süreci</h2>
+          <h2 className="text-2xl font-extrabold tracking-tight text-black md:text-3xl">Sipariş Süreci</h2>
           <p className="mt-3 text-sm text-gray-600 md:text-base">
             Doğru ürün, doğru baskı ve doğru adet planlaması ile tekliften üretime kadar süreci netleştiriyoruz.
           </p>
         </div>
 
-        <div className="mt-8 grid gap-5 md:grid-cols-3">
+        <div className="mt-6 grid gap-3 md:grid-cols-3 md:gap-5">
           <Step
             n="1"
             title="Ürünü Seç"
@@ -881,10 +931,10 @@ export default function Home() {
       </section>
 
       {/* GÜÇLENDİRİLMİŞ SEO METNİ */}
-      <section className="mx-auto max-w-7xl px-5 py-12">
-        <div className="grid gap-6 rounded-3xl border border-gray-200 bg-gray-50 p-6 md:grid-cols-2 md:p-10">
+      <section className="mx-auto max-w-7xl px-5 pb-8 pt-2 md:pb-10">
+        <div className="grid items-start gap-6 rounded-2xl border border-gray-200 bg-gray-50 p-5 md:grid-cols-2 md:gap-8 md:p-7">
           <div>
-            <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
+            <h2 className="text-2xl font-extrabold tracking-tight text-black md:text-3xl">
               Logo Baskılı Kurumsal Promosyon Ürünleri
             </h2>
 
@@ -911,7 +961,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="grid gap-3">
+          <div className="grid content-start gap-3 self-start">
             <SimpleInfoCard
               title="Kurumsal siparişe uygun ürün seçimi"
               text="Kullanım amacına ve hedef kitlenize göre doğru promosyon ürün gruplarını inceleyin."
@@ -928,12 +978,29 @@ export default function Home() {
               title="Hızlı teklif ve süreç desteği"
               text="Ürün, adet ve baskı detaylarına göre daha net sipariş planlaması yapın."
             />
+            {/* FP QUOTE PREPARATION CHECKLIST */}
+            <div className="rounded-2xl border border-gray-200 bg-white p-4 sm:p-5">
+              <h3 className="text-base font-bold leading-6 text-black">Teklif İstemeden Önce</h3>
+              <p className="mt-2 text-sm leading-6 text-gray-600">
+                İhtiyacınıza uygun bir teklif hazırlayabilmemiz için aşağıdaki bilgileri paylaşabilirsiniz.
+              </p>
+              <ul className="mt-4 space-y-3 text-sm leading-6 text-gray-600">
+                <li><strong className="font-semibold text-black">Ürün ve adet:</strong> İlgilendiğiniz ürün kodunu, rengini ve sipariş adedini belirtin.</li>
+                <li><strong className="font-semibold text-black">Logo dosyası:</strong> Varsa AI, EPS, SVG veya vektörel PDF dosyanızı paylaşın. Dosyanın baskıya uygunluğu ayrıca kontrol edilir.</li>
+                <li><strong className="font-semibold text-black">Baskı detayları:</strong> Logonun uygulanacağı yönü, renk sayısını ve varsa kişiselleştirme talebini iletin.</li>
+                <li><strong className="font-semibold text-black">Teslim tarihi:</strong> Fuar veya etkinlik tarihinizi belirtin; stok ve üretim süresi buna göre değerlendirilsin.</li>
+              </ul>
+              <Link href="/kurumsal-teklif-al" className="mt-5 inline-flex min-h-11 items-center justify-center gap-3 rounded-xl bg-black px-4 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
+                Kurumsal teklif isteyin <span aria-hidden="true">↗</span>
+              </Link>
+            </div>
           </div>
         </div>
       </section>
 
-      <section id="sss" className="mx-auto max-w-7xl px-5 py-12">
-        <h2 className="text-2xl font-extrabold text-gray-900 md:text-3xl">
+      {/* FP FAQ DESIGN V2 */}
+      <section id="sss" className="mx-auto max-w-7xl scroll-mt-28 px-5 py-6 md:py-8">
+        <h2 className="text-2xl font-extrabold tracking-tight text-black md:text-3xl">
           Sık Sorulan Sorular
         </h2>
         <div className="mt-6 space-y-3">
@@ -1011,6 +1078,31 @@ function SectionHeader({
   );
 }
 
+// FP HOME PRODUCT PRICES V1
+function HomeProductPrice({ product }: { product: any }) {
+  const price = product.price;
+  const hasPrice = typeof price === "number" && Number.isFinite(price) && price > 0;
+
+  return (
+    <div className="mt-3 min-h-[3.25rem]">
+      {hasPrice ? (
+        <>
+          <div className="flex flex-wrap items-baseline gap-x-1.5 text-black">
+            <span className="text-base font-bold tabular-nums sm:text-lg">
+              {new Intl.NumberFormat("tr-TR", { minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(price)} TL
+            </span>
+            <span className="text-[11px] font-medium text-gray-600">+ KDV</span>
+          </div>
+          <p className="mt-1 text-[10px] leading-4 text-gray-500 sm:text-[11px]">Birim fiyat · Baskı hariç</p>
+        </>
+      ) : (
+        <p className="text-sm font-semibold leading-6 text-black">Fiyat için teklif al</p>
+      )}
+    </div>
+  );
+}
+
+// FP MINI PRODUCT CARD V2
 function MiniProductCard({ product }: { product: any }) {
   const title = pickTitle(product);
   const img = pickImg(product);
@@ -1021,32 +1113,33 @@ function MiniProductCard({ product }: { product: any }) {
   return (
     <Link
       href={`/urunler/${slug}`}
-      className="fp-home-hover-card group bg-white transition min-w-0 rounded-2xl border border-black p-2 sm:p-4"
+      className="group flex min-w-0 flex-col overflow-hidden rounded-2xl border border-gray-200 bg-white transition-colors hover:border-gray-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black"
     >
-      <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
+      <div className="relative aspect-square w-full overflow-hidden bg-white">
         <Image
           src={img}
           alt={title}
           fill
-
           loading="lazy"
-          sizes="(max-width: 640px) 100vw, 25vw"
-          className="object-contain transition duration-500 p-0"
+          sizes="(max-width: 1023px) 46vw, 295px"
+          className="object-contain p-2 sm:p-3"
         />
       </div>
-
-      <div className="mt-4">
-        <div className="flex items-center justify-between gap-2 flex-wrap">
-          <div className="text-xs font-semibold text-gray-600">{cat}</div>
-          <div className="rounded-full bg-gray-100 px-2.5 py-1 text-[11px] font-semibold text-gray-700">
+      <div className="flex flex-1 flex-col border-t border-gray-100 bg-gray-50 px-3 py-4 sm:px-4">
+        <div className="flex min-h-8 flex-wrap items-center justify-between gap-x-2 gap-y-1">
+          <div className="text-[11px] font-medium leading-5 text-gray-500 sm:text-xs">{cat}</div>
+          <div className="rounded-full border border-gray-200 bg-white px-2 py-1 text-[10px] font-medium leading-4 text-gray-600 sm:text-[11px]">
             {minOrder}
           </div>
         </div>
-
-        <div className="mt-2 line-clamp-2 font-extrabold text-gray-900 text-xs sm:text-sm">
+        <h3 className="mt-2 min-h-[2.75rem] line-clamp-2 break-words text-sm font-bold leading-[1.375rem] text-black">
           {title}
+        </h3>
+        <HomeProductPrice product={product} />
+        <div className="mt-auto flex items-center justify-between gap-2 pt-4">
+          <span className="text-xs font-semibold text-gray-700">Ürünü incele</span>
+          <span aria-hidden="true" className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full border border-gray-200 bg-white text-sm transition-colors group-hover:border-black group-hover:bg-black group-hover:text-white">↗</span>
         </div>
-        <div className="mt-3 text-xs font-semibold text-gray-900">Detay →</div>
       </div>
     </Link>
   );
@@ -1054,53 +1147,53 @@ function MiniProductCard({ product }: { product: any }) {
 
 function HeroStat({ title, text }: { title: string; text: string }) {
   return (
-    <div className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm">
-      <div className="text-sm font-extrabold text-gray-900">{title}</div>
-      <div className="mt-1 text-xs text-gray-600">{text}</div>
+    <div className="flex min-w-0 items-start gap-2">
+      <span aria-hidden="true" className="mt-0.5 text-sm font-bold text-black">✓</span>
+      <div className="min-w-0">
+        <div className="text-xs font-bold leading-5 text-black sm:text-sm">{title}</div>
+        <div className="mt-1 text-xs leading-5 text-gray-600">{text}</div>
+      </div>
     </div>
   );
 }
 
 function ServiceCard({ title, text }: { title: string; text: string }) {
   return (
-    <div className="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-md">
-      <div className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
-        Kurumsal çözüm
-      </div>
-      <div className="mt-4 text-base font-extrabold text-gray-900">{title}</div>
-      <div className="mt-2 text-sm leading-6 text-gray-700">{text}</div>
+    <div className="h-full rounded-2xl border border-gray-200 bg-white p-5">
+      <h3 className="text-base font-bold leading-6 text-black">{title}</h3>
+      <p className="mt-2 text-sm leading-6 text-gray-600">{text}</p>
     </div>
   );
 }
 
 function Step({ n, title, text }: { n: string; title: string; text: string }) {
   return (
-    <div className="rounded-3xl border border-gray-200 bg-white p-6 shadow-sm">
-      <div className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-black text-sm font-extrabold text-white">
+    <div className="h-full rounded-2xl border border-gray-200 bg-white p-5">
+      <div className="inline-flex h-9 w-9 items-center justify-center rounded-full bg-black text-sm font-bold text-white">
         {n}
       </div>
-      <div className="mt-4 text-base font-extrabold text-gray-900">{title}</div>
-      <div className="mt-2 text-sm leading-6 text-gray-700">{text}</div>
+      <h3 className="mt-4 text-base font-bold leading-6 text-black">{title}</h3>
+      <p className="mt-2 text-sm leading-6 text-gray-600">{text}</p>
     </div>
   );
 }
 
 function SimpleInfoCard({ title, text }: { title: string; text: string }) {
   return (
-    <div className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm">
-      <div className="text-sm font-extrabold text-gray-900">{title}</div>
-      <div className="mt-2 text-sm leading-6 text-gray-700">{text}</div>
+    <div className="rounded-2xl border border-gray-200 bg-white p-4 sm:p-5">
+      <h3 className="text-sm font-bold leading-6 text-black">{title}</h3>
+      <p className="mt-2 text-sm leading-6 text-gray-600">{text}</p>
     </div>
   );
 }
 
 function Faq({ q, a }: { q: string; a: string }) {
   return (
-    <details className="rounded-3xl border border-gray-200 bg-white p-5 shadow-sm">
-      <summary className="cursor-pointer text-sm font-extrabold text-gray-900">
+    <details className="rounded-2xl border border-gray-200 bg-white p-4 open:bg-gray-50 sm:p-5">
+      <summary className="cursor-pointer rounded-sm text-sm font-bold leading-6 text-black focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black">
         {q}
       </summary>
-      <div className="mt-3 text-sm leading-7 text-gray-700">{a}</div>
+      <div className="mt-3 border-t border-gray-200 pt-3 text-sm leading-7 text-gray-600">{a}</div>
     </details>
   );
 }

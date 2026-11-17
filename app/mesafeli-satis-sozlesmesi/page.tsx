@@ -1,3 +1,4 @@
+import FpLegalPage from "../_components/FpLegalPage";
 import type { Metadata } from "next";
 
 const SITE_URL = "https://www.firmapromosyon.com";
@@ -11,22 +12,15 @@ export const metadata: Metadata = {
 
 export default function Page() {
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
-
-      <section className="rounded-3xl bg-black px-6 py-10 text-white md:px-10">
-
-        <h1 className="text-3xl font-extrabold text-white md:text-4xl">
-          Mesafeli Satış Sözleşmesi
-        </h1>
-
-        <p className="mt-3 text-sm text-gray-300">
+    <FpLegalPage title="Mesafeli Satış Sözleşmesi" href="/mesafeli-satis-sozlesmesi">
+<p className="mt-3 text-sm text-gray-500">
           Güncelleme Tarihi: 2026
         </p>
 
-        <div className="mt-10 space-y-10 text-gray-200 leading-7">
+        <div className="mt-6 space-y-8 text-gray-700 leading-7">
 
           <section>
-            <h2 className="text-xl font-bold text-white">
+            <h2 className="text-xl font-bold text-gray-900">
               1. Taraflar
             </h2>
 
@@ -45,7 +39,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">
+            <h2 className="text-xl font-bold text-gray-900">
               2. Sözleşmenin Konusu
             </h2>
 
@@ -58,7 +52,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">
+            <h2 className="text-xl font-bold text-gray-900">
               3. Ürün Bilgileri
             </h2>
 
@@ -70,7 +64,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">
+            <h2 className="text-xl font-bold text-gray-900">
               4. Sipariş ve Ödeme
             </h2>
 
@@ -87,7 +81,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">
+            <h2 className="text-xl font-bold text-gray-900">
               5. Teslimat
             </h2>
 
@@ -103,7 +97,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">
+            <h2 className="text-xl font-bold text-gray-900">
               6. Cayma Hakkı
             </h2>
 
@@ -119,7 +113,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">
+            <h2 className="text-xl font-bold text-gray-900">
               7. İade Koşulları
             </h2>
 
@@ -134,7 +128,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">
+            <h2 className="text-xl font-bold text-gray-900">
               8. Uyuşmazlıkların Çözümü
             </h2>
 
@@ -146,7 +140,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">
+            <h2 className="text-xl font-bold text-gray-900">
               9. Yürürlük
             </h2>
 
@@ -157,8 +151,6 @@ export default function Page() {
           </section>
 
         </div>
-      </section>
-
-    </main>
+    </FpLegalPage>
   );
 }

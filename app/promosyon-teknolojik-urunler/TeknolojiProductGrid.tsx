@@ -1,8 +1,5 @@
 "use client";
 
-import Link from "next/link";
-import Image from "next/image";
-import { useMemo, useState } from "react";
 import { sortProductsByCode } from "@/data/productSorting";
 
 
@@ -26,130 +23,8 @@ function matchesFilter(product: TeknolojiProduct, filter: string) {
   return (verifiedFeatures[product.slug] || []).includes(filter);
 }
 
-export default function TeknolojiProductGrid({
-  products,
-}: {
-  products: TeknolojiProduct[];
-}) {
-  const [activeFilter, setActiveFilter] = useState("Tümü");
 
-  const filteredProducts = useMemo(
-    () =>
-      sortProductsByCode(products.filter((product) =>
-        matchesFilter(product, activeFilter)
-      )),
-    [products, activeFilter]
-  );
-
-  return (
-    <>
-      <section className="mt-8 mb-8 rounded-2xl border border-gray-200 bg-white p-5 md:p-6">
-        <h2 className="text-xl font-bold text-gray-900">
-          Promosyon Teknolojik Ürünleri Filtreleyin
-        </h2>
-
-        <p className="mt-2 max-w-3xl text-sm leading-6 text-gray-600">
-          Şarj kablosu, Bluetooth hoparlör, wireless şarj ve telefon
-          standı modellerini özelliklerine göre inceleyebilirsiniz.
-        </p>
-
-        <div className="mt-5 flex flex-wrap gap-3">
-          {filters.map((filter) => {
-            const active = activeFilter === filter;
-
-            return (
-              <button
-                key={filter}
-                type="button"
-                onClick={() => setActiveFilter(filter)}
-                className={`rounded-xl border-2 border-black px-5 py-2.5 text-sm font-semibold transition ${
-                  active
-                    ? "bg-black text-white"
-                    : "bg-white text-black hover:bg-black hover:text-white"
-                }`}
-              >
-                {filter}
-              </button>
-            );
-          })}
-        </div>
-      </section>
-
-      <p className="mb-4 text-sm font-medium !text-white">
-        {activeFilter === "Tümü"
-          ? `${filteredProducts.length} ürün gösteriliyor`
-          : `${activeFilter} filtresinde ${filteredProducts.length} ürün gösteriliyor`}
-      </p>
-
-      {filteredProducts.length > 0 ? (
-        <section className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {filteredProducts.map((product) => (
-            <Link
-              key={product.id}
-              href={`/urunler/${product.slug}`}
-              className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
-            >
-              <div className="relative aspect-square w-full overflow-hidden rounded-xl border border-gray-100 bg-white">
-                <Image
-                  src={product.image}
-                  alt={product.title}
-                  fill
-                  unoptimized
-                  loading="lazy"
-                  className="object-contain bg-white p-4"
-                  sizes="(max-width: 768px) 100vw, 33vw"
-                />
-              </div>
-
-              <div className="mt-4">
-                <div className="text-xs font-semibold uppercase tracking-wide text-gray-500">
-                  {product.category}
-                </div>
-
-                <h2 className="mt-1 text-lg font-bold text-gray-900">
-                  {product.title}
-                </h2>
-
-                <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
-                  {product.shortDesc}
-                </p>
-
-                {product.price != null ? (
-                  <div className="mt-3">
-                    <div className="text-base font-bold text-gray-900">
-                      {product.price.toLocaleString("tr-TR")} TL + KDV
-                    </div>
-
-                    <div className="mt-1 text-xs font-medium text-green-600">
-                      Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.
-                    </div>
-                  </div>
-                ) : (
-                  <p className="mt-3 text-sm font-semibold text-gray-900">Güncel fiyat için teklif alın.</p>
-                )}
-
-                <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
-                  Ürünü İncele
-                </div>
-              </div>
-            </Link>
-          ))}
-        </section>
-      ) : (
-        <div className="rounded-2xl border border-gray-200 bg-white p-8 text-center">
-          <p className="font-medium text-gray-700">
-            Bu filtreye uygun ürün bulunamadı.
-          </p>
-
-          <button
-            type="button"
-            onClick={() => setActiveFilter("Tümü")}
-            className="mt-4 rounded-xl bg-black px-5 py-2.5 text-sm font-semibold text-white"
-          >
-            Tüm Ürünleri Göster
-          </button>
-        </div>
-      )}
-    </>
-  );
+import FpCategoryCatalog from "../_components/FpCategoryCatalog";
+export default function TeknolojiProductGrid({products}: {products: TeknolojiProduct[]}) {
+ return <FpCategoryCatalog anchorId="promosyon-teknolojik-urunler-modelleri" products={sortProductsByCode(products).map(p => ({...p, priceNote:"Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın."}))} filters={filters} filterProduct={matchesFilter} filterTitle="Promosyon Teknolojik Ürünleri Filtreleyin" filterDescription="Şarj kablosu, Bluetooth hoparlör, wireless şarj ve telefon standı modellerini özelliklerine göre inceleyebilirsiniz." categoryLabel="" showPrices={true} />;
 }

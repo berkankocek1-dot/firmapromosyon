@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import DefterProductGrid from "./DefterProductGrid";
 import type { Metadata } from "next";
@@ -117,7 +118,7 @@ export default function PromosyonDefterPage() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -176,25 +177,25 @@ export default function PromosyonDefterPage() {
         }}
       />
 
-      <section className="rounded-3xl bg-black px-6 py-7 text-white md:px-8 md:py-9">
-        <nav className="mb-4 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-7 text-black md:px-8 md:py-9 border border-gray-200">
+        <nav className="mb-4 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">Promosyon Defter</span>
+          <span className="font-semibold text-black">Promosyon Defter</span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Logo Baskılı Tarihsiz Promosyon Defter Modelleri
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Toplantı notları, çalışan kitleri ve müşteri hediyeleri için tarihsiz
             defterleri ebat, kapak ve iç sayfa özelliklerine göre karşılaştırın.
             Logolu toplu sipariş için model kodu, adet ve baskı tercihinizle
@@ -204,35 +205,35 @@ export default function PromosyonDefterPage() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="inline-flex items-center justify-center rounded-xl bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
               href="/urunler?kategori=Tarihsiz%20Defter"
-              className="inline-flex items-center justify-center rounded-xl border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
+              className="inline-flex items-center justify-center rounded-xl border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
             >
               Ürünlerde Filtrele
             </Link>
           </div>
-        </header>
+        </div>{filtered[0] && <div className="relative hidden h-52 w-full lg:block"><Image src="/category-heroes/clean/promosyon-tarihsiz-defter-td-100-v2-clean.webp" alt={filtered[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
       <DefterProductGrid products={filtered} />
 
       {filtered.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Tarihsiz Defter Seçerken Hangi Özelliklere Bakılmalı?</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Tarihsiz Defter Seçerken Hangi Özelliklere Bakılmalı?</h2>
             <p>Defter seçiminde dış görünüm kadar kullanım biçimi de önemlidir. Çantada taşınacak bir ürün ile masada toplantı notları için kullanılacak bir modelde farklı ebatlar tercih edilebilir. Ürün detaylarında belirtilen ölçüleri, kapak yapısını ve iç sayfa özelliklerini birlikte inceleyin.</p>
             <div className="overflow-x-auto">
               <table className="w-full min-w-[560px] border-collapse text-left text-sm">
                 <caption className="sr-only">Kurumsal defter seçiminde özellik ve sipariş kontrol tablosu</caption>
-                <thead className="text-white"><tr>
-                  <th scope="col" className="border-b border-white/20 p-3">Özellik</th>
-                  <th scope="col" className="border-b border-white/20 p-3">Seçime etkisi</th>
-                  <th scope="col" className="border-b border-white/20 p-3">Kontrol edilecek bilgi</th>
+                <thead className="text-black"><tr>
+                  <th scope="col" className="border-b border-gray-200 p-3">Özellik</th>
+                  <th scope="col" className="border-b border-gray-200 p-3">Seçime etkisi</th>
+                  <th scope="col" className="border-b border-gray-200 p-3">Kontrol edilecek bilgi</th>
                 </tr></thead>
                 <tbody>
                   {[
@@ -243,9 +244,9 @@ export default function PromosyonDefterPage() {
                     ["Metal detay", "Logo yerleşimi ve hediye sunumu", "Detayın konumu ve uygulanabilir baskı yöntemi"],
                   ].map(([feature, effect, check]) => (
                     <tr key={feature}>
-                      <th scope="row" className="border-b border-white/10 p-3 font-semibold text-white">{feature}</th>
-                      <td className="border-b border-white/10 p-3">{effect}</td>
-                      <td className="border-b border-white/10 p-3">{check}</td>
+                      <th scope="row" className="border-b border-gray-200 p-3 font-semibold text-black">{feature}</th>
+                      <td className="border-b border-gray-200 p-3">{effect}</td>
+                      <td className="border-b border-gray-200 p-3">{check}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -254,33 +255,33 @@ export default function PromosyonDefterPage() {
             <p>Bir aksesuarın veya sayfa özelliğinin tüm modellerde bulunduğunu varsaymayın. Özellikle sayfa sayısı ile yaprak sayısını aynı kabul etmeden ürün açıklamasını kontrol edin; belirtilmeyen ayrıntıları teklif aşamasında sorun.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Tarihsiz Defter mi, Ajanda mı?</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Tarihsiz Defter mi, Ajanda mı?</h2>
             <p>Tarihsiz defter belirli bir takvim yılına bağlı olmadan not almak için kullanılabilir. Yıl içinde farklı tarihlerde yapılan eğitimler, çalışan başlangıç paketleri ve toplantı dağıtımları için bu esneklik değerlendirilebilir.</p>
-            <p>Gün, hafta veya ay bazında tarihli planlama arıyorsanız <Link href="/promosyon-ajanda" className="font-semibold text-white underline underline-offset-4">promosyon ajanda modellerini</Link> de inceleyin. Tarihsiz defter seçiminde ise iç sayfa düzeninin kullanım amacınıza uygunluğunu kontrol edin.</p>
+            <p>Gün, hafta veya ay bazında tarihli planlama arıyorsanız <Link href="/promosyon-ajanda" className="font-semibold text-black underline underline-offset-4">promosyon ajanda modellerini</Link> de inceleyin. Tarihsiz defter seçiminde ise iç sayfa düzeninin kullanım amacınıza uygunluğunu kontrol edin.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Defter Fiyatlarını Nasıl Karşılaştırmalısınız?</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon Defter Fiyatlarını Nasıl Karşılaştırmalısınız?</h2>
             <p>Benzer görünümlü iki defterin ebatları, kapak malzemesi, sayfa sayısı ve cilt yapısı farklı olabilir. Toptan siparişte karşılaştırmayı aynı özellikler üzerinden yapın; ürün fiyatının yanında logo uygulamasının kapsamını da netleştirin.</p>
             <ul className="list-disc space-y-2 pl-5">
-              <li><strong className="text-white">Ürün:</strong> Model kodu, ebat, kapak, iç sayfa yapısı ve sipariş adedi.</li>
-              <li><strong className="text-white">Baskı:</strong> Uygulama yöntemi, logo boyutu, renk sayısı ve baskı yapılacak yüzeyler.</li>
-              <li><strong className="text-white">Sunum:</strong> Varsa kutu, kalem veya diğer ek ürünlerin teklife dahil olup olmadığı.</li>
-              <li><strong className="text-white">Toplam tutar:</strong> Ürün ve baskı bedelleri ile KDV kapsamı.</li>
+              <li><strong className="text-black">Ürün:</strong> Model kodu, ebat, kapak, iç sayfa yapısı ve sipariş adedi.</li>
+              <li><strong className="text-black">Baskı:</strong> Uygulama yöntemi, logo boyutu, renk sayısı ve baskı yapılacak yüzeyler.</li>
+              <li><strong className="text-black">Sunum:</strong> Varsa kutu, kalem veya diğer ek ürünlerin teklife dahil olup olmadığı.</li>
+              <li><strong className="text-black">Toplam tutar:</strong> Ürün ve baskı bedelleri ile KDV kapsamı.</li>
             </ul>
             <p>Ürün kartındaki fiyat açıklamasını esas alın. Baskı hariç gösterilen bir tutarı baskılı toplam fiyat olarak değerlendirmeyin. Fiyatı bulunmayan modellerde güncel stok ve fiyat bilgisi için teklif isteyebilirsiniz.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Defter Kapağına Logo Baskısı</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Defter Kapağına Logo Baskısı</h2>
             <p>Serigraf, UV veya sıcak baskı gibi uygulamaların uygunluğu kapak malzemesine ve logo tasarımına göre değerlendirilir. Aynı yöntemin her kapakta uygulanabildiğini varsaymayın; model seçimi sırasında uygun tekniği ve baskı ölçüsünü teyit edin.</p>
             <p>Logonun konumunu belirlerken lastik, cep, dikiş, kalem tutucu ve varsa metal detayların yerini dikkate alın. Logonuzla birlikte firma adı veya iletişim bilgisi de kullanılacaksa bunların kapak üzerindeki okunurluğunu değerlendirin.</p>
             <p>Mümkünse vektörel logo dosyanızı paylaşın. Renkli logo mu yoksa kapak üzerinde daha sade bir uygulama mı istediğinizi belirterek yerleşimi, baskı alanını ve görsel onay sürecini sipariş öncesinde netleştirin.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Toplu Logo Baskılı Defter Siparişi</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Toplu Logo Baskılı Defter Siparişi</h2>
             <p>İhtiyacınıza uygun teklif hazırlanabilmesi için şu bilgileri paylaşabilirsiniz:</p>
             <ol className="list-decimal space-y-2 pl-5">
               <li>Defterin model kodu, tercih ettiğiniz ebat ve kapak rengi.</li>
@@ -289,12 +290,12 @@ export default function PromosyonDefterPage() {
               <li>Varsa kalem veya kutu talebi, teslimat ili ve hedef teslim tarihi.</li>
             </ol>
             <p>Minimum sipariş adedi ve hazırlık süresi model, stok ve baskı planına göre değişir. Eğitim, fuar veya çalışan dağıtımı için sipariş verecekseniz tarih bilgisini baştan paylaşarak teslim planını teyit edin.</p>
-            <Link href="/kurumsal-teklif-al" className="inline-flex rounded-full bg-white px-5 py-3 text-sm font-semibold text-black hover:opacity-90">Logolu Defter İçin Teklif Al</Link>
-            <p>Defterle birlikte sunmak için <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">logo baskılı kalem</Link> ve <Link href="/promosyon-kalem-setleri" className="font-semibold text-white underline underline-offset-4">kalem seti modellerini</Link> inceleyebilirsiniz. Paket içeriğinin ve ek ürünlerin teklif kapsamını ayrıca netleştirin.</p>
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">Logolu Defter İçin Teklif Al</Link>
+            <p>Defterle birlikte sunmak için <Link href="/promosyon-kalem" className="font-semibold text-black underline underline-offset-4">logo baskılı kalem</Link> ve <Link href="/promosyon-kalem-setleri" className="font-semibold text-black underline underline-offset-4">kalem seti modellerini</Link> inceleyebilirsiniz. Paket içeriğinin ve ek ürünlerin teklif kapsamını ayrıca netleştirin.</p>
           </section>
 
           <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
+            <h2 className="text-2xl font-bold text-black">
               Promosyon Defter Hakkında Sık Sorulan Sorular
             </h2>
 
@@ -302,12 +303,12 @@ export default function PromosyonDefterPage() {
               {faqItems.map((item) => (
                 <div
                   key={item.question}
-                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                  className="rounded-2xl border border-gray-200 bg-white p-5"
                 >
-                  <h3 className="text-lg font-semibold text-white">
+                  <h3 className="text-lg font-semibold text-black">
                     {item.question}
                   </h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                  <p className="mt-2 text-sm leading-6 text-gray-600">
                     {item.answer}
                   </p>
                 </div>
@@ -318,16 +319,16 @@ export default function PromosyonDefterPage() {
       )}
       <section aria-label="Defter alt kategorileri" className="mt-10 rounded-2xl bg-white p-6">
         <h2 className="text-xl font-bold !text-black">Defterleri Özelliklerine Göre İnceleyin</h2>
-        <Link href="/promosyon-kalem-tutuculu-defter" className="mt-3 block font-semibold !text-black underline underline-offset-4">Kalem Tutuculu Defter Modellerini İncele →</Link>
-        <Link href="/promosyon-metal-detayli-defter" className="mt-3 block font-semibold !text-black underline underline-offset-4">Metal Detaylı Defter Modellerini İncele →</Link>
-        <Link href="/promosyon-kareli-defter" className="mt-3 block font-semibold !text-black underline underline-offset-4">Kareli Defter Modellerini İncele →</Link>
-        <Link href="/promosyon-cep-mini-boy-defter" className="mt-3 block font-semibold !text-black underline underline-offset-4">Cep ve Mini Boy Defter Modellerini İncele →</Link>
+        <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3"><Link href="/promosyon-kalem-tutuculu-defter" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Kalem Tutuculu Defter Modellerini İncele →</Link>
+        <Link href="/promosyon-metal-detayli-defter" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Metal Detaylı Defter Modellerini İncele →</Link>
+        <Link href="/promosyon-kareli-defter" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Kareli Defter Modellerini İncele →</Link>
+        <Link href="/promosyon-cep-mini-boy-defter" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Cep ve Mini Boy Defter Modellerini İncele →</Link></div>
       </section>
       <section aria-labelledby="defter-ajanda-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="defter-ajanda-secim-rehberi-baslik" className="text-xl font-bold !text-black">Defter ve Ajanda Seçimini Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Boyut, iç sayfa, kapak ve cilt seçeneklerini karşılaştırın; takvim yılı, logo ve toplu sipariş onayını birlikte değerlendirin.</p>
-        <Link href="/rehber/promosyon-defter-ajanda-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Defter ve Ajanda Seçim Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-defter-ajanda-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-defter-ajanda-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Defter ve Ajanda Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Promosyon defter ve ajandayı kullanım amacı, boyut, iç sayfa, kapak ve cilt yapısıyla karşılaştırın. Takvim yılı, logo, numune ve toplu sipariş onayını planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

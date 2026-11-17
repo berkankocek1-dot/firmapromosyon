@@ -1,3 +1,4 @@
+import FpCategoryCatalog from "../_components/FpCategoryCatalog";
 import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
@@ -20,7 +21,7 @@ function JsonLd({ data }: { data: Record<string, unknown> }) {
 }
 export default function Page() {
  const list = sortProductsByCode(visibleProducts.filter(p => p.category === CATEGORY).filter(isPromotionalSpeaker));
- return <div className="mx-auto max-w-6xl px-4 py-10">
+ return <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
   <JsonLd data={{ "@context":"https://schema.org", "@type":"BreadcrumbList", itemListElement:[
    {"@type":"ListItem",position:1,name:"Ana Sayfa",item:SITE_URL+"/"},
    {"@type":"ListItem",position:2,name:"Teknolojik Ürünler",item:SITE_URL+"/promosyon-teknolojik-urunler"},
@@ -28,23 +29,16 @@ export default function Page() {
   ] }} />
   <JsonLd data={{ "@context":"https://schema.org", "@type":"CollectionPage",name:title,description,url:PAGE_URL,mainEntity:{"@type":"ItemList",numberOfItems:list.length,itemListElement:list.map((p,i)=>({"@type":"ListItem",position:i+1,name:p.title,url:SITE_URL+"/urunler/"+p.slug}))} }} />
   <JsonLd data={{ "@context":"https://schema.org", "@type":"FAQPage",mainEntity:faqItems.map(x=>({"@type":"Question",name:x.question,acceptedAnswer:{"@type":"Answer",text:x.answer}})) }} />
-  <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8">
-   <nav aria-label="İçerik yolu" className="text-sm"><Link href="/" className="underline">Ana Sayfa</Link> / <Link href="/promosyon-teknolojik-urunler" className="underline">Teknolojik Ürünler</Link> / Hoparlörler</nav>
-   <h1 className="mt-5 text-3xl font-bold md:text-4xl">Logo Baskılı Promosyon Hoparlör Modelleri</h1>
-   <p className="mt-3 max-w-3xl leading-7 text-gray-200">Bluetooth hoparlörleri, mini gövdeli modelleri ve wireless şarjla birleşen masaüstü seçeneklerini karşılaştırın. Bağlantı, taşıma biçimi ve logo uygulamasını kullanım ihtiyacınıza göre değerlendirerek toplu teklif alın.</p>
-   <div className="mt-6 flex flex-wrap gap-3"><Link href="/kurumsal-teklif-al" className="rounded-full bg-white px-5 py-3 text-sm font-semibold !text-black">Toplu Sipariş İçin Teklif Al</Link><Link href="/promosyon-teknolojik-urunler" className="rounded-full border border-white/40 px-5 py-3 text-sm font-semibold text-white">Tüm Teknolojik Ürünler</Link></div>
-  </section>
-  <p className="mb-5 mt-8 text-sm text-white">{list.length} hoparlör modeli gösteriliyor</p>
-  <section aria-label="Promosyon hoparlör ürün listesi" className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-   {list.map(p=><Link key={p.id} href={"/urunler/"+p.slug} className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
-    <div className="relative aspect-square overflow-hidden rounded-xl border border-gray-100 bg-white"><Image src={p.image} alt={p.title} fill unoptimized loading="lazy" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-contain p-4" /></div>
-    <div className="mt-4"><p className="text-xs font-semibold uppercase tracking-wide text-gray-500">Hoparlörler</p><h2 className="mt-1 text-lg font-bold !text-gray-900">{p.title}</h2><p className="mt-2 line-clamp-3 text-sm leading-6 !text-gray-700">{p.shortDesc}</p>
-    {p.price != null ? <div className="mt-3"><p className="text-base font-bold !text-gray-900">{p.price.toLocaleString("tr-TR")} TL + KDV</p><p className="mt-1 text-xs font-medium !text-green-600">Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.</p></div> : <p className="mt-3 text-sm font-semibold !text-gray-900">Güncel fiyat için teklif alın.</p>}
-    <span className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold !text-white">Ürünü İncele</span></div>
-   </Link>)}
-  </section>
-  <section className="mt-12 space-y-5 rounded-3xl bg-black px-6 py-8 leading-7 text-gray-200 md:px-8">
-   <h2 className="text-2xl font-bold text-white">Promosyon Hoparlör Seçiminde Hangi Özellikler Karşılaştırılmalı?</h2>
+  <section className="rounded-2xl bg-gray-50 px-6 py-6 text-black md:px-8 border border-gray-200">
+   <nav aria-label="İçerik yolu" className="text-sm"><Link href="/" className="underline">Ana Sayfa</Link> / <Link href="/promosyon-teknolojik-urunler" className="underline">Teknolojik Ürünler</Link> / Hoparlörler</nav><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+   <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">Logo Baskılı Promosyon Hoparlör Modelleri</h1>
+   <p className="mt-3 max-w-3xl leading-7 text-gray-600">Bluetooth hoparlörleri, mini gövdeli modelleri ve wireless şarjla birleşen masaüstü seçeneklerini karşılaştırın. Bağlantı, taşıma biçimi ve logo uygulamasını kullanım ihtiyacınıza göre değerlendirerek toplu teklif alın.</p>
+   <div className="mt-6 flex flex-wrap gap-3"><Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">Toplu Sipariş İçin Teklif Al</Link><Link href="/promosyon-teknolojik-urunler" className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black">Tüm Teknolojik Ürünler</Link></div>
+  </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src={list[0].image} alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></section>
+
+  <FpCategoryCatalog anchorId="promosyon-hoparlor-modelleri" showPrices={true} products={list.map(p => ({id:p.id,slug:p.slug,title:p.title,image:p.image,category:p.category,shortDesc:p.shortDesc,price:p.price,priceNote:"Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın."}))} />
+  <section className="mt-12 space-y-5 rounded-2xl bg-gray-50 px-6 py-8 leading-7 text-gray-600 md:px-8 border border-gray-200">
+   <h2 className="text-2xl font-bold text-black">Promosyon Hoparlör Seçiminde Hangi Özellikler Karşılaştırılmalı?</h2>
    <p>Logo baskılı hoparlör seçerken ürünün nerede kullanılacağını belirleyin. Çantada taşınacak kompakt bir ses aksesuarıyla çalışma masasında duracak şarj ve hoparlör birleşimi farklı ihtiyaçlara cevap verir. Gövde ölçüsünü, bağlantı biçimini ve logo alanını birlikte inceleyin. Hediye paketinin boyutunu da ürün seçiminin bir parçası olarak değerlendirin.</p>
    <div className="overflow-x-auto"><table className="w-full min-w-[450px] text-left text-sm"><caption className="sr-only">Hoparlör modellerinin belirtilen özellikleri</caption><thead><tr><th scope="col" className="p-3">Model</th><th scope="col" className="p-3">Ayırt edici bilgi</th></tr></thead><tbody>{[
     ["SPK-100 / SPK-110","Yatay masaüstü / kompakt köşeli Bluetooth gövde"],
@@ -54,26 +48,26 @@ export default function Page() {
     ["SPK-150","Bluetooth 5.0, 400 mAh, Micro USB, handsfree"],
     ["SPK-160 / SPK-170 / SPK-180","Wireless şarj ve hoparlör birleşimi; farklı masaüstü formlar"],
     ["TT-150","15 W wireless şarj, Bluetooth 5.1 ve üç renk LED aydınlatma"]
-   ].map(([model,feature])=><tr key={model} className="border-t border-white/15"><th scope="row" className="p-3 font-semibold">{model}</th><td className="p-3">{feature}</td></tr>)}</tbody></table></div>
-   <h3 className="text-xl font-bold text-white">Bluetooth Sürümü, Ses Kaynağı ve Kullanım Alanı</h3>
+   ].map(([model,feature])=><tr key={model} className="border-t border-gray-200"><th scope="row" className="p-3 font-semibold">{model}</th><td className="p-3">{feature}</td></tr>)}</tbody></table></div>
+   <h3 className="text-xl font-bold text-black">Bluetooth Sürümü, Ses Kaynağı ve Kullanım Alanı</h3>
    <p>SPK-120 Bluetooth 5.3, SPK-150 Bluetooth 5.0 ve TT-150 Bluetooth 5.1 bilgisiyle sunulur. Sürüm numarası tek başına ses kalitesini veya yüksek ses seviyesini göstermez. Kullanılacak telefon ve ses kaynağıyla bağlantı uyumunu kontrol edin. SPK-160, SPK-170 ve SPK-180 için hoparlör bağlantısının ayrıntıları ayrıca teyit edilmelidir.</p>
    <p>SPK-120 için TF, FM, USB ve AUX seçenekleri belirtilir. Bu işlevlerin diğer modellerde de bulunduğunu varsaymayın. SPK-150 handsfree desteğine sahiptir; görüşme işlevi gerekiyorsa mikrofon ve kullanım beklentinizi model koduyla paylaşın. Ofis masası ve etkinlik alanı için gereken ses seviyesi aynı olmayabilir.</p>
-   <h3 className="text-xl font-bold text-white">Mini Gövde ve Batarya Bilgilerini Birlikte İnceleyin</h3>
+   <h3 className="text-xl font-bold text-black">Mini Gövde ve Batarya Bilgilerini Birlikte İnceleyin</h3>
    <p>SPK-140 için 3 W ses gücü ve 4 × 4 × 4,5 cm ölçü belirtilir. Ürün bilgilerindeki 10 metre bağlantı mesafesi ortam ve engellere göre değişebilir. SPK-130 siyah kompakt gövdesiyle, SPK-120 taşıma sapıyla ayrılır. Görselde küçük görünmesi tek başına ürünün ölçüsünü veya ağırlığını belirlemez.</p>
    <p>SPK-120 bataryası 800 mAh, SPK-150 bataryası 400 mAh olarak belirtilir. Batarya kapasitesinden bütün modeller için ortak çalma süresi çıkarılamaz. SPK-150 için belirtilen 3 saat süre de ses seviyesi ve bağlantı koşullarından etkilenebilir. Diğer modellerin batarya, şarj girişi ve kullanım süresini ayrıca sorun.</p>
-   <h3 className="text-xl font-bold text-white">Wireless Şarjlı Masaüstü Hoparlörler</h3>
+   <h3 className="text-xl font-bold text-black">Wireless Şarjlı Masaüstü Hoparlörler</h3>
    <p>SPK-160 dairesel şarj yüzeyiyle, SPK-170 çok yüzeyli tasarımıyla, SPK-180 ise kompakt açılı gövdesiyle tanımlanır. Bu modellerde şarj gücü ve bağlantı ayrıntıları teklif aşamasında netleştirilir. Telefon, saat veya kulaklığın her şarj alanıyla uyumlu olduğu kabul edilmemelidir.</p>
    <p>TT-150, 15 W kablosuz şarj ve üç renk LED aydınlatmayı Bluetooth hoparlörle birleştirir. Belirtilen ölçüsü 25 × 13 × 43 cm olduğundan masa alanını önceden değerlendirin. Kablosuz şarjda telefon, kılıf ve güç kaynağı uyumu önemlidir; belirtilen güç her cihazda aynı şarj hızı garantisi değildir.</p>
-   <h3 className="text-xl font-bold text-white">Logo Uygulaması, Kutu ve Toplu Sipariş</h3>
+   <h3 className="text-xl font-bold text-black">Logo Uygulaması, Kutu ve Toplu Sipariş</h3>
    <p>SPK-120 lazer kazımaya, SPK-150 lazer veya UV renkli baskıya uygun olarak belirtilir. TT-150 ışıklı LED logo alanı sunar. Diğer modellerde yöntem ve uygulanabilir alan yüzeye göre netleştirilir. Logonuzu mümkünse vektörel dosyayla paylaşın; küçük yazıları ve yerleşimi gerçek uygulama ölçüsünde kontrol edin.</p>
    <p>Fiyat bulunan kartlarda tutarlar baskı hariç TL + KDV olarak sunulur. Model kodu, adet, renk, logo dosyası ve teslim tarihini bildirerek toplam teklif alın. Kutu, kablo, adaptör ve ek paketleme kapsamını ürün bazında teyit edin. Güncel tedarik uygunluğu ile tasarım onayı teslim planında birlikte değerlendirilir.</p>
-   <p>Diğer aksesuarları karşılaştırmak için <Link href="/promosyon-teknolojik-urunler" className="font-semibold text-white underline">teknolojik promosyon ürünlerini</Link>, bağlantı aksesuarları için <Link href="/promosyon-sarj-kablosu" className="font-semibold text-white underline">şarj kablosu modellerini</Link> inceleyebilirsiniz.</p>
+   <p>Diğer aksesuarları karşılaştırmak için <Link href="/promosyon-teknolojik-urunler" className="font-semibold text-black underline">teknolojik promosyon ürünlerini</Link>, bağlantı aksesuarları için <Link href="/promosyon-sarj-kablosu" className="font-semibold text-black underline">şarj kablosu modellerini</Link> inceleyebilirsiniz.</p>
   </section>
-  <section className="mt-10"><h2 className="text-2xl font-bold text-white">Promosyon Hoparlörler Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
+  <section className="mt-10"><h2 className="text-2xl font-bold text-black">Promosyon Hoparlörler Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-gray-200 p-5 text-gray-600"><h3 className="font-semibold text-black">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
       <section aria-labelledby="hoparlor-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="hoparlor-rehberi-baslik" className="text-xl font-bold !text-black">Hoparlör Seçimini Dinleme İhtiyacınıza Göre Yapın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Ses kaynağı, bağlantı, taşınabilirlik ve ek işlevleri değerlendirin; numunede dinleme ve logo yerleşimini birlikte planlayın.</p>
-        <Link href="/rehber/promosyon-hoparlor-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Hoparlör Seçim Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-hoparlor-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-hoparlor-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Hoparlör Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Promosyon hoparlörleri ses kaynağı, bağlantı, taşınabilirlik ve kullanım süresi bilgileriyle değerlendirin. Numunede dinleme ve kurumsal logo alanını planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
- </div>;
+ </div></div>;
 }

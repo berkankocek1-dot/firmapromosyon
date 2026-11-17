@@ -1,3 +1,4 @@
+import FpCategoryCatalog from "../_components/FpCategoryCatalog";
 import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
@@ -20,7 +21,7 @@ function JsonLd({ data }: { data: Record<string, unknown> }) {
 }
 export default function Page() {
  const list = sortProductsByCode(visibleProducts.filter(p => p.category === CATEGORY).filter(isCalculatorOrganizer));
- return <div className="mx-auto max-w-6xl px-4 py-10">
+ return <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
   <JsonLd data={{ "@context":"https://schema.org", "@type":"BreadcrumbList", itemListElement:[
    {"@type":"ListItem",position:1,name:"Ana Sayfa",item:SITE_URL+"/"},
    {"@type":"ListItem",position:2,name:"Organizerler",item:SITE_URL+"/promosyon-organizerler"},
@@ -28,42 +29,35 @@ export default function Page() {
   ] }} />
   <JsonLd data={{ "@context":"https://schema.org", "@type":"CollectionPage",name:title,description,url:PAGE_URL,mainEntity:{"@type":"ItemList",numberOfItems:list.length,itemListElement:list.map((p,i)=>({"@type":"ListItem",position:i+1,name:p.title,url:SITE_URL+"/urunler/"+p.slug}))} }} />
   <JsonLd data={{ "@context":"https://schema.org", "@type":"FAQPage",mainEntity:faqItems.map(x=>({"@type":"Question",name:x.question,acceptedAnswer:{"@type":"Answer",text:x.answer}})) }} />
-  <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8">
-   <nav aria-label="İçerik yolu" className="text-sm"><Link href="/" className="underline">Ana Sayfa</Link> / <Link href="/promosyon-organizerler" className="underline">Organizerler</Link> / Hesap Makineli Organizerler</nav>
-   <h1 className="mt-5 text-3xl font-bold md:text-4xl">Logo Baskılı Promosyon Hesap Makineli Organizer Modelleri</h1>
-   <p className="mt-3 max-w-3xl leading-7 text-gray-200">Hesap makinesi ve not alanını bir arada sunan organizer modellerini karşılaştırın. Dış ölçü, iç blok, sayfa sayısı ve kapama biçimini kurumsal kullanımınıza göre seçerek logo uygulamalı toplu sipariş için teklif alın.</p>
-   <div className="mt-6 flex flex-wrap gap-3"><Link href="/kurumsal-teklif-al" className="rounded-full bg-white px-5 py-3 text-sm font-semibold !text-black">Toplu Sipariş İçin Teklif Al</Link><Link href="/promosyon-organizerler" className="rounded-full border border-white/40 px-5 py-3 text-sm font-semibold text-white">Tüm Organizerler</Link></div>
-  </section>
-  <p className="mb-5 mt-8 text-sm text-white">{list.length} hesap makineli organizer modeli gösteriliyor</p>
-  <section aria-label="Promosyon hesap makineli organizer ürün listesi" className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-   {list.map(p=><Link key={p.id} href={"/urunler/"+p.slug} className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
-    <div className="relative aspect-square overflow-hidden rounded-xl border border-gray-100 bg-white"><Image src={p.image} alt={p.title} fill unoptimized loading="lazy" sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" className="object-contain p-4" /></div>
-    <div className="mt-4"><p className="text-xs font-semibold uppercase tracking-wide text-gray-500">Hesap Makineli Organizerler</p><h2 className="mt-1 text-lg font-bold !text-gray-900">{p.title}</h2><p className="mt-2 line-clamp-3 text-sm leading-6 !text-gray-700">{p.shortDesc}</p>
-    {p.price != null ? <div className="mt-3"><p className="text-base font-bold !text-gray-900">{p.price.toLocaleString("tr-TR")} TL + KDV</p><p className="mt-1 text-xs font-medium !text-green-600">Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın.</p></div> : <p className="mt-3 text-sm font-semibold !text-gray-900">Güncel fiyat için teklif alın.</p>}
-    <span className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold !text-white">Ürünü İncele</span></div>
-   </Link>)}
-  </section>
-  <section className="mt-12 space-y-5 rounded-3xl bg-black px-6 py-8 leading-7 text-gray-200 md:px-8">
-   <h2 className="text-2xl font-bold text-white">Hesap Makineli Organizer Modellerini Karşılaştırın</h2>
+  <section className="rounded-2xl bg-gray-50 px-6 py-6 text-black md:px-8 border border-gray-200">
+   <nav aria-label="İçerik yolu" className="text-sm"><Link href="/" className="underline">Ana Sayfa</Link> / <Link href="/promosyon-organizerler" className="underline">Organizerler</Link> / Hesap Makineli Organizerler</nav><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+   <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">Logo Baskılı Promosyon Hesap Makineli Organizer Modelleri</h1>
+   <p className="mt-3 max-w-3xl leading-7 text-gray-600">Hesap makinesi ve not alanını bir arada sunan organizer modellerini karşılaştırın. Dış ölçü, iç blok, sayfa sayısı ve kapama biçimini kurumsal kullanımınıza göre seçerek logo uygulamalı toplu sipariş için teklif alın.</p>
+   <div className="mt-6 flex flex-wrap gap-3"><Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">Toplu Sipariş İçin Teklif Al</Link><Link href="/promosyon-organizerler" className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black">Tüm Organizerler</Link></div>
+  </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src={list[0].image} alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></section>
+
+  <FpCategoryCatalog anchorId="promosyon-hesap-makineli-organizer-modelleri" showPrices={true} products={list.map(p => ({id:p.id,slug:p.slug,title:p.title,image:p.image,category:p.category,shortDesc:p.shortDesc,price:p.price,priceNote:"Fiyatlar baskı hariçtir. Avantajlı fiyat için WhatsApp’tan yazın."}))} />
+  <section className="mt-12 space-y-5 rounded-2xl bg-gray-50 px-6 py-8 leading-7 text-gray-600 md:px-8 border border-gray-200">
+   <h2 className="text-2xl font-bold text-black">Hesap Makineli Organizer Modellerini Karşılaştırın</h2>
    <p>Toplantı notlarıyla günlük hesaplamaları aynı üründe toplamak isteyenler için hesap makineli organizerler değerlendirilebilir. Güncel modelleri ürün bilgileriyle birlikte inceleyin; seçiminizi dış ölçü, iç blok, kapama ve logo uygulaması üzerinden yapın.</p>
-   <div className="overflow-x-auto"><table className="w-full min-w-[540px] text-left text-sm"><caption className="sr-only">Güncel hesap makineli organizer modelleri ve ürün özellikleri</caption><thead><tr><th scope="col" className="p-3">Model</th><th scope="col" className="p-3">Ürün bilgileri</th></tr></thead><tbody>{list.map(p=><tr key={p.id} className="border-t border-white/15"><th scope="row" className="p-3 font-semibold"><Link href={"/urunler/"+p.slug} className="underline">{p.title}</Link></th><td className="p-3">{p.shortDesc}</td></tr>)}</tbody></table></div>
-   <h3 className="text-xl font-bold text-white">Dış Kapak ve İç Blok Ölçüsü</h3>
+   <div className="overflow-x-auto"><table className="w-full min-w-[540px] text-left text-sm"><caption className="sr-only">Güncel hesap makineli organizer modelleri ve ürün özellikleri</caption><thead><tr><th scope="col" className="p-3">Model</th><th scope="col" className="p-3">Ürün bilgileri</th></tr></thead><tbody>{list.map(p=><tr key={p.id} className="border-t border-gray-200"><th scope="row" className="p-3 font-semibold"><Link href={"/urunler/"+p.slug} className="underline">{p.title}</Link></th><td className="p-3">{p.shortDesc}</td></tr>)}</tbody></table></div>
+   <h3 className="text-xl font-bold text-black">Dış Kapak ve İç Blok Ölçüsü</h3>
    <p>Taşıma çantası ve hediye kutusunu dış ölçüye göre değerlendirin. İç blok ölçüsü not alacağınız alanı belirtir; kapak ölçüsü ve kullanılabilir logo alanıyla aynı değildir. Sayfa sayısını yaprak sayısıyla karıştırmayın. Çizgili veya farklı iç düzen, takvim yılı ve tarihli ya da tarihsiz kullanım ihtiyacını model üzerinden teyit edin.</p>
-   <h3 className="text-xl font-bold text-white">Hesap Makinesi, Kapama ve Paket İçeriği</h3>
+   <h3 className="text-xl font-bold text-black">Hesap Makinesi, Kapama ve Paket İçeriği</h3>
    <p>Hesap makinesinin hane sayısı ve işlevleri seçilen modelin ürün bilgisinden kontrol edilir. Güç kaynağı, pil kapsamı ve değiştirilebilirlik bütün modeller için aynı kabul edilmez. Metal toka veya farklı kapama biçimlerini kullanım alışkanlığınıza göre karşılaştırın.</p>
    <p>Kalem ve özel kutunun dahil olduğunu görselden varsaymayın. Standart paket içeriğiyle ek aksesuar taleplerini ayrı belirleyin. Kutu ve kalem isteniyorsa adet, tasarım ve toplam teklif kapsamını birlikte netleştirin.</p>
-   <h3 className="text-xl font-bold text-white">Kapak Malzemesi ve Logo Uygulaması</h3>
+   <h3 className="text-xl font-bold text-black">Kapak Malzemesi ve Logo Uygulaması</h3>
    <p>Termo deri olarak tanımlanan kapakları hakiki deri kabul etmeyin. Renk ve malzeme uygunluğunu ürün bazında teyit edin. Gofre, lazer veya dijital baskı gibi seçenekler modelin yüzeyine göre değerlendirilir; her yöntem bütün kapaklara uygulanabilir değildir.</p>
    <p>Logo dosyanızı mümkünse vektörel biçimde paylaşın. Renk sayısı, baskı konumu, küçük yazıların okunabilirliği ve gerçek uygulama boyutu tasarım onayından önce kontrol edilir. Kapak üzerindeki toka ve diğer parçalar yerleşim planında dikkate alınır.</p>
-   <h3 className="text-xl font-bold text-white">Toptan Hesap Makineli Organizer Fiyatları</h3>
+   <h3 className="text-xl font-bold text-black">Toptan Hesap Makineli Organizer Fiyatları</h3>
    <p>Fiyat bulunan kartlarda tutarlar baskı hariç TL + KDV olarak sunulur. Model, adet, renk, logo dosyası, kutu ve aksesuar talepleriyle toplam teklif alın. Ürün kaydındaki koli adedi minimum sipariş miktarı değildir.</p>
-   <p>Minimum adet ve teslim süresi stok, miktar, tasarım onayı ve uygulama planına göre netleştirilir. İhtiyaç tarihinizi ve teslim yerini teklif talebine ekleyin. Diğer seçenekler için <Link href="/promosyon-organizerler" className="font-semibold text-white underline">tüm organizer modellerini</Link> inceleyebilirsiniz.</p>
+   <p>Minimum adet ve teslim süresi stok, miktar, tasarım onayı ve uygulama planına göre netleştirilir. İhtiyaç tarihinizi ve teslim yerini teklif talebine ekleyin. Diğer seçenekler için <Link href="/promosyon-organizerler" className="font-semibold text-black underline">tüm organizer modellerini</Link> inceleyebilirsiniz.</p>
   </section>
-  <section className="mt-10"><h2 className="text-2xl font-bold text-white">Hesap Makineli Organizerler Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-white/10 p-5 text-gray-200"><h3 className="font-semibold text-white">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
+  <section className="mt-10"><h2 className="text-2xl font-bold text-black">Hesap Makineli Organizerler Hakkında Sık Sorulan Sorular</h2><div className="mt-5 space-y-4">{faqItems.map(x=><div key={x.question} className="rounded-2xl border border-gray-200 p-5 text-gray-600"><h3 className="font-semibold text-black">{x.question}</h3><p className="mt-2 text-sm leading-6">{x.answer}</p></div>)}</div></section>
       <section aria-labelledby="hesap-makineli-organizer-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="hesap-makineli-organizer-rehberi-baslik" className="text-xl font-bold !text-black">Hesap Makineli Organizer Seçimini Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">İç blok, hesap makinesi, kapama ve logo alanını birlikte değerlendirin; numune ve toplu sipariş kapsamını netleştirin.</p>
-        <Link href="/rehber/promosyon-hesap-makineli-organizer-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Hesap Makineli Organizer Seçim Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-hesap-makineli-organizer-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-hesap-makineli-organizer-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Hesap Makineli Organizer Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Hesap makineli promosyon organizer seçerken iç blok, dış ölçü, kapama, hesap makinesi ve logo alanını karşılaştırın. Numune ve toplu sipariş kapsamını planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
- </div>;
+ </div></div>;
 }

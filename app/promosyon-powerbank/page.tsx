@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { visibleProducts } from "@/data/productVisibility";
@@ -110,7 +111,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -169,25 +170,25 @@ export default function Page() {
         }}
       />
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">Promosyon Powerbank</span>
+          <span className="font-semibold text-black">Promosyon Powerbank</span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Logo Baskılı Promosyon Powerbank Modelleri
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Müşteri hediyeleri, çalışan kitleri ve etkinlik dağıtımları için
             powerbank seçeneklerini kapasite, bağlantı ve şarj özelliklerine göre
             karşılaştırın. Ürün fiyatları baskı hariçtir; model kodu, adet ve
@@ -197,35 +198,33 @@ export default function Page() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-powerbank-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src="/category-heroes/clean/promosyon-powerbank-8000mah-pb-100-clean.webp" alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
       <PowerbankProductGrid products={list} />
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Kurumsal Hediyeniz İçin Powerbank Nasıl Seçilir?</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Kurumsal Hediyeniz İçin Powerbank Nasıl Seçilir?</h2>
             <p>Üstteki filtrelerden kapasite ve şarj özelliklerini seçerek modelleri daraltabilirsiniz. Seçim yaparken hedef kitlenizin kullandığı telefonları, taşıma alışkanlıklarını ve kişi başına ayırdığınız bütçeyi birlikte değerlendirin.</p>
             <div className="overflow-x-auto">
               <table className="w-full min-w-[560px] border-collapse text-left text-sm">
                 <caption className="sr-only">Powerbank seçiminde kapasite ve özellik karşılaştırması</caption>
-                <thead className="text-white"><tr>
-                  <th scope="col" className="border-b border-white/20 p-3">Seçenek</th>
-                  <th scope="col" className="border-b border-white/20 p-3">Seçim amacı</th>
-                  <th scope="col" className="border-b border-white/20 p-3">Kontrol edilecek bilgi</th>
+                <thead className="text-black"><tr>
+                  <th scope="col" className="border-b border-gray-200 p-3">Seçenek</th>
+                  <th scope="col" className="border-b border-gray-200 p-3">Seçim amacı</th>
+                  <th scope="col" className="border-b border-gray-200 p-3">Kontrol edilecek bilgi</th>
                 </tr></thead>
                 <tbody>
                   {[
@@ -236,9 +235,9 @@ export default function Page() {
                     ["Dahili kablolu", "Kabloyu ürünle birlikte taşıma kolaylığı", "Kablo uçları ve desteklenen cihazlar"],
                   ].map(([option, purpose, check]) => (
                     <tr key={option}>
-                      <th scope="row" className="border-b border-white/10 p-3 font-semibold text-white">{option}</th>
-                      <td className="border-b border-white/10 p-3">{purpose}</td>
-                      <td className="border-b border-white/10 p-3">{check}</td>
+                      <th scope="row" className="border-b border-gray-200 p-3 font-semibold text-black">{option}</th>
+                      <td className="border-b border-gray-200 p-3">{purpose}</td>
+                      <td className="border-b border-gray-200 p-3">{check}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -247,32 +246,32 @@ export default function Page() {
             <p>Kapasite ile şarj özelliklerini ayrı değerlendirin: aynı kapasitedeki iki modelin bağlantıları, çıkış gücü ve logo uygulama alanı farklı olabilir. Kesin özellikler için seçtiğiniz ürünün detaylarını inceleyin.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Type-C, Hızlı Şarj ve Kablosuz Uyumluluk</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Type-C, Hızlı Şarj ve Kablosuz Uyumluluk</h2>
             <p>Type-C bağlantısının bulunması, tek başına hızlı şarj veya USB Power Delivery desteği anlamına gelmez. Teklif karşılaştırırken ürünün desteklediği şarj protokolünü ve çıkış gücünü ayrıca kontrol edin. Type-C portunun giriş, çıkış veya her iki işlev için kullanılıp kullanılmadığını ürün bilgisinden teyit edin.</p>
             <p>MagSafe uyumlu veya wireless olarak sunulan modellerde telefonun ve kullanılan kılıfın uyumluluğunu kontrol edin. Manyetik tutunma özelliği ile kablosuz şarj desteğini birlikte değerlendirin; her modelin aynı cihazlarda aynı şarj performansını sunduğunu varsaymayın.</p>
             <p>Toplu dağıtımda farklı telefon kullanan kişilere hediye verecekseniz, teklif talebinizde hedef cihazları belirtin. Dahili kablo uçları, ek kablo ihtiyacı ve aynı anda kullanılabilen çıkışlar seçim sırasında netleştirilebilir.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Powerbank Fiyatları Neleri Kapsar?</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon Powerbank Fiyatları Neleri Kapsar?</h2>
             <p>Fiyat bulunan ürün kartlarında tutarlar TL + KDV olarak, baskı hariç gösterilir. Fiyatı bulunmayan modeller için güncel fiyat ve stok bilgisi isteyebilirsiniz. Logo baskılı siparişin maliyeti ürün bedeli, seçilen baskı uygulaması ve KDV dikkate alınarak hesaplanır.</p>
             <ul className="list-disc space-y-2 pl-5">
-              <li><strong className="text-white">Teknik özellikler:</strong> Kapasite, şarj gücü, kablosuz destek, dahili kablo ve gövde yapısı.</li>
-              <li><strong className="text-white">Logo uygulaması:</strong> Baskı tekniği, uygulama alanı, renk sayısı ve baskı yönü.</li>
-              <li><strong className="text-white">Sipariş kapsamı:</strong> Adet, stok, kutulama ve varsa ek talepler.</li>
+              <li><strong className="text-black">Teknik özellikler:</strong> Kapasite, şarj gücü, kablosuz destek, dahili kablo ve gövde yapısı.</li>
+              <li><strong className="text-black">Logo uygulaması:</strong> Baskı tekniği, uygulama alanı, renk sayısı ve baskı yönü.</li>
+              <li><strong className="text-black">Sipariş kapsamı:</strong> Adet, stok, kutulama ve varsa ek talepler.</li>
             </ul>
             <p>İki teklifi karşılaştırırken yalnızca mAh değerine bakmayın. Aynı teknik özelliklerin, baskı kapsamının, kutulamanın ve KDV koşullarının tekliflerde yer aldığını kontrol edin.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Powerbank Üzerine Logo Baskısı</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Powerbank Üzerine Logo Baskısı</h2>
             <p>UV, tampon veya lazer uygulaması ürünün gövde malzemesine ve baskıya uygun yüzeyine göre değerlendirilir. Işıklı logo özelliği yalnızca bunu destekleyen modeller için söz konusudur. Model detayında belirtilmeyen bir uygulamanın tüm ürünlerde yapılabildiğini varsaymayın.</p>
             <p>Logo yerleşimini seçerken portların, göstergenin ve varsa kablosuz şarj yüzeyinin konumunu dikkate alın. Mümkünse vektörel logo dosyanızı paylaşarak uygulanabilir baskı ölçüsünü ve yerleşimini sipariş öncesinde netleştirin.</p>
           </section>
 
-          <section className="mt-14 max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Toplu Powerbank Siparişi İçin Teklif Alın</h2>
+          <section className="mt-14 max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Toplu Powerbank Siparişi İçin Teklif Alın</h2>
             <p>İhtiyacınıza uygun teklif hazırlanabilmesi için şu bilgileri paylaşabilirsiniz:</p>
             <ol className="list-decimal space-y-2 pl-5">
               <li>Model kodu, kapasite ve tercih ettiğiniz gövde rengi.</li>
@@ -281,12 +280,12 @@ export default function Page() {
               <li>Teslimat ili ve hedef teslim tarihi.</li>
             </ol>
             <p>Minimum adet ve hazırlık süresi modele, stok durumuna ve baskı planına göre belirlenir. Etkinlik veya çalışan dağıtımı için sipariş verirken teslim süresini önceden teyit edin.</p>
-            <Link href="/kurumsal-teklif-al" className="inline-flex rounded-full bg-white px-5 py-3 text-sm font-semibold text-black hover:opacity-90">Powerbank İçin Kurumsal Teklif Al</Link>
-            <p>Hediye paketinizi tamamlamak için <Link href="/promosyon-kalem" className="font-semibold text-white underline underline-offset-4">logo baskılı kalem</Link>, <Link href="/promosyon-defter" className="font-semibold text-white underline underline-offset-4">kurumsal defter</Link> ve <Link href="/promosyon-usb-bellek" className="font-semibold text-white underline underline-offset-4">promosyon USB bellek</Link> seçeneklerini inceleyebilirsiniz.</p>
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">Powerbank İçin Kurumsal Teklif Al</Link>
+            <p>Hediye paketinizi tamamlamak için <Link href="/promosyon-kalem" className="font-semibold text-black underline underline-offset-4">logo baskılı kalem</Link>, <Link href="/promosyon-defter" className="font-semibold text-black underline underline-offset-4">kurumsal defter</Link> ve <Link href="/promosyon-usb-bellek" className="font-semibold text-black underline underline-offset-4">promosyon USB bellek</Link> seçeneklerini inceleyebilirsiniz.</p>
           </section>
 
           <section className="mt-14 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">
+            <h2 className="text-2xl font-bold text-black">
               Promosyon Powerbank Hakkında Sık Sorulan Sorular
             </h2>
 
@@ -294,12 +293,12 @@ export default function Page() {
               {faqItems.map((item) => (
                 <div
                   key={item.question}
-                  className="rounded-2xl border border-white/10 bg-white/5 p-5"
+                  className="rounded-2xl border border-gray-200 bg-white p-5"
                 >
-                  <h3 className="text-lg font-semibold text-white">
+                  <h3 className="text-lg font-semibold text-black">
                     {item.question}
                   </h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">
+                  <p className="mt-2 text-sm leading-6 text-gray-600">
                     {item.answer}
                   </p>
                 </div>
@@ -310,17 +309,17 @@ export default function Page() {
       )}
       <section aria-label="Powerbank alt kategorileri" className="mt-10 rounded-2xl bg-white p-6">
         <h2 className="text-xl font-bold !text-black">Powerbankleri Özelliklerine Göre İnceleyin</h2>
-        <Link href="/promosyon-magsafe-powerbank" className="mt-3 block font-semibold !text-black underline underline-offset-4">MagSafe Powerbank Modellerini İncele →</Link>
-        <Link href="/promosyon-isikli-logolu-powerbank" className="mt-3 block font-semibold !text-black underline underline-offset-4">Işıklı Logolu Powerbank Modellerini İncele →</Link>
-        <Link href="/promosyon-dahili-kablolu-powerbank" className="mt-3 block font-semibold !text-black underline underline-offset-4">Dahili Kablolu Powerbank Modellerini İncele →</Link>
-        <Link href="/promosyon-20000-mah-powerbank" className="mt-3 block font-semibold !text-black underline underline-offset-4">20.000 mAh Powerbank Modellerini İncele →</Link>
-        <Link href="/promosyon-powerbank-organizer" className="mt-3 block font-semibold !text-black underline underline-offset-4">Powerbank Organizer Modellerini İncele →</Link>
+        <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3"><Link href="/promosyon-magsafe-powerbank" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">MagSafe Powerbank Modellerini İncele →</Link>
+        <Link href="/promosyon-isikli-logolu-powerbank" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Işıklı Logolu Powerbank Modellerini İncele →</Link>
+        <Link href="/promosyon-dahili-kablolu-powerbank" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Dahili Kablolu Powerbank Modellerini İncele →</Link>
+        <Link href="/promosyon-20000-mah-powerbank" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">20.000 mAh Powerbank Modellerini İncele →</Link>
+        <Link href="/promosyon-powerbank-organizer" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Powerbank Organizer Modellerini İncele →</Link></div>
       </section>
   <section aria-labelledby="powerbank-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
     <h2 id="powerbank-secim-rehberi-baslik" className="text-xl font-bold !text-black">Powerbank Seçimini Planlayın</h2>
     <p className="mt-3 text-sm leading-7 !text-gray-700">Kapasite, cihaz ve bağlantı uyumu, kablolu ve kablosuz şarj ile logo seçeneklerini birlikte değerlendirin.</p>
-    <Link href="/rehber/promosyon-powerbank-secim-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Powerbank Seçim Rehberini İncele →</Link>
+    <Link href="/rehber/promosyon-powerbank-secim-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-powerbank-secim-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Powerbank Seçim Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Promosyon powerbank seçerken kapasite, kablolu ve kablosuz şarj, MagSafe uyumu, dahili kablo ve logo alanını karşılaştırın. Numune ve toplu sipariş kontrolünü planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
   </section>
-    </div>
+    </div></div>
   );
 }

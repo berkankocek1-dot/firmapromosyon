@@ -1,3 +1,4 @@
+import FpLegalPage from "../_components/FpLegalPage";
 import type { Metadata } from "next";
 
 const SITE_URL = "https://www.firmapromosyon.com";
@@ -11,19 +12,14 @@ export const metadata: Metadata = {
 
 export default function Page() {
   return (
-    <main className="mx-auto max-w-6xl px-4 py-10">
-      <section className="rounded-3xl bg-black px-6 py-10 text-white md:px-10">
-        <h1 className="text-3xl font-extrabold text-white md:text-4xl">
-          İptal ve İade Koşulları
-        </h1>
-
-        <p className="mt-3 text-sm text-gray-300">
+    <FpLegalPage title="İptal ve İade Koşulları" href="/iptal-ve-iade-kosullari">
+<p className="mt-3 text-sm text-gray-500">
           Güncelleme Tarihi: 2026
         </p>
 
-        <div className="mt-10 space-y-10 text-gray-200 leading-7">
+        <div className="mt-6 space-y-8 text-gray-700 leading-7">
           <section>
-            <h2 className="text-xl font-bold text-white">1. Genel Bilgilendirme</h2>
+            <h2 className="text-xl font-bold text-gray-900">1. Genel Bilgilendirme</h2>
 
             <p className="mt-3">
               FirmaPromosyon üzerinden verilen siparişlerde iptal ve iade süreçleri,
@@ -39,7 +35,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">2. Sipariş İptali</h2>
+            <h2 className="text-xl font-bold text-gray-900">2. Sipariş İptali</h2>
 
             <p className="mt-3">
               Baskısız ve standart ürün siparişleri, ürün henüz hazırlık veya
@@ -54,7 +50,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">3. Baskılı Ürünlerde İade</h2>
+            <h2 className="text-xl font-bold text-gray-900">3. Baskılı Ürünlerde İade</h2>
 
             <p className="mt-3">
               Müşteri onayı ile baskıya alınan, özel olarak üretilen veya
@@ -69,7 +65,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">4. Baskısız ve Standart Ürünlerde İade</h2>
+            <h2 className="text-xl font-bold text-gray-900">4. Baskısız ve Standart Ürünlerde İade</h2>
 
             <p className="mt-3">
               Baskısız ve standart ürünlerde, ürünün kullanılmamış, zarar
@@ -84,7 +80,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">5. Hasarlı veya Hatalı Ürünler</h2>
+            <h2 className="text-xl font-bold text-gray-900">5. Hasarlı veya Hatalı Ürünler</h2>
 
             <p className="mt-3">
               Teslim edilen ürünlerde üretim hatası, baskı hatası, eksik ürün veya
@@ -99,44 +95,28 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">6. İade İçin Gerekli Şartlar</h2>
+            <h2 className="text-xl font-bold text-gray-900">6. İade İçin Gerekli Şartlar</h2>
 
             <p className="mt-3">
               İade taleplerinde aşağıdaki şartların sağlanması gerekebilir:
             </p>
 
-            <p className="mt-3">
-              • Ürünün kullanılmamış olması
-              <br />
-              • Ürünün zarar görmemiş olması
-              <br />
-              • Ürünün tekrar satışa uygun durumda olması
-              <br />
-              • Ürünün ambalajı ve varsa aksesuarları ile birlikte eksiksiz
-              gönderilmesi
-            </p>
+            <ul className="mt-3 list-disc space-y-2 pl-5"><li>Ürünün kullanılmamış olması</li><li>Ürünün zarar görmemiş olması</li><li>Ürünün tekrar satışa uygun durumda olması</li><li>Ürünün ambalajı ve varsa aksesuarları ile birlikte eksiksiz
+              gönderilmesi</li></ul>
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">7. İade Kabul Edilmeyebilecek Durumlar</h2>
+            <h2 className="text-xl font-bold text-gray-900">7. İade Kabul Edilmeyebilecek Durumlar</h2>
 
             <p className="mt-3">
               Aşağıdaki durumlarda iade kabul edilmeyebilir:
             </p>
 
-            <p className="mt-3">
-              • Müşteri onayı ile baskıya alınmış ürünler
-              <br />
-              • Özel üretim veya kişiselleştirilmiş siparişler
-              <br />
-              • Kullanılmış, zarar görmüş veya tekrar satışa uygun olmayan ürünler
-              <br />
-              • Eksik gönderilen aksesuar veya ambalaj içeriği
-            </p>
+            <ul className="mt-3 list-disc space-y-2 pl-5"><li>Müşteri onayı ile baskıya alınmış ürünler</li><li>Özel üretim veya kişiselleştirilmiş siparişler</li><li>Kullanılmış, zarar görmüş veya tekrar satışa uygun olmayan ürünler</li><li>Eksik gönderilen aksesuar veya ambalaj içeriği</li></ul>
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">8. İade Süreci</h2>
+            <h2 className="text-xl font-bold text-gray-900">8. İade Süreci</h2>
 
             <p className="mt-3">
               İade talebinin değerlendirmeye alınabilmesi için, sipariş bilgileri
@@ -151,7 +131,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">9. Kargo ve Teslim Kaynaklı Sorunlar</h2>
+            <h2 className="text-xl font-bold text-gray-900">9. Kargo ve Teslim Kaynaklı Sorunlar</h2>
 
             <p className="mt-3">
               Kargo teslimatı sırasında ambalajı hasarlı görünen paketlerde,
@@ -166,7 +146,7 @@ export default function Page() {
           </section>
 
           <section>
-            <h2 className="text-xl font-bold text-white">10. Yürürlük</h2>
+            <h2 className="text-xl font-bold text-gray-900">10. Yürürlük</h2>
 
             <p className="mt-3">
               FirmaPromosyon üzerinden sipariş veren kullanıcılar, sipariş süreci
@@ -174,7 +154,6 @@ export default function Page() {
             </p>
           </section>
         </div>
-      </section>
-    </main>
+    </FpLegalPage>
   );
 }

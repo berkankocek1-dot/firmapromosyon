@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { visibleProducts } from "@/data/productVisibility";
@@ -103,7 +104,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
 
       <JsonLd
         data={{
@@ -159,32 +160,32 @@ export default function Page() {
         }} />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
 
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
 
           <span className="px-2">/</span>
 
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
 
           <span className="px-2">/</span>
 
-          <span className="font-semibold text-white">
+          <span className="font-semibold text-black">
             Promosyon İmalat Ürünleri
           </span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon İmalat Ürünleri
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Açacak, mouse pad, masaüstü ürünleri, şemsiye ve oto promosyonlarını
             kullanım alanı ve baskı seçenekleriyle karşılaştırın. Ürün kodu,
             adet ve logo bilgilerinizi paylaşarak kurumsal sipariş teklifi alın.
@@ -194,20 +195,18 @@ export default function Page() {
 
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-imalat-urunler-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
 
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src="/category-heroes/clean/promosyon-kapak-acacak-ac-100-clean.webp" alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
 
       </section>
 
@@ -217,70 +216,70 @@ export default function Page() {
 
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">İmalat Promosyon Ürünleri Nasıl Seçilir?</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">İmalat Promosyon Ürünleri Nasıl Seçilir?</h2>
             <p>Bu kategoride masaüstü kullanımından etkinlik dağıtımlarına kadar farklı ihtiyaçlara yönelik modeller bulunur. Önce kullanım yerini, ardından ürün ölçüsünü, logo alanını ve sipariş adedini belirleyin. Aynı kategoride yer almaları, bütün ürünlerin aynı malzemeyle veya aynı baskı yöntemiyle üretildiği anlamına gelmez.</p>
             <p>Ofis kullanımı için mouse pad, kalemlik ve kağıtlık; satış noktası için para tabağı ve bardak altlığı; etkinlik için balon ve frizbi modelleri karşılaştırılabilir. Oto kokusunda koku ve kesim, şemsiyede ise yapı ve açma mekanizması seçim kriterleri arasındadır.</p>
-            <div className="overflow-x-auto rounded-2xl border border-white/15">
+            <div className="overflow-x-auto rounded-2xl border border-gray-200">
               <table className="min-w-[680px] w-full text-left text-sm leading-6">
                 <caption className="sr-only">İmalat promosyon modellerinin ölçü, özellik ve sipariş kapsamı karşılaştırması</caption>
-                <thead className="bg-white/10 text-white"><tr>
+                <thead className="bg-white text-black"><tr>
                   <th scope="col" className="p-4">Model / grup</th>
                   <th scope="col" className="p-4">Ölçü ve özellik</th>
                   <th scope="col" className="p-4">Baskı ve sipariş kapsamı</th>
                 </tr></thead>
                 <tbody className="divide-y divide-white/10">
-                  <tr><th scope="row" className="p-4 font-semibold text-white">AÇ-100 / AÇ-110 açacak</th><td className="p-4">7,7 × 7,7 cm / 5 × 11 cm</td><td className="p-4">UV baskı; minimum 100 adet. Baskı için tasarıma göre teklif.</td></tr>
-                  <tr><th scope="row" className="p-4 font-semibold text-white">MP-600 / MP-650 mouse pad</th><td className="p-4">18 × 22 cm; MP-650 bilek destekli</td><td className="p-4">Ofset / dijital; minimum 500 adet. Listelenen fiyat 1.000 adet için baskı dahil.</td></tr>
-                  <tr><th scope="row" className="p-4 font-semibold text-white">BA-650 bardak altlığı</th><td className="p-4">8,9 × 8,9 cm</td><td className="p-4">Ofset / dijital; minimum 500 adet. Liste fiyatı 1.000 adet esasına ait; baskı kapsamı teklifte.</td></tr>
-                  <tr><th scope="row" className="p-4 font-semibold text-white">OK-750 oto kokusu</th><td className="p-4">14 cm toplam ebat; özel kesim</td><td className="p-4">Ofset baskı liste fiyatına dahil; minimum 1.000 adet.</td></tr>
-                  <tr><th scope="row" className="p-4 font-semibold text-white">BL-600 balon / FRZ-160 frizbi</th><td className="p-4">Balon 12 inç; frizbi çapı 23 cm, baskı alanı 14,2 cm</td><td className="p-4">Balon tek renk serigrafi, çubuk hariç; minimum 1.000 adet. Frizbi tek renk serigrafi / renkli ofset.</td></tr>
-                  <tr><th scope="row" className="p-4 font-semibold text-white">PÜ-100 / PÜ-110 / PÜ-130 kalemlik</th><td className="p-4">İlk iki modelde 5 × 8 cm; yonca modelde 3,5 × 3,5 cm reklam alanı</td><td className="p-4">PÜ-130 tek renk uygulama. Diğer baskı ayrıntıları modele göre teklifte.</td></tr>
-                  <tr><th scope="row" className="p-4 font-semibold text-white">PÜ-140 / PÜ-150 küp kağıtlık</th><td className="p-4">9 × 9 × 5 cm; iç kağıt 88 × 88 mm</td><td className="p-4">450 yaprak, 80 gr 1. hamur kapasitesi; kağıt fiyata dahil değil.</td></tr>
-                  <tr><th scope="row" className="p-4 font-semibold text-white">PT-100 / PT-110 para tabağı</th><td className="p-4">Yuvarlak çapı 17,5 cm; kare model 17 × 20,5 cm</td><td className="p-4">Logo yöntemi ve uygulama alanı tasarım çalışmasında belirlenir.</td></tr>
-                  <tr><th scope="row" className="p-4 font-semibold text-white">ŞM-100 / ŞM-150 şemsiye</th><td className="p-4">ŞM-100: 8 telli baston. ŞM-150: otomatik aç/kapa ve fener</td><td className="p-4">ŞM-150 serigrafi / tampon ve DTF seçenekli. Logo konumu ve kapsamı teklifte.</td></tr>
+                  <tr><th scope="row" className="p-4 font-semibold text-black">AÇ-100 / AÇ-110 açacak</th><td className="p-4">7,7 × 7,7 cm / 5 × 11 cm</td><td className="p-4">UV baskı; minimum 100 adet. Baskı için tasarıma göre teklif.</td></tr>
+                  <tr><th scope="row" className="p-4 font-semibold text-black">MP-600 / MP-650 mouse pad</th><td className="p-4">18 × 22 cm; MP-650 bilek destekli</td><td className="p-4">Ofset / dijital; minimum 500 adet. Listelenen fiyat 1.000 adet için baskı dahil.</td></tr>
+                  <tr><th scope="row" className="p-4 font-semibold text-black">BA-650 bardak altlığı</th><td className="p-4">8,9 × 8,9 cm</td><td className="p-4">Ofset / dijital; minimum 500 adet. Liste fiyatı 1.000 adet esasına ait; baskı kapsamı teklifte.</td></tr>
+                  <tr><th scope="row" className="p-4 font-semibold text-black">OK-750 oto kokusu</th><td className="p-4">14 cm toplam ebat; özel kesim</td><td className="p-4">Ofset baskı liste fiyatına dahil; minimum 1.000 adet.</td></tr>
+                  <tr><th scope="row" className="p-4 font-semibold text-black">BL-600 balon / FRZ-160 frizbi</th><td className="p-4">Balon 12 inç; frizbi çapı 23 cm, baskı alanı 14,2 cm</td><td className="p-4">Balon tek renk serigrafi, çubuk hariç; minimum 1.000 adet. Frizbi tek renk serigrafi / renkli ofset.</td></tr>
+                  <tr><th scope="row" className="p-4 font-semibold text-black">PÜ-100 / PÜ-110 / PÜ-130 kalemlik</th><td className="p-4">İlk iki modelde 5 × 8 cm; yonca modelde 3,5 × 3,5 cm reklam alanı</td><td className="p-4">PÜ-130 tek renk uygulama. Diğer baskı ayrıntıları modele göre teklifte.</td></tr>
+                  <tr><th scope="row" className="p-4 font-semibold text-black">PÜ-140 / PÜ-150 küp kağıtlık</th><td className="p-4">9 × 9 × 5 cm; iç kağıt 88 × 88 mm</td><td className="p-4">450 yaprak, 80 gr 1. hamur kapasitesi; kağıt fiyata dahil değil.</td></tr>
+                  <tr><th scope="row" className="p-4 font-semibold text-black">PT-100 / PT-110 para tabağı</th><td className="p-4">Yuvarlak çapı 17,5 cm; kare model 17 × 20,5 cm</td><td className="p-4">Logo yöntemi ve uygulama alanı tasarım çalışmasında belirlenir.</td></tr>
+                  <tr><th scope="row" className="p-4 font-semibold text-black">ŞM-100 / ŞM-150 şemsiye</th><td className="p-4">ŞM-100: 8 telli baston. ŞM-150: otomatik aç/kapa ve fener</td><td className="p-4">ŞM-150 serigrafi / tampon ve DTF seçenekli. Logo konumu ve kapsamı teklifte.</td></tr>
                 </tbody>
               </table>
             </div>
             <p className="text-sm leading-6">Ürün ölçüsü ve baskı alanı farklı bilgilerdir. Tablodaki ölçüler model karşılaştırması içindir; uygulama boyutu logo tasarımıyla birlikte netleştirilir. OKS-170 oto kesesinin ölçü ve logo yöntemi için ayrıca bilgi alın.</p>
           </section>
-          <section className="mt-12 max-w-4xl space-y-4 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Özel Üretim ve Logo Uygulaması</h2>
+          <section className="mt-12 max-w-4xl space-y-4 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Özel Üretim ve Logo Uygulaması</h2>
             <p>OK-750 oto kokusunda özel kesim ve farklı koku grupları bulunur. Kağıtlıklarda özel renk talebi üretim adediyle birlikte değerlendirilebilir. Diğer modellerde özel ölçü veya yeni kalıp talebinin uygulanabilirliği sipariş öncesinde kontrol edilir.</p>
             <p>UV, ofset, dijital, serigrafi, tampon ve DTF seçenekleri bütün modellere ortak değildir. Logo dosyası, renk sayısı, zemin rengi ve uygulama konumu seçilen ürünün baskı alanına göre planlanır. ŞM-150 için verilen açık 610 mm ve kapalı 320 mm ölçüleri baskı alanı olarak kullanılmamalıdır.</p>
           </section>
-          <section className="mt-12 max-w-4xl space-y-4 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Toptan Fiyat ve Sipariş Kapsamı</h2>
+          <section className="mt-12 max-w-4xl space-y-4 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Toptan Fiyat ve Sipariş Kapsamı</h2>
             <p>Fiyat karşılaştırmasını aynı adet ve aynı baskı kapsamı üzerinden yapın. Mouse pad modellerinde 1.000 adet için belirtilen baskı dahil fiyatı, 500 adet sipariş için doğrudan esas almayın. Bardak altlığında da minimum sipariş ile liste fiyatının esas alındığı adet farklıdır.</p>
             <p>Küp kağıtlıklarda iç kağıdı, balonda çubuk talebini ayrıca belirtin. Ürün bedeli, baskı, varsa aksesuarlar ve KDV nihai teklifte kontrol edilir. Koli miktarı minimum sipariş yerine kullanılmaz; teslim tarihi stok ve üretim planına göre netleştirilir.</p>
           </section>
-          <section className="mt-12 max-w-4xl space-y-4 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Kurumsal Siparişi Tamamlayan Modeller</h2>
-            <p>Kalemlik ve kağıtlık siparişlerini <Link href="/promosyon-kalem" className="font-semibold text-white underline">logo baskılı kalemler</Link> ve <Link href="/promosyon-matbaa-urunleri" className="font-semibold text-white underline">matbaa ürünleri</Link> ile birlikte planlayabilirsiniz. Farklı masa düzenleri için <Link href="/promosyon-ahsap-ve-deri-masaustu-urunler" className="font-semibold text-white underline">masaüstü ürünlerini</Link>, toplu dağıtım için <Link href="/promosyon-ham-bez-tela-canta" className="font-semibold text-white underline">ham bez ve tela çantaları</Link> inceleyebilirsiniz.</p>
+          <section className="mt-12 max-w-4xl space-y-4 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Kurumsal Siparişi Tamamlayan Modeller</h2>
+            <p>Kalemlik ve kağıtlık siparişlerini <Link href="/promosyon-kalem" className="font-semibold text-black underline">logo baskılı kalemler</Link> ve <Link href="/promosyon-matbaa-urunleri" className="font-semibold text-black underline">matbaa ürünleri</Link> ile birlikte planlayabilirsiniz. Farklı masa düzenleri için <Link href="/promosyon-ahsap-ve-deri-masaustu-urunler" className="font-semibold text-black underline">masaüstü ürünlerini</Link>, toplu dağıtım için <Link href="/promosyon-ham-bez-tela-canta" className="font-semibold text-black underline">ham bez ve tela çantaları</Link> inceleyebilirsiniz.</p>
           </section>
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">İmalat Promosyon Ürünleri Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">İmalat Promosyon Ürünleri Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-5 space-y-4">{faqs.map((faq) => (
-              <details key={faq.question} className="rounded-2xl border border-white/15 bg-white/5 p-5">
-                <summary className="cursor-pointer font-semibold text-white">{faq.question}</summary>
-                <p className="mt-3 text-sm leading-7 text-gray-200">{faq.answer}</p>
+              <details key={faq.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                <summary className="cursor-pointer font-semibold text-black">{faq.question}</summary>
+                <p className="mt-3 text-sm leading-7 text-gray-600">{faq.answer}</p>
               </details>
             ))}</div>
           </section>
-          <section className="mt-12 max-w-4xl rounded-2xl border border-white/15 p-6">
-            <h2 className="text-xl font-bold text-white">Ürün Kodunu ve Adedi Paylaşın</h2>
-            <p className="mt-3 leading-7 text-gray-200">Logo dosyası, renk, baskı konumu, teslim yeri ve ihtiyaç tarihinizle birlikte talebinizi iletin. Seçtiğiniz modellerin üretim ve baskı kapsamını içeren teklif hazırlayalım.</p>
-            <Link href="/kurumsal-teklif-al" className="mt-5 inline-flex rounded-full bg-white px-5 py-3 text-sm font-semibold text-black hover:opacity-90">Kurumsal Teklif Al</Link>
+          <section className="mt-12 max-w-4xl rounded-2xl border border-gray-200 p-6">
+            <h2 className="text-xl font-bold text-black">Ürün Kodunu ve Adedi Paylaşın</h2>
+            <p className="mt-3 leading-7 text-gray-600">Logo dosyası, renk, baskı konumu, teslim yeri ve ihtiyaç tarihinizle birlikte talebinizi iletin. Seçtiğiniz modellerin üretim ve baskı kapsamını içeren teklif hazırlayalım.</p>
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">Kurumsal Teklif Al</Link>
           </section>
                     <section className="mt-12 rounded-2xl bg-white p-6 text-black" aria-label="İmalat ürün alt kategorileri">
             <h2 className="text-xl font-bold !text-black">İmalat Ürün Alt Kategorileri</h2>
             <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-              <Link href="/promosyon-mouse-pad" className="rounded-xl border border-gray-200 px-4 py-3 text-sm font-semibold !text-black underline underline-offset-4 hover:bg-gray-50">Promosyon Mouse Pad Modellerini İncele →</Link>
-              <Link href="/promosyon-acacak" className="rounded-xl border border-gray-200 px-4 py-3 text-sm font-semibold !text-black underline underline-offset-4 hover:bg-gray-50">Promosyon Açacak Modellerini İncele →</Link>
-              <Link href="/promosyon-oto-kokusu" className="rounded-xl border border-gray-200 px-4 py-3 text-sm font-semibold !text-black underline underline-offset-4 hover:bg-gray-50">Promosyon Oto Kokusu Modellerini İncele →</Link>
-              <Link href="/promosyon-semsiye" className="rounded-xl border border-gray-200 px-4 py-3 text-sm font-semibold !text-black underline underline-offset-4 hover:bg-gray-50">Promosyon Şemsiye Modellerini İncele →</Link>
-              <Link href="/promosyon-bardak-altligi" className="rounded-xl border border-gray-200 px-4 py-3 text-sm font-semibold !text-black underline underline-offset-4 hover:bg-gray-50">Promosyon Bardak Altlığı Modellerini İncele →</Link>
+              <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-3"><Link href="/promosyon-mouse-pad" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Promosyon Mouse Pad Modellerini İncele →</Link>
+              <Link href="/promosyon-acacak" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Promosyon Açacak Modellerini İncele →</Link>
+              <Link href="/promosyon-oto-kokusu" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Promosyon Oto Kokusu Modellerini İncele →</Link>
+              <Link href="/promosyon-semsiye" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Promosyon Şemsiye Modellerini İncele →</Link>
+              <Link href="/promosyon-bardak-altligi" className="flex min-h-14 items-center rounded-xl border border-gray-200 bg-white px-4 py-3 text-sm font-semibold text-black transition-colors hover:border-gray-400 hover:bg-gray-50">Promosyon Bardak Altlığı Modellerini İncele →</Link></div>
             </div>
           </section>
         </div>
@@ -289,19 +288,19 @@ export default function Page() {
       <section aria-labelledby="semsiye-secim-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="semsiye-secim-rehberi-baslik" className="text-xl font-bold !text-black">Şemsiye Seçimi ve Logo Baskısını Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Taşıma biçimi, mekanizma ve ölçüleri karşılaştırın; panel yerleşimi, baskı yöntemi ve toplu sipariş kapsamını netleştirin.</p>
-        <Link href="/rehber/promosyon-semsiye-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Şemsiye Seçim ve Baskı Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-semsiye-secim-ve-baski-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-semsiye-secim-ve-baski-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Şemsiye Seçim ve Baskı Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Promosyon şemsiye seçiminde taşıma biçimi, açma mekanizması, ölçü ve logo yerleşimini değerlendirin. Baskı kapsamı, numune ve toplu sipariş onayını planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
       <section aria-labelledby="bardak-altligi-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="bardak-altligi-rehberi-baslik" className="text-xl font-bold !text-black">Bardak Altlığı Seçimini ve Baskısını Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Tekli ürün ve set kapsamını, ölçü, malzeme ve logo alanını karşılaştırın; fiyatın esas alındığı adetle baskı kapsamını netleştirin.</p>
-        <Link href="/rehber/promosyon-bardak-altligi-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Bardak Altlığı Seçim ve Baskı Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-bardak-altligi-secim-ve-baski-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-bardak-altligi-secim-ve-baski-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Bardak Altlığı Seçim ve Baskı Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Promosyon bardak altlıklarını tekli ürün ve set kapsamı, ölçü, malzeme ve logo alanıyla karşılaştırın. Fiyatın esas alındığı adet ve baskı kapsamını netleştirin.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
 
       <section aria-labelledby="acacak-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="acacak-rehberi-baslik" className="text-xl font-bold !text-black">Açacak Seçimini ve Logo Baskısını Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Bağımsız açacak ve açacaklı anahtarlığı kullanım, form ve logo alanıyla karşılaştırın; dağıtım ve baskı kapsamını netleştirin.</p>
-        <Link href="/rehber/promosyon-acacak-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Açacak Seçim ve Baskı Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-acacak-secim-ve-baski-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-acacak-secim-ve-baski-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Açacak Seçim ve Baskı Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Bağımsız açacak ve açacaklı anahtarlığı kullanım, form, logo alanı ve dağıtım biçimiyle karşılaştırın. Baskı yerleşimi ve toplu sipariş kapsamını planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }

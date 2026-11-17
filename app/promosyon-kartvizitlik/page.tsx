@@ -1,3 +1,4 @@
+import FpCategoryCatalog from "../_components/FpCategoryCatalog";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -102,7 +103,7 @@ export default function Page() {
   }));
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
+    <div className="bg-white text-gray-900"><div className="mx-auto w-full max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -157,27 +158,27 @@ export default function Page() {
         }} />
       )}
 
-      <section className="rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-        <nav className="mb-6 text-sm text-gray-300">
-          <Link href="/" className="hover:text-white hover:underline">
+      <section className="rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+        <nav className="mb-6 text-sm text-gray-600">
+          <Link href="/" className="hover:text-black hover:underline">
             Ana Sayfa
           </Link>
           <span className="px-2">/</span>
-          <Link href="/urunler" className="hover:text-white hover:underline">
+          <Link href="/urunler" className="hover:text-black hover:underline">
             Ürünler
           </Link>
           <span className="px-2">/</span>
-          <span className="font-semibold text-white">
+          <span className="font-semibold text-black">
             Promosyon Kartvizitlik
           </span>
         </nav>
 
-        <header>
-          <h1 className="text-3xl font-extrabold text-white md:text-4xl">
+        <header><div className="mt-4 grid items-center gap-6 lg:grid-cols-[minmax(0,1fr)_280px]"><div>
+          <h1 className="text-[26px] font-extrabold leading-tight text-black sm:text-[32px]">
             Promosyon Kartvizitlik
           </h1>
 
-          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-200">
+          <p className="mt-3 max-w-3xl text-base leading-7 text-gray-600">
             Kartvizitlik ve kart taşıma modellerini ölçü, malzeme, renk ve
             logo uygulamasına göre karşılaştırın. Toplantı, müşteri ziyareti
             ve kurumsal hediye siparişleri için güncel teklif alın.
@@ -186,69 +187,22 @@ export default function Page() {
           <div className="mt-5 flex flex-wrap gap-3">
             <Link
               href="/kurumsal-teklif-al"
-              className="rounded-full bg-white px-5 py-3 text-sm font-semibold text-black transition hover:opacity-90"
+              className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800"
             >
               Kurumsal Teklif Al
             </Link>
 
             <Link
-              href="/urunler"
-              className="rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
-            >
-              Tüm Ürünleri Gör
-            </Link>
+              href="#promosyon-kartvizitlik-modelleri"
+              className="rounded-full border border-gray-200 px-5 py-3 text-sm font-semibold text-black transition hover:bg-white"
+            >Modelleri İncele</Link>
           </div>
-        </header>
+        </div>{list[0] && <div className="relative hidden h-52 w-full lg:block"><Image src="/category-heroes/clean/promosyon-deri-cuzdan-dc-100-clean.webp" alt={list[0].title} fill unoptimized sizes="280px" className="object-contain mix-blend-multiply" /></div>}</div></header>
       </section>
 
-      <p className="mt-8 text-sm font-medium !text-white">{list.length} ürün gösteriliyor</p>
 
-      <section className="mt-4 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-        {list.map((p) => (
-          <Link
-            key={p.id}
-            href={`/urunler/${p.slug}`}
-            className="rounded-2xl border border-gray-200 bg-white p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
-          >
-            <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white">
-              <Image
-                src={p.image}
-                alt={p.title}
-                fill
-                unoptimized
-loading="lazy"
-                className="object-contain bg-white p-4"
-                sizes="(max-width: 768px) 100vw, 33vw"
-              />
-            </div>
 
-            <div className="mt-4">
-              <div className="text-xs font-semibold uppercase tracking-wide text-gray-500">
-                {p.category}
-              </div>
-
-              <h2 className="mt-1 text-lg font-bold text-gray-900">
-                {p.title}
-              </h2>
-
-              <p className="mt-2 line-clamp-3 text-sm leading-6 text-gray-700">
-                {p.shortDesc}
-              </p>
-
-              {typeof p.price === "number" && p.price > 0 ? (
-                <div className="mt-3">
-                  <p className="text-base font-bold text-gray-900">{p.price.toLocaleString("tr-TR")} TL + KDV</p>
-                  <p className="mt-1 text-xs text-gray-600">Fiyatlar baskı hariçtir. Güncel teklif için iletişime geçin.</p>
-                </div>
-              ) : <p className="mt-3 text-sm font-semibold text-gray-900">Güncel fiyat için teklif alın.</p>}
-
-              <div className="mt-4 inline-flex rounded-full bg-black px-4 py-2 text-xs font-semibold text-white">
-                Ürünü İncele
-              </div>
-            </div>
-          </Link>
-        ))}
-      </section>
+      <FpCategoryCatalog anchorId="promosyon-kartvizitlik-modelleri" showPrices={true} products={list.map(p => ({id:p.id,slug:p.slug,title:p.title,image:p.image,category:p.category,shortDesc:p.shortDesc,price:p.price,priceNote:"Fiyatlar baskı hariçtir. Güncel teklif için iletişime geçin."}))} />
 
       {list.length === 0 && (
         <p className="mt-10 text-center text-gray-600">
@@ -257,9 +211,9 @@ loading="lazy"
       )}
 
       {list.length > 0 && (
-        <div className="mt-14 rounded-3xl bg-black px-6 py-8 text-white md:px-8 md:py-10">
-          <section className="max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Logo Baskılı Kartvizitlik Nasıl Seçilir?</h2>
+        <div className="mt-14 rounded-2xl bg-gray-50 px-6 py-8 text-black md:px-8 md:py-10 border border-gray-200">
+          <section className="max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Logo Baskılı Kartvizitlik Nasıl Seçilir?</h2>
             <p>
               Kartvizitlik seçerken taşınacak kartın ölçüsünü, kalınlığını ve
               miktarını belirleyin. Dış ölçünün yeterli görünmesi iç haznenin
@@ -276,11 +230,11 @@ loading="lazy"
           </section>
 
           <section className="mt-12">
-            <h2 className="text-2xl font-bold text-white">Kartvizitlik Modellerini Karşılaştırın</h2>
-            <div className="mt-5 overflow-x-auto rounded-2xl border border-white/15">
-              <table className="w-full min-w-[640px] text-left text-sm text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Kartvizitlik Modellerini Karşılaştırın</h2>
+            <div className="mt-5 overflow-x-auto rounded-2xl border border-gray-200">
+              <table className="w-full min-w-[640px] text-left text-sm text-gray-600">
                 <caption className="sr-only">Kartvizitliklerin belirtilen ölçü, malzeme ve logo uygulama bilgileri</caption>
-                <thead className="bg-white/10 text-white">
+                <thead className="bg-white text-black">
                   <tr>
                     <th scope="col" className="px-4 py-3">Model</th>
                     <th scope="col" className="px-4 py-3">Belirtilen özellikler</th>
@@ -295,7 +249,7 @@ loading="lazy"
                     ["DC-100", "Kart bölmeli cüzdan / kart taşıma modeli", "Malzeme ayrıntıları, yöntem ve alan teyit edilir"],
                   ].map(([model, features, printing]) => (
                     <tr key={model}>
-                      <th scope="row" className="px-4 py-4 font-semibold text-white">{model}</th>
+                      <th scope="row" className="px-4 py-4 font-semibold text-black">{model}</th>
                       <td className="px-4 py-4">{features}</td>
                       <td className="px-4 py-4">{printing}</td>
                     </tr>
@@ -305,8 +259,8 @@ loading="lazy"
             </div>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Malzeme ve Renk Seçenekleri</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Malzeme ve Renk Seçenekleri</h2>
             <p>
               KV-100 ve KV-110 termo deri olarak belirtilir. Termo deri
               ifadesi tek başına gerçek deri anlamına gelmez. DC-100 modelinde
@@ -321,14 +275,14 @@ loading="lazy"
             </p>
             <p>
               Kartın kendisine yönelik farklı taşıma seçenekleri arıyorsanız{" "}
-              <Link href="/promosyon-ayna-deri-kartliklar" className="font-semibold text-white underline underline-offset-4">ayna ve deri kartlıklar</Link>{" "}
+              <Link href="/promosyon-ayna-deri-kartliklar" className="font-semibold text-black underline underline-offset-4">ayna ve deri kartlıklar</Link>{" "}
               kategorisini de inceleyebilirsiniz. Kartvizitlik ile diğer
               kart taşıma ürünlerinin iç ölçü ve kapasitesini aynı kabul etmeyin.
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Ürün Ölçüsü ile Baskı Alanını Ayırın</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Ürün Ölçüsü ile Baskı Alanını Ayırın</h2>
             <p>
               KV-120 için 62 x 96 mm ürün ölçüsü ve 50 x 7 mm lazer baskı alanı
               belirtilir. Logo ve yazılar bu dar uygulama alanına göre
@@ -343,8 +297,8 @@ loading="lazy"
             </p>
           </section>
 
-          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-200">
-            <h2 className="text-2xl font-bold text-white">Promosyon Kartvizitlik Fiyatlarını Karşılaştırırken</h2>
+          <section className="mt-12 max-w-4xl space-y-5 leading-7 text-gray-600">
+            <h2 className="text-2xl font-bold text-black">Promosyon Kartvizitlik Fiyatlarını Karşılaştırırken</h2>
             <p>
               Fiyat gösterilen ürün kartlarında tutar baskı hariçtir; KDV
               ayrıca belirtilir. Fiyatı bulunmayan modeller için güncel teklif
@@ -364,33 +318,33 @@ loading="lazy"
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Toplu Kartvizitlik Sipariş Adımları</h2>
-            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-200">
+            <h2 className="text-2xl font-bold text-black">Toplu Kartvizitlik Sipariş Adımları</h2>
+            <ol className="mt-5 list-decimal space-y-3 pl-5 leading-7 text-gray-600">
               <li>Ürün kodunu, adedi ve renk tercihinizi belirtin.</li>
               <li>Taşınacak kartın ölçüsünü, kalınlığını ve hedef kapasiteyi paylaşın.</li>
               <li>Logo dosyanızı ve uygulama konumu beklentinizi iletin.</li>
               <li>Paketleme talebini, teslimat adresini ve etkinlik tarihini bildirin.</li>
               <li>Uygunluğu, stok durumunu, tasarım yerleşimini ve toplam bedeli teyit edin.</li>
             </ol>
-            <p className="mt-5 leading-7 text-gray-200">
+            <p className="mt-5 leading-7 text-gray-600">
               Birlikte hediye sunumu için{" "}
-              <Link href="/promosyon-kalem-setleri" className="font-semibold text-white underline underline-offset-4">kalem setlerini</Link>{" "}
+              <Link href="/promosyon-kalem-setleri" className="font-semibold text-black underline underline-offset-4">kalem setlerini</Link>{" "}
               veya farklı parçaları bir araya getiren{" "}
-              <Link href="/promosyon-vip-urunler" className="font-semibold text-white underline underline-offset-4">VIP hediye setlerini</Link>{" "}
+              <Link href="/promosyon-vip-urunler" className="font-semibold text-black underline underline-offset-4">VIP hediye setlerini</Link>{" "}
               inceleyebilirsiniz. Ayrı ürünleri ve kutu taleplerini teklif kapsamına ayrıca ekletin.
             </p>
-            <Link href="/kurumsal-teklif-al" className="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:opacity-90">
+            <Link href="/kurumsal-teklif-al" className="inline-flex min-h-11 items-center rounded-xl bg-black px-5 py-3 text-sm font-semibold text-white transition-colors hover:bg-gray-800">
               Kartvizitlik İçin Teklif Al
             </Link>
           </section>
 
           <section className="mt-12 max-w-4xl">
-            <h2 className="text-2xl font-bold text-white">Kartvizitlik Hakkında Sık Sorulan Sorular</h2>
+            <h2 className="text-2xl font-bold text-black">Kartvizitlik Hakkında Sık Sorulan Sorular</h2>
             <div className="mt-6 space-y-4">
               {faqItems.map((item) => (
-                <div key={item.question} className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-lg font-semibold text-white">{item.question}</h3>
-                  <p className="mt-2 text-sm leading-6 text-gray-200">{item.answer}</p>
+                <div key={item.question} className="rounded-2xl border border-gray-200 bg-white p-5">
+                  <h3 className="text-lg font-semibold text-black">{item.question}</h3>
+                  <p className="mt-2 text-sm leading-6 text-gray-600">{item.answer}</p>
                 </div>
               ))}
             </div>
@@ -400,8 +354,8 @@ loading="lazy"
       <section aria-labelledby="kartvizitlik-rehberi-baslik" className="mt-10 rounded-3xl border border-gray-200 !bg-white p-6">
         <h2 id="kartvizitlik-rehberi-baslik" className="text-xl font-bold !text-black">Kart Uyumunu ve Logo Yerleşimini Planlayın</h2>
         <p className="mt-3 text-sm leading-7 !text-gray-700">Kartvizit sunumu ile kart taşıma ihtiyacını ayırın; iç uyumu, kapak kullanımını, malzeme bilgisini ve baskı alanını değerlendirin.</p>
-        <Link href="/rehber/promosyon-kartvizitlik-secim-ve-baski-rehberi" className="mt-4 inline-block font-semibold !text-black underline underline-offset-4">Kartvizitlik Seçim ve Baskı Rehberini İncele →</Link>
+        <Link href="/rehber/promosyon-kartvizitlik-secim-ve-baski-rehberi" className="group relative mt-4 flex min-h-56 flex-col justify-end overflow-hidden rounded-2xl bg-black p-5 text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"><Image src="/guides/promosyon-kartvizitlik-secim-ve-baski-rehberi.jpg" alt="" fill unoptimized loading="lazy" sizes="(max-width: 767px) 100vw, 50vw" className="object-cover transition-transform duration-300 group-hover:scale-105" /><span aria-hidden="true" className="absolute inset-0 bg-gradient-to-t from-black via-black/75 to-black/20" /><div className="relative z-10"><h3 className="text-lg font-bold leading-6 text-white">Kartvizitlik Seçim ve Baskı Rehberini İncele →</h3><p className="mt-2 text-sm leading-6 text-white/90">Kartvizitlikleri kart uyumu, kapak, malzeme ve logo alanıyla değerlendirin. Dış ölçü ile iç kapasiteyi ayırın, kurumsal hediye uygulamasını planlayın.</p><span className="mt-4 inline-block text-sm font-semibold text-white">İncele ↗</span></div></Link>
       </section>
-    </div>
+    </div></div>
   );
 }
