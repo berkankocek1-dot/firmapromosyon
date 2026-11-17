@@ -54,6 +54,241 @@ export type Product = {
 
 export const products: Product[] = [
 {
+  "id": "bati-yaka-byn-100",
+  "slug": "promosyon-saten-boyun-aski-ipi-byn-100",
+  "title": "Promosyon Saten Boyun Askı İpi BYN-100 | Logo Baskılı",
+  "shortDesc": "BYN-100 saten boyun askı ipi, personel ve etkinlik yaka kartları için süblimasyon baskı seçeneği sunar. Adet ve logo dosyanızla toplu sipariş teklifi alın.",
+  "longDesc": "BYN-100, personel ve ziyaretçi kartlarının boyunda taşınması için değerlendirilebilen saten boyun askı ipidir. Süblimasyon baskı seçeneği, firma logosu ve kurumsal tasarımın askı üzerinde uygulanmasına olanak sağlar.\n\nKULLANIM VE SEÇİM\nFuar, seminer, kongre ve şirket içi organizasyonlarda yaka kartıyla birlikte kullanılabilir. Tasarım hazırlanırken logo tekrarları, yazıların okunabilirliği ve kartın taşınacağı konum birlikte değerlendirilir.\n\nSİPARİŞ ÖNCESİ KONTROL\nİp eni ve uzunluğu, bağlantı elemanı ve kartla uyumu sipariş öncesinde teyit edilmelidir. Güvenlik tokası veya farklı bağlantı aksesuarları standart içerik kabul edilmez; ihtiyaç varsa teklif talebinde ayrıca belirtilir.\n\nUYGULAMA VE AKSESUAR KAPSAMI\nBu model için belirtilen uygulama süblimasyon baskıdır. Baskı yönü, tasarım yerleşimi ve renk çalışması logo dosyası üzerinden netleştirilir. Kart, kart kabı ve diğer aksesuarlar teklif kapsamına göre ayrıca değerlendirilir.\n\nFİYAT VE TOPLU SİPARİŞ\nBu model için sabit fiyat belirtilmemiştir. Güncel teklif için ürün kodunu, adedi ve ihtiyaç duyduğunuz teslim tarihini iletebilirsiniz. Varsa renk, logo ve ek aksesuar talepleri ayrıca paylaşılmalıdır. Minimum sipariş, stok, uygulama bedeli, KDV ve teslim koşulları sipariş öncesinde yazılı olarak netleştirilir.",
+  "category": "Yoyo ve Boyun Askı İpleri",
+  "image": "/products/promosyon-saten-boyun-aski-ipi-byn-100-bati-38fbef52d1.jpg",
+  "faq": [
+    {
+      "q": "BYN-100 boyun askı ipine logo basılabilir mi?",
+      "a": "Tedarikçi bu saten model için süblimasyon baskı belirtmektedir. Logo ve yazı yerleşimi, baskı yönü ve tasarım ayrıntıları siparişten önce değerlendirilir."
+    },
+    {
+      "q": "Saten boyun askı ipi nerelerde kullanılabilir?",
+      "a": "Personel, ziyaretçi ve etkinlik yaka kartlarının taşınmasında kullanılabilir. Fuar veya organizasyon için seçim yaparken mevcut kartın bağlantısı ve kullanım süresi de paylaşılmalıdır."
+    },
+    {
+      "q": "BYN-100 modelinin eni ve uzunluğu nedir?",
+      "a": "Doğrulanmış standart ölçü bu kayıtta belirtilmemiştir. Kullanım ihtiyacınıza uygun ip ölçüsü ve bağlantı seçeneği teklif aşamasında teyit edilir."
+    },
+    {
+      "q": "Yaka kartı ve kart kabı siparişe dahil mi?",
+      "a": "Kart baskısı, kart kabı ve bağlantı aksesuarları otomatik olarak dahil kabul edilmez. İstenen parçalar teklif talebinde belirtilir ve kapsam yazılı olarak netleştirilir."
+    },
+    {
+      "q": "BYN-100 için fiyat nasıl belirlenir?",
+      "a": "Bu model için sabit bir liste fiyatı belirtilmemiştir. Adet, seçilen ürün ve varsa uygulama ile aksesuar kapsamı üzerinden güncel teklif hazırlanır; baskı ve KDV durumu teklifte açıklanır."
+    },
+    {
+      "q": "Minimum sipariş adedi ve teslim süresi nedir?",
+      "a": "Minimum adet ve teslim süresi güncel tedarik durumuna ve sipariş kapsamına göre teyit edilir. İhtiyaç tarihinizi teklif talebinde paylaşmanız, uygunluğun sipariş öncesinde kontrol edilmesini sağlar."
+    },
+    {
+      "q": "BYN-100 için teklif isterken hangi bilgiler gerekli?",
+      "a": "Ürün kodu, adet, kullanım amacı ve ihtiyaç duyulan teslim tarihi paylaşılmalıdır. Varsa logo dosyası, renk tercihi ve birlikte istediğiniz kart veya bağlantı aksesuarları da talebe eklenmelidir."
+    }
+  ]
+},
+{
+  "id": "bati-yaka-byn-110",
+  "slug": "promosyon-dokuma-boyun-aski-ipi-byn-110",
+  "title": "Promosyon Dokuma Boyun Askı İpi BYN-110 | Baskısız",
+  "shortDesc": "BYN-110 dokuma boyun askı ipi, personel ve etkinlik kartları için baskısız olarak sunulur. Renk, bağlantı ve adet ihtiyacınızla güncel teklif alın.",
+  "longDesc": "BYN-110, personel ve etkinlik kartlarının taşınmasında kullanılabilen dokuma boyun askı ipidir. Tedarikçi bu modeli baskısız siparişe uygun olarak belirtmektedir; bu nedenle ürün logo baskılı bir seçenek olarak sunulmaz.\n\nKULLANIM VE SEÇİM\nŞirket personeli, ziyaretçiler ve organizasyon katılımcıları için kart taşıma ihtiyacında değerlendirilebilir. Mevcut kart veya kart kabıyla birlikte kullanılacaksa bağlantı biçimi siparişten önce kontrol edilmelidir.\n\nSİPARİŞ ÖNCESİ KONTROL\nRenk seçenekleri, ip eni ve uzunluğu ile bağlantı aksesuarı güncel tedarik bilgisine göre teyit edilir. Görselde birden fazla renk bulunması bütün renklerin stokta olduğu veya tek pakette gönderildiği anlamına gelmez.\n\nUYGULAMA VE AKSESUAR KAPSAMI\nBu kayıttaki BYN-110 için sipariş kapsamı baskısızdır. Logo baskılı boyun askı ipi gerekiyorsa BYN-100 saten model gibi baskı seçeneği belirtilen ürünler ayrıca değerlendirilebilir. Kart baskısı ve kart kabı ihtiyacı ayrıca bildirilmelidir.\n\nFİYAT VE TOPLU SİPARİŞ\nBu model için sabit fiyat belirtilmemiştir. Güncel teklif için ürün kodunu, adedi ve ihtiyaç duyduğunuz teslim tarihini iletebilirsiniz. Varsa renk, logo ve ek aksesuar talepleri ayrıca paylaşılmalıdır. Minimum sipariş, stok, uygulama bedeli, KDV ve teslim koşulları sipariş öncesinde yazılı olarak netleştirilir.",
+  "category": "Yoyo ve Boyun Askı İpleri",
+  "image": "/products/promosyon-dokuma-boyun-aski-ipi-byn-110-bati-58e257d325.jpg",
+  "faq": [
+    {
+      "q": "BYN-110 logo baskılı mı satılıyor?",
+      "a": "Hayır. Tedarikçi bu dokuma modeli baskısız olarak belirtmektedir. Logo uygulamalı bir askı ipi istiyorsanız baskıya uygun başka bir model üzerinden teklif hazırlanmalıdır."
+    },
+    {
+      "q": "Dokuma boyun askı ipi hangi kullanım için uygundur?",
+      "a": "Personel, ziyaretçi ve etkinlik kartlarının boyunda taşınması için değerlendirilebilir. Mevcut kartınızın bağlantı biçimini paylaşmanız, uygun aksesuarın belirlenmesine yardımcı olur."
+    },
+    {
+      "q": "İp ölçüsü ve bağlantı tipi standart mı?",
+      "a": "Bu kayıtta doğrulanmış bir ölçü veya standart bağlantı tipi belirtilmemiştir. İp ölçüsü ve bağlantı ayrıntıları sipariş öncesinde teyit edilir."
+    },
+    {
+      "q": "Kart ve kart kabı birlikte mi gönderiliyor?",
+      "a": "BYN-110 kaydı boyun askı ipi içindir. Kart, kart kabı ve ek bağlantı aksesuarlarının dahil olup olmadığı teklif kapsamında ayrı ayrı belirtilir."
+    },
+    {
+      "q": "BYN-110 için fiyat nasıl belirlenir?",
+      "a": "Bu model için sabit bir liste fiyatı belirtilmemiştir. Adet, seçilen ürün ve varsa uygulama ile aksesuar kapsamı üzerinden güncel teklif hazırlanır; baskı ve KDV durumu teklifte açıklanır."
+    },
+    {
+      "q": "Minimum sipariş adedi ve teslim süresi nedir?",
+      "a": "Minimum adet ve teslim süresi güncel tedarik durumuna ve sipariş kapsamına göre teyit edilir. İhtiyaç tarihinizi teklif talebinde paylaşmanız, uygunluğun sipariş öncesinde kontrol edilmesini sağlar."
+    },
+    {
+      "q": "BYN-110 için teklif isterken hangi bilgiler gerekli?",
+      "a": "Ürün kodu, adet, kullanım amacı ve ihtiyaç duyulan teslim tarihi paylaşılmalıdır. Varsa logo dosyası, renk tercihi ve birlikte istediğiniz kart veya bağlantı aksesuarları da talebe eklenmelidir."
+    }
+  ]
+},
+{
+  "id": "bati-yaka-krt-120",
+  "slug": "promosyon-plastik-seffaf-kartlik-krt-120",
+  "title": "Promosyon Şeffaf Plastik Kartlık KRT-120 | Yaka Kartı Kabı",
+  "shortDesc": "KRT-120 şeffaf plastik kartlığı personel, ziyaretçi ve etkinlik kartları için inceleyin. Kart ölçüsü, askı bağlantısı ve adet bilgisiyle teklif alın.",
+  "longDesc": "KRT-120, personel ve etkinlik kartlarının taşınmasında kullanılabilen şeffaf plastik kartlıktır. Şeffaf yapısı, içine yerleştirilen kartın görünür kalmasını sağlar.\n\nKULLANIM VE SEÇİM\nPersonel kartı, ziyaretçi kartı veya organizasyon yaka kartıyla birlikte değerlendirilebilir. Seçim sırasında basılı kartın ölçüsü ve kartın hangi yönde kullanılacağı dikkate alınmalıdır.\n\nSİPARİŞ ÖNCESİ KONTROL\nKartlığın iç ve dış ölçüsü ile bağlantı biçimi sipariş öncesinde teyit edilir. Her kart boyutuna uyduğu, su geçirmez olduğu veya özel bir kilitleme sistemi bulunduğu varsayılmaz. Mevcut kartın ölçüsünü paylaşmak uyumluluk kontrolünü kolaylaştırır.\n\nUYGULAMA VE AKSESUAR KAPSAMI\nKart üzerine yapılacak baskı ile kartlığın üzerine uygulanacak logo farklı işlemlerdir. Logo veya basılı kart ihtiyacınız varsa uygulama yüzeyi ve teklif kapsamı ayrıca değerlendirilir. Boyun askı ipi ve yoyo standart olarak dahil kabul edilmez.\n\nFİYAT VE TOPLU SİPARİŞ\nBu model için sabit fiyat belirtilmemiştir. Güncel teklif için ürün kodunu, adedi ve ihtiyaç duyduğunuz teslim tarihini iletebilirsiniz. Varsa renk, logo ve ek aksesuar talepleri ayrıca paylaşılmalıdır. Minimum sipariş, stok, uygulama bedeli, KDV ve teslim koşulları sipariş öncesinde yazılı olarak netleştirilir.",
+  "category": "Yoyo ve Boyun Askı İpleri",
+  "image": "/products/promosyon-plastik-seffaf-kartlik-krt-120-bati-e28266e5b4.jpg",
+  "faq": [
+    {
+      "q": "KRT-120 hangi tür kartlıktır?",
+      "a": "Şeffaf plastik yaka kartı kabı olarak sunulur. Personel, ziyaretçi ve etkinlik kartları için seçim yapılırken kart ölçüsü ve kullanım yönü kontrol edilmelidir."
+    },
+    {
+      "q": "Mevcut personel kartım bu kartlığa sığar mı?",
+      "a": "Uyumluluk için kartınızın en ve boy ölçüsünü paylaşmalısınız. Kartlığın iç ölçüsü sipariş öncesinde teyit edilmeden her kartla uyumlu olduğu kabul edilmez."
+    },
+    {
+      "q": "KRT-120 boyun askı ipi veya yoyoyla kullanılabilir mi?",
+      "a": "Kartlığın bağlantı biçimi ile seçilecek askı veya yoyonun bağlantısı birlikte kontrol edilmelidir. Uygun aksesuar ve dahil edilecek parçalar teklif aşamasında netleştirilir."
+    },
+    {
+      "q": "Kart baskısı ve askı ipi fiyata dahil mi?",
+      "a": "Kart baskısı, boyun askı ipi ve yoyo ayrı ihtiyaçlardır. Teklifte hangi parçaların ve uygulamaların dahil olduğu açıkça belirtilir."
+    },
+    {
+      "q": "KRT-120 için fiyat nasıl belirlenir?",
+      "a": "Bu model için sabit bir liste fiyatı belirtilmemiştir. Adet, seçilen ürün ve varsa uygulama ile aksesuar kapsamı üzerinden güncel teklif hazırlanır; baskı ve KDV durumu teklifte açıklanır."
+    },
+    {
+      "q": "Minimum sipariş adedi ve teslim süresi nedir?",
+      "a": "Minimum adet ve teslim süresi güncel tedarik durumuna ve sipariş kapsamına göre teyit edilir. İhtiyaç tarihinizi teklif talebinde paylaşmanız, uygunluğun sipariş öncesinde kontrol edilmesini sağlar."
+    },
+    {
+      "q": "KRT-120 için teklif isterken hangi bilgiler gerekli?",
+      "a": "Ürün kodu, adet, kullanım amacı ve ihtiyaç duyulan teslim tarihi paylaşılmalıdır. Varsa logo dosyası, renk tercihi ve birlikte istediğiniz kart veya bağlantı aksesuarları da talebe eklenmelidir."
+    }
+  ]
+},
+{
+  "id": "bati-yaka-yk-130",
+  "slug": "promosyon-yaka-isimligi-yk-130",
+  "title": "Promosyon Yaka İsimliği YK-130 | Kurumsal Personel İsimliği",
+  "shortDesc": "YK-130 yaka isimliğini personel ve etkinlik kullanımı için inceleyin. İsim, unvan, logo ve adet ihtiyacınızı paylaşarak güncel teklif alın.",
+  "longDesc": "YK-130 yaka isimliği, personelin veya etkinlik görevlilerinin tanınmasını kolaylaştırmak için değerlendirilebilen bir üründür. Kurumsal kullanımda isim, unvan ve logo ihtiyacı birlikte planlanabilir.\n\nKULLANIM VE SEÇİM\nMağaza, resepsiyon, danışma noktası ve organizasyon ekibi gibi alanlarda kullanılabilir. Tasarımda okunabilir isim yazısı ve uygun logo yerleşimi önceliklidir; kullanılacak kıyafet de bağlantı seçimini etkileyebilir.\n\nSİPARİŞ ÖNCESİ KONTROL\nÜrünün ölçüsü, malzemesi, rengi ve kıyafete bağlantı biçimi sipariş öncesinde teyit edilir. Mıknatıslı, iğneli veya farklı bir bağlantı sistemine sahip olduğu doğrulanmadan standart özellik olarak belirtilmez.\n\nUYGULAMA VE AKSESUAR KAPSAMI\nİsim ve unvanların sabit mi yoksa değiştirilebilir mi olacağı ile logo uygulama yöntemi model üzerinden netleştirilir. Kişiye özel hazırlanacak siparişlerde isim listesi ve yazım kontrolü üretim öncesinde tamamlanmalıdır.\n\nFİYAT VE TOPLU SİPARİŞ\nBu model için sabit fiyat belirtilmemiştir. Güncel teklif için ürün kodunu, adedi ve ihtiyaç duyduğunuz teslim tarihini iletebilirsiniz. Varsa renk, logo ve ek aksesuar talepleri ayrıca paylaşılmalıdır. Minimum sipariş, stok, uygulama bedeli, KDV ve teslim koşulları sipariş öncesinde yazılı olarak netleştirilir.",
+  "category": "Yoyo ve Boyun Askı İpleri",
+  "image": "/products/promosyon-yaka-isimligi-yk-130-bati-a006a870da.jpg",
+  "faq": [
+    {
+      "q": "YK-130 yaka isimliği nerelerde kullanılabilir?",
+      "a": "Personelin veya etkinlik görevlilerinin tanınmasının gerektiği alanlarda değerlendirilebilir. Kullanım yeri ve kıyafet bilgisi paylaşılırsa bağlantı ve tasarım ihtiyacı daha doğru belirlenir."
+    },
+    {
+      "q": "İsim, unvan ve logo birlikte uygulanabilir mi?",
+      "a": "Talep edilen içerik ürünün uygulama alanına göre değerlendirilir. Yazıların okunabilirliği, logo boyutu ve uygulanabilecek yöntem teklif aşamasında netleştirilir."
+    },
+    {
+      "q": "YK-130 mıknatıslı mı yoksa iğneli mi?",
+      "a": "Bu kayıt için doğrulanmış bağlantı tipi belirtilmemiştir. Kıyafetinize uygun bağlantı seçeneği siparişten önce teyit edilmelidir."
+    },
+    {
+      "q": "Personel isimleri için nasıl dosya göndermeliyim?",
+      "a": "İsim ve unvanları yazım kontrolü tamamlanmış bir liste halinde paylaşabilirsiniz. Logo dosyası ve yerleşim talebi de iletilerek üretim öncesi tasarım ayrıntıları netleştirilir."
+    },
+    {
+      "q": "YK-130 için fiyat nasıl belirlenir?",
+      "a": "Bu model için sabit bir liste fiyatı belirtilmemiştir. Adet, seçilen ürün ve varsa uygulama ile aksesuar kapsamı üzerinden güncel teklif hazırlanır; baskı ve KDV durumu teklifte açıklanır."
+    },
+    {
+      "q": "Minimum sipariş adedi ve teslim süresi nedir?",
+      "a": "Minimum adet ve teslim süresi güncel tedarik durumuna ve sipariş kapsamına göre teyit edilir. İhtiyaç tarihinizi teklif talebinde paylaşmanız, uygunluğun sipariş öncesinde kontrol edilmesini sağlar."
+    },
+    {
+      "q": "YK-130 için teklif isterken hangi bilgiler gerekli?",
+      "a": "Ürün kodu, adet, kullanım amacı ve ihtiyaç duyulan teslim tarihi paylaşılmalıdır. Varsa logo dosyası, renk tercihi ve birlikte istediğiniz kart veya bağlantı aksesuarları da talebe eklenmelidir."
+    }
+  ]
+},
+{
+  "id": "bati-yaka-yoyo-140",
+  "slug": "promosyon-plastik-yoyo-yoyo-140",
+  "title": "Promosyon Plastik Yoyo YOYO-140 | Personel Kartı Tutucu",
+  "shortDesc": "YOYO-140 plastik yoyoyu personel ve ziyaretçi kartı taşımak için inceleyin. Kart bağlantısı, logo ihtiyacı ve sipariş adediyle teklif alın.",
+  "longDesc": "YOYO-140, personel ve ziyaretçi kartlarının taşınmasında değerlendirilebilen plastik yoyo kart tutucudur. Kartı erişilebilir bir konumda taşımak isteyen işletmeler için bir aksesuar seçeneğidir.\n\nKULLANIM VE SEÇİM\nOfis, mağaza, resepsiyon ve etkinlik görevlilerinin kart taşıma ihtiyacında kullanılabilir. Kartlıkla birlikte seçim yapılırken kartın ağırlığı, kullanım biçimi ve bağlantı uyumu dikkate alınmalıdır.\n\nSİPARİŞ ÖNCESİ KONTROL\nÜrün ölçüsü, kordon uzunluğu, klips ve kart bağlantısının biçimi güncel model üzerinden teyit edilir. Taşıma kapasitesi veya belirli bir dayanım seviyesi doğrulanmadan belirtilmez. Kartlı geçişte kullanılacaksa okuyucuya erişim ihtiyacı da paylaşılmalıdır.\n\nUYGULAMA VE AKSESUAR KAPSAMI\nYoyo üzerindeki logo alanı ve uygulanabilecek baskı yöntemi tasarımla birlikte değerlendirilir. Kart, kart kabı ve boyun askı ipi ayrı parçalardır; birlikte isteniyorsa teklif kapsamına ayrıca eklenmelidir.\n\nFİYAT VE TOPLU SİPARİŞ\nBu model için sabit fiyat belirtilmemiştir. Güncel teklif için ürün kodunu, adedi ve ihtiyaç duyduğunuz teslim tarihini iletebilirsiniz. Varsa renk, logo ve ek aksesuar talepleri ayrıca paylaşılmalıdır. Minimum sipariş, stok, uygulama bedeli, KDV ve teslim koşulları sipariş öncesinde yazılı olarak netleştirilir.",
+  "category": "Yoyo ve Boyun Askı İpleri",
+  "image": "/products/promosyon-plastik-yoyo-yoyo-140-bati-78e81ce241.jpg",
+  "faq": [
+    {
+      "q": "YOYO-140 hangi amaçla kullanılır?",
+      "a": "Personel veya ziyaretçi kartını taşımak için kullanılan plastik yoyo kart tutucudur. Kartlık ve bağlantı aksesuarı, kullanım ihtiyacına göre birlikte seçilmelidir."
+    },
+    {
+      "q": "Plastik yoyo üzerine logo uygulanabilir mi?",
+      "a": "Logo alanı ve uygun uygulama yöntemi ürün üzerinden değerlendirilir. Logo dosyanızı ileterek uygulanabilirlik, yerleşim ve baskı bedeli için teklif isteyebilirsiniz."
+    },
+    {
+      "q": "Kordon uzunluğu ve kart bağlantısı nasıldır?",
+      "a": "Bu kayıtta doğrulanmış uzunluk veya bağlantı ölçüsü belirtilmemiştir. Kartınızın kullanım biçimine uygunluk sipariş öncesinde teyit edilir."
+    },
+    {
+      "q": "Kartlık ve boyun askı ipi siparişe dahil mi?",
+      "a": "YOYO-140 kaydı yoyo kart tutucu içindir. Kart, kart kabı ve boyun askı ipinin dahil olup olmadığı teklifte ayrıca belirtilir."
+    },
+    {
+      "q": "YOYO-140 için fiyat nasıl belirlenir?",
+      "a": "Bu model için sabit bir liste fiyatı belirtilmemiştir. Adet, seçilen ürün ve varsa uygulama ile aksesuar kapsamı üzerinden güncel teklif hazırlanır; baskı ve KDV durumu teklifte açıklanır."
+    },
+    {
+      "q": "Minimum sipariş adedi ve teslim süresi nedir?",
+      "a": "Minimum adet ve teslim süresi güncel tedarik durumuna ve sipariş kapsamına göre teyit edilir. İhtiyaç tarihinizi teklif talebinde paylaşmanız, uygunluğun sipariş öncesinde kontrol edilmesini sağlar."
+    },
+    {
+      "q": "YOYO-140 için teklif isterken hangi bilgiler gerekli?",
+      "a": "Ürün kodu, adet, kullanım amacı ve ihtiyaç duyulan teslim tarihi paylaşılmalıdır. Varsa logo dosyası, renk tercihi ve birlikte istediğiniz kart veya bağlantı aksesuarları da talebe eklenmelidir."
+    }
+  ]
+},
+{
+  "id": "bati-yaka-yoyo-150",
+  "slug": "promosyon-krom-kaplama-yoyo-yoyo-150",
+  "title": "Promosyon Krom Kaplama Yoyo YOYO-150 | Kart Tutucu",
+  "shortDesc": "YOYO-150 krom kaplama yoyo kart tutucuyu personel ve etkinlik kullanımı için inceleyin. Logo, bağlantı ve toplu sipariş ihtiyacınızla teklif alın.",
+  "longDesc": "YOYO-150, krom kaplama görünümüyle sunulan yoyo kart tutucudur. Personel ve etkinlik kartlarının taşınmasında kullanılabilecek bir aksesuar seçeneğidir.\n\nKULLANIM VE SEÇİM\nKurumsal personel kartları, ziyaretçi kartları ve organizasyon görevlileri için değerlendirilebilir. Görünümün yanında kart bağlantısı ve günlük kullanım ihtiyacı da seçimde dikkate alınmalıdır.\n\nSİPARİŞ ÖNCESİ KONTROL\nKrom kaplama ifadesi, ürünün bütün parçalarının krom veya tam metal olduğu anlamına gelmez. Gövde malzemesi, ölçüler, kordon uzunluğu ve bağlantı ayrıntıları sipariş öncesinde teyit edilir.\n\nUYGULAMA VE AKSESUAR KAPSAMI\nLogo uygulamasında kullanılacak alan, yüzey ve yöntem ürün üzerinden değerlendirilir. Görseldeki örnek uygulamalar sipariş kapsamı sayılmaz. Mevcut kart ve kartlık kullanılacaksa bağlantı uyumluluğu kontrol edilir; ek aksesuarlar teklifte ayrıca belirtilir.\n\nFİYAT VE TOPLU SİPARİŞ\nBu model için sabit fiyat belirtilmemiştir. Güncel teklif için ürün kodunu, adedi ve ihtiyaç duyduğunuz teslim tarihini iletebilirsiniz. Varsa renk, logo ve ek aksesuar talepleri ayrıca paylaşılmalıdır. Minimum sipariş, stok, uygulama bedeli, KDV ve teslim koşulları sipariş öncesinde yazılı olarak netleştirilir.",
+  "category": "Yoyo ve Boyun Askı İpleri",
+  "image": "/products/promosyon-krom-kaplama-yoyo-yoyo-150-bati-0568d00dd4.jpg",
+  "faq": [
+    {
+      "q": "YOYO-150 tamamen metal bir ürün müdür?",
+      "a": "Tedarikçi ürünü krom kaplama yoyo olarak adlandırmaktadır. Bu ifade bütün parçaların metal olduğunu göstermez; gövde malzemesi gerekiyorsa sipariş öncesinde ayrıca teyit edilir."
+    },
+    {
+      "q": "Krom kaplama yoyoya firma logosu uygulanabilir mi?",
+      "a": "Uygulama alanı, yüzey ve uygun yöntem logo dosyasına göre değerlendirilir. Tasarım yerleşimi ve baskı bedeli teklif kapsamında netleştirilir."
+    },
+    {
+      "q": "YOYO-150 mevcut kartlığımla uyumlu mu?",
+      "a": "Kartlığın bağlantı biçimi ve kartın kullanım ihtiyacı birlikte kontrol edilmelidir. Bağlantı ve kordon ayrıntıları doğrulanmadan bütün kartlıklarla uyumlu olduğu kabul edilmez."
+    },
+    {
+      "q": "Kart, kart kabı veya askı ipi dahil mi?",
+      "a": "Bu kayıt yoyo kart tutucu içindir. Birlikte istenen kart, kart kabı ve boyun askı ipi teklifte ayrı ayrı belirtilir."
+    },
+    {
+      "q": "YOYO-150 için fiyat nasıl belirlenir?",
+      "a": "Bu model için sabit bir liste fiyatı belirtilmemiştir. Adet, seçilen ürün ve varsa uygulama ile aksesuar kapsamı üzerinden güncel teklif hazırlanır; baskı ve KDV durumu teklifte açıklanır."
+    },
+    {
+      "q": "Minimum sipariş adedi ve teslim süresi nedir?",
+      "a": "Minimum adet ve teslim süresi güncel tedarik durumuna ve sipariş kapsamına göre teyit edilir. İhtiyaç tarihinizi teklif talebinde paylaşmanız, uygunluğun sipariş öncesinde kontrol edilmesini sağlar."
+    },
+    {
+      "q": "YOYO-150 için teklif isterken hangi bilgiler gerekli?",
+      "a": "Ürün kodu, adet, kullanım amacı ve ihtiyaç duyulan teslim tarihi paylaşılmalıdır. Varsa logo dosyası, renk tercihi ve birlikte istediğiniz kart veya bağlantı aksesuarları da talebe eklenmelidir."
+    }
+  ]
+},
+
+{
   "id": "bati-aj-115",
   "slug": "promosyon-ajanda-aj-115-16x23-5cm",
   "title": "Promosyon Ajanda AJ-115 | 16 x 23,5 cm Termo Kapaklı",
@@ -6180,6 +6415,8 @@ Promosyon tarihsiz defter TD-115, termo PU sert kapağı, kalem tutucu detayı v
   ],
 },
 {
+"price": 328,
+
   id: "p66",
   slug: "promosyon-ajanda-17x24-termo-aj-110",
   category: "Ajanda",
@@ -9957,7 +10194,7 @@ Promosyon tişört siparişleri toplu üretim olarak hazırlanmaktadır. Minimum
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-100-v2.jpg",
+  image: "/products/promosyon-organizer-19x265-org-100-bati-fb318ab08d.jpg",
 
   shortDesc: "Promosyon organizer ORG-100; termo deri kapağı, 352 sayfalık çizgili iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. metal toka ile sunulur. Gofre, Lazer, UV baskı seçenekleri bulunur.",
 
@@ -10197,7 +10434,7 @@ Promosyon cetvel CT-200; 15 cm ölçüm kapasitesi, kompakt plastik yapısı ve 
   title: "Promosyon VIP Set VIP-100 | Logo Baskılı Kurumsal VIP Hediye Seti",
   price: 2960,
   category: "VIP Ürünler",
-  image: "/products/promosyon-vip-set-vip-100.jpg",
+  image: "/products/promosyon-vip-set-vip-100-bati-78f3303d90.jpg",
   shortDesc: "Promosyon VIP set VIP-100; 13 x 21 cm termo deri defter, 13.000 mAh powerbank, Kartvizitlik, Anahtarlık, 16 GB USB bellek, Metal roller kalem, Metal tükenmez kalem. Kurumsal hediye çalışmaları için set ve logo teklifi alabilirsiniz.",
   longDesc: "Promosyon VIP set VIP-100, iş hayatında kullanılabilecek ürünleri aynı sunumda bir araya getiren kurumsal hediye seçeneğidir. Yönetici, çalışan ve müşteri hediyesi çalışmalarında set içeriği ve kullanım ihtiyacına göre değerlendirilebilir.\n\nSET İÇERİĞİ\n\n• 13 x 21 cm termo deri defter\n• 13.000 mAh powerbank\n• Kartvizitlik\n• Anahtarlık\n• 16 GB USB bellek\n• Metal roller kalem\n• Metal tükenmez kalem\n\nTEKNİK BİLGİLER\n\nModel: VIP-100\nKategori: VIP Ürünler\nKutu Ölçüsü: 38 x 28 x 5,5 cm\n\nSetteki ürünlerin ölçü, kapasite ve malzeme bilgileri yukarıdaki içerikte belirtilmiştir. Şarj uyumluluğu, baskı alanları ve ambalaj ayrıntıları sipariş öncesinde kullanım ihtiyacına göre değerlendirilir.\n\nRENK VE STOK\n\nRenk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir.\n\nLOGO UYGULAMASI\n\nLogo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir.\n\nSİPARİŞ VE FİYAT BİLGİSİ\n\nSipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir. Listelenen fiyat baskı ve KDV hariçtir.",
   faq: [{"q":"VIP-100 setinin içerisinde hangi ürünler bulunur?","a":"13 x 21 cm termo deri defter; 13.000 mAh powerbank; Kartvizitlik; Anahtarlık; 16 GB USB bellek; Metal roller kalem; Metal tükenmez kalem."},{"q":"VIP-100 setinin kutu ve ölçü bilgileri nedir?","a":"Kutu ölçüsü 38 x 28 x 5,5 cm. Set içindeki ürünlerin ölçü ve kapasite bilgileri ürün açıklamasında yer almaktadır. Belirtilmeyen ambalaj ayrıntıları sipariş öncesinde teyit edilir."},{"q":"VIP-100 hangi renk seçenekleriyle sunulur?","a":"Renk, stok ve siparişe uygunluk teklif aşamasında teyit edilir. Görseldeki renk ve yerleşim, logo çalışması ve sipariş kapsamıyla birlikte değerlendirilir."},{"q":"VIP-100 setine firma logosu uygulanabilir mi?","a":"Logo uygulamasının yöntemi, alanı ve bedeli set içindeki ürünlerin yüzeyine ve logo tasarımına göre teklif aşamasında belirlenir."},{"q":"VIP-100 seti kişiselleştirilebilir mi?","a":"Logo tasarımı ve ürün yerleşimi için teklif alabilirsiniz. İçerik değişikliği, uyumluluk ve ek maliyetler sipariş öncesinde ayrıca değerlendirilir."},{"q":"VIP-100 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
@@ -16038,8 +16275,10 @@ Promosyon metal kalem MK-510, ışıklı logo baskı özelliği ile markanızı 
     "Promosyon Plastik Kalem PLS-100 | Telefon Tutuculu Logo Baskılı Kalem",
   price: 8.8,
   category: "Kalem",
-  image: "/products/promosyon-plastik-kalem-pls-100.jpg",
-  gallery: ["/products/promosyon-plastik-kalem-pls-100.jpg"],
+  image: "/products/promosyon-plastik-kalem-pls-100-bati-ea8f023d88.jpg",
+  gallery: [
+  "/products/promosyon-plastik-kalem-pls-100-bati-ea8f023d88.jpg"
+],
 
   shortDesc:
     "Promosyon plastik kalem PLS-100, telefon tutucu özelliği ve canlı renk seçenekleri ile dikkat çeken kullanışlı bir promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile fuarlar, etkinlikler ve kurumsal tanıtımlar için ideal bir tercihtir.",
@@ -16134,8 +16373,10 @@ Promosyon plastik kalem PLS-100, telefon tutucu özelliği sayesinde markanızı
     "Promosyon Plastik Kalem PLS-110 | Telefon Tutuculu Logo Baskılı Kalem",
   price: 8.8,
   category: "Kalem",
-  image: "/products/promosyon-plastik-kalem-pls-110.jpg",
-  gallery: ["/products/promosyon-plastik-kalem-pls-110.jpg"],
+  image: "/products/promosyon-plastik-kalem-pls-110-bati-7308408d11.jpg",
+  gallery: [
+  "/products/promosyon-plastik-kalem-pls-110-bati-7308408d11.jpg"
+],
 
   shortDesc:
     "Promosyon plastik kalem PLS-110, telefon tutucu özelliği ve canlı renk seçenekleri ile öne çıkan kullanışlı bir promosyon kalem modelidir. Logo baskılı toplu sipariş seçenekleri ile fuarlar, etkinlikler ve kurumsal tanıtımlar için ideal bir tercihtir.",
@@ -16229,7 +16470,7 @@ Promosyon plastik kalem PLS-110, telefon tutucu özelliği ile markanızı kulla
   title: "Promosyon Plastik Kalem PLS-115 | Telefon Standlı Logo Baskılı Promosyon Kalem",
   price: 8.8,
   category: "Kalem",
-  image: "/products/promosyon-plastik-kalem-pls-115.jpg",
+  image: "/products/promosyon-plastik-kalem-pls-115-bati-62ddf22e14.jpg",
 
   shortDesc:
     "Promosyon plastik kalem PLS-115 modeli telefon standı özelliği, çevirmeli mekanizması ve logo baskıya uygun yüzeyi ile kurumsal promosyon kalem çeşitleri arasında tercih edilen kullanışlı promosyon ürünlerinden biridir.",
@@ -17815,8 +18056,10 @@ Promosyon plastik kalem PLS-230, özgün klips tasarımı ve renk seçenekleri i
   title: "Promosyon Plastik Kalem PLS-240 | Logo Baskılı Promosyon Kalem",
   price: 9.6,
   category: "Kalem",
-  image: "/products/promosyon-plastik-kalem-pls-240.jpg",
-  gallery: ["/products/promosyon-plastik-kalem-pls-240.jpg"],
+  image: "/products/promosyon-plastik-kalem-pls-240-bati-cd8d24fd7b.jpg",
+  gallery: [
+  "/products/promosyon-plastik-kalem-pls-240-bati-cd8d24fd7b.jpg"
+],
 
   shortDesc:
     "Promosyon plastik kalem PLS-240, uzun gövde yapısı ve dikkat çekici renk seçenekleri ile öne çıkan kullanışlı bir promosyon kalem modelidir. Logo baskıya uygun yüzeyi sayesinde kurumsal promosyon kalem çalışmalarında markanızı etkili şekilde tanıtmanıza yardımcı olur.",
@@ -21719,7 +21962,7 @@ Promosyon anahtarlık AN-340, açacak fonksiyonu, dayanıklı metal yapısı ve 
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-120-v2.jpg",
+  image: "/products/promosyon-organizer-org-120-bati-ad6e295432.jpg",
 
   shortDesc: "Promosyon organizer ORG-120; termo deri kapağı, 352 sayfalık iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. metal toka ile sunulur. Gofre, Lazer baskı seçenekleri bulunur.",
 
@@ -21785,7 +22028,7 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-130.jpg",
+  image: "/products/promosyon-organizer-org-130-bati-dc396564cf.jpg",
 
   shortDesc: "Promosyon organizer ORG-130; termo deri kapağı, 352 sayfalık iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. metal toka ile sunulur. Gofre, Lazer, Dijital baskı seçenekleri bulunur.",
 
@@ -21852,7 +22095,7 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-140-v2.jpg",
+  image: "/products/promosyon-organizer-org-140-bati-41615c3ad8.jpg",
 
   shortDesc: "Promosyon organizer ORG-140; termo deri kapağı, 336 sayfalık çizgili iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. Hesap makinesi ve kurumsal kapak tasarımı ile sunulur. Lazer, Gofre baskı seçenekleri bulunur.",
 
@@ -21922,7 +22165,7 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-150-v2.jpg",
+  image: "/products/promosyon-organizer-org-150-bati-1ddf7fe177.jpg",
 
   shortDesc: "Promosyon organizer ORG-150; termo deri kapağı, 352 sayfalık iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. Hesap makinesi ve metal toka ile sunulur. Gofre, Lazer, Dijital baskı seçenekleri bulunur.",
 
@@ -26875,7 +27118,7 @@ Promosyon powerbank 20.000 mAh PB-300 modeli; yüksek kapasitesi, güvenli şarj
 
   title: "Promosyon Powerbank 10.000 mAh PB-310 | Logo Baskılı İnce Tasarım Powerbank",
 
-  price: 550,
+  price: 570,
 
   category: "Powerbank",
 
@@ -34772,12 +35015,16 @@ Promosyon tarihsiz defter TD-250, kareli iç sayfa yapısı, kaliteli termo deri
   ],
 },
 {
+"price": 340,
+
   id: "p483",
   slug: "promosyon-tarihsiz-defter-td-260",
   category: "Tarihsiz Defter",
   title: "Promosyon Tarihsiz Defter TD-260 | Metal Tokalı Termo Deri",
-  image: "/products/promosyon-tarihsiz-defter-td-260-v2.jpg",
-  gallery: ["/products/promosyon-tarihsiz-defter-td-260-v2.jpg"],
+  image: "/products/promosyon-tarihsiz-defter-td-260-bati-46a5c347d6.jpg",
+  gallery: [
+  "/products/promosyon-tarihsiz-defter-td-260-bati-46a5c347d6.jpg"
+],
   shortDesc: "Promosyon tarihsiz defter TD-260; metal tokası, termo deri kapağı ve 224 çizgili sayfasıyla sunulur. Gofre, UV veya lazer logo uygulamalı toplu sipariş için teklif alın.",
   longDesc: "Metal Tokalı Termo Deri Promosyon Defter TD-260\n\nTD-260, kapak üzerindeki damar desenli görünümü metal toka detayıyla bir araya getirir. Renkli sayfa kenarları tasarımı tamamlar. Tarihsiz iç yapısı sayesinde belirli bir takvim yılına bağlı kalmadan toplantı notları, görüşme kayıtları ve günlük iş takibi için kullanılabilir.\n\nKAPAK VE İÇ SAYFA ÖZELLİKLERİ\nTermo deri kapaklı modelde metal tokalı kapama detayı ve karton kılıf bulunur. İç bölüm, 80 gram krem kâğıttan oluşan 224 çizgili sayfaya sahiptir. Çizgili düzen; müşteri taleplerini, toplantı kararlarını ve yapılacak işleri başlıklar altında kaydetmek için uygundur. Kapaktaki desenli görünüm, ürünün gerçek ahşaptan üretildiği anlamına gelmez.\n\nKURUMSAL LOGO UYGULAMASI\nTD-260 için gofre, UV ve lazer uygulamaları belirtilmektedir. Firma logosunun kapakta veya uygun görülen uygulama yüzeyinde nasıl kullanılacağı, tasarım dosyası incelenerek belirlenir. Baskı alanı, logo yerleşimi ve yöntem sipariş öncesinde netleştirilir.\n\nHANGİ MESLEK GRUPLARI İÇİN UYGUN?\n• Gayrimenkul danışmanları: Portföy görüşmelerini ve müşteri beklentilerini not almak için\n• Mali müşavirler ve işletme danışmanları: Görüşme gündemlerini ve takip edilecek işleri kaydetmek için\n• Satış yöneticileri ve bayi temsilcileri: Ziyaret notlarını ve sipariş taleplerini düzenlemek için\n• İnsan kaynakları uzmanları: Görüşme ve eğitim notlarını tutmak için\n• Otel ve etkinlik yöneticileri: Organizasyon hazırlıklarını ve hizmet ayrıntılarını takip etmek için\n\nHEDİYE VE TANITIM ÇALIŞMALARINDA KULLANIM\nMetal tokalı tasarımıyla TD-260; müşteri ziyaretlerinde, bayi toplantılarında ve çalışan hediye paketlerinde değerlendirilebilir. Karton kılıfı, ürün sunumunun bir parçasıdır. Özel kutu veya ek aksesuar isteniyorsa paket içeriği ayrıca planlanabilir.\n\nTEKNİK BİLGİLER\n• Model: TD-260\n• Ürün türü: Tarihsiz defter\n• Kapak: Termo deri\n• Kapama detayı: Metal toka\n• Karton kılıf: Var\n• Sayfa kenarları: Renkli\n• İç sayfa düzeni: Çizgili\n• Sayfa sayısı: 224\n• Kâğıt: 80 gram krem\n• Logo uygulamaları: Gofre / UV / Lazer\n• Koli içi adet: 40\n• Renk seçenekleri: Yeşil, taba, füme, lacivert ve kırmızı\n• Kesin ürün ölçüsü sipariş öncesinde teyit edilir\n\nFİYAT VE SİPARİŞ BİLGİSİ\nGüncel ürün fiyatı için teklif alın. İstenen adet, tercih edilen renk ve logo dosyası üzerinden uygulama ve teslimat ayrıntıları değerlendirilir. Koli içi adet bilgisi minimum sipariş miktarı anlamına gelmez.",
   faq: [{"q":"TD-260 defterin kapağı ahşap mı?","a":"Hayır. Ürün termo deri kapaklıdır; kapakta damar desenli bir görünüm bulunur."},{"q":"Defterin iç sayfa özellikleri nelerdir?","a":"İç bölümde 224 çizgili sayfa ve 80 gram krem kâğıt bulunur."},{"q":"Metal toka ve karton kılıf bulunuyor mu?","a":"Evet. TD-260 metal tokalı kapama detayına ve karton kılıfa sahiptir."},{"q":"Hangi logo uygulamaları yapılabilir?","a":"Gofre, UV ve lazer seçenekleri bulunur. Uygulama alanı ve yöntem logo tasarımı değerlendirilerek belirlenir."},{"q":"TD-260 için fiyat nasıl alınır?","a":"Sipariş adedi, tercih edilen renk ve logo dosyanızı paylaşarak güncel teklif alabilirsiniz. Ürün ölçüsü ve teslimat ayrıntıları sipariş öncesinde teyit edilir."}]
@@ -41411,7 +41658,7 @@ Promosyon ahşap roller kalem KS-335 modeli; doğal bambu gövdesi, özel ahşap
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-160-v2.jpg",
+  image: "/products/promosyon-organizer-org-160-termodei-hesap-makinali-bati-f723904e32.jpg",
 
   shortDesc: "Promosyon organizer ORG-160; termo deri kapağı, 336 sayfalık çizgili iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. Hesap makinesi ve kurumsal kapak tasarımı ile sunulur. Lazer, Gofre baskı seçenekleri bulunur.",
 
@@ -41482,7 +41729,7 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-170-v2.jpg",
+  image: "/products/promosyon-organizer-org-170-manyetik-kilitli-termodei-bati-e1c54c3a0e.jpg",
 
   shortDesc: "Promosyon organizer ORG-170; termo deri kapağı, 352 sayfalık çizgili iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. Hesap makinesi ve kurumsal kapak tasarımı ile sunulur. Gofre, Lazer baskı seçenekleri bulunur.",
 
@@ -41553,7 +41800,7 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-180-v2.jpg",
+  image: "/products/promosyon-organizer-org-180-termodei-hesap-makineli-bati-ad3c6ad1b1.jpg",
 
   shortDesc: "Promosyon organizer ORG-180; termo deri kapağı, 352 sayfalık iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. Hesap makinesi ve metal toka ile sunulur. Lazer, Gofre baskı seçenekleri bulunur.",
 
@@ -41623,7 +41870,7 @@ Toplu sipariş teklifi için ürün kodunu, adedi, tercih ettiğiniz rengi ve lo
 
   category: "Organizerler",
 
-  image: "/products/promosyon-organizer-org-190-v2.jpg",
+  image: "/products/promosyon-organizer-org-190-termodei-hesap-makineli-bati-3c987773f3.jpg",
 
   shortDesc: "Promosyon organizer ORG-190; termo deri kapağı, 352 sayfalık iç bloğu ve 70 gr krem kağıdıyla toplantı ve ofis notları için kullanılabilir. Hesap makinesi ve metal toka ile sunulur. Gofre, Lazer, Dijital baskı seçenekleri bulunur.",
 
@@ -44132,6 +44379,8 @@ Marka prestij artırma çalışmaları
   faq: [{"q":"VIP-520 kutusunun ölçüleri nedir?","a":"Dış ölçü: 20 x 15 x 3,5 cm."},{"q":"VIP-520 fiyatına hediye ürünleri dahil midir?","a":"Hayır. Bu kayıt set kutusuna aittir. İçine yerleştirilecek hediye ürünleri ayrıca seçilir ve fiyatlandırılır."},{"q":"VIP-520 kutusunda sünger veya dolgu malzemesi bulunur mu?","a":"İç sünger, kırpık kağıt ve diğer dolgu malzemelerinin dahil olup olmadığı sipariş öncesinde teyit edilir."},{"q":"VIP-520 kutusuna hangi logo baskıları uygulanabilir?","a":"Kutu yüzeyine uygun baskı yöntemi, alanı ve bedeli logo tasarımına göre teklif aşamasında teyit edilir."},{"q":"VIP-520 kutusuyla özel hediye seti hazırlanabilir mi?","a":"Evet. İstenen ürünlerin kutuya uygunluğu, yerleşimi, dolgu gereksinimi ve toplam maliyeti teklif aşamasında değerlendirilir."},{"q":"VIP-520 için toplu sipariş nasıl verilir?","a":"Sipariş için ürün kodunu, adedi, renk tercihinizi ve logo dosyanızı iletebilirsiniz. Güncel stok, minimum sipariş adedi, baskı bedeli ve teslim süresi teklif aşamasında netleştirilir."}]
 },
 {
+"price": 130,
+
   id: "p656",
 
   slug: "promosyon-fosforlu-kalem-fk-550-5li-set-renkli",

@@ -2,41 +2,25 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import ProductSearchBox from "./components/ProductSearchBox";
+import type { SearchProduct } from "./components/productSearch";
 
-export default function HomeSearch() {
-  const [search, setSearch] = useState("");
+export default function HomeSearch({ products }: { products: SearchProduct[] }) {
+  const [query, setQuery] = useState("");
   const router = useRouter();
-
-  function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
-    e.preventDefault();
-
-    const q = search.trim();
-    if (!q) return;
-
-    router.push(`/urunler?q=${encodeURIComponent(q)}`);
-  }
-
   return (
-    <form
-      onSubmit={handleSubmit}
-      role="search"
-      aria-label="Ürün arama"
-      className="mt-3 flex w-full max-w-xl flex-col gap-2 sm:flex-row"
-    >
-      <input
-        type="search"
-        name="q"
-        aria-label="Ürün adı veya kodu"
-        value={search}
-        onChange={(e) => setSearch(e.target.value)}
-        placeholder="Ürün adı veya kodu ara... Örnek: metal kalem, MK-330"
-        className="min-h-12 min-w-0 w-full flex-1 rounded-2xl border border-gray-300 bg-white px-4 py-2.5 text-sm text-gray-900 outline-none transition placeholder:text-gray-500 focus:border-black"
-      />
-
-      <button
-        type="submit"
-        className="inline-flex min-h-12 w-full shrink-0 items-center justify-center whitespace-nowrap rounded-2xl bg-black px-5 py-3 text-sm font-semibold text-white transition hover:bg-gray-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:w-auto"
-      >
+    <form action="/urunler" method="get" role="search"
+      className="mt-3 flex w-full max-w-2xl items-start gap-2"
+      onSubmit={event => {
+        event.preventDefault();
+        router.push(query.trim() ? `/urunler?q=${encodeURIComponent(query.trim())}` : "/urunler");
+      }}>
+      <ProductSearchBox products={products} value={query} onChange={setQuery}
+        id="home-product-search" name="q" theme="light"
+        label="Ürün adı veya koduyla arayın"
+        placeholder="Ürün adı veya kodu ara… Örnek: metal kalem, MK-330" />
+      <button type="submit"
+        className="min-h-12 shrink-0 rounded-2xl bg-black px-4 py-3 text-sm font-bold text-white transition hover:bg-gray-800 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black sm:px-5">
         Ürün Ara
       </button>
     </form>

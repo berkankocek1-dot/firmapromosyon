@@ -483,7 +483,7 @@ export default function Home() {
                 </Link>
               </div>
 
-              <HomeSearch />
+              <HomeSearch products={products.map(({ slug, title, category, image, price }) => ({ slug, title, category, image, ...(typeof price === "number" ? { price } : {}) }))} />
             </div>
           </div>
         </div>

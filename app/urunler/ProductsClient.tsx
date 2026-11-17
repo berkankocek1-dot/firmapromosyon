@@ -1,11 +1,14 @@
 "use client";
 
+import ProductSearchBox from "../components/ProductSearchBox";
+import { matchesProductSearch } from "../components/productSearch";
+
 import { Suspense, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { useSearchParams } from "next/navigation";
 import { sortProductsByCode } from "@/data/productSorting";
-import { categorySubfilters, normalizeText } from "./productFilters";
+import { categorySubfilters } from "./productFilters";
 
 
 type Product = {
@@ -66,7 +69,7 @@ export default function ProductsClient({ products }: { products: Product[] }) {
   );
 
   const availableSubfilters = categorySubfilters[activeCategory] || [];  const filteredProducts = useMemo(() => {
-    const query = normalizeText(search);
+    const query = search;
 
     return sortProductsByCode(products.filter((product) => {
       const matchesCategory =
@@ -76,15 +79,7 @@ export default function ProductsClient({ products }: { products: Product[] }) {
 
       if (!query) return true;
 
-      const title = normalizeText(product.title);
-      const category = normalizeText(product.category);
-      const slug = normalizeText(product.slug);
-
-      return (
-        title.includes(query) ||
-        category.includes(query) ||
-        slug.includes(query)
-      );
+      return matchesProductSearch(product, query);
     }));
   }, [search, activeCategory, activeSubfilter, products]);
 
@@ -108,13 +103,13 @@ export default function ProductsClient({ products }: { products: Product[] }) {
           </label>
 
           <div className="flex flex-col gap-3 sm:flex-row">
-            <input
+            <ProductSearchBox
               id="product-search"
-              type="text"
+              products={products}
               value={search}
-              onChange={(e) => setSearch(e.target.value)}
-              placeholder="Örnek: PY-110, metal kalem, çakmak"
-              className="w-full rounded-2xl border border-white/20 bg-black/30 px-5 py-4 text-white placeholder:text-white/40 outline-none transition focus:border-white/60"
+              onChange={setSearch}
+              theme="dark"
+              placeholder="Örnek: MK-330, metal kalem, çakmak"
             />
 
             <button
