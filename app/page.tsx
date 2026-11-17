@@ -117,19 +117,19 @@ const GUIDES = [
     title: "Promosyon Ürünleri Seçim Rehberi",
     href: "/rehber/promosyon-urunleri-secim-rehberi",
     desc: "Kurumsal kullanım, fuar, etkinlik ve toplu dağıtım için doğru promosyon ürününü nasıl seçebileceğinizi inceleyin.",
-    image: "/guides/promosyon-urunleri-secim-rehberi.jpg",
+    image: "/guides/promosyon-urunleri-secim-rehberi-kapak-v2.jpg",
   },
   {
     title: "Promosyon Kalem Toptan Satın Alma Rehberi",
     href: "/rehber/promosyon-kalem-toptan",
     desc: "Logo baskılı promosyon kalem siparişi verirken dikkat edilmesi gereken detayları öğrenin.",
-    image: "/guides/promosyon-kalem-toptan.jpg",
+    image: "/guides/promosyon-kalem-toptan-kapak-20261115.jpg",
   },
   {
     title: "DTF Baskı Nedir? Nasıl Yapılır?",
     href: "/rehber/dtf-baski-nedir",
     desc: "DTF baskı teknolojisinin ne olduğunu, hangi yüzeylerde kullanıldığını ve avantajlarını keşfedin.",
-    image: "/guides/dtf-baski-nedir.jpg",
+    image: "/guides/dtf-baski-nedir-kapak-20261115.jpg",
   },
 ];
 
@@ -404,6 +404,21 @@ export default function Home() {
 
   return (
     <div className="min-h-screen overflow-x-hidden bg-white text-gray-900">
+      <style>{`
+        /* fp-home-card-hover-start */
+        @media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+          .fp-home-hover-card {
+            position: relative;
+            transition: transform 200ms ease, box-shadow 200ms ease;
+          }
+          .fp-home-hover-card:hover {
+            z-index: 1;
+            transform: translateY(-4px) scale(1.01);
+            box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+          }
+        }
+        /* fp-home-card-hover-end */
+      `}</style>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }}
@@ -518,7 +533,7 @@ export default function Home() {
             <Link
               key={category.slug}
               href={getCategoryHref(category.name)}
-              className="group flex min-w-0 flex-col overflow-hidden bg-white p-2.5 transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:p-4 rounded-2xl border border-black"
+              className="fp-home-hover-card group flex min-w-0 flex-col overflow-hidden bg-white p-2.5 transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:p-4 rounded-2xl border border-black"
             >
               <div className="relative aspect-square w-full overflow-hidden rounded-xl bg-white border-b-0">
                 <Image
@@ -635,7 +650,7 @@ export default function Home() {
                 <Link
                   key={slug}
                   href={`/urunler/${slug}`}
-                  className="group bg-white p-4 transition min-w-0 rounded-2xl border border-black"
+                  className="fp-home-hover-card group bg-white p-4 transition min-w-0 rounded-2xl border border-black"
                 >
                   <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
                     <Image
@@ -766,16 +781,28 @@ export default function Home() {
             <Link
               key={guide.href}
               href={guide.href}
-              className="group rounded-3xl border-2 border-black bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-xl"
+              data-home-guide-cover="true"
+              className="fp-home-hover-card group relative isolate flex min-h-[300px] flex-col overflow-hidden rounded-3xl border-2 border-black bg-gray-950 p-5 shadow-sm focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-black sm:min-h-[320px] sm:p-6"
             >
-              <div className="inline-flex rounded-full bg-gray-100 px-3 py-1 text-xs font-semibold text-gray-700">
-                Rehber
+              <Image
+                src={guide.image}
+                alt=""
+                fill
+                loading="lazy"
+                sizes="(max-width: 767px) 100vw, 33vw"
+                className="pointer-events-none object-cover"
+              />
+              <div aria-hidden="true" className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/95 via-black/65 to-black/25" />
+              <div className="relative z-10 mt-auto">
+                <span className="inline-flex rounded-full border border-white/30 bg-black/40 px-3 py-1 text-xs font-semibold text-white">
+                  Rehber
+                </span>
+                <h3 className="mt-4 text-lg font-extrabold leading-7 text-white">
+                  {guide.title}
+                </h3>
+                <p className="mt-3 text-sm leading-6 text-white">{guide.desc}</p>
+                <div className="mt-4 text-sm font-bold text-white">İncele →</div>
               </div>
-              <div className="mt-4 text-lg font-extrabold text-gray-900">
-                {guide.title}
-              </div>
-              <p className="mt-3 text-sm leading-6 text-gray-700">{guide.desc}</p>
-              <div className="mt-4 text-sm font-semibold text-gray-900">İncele →</div>
             </Link>
           ))}
         </div>
@@ -994,7 +1021,7 @@ function MiniProductCard({ product }: { product: any }) {
   return (
     <Link
       href={`/urunler/${slug}`}
-      className="group bg-white transition min-w-0 rounded-2xl border border-black p-2 sm:p-4"
+      className="fp-home-hover-card group bg-white transition min-w-0 rounded-2xl border border-black p-2 sm:p-4"
     >
       <div className="relative flex aspect-square items-center justify-center overflow-hidden rounded-2xl bg-white">
         <Image
